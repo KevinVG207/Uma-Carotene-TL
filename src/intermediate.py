@@ -427,7 +427,7 @@ def assets_from_intermediate():
 
     convert_lyrics()
     convert_stories()
-    convert_atlas()
+    # convert_atlas()
 
     print("Done")
 

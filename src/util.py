@@ -42,6 +42,10 @@ def load_json(path):
             return json.load(f)
     raise FileNotFoundError(f"Json not found: {path}")
 
+def save_json(path, data):
+    with open(path, "w", encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+
 def download_json(url):
     r = requests.get(url)
     r.raise_for_status()
