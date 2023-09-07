@@ -26,9 +26,9 @@ def import_mdb():
                     f"""UPDATE {table} SET text = ? WHERE category = ? and `index` = ?;""",
                     (entry['text'], category, index)
                 )
-        
+
         conn.commit()
-    
+
     print("Import complete.")
 
 

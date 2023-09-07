@@ -98,6 +98,10 @@ def load_asset_data(row_metadata):
         return
 
     root = unity.load_assetbundle(file_path)
+
+    if not root:
+        return
+
     tree = root.read_typetree()
 
     tl_item = {
@@ -343,6 +347,11 @@ def index_one_lyric(metadata):
     os.makedirs(os.path.dirname(write_path), exist_ok=True)
     
     root = unity.load_assetbundle(file_path)
+
+    if not root:
+        return
+
+
     tree = root.read_typetree()
 
     script = [line.strip() for line in tree['m_Script'].split("\n") if line.strip()]
@@ -419,7 +428,7 @@ def index_lyrics():
         index_one_lyric(metadata)
 
 
-def index_one_atlas(metadata):
+def index_textures_from_assetbundle(metadata):
     row_index = metadata[0]
     file_name = metadata[1]
     hash = metadata[2]
@@ -430,61 +439,93 @@ def index_one_atlas(metadata):
         print(f"\nUser has not downloaded atlas {file_name}. Skipping.")
         return
     
-    root = unity.load_assetbundle(file_path)
+    try:
+        root = unity.load_assetbundle(file_path)
+    except:
+        print(f"\nError loading texture {file_name}. Skipping.")
+        return
 
     # TODO: Split every texture into its sprites, save them individually.
     # Combine them back when creating diff file later.
+
+    textures_list = []
 
     for asset in root.assets_file.objects.values():
         # If Texture2D, extract the image.
         if asset.type.name == "Texture2D":
             image = asset.read()
-            dest = os.path.join(util.ASSETS_FOLDER_EDITING, file_name)
+
+            name = image.name
+            path_id = asset.path_id
+
+            textures_list.append({
+                "name": name,
+                "path_id": path_id
+            })
+
+            dest = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, image.name)
             os.makedirs(os.path.dirname(dest), exist_ok=True)
-            image.image.save(dest + ".png")
-            shutil.copy(dest + ".png", dest + ".org.png")
+            image.image.save(dest + ".org.png")
+            if not os.path.exists(dest + ".png"):
+                shutil.copy(dest + ".org.png", dest + ".png")
 
-            with open(dest + ".json", "w", encoding='utf-8') as f:
-                f.write(json.dumps(
-                    {
-                        "version": version.VERSION,
-                        "row_index": row_index,
-                        "file_name": file_name,
-                        "hash": hash
-                    }, indent=4, ensure_ascii=False
-                ))
-            break
+    if textures_list:
+        with open(dest + ".json", "w", encoding='utf-8') as f:
+            f.write(json.dumps(
+                {
+                    "version": version.VERSION,
+                    "row_index": row_index,
+                    "file_name": file_name,
+                    "hash": hash,
+                    "textures": textures_list,
+                }, indent=4, ensure_ascii=False
+            ))
 
 
-def index_atlas():
+def index_textures():
     """Index all texture atlases.
     """
+    print("=== INDEXING TEXTURES ===")
 
-    print("=== INDEXING ATLAS ===")
+    all_textures = []
+
     with util.MetaConnection() as (_, cursor):
         cursor.execute(
             """SELECT i, n, h FROM a WHERE n like 'atlas/%_tex' ORDER BY n ASC;"""
         )
         rows = cursor.fetchall()
-    
-    if not rows:
-        raise ValueError("No atlas found in meta DB.")
+        all_textures += rows
+
+        cursor.execute(
+            """SELECT i, n, h FROM a WHERE n like 'uianimation/flash/%' ORDER BY n ASC;"""
+        )
+        rows = cursor.fetchall()
+        all_textures += rows
+
+        cursor.execute(
+            """SELECT i, n, h FROM a WHERE n like 'home/ui/texture/%' ORDER BY n ASC;"""
+        )
+        rows = cursor.fetchall()
+        all_textures += rows
+
+    if not all_textures:
+        raise ValueError("No textures found in meta DB.")
     
     # for metadata in rows:
-    #     index_one_atlas(metadata)
+    #     index_textures_from_assetbundle(metadata)
     
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(index_one_atlas, rows, chunksize=6), total=len(rows)))
+        _ = list(tqdm.tqdm(pool.imap_unordered(index_textures_from_assetbundle, all_textures, chunksize=6), total=len(all_textures)))
 
 
 def index_assets():
     print("=== INDEXING ASSETS ===")
     index_lyrics()
     index_story()
-    index_atlas()
+    index_textures()
 
 
 def main():
-    index_atlas()
+    index_textures()
 if __name__ == "__main__":
     main()
