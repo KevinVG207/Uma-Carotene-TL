@@ -19,6 +19,8 @@ MDB_FOLDER_EDITING = INTERMEDIATE_PREFIX + "mdb\\"
 ASSETS_FOLDER = TL_PREFIX + "assets\\"
 ASSETS_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assets\\"
 
+TABLE_BACKUP_PREFIX = "patch_backup_"
+
 class Connection():
     DB_PATH = None
 

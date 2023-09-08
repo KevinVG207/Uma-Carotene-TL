@@ -12,9 +12,9 @@ from PIL import Image, ImageFile
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
-def backup_mdb():
-    print("Backing up MDB...")
-    shutil.copy(util.MDB_PATH, util.MDB_PATH + f".{round(time.time())}")
+# def backup_mdb():
+#     print("Backing up MDB...")
+#     shutil.copy(util.MDB_PATH, util.MDB_PATH + f".{round(time.time())}")
 
 def import_mdb():
     mdb_jsons = glob.glob(util.MDB_FOLDER + "\\**\\*.json")
@@ -24,6 +24,9 @@ def import_mdb():
             path_segments = os.path.normpath(mdb_json).rsplit(".", 1)[0].split(os.sep)
             category = path_segments[-1]
             table = path_segments[-2]
+
+            # Backup the table
+            cursor.execute(f"CREATE TABLE IF NOT EXISTS {util.TABLE_BACKUP_PREFIX}{table} AS SELECT * FROM {table};")
 
             print(f"Importing {table} {category}")
             data = util.load_json(mdb_json)
@@ -35,6 +38,8 @@ def import_mdb():
                     (entry['text'], category, index)
                 )
 
+        conn.commit()
+        cursor.execute("VACUUM;")
         conn.commit()
 
     print("Import complete.")
@@ -130,7 +135,7 @@ def main():
     if not os.path.exists(util.MDB_PATH):
         raise FileNotFoundError(f"MDB not found: {util.MDB_PATH}")
 
-    backup_mdb()
+    # backup_mdb()
 
     import_mdb()
 
