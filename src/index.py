@@ -40,7 +40,7 @@ def index_table(table, keys):
 
 
 def index_mdb():
-    print("=== INDEXING MDB ===")
+    print("=== EXTRACTING MDB ===")
     index = util.load_json("src/index.json")
 
     for table, keys in index.items():
@@ -105,6 +105,7 @@ def load_asset_data(row_metadata):
     tree = root.read_typetree()
 
     tl_item = {
+        "type": "story",
         "version": version.VERSION,
         "row_index": row_index,
         "file_name": file_name,
@@ -278,12 +279,12 @@ def update_story_intermediate(path_to_existing):
         f.write(util.json.dumps(intermediate_data, indent=4, ensure_ascii=False))
 
 def index_story(debug=False):
-    print("=== INDEXING STORY ===")
+    print("=== EXPORTING STORY ===")
     with Pool() as pool:
         # First, apply all current translations to any existing intermediate files.
         existing_jsons = []
-        # existing_jsons += glob.glob(util.ASSETS_FOLDER + "story/**/*.json", recursive=True)
-        # existing_jsons += glob.glob(util.ASSETS_FOLDER + "home/**/*.json", recursive=True)
+        existing_jsons += glob.glob(util.ASSETS_FOLDER + "story/**/*.json", recursive=True)
+        existing_jsons += glob.glob(util.ASSETS_FOLDER + "home/**/*.json", recursive=True)
         existing_jsons += glob.glob(util.ASSETS_FOLDER + "race/**/*.json", recursive=True)
 
         # for i, path in enumerate(existing_jsons):
@@ -399,9 +400,8 @@ def index_one_lyric(metadata):
 
         lyric_list.append(tl_item)
 
-
-
     tl_file = {
+        "type": "lyrics",
         "version": version.VERSION,
         "row_index": row_index,
         "file_name": file_name,
@@ -414,7 +414,7 @@ def index_one_lyric(metadata):
 
 
 def index_lyrics():
-    print("=== INDEXING LYRICS ===")
+    print("=== EXTRACTING LYRICS ===")
     with util.MetaConnection() as (_, cursor):
         cursor.execute(
             """SELECT i, n, h FROM a WHERE n like 'live/%lyrics' ORDER BY n ASC;"""
@@ -438,6 +438,20 @@ def index_textures_from_assetbundle(metadata):
     if not os.path.exists(file_path):
         print(f"\nUser has not downloaded atlas {file_name}. Skipping.")
         return
+    
+    meta_file_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, os.path.basename(file_name) + ".json")
+
+    if os.path.exists(meta_file_path):
+        existing_meta = util.load_json(meta_file_path)
+        if existing_meta['hash'] == hash:
+            # Already indexed and no change in hash.
+            if not 'new' in existing_meta:
+                existing_meta['new'] = True
+            if existing_meta['new']:
+                existing_meta['new'] = False
+                with open(meta_file_path, "w", encoding='utf-8') as f:
+                    f.write(json.dumps(existing_meta, indent=4, ensure_ascii=False))
+            return
     
     try:
         root = unity.load_assetbundle(file_path)
@@ -470,13 +484,15 @@ def index_textures_from_assetbundle(metadata):
                 shutil.copy(dest + ".org.png", dest + ".png")
 
     if textures_list:
-        with open(dest + ".json", "w", encoding='utf-8') as f:
+        with open(meta_file_path, "w", encoding='utf-8') as f:
             f.write(json.dumps(
                 {
+                    "type": "texture",
                     "version": version.VERSION,
                     "row_index": row_index,
                     "file_name": file_name,
                     "hash": hash,
+                    "new": True,
                     "textures": textures_list,
                 }, indent=4, ensure_ascii=False
             ))
@@ -485,7 +501,7 @@ def index_textures_from_assetbundle(metadata):
 def index_textures():
     """Index all texture atlases.
     """
-    print("=== INDEXING TEXTURES ===")
+    print("=== EXTRACTING TEXTURES ===")
 
     all_textures = []
 
@@ -519,7 +535,7 @@ def index_textures():
 
 
 def index_assets():
-    print("=== INDEXING ASSETS ===")
+    print("=== EXTRACTING ASSETS ===")
     index_lyrics()
     index_story()
     index_textures()
@@ -529,3 +545,5 @@ def main():
     index_textures()
 if __name__ == "__main__":
     main()
+
+# TODO: Rename index to extract

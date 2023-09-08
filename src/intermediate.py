@@ -8,11 +8,12 @@ import version
 from multiprocessing import Pool
 import tqdm
 from PIL import Image
-import gzip
 import numpy as np
 import time
-import unity
 import UnityPy
+from itertools import repeat
+import filecmp
+import hashlib
 
 def write_recursive(cur_path, cur_dict, overwrite=False):
     if "hash" not in cur_dict[list(cur_dict.keys())[0]]:
@@ -246,6 +247,10 @@ def mdb_from_intermediate():
 
 def process_asset(path):
     interm_data = util.load_json(path)
+    if not interm_data['type'] == "story":
+        # Skip non-story files
+        return
+
     new_chapter_data = {
         "row_index": interm_data['row_index'],
         "file_name": interm_data['file_name'],
@@ -340,45 +345,155 @@ def convert_lyrics():
             f.write(util.json.dumps(new_data, indent=4, ensure_ascii=False))
 
 
-def test_atlas():
-    edited_path = r"editing\assets\atlas\single\single_tex.png"
-    preprocess_path = r"editing\assets\atlas\single\single_tex.preprocess.png"
-    source_path = r"editing\assets\atlas\single\single_tex.org.png"
 
-    diff_path = r"editing\assets\atlas\single\single_tex.diff"
+def open_edited_file(path):
+    with open(path, "rb") as f:
+        edited_bytes = f.read()
+            
+    # Generate transparency-fix hash
+    hasher = hashlib.sha256()
+    hasher.update(edited_bytes)
+    edited_hash = hasher.digest()
+    return edited_bytes, edited_hash
+
+def _convert_texture(metadata):
+    out_folder = os.path.join(util.ASSETS_FOLDER, metadata['file_name'])
+    exported = []
+    for texture_data in metadata['textures']:
+        tex_path_base = os.path.join(util.ASSETS_FOLDER_EDITING, metadata['file_name'], texture_data['name'])
+        edited_path = tex_path_base + ".png"
+        hash_path = tex_path_base + ".hash"
+        org_path = tex_path_base + ".org.png"
+        diff_path = os.path.join(out_folder, texture_data['name'] + ".diff")
+
+        if filecmp.cmp(edited_path, org_path):
+            continue
+
+        edited_bytes, edited_hash = open_edited_file(edited_path)
+
+        # Check if transparency fix needs to be ran
+        fix_transparency = False
+        if not os.path.exists(hash_path):
+            fix_transparency = True
+        else:
+            with open(hash_path, "rb") as f:
+                hash_bytes = f.read()
+            if edited_hash != hash_bytes:
+                fix_transparency = True
+
+        if fix_transparency:
+            # Fix transparency
+            tmp_path = edited_path + ".tmp.png"
+            util.fix_transparency(edited_path, tmp_path)
+            shutil.move(tmp_path, edited_path)
+
+            edited_bytes, edited_hash = open_edited_file(edited_path)
+
+            with open(hash_path, "wb") as f:
+                f.write(edited_hash)
+
+
+        # Creating diff
+        with open(org_path, "rb") as f:
+            source_bytes = f.read()
+        
+        max_len = max(len(edited_bytes), len(source_bytes))
+
+        edited_bytes += np.random.bytes(max_len - len(edited_bytes))
+        source_bytes = source_bytes.ljust(max_len, b'\x00')
+
+        diff = util.xor_bytes(edited_bytes, source_bytes)
+
+        os.makedirs(os.path.dirname(diff_path), exist_ok=True)
+
+        exported.append(texture_data)
+
+        with open(diff_path, "wb") as f:
+            f.write(diff)
+    
+    if not exported:
+        return
+
+    out_meta = {
+        "type": "texture",
+        "hash": metadata['hash'],
+        "file_name": metadata['file_name'],
+        "textures": exported
+    }
+
+    out_meta_path = os.path.join(out_folder, os.path.basename(out_folder) + ".json")
+
+    os.makedirs(os.path.dirname(out_meta_path), exist_ok=True)
+
+    with open(out_meta_path, "w", encoding="utf-8") as f:
+        f.write(util.json.dumps(out_meta, indent=4, ensure_ascii=False))
+
+
+def convert_textures():
+
+    #1 Fetch all texture jsons
+    #2 Loop over textures in json
+    #3 Fix transparency
+    #4 Save diff
+
+    # For index.py
+    #5 Loop over each assetbundle
+    #6 Check if diffs exist that belong to the assetbundle
+    #7 If the hashes match, apply the diff to the texture in the assetbundle
+    #  If not, check if an org png exists, and apply to that and save a backup
+
+
+    print("=== TEXTURES ===")
+    json_list = glob.glob(util.ASSETS_FOLDER_EDITING + "\\**\\*.json", recursive=True)
+
+    with Pool() as pool:
+        results = list(tqdm.tqdm(pool.imap_unordered(util.test_for_type, zip(json_list, repeat("texture")), chunksize=128), total=len(json_list), desc="Looking for textures"))
+
+        metadata_list = [result[1] for result in results if result[0]]
+
+        _ = list(tqdm.tqdm(pool.imap_unordered(_convert_texture, metadata_list, chunksize=128), total=len(metadata_list), desc="Converting textures"))
+
+
+def test_atlas():
+    # edited_path = r"editing\assets\atlas\single\single_tex.png"
+    # preprocess_path = r"editing\assets\atlas\single\single_tex.preprocess.png"
+    source_path = r"editing\assets\atlas\single\single_tex\Single_tex.org.png"
+
+    # diff_path = r"editing\assets\atlas\single\single_tex.diff"
     new_path = r"editing\assets\atlas\single\single_tex.new.png"
 
 
-    # Pre-processing
-    util.fix_transparency(edited_path, preprocess_path)
+    # # Pre-processing
+    # util.fix_transparency(edited_path, preprocess_path)
 
-    with open(preprocess_path, "rb") as f:
-        edited_bytes = f.read()
 
-    with open(source_path, "rb") as f:
-        source_bytes = f.read()
+    # # Save the diff
+    # with open(preprocess_path, "rb") as f:
+    #     edited_bytes = f.read()
+
+    # with open(source_path, "rb") as f:
+    #     source_bytes = f.read()
     
-    max_len = max(len(edited_bytes), len(source_bytes))
+    # max_len = max(len(edited_bytes), len(source_bytes))
 
-    edited_bytes += np.random.bytes(max_len - len(edited_bytes))
-    source_bytes = source_bytes.ljust(max_len, b'\x00')
+    # edited_bytes += np.random.bytes(max_len - len(edited_bytes))
+    # source_bytes = source_bytes.ljust(max_len, b'\x00')
 
-    diff = util.xor_bytes(edited_bytes, source_bytes)
+    # diff = util.xor_bytes(edited_bytes, source_bytes)
 
-    with open(diff_path, "wb") as f:
-        f.write(diff)
+    # with open(diff_path, "wb") as f:
+    #     f.write(diff)
 
+    diff_path = r"translations\assets\atlas\single\single_tex\Single_tex.diff"
 
-    # =============================================================
-
-
+    # Load the diff and apply it to the source
     with open(diff_path, "rb") as f:
         diff_bytes = f.read()
 
     with open(source_path, "rb") as f:
         source_bytes = f.read()
     
-    max_len = max(len(edited_bytes), len(source_bytes))
+    max_len = max(len(diff_bytes), len(source_bytes))
     
     diff_bytes = diff_bytes.ljust(max_len, b'\x00')
     source_bytes = source_bytes.ljust(max_len, b'\x00')
@@ -390,7 +505,7 @@ def test_atlas():
     
 
     # Replace the asset
-    json_path = r"editing\assets\atlas\single\single_tex.json"
+    json_path = r"translations\assets\atlas\single\single_tex\single_tex.json"
     json_data = util.load_json(json_path)
 
     file_hash = json_data['hash']
@@ -427,12 +542,14 @@ def assets_from_intermediate():
 
     convert_lyrics()
     convert_stories()
-    # convert_atlas()
+    convert_textures()
 
     print("Done")
 
 def main():
-    test_atlas()
+    # test_atlas()
+    # convert_textures()
+    pass
 
 if __name__ == "__main__":
     main()

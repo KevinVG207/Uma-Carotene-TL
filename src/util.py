@@ -54,5 +54,15 @@ def download_json(url):
 def xor_bytes(a, b):
     return (np.frombuffer(a, dtype='uint8') ^ np.frombuffer(b, dtype='uint8')).tobytes()
 
-def fix_transparency(file_path, out_path: None):
+def fix_transparency(file_path, out_path=None):
     os.system(f"transparency-fix.exe {file_path}{f' {out_path}' if out_path else ''}")
+
+def test_for_type(args):
+    path, type = args
+    data = load_json(path)
+    if data.get('type', None) == type:
+        return (True, data)
+    return (False, None)
+
+def get_asset_path(asset_hash):
+    return os.path.join(DATA_PATH, asset_hash[:2], asset_hash)
