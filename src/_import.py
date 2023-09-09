@@ -54,6 +54,30 @@ def clean_asset_backups():
             print(f"Deleting {asset_backup}")
             os.remove(asset_backup)
 
+def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
+    # Read the original texture
+    texture_object = asset_bundle.assets[0].files[path_id]
+    texture_read = texture_object.read()
+    source_bytes_buffer = io.BytesIO()
+    texture_read.image.save(source_bytes_buffer, format="PNG")
+    source_bytes_buffer.seek(0)
+    source_bytes = source_bytes_buffer.read()
+    source_bytes_buffer.close()
+
+    # Read the diff texture
+    with open(diff_path, "rb") as f:
+        diff_bytes = f.read()
+    
+    # Apply the diff
+    max_len = max(len(diff_bytes), len(source_bytes))
+
+    diff_bytes = diff_bytes.ljust(max_len, b'\x00')
+    source_bytes = source_bytes.ljust(max_len, b'\x00')
+
+    new_bytes = util.xor_bytes(diff_bytes, source_bytes)
+
+    return new_bytes, texture_read
+
 def import_assets():
     #1 Find existing .bak files in the game's assets folders.
     #2 If the file that it belongs to no longer exists, delete it.
@@ -91,26 +115,7 @@ def import_assets():
                 path_id = texture_data['path_id']
                 diff_path = os.path.join(util.ASSETS_FOLDER, asset_metadata['file_name'], texture_data['name'] + ".diff")
 
-                # Read the original texture
-                texture_object = asset_bundle.assets[0].files[path_id]
-                texture_read = texture_object.read()
-                source_bytes_buffer = io.BytesIO()
-                texture_read.image.save(source_bytes_buffer, format="PNG")
-                source_bytes_buffer.seek(0)
-                source_bytes = source_bytes_buffer.read()
-                source_bytes_buffer.close()
-
-                # Read the diff texture
-                with open(diff_path, "rb") as f:
-                    diff_bytes = f.read()
-                
-                # Apply the diff
-                max_len = max(len(diff_bytes), len(source_bytes))
-    
-                diff_bytes = diff_bytes.ljust(max_len, b'\x00')
-                source_bytes = source_bytes.ljust(max_len, b'\x00')
-
-                new_bytes = util.xor_bytes(diff_bytes, source_bytes)
+                new_bytes, texture_read = create_new_image_from_path_id(asset_bundle, path_id, diff_path)
 
                 # Create new image
                 new_image_buffer = io.BytesIO()

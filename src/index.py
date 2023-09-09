@@ -11,7 +11,9 @@ import version
 import intermediate
 import json
 import shutil
-from UnityPy.enums.ClassIDType import ClassIDType
+from itertools import repeat
+import UnityPy
+import _import
 
 def add_to_dict(parent_dict, values_list):
     if len(values_list) == 2:
@@ -429,9 +431,8 @@ def index_lyrics():
 
 
 def index_textures_from_assetbundle(metadata):
-    row_index = metadata[0]
-    file_name = metadata[1]
-    hash = metadata[2]
+    file_name = metadata[0]
+    hash = metadata[1]
 
     file_path = os.path.join(util.DATA_PATH, hash[:2], hash)
 
@@ -452,6 +453,11 @@ def index_textures_from_assetbundle(metadata):
                 with open(meta_file_path, "w", encoding='utf-8') as f:
                     f.write(json.dumps(existing_meta, indent=4, ensure_ascii=False))
             return
+        else:
+            # Hash has changed. Create a backup.
+            print(f"\nTexture atlas {file_name} has changed. Creating backup and replacing.", flush=True)
+            for texture in existing_meta['textures']:
+                backup_texture(file_name, texture)
     
     try:
         root = unity.load_assetbundle(file_path)
@@ -489,7 +495,6 @@ def index_textures_from_assetbundle(metadata):
                 {
                     "type": "texture",
                     "version": version.VERSION,
-                    "row_index": row_index,
                     "file_name": file_name,
                     "hash": hash,
                     "new": True,
@@ -497,29 +502,95 @@ def index_textures_from_assetbundle(metadata):
                 }, indent=4, ensure_ascii=False
             ))
 
+def backup_texture(file_name, texture):
+    texture_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, texture['name'] + ".png")
+    org_path = texture_path[:-4] + ".org.png"
+    for path in [texture_path, org_path]:
+        if os.path.exists(path):
+            shutil.move(path, path[:-4] + f".{round(time.time())}.png")
+
+
+def process_existing_texture(metadata):
+    hash = metadata['hash']
+    file_name = metadata['file_name']
+    meta_file_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, os.path.basename(file_name) + ".json")
+    if not os.path.exists(meta_file_path):
+        # This is a new texture. Create a new intermediate file.
+        out_folder = os.path.join(util.ASSETS_FOLDER_EDITING, file_name)
+        os.makedirs(out_folder, exist_ok=True)
+        png_out = os.path.join(out_folder, os.path.basename(file_name) + ".png")
+        org_out = os.path.join(out_folder, os.path.basename(file_name) + ".org.png")
+        hash_out = os.path.join(out_folder, os.path.basename(file_name) + ".hash")
+        asset_bundle = UnityPy.load(util.get_asset_path(hash))
+        for texture in metadata['textures']:
+            path_id = texture['path_id']
+            diff_path = os.path.join(util.ASSETS_FOLDER, file_name, texture['name'] + ".diff")
+            new_bytes, texture_read = _import.create_new_image_from_path_id(asset_bundle, path_id, diff_path)
+            texture_read.image.save(org_out)
+            with open(png_out, "wb") as f:
+                f.write(new_bytes)
+            
+            hasher = hashlib.sha256()
+            hasher.update(new_bytes)
+            with open(hash_out, "wb") as f:
+                f.write(hasher.digest())
+        
+        # Create meta file
+        meta_data = {
+            "type": "texture",
+            "version": version.VERSION,
+            "file_name": file_name,
+            "hash": hash,
+            "new": False,
+            "textures": metadata['textures'],
+        }
+
+        with open(meta_file_path, "w", encoding='utf-8') as f:
+            f.write(json.dumps(meta_data, indent=4, ensure_ascii=False))
+
+    else:
+        # This is an existing texture. Check if the hash has changed.
+        existing_meta = util.load_json(meta_file_path)
+        if existing_meta['hash'] == hash:
+            return
+        # The hash has changed. Create a backup.
+        print(f"\nTexture {file_name} has changed. Creating backup and replacing.", flush=True)
+        for texture in existing_meta['textures']:
+            backup_texture(file_name, texture)
 
 def index_textures():
     """Index all texture atlases.
     """
     print("=== EXTRACTING TEXTURES ===")
 
+    # First, turn already translated textures into intermediate
+    existing_jsons = []
+    existing_jsons += glob.glob(util.ASSETS_FOLDER + "/**/*.json", recursive=True)
+
+    with Pool() as pool:
+        results = list(tqdm.tqdm(pool.imap_unordered(util.test_for_type, zip(existing_jsons, repeat("texture"))), total=len(existing_jsons), desc="Looking for translated textures"))
+
+        results = [result[1] for result in results if result[0]]
+
+        _ = list(tqdm.tqdm(pool.imap_unordered(process_existing_texture, results), total=len(results), desc="Processing existing textures"))
+
     all_textures = []
 
     with util.MetaConnection() as (_, cursor):
         cursor.execute(
-            """SELECT i, n, h FROM a WHERE n like 'atlas/%_tex' ORDER BY n ASC;"""
+            """SELECT n, h FROM a WHERE n like 'atlas/%_tex' ORDER BY n ASC;"""
         )
         rows = cursor.fetchall()
         all_textures += rows
 
         cursor.execute(
-            """SELECT i, n, h FROM a WHERE n like 'uianimation/flash/%' ORDER BY n ASC;"""
+            """SELECT n, h FROM a WHERE n like 'uianimation/flash/%' ORDER BY n ASC;"""
         )
         rows = cursor.fetchall()
         all_textures += rows
 
         cursor.execute(
-            """SELECT i, n, h FROM a WHERE n like 'home/ui/texture/%' ORDER BY n ASC;"""
+            """SELECT n, h FROM a WHERE n like 'home/ui/texture/%' ORDER BY n ASC;"""
         )
         rows = cursor.fetchall()
         all_textures += rows
@@ -531,7 +602,7 @@ def index_textures():
     #     index_textures_from_assetbundle(metadata)
     
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(index_textures_from_assetbundle, all_textures, chunksize=6), total=len(all_textures)))
+        _ = list(tqdm.tqdm(pool.imap_unordered(index_textures_from_assetbundle, all_textures, chunksize=6), total=len(all_textures), desc="Extracting textures"))
 
 
 def index_assets():
