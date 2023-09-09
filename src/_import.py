@@ -130,7 +130,7 @@ def import_assets():
                 new_image_buffer.close()
             
             with open(asset_path, "wb") as f:
-                f.write(asset_bundle.file.save())
+                f.write(asset_bundle.file.save(packer="original"))
 
     #4 Backup the existing assets.
     #5 Replace the assets.
