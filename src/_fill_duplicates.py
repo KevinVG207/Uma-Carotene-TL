@@ -19,7 +19,8 @@ def main():
 
         for entry in entries:
             cur_hash = entry["hash"]
-            if entry["text"] and cur_hash not in hash_dict:
+            if entry["text"] and (cur_hash not in hash_dict or entry["text"] != entry["prev_text"]):
+                # Prioritize changed text over unchanged text
                 hash_dict[cur_hash] = entry["text"]
             
             if cur_hash not in all_dict:
