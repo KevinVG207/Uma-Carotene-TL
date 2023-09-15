@@ -47,7 +47,7 @@ def import_mdb():
 
 def clean_asset_backups():
     asset_backups = glob.glob(util.DATA_PATH + "\\**\\*.bak", recursive=True)
-    print(len(asset_backups))
+    print(f"Amount of backups to revert: {len(asset_backups)}")
     for asset_backup in asset_backups:
         asset_path = asset_backup.rsplit(".", 1)[0]
         if not os.path.exists(asset_path):
