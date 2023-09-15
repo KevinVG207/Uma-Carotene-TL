@@ -60,16 +60,7 @@ def import_category(category, data):
     util.save_json(json_path, json_data)
 
 
-def apply_umapyoi_character_profiles():
-    # Fetch all character IDs
-
-    r = requests.get("https://umapyoi.net/api/v1/character")
-    r.raise_for_status()
-
-    data = r.json()
-
-    chara_ids = [chara["game_id"] for chara in data if chara.get("game_id")]
-
+def apply_umapyoi_character_profiles(chara_ids):
     # Fetch all character data
     print("Fetching character data")
     with Pool(5) as pool:
@@ -93,8 +84,62 @@ def apply_umapyoi_character_profiles():
         import_category(category, data)
 
 
+def fetch_outfits(chara_id):
+    out = []
+    r = requests.get(f"https://umapyoi.net/api/v1/outfit/character/{chara_id}")
+    
+    if not r.ok:
+        return out
+    
+    if r.status_code == 204:
+        # No outfits
+        return out
+    
+    data = r.json()
+
+    for outfit in data:
+        out.append((outfit['id'], outfit['title_en']))
+    
+    return out
+
+
+
+def apply_umapyoi_outfits(chara_ids):
+    # Fetch outfits
+    outfit_data = []
+
+    for chara_id in chara_ids:
+        outfit_data.append(fetch_outfits(chara_id))
+    
+    proper_outfit_list = []
+    for outfit_list in outfit_data:
+        if not outfit_list:
+            continue
+        for outfit in outfit_list:
+            proper_outfit_list.append(outfit)
+    
+    # Update intermediate data
+    import_category(5, proper_outfit_list)
+
+
+
+def get_umapyoi_chara_ids():
+    # Fetch all character IDs
+
+    r = requests.get("https://umapyoi.net/api/v1/character")
+    r.raise_for_status()
+
+    data = r.json()
+
+    chara_ids = [chara["game_id"] for chara in data if chara.get("game_id")]
+
+    return chara_ids
+
+
 def main():
-    apply_umapyoi_character_profiles()
+    umapyoi_chara_ids = get_umapyoi_chara_ids()
+    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    apply_umapyoi_outfits(umapyoi_chara_ids)
 
 if __name__ == "__main__":
     main()
