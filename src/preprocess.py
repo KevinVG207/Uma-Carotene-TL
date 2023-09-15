@@ -2,6 +2,8 @@ from fontTools.ttLib import TTFont
 import util
 import shutil
 import os
+import math
+import re
 
 def prepare_font():
     print("Loading font.")
@@ -24,33 +26,41 @@ def prepare_font():
 
 # Set max width per category
 MAX_WIDTHS = {
-    144: 14000,
+    "text_data/144.json": (14000, None, None),
 }
 
-def fix_newlines(font):
-    """Automatically add newlines to text that is too long.
-    Max width is defined per category.
-    """
-    print("Fixing newlines.")
+def fix_newlines(text, width_data, font):
+    text = text.replace("\r", "").replace("\n", "").replace("\\r", "").replace("\\n", "").strip()
 
-    # Load category data
-    for cat, max_width in MAX_WIDTHS.items():
-        cat_file = util.MDB_FOLDER_EDITING + f"text_data/{cat}.json"
-        if not os.path.exists(cat_file):
-            print(f"Skipping {cat}, file not found.")
-            continue
+    # text = re.sub(r"<.*?>", "", text)
+
+    lines = split_text_into_lines(text, font, width_data)
+    return lines
+
+# def fix_newlines(font):
+#     """Automatically add newlines to text that is too long.
+#     Max width is defined per category.
+#     """
+#     print("Fixing newlines.")
+
+#     # Load category data
+#     for cat, width_data in MAX_WIDTHS.items():
+#         cat_file = util.MDB_FOLDER_EDITING + f"text_data/{cat}.json"
+#         if not os.path.exists(cat_file):
+#             print(f"Skipping {cat}, file not found.")
+#             continue
         
-        cat_data = util.load_json(cat_file)
+#         cat_data = util.load_json(cat_file)
 
-        for entry in cat_data:
-            text = entry["text"].replace("\r", "").replace("\n", "").replace("\\r", "").replace("\\n", "").strip()
-            lines = split_text_into_lines(text, font, max_width)
-            entry["text"] = lines
+#         for entry in cat_data:
+#             entry['text'] = fix_newlines(entry['text'], width_data, font)
         
-        util.save_json(cat_file, cat_data)
+#         util.save_json(cat_file, cat_data)
 
-def split_text_into_lines(text, font, max_width):
+def split_text_into_lines(text, font, width_data):
     """Split text into lines based on max width, using font."""
+    max_width, max_lines, default_size = width_data
+
     lines = []
     cur_line = ""
     for word in text.split(" "):
@@ -67,8 +77,18 @@ def split_text_into_lines(text, font, max_width):
 
     # Add last line
     lines.append(cur_line)
+
+    out = ""
+    # Check if we have too many lines
+    if max_lines and len(lines) > max_lines:
+        # Scale the text down
+        scale_factor = max_lines / len(lines)
+        new_size = math.floor(default_size * scale_factor)
+        out = f"<size={new_size}>" + " \\n".join(lines) + "</size>"
+    else:
+        out = " \\n".join(lines)
     
-    return " \\n".join(lines)
+    return out
 
 def get_text_width(text, ttfont):
     t = ttfont.getBestCmap()
@@ -76,9 +96,22 @@ def get_text_width(text, ttfont):
 
     return sum(s[t[ord(char)]].width for char in text)
 
-def main():
-    font_path = prepare_font()
-    fix_newlines(font_path)
+class Preprocessor:
+    def __init__(self):
+        self.font = prepare_font()
+    
+    def fix(self, text, interm_path):
+        path = interm_path[len(util.MDB_FOLDER_EDITING):].replace("\\", "/")
 
-if __name__ == "__main__":
-    main()
+        if path not in MAX_WIDTHS:
+            return text
+        
+        width_data = MAX_WIDTHS[path]
+        return fix_newlines(text, width_data, self.font)
+
+# def main():
+#     font_path = prepare_font()
+#     fix_newlines(font_path)
+
+# if __name__ == "__main__":
+#     main()
