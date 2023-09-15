@@ -4,7 +4,7 @@ The main purpose of this repository is to host public translations for the Uma M
 
 The project is a work-in-progress and the focus is currently to convert the mdb translations to the new format.
 
-Translations on this repository are made by KevinVG207, but help is welcome.
+Translations on this repository are made by KevinVG207 or taken from [GameTora](https://gametora.com/umamusume) and [Noccu's English Patch](https://github.com/noccu/umamusu-translate). Translation help is welcome!
 
 The *CODE* of this project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license. This means it may be shared and adapted without commercial use. No part of the code of this project may be distributed if a monetary transaction was required before the distribution. (No paywalling.) For more information, see ``LICENSE.md``.
 

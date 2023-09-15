@@ -13,8 +13,6 @@ from multiprocessing.pool import Pool
 import os
 
 def fetch_chara_data(chara_id):
-    print(f"Fetching {chara_id}")
-
     out = (chara_id, {})
     r = requests.get(f"https://umapyoi.net/api/v1/character/{chara_id}")
 
@@ -40,7 +38,7 @@ def fetch_chara_data(chara_id):
     return out
 
 def import_category(category, data):
-    print(f"Importing {category}")
+    print(f"Importing text category {category}")
 
     json_path = util.MDB_FOLDER_EDITING + f"text_data/{category}.json"
 
@@ -73,9 +71,9 @@ def apply_umapyoi_character_profiles():
     chara_ids = [chara["game_id"] for chara in data if chara.get("game_id")]
 
     # Fetch all character data
-    chara_data = []
-    for chara_id in chara_ids:
-        chara_data.append(fetch_chara_data(chara_id))
+    print("Fetching character data")
+    with Pool(5) as pool:
+        chara_data = pool.map(fetch_chara_data, chara_ids)
 
     # Filter out characters with no data
     chara_data = [chara for chara in chara_data if chara[1]]

@@ -4,6 +4,7 @@ charset-normalizer==3.2.0
 colorama==0.4.6
 dictionaries==0.0.2
 etcpak==0.9.8
+fonttools==4.42.1
 fsspec==2023.6.0
 idna==3.4
 lz4==4.3.2
