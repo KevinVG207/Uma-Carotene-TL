@@ -153,6 +153,9 @@ def import_assembly():
     lines = []
 
     for text_id, text_data in jpdict.items():
+        if not text_data['text']:
+            continue
+
         text = text_data['text'].replace("\r", "\\r").replace("\n", "\\n").replace("\"", "\\\"")
         lines.append(f"{text_id}\t{text}")
 

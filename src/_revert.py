@@ -45,9 +45,33 @@ def revert_assets():
             os.remove(asset_backup)
 
 
+def revert_assembly():
+    game_folder = util.config.get("game_folder")
+
+    if not game_folder:
+        print("No game folder specified in config.json. Skipping.")
+        return
+
+    if not os.path.exists(game_folder):
+        print("Game folder from config.json does not exist. Skipping.")
+        return
+
+    translations_path = os.path.join(game_folder, "translations.txt")
+
+    if not os.path.exists(translations_path):
+        print("translations.txt does not exist. Skipping.")
+        return
+    
+    print("Reverting translations.txt")
+    os.remove(translations_path)
+
+
+
+
 def main():
     revert_mdb()
     revert_assets()
+    revert_assembly()
 
 if __name__ == "__main__":
     main()

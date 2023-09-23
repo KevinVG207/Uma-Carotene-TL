@@ -615,18 +615,25 @@ def index_assets():
 def index_game_strings():
     print("=== EXTRACTING GAME STRINGS ===")
 
+    # Load existing translations
+    tl_file = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
+    if not os.path.exists(tl_file):
+        print("Existing JPDict.json not found. Skipping")
+        return
+    
+    tl_data = util.load_json(tl_file)
+
     string_dump_file = os.path.join(util.config['game_folder'], "db_dump.json")
 
     if not os.path.exists(string_dump_file):
         print("db_dump.json not found. Skipping")
+        return
 
-    data = util.load_json(string_dump_file)
+    new_data = util.load_json(string_dump_file)
 
-    # TODO: Detect if strings have been shifted over.
+    new_dict = {}
 
-    out_dict = {}
-
-    for key, value in data.items():
+    for key, value in new_data.items():
         text_id = key
         source_text = value
 
@@ -636,14 +643,35 @@ def index_game_strings():
             "hash": hashlib.sha256(str(source_text).encode("utf-8")).hexdigest()
         }
 
-        out_dict[text_id] = tl_item
-    
+        new_dict[text_id] = tl_item
+
+    org_data_keys = list(tl_data.keys())
+    new_data_keys = list(new_dict.keys())
+    ignore_list = set()
+    combined_dict = {}
+
+    for new_key in new_data_keys:
+        if new_key.endswith("00"):
+            print(new_key)
+        new_data = new_dict[new_key]
+        combined_dict[new_key] = new_data
+
+        for org_key in [org_key for org_key in org_data_keys if org_key not in ignore_list]:
+            org_data = tl_data[org_key]
+
+            if new_data['hash'] == org_data['hash']:
+                ignore_list.add(org_key)
+                org_data['source'] = new_data['source']
+                combined_dict[new_key] = org_data
+                break
+
     out_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "JPDict.json")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    util.save_json(out_path, out_dict)
+    util.save_json(out_path, combined_dict)
 
 def main():
-    index_game_strings()
+    # index_game_strings()
+    pass
 if __name__ == "__main__":
     main()
 

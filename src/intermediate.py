@@ -559,9 +559,6 @@ def assembly_from_intermediate():
     out_dict = {}
 
     for text_id, text_data in jpdict.items():
-        if not text_data['text']:
-            continue
-        
         tl_item = {
             "text": text_data['text'],
             "hash": text_data['hash']
