@@ -612,8 +612,38 @@ def index_assets():
     index_textures()
 
 
+def index_game_strings():
+    print("=== EXTRACTING GAME STRINGS ===")
+
+    string_dump_file = os.path.join(util.config['game_folder'], "db_dump.json")
+
+    if not os.path.exists(string_dump_file):
+        print("db_dump.json not found. Skipping")
+
+    data = util.load_json(string_dump_file)
+
+    # TODO: Detect if strings have been shifted over.
+
+    out_dict = {}
+
+    for key, value in data.items():
+        text_id = key
+        source_text = value
+
+        tl_item = {
+            "text": "",
+            "source": source_text,
+            "hash": hashlib.sha256(str(source_text).encode("utf-8")).hexdigest()
+        }
+
+        out_dict[text_id] = tl_item
+    
+    out_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "JPDict.json")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    util.save_json(out_path, out_dict)
+
 def main():
-    index_textures()
+    index_game_strings()
 if __name__ == "__main__":
     main()
 

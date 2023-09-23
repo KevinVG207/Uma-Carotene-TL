@@ -546,11 +546,38 @@ def assets_from_intermediate():
     convert_stories()
     convert_textures()
 
-    print("Done")
+def assembly_from_intermediate():
+    print("=== CREATING TL FILES FOR ASSEMBLY TEXT ===")
+
+    jpdict_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "JPDict.json")
+    if not os.path.exists(jpdict_path):
+        print("JPDict.json not found, skipping.")
+        return
+
+    jpdict = util.load_json(jpdict_path)
+
+    out_dict = {}
+
+    for text_id, text_data in jpdict.items():
+        if not text_data['text']:
+            continue
+        
+        tl_item = {
+            "text": text_data['text'],
+            "hash": text_data['hash']
+        }
+
+        out_dict[text_id] = tl_item
+    
+    out_path = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    util.save_json(out_path, out_dict)
+
 
 def main():
-    # test_atlas()
-    # convert_textures()
+    assembly_from_intermediate()
+    print("Done")
     pass
 
 if __name__ == "__main__":

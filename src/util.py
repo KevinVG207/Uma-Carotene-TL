@@ -19,6 +19,9 @@ MDB_FOLDER_EDITING = INTERMEDIATE_PREFIX + "mdb\\"
 ASSETS_FOLDER = TL_PREFIX + "assets\\"
 ASSETS_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assets\\"
 
+ASSEMBLY_FOLDER = TL_PREFIX + "assembly\\"
+ASSEMBLY_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assembly\\"
+
 TABLE_BACKUP_PREFIX = "patch_backup_"
 
 class Connection():
@@ -68,3 +71,5 @@ def test_for_type(args):
 
 def get_asset_path(asset_hash):
     return os.path.join(DATA_PATH, asset_hash[:2], asset_hash)
+
+config = load_json("config.json") if os.path.exists("config.json") else load_json("src/config.json")

@@ -1,7 +1,7 @@
 import util
 import os
 import glob
-import time
+import json
 import shutil
 from multiprocessing import Pool
 from itertools import repeat
@@ -79,11 +79,8 @@ def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
     return new_bytes, texture_read
 
 def import_assets():
-    #1 Find existing .bak files in the game's assets folders.
-    #2 If the file that it belongs to no longer exists, delete it.
     clean_asset_backups()
 
-    #3 Find all assets that need to be replaced.
     jsons = glob.glob(util.ASSETS_FOLDER + "\\**\\*.json", recursive=True)
 
     with Pool() as pool:
@@ -132,8 +129,38 @@ def import_assets():
             with open(asset_path, "wb") as f:
                 f.write(asset_bundle.file.save(packer="original"))
 
-    #4 Backup the existing assets.
-    #5 Replace the assets.
+def import_assembly():
+    print("Importing assembly text...")
+
+    jpdict_path = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
+
+    if not os.path.exists(jpdict_path):
+        print(f"JPDict not found: {jpdict_path} - Skipping")
+        return
+
+    jpdict = util.load_json(jpdict_path)
+
+    game_folder = util.config.get("game_folder")
+
+    if not game_folder:
+        raise ValueError("game_folder not set in config.json")
+    
+    if not os.path.exists(game_folder):
+        raise FileNotFoundError(f"Game folder does not exist: {game_folder}")
+    
+    translations_path = os.path.join(game_folder, "translations.txt")
+
+    lines = []
+
+    for text_id, text_data in jpdict.items():
+        text = text_data['text'].replace("\r", "\\r").replace("\n", "\\n").replace("\"", "\\\"")
+        lines.append(f"{text_id}\t{text}")
+
+    with open(translations_path, "w", encoding='utf-8') as f:
+        f.write("\n".join(lines))
+    
+    print(f"Imported {len(lines)} lines to {translations_path}")
+
 
 
 def main():
@@ -146,8 +173,10 @@ def main():
 
     import_assets()
 
+    import_assembly()
+
 def test():
-    import_assets()
+    import_assembly()
 
 if __name__ == "__main__":
-    main()
+    test()
