@@ -76,7 +76,7 @@
         "hash": "4fe91bf8d04a913d494d04ed173137d48b2383bd9965dbff717d4242ea881ac4"
     },
     "20": {
-        "text": "",
+        "text": "Trainer ID",
         "hash": "b373e10f1ee44b7211f9d6531f106a4746c35ca8af8c2ebee198d2580486f464"
     },
     "21": {
@@ -984,7 +984,7 @@
         "hash": "e893292954566325c9c4ef467828c4e83f0786dc06959e0415ff533745b5dcf8"
     },
     "248": {
-        "text": "",
+        "text": "Left: ",
         "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
     },
     "249": {
@@ -1764,7 +1764,7 @@
         "hash": "0414fd1a9117d7054d421b58af4b28e120416f1e6d61922a3ee88e750a3f936a"
     },
     "443": {
-        "text": "",
+        "text": "Bday",
         "hash": "bfe2f4a9525f5ae8fbae167658a93d9fdf89193a7d665e2e68b57cc6dae6f6e9"
     },
     "444": {
@@ -2816,7 +2816,7 @@
         "hash": "b7eebcc051a85bf96039c18c8f64afe5cbb531a09ad997f017e7a300c9746856"
     },
     "706": {
-        "text": "",
+        "text": "Items",
         "hash": "597a80237c94958ee72b3fd641207796a27d401e9ac7b70d6db132e09d63976a"
     },
     "707": {
@@ -3132,7 +3132,7 @@
         "hash": "86cfd16aa98dd44def61977de47091d2ac69d2b004b559cb37b156c7b6e56884"
     },
     "785": {
-        "text": "",
+        "text": "Rental Uma",
         "hash": "bbcf612d1f10f68c5e1021a7467c338dd90d9e58c49b7a3d4d9b5db2c5784068"
     },
     "786": {
@@ -3584,7 +3584,7 @@
         "hash": "7c0c273cfc9891f92a22eb816d1964cc4296835963b3037da85ed78f7bb8667d"
     },
     "898": {
-        "text": "",
+        "text": "Left: ",
         "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
     },
     "899": {
@@ -3872,7 +3872,7 @@
         "hash": "c20b3e99bb06c7ba0bf90b17d00ee41bd195253bf2f54a495a49ef7645315b59"
     },
     "970": {
-        "text": "",
+        "text": "Filter",
         "hash": "90b10e7b23febc877e0af083d82d1e26692f26560a8f60eb46dce04decf5bd1a"
     },
     "971": {
@@ -3880,11 +3880,11 @@
         "hash": "868310e193d1af0b9a0a16b18d5826a5490fe3f9410defa30dc115829fc1db4a"
     },
     "972": {
-        "text": "",
+        "text": "Asc",
         "hash": "f760216f2a6776b3a2b372aae71ab0d2090561bc3a6c8e4f5b9c5be57fd80723"
     },
     "973": {
-        "text": "",
+        "text": "Dsc",
         "hash": "85cf3de6d66f713d3d443c93d0adf3092e686ceab1518722ed78ad86b9af982c"
     },
     "974": {
@@ -4112,7 +4112,7 @@
         "hash": "e01ad11acca2fabd883cf51ad6a0b7a557d3aa142bf5f06261a1b959847647d4"
     },
     "1030": {
-        "text": "",
+        "text": "{0:D2}:{1:D2} left",
         "hash": "8ffd115db5cf233f21420c797c747336c9b68ef9c3a02a0ac45c65c71c8ea9b5"
     },
     "1031": {
@@ -4224,7 +4224,7 @@
         "hash": "4ded19812bde622fadad4f90bc692d20c6a58d33ce497964206ed9239105b9ec"
     },
     "1058": {
-        "text": "Sun",
+        "text": "d",
         "hash": "85217f7aff77841438439fb3e7cf37bb3062fb026453c7692247d3a5641a0115"
     },
     "1059": {
@@ -4420,7 +4420,7 @@
         "hash": "2aa3dbb2a947743868e497394cfd52d3ef915b7029be80f69cb48fa3038ccde6"
     },
     "1107": {
-        "text": "",
+        "text": "{0:D1}:{1:D2}:{2:D2} left",
         "hash": "141019e423fd3e603fd0d80bfebff162e06b9cd62bd94f286650015b0af497f1"
     },
     "1108": {
@@ -4472,7 +4472,7 @@
         "hash": "d905aaef6f30a863fb9cd169a0e223799d7f95447d7cc2da2ee958eb7fcbd256"
     },
     "1120": {
-        "text": "",
+        "text": "Random",
         "hash": "f9b22bbf8fa1f3fd48ada6f4756bd9e2b804e0715f28771d6e715343c28b209d"
     },
     "1121": {
@@ -4508,7 +4508,7 @@
         "hash": "d05ee63b95b9106fd27edbe4ffb66b7b4a318756e1baaa8bf0d0cb1e1bc3b7f0"
     },
     "1129": {
-        "text": "Filters2",
+        "text": "Display Settings",
         "hash": "52cbc155c4ad44fb6b2f3fa3449e60b6b1ae389bc146aab0a10709f5c1d6736d"
     },
     "1130": {
@@ -4560,7 +4560,7 @@
         "hash": "cd7ea841ff4f10600da9afc7160cff884741f61444299cce12588adef1dd5045"
     },
     "1142": {
-        "text": "",
+        "text": "Random",
         "hash": "f9b22bbf8fa1f3fd48ada6f4756bd9e2b804e0715f28771d6e715343c28b209d"
     },
     "1143": {
@@ -4584,7 +4584,7 @@
         "hash": "05a57d249c196603744ff10eb22fe0b94d12804a5bc46c86b0e807ac42c02ecb"
     },
     "1148": {
-        "text": "",
+        "text": "Exp",
         "hash": "e7653c4419dac091c95f56e99793ed0242bed11986c446bbb31012595075b87d"
     },
     "1149": {
@@ -4608,7 +4608,7 @@
         "hash": "b4f65423517be9a5f846fe94535f7aad86e5270c352dbe9a1ed11a0651d94e9f"
     },
     "1154": {
-        "text": "",
+        "text": "Gained {0} Exp",
         "hash": "11424717bbbe0fe31f08a8f7a76fc0dbf7bd7499155c03152ce35a0046f94a5a"
     },
     "1155": {
@@ -4644,7 +4644,7 @@
         "hash": "e7954a2f3acea1ee2a7aa5e09e3a06d880cb9de1258eae353e0196f951674505"
     },
     "1163": {
-        "text": "",
+        "text": "Stats",
         "hash": "f93a86abfcbf162e0cb3e29989295bd136bc36f9e62abe2dbc0346a2ca103723"
     },
     "1164": {
@@ -5112,11 +5112,11 @@
         "hash": "a153f688715a00b81803c3ae95fa86cbc9a9e2bb523ea4664fade6a6fd97a7ac"
     },
     "1280": {
-        "text": "",
+        "text": "<nb>Directory Lv",
         "hash": "e2849dbd352177e109a6b0cab9fa531a59ea129385270c0ab7edacc4283b5eda"
     },
     "1281": {
-        "text": "",
+        "text": "Rental Card",
         "hash": "4b2b661ffd6b881e0c333b570c2a634c60f518229828e17ab106a0bfb6db07c0"
     },
     "1282": {
@@ -6732,7 +6732,7 @@
         "hash": "85391112a76e8a12b5a1341f047fcb27c502edc86f56558c38a1d0795f2fcb86"
     },
     "1685": {
-        "text": "",
+        "text": "Claimed",
         "hash": "21a9ab788321d75f72782ac966ebfd5215124afb1504ba9c99d4cd455735a758"
     },
     "1686": {
@@ -6752,7 +6752,7 @@
         "hash": "fb6466c1da11403031bdfe56ebce3ecc80920148787915d8ff3a5475f633f054"
     },
     "1690": {
-        "text": "",
+        "text": "Giftbox",
         "hash": "d4db811228adab159461942458e400d45af44c6fdd92975ddd427e2b5b81d0b0"
     },
     "1691": {
@@ -6812,7 +6812,7 @@
         "hash": "a299d71697ce4cf73f91aea80aac640c35be2e1bb2cc6125103e9549d3518851"
     },
     "1705": {
-        "text": "",
+        "text": "Unclaimed",
         "hash": "fbf43fa3688ece547e8a2eda9dcd7a7b717166b530835a0a502d2db451ffc9e9"
     },
     "1706": {
@@ -7392,7 +7392,7 @@
         "hash": "b3cd0ed8a60255de0361085a930cd5a0695ac3336ceeb5db2407eaf2ab1a5c2d"
     },
     "1850": {
-        "text": "",
+        "text": "Random",
         "hash": "f9b22bbf8fa1f3fd48ada6f4756bd9e2b804e0715f28771d6e715343c28b209d"
     },
     "1851": {
@@ -7720,15 +7720,15 @@
         "hash": "e19871f598b5be47f86da46899003f060dfaca0a038a06f3246890ec0f8d509a"
     },
     "1932": {
-        "text": "",
+        "text": "M",
         "hash": "2fda6b57c855f91e96046ee82ae284d1c96a96d9092d7f5adae4cf91822268bc"
     },
     "1933": {
-        "text": "",
+        "text": "F",
         "hash": "6a7ffd13b8ffd8d65c191997b7341efd732b82ae6fd6288e12a39ea2378e9ac7"
     },
     "1934": {
-        "text": "",
+        "text": "Random",
         "hash": "f9b22bbf8fa1f3fd48ada6f4756bd9e2b804e0715f28771d6e715343c28b209d"
     },
     "1935": {
@@ -7980,7 +7980,7 @@
         "hash": "92aac03146570a1c6f581cf3d6a51376c73c2b9e8a9d5b0fb95342614152fe1e"
     },
     "1997": {
-        "text": "",
+        "text": "Trainer ID",
         "hash": "b373e10f1ee44b7211f9d6531f106a4746c35ca8af8c2ebee198d2580486f464"
     },
     "1998": {
@@ -8040,11 +8040,11 @@
         "hash": "8f76d997d80d278d24e0bb65f2461383a83059b0a986900133327e5f521ec5c6"
     },
     "2012": {
-        "text": "",
+        "text": "Copy ID",
         "hash": "fe365f9f41fbf19c5e053615ae49ca76b9b4402f7e8744a60dc06a61fd01e81f"
     },
     "2013": {
-        "text": "",
+        "text": "Trainer ID has been copied.",
         "hash": "9d95b4317f834db345db41f4b7b6f4e94a4172c6ccc2545694b1ae3eecba05d9"
     },
     "2014": {
@@ -8052,11 +8052,11 @@
         "hash": "c862fef0cce46049e994363daec2776e2790557e0a16af9287a6c5bb1fd0049d"
     },
     "2015": {
-        "text": "",
+        "text": "Circle",
         "hash": "65b8320be1260a21f295eea149ffe8d0b0274b7b78ee08062ecafa8a03ea5a10"
     },
     "2016": {
-        "text": "",
+        "text": "Message",
         "hash": "6b9190f59aa3a51fcced55744fead599f764c81e4a51d12c2e97af8e7ab31284"
     },
     "2017": {
@@ -8236,7 +8236,7 @@
         "hash": "dec09856114638f223bc337831adea3a854fdf042e0ef589aca77abf8fb2a0d1"
     },
     "2061": {
-        "text": "",
+        "text": "Claimed",
         "hash": "21a9ab788321d75f72782ac966ebfd5215124afb1504ba9c99d4cd455735a758"
     },
     "2062": {
@@ -8400,7 +8400,7 @@
         "hash": "be42a85d65626142a92c28eb175c00dda653716eb02a0847630015e891f3561e"
     },
     "2102": {
-        "text": "",
+        "text": "Directory Lv{0}",
         "hash": "4b56d020eb56b0a5e92ec0f9f02f11b4f6b6a828ca7a03bfd40ca05737eb0a3e"
     },
     "2103": {
@@ -8712,19 +8712,19 @@
         "hash": "68a3e95355e8442467eb2935dcbc10bb45911ce4c4dda3a8628dd3e885525181"
     },
     "2180": {
-        "text": "",
+        "text": "Filters: ON",
         "hash": "31f3ed0e000a0b9ce6ee8aa1e940bf78f395681a0bf880f18586f882132e4974"
     },
     "2181": {
-        "text": "",
+        "text": "Filters: OFF",
         "hash": "b051c702186bab24ce12d0d58eca46e1f31a32c2da389e10e445edf2fefd423a"
     },
     "2182": {
-        "text": "",
+        "text": "Expires",
         "hash": "1802c8fbc5ead96f5694a88793de753fa60cbc1ad19a9e7fd08c8c523faf10c3"
     },
     "2183": {
-        "text": "",
+        "text": "Category",
         "hash": "3e4956bffe0255dfb3d9b6dd88613a0fb1c89084efde40b9258d1589a30570e6"
     },
     "2184": {
@@ -8932,11 +8932,11 @@
         "hash": "0eaaab749f97db696c1e6a49db42fc9023acb821eb41fe52cb40509afc07c9dc"
     },
     "2235": {
-        "text": "",
+        "text": "Reset Filters",
         "hash": "9c106e38de0f2460d08f41477a1fadebcded0237c17328ce650167c215585080"
     },
     "2236": {
-        "text": "",
+        "text": "Support\nCard",
         "hash": "b9771154bd6a6efed5ccdbbe165363ba34211aea414e76f9e315516bbb71ed19"
     },
     "2237": {
@@ -8964,7 +8964,7 @@
         "hash": "9730c15f3c1963a1806fedca35317cb8f44a9d35d83a60fe68e205f41db05527"
     },
     "2243": {
-        "text": "",
+        "text": "Sex",
         "hash": "5f276e7a9b0aedf762671405104a7f72747c14c60801f98e8a9bf699e09b7645"
     },
     "2244": {
@@ -9008,7 +9008,7 @@
         "hash": "738e3772c29089f1ca78f392ed92d7c6cca6494a4234bde8cd3910b7a5da0be8"
     },
     "2254": {
-        "text": "",
+        "text": "Rental Uma",
         "hash": "bbcf612d1f10f68c5e1021a7467c338dd90d9e58c49b7a3d4d9b5db2c5784068"
     },
     "2255": {
@@ -9188,11 +9188,11 @@
         "hash": "7b58bd20d7e94475372ea5e24a8fcceded08a088e0970fa8656198583511083a"
     },
     "2299": {
-        "text": "",
+        "text": "Filters: ON",
         "hash": "24487c1cbcffb0c09d0349532478c86ba1c3678381f5956ea47061bc5f1c40cf"
     },
     "2300": {
-        "text": "",
+        "text": "Filters: OFF",
         "hash": "23b6c8d295549507e2df8b8e426b6ec6cde0adb55d0da3718ebc14df8697a714"
     },
     "2301": {
@@ -9876,7 +9876,7 @@
         "hash": "d3fd0c79a1c09c34beb77f28accf6afb0c8fb83752821bff8689f2c3cdcaf0d3"
     },
     "2471": {
-        "text": "",
+        "text": "Filter",
         "hash": "90b10e7b23febc877e0af083d82d1e26692f26560a8f60eb46dce04decf5bd1a"
     },
     "2472": {
@@ -10968,7 +10968,7 @@
         "hash": "dc244c93f8b8bf74d48d5473b25354900eb8a8c9c9a7471c8c147760c9710839"
     },
     "2744": {
-        "text": "",
+        "text": "Partner ID has been copied.",
         "hash": "2b1ae1f8f6bdf42d6376ed535c676235bb340f7ddaa0e535ba739a3c35411f51"
     },
     "2745": {
@@ -11192,15 +11192,15 @@
         "hash": "ca41f6cdb0cb473f5dbd0df398158328c5f5003ada180aed23130bb1db2a4681"
     },
     "2800": {
-        "text": "",
+        "text": "Claim",
         "hash": "72581708f4a5c9f944f2121956fbfb746fd61b265cb305e76f64a4a968f4a7f8"
     },
     "2801": {
-        "text": "",
+        "text": "Claim All",
         "hash": "1cde92f9e28b248feed83e6a848519954688eec26af246f26d7f6d3328291603"
     },
     "2802": {
-        "text": "",
+        "text": "Gift Log",
         "hash": "3bb4e47aa127227aef0bedc242d324ba67b647c371780fa0d88367d32da5d1fa"
     },
     "2803": {
@@ -11228,7 +11228,7 @@
         "hash": "219cbd3c11c67b32f58912bd0990603904e54f7944f23506e4661f2ec9858d0f"
     },
     "2809": {
-        "text": "",
+        "text": "You received the above gift.",
         "hash": "2030498d78ce4fc6b5046ed2c10f947d98402a61eaa6cf45d47f4baa4ce3162a"
     },
     "2810": {
@@ -11236,7 +11236,7 @@
         "hash": "0e21b6f6acdf708245525caaaf595b33c031c9e46ecabbfaaf3c4f813eb9b4a5"
     },
     "2811": {
-        "text": "",
+        "text": "No gifts to be claimed.",
         "hash": "aa221e1253fd1f5dddc5803b60027f680d12cc1e02136daa5becb1ad61371d96"
     },
     "2812": {
@@ -11248,15 +11248,15 @@
         "hash": "dcc922057c46092ebf0e4ef364c8cfe62ca5a1571bafedbc3a569238393f89da"
     },
     "2814": {
-        "text": "",
+        "text": "Item",
         "hash": "597a80237c94958ee72b3fd641207796a27d401e9ac7b70d6db132e09d63976a"
     },
     "2815": {
-        "text": "",
+        "text": "Yes",
         "hash": "9ddc505a6c2bd85e9ed84e8d4f581e7b44c4042b28e2513e02f5eedece76ff70"
     },
     "2816": {
-        "text": "",
+        "text": "No",
         "hash": "5690db3d46c28d5ed58c97ca296c83cf269abb06b7bc84774fb053b41b35fcb0"
     },
     "2817": {
@@ -11280,7 +11280,7 @@
         "hash": "666819e1782ecb4ddb6967d3f6c94def3e52bf33676a5a3c89e0c0d6b57e2409"
     },
     "2822": {
-        "text": "",
+        "text": "Claimed",
         "hash": "21a9ab788321d75f72782ac966ebfd5215124afb1504ba9c99d4cd455735a758"
     },
     "2823": {
@@ -11304,7 +11304,7 @@
         "hash": "43338e4676063ec057cccced924106ea93b4f80f2de0a31b64648794aa2a01ab"
     },
     "2828": {
-        "text": "",
+        "text": "Claim",
         "hash": "e6a1ce7e4d2d61d19ac8a7df359542889bb43ab656a5c9ebcd38a8f817c8d4bb"
     },
     "2829": {
@@ -11392,7 +11392,7 @@
         "hash": "7a31db1152b2f1ebe42c5bae78b8af0d0eeaedc4c19bc85b67bfcaaf14ed36d0"
     },
     "2850": {
-        "text": "",
+        "text": "Message",
         "hash": "6b9190f59aa3a51fcced55744fead599f764c81e4a51d12c2e97af8e7ab31284"
     },
     "2851": {
@@ -12880,7 +12880,7 @@
         "hash": "d8c0869f231fdf114182bf0f638d46020c7f33474fbecee11c159fb298660337"
     },
     "3222": {
-        "text": "",
+        "text": "Copy",
         "hash": "70f7ae4afacd9b24f204752da2e75f48a120dc133901c3834dde318bb412a514"
     },
     "3223": {
@@ -13056,7 +13056,7 @@
         "hash": "b7b4415d2353c73c1a5bc71e995f927a2b26571e371d766a7633d635d144a81a"
     },
     "3266": {
-        "text": "",
+        "text": "Race ID has been copied.",
         "hash": "f51c1cc949d318d6e06a3387502362f4e25e5ae85197f777e98b809e069448f0"
     },
     "3267": {
@@ -19360,7 +19360,7 @@
         "hash": "62f047def4e20ce91e0934fa5c07331e9e412dfed61206532ce8a8b9aa5ac847"
     },
     "4842": {
-        "text": "",
+        "text": "Claimed",
         "hash": "21a9ab788321d75f72782ac966ebfd5215124afb1504ba9c99d4cd455735a758"
     },
     "4843": {

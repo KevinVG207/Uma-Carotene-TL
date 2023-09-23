@@ -670,7 +670,7 @@ def index_game_strings():
     util.save_json(out_path, combined_dict)
 
 def main():
-    # index_game_strings()
+    index_game_strings()
     pass
 if __name__ == "__main__":
     main()

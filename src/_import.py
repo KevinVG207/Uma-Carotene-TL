@@ -32,6 +32,9 @@ def import_mdb():
             data = util.load_json(mdb_json)
 
             for index, entry in data.items():
+                # Fix for newlines of slogans.
+                if (table, category) == ("text_data", "144"):
+                    entry["text"] = "<slogan>" + entry["text"] 
 
                 cursor.execute(
                     f"""UPDATE {table} SET text = ? WHERE category = ? and `index` = ?;""",
@@ -182,4 +185,4 @@ def test():
     import_assembly()
 
 if __name__ == "__main__":
-    test()
+    main()

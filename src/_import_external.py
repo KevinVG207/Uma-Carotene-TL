@@ -138,7 +138,7 @@ def get_umapyoi_chara_ids():
 
 def main():
     umapyoi_chara_ids = get_umapyoi_chara_ids()
-    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    apply_umapyoi_character_profiles(umapyoi_chara_ids)
     apply_umapyoi_outfits(umapyoi_chara_ids)
 
 if __name__ == "__main__":
