@@ -132,9 +132,8 @@ def import_assets():
             with open(asset_path, "wb") as f:
                 f.write(asset_bundle.file.save(packer="original"))
 
-def import_assembly():
-    print("Importing assembly text...")
 
+def _import_jpdict():
     jpdict_path = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
 
     if not os.path.exists(jpdict_path):
@@ -142,16 +141,6 @@ def import_assembly():
         return
 
     jpdict = util.load_json(jpdict_path)
-
-    game_folder = util.config.get("game_folder")
-
-    if not game_folder:
-        raise ValueError("game_folder not set in config.json")
-    
-    if not os.path.exists(game_folder):
-        raise FileNotFoundError(f"Game folder does not exist: {game_folder}")
-    
-    translations_path = os.path.join(game_folder, "translations.txt")
 
     lines = []
 
@@ -162,11 +151,51 @@ def import_assembly():
         text = text_data['text'].replace("\r", "\\r").replace("\n", "\\n").replace("\"", "\\\"")
         lines.append(f"{text_id}\t{text}")
 
-    with open(translations_path, "w", encoding='utf-8') as f:
+    return lines
+
+
+def _import_hashed():
+    hashed_path = os.path.join(util.ASSEMBLY_FOLDER, "hashed.json")
+
+    if not os.path.exists(hashed_path):
+        print(f"hashed.json not found: {hashed_path} - Skipping")
+        return
+    
+    hashed = util.load_json(hashed_path)
+
+    lines = []
+
+    for text_data in hashed:
+        lines.append(f"{text_data['hash']}\t{text_data['text']}")
+    
+    return lines
+
+
+def import_assembly():
+    print("Importing assembly text...")
+
+    game_folder = util.config.get("game_folder")
+
+    if not game_folder:
+        raise ValueError("game_folder not set in config.json")
+    
+    if not os.path.exists(game_folder):
+        raise FileNotFoundError(f"Game folder does not exist: {game_folder}")
+
+    lines = []
+    lines += _import_jpdict()
+    lines += _import_hashed()
+
+    if not lines:
+        print("No lines to import.")
+        return
+
+    translations_path = os.path.join(game_folder, "translations.txt")
+
+    with open(translations_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     
-    print(f"Imported {len(lines)} lines to {translations_path}")
-
+    print(f"Imported {len(lines)} lines.")
 
 
 def main():
@@ -185,4 +214,4 @@ def test():
     import_assembly()
 
 if __name__ == "__main__":
-    main()
+    test()

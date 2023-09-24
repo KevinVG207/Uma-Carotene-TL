@@ -546,8 +546,8 @@ def assets_from_intermediate():
     convert_stories()
     convert_textures()
 
-def assembly_from_intermediate():
-    print("=== CREATING TL FILES FOR ASSEMBLY TEXT ===")
+def jpdict_from_intermediate():
+    print("=== CREATING JP DICT ===")
 
     jpdict_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "JPDict.json")
     if not os.path.exists(jpdict_path):
@@ -570,6 +570,49 @@ def assembly_from_intermediate():
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
     util.save_json(out_path, out_dict)
+
+def hashed_from_intermediate():
+    print("=== CREATING HASHED STRINGS ===")
+
+    hashed_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "hashed.json")
+    if not os.path.exists(hashed_path):
+        print("hashed.json not found, skipping.")
+        return
+    
+    hashed = util.load_json(hashed_path)
+
+    out_list = []
+
+    for text_data in hashed:
+        if not text_data.get("text"):
+            continue
+        if not text_data.get("hash") and not text_data.get("source"):
+            continue
+
+        cur_hash = text_data.get("hash")
+
+        if not cur_hash:
+            sha265 = hashlib.sha256()
+            sha265.update(text_data['source'].encode('utf-8'))
+            cur_hash = sha265.hexdigest()
+        
+        tl_item = {
+            "text": text_data['text'],
+            "hash": cur_hash
+        }
+
+        out_list.append(tl_item)
+    
+    out_path = os.path.join(util.ASSEMBLY_FOLDER, "hashed.json")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    util.save_json(out_path, out_list)
+
+
+def assembly_from_intermediate():
+    print("=== CREATING TL FILES FOR ASSEMBLY TEXT ===")
+    jpdict_from_intermediate()
+    hashed_from_intermediate()
 
 
 def main():
