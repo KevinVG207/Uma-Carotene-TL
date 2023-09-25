@@ -2532,23 +2532,23 @@
         "hash": "9d74e39d4b8ad0afc45fef283ce52f77fe99c90c1ccbd722c566ce9e0464ff8a"
     },
     "Circle0141": {
-        "text": "",
+        "text": "{0} year(s) ago",
         "hash": "7b40ea13ef8c75f660dd070b68dc0c095ee2f4ed1c96c99c20415b33d96664fe"
     },
     "Circle0142": {
-        "text": "",
+        "text": "{0} day(s) ago",
         "hash": "44af3e0e2e7d57f953d58176d5d8cd7d6171129b1e5fbfbb3591c1200c293d5e"
     },
     "Circle0143": {
-        "text": "",
+        "text": "{0} hour(s) ago",
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Circle0144": {
-        "text": "",
+        "text": "{0} minute(s) ago",
         "hash": "e738489e75091f0a145fe498e1b7833db59ab1562c25b5a4b57eea3289fa2bca"
     },
     "Circle0145": {
-        "text": "",
+        "text": "Just now",
         "hash": "7a65004b72706fa1771f13cf0ec09a92c570c8333fb54ace6c63304fc51215ed"
     },
     "Circle0150": {
@@ -3692,7 +3692,7 @@
         "hash": "531b56646d34285c902725221a91ea6adf1d8079db025777f2e14507ce6a3248"
     },
     "Common0050": {
-        "text": "",
+        "text": "Inquiries",
         "hash": "a6c63435d0bec6c253d8b7415d69c988346040a14e4eea4525e36ac6956d6cd9"
     },
     "Common0053": {
@@ -3796,7 +3796,7 @@
         "hash": "6f3443ca32a16492ca004f31a9b9534dc5ec9e9cf07633b9aa0be2086f8907c7"
     },
     "Common0078": {
-        "text": "Data Link",
+        "text": "Restore Data",
         "hash": "01388f7a9e36fa59f5c5466ced3b771b8e9f82e57c87cbb43e09289720f90c02"
     },
     "Common0079": {
@@ -4028,7 +4028,7 @@
         "hash": "ee8b9863d094d7ebbf7c196c072618cea1702b35ca105efc70f939ab3664e247"
     },
     "Common0141": {
-        "text": "",
+        "text": "Retry",
         "hash": "7fb53c2bee46b1e14ad92028f61054728dcddace5d0fa4050aab3a034eb49516"
     },
     "Common0142": {
@@ -5120,11 +5120,11 @@
         "hash": "4b2b661ffd6b881e0c333b570c2a634c60f518229828e17ab106a0bfb6db07c0"
     },
     "Friend0025": {
-        "text": "",
+        "text": "{0} hour(s) ago",
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Friend0026": {
-        "text": "",
+        "text": "{0} day(s) ago",
         "hash": "44af3e0e2e7d57f953d58176d5d8cd7d6171129b1e5fbfbb3591c1200c293d5e"
     },
     "Friend0031": {
@@ -6928,11 +6928,11 @@
         "hash": "db6df5375cc79f653e01aa67a42e60a6c00f892a7e7ee61db9b89c0fd76a3eef"
     },
     "Home424003": {
-        "text": "",
+        "text": "History",
         "hash": "94b842360f3f9a39e489e10fd8cd347dbd8e117a537d183616934b484c93c91d"
     },
     "Home424004": {
-        "text": "Listen to others'\nUma-Uta requests",
+        "text": "Listen to others' requests",
         "hash": "c31a6f6c6d6aa0ff58df94aa1d109bc0da73e53f77ccdab7d797403f8e8a54c1"
     },
     "Home424005": {
@@ -6940,19 +6940,19 @@
         "hash": "ca4d973c0b006b758c0766235c74abca876c5c7842200234aebb2af0fa69a7c4"
     },
     "Home424006": {
-        "text": "",
+        "text": "Request Song",
         "hash": "c2a65d69f19072395fc922fbc0aac02c9b95ee59dff7f5c80cd22f27c522658b"
     },
     "Home424007": {
-        "text": "",
+        "text": "Short Ver.",
         "hash": "dfc4567379e81d7359c57bb6b37f7e3aa14669ed42ecca0c2335b4839434a12e"
     },
     "Home424008": {
-        "text": "",
+        "text": "Game-Size Ver.",
         "hash": "2e42f0667d8f0fff788878b14a95672abb1e8a2cea05a8b87f3a896af83122be"
     },
     "Home424009": {
-        "text": "",
+        "text": "<nb>BGM Setting",
         "hash": "d50fa21a5718fa6880e10d7d0266beba6b4d43784385953de6abafe24a27a0b1"
     },
     "Home424010": {
@@ -6972,19 +6972,19 @@
         "hash": "dda4394b3928fd2267e9408f56bab9ae1092a363c1547ec7b4998b9a109208bd"
     },
     "Home424014": {
-        "text": "",
+        "text": "Neighce History",
         "hash": "954181a8cdd57644ef67e23020f496e5d2fd4ac7e00232321e9e947da9b25cba"
     },
     "Home424015": {
-        "text": "",
+        "text": "Request History",
         "hash": "848d6f0f984dc601ad3425639eb3ea1eae3dd9174082ee679a5fc9933329fa42"
     },
     "Home424016": {
-        "text": "",
+        "text": "Requested:",
         "hash": "1d4e6ae75c5851cb204d76c70b99a3844b4221d2f3d7b702c0141eb446833dd2"
     },
     "Home424017": {
-        "text": "",
+        "text": "Neighced",
         "hash": "aefe84f4293eef20a7ec4b0611e220d7d4b8f09083d92a6621a59596ff6965cf"
     },
     "Home424018": {
@@ -6992,15 +6992,15 @@
         "hash": "f58f43667060f8b4b11fa609d5866a336ce5b348ac68efd5db145bc5299b32a3"
     },
     "Home424019": {
-        "text": "Replay",
+        "text": "Play",
         "hash": "d25e1490afd4cf2dd634f748556e2d354b6ba72cc5d6176b27cd07716f28b9d6"
     },
     "Home424020": {
-        "text": "",
+        "text": "Trainer {0}",
         "hash": "08ee1cec3c9d2d6433fde1919ba5c22535de09551972f301b483d057d5d19a56"
     },
     "Home424021": {
-        "text": "",
+        "text": "Request a song to be played\non the Uma-Uta jukebox.",
         "hash": "83c71a52837bb65c6c8b77d48f239237e07360c54bfada6a1853d9f388b4851a"
     },
     "Home424022": {
@@ -11292,7 +11292,7 @@
         "hash": "e21e6cb953fc5c3e67088c5748d5c8ff1444e329007b8705042cc2771f77c00c"
     },
     "Present0043": {
-        "text": "",
+        "text": "Amount",
         "hash": "d05c9029c0828e439be5127a44d83b37c04b18e6735a13962e5235e329b6dc6f"
     },
     "Present0044": {
@@ -21392,7 +21392,7 @@
         "hash": "c0ed0afda8a3df5e5156fdf3c415bd996fd0fc94b54087fc78fe35e2f99ad487"
     },
     "Title0026": {
-        "text": "",
+        "text": "Download All Data",
         "hash": "e9024d608c24dd765d2b90fc7bf18e1988ffbe67bb2a3f739e9a96eb686aa23f"
     },
     "Title0027": {
@@ -21420,7 +21420,7 @@
         "hash": "6b0bc0a270f30bd8c2810ee3e768d9bdb9a7bd36778cf49a8c6a0e16cd50c28f"
     },
     "Title0033": {
-        "text": "",
+        "text": "Read the latest news posts about the game.",
         "hash": "9f1ff1fa55999fa8db105ab61efd9e48e5cda5825091c5fb8f88bd3a4b709a73"
     },
     "Title0034": {
@@ -21440,11 +21440,11 @@
         "hash": "3216b84ef4aacb4588c79ef858b679f59bbafac3193e07f2296f20ba7e19fcaf"
     },
     "Title0038": {
-        "text": "",
+        "text": "Download All Data",
         "hash": "e9024d608c24dd765d2b90fc7bf18e1988ffbe67bb2a3f739e9a96eb686aa23f"
     },
     "Title0039": {
-        "text": "",
+        "text": "Download all game data at once.",
         "hash": "a58a4077ab4c041cddc892dfbe8f09f1deac9481745b8673ebf79a0cd70b55e4"
     },
     "Title0040": {
@@ -21540,7 +21540,7 @@
         "hash": "2fce46d5645508bc90fe855dec69bde2ae5b2fca3eef3fb3a386dab5b00f9a5a"
     },
     "Title0067": {
-        "text": "",
+        "text": "Give Feedback",
         "hash": "57c6f3c3afa9c4c27e137de60a5a47fbf1bc73c5a0baee79bc4afa75059e23c1"
     },
     "Title0078": {
@@ -21548,11 +21548,11 @@
         "hash": "c14886be7986444c7b8d8a65b05d272119a59f49e831c859a5d86a2ecf9cfa03"
     },
     "Title0084": {
-        "text": "",
+        "text": "Repairing game data may help with errors.",
         "hash": "2a95340ffc3d1dd100fc9237920bde99c51baf7b51919fc25d34ee3497a88604"
     },
     "Title0085": {
-        "text": "",
+        "text": "Restore an existing account using\nTrainer ID and password.",
         "hash": "896c0a42ab09764b93614939f8468bb4fffafd65175647b8b3b7834e9a27f244"
     },
     "Title0091": {
@@ -21660,7 +21660,7 @@
         "hash": "521d13be5a295ea8b45403df97967876e78507bd7a9cf5d60be5f6f2a62e7574"
     },
     "Title0121": {
-        "text": "",
+        "text": "<nb>About Sharing with Third Parties",
         "hash": "b059808b930c65e3674b7eeba67acb79bf46658011b48104123503d7f006df46"
     },
     "Title0122": {
