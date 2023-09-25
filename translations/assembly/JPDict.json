@@ -1740,7 +1740,7 @@
         "hash": "d9251b856c472b7aa03ce3b80d495c204fcf7fa2c0713856e929a54927771572"
     },
     "Character0013": {
-        "text": "",
+        "text": "VA​",
         "hash": "0f5fed1791e0ff940512ad291bde94d79f4c52cf05a4f3e705588f3207373731"
     },
     "Character0023": {
@@ -3072,7 +3072,7 @@
         "hash": "1571f43eb2c63c05b0023095f1b120e2617469c51c4a0ff87c24c2ccdfd47ed4"
     },
     "Circle0335": {
-        "text": "",
+        "text": "Song List",
         "hash": "8041032c7fa4b94fe3f0fbf09937d362a789a3da960932638e7bfc28adfea8cd"
     },
     "Circle0336": {
@@ -3660,7 +3660,7 @@
         "hash": "a253ff09c5a8678e1fd1962b2c329245e139e45f9cc6ced4e5d7ad42c4108fc0"
     },
     "Common0040": {
-        "text": "Purchase\nJewels",
+        "text": "<nb>Purchase Jewels",
         "hash": "3c3d36f6442a87782267be08828e7550e8ab10d037133e7be56aa951145f3e12"
     },
     "Common0042": {
@@ -3984,7 +3984,7 @@
         "hash": "21eb21206182978aaddaadb499938dd50bb1fa2c6ee20cd7a89bac4766ca8b25"
     },
     "Common0127": {
-        "text": "Level",
+        "text": "Level ",
         "hash": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3"
     },
     "Common0128": {
@@ -4204,7 +4204,7 @@
         "hash": "59b765b614d02bc1e0744b6518117ecd1af3398882d348bb87987d5321bd026f"
     },
     "Common0216": {
-        "text": "Level",
+        "text": "Lv​",
         "hash": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3"
     },
     "Common0228": {
@@ -4320,11 +4320,11 @@
         "hash": "a318c24216defe206feeb73ef5be00033fa9c4a74d0b967f6532a26ca5906d3b"
     },
     "Common0276": {
-        "text": "",
+        "text": "Downloading...",
         "hash": "70319720e2ad4001b11671eebfcc5d25e696b21f0712e88cfd268490898039ea"
     },
     "Common0277": {
-        "text": "",
+        "text": "Ensure a stable connection.",
         "hash": "e752776f06f15538d9499a38f143d802fbd03dcf635ccf067b6a2b4d950f51bd"
     },
     "Common0278": {
@@ -4588,7 +4588,7 @@
         "hash": "e7653c4419dac091c95f56e99793ed0242bed11986c446bbb31012595075b87d"
     },
     "Directory0003": {
-        "text": "",
+        "text": "Until next Lv:",
         "hash": "2b883ed0c24b85b45e852ec659d368acf3f0ec77a37a133b6aaf7eaf50af5e76"
     },
     "Directory0005": {
@@ -6984,7 +6984,7 @@
         "hash": "1d4e6ae75c5851cb204d76c70b99a3844b4221d2f3d7b702c0141eb446833dd2"
     },
     "Home424017": {
-        "text": "Neighced",
+        "text": "Neighced!",
         "hash": "aefe84f4293eef20a7ec4b0611e220d7d4b8f09083d92a6621a59596ff6965cf"
     },
     "Home424018": {
@@ -7004,15 +7004,15 @@
         "hash": "83c71a52837bb65c6c8b77d48f239237e07360c54bfada6a1853d9f388b4851a"
     },
     "Home424022": {
-        "text": "",
+        "text": "You cannot Neighce this song.",
         "hash": "24aaf4fa8c3ac511b8d8f3118fe6de0690b86d2e2e9183ae09896807541fec18"
     },
     "Home424023": {
-        "text": "",
+        "text": "You already Neighced this song.",
         "hash": "451c63ab383adf02b00c356cacabba96fee305fe2a5ecee70525e2d577ea4519"
     },
     "Home483001": {
-        "text": "",
+        "text": "This song cannot be previewed.",
         "hash": "e13cf9277bc83d9136fb4a1eda7d4023285ff0ca976bae04b33ae55847ae3d5a"
     },
     "Home400101": {
@@ -7020,39 +7020,39 @@
         "hash": "32a19291286eb6cc90b98065bd67528d2ccf776602cbf480a23e80f164717353"
     },
     "Home400102": {
-        "text": "",
+        "text": "Choose the setlist you want to play.",
         "hash": "9a664a16d860c59acf3a6b1ead93267917c4415a44e657ec1f908f93a9ed227d"
     },
     "Home400103": {
-        "text": "",
+        "text": "To Song List",
         "hash": "7c7a26d4e1ef41c06afdf120935e8cbc565f05c2c4d58b9842ecd943cbf8912a"
     },
     "Home400104": {
-        "text": "",
+        "text": "Setlist Song List",
         "hash": "a81cb6a0a956d9efc93976cdd9db461cbbf547891605fed1182a0df53dcde790"
     },
     "Home400105": {
-        "text": "",
+        "text": "Play All",
         "hash": "1dff0ba0b3cdea3f21098622efc78230d8a4d98fc05fd27e9fc29ea4342c89ea"
     },
     "Home400106": {
-        "text": "",
+        "text": "Name",
         "hash": "965f74af848d42a266c69f165ebaf1aefd6bc411b1a9d7e703f46bf6cac8f36a"
     },
     "Home400107": {
-        "text": "",
+        "text": "<nb><size=27>No. Songs</size>",
         "hash": "156241cf12529b4dd66b6a491d433eb78ee3bfbed8f345286d28a97527661882"
     },
     "Home400108": {
-        "text": "",
+        "text": "<nb><size=25>Play From Here</size>",
         "hash": "3af70906a04d1b9f183ab474b1117c1ebb25161404ddf854125084aad389ade1"
     },
     "Home400109": {
-        "text": "",
+        "text": "<nb><size=25>Play on Repeat</size>",
         "hash": "be15ac4bfbde92a5c4fd2af9ac04d6e7fc234d2a599531637de4be494feb6b83"
     },
     "Home400110": {
-        "text": "",
+        "text": "Singers",
         "hash": "339fce8071b9147456367f7a65877ba6e8f98645e44b8fad29dc2bc4e5d32576"
     },
     "Home400111": {
@@ -7668,7 +7668,7 @@
         "hash": "25bff58ec7a4252eff4826d1cad611884e6fb3a1e955927f738484492739e5ac"
     },
     "Menu0008": {
-        "text": "Rating History",
+        "text": "<nb>Top Rating",
         "hash": "eceaed5aad9ecf1ef3a1a20e28b957c5ec023c382bc50d640a7b9c5690362024"
     },
     "Menu0009": {
@@ -9436,11 +9436,11 @@
         "hash": "7d5f9028021dae9a4f3c72a4713d1815cfbac95f84273ca9172800a22fb02650"
     },
     "Outgame194010": {
-        "text": "",
+        "text": "Confirm Download",
         "hash": "a3140e67c78112cd37b9a8298e6ac5557b9ba38c115bdd3a80bbda6de2ba2556"
     },
     "Outgame194011": {
-        "text": "",
+        "text": "Downloading all songs of this setlist\nrequires {0:0.00}MB of storage space.",
         "hash": "75a07b5df4ce9c46b943cb138145492eddf0f9e9132fcfd2b93689b5315a2aad"
     },
     "Outgame194012": {
@@ -18164,7 +18164,7 @@
         "hash": "3965adda099b33da1d2bd11e904f551229ebb9f12d4b16f0398c97c3701fa27e"
     },
     "SingleModeScenarioLive0031": {
-        "text": "",
+        "text": "{0}",
         "hash": "632ea9603040508b723bb070ba74e9d5c0670f4e38926f5e4d45f59014b49e0b"
     },
     "SingleModeScenarioLive0032": {
