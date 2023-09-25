@@ -1420,7 +1420,7 @@
         "hash": "6050c0c8fcd2abc7753fc7aae973b477d914de17066f58f1d8cd5ad6a2de34e2"
     },
     "Champions0121": {
-        "text": "",
+        "text": "Group",
         "hash": "22e44df705a2e22a9db90838145dae98b3ae4c11d9258539fcbc5d6945cc8b03"
     },
     "Champions0123": {
@@ -1808,7 +1808,7 @@
         "hash": "ffa691d4b094f13613e072bc1eb4e2b5aa95efee446cb070ffb1acda713e9f75"
     },
     "Character0055": {
-        "text": "",
+        "text": "<nb><size=40>Limit Break</size>",
         "hash": "f480e736c0a4e278608507c2ff001e39ad82254abd5caeca15cb15bff122e299"
     },
     "Character0056": {
@@ -2060,7 +2060,7 @@
         "hash": "d860ae1ced6c7eac38177610d66a71b5d7f3f19edbb85fb50efa077f4db0d279"
     },
     "Character0331": {
-        "text": "",
+        "text": "<nb>Support Effect",
         "hash": "c23ba708df3267aedd6e1e21243f18fb024f030d441bbf9c898cd7d33a449b8a"
     },
     "Character0333": {
@@ -2116,7 +2116,7 @@
         "hash": "98b71d92b6364ea0ab9a2d3f3b3fad00b12dc8a6ea4a05ec470bacaf6ba833d8"
     },
     "Character249001": {
-        "text": "",
+        "text": "Hint Lvl Up",
         "hash": "f305327936944c4a115032f305046e0c6a1729612c77b01ba53f4d2559fd43b0"
     },
     "Character249002": {
@@ -2124,7 +2124,7 @@
         "hash": "f8a628cfc4e05c64195f0d1074252639d69dfb28cfcae9db528cd98e4dc0e915"
     },
     "Character249003": {
-        "text": "",
+        "text": "Hint Lvl",
         "hash": "1751d95956ee96b43e49127c2a4388a0791006ab4ce2ef420c9c583c5747e551"
     },
     "Character249004": {
@@ -3568,7 +3568,7 @@
         "hash": "5b9f6baed61ab32eda1dc229cd25917acdbaeed796719c94df535109af04d283"
     },
     "Common0013": {
-        "text": "",
+        "text": "Use",
         "hash": "12413235d333fe11016da623fa1f439425b42c22b0cb246387bb88ad546d0952"
     },
     "Common0015": {
@@ -3648,7 +3648,7 @@
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Common0036": {
-        "text": "",
+        "text": "ON",
         "hash": "e8a01133b1351e5fa434167135400d1998d3daa8ce74e3dd9bb57582fa4d7b97"
     },
     "Common0037": {
@@ -3832,7 +3832,7 @@
         "hash": "2061a80ccde050aaa2ee0d71698c438bcaa439ed42a72f758590ea02fcec079b"
     },
     "Common0087": {
-        "text": "",
+        "text": "Sort",
         "hash": "1171bbe78a70d64f08e0eadda30f770c8fdda9a137f94ac97a1c80fc7466fc59"
     },
     "Common0088": {
@@ -3892,15 +3892,15 @@
         "hash": "83f0720f9365879c78f8a9b1cb737120ebcb114604a1a294670436d0ea709e38"
     },
     "Common0103": {
-        "text": "",
+        "text": "<size=30>Consumable</size>",
         "hash": "fe1b1e92ea77f55cdcf7faf14d6b80346ef5f59fad2fb38c9e2e2373308f639e"
     },
     "Common0104": {
-        "text": "",
+        "text": "<size=30>For Upgrades</size>",
         "hash": "37326accc350b62438f80c794faa7b51b0eb472ab2405eccecd09b7c3fb0a8f1"
     },
     "Common0105": {
-        "text": "",
+        "text": "Tickets",
         "hash": "cc3f6965e496b7343cbe0f0dd9fb9d9407bbb854f6c4c1cd166fbc4b2378e7de"
     },
     "Common0106": {
@@ -3984,7 +3984,7 @@
         "hash": "21eb21206182978aaddaadb499938dd50bb1fa2c6ee20cd7a89bac4766ca8b25"
     },
     "Common0127": {
-        "text": "",
+        "text": "Level",
         "hash": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3"
     },
     "Common0128": {
@@ -4000,7 +4000,7 @@
         "hash": "23726709e41f765d5b5b3d5fc6d91b9b4557166b094406378a8436996a2ad9ab"
     },
     "Common0134": {
-        "text": "",
+        "text": "<nb>   Decks",
         "hash": "03072807003b674f847a69903dc8f20fccb8f65513a531fca9d8cd154d4df6b5"
     },
     "Common0135": {
@@ -4036,7 +4036,7 @@
         "hash": "9a42572bcc39e31c19194c47f8cc293c43b3396fde7942c3ac41e9055b4b3666"
     },
     "Common0143": {
-        "text": "",
+        "text": "Support Card Storage",
         "hash": "ea9db96887f139424c6b397f9712681cdd00e2ebcaa51860d4ea2054ec938b87"
     },
     "Common0144": {
@@ -4044,7 +4044,7 @@
         "hash": "4161c9007abd1dc3b41e522dbb660e38696a93bce01ad6f1c87bfdb5e7cc3918"
     },
     "Common0145": {
-        "text": "",
+        "text": "Owned",
         "hash": "ec766a3f63014d4a8ef15742ebfdf8209342448fd9bb7ecfdf713e89770e5b80"
     },
     "Common0146": {
@@ -4056,7 +4056,7 @@
         "hash": "01fc1c55333cf931e1833a19812f1821d0a7daaf650e4a04d25707b8976ba2f5"
     },
     "Common0148": {
-        "text": "",
+        "text": "Details",
         "hash": "9652e7b5f69922bdce983e3534b7b370bd965dce40e4f7ec2f39a443eed006d6"
     },
     "Common0149": {
@@ -4076,7 +4076,7 @@
         "hash": "01ad19be23a5945b87dfb8544f7a698921deeb4057f333e2938079f2dc03e5fe"
     },
     "Common0155": {
-        "text": "",
+        "text": "Rarity",
         "hash": "a28c73065c29e906c093c6fbb45c35ff8e8dc305099bbc93d268076ea168a88b"
     },
     "Common0157": {
@@ -4136,11 +4136,11 @@
         "hash": "e020043727ce55bd6b95e0a53c97d4e73d83aa0915bf3503aca08c7a8ccbf45e"
     },
     "Common0186": {
-        "text": "Support Card",
+        "text": "<nb>Support Cards",
         "hash": "a299d71697ce4cf73f91aea80aac640c35be2e1bb2cc6125103e9549d3518851"
     },
     "Common0187": {
-        "text": "",
+        "text": "Upgrade",
         "hash": "417d626f876a17a1a3ff479b2dc83bbf797fb7916263692c90a7f7aa26741e6f"
     },
     "Common0188": {
@@ -4204,7 +4204,7 @@
         "hash": "59b765b614d02bc1e0744b6518117ecd1af3398882d348bb87987d5321bd026f"
     },
     "Common0216": {
-        "text": "",
+        "text": "Level",
         "hash": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3"
     },
     "Common0228": {
@@ -4276,7 +4276,7 @@
         "hash": "43a1a9bb57612eae8652e63f94f8e4ea84da34eb23589bce9818e383d13f0adc"
     },
     "Common0256": {
-        "text": "",
+        "text": "Piece Storage",
         "hash": "2c5e2f8ed3dcb9b14a72bc9cfb39e77f214415100c07c0c5d57bd544f54bde38"
     },
     "Common0260": {
@@ -4664,7 +4664,7 @@
         "hash": "bc4b5e5d8e1bf56490f8e2ad599b3a3d2152169ce5b9f62e1431c216154b60ef"
     },
     "Error0014": {
-        "text": "",
+        "text": "Connection Error",
         "hash": "c19451c61acc1d58635f9765836a2032e5641c53adbc4d2cd0e1e2305ca0c387"
     },
     "Error0015": {
@@ -4680,7 +4680,7 @@
         "hash": "b023c31348ac41f7079fedf0b14f89c3087fedd50c9158b8d64695bcc3e7b6e3"
     },
     "Error0018": {
-        "text": "",
+        "text": "An error occurred while\ncommunicating with the server.",
         "hash": "da6286ac481fb98bb61650817babb47aaba18e22f30b1b78022a3adf26335e74"
     },
     "Error0019": {
@@ -6760,7 +6760,7 @@
         "hash": "951d3322a702ed38d1d23a2ced31ca9d57c4d92e9ab4c6a00b42f6b42ceba6bc"
     },
     "Home0012": {
-        "text": "",
+        "text": "Support Card List",
         "hash": "6bb91814f130a140bc3e2288fcc97532b00902aefc22f19bf797cee4e46cd3bd"
     },
     "Home0013": {
@@ -6780,19 +6780,19 @@
         "hash": "f258c82c7e02a8b6de458ac236fcd39b83014c80df5fc682301771ece92aa696"
     },
     "Home0021": {
-        "text": "",
+        "text": "Awakening",
         "hash": "5891a8386bdbccfa66891a635cb491d278d56265fb482bbaf4400b7fc679f24f"
     },
     "Home0023": {
-        "text": "",
+        "text": "Lvl Up",
         "hash": "f72f96645b79a1a6b23d3ea394e4c147fb601505f8ec538830ea020d52392cd7"
     },
     "Home0024": {
-        "text": "",
+        "text": "Limit Break",
         "hash": "f480e736c0a4e278608507c2ff001e39ad82254abd5caeca15cb15bff122e299"
     },
     "Home0026": {
-        "text": "",
+        "text": "<nb>  Storage",
         "hash": "e4df019f153b3c7808dd095b79973396fbe19db87e3e0f28db92ef9910991b09"
     },
     "Home0028": {
@@ -6812,7 +6812,7 @@
         "hash": "a299d71697ce4cf73f91aea80aac640c35be2e1bb2cc6125103e9549d3518851"
     },
     "Home0032": {
-        "text": "Unclaimed",
+        "text": "<nb>List",
         "hash": "fbf43fa3688ece547e8a2eda9dcd7a7b717166b530835a0a502d2db451ffc9e9"
     },
     "Home0035": {
@@ -6880,7 +6880,7 @@
         "hash": "5badbb57319f39e143557d76769a1aacc48fb1af9c83b7c3cef889d7517d2190"
     },
     "Home0067": {
-        "text": "",
+        "text": "<nb><size=38>Piece Storage</size>",
         "hash": "2c5e2f8ed3dcb9b14a72bc9cfb39e77f214415100c07c0c5d57bd544f54bde38"
     },
     "Home0072": {
@@ -7832,7 +7832,7 @@
         "hash": "3c2a0cf59cd5404e5fca0d371bf5e0e90dfa32aad052191ab078b70f7a555fca"
     },
     "Menu0134": {
-        "text": "Would you like to open your\nbrowser and visit the website?",
+        "text": "Would you like to open your browser\nand visit the website?",
         "hash": "91a6de4a23f41a327b3b313da5b83b8829585c470d6b0dbe1b049e7c1b4ccd53"
     },
     "Menu0135": {
@@ -8012,7 +8012,7 @@
         "hash": "f73f4bdaa25c68edca38d09c03e712066e4048ce45186a624a4d112891a91a8a"
     },
     "Outgame0017": {
-        "text": "",
+        "text": "Obtained",
         "hash": "29696d9a457062e94fe96cf1d2b35cd49183886a8cbd1b799653f631a86abd72"
     },
     "Outgame0025": {
@@ -8156,7 +8156,7 @@
         "hash": "1be61e3dcb9fa553d57198f295640302a887e4de14940e3800f2b003606aefd5"
     },
     "Outgame0084": {
-        "text": "",
+        "text": "Awaken",
         "hash": "c7b5ab3924032c52f4619afbc65309c02c45309e85a39967172bd232ad3bf955"
     },
     "Outgame0087": {
@@ -8188,11 +8188,11 @@
         "hash": "8ffbba8d2cf4adb5c694a1fda7c5c54a63e8d4edd729026a68c7c6e84088201d"
     },
     "Outgame0099": {
-        "text": "",
+        "text": "Upgrade",
         "hash": "417d626f876a17a1a3ff479b2dc83bbf797fb7916263692c90a7f7aa26741e6f"
     },
     "Outgame0100": {
-        "text": "",
+        "text": "Awakening Level",
         "hash": "5891a8386bdbccfa66891a635cb491d278d56265fb482bbaf4400b7fc679f24f"
     },
     "Outgame0106": {
@@ -8316,7 +8316,7 @@
         "hash": "2a6fc9e44aa6e72f3a0aa728be7dc2addc0160cd06e1991398f192205e27ede8"
     },
     "Outgame0195": {
-        "text": "",
+        "text": "Awakening Level",
         "hash": "5891a8386bdbccfa66891a635cb491d278d56265fb482bbaf4400b7fc679f24f"
     },
     "Outgame0199": {
@@ -8416,7 +8416,7 @@
         "hash": "10062741863c571db737e2e1fca4486fafbf538006a67b60a06f974dd5514e00"
     },
     "Outgame0231": {
-        "text": "Umamusume",
+        "text": "<fit>Umamusume",
         "hash": "cc057fd20a5212ea3c5a1d0d3c3f94c5d56623369bda561764bbdad16cb3ac56"
     },
     "Outgame0232": {
@@ -8428,7 +8428,7 @@
         "hash": "6310a7a32eaa7572436c12288fc1560bf579752f07d0ebc44e61c16795b7b183"
     },
     "Outgame0234": {
-        "text": "",
+        "text": "Support Card Decks",
         "hash": "3218b28b0055b888e8210ded086e3dc5256d006f9b42616a1b6a89568ef11dad"
     },
     "Outgame0237": {
@@ -8448,7 +8448,7 @@
         "hash": "ab1f1a89e53ba0786c02599790afe5f76d32e04d6aa5a37ca957a2ff257a26e4"
     },
     "Outgame0243": {
-        "text": "",
+        "text": "Convert",
         "hash": "7ced54a2a62853a3ce54668a1a4443857e718cefd7c012631a0e9a08d5cccb1d"
     },
     "Outgame0244": {
@@ -8760,7 +8760,7 @@
         "hash": "eb22678bd8c7b517527346e433252983c416174f437817794bcc4c66d082eef5"
     },
     "Outgame0327": {
-        "text": "",
+        "text": "Training Type",
         "hash": "50d7056befcb1b2665ceacd93bd3e0c8f58286aa22578d248f00ca54ba75a3f6"
     },
     "Outgame0328": {
@@ -8808,7 +8808,7 @@
         "hash": "29ff6cc5aea3271b4d40dbc9104e6c7bf39bfec6cde5a6b12ec109e8d3e4b79f"
     },
     "Outgame0340": {
-        "text": "",
+        "text": "Other",
         "hash": "2bf82c71b8805cd122e43af7abc8a6e2f8ddbe126672459e8dab03269fa0e30e"
     },
     "Outgame0341": {
@@ -8868,11 +8868,11 @@
         "hash": "2b5dc36ddb63aad42425ba85d80b89026d68644661a2ff34b5f12425841832b2"
     },
     "Outgame0355": {
-        "text": "",
+        "text": "TP Gain",
         "hash": "c2397930c55efcb7c6f1cc692ce625b2c9a136fa903391bbf40c23ae0713fedb"
     },
     "Outgame0356": {
-        "text": "",
+        "text": "RP Gain",
         "hash": "d3178d97792a4f7b1bc58ff8adc25b4eabf178c7f2f2783d7c704cb91875099b"
     },
     "Outgame0357": {
@@ -8928,7 +8928,7 @@
         "hash": "034a257567a8ad69bfde94a02970f68d7db04d5845a4b867378f5af316d3bcbb"
     },
     "Outgame0373": {
-        "text": "",
+        "text": "Skill Requirements",
         "hash": "0eaaab749f97db696c1e6a49db42fc9023acb821eb41fe52cb40509afc07c9dc"
     },
     "Outgame0374": {
@@ -9064,7 +9064,7 @@
         "hash": "a0f3c3ec62fdff399726afe7d28a41c1be40120a9ad464388139cf38cb5fa64f"
     },
     "Outgame0407": {
-        "text": "",
+        "text": "Friend",
         "hash": "797d0fd6e5e3d3dd72820da8c6e428b4ac3b5fbc5cce560360a8e194648a2929"
     },
     "Outgame0409": {
@@ -9160,7 +9160,7 @@
         "hash": "c0aaf0b4607dcb414eab694cbd3f645446aa8e6f316196b6f4bb76fecee26cb3"
     },
     "Outgame0433": {
-        "text": "",
+        "text": "List / Unlock",
         "hash": "0734517417c82193013034b97604cae3e267c22b0a81aa2ba069dfbb25c3be40"
     },
     "Outgame0434": {
@@ -9200,11 +9200,11 @@
         "hash": "8da295fe1acb0e0575537f942b8079ae765844e2f16447d6e5ddae48ff492b4c"
     },
     "Outgame0444": {
-        "text": "",
+        "text": "Breaks Possible",
         "hash": "68e2f04d51794e47734cf650718b5185b528348685c7acaf9a6401d8f6130dae"
     },
     "Outgame0445": {
-        "text": "",
+        "text": "Breaks Possible",
         "hash": "d79669039a9d749324552c25f7bf0b64b965dfb36f91ca2abddab9316f45c70e"
     },
     "Outgame0446": {
@@ -9224,7 +9224,7 @@
         "hash": "2186bd09eaa3097da18ace92e37f7fcba7802b280802ed0d681c7f85ef49aac2"
     },
     "Outgame0450": {
-        "text": "",
+        "text": "Campaign ",
         "hash": "5f451f337f70eb567736a22dc3b746eb891e6d2774d410b1ae5909ad2cd307bf"
     },
     "Outgame0451": {
@@ -9244,7 +9244,7 @@
         "hash": "fed0d0a6126d9d8f59d50723328371c677cd9151543571dd725c9b834539d615"
     },
     "Outgame0455": {
-        "text": "",
+        "text": "Claimed",
         "hash": "15d61985cfe225d42f3a8cf194a436305ba6451fd2b53776e9ea54cc8e9d74d2"
     },
     "Outgame0456": {
@@ -9372,7 +9372,7 @@
         "hash": "e5ec558e9e0448db93dc1d3c348fedc97924657f66dc38920cc42375ccf6002e"
     },
     "Outgame424001": {
-        "text": "",
+        "text": "This item cannot be converted.",
         "hash": "10265933ae48d9c79150a8e3544744617d8d919466b63fd2e8302342461566de"
     },
     "Outgame424002": {
@@ -9396,7 +9396,7 @@
         "hash": "75bc14701424055a5bf57d305a62516a17399699869838554eca302e4df54b0f"
     },
     "Outgame424007": {
-        "text": "",
+        "text": "<nb>Only select upgrade items can be converted.",
         "hash": "6758c6a6c9ccb42528eed2ea6ac644175ee31f7be400b2efb36864d62ad3ff06"
     },
     "Outgame194001": {
@@ -10052,7 +10052,7 @@
         "hash": "79084d1bab0eaf1fa269d88edb92d128ec7b3e98bb45ba9b2599344488ce84d4"
     },
     "Outgame213090": {
-        "text": "",
+        "text": "Owned",
         "hash": "ec766a3f63014d4a8ef15742ebfdf8209342448fd9bb7ecfdf713e89770e5b80"
     },
     "Outgame213091": {
@@ -11212,7 +11212,7 @@
         "hash": "814aa48d7f5df5a7372c6f5a47acbcd88ceca25fdf024ce971715d674e028874"
     },
     "Present0008": {
-        "text": "",
+        "text": "Expired gifts will be <color=#ff911c>automatically removed</color>.\nThe\"Claim All\" button claims up to <color=#ff911c>100 gifts</color> at once.",
         "hash": "cc53bebecfbb7cc165db107aad733228261b57d9bbc5ef79f3b3791b973b2e73"
     },
     "Present0009": {
@@ -13256,7 +13256,7 @@
         "hash": "38bb5858789d9ddef721dcf0973b6d8457042ac5ba9b6a3b74aa86f177d88269"
     },
     "RoomMatch0117": {
-        "text": "",
+        "text": "Details",
         "hash": "9652e7b5f69922bdce983e3534b7b370bd965dce40e4f7ec2f39a443eed006d6"
     },
     "RoomMatch0118": {
