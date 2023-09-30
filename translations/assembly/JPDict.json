@@ -1252,7 +1252,7 @@
         "hash": "b4b2155cb5070ede21f5a0e28dc4cf11f1e575166b0767423011ff7893ce77cd"
     },
     "Champions0079": {
-        "text": "",
+        "text": "Race Events",
         "hash": "00f4b7a7acdaadcdfd159c390bf17a5616a550db25e99922772efd05926a13c5"
     },
     "Champions0080": {
@@ -1760,7 +1760,7 @@
         "hash": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c"
     },
     "Character0032": {
-        "text": "",
+        "text": "<size=28>Unlocked<size>",
         "hash": "0414fd1a9117d7054d421b58af4b28e120416f1e6d61922a3ee88e750a3f936a"
     },
     "Character0035": {
@@ -2112,7 +2112,7 @@
         "hash": "354dde50e9482e2bef18f9c61d8be89dd4be6e8690de4d78612a7908c329aa48"
     },
     "Character420344": {
-        "text": "",
+        "text": "Fragments",
         "hash": "98b71d92b6364ea0ab9a2d3f3b3fad00b12dc8a6ea4a05ec470bacaf6ba833d8"
     },
     "Character249001": {
@@ -2836,15 +2836,15 @@
         "hash": "dff49c52cf13bff4c3dd05c6ecdb3645c8a59048797bcbabe60c350c9f3385e1"
     },
     "Circle0249": {
-        "text": "",
+        "text": "Donation Succeeded",
         "hash": "775d6804ca984ddb63b64127e6f19d59c956f2dfd60ba35356bd61a9aaf16409"
     },
     "Circle0250": {
-        "text": "",
+        "text": "Donation",
         "hash": "609ec155bc894afe8ab11af70baf1097aae11318a30d1d84e22fc8574536858d"
     },
     "Circle0251": {
-        "text": "The above items have been claimed.",
+        "text": "<nb>You have received the following item(s):",
         "hash": "0fa4ea35091c78f10c80e5176a0134f4508496ecb879ff861e093c6bbeb04c91"
     },
     "Circle0252": {
@@ -3692,7 +3692,7 @@
         "hash": "531b56646d34285c902725221a91ea6adf1d8079db025777f2e14507ce6a3248"
     },
     "Common0050": {
-        "text": "Inquiries",
+        "text": "Inquiries (JP ONLY)",
         "hash": "a6c63435d0bec6c253d8b7415d69c988346040a14e4eea4525e36ac6956d6cd9"
     },
     "Common0053": {
@@ -4416,7 +4416,7 @@
         "hash": "f8863c79c18e9e4e48af9209d0e203de34e02da451bb2f67f134864c21f53b65"
     },
     "Common0305": {
-        "text": "",
+        "text": "{0} left",
         "hash": "2aa3dbb2a947743868e497394cfd52d3ef915b7029be80f69cb48fa3038ccde6"
     },
     "Common0306": {
@@ -6772,11 +6772,11 @@
         "hash": "ff56f480fc6347d06391fa647dd01810ce87167b3a65c988ccf5fa315f8232f1"
     },
     "Home0016": {
-        "text": "",
+        "text": "Home Settings",
         "hash": "452818a2f97c50d828b9c7f3c794c07c5b12804518344fb6758b727740863b68"
     },
     "Home0018": {
-        "text": "",
+        "text": "To Home",
         "hash": "f258c82c7e02a8b6de458ac236fcd39b83014c80df5fc682301771ece92aa696"
     },
     "Home0021": {
@@ -6796,7 +6796,7 @@
         "hash": "e4df019f153b3c7808dd095b79973396fbe19db87e3e0f28db92ef9910991b09"
     },
     "Home0028": {
-        "text": "",
+        "text": "Formation",
         "hash": "3a4c44c5be57b0d0b5d35b5993d8a72a48a416a312590f63b9c254a47b12e8ae"
     },
     "Home0029": {
@@ -10768,7 +10768,7 @@
         "hash": "43956281ccc681ce4c1964dc79c2a53226a3c10cea5547975b35d11ca16c0ed2"
     },
     "PracticeRace400102": {
-        "text": "",
+        "text": "Exhibition",
         "hash": "da0a472f3e910b2a1b07aefc333677e0975adc762cc23ad674cc4a3adeef7651"
     },
     "PracticeRace400103": {
@@ -11244,7 +11244,7 @@
         "hash": "219cbd3c11c67b32f58912bd0990603904e54f7944f23506e4661f2ec9858d0f"
     },
     "Present0015": {
-        "text": "You received the above gift.",
+        "text": "You received the above gift(s).",
         "hash": "2030498d78ce4fc6b5046ed2c10f947d98402a61eaa6cf45d47f4baa4ce3162a"
     },
     "Present0016": {
@@ -11324,7 +11324,7 @@
         "hash": "e6a1ce7e4d2d61d19ac8a7df359542889bb43ab656a5c9ebcd38a8f817c8d4bb"
     },
     "Present0047": {
-        "text": "",
+        "text": "Received",
         "hash": "d167d8de793e8a6dd1b57622003968cb135679152ad231f3cc29ae0311164b7e"
     },
     "Present0048": {
@@ -12440,7 +12440,7 @@
         "hash": "26de05480a4e7f0f1f8e919de733aac5d49f6f6add5aafb23358f58ff7831594"
     },
     "Race0583": {
-        "text": "",
+        "text": "<nb>Team Stadium",
         "hash": "a69c1168843b956d865aa983f905859c272a4d48ee5c2ac7fae43addc32c1919"
     },
     "Race0584": {
@@ -14216,7 +14216,7 @@
         "hash": "6942552805551dba026951a48fe992363abfb3866d0275efb9acac95f70f5a07"
     },
     "Shop0129": {
-        "text": "",
+        "text": "Horseshoes",
         "hash": "131bd9f1f9146c3501c8eb335ee1ce63a04326166f3625f49eb27d28dc042279"
     },
     "Shop0130": {
@@ -14344,7 +14344,7 @@
         "hash": "ba31cc542c23f261b8797b5c8c15e2fa492800e113045cc7c3a1dc6d6509528e"
     },
     "Shop420161": {
-        "text": "",
+        "text": "Fragments",
         "hash": "98b71d92b6364ea0ab9a2d3f3b3fad00b12dc8a6ea4a05ec470bacaf6ba833d8"
     },
     "Shop420162": {
@@ -15368,7 +15368,7 @@
         "hash": "032e2ee27d59e162f5e8b2db886bf30abb5d35dec8288cf1f59a0c9f8ec071d1"
     },
     "SingleMode0350": {
-        "text": "",
+        "text": "To Home",
         "hash": "f258c82c7e02a8b6de458ac236fcd39b83014c80df5fc682301771ece92aa696"
     },
     "SingleMode0351": {
@@ -18840,7 +18840,7 @@
         "hash": "4a54bd9676782bcad57c71164a88692deff13949cd2acedd790b1a06eb684f87"
     },
     "SingleModeScenarioTeamRace0093": {
-        "text": "",
+        "text": "Team Formation",
         "hash": "3a4c44c5be57b0d0b5d35b5993d8a72a48a416a312590f63b9c254a47b12e8ae"
     },
     "SingleModeScenarioTeamRace4230094": {
@@ -19384,7 +19384,7 @@
         "hash": "143e706e67b179bcda182d47e6a727910bb5778ac01a05356150554568138628"
     },
     "Story0018": {
-        "text": "",
+        "text": "Uma Stories",
         "hash": "29b73c9cbb33be1fbe8ab38f0b23f069f06f85163b8cfff3d634726ddc0c4ef7"
     },
     "Story0023": {
@@ -19392,7 +19392,7 @@
         "hash": "6ea56fae9eacbb0ebed74bbbe731cf1179b7d41146162fe9b8c26cf0615c2367"
     },
     "Story0024": {
-        "text": "",
+        "text": "Main Story",
         "hash": "83c1e0d5ae51811c7b09010fb6da20e276ee478ea77cb4005b8844c040eb1280"
     },
     "Story0025": {
@@ -19400,7 +19400,7 @@
         "hash": "6ad446059a8bb8d8722e1420110f2784368a2ad5a56384d516c602530e5af256"
     },
     "Story0026": {
-        "text": "",
+        "text": "Uma Stories",
         "hash": "29b73c9cbb33be1fbe8ab38f0b23f069f06f85163b8cfff3d634726ddc0c4ef7"
     },
     "Story0028": {
@@ -19476,7 +19476,7 @@
         "hash": "d1a68b3e708351c9e39f6d48070d69d22b1ccb8f4cfeb9a0ec6dcbd0ae757a0f"
     },
     "Story0056": {
-        "text": "",
+        "text": "Extra",
         "hash": "6798d18851e8b75875639e22f9a7c465d9d72b269a2a7ec0c309b28c992624ea"
     },
     "Story0057": {
@@ -20164,7 +20164,7 @@
         "hash": "5badbb57319f39e143557d76769a1aacc48fb1af9c83b7c3cef889d7517d2190"
     },
     "StoryEvent4080007": {
-        "text": "",
+        "text": "Unlocked",
         "hash": "0414fd1a9117d7054d421b58af4b28e120416f1e6d61922a3ee88e750a3f936a"
     },
     "StoryEvent4080008": {
@@ -20548,7 +20548,7 @@
         "hash": "0c34ef4fde678aca7c9b927d0ac4f45b629f24e2e590fbb0b4e8d57415981beb"
     },
     "TeamBuilding424002": {
-        "text": "",
+        "text": "Team Formation",
         "hash": "3a4c44c5be57b0d0b5d35b5993d8a72a48a416a312590f63b9c254a47b12e8ae"
     },
     "TeamBuilding424003": {
@@ -20640,7 +20640,7 @@
         "hash": "d40fb4da9316d58d28367d0e0665329062df825636abf48154e3a7ff9d6947bf"
     },
     "TeamBuilding424120": {
-        "text": "",
+        "text": "Team Rank",
         "hash": "4dbc0660d0e1fbdcde689bba4c3029ed759b4dedba864952cd6e448342e71ca9"
     },
     "TeamBuilding424121": {
@@ -20984,11 +20984,11 @@
         "hash": "96af0d33e35635fade0d646c8ec54be035375ba533f8da80aa471c4072a32066"
     },
     "TeamStadium0015": {
-        "text": "",
+        "text": "<nb>Auto-Select Team",
         "hash": "14efb97371adfd150ccba739f8fbeed07ac4aabc89996567a6cd18fe2319ab8b"
     },
     "TeamStadium0016": {
-        "text": "",
+        "text": "<nb>Would you like to automatically\nselect team members?",
         "hash": "3c52be6e53d35b91123616f47d2458bf70a9def97bc687e7d756acb4cde74a46"
     },
     "TeamStadium0017": {
@@ -21296,7 +21296,7 @@
         "hash": "dd0b4e5e1b2ebc9d6e4abab4367a8def9846822c0ccb928a357fe18aad3e11c0"
     },
     "TeamStadium352002": {
-        "text": "",
+        "text": "Team Formation",
         "hash": "3a4c44c5be57b0d0b5d35b5993d8a72a48a416a312590f63b9c254a47b12e8ae"
     },
     "TeamStadium352003": {
@@ -21444,7 +21444,7 @@
         "hash": "1650e1c3e33f78ae3397fc6dd60542ded6e56300e364c5c77b39280be0853afa"
     },
     "Title0035": {
-        "text": "",
+        "text": "Contact us about the game.\n*This will open a web browser.",
         "hash": "d7ab0420bf60caa3a0acf296fcdc01bcc8eaaa4c002e2ac286763e4b7179666d"
     },
     "Title0036": {
@@ -21460,7 +21460,7 @@
         "hash": "e9024d608c24dd765d2b90fc7bf18e1988ffbe67bb2a3f739e9a96eb686aa23f"
     },
     "Title0039": {
-        "text": "Download all game data at once.",
+        "text": "Download all game assets at once.",
         "hash": "a58a4077ab4c041cddc892dfbe8f09f1deac9481745b8673ebf79a0cd70b55e4"
     },
     "Title0040": {
@@ -21556,15 +21556,15 @@
         "hash": "2fce46d5645508bc90fe855dec69bde2ae5b2fca3eef3fb3a386dab5b00f9a5a"
     },
     "Title0067": {
-        "text": "Give Feedback",
+        "text": "Give Feedback (JP ONLY)",
         "hash": "57c6f3c3afa9c4c27e137de60a5a47fbf1bc73c5a0baee79bc4afa75059e23c1"
     },
     "Title0078": {
-        "text": "",
+        "text": "Send any feedback/requests.\n*This will open a web browser.",
         "hash": "c14886be7986444c7b8d8a65b05d272119a59f49e831c859a5d86a2ecf9cfa03"
     },
     "Title0084": {
-        "text": "Repairing game data may help with errors.",
+        "text": "Removes all local game assets so they can be redownloaded.\nMay help free up space and fix some errors.",
         "hash": "2a95340ffc3d1dd100fc9237920bde99c51baf7b51919fc25d34ee3497a88604"
     },
     "Title0085": {
@@ -21676,11 +21676,11 @@
         "hash": "521d13be5a295ea8b45403df97967876e78507bd7a9cf5d60be5f6f2a62e7574"
     },
     "Title0121": {
-        "text": "<nb>About Sharing with Third Parties",
+        "text": "<nb>About Data Sharing with Third Parties",
         "hash": "b059808b930c65e3674b7eeba67acb79bf46658011b48104123503d7f006df46"
     },
     "Title0122": {
-        "text": "",
+        "text": "Learn more about data shared with third parties.\n*This will open a web browser.",
         "hash": "259bc80b413a86d0211377526230bc768fc66c4c5fb1331b9b86edd7f80736bd"
     },
     "TrainingChallenge4180001": {
@@ -22028,7 +22028,7 @@
         "hash": "da4e11ca2473d6452cb239e402acbc8a3042c52ee21d6e008ba2ca6c70956f04"
     },
     "TrainingChallenge4181008": {
-        "text": "",
+        "text": "Extra",
         "hash": "6798d18851e8b75875639e22f9a7c465d9d72b269a2a7ec0c309b28c992624ea"
     },
     "TrainingChallenge4181009": {
@@ -22196,7 +22196,7 @@
         "hash": "49e2f99892f4a7ce237f131ce7eba766bc8bd5b3e25c7af56e4765811b920759"
     },
     "TransferEvent0001": {
-        "text": "",
+        "text": "Transfers",
         "hash": "702a5a317a354af3df14dc2a1cbf003ed714bd9de85c501340a6b2fa4e0949d9"
     },
     "TransferEvent0002": {

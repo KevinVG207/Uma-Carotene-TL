@@ -1,4 +1,16 @@
 {
+    "2000": {
+        "text": "Friend Points",
+        "hash": "4d4517a45894425bdfde52cf0b175f4a760f8ee2cb37f83df6e4e1c3afd5e2cd"
+    },
+    "3000": {
+        "text": "Goddess Statues",
+        "hash": "989abca8499e963579f284126470e15ecce75a6e9738784c03810e553b755df9"
+    },
+    "4000": {
+        "text": "Clovers",
+        "hash": "fadb45b5863d50a644ce4f3aa5744fac9dfa41f9aed1142974d7125f17a8476b"
+    },
     "5002": {
         "text": "1st Anniversary 3★ Exchange Ticket",
         "hash": "15504e4430bed7bd74596cd644e4c11283e15b4459d47d2201a4d706fae1af9a"
@@ -30,5 +42,13 @@
     "6000": {
         "text": "Bookmark of Reminiscence",
         "hash": "5fa50c602c3c5a1109c40aeee2b385f1e6b50551d741f7597c3a79ae70a1954a"
+    },
+    "8000": {
+        "text": "Circle Pts.",
+        "hash": "76772bfa0ce1f971881dd75c264b1c8da4101ae951355c28dded8452954b81ca"
+    },
+    "9000": {
+        "text": "Limited Sale",
+        "hash": "b5ee45b9f77224e1c1b68d704c0da5462d9b70dd430f4dc2d7b01750657cc8a4"
     }
 }
