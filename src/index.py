@@ -612,8 +612,144 @@ def index_assets():
     index_textures()
 
 
+def index_jpdict():
+    print("=== Indexing JPDict ===")
+    # Load existing translations
+    tl_file = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
+    if not os.path.exists(tl_file):
+        print("Existing JPDict.json not found. Skipping")
+        return
+    
+    tl_data = util.load_json(tl_file)
+
+    string_dump_file = os.path.join(util.config['game_folder'], "assembly_dump.json")
+
+    if not os.path.exists(string_dump_file):
+        print("db_dump.json not found. Skipping")
+        return
+
+    new_data = util.load_json(string_dump_file)
+
+    new_dict = {}
+
+    for key, value in new_data.items():
+        text_id = key
+        source_text = value
+
+        tl_item = {
+            "text": "",
+            "source": source_text,
+            "hash": hashlib.sha256(str(source_text).encode("utf-8")).hexdigest()
+        }
+
+        new_dict[text_id] = tl_item
+    
+    for key in new_dict:
+        if key in tl_data:
+            new_data = new_dict[key]
+            old_data = tl_data[key]
+
+            if new_data['hash'] == old_data['hash']:
+                new_data['text'] = old_data['text']
+                new_dict[key] = new_data
+
+    # org_data_keys = list(tl_data.keys())
+    # new_data_keys = list(new_dict.keys())
+    # ignore_list = set()
+    # combined_dict = {}
+
+    # for new_key in new_data_keys:
+    #     if new_key.endswith("00"):
+    #         print(new_key)
+    #     new_data = new_dict[new_key]
+    #     combined_dict[new_key] = new_data
+
+    #     for org_key in [org_key for org_key in org_data_keys if org_key not in ignore_list]:
+    #         org_data = tl_data[org_key]
+
+    #         if new_data['hash'] == org_data['hash']:
+    #             ignore_list.add(org_key)
+    #             org_data['source'] = new_data['source']
+    #             combined_dict[new_key] = org_data
+    #             break
+
+    out_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "JPDict.json")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    util.save_json(out_path, new_dict)
+
+    return {tl_entry['hash']: tl_entry['source'] for tl_entry in new_dict.values()}
+
+
+def index_hashed(potential_hash_dict):
+    print("=== Indexing Hashed ===")
+
+    # Augment the dict
+    dict_values = list(potential_hash_dict.values())
+    for source in dict_values:
+        if len(source) == 2:
+            new_source = f"{source[0]} {source[1]}"
+            new_hash = hashlib.sha256(new_source.encode("utf-8")).hexdigest()
+            potential_hash_dict[new_hash] = new_source
+
+    # These can only be extracted from existing translations.
+    new_hashed_file = os.path.join(util.ASSEMBLY_FOLDER, "hashed.json")
+
+    if not os.path.exists(new_hashed_file):
+        print("hashed.json not found. Skipping")
+        return
+    
+    new_hashed_data = util.load_json(new_hashed_file)
+
+    existing_hashed_data = []
+    existing_hashed_file = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "hashed.json")
+    if os.path.exists(existing_hashed_file):
+        existing_hashed_data = util.load_json(existing_hashed_file)
+    
+    existing_hash_set = set()
+    for hashed_entry in existing_hashed_data:
+        cur_hash = hashed_entry.get('hash')
+        if not cur_hash:
+            cur_hash = hashlib.sha256(hashed_entry['source'].encode("utf-8")).hexdigest()
+        
+        existing_hash_set.add(cur_hash)
+
+    for hashed_entry in new_hashed_data:
+        if hashed_entry['hash'] in existing_hash_set:
+            for existing_data in existing_hashed_data:
+                existing_hash = existing_data.get('hash') if existing_data.get('hash') else hashlib.sha256(existing_data['source'].encode("utf-8")).hexdigest()
+                if existing_hash == hashed_entry['hash']:
+                    existing_data['text'] = hashed_entry['text']
+                    break
+            continue
+
+        tl_entry = {
+            "hash": hashed_entry['hash'],
+            "text": hashed_entry['text']
+        }
+
+        if hashed_entry['hash'] in potential_hash_dict:
+            tl_entry['source'] = potential_hash_dict[hashed_entry['hash']]
+            del tl_entry['hash']
+
+        existing_hashed_data.append(tl_entry)
+    
+    out_path = os.path.join(util.ASSEMBLY_FOLDER_EDITING, "hashed.json")
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    util.save_json(out_path, existing_hashed_data)
+
+
+
+
+def index_assembly():
+    print("=== EXTRACTING ASSEMBLY STRINGS ===")
+    hash_dict = index_jpdict()
+    index_hashed(hash_dict)
+
+
 def main():
-    index_textures()
+    index_assembly()
+
+    pass
 if __name__ == "__main__":
     main()
 

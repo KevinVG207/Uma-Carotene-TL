@@ -26,7 +26,7 @@ def prepare_font():
 
 # Set max width per category
 MAX_WIDTHS = {
-    "text_data/144.json": (13000, None, None),
+    "text_data/DUMMY.json": (13000, None, None),
 }
 
 def fix_newlines(text, width_data, font):
