@@ -1768,7 +1768,7 @@
         "hash": "bfe2f4a9525f5ae8fbae167658a93d9fdf89193a7d665e2e68b57cc6dae6f6e9"
     },
     "Character0039": {
-        "text": "",
+        "text": "<nb>Surface",
         "hash": "ed19a4030c6c60e385d2411f976bc80c4e03cf2c6fcb850d2b19f1b1f7d8b5c3"
     },
     "Character0040": {
@@ -1780,15 +1780,15 @@
         "hash": "2a37d942dc52d7bebdca9bb354a4b318f9c5889053c057681e59ca6473254f84"
     },
     "Character0043": {
-        "text": "",
+        "text": "<nb>Surface",
         "hash": "ed19a4030c6c60e385d2411f976bc80c4e03cf2c6fcb850d2b19f1b1f7d8b5c3"
     },
     "Character0044": {
-        "text": "",
+        "text": "<nb>Distance",
         "hash": "e8969caad6a07015a36c260c05e935c36306bde9cce55595c5fab083ecfcbb20"
     },
     "Character0045": {
-        "text": "",
+        "text": "<nb>Strategy",
         "hash": "bbb1a0708d42e5ee59ddae2c8f92db02fa93005f85d89143502ec7f91f7d866a"
     },
     "Character0048": {
@@ -1904,7 +1904,7 @@
         "hash": "f13156650ea41e28155a9af4007f6337b859a653aa71a6c2b2808111af1c3e88"
     },
     "Character0189": {
-        "text": "",
+        "text": "Mile",
         "hash": "7feb838a7fbee277910387630d7b48bfde00facc3e1e98053ad2717471c61b41"
     },
     "Character0191": {
@@ -2048,11 +2048,11 @@
         "hash": "b24901341620f7d20d67bda92a9caa276e48fda78885a5b88ac67f63ee2365b3"
     },
     "Character0324": {
-        "text": "",
+        "text": "Date",
         "hash": "c53602ed631bef0b1d778a4f61246964f6871a4abfaad992429d8973f9f18005"
     },
     "Character0325": {
-        "text": "",
+        "text": "Hall of Fame",
         "hash": "15db615219242bbb9294a26ebdb8fe822a2d4d7bdcd7ab9566fdad22be142eff"
     },
     "Character0328": {
@@ -2060,11 +2060,11 @@
         "hash": "d860ae1ced6c7eac38177610d66a71b5d7f3f19edbb85fb50efa077f4db0d279"
     },
     "Character0331": {
-        "text": "<nb>Support Effect",
+        "text": "<nb>Support Effects",
         "hash": "c23ba708df3267aedd6e1e21243f18fb024f030d441bbf9c898cd7d33a449b8a"
     },
     "Character0333": {
-        "text": "",
+        "text": "Rating",
         "hash": "a2993eba4e7221fa8fea9b9d1be758e5f4ee7ae5dd18948a7fb9bd3c98eb674c"
     },
     "Character0334": {
@@ -2544,7 +2544,7 @@
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Circle0144": {
-        "text": "{0} minute(s) ago",
+        "text": "{0} min(s) ago",
         "hash": "e738489e75091f0a145fe498e1b7833db59ab1562c25b5a4b57eea3289fa2bca"
     },
     "Circle0145": {
@@ -2740,7 +2740,7 @@
         "hash": "7f5ee6ff94dece2a1e7320d22bf7ea97e232aea987097b3f351da7e3f2f4cd04"
     },
     "Circle0206": {
-        "text": "",
+        "text": "Edit",
         "hash": "856252cfcbd314e0b86e47283f2d72c102e401a8528e940697e9611cf72f28d2"
     },
     "Circle0207": {
@@ -2844,7 +2844,7 @@
         "hash": "609ec155bc894afe8ab11af70baf1097aae11318a30d1d84e22fc8574536858d"
     },
     "Circle0251": {
-        "text": "",
+        "text": "The above items have been claimed.",
         "hash": "0fa4ea35091c78f10c80e5176a0134f4508496ecb879ff861e093c6bbeb04c91"
     },
     "Circle0252": {
@@ -3552,7 +3552,7 @@
         "hash": "b3a7d39c5bbc3d386a7c530e7a5ca24b7ed9308d49bf3e6b1176e5934f13aace"
     },
     "Common0009": {
-        "text": "",
+        "text": "Confirmation",
         "hash": "dce52f3e11196e3d4d7c5364486148b9801492d2db666de610cf036ecb5ca076"
     },
     "Common0010": {
@@ -3588,7 +3588,7 @@
         "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
     },
     "Common0019": {
-        "text": "",
+        "text": "Skills",
         "hash": "fd094cd677b409c8877af8fef0b4beddc9cec737e4632cb9edec12996e2e90bc"
     },
     "Common0020": {
@@ -3600,15 +3600,15 @@
         "hash": "1b6b1a6f89315f6e4297ec12101c4066eb256512652602f477fb6f2bdc7429ae"
     },
     "Common0023": {
-        "text": "",
+        "text": "Select",
         "hash": "df3535a64718d11cf8080216b26b76d9139828438c59a75569744ab2d399a7a8"
     },
     "Common0024": {
-        "text": "",
+        "text": " ",
         "hash": "fdef35a67510ad233ad0e32bfecb35621cf7daffbcd192a55a36d8b1d1f3d133"
     },
     "Common0025": {
-        "text": "",
+        "text": " ",
         "hash": "4a05dbc8e5955a11a5550f6b37f5a9682867d911791f6f84d3e5b9b17b8fadec"
     },
     "Common0027": {
@@ -3648,7 +3648,7 @@
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Common0036": {
-        "text": "ON",
+        "text": "ON​",
         "hash": "e8a01133b1351e5fa434167135400d1998d3daa8ce74e3dd9bb57582fa4d7b97"
     },
     "Common0037": {
@@ -3660,7 +3660,7 @@
         "hash": "a253ff09c5a8678e1fd1962b2c329245e139e45f9cc6ced4e5d7ad42c4108fc0"
     },
     "Common0040": {
-        "text": "<nb>Purchase Jewels",
+        "text": "<nb>Buy Jewels",
         "hash": "3c3d36f6442a87782267be08828e7550e8ab10d037133e7be56aa951145f3e12"
     },
     "Common0042": {
@@ -3700,7 +3700,7 @@
         "hash": "bf03f5163fe93f186e9fff12019aa5501d837778cbc8dc89dd5251fa4e9a1540"
     },
     "Common0054": {
-        "text": "",
+        "text": "Results",
         "hash": "3c3a1864b6d1fd30dc2072cfb95e56209ea36cba82c79d483712df6974010c72"
     },
     "Common0055": {
@@ -3772,23 +3772,23 @@
         "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
     },
     "Common0072": {
-        "text": "Speed",
+        "text": "<nb>SPD",
         "hash": "ad284e9087f0ec1c269a689e37a0915f0f6ed1ffb1fbfec1b9c045c2b4fc1113"
     },
     "Common0073": {
-        "text": "Stamina",
+        "text": "<nb>STA",
         "hash": "ffb1081ec146d67ae4a22d5572194c456e6714dc862d14811e99bc04b9e788a6"
     },
     "Common0074": {
-        "text": "Power",
+        "text": "<nb>POW",
         "hash": "b8f39c8447a450fc48d59618b608a889ec047354329d6231ca23a2cccdfdf89a"
     },
     "Common0075": {
-        "text": "Guts",
+        "text": "<nb>GUT",
         "hash": "f42efdb38f3aa9dfb9499c24b7782a76b7450e54d8f5e7cff68e18af4628546b"
     },
     "Common0076": {
-        "text": "Wisdom",
+        "text": "<nb>WIS",
         "hash": "d2ecb5b4d76ac9eb156e9eee307c77be877885b9aac7d9911c00771a67cc5100"
     },
     "Common0077": {
@@ -3816,11 +3816,11 @@
         "hash": "8fc7f899161b2076651a211a123ccbad0f7ad032c023f59aa3ffd06983e887b8"
     },
     "Common0083": {
-        "text": "Continue",
+        "text": "Next",
         "hash": "9eccdca31ee358be4b8a4273b3fca9ed36012d62c8e754eccf25ca247c25bf62"
     },
     "Common0084": {
-        "text": "",
+        "text": "Clear",
         "hash": "9a12b30135c5cc62f5df4cfd430d958bf0d107a62dbf46b0bf03dd6845b01875"
     },
     "Common0085": {
@@ -3864,7 +3864,7 @@
         "hash": "ccd4ff23f93b9172ac0e9ff9289dea95b649b2b3c646f496b50d5d956a45f6a7"
     },
     "Common0096": {
-        "text": "",
+        "text": "Reset",
         "hash": "535badd805d252bec633190222a4f2ad94418a59c8460d504c4576a74a269463"
     },
     "Common0097": {
@@ -3960,11 +3960,11 @@
         "hash": "53058fe2e03c00d93c4ba9361889dd7569d7d7b9674ed172266ee66265208cc6"
     },
     "Common0121": {
-        "text": "Turf",
+        "text": "<nb>Turf",
         "hash": "2efff41df142f5d0adb7503cf34871c0f4cb43f1df50066a2709dd7dd2cf578d"
     },
     "Common0122": {
-        "text": "Dirt",
+        "text": "<nb>Dirt",
         "hash": "3ff94c7a2a0fc5fe490b6ab1a723fc14c4599d4fb3e7f3ad99cc13c9beaedf06"
     },
     "Common0123": {
@@ -3976,7 +3976,7 @@
         "hash": "d79edd02b3cd414055b17c13f394f36da4f8955bbf076db4b77549ad4949d95e"
     },
     "Common0125": {
-        "text": "",
+        "text": "Details",
         "hash": "fcd2eb7ff6dc7a114fa4726db665bad2dcd427bd518eba4ce1e97e420319d1cc"
     },
     "Common0126": {
@@ -3984,7 +3984,7 @@
         "hash": "21eb21206182978aaddaadb499938dd50bb1fa2c6ee20cd7a89bac4766ca8b25"
     },
     "Common0127": {
-        "text": "Level ",
+        "text": "Lv ",
         "hash": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3"
     },
     "Common0128": {
@@ -4016,7 +4016,7 @@
         "hash": "848cf7a663cafd4b520b2441c84d20fea9d4aae81fba331caa2d3b92fafd9d47"
     },
     "Common0138": {
-        "text": "",
+        "text": "Prev.",
         "hash": "f7600b726bf2cfc0e883802cb7062be9cf149135148077e756fe88c1e7c87b7b"
     },
     "Common0139": {
@@ -4048,7 +4048,7 @@
         "hash": "ec766a3f63014d4a8ef15742ebfdf8209342448fd9bb7ecfdf713e89770e5b80"
     },
     "Common0146": {
-        "text": "",
+        "text": "<size=22>Have</size>",
         "hash": "ed643a807ff8b850908c6b695e9d18de79d106db147f9c839830212ba629899a"
     },
     "Common0147": {
@@ -4108,7 +4108,7 @@
         "hash": "d193e9d2b723e7603a41beb58fe1d35770c4cc7fc0d7810c00709948dd28ac35"
     },
     "Common0166": {
-        "text": "",
+        "text": "<nb>Races won: {1}/{0}",
         "hash": "e01ad11acca2fabd883cf51ad6a0b7a557d3aa142bf5f06261a1b959847647d4"
     },
     "Common0168": {
@@ -4184,7 +4184,7 @@
         "hash": "490f2ed1a22a8dbea37a19f3df113ad76352d54b3a65347de005d310cc88f727"
     },
     "Common0203": {
-        "text": "",
+        "text": "<nb>Distance",
         "hash": "e8969caad6a07015a36c260c05e935c36306bde9cce55595c5fab083ecfcbb20"
     },
     "Common0204": {
@@ -4252,11 +4252,11 @@
         "hash": "7c18dba3144b6dcd05de43aae123c989d02913f54b6a84eb3bb6f9301393e9c8"
     },
     "Common0244": {
-        "text": "Guts",
+        "text": "<nb>GUT",
         "hash": "f719bf046c9c2f61585bc1eb7e9884ecf4e6b89f989c9d3be110deb392fca24c"
     },
     "Common0245": {
-        "text": "Wis.",
+        "text": "<nb>WIS",
         "hash": "50439fa5ba0aa627ca39a789b58de85b6a8242040125ec10e8c4ba2d089a1a6b"
     },
     "Common0247": {
@@ -4380,7 +4380,7 @@
         "hash": "c933a49cc930c2dd0fd926dbe88839ea0b1047ea33f1c70f470afec778eeda3b"
     },
     "Common0294": {
-        "text": "",
+        "text": "Use {0}",
         "hash": "79a296d291f78a1d009a5ebdf63820a034c2daaf40003374df8766b32a422b0b"
     },
     "Common0297": {
@@ -4504,7 +4504,7 @@
         "hash": "b7b93399e82b9ce9718e0717fc5ca34b8018cffd3d84f84aa14114cb2fd6dd79"
     },
     "CustomRace0023": {
-        "text": "",
+        "text": "Edit",
         "hash": "d05ee63b95b9106fd27edbe4ffb66b7b4a318756e1baaa8bf0d0cb1e1bc3b7f0"
     },
     "CustomRace0024": {
@@ -4516,7 +4516,7 @@
         "hash": "93fa9d8a5c0f54f0d0b09c63e74902f24ef3ccea29d8a757c012f0b6119a40bf"
     },
     "CustomRace0045": {
-        "text": "",
+        "text": "To Race",
         "hash": "5cf792b202b949255dd260931b9cda1395f54483b55f06e9b4c9a406580a47b8"
     },
     "CustomRace0048": {
@@ -4604,7 +4604,7 @@
         "hash": "30726f9ee04c8619d8041928a6f419bba6b69990e4ea1114111286c9c3e98da6"
     },
     "Directory0009": {
-        "text": "",
+        "text": "Rewards",
         "hash": "b4f65423517be9a5f846fe94535f7aad86e5270c352dbe9a1ed11a0651d94e9f"
     },
     "Directory0010": {
@@ -6620,7 +6620,7 @@
         "hash": "10554c923d827ebe87eceb1e2ee255f9bd13163303bd1005d675569692b6776b"
     },
     "Heroes511140": {
-        "text": "{0} minute(s) left",
+        "text": "{0} min(s) left",
         "hash": "a3d6c4f6fb9bb9e528d0ee79715a395daefec3eb98f683dcd47d7202202f05a4"
     },
     "Heroes511141": {
@@ -6848,7 +6848,7 @@
         "hash": "d4e8a745fc65628409b5612db4ba207d939615cf8df0753efd440c012af7553d"
     },
     "Home0048": {
-        "text": "",
+        "text": "Completed!",
         "hash": "beba47a025491eb86d4810ea68a759a9989d5bcea81cb40c3835e7b545e48338"
     },
     "Home0051": {
@@ -6856,15 +6856,15 @@
         "hash": "0f4ecf650b8dae6c3fc59c33b30dc3daff0ff55a805be08e631a645c545c6fed"
     },
     "Home0053": {
-        "text": "{1} day(s) left until {0}",
+        "text": "{1} day(s) until {0}",
         "hash": "3dcefa527a2d405ff5b2070be34521c2735cf0656e02c5a3ae869067142882b7"
     },
     "Home0054": {
-        "text": "{1} hour(s) left until {0}",
+        "text": "{1} hour(s) until {0}",
         "hash": "37f4abb578f9d68820e874347b54263530444e188f7d7e552d95c4b29d0f9e0b"
     },
     "Home0055": {
-        "text": "{1} minute(s) left until {0}",
+        "text": "{1} min(s) until {0}",
         "hash": "b74596ef82db2ec3bbf4054d8160146243bc4f5eb60836af67d304e94d6f7e28"
     },
     "Home0056": {
@@ -6872,7 +6872,7 @@
         "hash": "1714b920dc2f57f3f442f53bb92f9c33a5a344b5f4543944b3825bab1ccc87e5"
     },
     "Home0057": {
-        "text": "",
+        "text": "reset",
         "hash": "4c3c12e3de3acedd260ca1ce5ae96b1e6637ab18f187961c3ddab31f7ef6ca6f"
     },
     "Home0066": {
@@ -7087,6 +7087,18 @@
         "text": "",
         "hash": "cd126386ef4ab98110dc6ec63238c323c70ece61974c300f8996927043c274c6"
     },
+    "Home570001": {
+        "text": "",
+        "hash": "5db099cd51a2694833cabb2d51a5e24d4778ec5bf3a20d1821ecab21d2f70876"
+    },
+    "Home570002": {
+        "text": "",
+        "hash": "b031973ba102c362a90371ba76eab6c840852f440df2b78d129b405b09b6ab86"
+    },
+    "Home570003": {
+        "text": "",
+        "hash": "b5621f2f6d9e5e836a722610cca0b95a35f39b0c227672fcdf65bfeffdd5d8e0"
+    },
     "Honor0001": {
         "text": "Titles",
         "hash": "94c2b0ba85a0ffdf7b320640acc6406b0db1c8fdbecb520a477b9b9f0d7a7ef0"
@@ -7264,7 +7276,7 @@
         "hash": "1ec50a4025f22e45818861772b8aa3bfc0c8184eeb556ada90d9554e744ca1cd"
     },
     "Live0015": {
-        "text": "",
+        "text": "Orientation",
         "hash": "ab3fc7aa9ddac3eaa59bf15d1abd83ccc388a3c59b5ff5a68e3b917323da0256"
     },
     "Live0017": {
@@ -7288,7 +7300,7 @@
         "hash": "45a85af489c72b607ff701bbfe54794ed07456936780acd5a913a49a7c23eda7"
     },
     "LiveTheater0005": {
-        "text": "",
+        "text": "Auto-Select",
         "hash": "9e12fccdfd21604fc189ffd96bb4dec7096808ecdcf2c2ee1774748e3a86e507"
     },
     "LiveTheater0008": {
@@ -7752,7 +7764,7 @@
         "hash": "2d06b32c7b9569f526561d8041fc0686c9800bb663bcf57e4317a6a66b2021ae"
     },
     "Menu0068": {
-        "text": "",
+        "text": "Debut",
         "hash": "e5ac8090e8c62a908636c889d16596161253d65cd3f417a99aae67a99a81e1fa"
     },
     "Menu0069": {
@@ -8020,7 +8032,7 @@
         "hash": "673b50a4a95c5445060cf26b72e8c1ba40d6a26b296d239ee152ced0ecf6fbef"
     },
     "Outgame0026": {
-        "text": "",
+        "text": "This Umamusume is already in use.",
         "hash": "7f8719fb91e8538a77ce622e80c641e8a0856bfba92768ea9f451a950ed41ae1"
     },
     "Outgame0027": {
@@ -8060,11 +8072,11 @@
         "hash": "6b9190f59aa3a51fcced55744fead599f764c81e4a51d12c2e97af8e7ab31284"
     },
     "Outgame0039": {
-        "text": "",
+        "text": "<nb>History",
         "hash": "344ed5c27c90e70786c0378a6bbb2f7f5c12366529aa751ab385961ea9458544"
     },
     "Outgame0040": {
-        "text": "",
+        "text": "Fans",
         "hash": "2333d157000caf7d550dbccc3795ac4eace6a957e0b2c57c55b85461f9000c8f"
     },
     "Outgame0041": {
@@ -8180,7 +8192,7 @@
         "hash": "d05956558335d49f2aa65091912f247058bcd910b59e88b19d46846c0162e194"
     },
     "Outgame0095": {
-        "text": "",
+        "text": "Story Settings",
         "hash": "1a64c405580192ea88924a3150ba5c5b473cf03ca95b5463405ed9bd8e2bbcde"
     },
     "Outgame0098": {
@@ -8196,7 +8208,7 @@
         "hash": "5891a8386bdbccfa66891a635cb491d278d56265fb482bbaf4400b7fc679f24f"
     },
     "Outgame0106": {
-        "text": "",
+        "text": "Rating",
         "hash": "a2993eba4e7221fa8fea9b9d1be758e5f4ee7ae5dd18948a7fb9bd3c98eb674c"
     },
     "Outgame0110": {
@@ -8240,7 +8252,7 @@
         "hash": "21a9ab788321d75f72782ac966ebfd5215124afb1504ba9c99d4cd455735a758"
     },
     "Outgame0156": {
-        "text": "",
+        "text": "The above rewards have been claimed.",
         "hash": "99ff6dbcba0e20fbbd49c8ddeed921108ad81c74d62091232f6f6f3f5e43b076"
     },
     "Outgame0157": {
@@ -8324,11 +8336,11 @@
         "hash": "5025aa500f03f9651fb1d230f56cfa7c8222cb3f62aba9c3e1943b3a6852e9f1"
     },
     "Outgame0202": {
-        "text": "",
+        "text": "<nb>Performance",
         "hash": "7b9fa429b9c37298fd1d7aad1da3e82b2cf083cd44eb38761f1a16c5888a794d"
     },
     "Outgame0203": {
-        "text": "",
+        "text": "<nb>Major Victory",
         "hash": "24b38b82cf7ba69ccf8a70023c5b2b7f06ce9189df8cc3d3871bc8c3c101d9c8"
     },
     "Outgame0204": {
@@ -8504,7 +8516,7 @@
         "hash": "42f1a05d0ea3eb25fcb7616e05116d87883196364e34f68120173120a07efd52"
     },
     "Outgame0259": {
-        "text": "",
+        "text": "Support Effects",
         "hash": "08a2deee9a9659652e4209cb24e99ebf73528902412e65540720367963570803"
     },
     "Outgame0260": {
@@ -8748,11 +8760,11 @@
         "hash": "81e5cee9cc4f84f35074d249f6c928fa2dd3cc12250e7fbdf98b0117c37bf63a"
     },
     "Outgame0324": {
-        "text": "",
+        "text": "Star Rating",
         "hash": "9a67ea4ff26310d70a751812c57f8445a622ae8b7c1816e6c7b66d66f343526b"
     },
     "Outgame0325": {
-        "text": "",
+        "text": "<nb>Strategy",
         "hash": "bbb1a0708d42e5ee59ddae2c8f92db02fa93005f85d89143502ec7f91f7d866a"
     },
     "Outgame0326": {
@@ -8764,11 +8776,11 @@
         "hash": "50d7056befcb1b2665ceacd93bd3e0c8f58286aa22578d248f00ca54ba75a3f6"
     },
     "Outgame0328": {
-        "text": "",
+        "text": "<nb>Factors",
         "hash": "860b01c3f25d6a8b74cf616723850d2fa3f687a9af6e6f872413eb118a125d72"
     },
     "Outgame0329": {
-        "text": "",
+        "text": "<nb>No. Skills",
         "hash": "d782d87d180bb5e24dfdbd27c7a2eb6324634281ec3525d2c98238eb049c0c45"
     },
     "Outgame0330": {
@@ -8820,7 +8832,7 @@
         "hash": "0b53148135803978a95d6879674e765241a83b78df286289e4711d9ef4760c5d"
     },
     "Outgame0343": {
-        "text": "",
+        "text": "<nb>Affin. Bonus",
         "hash": "5360c66ac737847d96fc30783528524091bd251ebdd1709ba058b4c1406203fb"
     },
     "Outgame0344": {
@@ -8828,15 +8840,15 @@
         "hash": "72724a97954b19b7227314cd37485cebf838a17d3617bb88d8c83d3fee862a51"
     },
     "Outgame0345": {
-        "text": "",
+        "text": "<nb>Affinity: ◎",
         "hash": "a4edf8e94d56c62f0f04e3b622cd2368ce83a3940ef5150568123ef63197e4af"
     },
     "Outgame0346": {
-        "text": "",
+        "text": "<nb>Affinity: 〇",
         "hash": "6e9717bb021497d51afc56411b87bd3fc7f264dbe360e78acc6570e69ede27bc"
     },
     "Outgame0347": {
-        "text": "",
+        "text": "<nb>Affinity: △",
         "hash": "7b6f876447a7a89132f0594aeb3e1e1e16c107da21a24c0be1b28d287632a5e7"
     },
     "Outgame0348": {
@@ -8884,7 +8896,7 @@
         "hash": "cdc5c669310afbf273b05ae2c0dad3da4f5ade0a553ad01ce836b1e51e91de2c"
     },
     "Outgame0359": {
-        "text": "{0} minute(s) left",
+        "text": "{0} min(s) left",
         "hash": "fb2b04f6e286fe0a88a0b89e86e523f5d74d1f60b99cd589e8c56b52eb4398ea"
     },
     "Outgame0363": {
@@ -9208,7 +9220,7 @@
         "hash": "d79669039a9d749324552c25f7bf0b64b965dfb36f91ca2abddab9316f45c70e"
     },
     "Outgame0446": {
-        "text": "",
+        "text": "Rating",
         "hash": "c85c4290c93a2648e1190576dd1ea2e369b13af76027bb35df60001933183864"
     },
     "Outgame0447": {
@@ -9220,7 +9232,7 @@
         "hash": "3a84a502bc83d911a1cd19852bbd9c03e6aaf11d222ca7d37359e5c0fc08334c"
     },
     "Outgame0449": {
-        "text": "",
+        "text": "Period: {0} ～ {1}",
         "hash": "2186bd09eaa3097da18ace92e37f7fcba7802b280802ed0d681c7f85ef49aac2"
     },
     "Outgame0450": {
@@ -9572,7 +9584,7 @@
         "hash": "9c346549340e531cbbd0a8cf894bd40c7465159f4096e601cd3c7e06394e5a13"
     },
     "Outgame124007": {
-        "text": "",
+        "text": "<nb>Has Memo",
         "hash": "99fa5c96e07ec49d52fb7da88d13cbe24a791fbc26775be2549708d75c4a3fa1"
     },
     "Outgame124008": {
@@ -9704,7 +9716,7 @@
         "hash": "4cd31aa46c545a36f08326b51756cdd30a5f1282a10ab22047dba92d1bce9464"
     },
     "Outgame124031": {
-        "text": "",
+        "text": "Favorited",
         "hash": "bdc4983de217449c68b74ca200a6e3b0a4bb5ce4d1e804f2a2a10ce1821aefc8"
     },
     "Outgame124032": {
@@ -10747,6 +10759,10 @@
         "text": "",
         "hash": "67cce41c12c5898245976c912abba7cea3041d3795290e21d96e8bc985653a7b"
     },
+    "Outgame497004": {
+        "text": "",
+        "hash": "3e05d697c1fc60936ff3f644a4c9843a11a2f81c1c08827b25584f2a8441f7ea"
+    },
     "PracticeRace400101": {
         "text": "",
         "hash": "43956281ccc681ce4c1964dc79c2a53226a3c10cea5547975b35d11ca16c0ed2"
@@ -11420,7 +11436,7 @@
         "hash": "1b78d858de84dd51b2242585da7414e7b85daa3e14114745a94c3f510c0297d6"
     },
     "ProfileCard0021": {
-        "text": "",
+        "text": "Confirmation",
         "hash": "dce52f3e11196e3d4d7c5364486148b9801492d2db666de610cf036ecb5ca076"
     },
     "ProfileCard0022": {
@@ -11496,7 +11512,7 @@
         "hash": "67ac2d4a9071edc62467d4d6bb1f90bbed7118fd02e14c3cfe45cf1c2e621f01"
     },
     "ProfileCard0040": {
-        "text": "",
+        "text": "This Umamusume is already in use.",
         "hash": "7f8719fb91e8538a77ce622e80c641e8a0856bfba92768ea9f451a950ed41ae1"
     },
     "ProfileCard0041": {
@@ -11656,7 +11672,7 @@
         "hash": "96ed87dbbd4b73b8c01d461dd11bf39194fb7c8bd138e1f1eb82d98bd7e08776"
     },
     "ProfileCard021301": {
-        "text": "",
+        "text": "Reset",
         "hash": "535badd805d252bec633190222a4f2ad94418a59c8460d504c4576a74a269463"
     },
     "ProfileCard024917": {
@@ -11884,11 +11900,11 @@
         "hash": "093b8af6cbec70f3ee77cbd0dc952f83315eb6d165962ffd58fa6afe67b4b009"
     },
     "Race0041": {
-        "text": "",
+        "text": "Start Race!",
         "hash": "67584c46ec6c58f3c2fb40a4545d84ab07f772c53fdfd15825eed6c40d59d873"
     },
     "Race0042": {
-        "text": "",
+        "text": "Watch",
         "hash": "66b7ee2c9f1bbc6255350ebfdfb48de6aa9999e0c39ab884efa393b012669277"
     },
     "Race0043": {
@@ -11912,7 +11928,7 @@
         "hash": "8ffbba8d2cf4adb5c694a1fda7c5c54a63e8d4edd729026a68c7c6e84088201d"
     },
     "Race0049": {
-        "text": "",
+        "text": "<nb>Chaser",
         "hash": "67e596dc3488b5b59869933c2eb344fb73da9638689eed3e7b6be68100100e44"
     },
     "Race0050": {
@@ -11920,11 +11936,11 @@
         "hash": "ca5c33e30bcf90bef359c90b6a87ff8ba2ebb3659bc13004e4ef33caf9ce20d4"
     },
     "Race0051": {
-        "text": "",
+        "text": "<nb>Betw.",
         "hash": "2860e0cf89bf1eba4e4bc8ce2dd1d57adfc81ce44c9bcf7d4e078c2e3bff944b"
     },
     "Race0052": {
-        "text": "",
+        "text": "<nb>Leader",
         "hash": "0e1d90e606fdf156ebcf7ff94ab335d13f497c0729aa7954cf8fcfc052be9516"
     },
     "Race0053": {
@@ -11932,7 +11948,7 @@
         "hash": "37d72a78a2d2842bc9d196edd715590bed77308336579058e3146fa0ce0a6d37"
     },
     "Race0054": {
-        "text": "",
+        "text": "<nb>Runner",
         "hash": "9c557972186b66b797e894448f7928b5c5bbb4913ae18003032c3be5db1be118"
     },
     "Race0058": {
@@ -11984,7 +12000,7 @@
         "hash": "75e82fc0ed14e393b6460460eafbcc562c24cd496992889f29ba07b8303f1af9"
     },
     "Race0075": {
-        "text": "",
+        "text": "To Race",
         "hash": "818be94a5d4537a7909ff0f63455ceb56d9f51da0bcc2db2a246709e56dc0c2d"
     },
     "Race0076": {
@@ -12040,19 +12056,19 @@
         "hash": "3befdd6a7b1b77ac1f8a5addf76b7335bfc9f6127ce1aa3b55dc602815081a2c"
     },
     "Race0105": {
-        "text": "",
+        "text": "Long",
         "hash": "d2245e5707a3e6f92a2de93fba026adf33441d584d2b46d2c176e3d95e686145"
     },
     "Race0106": {
-        "text": "",
+        "text": "Mid",
         "hash": "8af2d3c43b93c3ae87f3bee500404c722643f72c40757c814036a8e39f701b8b"
     },
     "Race0107": {
-        "text": "",
+        "text": "Short",
         "hash": "7127d98addbffbc9363802ffb8dc8cbcfe2058e1561ae52821769e4c349dcbca"
     },
     "Race0122": {
-        "text": "",
+        "text": "Strat.",
         "hash": "8da22fcd47373517d06acdf64afa694b9098c2189ad59f47b778926a633cb33a"
     },
     "Race0131": {
@@ -12064,7 +12080,7 @@
         "hash": "dfe33acc0ecaa179d29c7e8953ed2ab0b9855e21268ec83c169bcd4e94b535a7"
     },
     "Race0148": {
-        "text": "",
+        "text": "To Race",
         "hash": "5cf792b202b949255dd260931b9cda1395f54483b55f06e9b4c9a406580a47b8"
     },
     "Race0180": {
@@ -12532,7 +12548,7 @@
         "hash": "2625bf9b2907e8befb3dce8373483aba314f9c78036439c2b89e9ab1c98d3003"
     },
     "Race0636": {
-        "text": "",
+        "text": "Continue",
         "hash": "aa16cf662ce0231f18c8fd8ced6f82b1de90ec3ad9825edec0076d22837f05ad"
     },
     "Race0649": {
@@ -12568,7 +12584,7 @@
         "hash": "39919bcd06793244efca8ec3f706e1a28627308ca747c402f8b1b5f86a169903"
     },
     "Race0657": {
-        "text": "",
+        "text": "<a4><size=27>  Ongoing</size>",
         "hash": "b4b5beae00d23285133647e4d7227283542ca57e9f7678af1475e4c6f121bd07"
     },
     "Race0658": {
@@ -12596,11 +12612,11 @@
         "hash": "6bb1375b865538ce605996deb1a07e9d3190e2dd2731cb2638ff0bfcf912fbb9"
     },
     "Race0664": {
-        "text": "",
+        "text": "Skip",
         "hash": "c7fae0b56a6cac48e53a3350f10dcaac5237db7f2b8fec5e85b1eb17e2983dc6"
     },
     "Race0665": {
-        "text": "",
+        "text": "Selected Items",
         "hash": "ccd24e5efc63a7aa05c77b3245c5659a1119cefd45983c15ca23d72d1bbadbc6"
     },
     "Race0666": {
@@ -13176,7 +13192,7 @@
         "hash": "a220be32e4bfe2104189642d892926fd864d520726377456221099e479cbc84b"
     },
     "RoomMatch0097": {
-        "text": "",
+        "text": "Uma List",
         "hash": "20cf958954bc784cf6a17fe008cc70aee8c8e1c761a416aaf046ed02a9217c09"
     },
     "RoomMatch0098": {
@@ -13328,7 +13344,7 @@
         "hash": "a40c15dc58c567ff733556d7e1f4030a7822a31e5b174e7ad86ae413bc06f5ca"
     },
     "RoomMatch0135": {
-        "text": "",
+        "text": "Reset",
         "hash": "535badd805d252bec633190222a4f2ad94418a59c8460d504c4576a74a269463"
     },
     "RoomMatch0136": {
@@ -14164,7 +14180,7 @@
         "hash": "19b63f413ce0e129a36a8c5cda2eb62316e8c304e27a0ee9ff28d35194152725"
     },
     "Shop0116": {
-        "text": "",
+        "text": "To Limited Shop",
         "hash": "784d047635ef252ce8f7f42e9b02a15e24d9e38f251bf579a496d97583cac6b6"
     },
     "Shop0117": {
@@ -14264,7 +14280,7 @@
         "hash": "b77cf67f40357067c5a8f8aeddb76ae6ad3d2454df9bbc5d4715e9d2045bf60e"
     },
     "Shop0147": {
-        "text": "{0} minute(s) left",
+        "text": "{0} min(s) left",
         "hash": "c039b44dd814b331de9ad519088662735f0d388f6e77560b2e7269799470be90"
     },
     "Shop0148": {
@@ -14444,7 +14460,7 @@
         "hash": "d6d2aa99fd698da376bfe5da1e585e816e6b042d1b03afa35d1458322f31f85d"
     },
     "SingleMode0009": {
-        "text": "",
+        "text": "Start!",
         "hash": "59bf2d1ec352fc3f631d566fb2bebabb23ab5367ff6d39c5bfd02bceb2a85d76"
     },
     "SingleMode0011": {
@@ -14508,7 +14524,7 @@
         "hash": "6c04e61698da54fccef7126481d0c9b207a9332d79cdced5ed99a639530ca1a2"
     },
     "SingleMode0038": {
-        "text": "",
+        "text": "Umamusume",
         "hash": "55d2416d5eb4f0e6289d00a689dff75cf0b590b4bed6b2c56cf74ba4225477bb"
     },
     "SingleMode0039": {
@@ -14536,7 +14552,7 @@
         "hash": "dd90441505b400ff0f7a10f403f8bc2cc727a25de0757c13a9db34f1bbe88232"
     },
     "SingleMode0055": {
-        "text": "",
+        "text": "<nb>Inheritance",
         "hash": "9522e5a4c8e3554ee2ca9a040cc2c63f191e4c9b807ea3318dd9bd4967b9e64d"
     },
     "SingleMode0056": {
@@ -14640,11 +14656,11 @@
         "hash": "f38bf35b87dda318e4816b0c28b6a7d707488adc210638c5812d245a97063a3a"
     },
     "SingleMode0103": {
-        "text": "",
+        "text": "<nb>Information",
         "hash": "3e93b2f05b259a8a3678762d392823c9744b331b0e0c2db760d050a1be1af193"
     },
     "SingleMode0106": {
-        "text": "",
+        "text": "Rewards",
         "hash": "b4f65423517be9a5f846fe94535f7aad86e5270c352dbe9a1ed11a0651d94e9f"
     },
     "SingleMode0108": {
@@ -14684,7 +14700,7 @@
         "hash": "27e88b861fa91ee1c64bbc3be6868fda14f45e1ad84b0da7caf7a7d3f7d7bce1"
     },
     "SingleMode0123": {
-        "text": "",
+        "text": "Uma List",
         "hash": "20cf958954bc784cf6a17fe008cc70aee8c8e1c761a416aaf046ed02a9217c09"
     },
     "SingleMode0125": {
@@ -14708,7 +14724,7 @@
         "hash": "6b964a42284d0b2a7d9a83ed5a41a272cedc140d2ee6e2a2af7c4eeed686734b"
     },
     "SingleMode0130": {
-        "text": "",
+        "text": "<force>Date",
         "hash": "e30383028e576b9d9a01a8489debf9030f180f5683b61aa282fdcbe1e6a81bcf"
     },
     "SingleMode0131": {
@@ -14808,11 +14824,11 @@
         "hash": "c95875f6450329e40d52f931f0ae3c4b95771177bdfa24f936c57111de82601b"
     },
     "SingleMode0185": {
-        "text": "",
+        "text": "Skills",
         "hash": "7b75bc59fab557acda2d6f0ee64bdda9b0407144b864f33018eea3d1fe3b5e75"
     },
     "SingleMode0187": {
-        "text": "",
+        "text": "<nb>Inheritance",
         "hash": "78c823674bf61584a31f0bab98e9388b322010e639c176b4db36701720981b5e"
     },
     "SingleMode0189": {
@@ -14848,7 +14864,7 @@
         "hash": "fcdfe9046709975253d966f89cbc9847a681a2c1ce5a501d2f815fb3d0393156"
     },
     "SingleMode0198": {
-        "text": "",
+        "text": "You must fill a deck with 6 support cards.",
         "hash": "28b49968f9b0f1e6ba5c30434bc1032b580ee7de6c4abd071e8cbbea1074b1d7"
     },
     "SingleMode0199": {
@@ -15048,7 +15064,7 @@
         "hash": "9aff8048e6edf62b96a32af8f6f26a3a09704a31726d8af229e5e19a1dc6decc"
     },
     "SingleMode0255": {
-        "text": "",
+        "text": "None",
         "hash": "fe79ff548fbc148065a6918ce6b767c703af6bfda87beb34414146f6ef11735b"
     },
     "SingleMode0256": {
@@ -15156,19 +15172,19 @@
         "hash": "c3c5ce07982c48f96086bdfee469fc2c05dacbdfed39dd8a191a0523461ae22e"
     },
     "SingleMode0283": {
-        "text": "",
+        "text": "Are you sure you want to reset this deck?",
         "hash": "69445da5cd370c9af6114d9dbdf697755679bc1bb6b5086ce79e809c9d2ffb34"
     },
     "SingleMode0284": {
-        "text": "",
+        "text": "Resetting a deck cannot be undone!",
         "hash": "4b68bd7b9c8b451ded3d1cf84f12e9e6c97b16e76ce34d239ca0f1c2dd152e4d"
     },
     "SingleMode0286": {
-        "text": "",
+        "text": "Support Deck",
         "hash": "4b6d9982b7348362778806316ad6db3bb7686af0e273a5aee283f2e34a161ab8"
     },
     "SingleMode0287": {
-        "text": "",
+        "text": "Inheritance",
         "hash": "862e71a1cdb133da0d503314cbd9af005def803479e0ed592e97bac37fa5154c"
     },
     "SingleMode0288": {
@@ -15212,7 +15228,7 @@
         "hash": "4a85d251a16d4c2c18c3a85e47a8ebf2eb697fa571c90e5d89a9afe429a65c7a"
     },
     "SingleMode0304": {
-        "text": "",
+        "text": "You must choose a support card from a friend.",
         "hash": "0b6e2465cb154a62243120388ff88912cf9994a71908e155839a5ffeaed47001"
     },
     "SingleMode0305": {
@@ -15288,11 +15304,11 @@
         "hash": "e87a15a44e02b6cf127f6eff4720f82b793df04e668207ce0b4c2fde0f30c15c"
     },
     "SingleMode0333": {
-        "text": "",
+        "text": "<nb><size=30>Deadline</size>",
         "hash": "59f0bf47752294f4f1c1e04e1f80d3ac0a2fb3745dcbb2c7754d1c99be1bd956"
     },
     "SingleMode0334": {
-        "text": "",
+        "text": "<nb><size=30>Condition</size>",
         "hash": "cc7a986343248162d87308389b66f0b042801897562e9cd5ba7bda94e6340e3c"
     },
     "SingleMode0335": {
@@ -15516,7 +15532,7 @@
         "hash": "30b99e1431d38d050cdce377cbe9163327eb75397e3560ae4a0002084b80e6e6"
     },
     "SingleMode0396": {
-        "text": "",
+        "text": "You must choose 2 parents to inherit from.",
         "hash": "c5fce76cea2a08ad8086d91d6ea2f59880b8d8744fda350e3120be3f102fe9b4"
     },
     "SingleMode0397": {
@@ -15524,7 +15540,7 @@
         "hash": "056ab96fc0b1753c8e8c024bd5890642a3e9577c9d5e4446e67d6571500b6bc6"
     },
     "SingleMode0398": {
-        "text": "",
+        "text": "<nb>Factor List",
         "hash": "c5e54ed7089f8a549cf413029f864317c399a37bf57bd97e42d301b6ba77136b"
     },
     "SingleMode0399": {
@@ -15848,7 +15864,7 @@
         "hash": "7decab426ca313968c8605299bf3fe4d4320ec4beb8755745a3a7727ef1029c6"
     },
     "SingleMode0488": {
-        "text": "",
+        "text": "<nb>Parents",
         "hash": "a3a19cc75fa3383fbaadc63e75365ee429ba707429e70105ed6ba32d5279b1d9"
     },
     "SingleMode0489": {
@@ -15900,7 +15916,7 @@
         "hash": "4b09e455d7994e55e6499c329f7c877cc10b965fcb4cd565c068037da10b11cc"
     },
     "SingleMode0501": {
-        "text": "",
+        "text": "You must add at least 1 card to the deck to copy it.",
         "hash": "bb10f25f76975bf57924913d830bab485d09e70a4091ea64d778477a75cb5cc5"
     },
     "SingleMode0502": {
@@ -15912,7 +15928,7 @@
         "hash": "2cf8d03828ab2fcb1f25587ebeb29d615d8d3db519c879bdb5aa7b95693f50fb"
     },
     "SingleMode0505": {
-        "text": "",
+        "text": "<size=25>These skills can be inherited. Other skills can be obtained via skill hints.</size>",
         "hash": "f94de9255119c744a1f2deeca161f5e73dd3fbb4cbdf36a31b89fe15b679c124"
     },
     "SingleMode0506": {
@@ -15920,15 +15936,15 @@
         "hash": "4ebc426cb7924add069ee681b62065f3d6a1fa2ad9446c3174f682312337f890"
     },
     "SingleMode0507": {
-        "text": "",
+        "text": "Auto-Select Cards",
         "hash": "ed88452bef6393b90483bc01178275aaf44fa761a312dc306915a706eddbc846"
     },
     "SingleMode0508": {
-        "text": "",
+        "text": "Do you want to reset the current deck\nand auto-select Support Cards?",
         "hash": "4b42138eca5d89e65139ab0dcd36aaabada8fb1347d5fa679eae38a9cda94ded"
     },
     "SingleMode0509": {
-        "text": "",
+        "text": "<atlas=PreIn sprite=utx_ico_notice_00/><color=#ff4400>The current deck will be lost!</color>",
         "hash": "758a3363f09b2bd4953b71d4372f641a6a9d98edba6987573f365c55ee7092d0"
     },
     "SingleMode0510": {
@@ -15936,27 +15952,27 @@
         "hash": "ac1132fcfb5df6c5303462032a634b44d38cff23acd52287151ee01f99390b98"
     },
     "SingleMode0511": {
-        "text": "",
+        "text": "Auto-Select",
         "hash": "9e12fccdfd21604fc189ffd96bb4dec7096808ecdcf2c2ee1774748e3a86e507"
     },
     "SingleMode0512": {
-        "text": "",
+        "text": "Do you want to reset the selection\nand auto-select parents?",
         "hash": "7e890fed972680d093873175b1fc4209548114ee15533117d1431fe4707deed2"
     },
     "SingleMode0513": {
-        "text": "",
+        "text": "Enable Rentals",
         "hash": "3e352b48be79ccd797a0c321489ae7cb493549854f1d11d58dcc17e39a3f821f"
     },
     "SingleMode0514": {
-        "text": "",
+        "text": "<atlas=PreIn sprite=utx_ico_notice_00/><color=#ff4400>Using a rental costs Money!</color>",
         "hash": "71efbe81c1f4a7b14908d667b3025d41f5ee33c1b5aaccbfe16f96e8ce85a254"
     },
     "SingleMode0515": {
-        "text": "",
+        "text": "Auto-Select Parents",
         "hash": "2320def76479262a5980bbd6cd40d20b7486771d7ab54de5cd84acba34552828"
     },
     "SingleMode0516": {
-        "text": "",
+        "text": "Auto-Select",
         "hash": "f1ec11ac5b6a8984131474aed3d000f63ebc668164091e637fb19ac61cb4b770"
     },
     "SingleMode0517": {
@@ -16180,7 +16196,7 @@
         "hash": "711ec4daec7d29f1f6c38784d83bc2361d3ff4f3f440dfcf6d258d712dabec21"
     },
     "SingleMode194035": {
-        "text": "",
+        "text": "{0} left",
         "hash": "1f1c768681d3b2c18ee314acc4bfdabd81e16c54fea5e6ef16f9b6eb212b46f2"
     },
     "SingleMode194036": {
@@ -16728,11 +16744,11 @@
         "hash": "ea5c6bf72c46a2ec45fe4ee9b5c299597bc18d79a9fc1c47c90a967422c399e5"
     },
     "SingleMode419004": {
-        "text": "",
+        "text": "<nb>Scenario\nDetails",
         "hash": "8bb5b10eb70576a9252e95b1c92796d1ac7553cdff149ad6c8fbf35f6bef56de"
     },
     "SingleMode419005": {
-        "text": "",
+        "text": "Scenario Details",
         "hash": "fc7734fcfaa5912d6c7d4a559b5e26e28071929372c9a880e1bd66c8f4ae1e06"
     },
     "SingleMode419006": {
@@ -18572,7 +18588,7 @@
         "hash": "9b3c3dadff7aab9d52d7f2c2dccb446599255a0d34b26b990e71379aeebaade1"
     },
     "SingleModeScenarioTeamRace0021": {
-        "text": "",
+        "text": "Scenario Rating",
         "hash": "db95e0b6c182bb05ede5a6dc42fda0fbca39efa806706c7d17b85392ff05ae60"
     },
     "SingleModeScenarioTeamRace0022": {
@@ -18588,7 +18604,7 @@
         "hash": "a0d73f31f886aed08b0aa7b06ab143348d99388004de8958e962730faf31bfab"
     },
     "SingleModeScenarioTeamRace0025": {
-        "text": "",
+        "text": "Not yet trained in this scenario.",
         "hash": "b3b92999fb1b6ffd5fb2961042985bb11532be0b7a8257b0c90bd9b4b9e91269"
     },
     "SingleModeScenarioTeamRace0026": {
@@ -18604,7 +18620,7 @@
         "hash": "e5c0826623d91dfda49773a0a9ac5f2ecf69745a06e1b544c4c57ec7ac0ff235"
     },
     "SingleModeScenarioTeamRace0029": {
-        "text": "",
+        "text": "Top 3",
         "hash": "46147e16ee450d84449a69ecc77d04eaed8d1345445b1d5c8325e9052ad630f4"
     },
     "SingleModeScenarioTeamRace0030": {
@@ -18620,7 +18636,7 @@
         "hash": "d9c04f49e1e4203d2c5ad76ab09a51ec8e40fa37f1c2bca8aeddf095066dd233"
     },
     "SingleModeScenarioTeamRace0033": {
-        "text": "",
+        "text": "Not yet trained in this scenario.",
         "hash": "b3b92999fb1b6ffd5fb2961042985bb11532be0b7a8257b0c90bd9b4b9e91269"
     },
     "SingleModeScenarioTeamRace0034": {
@@ -19476,11 +19492,11 @@
         "hash": "0b108873c537e14d9e8142fe45197045142431575c976c8188b24a48cd5c4769"
     },
     "Story0067": {
-        "text": "",
+        "text": "Without voice\n({0:0.00}MB)",
         "hash": "366700580b6bc47e310ed85ee82cddf286704b7139ff7fb801be3af126f3a1d1"
     },
     "Story0068": {
-        "text": "",
+        "text": "With voice\n({0:0.00}MB)",
         "hash": "a6daec9c7bcfff03504dfec03e3dc56445daee010758f45073a1b8d0fb740d68"
     },
     "Story0070": {
@@ -19628,7 +19644,7 @@
         "hash": "17f2530195ab3be13f185b0345ebc7f1f2ba392b5646bd12d69f209dad50a15f"
     },
     "Story1260001": {
-        "text": "",
+        "text": "Inheritance",
         "hash": "862e71a1cdb133da0d503314cbd9af005def803479e0ed592e97bac37fa5154c"
     },
     "Story1260002": {
@@ -19640,7 +19656,7 @@
         "hash": "7279e45e8581f58a220f9e27b3ace979847070529d650f8dc9f87cff347e9c81"
     },
     "Story1260004": {
-        "text": "",
+        "text": "Uma List",
         "hash": "20cf958954bc784cf6a17fe008cc70aee8c8e1c761a416aaf046ed02a9217c09"
     },
     "Story1260005": {
@@ -19840,7 +19856,7 @@
         "hash": "b135952ddc5fde508e74f8028bab77eb40ef33fbd3376d3164a947b3c7ed2e5e"
     },
     "StoryEvent0038": {
-        "text": "",
+        "text": "Event has ended!",
         "hash": "a255a149b331e12ef786d3e36b6b220e52bad29a6988b21f88f3eb59607c39cf"
     },
     "StoryEvent0039": {
@@ -19860,7 +19876,7 @@
         "hash": "9f81342e3d570a66f77a1b4a5de57c46f51c02d23500ded03dcea157f36f9b4b"
     },
     "StoryEvent0043": {
-        "text": "Time left: {0} minute(s)",
+        "text": "Time left: {0} min(s)",
         "hash": "a3d6c4f6fb9bb9e528d0ee79715a395daefec3eb98f683dcd47d7202202f05a4"
     },
     "StoryEvent0044": {
@@ -19984,7 +20000,7 @@
         "hash": "fcee849ed420cd46910aaa85f61d7b12be8079084fe33ef080ed45288b3becea"
     },
     "StoryEvent0074": {
-        "text": "",
+        "text": "Story\nEvent",
         "hash": "76f51733113892eef2015a732e084d254f385cd1089ce9d7f661388912b7c4ae"
     },
     "StoryEvent0075": {
@@ -21020,7 +21036,7 @@
         "hash": "221c951a96034f200890c2cc476283d4f3f18d12a4bf418bc0822c0417208a6b"
     },
     "TeamStadium0030": {
-        "text": "",
+        "text": "Choose Items",
         "hash": "c5e6076113cdb461dd7d79ea22b444c6e4895c3c116111c994a09d60fc1e3eaa"
     },
     "TeamStadium0031": {
@@ -21028,7 +21044,7 @@
         "hash": "c4290bbb6818693e9fbd62dd7d15aed63dd3de2a2cc82ee767c8562fd60a6dbd"
     },
     "TeamStadium0032": {
-        "text": "",
+        "text": "Start Race!",
         "hash": "67584c46ec6c58f3c2fb40a4545d84ab07f772c53fdfd15825eed6c40d59d873"
     },
     "TeamStadium0033": {
@@ -21036,7 +21052,7 @@
         "hash": "bf9b4464ed6c327300c27bc248b33776a3ff192a33b39320de51e67af75d6d01"
     },
     "TeamStadium0034": {
-        "text": "",
+        "text": "<nb>Choose any items you want to use.",
         "hash": "3485cbb3042ec6b60376bfc6905638d3e6a99b695cec5d5d53ae3773bc60755e"
     },
     "TeamStadium0035": {
@@ -21180,7 +21196,7 @@
         "hash": "a3fa839cc44a5d91cb67179914ced0c6ea23eb7fc3f8c00d1162b79885582016"
     },
     "TeamStadium0090": {
-        "text": "",
+        "text": "<nb>Friend Pts.",
         "hash": "db726dcb801a6374cdbdbbba896b96e5f8b028996d9ce2c43599e7809aac12f9"
     },
     "TeamStadium0091": {
@@ -21208,7 +21224,7 @@
         "hash": "9dcaf95e522d4737cd4bd93e24603f7ede67e34a6a02fa2d39d6764f25d946a4"
     },
     "TeamStadium0097": {
-        "text": "",
+        "text": "Auto-Select",
         "hash": "9e12fccdfd21604fc189ffd96bb4dec7096808ecdcf2c2ee1774748e3a86e507"
     },
     "TeamStadium0098": {
@@ -21572,7 +21588,7 @@
         "hash": "614459aa75868bbff3754bfc826313738ed1daa9fb5a9dd143b1318a9987b6df"
     },
     "Title0096": {
-        "text": "",
+        "text": "Data Download",
         "hash": "82a81887ad848ac11f746582a037ebfbef4a0eca865b26acb4f1bb934170e42d"
     },
     "Title0097": {
@@ -21580,7 +21596,7 @@
         "hash": "c6db14fd0c144174bd73bdcbdffc910d9e79005c3bd0caed448c54aa2af2d1e0"
     },
     "Title0098": {
-        "text": "",
+        "text": "Downloading Data",
         "hash": "57a29d52f7c3776088f5a9ce2019a99d28e8cc360d9822c66e2e4dddbb874e18"
     },
     "Title0099": {
@@ -21624,7 +21640,7 @@
         "hash": "34381f96077d67b35d98288560b92035e61f06c9fbcda50dd01a03f58e773ad4"
     },
     "Title0112": {
-        "text": "",
+        "text": "This may take a while depending on your connection.",
         "hash": "1758f7d5fe5c788a2befc484670a98247195097642677c1f77beef41880d017c"
     },
     "Title0113": {
@@ -21680,7 +21696,7 @@
         "hash": "d729aa6783d020f597a078f1c45b7f9302c12969b28f45b694abb8a61d6ba2eb"
     },
     "TrainingChallenge4180004": {
-        "text": "",
+        "text": "Event has ended!",
         "hash": "a255a149b331e12ef786d3e36b6b220e52bad29a6988b21f88f3eb59607c39cf"
     },
     "TrainingChallenge4180100": {
@@ -21764,7 +21780,7 @@
         "hash": "9961ce0f36ade4f680cf115f2a5f9337cab3a633a9dee37558ac8b9a2c1f7a02"
     },
     "TrainingChallenge4180500": {
-        "text": "",
+        "text": "Rental",
         "hash": "0ffe4a71a1c6c8946ae5c37da50d826097108a2102c8006f29b3e8ed35851201"
     },
     "TrainingChallenge4180501": {
@@ -21824,7 +21840,7 @@
         "hash": "025f9bc15da4a6444339a6de914c63730dbca27aedf0b09aee024e74f1c6f32a"
     },
     "TrainingChallenge4180901": {
-        "text": "",
+        "text": "Rating",
         "hash": "a2993eba4e7221fa8fea9b9d1be758e5f4ee7ae5dd18948a7fb9bd3c98eb674c"
     },
     "TrainingChallenge4180902": {
@@ -22288,7 +22304,7 @@
         "hash": "1916f0a27a0bb8e07197c9cbc1a450bd1f57ae73998e22ce43323ff372199a42"
     },
     "TransferEvent0028": {
-        "text": "",
+        "text": "Select",
         "hash": "4b1ac60072569ad7d5367d24320b9ae1ed135c71e19152af4ed498852b8e6502"
     },
     "TransferEvent0029": {
