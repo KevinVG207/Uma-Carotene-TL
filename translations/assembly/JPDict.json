@@ -1260,7 +1260,7 @@
         "hash": "26d69442fdd0bc943296ed23f89dec5bb6875308ceb9bce9e5b73f8bb4354698"
     },
     "Champions0081": {
-        "text": "",
+        "text": "Period: ",
         "hash": "008be1e8d76df8c1f5b46e50b82d5aa74aa01642bfbce5020e70df5b4983b9be"
     },
     "Champions0082": {
@@ -1760,7 +1760,7 @@
         "hash": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c"
     },
     "Character0032": {
-        "text": "<size=28>Unlocked<size>",
+        "text": "<nb><size=23>Unlocked</size>",
         "hash": "0414fd1a9117d7054d421b58af4b28e120416f1e6d61922a3ee88e750a3f936a"
     },
     "Character0035": {
@@ -1856,7 +1856,7 @@
         "hash": "57033da9dacb9a2782e12bc87f10b65535361e4934c769a6be13640719eb1077"
     },
     "Character0068": {
-        "text": "",
+        "text": "This nickname is already in use.",
         "hash": "a6e39bd727b2d2f9f1f41bf6003dadedfff83f77551cce41f01106ea7876891c"
     },
     "Character0069": {
@@ -1872,7 +1872,7 @@
         "hash": "9dda070431120bfee2949665f50175ddd3ec285ca8a5f4ccebc1c27f2bb77143"
     },
     "Character0077": {
-        "text": "",
+        "text": "In Use",
         "hash": "242fbd71496d120f45b8861141ad14f1117fb9ac924a9cd02e868d6ca6f50968"
     },
     "Character0079": {
@@ -3460,7 +3460,7 @@
         "hash": "d356a7ca7df4186776882561a17e081db40d03e7a8af2aa77bc9767ea71703d9"
     },
     "CollectEvent508013": {
-        "text": "",
+        "text": "Period\n{0} ～ {1}",
         "hash": "9dcf706fdd2d9ea10cfeb247202bd7b198a6ae3925bd8fd9e64e536c884e95a1"
     },
     "CollectEvent508014": {
@@ -3496,7 +3496,7 @@
         "hash": "d884f54f78000e163ba2a9862dfd06d90c6074b5ecaef4d770182bb9b5e7cf84"
     },
     "CollectEvent424008": {
-        "text": "",
+        "text": "<nb>Event has ended",
         "hash": "601c98e5ef70c86b454f246f391e008ae877c90521b8972bb10c8c605a8c50b5"
     },
     "CollectEvent424109": {
@@ -3584,7 +3584,7 @@
         "hash": "7c0c273cfc9891f92a22eb816d1964cc4296835963b3037da85ed78f7bb8667d"
     },
     "Common0018": {
-        "text": "Left: ",
+        "text": "<nb>Left: ",
         "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
     },
     "Common0019": {
@@ -3612,7 +3612,7 @@
         "hash": "4a05dbc8e5955a11a5550f6b37f5a9682867d911791f6f84d3e5b9b17b8fadec"
     },
     "Common0027": {
-        "text": "",
+        "text": "<nb>Uma\nInfo",
         "hash": "ada569a26ae56245717c6e401fec950d2a44474d55ff2dbe8871a5de3307c2ca"
     },
     "Common0028": {
@@ -3696,7 +3696,7 @@
         "hash": "a6c63435d0bec6c253d8b7415d69c988346040a14e4eea4525e36ac6956d6cd9"
     },
     "Common0053": {
-        "text": "",
+        "text": "<nb>Nicknames",
         "hash": "bf03f5163fe93f186e9fff12019aa5501d837778cbc8dc89dd5251fa4e9a1540"
     },
     "Common0054": {
@@ -3772,23 +3772,23 @@
         "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
     },
     "Common0072": {
-        "text": "<nb>SPD",
+        "text": "SPD",
         "hash": "ad284e9087f0ec1c269a689e37a0915f0f6ed1ffb1fbfec1b9c045c2b4fc1113"
     },
     "Common0073": {
-        "text": "<nb>STA",
+        "text": "STA",
         "hash": "ffb1081ec146d67ae4a22d5572194c456e6714dc862d14811e99bc04b9e788a6"
     },
     "Common0074": {
-        "text": "<nb>POW",
+        "text": "POW",
         "hash": "b8f39c8447a450fc48d59618b608a889ec047354329d6231ca23a2cccdfdf89a"
     },
     "Common0075": {
-        "text": "<nb>GUT",
+        "text": "GUT",
         "hash": "f42efdb38f3aa9dfb9499c24b7782a76b7450e54d8f5e7cff68e18af4628546b"
     },
     "Common0076": {
-        "text": "<nb>WIS",
+        "text": "WIS",
         "hash": "d2ecb5b4d76ac9eb156e9eee307c77be877885b9aac7d9911c00771a67cc5100"
     },
     "Common0077": {
@@ -3976,7 +3976,7 @@
         "hash": "d79edd02b3cd414055b17c13f394f36da4f8955bbf076db4b77549ad4949d95e"
     },
     "Common0125": {
-        "text": "Details",
+        "text": "<a5> Info  ",
         "hash": "fcd2eb7ff6dc7a114fa4726db665bad2dcd427bd518eba4ce1e97e420319d1cc"
     },
     "Common0126": {
@@ -3996,7 +3996,7 @@
         "hash": "c45772aacc1f8bfbb8ee7ef3a2ec64ce44b78cd7268df2d487acec04510f38d3"
     },
     "Common0132": {
-        "text": "",
+        "text": "TP​",
         "hash": "23726709e41f765d5b5b3d5fc6d91b9b4557166b094406378a8436996a2ad9ab"
     },
     "Common0134": {
@@ -4004,7 +4004,7 @@
         "hash": "03072807003b674f847a69903dc8f20fccb8f65513a531fca9d8cd154d4df6b5"
     },
     "Common0135": {
-        "text": "",
+        "text": "Period: {0} ～ {1}",
         "hash": "8a7ad790e2b9cd4dce9ccf91715693fa9c7f7f88aaa3f9aed9ef0eaec866d467"
     },
     "Common0136": {
@@ -4252,11 +4252,11 @@
         "hash": "7c18dba3144b6dcd05de43aae123c989d02913f54b6a84eb3bb6f9301393e9c8"
     },
     "Common0244": {
-        "text": "<nb>GUT",
+        "text": "GUT",
         "hash": "f719bf046c9c2f61585bc1eb7e9884ecf4e6b89f989c9d3be110deb392fca24c"
     },
     "Common0245": {
-        "text": "<nb>WIS",
+        "text": "WIS",
         "hash": "50439fa5ba0aa627ca39a789b58de85b6a8242040125ec10e8c4ba2d089a1a6b"
     },
     "Common0247": {
@@ -4308,7 +4308,7 @@
         "hash": "68b116d4486c2c89f69f52c18c265e47edc46b6931abe6d818cf6524072349ab"
     },
     "Common0273": {
-        "text": "",
+        "text": "Training Home",
         "hash": "2249b3ab274ea50b296caf0d5a3a876a9eda580b0b472de2a230192b528ce515"
     },
     "Common0274": {
@@ -4472,7 +4472,7 @@
         "hash": "d905aaef6f30a863fb9cd169a0e223799d7f95447d7cc2da2ee958eb7fcbd256"
     },
     "Common418001": {
-        "text": "Random",
+        "text": "<nb>Random",
         "hash": "f9b22bbf8fa1f3fd48ada6f4756bd9e2b804e0715f28771d6e715343c28b209d"
     },
     "Common408001": {
@@ -4632,7 +4632,7 @@
         "hash": "e12106538cd91377d95054d19a379c8ecf7da0c409291815d6e0287f2ebbf2be"
     },
     "Directory0016": {
-        "text": "",
+        "text": "<nb>Unlocked",
         "hash": "a6a6fab81eb878505fbd6b361ac5241d790da57a5973cbcd9821ae27fd4531fb"
     },
     "Directory0017": {
@@ -4904,7 +4904,7 @@
         "hash": "8e632808de1887a0d429aebaf3e10865455ff8fe0657351a97b7f7494ccfd4a8"
     },
     "FactorResearch483008": {
-        "text": "",
+        "text": "Rewards Overview",
         "hash": "1709004c17bf69eaa0828bb64fedb000de21b6036b49acc7f9438f772f2b954f"
     },
     "FactorResearch483009": {
@@ -5216,11 +5216,11 @@
         "hash": "2585a4707ed633da3a8ec934ccb79b94ded7d9df5ff13d82c7d75c236c09c0f4"
     },
     "Gacha0004": {
-        "text": "",
+        "text": "<a4><nho>Pull",
         "hash": "5bcf58d71ccbaea5225455cbd39ee8b3633b262c0f5ab22a4946ca45d9f5e59d"
     },
     "Gacha0005": {
-        "text": "Limited",
+        "text": "<nb>Only",
         "hash": "063ca10cab48927405ad4cb223b379668633c1316c74bf1338b49544401ba198"
     },
     "Gacha0009": {
@@ -5260,7 +5260,7 @@
         "hash": "f2b758e594bd88488a5367a218119e21b416a3bbd11b2ca1fe0bdfc1fc7910b5"
     },
     "Gacha0027": {
-        "text": "",
+        "text": "Resets every day",
         "hash": "ec9e63857129c84bdc36f3006e65e05f6ca8d5a8f992de999348b892ba8a03aa"
     },
     "Gacha0028": {
@@ -5320,7 +5320,7 @@
         "hash": "ee6ac62804efc708097da8396936deccf95a165cd2528d3c770261f716765b04"
     },
     "Gacha0046": {
-        "text": "",
+        "text": "x",
         "hash": "6da3e5c03ac7e66cdc5f307308e136ff9a65b05fdd2022bd96fc27132b9d6373"
     },
     "Gacha0047": {
@@ -8036,7 +8036,7 @@
         "hash": "7f8719fb91e8538a77ce622e80c641e8a0856bfba92768ea9f451a950ed41ae1"
     },
     "Outgame0027": {
-        "text": "",
+        "text": "This title is already in use.",
         "hash": "5ea78b83bbf317788e5325ee53cd5938fa75d6a7785aa1efd01162fb9e218517"
     },
     "Outgame0028": {
@@ -8716,7 +8716,7 @@
         "hash": "065868f036c81fbcc065bfd03460fd5ad21ef538fadfa8e3b40a943ebbe78780"
     },
     "Outgame0313": {
-        "text": "",
+        "text": "Period: {0}/{1} ～ {2}/{3}",
         "hash": "004f670163a43d334cce2e6d7587e71ad90e5a0fe8858d2cfc144378b96fdabb"
     },
     "Outgame0314": {
@@ -10752,7 +10752,7 @@
         "hash": "8a63274ae9d3b1c69594771f61aca3be63ce7841e268413605fb2c97ac09843b"
     },
     "Outgame562012": {
-        "text": "",
+        "text": "<nb>Unlocked",
         "hash": "a6a6fab81eb878505fbd6b361ac5241d790da57a5973cbcd9821ae27fd4531fb"
     },
     "Outgame585002": {
@@ -12192,7 +12192,7 @@
         "hash": "ddb69ad79e2dd9c70ce001c378b800bb02989b26ebd6385e7ab6c106eaa623ec"
     },
     "Race0260": {
-        "text": "",
+        "text": "Rewards Overview",
         "hash": "1709004c17bf69eaa0828bb64fedb000de21b6036b49acc7f9438f772f2b954f"
     },
     "Race0329": {
@@ -12544,7 +12544,7 @@
         "hash": "2afd6b0b38e715fadebd0d8054496ab67fe76eb2001e5aba886fd0fef7c83a9c"
     },
     "Race0635": {
-        "text": "",
+        "text": "Motivation",
         "hash": "2625bf9b2907e8befb3dce8373483aba314f9c78036439c2b89e9ab1c98d3003"
     },
     "Race0636": {
@@ -14448,7 +14448,7 @@
         "hash": "7ff07f1dea6320846dc14b4114b79bb755cb1b73e9f5aa87df9ca24578294b98"
     },
     "SingleMode0002": {
-        "text": "",
+        "text": "Training",
         "hash": "17ec11ebb6b9124414c9785ecee7618c0b0ddb439b10ad1f498b73df3f83998b"
     },
     "SingleMode0003": {
@@ -14456,7 +14456,7 @@
         "hash": "3bdc31eddf4b51657e71eb49977d646bc42efa2f346f5993ae851e92ff7bb498"
     },
     "SingleMode0006": {
-        "text": "",
+        "text": "Energy",
         "hash": "d6d2aa99fd698da376bfe5da1e585e816e6b042d1b03afa35d1458322f31f85d"
     },
     "SingleMode0009": {
@@ -14476,15 +14476,15 @@
         "hash": "1172b7a321939579fe11f03149289dff0a324599fc3a60015bf20ce9bf1d68b0"
     },
     "SingleMode0017": {
-        "text": "",
+        "text": "<nb>Junior Era",
         "hash": "44a5e1b20f1d75eb39ff25c577bc5bc5671a350bed4e1e1b41ed9b8eda0088a9"
     },
     "SingleMode0018": {
-        "text": "",
+        "text": "<nb>Classic Era",
         "hash": "b3d8ef4daafa0f15281ac8fd3138b19835ba01c264a000fa36904a6911472ade"
     },
     "SingleMode0019": {
-        "text": "",
+        "text": "<nb>Senior Era",
         "hash": "86fea8845491367c7273299d6dd2b23eac906b5190a32a0ce9397f4d877e6c5e"
     },
     "SingleMode0020": {
@@ -14516,7 +14516,7 @@
         "hash": "1618b1e77a3fddac21ae845801fcdb6c1db8b4103f91152b581baba034c3b1d5"
     },
     "SingleMode0036": {
-        "text": "",
+        "text": "Fail",
         "hash": "1dcfd510138b6c185b80288bc655b7fb5368e144fd6e4b8677253f04548c7247"
     },
     "SingleMode0037": {
@@ -14560,15 +14560,15 @@
         "hash": "eb91d562ff25602a81eb236699e6182ff237544ace074eb44d279fa247b066fe"
     },
     "SingleMode0059": {
-        "text": "",
+        "text": "<slogan>{0}<color=#2E85E6> down {1}</color><br>",
         "hash": "7ba181a050970df2f3565dc2bfaa9bbc673d74e118ab6579e3f3815bb22f5b6e"
     },
     "SingleMode0060": {
-        "text": "",
+        "text": "<slogan>{0}<color=#F16D27> up {1}</color><br>",
         "hash": "7bd2996652334fce591a67bdf6a7caa58090d302d34c51dcd7c658ad0523909d"
     },
     "SingleMode0067": {
-        "text": "",
+        "text": "Outing",
         "hash": "7ff07f1dea6320846dc14b4114b79bb755cb1b73e9f5aa87df9ca24578294b98"
     },
     "SingleMode0073": {
@@ -14576,19 +14576,19 @@
         "hash": "382e2b7e815b3a1b7092371c139aa150d63150111e3d400efecadcbf63faebc8"
     },
     "SingleMode0074": {
-        "text": "",
+        "text": "<slogan>Energy <color=#2E85E6>down {0}</color><br>",
         "hash": "b307608046a487ee85c1f7af79456204a83d6d2fe9c63d51e9b72d516fe349c1"
     },
     "SingleMode0075": {
-        "text": "",
+        "text": "<slogan>Energy <color=#F16D27>up {0}</color><br>",
         "hash": "0f5894a69fd245cc87f3adcecfb13a61811ea3a1786d56c030ea1cabeca7a904"
     },
     "SingleMode0076": {
-        "text": "",
+        "text": "Motivation <color=#2E85E6>down</color>",
         "hash": "25da9ab27b3623adb28201e9a2800a5fcb84c9b9cf9fb6d38d30e1459e4d811c"
     },
     "SingleMode0077": {
-        "text": "",
+        "text": "<slogan>Motivation <color=#F16D27>up</color><br>",
         "hash": "edaf79167be263a948d2232ee8029ce52950d3122c50cc6ddaf1685f60652862"
     },
     "SingleMode0078": {
@@ -14672,7 +14672,7 @@
         "hash": "2a21905f43e5a05954fb631dfc0cf38b1d8b25001f9ccedd80abcd27e88f6fb8"
     },
     "SingleMode0113": {
-        "text": "",
+        "text": "<nb>Starting the training costs {0} TP. Are you sure?",
         "hash": "d8e713a21531f37619b9e28726547504fd1a261f83d62827f1de94ab1ab5bc06"
     },
     "SingleMode0114": {
@@ -14728,7 +14728,7 @@
         "hash": "e30383028e576b9d9a01a8489debf9030f180f5683b61aa282fdcbe1e6a81bcf"
     },
     "SingleMode0131": {
-        "text": "",
+        "text": "Goal",
         "hash": "c92c0b98db4f681e3fe326c9cdab5312cc295d9c4d3ec177997a17f826a16cef"
     },
     "SingleMode0132": {
@@ -14760,7 +14760,7 @@
         "hash": "e96d08342597f8d5bc2f15f0d63a953245db41e6b85a6a4d2124b99ab06b3687"
     },
     "SingleMode0151": {
-        "text": "",
+        "text": "<nb>Deck Info",
         "hash": "90401717625b0c1d519edc3b6994c8a041ebe1a68dc1372292e9c80974062412"
     },
     "SingleMode0153": {
@@ -14812,7 +14812,7 @@
         "hash": "45b95f0e4bb0b50f6b098935636d70a598463b864f9f6c295cdcf8e1723accb5"
     },
     "SingleMode0169": {
-        "text": "",
+        "text": "Pre-Debut",
         "hash": "d01bb5ed02432cc020080954c36cdddd82f598cee7ff95b5be7ca7dbadc1644b"
     },
     "SingleMode0170": {
@@ -14872,19 +14872,19 @@
         "hash": "077e527c344f7d35e05806c44251373305160f735afc28f9d39bfbb16a4d66f0"
     },
     "SingleMode0202": {
-        "text": "",
+        "text": "Skillpt.",
         "hash": "ffb63a64a0faec908d912010817110c15b1d1e20fd35bff8f075748e22b27b21"
     },
     "SingleMode0204": {
-        "text": "",
+        "text": "<slogan>She became<color=#{0}>「{1}」</color><br>",
         "hash": "9b32ffd8e74f2be82d2980ebef2b355ca7f3aa24fd9f1f1d3e127b2d168066e8"
     },
     "SingleMode0206": {
-        "text": "",
+        "text": "<slogan><color=#{0}>「{1}」</color><color=#{2}>hint level up {3}</color><br>",
         "hash": "97841a12cd1509637578de4bc267721eba592c09438342080d09033a1ba6c163"
     },
     "SingleMode0207": {
-        "text": "",
+        "text": "<nb>Current Skillpt.",
         "hash": "300de1fa3dd1925c7a5403d3bda75d6e414fabc189a29eb7d8cc1630b0ac0cd2"
     },
     "SingleMode0208": {
@@ -14920,7 +14920,7 @@
         "hash": "377c82d66ac18bc9597e3f51242f4ec762bb29a8263e7cf23d72da210472b827"
     },
     "SingleMode0217": {
-        "text": "",
+        "text": "Suspend",
         "hash": "c9cb2cca262e221f0966852c55aae3dc4531c09c5ca47700e0e1b422594ed75c"
     },
     "SingleMode0218": {
@@ -15012,7 +15012,7 @@
         "hash": "f8a628cfc4e05c64195f0d1074252639d69dfb28cfcae9db528cd98e4dc0e915"
     },
     "SingleMode0242": {
-        "text": "",
+        "text": "None",
         "hash": "6483c781105ac26be39fbe122287aea41b8cefbed4bf6f71b86cfb557a8b4e8e"
     },
     "SingleMode0243": {
@@ -15088,7 +15088,7 @@
         "hash": "08927948f62aa745f94d13e8b1176c924545b94bf6aee8bbee4d62ad9c7a715d"
     },
     "SingleMode0261": {
-        "text": "",
+        "text": "Retire",
         "hash": "152231e9785ce0632e23a7aa315d5238b9a67dde519f03ffa5545dab67fb8d51"
     },
     "SingleMode0262": {
@@ -15188,7 +15188,7 @@
         "hash": "862e71a1cdb133da0d503314cbd9af005def803479e0ed592e97bac37fa5154c"
     },
     "SingleMode0288": {
-        "text": "",
+        "text": "<nb>Final Confirmation",
         "hash": "dfe84f044d21323bdf3887a90f243a1b3bc0063a56ff024cfea22bf8eddf59ff"
     },
     "SingleMode0290": {
@@ -15204,11 +15204,11 @@
         "hash": "19f091d96d9b0e717799c27aee382bce2c0b9a9f2c469a27d023c0f21f966579"
     },
     "SingleMode0294": {
-        "text": "",
+        "text": "<slogan>Bond gauge of {0} <color=#F16D27>up {1}</color><br>",
         "hash": "df2396c13a0841c02c67b149e37d0ce27ae28aa895fea376f5b18f6129916688"
     },
     "SingleMode0295": {
-        "text": "",
+        "text": "<slogan>Bond gauge of {0} <color=#2E85E6>down {1}</color><br>",
         "hash": "39f1dc4358753ae8a7ed1f65bb50c3dcff4896dfa2c9352fd1bfd0d804af18ea"
     },
     "SingleMode0296": {
@@ -15240,19 +15240,19 @@
         "hash": "d78cf566e604e97036ba74522d74a84e81e09ae3e010ffa768c40688baf69439"
     },
     "SingleMode0307": {
-        "text": "",
+        "text": "Umamusume Event",
         "hash": "338f61a6d4c703c31effa0d520f7b591fbd31589e33e6a524d959d955fc8bd0f"
     },
     "SingleMode0308": {
-        "text": "",
+        "text": "Support Card Event",
         "hash": "acca7cbbaf29b1b845b4228bd69221db05a2fd91381a12352fe6ef175f93c79b"
     },
     "SingleMode0309": {
-        "text": "",
+        "text": "Status Effects",
         "hash": "7a38bcac1a1872ee81cbc39f460ebd80aa29c5b7dc85c48f42ffb84b68bd0346"
     },
     "SingleMode0311": {
-        "text": "",
+        "text": "Auto-Select activated.",
         "hash": "596ac5b563833c2b6f6526ea66f0167e7f750baf2b7afd95c502c057da808fb6"
     },
     "SingleMode0313": {
@@ -15456,7 +15456,7 @@
         "hash": "79ebcd9aa60c830de3a68510911cedbc898098c7d58283ce212bacd0ccbe807f"
     },
     "SingleMode0374": {
-        "text": "",
+        "text": "No log yet.",
         "hash": "4039dbda7e0631a6201b08107fbfef8b6c8130bf58e9e34206c655bd0f95a113"
     },
     "SingleMode0375": {
@@ -15488,23 +15488,23 @@
         "hash": "cef9a15def5221f0d9b4e78f0ab2eab487af50e6c71a425c0a57769a4c1801da"
     },
     "SingleMode0383": {
-        "text": "",
+        "text": "Event Shortening",
         "hash": "597a77f6b5cc37de56098fa1b51fd3f3c4406df1b56e7056d318141f576f8ccb"
     },
     "SingleMode0384": {
-        "text": "",
+        "text": "<nb>Shorten all events",
         "hash": "cffa664552d5495c21f77edb9b56618ed80f0a3fd6542be8470295b04bc14dc4"
     },
     "SingleMode0385": {
-        "text": "",
+        "text": "<nb>Only shorten main scenario events",
         "hash": "5207cc3679d7141ef97c5a4e71a56ba4eca25091245711a84eeae1117df5a5d2"
     },
     "SingleMode0386": {
-        "text": "",
+        "text": "<nb>Only shorten Umamusume events",
         "hash": "7ba4a13f612694927d06d5980fed2b6b30699dc1461da476387abb661e06d4d6"
     },
     "SingleMode0387": {
-        "text": "",
+        "text": "Would you like to <color=#ff911c>shorten</color> special events?\nThis is recommended for avid trainers.",
         "hash": "2461b541dc143b0fa8e7c5a249e16077c8e77e6e8e02ee172d12b530dd318b9e"
     },
     "SingleMode0389": {
@@ -15524,7 +15524,7 @@
         "hash": "4a0256922d8a8be24604ed9650266f20b24db66b197b010bab5e9940fd5329f4"
     },
     "SingleMode0393": {
-        "text": "",
+        "text": "<nb>Do not shorten anything",
         "hash": "8a419e9b93cfc3908e18ce343deb3984bad48c6ac501187e26225a1a9c243580"
     },
     "SingleMode0394": {
@@ -15568,7 +15568,7 @@
         "hash": "e46325ff96fe76f0609caf1643152ef74a46d9d12d40c3195687808af0927377"
     },
     "SingleMode0405": {
-        "text": "",
+        "text": "<slogan>{0} may now <color=#F16D27>appear during training</color><br>",
         "hash": "3c0fca7c4c7c70544de91e1bae4ed835ad8c157769f4fef3106c74e7b7176c2d"
     },
     "SingleMode0406": {
@@ -16068,11 +16068,11 @@
         "hash": "f6b5e2bc5d0b937ad79692541a90b2211b0ba42e8501eb9fd3f729ae3069b218"
     },
     "SingleMode194003": {
-        "text": "",
+        "text": "TP x{0}",
         "hash": "1743de1f8f841272e1ed4aac963b21178fdd07e3a90c1263eeb45e696b2ceab0"
     },
     "SingleMode194004": {
-        "text": "",
+        "text": "Event Boost (TP x{0})",
         "hash": "3263018372adeb55a7872be8fe8617eda14fce57297cac5b765d29ca83db9528"
     },
     "SingleMode194005": {
@@ -16852,7 +16852,7 @@
         "hash": "7fbf1828be856f7b9efdf1024760ad4d97309f22bd298c2baed93934c56554c8"
     },
     "SingleMode400117": {
-        "text": "",
+        "text": "<nb>Never shorten unseen events",
         "hash": "e0d77a1b6cc9f17dda9d23d9da68297160e3662a9e081b4d632f67a137f02cdb"
     },
     "SingleMode400118": {
@@ -17064,7 +17064,7 @@
         "hash": "ad209c4a4ed0967eceef01ebdfa9318bbb83e0b37f0347ecb624924e403896c2"
     },
     "SingleMode425016": {
-        "text": "",
+        "text": "<nb>Listen",
         "hash": "6f1300b02cfc57157723b73026d6d32d14318b9ffe8fbc2aa0f62a966709b9c6"
     },
     "SingleMode425017": {
@@ -17080,7 +17080,7 @@
         "hash": "5bdb20fdb26d1485574d0f4dc226d7884f38bf763ca3c283e9913c90a5817df6"
     },
     "SingleMode425020": {
-        "text": "",
+        "text": "This BGM is already in use.",
         "hash": "e27204a2e40c54bd95e6c2b2059c889ec0e9d0365885c111cdd180358ab7577b"
     },
     "SingleModeScenarioArc0001": {
@@ -19356,7 +19356,7 @@
         "hash": "5d15594b45da4adf4a76e45ac6f64268e52cd8cdcf5f83586e0bec47efc45460"
     },
     "Story0010": {
-        "text": "",
+        "text": "Log",
         "hash": "93576d60ef1bf65aee806cfbcd9819d0321b257cb9acb903bd9b0df9695dc6a3"
     },
     "Story0011": {
@@ -19444,7 +19444,7 @@
         "hash": "0ca3ca2392a0e4727d20536957c6b4569686f08f5fb98fc1642305473db8de5f"
     },
     "Story0039": {
-        "text": "",
+        "text": "<slogan>She became<color=#F16D27>「{0}」</color><br>",
         "hash": "709300402a4a656a78798002297b1c45f06517a0f61d3049d261d81c9ae96e4a"
     },
     "Story0040": {
@@ -19460,7 +19460,7 @@
         "hash": "6180e29404e9c1423043a52cc356df96df7b7030c863d7736b51e1a683003442"
     },
     "Story0043": {
-        "text": "",
+        "text": "<slogan><chrname> learned from that!",
         "hash": "a129d1ca1c34d5c981a0dfe4b7f0b4e5cb6a26d191ae4914fe2530a0acb742eb"
     },
     "Story0045": {
@@ -19744,11 +19744,11 @@
         "hash": "14f3948be76c55605a8cd25390e854088490e26c62dde0554afb2ece7c41fd20"
     },
     "StoryEvent0010": {
-        "text": "",
+        "text": "Period: {0} ～ {1}",
         "hash": "8a7ad790e2b9cd4dce9ccf91715693fa9c7f7f88aaa3f9aed9ef0eaec866d467"
     },
     "StoryEvent0011": {
-        "text": "",
+        "text": "Point Rewards",
         "hash": "c9976b05b9ce13d146a42ab8f84ab0417a2305d4d5477e91886d6d2e6fa43f21"
     },
     "StoryEvent0012": {
@@ -19760,7 +19760,7 @@
         "hash": "f4493331dcc0923be9ef059e70f4c546d33f70efb47a9ad541f9b1371051a298"
     },
     "StoryEvent0014": {
-        "text": "",
+        "text": "Event Story",
         "hash": "118bc1358eb49bd673f3ffffc3707722708f2c7bc903dd7547080ad83436c97e"
     },
     "StoryEvent0015": {
@@ -19776,7 +19776,7 @@
         "hash": "cee1e4157af29025fbfe305c8bb11e546938ea0f476fce9d5a9d48d2d0b47678"
     },
     "StoryEvent0018": {
-        "text": "",
+        "text": "Story Event",
         "hash": "9b6b6bfc9737ff6270a48cf2c222ed4dc121c3d8c23312c5ec74e845688de8dd"
     },
     "StoryEvent0019": {
@@ -19792,19 +19792,19 @@
         "hash": "a31b72909be84433401a94037dc633fd3532d31a472de5ae7f4536c08d379103"
     },
     "StoryEvent0022": {
-        "text": "",
+        "text": "Event Points",
         "hash": "4097f52f35d4ee3c79f9b0c2bfb94163d1a3bec12af03b2658e5d413c8b0f6fb"
     },
     "StoryEvent0023": {
-        "text": "",
+        "text": "Roulette Derby",
         "hash": "adc80214a2f59ce30b362788e859fb9d3a959e9b9e46b3d8f784cb60aeb856b1"
     },
     "StoryEvent0024": {
-        "text": "",
+        "text": "Event\nMissions",
         "hash": "3ec43dd4eb106ac46b1124c5e7067355f2d14cd1b0cb058c4ae7c6c1076d7705"
     },
     "StoryEvent0025": {
-        "text": "",
+        "text": "Roulette\nDerby",
         "hash": "b8370b0f714b465c9e2dfac4e8c6049a152150e537b7b27f10e622e7f96daf80"
     },
     "StoryEvent0026": {
@@ -19972,7 +19972,7 @@
         "hash": "32fe7ba5ce43ab0d9e5948b7dd966fe68f1aa15724016327bac3f1f642308b1a"
     },
     "StoryEvent0067": {
-        "text": "",
+        "text": "Event\nBonus",
         "hash": "826c890ae6c10585113298dbb339bf6e5c9a1523f8106fd7713007726f6e7288"
     },
     "StoryEvent0068": {
@@ -19996,7 +19996,7 @@
         "hash": "b9a22b6e12ca00c861c90fc8c70960e529cff6637a17b27b6ba3513f846e5523"
     },
     "StoryEvent0073": {
-        "text": "",
+        "text": "Event Bonus Total",
         "hash": "fcee849ed420cd46910aaa85f61d7b12be8079084fe33ef080ed45288b3becea"
     },
     "StoryEvent0074": {
@@ -20300,7 +20300,7 @@
         "hash": "64ed3aa520267b34d22025dac7f447fd223c22a6c6d5ddccdc1c236dac765594"
     },
     "StoryEvent124002": {
-        "text": "",
+        "text": "<nb>Umamusume with Event Bonus",
         "hash": "629d0b7ef6a02d01b5bc2eb5a450e3076b75a2b0dcb71a6573634dea524b734b"
     },
     "StoryEvent124003": {
