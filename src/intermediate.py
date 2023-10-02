@@ -615,9 +615,33 @@ def assembly_from_intermediate():
     hashed_from_intermediate()
 
 
+def get_mdb_structure():
+    jsons = glob.glob(util.MDB_FOLDER_EDITING + "/**/*.json", recursive=True)
+
+    structure = {}
+
+    for json in jsons:
+        rel_path = json[len(util.MDB_FOLDER_EDITING):]
+
+        path_segments = rel_path[:-5].split(os.sep)
+
+        cur_dict = structure
+        for i, seg in enumerate(path_segments):
+            if seg not in cur_dict:
+                if i == len(path_segments) - 1:
+                    cur_dict[seg] = json
+                else:
+                    cur_dict[seg] = {}
+            cur_dict = cur_dict[seg]
+    
+    return structure
+
 def main():
-    assembly_from_intermediate()
-    print("Done")
+    # assembly_from_intermediate()
+    # print("Done")
+    # pass
+
+    get_mdb_structure()
     pass
 
 if __name__ == "__main__":
