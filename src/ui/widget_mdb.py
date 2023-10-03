@@ -7,11 +7,15 @@ import util
 import tqdm
 import re
 
+COLORS = {
+    None: QColor(255, 255, 255, 0),
+    'edited': QColor(255, 127, 0, 127),
+    'new': QColor(0, 255, 0, 127)
+}
+
 class Ui_widget_mdb(QWidget):
     def __init__(self, *args, base_widget=None, **kwargs):
         super().__init__(*args, **kwargs)
-        self.setupUi(self)
-        self.setFixedSize(self.size())
 
         self.base_widget = base_widget
 
@@ -21,6 +25,13 @@ class Ui_widget_mdb(QWidget):
         self.current_data = None
 
         self.filter_timer = QTimer()
+
+        self.json_dict = {}
+
+        self.json_has_new = set()
+
+        self.setupUi(self)
+        self.setFixedSize(self.size())
 
         self.set_unchanged()
 
@@ -52,7 +63,51 @@ class Ui_widget_mdb(QWidget):
                 self.save(force=True)
         
         return True
+    
+    def color_elements(self):
+        if not self.current_data:
+            return
+        
+        for i, entry in enumerate(self.current_data):
+            cur_grp_box = self.verticalLayout.itemAt(i).widget()
+            cur_grp_box.setAutoFillBackground(True)
 
+            palette = cur_grp_box.palette()
+            palette.setColor(QPalette.Background, COLORS[None])
+            if entry['new']:
+                # cur_grp_box.setStyleSheet("background-color: rgba(0, 255, 0, 127);")
+                palette.setColor(QPalette.Background, COLORS['new'])
+
+            if entry['edited']:
+                # cur_grp_box.setStyleSheet("background-color: rgba(255, 127, 0, 127);")
+                palette.setColor(QPalette.Background, COLORS['edited'])
+            
+            cur_grp_box.setPalette(palette)
+
+    def color_tree(self):
+        # Loop over all QTreeWidgetItems including children
+        def recursive_color_tree(item):
+            item.setBackground(0, QBrush(COLORS[None]))
+
+            for i in range(item.childCount()):
+                child = item.child(i)
+                recursive_color_tree(child)
+                if child.data(0, Qt.UserRole + 1):
+                    item.setBackground(0, QBrush(COLORS[child.data(0, Qt.UserRole + 1)]))
+                    item.setData(0, Qt.UserRole + 1, True)
+
+            item.setData(0, Qt.UserRole + 1, None)
+            if item.data(0, Qt.UserRole) and any([entry['edited'] for entry in self.json_dict[item.data(0, Qt.UserRole)]]):
+                item.setBackground(0, QBrush(COLORS['edited']))
+                item.setData(0, Qt.UserRole + 1, 'edited')
+
+            if item.data(0, Qt.UserRole) and any([entry['new'] for entry in self.json_dict[item.data(0, Qt.UserRole)]]):
+                item.setBackground(0, QBrush(COLORS['new']))
+                item.setData(0, Qt.UserRole + 1, 'new')
+
+        for i in range(self.tree_categories.topLevelItemCount()):
+            item = self.tree_categories.topLevelItem(i)
+            recursive_color_tree(item)
 
     def fill_tree_categories(self):
         self.tree_categories.clear()
@@ -81,9 +136,16 @@ class Ui_widget_mdb(QWidget):
                         suffix = f" {cur_dict[category]}"
 
                     item.setText(0, category + suffix)
-                    item.setData(0, Qt.UserRole, categories[category])
+
+                    json_path = categories[category]
+                    item.setData(0, Qt.UserRole, json_path)
+                    self.json_dict[json_path] = util.load_json(json_path)
         
+        print("Loading all MDB categories...")
         recursive_add_categories(self.tree_categories, categories, [])
+        print(self.json_has_new)
+        self.color_tree()
+        print("Done")
 
 
     def update_text(self, txt):
@@ -127,9 +189,12 @@ class Ui_widget_mdb(QWidget):
                 entry['text'] = cur_translation
                 entry['new'] = False
                 entry['edited'] = False
-
+        
+        self.json_dict[self.current_json] = cur_data
         util.save_json(self.current_json, cur_data)
         self.set_unchanged()
+        self.color_elements()
+        self.color_tree()
 
 
     def reload(self):
@@ -148,7 +213,7 @@ class Ui_widget_mdb(QWidget):
         if ret != QMessageBox.Yes:
             return
 
-        self.fill_tl_entries(self.current_json, keep_position=True)
+        self.fill_tl_entries(self.current_json, reload_data=True, keep_position=True)
 
     def _filter(self):
         if not self.current_data:
@@ -199,11 +264,15 @@ class Ui_widget_mdb(QWidget):
                 cur_grp_box.show()
             
             # Regex search
-            if self.chk_en_filter.isChecked() and re.search(search_term, cur_translation):
-                cur_grp_box.show()
-            
-            if self.chk_jp_filter.isChecked() and re.search(search_term, cur_source):
-                cur_grp_box.show()
+            try:
+                if self.chk_en_filter.isChecked() and re.search(search_term, cur_translation):
+                    cur_grp_box.show()
+                
+                if self.chk_jp_filter.isChecked() and re.search(search_term, cur_source):
+                    cur_grp_box.show()
+            except re.error:
+                # Invalid regex
+                pass
 
     def filter(self):
         # Debounce
@@ -213,8 +282,8 @@ class Ui_widget_mdb(QWidget):
         self.filter_timer.start(250)
 
 
-    def fill_tl_entries(self, json_path, keep_position=False):
-        if self.current_json == json_path:
+    def fill_tl_entries(self, json_path, reload_data=False, keep_position=False):
+        if not reload_data and self.current_json == json_path:
             return
         
         if self.changed:
@@ -235,7 +304,11 @@ class Ui_widget_mdb(QWidget):
                 self.save(force=True)
 
         self.current_json = json_path
-        self.current_data = util.load_json(json_path)
+
+        if reload_data:
+            self.json_dict[json_path] = util.load_json(json_path)
+
+        self.current_data = self.json_dict[json_path]
 
         scroll_position = 0
         if keep_position:
@@ -342,6 +415,8 @@ class Ui_widget_mdb(QWidget):
         # self.verticalLayout.addItem(self.verticalSpacer)
         self.scrollArea.verticalScrollBar().setValue(scroll_position)
         self.set_unchanged()
+        self.color_elements()
+        self.color_tree()
 
     def setupUi(self, widget_mdb):
         if not widget_mdb.objectName():
