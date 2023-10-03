@@ -8,12 +8,12 @@ import tqdm
 import re
 
 class Ui_widget_mdb(QWidget):
-    def __init__(self, parent: QTabWidget, *args, **kwargs):
-        super().__init__(parent, *args, **kwargs)
+    def __init__(self, *args, base_widget=None, **kwargs):
+        super().__init__(*args, **kwargs)
         self.setupUi(self)
         self.setFixedSize(self.size())
 
-        self._parent = parent
+        self.base_widget = base_widget
 
         self.tab_text_org = None
 
@@ -26,9 +26,11 @@ class Ui_widget_mdb(QWidget):
 
     def set_changed(self):
         self.changed = True
+        self.base_widget.set_changed(self)
     
     def set_unchanged(self):
         self.changed = False
+        self.base_widget.set_unchanged(self)
 
     def ask_close(self):
         return self.ask_save()
@@ -323,7 +325,7 @@ class Ui_widget_mdb(QWidget):
             txt_translation.setFont(font)
 
             txt_translation.textChanged.connect(lambda: self.update_text(txt_translation))
-            txt_translation.textChanged.connect(lambda: setattr(self, "changed", True))
+            txt_translation.textChanged.connect(self.set_changed)
 
             txt_translation.setText(text)
             # txt_translation.line_spacing(spacing)

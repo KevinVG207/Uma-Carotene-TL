@@ -12,6 +12,20 @@ class Ui_widget_tabs(QWidget):
         self.setupUi(self)
         self.tabWidget.currentChanged.connect(self.tab_changed)
         self.adjust_size()
+    
+    def set_changed(self, widget: QWidget) -> None:
+        # Add * to tab name
+        index = self.tabWidget.indexOf(widget)
+        cur_tab_text = self.tabWidget.tabText(index)
+        if not cur_tab_text.endswith("*"):
+            self.tabWidget.setTabText(index, cur_tab_text + "*")
+
+    def set_unchanged(self, widget: QWidget) -> None:
+        # Remove * from tab name
+        index = self.tabWidget.indexOf(widget)
+        cur_tab_text = self.tabWidget.tabText(index)
+        if cur_tab_text.endswith("*"):
+            self.tabWidget.setTabText(index, cur_tab_text[:-1])
 
     def tab_changed(self, index: int) -> None:
         # Change size of window to fit the tab
@@ -72,11 +86,11 @@ class Ui_widget_tabs(QWidget):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.tabWidget.sizePolicy().hasHeightForWidth())
         self.tabWidget.setSizePolicy(sizePolicy)
-        self.tab_home = widget_main.Ui_widget_main(self.tabWidget)
+        self.tab_home = widget_main.Ui_widget_main()
         self.tab_home.setObjectName(u"tab_home")
         self.tabWidget.addTab(self.tab_home, "")
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_home), u"Home")
-        self.tab_2 = widget_mdb.Ui_widget_mdb(self.tabWidget)
+        self.tab_2 = widget_mdb.Ui_widget_mdb(base_widget=self)
         self.tab_2.setObjectName(u"tab_2")
         self.tabWidget.addTab(self.tab_2, "")
         self.tab_3 = QWidget()
