@@ -2,6 +2,7 @@ import util
 import glob
 import shutil
 import os
+import _import
 
 def revert_mdb():
     with util.MDBConnection() as (conn, cursor):
@@ -66,12 +67,11 @@ def revert_assembly():
     os.remove(translations_path)
 
 
-
-
 def main():
     revert_mdb()
     revert_assets()
     revert_assembly()
+    _import.mark_mdb_untranslated()
 
 if __name__ == "__main__":
     main()

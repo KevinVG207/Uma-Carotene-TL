@@ -7,8 +7,11 @@ import ui.widget_main as widget_main
 import ui.widget_mdb as widget_mdb
 
 class Ui_widget_tabs(QWidget):
-    def __init__(self, *args, **kwargs) -> None:
+    def __init__(self, app, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
+
+        self.app = app
+
         self.setupUi(self)
         self.tabWidget.currentChanged.connect(self.tab_changed)
         self.adjust_size()
@@ -54,17 +57,55 @@ class Ui_widget_tabs(QWidget):
 
     #     return super().close()
 
-    def closeEvent(self, a0: QCloseEvent) -> None:
-        print("closeEvent")
+    def remove_all_but_main(self):
+        for widget in (self.tab_2, self.tab_3, self.tab_4):
+            # Close the widget
+            widget.close()
 
+            self.tabWidget.removeTab(self.tabWidget.indexOf(widget))
+
+    def create_tabs(self):
+        self.tab_2 = widget_mdb.Ui_widget_mdb(base_widget=self)
+        self.tab_2.setObjectName(u"tab_2")
+        self.tabWidget.addTab(self.tab_2, "")
+        self.tab_3 = QWidget()
+        self.tab_3.setObjectName(u"tab_3")
+        self.tabWidget.addTab(self.tab_3, "")
+        self.tab_4 = QWidget()
+        self.tab_4.setObjectName(u"tab_4")
+        self.tabWidget.addTab(self.tab_4, "")
+        self.retranslateUi(self)
+
+
+    def refresh_widgets(self, func):
+        if not self.ask_widgets_close():
+            return
+        
+        self.app.setOverrideCursor(QCursor(Qt.WaitCursor))
+        func()
+        self.app.restoreOverrideCursor()
+
+        self.remove_all_but_main()
+        self.create_tabs()
+
+    def ask_widgets_close(self):
         for i in range(self.tabWidget.count()):
             widget = self.tabWidget.widget(i)
             # Check if it has ask_close() method
             if hasattr(widget, "ask_close"):
                 # If it does, call it
                 if not widget.ask_close():
-                    a0.ignore()
-                    return
+                    return False
+        
+        return True
+
+
+    def closeEvent(self, a0: QCloseEvent) -> None:
+        print("closeEvent")
+
+        if not self.ask_widgets_close():
+            a0.ignore()
+            return
 
         return super().closeEvent(a0)
 
@@ -86,21 +127,14 @@ class Ui_widget_tabs(QWidget):
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(self.tabWidget.sizePolicy().hasHeightForWidth())
         self.tabWidget.setSizePolicy(sizePolicy)
-        self.tab_home = widget_main.Ui_widget_main()
+        self.tab_home = widget_main.Ui_widget_main(base_widget=self)
         self.tab_home.setObjectName(u"tab_home")
         self.tabWidget.addTab(self.tab_home, "")
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_home), u"Home")
-        self.tab_2 = widget_mdb.Ui_widget_mdb(base_widget=self)
-        self.tab_2.setObjectName(u"tab_2")
-        self.tabWidget.addTab(self.tab_2, "")
-        self.tab_3 = QWidget()
-        self.tab_3.setObjectName(u"tab_3")
-        self.tabWidget.addTab(self.tab_3, "")
-        self.tab_4 = QWidget()
-        self.tab_4.setObjectName(u"tab_4")
-        self.tabWidget.addTab(self.tab_4, "")
 
         self.verticalLayout.addWidget(self.tabWidget)
+
+        self.create_tabs()
 
 
         self.retranslateUi(widget_tabs)

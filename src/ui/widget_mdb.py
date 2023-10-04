@@ -158,18 +158,18 @@ class Ui_widget_mdb(QWidget):
         if not self.changed:
             return
         
-        if not force:
-            # Ask for confirmation
-            msgbox = QMessageBox()
-            msgbox.setIcon(QMessageBox.Question)
-            msgbox.setText("Are you sure you want to save?")
-            msgbox.setWindowTitle("Save")
-            msgbox.setStandardButtons(QMessageBox.Yes | QMessageBox.No)
-            msgbox.setDefaultButton(QMessageBox.No)
-            ret = msgbox.exec()
+        # if not force:
+        #     # Ask for confirmation
+        #     msgbox = QMessageBox()
+        #     msgbox.setIcon(QMessageBox.Question)
+        #     msgbox.setText("Are you sure you want to save?")
+        #     msgbox.setWindowTitle("Save")
+        #     msgbox.setStandardButtons(QMessageBox.Yes | QMessageBox.No)
+        #     msgbox.setDefaultButton(QMessageBox.No)
+        #     ret = msgbox.exec()
 
-            if ret != QMessageBox.Yes:
-                return
+        #     if ret != QMessageBox.Yes:
+        #         return
         
         # Save
         cur_data = self.current_data

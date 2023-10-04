@@ -684,7 +684,7 @@ def index_hashed(potential_hash_dict):
     print("=== Indexing Hashed ===")
 
     # Augment the dict
-    dict_values = list(potential_hash_dict.values())
+    dict_values = list(potential_hash_dict.values()) if potential_hash_dict else []  # TODO: Check if this works as intended
     for source in dict_values:
         if len(source) == 2:
             new_source = f"{source[0]} {source[1]}"

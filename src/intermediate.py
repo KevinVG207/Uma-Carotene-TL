@@ -570,6 +570,7 @@ def jpdict_from_intermediate():
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
     util.save_json(out_path, out_dict)
+    print("Done")
 
 def hashed_from_intermediate():
     print("=== CREATING HASHED STRINGS ===")
@@ -607,6 +608,7 @@ def hashed_from_intermediate():
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
     util.save_json(out_path, out_list)
+    print("Done")
 
 
 def assembly_from_intermediate():

@@ -20,7 +20,8 @@ def prepare_font():
     font_path = util.MDB_FOLDER_EDITING + "font/dynamic01.otf"
     os.makedirs(os.path.dirname(font_path), exist_ok=True)
 
-    shutil.copy(util.get_asset_path(font_hash), font_path)
+    if not os.path.exists(font_path):
+        shutil.copy(util.get_asset_path(font_hash), font_path)
 
     return TTFont(font_path)
 

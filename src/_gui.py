@@ -5,7 +5,7 @@ import ui.widget_tabs as widget_tabs
 
 def main():
     app = QApplication([])
-    widget = widget_tabs.Ui_widget_tabs()
+    widget = widget_tabs.Ui_widget_tabs(app)
     widget.show()
     app.exec_()
     pass
