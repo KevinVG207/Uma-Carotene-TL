@@ -14,6 +14,9 @@ pathvalidate==3.1.0
 Pillow==10.0.0
 py-flags==1.1.4
 pyfmodex==0.7.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
 python-dateutil==2.8.2
 pytz==2023.3
 requests==2.31.0
