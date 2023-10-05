@@ -46,7 +46,8 @@ def index_category(cat_id):
     json_data = util.load_json(json_path)
     for entry in json_data:
         for key in json.loads(entry["keys"]):
-            index[key[-1]] = entry["text"]
+            if entry["text"]:
+                index[key[-1]] = entry["text"]
 
     return index
 

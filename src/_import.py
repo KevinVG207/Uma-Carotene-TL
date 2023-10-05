@@ -8,6 +8,7 @@ from itertools import repeat
 import tqdm
 import UnityPy
 import io
+import version
 from PIL import Image, ImageFile
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
@@ -15,6 +16,52 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 # def backup_mdb():
 #     print("Backing up MDB...")
 #     shutil.copy(util.MDB_PATH, util.MDB_PATH + f".{round(time.time())}")
+
+
+def mark_mdb_translated():
+    mark_mdb_untranslated()
+    print("Creating table")
+    with util.MDBConnection() as (conn, cursor):
+        cursor.execute("CREATE TABLE carotene (version TEXT);")
+
+        cur_version = version.version_to_string(version.VERSION)
+        # Mark as translated
+        cursor.execute(
+            "INSERT INTO carotene (version) VALUES (?);",
+            (cur_version,)
+        )
+        conn.commit()
+
+    print("Marking complete.")
+
+
+def mark_mdb_untranslated():
+    print("Dropping table")
+    with util.MDBConnection() as (conn, cursor):
+        # Remove carotene table if it exists
+        cursor.execute("DROP TABLE IF EXISTS carotene;")
+        conn.commit()
+
+
+def is_mdb_translated():
+    cur_ver = None
+
+    with util.MDBConnection() as (conn, cursor):
+        # Determine if carotene table exists
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='carotene';")
+        if not cursor.fetchone():
+            return cur_ver
+
+        # Get version
+        cursor.execute("SELECT version FROM carotene;")
+        row = cursor.fetchone()
+        if not row:
+            return cur_ver
+        
+        cur_ver = version.string_to_version(row[0])
+
+    return cur_ver
+
 
 def import_mdb():
     mdb_jsons = glob.glob(util.MDB_FOLDER + "\\**\\*.json")
@@ -203,6 +250,8 @@ def main():
         raise FileNotFoundError(f"MDB not found: {util.MDB_PATH}")
 
     # backup_mdb()
+
+    mark_mdb_translated()
 
     import_mdb()
 

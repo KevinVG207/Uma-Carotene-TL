@@ -72,4 +72,10 @@ def test_for_type(args):
 def get_asset_path(asset_hash):
     return os.path.join(DATA_PATH, asset_hash[:2], asset_hash)
 
+def strings_numeric_key(item):
+    if item.isnumeric():
+        return int(item)
+    return item
+
+
 config = load_json("config.json") if os.path.exists("config.json") else load_json("src/config.json")
