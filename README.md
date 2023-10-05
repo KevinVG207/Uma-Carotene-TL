@@ -25,3 +25,5 @@ The following things need to be installed on your machine:
 5. Update the translation files with `src/_prepare_release.py`. This will place the translations in the `translations` folder. These will be used to patch the game and is what you should be pushing to the repository.
 6. Patch the game with `src/_import.py`.
 7. Unpatch the game with `src/_revert.py`.
+
+Most functionality will eventually be available through the GUI (high priority.) It is currently work in progress and can be run with `src/_gui.py`.
