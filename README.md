@@ -15,15 +15,18 @@ This project assumes the use of Windows 10 (11 not tested.)
 The following things need to be installed on your machine:
 * Python 3
 * Uma Musume: Pretty Derby - DMM version
+* [Carotenify](https://github.com/KevinVG207/Carotenify) (companion mod to patch game text)
 
 ## Usage
 
 1. Create a virtual environment using `python -m venv venv` and activate it using `venv\Scripts\activate.bat`.
 2. Install the required packages using `pip install -r requirements.txt`.
-3. Run `src/_update_local.py` to update the local copy of the translations. (Indexing stories may take a few minutes the first time.)
-4. Edit the local translations in the `editing` folder.
-5. Update the translation files with `src/_prepare_release.py`. This will place the translations in the `translations` folder. These will be used to patch the game and is what you should be pushing to the repository.
-6. Patch the game with `src/_import.py`.
-7. Unpatch the game with `src/_revert.py`.
+3. Place the path to the game installation folder (which has `umamusume.exe`) in `src/_config.json`.
+4. Run `src/_update_local.py` to update the local copy of the translations. (Indexing stories may take a few minutes the first time.)
+5. Edit the local translations in the `editing` folder.
+6. Update the translation files with `src/_prepare_release.py`. This will place the translations in the `translations` folder. These will be used to patch the game and is what you should be pushing to the repository.
+7. Patch the game with `src/_import.py`.
+8. Unpatch the game with `src/_revert.py`.
+9. To patch most UI text, you will need to also install [Carotenify](https://github.com/KevinVG207/Carotenify).
 
 Most functionality will eventually be available through the GUI (high priority.) It is currently work in progress and can be run with `src/_gui.py`.
