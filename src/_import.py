@@ -3,7 +3,7 @@ import os
 import glob
 import json
 import shutil
-from multiprocessing import Pool
+from multiprocessing.pool import Pool
 from itertools import repeat
 import tqdm
 import UnityPy
@@ -104,6 +104,7 @@ def clean_asset_backups():
         if not os.path.exists(asset_path):
             print(f"Deleting {asset_backup}")
             os.remove(asset_backup)
+    print("Done")
 
 def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
     # Read the original texture
@@ -144,45 +145,48 @@ def handle_backup(asset_hash):
     
     return asset_path
 
+def _import_texture(asset_metadata):
+    hash = asset_metadata['hash']
+    asset_path = handle_backup(hash)
+
+    if not asset_path:
+        return
+    
+    # print(f"Replacing {os.path.basename(asset_path)}")
+    asset_bundle = unity.load_asset(asset_path)
+    
+    for texture_data in asset_metadata['textures']:
+        path_id = texture_data['path_id']
+        diff_path = os.path.join(util.ASSETS_FOLDER, asset_metadata['file_name'], texture_data['name'] + ".diff")
+
+        new_bytes, texture_read = create_new_image_from_path_id(asset_bundle, path_id, diff_path)
+
+        # Create new image
+        new_image_buffer = io.BytesIO()
+        new_image_buffer.write(new_bytes)
+        new_image_buffer.seek(0)
+        new_image = Image.open(new_image_buffer)
+
+        # Replace the image
+        texture_read.image = new_image
+        texture_read.save()
+
+        new_image_buffer.close()
+    
+    with open(asset_path, "wb") as f:
+        f.write(asset_bundle.file.save(packer="original"))
+
 def import_textures(texture_asset_metadatas):
     print(f"Replacing {len(texture_asset_metadatas)} textures.")
 
-    # TODO: This becomes a pool function.
-    for asset_metadata in texture_asset_metadatas:
-        hash = asset_metadata['hash']
-        asset_path = handle_backup(hash)
+    with Pool() as pool:
+        _ = list(tqdm.tqdm(pool.imap_unordered(_import_texture, texture_asset_metadatas, chunksize=16), total=len(texture_asset_metadatas), desc="Importing textures"))
 
-        if not asset_path:
-            continue
-        
-        print(f"Replacing {os.path.basename(asset_path)}")
-        asset_bundle = unity.load_asset(asset_path)
-        
-        for texture_data in asset_metadata['textures']:
-            path_id = texture_data['path_id']
-            diff_path = os.path.join(util.ASSETS_FOLDER, asset_metadata['file_name'], texture_data['name'] + ".diff")
-
-            new_bytes, texture_read = create_new_image_from_path_id(asset_bundle, path_id, diff_path)
-
-            # Create new image
-            new_image_buffer = io.BytesIO()
-            new_image_buffer.write(new_bytes)
-            new_image_buffer.seek(0)
-            new_image = Image.open(new_image_buffer)
-
-            # Replace the image
-            texture_read.image = new_image
-            texture_read.save()
-
-            new_image_buffer.close()
-        
-        with open(asset_path, "wb") as f:
-            f.write(asset_bundle.file.save(packer="original"))
 
 def _import_story(story_data):
     bundle_path = handle_backup(story_data['hash'])
 
-    print(f"Importing {os.path.basename(bundle_path)}")
+    # print(f"Importing {os.path.basename(bundle_path)}")
 
     asset_bundle = unity.load_asset(bundle_path)
 
@@ -236,7 +240,7 @@ def _import_story(story_data):
 
 def import_stories(story_datas):
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=1), total=len(story_datas), desc="Importing stories"))
+        _ = list(tqdm.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=16), total=len(story_datas), desc="Importing stories"))
 
     # for story_data in story_datas:
     #     _import_story(story_data)
@@ -249,21 +253,21 @@ def import_assets():
     with Pool() as pool:
         results = list(tqdm.tqdm(pool.imap_unordered(util.get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for textures"))
 
-        # asset_dict = {result[0]: result[1] for result in results if result[0]}
-        asset_dict = {}
+    # asset_dict = {result[0]: result[1] for result in results if result[0]}
+    asset_dict = {}
 
-        for result in results:
-            asset_type, asset_data = result
-            if not asset_type:
-                continue
+    for result in results:
+        asset_type, asset_data = result
+        if not asset_type:
+            continue
 
-            if asset_type not in asset_dict:
-                asset_dict[asset_type] = []
+        if asset_type not in asset_dict:
+            asset_dict[asset_type] = []
 
-            asset_dict[asset_type].append(asset_data)
+        asset_dict[asset_type].append(asset_data)
 
-        import_textures(asset_dict['texture'])
-        import_stories(asset_dict['story'])
+    import_textures(asset_dict['texture'])
+    import_stories(asset_dict['story'])
 
 
 def _import_jpdict():
@@ -335,8 +339,6 @@ def main():
     if not os.path.exists(util.MDB_PATH):
         raise FileNotFoundError(f"MDB not found: {util.MDB_PATH}")
 
-    # backup_mdb()
-
     mark_mdb_translated()
 
     import_mdb()
@@ -350,4 +352,4 @@ def test():
     import_assets()
 
 if __name__ == "__main__":
-    test()
+    main()

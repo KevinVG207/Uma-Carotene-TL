@@ -14,6 +14,7 @@ import shutil
 from itertools import repeat
 import UnityPy
 import _import
+from win32com.client import Dispatch
 
 def add_to_dict(parent_dict, values_list):
     if len(values_list) == 2:
@@ -364,7 +365,11 @@ def index_one_lyric(metadata):
 
     if os.path.exists(write_path):
         with open(write_path, "r", encoding="utf-8") as f:
-            cached_intermediates = util.json.load(f)['data']
+            data = util.json.load(f)
+            if data['hash'] == hash:
+                # Hash is the same, no need to update.
+                return
+            cached_intermediates = data['data']
     
     cached_translations = []
     if os.path.exists(tl_path):
@@ -445,6 +450,16 @@ def index_textures_from_assetbundle(metadata):
 
     if os.path.exists(meta_file_path):
         existing_meta = util.load_json(meta_file_path)
+
+        shortcut_out = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, hash + ".lnk")
+        asset_path = util.get_asset_path(existing_meta['hash'])
+
+        if not os.path.exists(shortcut_out):
+            shell = Dispatch('WScript.Shell')
+            shortcut = shell.CreateShortCut(shortcut_out)
+            shortcut.Targetpath = asset_path.replace("/", "\\")
+            shortcut.save()
+
         if existing_meta['hash'] == hash:
             # Already indexed and no change in hash.
             if not 'new' in existing_meta:
@@ -459,6 +474,10 @@ def index_textures_from_assetbundle(metadata):
             print(f"\nTexture atlas {file_name} has changed. Creating backup and replacing.", flush=True)
             for texture in existing_meta['textures']:
                 backup_texture(file_name, texture)
+            
+            shortcut_out = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, existing_meta['hash'] + ".lnk")
+            if os.path.exists(shortcut_out):
+                os.remove(shortcut_out)
     
     try:
         root = unity.load_assetbundle(file_path)
@@ -502,6 +521,15 @@ def index_textures_from_assetbundle(metadata):
                     "textures": textures_list,
                 }, indent=4, ensure_ascii=False
             ))
+        
+        # Create a shortcut to the asset bundle.
+        shortcut_out = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, hash + ".lnk")
+        asset_path = util.get_asset_path(hash)
+
+        shell = Dispatch('WScript.Shell')
+        shortcut = shell.CreateShortCut(shortcut_out)
+        shortcut.Targetpath = asset_path.replace("/", "\\")
+        shortcut.save()
 
 def backup_texture(file_name, texture):
     texture_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, texture['name'] + ".png")
@@ -519,10 +547,11 @@ def process_existing_texture(metadata):
         # This is a new texture. Create a new intermediate file.
         out_folder = os.path.join(util.ASSETS_FOLDER_EDITING, file_name)
         os.makedirs(out_folder, exist_ok=True)
+        asset_path = util.get_asset_path(hash)
         png_out = os.path.join(out_folder, os.path.basename(file_name) + ".png")
         org_out = os.path.join(out_folder, os.path.basename(file_name) + ".org.png")
         hash_out = os.path.join(out_folder, os.path.basename(file_name) + ".hash")
-        asset_bundle = UnityPy.load(util.get_asset_path(hash))
+        asset_bundle = UnityPy.load(asset_path)
         for texture in metadata['textures']:
             path_id = texture['path_id']
             diff_path = os.path.join(util.ASSETS_FOLDER, file_name, texture['name'] + ".diff")

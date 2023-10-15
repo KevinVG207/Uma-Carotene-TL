@@ -62,6 +62,18 @@ def xor_bytes(a, b):
 def fix_transparency(file_path, out_path=None):
     os.system(f"transparency-fix.exe {file_path}{f' {out_path}' if out_path else ''}")
 
+def fix_transparency_pil(file_path, out_path):
+    with Image.open(file_path) as image:
+        tmp = image.copy()
+        tmp = tmp.convert("RGBa")
+        tmp = tmp.filter(ImageFilter.GaussianBlur(1))
+
+        tmp.paste(image, mask=image.split()[3])
+        tmp.putalpha(image.split()[3])
+        tmp = tmp.convert("RGBA")
+        tmp.save(out_path if out_path else file_path)
+
+
 def test_for_type(args):
     path, type = args
     data = load_json(path)

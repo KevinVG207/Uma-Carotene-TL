@@ -394,7 +394,7 @@ def _convert_texture(metadata):
         if fix_transparency:
             # Fix transparency
             tmp_path = edited_path + ".tmp.png"
-            util.fix_transparency(edited_path, tmp_path)
+            util.fix_transparency_pil(edited_path, tmp_path)
             shutil.move(tmp_path, edited_path)
 
             edited_bytes, edited_hash = open_edited_file(edited_path)
