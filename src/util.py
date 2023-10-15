@@ -69,6 +69,10 @@ def test_for_type(args):
         return (True, data)
     return (False, None)
 
+def get_asset_and_type(path):
+    data = load_json(path)
+    return (data.get('type'), data)
+
 def get_asset_path(asset_hash):
     return os.path.join(DATA_PATH, asset_hash[:2], asset_hash)
 

@@ -1,0 +1,1054 @@
+{
+    "type": "story",
+    "row_index": 530,
+    "file_name": "story/data/04/1026/storytimeline_041026003",
+    "hash": "VWTYWO3AOB43Y5ZO26K46YPH2Z7FEIAR",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 842739661651310767,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "A few weeks passed since I started helping \nMihono Bourbon train in secret.",
+            "name": "",
+            "path_id": -8696819820456880974,
+            "block_id": 1,
+            "clip_length": 81
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon",
+            "path_id": -3964342601364713829,
+            "block_id": 2,
+            "clip_length": 78,
+            "choices": [
+                {
+                    "text": "Hang on! You're almost there!",
+                    "source": "踏ん張れ！あと少しだ！"
+                },
+                {
+                    "text": "Hang on! You're almost there!",
+                    "source": "踏ん張れ！あと少しだよ！"
+                }
+            ]
+        },
+        {
+            "text": "Hng!",
+            "name": "Mihono Bourbon",
+            "path_id": 1167931170662864705,
+            "block_id": 3,
+            "clip_length": 46
+        },
+        {
+            "text": "*pant pant* \nThat's... a new record!",
+            "name": "Mihono Bourbon",
+            "path_id": 5181488405692155025,
+            "block_id": 4,
+            "clip_length": 187,
+            "choices": [
+                {
+                    "text": "Well done!",
+                    "source": "よく頑張った！"
+                },
+                {
+                    "text": "Well done!",
+                    "source": "よく頑張ったね！"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 89,
+                    "path_id": -2169800901024725473
+                },
+                {
+                    "orig_length": 243,
+                    "path_id": 5340276788110962452
+                }
+            ]
+        },
+        {
+            "text": "I appreciate your encouragement. \nWhen my stamina recovers, I will checkout the lactic acid \ntolerance branch... And proceed towards the slope.",
+            "name": "Mihono Bourbon",
+            "path_id": 6858412260935068927,
+            "block_id": 5,
+            "clip_length": 282,
+            "choices": [
+                {
+                    "text": "Let's try one more run today.",
+                    "source": "今日から、1本追加して走ろう"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 267,
+                    "path_id": -6145169788119507827
+                },
+                {
+                    "orig_length": 21,
+                    "path_id": -3892286808549810382
+                }
+            ]
+        },
+        {
+            "text": "Advice recognized. Input parsed. \nFlowchart updated. Added one more run up the slope.",
+            "name": "Mihono Bourbon",
+            "path_id": 6355777506122235645,
+            "block_id": 6,
+            "clip_length": 208,
+            "anim_data": [
+                {
+                    "orig_length": 113,
+                    "path_id": -3653376351861964452
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": 6899824554113517140
+                }
+            ]
+        },
+        {
+            "text": "Energy recovered. Proceding to run up the slope.",
+            "name": "Mihono Bourbon",
+            "path_id": 6540224109540483577,
+            "block_id": 7,
+            "clip_length": 140,
+            "anim_data": [
+                {
+                    "orig_length": 42,
+                    "path_id": 5973856714614748407
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -7785383953173967168
+                }
+            ]
+        },
+        {
+            "text": "So far, she has not once complained about my \ndifficult training. She acts like it's nothing.",
+            "name": "",
+            "path_id": 7549919951955848005,
+            "block_id": 8,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "(She might actually be able to...)",
+                    "source": "（短距離にすべきだと思っていた。けど）"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 58,
+                    "path_id": 1249574937987116862
+                }
+            ]
+        },
+        {
+            "text": "Before I knew it, her total determination had captured me.",
+            "name": "",
+            "path_id": -119558769672554522,
+            "block_id": 9,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "(You can do it, Mihono Bourbon!)",
+                    "source": "（頑張れ、ミホノブルボン……！）"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 106,
+                    "path_id": 241359779206179290
+                }
+            ]
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon",
+            "path_id": 908316684339015491,
+            "block_id": 10,
+            "clip_length": 91,
+            "anim_data": [
+                {
+                    "orig_length": 106,
+                    "path_id": 6925028235864754446
+                }
+            ]
+        },
+        {
+            "text": "I realized that with enough time, she might actually \nbe able to partake in medium and long races. \nBut then...",
+            "name": "",
+            "path_id": -45778115136332010,
+            "block_id": 11,
+            "clip_length": 108,
+            "anim_data": [
+                {
+                    "orig_length": 164,
+                    "path_id": 8330879534413329320
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -6722358018039610645
+                }
+            ]
+        },
+        {
+            "text": "So you're the trainer who let her do long-distance \ntraining behind my back?",
+            "name": "Veteran Trainer",
+            "path_id": -6384641144185521207,
+            "block_id": 12,
+            "clip_length": 163,
+            "anim_data": [
+                {
+                    "orig_length": 13,
+                    "path_id": -1572114337427266228
+                },
+                {
+                    "orig_length": 265,
+                    "path_id": -1747172798122705906
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": 6610130430109483364
+                }
+            ]
+        },
+        {
+            "text": "Mihono Bourbon's real trainer called me over after \nhe realized what happened. Her behavior \nduring trainings had changed over time.",
+            "name": "",
+            "path_id": -7080893092440987182,
+            "block_id": 13,
+            "clip_length": 110,
+            "anim_data": [
+                {
+                    "orig_length": 123,
+                    "path_id": -5669605398245245695
+                }
+            ]
+        },
+        {
+            "text": "Master, the nightly trainings were all my own decision. \nThus, this person has no relation to it.",
+            "name": "Mihono Bourbon",
+            "path_id": 6075100538178037756,
+            "block_id": 14,
+            "clip_length": 230,
+            "anim_data": [
+                {
+                    "orig_length": 217,
+                    "path_id": -42644080563483678
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -7357623837554320066
+                }
+            ]
+        },
+        {
+            "text": "He was with you every night, of course he's related to it! \nAt the very least, he pitied you and watched.",
+            "name": "Veteran Trainer",
+            "path_id": -8153304806850715286,
+            "block_id": 15,
+            "clip_length": 280,
+            "choices": [
+                {
+                    "text": "I wasn't pitying...",
+                    "source": "同情のつもりでは……"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 334,
+                    "path_id": 3475007421579572650
+                },
+                {
+                    "orig_length": 70,
+                    "path_id": 4591741040321774231
+                }
+            ]
+        },
+        {
+            "text": "She's told me about the Triple Crown many times, \nbut I can't have her take any risks! You're a trainer, \nso you must understand that as well.",
+            "name": "Veteran Trainer",
+            "path_id": -8960060689164299312,
+            "block_id": 16,
+            "clip_length": 332,
+            "anim_data": [
+                {
+                    "orig_length": 334,
+                    "path_id": -5830941545807227261
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -7842578809407646718
+                }
+            ]
+        },
+        {
+            "text": "Even so, I joined this academy to attain the Triple Crown. \nI have no intention of altering my objective.",
+            "name": "Mihono Bourbon",
+            "path_id": 6203983062170701570,
+            "block_id": 17,
+            "clip_length": 240,
+            "anim_data": [
+                {
+                    "orig_length": 161,
+                    "path_id": 2151717470504432623
+                },
+                {
+                    "orig_length": 50,
+                    "path_id": -5224646260415936074
+                }
+            ]
+        },
+        {
+            "text": "Mihono Bourbon's trainer released a deep sigh \nafter hearing her stubborn response.",
+            "name": "",
+            "path_id": -2873239583245709606,
+            "block_id": 18,
+            "clip_length": 90,
+            "anim_data": [
+                {
+                    "orig_length": 161,
+                    "path_id": -188083888781240744
+                }
+            ]
+        },
+        {
+            "text": "*sigh* Okay, you get one more chance to show you're \ncapable of it. Show me you can run run 3 kilometers, \nlike the Kikka Sho. Right now.",
+            "name": "Veteran Trainer",
+            "path_id": 5322916993514856594,
+            "block_id": 19,
+            "clip_length": 359,
+            "choices": [
+                {
+                    "text": "(What is he saying?!)",
+                    "source": "（そんな、無茶な）"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 416,
+                    "path_id": 8361992112394156621
+                }
+            ]
+        },
+        {
+            "text": "Understood.",
+            "name": "Mihono Bourbon",
+            "path_id": -4289869108403333502,
+            "block_id": 20,
+            "clip_length": 44,
+            "choices": [
+                {
+                    "text": "?!",
+                    "source": "！？"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 416,
+                    "path_id": 7249019152599838594
+                }
+            ]
+        },
+        {
+            "text": "I will persuade you.",
+            "name": "Mihono Bourbon",
+            "path_id": -7931610868079041030,
+            "block_id": 21,
+            "clip_length": 86,
+            "anim_data": [
+                {
+                    "orig_length": 50,
+                    "path_id": 1520208027767669074
+                }
+            ]
+        },
+        {
+            "text": "She quickly heads over to the race track and starts \non the 3000 meters. To be honest, I doubt she will \nbe able to complete it with her current stamina...",
+            "name": "",
+            "path_id": 6138361366919691168,
+            "block_id": 22,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "(Will she really make it...)",
+                    "source": "（大丈夫かな……）"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 71,
+                    "path_id": -8095951853496999117
+                },
+                {
+                    "orig_length": 16,
+                    "path_id": -9066598931563840325
+                }
+            ]
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon",
+            "path_id": -6471139341947680893,
+            "block_id": 23,
+            "clip_length": 65,
+            "anim_data": [
+                {
+                    "orig_length": 191,
+                    "path_id": 1636448030434869441
+                }
+            ]
+        },
+        {
+            "text": "(1600 meters passed. Lap time is good. 1400 meters left...) \n(Disturbance in breathing rhythm detected. Pace is decreasing \nand failing to keep consistency.)",
+            "name": "Mihono Bourbon",
+            "path_id": 4224285147004652230,
+            "block_id": 24,
+            "clip_length": 313,
+            "anim_data": [
+                {
+                    "orig_length": 352,
+                    "path_id": -6069836510736482302
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": 8451294797278612660
+                }
+            ]
+        },
+        {
+            "text": "Hng!",
+            "name": "Mihono Bourbon",
+            "path_id": 8616981951468004904,
+            "block_id": 25,
+            "clip_length": 65,
+            "anim_data": [
+                {
+                    "orig_length": 98,
+                    "path_id": -3291384079949248342
+                },
+                {
+                    "orig_length": 37,
+                    "path_id": 3323271552346155965
+                }
+            ]
+        },
+        {
+            "text": "Just like I thought. Her pace slowed after 2 kilometers and \nshe was barely able to walk when she crossed the finish line.",
+            "name": "",
+            "path_id": 2713372896523014772,
+            "block_id": 26,
+            "clip_length": 118,
+            "anim_data": [
+                {
+                    "orig_length": 193,
+                    "path_id": -4195406649265209651
+                },
+                {
+                    "orig_length": 46,
+                    "path_id": 5530574276714834688
+                }
+            ]
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon",
+            "path_id": -8055845433899759672,
+            "block_id": 27,
+            "clip_length": 124,
+            "anim_data": [
+                {
+                    "orig_length": 193,
+                    "path_id": -6414263600528638542
+                },
+                {
+                    "orig_length": 142,
+                    "path_id": -1102264705647923165
+                }
+            ]
+        },
+        {
+            "text": "See? Give up already. It's a waste of time to continue. \nYou're not cut out for longer race distances.",
+            "name": "Veteran Trainer",
+            "path_id": 5933340013529666679,
+            "block_id": 28,
+            "clip_length": 240,
+            "choices": [
+                {
+                    "text": "(Truthfully, she isn't. But still...)",
+                    "source": "（たしかに、向いてはいない。でも――）"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 267,
+                    "path_id": -780676095571953537
+                },
+                {
+                    "orig_length": 259,
+                    "path_id": -5049324954290267635
+                }
+            ]
+        },
+        {
+            "text": "I've seen her willingness to train for the Triple Crown. \nI know how determined she is to reach it.",
+            "name": "",
+            "path_id": 7340864714076835537,
+            "block_id": 29,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "<size=40>Why won't you let her follow her dreams?</size>",
+                    "source": "彼女の夢を尊重しませんか"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 135,
+                    "path_id": 1566621836511338059
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": 7881415617437756132
+                }
+            ]
+        },
+        {
+            "text": "<i>She</i> is the one who would suffer through her own bad \ndecision to go after something she's not cut out for. \nWhat do you not understand about that?",
+            "name": "Veteran Trainer",
+            "path_id": 8630338058811726518,
+            "block_id": 30,
+            "clip_length": 220,
+            "choices": [
+                {
+                    "text": "I just...",
+                    "source": "でも――"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 205,
+                    "path_id": -3056947593084478619
+                },
+                {
+                    "orig_length": 204,
+                    "path_id": -2738689426122767790
+                }
+            ]
+        },
+        {
+            "text": "Stop, I don't want to get into an argument with you. \nBourbon, I need to know how you really feel, \nnow that you've tried running that 3 kilometers.",
+            "name": "Veteran Trainer",
+            "path_id": 7048423149596272517,
+            "block_id": 31,
+            "clip_length": 343,
+            "anim_data": [
+                {
+                    "orig_length": 239,
+                    "path_id": 8417525970733348449
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": 7898986281275474410
+                }
+            ]
+        },
+        {
+            "text": "<i>How I really feel</i>...",
+            "name": "Mihono Bourbon",
+            "path_id": 4006809250807159937,
+            "block_id": 32,
+            "clip_length": 61,
+            "anim_data": [
+                {
+                    "orig_length": 122,
+                    "path_id": -2719097920590871204
+                },
+                {
+                    "orig_length": 98,
+                    "path_id": -3268381267314364010
+                }
+            ]
+        },
+        {
+            "text": "She looked confused, but then started speaking.",
+            "name": "",
+            "path_id": -6622269234145636687,
+            "block_id": 33,
+            "clip_length": 73,
+            "anim_data": [
+                {
+                    "orig_length": 122,
+                    "path_id": -3116911432239027655
+                },
+                {
+                    "orig_length": 98,
+                    "path_id": 4500583418135947676
+                }
+            ]
+        },
+        {
+            "text": "I my goal of the Triple Crown is hardcoded... \nI apologize....",
+            "name": "Mihono Bourbon",
+            "path_id": 5832342864045141522,
+            "block_id": 34,
+            "clip_length": 199,
+            "anim_data": [
+                {
+                    "orig_length": 194,
+                    "path_id": -7227485479017021080
+                },
+                {
+                    "orig_length": 101,
+                    "path_id": 644764626778317836
+                }
+            ]
+        },
+        {
+            "text": "So please, Master...",
+            "name": "Mihono Bourbon",
+            "path_id": 9052687645936511661,
+            "block_id": 35,
+            "clip_length": 79,
+            "anim_data": [
+                {
+                    "orig_length": 81,
+                    "path_id": -6158684707163696899
+                },
+                {
+                    "orig_length": 91,
+                    "path_id": -5202537275063654426
+                }
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Veteran Trainer",
+            "path_id": 2192919277249073869,
+            "block_id": 36,
+            "clip_length": 56,
+            "anim_data": [
+                {
+                    "orig_length": 81,
+                    "path_id": 4448473670865845168
+                },
+                {
+                    "orig_length": 91,
+                    "path_id": -5357969023434841859
+                }
+            ]
+        },
+        {
+            "text": "I see. Then I will let you do what you wish... \nOn the condition that we end our contract \nright here, right now.",
+            "name": "Veteran Trainer",
+            "path_id": 3371366853541936486,
+            "block_id": 37,
+            "clip_length": 307,
+            "anim_data": [
+                {
+                    "orig_length": 159,
+                    "path_id": 3596272446989704765
+                },
+                {
+                    "orig_length": 21,
+                    "path_id": -7338397011074163654
+                }
+            ]
+        },
+        {
+            "text": "...... \nI accept your proposal.",
+            "name": "Mihono Bourbon",
+            "path_id": 3964345557408002668,
+            "block_id": 38,
+            "clip_length": 145,
+            "anim_data": [
+                {
+                    "orig_length": 71,
+                    "path_id": 6490450912416385352
+                },
+                {
+                    "orig_length": 21,
+                    "path_id": 2897273478214562447
+                }
+            ]
+        },
+        {
+            "text": "To think you were so foolish... \nYou disappoint me, Bourbon.",
+            "name": "Veteran Trainer",
+            "path_id": 6739150508649875609,
+            "block_id": 39,
+            "clip_length": 193,
+            "anim_data": [
+                {
+                    "orig_length": 214,
+                    "path_id": -7946783497704100824
+                }
+            ]
+        },
+        {
+            "text": "Mihono Bourbon's trainer left the race course \nwithout saying another word after that..",
+            "name": "",
+            "path_id": 3888446195881135571,
+            "block_id": 40,
+            "clip_length": 89,
+            "anim_data": [
+                {
+                    "orig_length": 118,
+                    "path_id": 1040016777381748391
+                },
+                {
+                    "orig_length": 99,
+                    "path_id": -4981658492165278132
+                }
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Mihono Bourbon",
+            "path_id": -2255768322458281144,
+            "block_id": 41,
+            "clip_length": 64,
+            "choices": [
+                {
+                    "text": "Are you okay after all that?",
+                    "source": "……大丈夫？"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 111,
+                    "path_id": -1855148916077231388
+                },
+                {
+                    "orig_length": 87,
+                    "path_id": -5003706174088152510
+                }
+            ]
+        },
+        {
+            "text": "Due to the loss of my Master, I have entered \na state best described as 'bewildered.'",
+            "name": "Mihono Bourbon",
+            "path_id": 4338069617769482829,
+            "block_id": 42,
+            "clip_length": 128,
+            "anim_data": [
+                {
+                    "orig_length": 180,
+                    "path_id": -5703173849542554998
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -1597581182287962870
+                }
+            ]
+        },
+        {
+            "text": "Even after all that nighttime training, I still \nwasn't able to complete a 3000 meter run.",
+            "name": "Mihono Bourbon",
+            "path_id": -4186412338731851701,
+            "block_id": 43,
+            "clip_length": 254,
+            "anim_data": [
+                {
+                    "orig_length": 139,
+                    "path_id": -3255080039027312792
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -4243617759331368183
+                }
+            ]
+        },
+        {
+            "text": "My objective for the Triple Crown is a constant. \nAnd yet, I'm starting to doubt whether it was \nthe correct choice.",
+            "name": "Mihono Bourbon",
+            "path_id": 8405030013044219543,
+            "block_id": 44,
+            "clip_length": 237,
+            "choices": [
+                {
+                    "text": "Of course it's the right choice!",
+                    "source": "正しいに決まってる"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 121,
+                    "path_id": -7281883754320752054
+                },
+                {
+                    "orig_length": 78,
+                    "path_id": -7596278812748950427
+                }
+            ]
+        },
+        {
+            "text": "She managed to train hard every day without complaining. \nBut more importantly, she has an immense passion for it.",
+            "name": "",
+            "path_id": 4301686972006757830,
+            "block_id": 45,
+            "clip_length": 111,
+            "anim_data": [
+                {
+                    "orig_length": 89,
+                    "path_id": 1532069780063024020
+                },
+                {
+                    "orig_length": 160,
+                    "path_id": -1311341759747440784
+                }
+            ]
+        },
+        {
+            "text": "A burning passion to attain the Triple Crown!",
+            "name": "",
+            "path_id": 2370373251314706140,
+            "block_id": 46,
+            "clip_length": 76,
+            "choices": [
+                {
+                    "text": "<size=39>I support you, no matter what others say!</size>",
+                    "source": "誰が何と言おうと俺はブルボンを応援する"
+                },
+                {
+                    "text": "<size=39>I support you, no matter what others say!</size>",
+                    "source": "誰が何と言おうと私はブルボンを応援する"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 133,
+                    "path_id": -9167755796306156437
+                },
+                {
+                    "orig_length": 160,
+                    "path_id": -3787368223417113462
+                }
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Mihono Bourbon",
+            "path_id": 154188881539639772,
+            "block_id": 47,
+            "clip_length": 48,
+            "choices": [
+                {
+                    "text": "I will help you fulfill your dream!",
+                    "source": "だから……今度は俺と一緒に夢を叶えよう"
+                },
+                {
+                    "text": "I will help you fulfill your dream!",
+                    "source": "だから……今度は私と一緒に夢を叶えよう"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 89,
+                    "path_id": 635972581234176292
+                },
+                {
+                    "orig_length": 21,
+                    "path_id": -3750241855447519333
+                }
+            ]
+        },
+        {
+            "text": "Her eyes started to quiver a little.",
+            "name": "",
+            "path_id": -3050277861744912364,
+            "block_id": 48,
+            "clip_length": 68,
+            "anim_data": [
+                {
+                    "orig_length": 89,
+                    "path_id": 6773730965661543748
+                }
+            ]
+        },
+        {
+            "text": "You'll help...",
+            "name": "Mihono Bourbon",
+            "path_id": -7406069915383586548,
+            "block_id": 49,
+            "clip_length": 46,
+            "choices": [
+                {
+                    "text": "I won't let you give up on your dream!",
+                    "source": "絶対に諦めさせたくないんだ"
+                },
+                {
+                    "text": "I won't let you give up on your dream!",
+                    "source": "絶対に諦めさせたくないの"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 80,
+                    "path_id": -1146881836652573068
+                },
+                {
+                    "orig_length": 98,
+                    "path_id": 4861284089543119558
+                }
+            ]
+        },
+        {
+            "text": "(Their gaze... It feels familiar.)",
+            "name": "Mihono Bourbon",
+            "path_id": -7016296054297142101,
+            "block_id": 50,
+            "clip_length": 121,
+            "anim_data": [
+                {
+                    "orig_length": 181,
+                    "path_id": 630556263204375064
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": -1894695116097551570
+                }
+            ]
+        },
+        {
+            "text": "<i>*huff huff* *sniffle* \nI failed again, Father... I am just not...</i>",
+            "name": "Young Bourbon",
+            "path_id": -46381638481920755,
+            "block_id": 51,
+            "clip_length": 404,
+            "anim_data": [
+                {
+                    "orig_length": 21,
+                    "path_id": -2747848655841156783
+                }
+            ]
+        },
+        {
+            "text": "<i>You may not have enough stamina, yet you keep on trying. \nThat is why I know that one day, you will succeed.</i>",
+            "name": "Bourbon's Father",
+            "path_id": 2091793432935946741,
+            "block_id": 52,
+            "clip_length": 239
+        },
+        {
+            "text": "<i>I will help you fulfill that dearest dream of yours!</i>",
+            "name": "Bourbon's Father",
+            "path_id": 7755471138672399376,
+            "block_id": 53,
+            "clip_length": 120
+        },
+        {
+            "text": "(They remind me of my father...)",
+            "name": "Mihono Bourbon",
+            "path_id": 3559216093804886097,
+            "block_id": 54,
+            "clip_length": 118,
+            "anim_data": [
+                {
+                    "orig_length": 283,
+                    "path_id": 6983933795390171106
+                }
+            ]
+        },
+        {
+            "text": "...",
+            "name": "Mihono Bourbon",
+            "path_id": 3872892411280483639,
+            "block_id": 55,
+            "clip_length": 43,
+            "choices": [
+                {
+                    "text": "...Mihono Bourbon?",
+                    "source": "……ミホノブルボン？"
+                }
+            ],
+            "anim_data": [
+                {
+                    "orig_length": 181,
+                    "path_id": 4627890436179932654
+                }
+            ]
+        },
+        {
+            "text": "I could not bear the silence and called out to her. \nShe stood there, quietly looking at me.",
+            "name": "",
+            "path_id": -891485661169955966,
+            "block_id": 56,
+            "clip_length": 90,
+            "anim_data": [
+                {
+                    "orig_length": 59,
+                    "path_id": -5824332274130148455
+                }
+            ]
+        },
+        {
+            "text": "You customized my running style. The improvement \nof my 1600 meters record is all thanks to your skill.",
+            "name": "Mihono Bourbon",
+            "path_id": 1124181198417723948,
+            "block_id": 57,
+            "clip_length": 248,
+            "anim_data": [
+                {
+                    "orig_length": 283,
+                    "path_id": -647543951139055312
+                }
+            ]
+        },
+        {
+            "text": "I think reaching my objective might be \na possibility with your help.",
+            "name": "Mihono Bourbon",
+            "path_id": 1507464961096440086,
+            "block_id": 58,
+            "clip_length": 134,
+            "anim_data": [
+                {
+                    "orig_length": 89,
+                    "path_id": 4461006577907156780
+                },
+                {
+                    "orig_length": 20,
+                    "path_id": 2423545655022488348
+                }
+            ]
+        },
+        {
+            "text": "So please, I want you to be my trainer... \n...My Master.",
+            "name": "Mihono Bourbon",
+            "path_id": -7488081996894087321,
+            "block_id": 59,
+            "clip_length": 180,
+            "anim_data": [
+                {
+                    "orig_length": 60,
+                    "path_id": 2760060347623014573
+                },
+                {
+                    "orig_length": 56,
+                    "path_id": -490469125892322518
+                }
+            ]
+        },
+        {
+            "text": "The right hand of this \"cyborg\" had a firm grip, \nyet also felt strangely comfortable and warm.",
+            "name": "",
+            "path_id": -3825510327235898187,
+            "block_id": 60,
+            "clip_length": 94,
+            "anim_data": [
+                {
+                    "orig_length": 60,
+                    "path_id": -1225032205352619759
+                },
+                {
+                    "orig_length": 56,
+                    "path_id": -8505797612202803640
+                }
+            ]
+        }
+    ],
+    "title": "A Straight Answer"
+}

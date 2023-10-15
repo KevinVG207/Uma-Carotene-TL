@@ -124,7 +124,8 @@ def load_asset_data(row_metadata):
             tl_item["data"].append(clip_item)
 
     else:
-        tl_item['title'] = tree['Title']
+        tl_item['title'] = ""
+        tl_item['source_title'] = tree['Title']
         # Story blocks
         for block in tree['BlockList']:
             for clip in block['TextTrack']['ClipList']:

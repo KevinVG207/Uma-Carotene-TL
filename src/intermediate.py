@@ -254,11 +254,16 @@ def process_asset(path):
         return
 
     new_chapter_data = {
+        "type": interm_data['type'],
         "row_index": interm_data['row_index'],
         "file_name": interm_data['file_name'],
         "hash": interm_data['hash'],
         "data": []
     }
+
+    if 'title' in interm_data:
+        new_chapter_data['title'] = interm_data['title']
+
     empty_count = 0
     for item in interm_data['data']:
         if interm_data['file_name'].startswith("race/"):
@@ -273,6 +278,8 @@ def process_asset(path):
         new_item = {
             "text": item['text'],
             "name": item['name'],
+            'path_id': item['path_id'],
+            'block_id': item['block_id'],
         }
         if 'clip_length' in item:
             new_item['clip_length'] = item['clip_length']
@@ -319,6 +326,7 @@ def convert_lyrics():
         data = util.load_json(path)
 
         new_data = {
+            "type": data['type'],
             "row_index": data['row_index'],
             "file_name": data['file_name'],
             "hash": data['hash'],

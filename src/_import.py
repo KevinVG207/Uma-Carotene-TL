@@ -9,6 +9,7 @@ import tqdm
 import UnityPy
 import io
 import version
+import unity
 from PIL import Image, ImageFile
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
@@ -128,56 +129,141 @@ def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
 
     return new_bytes, texture_read
 
+def handle_backup(asset_hash):
+    asset_path = util.get_asset_path(asset_hash)
+    asset_path_bak = asset_path + ".bak"
+
+    if not os.path.exists(asset_path):
+        print(f"Asset not found: {asset_path}")
+        return None
+
+    if not os.path.exists(asset_path_bak):
+        shutil.copy(asset_path, asset_path_bak)
+    else:
+        shutil.copy(asset_path_bak, asset_path)
+    
+    return asset_path
+
+def import_textures(texture_asset_metadatas):
+    print(f"Replacing {len(texture_asset_metadatas)} textures.")
+
+    # TODO: This becomes a pool function.
+    for asset_metadata in texture_asset_metadatas:
+        hash = asset_metadata['hash']
+        asset_path = handle_backup(hash)
+
+        if not asset_path:
+            continue
+        
+        print(f"Replacing {os.path.basename(asset_path)}")
+        asset_bundle = unity.load_asset(asset_path)
+        
+        for texture_data in asset_metadata['textures']:
+            path_id = texture_data['path_id']
+            diff_path = os.path.join(util.ASSETS_FOLDER, asset_metadata['file_name'], texture_data['name'] + ".diff")
+
+            new_bytes, texture_read = create_new_image_from_path_id(asset_bundle, path_id, diff_path)
+
+            # Create new image
+            new_image_buffer = io.BytesIO()
+            new_image_buffer.write(new_bytes)
+            new_image_buffer.seek(0)
+            new_image = Image.open(new_image_buffer)
+
+            # Replace the image
+            texture_read.image = new_image
+            texture_read.save()
+
+            new_image_buffer.close()
+        
+        with open(asset_path, "wb") as f:
+            f.write(asset_bundle.file.save(packer="original"))
+
+def _import_story(story_data):
+    bundle_path = handle_backup(story_data['hash'])
+
+    print(f"Importing {os.path.basename(bundle_path)}")
+
+    asset_bundle = unity.load_asset(bundle_path)
+
+    root = list(asset_bundle.container.values())[0].get_obj()
+    tree = root.read_typetree()
+
+    file_name = story_data['file_name']
+
+    if file_name.startswith("race/"):
+        raise NotImplementedError("Race stories(?) not implemented yet.")
+    
+    tree['Title'] = story_data['title']
+
+    for new_block in story_data['data']:
+        block_object = root.assets_file.files[new_block['path_id']]
+        block_data = block_object.read_typetree()
+
+        block_data['Text'] = new_block['text']
+        block_data['Name'] = new_block['name']
+
+        if new_block.get('clip_length'):
+            block_data['ClipLength'] = new_block['clip_length']
+        
+        if new_block.get('choices'):
+            for i, choice in enumerate(block_data['ChoiceDataList']):
+                choice['Text'] = new_block['choices'][i]['text']
+        
+        org_clip_length = block_data['ClipLength']
+        new_clip_length = new_block['clip_length']
+        
+        if new_clip_length > org_clip_length:
+            block_data['ClipLength'] = new_clip_length
+            new_block_length = new_clip_length + block_data['StartFrame'] + 1
+            tree['BlockList'][new_block['block_id']]['BlockLength'] = new_block_length
+        
+            if new_block.get('anim_data'):
+                for anim in new_block['anim_data']:
+                    new_anim_length = anim['orig_length'] + new_clip_length - org_clip_length
+                    if new_anim_length > anim['orig_length']:
+                        anim_asset = root.assets_file.files[anim['path_id']]
+                        anim_tree = anim_asset.read_typetree()
+                        anim_tree['ClipLength'] = new_anim_length
+                        anim_asset.save_typetree(anim_tree)
+
+        block_object.save_typetree(block_data)
+
+    root.save_typetree(tree)
+
+    with open(bundle_path, "wb") as f:
+        f.write(asset_bundle.file.save(packer="original"))
+
+def import_stories(story_datas):
+    with Pool() as pool:
+        _ = list(tqdm.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=1), total=len(story_datas), desc="Importing stories"))
+
+    # for story_data in story_datas:
+    #     _import_story(story_data)
+
 def import_assets():
     clean_asset_backups()
 
     jsons = glob.glob(util.ASSETS_FOLDER + "\\**\\*.json", recursive=True)
 
     with Pool() as pool:
-        results = list(tqdm.tqdm(pool.imap_unordered(util.test_for_type, zip(jsons, repeat("texture")), chunksize=128), total=len(jsons), desc="Looking for textures"))
+        results = list(tqdm.tqdm(pool.imap_unordered(util.get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for textures"))
 
-        asset_metadatas = [result[1] for result in results if result[0]]
+        # asset_dict = {result[0]: result[1] for result in results if result[0]}
+        asset_dict = {}
 
-        print(f"Found {len(asset_metadatas)} assets to replace.")
-
-        # This becomes a pool function.
-        for asset_metadata in asset_metadatas:
-            hash = asset_metadata['hash']
-            asset_path = util.get_asset_path(hash)
-            asset_path_bak = asset_path + ".bak"
-
-            if not os.path.exists(asset_path):
-                print(f"Asset not found: {asset_path}")
+        for result in results:
+            asset_type, asset_data = result
+            if not asset_type:
                 continue
 
-            if not os.path.exists(asset_path_bak):
-                shutil.copy(asset_path, asset_path_bak)
-            else:
-                shutil.copy(asset_path_bak, asset_path)
-            
-            print(f"Replacing {asset_path}")
-            asset_bundle = UnityPy.load(asset_path)
-            
-            for texture_data in asset_metadata['textures']:
-                path_id = texture_data['path_id']
-                diff_path = os.path.join(util.ASSETS_FOLDER, asset_metadata['file_name'], texture_data['name'] + ".diff")
+            if asset_type not in asset_dict:
+                asset_dict[asset_type] = []
 
-                new_bytes, texture_read = create_new_image_from_path_id(asset_bundle, path_id, diff_path)
+            asset_dict[asset_type].append(asset_data)
 
-                # Create new image
-                new_image_buffer = io.BytesIO()
-                new_image_buffer.write(new_bytes)
-                new_image_buffer.seek(0)
-                new_image = Image.open(new_image_buffer)
-
-                # Replace the image
-                texture_read.image = new_image
-                texture_read.save()
-
-                new_image_buffer.close()
-            
-            with open(asset_path, "wb") as f:
-                f.write(asset_bundle.file.save(packer="original"))
+        import_textures(asset_dict['texture'])
+        import_stories(asset_dict['story'])
 
 
 def _import_jpdict():
@@ -260,7 +346,8 @@ def main():
     import_assembly()
 
 def test():
-    import_assembly()
+    # import_assembly()
+    import_assets()
 
 if __name__ == "__main__":
     test()
