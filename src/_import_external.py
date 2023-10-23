@@ -45,6 +45,7 @@ def import_category(category, data):
         for entry in json_data:
             if key in entry["keys"]:
                 entry["text"] = value.strip()
+                entry['new'] = False
                 break
         else:
             print(f"WARN: Couldn't find {key} in {category}.json")
@@ -230,11 +231,11 @@ def import_external_story(local_path, url_to_github_jsons):
 
 
 def main():
-    import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
+    # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
 
-    # umapyoi_chara_ids = get_umapyoi_chara_ids()
-    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    # apply_umapyoi_outfits(umapyoi_chara_ids)
+    umapyoi_chara_ids = get_umapyoi_chara_ids()
+    apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    apply_umapyoi_outfits(umapyoi_chara_ids)
 
 if __name__ == "__main__":
     main()

@@ -655,7 +655,7 @@ def index_jpdict():
     string_dump_file = os.path.join(util.config['game_folder'], "assembly_dump.json")
 
     if not os.path.exists(string_dump_file):
-        print("db_dump.json not found. Skipping")
+        print("assembly_dump.json not found. Skipping")
         return
 
     new_data = util.load_json(string_dump_file)
