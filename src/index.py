@@ -548,6 +548,11 @@ def process_existing_texture(metadata):
         out_folder = os.path.join(util.ASSETS_FOLDER_EDITING, file_name)
         os.makedirs(out_folder, exist_ok=True)
         asset_path = util.get_asset_path(hash)
+
+        if not os.path.exists(asset_path):
+            print(f"\nTexture {file_name} not found. Skipping.")
+            return
+
         png_out = os.path.join(out_folder, os.path.basename(file_name) + ".png")
         org_out = os.path.join(out_folder, os.path.basename(file_name) + ".org.png")
         hash_out = os.path.join(out_folder, os.path.basename(file_name) + ".hash")
