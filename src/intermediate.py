@@ -372,6 +372,11 @@ def _convert_texture(metadata):
     for texture_data in metadata['textures']:
         tex_path_base = os.path.join(util.ASSETS_FOLDER_EDITING, metadata['file_name'], texture_data['name'])
         edited_path = tex_path_base + ".png"
+
+        if not os.path.exists(edited_path):
+            print("Error: Edited texture not found:", edited_path)
+            continue
+
         hash_path = tex_path_base + ".hash"
         org_path = tex_path_base + ".org.png"
         diff_path = os.path.join(out_folder, texture_data['name'] + ".diff")

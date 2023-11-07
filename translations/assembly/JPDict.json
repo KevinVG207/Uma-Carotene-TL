@@ -4048,7 +4048,7 @@
         "hash": "ec766a3f63014d4a8ef15742ebfdf8209342448fd9bb7ecfdf713e89770e5b80"
     },
     "Common0146": {
-        "text": "<size=22>Have</size>",
+        "text": "<size=22>Inv</size>",
         "hash": "ed643a807ff8b850908c6b695e9d18de79d106db147f9c839830212ba629899a"
     },
     "Common0147": {
@@ -4499,6 +4499,10 @@
         "text": "",
         "hash": "fb62fe2ae6b2ae6cd472717ded838cce62600f4789e31aa5873e7e69407848bc"
     },
+    "Common570001": {
+        "text": "",
+        "hash": "1cebe7736e29804de089f0cc3c99b9865d863bb69d512a712e4be9cb000568f7"
+    },
     "CustomRace0003": {
         "text": "",
         "hash": "b7b93399e82b9ce9718e0717fc5ca34b8018cffd3d84f84aa14114cb2fd6dd79"
@@ -4827,6 +4831,10 @@
         "text": "",
         "hash": "dafd24cf651430146968851577b0cafab8c6b42900d7d7cd001c3b1ca5d8b7e2"
     },
+    "Error124001": {
+        "text": "",
+        "hash": "d9fe79727b17787b527982fb9eceb46c2fa40648ff306db0da790ea91176bf28"
+    },
     "FactorResearch424001": {
         "text": "",
         "hash": "cbc60aa676ae7cb4bf5c1ab59ade77a00baf096317fb1f7a2d11e43ca2b0ed50"
@@ -4904,7 +4912,7 @@
         "hash": "8e632808de1887a0d429aebaf3e10865455ff8fe0657351a97b7f7494ccfd4a8"
     },
     "FactorResearch483008": {
-        "text": "Rewards Overview",
+        "text": "1Rewards Overview",
         "hash": "1709004c17bf69eaa0828bb64fedb000de21b6036b49acc7f9438f772f2b954f"
     },
     "FactorResearch483009": {
@@ -4941,7 +4949,7 @@
     },
     "FactorResearch508001": {
         "text": "",
-        "hash": "82e6525839d06497a8b9256adf96a5320f39009654e97cd1b8d2ea510bd6336d"
+        "hash": "c3c1c69a827dbf7beb31c8854c1ea4ffa5714f593d5aeb7a720b752a5db27f6d"
     },
     "FactorResearch508002": {
         "text": "",
@@ -4958,6 +4966,10 @@
     "FactorResearch419001": {
         "text": "",
         "hash": "39343addfefdedf77126d839d7e07c5ebcd38bf909017114f6d7e0fcf259e333"
+    },
+    "FactorResearch497001": {
+        "text": "",
+        "hash": "eff2f406de9ced15263ae62a5df875c727670c78ef2df027d60ccba1975e48c5"
     },
     "FanRaid424002": {
         "text": "",
@@ -5674,6 +5686,42 @@
     "Gacha400101": {
         "text": "",
         "hash": "6d1101eeb232f56ed20806d93ecddc36888e20f5411f6281e10e62b221123c71"
+    },
+    "Gacha570001": {
+        "text": "",
+        "hash": "6e2c33512e9246ce97233bdc1ae9f57fdde9f0741d768f64792da6443b262d72"
+    },
+    "Gacha570002": {
+        "text": "",
+        "hash": "0df6fdba9d1eefc7e721033e7c993469716ee7cc1819006be5915299a4518884"
+    },
+    "Gacha570003": {
+        "text": "",
+        "hash": "17fea79550f902d485e2d0d222a2be9e3e6579ecdd3f18e6d277390f9bea6203"
+    },
+    "Gacha570004": {
+        "text": "",
+        "hash": "5d5acbfc20b14fc1d54918a3e0b995fd47f4c41cfa86ac10f6ecb266581da454"
+    },
+    "Gacha570005": {
+        "text": "",
+        "hash": "134dd765e723c41c32abbaa178fe5dc4111c956cd8d1ef031eaeb33ac687135f"
+    },
+    "Gacha570006": {
+        "text": "",
+        "hash": "d4fc15db5fd9da36eb2346c39daea330c0398facd65f6dda8803942aab4a3e1a"
+    },
+    "Gacha570007": {
+        "text": "",
+        "hash": "0ddbffc10eb7d32daa49aa9dd79d191646a9b2123f181ebd1015cc53b3bf6513"
+    },
+    "Gacha570008": {
+        "text": "",
+        "hash": "5d5f49014bed3db1d5ee1d4311f4763b6922dc4316a087cbcb4831b6ec56c6e4"
+    },
+    "Gacha570009": {
+        "text": "",
+        "hash": "ed74ee4adc5e46cb47f858abaac9f3ec7fda54cfed8912ad52db54f1abee7587"
     },
     "Gallery0001": {
         "text": "",
@@ -8204,7 +8252,7 @@
         "hash": "417d626f876a17a1a3ff479b2dc83bbf797fb7916263692c90a7f7aa26741e6f"
     },
     "Outgame0100": {
-        "text": "Awakening Level",
+        "text": "<nb>Awakening Level",
         "hash": "5891a8386bdbccfa66891a635cb491d278d56265fb482bbaf4400b7fc679f24f"
     },
     "Outgame0106": {
@@ -10763,6 +10811,18 @@
         "text": "",
         "hash": "3e05d697c1fc60936ff3f644a4c9843a11a2f81c1c08827b25584f2a8441f7ea"
     },
+    "Outgame352034": {
+        "text": "",
+        "hash": "7b75bc59fab557acda2d6f0ee64bdda9b0407144b864f33018eea3d1fe3b5e75"
+    },
+    "Outgame352035": {
+        "text": "",
+        "hash": "9d4757174ee2efc9e92784a4d7cc5621611947148a953e7492ce5b082341f17d"
+    },
+    "Outgame352036": {
+        "text": "",
+        "hash": "f2e2e31b983413b41fcdfc3aea8f80e2d39cf46435d2b7774ec07715a5457f8b"
+    },
     "PracticeRace400101": {
         "text": "",
         "hash": "43956281ccc681ce4c1964dc79c2a53226a3c10cea5547975b35d11ca16c0ed2"
@@ -11228,7 +11288,7 @@
         "hash": "814aa48d7f5df5a7372c6f5a47acbcd88ceca25fdf024ce971715d674e028874"
     },
     "Present0008": {
-        "text": "Expired gifts will be <color=#ff911c>automatically removed</color>.\nThe\"Claim All\" button claims up to <color=#ff911c>100 gifts</color> at once.",
+        "text": "Expired gifts will be <color=#ff911c>automatically removed</color>.\nThe \"Claim All\" button claims up to <color=#ff911c>100 gifts</color> at once.",
         "hash": "cc53bebecfbb7cc165db107aad733228261b57d9bbc5ef79f3b3791b973b2e73"
     },
     "Present0009": {
@@ -12192,7 +12252,7 @@
         "hash": "ddb69ad79e2dd9c70ce001c378b800bb02989b26ebd6385e7ab6c106eaa623ec"
     },
     "Race0260": {
-        "text": "Rewards Overview",
+        "text": "2Rewards Overview",
         "hash": "1709004c17bf69eaa0828bb64fedb000de21b6036b49acc7f9438f772f2b954f"
     },
     "Race0329": {
@@ -17379,6 +17439,10 @@
         "text": "",
         "hash": "0d0629dd039bda92598c779484bd876871e945aa4e608427f59e202e7bf28a65"
     },
+    "SingleModeScenarioArc0077": {
+        "text": "",
+        "hash": "ef22ed0cee989ead45a81fff28f388e5a92884926d1cc68934c557d7036477e9"
+    },
     "SingleModeScenarioArc508001": {
         "text": "",
         "hash": "eab706a4c92e3edbad6b5d9d8c32dcf3e0325d23cddc8a757a4efb26c4eea0a7"
@@ -22350,6 +22414,10 @@
     "TransferEvent483001": {
         "text": "",
         "hash": "db8af53c2047d49c96a5d2ce968dfbcc1539f261f51fed0fd73a444db8790afb"
+    },
+    "TransferEvent352001": {
+        "text": "",
+        "hash": "057ad96b362ac57b8aafd6ed55cbaee07680be2d422cd4c5e7bc82c4abe8b3fa"
     },
     "Tutorial0001": {
         "text": "",

@@ -630,6 +630,12 @@ def index_textures():
         rows = cursor.fetchall()
         all_textures += rows
 
+        cursor.execute(
+            """SELECT n, h FROM a WHERE n like 'sourceresources/flash/%' ORDER BY n ASC;"""
+        )
+        rows = cursor.fetchall()
+        all_textures += rows
+
     if not all_textures:
         raise ValueError("No textures found in meta DB.")
     
