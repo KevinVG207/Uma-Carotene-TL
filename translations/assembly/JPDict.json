@@ -1048,7 +1048,7 @@
         "hash": "b03f3c46e3492759240d043e1f14bd84ac226f56af537171587cb780973d930b"
     },
     "Champions0028": {
-        "text": "",
+        "text": "<nb>Results",
         "hash": "40459bd2a69c7b34d07a315a0864b5c1ebcb29fbdd5a2599f4142eb71a742461"
     },
     "Champions0029": {
@@ -4044,11 +4044,11 @@
         "hash": "4161c9007abd1dc3b41e522dbb660e38696a93bce01ad6f1c87bfdb5e7cc3918"
     },
     "Common0145": {
-        "text": "Owned",
+        "text": "<nb>Owned",
         "hash": "ec766a3f63014d4a8ef15742ebfdf8209342448fd9bb7ecfdf713e89770e5b80"
     },
     "Common0146": {
-        "text": "<size=22>Inv</size>",
+        "text": "Inv",
         "hash": "ed643a807ff8b850908c6b695e9d18de79d106db147f9c839830212ba629899a"
     },
     "Common0147": {
@@ -4304,7 +4304,7 @@
         "hash": "f3585ed9eca33072789a6853256311b64712cc9ab50a92eb36542e32422a5a76"
     },
     "Common0270": {
-        "text": "",
+        "text": "{0}",
         "hash": "68b116d4486c2c89f69f52c18c265e47edc46b6931abe6d818cf6524072349ab"
     },
     "Common0273": {
@@ -4516,7 +4516,7 @@
         "hash": "52cbc155c4ad44fb6b2f3fa3449e60b6b1ae389bc146aab0a10709f5c1d6736d"
     },
     "CustomRace0043": {
-        "text": "",
+        "text": "<nb>Entrants:",
         "hash": "93fa9d8a5c0f54f0d0b09c63e74902f24ef3ccea29d8a757c012f0b6119a40bf"
     },
     "CustomRace0045": {
@@ -4544,7 +4544,7 @@
         "hash": "81adfc98e9767ccb92718d7f7f701c2fae8f31a997e92f0c28f45864bfd37a8d"
     },
     "CustomRace0068": {
-        "text": "",
+        "text": "<nb>Race Details",
         "hash": "5025aa500f03f9651fb1d230f56cfa7c8222cb3f62aba9c3e1943b3a6852e9f1"
     },
     "CustomRace0070": {
@@ -4912,7 +4912,7 @@
         "hash": "8e632808de1887a0d429aebaf3e10865455ff8fe0657351a97b7f7494ccfd4a8"
     },
     "FactorResearch483008": {
-        "text": "1Rewards Overview",
+        "text": "Rewards",
         "hash": "1709004c17bf69eaa0828bb64fedb000de21b6036b49acc7f9438f772f2b954f"
     },
     "FactorResearch483009": {
@@ -7216,7 +7216,7 @@
         "hash": "b36f468b1752edca41e06244604163c76c99b639b4ad9ba06e9c8ed59152b46b"
     },
     "Jikkyo0009": {
-        "text": "",
+        "text": "{0}",
         "hash": "68b116d4486c2c89f69f52c18c265e47edc46b6931abe6d818cf6524072349ab"
     },
     "Jikkyo0010": {
@@ -8736,7 +8736,7 @@
         "hash": "6d25fabce89e9880f4efceed661feaff3b74ee0bbd4be0e04dc0784fe3f4435b"
     },
     "Outgame0305": {
-        "text": "",
+        "text": "You received\n{0}.",
         "hash": "d8444a486521173033dc7ddebdbafdb0e01c0e05829ac49cd9bc6762d60f6b9d"
     },
     "Outgame0306": {
@@ -12084,7 +12084,7 @@
         "hash": "f960d5488c2ad1c3439d5dd015db8cf3e4bcc855b9ac9d8013de55360cbfd163"
     },
     "Race0086": {
-        "text": "",
+        "text": "<nb>Results",
         "hash": "40459bd2a69c7b34d07a315a0864b5c1ebcb29fbdd5a2599f4142eb71a742461"
     },
     "Race0089": {
@@ -12128,7 +12128,7 @@
         "hash": "7127d98addbffbc9363802ffb8dc8cbcfe2058e1561ae52821769e4c349dcbca"
     },
     "Race0122": {
-        "text": "Strat.",
+        "text": "Strat",
         "hash": "8da22fcd47373517d06acdf64afa694b9098c2189ad59f47b778926a633cb33a"
     },
     "Race0131": {
@@ -12220,7 +12220,7 @@
         "hash": "a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58"
     },
     "Race0206": {
-        "text": "",
+        "text": "Resume",
         "hash": "788935e0a2451853f97738acee3a4cd8bdf5c0eb5202d627e5a404a41907f0f2"
     },
     "Race0236": {
@@ -12252,7 +12252,7 @@
         "hash": "ddb69ad79e2dd9c70ce001c378b800bb02989b26ebd6385e7ab6c106eaa623ec"
     },
     "Race0260": {
-        "text": "2Rewards Overview",
+        "text": "Rewards",
         "hash": "1709004c17bf69eaa0828bb64fedb000de21b6036b49acc7f9438f772f2b954f"
     },
     "Race0329": {
@@ -12272,7 +12272,7 @@
         "hash": "e6ac5b86b34347d79ed65ff49f062b984f83da0e9c5afddbe7164194e1c0e596"
     },
     "Race0410": {
-        "text": "",
+        "text": "Replay",
         "hash": "38c209a24272ffefd464650b391450bc6d0d54e3e4cdc20aabd9ac63151f269a"
     },
     "Race0425": {
@@ -12604,7 +12604,7 @@
         "hash": "2afd6b0b38e715fadebd0d8054496ab67fe76eb2001e5aba886fd0fef7c83a9c"
     },
     "Race0635": {
-        "text": "Motivation",
+        "text": "<nb>Motivation",
         "hash": "2625bf9b2907e8befb3dce8373483aba314f9c78036439c2b89e9ab1c98d3003"
     },
     "Race0636": {
@@ -12656,7 +12656,7 @@
         "hash": "7d2491d260b09d92a07ab2f4802d898e2226f9cd3ff0d58ea47eb79bc7ea4e04"
     },
     "Race0660": {
-        "text": "",
+        "text": "<nb>The trophy has been placed in the Trophy Room.",
         "hash": "b8c5fd180b90a47f8a032be638286c6a7f394f0311c2430df3b034693f37c37b"
     },
     "Race0661": {
@@ -12736,19 +12736,19 @@
         "hash": "0d4299a02f62dc0b84997115043bdc86a585ae90d3747000967e1939522dd3fb"
     },
     "Race408003": {
-        "text": "",
+        "text": "Unlock in: ",
         "hash": "ba39364e1b6bcf5205a79ca823e13f538a9dc25a1a12689417580dab9d14336a"
     },
     "Race408004": {
-        "text": "",
+        "text": "<nb>Unlockable!",
         "hash": "6dd4ac102db7e1a03079bb28b81688a3f705a0c344d8f8c12af25d96b414023e"
     },
     "Race408005": {
-        "text": "",
+        "text": "Upgrade in: ",
         "hash": "e5d1d743dc920a1162e0f7fb03a8ea680c648d93a7fe2e93c7ca0efda5dcfb79"
     },
     "Race408006": {
-        "text": "",
+        "text": "<nb>Upgradable!",
         "hash": "027e8afd5f8095c44e2525628f85adb86b2e601af028d00a689648122a30b36f"
     },
     "Race408007": {
@@ -13252,11 +13252,11 @@
         "hash": "a220be32e4bfe2104189642d892926fd864d520726377456221099e479cbc84b"
     },
     "RoomMatch0097": {
-        "text": "Uma List",
+        "text": "Entrants",
         "hash": "20cf958954bc784cf6a17fe008cc70aee8c8e1c761a416aaf046ed02a9217c09"
     },
     "RoomMatch0098": {
-        "text": "",
+        "text": "<nb>Results",
         "hash": "40459bd2a69c7b34d07a315a0864b5c1ebcb29fbdd5a2599f4142eb71a742461"
     },
     "RoomMatch0099": {
@@ -13264,7 +13264,7 @@
         "hash": "89c1a65c3a5c4923b71751282c153ecba37465a01ee5554c5ae76dc9cf1e75ad"
     },
     "RoomMatch0100": {
-        "text": "",
+        "text": "Replay",
         "hash": "38c209a24272ffefd464650b391450bc6d0d54e3e4cdc20aabd9ac63151f269a"
     },
     "RoomMatch0101": {
@@ -13372,7 +13372,7 @@
         "hash": "25d414cf1367ac9f1b52e5c9d50a223282044c9ba9dac1647a9fbdb4589967f0"
     },
     "RoomMatch0127": {
-        "text": "",
+        "text": "Erase",
         "hash": "a46c26db3c6ec4420ecaef0f68c41462cad4dbeccfe26b4f233f4226b7eb8506"
     },
     "RoomMatch0128": {
@@ -14048,7 +14048,7 @@
         "hash": "f2ca1d36493dcc029947cf9f9a420401680c45ecf366aeac6b150cc0c8e20008"
     },
     "Shop0055": {
-        "text": "",
+        "text": "Expiry",
         "hash": "814ab26093aaf3a25770966887bfcfd696618595f1334647862ae38412cfa28f"
     },
     "Shop0056": {
@@ -14460,7 +14460,7 @@
         "hash": "11eef1bd935e58e9e5253c4bc198be03127b3b5bf24a2aa574c9837d7be4a12a"
     },
     "Shop137002": {
-        "text": "",
+        "text": "All",
         "hash": "71ecce376520588da53f86daa71b3a70d96708b0f68c044f337f171a781c7e49"
     },
     "Shop137003": {
@@ -14492,7 +14492,7 @@
         "hash": "45b033427aa85acd0cea1b8e9c77108ad0f8e467e71b90fee8317a57bcaff9ca"
     },
     "Shop137010": {
-        "text": "",
+        "text": "<nb>Everything is already selected.",
         "hash": "6180675299b8275279619efac9f885a9d86dd66f4b99f304b06b1affd15583ee"
     },
     "Shop137011": {
@@ -14592,7 +14592,7 @@
         "hash": "805880d9b47336470ffe4c764c46f012edcfa743bfe767f637a8aa09d21ef8e9"
     },
     "SingleMode0042": {
-        "text": "",
+        "text": "Status",
         "hash": "bc30238ae718342277bb5f578093423884c71fdad429e91a172e60cc997ec80c"
     },
     "SingleMode0045": {
@@ -14760,7 +14760,7 @@
         "hash": "27e88b861fa91ee1c64bbc3be6868fda14f45e1ad84b0da7caf7a7d3f7d7bce1"
     },
     "SingleMode0123": {
-        "text": "Uma List",
+        "text": "Entrants",
         "hash": "20cf958954bc784cf6a17fe008cc70aee8c8e1c761a416aaf046ed02a9217c09"
     },
     "SingleMode0125": {
@@ -14776,11 +14776,11 @@
         "hash": "d0940952cbece4a78f15819fddb4d24a7880b1049ae7cbc19ab7bb074329314c"
     },
     "SingleMode0128": {
-        "text": "",
+        "text": "<color=#{1}>{0} turns</color> left",
         "hash": "b5614f3db6fa0b092632b5db4ad9bec25db5077db31a5f8b8f7408891e3174de"
     },
     "SingleMode0129": {
-        "text": "",
+        "text": "<nb>Next Goal",
         "hash": "6b964a42284d0b2a7d9a83ed5a41a272cedc140d2ee6e2a2af7c4eeed686734b"
     },
     "SingleMode0130": {
@@ -14828,7 +14828,7 @@
         "hash": "1b1fb8a27db1a70983ec282579e50813e57623b7c33ed312110f05fad2c3a9c8"
     },
     "SingleMode0154": {
-        "text": "",
+        "text": "Enter the {0}",
         "hash": "79b602a0353da29069c584ba4a0e72e012ee0d770a083623785ba9e6652a5ba8"
     },
     "SingleMode0155": {
@@ -14876,11 +14876,11 @@
         "hash": "d01bb5ed02432cc020080954c36cdddd82f598cee7ff95b5be7ca7dbadc1644b"
     },
     "SingleMode0170": {
-        "text": "",
+        "text": "<nb>Erase Training Data",
         "hash": "b5a453e6ca23356d2a4d29f4615a67fb33d2e86d1d7921f84784963a43e44b64"
     },
     "SingleMode0171": {
-        "text": "",
+        "text": "Training data has been erased.",
         "hash": "c95875f6450329e40d52f931f0ae3c4b95771177bdfa24f936c57111de82601b"
     },
     "SingleMode0185": {
@@ -15108,7 +15108,7 @@
         "hash": "e902536c0dd8dce95cf04dfdd1d089aeb0a8769cd95721f6b821377ad720ac0d"
     },
     "SingleMode0251": {
-        "text": "",
+        "text": "<nb>Resume Training",
         "hash": "10dcb76d4255fdcf1964e8fce9f410afba414c2caa116a17021baf24b113cf01"
     },
     "SingleMode0252": {
@@ -15404,7 +15404,7 @@
         "hash": "9e3b10a7f868697431dcd7871600d55078bf266361661287748ab0838a1c09d6"
     },
     "SingleMode0344": {
-        "text": "Unique Skill",
+        "text": "Inherent Skill",
         "hash": "801c5f2acd521fb99ecc663a28cbd92579d666bddbe71c65fae84c1c472b8fa2"
     },
     "SingleMode0345": {
@@ -19720,7 +19720,7 @@
         "hash": "7279e45e8581f58a220f9e27b3ace979847070529d650f8dc9f87cff347e9c81"
     },
     "Story1260004": {
-        "text": "Uma List",
+        "text": "Entrants",
         "hash": "20cf958954bc784cf6a17fe008cc70aee8c8e1c761a416aaf046ed02a9217c09"
     },
     "Story1260005": {
