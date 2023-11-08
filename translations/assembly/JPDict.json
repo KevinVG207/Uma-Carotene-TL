@@ -1876,7 +1876,7 @@
         "hash": "242fbd71496d120f45b8861141ad14f1117fb9ac924a9cd02e868d6ca6f50968"
     },
     "Character0079": {
-        "text": "",
+        "text": "Race",
         "hash": "f874a1c168a7a1783d8e94db9e0c43d72d5c586c67f696402c10e1313fc501f9"
     },
     "Character0080": {
@@ -1896,7 +1896,7 @@
         "hash": "494c1773c9bb55d0041ffaa4d630472eff45db8d6ae00873392374bfe6954774"
     },
     "Character0146": {
-        "text": "",
+        "text": "Gacha",
         "hash": "db1ed45a1bc0472ed71bc5d1969f1d6660d1bdfe8929f5c6d936faf21babc89a"
     },
     "Character0147": {
@@ -2076,7 +2076,7 @@
         "hash": "51f38d5893d27b8dba99a5c656ed902a4cd1194737191a4612a8d2b611543b81"
     },
     "Character0336": {
-        "text": "",
+        "text": "<nb>Umamusume Details",
         "hash": "ab8898491a7bf54f6fffcc04bc8bb880bd740ce4346268942abbf732e6bcfea6"
     },
     "Character0337": {
@@ -2116,7 +2116,7 @@
         "hash": "98b71d92b6364ea0ab9a2d3f3b3fad00b12dc8a6ea4a05ec470bacaf6ba833d8"
     },
     "Character249001": {
-        "text": "Hint Lvl Up",
+        "text": "Hint Lv Up",
         "hash": "f305327936944c4a115032f305046e0c6a1729612c77b01ba53f4d2559fd43b0"
     },
     "Character249002": {
@@ -2124,7 +2124,7 @@
         "hash": "f8a628cfc4e05c64195f0d1074252639d69dfb28cfcae9db528cd98e4dc0e915"
     },
     "Character249003": {
-        "text": "Hint Lvl",
+        "text": "Hint Lv",
         "hash": "1751d95956ee96b43e49127c2a4388a0791006ab4ce2ef420c9c583c5747e551"
     },
     "Character249004": {
@@ -2132,7 +2132,7 @@
         "hash": "aae8f8fc073c6f1fda542eeaf45f9bb21f10019a53383258c85f389580360178"
     },
     "Character249005": {
-        "text": "",
+        "text": "Hint Lv Up",
         "hash": "cee5a1b7757668552082b09826588aa0599920aa0d29e87914476c40d36b3e70"
     },
     "Character249006": {
@@ -3044,7 +3044,7 @@
         "hash": "088a3225f82cca378d4f4c86157e3c56b37ffd3d7b4387e04c5f74dbfb82998f"
     },
     "Circle0326": {
-        "text": "",
+        "text": "{1}/{0}",
         "hash": "e3b88e753bde27fb96f899eff5f6130b5caca85477aaf4c3f45bdd0b8d8a4389"
     },
     "Circle0328": {
@@ -3572,7 +3572,7 @@
         "hash": "12413235d333fe11016da623fa1f439425b42c22b0cb246387bb88ad546d0952"
     },
     "Common0015": {
-        "text": "",
+        "text": "Until {0}",
         "hash": "06bcca16436c3005c59b54b970a66910951e81f0ecc49e684a9a468170a30eb6"
     },
     "Common0016": {
@@ -3604,11 +3604,11 @@
         "hash": "df3535a64718d11cf8080216b26b76d9139828438c59a75569744ab2d399a7a8"
     },
     "Common0024": {
-        "text": " ",
+        "text": "Hor.",
         "hash": "fdef35a67510ad233ad0e32bfecb35621cf7daffbcd192a55a36d8b1d1f3d133"
     },
     "Common0025": {
-        "text": " ",
+        "text": "Ver.",
         "hash": "4a05dbc8e5955a11a5550f6b37f5a9682867d911791f6f84d3e5b9b17b8fadec"
     },
     "Common0027": {
@@ -4056,7 +4056,7 @@
         "hash": "01fc1c55333cf931e1833a19812f1821d0a7daaf650e4a04d25707b8976ba2f5"
     },
     "Common0148": {
-        "text": "Details",
+        "text": "Detail",
         "hash": "9652e7b5f69922bdce983e3534b7b370bd965dce40e4f7ec2f39a443eed006d6"
     },
     "Common0149": {
@@ -4352,7 +4352,7 @@
         "hash": "dd084934d8988a7923e271ab750a67fc73632f00f39d670644e588db61a25c9e"
     },
     "Common0286": {
-        "text": "",
+        "text": "Upgrade Bonus",
         "hash": "c8cf66d02f8c9eedfb40b07cf7a98dd3d7032d3ac2aec9681228d7ba649d6d72"
     },
     "Common0287": {
@@ -4360,7 +4360,7 @@
         "hash": "8fb10b51f9d03156673b1d672be33be796f25a8007a63e4e2f2678d6d4e9e3ea"
     },
     "Common0288": {
-        "text": "",
+        "text": "Awakening Lv Up",
         "hash": "e5c39a181709912182d93c087cfad5eba11949336955e4ac61b8dccc6d3ec02f"
     },
     "Common0289": {
@@ -5072,11 +5072,11 @@
         "hash": "8eb58b70a2defbc797d3bc11b498840bf9bbbcabc7e7854862c829e3bc01e0df"
     },
     "Friend0003": {
-        "text": "",
+        "text": "Follow",
         "hash": "577676df4a81e60397d8178b268beb3b5cb51bf39b0e871ee40d74ca049fc95a"
     },
     "Friend0004": {
-        "text": "",
+        "text": "Followers",
         "hash": "3481a937cede8b72cecfa6baf36f26d1997364a71c1b2c89a632760cdd2ca8b8"
     },
     "Friend0005": {
@@ -5248,7 +5248,7 @@
         "hash": "c0be6499c92ec64e88ccf3a935d5078bf17e1071a26a905dfc6542b51912464f"
     },
     "Gacha0012": {
-        "text": "",
+        "text": "Until {0}",
         "hash": "3a29a79262e1c12dd41d504f10f3284166c30439e93dcdc3f4d5128c9b18171d"
     },
     "Gacha0013": {
@@ -6128,7 +6128,7 @@
         "hash": "f471bc89e392276102412c22304947d655d55955552b8525144acd74904fc4a8"
     },
     "Heroes511005": {
-        "text": "",
+        "text": "Free until {0}",
         "hash": "98c2a5e3574140352cad0dddfc7d7d9df02e46a41241df16a4ddfc894c22c6d2"
     },
     "Heroes511006": {
@@ -9328,15 +9328,15 @@
         "hash": "ea4f9bfa301fd36a1a1b8d5d0dcf5f7343b041449b12281f79e56981ddb18c55"
     },
     "Outgame0461": {
-        "text": "",
+        "text": "<nb>Training Event Details",
         "hash": "b199f959b76a3d44109a21b9138674c14671768d0b1c1f433e4bc4cb81f2cdef"
     },
     "Outgame0462": {
-        "text": "",
+        "text": "Above skill(s) may be obtained from events.",
         "hash": "52e4e531ef89d25d2e33e93a7e2d5b375497664cd6ed6103ca8dbdb95704990d"
     },
     "Outgame0463": {
-        "text": "",
+        "text": "No obtainable skill hints.",
         "hash": "71d0c5996fbe58b2c385467ee7517e0af1832c63665fee4f35c15f6b3a1e97bd"
     },
     "Outgame0464": {
@@ -10824,7 +10824,7 @@
         "hash": "f2e2e31b983413b41fcdfc3aea8f80e2d39cf46435d2b7774ec07715a5457f8b"
     },
     "PracticeRace400101": {
-        "text": "",
+        "text": "Practice",
         "hash": "43956281ccc681ce4c1964dc79c2a53226a3c10cea5547975b35d11ca16c0ed2"
     },
     "PracticeRace400102": {
@@ -12056,7 +12056,7 @@
         "hash": "e91b5e83f659789c59c34fc76f489711c8d2f4090dd63b76611986886a80cd09"
     },
     "Race0072": {
-        "text": "",
+        "text": "Legend Race",
         "hash": "75e82fc0ed14e393b6460460eafbcc562c24cd496992889f29ba07b8303f1af9"
     },
     "Race0075": {
@@ -12812,7 +12812,7 @@
         "hash": "0c588d27ae99173c6e5e6c89becad06c20c7f65933bbc1a500ca91f6175fc8b2"
     },
     "Race497001": {
-        "text": "",
+        "text": "Changes in ",
         "hash": "99ac119d39ae75b079ada70bcdd52ecb6d4a9858dc6582dae22c8ff011c1ac38"
     },
     "Race497002": {
@@ -12872,7 +12872,7 @@
         "hash": "1bf8abcb4cb8e2d3280d14f4eef0bb47e46b1c33edb002e8455223d5f487fcaa"
     },
     "RoomMatch0001": {
-        "text": "",
+        "text": "Room Match",
         "hash": "05cc1ac517fce267f5fcfbac54daee82cbb5a2fb44647048753ae73aa0617713"
     },
     "RoomMatch0002": {
@@ -14000,7 +14000,7 @@
         "hash": "7230cffebe709ed2dfbe139cad125eac3b9af52781a659258b2203e02503b8a7"
     },
     "Shop0026": {
-        "text": "",
+        "text": "{1}/{0}",
         "hash": "e3b88e753bde27fb96f899eff5f6130b5caca85477aaf4c3f45bdd0b8d8a4389"
     },
     "Shop0027": {
@@ -14272,7 +14272,7 @@
         "hash": "306773648e90c5841452124776afe188611222443e66b0f4692aff882ad6bc44"
     },
     "Shop0128": {
-        "text": "",
+        "text": "Tickets",
         "hash": "6942552805551dba026951a48fe992363abfb3866d0275efb9acac95f70f5a07"
     },
     "Shop0129": {
@@ -15404,7 +15404,7 @@
         "hash": "9e3b10a7f868697431dcd7871600d55078bf266361661287748ab0838a1c09d6"
     },
     "SingleMode0344": {
-        "text": "",
+        "text": "Unique Skill",
         "hash": "801c5f2acd521fb99ecc663a28cbd92579d666bddbe71c65fae84c1c472b8fa2"
     },
     "SingleMode0345": {
@@ -21016,27 +21016,27 @@
         "hash": "ad7ab5226fe13cb249751281250223423911617fd220d694cd4defd95ed19796"
     },
     "TeamStadium0001": {
-        "text": "",
+        "text": "1st Clear",
         "hash": "dba56255bb5b385ab40e50843baf0f5b01798bceab306e3b654ef23b663d80a8"
     },
     "TeamStadium0002": {
-        "text": "",
+        "text": "Clear",
         "hash": "95cbdc054cdef21aaaa42e0ffefc5ec7713d0210312c2e96171e6d83adbda2cb"
     },
     "TeamStadium0003": {
-        "text": "",
+        "text": "Keep",
         "hash": "93cefe2f9f1d1ba88cde0962fc848c9bfc8d22dc1e992420f21be6faaf0b56f8"
     },
     "TeamStadium0004": {
-        "text": "",
+        "text": "Drop",
         "hash": "fab617a78117575a244f9352ceb8a3e8114034291b3f64f76bd8b9a876eca8a6"
     },
     "TeamStadium0005": {
-        "text": "",
+        "text": "Rewards",
         "hash": "4737b498dfceb9a7a999ecf2697bdbdea57937aceba4c73238a70d231a6656a7"
     },
     "TeamStadium0006": {
-        "text": "",
+        "text": "<nb>CLASS {0} {1}",
         "hash": "d7be38a652260c0a3cac50bd5fee7af85c5f47b13b16985c2bc521ea9b182a4d"
     },
     "TeamStadium0007": {
@@ -21072,7 +21072,7 @@
         "hash": "885cb6023e59cb6b4c8d9493b169841403bf0b2c83a4692363c4c6346a9bb94c"
     },
     "TeamStadium0021": {
-        "text": "",
+        "text": "{0:#,0}",
         "hash": "b302a7a97d048e3236ed2f8eb07f97fd735373fcfe9e93e26f4395855fdfd113"
     },
     "TeamStadium0023": {
@@ -21080,7 +21080,7 @@
         "hash": "05a76b2eb609fb57bc7a5cb41437eaca52d15ac3ae1163e865999eb38b2550d7"
     },
     "TeamStadium0024": {
-        "text": "",
+        "text": "<nb>Advancement Threshold",
         "hash": "06d60210a47867dd5f46f8af1a3d3a0c29609a633cccb3a122abc2b004b4f9f6"
     },
     "TeamStadium0025": {
@@ -21088,7 +21088,7 @@
         "hash": "efe156cdefe3a3e73cdd74dee81e9d0259dbb43c034180b931800649bf9d4fc3"
     },
     "TeamStadium0027": {
-        "text": "",
+        "text": "Ranking",
         "hash": "e7b81a331c2ee25fd89a4e16a8bf0312797882c2d6679ded5ea9874d463929b7"
     },
     "TeamStadium0028": {
@@ -21252,7 +21252,7 @@
         "hash": "fecf762026903223ac5d29dd7df883bb78072d8ec188acfc3f5c916c03e79f56"
     },
     "TeamStadium0087": {
-        "text": "",
+        "text": "Races",
         "hash": "68e8fd438df535124b7f6da31036cb4f52c3d808173e05f1d294a93bd0bf0aae"
     },
     "TeamStadium0088": {
@@ -21268,7 +21268,7 @@
         "hash": "debf9ab55c89e573903f9aab50f3c0a0234acc59eb3732bb45e4d1e566bac2d7"
     },
     "TeamStadium0092": {
-        "text": "",
+        "text": "Scores",
         "hash": "a6207cf53faf8a9e75596afc9b998d0a54452ead910003eed0ee9c4f7efde8fa"
     },
     "TeamStadium0093": {
@@ -21300,7 +21300,7 @@
         "hash": "eb0aa82b4faca50244cdbedbf0e94255f1385402d9f3ccda4f6043be52b119e6"
     },
     "TeamStadium0100": {
-        "text": "",
+        "text": "Support Bonus",
         "hash": "c1b35ac72e1394f48f96d1072567bc77e2d558da72e45cc40af06d599691ab1c"
     },
     "TeamStadium0101": {
