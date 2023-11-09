@@ -636,6 +636,13 @@ def index_textures():
         rows = cursor.fetchall()
         all_textures += rows
 
+        # Character "Train" buttons
+        cursor.execute(
+            """SELECT n, h FROM a WHERE n like 'chara/chr____/petit/%007_' ORDER BY n ASC;"""
+        )
+        rows = cursor.fetchall()
+        all_textures += rows
+
     if not all_textures:
         raise ValueError("No textures found in meta DB.")
     

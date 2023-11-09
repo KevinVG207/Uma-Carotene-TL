@@ -1864,7 +1864,7 @@
         "hash": "b15736e8a75063fb77621847ca11f1ac047d755fd6aebd97bc640714b54cd789"
     },
     "Character0073": {
-        "text": "",
+        "text": "<nb>Umamusume Details",
         "hash": "c790c333ab8d12caa756d5f84ad9b4d8f115925ee72407517b9f56cadb2f59bc"
     },
     "Character0076": {
@@ -2528,7 +2528,7 @@
         "hash": "84321ce0ba9d4465999d66f2274e597786bba24034fb49d4be08ca7f59d30148"
     },
     "Circle0140": {
-        "text": "",
+        "text": "Type a message",
         "hash": "9d74e39d4b8ad0afc45fef283ce52f77fe99c90c1ccbd722c566ce9e0464ff8a"
     },
     "Circle0141": {
@@ -2800,7 +2800,7 @@
         "hash": "8386f59ce6a7dfdf91d77774cb7247f6d135951837664095cfb6bf9b481caec8"
     },
     "Circle0233": {
-        "text": "",
+        "text": "Item Request",
         "hash": "0b180b7694dbb66bb84ec9995a693062ef55d55e1720352c6af7b30ad13632cd"
     },
     "Circle0237": {
@@ -2848,11 +2848,11 @@
         "hash": "0fa4ea35091c78f10c80e5176a0134f4508496ecb879ff861e093c6bbeb04c91"
     },
     "Circle0252": {
-        "text": "",
+        "text": "{0}",
         "hash": "a8f2e4899eafc795669d93d50d982bd4a556c4edf03a693a91652651ab6362b7"
     },
     "Circle0253": {
-        "text": "",
+        "text": "Donated {0}",
         "hash": "7ff38e85e98865ba1eb625570ad3e71ea72fffb2e09a63cff17e4b79fe3527ef"
     },
     "Circle0254": {
@@ -2888,7 +2888,7 @@
         "hash": "2d03c0c654c2ff13643a97eb1ca86408cff7817187de895036dd728bdacc85ff"
     },
     "Circle0262": {
-        "text": "",
+        "text": "Nothing left to donate.",
         "hash": "c3584a256ac6125b5ae269e0ecad8566035ee695b81c87c84364df68727b661b"
     },
     "Circle0263": {
@@ -2904,7 +2904,7 @@
         "hash": "d4219c3bbbf76e73c6a22dfca76bdad7fd9077f58520c6d9b0003c8179fe5166"
     },
     "Circle0268": {
-        "text": "",
+        "text": "Donated",
         "hash": "b0ae9875e31180d5d871ccd314617c44bf223e682a63848a8c2d936c7a837204"
     },
     "Circle0269": {
@@ -3252,7 +3252,7 @@
         "hash": "75cc422a7785ed3515ca61be7a5a4aa009fbe126a7bb4402f3eb2ce620ca380f"
     },
     "Circle400103": {
-        "text": "",
+        "text": "<nb>Donate to All",
         "hash": "d57d9ec8f4633fb4cee735f3c3ab68a4314432d081f1a4fba120d15e8235f15a"
     },
     "Circle400104": {
@@ -3264,11 +3264,11 @@
         "hash": "2593899b5535afa535bf2673e92e72cdcf33a94d2988a0a8f7b54d03f4c95b40"
     },
     "Circle400106": {
-        "text": "",
+        "text": "<nb>Donation Details",
         "hash": "dfdce79da4429fcbbe6896f088410085dd5cb9e09470dd0453b68fe70caaa91b"
     },
     "Circle400107": {
-        "text": "",
+        "text": "Donate to All",
         "hash": "0a6225c55060b996bd43dc751905928519f2b7da41d58c2a9215489b74c1f256"
     },
     "Circle400108": {
@@ -3280,7 +3280,7 @@
         "hash": "12b13bd1b2863f6683764d651a6f6eedf5af70cd52afc5a3c3490e02a9886267"
     },
     "Circle400110": {
-        "text": "",
+        "text": "Give {2} {1} to {0}",
         "hash": "c5d8b4360cb76aa286f5507137193f74f4ffdb861e2b1044032bd02d63a235b4"
     },
     "Circle483001": {
@@ -3828,7 +3828,7 @@
         "hash": "2b491b92218927ed549302055de21e4929ead44295f99c160f41679639254cf7"
     },
     "Common0086": {
-        "text": "",
+        "text": "Needed",
         "hash": "2061a80ccde050aaa2ee0d71698c438bcaa439ed42a72f758590ea02fcec079b"
     },
     "Common0087": {
@@ -5924,15 +5924,15 @@
         "hash": "2bc4b979b307fc4588fc9dd26c89017c53c11471660d94a5b458695db4414787"
     },
     "Heroes408009": {
-        "text": "",
+        "text": "Start in {0} day(s)",
         "hash": "ddec0953855bfd075381db4e3a18b58c8603e6a390ae650478aaeb3cdfa78d47"
     },
     "Heroes408010": {
-        "text": "",
+        "text": "Start in {0} hour(s)",
         "hash": "384d413cd8cf730a990aecd1fa359d9679f8537eba3d22fa276fc76084aed3a8"
     },
     "Heroes408011": {
-        "text": "",
+        "text": "Start in {0} min(s)",
         "hash": "b89f36dcc389f30bf2f4c68883b13311725e0fa31ae00ba4ff65328db29b2b7d"
     },
     "Heroes408012": {
@@ -8520,7 +8520,7 @@
         "hash": "a332a7163d0e924dc075cd2394efe7c714a79ef36a5ed8b8186313818511e1d5"
     },
     "Outgame0247": {
-        "text": "",
+        "text": "Pieces",
         "hash": "327949361fe1792fc42929babc6ffdec549487c83e1f3c8b62eda5cb611f14c6"
     },
     "Outgame0248": {
@@ -9032,11 +9032,11 @@
         "hash": "d5a35172b94e108cd3877ed91753383658571342b9451b0c1d0e8a1adbbb55f7"
     },
     "Outgame0384": {
-        "text": "",
+        "text": "<a6>Able to unlock for training!      ",
         "hash": "f207b71e80d062f59a0372e321172ac8d9b548db36ec059ff3aadeedcdc02cac"
     },
     "Outgame0385": {
-        "text": "",
+        "text": "<color=#ff4400>Not enough pieces.</color>   ",
         "hash": "64903968f1303127315a13409cc512a95cd5a0984a94be4ac8c90668036a2c92"
     },
     "Outgame0386": {
@@ -9048,23 +9048,23 @@
         "hash": "e85f451a8380165340d39724c959677685fc8576eadc9b7185b61c16dfc974b0"
     },
     "Outgame0388": {
-        "text": "",
+        "text": "Unlock",
         "hash": "85a81f88e312e472245e96cca37474fdc5649c440ca1eb9b3451f87cc0db2d97"
     },
     "Outgame0389": {
-        "text": "",
+        "text": "Spend <color=#ff911c>{0}</color> pieces to unlock?",
         "hash": "eb63e66a29b50c071ffb155bf968a7961b3118729e76f5d21ba83dde0b770309"
     },
     "Outgame0390": {
-        "text": "",
+        "text": "<nb>Unlock Umamusume",
         "hash": "3726f4dcf4795e4e6bf3445e0e79eca0f4eb70cca075dbb945d0ff91c87ce554"
     },
     "Outgame0391": {
-        "text": "",
+        "text": "{0}\nhas been unlocked!",
         "hash": "d7782e702199cb06b4e36c3851fd8f45b43d22564b04f7f65a8403d1110333b2"
     },
     "Outgame0392": {
-        "text": "",
+        "text": "<nb>Unlocked",
         "hash": "738e3772c29089f1ca78f392ed92d7c6cca6494a4234bde8cd3910b7a5da0be8"
     },
     "Outgame0393": {
@@ -9224,7 +9224,7 @@
         "hash": "0734517417c82193013034b97604cae3e267c22b0a81aa2ba069dfbb25c3be40"
     },
     "Outgame0434": {
-        "text": "",
+        "text": "Not unlocked",
         "hash": "b6e2e5e46c192bb81138bd15f9a895fff46c8b34e5dc5973898c08c195f7854f"
     },
     "Outgame0435": {
