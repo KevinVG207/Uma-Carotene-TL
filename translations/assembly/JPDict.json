@@ -4440,7 +4440,7 @@
         "hash": "2b313a145dcb007a58c0880e00368b0dca1b7c5e65ae11d39ffdac10890a4386"
     },
     "Common0310": {
-        "text": "",
+        "text": "{0} min(s)",
         "hash": "c4797932a5b97ecca2ea7e8a09d755fc4ead7de55eb55d70acadbfb0e4eb505a"
     },
     "Common0311": {
@@ -5040,7 +5040,7 @@
         "hash": "612fc0569d526bd295a9467e5cf8cc3e6591e79df88b127d9eee3a947130494d"
     },
     "FanRaid400105": {
-        "text": "",
+        "text": "+{0}",
         "hash": "8804d38230680e83d5cf2e52b561e163927ecfd4cd59859b554cb8157bd59ecf"
     },
     "FanRaid400106": {
@@ -21136,7 +21136,7 @@
         "hash": "67584c46ec6c58f3c2fb40a4545d84ab07f772c53fdfd15825eed6c40d59d873"
     },
     "TeamStadium0033": {
-        "text": "",
+        "text": "Use {0:#,0} RP",
         "hash": "bf9b4464ed6c327300c27bc248b33776a3ff192a33b39320de51e67af75d6d01"
     },
     "TeamStadium0034": {
@@ -21144,7 +21144,7 @@
         "hash": "3485cbb3042ec6b60376bfc6905638d3e6a99b695cec5d5d53ae3773bc60755e"
     },
     "TeamStadium0035": {
-        "text": "",
+        "text": "{0:#,0}",
         "hash": "14fef1ece9c77ae4c193b82603b82aca74ffe677d29ed6d0aadefc6dd85d603f"
     },
     "TeamStadium0039": {
@@ -21272,7 +21272,7 @@
         "hash": "4642e3409ec37e37a7ad46a7d30f057eb4b7176c813b8fe76bc922b50c94173f"
     },
     "TeamStadium0086": {
-        "text": "",
+        "text": "<nb>Choose Opponent",
         "hash": "fecf762026903223ac5d29dd7df883bb78072d8ec188acfc3f5c916c03e79f56"
     },
     "TeamStadium0087": {

@@ -6,6 +6,13 @@ import util
 import glob
 import hashlib
 
+
+FILES_TO_IMPORT = [
+    "race-tracks",
+    "race-name",
+]
+
+
 def get_table(table, columns, dest):
     with util.MDBConnection() as (_, cursor):
         cursor.execute(
@@ -50,7 +57,7 @@ def main():
     os.makedirs("translations/mdb", exist_ok=True)
 
     # Download index
-    index = util.download_json(index_url)
+    index = util.download_json(index_url + f"?nocache={time.time()}""")
 
     for table in index:
         if 'file' in table:
@@ -66,9 +73,9 @@ def main():
         pool_after = time.perf_counter()
         print(f"Fetch time: {pool_after - pool_before}")
 
-        process_before = time.perf_counter()
         for file, metadata in table['files'].items():
-            transl_dict = {}
+            if file not in FILES_TO_IMPORT:
+                continue
             
             print(file)
 
@@ -97,7 +104,7 @@ def main():
 
             # Prepare the data
             file_json = file_jsons[file]
-            trans_dict = {hashlib.sha256(jp_text.encode("utf-8")).hexdigest(): en_text for jp_text, en_text in file_json['text'].items()}
+            trans_dict = {hashlib.sha256(jp_text.encode("utf-8")).hexdigest(): en_text for jp_text, en_text in file_json['text'].items() if en_text}
 
             # Determine file to open
             files_to_open = []
@@ -117,6 +124,7 @@ def main():
                 for tl_item in file_data:
                     if tl_item['hash'] in trans_dict and not tl_item['text']:
                         tl_item['text'] = trans_dict[tl_item['hash']]
+                        tl_item['new'] = False
                 
                 with open(file_to_open, "w", encoding="utf-8") as f:
                     f.write(util.json.dumps(file_data, indent=4, ensure_ascii=False))

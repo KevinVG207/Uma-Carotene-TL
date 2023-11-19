@@ -80,6 +80,10 @@ def import_mdb():
             data = util.load_json(mdb_json)
 
             for index, entry in data.items():
+                if table != "text_data":
+                    # TODO: Implement other tables
+                    continue
+
                 # Fix for newlines of slogans.
                 if (table, category) == ("text_data", "144"):
                     entry["text"] = "<slogan>" + entry["text"] 

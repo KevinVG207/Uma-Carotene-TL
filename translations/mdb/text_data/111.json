@@ -1,0 +1,754 @@
+{
+    "1": {
+        "text": "Classic Triple Crown",
+        "hash": "014daea17d677cc02992c372f2f92ad487c3e84b520b8eb23c5e88e5d5f2bb0b"
+    },
+    "2": {
+        "text": "Autumn Senior \\nTriple Crown",
+        "hash": "63d23999ad12860c52ff3b937512f30fee42f125abe95374d9e6367a33aeb367"
+    },
+    "3": {
+        "text": "Triple Tiara",
+        "hash": "150c1260af58eed1b5feb82347e73ef71799fb273f9157e41a9b3f3b50e2da1f"
+    },
+    "4": {
+        "text": "Spring Senior \\nTriple Crown",
+        "hash": "814ce1d8d4cc32c8deb4179677cc6da5a10ce2efb06095964dddc17a3d8f1873"
+    },
+    "5": {
+        "text": "Successive Spring & \\nAutumn Tenno Sho",
+        "hash": "e3fa51138c3552537edfb97d5bf35b5e1386d07830c5c8f2b602c83c87b46a9a"
+    },
+    "6": {
+        "text": "Spring & Autumn \\nGrand Prix",
+        "hash": "6e31511234c5505c45961aa19945e7a4d5307fe2e35b98ab02dc2730f015468b"
+    },
+    "7": {
+        "text": "Spring & Autumn Mile",
+        "hash": "79e160eab8b0e4a30775cf1d3c99a663bb9a16b61cc34b3b9e275ee61128d938"
+    },
+    "8": {
+        "text": "Spring & Autumn Sprint",
+        "hash": "cfadbe27140355a57a697603cad6e9a215fed5ecefa38a94d5b7429a7e6a347f"
+    },
+    "9": {
+        "text": "Spring & Autumn Dirt",
+        "hash": "d8e1af780c743ed7692ef77e9edfcb0c6530a41db513746325b779b480db4b46"
+    },
+    "10": {
+        "text": "Arima Kinen",
+        "hash": "cfef9aa14734781aff7c6f447e93a2aea1cbf6932c51a53bc916b86a1f2b4f5b"
+    },
+    "11": {
+        "text": "Japan C",
+        "hash": "8df37e13ee6453263fb854e5d9a8150ed108cf661b0b6b8536430ed5616fcdd5"
+    },
+    "12": {
+        "text": "Japan Derby",
+        "hash": "f4f7bf48477545dc3432816f0fe6c7637f3c2f9f11b8acad4a53f022a25683f0"
+    },
+    "13": {
+        "text": "Tenno Sho (Spring)",
+        "hash": "6ebf8b8a67bbf46dc9af9bee2c218cd1aedda70132fd79ebc251a5961d15cad0"
+    },
+    "14": {
+        "text": "Takarazuka Kinen",
+        "hash": "03ad0bfae26ef8cc4c97cbf27a2e9d64c24d85d1f1bafaf56148e0027930cfe0"
+    },
+    "15": {
+        "text": "Tenno Sho (Autumn)",
+        "hash": "d03321a9f5f9e85624529f6c81f8a47abd1a3dbb58d1a0a21af299e00ad19572"
+    },
+    "16": {
+        "text": "Kikka Sho",
+        "hash": "8a0ec5bcb0b8df6e2cccaa6d169058628e983a202036e88b5ce0b5858498e242"
+    },
+    "17": {
+        "text": "Osaka Hai",
+        "hash": "b5ec9853ebe5dbe2d8341f04fa523e7a6ea5fb687a2cec8e69f3644a1d0b0729"
+    },
+    "18": {
+        "text": "Satsuki Sho",
+        "hash": "1171830be2173499b2f86c6b386c0a51f0eea270c3a0e8afdc38d6215c0a66e4"
+    },
+    "19": {
+        "text": "Oaks",
+        "hash": "be6a9dd0e32e929afd484ce31cbe4f3391aa0c6412a26e4f3ec9ff7dfd474ab4"
+    },
+    "20": {
+        "text": "Takamatsunomiya Kinen",
+        "hash": "56240dd6722c878d2a60c39b5a5cd116f38d99f2f878cf1ab91dfdc13ca35084"
+    },
+    "21": {
+        "text": "Yasuda Kinen",
+        "hash": "fa75dc2cb2b0adf9eeb7fdce0d5f780e9f316b15f5fdb270d81ff38dab2c159d"
+    },
+    "22": {
+        "text": "Sprinters S",
+        "hash": "5871ca828f62544409b46106b814ac41aed5274074a5d0b49cf2bc32eb8c67f8"
+    },
+    "23": {
+        "text": "Mile CS",
+        "hash": "139dad515d6ec71dcb76895348e7f00c06aab0f6a2c50404b7f953b5fa82c0f6"
+    },
+    "24": {
+        "text": "Oka Sho",
+        "hash": "a08398afacf7291aa7bacc460f767ac77696adedbc90845cf074609a97e56b3f"
+    },
+    "25": {
+        "text": "Victoria Mile",
+        "hash": "42608cdb410e869ac774e85ab7a32011793c85f876ae0e156f01c452f86c0a42"
+    },
+    "26": {
+        "text": "Queen Elizabeth Cup",
+        "hash": "a3eb3415f844abd391c364f16c0ae52a08519c6010e3c315fcf473a010c3d1fb"
+    },
+    "27": {
+        "text": "NHK Mile C",
+        "hash": "fb4c624a54c5b60f29c8e04e4835cfef594199f44efd999f1c3ae4ba14b7a700"
+    },
+    "28": {
+        "text": "Shuuka Sho",
+        "hash": "b1df228c746bd6102dbd20285f578f0889086cb97b457b7bdc23303012d2ab25"
+    },
+    "29": {
+        "text": "Champions C",
+        "hash": "228f355a384b512c4a655cb5f532a165355d075a67ec7a8f2b798b0911e4fe8d"
+    },
+    "30": {
+        "text": "February S",
+        "hash": "bb1f71a42ff6f2043d9882a6a6b76b4bdea3777293432bf086c6fbf6efb30908"
+    },
+    "31": {
+        "text": "JBC Classic",
+        "hash": "5a3084e8ab88dc98ef5ff0826f88b685d51b4e52df4a0845d42a1d5f761f075d"
+    },
+    "32": {
+        "text": "Tokyo Daishoten",
+        "hash": "49254b6a716973976e7ff8482e6bd83b739002239d09f725ac34b19b90c5a4c8"
+    },
+    "33": {
+        "text": "Asahi Hai FS",
+        "hash": "308179e127a0ecbe76f7136a5a6b6eb39ff8670f1c65461743bd8b25122a4fb6"
+    },
+    "34": {
+        "text": "Hopeful S",
+        "hash": "089a5de34bea82c414a889a3d49dd1f4527f1dbdd084fb0b31bdde36de038972"
+    },
+    "35": {
+        "text": "Hanshin JF",
+        "hash": "6e304ff0fd9995bdb39b40e110f5308b7d22345846377d092408c55e7703d21c"
+    },
+    "36": {
+        "text": "Teio Sho",
+        "hash": "5c11210b8a640c8809cadeb43cffcd0db1646a6a8a2c8a016fa0aa6237232574"
+    },
+    "37": {
+        "text": "JBC Sprint",
+        "hash": "67ffc21aaa7b3661d437bb57aea192c175fbc9714bbe4d40a0d262178aee88ba"
+    },
+    "38": {
+        "text": "JD Derby",
+        "hash": "61ff6b1a81b997320eb5cb5d41eab8cedde347507c9ca9f8cf64728b2880a690"
+    },
+    "39": {
+        "text": "JBCL Classic",
+        "hash": "e78486a15f91fd402c110d0aeeef945ff60ee5c5b2876945be50d3b317ff7dac"
+    },
+    "40": {
+        "text": "Nikkei Shinshun Hai",
+        "hash": "c45b6b981e226553626fd7e3b41608f2423fcaccb2b35cc6524c5e3d2ac3d2c2"
+    },
+    "41": {
+        "text": "Tokai S",
+        "hash": "bd9945a118cbc739adacb3be7dd74cc87a779d3bbe3733613dc474a84287073b"
+    },
+    "42": {
+        "text": "American JCC",
+        "hash": "c1917abcf15aac135f32dc28c35bc6c5b3f5f5d4669eae460048166be4a97133"
+    },
+    "43": {
+        "text": "Kyoto Kinen",
+        "hash": "ca08873c9315aa7b72c151cc864f0d7882df254ec6b7cb2b2f049743693857d9"
+    },
+    "44": {
+        "text": "Nakayama Kinen",
+        "hash": "0afc92ce7c37522dd93688c6a12109329df4890875c7e6ff60fe66fdaaf4de6f"
+    },
+    "45": {
+        "text": "Yayoi Sho",
+        "hash": "75bf5d4f74faccb23587ce9be8549e68b1591b27ece285cf91d65d20209d4126"
+    },
+    "46": {
+        "text": "Kinko Sho",
+        "hash": "3738f0ad8d4ba884edc3c14d1102a306394f4c13881d2dd568e9a6d12f396a44"
+    },
+    "47": {
+        "text": "Fillies' Revue",
+        "hash": "9312827a1d96a70d4f38392b9cad5cacd838c48c1a96d19b4abab2178b412a88"
+    },
+    "48": {
+        "text": "Hanshin Daishoten",
+        "hash": "e28905b8aadfd2e002aff00960d5811c39964b51da51d77aa278fab642d2d32a"
+    },
+    "49": {
+        "text": "Spring S",
+        "hash": "460d765ebd1bbb5ee016885565606db9b5db6ff17dc3b13f481d019f07c985ab"
+    },
+    "50": {
+        "text": "Nikkei Sho",
+        "hash": "0d650a619621d11a010340842b7920d2a01dfbc435096988924f5c8431ffea0a"
+    },
+    "51": {
+        "text": "Hanshin Uma Musume S",
+        "hash": "05d0ad8943552f38bad69fc31f0f56fc6a6c3f22973279e9c401e3d43c713efb"
+    },
+    "52": {
+        "text": "New Zealand T",
+        "hash": "babdf4522227a242a46d73384949b641c9eaeb884e763363e4c8ae4bdb29a9df"
+    },
+    "53": {
+        "text": "Yomiuri Milers C",
+        "hash": "cc184876eb784e57762d0d467167f0c0e63531e881e0f74edc46c9a12631c655"
+    },
+    "54": {
+        "text": "Flora S",
+        "hash": "2039c6573264fead91d34d02b0729ec177c53ffcd9a13d812d0ff49117c0e841"
+    },
+    "55": {
+        "text": "Aoba Sho",
+        "hash": "6f8ed1a07df5aa39e5ddc4e8f2d060be339da94d704e21e54a4970376f54c9e6"
+    },
+    "56": {
+        "text": "Kyoto Shimbun Hai",
+        "hash": "77eea4d5b27d2f480426b8f8994408a9818bcefcf4661088043d758a95db8cdd"
+    },
+    "57": {
+        "text": "Keio Hai Spring C",
+        "hash": "3c3b18b0ce501c82f7d8bf86dd686fda8381e8fca72b83eb5721e1a836a86732"
+    },
+    "58": {
+        "text": "Meguro Kinen",
+        "hash": "607cb9cdbb595128e8122ac6abd253209c0ea3f979ac25ff51c164fd2b34343c"
+    },
+    "59": {
+        "text": "Sapporo Kinen",
+        "hash": "68bf14775ded1df330dae964af4c8f93d5d4fd7863e5266d71198e4696f41f9f"
+    },
+    "60": {
+        "text": "Centaur S",
+        "hash": "6daff8dd22046281a618e4f56243313b9c0c9f43fe81d8785df1e247458a572f"
+    },
+    "61": {
+        "text": "Rose S",
+        "hash": "1c9983b5b72e31c9a449e29580fb63f715e5712616995290e2809eb8bcc74a93"
+    },
+    "62": {
+        "text": "St. Lite Kinen",
+        "hash": "8ec3468fb143479b36b4702bc70a4c901fca5c3c6b58e5d99d26f26738c29936"
+    },
+    "63": {
+        "text": "Kobe Shimbun Hai",
+        "hash": "e9ecb10d0f7b086bcd2511d5292fb4521a2502325c8b613f4928d6f189a8b5bc"
+    },
+    "64": {
+        "text": "Sankei Sho All Comers",
+        "hash": "e21d60b0f23e435102711dc3e0af1eace330eca5138c92cc69853e00fb772e41"
+    },
+    "65": {
+        "text": "Mainichi Okan",
+        "hash": "d1ac2d9e8cd7291fb4dc8a28c456152aa79dd431e23650bb1f4ba51b44aae1a4"
+    },
+    "66": {
+        "text": "Kyoto Daishoten",
+        "hash": "5175c761a3c5834d48f8d49c7b74655146f7a6d24fbd9d504c082c7ca9422eee"
+    },
+    "67": {
+        "text": "Fuchu Uma Musume S",
+        "hash": "8c791cc7c6af94e379cfb356df2e8d78f47913d1b688c58c22533e05ba1dfb45"
+    },
+    "68": {
+        "text": "Swan S",
+        "hash": "497515e884850c84a4ba15eff7ba4661f1b5ed15f4f8c7f3050444a76de238ec"
+    },
+    "69": {
+        "text": "Keio Hai Junior S",
+        "hash": "e789a2de9cd498c6d7542166ee1da8da4d99e834d499fe4567eb357c076ea382"
+    },
+    "70": {
+        "text": "Copa Republica Argentina",
+        "hash": "bd3bb02b5e089262624e585f3f2eb9b3239dc90e32b9cdceed25270164364273"
+    },
+    "71": {
+        "text": "Daily Hai Junior S",
+        "hash": "3ea4c2d6c673dd977ebbee95d6a1eefdd42802208f66cc9924ef26c9f78b0fc4"
+    },
+    "72": {
+        "text": "Stayers S",
+        "hash": "250d6f18a241851edb97a4d7526eece8265fc10e195a277b85a680bda3229c66"
+    },
+    "73": {
+        "text": "Hanshin C",
+        "hash": "255ec48e1091eaa50dbe7536b23650e61eaf49b32290834f87e0b7b7b2e32c49"
+    },
+    "74": {
+        "text": "Kyoto Kimpai",
+        "hash": "3f0e42180e663defc4877c70691c82210b40b9f5f9eb3b6947d8bc8107b389d8"
+    },
+    "75": {
+        "text": "Nakayama Kimpai",
+        "hash": "2f46335913ae4c36f43d1d350e93f10fa80582182de7eb81eea3b9947d185ece"
+    },
+    "76": {
+        "text": "Shinzan Kinen",
+        "hash": "625f70a6a0afcb7df6cab50149b2331b6fe9e522d7d1ad31ed1bacf39c658520"
+    },
+    "77": {
+        "text": "Fairy S",
+        "hash": "adab9bba6552d275c098686c2ce8ffc5bf5e503f5f1348c8b6c593ae4fd30d20"
+    },
+    "78": {
+        "text": "Aichi Hai",
+        "hash": "7fd6189a081a217ae6f924f7d02941f401a34d5d0aa44e1c199a6d85426e9d40"
+    },
+    "79": {
+        "text": "Keisei Hai",
+        "hash": "e9823e8593ebb1c95e13773634249a4466931c878260d9ea24558f34d9b482c7"
+    },
+    "80": {
+        "text": "Silk Road S",
+        "hash": "a4d5148afa8cedc40d993ecf7ad3247d51d49bf3d713212659983df23a8c813f"
+    },
+    "81": {
+        "text": "Negishi S",
+        "hash": "6576f6fa0d0f6f12601f81dc34809c8a96ac4da43f8b9c08417341840c44eaaf"
+    },
+    "82": {
+        "text": "Kisaragi Sho",
+        "hash": "60c791b3471518916e9b8441741623ea360d030c0ddfe5ebf73cc54005a5f6b9"
+    },
+    "83": {
+        "text": "Tokyo Shimbun Hai",
+        "hash": "eb6a9232f9aca9b44dda092f9632ffd216a1c94f2c1339d7a6afa73f0d5216bc"
+    },
+    "84": {
+        "text": "Daily Hai Queen C",
+        "hash": "8589e00dbfb64dc9db6a8924cfc8fae9ced48e0782849bc4fe14b42a35b05608"
+    },
+    "85": {
+        "text": "Kyodo News Hai",
+        "hash": "fdf2c0cefb16a6c6a4565f0208298ad061dc57bb719a18d314753d9f5a5781b5"
+    },
+    "86": {
+        "text": "Kyoto Uma Musume S",
+        "hash": "4c091a24cb5f7579d68c9abe052b2b10a93b6ebd9e0e2805092bd0e7e25af9ec"
+    },
+    "87": {
+        "text": "Diamond S",
+        "hash": "c0110a2742b2a0e913df357c2d974c3a148adcfe7a31cc2a78055bfd2098b722"
+    },
+    "88": {
+        "text": "Kokura Daishoten",
+        "hash": "1628cdcbd76511306612fb8fa2631d74764650f72421a7af37999efb40964fb7"
+    },
+    "89": {
+        "text": "Arlington C",
+        "hash": "9a2b31e5c015b1531e3b231770435d00fc63296bba8608f4ca5dd5b577b4b739"
+    },
+    "90": {
+        "text": "Hankyu Hai",
+        "hash": "e18155cbf26c2d5487735ab5f35a82bc477356283acef0fe9075fb6c01a349c8"
+    },
+    "91": {
+        "text": "Tulip Sho",
+        "hash": "7d0d7a37d7cfe4a30969e70b8fe648fc600f462f73b0e66e99f542be2ed914e7"
+    },
+    "92": {
+        "text": "Ocean S",
+        "hash": "f1969953008844e47fa92920bc925450ddace3010f87e44af97bf4f4ef4cf8f2"
+    },
+    "93": {
+        "text": "Nakayama Uma Musume S",
+        "hash": "1c8c4213557d476a225ea21ff95a30b9f3246bbeeef261ec797ff8bcd59073fd"
+    },
+    "94": {
+        "text": "Falcon S",
+        "hash": "358457ba45e4a9fc28b68558f1094bf8ccfffe14411fac61d4ce6185a440363e"
+    },
+    "95": {
+        "text": "Flower C",
+        "hash": "ca5debcd48872fb343bdeecc75772f19de1965523f6d04f2f27d54aa18aa8969"
+    },
+    "96": {
+        "text": "Mainichi Hai",
+        "hash": "926009b43aee36fab6d5f50fbe576d77249990396a4f3dae739ed83cd3ea7e94"
+    },
+    "97": {
+        "text": "March S",
+        "hash": "b26963e5f4be6f82896a8f0d496cc9e60d32f7a1e1e34e89ad80d655df527903"
+    },
+    "98": {
+        "text": "Lord Derby CT",
+        "hash": "d96b8e43f8a824e61f70ecdb9072a7f5b0f7851a2d2b4a5f590208f8d21a7c66"
+    },
+    "99": {
+        "text": "Antares S",
+        "hash": "d9cc0b1edfccffcd69ea704009c63a4e65d38f014dcc25be4086e2f6408b5fe1"
+    },
+    "100": {
+        "text": "Fukushima Uma Musume S",
+        "hash": "7374243876ff841cee1f20750cc52cc2bc4c96751659b151484d3daaccf5a3e2"
+    },
+    "101": {
+        "text": "Niigata Daishoten",
+        "hash": "2432bf1396ba49335fc203ff81728dca57c8db938144568a8efc2dc821685edf"
+    },
+    "102": {
+        "text": "Heian S",
+        "hash": "8f061d7d36edce0da91f1ab889e716fa43621911719a06bd0bf144b6f836853b"
+    },
+    "103": {
+        "text": "Naruo Kinen",
+        "hash": "9a936587ed9eeb80dd09b98e03b3bd1b8da06db87c5674ca708fdff99f36f67d"
+    },
+    "104": {
+        "text": "Mermaid S",
+        "hash": "a03fa2559d7b182508d328e42c6a79eb9360b97d82847b3be1dbb931a39db976"
+    },
+    "105": {
+        "text": "Epsom C",
+        "hash": "7fac317af438f75f889da0c472477fe5bdd01a51e6374a366ad8286ccf08d2fe"
+    },
+    "106": {
+        "text": "Unicorn S",
+        "hash": "39c332a217af29753727f935d12a2818476c050c433e523d8f8800f0110ab72e"
+    },
+    "107": {
+        "text": "Hakodate Sprint S",
+        "hash": "8a24934698a4b8a79aa977e8043e5ff7f1f71335479c3d1a8916aa2addac37c3"
+    },
+    "108": {
+        "text": "CBC Sho",
+        "hash": "20d162900836c9f8fc0fed70ba375043bc5663295c5bd228cbd2446e59b2a33d"
+    },
+    "109": {
+        "text": "Radio Nikkei Sho",
+        "hash": "c105d5fc432238298c337a31ce29ecad4c2ba481eda48e4e3dbe930d19fbf120"
+    },
+    "110": {
+        "text": "Procyon S",
+        "hash": "cbd24076f804ced0f5cd5ebc490b0c99fc0f2b54761ba349c4e33dfca1ad69e8"
+    },
+    "111": {
+        "text": "Tanabata Sho",
+        "hash": "b8247fddc48225e83bae2aedc0d60179eddaccdb50f4f27d9b9510ec6303dbe8"
+    },
+    "112": {
+        "text": "Hakodate Kinen",
+        "hash": "97da588dfc5db16d73e35aa50184f1946d4a7dc9a7caab446bd8c20049ce4090"
+    },
+    "113": {
+        "text": "Chukyo Kinen",
+        "hash": "de1f381cb20170b0e4557ac3eeaf17b64716450ace27db9235a72d9d84b9798b"
+    },
+    "114": {
+        "text": "Hakodate Junior S",
+        "hash": "1aa015387c925f5aa8a07241299ac5ed5e3df75eb89beae5028bfcaa8d12de2c"
+    },
+    "115": {
+        "text": "Ibis SD",
+        "hash": "343a0bb28102a92e4d6d7d130e98fdfd6989ca8e912aa5909b23c438416a0b4f"
+    },
+    "116": {
+        "text": "Queen S",
+        "hash": "bde8b80d334bab528d0f62e880e3c304c445a00547c9db4d3cab7ae45e98c199"
+    },
+    "117": {
+        "text": "Kokura Kinen",
+        "hash": "2bfebb66f2cf3b5200993f9738546a1e03ce3c3907390a19eb72adfa12cd793c"
+    },
+    "118": {
+        "text": "Leopard S",
+        "hash": "b1750cec04597331649db971c6fdd02ced579d447f8297104cea4ca06f1a8b00"
+    },
+    "119": {
+        "text": "Sekiya Kinen",
+        "hash": "d1f7101c480fdd2c337260d2b1cc76c55f99f991883999185599b1f172536350"
+    },
+    "120": {
+        "text": "Elm S",
+        "hash": "fc0067f2fcce3848039133d2cff016b8e431920340b52b80601e5931076c332d"
+    },
+    "121": {
+        "text": "Kitakyushu Kinen",
+        "hash": "0ffe01b45c587e48c23de55c07742f3dc8a778f74b9d36562b86d45f660bea76"
+    },
+    "122": {
+        "text": "Niigata Junior S",
+        "hash": "b2da67f6c4ef2d58b932bd70b45a3dac34bd2891f75b687ad21e48d42627b1df"
+    },
+    "123": {
+        "text": "Keeneland C",
+        "hash": "4a03521355496c2dfa0691e5f130045ffbaaf931c9e921a1b91a94b08ec41c55"
+    },
+    "124": {
+        "text": "Sapporo Junior S",
+        "hash": "f7c7ada323655a438d1281feaddb9572231dd5256706c2874367f36e9046c802"
+    },
+    "125": {
+        "text": "Kokura Junior S",
+        "hash": "b093542132331204f8094d9bf24ce2f1893cb92b716fcc28aaee3b2a5f3f94f3"
+    },
+    "126": {
+        "text": "Niigata Kinen",
+        "hash": "10d80574c5c640915afbc618928874769fe773b9a524f569f9f55b90b904f9f4"
+    },
+    "127": {
+        "text": "Shion S",
+        "hash": "4c08ca8b9af40d3e96e195058d4df8c2fe90fabe133ba58d7b588425bd307d0d"
+    },
+    "128": {
+        "text": "Keisei Hai AH",
+        "hash": "c7cd1ff1ad70b03376510d07c719eb09bf75a28657c348a6a5b71185086d1180"
+    },
+    "129": {
+        "text": "Sirius S",
+        "hash": "20cc5b34cb9fd39e8843de6d01e3f1c4364b25451bcd91285764b7c2e3cd9549"
+    },
+    "130": {
+        "text": "Saudi Arabia RC",
+        "hash": "e009215d79e13c6399940db8b29e6226dc5599af57de18891798f224322bfe86"
+    },
+    "131": {
+        "text": "Fuji S",
+        "hash": "d59b28c0c1bc59b578fa991fc7cf12b3b061b21243a175e1ffa83a6e26a45bf1"
+    },
+    "132": {
+        "text": "Artemis S",
+        "hash": "561a424134ddde3177e3ee1cf7efb98fb2db96b2870097c9543b28f844818b0e"
+    },
+    "133": {
+        "text": "Fantasy S",
+        "hash": "227c193354327d8e9917cbe12d204488d6e8129623d8a4c66ceb14c6750df878"
+    },
+    "134": {
+        "text": "Miyako S",
+        "hash": "465c108d77152a6bb3fed8c36f7c6245358e883beaf1a8119ca47601ac8d45ad"
+    },
+    "135": {
+        "text": "Musashino S",
+        "hash": "d956773e2b900d847501569672ffe7c1641565bd8887688b3f71ab9d2579cda2"
+    },
+    "136": {
+        "text": "Fukushima Kinen",
+        "hash": "ca91619bebfab2e81420d70679cad01e19f441e19c3317e93c4b9dff23ece2c0"
+    },
+    "137": {
+        "text": "Tokyo Sports Hai Junior S",
+        "hash": "920e520216c6c5409e53a54a469ba8973efc9924f5443f3f619847a7f39d42fd"
+    },
+    "138": {
+        "text": "Kyoto Junior S",
+        "hash": "89a7846dfe2347c4fb98b7e7a605faba2102745cdb6d4ff1e014a8a4a488ad94"
+    },
+    "139": {
+        "text": "Keihan Hai",
+        "hash": "31472932e80f7bdba5b5ad68344cad6caa0c50ca0931820fb4edabb66121bfe9"
+    },
+    "140": {
+        "text": "Challenge C",
+        "hash": "c7854a4f6bdd37eda53bf2d3d7885eea3341e388c06c53b074a2c933ef498acb"
+    },
+    "141": {
+        "text": "Chunichi Shimbun Hai",
+        "hash": "f2d30705b6e954bcc51058451d72f9567f3bf1369dc98bb28fee9e942fc55520"
+    },
+    "142": {
+        "text": "Capella S",
+        "hash": "f8d4e1fdde6bcca39676617eababab3a96c6f9bc98003635f42ea3c72e3d2d20"
+    },
+    "143": {
+        "text": "Turquoise S",
+        "hash": "e9dd6dddc9727dd578263c571d1a1d70c13f94d29d61e3749a34a7f7241a7034"
+    },
+    "144": {
+        "text": "Classic Triple Crown",
+        "hash": "014daea17d677cc02992c372f2f92ad487c3e84b520b8eb23c5e88e5d5f2bb0b"
+    },
+    "145": {
+        "text": "Spring Senior \\nTriple Crown",
+        "hash": "814ce1d8d4cc32c8deb4179677cc6da5a10ce2efb06095964dddc17a3d8f1873"
+    },
+    "146": {
+        "text": "Spring & Autumn \\nGrand Prix",
+        "hash": "6e31511234c5505c45961aa19945e7a4d5307fe2e35b98ab02dc2730f015468b"
+    },
+    "147": {
+        "text": "Takarazuka Kinen",
+        "hash": "03ad0bfae26ef8cc4c97cbf27a2e9d64c24d85d1f1bafaf56148e0027930cfe0"
+    },
+    "148": {
+        "text": "Kikka Sho",
+        "hash": "8a0ec5bcb0b8df6e2cccaa6d169058628e983a202036e88b5ce0b5858498e242"
+    },
+    "149": {
+        "text": "Spring S",
+        "hash": "460d765ebd1bbb5ee016885565606db9b5db6ff17dc3b13f481d019f07c985ab"
+    },
+    "150": {
+        "text": "Aoi S",
+        "hash": "1d3b70421278befe669c93e1986945dd7ecc2361452c6f2231333fb081201b72"
+    },
+    "151": {
+        "text": "Spring Senior \\nTriple Crown",
+        "hash": "814ce1d8d4cc32c8deb4179677cc6da5a10ce2efb06095964dddc17a3d8f1873"
+    },
+    "152": {
+        "text": "Successive Spring & \\nAutumn Tenno Sho",
+        "hash": "e3fa51138c3552537edfb97d5bf35b5e1386d07830c5c8f2b602c83c87b46a9a"
+    },
+    "153": {
+        "text": "Tenno Sho (Spring)",
+        "hash": "6ebf8b8a67bbf46dc9af9bee2c218cd1aedda70132fd79ebc251a5961d15cad0"
+    },
+    "154": {
+        "text": "Classic Triple Crown",
+        "hash": "014daea17d677cc02992c372f2f92ad487c3e84b520b8eb23c5e88e5d5f2bb0b"
+    },
+    "155": {
+        "text": "Satsuki Sho",
+        "hash": "1171830be2173499b2f86c6b386c0a51f0eea270c3a0e8afdc38d6215c0a66e4"
+    },
+    "156": {
+        "text": "JBCL Classic",
+        "hash": "e78486a15f91fd402c110d0aeeef945ff60ee5c5b2876945be50d3b317ff7dac"
+    },
+    "157": {
+        "text": "JBC Sprint",
+        "hash": "67ffc21aaa7b3661d437bb57aea192c175fbc9714bbe4d40a0d262178aee88ba"
+    },
+    "158": {
+        "text": "JBC Classic",
+        "hash": "5a3084e8ab88dc98ef5ff0826f88b685d51b4e52df4a0845d42a1d5f761f075d"
+    },
+    "159": {
+        "text": "JBCL Classic",
+        "hash": "e78486a15f91fd402c110d0aeeef945ff60ee5c5b2876945be50d3b317ff7dac"
+    },
+    "160": {
+        "text": "JBC Sprint",
+        "hash": "67ffc21aaa7b3661d437bb57aea192c175fbc9714bbe4d40a0d262178aee88ba"
+    },
+    "161": {
+        "text": "JBC Classic",
+        "hash": "5a3084e8ab88dc98ef5ff0826f88b685d51b4e52df4a0845d42a1d5f761f075d"
+    },
+    "162": {
+        "text": "JBCL Classic",
+        "hash": "e78486a15f91fd402c110d0aeeef945ff60ee5c5b2876945be50d3b317ff7dac"
+    },
+    "163": {
+        "text": "JBC Sprint",
+        "hash": "67ffc21aaa7b3661d437bb57aea192c175fbc9714bbe4d40a0d262178aee88ba"
+    },
+    "164": {
+        "text": "JBC Classic",
+        "hash": "5a3084e8ab88dc98ef5ff0826f88b685d51b4e52df4a0845d42a1d5f761f075d"
+    },
+    "165": {
+        "text": "Kawasaki Kinen",
+        "hash": "c627628b609e31c8ca3f866ea15043c08042178be370c052dcfa79e6a8b4be8e"
+    },
+    "166": {
+        "text": "Zen-Nippon Junior Yushun",
+        "hash": "9ca8f3587970301cb5544d7df740d4eaa12b1d39d6a47815e053e7252eb3c760"
+    },
+    "167": {
+        "text": "Kashiwa Kinen",
+        "hash": "bfedca3be2f419e2150304f0fafb520ec861cc380730d735e8ed98cfc4dbbb73"
+    },
+    "168": {
+        "text": "Mile CS Nambu Hai",
+        "hash": "67ab2c1d59599a5993cf2ac3083051100a9e805ddce7bc7e5f3f3947c2423dbb"
+    },
+    "169": {
+        "text": "Ladies Prelude",
+        "hash": "55c478fdec1f305181eb0661d2906dcef34b15dbc8923fe4515ac5d9dead0e88"
+    },
+    "170": {
+        "text": "Tokyo Hai",
+        "hash": "de0336dab90b25e02ad5553f511506c689b1092370f9ffde7f2357d5e1281250"
+    },
+    "171": {
+        "text": "Empress Hai",
+        "hash": "bbc93cb56fd271d74599f010bf241062ce562674112b4df2e16a9bff58e65c40"
+    },
+    "172": {
+        "text": "Kanto Oaks",
+        "hash": "bbc1aabca596f5badf727c3ffd03112963ef1acfeb8078103c1a9153ffb3782b"
+    },
+    "173": {
+        "text": "Diolite Kinen",
+        "hash": "5245b767d9fa83a1f12a17f2ebbd210acef0e3201d325ede865a83e185aadda0"
+    },
+    "174": {
+        "text": "Sazanka TV Hai",
+        "hash": "1ffa38f9682abce582efcbb20902764f5ebdf9bf586fd0917a1674d38eec8ed5"
+    },
+    "175": {
+        "text": "TCK Queen's Cup",
+        "hash": "9a02347e72e66c2c9615f2da0fed0cbd02759957216be7c7cbe1ab49f227cc02"
+    },
+    "176": {
+        "text": "Tokyo Sprint",
+        "hash": "bb704c30f9ebdb258fc76fdd4122740749a7f29b54a427df698906efb3bbaae5"
+    },
+    "177": {
+        "text": "Sparking Lady C",
+        "hash": "14d2cfe509dc2ea2d1eea145284eba2e208d7d75c9a09ff00877bfaa1be0e527"
+    },
+    "178": {
+        "text": "Marine Cup",
+        "hash": "db0e509529864ad00e3b54bb93788d9591d820abebad97debab3ddc57e361dce"
+    },
+    "179": {
+        "text": "Queen Sho",
+        "hash": "96f22d5108279bf84d0ee47860e76212c9d2db2c6f5c4f303832a483e9681f58"
+    },
+    "180": {
+        "text": "Mercury Cup",
+        "hash": "16fce29567cbd55bb3d0267e2e760d13a96496c8ab8ed4ae3cf8f91c4b45874a"
+    },
+    "181": {
+        "text": "Cluster Cup",
+        "hash": "86ab0f2b6d34b64c2051131e73e242910a867ed391415cc6ac5bf23711451a58"
+    },
+    "182": {
+        "text": "Successive Spring & \\nAutumn Tenno Sho",
+        "hash": "e3fa51138c3552537edfb97d5bf35b5e1386d07830c5c8f2b602c83c87b46a9a"
+    },
+    "183": {
+        "text": "Autumn Senior \\nTriple Crown",
+        "hash": "63d23999ad12860c52ff3b937512f30fee42f125abe95374d9e6367a33aeb367"
+    },
+    "184": {
+        "text": "Tenno Sho (Autumn)",
+        "hash": "d03321a9f5f9e85624529f6c81f8a47abd1a3dbb58d1a0a21af299e00ad19572"
+    },
+    "185": {
+        "text": "Prix de l'Arc de Triomphe",
+        "hash": "8cc40d4cff6e091be62260735035b94cd76350efce935cde76ed64d5c696d925"
+    },
+    "186": {
+        "text": "Prix de l'Arc de Triomphe",
+        "hash": "8cc40d4cff6e091be62260735035b94cd76350efce935cde76ed64d5c696d925"
+    },
+    "187": {
+        "text": "Prix Niel",
+        "hash": "e860195200b45b3cf91c1e85a266663c93256741c2fc4ccf392c69bc06282474"
+    },
+    "188": {
+        "text": "Prix Foy",
+        "hash": "5ec48b4f7fbdaee5e88742de1fc1c985068cf987fbdf6792a553156f559338a4"
+    }
+}
