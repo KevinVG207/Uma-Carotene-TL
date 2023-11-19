@@ -3,13 +3,105 @@
         "text": "Turf",
         "hash": "2efff41df142f5d0adb7503cf34871c0f4cb43f1df50066a2709dd7dd2cf578d"
     },
+    "2": {
+        "text": "Treadmill",
+        "hash": "9fd461b55b51ab4aee64c4164b184b0d5e2ebf4bf7f9e72d83479f2bd17b77e3"
+    },
+    "3": {
+        "text": "Exercise Bike",
+        "hash": "41f03c80ef7c95fc7840e0af8bf62ebed2e41ef4e8691607f90158e269365bce"
+    },
+    "4": {
+        "text": "Cleaning",
+        "hash": "279ef142ce55dac380a6adae57d7085c741c6406cc797bcee193426d38da146a"
+    },
+    "5": {
+        "text": "Ball-Catching",
+        "hash": "3cc0aff226c691dd215fd68e8bff4bd553e12ccc74e44fe2193500bf9df74a3d"
+    },
+    "6": {
+        "text": "Breaststroke",
+        "hash": "6cf7905fcd55708c61aa70dd2d53566a9f4277667b3513145b1e671d26f3353f"
+    },
+    "7": {
+        "text": "Front Crawl",
+        "hash": "f14e1efb354f63666d40fbfd79a4ef46286fd8343a468af341c08dcd06d0ccaa"
+    },
+    "8": {
+        "text": "Backstroke",
+        "hash": "a7a5b385661dfab6d86e8df45e912c345f8bcd2a838cea8fc84761d0b2e57d21"
+    },
+    "9": {
+        "text": "Butterfly",
+        "hash": "4294c15957ce9c160b87c3ceb9be4435d0c556e9bcb310b14415e10de0491016"
+    },
+    "10": {
+        "text": "Doggy Paddle",
+        "hash": "478f010953f4e7617a2fab81adf05d6f15f561a30d4fe280a0d99905c8a65a66"
+    },
     "11": {
         "text": "Dirt",
         "hash": "3ff94c7a2a0fc5fe490b6ab1a723fc14c4599d4fb3e7f3ad99cc13c9beaedf06"
     },
+    "12": {
+        "text": "Squatting",
+        "hash": "52a25a302350d61176a48e1b368b241aed44baf2ab13e3ccec2cdc0e51513d15"
+    },
+    "13": {
+        "text": "Sit-ups",
+        "hash": "37263bcd4f3168e5836ef72bfa857ab9b55116b919f87899282e54c0249a335b"
+    },
+    "14": {
+        "text": "Boxing",
+        "hash": "2bd948b01b2f5e1165b15ebdc0b4cfecd09b7ca36a77685316b213254fe8a766"
+    },
+    "15": {
+        "text": "Tile Breaking",
+        "hash": "caeb675fb77d0c0b3eaeedd1524e584cc2c26b8e3ee5c60d3d3d48f9bf373ba4"
+    },
+    "16": {
+        "text": "Slope",
+        "hash": "0400834ea1ddac68375dbcf59dba7b79f7db90c3121c04b979338ebf23f9cb12"
+    },
+    "17": {
+        "text": "Bunny Hopping",
+        "hash": "63c55e80b7793f220dde15a0b7ba97fea799837073fbf2b943ce772a0ca01fc9"
+    },
+    "18": {
+        "text": "Dancing",
+        "hash": "162b31e09bd92a186ce2a6594cdc4440d79c523fbd1b376c33b192b96ee098f1"
+    },
+    "19": {
+        "text": "Stair Climbing",
+        "hash": "203f5a2d251368980ab3301d0a9d194b9ec6dea14a60c3591a643e3d758d4404"
+    },
+    "20": {
+        "text": "Tire Dragging",
+        "hash": "c41e946469089519087b68b38dfe739f33a6e6af113e13a11d3eb52319a4db37"
+    },
     "21": {
         "text": "Studying",
         "hash": "1d0c7e303d2eee3ec3fe55850fe2f3ec5f10fe95089a54933c161d794d7fe02f"
+    },
+    "22": {
+        "text": "Reading",
+        "hash": "c71b9c3efaaa0235c1ace5c842f4a1e561b6ae77ec3eb60432f6f21959fe5d58"
+    },
+    "23": {
+        "text": "Quiz",
+        "hash": "6daa3e992ba90f59a7b8775ebe3c39941e18a1b33fd3bfce6cd56657d5a14772"
+    },
+    "24": {
+        "text": "Video Research",
+        "hash": "75af1927a64d728f7e9cb1faa0acae1e561d946e181b00118867e74085f60345"
+    },
+    "25": {
+        "text": "Shogi",
+        "hash": "a8fc6717b23570b4514d121cc1b8ac623e52d49b6fd89b856f56734c4f20376d"
+    },
+    "26": {
+        "text": "Walking",
+        "hash": "cff42d53cc0d6423f57b8dbc3e466836f4491574efcfc1e2ff3cc7789ccd1195"
     },
     "27": {
         "text": "Karaoke",
@@ -19,9 +111,25 @@
         "text": "Shrine",
         "hash": "5906373941ba7a4d2d139c6e9e8d8c9b8a290607b1613865032ae97b0494462c"
     },
+    "29": {
+        "text": "Running",
+        "hash": "9aed7c5335644dcba5bf7bc90ee43d9e6a924c5dd2bef2917aa161c78b22d11b"
+    },
+    "30": {
+        "text": "Swimming",
+        "hash": "befe25c81ab542142068f02f5b13d7006946452a00a608ad85518a55cf21e4bb"
+    },
     "31": {
         "text": "Exercise",
         "hash": "737ab872e63a71c21c1367375f77c1613318a4b9f8bd96e1e77d7e36b180eb0a"
+    },
+    "32": {
+        "text": "Tire Dragging",
+        "hash": "941daf4d4005fcf3b9590e4c0ca560c2e89817a0696fcb1f66100fb6fafbcf8c"
+    },
+    "33": {
+        "text": "Quiz",
+        "hash": "a67db37c97e3d3f9001cb9cc87f66f8d7e5c2e9ba058022ce4e3b67cd9a7204e"
     },
     "34": {
         "text": "Beach",
@@ -31,16 +139,36 @@
         "text": "Hot spring",
         "hash": "bf259856d4c3ba9e7f493c78b3378e3226d5151f4966d4332a85ccff864b9816"
     },
+    "59": {
+        "text": "Parachute Run",
+        "hash": "0e436aca842dbe2af0c8e62778f396cbf513326f844a0f7c0753a79ec2cb5544"
+    },
+    "60": {
+        "text": "Opera Practice",
+        "hash": "dd3581338699d22c0ac079f521df450afa72e547bb915a79965086cfcc27e302"
+    },
+    "61": {
+        "text": "Savate",
+        "hash": "b274abf576f4773fb8ce1972c33b616602818aacedd475ac24e5f7f7c510b959"
+    },
+    "62": {
+        "text": "Paddleboarding",
+        "hash": "1d817384fd492297ef986c4ed542055d0abe6195b0d78c06560ceef05cdedfd9"
+    },
+    "63": {
+        "text": "French Speaking",
+        "hash": "eb80df5a20c64b52de2dc6b728b049107aeaec48b9fc6bb72e5493d937a82b40"
+    },
     "64": {
-        "text": "Sightseeing in Paris",
+        "text": "Sightseeing",
         "hash": "f09f91d6309af702ca098570d34f9fd72f03be7a9005eed230f9e7a6b134488c"
     },
     "65": {
-        "text": "Sightseeing in Paris",
+        "text": "Sightseeing",
         "hash": "f09f91d6309af702ca098570d34f9fd72f03be7a9005eed230f9e7a6b134488c"
     },
     "66": {
-        "text": "Sightseeing in Paris",
+        "text": "Sightseeing",
         "hash": "f09f91d6309af702ca098570d34f9fd72f03be7a9005eed230f9e7a6b134488c"
     }
 }
