@@ -66,7 +66,7 @@ def main():
     os.makedirs("translations/mdb", exist_ok=True)
 
     # Download index
-    index = util.download_json(index_url + f"?nocache={time.time()}""")
+    index = util.download_json(index_url + f"?nocache={int(time.time())}""")
 
     for table in index:
         if 'file' in table:
