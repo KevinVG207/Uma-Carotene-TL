@@ -10,6 +10,15 @@ import hashlib
 FILES_TO_IMPORT = [
     "race-tracks",
     "race-name",
+    "uma-profile-shoesize",
+    "uma-profile-weight",
+    "uma-profile-tagline",
+    "uma-profile-intro",
+    "uma-profile-strengths",
+    "uma-profile-weaknesses",
+    "uma-profile-ears",
+    "uma-profile-tail",
+    "uma-profile-family"
 ]
 
 
