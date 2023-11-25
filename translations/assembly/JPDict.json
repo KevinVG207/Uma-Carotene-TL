@@ -3848,23 +3848,23 @@
         "hash": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d"
     },
     "Common0090": {
-        "text": "",
+        "text": "<nb><an4>Standard",
         "hash": "69cb4d816d350705de680d0dda12544ff4840470f28b6e5a075c4188a9893c30"
     },
     "Common0091": {
-        "text": "",
+        "text": "<nb><an4>Opening Leg",
         "hash": "18112649fd95776c8ac4be7f623e7b3885a238b427ad5780a93e5e9a248ffb71"
     },
     "Common0092": {
-        "text": "",
+        "text": "<nb><an4>Middle Leg",
         "hash": "acf20f26149ff9410641649dfdf97afce1b70f114241f059b1c9a25ad8cd5ea1"
     },
     "Common0093": {
-        "text": "",
+        "text": "<nb><an4>Final Leg",
         "hash": "366d166407fcc9513bf6d74691a4fbe6b1104681e9f3fd316c6ff0b0d8921321"
     },
     "Common0094": {
-        "text": "",
+        "text": "<nb><an4>Throughout",
         "hash": "ccd4ff23f93b9172ac0e9ff9289dea95b649b2b3c646f496b50d5d956a45f6a7"
     },
     "Common0096": {
@@ -4316,7 +4316,7 @@
         "hash": "2249b3ab274ea50b296caf0d5a3a876a9eda580b0b472de2a230192b528ce515"
     },
     "Common0274": {
-        "text": "",
+        "text": "Stats",
         "hash": "e88a4ac95161a3d19d7355049ad80456e642dee19d03ae1a6f5bb650d5f8bae2"
     },
     "Common0275": {
@@ -12608,7 +12608,7 @@
         "hash": "2afd6b0b38e715fadebd0d8054496ab67fe76eb2001e5aba886fd0fef7c83a9c"
     },
     "Race0635": {
-        "text": "<nb>Motivation",
+        "text": "Mood",
         "hash": "2625bf9b2907e8befb3dce8373483aba314f9c78036439c2b89e9ab1c98d3003"
     },
     "Race0636": {
@@ -14568,7 +14568,7 @@
         "hash": "74c913d00bd0f2052edd77b6b3b3b1d4f3f523da3e2c718d88d1344adf3ca9d7"
     },
     "SingleMode0026": {
-        "text": "",
+        "text": "<nb>Strategy",
         "hash": "c5ef4838fa2cd5c0d37e6286641edda3456386bf7079c7642ad900cd94ce23d9"
     },
     "SingleMode0028": {
@@ -14652,11 +14652,11 @@
         "hash": "0f5894a69fd245cc87f3adcecfb13a61811ea3a1786d56c030ea1cabeca7a904"
     },
     "SingleMode0076": {
-        "text": "Motivation <color=#2E85E6>down</color>",
+        "text": "Mood <color=#2E85E6>down</color>",
         "hash": "25da9ab27b3623adb28201e9a2800a5fcb84c9b9cf9fb6d38d30e1459e4d811c"
     },
     "SingleMode0077": {
-        "text": "Motivation <color=#F16D27>up</color>",
+        "text": "Mood <color=#F16D27>up</color>",
         "hash": "edaf79167be263a948d2232ee8029ce52950d3122c50cc6ddaf1685f60652862"
     },
     "SingleMode0078": {
@@ -15412,7 +15412,7 @@
         "hash": "9e3b10a7f868697431dcd7871600d55078bf266361661287748ab0838a1c09d6"
     },
     "SingleMode0344": {
-        "text": "Inherent Skill",
+        "text": "<nb><an4>Inherent Skill",
         "hash": "801c5f2acd521fb99ecc663a28cbd92579d666bddbe71c65fae84c1c472b8fa2"
     },
     "SingleMode0345": {
@@ -20808,7 +20808,7 @@
         "hash": "cb23944a873dbcd377ffda37ad69295f3599238c9dd035385d31bb41961fed43"
     },
     "TeamBuilding424304": {
-        "text": "",
+        "text": "{0} Streak",
         "hash": "0b38d07f752481ee27eb73bce6477b89ac313611dd05f4af96896e010a29afd3"
     },
     "TeamBuilding424305": {
@@ -21932,7 +21932,7 @@
         "hash": "a2993eba4e7221fa8fea9b9d1be758e5f4ee7ae5dd18948a7fb9bd3c98eb674c"
     },
     "TrainingChallenge4180902": {
-        "text": "",
+        "text": "Stats",
         "hash": "e88a4ac95161a3d19d7355049ad80456e642dee19d03ae1a6f5bb650d5f8bae2"
     },
     "TrainingChallenge4180903": {
