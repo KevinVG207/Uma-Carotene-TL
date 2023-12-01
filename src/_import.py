@@ -339,6 +339,26 @@ def import_assembly():
     print(f"Imported {len(lines)} lines.")
 
 
+def import_font():
+    font_data = util.load_json(os.path.join(util.FONT_FOLDER, "font.json"))
+
+    if not font_data:
+        print("Font data not found, skipping.")
+        return
+    
+    print("Importing font...")
+
+    asset_path = handle_backup(font_data['hash'])
+
+    font_path = os.path.join(util.FONT_FOLDER, "IBMPlexSansJP-Bold.otf")
+
+    shutil.copy(font_path, asset_path)
+
+    print("Font imported.")
+
+    return
+
+
 def main():
     if not os.path.exists(util.MDB_PATH):
         raise FileNotFoundError(f"MDB not found: {util.MDB_PATH}")
@@ -348,12 +368,14 @@ def main():
     import_mdb()
 
     import_assets()
+    
+    import_font()
 
     import_assembly()
 
 def test():
     # import_assembly()
-    import_assets()
+    import_font()
 
 if __name__ == "__main__":
-    main()
+    import_font()

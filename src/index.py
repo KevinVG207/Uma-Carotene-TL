@@ -794,8 +794,32 @@ def index_assembly():
     index_hashed(hash_dict)
 
 
+def index_font():
+    print("=== Indexing Font ===")
+    with util.MetaConnection() as (_, cursor):
+        cursor.execute("SELECT h FROM a WHERE n = 'font/dynamic01.otf'")
+        row = cursor.fetchone()
+    
+    if not row:
+        raise Exception("Font not found in meta db.")
+    
+    font_hash = row[0]
+
+    font_path = util.FONT_FOLDER + "font.json"
+    os.makedirs(os.path.dirname(font_path), exist_ok=True)
+
+    with open(font_path, "w", encoding='utf-8') as f:
+        f.write(json.dumps({
+            "type": "font",
+            "version": version.VERSION,
+            "hash": font_hash,
+        }, indent=4, ensure_ascii=False)
+        )
+    
+    return
+
 def main():
-    index_assembly()
+    index_font()
 
     pass
 if __name__ == "__main__":
