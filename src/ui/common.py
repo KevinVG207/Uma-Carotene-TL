@@ -60,6 +60,7 @@ MDB_CAT_NAMES = {
         "77": "Character Names",
         "78": "Character Names (No Kanji)",
         "88": "Card Stories",
+        "113": "Chara Pieces",
         "144": "Profile Slogan",
         "162": "Profile Grade",
         "163": "Profile Descr",

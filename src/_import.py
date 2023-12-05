@@ -243,9 +243,11 @@ def _import_story(story_data):
         f.write(asset_bundle.file.save(packer="original"))
 
 def import_stories(story_datas):
+    #TODO: Increase chunk size (maybe 16?) when more stories are added.
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=16), total=len(story_datas), desc="Importing stories"))
+        _ = list(tqdm.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=2), total=len(story_datas), desc="Importing stories"))
 
+    # print(f"Replacing {len(story_datas)} stories.")
     # for story_data in story_datas:
     #     _import_story(story_data)
 

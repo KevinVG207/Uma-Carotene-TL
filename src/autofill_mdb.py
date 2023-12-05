@@ -36,7 +36,13 @@ def autofill_birthdays():
     
     util.save_json(json_path, json_data)
 
-def index_category(cat_id):
+INDEX_CACHE = {}
+def index_category(cat_id, no_cache=False):
+    global INDEX_CACHE
+
+    if not no_cache and cat_id in INDEX_CACHE:
+        return INDEX_CACHE[cat_id]
+
     json_path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", f"{cat_id}.json")
     if not os.path.exists(json_path):
         raise FileNotFoundError(f"File {json_path} does not exist.")
@@ -48,6 +54,9 @@ def index_category(cat_id):
         for key in json.loads(entry["keys"]):
             if entry["text"]:
                 index[key[-1]] = entry["text"]
+    
+    if not no_cache:
+        INDEX_CACHE[cat_id] = index
 
     return index
 
@@ -83,9 +92,34 @@ def autofill_outfit_combos():
     util.save_json(json_path, json_data)
 
 
+def autofill_pieces():
+    print("Autofilling pieces (text_data/113.json)")
+
+    chara_name_index = index_category(170)
+    
+    json_path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "113.json")
+    if not os.path.exists(json_path):
+        raise FileNotFoundError(f"File {json_path} does not exist.")
+    
+    json_data = util.load_json(json_path)
+
+    for entry in json_data:
+        key = str(json.loads(entry["keys"])[0][-1])
+        chara_id = int(key[:4])
+
+        if not chara_id in chara_name_index:
+            print(f"Character {chara_id} not found in character index. Skipping.")
+            continue
+
+        entry["text"] = f"{chara_name_index[chara_id]} Piece"
+    
+    util.save_json(json_path, json_data)
+
+
 def main():
     # autofill_birthdays()
     autofill_outfit_combos()
+    autofill_pieces()
     pass
 
 if __name__ == "__main__":

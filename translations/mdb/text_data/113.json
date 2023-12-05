@@ -1,0 +1,602 @@
+{
+    "100000": {
+        "text": "Selected Uma Piece",
+        "hash": "7145a3affb5602dc02913c6300d8e5eedc4ff73717ed818223ccbf56ccb0799a"
+    },
+    "100101": {
+        "text": "Special Week Piece",
+        "hash": "b4ba863e3d30cb9ae154fb0bbee33af2f8175e08dfa182bc4345212062428c21"
+    },
+    "100102": {
+        "text": "Special Week Piece",
+        "hash": "b4ba863e3d30cb9ae154fb0bbee33af2f8175e08dfa182bc4345212062428c21"
+    },
+    "100103": {
+        "text": "Special Week Piece",
+        "hash": "b4ba863e3d30cb9ae154fb0bbee33af2f8175e08dfa182bc4345212062428c21"
+    },
+    "100201": {
+        "text": "Silence Suzuka Piece",
+        "hash": "cdffefd0c6fec3021df98c92da9800af4225c5212638369a1e98c6c116fdfa68"
+    },
+    "100202": {
+        "text": "Silence Suzuka Piece",
+        "hash": "cdffefd0c6fec3021df98c92da9800af4225c5212638369a1e98c6c116fdfa68"
+    },
+    "100301": {
+        "text": "Tokai Teio Piece",
+        "hash": "d55d7616246ec2f60de938f09247e61b13e74f0419919d6fc6704298eee3affa"
+    },
+    "100302": {
+        "text": "Tokai Teio Piece",
+        "hash": "d55d7616246ec2f60de938f09247e61b13e74f0419919d6fc6704298eee3affa"
+    },
+    "100303": {
+        "text": "Tokai Teio Piece",
+        "hash": "d55d7616246ec2f60de938f09247e61b13e74f0419919d6fc6704298eee3affa"
+    },
+    "100401": {
+        "text": "Maruzensky Piece",
+        "hash": "fea97ff0407dd407a48189c40777a9e34a2c4ab4c0a26a704cdec438f490d255"
+    },
+    "100402": {
+        "text": "Maruzensky Piece",
+        "hash": "fea97ff0407dd407a48189c40777a9e34a2c4ab4c0a26a704cdec438f490d255"
+    },
+    "100501": {
+        "text": "Fuji Kiseki Piece",
+        "hash": "64b5a396a91fa8809af2eff575dc89634c44899c261c4f5617e3cb5f3fb869b3"
+    },
+    "100502": {
+        "text": "Fuji Kiseki Piece",
+        "hash": "64b5a396a91fa8809af2eff575dc89634c44899c261c4f5617e3cb5f3fb869b3"
+    },
+    "100601": {
+        "text": "Oguri Cap Piece",
+        "hash": "0f77d009f503fcdfe216a69f535b8ac570bf2dcfabe3c69c46bc18bf72cd1253"
+    },
+    "100602": {
+        "text": "Oguri Cap Piece",
+        "hash": "0f77d009f503fcdfe216a69f535b8ac570bf2dcfabe3c69c46bc18bf72cd1253"
+    },
+    "100701": {
+        "text": "Gold Ship Piece",
+        "hash": "4ec7c7be2b298da21ffce2701208c2ee4783a1fcad3abb5d763eb8b9f6b6034a"
+    },
+    "100702": {
+        "text": "Gold Ship Piece",
+        "hash": "4ec7c7be2b298da21ffce2701208c2ee4783a1fcad3abb5d763eb8b9f6b6034a"
+    },
+    "100703": {
+        "text": "Gold Ship Piece",
+        "hash": "4ec7c7be2b298da21ffce2701208c2ee4783a1fcad3abb5d763eb8b9f6b6034a"
+    },
+    "100801": {
+        "text": "Vodka Piece",
+        "hash": "ab08320b6cccb7d60f08279df5141bf2f1ac0914c12bf4a339d28ebf0ea728b0"
+    },
+    "100802": {
+        "text": "Vodka Piece",
+        "hash": "ab08320b6cccb7d60f08279df5141bf2f1ac0914c12bf4a339d28ebf0ea728b0"
+    },
+    "100901": {
+        "text": "Daiwa Scarlet Piece",
+        "hash": "ee07fa830b96cf56fcf5e3739c71966b49ab437d3513d21bcd2017f118897b4d"
+    },
+    "100902": {
+        "text": "Daiwa Scarlet Piece",
+        "hash": "ee07fa830b96cf56fcf5e3739c71966b49ab437d3513d21bcd2017f118897b4d"
+    },
+    "101001": {
+        "text": "Taiki Shuttle Piece",
+        "hash": "ac11e48799a0dd9af8940e17fac1fa5629ae029d9e47c9d926f0e4ce2770dbd1"
+    },
+    "101002": {
+        "text": "Taiki Shuttle Piece",
+        "hash": "ac11e48799a0dd9af8940e17fac1fa5629ae029d9e47c9d926f0e4ce2770dbd1"
+    },
+    "101101": {
+        "text": "Grass Wonder Piece",
+        "hash": "cb5a720b6c33140f23fb797d91dcd2deb692e7e9db518b05488983c1a05e5594"
+    },
+    "101102": {
+        "text": "Grass Wonder Piece",
+        "hash": "cb5a720b6c33140f23fb797d91dcd2deb692e7e9db518b05488983c1a05e5594"
+    },
+    "101201": {
+        "text": "Hishi Amazon Piece",
+        "hash": "557745333483e0b67dcade5f266229e7b3e000150515b6c34e5ff925c0feca9c"
+    },
+    "101202": {
+        "text": "Hishi Amazon Piece",
+        "hash": "557745333483e0b67dcade5f266229e7b3e000150515b6c34e5ff925c0feca9c"
+    },
+    "101301": {
+        "text": "Mejiro McQueen Piece",
+        "hash": "abc164ae72763dd37b6f36f42a691e4f0a4f5d1d4671fe6f69cd0bec69deb0e9"
+    },
+    "101302": {
+        "text": "Mejiro McQueen Piece",
+        "hash": "abc164ae72763dd37b6f36f42a691e4f0a4f5d1d4671fe6f69cd0bec69deb0e9"
+    },
+    "101303": {
+        "text": "Mejiro McQueen Piece",
+        "hash": "abc164ae72763dd37b6f36f42a691e4f0a4f5d1d4671fe6f69cd0bec69deb0e9"
+    },
+    "101401": {
+        "text": "El Condor Pasa Piece",
+        "hash": "241bb7133579e789d51d2f5fc6d4c35222d4abb003667e88e736a5ba33642ce3"
+    },
+    "101402": {
+        "text": "El Condor Pasa Piece",
+        "hash": "241bb7133579e789d51d2f5fc6d4c35222d4abb003667e88e736a5ba33642ce3"
+    },
+    "101501": {
+        "text": "T.M. Opera O Piece",
+        "hash": "e60dd385ed79ef370c4168e9987f392f91d433ade33bd864c644bd5660255360"
+    },
+    "101502": {
+        "text": "T.M. Opera O Piece",
+        "hash": "e60dd385ed79ef370c4168e9987f392f91d433ade33bd864c644bd5660255360"
+    },
+    "101601": {
+        "text": "Narita Brian Piece",
+        "hash": "295a52e74572a74cc72b43ffc3f424702eac0cab5342bbc416d82b648374ee21"
+    },
+    "101602": {
+        "text": "Narita Brian Piece",
+        "hash": "295a52e74572a74cc72b43ffc3f424702eac0cab5342bbc416d82b648374ee21"
+    },
+    "101701": {
+        "text": "Symboli Rudolf Piece",
+        "hash": "6dcf7aa052b4d97ac58449b8babe7614f8ba3fd1725737d50f74bcbc98010d59"
+    },
+    "101702": {
+        "text": "Symboli Rudolf Piece",
+        "hash": "6dcf7aa052b4d97ac58449b8babe7614f8ba3fd1725737d50f74bcbc98010d59"
+    },
+    "101801": {
+        "text": "Air Groove Piece",
+        "hash": "b900092045768bad82292bb667705da056a0ceacec3b7c17d64a9900e41d4c25"
+    },
+    "101802": {
+        "text": "Air Groove Piece",
+        "hash": "b900092045768bad82292bb667705da056a0ceacec3b7c17d64a9900e41d4c25"
+    },
+    "101901": {
+        "text": "Agnes Digital Piece",
+        "hash": "4ace93d0f68622effe6262d6bcee12e050bd5275c727c795fd6404065b08df1b"
+    },
+    "101902": {
+        "text": "Agnes Digital Piece",
+        "hash": "4ace93d0f68622effe6262d6bcee12e050bd5275c727c795fd6404065b08df1b"
+    },
+    "102001": {
+        "text": "Seiun Sky Piece",
+        "hash": "e70d75ae4ed2d7fd7a579274792523d6550e2cafbdb87c598e21ef92f761b610"
+    },
+    "102002": {
+        "text": "Seiun Sky Piece",
+        "hash": "e70d75ae4ed2d7fd7a579274792523d6550e2cafbdb87c598e21ef92f761b610"
+    },
+    "102101": {
+        "text": "Tamamo Cross Piece",
+        "hash": "696c05541592b4c5f13a8bdf78dcb897b08c7edf3bbdd705d6edbae4388240d9"
+    },
+    "102102": {
+        "text": "Tamamo Cross Piece",
+        "hash": "696c05541592b4c5f13a8bdf78dcb897b08c7edf3bbdd705d6edbae4388240d9"
+    },
+    "102201": {
+        "text": "Fine Motion Piece",
+        "hash": "30b6ade7da15b5786a218ba451fc1f7e854a2b3940cd4f0702675867b2cca2aa"
+    },
+    "102202": {
+        "text": "Fine Motion Piece",
+        "hash": "30b6ade7da15b5786a218ba451fc1f7e854a2b3940cd4f0702675867b2cca2aa"
+    },
+    "102301": {
+        "text": "Biwa Hayahide Piece",
+        "hash": "baeb283ba95a42a08cdfad70cf5410acf8dce5513d08f55b16a6886e25b18374"
+    },
+    "102302": {
+        "text": "Biwa Hayahide Piece",
+        "hash": "baeb283ba95a42a08cdfad70cf5410acf8dce5513d08f55b16a6886e25b18374"
+    },
+    "102401": {
+        "text": "Mayano Top Gun Piece",
+        "hash": "f6a6cdf2b83eaad0ecbd28c799a6e00e2234c33c187f693ab343ee56de583b94"
+    },
+    "102402": {
+        "text": "Mayano Top Gun Piece",
+        "hash": "f6a6cdf2b83eaad0ecbd28c799a6e00e2234c33c187f693ab343ee56de583b94"
+    },
+    "102501": {
+        "text": "Manhattan Cafe Piece",
+        "hash": "b3e51dd297a6f538ee0f0f36d0e1f8663d9110c2ecd6fcf9450df6d276f5fead"
+    },
+    "102601": {
+        "text": "Mihono Bourbon Piece",
+        "hash": "fec9d0e16e5837faabae4e7e395c20e4c4887c771e6e0ddaec177d795c4cdaee"
+    },
+    "102602": {
+        "text": "Mihono Bourbon Piece",
+        "hash": "fec9d0e16e5837faabae4e7e395c20e4c4887c771e6e0ddaec177d795c4cdaee"
+    },
+    "102701": {
+        "text": "Mejiro Ryan Piece",
+        "hash": "839ae395bbc900238d7cf7b02ade88b2a6b672490933b50228d5c7b107a856aa"
+    },
+    "102702": {
+        "text": "Mejiro Ryan Piece",
+        "hash": "839ae395bbc900238d7cf7b02ade88b2a6b672490933b50228d5c7b107a856aa"
+    },
+    "102801": {
+        "text": "Hishi Akebono Piece",
+        "hash": "c3e26e08dfa124d88d807b839f73af35ab6a320491a62035ff819943cd9030de"
+    },
+    "102901": {
+        "text": "Yukino Bijin Piece",
+        "hash": "47a5e888ecb1474683b61693557343e1145571e210793f38f0905f59ed985a31"
+    },
+    "103001": {
+        "text": "Rice Shower Piece",
+        "hash": "52e64490d6baa6007551de0403fe03217fcff1d38cbb13979309269772c604c8"
+    },
+    "103002": {
+        "text": "Rice Shower Piece",
+        "hash": "52e64490d6baa6007551de0403fe03217fcff1d38cbb13979309269772c604c8"
+    },
+    "103101": {
+        "text": "Ines Fujin Piece",
+        "hash": "f07ab534915b160e1ca0f96f0f8f3eed2fc83f299cd6808884d356d79bdeaef1"
+    },
+    "103102": {
+        "text": "Ines Fujin Piece",
+        "hash": "f07ab534915b160e1ca0f96f0f8f3eed2fc83f299cd6808884d356d79bdeaef1"
+    },
+    "103201": {
+        "text": "Agnes Tachyon Piece",
+        "hash": "093b96d9acda6dae2ceb776e5696c4d006384e941fca3b3c88a9cb06e48f3e8d"
+    },
+    "103202": {
+        "text": "Agnes Tachyon Piece",
+        "hash": "093b96d9acda6dae2ceb776e5696c4d006384e941fca3b3c88a9cb06e48f3e8d"
+    },
+    "103301": {
+        "text": "Admire Vega Piece",
+        "hash": "0b4f5db160c94215b410f626943f79b5de89883ecc75d0dd7c2e863a347821cc"
+    },
+    "103401": {
+        "text": "Inari One Piece",
+        "hash": "0b82c3e0f13063fa53cbd98a33637ef021c6bf2c8f0c7e5baa818d503ea3749b"
+    },
+    "103402": {
+        "text": "Inari One Piece",
+        "hash": "0b82c3e0f13063fa53cbd98a33637ef021c6bf2c8f0c7e5baa818d503ea3749b"
+    },
+    "103501": {
+        "text": "Winning Ticket Piece",
+        "hash": "6826af754b88c2a86356bf026c59759c5dc52b68d929efeb85f42e823af13da0"
+    },
+    "103502": {
+        "text": "Winning Ticket Piece",
+        "hash": "6826af754b88c2a86356bf026c59759c5dc52b68d929efeb85f42e823af13da0"
+    },
+    "103601": {
+        "text": "Air Shakur Piece",
+        "hash": "c1c8fc182d38bd88c3d188e286d07440bd122be767104f3653060c1400e404af"
+    },
+    "103602": {
+        "text": "Air Shakur Piece",
+        "hash": "c1c8fc182d38bd88c3d188e286d07440bd122be767104f3653060c1400e404af"
+    },
+    "103701": {
+        "text": "Eishin Flash Piece",
+        "hash": "418cd62735f5e5aaedb1f0909261bbea081c635c096b1b74f360490c0fef6dd7"
+    },
+    "103702": {
+        "text": "Eishin Flash Piece",
+        "hash": "418cd62735f5e5aaedb1f0909261bbea081c635c096b1b74f360490c0fef6dd7"
+    },
+    "103801": {
+        "text": "Curren Chan Piece",
+        "hash": "46851a25f60311976608e47da3bbd4cf12f19919d248cca7d28c371b404bad32"
+    },
+    "103802": {
+        "text": "Curren Chan Piece",
+        "hash": "46851a25f60311976608e47da3bbd4cf12f19919d248cca7d28c371b404bad32"
+    },
+    "103901": {
+        "text": "Kawakami Princess Piece",
+        "hash": "05be9c346d5cde4bcf0faf99205107ee68faaf431869e777766b890394ed2ccd"
+    },
+    "103902": {
+        "text": "Kawakami Princess Piece",
+        "hash": "05be9c346d5cde4bcf0faf99205107ee68faaf431869e777766b890394ed2ccd"
+    },
+    "104001": {
+        "text": "Gold City Piece",
+        "hash": "98736de9f29ec83cfcb982c7b7de4531f6bf439dea5baf6369c2cf3a1cf4c543"
+    },
+    "104002": {
+        "text": "Gold City Piece",
+        "hash": "98736de9f29ec83cfcb982c7b7de4531f6bf439dea5baf6369c2cf3a1cf4c543"
+    },
+    "104101": {
+        "text": "Sakura Bakushin O Piece",
+        "hash": "669d4de04a7e945a38e7bc68c054888ca1598a0d128d76a1c498518c2dafbbb9"
+    },
+    "104102": {
+        "text": "Sakura Bakushin O Piece",
+        "hash": "669d4de04a7e945a38e7bc68c054888ca1598a0d128d76a1c498518c2dafbbb9"
+    },
+    "104201": {
+        "text": "Seeking the Pearl Piece",
+        "hash": "1b9718c0e5c01e471eb36fe7286243a826b259012f65170e8bd992c07156c8c7"
+    },
+    "104301": {
+        "text": "Shinko Windy Piece",
+        "hash": "de64b06438af2a116f3958ebb20cbde04b4e9a548c0e8964b4fc428a4d055118"
+    },
+    "104401": {
+        "text": "Sweep Tosho Piece",
+        "hash": "da588cf26a0815c7cb7013c91b497a6a62145f115189877ce6e106765e9aaba6"
+    },
+    "104501": {
+        "text": "Super Creek Piece",
+        "hash": "1f7197b596d7f6e7f6c0dbac2b691a091c4cb73b11e38b5f09a906b4675ae77c"
+    },
+    "104502": {
+        "text": "Super Creek Piece",
+        "hash": "1f7197b596d7f6e7f6c0dbac2b691a091c4cb73b11e38b5f09a906b4675ae77c"
+    },
+    "104601": {
+        "text": "Smart Falcon Piece",
+        "hash": "4aa317011ab0f148316a74329db208218f1c93b3e20658c008fe5949e012fd56"
+    },
+    "104602": {
+        "text": "Smart Falcon Piece",
+        "hash": "4aa317011ab0f148316a74329db208218f1c93b3e20658c008fe5949e012fd56"
+    },
+    "104701": {
+        "text": "Zenno Rob Roy Piece",
+        "hash": "c4dbd3cac2f518a127c023098b23fc0486e311b93ceb3b6ea02b19d9f9a50ff9"
+    },
+    "104801": {
+        "text": "Tosen Jordan Piece",
+        "hash": "4571d22210e9b2087777528956a3145b8b98efb00ed4382d7d1cf7f7e252b332"
+    },
+    "104802": {
+        "text": "Tosen Jordan Piece",
+        "hash": "4571d22210e9b2087777528956a3145b8b98efb00ed4382d7d1cf7f7e252b332"
+    },
+    "104901": {
+        "text": "Nakayama Festa Piece",
+        "hash": "3e9739c306c47b3c0968f8efd76b8f10c5ed8609eda9a8f19d40e19b5507cf68"
+    },
+    "105001": {
+        "text": "Narita Taishin Piece",
+        "hash": "8096fd57d419ac88489f4c5781eb0d118b17f94ad57c17ebbcddb8f5fbe865db"
+    },
+    "105002": {
+        "text": "Narita Taishin Piece",
+        "hash": "8096fd57d419ac88489f4c5781eb0d118b17f94ad57c17ebbcddb8f5fbe865db"
+    },
+    "105101": {
+        "text": "Nishino Flower Piece",
+        "hash": "ab8cf21e210328a7b3e7a5ac7d542e3918e10a75acbb88138dd80e907d57e153"
+    },
+    "105102": {
+        "text": "Nishino Flower Piece",
+        "hash": "ab8cf21e210328a7b3e7a5ac7d542e3918e10a75acbb88138dd80e907d57e153"
+    },
+    "105201": {
+        "text": "Haru Urara Piece",
+        "hash": "5fbbde224dae4ed37cf0ff31f5ef3f4d990134c8ecab7a9689c02586c2e82cfc"
+    },
+    "105202": {
+        "text": "Haru Urara Piece",
+        "hash": "5fbbde224dae4ed37cf0ff31f5ef3f4d990134c8ecab7a9689c02586c2e82cfc"
+    },
+    "105301": {
+        "text": "Bamboo Memory Piece",
+        "hash": "1faec004727dc69476adcbff626eb239ad9e454a04e68d3a0f37692d250e7502"
+    },
+    "105302": {
+        "text": "Bamboo Memory Piece",
+        "hash": "1faec004727dc69476adcbff626eb239ad9e454a04e68d3a0f37692d250e7502"
+    },
+    "105501": {
+        "text": "Marvelous Sunday Piece",
+        "hash": "fe0e87e3063f75adf89d6ae894cd2ba6ff0411219ef19a84246a8ae7956ab1ab"
+    },
+    "105601": {
+        "text": "Matikanefukukitaru Piece",
+        "hash": "8ec9f5a9f2865c75f766bcde4ce724b19460bab74724ff1c5b693376e4dac517"
+    },
+    "105602": {
+        "text": "Matikanefukukitaru Piece",
+        "hash": "8ec9f5a9f2865c75f766bcde4ce724b19460bab74724ff1c5b693376e4dac517"
+    },
+    "105701": {
+        "text": "Mr. C.B. Piece",
+        "hash": "3783c890fccaf64d471fa76521c037790ddc6bb320b7ecdd80e09e72d7510a00"
+    },
+    "105801": {
+        "text": "Meisho Doto Piece",
+        "hash": "d1f9349fd95be0801c5e0605a1b27d121b748770d722c6fc739594c704fdba2d"
+    },
+    "105802": {
+        "text": "Meisho Doto Piece",
+        "hash": "d1f9349fd95be0801c5e0605a1b27d121b748770d722c6fc739594c704fdba2d"
+    },
+    "105901": {
+        "text": "Mejiro Dober Piece",
+        "hash": "8cc99d7c35436510e41ec555271a255253612e3a0c05f8ed852bac33095b0651"
+    },
+    "105902": {
+        "text": "Mejiro Dober Piece",
+        "hash": "8cc99d7c35436510e41ec555271a255253612e3a0c05f8ed852bac33095b0651"
+    },
+    "106001": {
+        "text": "Nice Nature Piece",
+        "hash": "57139b1024b91bb2a2d69581f08dd6b1c84fd4d60d7c59ea819cd9f3d7714c02"
+    },
+    "106002": {
+        "text": "Nice Nature Piece",
+        "hash": "57139b1024b91bb2a2d69581f08dd6b1c84fd4d60d7c59ea819cd9f3d7714c02"
+    },
+    "106101": {
+        "text": "King Halo Piece",
+        "hash": "98078eb3c5bc377d56e1408e20cf9f3cac4413e2e300229c45a213e361ade375"
+    },
+    "106102": {
+        "text": "King Halo Piece",
+        "hash": "98078eb3c5bc377d56e1408e20cf9f3cac4413e2e300229c45a213e361ade375"
+    },
+    "106201": {
+        "text": "Matikane Tannhäuser Piece",
+        "hash": "20623f077ec1abc71ec5c27ceff19bc62fb9440188518d622b74205bc5f1ae60"
+    },
+    "106202": {
+        "text": "Matikane Tannhäuser Piece",
+        "hash": "20623f077ec1abc71ec5c27ceff19bc62fb9440188518d622b74205bc5f1ae60"
+    },
+    "106401": {
+        "text": "Mejiro Palmer Piece",
+        "hash": "e349739d4c4c96fa81148ad9eb68f678268c8a41ebc5e7f84e9fb81204831e1a"
+    },
+    "106402": {
+        "text": "Mejiro Palmer Piece",
+        "hash": "e349739d4c4c96fa81148ad9eb68f678268c8a41ebc5e7f84e9fb81204831e1a"
+    },
+    "106501": {
+        "text": "Daitaku Helios Piece",
+        "hash": "549fd7b1a001d14957ba0ae2ed1d63e2ffe8a20385c586e556d140720d4ef635"
+    },
+    "106601": {
+        "text": "Twin Turbo Piece",
+        "hash": "a40d154a2df1e67ac408f86269df8737a95e0aa8e5d67429e1f19d62c0183cfd"
+    },
+    "106701": {
+        "text": "Satono Diamond Piece",
+        "hash": "6a50bdbad8bd9d108bca1355c5276481eb7cbfa163cfd7598d6c8f7ac455f28f"
+    },
+    "106702": {
+        "text": "Satono Diamond Piece",
+        "hash": "6a50bdbad8bd9d108bca1355c5276481eb7cbfa163cfd7598d6c8f7ac455f28f"
+    },
+    "106703": {
+        "text": "Satono Diamond Piece",
+        "hash": "6a50bdbad8bd9d108bca1355c5276481eb7cbfa163cfd7598d6c8f7ac455f28f"
+    },
+    "106801": {
+        "text": "Kitasan Black Piece",
+        "hash": "35235ea659e873689cfa788d99ad9f9019d7a417dbaa28f4a7eccf997f06607f"
+    },
+    "106802": {
+        "text": "Kitasan Black Piece",
+        "hash": "35235ea659e873689cfa788d99ad9f9019d7a417dbaa28f4a7eccf997f06607f"
+    },
+    "106901": {
+        "text": "Sakura Chiyono O Piece",
+        "hash": "de543bb2b2c5f3def6b3d211c26a9a17ca6919728e199dde37fdaad3ea8b5caa"
+    },
+    "106902": {
+        "text": "Sakura Chiyono O Piece",
+        "hash": "de543bb2b2c5f3def6b3d211c26a9a17ca6919728e199dde37fdaad3ea8b5caa"
+    },
+    "107001": {
+        "text": "Sirius Symboli Piece",
+        "hash": "f2b479687b7c5d1640823c942cc19252ccf8d61f279d433a373842e42b41ad96"
+    },
+    "107101": {
+        "text": "Mejiro Ardan Piece",
+        "hash": "7fa045534a77d4a6087c944381f42944e3a4b6e691fed4751803b0d6d0d667b4"
+    },
+    "107102": {
+        "text": "Mejiro Ardan Piece",
+        "hash": "7fa045534a77d4a6087c944381f42944e3a4b6e691fed4751803b0d6d0d667b4"
+    },
+    "107201": {
+        "text": "Yaeno Muteki Piece",
+        "hash": "b46e38ccf10786477f115ff5b1aadae5b231504f5545fcdbd11e920520738fb6"
+    },
+    "107401": {
+        "text": "Mejiro Bright Piece",
+        "hash": "20535165b8edf9bdba738938096fea77a00ba0828ab3b96102ddd78066012419"
+    },
+    "107402": {
+        "text": "Mejiro Bright Piece",
+        "hash": "20535165b8edf9bdba738938096fea77a00ba0828ab3b96102ddd78066012419"
+    },
+    "107601": {
+        "text": "Sakura Laurel Piece",
+        "hash": "a859af5321d46182242375adce4c7134362ceab37c7597805e8469369ff3a259"
+    },
+    "107701": {
+        "text": "Narita Top Road Piece",
+        "hash": "94b0f2fe491dfcc2fad03733696971fb255a9ffb44ba28fabcefdcf439b472b5"
+    },
+    "107801": {
+        "text": "Yamanin Zephyr Piece",
+        "hash": "05a50edab8b80e01a2c1d48597c9cffa6a5e883580af76d0492c084a4f9197c4"
+    },
+    "108301": {
+        "text": "Symboli Kris S Piece",
+        "hash": "bfc5702226aa788abfcf762896ebbeb32d264dd9474852f0e32ad0941319a52b"
+    },
+    "108302": {
+        "text": "Symboli Kris S Piece",
+        "hash": "bfc5702226aa788abfcf762896ebbeb32d264dd9474852f0e32ad0941319a52b"
+    },
+    "108401": {
+        "text": "Tanino Gimlet Piece",
+        "hash": "347cdc6a942279803e4496efc07c0a73816725ebdf619278c627d20fcb904ecd"
+    },
+    "108501": {
+        "text": "Daiichi Ruby Piece",
+        "hash": "0941f421e37498001f14a72e4bd4a3506beff62e3e9351bfc316a7299833f562"
+    },
+    "108601": {
+        "text": "Mejiro Ramonu Piece",
+        "hash": "d607bb1a971fa9bc8880970f7ef688aaf0faea7a3396871afe55973f110193e0"
+    },
+    "108701": {
+        "text": "Aston Machan Piece",
+        "hash": "e25103ce55ac9314a02d39f877c3bb7cb96b752618eee97ef26cf0ee8fb22d44"
+    },
+    "109301": {
+        "text": "K.S. Miracle Piece",
+        "hash": "3a2d6e2c3143bba0ea1e57f3ad7decfd95fb40621f4a762b91ca99d3ca00b0f7"
+    },
+    "109801": {
+        "text": "Copano Rickey Piece",
+        "hash": "2e7272288ecdb62aced61446fb22ed116a2b96c1e52c2935d428a553fb3c1c00"
+    },
+    "109901": {
+        "text": "Hokko Tarumae Piece",
+        "hash": "c036e9556d9f84eb62f575d4cadf58e8a37a985d787302b5c9f9cdb774db922e"
+    },
+    "110001": {
+        "text": "Wonder Acute Piece",
+        "hash": "da5ae2fb23cd2e828e7f232e3ca37fc05b07c2e971c0f4959d9e285a11c2efc7"
+    },
+    "110401": {
+        "text": "Katsuragi Ace Piece",
+        "hash": "feb8beb3dd30a683ebd23ebb1fde3e6b708c883e549dd712b072dc3390a0ef51"
+    },
+    "110501": {
+        "text": "Neo Universe Piece",
+        "hash": "35e301502bd330f488e12433c894934b94732bc81dcf1c54133d780671e42390"
+    },
+    "110601": {
+        "text": "Hishi Miracle Piece",
+        "hash": "31c3edc5cbe27caa302c97f21ff4a887113885447d53c6eb619938645719b48e"
+    },
+    "110701": {
+        "text": "Tap Dance City Piece",
+        "hash": "74b9e17bae03bf84e5892b26d8d0bcb8a0df4558133c0606f5196dd5ec24a627"
+    }
+}

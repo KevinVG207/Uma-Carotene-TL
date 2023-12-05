@@ -1,8 +1,10 @@
 import intermediate
 # import _fill_duplicates
 import autofill_mdb
+import _revert
 
 def main():
+    _revert.main()
     # _fill_duplicates.main()
     autofill_mdb.main()
     intermediate.mdb_from_intermediate()
