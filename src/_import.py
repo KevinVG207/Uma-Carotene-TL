@@ -1,12 +1,10 @@
 import util
 import os
 import glob
-import json
 import shutil
 from multiprocessing.pool import Pool
 from itertools import repeat
 import tqdm
-import UnityPy
 import io
 import version
 import unity
