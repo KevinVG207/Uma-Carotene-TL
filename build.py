@@ -1,9 +1,9 @@
-import zipfile
 import shutil
 import os
 import src.util as util
+import src.version as version
 
-VERSION = "v0.0.1"
+VERSION = version.version_to_string(version.VERSION)
 
 BUILD_PATH = "dist"
 
