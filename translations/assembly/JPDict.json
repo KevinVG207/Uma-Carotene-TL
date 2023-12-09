@@ -1032,7 +1032,7 @@
         "hash": "9d2214b1338071e8637b2782b27b26f87c26893388cf6f060e3f56cfacf6b22f"
     },
     "Champions0024": {
-        "text": "",
+        "text": "Reward",
         "hash": "d193e9d2b723e7603a41beb58fe1d35770c4cc7fc0d7810c00709948dd28ac35"
     },
     "Champions0025": {
@@ -4108,7 +4108,7 @@
         "hash": "517cc8632e3fa60097e273037e164daf78a545f2761cf17164c3729858910535"
     },
     "Common0164": {
-        "text": "",
+        "text": "Reward",
         "hash": "d193e9d2b723e7603a41beb58fe1d35770c4cc7fc0d7810c00709948dd28ac35"
     },
     "Common0166": {
@@ -4380,7 +4380,7 @@
         "hash": "56c2f4b987e508f399cae2b39aad4b239407cbfece64addae556e143e3020bf2"
     },
     "Common0293": {
-        "text": "Affection Rank",
+        "text": "<nb>Affection Rank",
         "hash": "c933a49cc930c2dd0fd926dbe88839ea0b1047ea33f1c70f470afec778eeda3b"
     },
     "Common0294": {
@@ -4456,7 +4456,7 @@
         "hash": "f384c45674132969976f1c2072e4278c494ad63fdbddc5c04da2196f3205d156"
     },
     "Common0314": {
-        "text": "",
+        "text": "{0} left",
         "hash": "e6e6a85f5d4b6c8bf0d0b5029dd2f7832dfe06ebee97323f378748451e4a404a"
     },
     "Common0315": {
@@ -7204,7 +7204,7 @@
         "hash": "893f13993f83fbaae4717a3cc109d39bcafd6860e077937ea5eb54993cd956a4"
     },
     "Jikkyo0005": {
-        "text": "",
+        "text": "{0}L",
         "hash": "55a5934a8d0bce30aa9ad8aef98b271adee2527a227a6414b07fd5e56ae34575"
     },
     "Jikkyo0006": {
@@ -8364,7 +8364,7 @@
         "hash": "4e2ca478dceaa5bb2d6df72e4a38968669031785a730b1691d00e8ae00e3602a"
     },
     "Outgame0180": {
-        "text": "Affection Rank",
+        "text": "<nb>Affection Rank",
         "hash": "c933a49cc930c2dd0fd926dbe88839ea0b1047ea33f1c70f470afec778eeda3b"
     },
     "Outgame0181": {
@@ -11816,11 +11816,11 @@
         "hash": "597348db2b0647e4e9306cbfc47e7b24c1c8e53415b811364475259b9326822b"
     },
     "Race0001": {
-        "text": "",
+        "text": "Nose",
         "hash": "df64ca613a7f1575243a4add6b42e6c077f463ddd30fb2acabadf6bdf88d3186"
     },
     "Race0002": {
-        "text": "",
+        "text": "Head",
         "hash": "ff925ce97bd0028249809b482d2188f17343aead3b3cc9da70d02a1f2e4e1ebe"
     },
     "Race0003": {
@@ -11828,39 +11828,39 @@
         "hash": "6fe6e9db8dbbf12aec58366b05fd864bf765865c0b4444319368c08e661a1bbe"
     },
     "Race0004": {
-        "text": "",
+        "text": "Neck",
         "hash": "37890d3991863ee1b51f2a8a4b0005e8c93d3fc8b155ff57fc78ab3010b44b0c"
     },
     "Race0005": {
-        "text": "",
+        "text": "1/2L",
         "hash": "6236d4a8342aa06d03c3399d81ce86be64ecd3670536863a9563f6ff38381795"
     },
     "Race0006": {
-        "text": "",
+        "text": "3/4L",
         "hash": "c148c7266c740c09a0bcb687279a10f0e0fa1c753ab6a34daf391dd51afcc0ca"
     },
     "Race0007": {
-        "text": "",
+        "text": "Distance",
         "hash": "4429426cd80d9983d688761161687193ff31bf341a356f33d353e36545bd4e44"
     },
     "Race0008": {
-        "text": "",
+        "text": "1 1/4L",
         "hash": "d0ee98e5b491242879b37fafe092640ff876c4b43058b59b93e3e93dc303cb97"
     },
     "Race0009": {
-        "text": "",
+        "text": "1 1/2L",
         "hash": "3dd9e5f1a6a196f9413b5b4a1c5974ff760359e864b6dcbff8891d3b0db1bf97"
     },
     "Race0010": {
-        "text": "",
+        "text": "1 3/4L",
         "hash": "e0202ae8a0bd755afa1c090019d48f548243ea325277992fcb226f79d296f2cb"
     },
     "Race0011": {
-        "text": "",
+        "text": "{0}L",
         "hash": "55a5934a8d0bce30aa9ad8aef98b271adee2527a227a6414b07fd5e56ae34575"
     },
     "Race0012": {
-        "text": "",
+        "text": "{0} 1/2L",
         "hash": "6055e919678537e2fc7c82d72a32003a14f96472d13d8dd5400217dd1b725db7"
     },
     "Race0013": {
@@ -12244,11 +12244,11 @@
         "hash": "e2e0c454e5d5318643907d75393de605324c1f69a554ae3d9efa2b6f2a6663b4"
     },
     "Race0240": {
-        "text": "",
+        "text": "In",
         "hash": "0e826095b60ccf039478a7e093220d79a4614158557924383bd3c7ef1bb06d8a"
     },
     "Race0241": {
-        "text": "",
+        "text": "Out",
         "hash": "b2126ce9c100bff0cc963326e29fadc751106ad7fd7f34aa46cddc06d8198c6a"
     },
     "Race0242": {
@@ -14512,7 +14512,7 @@
         "hash": "2a3f2ae1859492bc1caf9c1f90dfb35a3c8707ff0cae76559c8c0babced7a585"
     },
     "SingleMode0001": {
-        "text": "",
+        "text": "Outing",
         "hash": "7ff07f1dea6320846dc14b4114b79bb755cb1b73e9f5aa87df9ca24578294b98"
     },
     "SingleMode0002": {
@@ -14544,15 +14544,15 @@
         "hash": "1172b7a321939579fe11f03149289dff0a324599fc3a60015bf20ce9bf1d68b0"
     },
     "SingleMode0017": {
-        "text": "<nb>Junior Era",
+        "text": "<nb>Junior Yr",
         "hash": "44a5e1b20f1d75eb39ff25c577bc5bc5671a350bed4e1e1b41ed9b8eda0088a9"
     },
     "SingleMode0018": {
-        "text": "<nb>Classic Era",
+        "text": "<nb>Classic Yr",
         "hash": "b3d8ef4daafa0f15281ac8fd3138b19835ba01c264a000fa36904a6911472ade"
     },
     "SingleMode0019": {
-        "text": "<nb>Senior Era",
+        "text": "<nb>Senior Yr",
         "hash": "86fea8845491367c7273299d6dd2b23eac906b5190a32a0ce9397f4d877e6c5e"
     },
     "SingleMode0020": {
@@ -14808,7 +14808,7 @@
         "hash": "a140e7a202b7811b4821a4123596cf690e4b0459f56f311ac97a29ca4a0e915a"
     },
     "SingleMode0136": {
-        "text": "",
+        "text": "All Goals Completed!",
         "hash": "b7ab3b9859c61dfcc0647eb92c22c147be9534aeacf65bc98d6ddaa7fbc3d9b9"
     },
     "SingleMode0141": {
@@ -15044,7 +15044,7 @@
         "hash": "32ecd9ca9986639164e021e318714bccfaacf067a49683486ef132407a9f4823"
     },
     "SingleMode0232": {
-        "text": "",
+        "text": "<nb>Requirements Met!",
         "hash": "6d92c86dfaf887f1db9e85bd0c5ffdc57a13e9978386c49d63344d8653ff0418"
     },
     "SingleMode0233": {
@@ -15164,15 +15164,15 @@
         "hash": "26e0324b881b5d37ee7fc165e93aa154cac076cf00f96ae886e86425ca3723ab"
     },
     "SingleMode0263": {
-        "text": "",
+        "text": "Bond",
         "hash": "86e73fe92b0c009f0580261dbd948d42f0846520f7a2169701348a129c4e7a32"
     },
     "SingleMode0264": {
-        "text": "",
+        "text": "Event Progress",
         "hash": "e3113a9a7e54f3328765869bfbfa691aa387c8301f2853351c126c2a65c99420"
     },
     "SingleMode0265": {
-        "text": "",
+        "text": "In Training",
         "hash": "31671706415d877fac73fe020bf3b5858464f47eb1b68ca68a875f423559fc58"
     },
     "SingleMode0267": {
@@ -15272,11 +15272,11 @@
         "hash": "19f091d96d9b0e717799c27aee382bce2c0b9a9f2c469a27d023c0f21f966579"
     },
     "SingleMode0294": {
-        "text": "Bond gauge of {0} <color=#F16D27>up {1}</color>",
+        "text": "Bond with {0} <color=#F16D27>up {1}</color>",
         "hash": "df2396c13a0841c02c67b149e37d0ce27ae28aa895fea376f5b18f6129916688"
     },
     "SingleMode0295": {
-        "text": "Bond gauge of {0} <color=#2E85E6>down {1}</color>",
+        "text": "Bond with {0} <color=#2E85E6>down {1}</color>",
         "hash": "39f1dc4358753ae8a7ed1f65bb50c3dcff4896dfa2c9352fd1bfd0d804af18ea"
     },
     "SingleMode0296": {
@@ -15340,7 +15340,7 @@
         "hash": "9e3b10a7f868697431dcd7871600d55078bf266361661287748ab0838a1c09d6"
     },
     "SingleMode0324": {
-        "text": "Goal Completed!",
+        "text": "<force>Completed!",
         "hash": "71ac5510669deb1f153514453c0d2cf53f67cf35ca7ebee767fc11e9821ebcb0"
     },
     "SingleMode0325": {
@@ -15392,15 +15392,15 @@
         "hash": "b7ed00cd095f3cd841691e601c9f0e1d5c0836ebc811ac76cd43865734fc0efd"
     },
     "SingleMode0339": {
-        "text": "",
+        "text": "+{0}",
         "hash": "f6ef0ae08980a12d8233e8bb9bf73daef9daf2e44f281f404bc53c0615031026"
     },
     "SingleMode0340": {
-        "text": "Goal Completed!",
+        "text": "Goal completed!",
         "hash": "71ac5510669deb1f153514453c0d2cf53f67cf35ca7ebee767fc11e9821ebcb0"
     },
     "SingleMode0341": {
-        "text": "",
+        "text": "<nb>Requirements Met!",
         "hash": "6d92c86dfaf887f1db9e85bd0c5ffdc57a13e9978386c49d63344d8653ff0418"
     },
     "SingleMode0342": {
@@ -15432,7 +15432,7 @@
         "hash": "ba9cc14edf67e3084c03764d30dde47c537a832a349d1e6b6d34537ee69b07ea"
     },
     "SingleMode0349": {
-        "text": "",
+        "text": "Well done, Trainer! You can add the Umamusume \nyou just trained to your team formation.\nGood luck with the Team Stadium races!",
         "hash": "032e2ee27d59e162f5e8b2db886bf30abb5d35dec8288cf1f59a0c9f8ec071d1"
     },
     "SingleMode0350": {
@@ -15456,7 +15456,7 @@
         "hash": "1c3099af8860f5b07fcf14df91660c2b0dd69402b44088e802bf5ee0f3dc8843"
     },
     "SingleMode0355": {
-        "text": "",
+        "text": "Bond with {0} is <color=#F16D27>maxed out</color>",
         "hash": "31e6984140096647cedc94f5c962b8be39c13a39f32e01de271f95f421df3269"
     },
     "SingleMode0356": {
@@ -15880,15 +15880,15 @@
         "hash": "16fd6eadfb8873e2729a24425ec8cf9e04ef2fa6bf5343b82bee0737dc95ec1e"
     },
     "SingleMode0469": {
-        "text": "",
+        "text": "Entered as <ords>{0}<orde> fav. and ",
         "hash": "8782202c902dab627f3f308149efecd808eb0a95a52fadb8eb368894cfff3cbc"
     },
     "SingleMode0470": {
-        "text": "",
+        "text": "<color=#2E85E6>finished <ords>{0}<orde></color>",
         "hash": "f21019026f9e52646ba36d3224b45336454c01fc906ae5b000ebdcf8c41f5f4e"
     },
     "SingleMode0471": {
-        "text": "",
+        "text": "<color=#F16D27>won</color>",
         "hash": "5c8b9921eaaf10ad6c04364ffe17a9444617d0884b5f86ac0f94d05d6fe24059"
     },
     "SingleMode0472": {
@@ -16128,11 +16128,11 @@
         "hash": "aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7"
     },
     "SingleMode194001": {
-        "text": "Bond gauge of {0} is <color=#F16D27>at its maximum</color>",
+        "text": "Bond with {0} is <color=#F16D27>maxed out</color>",
         "hash": "323cb81dc25c502acf5e39d0bce631c8b98ae1117bc9743bc2ca638035d505f8"
     },
     "SingleMode194002": {
-        "text": "Bond gauge of {0} is <color=#2E85E6>at its minimum</color>",
+        "text": "Bond with {0} is <color=#2E85E6>at minimum</color>",
         "hash": "f6b5e2bc5d0b937ad79692541a90b2211b0ba42e8501eb9fd3f729ae3069b218"
     },
     "SingleMode194003": {
@@ -16348,7 +16348,7 @@
         "hash": "0b362062e135b6ff215ea1b451c0931e05fb9357f1e2d3460f67e5a19c01acd0"
     },
     "SingleMode194056": {
-        "text": "",
+        "text": "Group Event Progress",
         "hash": "da0f3ab688c6d1e759a8d4c297ca108635781e1b0ccf55e2ab24736976e45c73"
     },
     "SingleMode194057": {
@@ -16488,7 +16488,7 @@
         "hash": "bb907894f25103eace4093af406948bd7a330608e6871e52b70061cfbaf5f053"
     },
     "SingleMode194091": {
-        "text": "",
+        "text": "Due to <color=#F16D27>[{0}]</color>, {1} <color=#F16D27>did not go down</color>\n<color=#F16D27>[{2}]</color> is used up",
         "hash": "9cf207bfea11743f7d66f53fcd41844cca1f6948936b5fb6b5500d4f575cdd83"
     },
     "SingleMode194092": {
@@ -16760,7 +16760,7 @@
         "hash": "6fb61fa1ad202dbe96fe30fd32b607f45c12af3b374852586027997250568500"
     },
     "SingleMode249001": {
-        "text": "",
+        "text": "Received <color=#F16D27>[{0}]</color>",
         "hash": "17d77b5bf065294ac8fd8df3a0eab26e6be693a1dde6dc0bcd31cbd6b34f946e"
     },
     "SingleMode425001": {
@@ -16856,7 +16856,7 @@
         "hash": "ff38c1bf0f7487b0b18d67712c0cf29563c73aa2315f4977959041594ef52d82"
     },
     "SingleMode400101": {
-        "text": "",
+        "text": "{0} <color=#F16D27>increased even further by {1}</color>",
         "hash": "5cebf161d7de8fcb1f5c8a2623ed77bc0cf5f73fbb348ab55547934fa839b39e"
     },
     "SingleMode400102": {
@@ -17044,7 +17044,7 @@
         "hash": "7b5a6f90a0e38f9dc4b42c00362f46e1c9681f26aed0966d5a737313c651e725"
     },
     "SingleMode419118": {
-        "text": "",
+        "text": "<color=#F16D27>[{0}] </color>has <color=#F16D27>already been learned</color>",
         "hash": "867c5709760428ae81bc4340f5a6bd57519d3a83b0c2b9f20f8e952de791207f"
     },
     "SingleMode508002": {
@@ -17228,11 +17228,11 @@
         "hash": "d3f539a7e9050630e852db61da82ae79dc3956f5ab3345f9587ceb70a93e837b"
     },
     "SingleModeScenarioArc0017": {
-        "text": "",
+        "text": "{1} of {0} <color=#F16D27>up {2}</color>",
         "hash": "92b0ae97be5e9a6c9602f3df57a82a3469cf0179899047d5f415b51744447088"
     },
     "SingleModeScenarioArc0018": {
-        "text": "",
+        "text": "{1} of {0} <color=#F16D27>is maxed out</color>",
         "hash": "6c9863eac9c33ef9f3d3ce65be3084b5a107bcc47a8e0a08535db3cc718fbad2"
     },
     "SingleModeScenarioArc0019": {
@@ -17332,7 +17332,7 @@
         "hash": "5392d59258bf8d2642ee50b826fa85a208d0c5b7134cc25c8044c1d084630b0c"
     },
     "SingleModeScenarioArc0045": {
-        "text": "",
+        "text": "Leveled up {0}!",
         "hash": "d00569a0facb8046c4d9ae4b1c82ac3bce515bae7d19c51a71ed1f1a0961eec4"
     },
     "SingleModeScenarioArc0046": {
@@ -17440,7 +17440,7 @@
         "hash": "b6253e18d1c21373c1934fd4bcccbfa303e64abe7b8d8dc4ba15b6aff0aecfb1"
     },
     "SingleModeScenarioArc0072": {
-        "text": "",
+        "text": "Can Level Up",
         "hash": "ddbfb1b1a7c5b2a88ee0d559e8e973dfdabbd5f801d8d316de040f6df137b410"
     },
     "SingleModeScenarioArc0073": {
@@ -17464,7 +17464,7 @@
         "hash": "ef22ed0cee989ead45a81fff28f388e5a92884926d1cc68934c557d7036477e9"
     },
     "SingleModeScenarioArc508001": {
-        "text": "<a5><size=25>Supporter Pts</size>",
+        "text": "Supporter Pt",
         "hash": "eab706a4c92e3edbad6b5d9d8c32dcf3e0325d23cddc8a757a4efb26c4eea0a7"
     },
     "SingleModeScenarioArc508002": {
@@ -19892,7 +19892,7 @@
         "hash": "b8370b0f714b465c9e2dfac4e8c6049a152150e537b7b27f10e622e7f96daf80"
     },
     "StoryEvent0026": {
-        "text": "",
+        "text": "All stories are \nunlocked",
         "hash": "2c1a589b6d2bb8363660b68bbe1560381fa02780a5d0358a7f4142cf52cfa8e9"
     },
     "StoryEvent0027": {
@@ -20072,7 +20072,7 @@
         "hash": "b9803a05915544fdeae8e1acf0eba8eab2fc1a0212b90d64ca6acebd722b24de"
     },
     "StoryEvent0071": {
-        "text": "",
+        "text": "All stories are unlocked",
         "hash": "63f634f17ec89d13f5e2213cd974ec17dc4d9f08af1c8f6a7c6db84316072c60"
     },
     "StoryEvent0072": {
