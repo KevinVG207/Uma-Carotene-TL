@@ -13,7 +13,7 @@ import json
 import shutil
 from itertools import repeat
 import UnityPy
-import _import
+from patch import _patch, _unpatch
 from win32com.client import Dispatch
 
 def add_to_dict(parent_dict, values_list):
@@ -560,7 +560,7 @@ def process_existing_texture(metadata):
         for texture in metadata['textures']:
             path_id = texture['path_id']
             diff_path = os.path.join(util.ASSETS_FOLDER, file_name, texture['name'] + ".diff")
-            new_bytes, texture_read = _import.create_new_image_from_path_id(asset_bundle, path_id, diff_path)
+            new_bytes, texture_read = _patch.create_new_image_from_path_id(asset_bundle, path_id, diff_path)
             texture_read.image.save(org_out)
             with open(png_out, "wb") as f:
                 f.write(new_bytes)
