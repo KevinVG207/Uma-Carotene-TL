@@ -4,7 +4,6 @@ import glob
 import shutil
 from multiprocessing.pool import Pool
 from itertools import repeat
-import tqdm
 import io
 import version
 import unity
@@ -42,9 +41,8 @@ def mark_mdb_untranslated():
         conn.commit()
 
 
-def is_mdb_translated():
+def _get_version_from_table():
     cur_ver = None
-
     with util.MDBConnection() as (conn, cursor):
         # Determine if carotene table exists
         cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='carotene';")
@@ -57,7 +55,19 @@ def is_mdb_translated():
         if not row:
             return cur_ver
         
-        cur_ver = version.string_to_version(row[0])
+        cur_ver = row[0]
+    
+    return cur_ver
+
+
+def get_current_patch_ver():
+    cur_ver = _get_version_from_table()
+
+    if not cur_ver:
+        # Check for any remaining backup files.
+        asset_backups = glob.glob(util.DATA_PATH + "\\**\\*.bak", recursive=True)
+        if asset_backups:
+            cur_ver = 'partial'
 
     return cur_ver
 
@@ -66,7 +76,7 @@ def import_mdb():
     mdb_jsons = glob.glob(util.MDB_FOLDER + "\\**\\*.json")
 
     with util.MDBConnection() as (conn, cursor):
-        for mdb_json in mdb_jsons:
+        for mdb_json in util.tqdm(mdb_jsons, desc="Importing MDB"):
             path_segments = os.path.normpath(mdb_json).rsplit(".", 1)[0].split(os.sep)
             category = path_segments[-1]
             table = path_segments[-2]
@@ -74,7 +84,7 @@ def import_mdb():
             # Backup the table
             cursor.execute(f"CREATE TABLE IF NOT EXISTS {util.TABLE_BACKUP_PREFIX}{table} AS SELECT * FROM {table};")
 
-            print(f"Importing {table} {category}")
+            # print(f"Importing {table} {category}")
             data = util.load_json(mdb_json)
 
             for index, entry in data.items():
@@ -182,7 +192,7 @@ def import_textures(texture_asset_metadatas):
     print(f"Replacing {len(texture_asset_metadatas)} textures.")
 
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(_import_texture, texture_asset_metadatas, chunksize=16), total=len(texture_asset_metadatas), desc="Importing textures"))
+        _ = list(util.tqdm(pool.imap_unordered(_import_texture, texture_asset_metadatas, chunksize=16), total=len(texture_asset_metadatas), desc="Importing textures"))
 
 
 def _import_story(story_data):
@@ -206,7 +216,7 @@ def _import_story(story_data):
         block_object = root.assets_file.files[new_block['path_id']]
         block_data = block_object.read_typetree()
 
-        block_data['Text'] = new_block['text']
+        block_data['Text'] = '<story>' + new_block['text']
         block_data['Name'] = new_block['name']
 
         if new_block.get('clip_length'):
@@ -243,7 +253,7 @@ def _import_story(story_data):
 def import_stories(story_datas):
     #TODO: Increase chunk size (maybe 16?) when more stories are added.
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=2), total=len(story_datas), desc="Importing stories"))
+        _ = list(util.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=2), total=len(story_datas), desc="Importing stories"))
 
     # print(f"Replacing {len(story_datas)} stories.")
     # for story_data in story_datas:
@@ -255,7 +265,7 @@ def import_assets():
     jsons = glob.glob(util.ASSETS_FOLDER + "\\**\\*.json", recursive=True)
 
     with Pool() as pool:
-        results = list(tqdm.tqdm(pool.imap_unordered(util.get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for textures"))
+        results = list(util.tqdm(pool.imap_unordered(util.get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for textures"))
 
     # asset_dict = {result[0]: result[1] for result in results if result[0]}
     asset_dict = {}
@@ -312,16 +322,16 @@ def _import_hashed():
     return lines
 
 
-def import_assembly():
+def import_assembly(dl_latest=False):
     print("Importing assembly text...")
 
-    game_folder = util.config.get("game_folder")
+    game_folder = util.get_game_folder()
 
     if not game_folder:
-        raise ValueError("game_folder not set in config.json")
+        raise ValueError("Game folder could not be determined.")
     
     if not os.path.exists(game_folder):
-        raise FileNotFoundError(f"Game folder does not exist: {game_folder}")
+        raise FileNotFoundError(f"Game folder does not exist: {game_folder}.")
 
     lines = []
     lines += _import_jpdict()
@@ -338,22 +348,54 @@ def import_assembly():
     
     print(f"Imported {len(lines)} lines.")
 
+    if dl_latest:
+        print("Looking for latest mod version")
+        latest_data = util.fetch_latest_github_release("KevinVG207", "Uma-Carotenify")
+        print("Downloading patcher mod.")
 
-def main():
+        dll_url = None
+        for asset in latest_data['assets']:
+            if asset['name'] == 'version.dll':
+                dll_url = asset['browser_download_url']
+                break
+        
+        if not dll_url:
+            raise Exception("version.dll not found in release assets.")
+        
+        dll_path = os.path.join(game_folder, "version.dll")
+
+        util.download_file(dll_url, dll_path)
+    else:
+        print("Not downloading latest dll.")
+
+    print("Done.")
+
+
+def main(dl_latest=False):
+    print("=== Patching ===")
+
     if not os.path.exists(util.MDB_PATH):
         raise FileNotFoundError(f"MDB not found: {util.MDB_PATH}")
+
+    if dl_latest:
+        util.download_latest()
 
     mark_mdb_translated()
 
     import_mdb()
 
+    import_assembly(dl_latest)
+
     import_assets()
 
-    import_assembly()
+    if dl_latest:
+        util.clean_download()
+    
+    print("=== Patching complete! ===\n")
 
 def test():
     # import_assembly()
     import_assets()
 
 if __name__ == "__main__":
-    main()
+    main(dl_latest=False)

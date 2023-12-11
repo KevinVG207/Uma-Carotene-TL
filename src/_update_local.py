@@ -1,8 +1,8 @@
 import index
-import _revert
+import _unpatch
 
 def main():
-    _revert.main()
+    _unpatch.main()
     index.index_mdb()
     index.index_assets()
     index.index_assembly()
