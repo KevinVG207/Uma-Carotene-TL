@@ -18,10 +18,10 @@ class Ui_widget_main(QWidget):
         self.setFixedSize(self.size())
 
     def check_patched(self):
-        cur_ver = _patch.is_mdb_translated()
+        cur_ver = _patch.get_current_patch_ver()
         if cur_ver:
             self.lbl_patch_status_indicator.setStyleSheet(u"background-color: rgb(0, 170, 0);")
-            self.lbl_patch_status_2.setText(f"Patched with {version.version_to_string(cur_ver)}")
+            self.lbl_patch_status_2.setText(f"Patched with {cur_ver}")
         else:
             self.lbl_patch_status_indicator.setStyleSheet(u"background-color: rgb(255, 0, 0);")
             self.lbl_patch_status_2.setText(u"Unpatched")
@@ -75,10 +75,10 @@ class Ui_widget_main(QWidget):
         self.lbl_contribute.setText(u"Contribute")
         self.lbl_contribute.setAlignment(Qt.AlignCenter)
         self.btn_revert = QPushButton(widget_main)
-        self.btn_unpatch.setObjectName(u"btn_revert")
-        self.btn_unpatch.setGeometry(QRect(210, 150, 83, 31))
-        self.btn_unpatch.setText(u"Revert")
-        self.btn_unpatch.clicked.connect(self.revert_clicked)
+        self.btn_revert.setObjectName(u"btn_revert")
+        self.btn_revert.setGeometry(QRect(210, 150, 83, 31))
+        self.btn_revert.setText(u"Revert")
+        self.btn_revert.clicked.connect(self.revert_clicked)
 
         self.btn_patch = QPushButton(widget_main)
         self.btn_patch.setObjectName(u"btn_patch")

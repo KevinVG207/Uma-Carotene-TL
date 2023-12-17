@@ -73,13 +73,17 @@ def get_current_patch_ver():
 
 
 def import_mdb():
-    mdb_jsons = glob.glob(util.MDB_FOLDER + "\\**\\*.json")
+    mdb_jsons = glob.glob(util.MDB_FOLDER + "*.json")
+    mdb_jsons += glob.glob(util.MDB_FOLDER + "**\\*.json")
 
     with util.MDBConnection() as (conn, cursor):
         for mdb_json in util.tqdm(mdb_jsons, desc="Importing MDB"):
-            path_segments = os.path.normpath(mdb_json).rsplit(".", 1)[0].split(os.sep)
-            category = path_segments[-1]
-            table = path_segments[-2]
+            path_segments = os.path.normpath(mdb_json).rsplit(".", 1)[0].split(os.sep)[2:]
+            table = path_segments[0]
+            category = None
+
+            if len(path_segments) == 2:
+                category = path_segments[1]
 
             # Backup the table
             cursor.execute(f"CREATE TABLE IF NOT EXISTS {util.TABLE_BACKUP_PREFIX}{table} AS SELECT * FROM {table};")
@@ -88,18 +92,23 @@ def import_mdb():
             data = util.load_json(mdb_json)
 
             for index, entry in data.items():
-                if table != "text_data":
+                match table:
                     # TODO: Implement other tables
-                    continue
+                    case "text_data":
+                        # Fix for newlines of slogans.
+                        if (table, category) == ("text_data", "144"):
+                            entry["text"] = "<slogan>" + entry["text"] 
 
-                # Fix for newlines of slogans.
-                if (table, category) == ("text_data", "144"):
-                    entry["text"] = "<slogan>" + entry["text"] 
+                        cursor.execute(
+                            f"""UPDATE {table} SET text = ? WHERE category = ? and `index` = ?;""",
+                            (entry['text'], category, index)
+                        )
+                    case "race_jikkyo_message":
+                        cursor.execute(
+                            f"""UPDATE {table} SET message = ? WHERE id = ?;""",
+                            (entry['text'], index)
+                        )
 
-                cursor.execute(
-                    f"""UPDATE {table} SET text = ? WHERE category = ? and `index` = ?;""",
-                    (entry['text'], category, index)
-                )
 
         conn.commit()
         cursor.execute("VACUUM;")
