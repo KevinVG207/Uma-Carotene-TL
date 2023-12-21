@@ -640,6 +640,11 @@ def index_textures():
         cursor.execute(
             """SELECT n, h FROM a WHERE n like 'chara/chr____/petit/%007_' ORDER BY n ASC;"""
         )
+
+        # Comics
+        cursor.execute(
+            """SELECT n, h FROM a WHERE n like 'outgame/comic/tex_%' ORDER BY n ASC;"""
+        )
         rows = cursor.fetchall()
         all_textures += rows
 

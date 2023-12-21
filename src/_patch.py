@@ -8,6 +8,7 @@ import io
 import version
 import unity
 from PIL import Image, ImageFile
+from settings import settings
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
@@ -16,17 +17,22 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 #     shutil.copy(util.MDB_PATH, util.MDB_PATH + f".{round(time.time())}")
 
 
-def mark_mdb_translated():
+def mark_mdb_translated(ver=None):
     mark_mdb_untranslated()
+
+    if not ver:
+        ver = version.version_to_string(version.VERSION)
+
+    settings['installed_version'] = ver
+
     print("Creating table")
     with util.MDBConnection() as (conn, cursor):
         cursor.execute("CREATE TABLE carotene (version TEXT);")
 
-        cur_version = version.version_to_string(version.VERSION)
         # Mark as translated
         cursor.execute(
             "INSERT INTO carotene (version) VALUES (?);",
-            (cur_version,)
+            (ver,)
         )
         conn.commit()
 
@@ -34,56 +40,73 @@ def mark_mdb_translated():
 
 
 def mark_mdb_untranslated():
+    settings['installed_version'] = None
+
     print("Dropping table")
     with util.MDBConnection() as (conn, cursor):
         # Remove carotene table if it exists
         cursor.execute("DROP TABLE IF EXISTS carotene;")
         conn.commit()
 
-
-def _get_version_from_table():
-    cur_ver = None
+def _get_value_from_table(key):
+    value = None
     with util.MDBConnection() as (conn, cursor):
         # Determine if carotene table exists
         cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='carotene';")
         if not cursor.fetchone():
-            return cur_ver
+            return value
 
         # Get version
-        cursor.execute("SELECT version FROM carotene;")
+        cursor.execute(f"SELECT {key} FROM carotene;")
         row = cursor.fetchone()
         if not row:
-            return cur_ver
+            return value
         
-        cur_ver = row[0]
+        value = row[0]
     
-    return cur_ver
+    return value
 
+def _set_value_in_table(key, value):
+    with util.MDBConnection() as (conn, cursor):
+        # Determine if carotene table exists
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='carotene';")
+        if not cursor.fetchone():
+            return
+
+        # Get version
+        cursor.execute(f"UPDATE carotene SET {key} = ?;", (value,))
+        conn.commit()
+
+def _get_version_from_table():
+    return _get_value_from_table("version")
 
 def get_current_patch_ver():
     cur_ver = _get_version_from_table()
 
-    if not cur_ver:
-        # Check for any remaining backup files.
-        asset_backups = glob.glob(util.DATA_PATH + "\\**\\*.bak", recursive=True)
-        if asset_backups:
-            cur_ver = 'partial'
+    if cur_ver:
+        return cur_ver
+    
+    # Check for settings file.
+    cur_ver = settings['installed_version']
+    if cur_ver:
+        return 'partial'
+
+    # Check for any remaining backup files.
+    asset_backups = glob.glob(util.DATA_PATH + "\\**\\*.bak", recursive=True)
+    if asset_backups:
+        cur_ver = 'partial'
 
     return cur_ver
 
 
 def import_mdb():
-    mdb_jsons = glob.glob(util.MDB_FOLDER + "*.json")
-    mdb_jsons += glob.glob(util.MDB_FOLDER + "**\\*.json")
+    mdb_jsons = glob.glob(util.MDB_FOLDER + "\\**\\*.json")
 
     with util.MDBConnection() as (conn, cursor):
         for mdb_json in util.tqdm(mdb_jsons, desc="Importing MDB"):
-            path_segments = os.path.normpath(mdb_json).rsplit(".", 1)[0].split(os.sep)[2:]
-            table = path_segments[0]
-            category = None
-
-            if len(path_segments) == 2:
-                category = path_segments[1]
+            path_segments = os.path.normpath(mdb_json).rsplit(".", 1)[0].split(os.sep)
+            category = path_segments[-1]
+            table = path_segments[-2]
 
             # Backup the table
             cursor.execute(f"CREATE TABLE IF NOT EXISTS {util.TABLE_BACKUP_PREFIX}{table} AS SELECT * FROM {table};")
@@ -92,23 +115,18 @@ def import_mdb():
             data = util.load_json(mdb_json)
 
             for index, entry in data.items():
-                match table:
+                if table != "text_data":
                     # TODO: Implement other tables
-                    case "text_data":
-                        # Fix for newlines of slogans.
-                        if (table, category) == ("text_data", "144"):
-                            entry["text"] = "<slogan>" + entry["text"] 
+                    continue
 
-                        cursor.execute(
-                            f"""UPDATE {table} SET text = ? WHERE category = ? and `index` = ?;""",
-                            (entry['text'], category, index)
-                        )
-                    case "race_jikkyo_message":
-                        cursor.execute(
-                            f"""UPDATE {table} SET message = ? WHERE id = ?;""",
-                            (entry['text'], index)
-                        )
+                # Fix for newlines of slogans.
+                if (table, category) == ("text_data", "144"):
+                    entry["text"] = "<slogan>" + entry["text"] 
 
+                cursor.execute(
+                    f"""UPDATE {table} SET text = ? WHERE category = ? and `index` = ?;""",
+                    (entry['text'], category, index)
+                )
 
         conn.commit()
         cursor.execute("VACUUM;")
@@ -331,7 +349,7 @@ def _import_hashed():
     return lines
 
 
-def import_assembly(dl_latest=False):
+def import_assembly(dl_latest=False, dll_name='version.dll'):
     print("Importing assembly text...")
 
     game_folder = util.get_game_folder()
@@ -371,8 +389,30 @@ def import_assembly(dl_latest=False):
         if not dll_url:
             raise Exception("version.dll not found in release assets.")
         
-        dll_path = os.path.join(game_folder, "version.dll")
+        prev_name = settings['dll_name']
+        if prev_name:
+            prev_bak = prev_name + util.DLL_BACKUP_SUFFIX
 
+            prev_path = os.path.join(game_folder, prev_name)
+            prev_bak_path = os.path.join(game_folder, prev_bak)
+
+            if os.path.exists(prev_path):
+                print(f"Deleting {prev_name}")
+                os.remove(prev_path)
+            
+            if os.path.exists(prev_bak_path):
+                print(f"Reverting existing {prev_bak}")
+                shutil.move(prev_bak_path, prev_path)
+        
+
+        dll_path = os.path.join(game_folder, dll_name)
+        bak_path = dll_path + util.DLL_BACKUP_SUFFIX
+
+        if os.path.exists(dll_path) and not os.path.exists(bak_path):
+            print(f"Backing up existing {dll_name}")
+            shutil.move(dll_path, bak_path)
+        
+        settings['dll_name'] = dll_name
         util.download_file(dll_url, dll_path)
     else:
         print("Not downloading latest dll.")
@@ -380,20 +420,21 @@ def import_assembly(dl_latest=False):
     print("Done.")
 
 
-def main(dl_latest=False):
+def main(dl_latest=False, dll_name='version.dll'):
     print("=== Patching ===")
 
     if not os.path.exists(util.MDB_PATH):
         raise FileNotFoundError(f"MDB not found: {util.MDB_PATH}")
 
+    ver = None
     if dl_latest:
-        util.download_latest()
+        ver = util.download_latest()
 
-    mark_mdb_translated()
+    mark_mdb_translated(ver)
 
     import_mdb()
 
-    import_assembly(dl_latest)
+    import_assembly(dl_latest, dll_name)
 
     import_assets()
 

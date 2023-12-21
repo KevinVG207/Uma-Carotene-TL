@@ -8,8 +8,12 @@ import zipfile
 from PIL import Image, ImageFilter
 import tqdm as _tqdm
 import sys
-from PyQt5.QtWidgets import QApplication
+from PyQt5.QtWidgets import QApplication, QMessageBox
 from PyQt5.QtGui import QIcon
+import win32gui
+import win32process
+import win32api
+import win32con
 
 relative_dir = os.path.abspath(os.getcwd())
 unpack_dir = relative_dir
@@ -32,6 +36,12 @@ def get_asset(asset_path):
     return os.path.join(unpack_dir, asset_path)
 
 
+APP_DIR = os.path.expandvars("%AppData%\\Uma-Carotene\\")
+os.makedirs(APP_DIR, exist_ok=True)
+
+SETTINGS_PATH = APP_DIR + "patcher_settings.json"
+
+
 TQDM_FORMAT = "{desc}: {percentage:3.0f}% |{bar}|"
 TQDM_NCOLS = 65
 
@@ -40,8 +50,10 @@ META_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamu
 
 DATA_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\dat")
 
-TL_PREFIX = "translations\\"
-INTERMEDIATE_PREFIX = "editing\\"
+TMP_FOLDER = get_asset("tmp\\")
+
+TL_PREFIX = get_asset("translations\\")
+INTERMEDIATE_PREFIX = get_asset("editing\\")
 
 MDB_FOLDER = TL_PREFIX + "mdb\\"
 MDB_FOLDER_EDITING = INTERMEDIATE_PREFIX + "mdb\\"
@@ -53,6 +65,8 @@ ASSEMBLY_FOLDER = TL_PREFIX + "assembly\\"
 ASSEMBLY_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assembly\\"
 
 TABLE_BACKUP_PREFIX = "patch_backup_"
+
+DLL_BACKUP_SUFFIX = ".bak"
 
 class Connection():
     DB_PATH = None
@@ -103,6 +117,80 @@ def fix_transparency_pil(file_path, out_path):
         tmp.putalpha(image.split()[3])
         tmp = tmp.convert("RGBA")
         tmp.save(out_path if out_path else file_path)
+
+
+def get_process_path(hwnd: int) -> str:
+    # Get the process ID of the window
+    pid = win32process.GetWindowThreadProcessId(hwnd)[1]
+    # Open the process, and get the executable path
+    proc_path = win32process.GetModuleFileNameEx(win32api.OpenProcess(win32con.PROCESS_QUERY_LIMITED_INFORMATION, False, pid), 0)
+    return os.path.abspath(proc_path)
+
+
+window_handle = None
+def _get_window_exact(hwnd: int, query: str):
+    global window_handle
+    if win32gui.IsWindowVisible(hwnd):
+        if win32gui.GetWindowText(hwnd) == query:
+            window_handle = hwnd
+
+
+def _get_window_lazy(hwnd: int, query: str):
+    global window_handle
+    if win32gui.IsWindowVisible(hwnd):
+        if query.lower() in win32gui.GetWindowText(hwnd).lower():
+            window_handle = hwnd
+
+
+def _get_window_startswith(hwnd: int, query: str):
+    global window_handle
+    if win32gui.IsWindowVisible(hwnd):
+        if win32gui.GetWindowText(hwnd).startswith(query):
+            window_handle = hwnd
+
+def _get_window_by_executable(hwnd: int, query: str):
+    global window_handle
+    if win32gui.IsWindowVisible(hwnd):
+        proc_path = get_process_path(hwnd)
+        executable = os.path.basename(proc_path)
+        if executable == query:
+            window_handle = hwnd
+
+
+LAZY = _get_window_lazy
+EXACT = _get_window_exact
+STARTSWITH = _get_window_startswith
+EXEC_MATCH = _get_window_by_executable
+
+def get_window_handle(query: str, type=LAZY) -> str:
+    global window_handle
+
+    window_handle = None
+    win32gui.EnumWindows(type, query)
+    return window_handle
+
+def check_umamusume():
+    return get_window_handle("umamusume.exe", EXEC_MATCH)
+
+def close_umamusume():
+    if check_umamusume():
+        # Messagebox telling the user to close the game, choose Cancel and Continue
+        qm = QMessageBox()
+        # qm.warning(qm, "Please close the game", "Please close the game before continuing.", QMessageBox.Cancel | QMessageBox.Ok, QMessageBox.Cancel)
+        qm.setText("Please close the game before continuing.")
+        qm.setWindowTitle("Please close the game")
+        qm.setIcon(QMessageBox.Warning)
+        qm.setStandardButtons(QMessageBox.Cancel | QMessageBox.Ok)
+        qm.setDefaultButton(QMessageBox.Cancel)
+        qm.setEscapeButton(QMessageBox.Cancel)
+        run_widget(qm)
+        if qm.clickedButton() == qm.Cancel:
+            return False
+        
+        if check_umamusume():
+            return False
+
+    return True
 
 
 def test_for_type(args):
@@ -180,12 +268,12 @@ def download_latest():
     
     print(f"Downloading {ver}")
 
-    os.makedirs('tmp', exist_ok=True)
-    dl_path = get_asset(os.path.join('tmp', dl_asset['name']))
+    os.makedirs(TMP_FOLDER, exist_ok=True)
+    dl_path = os.path.join(TMP_FOLDER, dl_asset['name'])
 
     download_file(dl_asset['browser_download_url'], dl_path)
 
-    final_path = get_relative(TL_PREFIX)
+    final_path = TL_PREFIX
     if os.path.exists(final_path):
         print("Deleting old files")
         shutil.rmtree(final_path)
@@ -196,14 +284,15 @@ def download_latest():
     with zipfile.ZipFile(dl_path, 'r') as zip_ref:
         zip_ref.extractall(final_path)
     
-    shutil.rmtree('tmp')
+    shutil.rmtree(TMP_FOLDER)
 
     print("Done")
+    return ver
 
 def clean_download():
     print("Removing temporary files")
-    if os.path.exists(get_relative(TL_PREFIX)):
-        shutil.rmtree(get_relative(TL_PREFIX))
+    if os.path.exists(TL_PREFIX):
+        shutil.rmtree(TL_PREFIX)
     print("Done")
 
 def tqdm(*args, **kwargs):
@@ -236,6 +325,9 @@ def run_widget(widget, *args, **kwargs):
         APPLICATION = QApplication([])
         APPLICATION.setWindowIcon(QIcon(get_asset('assets/icon.ico')))
     
+    if hasattr(widget, 'exec_'):
+        widget.exec_(*args, **kwargs)
+        return
     widget = widget(*args, **kwargs)
     widget.show()
     APPLICATION.exec_()

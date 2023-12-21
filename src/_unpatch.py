@@ -3,6 +3,7 @@ import glob
 import shutil
 import os
 import _patch
+from settings import settings
 
 def revert_mdb():
     print("Reverting MDB")
@@ -47,7 +48,7 @@ def revert_assets():
             os.remove(asset_backup)
 
 
-def revert_assembly():
+def revert_assembly(dl_latest=False):
     print("Reverting translations.txt")
     game_folder = util.get_game_folder()
 
@@ -60,27 +61,40 @@ def revert_assembly():
         return
 
     translations_path = os.path.join(game_folder, "translations.txt")
-    dll_path = os.path.join(game_folder, "version.dll")
 
     if not os.path.exists(translations_path):
         print("translations.txt does not exist. Skipping.")
     else:
         os.remove(translations_path)
 
-    print("Deleting version.dll")
-    if not os.path.exists(dll_path):
-        print("version.dll does not exist. Skipping.")
+    if dl_latest:
+        dll_name = settings['dll_name']
+        if dll_name:
+            settings['dll_name'] = None
+            dll_path = os.path.join(game_folder, dll_name)
+
+            if os.path.exists(dll_path):
+                print(f"Deleting {dll_name}")
+                os.remove(dll_path)
+
+            bak_path = os.path.join(game_folder, dll_path + util.DLL_BACKUP_SUFFIX)
+            
+            if os.path.exists(bak_path):
+                print(f"Restoring previous {dll_name}")
+                shutil.move(bak_path, dll_path)
+
     else:
-        os.remove(dll_path)
+        print(f"Keeping dll")
 
 
-def main():
+def main(dl_latest=False):
     print("=== Unpatching ===")
+
     revert_mdb()
     revert_assets()
-    revert_assembly()
+    revert_assembly(dl_latest)
     _patch.mark_mdb_untranslated()
     print("=== Unpatch complete! ===\n")
 
 if __name__ == "__main__":
-    main()
+    main(dl_latest=False)
