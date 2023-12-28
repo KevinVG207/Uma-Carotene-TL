@@ -448,6 +448,8 @@ def index_textures_from_assetbundle(metadata):
     
     meta_file_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, os.path.basename(file_name) + ".json")
 
+    existing_meta = None
+
     if os.path.exists(meta_file_path):
         existing_meta = util.load_json(meta_file_path)
 
@@ -509,7 +511,7 @@ def index_textures_from_assetbundle(metadata):
             if not os.path.exists(dest + ".png"):
                 shutil.copy(dest + ".org.png", dest + ".png")
 
-    if textures_list:
+    if textures_list or existing_meta:
         with open(meta_file_path, "w", encoding='utf-8') as f:
             f.write(json.dumps(
                 {
@@ -650,12 +652,13 @@ def index_textures():
 
     if not all_textures:
         raise ValueError("No textures found in meta DB.")
-    
-    # for metadata in rows:
-    #     index_textures_from_assetbundle(metadata)
+
     
     with Pool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(index_textures_from_assetbundle, all_textures, chunksize=6), total=len(all_textures), desc="Extracting textures"))
+
+    # for metadata in all_textures:
+    #     index_textures_from_assetbundle(metadata)
 
 
 def index_assets():
@@ -800,9 +803,9 @@ def index_assembly():
 
 
 def main():
-    index_assembly()
-
+    index_textures()
     pass
+
 if __name__ == "__main__":
     main()
 
