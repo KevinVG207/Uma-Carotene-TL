@@ -2691,6 +2691,10 @@
         "text": "Legend Race",
         "hash": "75e82fc0ed14e393b6460460eafbcc562c24cd496992889f29ba07b8303f1af9"
     },
+    "12013": {
+        "text": "Legend Race",
+        "hash": "75e82fc0ed14e393b6460460eafbcc562c24cd496992889f29ba07b8303f1af9"
+    },
     "15001": {
         "text": "Scout Race",
         "hash": "2901fbc1c31da733307b95899372cbb17c39224e423a7506da14c77a85e96756"
@@ -2874,5 +2878,17 @@
     "15048": {
         "text": "Special Race",
         "hash": "e6d64d67efa7b76400860d29980ae45163eca0637bfeb031c23988b9f730970d"
+    },
+    "18001": {
+        "text": "Arima Kinen",
+        "hash": "cfef9aa14734781aff7c6f447e93a2aea1cbf6932c51a53bc916b86a1f2b4f5b"
+    },
+    "18002": {
+        "text": "Tenno Sho (Spring)",
+        "hash": "6ebf8b8a67bbf46dc9af9bee2c218cd1aedda70132fd79ebc251a5961d15cad0"
+    },
+    "18003": {
+        "text": "Satsuki Sho",
+        "hash": "1171830be2173499b2f86c6b386c0a51f0eea270c3a0e8afdc38d6215c0a66e4"
     }
 }

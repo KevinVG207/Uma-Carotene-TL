@@ -91,6 +91,37 @@ def autofill_outfit_combos():
     
     util.save_json(json_path, json_data)
 
+def autofill_support_combos():
+    print("Autofilling support combos (text_data/75.json)")
+
+    # Index supports and characters
+    support_index = index_category(76)
+    chara_name_index = index_category(77)
+
+    json_path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "75.json")
+    if not os.path.exists(json_path):
+        raise FileNotFoundError(f"File {json_path} does not exist.")
+    
+    json_data = util.load_json(json_path)
+
+    for entry in json_data:
+        key = str(json.loads(entry["keys"])[0][-1])
+        
+        support_name = support_index.get(int(key))
+        if not support_name:
+            print(f"Support {key} not found in support index 76. Skipping.")
+            continue
+
+        chara_name = chara_name_index.get(int(key))
+        if not chara_name:
+            print(f"Character {key} not found in character index 77. Skipping.")
+            continue
+        
+        entry["text"] = f"{support_name} {chara_name}"
+
+    util.save_json(json_path, json_data)
+
+
 
 def autofill_pieces():
     print("Autofilling pieces (text_data/113.json)")
@@ -119,6 +150,7 @@ def autofill_pieces():
 def main():
     # autofill_birthdays()
     autofill_outfit_combos()
+    autofill_support_combos()
     autofill_pieces()
     pass
 
