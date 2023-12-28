@@ -226,9 +226,6 @@ def mdb_from_intermediate():
             if not item_data['text']:
                 continue
 
-            if item_data['text'] == item_data['source']:
-                continue
-
             if table_name not in transformed_data:
                 transformed_data[table_name] = {}
 
