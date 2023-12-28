@@ -414,7 +414,8 @@ def _convert_texture(metadata):
         
         max_len = max(len(edited_bytes), len(source_bytes))
 
-        edited_bytes += np.random.bytes(max_len - len(edited_bytes))
+        gen = np.random.default_rng(seed=int(edited_hash.hex(), 16))
+        edited_bytes += gen.bytes(max_len - len(edited_bytes))
         source_bytes = source_bytes.ljust(max_len, b'\x00')
 
         diff = util.xor_bytes(edited_bytes, source_bytes)
