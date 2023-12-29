@@ -2536,19 +2536,19 @@
         "hash": "9d74e39d4b8ad0afc45fef283ce52f77fe99c90c1ccbd722c566ce9e0464ff8a"
     },
     "Circle0141": {
-        "text": "<sy>{0}<ey> ago",
+        "text": "<force><sy>{0}<ey> ago",
         "hash": "7b40ea13ef8c75f660dd070b68dc0c095ee2f4ed1c96c99c20415b33d96664fe"
     },
     "Circle0142": {
-        "text": "<sd>{0}<ed> ago",
+        "text": "<force><sd>{0}<ed> ago",
         "hash": "44af3e0e2e7d57f953d58176d5d8cd7d6171129b1e5fbfbb3591c1200c293d5e"
     },
     "Circle0143": {
-        "text": "<sh>{0}<eh> ago",
+        "text": "<force><sh>{0}<eh> ago",
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Circle0144": {
-        "text": "<sm>{0}<em> ago",
+        "text": "<force><sm>{0}<em> ago",
         "hash": "e738489e75091f0a145fe498e1b7833db59ab1562c25b5a4b57eea3289fa2bca"
     },
     "Circle0145": {
@@ -4556,7 +4556,7 @@
         "hash": "a8d79a099242cdc7b8a1106473beb32ee490eaeb2d3fe5efefce3fc5b61b3b54"
     },
     "CustomRace0078": {
-        "text": "",
+        "text": "ID",
         "hash": "05d3230de1a59bab0c85f018d7ff6748fe5a2557a91aa95c92e4e9ffd236c363"
     },
     "CustomRace0100": {
@@ -5084,7 +5084,7 @@
         "hash": "3481a937cede8b72cecfa6baf36f26d1997364a71c1b2c89a632760cdd2ca8b8"
     },
     "Friend0005": {
-        "text": "",
+        "text": "<nb>Suggested",
         "hash": "b3cd0ed8a60255de0361085a930cd5a0695ac3336ceeb5db2407eaf2ab1a5c2d"
     },
     "Friend0006": {
@@ -5100,7 +5100,7 @@
         "hash": "177b092cda953fa630cd858e36ac6c895bae556b2899b235bc92695ff2a1c5cc"
     },
     "Friend0011": {
-        "text": "Followers",
+        "text": "<nb>Followers",
         "hash": "ec0dce2faa498b2b910c590ca3dd991da36ff0a9fc411d02e429ae452bbba900"
     },
     "Friend0012": {
@@ -5136,11 +5136,11 @@
         "hash": "4b2b661ffd6b881e0c333b570c2a634c60f518229828e17ab106a0bfb6db07c0"
     },
     "Friend0025": {
-        "text": "<sh>{0}<eh> ago",
+        "text": "<force><sh>{0}<eh> ago",
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Friend0026": {
-        "text": "<sd>{0}<ed> ago",
+        "text": "<force><sd>{0}<ed> ago",
         "hash": "44af3e0e2e7d57f953d58176d5d8cd7d6171129b1e5fbfbb3591c1200c293d5e"
     },
     "Friend0031": {
@@ -5152,7 +5152,7 @@
         "hash": "09af1c113fe2d67c5304dd148355f697199c4bd216790ca3075fa87cb72bcec1"
     },
     "Friend0039": {
-        "text": "",
+        "text": "ID",
         "hash": "b5e7efb90a18fa9a9be117c79236f0f8e10cdb91b66882ea49f4deb959426f2b"
     },
     "Friend0043": {
@@ -5216,7 +5216,7 @@
         "hash": "908754ca48593de38bd28a2001dbc2e617752b5c3359c7a675953e69678d80f9"
     },
     "Friend0064": {
-        "text": "",
+        "text": "<force><1 min ago",
         "hash": "a738851350b935b9f95192e0bc805ce8e529de6b7419914263cb710bbb9a24af"
     },
     "Gacha0001": {
