@@ -2,6 +2,7 @@ import intermediate
 # import _fill_duplicates
 import autofill_mdb
 import _unpatch
+import postprocess
 
 def main():
     _unpatch.main()
@@ -10,6 +11,7 @@ def main():
     intermediate.mdb_from_intermediate()
     intermediate.assets_from_intermediate()
     intermediate.assembly_from_intermediate()
+    postprocess.do_postprocess()
 
 if __name__ == "__main__":
     main()
