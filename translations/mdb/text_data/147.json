@@ -179,6 +179,1530 @@
         "text": "Long",
         "hash": "d2245e5707a3e6f92a2de93fba026adf33441d584d2b46d2c176e3d95e686145"
     },
+    "2000101": {
+        "text": "Right Turns ○",
+        "hash": "beaf4d661a2de8030a202b0338836022ff101ff6f88944722b2634e4b6b325fe"
+    },
+    "2000102": {
+        "text": "Right Turns ○",
+        "hash": "beaf4d661a2de8030a202b0338836022ff101ff6f88944722b2634e4b6b325fe"
+    },
+    "2000103": {
+        "text": "Right Turns ○",
+        "hash": "beaf4d661a2de8030a202b0338836022ff101ff6f88944722b2634e4b6b325fe"
+    },
+    "2000201": {
+        "text": "Left Turns ○",
+        "hash": "f76b2e49f93e47e68e7aac56c6798e09fe145f29a5236a22bcb6a6f10702da16"
+    },
+    "2000202": {
+        "text": "Left Turns ○",
+        "hash": "f76b2e49f93e47e68e7aac56c6798e09fe145f29a5236a22bcb6a6f10702da16"
+    },
+    "2000203": {
+        "text": "Left Turns ○",
+        "hash": "f76b2e49f93e47e68e7aac56c6798e09fe145f29a5236a22bcb6a6f10702da16"
+    },
+    "2000301": {
+        "text": "Tokyo Racetrack ○",
+        "hash": "a7811ca948e2acea0c792731107da8d61e3a1bbc7ebf3c353d6cf7d4d9b80c6f"
+    },
+    "2000302": {
+        "text": "Tokyo Racetrack ○",
+        "hash": "a7811ca948e2acea0c792731107da8d61e3a1bbc7ebf3c353d6cf7d4d9b80c6f"
+    },
+    "2000303": {
+        "text": "Tokyo Racetrack ○",
+        "hash": "a7811ca948e2acea0c792731107da8d61e3a1bbc7ebf3c353d6cf7d4d9b80c6f"
+    },
+    "2000401": {
+        "text": "Nakayama Racetrack ○",
+        "hash": "7d701bd49b55596a2c66555b379ab177bacd0ba96b7ce77bf6b3bf1d8e1ea099"
+    },
+    "2000402": {
+        "text": "Nakayama Racetrack ○",
+        "hash": "7d701bd49b55596a2c66555b379ab177bacd0ba96b7ce77bf6b3bf1d8e1ea099"
+    },
+    "2000403": {
+        "text": "Nakayama Racetrack ○",
+        "hash": "7d701bd49b55596a2c66555b379ab177bacd0ba96b7ce77bf6b3bf1d8e1ea099"
+    },
+    "2000501": {
+        "text": "Hanshin Racetrack ○",
+        "hash": "48ffbf417fa76099f411cc63e00a77b1d4917f58b6e708372f22039e9189c536"
+    },
+    "2000502": {
+        "text": "Hanshin Racetrack ○",
+        "hash": "48ffbf417fa76099f411cc63e00a77b1d4917f58b6e708372f22039e9189c536"
+    },
+    "2000503": {
+        "text": "Hanshin Racetrack ○",
+        "hash": "48ffbf417fa76099f411cc63e00a77b1d4917f58b6e708372f22039e9189c536"
+    },
+    "2000601": {
+        "text": "Kyoto Racetrack ○",
+        "hash": "d5403a6e7fc8a4640dbced6c070a4ec48a6b5303c3df1166d078d0cab374a92b"
+    },
+    "2000602": {
+        "text": "Kyoto Racetrack ○",
+        "hash": "d5403a6e7fc8a4640dbced6c070a4ec48a6b5303c3df1166d078d0cab374a92b"
+    },
+    "2000603": {
+        "text": "Kyoto Racetrack ○",
+        "hash": "d5403a6e7fc8a4640dbced6c070a4ec48a6b5303c3df1166d078d0cab374a92b"
+    },
+    "2000701": {
+        "text": "Chukyo Racetrack ○",
+        "hash": "5a326c71a009dcbbb1de78027d0a3d9824e0cee66cf3eb5636cdf13e96b273e5"
+    },
+    "2000702": {
+        "text": "Chukyo Racetrack ○",
+        "hash": "5a326c71a009dcbbb1de78027d0a3d9824e0cee66cf3eb5636cdf13e96b273e5"
+    },
+    "2000703": {
+        "text": "Chukyo Racetrack ○",
+        "hash": "5a326c71a009dcbbb1de78027d0a3d9824e0cee66cf3eb5636cdf13e96b273e5"
+    },
+    "2000801": {
+        "text": "Sapporo Racetrack ○",
+        "hash": "780fbcba290736886eef7f75845f723fb2a7c4f661d1796c49c9c1a34815e4af"
+    },
+    "2000802": {
+        "text": "Sapporo Racetrack ○",
+        "hash": "780fbcba290736886eef7f75845f723fb2a7c4f661d1796c49c9c1a34815e4af"
+    },
+    "2000803": {
+        "text": "Sapporo Racetrack ○",
+        "hash": "780fbcba290736886eef7f75845f723fb2a7c4f661d1796c49c9c1a34815e4af"
+    },
+    "2000901": {
+        "text": "Hakodate Racetrack ○",
+        "hash": "4e507ae9798344afe0b773ce8baa884ddb6017f9886d2e7cd6f2a9594e119f75"
+    },
+    "2000902": {
+        "text": "Hakodate Racetrack ○",
+        "hash": "4e507ae9798344afe0b773ce8baa884ddb6017f9886d2e7cd6f2a9594e119f75"
+    },
+    "2000903": {
+        "text": "Hakodate Racetrack ○",
+        "hash": "4e507ae9798344afe0b773ce8baa884ddb6017f9886d2e7cd6f2a9594e119f75"
+    },
+    "2001001": {
+        "text": "Fukushima Racetrack ○",
+        "hash": "dc50a15d203e5568d8e397ff6a710ecb1415ed4d390ccd60ad54847c249eda8e"
+    },
+    "2001002": {
+        "text": "Fukushima Racetrack ○",
+        "hash": "dc50a15d203e5568d8e397ff6a710ecb1415ed4d390ccd60ad54847c249eda8e"
+    },
+    "2001003": {
+        "text": "Fukushima Racetrack ○",
+        "hash": "dc50a15d203e5568d8e397ff6a710ecb1415ed4d390ccd60ad54847c249eda8e"
+    },
+    "2001101": {
+        "text": "Niigata Racetrack ○",
+        "hash": "1ae52188c65c58a1eb6c5b6335d7b6b30240d2291eaa86e6cc8de57355be29e2"
+    },
+    "2001102": {
+        "text": "Niigata Racetrack ○",
+        "hash": "1ae52188c65c58a1eb6c5b6335d7b6b30240d2291eaa86e6cc8de57355be29e2"
+    },
+    "2001103": {
+        "text": "Niigata Racetrack ○",
+        "hash": "1ae52188c65c58a1eb6c5b6335d7b6b30240d2291eaa86e6cc8de57355be29e2"
+    },
+    "2001201": {
+        "text": "Kokura Racetrack ○",
+        "hash": "0760a895c945132b526447a78f964b17bf0ee19f0f2f84b8197ba048e553ef0a"
+    },
+    "2001202": {
+        "text": "Kokura Racetrack ○",
+        "hash": "0760a895c945132b526447a78f964b17bf0ee19f0f2f84b8197ba048e553ef0a"
+    },
+    "2001203": {
+        "text": "Kokura Racetrack ○",
+        "hash": "0760a895c945132b526447a78f964b17bf0ee19f0f2f84b8197ba048e553ef0a"
+    },
+    "2001301": {
+        "text": "Core Distances ○",
+        "hash": "9b6bd10b2c5404ca3f1154feca13aaaa46435c6149510ce4f242eba1b179eba9"
+    },
+    "2001302": {
+        "text": "Core Distances ○",
+        "hash": "9b6bd10b2c5404ca3f1154feca13aaaa46435c6149510ce4f242eba1b179eba9"
+    },
+    "2001303": {
+        "text": "Core Distances ○",
+        "hash": "9b6bd10b2c5404ca3f1154feca13aaaa46435c6149510ce4f242eba1b179eba9"
+    },
+    "2001401": {
+        "text": "Non-Core Distances ○",
+        "hash": "574559f882b246d54b402953ff9d23d635ac0f80b83b99ef5d27797d9f23b328"
+    },
+    "2001402": {
+        "text": "Non-Core Distances ○",
+        "hash": "574559f882b246d54b402953ff9d23d635ac0f80b83b99ef5d27797d9f23b328"
+    },
+    "2001403": {
+        "text": "Non-Core Distances ○",
+        "hash": "574559f882b246d54b402953ff9d23d635ac0f80b83b99ef5d27797d9f23b328"
+    },
+    "2001501": {
+        "text": "Good Track Condition ○",
+        "hash": "8b52fa0f36bd49f0a2422365f07482b0456901f4acd907c2733b1cea476193d9"
+    },
+    "2001502": {
+        "text": "Good Track Condition ○",
+        "hash": "8b52fa0f36bd49f0a2422365f07482b0456901f4acd907c2733b1cea476193d9"
+    },
+    "2001503": {
+        "text": "Good Track Condition ○",
+        "hash": "8b52fa0f36bd49f0a2422365f07482b0456901f4acd907c2733b1cea476193d9"
+    },
+    "2001601": {
+        "text": "Bad Track Condition ○",
+        "hash": "63d15d1ea819a3b346e7b85b25247c79549f1d2e67b2f30f9ed20c581784a252"
+    },
+    "2001602": {
+        "text": "Bad Track Condition ○",
+        "hash": "63d15d1ea819a3b346e7b85b25247c79549f1d2e67b2f30f9ed20c581784a252"
+    },
+    "2001603": {
+        "text": "Bad Track Condition ○",
+        "hash": "63d15d1ea819a3b346e7b85b25247c79549f1d2e67b2f30f9ed20c581784a252"
+    },
+    "2001701": {
+        "text": "Spring Girl ○",
+        "hash": "4c34ac862ddb3a10c6c7f4557ce465cdd992d1de0d91621cb213c02d75d1cc79"
+    },
+    "2001702": {
+        "text": "Spring Girl ○",
+        "hash": "4c34ac862ddb3a10c6c7f4557ce465cdd992d1de0d91621cb213c02d75d1cc79"
+    },
+    "2001703": {
+        "text": "Spring Girl ○",
+        "hash": "4c34ac862ddb3a10c6c7f4557ce465cdd992d1de0d91621cb213c02d75d1cc79"
+    },
+    "2001801": {
+        "text": "Summer Girl ○",
+        "hash": "410e0b5183c33b86847d1b95f8fc6d2be3dfd3d0d9603e6f0eba04e2b89c8e4a"
+    },
+    "2001802": {
+        "text": "Summer Girl ○",
+        "hash": "410e0b5183c33b86847d1b95f8fc6d2be3dfd3d0d9603e6f0eba04e2b89c8e4a"
+    },
+    "2001803": {
+        "text": "Summer Girl ○",
+        "hash": "410e0b5183c33b86847d1b95f8fc6d2be3dfd3d0d9603e6f0eba04e2b89c8e4a"
+    },
+    "2001901": {
+        "text": "Autumn Girl ○",
+        "hash": "177e7fd80804e49d5ed973c859f9d951d4fe020607698e2a3f6f525704f10994"
+    },
+    "2001902": {
+        "text": "Autumn Girl ○",
+        "hash": "177e7fd80804e49d5ed973c859f9d951d4fe020607698e2a3f6f525704f10994"
+    },
+    "2001903": {
+        "text": "Autumn Girl ○",
+        "hash": "177e7fd80804e49d5ed973c859f9d951d4fe020607698e2a3f6f525704f10994"
+    },
+    "2002001": {
+        "text": "Winter Girl ○",
+        "hash": "5050d62400b3d66499cfc2b894f487cd68863d89794c9839e00f2bc4b85ea1ab"
+    },
+    "2002002": {
+        "text": "Winter Girl ○",
+        "hash": "5050d62400b3d66499cfc2b894f487cd68863d89794c9839e00f2bc4b85ea1ab"
+    },
+    "2002003": {
+        "text": "Winter Girl ○",
+        "hash": "5050d62400b3d66499cfc2b894f487cd68863d89794c9839e00f2bc4b85ea1ab"
+    },
+    "2002101": {
+        "text": "Sunny Days ○",
+        "hash": "22f9f221b7dd694f600c0119ed654e0d7565c7c5b87f9c0f8987888f8b8e9e30"
+    },
+    "2002102": {
+        "text": "Sunny Days ○",
+        "hash": "22f9f221b7dd694f600c0119ed654e0d7565c7c5b87f9c0f8987888f8b8e9e30"
+    },
+    "2002103": {
+        "text": "Sunny Days ○",
+        "hash": "22f9f221b7dd694f600c0119ed654e0d7565c7c5b87f9c0f8987888f8b8e9e30"
+    },
+    "2002201": {
+        "text": "Cloudy Days ○",
+        "hash": "cbe7f38b38b980ac33deca8b24092dc12d5032e9a3aff745c00b50a8b2efa04e"
+    },
+    "2002202": {
+        "text": "Cloudy Days ○",
+        "hash": "cbe7f38b38b980ac33deca8b24092dc12d5032e9a3aff745c00b50a8b2efa04e"
+    },
+    "2002203": {
+        "text": "Cloudy Days ○",
+        "hash": "cbe7f38b38b980ac33deca8b24092dc12d5032e9a3aff745c00b50a8b2efa04e"
+    },
+    "2002301": {
+        "text": "Rainy Days ○",
+        "hash": "c13d1eb1088e3a5ad9253d2dde48537cea3e0b5f47366b2e0121bad905843813"
+    },
+    "2002302": {
+        "text": "Rainy Days ○",
+        "hash": "c13d1eb1088e3a5ad9253d2dde48537cea3e0b5f47366b2e0121bad905843813"
+    },
+    "2002303": {
+        "text": "Rainy Days ○",
+        "hash": "c13d1eb1088e3a5ad9253d2dde48537cea3e0b5f47366b2e0121bad905843813"
+    },
+    "2002401": {
+        "text": "Snowy Days ○",
+        "hash": "3ec5255c65286758395a7169d069584d6da5f621cbad4729555121a9f49ba728"
+    },
+    "2002402": {
+        "text": "Snowy Days ○",
+        "hash": "3ec5255c65286758395a7169d069584d6da5f621cbad4729555121a9f49ba728"
+    },
+    "2002403": {
+        "text": "Snowy Days ○",
+        "hash": "3ec5255c65286758395a7169d069584d6da5f621cbad4729555121a9f49ba728"
+    },
+    "2002501": {
+        "text": "Inner Gate Affinity ○",
+        "hash": "0ed9546d7f53a660e5c6c1591b3ff1755af59e5ad21ca1c390585e5d285b06fb"
+    },
+    "2002502": {
+        "text": "Inner Gate Affinity ○",
+        "hash": "0ed9546d7f53a660e5c6c1591b3ff1755af59e5ad21ca1c390585e5d285b06fb"
+    },
+    "2002503": {
+        "text": "Inner Gate Affinity ○",
+        "hash": "0ed9546d7f53a660e5c6c1591b3ff1755af59e5ad21ca1c390585e5d285b06fb"
+    },
+    "2002601": {
+        "text": "Outer Gate Affinity ○",
+        "hash": "79ef36d632f7be899b8b0cfb3be0592395e988337bba47a49aa93e1065ea8ca9"
+    },
+    "2002602": {
+        "text": "Outer Gate Affinity ○",
+        "hash": "79ef36d632f7be899b8b0cfb3be0592395e988337bba47a49aa93e1065ea8ca9"
+    },
+    "2002603": {
+        "text": "Outer Gate Affinity ○",
+        "hash": "79ef36d632f7be899b8b0cfb3be0592395e988337bba47a49aa93e1065ea8ca9"
+    },
+    "2002701": {
+        "text": "Loner ○",
+        "hash": "e27cd834fb7f767101277bdecd7e3c6b86811c2704df3c4bd8ce0f811797f431"
+    },
+    "2002702": {
+        "text": "Loner ○",
+        "hash": "e27cd834fb7f767101277bdecd7e3c6b86811c2704df3c4bd8ce0f811797f431"
+    },
+    "2002703": {
+        "text": "Loner ○",
+        "hash": "e27cd834fb7f767101277bdecd7e3c6b86811c2704df3c4bd8ce0f811797f431"
+    },
+    "2002801": {
+        "text": "Competitive Spirit ○",
+        "hash": "01d3565853259d20ada7006afa3a72533433e10d3283c2b6052a2ea7d67d504a"
+    },
+    "2002802": {
+        "text": "Competitive Spirit ○",
+        "hash": "01d3565853259d20ada7006afa3a72533433e10d3283c2b6052a2ea7d67d504a"
+    },
+    "2002803": {
+        "text": "Competitive Spirit ○",
+        "hash": "01d3565853259d20ada7006afa3a72533433e10d3283c2b6052a2ea7d67d504a"
+    },
+    "2002901": {
+        "text": "Eyes On You ○",
+        "hash": "499c2fcc15b5e71d7858e6db878e805f2d57a2ced12c12c78d5df2b339a7f007"
+    },
+    "2002902": {
+        "text": "Eyes On You ○",
+        "hash": "499c2fcc15b5e71d7858e6db878e805f2d57a2ced12c12c78d5df2b339a7f007"
+    },
+    "2002903": {
+        "text": "Eyes On You ○",
+        "hash": "499c2fcc15b5e71d7858e6db878e805f2d57a2ced12c12c78d5df2b339a7f007"
+    },
+    "2003001": {
+        "text": "Underdog ○",
+        "hash": "957fb960e69ea958ab107fd253d6b5e2a43f4dc87534e5de9365a01483966caa"
+    },
+    "2003002": {
+        "text": "Underdog ○",
+        "hash": "957fb960e69ea958ab107fd253d6b5e2a43f4dc87534e5de9365a01483966caa"
+    },
+    "2003003": {
+        "text": "Underdog ○",
+        "hash": "957fb960e69ea958ab107fd253d6b5e2a43f4dc87534e5de9365a01483966caa"
+    },
+    "2003301": {
+        "text": "Clever Cornerer ○",
+        "hash": "e669bb8e28057bf01d7d6cefe58121b90db82839805888eaf9907e4491222968"
+    },
+    "2003302": {
+        "text": "Clever Cornerer ○",
+        "hash": "e669bb8e28057bf01d7d6cefe58121b90db82839805888eaf9907e4491222968"
+    },
+    "2003303": {
+        "text": "Clever Cornerer ○",
+        "hash": "e669bb8e28057bf01d7d6cefe58121b90db82839805888eaf9907e4491222968"
+    },
+    "2003401": {
+        "text": "Corner Accel ○",
+        "hash": "eaa9cfcb1eaf68347137de8a457f9f413b9bb6b7a4ad8b0106248645ab6c46b9"
+    },
+    "2003402": {
+        "text": "Corner Accel ○",
+        "hash": "eaa9cfcb1eaf68347137de8a457f9f413b9bb6b7a4ad8b0106248645ab6c46b9"
+    },
+    "2003403": {
+        "text": "Corner Accel ○",
+        "hash": "eaa9cfcb1eaf68347137de8a457f9f413b9bb6b7a4ad8b0106248645ab6c46b9"
+    },
+    "2003501": {
+        "text": "Corner Recovery ○",
+        "hash": "b3dad3099d2d07a92b79db2b77cec1fcfa9923ef0c1742daa8b1fd8ffb2fecea"
+    },
+    "2003502": {
+        "text": "Corner Recovery ○",
+        "hash": "b3dad3099d2d07a92b79db2b77cec1fcfa9923ef0c1742daa8b1fd8ffb2fecea"
+    },
+    "2003503": {
+        "text": "Corner Recovery ○",
+        "hash": "b3dad3099d2d07a92b79db2b77cec1fcfa9923ef0c1742daa8b1fd8ffb2fecea"
+    },
+    "2003601": {
+        "text": "Straight Skill",
+        "hash": "d957ddf0805cbfcf5ed48b1760dfd48de186c5c251f7e311d04daaa2a3847c8d"
+    },
+    "2003602": {
+        "text": "Straight Skill",
+        "hash": "d957ddf0805cbfcf5ed48b1760dfd48de186c5c251f7e311d04daaa2a3847c8d"
+    },
+    "2003603": {
+        "text": "Straight Skill",
+        "hash": "d957ddf0805cbfcf5ed48b1760dfd48de186c5c251f7e311d04daaa2a3847c8d"
+    },
+    "2003701": {
+        "text": "Straight Accel",
+        "hash": "8160218054d8705259bd954f18fc6f4f976f28c3578f6e639c588cef434c47f0"
+    },
+    "2003702": {
+        "text": "Straight Accel",
+        "hash": "8160218054d8705259bd954f18fc6f4f976f28c3578f6e639c588cef434c47f0"
+    },
+    "2003703": {
+        "text": "Straight Accel",
+        "hash": "8160218054d8705259bd954f18fc6f4f976f28c3578f6e639c588cef434c47f0"
+    },
+    "2003801": {
+        "text": "Straight Recovery",
+        "hash": "a9c37cfbe7539238725916be847ba0a6a0654751fb05ae6d34004e95fae1eb04"
+    },
+    "2003802": {
+        "text": "Straight Recovery",
+        "hash": "a9c37cfbe7539238725916be847ba0a6a0654751fb05ae6d34004e95fae1eb04"
+    },
+    "2003803": {
+        "text": "Straight Recovery",
+        "hash": "a9c37cfbe7539238725916be847ba0a6a0654751fb05ae6d34004e95fae1eb04"
+    },
+    "2004301": {
+        "text": "Focus",
+        "hash": "b9bf1948f838302d96532da8815d4a2c7750d5b966a7fd6a76671d6e8ae9a792"
+    },
+    "2004302": {
+        "text": "Focus",
+        "hash": "b9bf1948f838302d96532da8815d4a2c7750d5b966a7fd6a76671d6e8ae9a792"
+    },
+    "2004303": {
+        "text": "Focus",
+        "hash": "b9bf1948f838302d96532da8815d4a2c7750d5b966a7fd6a76671d6e8ae9a792"
+    },
+    "2004401": {
+        "text": "Undercover",
+        "hash": "ee3df87a65ae0ad9ea146615fbd587f13ef3957491ae72459a1135a07421f30d"
+    },
+    "2004402": {
+        "text": "Undercover",
+        "hash": "ee3df87a65ae0ad9ea146615fbd587f13ef3957491ae72459a1135a07421f30d"
+    },
+    "2004403": {
+        "text": "Undercover",
+        "hash": "ee3df87a65ae0ad9ea146615fbd587f13ef3957491ae72459a1135a07421f30d"
+    },
+    "2004501": {
+        "text": "Position Sense",
+        "hash": "bc82b6c9e8ba1bae62cdc3f83bccacf3995937d0f27d05d1283f4f33e496e85e"
+    },
+    "2004502": {
+        "text": "Position Sense",
+        "hash": "bc82b6c9e8ba1bae62cdc3f83bccacf3995937d0f27d05d1283f4f33e496e85e"
+    },
+    "2004503": {
+        "text": "Position Sense",
+        "hash": "bc82b6c9e8ba1bae62cdc3f83bccacf3995937d0f27d05d1283f4f33e496e85e"
+    },
+    "2004601": {
+        "text": "Up The Pace",
+        "hash": "7dec3efc3d7c5a73d265eb6540fcf76cc350c6454eef06b0bf67057f676fdc77"
+    },
+    "2004602": {
+        "text": "Up The Pace",
+        "hash": "7dec3efc3d7c5a73d265eb6540fcf76cc350c6454eef06b0bf67057f676fdc77"
+    },
+    "2004603": {
+        "text": "Up The Pace",
+        "hash": "7dec3efc3d7c5a73d265eb6540fcf76cc350c6454eef06b0bf67057f676fdc77"
+    },
+    "2004701": {
+        "text": "Keep the Pace",
+        "hash": "426ec45f3e808a888c7962748b85fee375c7b6ae0459a1139f010ba4b1874494"
+    },
+    "2004702": {
+        "text": "Keep the Pace",
+        "hash": "426ec45f3e808a888c7962748b85fee375c7b6ae0459a1139f010ba4b1874494"
+    },
+    "2004703": {
+        "text": "Keep the Pace",
+        "hash": "426ec45f3e808a888c7962748b85fee375c7b6ae0459a1139f010ba4b1874494"
+    },
+    "2004801": {
+        "text": "Crowded Calm",
+        "hash": "0d195bd07efdec8d39ef66880b96b01b327225e4be67450ca08b86bb44ed80d3"
+    },
+    "2004802": {
+        "text": "Crowded Calm",
+        "hash": "0d195bd07efdec8d39ef66880b96b01b327225e4be67450ca08b86bb44ed80d3"
+    },
+    "2004803": {
+        "text": "Crowded Calm",
+        "hash": "0d195bd07efdec8d39ef66880b96b01b327225e4be67450ca08b86bb44ed80d3"
+    },
+    "2004901": {
+        "text": "Slight Detour",
+        "hash": "695aa6aafc50961ea84efbce93aac56540b9d1dca4cb8c6399ac2aa779bb377b"
+    },
+    "2004902": {
+        "text": "Slight Detour",
+        "hash": "695aa6aafc50961ea84efbce93aac56540b9d1dca4cb8c6399ac2aa779bb377b"
+    },
+    "2004903": {
+        "text": "Slight Detour",
+        "hash": "695aa6aafc50961ea84efbce93aac56540b9d1dca4cb8c6399ac2aa779bb377b"
+    },
+    "2005001": {
+        "text": "Improvise",
+        "hash": "727398a7c72d1df39b1ea4294bb95f95818ec9d481047b14c2c8da80591f2628"
+    },
+    "2005002": {
+        "text": "Improvise",
+        "hash": "727398a7c72d1df39b1ea4294bb95f95818ec9d481047b14c2c8da80591f2628"
+    },
+    "2005003": {
+        "text": "Improvise",
+        "hash": "727398a7c72d1df39b1ea4294bb95f95818ec9d481047b14c2c8da80591f2628"
+    },
+    "2005101": {
+        "text": "Last Leg",
+        "hash": "fcd93cf4bfd077098cffe867af6774e519354d7b29fdbf245056d7086b71db89"
+    },
+    "2005102": {
+        "text": "Last Leg",
+        "hash": "fcd93cf4bfd077098cffe867af6774e519354d7b29fdbf245056d7086b71db89"
+    },
+    "2005103": {
+        "text": "Last Leg",
+        "hash": "fcd93cf4bfd077098cffe867af6774e519354d7b29fdbf245056d7086b71db89"
+    },
+    "2005301": {
+        "text": "Frontrunner",
+        "hash": "2c81285aee59bbcd1ef62d0c0f687d315481c44e9a0164938ec18c41759ed8b1"
+    },
+    "2005302": {
+        "text": "Frontrunner",
+        "hash": "2c81285aee59bbcd1ef62d0c0f687d315481c44e9a0164938ec18c41759ed8b1"
+    },
+    "2005303": {
+        "text": "Frontrunner",
+        "hash": "2c81285aee59bbcd1ef62d0c0f687d315481c44e9a0164938ec18c41759ed8b1"
+    },
+    "2005401": {
+        "text": "Fast Paced",
+        "hash": "25cb6b75e7f0af18e838db62bb74e4f135044411cd760d47b9c729048d156f2a"
+    },
+    "2005402": {
+        "text": "Fast Paced",
+        "hash": "25cb6b75e7f0af18e838db62bb74e4f135044411cd760d47b9c729048d156f2a"
+    },
+    "2005403": {
+        "text": "Fast Paced",
+        "hash": "25cb6b75e7f0af18e838db62bb74e4f135044411cd760d47b9c729048d156f2a"
+    },
+    "2005501": {
+        "text": "Press Forward, Ready!",
+        "hash": "9d6c27e81423c0a1f84f1fd34ae14e66ff4958523c2b44e5c669f838e637c62f"
+    },
+    "2005502": {
+        "text": "Press Forward, Ready!",
+        "hash": "9d6c27e81423c0a1f84f1fd34ae14e66ff4958523c2b44e5c669f838e637c62f"
+    },
+    "2005503": {
+        "text": "Press Forward, Ready!",
+        "hash": "9d6c27e81423c0a1f84f1fd34ae14e66ff4958523c2b44e5c669f838e637c62f"
+    },
+    "2005601": {
+        "text": "Stamina Keep",
+        "hash": "a9156f9ca7297e0957cc269aff5a20cca0faa9a582c2b945f98d8a8547cb7f7b"
+    },
+    "2005602": {
+        "text": "Stamina Keep",
+        "hash": "a9156f9ca7297e0957cc269aff5a20cca0faa9a582c2b945f98d8a8547cb7f7b"
+    },
+    "2005603": {
+        "text": "Stamina Keep",
+        "hash": "a9156f9ca7297e0957cc269aff5a20cca0faa9a582c2b945f98d8a8547cb7f7b"
+    },
+    "2005701": {
+        "text": "Favorite Place",
+        "hash": "3f9e5c44fa496beda5ace910974a6d82fa5648a4ac8f8ea19edd9b5e153616b1"
+    },
+    "2005702": {
+        "text": "Favorite Place",
+        "hash": "3f9e5c44fa496beda5ace910974a6d82fa5648a4ac8f8ea19edd9b5e153616b1"
+    },
+    "2005703": {
+        "text": "Favorite Place",
+        "hash": "3f9e5c44fa496beda5ace910974a6d82fa5648a4ac8f8ea19edd9b5e153616b1"
+    },
+    "2005801": {
+        "text": "Passing Preparations",
+        "hash": "11a600a4ecddcdea2d316f24e009167a4d164b0df020e0a53e4394c5eca970ea"
+    },
+    "2005802": {
+        "text": "Passing Preparations",
+        "hash": "11a600a4ecddcdea2d316f24e009167a4d164b0df020e0a53e4394c5eca970ea"
+    },
+    "2005803": {
+        "text": "Passing Preparations",
+        "hash": "11a600a4ecddcdea2d316f24e009167a4d164b0df020e0a53e4394c5eca970ea"
+    },
+    "2005901": {
+        "text": "Position Swiper",
+        "hash": "b5f3304bc56f033f663fc14b907ea3624f1c3cbe5857531ed4a562d51ea4fc59"
+    },
+    "2005902": {
+        "text": "Position Swiper",
+        "hash": "b5f3304bc56f033f663fc14b907ea3624f1c3cbe5857531ed4a562d51ea4fc59"
+    },
+    "2005903": {
+        "text": "Position Swiper",
+        "hash": "b5f3304bc56f033f663fc14b907ea3624f1c3cbe5857531ed4a562d51ea4fc59"
+    },
+    "2006001": {
+        "text": "Between the Lines",
+        "hash": "3c09b5744f556c70479689388297dcd08ef31ebd9e55fe610179efb535966dfe"
+    },
+    "2006002": {
+        "text": "Between the Lines",
+        "hash": "3c09b5744f556c70479689388297dcd08ef31ebd9e55fe610179efb535966dfe"
+    },
+    "2006003": {
+        "text": "Between the Lines",
+        "hash": "3c09b5744f556c70479689388297dcd08ef31ebd9e55fe610179efb535966dfe"
+    },
+    "2006101": {
+        "text": "Outside Pass, Ready!",
+        "hash": "d235f36e8c8e75f15fa01556d1d3b5c7270f86c3bfecd68f997df0417537b5d7"
+    },
+    "2006102": {
+        "text": "Outside Pass, Ready!",
+        "hash": "d235f36e8c8e75f15fa01556d1d3b5c7270f86c3bfecd68f997df0417537b5d7"
+    },
+    "2006103": {
+        "text": "Outside Pass, Ready!",
+        "hash": "d235f36e8c8e75f15fa01556d1d3b5c7270f86c3bfecd68f997df0417537b5d7"
+    },
+    "2006201": {
+        "text": "On Standby",
+        "hash": "4f56133e5a3e236db324c9fbf6c3603cae043ed227e0d986d23260d88549bada"
+    },
+    "2006202": {
+        "text": "On Standby",
+        "hash": "4f56133e5a3e236db324c9fbf6c3603cae043ed227e0d986d23260d88549bada"
+    },
+    "2006203": {
+        "text": "On Standby",
+        "hash": "4f56133e5a3e236db324c9fbf6c3603cae043ed227e0d986d23260d88549bada"
+    },
+    "2006301": {
+        "text": "Outstanding Stratagem",
+        "hash": "49f3421f443314238b4aebaa9c0506c14f1466abc2a48ad153f09f6e89f42a3f"
+    },
+    "2006302": {
+        "text": "Outstanding Stratagem",
+        "hash": "49f3421f443314238b4aebaa9c0506c14f1466abc2a48ad153f09f6e89f42a3f"
+    },
+    "2006303": {
+        "text": "Outstanding Stratagem",
+        "hash": "49f3421f443314238b4aebaa9c0506c14f1466abc2a48ad153f09f6e89f42a3f"
+    },
+    "2006401": {
+        "text": "Straight Shot",
+        "hash": "650c6015f3e3ea1d6c2f92dbba9558c17a08cbbe758d7a1cf520bf9ef6abfa1d"
+    },
+    "2006402": {
+        "text": "Straight Shot",
+        "hash": "650c6015f3e3ea1d6c2f92dbba9558c17a08cbbe758d7a1cf520bf9ef6abfa1d"
+    },
+    "2006403": {
+        "text": "Straight Shot",
+        "hash": "650c6015f3e3ea1d6c2f92dbba9558c17a08cbbe758d7a1cf520bf9ef6abfa1d"
+    },
+    "2006501": {
+        "text": "Sprinting Gear",
+        "hash": "c9ec913a3fa4e4f563b18382dd1e5c32867008c41ef5e11ed90033e8affd5b5a"
+    },
+    "2006502": {
+        "text": "Sprinting Gear",
+        "hash": "c9ec913a3fa4e4f563b18382dd1e5c32867008c41ef5e11ed90033e8affd5b5a"
+    },
+    "2006503": {
+        "text": "Sprinting Gear",
+        "hash": "c9ec913a3fa4e4f563b18382dd1e5c32867008c41ef5e11ed90033e8affd5b5a"
+    },
+    "2006601": {
+        "text": "Wait and See",
+        "hash": "305d821be65d7db16979d904eb7a1539d210533a2d954407f7ed350fdf5bdf7f"
+    },
+    "2006602": {
+        "text": "Wait and See",
+        "hash": "305d821be65d7db16979d904eb7a1539d210533a2d954407f7ed350fdf5bdf7f"
+    },
+    "2006603": {
+        "text": "Wait and See",
+        "hash": "305d821be65d7db16979d904eb7a1539d210533a2d954407f7ed350fdf5bdf7f"
+    },
+    "2006701": {
+        "text": "Draw Forward",
+        "hash": "0771b6a07a9078b5cb375ee4dc8b2167e8fc2b9a3bb0d733e41fa172f2fa24ae"
+    },
+    "2006702": {
+        "text": "Draw Forward",
+        "hash": "0771b6a07a9078b5cb375ee4dc8b2167e8fc2b9a3bb0d733e41fa172f2fa24ae"
+    },
+    "2006703": {
+        "text": "Draw Forward",
+        "hash": "0771b6a07a9078b5cb375ee4dc8b2167e8fc2b9a3bb0d733e41fa172f2fa24ae"
+    },
+    "2006801": {
+        "text": "Positive Planning",
+        "hash": "e84bd08ebdea544a3b846d1ef2dbd69b494120573619cd3516871d02134c2bb2"
+    },
+    "2006802": {
+        "text": "Positive Planning",
+        "hash": "e84bd08ebdea544a3b846d1ef2dbd69b494120573619cd3516871d02134c2bb2"
+    },
+    "2006803": {
+        "text": "Positive Planning",
+        "hash": "e84bd08ebdea544a3b846d1ef2dbd69b494120573619cd3516871d02134c2bb2"
+    },
+    "2006901": {
+        "text": "Progress Peek",
+        "hash": "19d81e5be4fa5bbdc34cdcbb5424bac8bf6bd20b98e0dae4e7ff02df3117dab0"
+    },
+    "2006902": {
+        "text": "Progress Peek",
+        "hash": "19d81e5be4fa5bbdc34cdcbb5424bac8bf6bd20b98e0dae4e7ff02df3117dab0"
+    },
+    "2006903": {
+        "text": "Progress Peek",
+        "hash": "19d81e5be4fa5bbdc34cdcbb5424bac8bf6bd20b98e0dae4e7ff02df3117dab0"
+    },
+    "2007001": {
+        "text": "Updraft",
+        "hash": "f1103ac34a17dfbf3dabfccc711e87a313eb84044721368c1ccab2e07fb1f0e4"
+    },
+    "2007002": {
+        "text": "Updraft",
+        "hash": "f1103ac34a17dfbf3dabfccc711e87a313eb84044721368c1ccab2e07fb1f0e4"
+    },
+    "2007003": {
+        "text": "Updraft",
+        "hash": "f1103ac34a17dfbf3dabfccc711e87a313eb84044721368c1ccab2e07fb1f0e4"
+    },
+    "2007101": {
+        "text": "Bright Future",
+        "hash": "18cce009b313886d75686975988134c100f7ef86560aa1975708dc55cfa7df4d"
+    },
+    "2007102": {
+        "text": "Bright Future",
+        "hash": "18cce009b313886d75686975988134c100f7ef86560aa1975708dc55cfa7df4d"
+    },
+    "2007103": {
+        "text": "Bright Future",
+        "hash": "18cce009b313886d75686975988134c100f7ef86560aa1975708dc55cfa7df4d"
+    },
+    "2007201": {
+        "text": "Uptempo",
+        "hash": "01c18f30c35505daaf01be5300c0db41c32e2c72b7f59d2585e7d0568943a694"
+    },
+    "2007202": {
+        "text": "Uptempo",
+        "hash": "01c18f30c35505daaf01be5300c0db41c32e2c72b7f59d2585e7d0568943a694"
+    },
+    "2007203": {
+        "text": "Uptempo",
+        "hash": "01c18f30c35505daaf01be5300c0db41c32e2c72b7f59d2585e7d0568943a694"
+    },
+    "2007301": {
+        "text": "Stand Your Ground",
+        "hash": "dd49fff3e694232f329daaa734a612ee14a1e35f5b48c4354c33ec088266f0db"
+    },
+    "2007302": {
+        "text": "Stand Your Ground",
+        "hash": "dd49fff3e694232f329daaa734a612ee14a1e35f5b48c4354c33ec088266f0db"
+    },
+    "2007303": {
+        "text": "Stand Your Ground",
+        "hash": "dd49fff3e694232f329daaa734a612ee14a1e35f5b48c4354c33ec088266f0db"
+    },
+    "2007401": {
+        "text": "Deep Breaths",
+        "hash": "893ace576988a184e1789e4a33cf4a607c74f2f63b84bf430ccb20431f21eb9b"
+    },
+    "2007402": {
+        "text": "Deep Breaths",
+        "hash": "893ace576988a184e1789e4a33cf4a607c74f2f63b84bf430ccb20431f21eb9b"
+    },
+    "2007403": {
+        "text": "Deep Breaths",
+        "hash": "893ace576988a184e1789e4a33cf4a607c74f2f63b84bf430ccb20431f21eb9b"
+    },
+    "2007501": {
+        "text": "King of the Castle",
+        "hash": "f9ea01439e26cecc378b1682242019a8e9530205c78961a0722e8a97c7fc5729"
+    },
+    "2007502": {
+        "text": "King of the Castle",
+        "hash": "f9ea01439e26cecc378b1682242019a8e9530205c78961a0722e8a97c7fc5729"
+    },
+    "2007503": {
+        "text": "King of the Castle",
+        "hash": "f9ea01439e26cecc378b1682242019a8e9530205c78961a0722e8a97c7fc5729"
+    },
+    "2007601": {
+        "text": "Backup Belly",
+        "hash": "8c75fd7eb4804e4b723f22f7a00d268933e26b9a1c0efe740b761573870ce012"
+    },
+    "2007602": {
+        "text": "Backup Belly",
+        "hash": "8c75fd7eb4804e4b723f22f7a00d268933e26b9a1c0efe740b761573870ce012"
+    },
+    "2007603": {
+        "text": "Backup Belly",
+        "hash": "8c75fd7eb4804e4b723f22f7a00d268933e26b9a1c0efe740b761573870ce012"
+    },
+    "2007701": {
+        "text": "Trick (Front)",
+        "hash": "df96c9f22adfc536436a268e0a9aa48a76d6c5cbc5979c573783c876b50f783b"
+    },
+    "2007702": {
+        "text": "Trick (Front)",
+        "hash": "df96c9f22adfc536436a268e0a9aa48a76d6c5cbc5979c573783c876b50f783b"
+    },
+    "2007703": {
+        "text": "Trick (Front)",
+        "hash": "df96c9f22adfc536436a268e0a9aa48a76d6c5cbc5979c573783c876b50f783b"
+    },
+    "2007801": {
+        "text": "Trick (Back)",
+        "hash": "2c1a9aa6f9e988c5ea78b971b4a35bfa40d636b93e171d86522be3dfc68ee06e"
+    },
+    "2007802": {
+        "text": "Trick (Back)",
+        "hash": "2c1a9aa6f9e988c5ea78b971b4a35bfa40d636b93e171d86522be3dfc68ee06e"
+    },
+    "2007803": {
+        "text": "Trick (Back)",
+        "hash": "2c1a9aa6f9e988c5ea78b971b4a35bfa40d636b93e171d86522be3dfc68ee06e"
+    },
+    "2007901": {
+        "text": "Frantic Runners",
+        "hash": "744054e8b5badd8a85f62316873da8ae54d54faf453e8fbaf9fe0308664c0429"
+    },
+    "2007902": {
+        "text": "Frantic Runners",
+        "hash": "744054e8b5badd8a85f62316873da8ae54d54faf453e8fbaf9fe0308664c0429"
+    },
+    "2007903": {
+        "text": "Frantic Runners",
+        "hash": "744054e8b5badd8a85f62316873da8ae54d54faf453e8fbaf9fe0308664c0429"
+    },
+    "2008001": {
+        "text": "Frantic Leaders",
+        "hash": "4da032f18bb3313851e2539117fecd00705ead5cb9a115924db3561e3fac0fca"
+    },
+    "2008002": {
+        "text": "Frantic Leaders",
+        "hash": "4da032f18bb3313851e2539117fecd00705ead5cb9a115924db3561e3fac0fca"
+    },
+    "2008003": {
+        "text": "Frantic Leaders",
+        "hash": "4da032f18bb3313851e2539117fecd00705ead5cb9a115924db3561e3fac0fca"
+    },
+    "2008101": {
+        "text": "Frantic Betweeners",
+        "hash": "e06c6fca399712fa95bde78b01a77129bb77cf1da1152a0ff284564101c65330"
+    },
+    "2008102": {
+        "text": "Frantic Betweeners",
+        "hash": "e06c6fca399712fa95bde78b01a77129bb77cf1da1152a0ff284564101c65330"
+    },
+    "2008103": {
+        "text": "Frantic Betweeners",
+        "hash": "e06c6fca399712fa95bde78b01a77129bb77cf1da1152a0ff284564101c65330"
+    },
+    "2008201": {
+        "text": "Frantic Chasers",
+        "hash": "1a2c0b0c59d9fba0370b146121b3ef1dede5ca03f4c3de5fc9713b18f9864415"
+    },
+    "2008202": {
+        "text": "Frantic Chasers",
+        "hash": "1a2c0b0c59d9fba0370b146121b3ef1dede5ca03f4c3de5fc9713b18f9864415"
+    },
+    "2008203": {
+        "text": "Frantic Chasers",
+        "hash": "1a2c0b0c59d9fba0370b146121b3ef1dede5ca03f4c3de5fc9713b18f9864415"
+    },
+    "2008301": {
+        "text": "Restrained Runners",
+        "hash": "d55fd8bba38ef7fad49ea92e6ec3dc853557c1f235989fc0237d26088d107282"
+    },
+    "2008302": {
+        "text": "Restrained Runners",
+        "hash": "d55fd8bba38ef7fad49ea92e6ec3dc853557c1f235989fc0237d26088d107282"
+    },
+    "2008303": {
+        "text": "Restrained Runners",
+        "hash": "d55fd8bba38ef7fad49ea92e6ec3dc853557c1f235989fc0237d26088d107282"
+    },
+    "2008401": {
+        "text": "Panicked Runners",
+        "hash": "bfbffd4ed4d4764f9ab2aab9626e4eff27be2712a74faad92200b1a2503a1f9f"
+    },
+    "2008402": {
+        "text": "Panicked Runners",
+        "hash": "bfbffd4ed4d4764f9ab2aab9626e4eff27be2712a74faad92200b1a2503a1f9f"
+    },
+    "2008403": {
+        "text": "Panicked Runners",
+        "hash": "bfbffd4ed4d4764f9ab2aab9626e4eff27be2712a74faad92200b1a2503a1f9f"
+    },
+    "2008501": {
+        "text": "Faltering Runners",
+        "hash": "1d6040b06f2f528a35fbce4967cf3138c2514da4cfd1e0ab6b2e3ff692c22fea"
+    },
+    "2008502": {
+        "text": "Faltering Runners",
+        "hash": "1d6040b06f2f528a35fbce4967cf3138c2514da4cfd1e0ab6b2e3ff692c22fea"
+    },
+    "2008503": {
+        "text": "Faltering Runners",
+        "hash": "1d6040b06f2f528a35fbce4967cf3138c2514da4cfd1e0ab6b2e3ff692c22fea"
+    },
+    "2008601": {
+        "text": "Restrained Leaders",
+        "hash": "bcbfe8dc0953411f5798025dce2a6a946f76e22fe2ecbefee5a1469a44293e3c"
+    },
+    "2008602": {
+        "text": "Restrained Leaders",
+        "hash": "bcbfe8dc0953411f5798025dce2a6a946f76e22fe2ecbefee5a1469a44293e3c"
+    },
+    "2008603": {
+        "text": "Restrained Leaders",
+        "hash": "bcbfe8dc0953411f5798025dce2a6a946f76e22fe2ecbefee5a1469a44293e3c"
+    },
+    "2008701": {
+        "text": "Panicked Leaders",
+        "hash": "419a00cdef1649dc50472987ef0c66931b2368ad589ec3f680e4354c9b2218fd"
+    },
+    "2008702": {
+        "text": "Panicked Leaders",
+        "hash": "419a00cdef1649dc50472987ef0c66931b2368ad589ec3f680e4354c9b2218fd"
+    },
+    "2008703": {
+        "text": "Panicked Leaders",
+        "hash": "419a00cdef1649dc50472987ef0c66931b2368ad589ec3f680e4354c9b2218fd"
+    },
+    "2008801": {
+        "text": "Faltering Leaders",
+        "hash": "5b661f568b66f3d2fed381e602a8e154af1f2e0ad6151b71b56accd6489739dc"
+    },
+    "2008802": {
+        "text": "Faltering Leaders",
+        "hash": "5b661f568b66f3d2fed381e602a8e154af1f2e0ad6151b71b56accd6489739dc"
+    },
+    "2008803": {
+        "text": "Faltering Leaders",
+        "hash": "5b661f568b66f3d2fed381e602a8e154af1f2e0ad6151b71b56accd6489739dc"
+    },
+    "2008901": {
+        "text": "Restrained Betweeners",
+        "hash": "69a306a772dc4d3496bc166be32fcef26f364b5da599f4a925bfddd5e7f9269a"
+    },
+    "2008902": {
+        "text": "Restrained Betweeners",
+        "hash": "69a306a772dc4d3496bc166be32fcef26f364b5da599f4a925bfddd5e7f9269a"
+    },
+    "2008903": {
+        "text": "Restrained Betweeners",
+        "hash": "69a306a772dc4d3496bc166be32fcef26f364b5da599f4a925bfddd5e7f9269a"
+    },
+    "2009001": {
+        "text": "Panicked Betweeners",
+        "hash": "d6d8119eefdb5cefdd9e9442af096f3d97ed543d585a368a622983986aad991d"
+    },
+    "2009002": {
+        "text": "Panicked Betweeners",
+        "hash": "d6d8119eefdb5cefdd9e9442af096f3d97ed543d585a368a622983986aad991d"
+    },
+    "2009003": {
+        "text": "Panicked Betweeners",
+        "hash": "d6d8119eefdb5cefdd9e9442af096f3d97ed543d585a368a622983986aad991d"
+    },
+    "2009101": {
+        "text": "Faltering Betweeners",
+        "hash": "6f119470c63b98206581b908bdd0beff2ed9c798c0f113c30ba8b3ed5ef8e980"
+    },
+    "2009102": {
+        "text": "Faltering Betweeners",
+        "hash": "6f119470c63b98206581b908bdd0beff2ed9c798c0f113c30ba8b3ed5ef8e980"
+    },
+    "2009103": {
+        "text": "Faltering Betweeners",
+        "hash": "6f119470c63b98206581b908bdd0beff2ed9c798c0f113c30ba8b3ed5ef8e980"
+    },
+    "2009201": {
+        "text": "Restrained Chasers",
+        "hash": "dea255c08a287cffce2ab7fe8be0736638014fff31af7d35cde2a0463c85d09d"
+    },
+    "2009202": {
+        "text": "Restrained Chasers",
+        "hash": "dea255c08a287cffce2ab7fe8be0736638014fff31af7d35cde2a0463c85d09d"
+    },
+    "2009203": {
+        "text": "Restrained Chasers",
+        "hash": "dea255c08a287cffce2ab7fe8be0736638014fff31af7d35cde2a0463c85d09d"
+    },
+    "2009301": {
+        "text": "Panicked Chasers",
+        "hash": "9f4204e557b75edf2c364b7b335adfd851054648b22dbcb0a9aff319f5c77963"
+    },
+    "2009302": {
+        "text": "Panicked Chasers",
+        "hash": "9f4204e557b75edf2c364b7b335adfd851054648b22dbcb0a9aff319f5c77963"
+    },
+    "2009303": {
+        "text": "Panicked Chasers",
+        "hash": "9f4204e557b75edf2c364b7b335adfd851054648b22dbcb0a9aff319f5c77963"
+    },
+    "2009401": {
+        "text": "Faltering Chasers",
+        "hash": "1c9984ed1f1b43695a34653fe42cd6dc36c9df9dbffd767e01ed5b1679e7dbf1"
+    },
+    "2009402": {
+        "text": "Faltering Chasers",
+        "hash": "1c9984ed1f1b43695a34653fe42cd6dc36c9df9dbffd767e01ed5b1679e7dbf1"
+    },
+    "2009403": {
+        "text": "Faltering Chasers",
+        "hash": "1c9984ed1f1b43695a34653fe42cd6dc36c9df9dbffd767e01ed5b1679e7dbf1"
+    },
+    "2009501": {
+        "text": "Ooi Racetrack ○",
+        "hash": "ba182d2ef43b57fcc07cbe7e3cda293c9daccd09600b5d2da91322ebd4d13eeb"
+    },
+    "2009502": {
+        "text": "Ooi Racetrack ○",
+        "hash": "ba182d2ef43b57fcc07cbe7e3cda293c9daccd09600b5d2da91322ebd4d13eeb"
+    },
+    "2009503": {
+        "text": "Ooi Racetrack ○",
+        "hash": "ba182d2ef43b57fcc07cbe7e3cda293c9daccd09600b5d2da91322ebd4d13eeb"
+    },
+    "2009601": {
+        "text": "Short Distance Straights ○",
+        "hash": "542ef30f729206fed9e1b564b3b4234a244164662c5eb6db282c48024f94e28a"
+    },
+    "2009602": {
+        "text": "Short Distance Straights ○",
+        "hash": "542ef30f729206fed9e1b564b3b4234a244164662c5eb6db282c48024f94e28a"
+    },
+    "2009603": {
+        "text": "Short Distance Straights ○",
+        "hash": "542ef30f729206fed9e1b564b3b4234a244164662c5eb6db282c48024f94e28a"
+    },
+    "2009701": {
+        "text": "Short Distance Corners ○",
+        "hash": "599a18ed1dbc05259216852225d9e21f105a181b71f097b7dbddc545f21e751b"
+    },
+    "2009702": {
+        "text": "Short Distance Corners ○",
+        "hash": "599a18ed1dbc05259216852225d9e21f105a181b71f097b7dbddc545f21e751b"
+    },
+    "2009703": {
+        "text": "Short Distance Corners ○",
+        "hash": "599a18ed1dbc05259216852225d9e21f105a181b71f097b7dbddc545f21e751b"
+    },
+    "2009801": {
+        "text": "Big Lead",
+        "hash": "1675849c5e8f588543b6cfe59b4c43f7a3a8a26c8d3d5962597c0ab863173a23"
+    },
+    "2009802": {
+        "text": "Big Lead",
+        "hash": "1675849c5e8f588543b6cfe59b4c43f7a3a8a26c8d3d5962597c0ab863173a23"
+    },
+    "2009803": {
+        "text": "Big Lead",
+        "hash": "1675849c5e8f588543b6cfe59b4c43f7a3a8a26c8d3d5962597c0ab863173a23"
+    },
+    "2009901": {
+        "text": "Countermeasures",
+        "hash": "d7f5475adcdeb9535eabe3a106187d84b8de8c399dfd17b3b83b6ba5db69a1d8"
+    },
+    "2009902": {
+        "text": "Countermeasures",
+        "hash": "d7f5475adcdeb9535eabe3a106187d84b8de8c399dfd17b3b83b6ba5db69a1d8"
+    },
+    "2009903": {
+        "text": "Countermeasures",
+        "hash": "d7f5475adcdeb9535eabe3a106187d84b8de8c399dfd17b3b83b6ba5db69a1d8"
+    },
+    "2010001": {
+        "text": "Calculated Preparations",
+        "hash": "fc6a52dcf9643cceb405bc93a259a6028367a573861024d5ed05d50ffe6ea64f"
+    },
+    "2010002": {
+        "text": "Calculated Preparations",
+        "hash": "fc6a52dcf9643cceb405bc93a259a6028367a573861024d5ed05d50ffe6ea64f"
+    },
+    "2010003": {
+        "text": "Calculated Preparations",
+        "hash": "fc6a52dcf9643cceb405bc93a259a6028367a573861024d5ed05d50ffe6ea64f"
+    },
+    "2010101": {
+        "text": "Final Nail",
+        "hash": "274a05f7e92217074449d46bfbd3e31f4c9bd324b0cc4d19a1440b78cd0c679a"
+    },
+    "2010102": {
+        "text": "Final Nail",
+        "hash": "274a05f7e92217074449d46bfbd3e31f4c9bd324b0cc4d19a1440b78cd0c679a"
+    },
+    "2010103": {
+        "text": "Final Nail",
+        "hash": "274a05f7e92217074449d46bfbd3e31f4c9bd324b0cc4d19a1440b78cd0c679a"
+    },
+    "2010201": {
+        "text": "No Running Allowed",
+        "hash": "e204c1ed85b25a3ab38383e55472175cd59ef39d83459379603a33ee43672139"
+    },
+    "2010202": {
+        "text": "No Running Allowed",
+        "hash": "e204c1ed85b25a3ab38383e55472175cd59ef39d83459379603a33ee43672139"
+    },
+    "2010203": {
+        "text": "No Running Allowed",
+        "hash": "e204c1ed85b25a3ab38383e55472175cd59ef39d83459379603a33ee43672139"
+    },
+    "2010301": {
+        "text": "Mile Straights ○",
+        "hash": "bf530a09c74fa0c06830cc2165e3d85fcac5f2ee62d6fc3705cda33c2caec311"
+    },
+    "2010302": {
+        "text": "Mile Straights ○",
+        "hash": "bf530a09c74fa0c06830cc2165e3d85fcac5f2ee62d6fc3705cda33c2caec311"
+    },
+    "2010303": {
+        "text": "Mile Straights ○",
+        "hash": "bf530a09c74fa0c06830cc2165e3d85fcac5f2ee62d6fc3705cda33c2caec311"
+    },
+    "2010401": {
+        "text": "Mile Corners ○",
+        "hash": "4211b69491185aa0a1cb2bd71bee99e4f9dd695fb1a712dc96cd746992fafb8d"
+    },
+    "2010402": {
+        "text": "Mile Corners ○",
+        "hash": "4211b69491185aa0a1cb2bd71bee99e4f9dd695fb1a712dc96cd746992fafb8d"
+    },
+    "2010403": {
+        "text": "Mile Corners ○",
+        "hash": "4211b69491185aa0a1cb2bd71bee99e4f9dd695fb1a712dc96cd746992fafb8d"
+    },
+    "2010501": {
+        "text": "Shift Gears",
+        "hash": "340b19c028629fced4f6e2ce87d654d376475915ef874e5046da66085d304419"
+    },
+    "2010502": {
+        "text": "Shift Gears",
+        "hash": "340b19c028629fced4f6e2ce87d654d376475915ef874e5046da66085d304419"
+    },
+    "2010503": {
+        "text": "Shift Gears",
+        "hash": "340b19c028629fced4f6e2ce87d654d376475915ef874e5046da66085d304419"
+    },
+    "2010601": {
+        "text": "Acceleration",
+        "hash": "02710ac38f2fdf969eb2072c31e054fa22d4127483128c3ee7b4c4a91f56ae96"
+    },
+    "2010602": {
+        "text": "Acceleration",
+        "hash": "02710ac38f2fdf969eb2072c31e054fa22d4127483128c3ee7b4c4a91f56ae96"
+    },
+    "2010603": {
+        "text": "Acceleration",
+        "hash": "02710ac38f2fdf969eb2072c31e054fa22d4127483128c3ee7b4c4a91f56ae96"
+    },
+    "2010701": {
+        "text": "Rival Spirit",
+        "hash": "f2fd9975a284524fc161be854f11793b9bcdccfe5ce0ef670be649a9e6be8945"
+    },
+    "2010702": {
+        "text": "Rival Spirit",
+        "hash": "f2fd9975a284524fc161be854f11793b9bcdccfe5ce0ef670be649a9e6be8945"
+    },
+    "2010703": {
+        "text": "Rival Spirit",
+        "hash": "f2fd9975a284524fc161be854f11793b9bcdccfe5ce0ef670be649a9e6be8945"
+    },
+    "2010801": {
+        "text": "Speed Eater",
+        "hash": "193631330dfb125ff24e606a8b47e055ae2e74e81c30720f60829a3d03bd9585"
+    },
+    "2010802": {
+        "text": "Speed Eater",
+        "hash": "193631330dfb125ff24e606a8b47e055ae2e74e81c30720f60829a3d03bd9585"
+    },
+    "2010803": {
+        "text": "Speed Eater",
+        "hash": "193631330dfb125ff24e606a8b47e055ae2e74e81c30720f60829a3d03bd9585"
+    },
+    "2010901": {
+        "text": "Opener",
+        "hash": "f082bb1dbb5e20f74626b9d4ced4bfc9f56750fc72162f7f6ba2693e38e2795d"
+    },
+    "2010902": {
+        "text": "Opener",
+        "hash": "f082bb1dbb5e20f74626b9d4ced4bfc9f56750fc72162f7f6ba2693e38e2795d"
+    },
+    "2010903": {
+        "text": "Opener",
+        "hash": "f082bb1dbb5e20f74626b9d4ced4bfc9f56750fc72162f7f6ba2693e38e2795d"
+    },
+    "2011001": {
+        "text": "Medium Distance Straights ○",
+        "hash": "18d8b96a0a59919f30ed588cd48245258eb42be2248d7bbef60a5e4f153181cf"
+    },
+    "2011002": {
+        "text": "Medium Distance Straights ○",
+        "hash": "18d8b96a0a59919f30ed588cd48245258eb42be2248d7bbef60a5e4f153181cf"
+    },
+    "2011003": {
+        "text": "Medium Distance Straights ○",
+        "hash": "18d8b96a0a59919f30ed588cd48245258eb42be2248d7bbef60a5e4f153181cf"
+    },
+    "2011101": {
+        "text": "Medium Distance Corners ○",
+        "hash": "dcb166dfa285fbdaa3cead2b30d798e28b9243a1da580f42edb32f038862f8b8"
+    },
+    "2011102": {
+        "text": "Medium Distance Corners ○",
+        "hash": "dcb166dfa285fbdaa3cead2b30d798e28b9243a1da580f42edb32f038862f8b8"
+    },
+    "2011103": {
+        "text": "Medium Distance Corners ○",
+        "hash": "dcb166dfa285fbdaa3cead2b30d798e28b9243a1da580f42edb32f038862f8b8"
+    },
+    "2011201": {
+        "text": "Hawkeye",
+        "hash": "0d69fd44538e84e12e361b12ddfd148a4b661a8151c6c12b4c051a2679003e56"
+    },
+    "2011202": {
+        "text": "Hawkeye",
+        "hash": "0d69fd44538e84e12e361b12ddfd148a4b661a8151c6c12b4c051a2679003e56"
+    },
+    "2011203": {
+        "text": "Hawkeye",
+        "hash": "0d69fd44538e84e12e361b12ddfd148a4b661a8151c6c12b4c051a2679003e56"
+    },
+    "2011301": {
+        "text": "Inazuma Step",
+        "hash": "afd6559df7d2e1b89718fd213d329d224de16ef70c4d5d0801697f0e159bfdbc"
+    },
+    "2011302": {
+        "text": "Inazuma Step",
+        "hash": "afd6559df7d2e1b89718fd213d329d224de16ef70c4d5d0801697f0e159bfdbc"
+    },
+    "2011303": {
+        "text": "Inazuma Step",
+        "hash": "afd6559df7d2e1b89718fd213d329d224de16ef70c4d5d0801697f0e159bfdbc"
+    },
+    "2011401": {
+        "text": "Light Step",
+        "hash": "b5a4b263f94489b04eb962dccb6819a645acdab96c07f2b382cf1256a0483d1c"
+    },
+    "2011402": {
+        "text": "Light Step",
+        "hash": "b5a4b263f94489b04eb962dccb6819a645acdab96c07f2b382cf1256a0483d1c"
+    },
+    "2011403": {
+        "text": "Light Step",
+        "hash": "b5a4b263f94489b04eb962dccb6819a645acdab96c07f2b382cf1256a0483d1c"
+    },
+    "2011501": {
+        "text": "Binding Chains",
+        "hash": "792ab5974a452c9483787609e879b6c4ad343c0478c28505b5b6898715846b6f"
+    },
+    "2011502": {
+        "text": "Binding Chains",
+        "hash": "792ab5974a452c9483787609e879b6c4ad343c0478c28505b5b6898715846b6f"
+    },
+    "2011503": {
+        "text": "Binding Chains",
+        "hash": "792ab5974a452c9483787609e879b6c4ad343c0478c28505b5b6898715846b6f"
+    },
+    "2011601": {
+        "text": "Gentle Whisper",
+        "hash": "1faed2b61e0046411e123eaffeb252b237a9913b5da95326398536baf92a8230"
+    },
+    "2011602": {
+        "text": "Gentle Whisper",
+        "hash": "1faed2b61e0046411e123eaffeb252b237a9913b5da95326398536baf92a8230"
+    },
+    "2011603": {
+        "text": "Gentle Whisper",
+        "hash": "1faed2b61e0046411e123eaffeb252b237a9913b5da95326398536baf92a8230"
+    },
+    "2011701": {
+        "text": "Long Distance Straights ○",
+        "hash": "07aa9cce674501c0b65366fbfe0537efe66e913243ab05541e42b5b81a62f912"
+    },
+    "2011702": {
+        "text": "Long Distance Straights ○",
+        "hash": "07aa9cce674501c0b65366fbfe0537efe66e913243ab05541e42b5b81a62f912"
+    },
+    "2011703": {
+        "text": "Long Distance Straights ○",
+        "hash": "07aa9cce674501c0b65366fbfe0537efe66e913243ab05541e42b5b81a62f912"
+    },
+    "2011801": {
+        "text": "Long Distance Corners ○",
+        "hash": "78ed5a8f34aa7f2abe786aad286c909454bd43ca50f695c92cf62626e035cc52"
+    },
+    "2011802": {
+        "text": "Long Distance Corners ○",
+        "hash": "78ed5a8f34aa7f2abe786aad286c909454bd43ca50f695c92cf62626e035cc52"
+    },
+    "2011803": {
+        "text": "Long Distance Corners ○",
+        "hash": "78ed5a8f34aa7f2abe786aad286c909454bd43ca50f695c92cf62626e035cc52"
+    },
+    "2011901": {
+        "text": "Keep the Lead",
+        "hash": "2ddde49d94974cd32f1d1233280c7a95a1c6b4645350c4f5bbfbb7c112dd536b"
+    },
+    "2011902": {
+        "text": "Keep the Lead",
+        "hash": "2ddde49d94974cd32f1d1233280c7a95a1c6b4645350c4f5bbfbb7c112dd536b"
+    },
+    "2011903": {
+        "text": "Keep the Lead",
+        "hash": "2ddde49d94974cd32f1d1233280c7a95a1c6b4645350c4f5bbfbb7c112dd536b"
+    },
+    "2012001": {
+        "text": "Pass Expert",
+        "hash": "db41e61a613efb778f7d335625d1227a99c5cf7fbd641d6f7b888cfafbb929d7"
+    },
+    "2012002": {
+        "text": "Pass Expert",
+        "hash": "db41e61a613efb778f7d335625d1227a99c5cf7fbd641d6f7b888cfafbb929d7"
+    },
+    "2012003": {
+        "text": "Pass Expert",
+        "hash": "db41e61a613efb778f7d335625d1227a99c5cf7fbd641d6f7b888cfafbb929d7"
+    },
+    "2012101": {
+        "text": "Press the Attack",
+        "hash": "3f7daf8a857cbda8f6e96b3b49325a9ee76e4be56f3315052d84a94202b7720b"
+    },
+    "2012102": {
+        "text": "Press the Attack",
+        "hash": "3f7daf8a857cbda8f6e96b3b49325a9ee76e4be56f3315052d84a94202b7720b"
+    },
+    "2012103": {
+        "text": "Press the Attack",
+        "hash": "3f7daf8a857cbda8f6e96b3b49325a9ee76e4be56f3315052d84a94202b7720b"
+    },
+    "2012201": {
+        "text": "Stamina Eater",
+        "hash": "e11c3efe5a66bf936f93bba2f9ce14c534698d16d99ad07edb072b0d496c5cf9"
+    },
+    "2012202": {
+        "text": "Stamina Eater",
+        "hash": "e11c3efe5a66bf936f93bba2f9ce14c534698d16d99ad07edb072b0d496c5cf9"
+    },
+    "2012203": {
+        "text": "Stamina Eater",
+        "hash": "e11c3efe5a66bf936f93bba2f9ce14c534698d16d99ad07edb072b0d496c5cf9"
+    },
+    "2012301": {
+        "text": "Smoke Screen",
+        "hash": "26989494424b022c9b39b4e66e420ae40b304311a09981b508310c00b803e097"
+    },
+    "2012302": {
+        "text": "Smoke Screen",
+        "hash": "26989494424b022c9b39b4e66e420ae40b304311a09981b508310c00b803e097"
+    },
+    "2012303": {
+        "text": "Smoke Screen",
+        "hash": "26989494424b022c9b39b4e66e420ae40b304311a09981b508310c00b803e097"
+    },
+    "2012401": {
+        "text": "Runner's Straights ○",
+        "hash": "87686d939b0a8bb246438b7f02b1e215f159849c940d398302ee1d0132506c3e"
+    },
+    "2012402": {
+        "text": "Runner's Straights ○",
+        "hash": "87686d939b0a8bb246438b7f02b1e215f159849c940d398302ee1d0132506c3e"
+    },
+    "2012403": {
+        "text": "Runner's Straights ○",
+        "hash": "87686d939b0a8bb246438b7f02b1e215f159849c940d398302ee1d0132506c3e"
+    },
+    "2012501": {
+        "text": "Runner's Corners ○",
+        "hash": "ac56b54dcdeea3a44b9e0fdb26945437bef94f91e617153b7f6d5b64db79716f"
+    },
+    "2012502": {
+        "text": "Runner's Corners ○",
+        "hash": "ac56b54dcdeea3a44b9e0fdb26945437bef94f91e617153b7f6d5b64db79716f"
+    },
+    "2012503": {
+        "text": "Runner's Corners ○",
+        "hash": "ac56b54dcdeea3a44b9e0fdb26945437bef94f91e617153b7f6d5b64db79716f"
+    },
+    "2012601": {
+        "text": "Danger Avoidance",
+        "hash": "4c1bb670c276ad9e7322402b92c7ddb824913c6c0b08887541cb0353eb97ef40"
+    },
+    "2012602": {
+        "text": "Danger Avoidance",
+        "hash": "4c1bb670c276ad9e7322402b92c7ddb824913c6c0b08887541cb0353eb97ef40"
+    },
+    "2012603": {
+        "text": "Danger Avoidance",
+        "hash": "4c1bb670c276ad9e7322402b92c7ddb824913c6c0b08887541cb0353eb97ef40"
+    },
+    "2012701": {
+        "text": "Lead Pride",
+        "hash": "281781aac2136dac9c9c87b48ccd9137ef2228ab2aa5675cbb85e8eaab0f23b1"
+    },
+    "2012702": {
+        "text": "Lead Pride",
+        "hash": "281781aac2136dac9c9c87b48ccd9137ef2228ab2aa5675cbb85e8eaab0f23b1"
+    },
+    "2012703": {
+        "text": "Lead Pride",
+        "hash": "281781aac2136dac9c9c87b48ccd9137ef2228ab2aa5675cbb85e8eaab0f23b1"
+    },
+    "2012801": {
+        "text": "Leave It to Vigor!",
+        "hash": "bf556b5882df49fdf85a907f979f3df4046a5fc5212c149aae2b69982ede020a"
+    },
+    "2012802": {
+        "text": "Leave It to Vigor!",
+        "hash": "bf556b5882df49fdf85a907f979f3df4046a5fc5212c149aae2b69982ede020a"
+    },
+    "2012803": {
+        "text": "Leave It to Vigor!",
+        "hash": "bf556b5882df49fdf85a907f979f3df4046a5fc5212c149aae2b69982ede020a"
+    },
+    "2012901": {
+        "text": "Next Steps",
+        "hash": "b6e3a3e2d50480ed701d39381edca4268f1117730da932775e909b8759cbab52"
+    },
+    "2012902": {
+        "text": "Next Steps",
+        "hash": "b6e3a3e2d50480ed701d39381edca4268f1117730da932775e909b8759cbab52"
+    },
+    "2012903": {
+        "text": "Next Steps",
+        "hash": "b6e3a3e2d50480ed701d39381edca4268f1117730da932775e909b8759cbab52"
+    },
+    "2013001": {
+        "text": "Restart",
+        "hash": "670a4e724ff62fad2aa0ab768c679b54142ccb206efcea312a4283876f5d3079"
+    },
+    "2013002": {
+        "text": "Restart",
+        "hash": "670a4e724ff62fad2aa0ab768c679b54142ccb206efcea312a4283876f5d3079"
+    },
+    "2013003": {
+        "text": "Restart",
+        "hash": "670a4e724ff62fad2aa0ab768c679b54142ccb206efcea312a4283876f5d3079"
+    },
+    "2013101": {
+        "text": "Leader's Straights ○",
+        "hash": "09f9fd0faecd1559f3422308898f2106b9c47eefe69eec4190270aa4a934e0c6"
+    },
+    "2013102": {
+        "text": "Leader's Straights ○",
+        "hash": "09f9fd0faecd1559f3422308898f2106b9c47eefe69eec4190270aa4a934e0c6"
+    },
+    "2013103": {
+        "text": "Leader's Straights ○",
+        "hash": "09f9fd0faecd1559f3422308898f2106b9c47eefe69eec4190270aa4a934e0c6"
+    },
+    "2013201": {
+        "text": "Leader's Corners ○",
+        "hash": "6b2c70e348816794f0b212ccbb64324939b389f1daad6bf3111f88acf1e48633"
+    },
+    "2013202": {
+        "text": "Leader's Corners ○",
+        "hash": "6b2c70e348816794f0b212ccbb64324939b389f1daad6bf3111f88acf1e48633"
+    },
+    "2013203": {
+        "text": "Leader's Corners ○",
+        "hash": "6b2c70e348816794f0b212ccbb64324939b389f1daad6bf3111f88acf1e48633"
+    },
+    "2013301": {
+        "text": "Clever Step",
+        "hash": "61360aebb0a208367da9e9c93e4a8be44346fd5ff201a48812f650a4f40aa0c9"
+    },
+    "2013302": {
+        "text": "Clever Step",
+        "hash": "61360aebb0a208367da9e9c93e4a8be44346fd5ff201a48812f650a4f40aa0c9"
+    },
+    "2013303": {
+        "text": "Clever Step",
+        "hash": "61360aebb0a208367da9e9c93e4a8be44346fd5ff201a48812f650a4f40aa0c9"
+    },
+    "2013401": {
+        "text": "Straight Down",
+        "hash": "4aeaf85c5ce4f633a6b2e2e987b4f83a2f2ade4b09ad38a4d0c529e7404d0f76"
+    },
+    "2013402": {
+        "text": "Straight Down",
+        "hash": "4aeaf85c5ce4f633a6b2e2e987b4f83a2f2ade4b09ad38a4d0c529e7404d0f76"
+    },
+    "2013403": {
+        "text": "Straight Down",
+        "hash": "4aeaf85c5ce4f633a6b2e2e987b4f83a2f2ade4b09ad38a4d0c529e7404d0f76"
+    },
     "2013501": {
         "text": "Nutritional Supplements",
         "hash": "e2ad8d980e2e9e9d300b70de0db210d309e6d0e9912fb4982ef38f9c3435e2c7"
@@ -190,6 +1714,1554 @@
     "2013503": {
         "text": "Nutritional Supplements",
         "hash": "e2ad8d980e2e9e9d300b70de0db210d309e6d0e9912fb4982ef38f9c3435e2c7"
+    },
+    "2013601": {
+        "text": "Redo",
+        "hash": "2e243c9357b8352f02fdf972855813e9966cdd87386c8ed235f5ae87233ac6be"
+    },
+    "2013602": {
+        "text": "Redo",
+        "hash": "2e243c9357b8352f02fdf972855813e9966cdd87386c8ed235f5ae87233ac6be"
+    },
+    "2013603": {
+        "text": "Redo",
+        "hash": "2e243c9357b8352f02fdf972855813e9966cdd87386c8ed235f5ae87233ac6be"
+    },
+    "2013701": {
+        "text": "Perturbation",
+        "hash": "869c0300ff76847816098cb509e307b47dc57b86e80586df0c1369e74757ba44"
+    },
+    "2013702": {
+        "text": "Perturbation",
+        "hash": "869c0300ff76847816098cb509e307b47dc57b86e80586df0c1369e74757ba44"
+    },
+    "2013703": {
+        "text": "Perturbation",
+        "hash": "869c0300ff76847816098cb509e307b47dc57b86e80586df0c1369e74757ba44"
+    },
+    "2013801": {
+        "text": "Betweener's Straights ○",
+        "hash": "2f198ef145d07aab6433c4786ba142c55489e5077df73b1384ac483fd8e9eb42"
+    },
+    "2013802": {
+        "text": "Betweener's Straights ○",
+        "hash": "2f198ef145d07aab6433c4786ba142c55489e5077df73b1384ac483fd8e9eb42"
+    },
+    "2013803": {
+        "text": "Betweener's Straights ○",
+        "hash": "2f198ef145d07aab6433c4786ba142c55489e5077df73b1384ac483fd8e9eb42"
+    },
+    "2013901": {
+        "text": "Betweener's Corners ○",
+        "hash": "41e9246be95e4cc4861d3f75004c76ab38a1a20f1588c21ee10f251888dcb35a"
+    },
+    "2013902": {
+        "text": "Betweener's Corners ○",
+        "hash": "41e9246be95e4cc4861d3f75004c76ab38a1a20f1588c21ee10f251888dcb35a"
+    },
+    "2013903": {
+        "text": "Betweener's Corners ○",
+        "hash": "41e9246be95e4cc4861d3f75004c76ab38a1a20f1588c21ee10f251888dcb35a"
+    },
+    "2014001": {
+        "text": "Hard Worker",
+        "hash": "4bcb18cddc4b68c99abc2402542855e3fa03a723a46cbcc270090be1cd601ec3"
+    },
+    "2014002": {
+        "text": "Hard Worker",
+        "hash": "4bcb18cddc4b68c99abc2402542855e3fa03a723a46cbcc270090be1cd601ec3"
+    },
+    "2014003": {
+        "text": "Hard Worker",
+        "hash": "4bcb18cddc4b68c99abc2402542855e3fa03a723a46cbcc270090be1cd601ec3"
+    },
+    "2014101": {
+        "text": "100K Horsepower",
+        "hash": "8c9b444211b1c1fde34d07ea58ec234fe26e564cdd101377cdd3627cc0f1cf83"
+    },
+    "2014102": {
+        "text": "100K Horsepower",
+        "hash": "8c9b444211b1c1fde34d07ea58ec234fe26e564cdd101377cdd3627cc0f1cf83"
+    },
+    "2014103": {
+        "text": "100K Horsepower",
+        "hash": "8c9b444211b1c1fde34d07ea58ec234fe26e564cdd101377cdd3627cc0f1cf83"
+    },
+    "2014201": {
+        "text": "A Little Break",
+        "hash": "a4618004ffecea1be5224adde36484ee08bb0d26b37ad193047c4d8acf2728d3"
+    },
+    "2014202": {
+        "text": "A Little Break",
+        "hash": "a4618004ffecea1be5224adde36484ee08bb0d26b37ad193047c4d8acf2728d3"
+    },
+    "2014203": {
+        "text": "A Little Break",
+        "hash": "a4618004ffecea1be5224adde36484ee08bb0d26b37ad193047c4d8acf2728d3"
+    },
+    "2014301": {
+        "text": "Reading Comprehension",
+        "hash": "a4edfdf211f1985088c0bb90a700bd49f5179af3fcf59b024184304178ea1edd"
+    },
+    "2014302": {
+        "text": "Reading Comprehension",
+        "hash": "a4edfdf211f1985088c0bb90a700bd49f5179af3fcf59b024184304178ea1edd"
+    },
+    "2014303": {
+        "text": "Reading Comprehension",
+        "hash": "a4edfdf211f1985088c0bb90a700bd49f5179af3fcf59b024184304178ea1edd"
+    },
+    "2014401": {
+        "text": "Sharp Gaze",
+        "hash": "2c704089d3790933111a58a292a38d6e716acd64a8c219fb4f49a327dffc8a25"
+    },
+    "2014402": {
+        "text": "Sharp Gaze",
+        "hash": "2c704089d3790933111a58a292a38d6e716acd64a8c219fb4f49a327dffc8a25"
+    },
+    "2014403": {
+        "text": "Sharp Gaze",
+        "hash": "2c704089d3790933111a58a292a38d6e716acd64a8c219fb4f49a327dffc8a25"
+    },
+    "2014501": {
+        "text": "Chaser's Straights ○",
+        "hash": "e4b356e68e4f230d78d979bb99efc4c84e95c2fb6d2ee20b6bc2e319badd3b64"
+    },
+    "2014502": {
+        "text": "Chaser's Straights ○",
+        "hash": "e4b356e68e4f230d78d979bb99efc4c84e95c2fb6d2ee20b6bc2e319badd3b64"
+    },
+    "2014503": {
+        "text": "Chaser's Straights ○",
+        "hash": "e4b356e68e4f230d78d979bb99efc4c84e95c2fb6d2ee20b6bc2e319badd3b64"
+    },
+    "2014601": {
+        "text": "Chaser's Corners ○",
+        "hash": "0df4cc3a1659c6809979df5f66b8dc63a3b0a4f9172614f918a596390307b53a"
+    },
+    "2014602": {
+        "text": "Chaser's Corners ○",
+        "hash": "0df4cc3a1659c6809979df5f66b8dc63a3b0a4f9172614f918a596390307b53a"
+    },
+    "2014603": {
+        "text": "Chaser's Corners ○",
+        "hash": "0df4cc3a1659c6809979df5f66b8dc63a3b0a4f9172614f918a596390307b53a"
+    },
+    "2014701": {
+        "text": "See Right Through",
+        "hash": "fdd3895e740f01cb35bb33f02c07bc7289944cbb413b3067c8affe2b242ffbe2"
+    },
+    "2014702": {
+        "text": "See Right Through",
+        "hash": "fdd3895e740f01cb35bb33f02c07bc7289944cbb413b3067c8affe2b242ffbe2"
+    },
+    "2014703": {
+        "text": "See Right Through",
+        "hash": "fdd3895e740f01cb35bb33f02c07bc7289944cbb413b3067c8affe2b242ffbe2"
+    },
+    "2014801": {
+        "text": "Winding Down",
+        "hash": "664caabfd1aed8e4ab943f1da5a7ec800c656a926bd909e7aec12556d988c41f"
+    },
+    "2014802": {
+        "text": "Winding Down",
+        "hash": "664caabfd1aed8e4ab943f1da5a7ec800c656a926bd909e7aec12556d988c41f"
+    },
+    "2014803": {
+        "text": "Winding Down",
+        "hash": "664caabfd1aed8e4ab943f1da5a7ec800c656a926bd909e7aec12556d988c41f"
+    },
+    "2014901": {
+        "text": "Serene",
+        "hash": "87e408f23b4fe8104ce5e52187fcae204194588b6b99b2d90f2e0e8cdbb7168e"
+    },
+    "2014902": {
+        "text": "Serene",
+        "hash": "87e408f23b4fe8104ce5e52187fcae204194588b6b99b2d90f2e0e8cdbb7168e"
+    },
+    "2014903": {
+        "text": "Serene",
+        "hash": "87e408f23b4fe8104ce5e52187fcae204194588b6b99b2d90f2e0e8cdbb7168e"
+    },
+    "2015001": {
+        "text": "Tactician",
+        "hash": "4f85c3fe3161c2fd128254354640354f8a8f19edcf2cfddf33e6f169395e5a05"
+    },
+    "2015002": {
+        "text": "Tactician",
+        "hash": "4f85c3fe3161c2fd128254354640354f8a8f19edcf2cfddf33e6f169395e5a05"
+    },
+    "2015003": {
+        "text": "Tactician",
+        "hash": "4f85c3fe3161c2fd128254354640354f8a8f19edcf2cfddf33e6f169395e5a05"
+    },
+    "2015101": {
+        "text": "Sightlines",
+        "hash": "d99c89b7b9a5272b98568fbbbd04927e54fbbcc783cf12bbc427c86f2ebeed95"
+    },
+    "2015102": {
+        "text": "Sightlines",
+        "hash": "d99c89b7b9a5272b98568fbbbd04927e54fbbcc783cf12bbc427c86f2ebeed95"
+    },
+    "2015103": {
+        "text": "Sightlines",
+        "hash": "d99c89b7b9a5272b98568fbbbd04927e54fbbcc783cf12bbc427c86f2ebeed95"
+    },
+    "2015201": {
+        "text": "Runner's Tricks ○",
+        "hash": "ba9d02cf436b9bfd2c78b0bf0935e5915545adadaa914f6847c35b3a91147c67"
+    },
+    "2015202": {
+        "text": "Runner's Tricks ○",
+        "hash": "ba9d02cf436b9bfd2c78b0bf0935e5915545adadaa914f6847c35b3a91147c67"
+    },
+    "2015203": {
+        "text": "Runner's Tricks ○",
+        "hash": "ba9d02cf436b9bfd2c78b0bf0935e5915545adadaa914f6847c35b3a91147c67"
+    },
+    "2015301": {
+        "text": "Leader's Tricks ○",
+        "hash": "04b08bd76708dbf9c8d822fad809b9e091f8b1f895726afeb5a10372da0e7b50"
+    },
+    "2015302": {
+        "text": "Leader's Tricks ○",
+        "hash": "04b08bd76708dbf9c8d822fad809b9e091f8b1f895726afeb5a10372da0e7b50"
+    },
+    "2015303": {
+        "text": "Leader's Tricks ○",
+        "hash": "04b08bd76708dbf9c8d822fad809b9e091f8b1f895726afeb5a10372da0e7b50"
+    },
+    "2015401": {
+        "text": "Betweener's Tricks ○",
+        "hash": "1dc68783d85dabaf29b8cc447a066775f62787e73c8de8cc1549ac05f88eff51"
+    },
+    "2015402": {
+        "text": "Betweener's Tricks ○",
+        "hash": "1dc68783d85dabaf29b8cc447a066775f62787e73c8de8cc1549ac05f88eff51"
+    },
+    "2015403": {
+        "text": "Betweener's Tricks ○",
+        "hash": "1dc68783d85dabaf29b8cc447a066775f62787e73c8de8cc1549ac05f88eff51"
+    },
+    "2015501": {
+        "text": "Chaser's Tricks ○",
+        "hash": "5e3b8d2e446a4ca5241d49af1249a97b9493915449cc579d06106bc46feb713f"
+    },
+    "2015502": {
+        "text": "Chaser's Tricks ○",
+        "hash": "5e3b8d2e446a4ca5241d49af1249a97b9493915449cc579d06106bc46feb713f"
+    },
+    "2015503": {
+        "text": "Chaser's Tricks ○",
+        "hash": "5e3b8d2e446a4ca5241d49af1249a97b9493915449cc579d06106bc46feb713f"
+    },
+    "2015601": {
+        "text": "Lucky Seven",
+        "hash": "e2795f06feb29552724da0f54da35db75392c4259e0f5ef60eaf9420c40b4768"
+    },
+    "2015602": {
+        "text": "Lucky Seven",
+        "hash": "e2795f06feb29552724da0f54da35db75392c4259e0f5ef60eaf9420c40b4768"
+    },
+    "2015603": {
+        "text": "Lucky Seven",
+        "hash": "e2795f06feb29552724da0f54da35db75392c4259e0f5ef60eaf9420c40b4768"
+    },
+    "2015701": {
+        "text": "Triple 7s",
+        "hash": "864dd436f3743b057f116b8dfa5c17286dc400957f6abe4c11b1d8b580cbf634"
+    },
+    "2015702": {
+        "text": "Triple 7s",
+        "hash": "864dd436f3743b057f116b8dfa5c17286dc400957f6abe4c11b1d8b580cbf634"
+    },
+    "2015703": {
+        "text": "Triple 7s",
+        "hash": "864dd436f3743b057f116b8dfa5c17286dc400957f6abe4c11b1d8b580cbf634"
+    },
+    "2015801": {
+        "text": "Mountain Climber",
+        "hash": "246e8517671ffd6156f58d29b6de26a081c136ad223cab524c21346903887ac2"
+    },
+    "2015802": {
+        "text": "Mountain Climber",
+        "hash": "246e8517671ffd6156f58d29b6de26a081c136ad223cab524c21346903887ac2"
+    },
+    "2015803": {
+        "text": "Mountain Climber",
+        "hash": "246e8517671ffd6156f58d29b6de26a081c136ad223cab524c21346903887ac2"
+    },
+    "2015901": {
+        "text": "Big Fan",
+        "hash": "db49518c7973cc24768e9d2664a9fd52cc49f0645a165c273859ce184911d005"
+    },
+    "2015902": {
+        "text": "Big Fan",
+        "hash": "db49518c7973cc24768e9d2664a9fd52cc49f0645a165c273859ce184911d005"
+    },
+    "2015903": {
+        "text": "Big Fan",
+        "hash": "db49518c7973cc24768e9d2664a9fd52cc49f0645a165c273859ce184911d005"
+    },
+    "2016001": {
+        "text": "Groundwork",
+        "hash": "5b113a018aec6ebff92562d399767b7705136ca8a56d18eece6a289c5b245156"
+    },
+    "2016002": {
+        "text": "Groundwork",
+        "hash": "5b113a018aec6ebff92562d399767b7705136ca8a56d18eece6a289c5b245156"
+    },
+    "2016003": {
+        "text": "Groundwork",
+        "hash": "5b113a018aec6ebff92562d399767b7705136ca8a56d18eece6a289c5b245156"
+    },
+    "2016101": {
+        "text": "Hold Your Tail High",
+        "hash": "0d9ae8c6347a8b1db3537e8147436e27b12e4cb8b06a7a64ae5705da79f55a74"
+    },
+    "2016102": {
+        "text": "Hold Your Tail High",
+        "hash": "0d9ae8c6347a8b1db3537e8147436e27b12e4cb8b06a7a64ae5705da79f55a74"
+    },
+    "2016103": {
+        "text": "Hold Your Tail High",
+        "hash": "0d9ae8c6347a8b1db3537e8147436e27b12e4cb8b06a7a64ae5705da79f55a74"
+    },
+    "2016201": {
+        "text": "Shake It Out",
+        "hash": "55ee3618061fea7c57f7bde16e4c91c5773f51f16362473871d268257e21525b"
+    },
+    "2016202": {
+        "text": "Shake It Out",
+        "hash": "55ee3618061fea7c57f7bde16e4c91c5773f51f16362473871d268257e21525b"
+    },
+    "2016203": {
+        "text": "Shake It Out",
+        "hash": "55ee3618061fea7c57f7bde16e4c91c5773f51f16362473871d268257e21525b"
+    },
+    "2016301": {
+        "text": "Sympathy",
+        "hash": "ac1d1b18c11e7278eac433561baa107cc092e4cbd7d0be828904ff2bbc42e9c4"
+    },
+    "2016302": {
+        "text": "Sympathy",
+        "hash": "ac1d1b18c11e7278eac433561baa107cc092e4cbd7d0be828904ff2bbc42e9c4"
+    },
+    "2016303": {
+        "text": "Sympathy",
+        "hash": "ac1d1b18c11e7278eac433561baa107cc092e4cbd7d0be828904ff2bbc42e9c4"
+    },
+    "2016401": {
+        "text": "Lone Wolf",
+        "hash": "529a72a32457b87027235055a7096fd83746b713957f39414e8abc612d904062"
+    },
+    "2016402": {
+        "text": "Lone Wolf",
+        "hash": "529a72a32457b87027235055a7096fd83746b713957f39414e8abc612d904062"
+    },
+    "2016403": {
+        "text": "Lone Wolf",
+        "hash": "529a72a32457b87027235055a7096fd83746b713957f39414e8abc612d904062"
+    },
+    "2016501": {
+        "text": "Slipstream",
+        "hash": "a91633efd9aaa1eaa58b321bd8c58cd9da6d4f76674ce9b1a09a8add069948a2"
+    },
+    "2016502": {
+        "text": "Slipstream",
+        "hash": "a91633efd9aaa1eaa58b321bd8c58cd9da6d4f76674ce9b1a09a8add069948a2"
+    },
+    "2016503": {
+        "text": "Slipstream",
+        "hash": "a91633efd9aaa1eaa58b321bd8c58cd9da6d4f76674ce9b1a09a8add069948a2"
+    },
+    "2016601": {
+        "text": "Playtime's Over!",
+        "hash": "aed649676f5ec2318863663e2589249803eb9dfba57573dcf65c9acf1a470964"
+    },
+    "2016602": {
+        "text": "Playtime's Over!",
+        "hash": "aed649676f5ec2318863663e2589249803eb9dfba57573dcf65c9acf1a470964"
+    },
+    "2016603": {
+        "text": "Playtime's Over!",
+        "hash": "aed649676f5ec2318863663e2589249803eb9dfba57573dcf65c9acf1a470964"
+    },
+    "2016701": {
+        "text": "Recommendation",
+        "hash": "ed90edc9d785dd36eda8900eeaef4efb59ccf20a9521f56d042c11b73c2dab85"
+    },
+    "2016702": {
+        "text": "Recommendation",
+        "hash": "ed90edc9d785dd36eda8900eeaef4efb59ccf20a9521f56d042c11b73c2dab85"
+    },
+    "2016703": {
+        "text": "Recommendation",
+        "hash": "ed90edc9d785dd36eda8900eeaef4efb59ccf20a9521f56d042c11b73c2dab85"
+    },
+    "2016801": {
+        "text": "Front Row Aim",
+        "hash": "71be3f443c7a8cbcfa5b65d83d969d321c8b2494927e7e1564fedfb55c8517a1"
+    },
+    "2016802": {
+        "text": "Front Row Aim",
+        "hash": "71be3f443c7a8cbcfa5b65d83d969d321c8b2494927e7e1564fedfb55c8517a1"
+    },
+    "2016803": {
+        "text": "Front Row Aim",
+        "hash": "71be3f443c7a8cbcfa5b65d83d969d321c8b2494927e7e1564fedfb55c8517a1"
+    },
+    "2016901": {
+        "text": "Quiet Breathing",
+        "hash": "a1eb16c52a80b0547ace297fe04c7d6823f7bfcc8baae01e3c0ebc979036b2a7"
+    },
+    "2016902": {
+        "text": "Quiet Breathing",
+        "hash": "a1eb16c52a80b0547ace297fe04c7d6823f7bfcc8baae01e3c0ebc979036b2a7"
+    },
+    "2016903": {
+        "text": "Quiet Breathing",
+        "hash": "a1eb16c52a80b0547ace297fe04c7d6823f7bfcc8baae01e3c0ebc979036b2a7"
+    },
+    "2017001": {
+        "text": "All That There Is",
+        "hash": "0ecea600316eb29655a215ef90a4553c8cd277fe320fdf6ea2eb7ae659b38602"
+    },
+    "2017002": {
+        "text": "All That There Is",
+        "hash": "0ecea600316eb29655a215ef90a4553c8cd277fe320fdf6ea2eb7ae659b38602"
+    },
+    "2017003": {
+        "text": "All That There Is",
+        "hash": "0ecea600316eb29655a215ef90a4553c8cd277fe320fdf6ea2eb7ae659b38602"
+    },
+    "2019001": {
+        "text": "Head-To-Head",
+        "hash": "a2f7122ed2b24c87740d21418dd7bbbb60d16e07081cfabcbcbefc133a70644c"
+    },
+    "2019002": {
+        "text": "Head-To-Head",
+        "hash": "a2f7122ed2b24c87740d21418dd7bbbb60d16e07081cfabcbcbefc133a70644c"
+    },
+    "2019003": {
+        "text": "Head-To-Head",
+        "hash": "a2f7122ed2b24c87740d21418dd7bbbb60d16e07081cfabcbcbefc133a70644c"
+    },
+    "2020001": {
+        "text": "Sandstorm Practice",
+        "hash": "23e781c22bc48e259b0640fcc88a2d5d1d05e77aa1d39116059e54663b92bfc5"
+    },
+    "2020002": {
+        "text": "Sandstorm Practice",
+        "hash": "23e781c22bc48e259b0640fcc88a2d5d1d05e77aa1d39116059e54663b92bfc5"
+    },
+    "2020003": {
+        "text": "Sandstorm Practice",
+        "hash": "23e781c22bc48e259b0640fcc88a2d5d1d05e77aa1d39116059e54663b92bfc5"
+    },
+    "2020101": {
+        "text": "Kageuchi",
+        "hash": "c60949e4d7adb97894f5c83dc9b6f97e3b17c1bebf958c960de5f72d69a96753"
+    },
+    "2020102": {
+        "text": "Kageuchi",
+        "hash": "c60949e4d7adb97894f5c83dc9b6f97e3b17c1bebf958c960de5f72d69a96753"
+    },
+    "2020103": {
+        "text": "Kageuchi",
+        "hash": "c60949e4d7adb97894f5c83dc9b6f97e3b17c1bebf958c960de5f72d69a96753"
+    },
+    "2020201": {
+        "text": "Early Gambit",
+        "hash": "1900aa23ebed97c74a846a498cc037bbc6f8104f83dc2051b5542ee7d76c99bb"
+    },
+    "2020202": {
+        "text": "Early Gambit",
+        "hash": "1900aa23ebed97c74a846a498cc037bbc6f8104f83dc2051b5542ee7d76c99bb"
+    },
+    "2020203": {
+        "text": "Early Gambit",
+        "hash": "1900aa23ebed97c74a846a498cc037bbc6f8104f83dc2051b5542ee7d76c99bb"
+    },
+    "2020301": {
+        "text": "Questionable Strategy",
+        "hash": "6846f90185b032ce05e630078ab2b92956bf1bf90ad4901fbd1866e5c96eed27"
+    },
+    "2020302": {
+        "text": "Questionable Strategy",
+        "hash": "6846f90185b032ce05e630078ab2b92956bf1bf90ad4901fbd1866e5c96eed27"
+    },
+    "2020303": {
+        "text": "Questionable Strategy",
+        "hash": "6846f90185b032ce05e630078ab2b92956bf1bf90ad4901fbd1866e5c96eed27"
+    },
+    "2020401": {
+        "text": "Nimble Step",
+        "hash": "7ab8dcce82a5c7a98817f6def0f8419285c7159fa454be54afdf45458dddcdeb"
+    },
+    "2020402": {
+        "text": "Nimble Step",
+        "hash": "7ab8dcce82a5c7a98817f6def0f8419285c7159fa454be54afdf45458dddcdeb"
+    },
+    "2020403": {
+        "text": "Nimble Step",
+        "hash": "7ab8dcce82a5c7a98817f6def0f8419285c7159fa454be54afdf45458dddcdeb"
+    },
+    "2020701": {
+        "text": "My Own Pace",
+        "hash": "c6af22ba5206bb62d66023083b55a7eae2ca71c7f061f8cbdfd77bc7134bcaea"
+    },
+    "2020702": {
+        "text": "My Own Pace",
+        "hash": "c6af22ba5206bb62d66023083b55a7eae2ca71c7f061f8cbdfd77bc7134bcaea"
+    },
+    "2020703": {
+        "text": "My Own Pace",
+        "hash": "c6af22ba5206bb62d66023083b55a7eae2ca71c7f061f8cbdfd77bc7134bcaea"
+    },
+    "2020801": {
+        "text": "One Chance",
+        "hash": "dd6d9c7bd95ac8997372e7211132c516a442810152b9e86deca04901afcd6545"
+    },
+    "2020802": {
+        "text": "One Chance",
+        "hash": "dd6d9c7bd95ac8997372e7211132c516a442810152b9e86deca04901afcd6545"
+    },
+    "2020803": {
+        "text": "One Chance",
+        "hash": "dd6d9c7bd95ac8997372e7211132c516a442810152b9e86deca04901afcd6545"
+    },
+    "2020901": {
+        "text": "Fighting Spirit",
+        "hash": "e8b285993d1954e7ea1c5ab4946408d5676d222016f9f5e087f8bb4c1503b858"
+    },
+    "2020902": {
+        "text": "Fighting Spirit",
+        "hash": "e8b285993d1954e7ea1c5ab4946408d5676d222016f9f5e087f8bb4c1503b858"
+    },
+    "2020903": {
+        "text": "Fighting Spirit",
+        "hash": "e8b285993d1954e7ea1c5ab4946408d5676d222016f9f5e087f8bb4c1503b858"
+    },
+    "2021001": {
+        "text": "Tumbling Forward",
+        "hash": "ddc98db94eae99f5ef5248ef06fdab74541a0c9405f143ab7e13e4b6f9ac8c6f"
+    },
+    "2021002": {
+        "text": "Tumbling Forward",
+        "hash": "ddc98db94eae99f5ef5248ef06fdab74541a0c9405f143ab7e13e4b6f9ac8c6f"
+    },
+    "2021003": {
+        "text": "Tumbling Forward",
+        "hash": "ddc98db94eae99f5ef5248ef06fdab74541a0c9405f143ab7e13e4b6f9ac8c6f"
+    },
+    "2021101": {
+        "text": "Sufficient Spirit",
+        "hash": "759e476cc5f5b8e14de48193f54bf7719f5f3131fd8cd3f0702c8fc78c9abee8"
+    },
+    "2021102": {
+        "text": "Sufficient Spirit",
+        "hash": "759e476cc5f5b8e14de48193f54bf7719f5f3131fd8cd3f0702c8fc78c9abee8"
+    },
+    "2021103": {
+        "text": "Sufficient Spirit",
+        "hash": "759e476cc5f5b8e14de48193f54bf7719f5f3131fd8cd3f0702c8fc78c9abee8"
+    },
+    "2021201": {
+        "text": "Fearless Heart",
+        "hash": "2810ab5b8379e0274a9f7cdeae187899f3036a8ca8cbe7cee5ea2ce0c747574e"
+    },
+    "2021202": {
+        "text": "Fearless Heart",
+        "hash": "2810ab5b8379e0274a9f7cdeae187899f3036a8ca8cbe7cee5ea2ce0c747574e"
+    },
+    "2021203": {
+        "text": "Fearless Heart",
+        "hash": "2810ab5b8379e0274a9f7cdeae187899f3036a8ca8cbe7cee5ea2ce0c747574e"
+    },
+    "2021301": {
+        "text": "With Verve",
+        "hash": "c5d386735211c96b00e6e5462c37af1ea6c76bd1f52b5bbbfdf0725cc799c388"
+    },
+    "2021302": {
+        "text": "With Verve",
+        "hash": "c5d386735211c96b00e6e5462c37af1ea6c76bd1f52b5bbbfdf0725cc799c388"
+    },
+    "2021303": {
+        "text": "With Verve",
+        "hash": "c5d386735211c96b00e6e5462c37af1ea6c76bd1f52b5bbbfdf0725cc799c388"
+    },
+    "2021501": {
+        "text": "Full Throttle",
+        "hash": "98b1e931eaf2b0b974f392841533e2d5a56daa028d7ca2f4d60d9928e955a77f"
+    },
+    "2021502": {
+        "text": "Full Throttle",
+        "hash": "98b1e931eaf2b0b974f392841533e2d5a56daa028d7ca2f4d60d9928e955a77f"
+    },
+    "2021503": {
+        "text": "Full Throttle",
+        "hash": "98b1e931eaf2b0b974f392841533e2d5a56daa028d7ca2f4d60d9928e955a77f"
+    },
+    "2021601": {
+        "text": "Self-Control",
+        "hash": "d92ec3e2e71d5b22a32ee162f5e91910c091c9ad5bf8927009573f98cad1cd4b"
+    },
+    "2021602": {
+        "text": "Self-Control",
+        "hash": "d92ec3e2e71d5b22a32ee162f5e91910c091c9ad5bf8927009573f98cad1cd4b"
+    },
+    "2021603": {
+        "text": "Self-Control",
+        "hash": "d92ec3e2e71d5b22a32ee162f5e91910c091c9ad5bf8927009573f98cad1cd4b"
+    },
+    "2021701": {
+        "text": "Downhill Adept",
+        "hash": "caf47f43002023496ca89de5374ea3dca73a2b1afd1bd90ea1ff0e4c6296b807"
+    },
+    "2021702": {
+        "text": "Downhill Adept",
+        "hash": "caf47f43002023496ca89de5374ea3dca73a2b1afd1bd90ea1ff0e4c6296b807"
+    },
+    "2021703": {
+        "text": "Downhill Adept",
+        "hash": "caf47f43002023496ca89de5374ea3dca73a2b1afd1bd90ea1ff0e4c6296b807"
+    },
+    "2021901": {
+        "text": "Faultless",
+        "hash": "70cd7c4c145387d3c9c794e3958c40b3dfa26f70d9bbc55255e3ef7404805f72"
+    },
+    "2021902": {
+        "text": "Faultless",
+        "hash": "70cd7c4c145387d3c9c794e3958c40b3dfa26f70d9bbc55255e3ef7404805f72"
+    },
+    "2021903": {
+        "text": "Faultless",
+        "hash": "70cd7c4c145387d3c9c794e3958c40b3dfa26f70d9bbc55255e3ef7404805f72"
+    },
+    "2022001": {
+        "text": "Kawasaki Racetrack ○",
+        "hash": "6cb5b5e0d5705fbd7404d1ab9b38d9a866ded772a1dae64dadf3047c696d2ee0"
+    },
+    "2022002": {
+        "text": "Kawasaki Racetrack ○",
+        "hash": "6cb5b5e0d5705fbd7404d1ab9b38d9a866ded772a1dae64dadf3047c696d2ee0"
+    },
+    "2022003": {
+        "text": "Kawasaki Racetrack ○",
+        "hash": "6cb5b5e0d5705fbd7404d1ab9b38d9a866ded772a1dae64dadf3047c696d2ee0"
+    },
+    "2022101": {
+        "text": "Funabashi Racetrack ○",
+        "hash": "6874d4f280e951b557e68f9cc66f0dac2200ab005f77b998461f77086583ca95"
+    },
+    "2022102": {
+        "text": "Funabashi Racetrack ○",
+        "hash": "6874d4f280e951b557e68f9cc66f0dac2200ab005f77b998461f77086583ca95"
+    },
+    "2022103": {
+        "text": "Funabashi Racetrack ○",
+        "hash": "6874d4f280e951b557e68f9cc66f0dac2200ab005f77b998461f77086583ca95"
+    },
+    "2022201": {
+        "text": "Morioka Racetrack ○",
+        "hash": "0a3931028d5e8f4203f4da897a7b2099e1eb4b5d1dd10667741d6e461060ddfb"
+    },
+    "2022202": {
+        "text": "Morioka Racetrack ○",
+        "hash": "0a3931028d5e8f4203f4da897a7b2099e1eb4b5d1dd10667741d6e461060ddfb"
+    },
+    "2022203": {
+        "text": "Morioka Racetrack ○",
+        "hash": "0a3931028d5e8f4203f4da897a7b2099e1eb4b5d1dd10667741d6e461060ddfb"
+    },
+    "2022301": {
+        "text": "Nocturnal ○",
+        "hash": "edc392e84545cd20e76f7d5892c3f715efc6e843f6434063dce53eda5477b583"
+    },
+    "2022302": {
+        "text": "Nocturnal ○",
+        "hash": "edc392e84545cd20e76f7d5892c3f715efc6e843f6434063dce53eda5477b583"
+    },
+    "2022303": {
+        "text": "Nocturnal ○",
+        "hash": "edc392e84545cd20e76f7d5892c3f715efc6e843f6434063dce53eda5477b583"
+    },
+    "2022401": {
+        "text": "Tight Turns ○",
+        "hash": "4de7a09acbea651679d275a7d28030f455ca759152c3c4efecf8a42996244e62"
+    },
+    "2022402": {
+        "text": "Tight Turns ○",
+        "hash": "4de7a09acbea651679d275a7d28030f455ca759152c3c4efecf8a42996244e62"
+    },
+    "2022403": {
+        "text": "Tight Turns ○",
+        "hash": "4de7a09acbea651679d275a7d28030f455ca759152c3c4efecf8a42996244e62"
+    },
+    "2022501": {
+        "text": "Exchange Races ○",
+        "hash": "62ad6f44184fc0cc8b2bc5b6050995d0c41eabd497893f7ef36399a653e23b01"
+    },
+    "2022502": {
+        "text": "Exchange Races ○",
+        "hash": "62ad6f44184fc0cc8b2bc5b6050995d0c41eabd497893f7ef36399a653e23b01"
+    },
+    "2022503": {
+        "text": "Exchange Races ○",
+        "hash": "62ad6f44184fc0cc8b2bc5b6050995d0c41eabd497893f7ef36399a653e23b01"
+    },
+    "2022601": {
+        "text": "Promising Omen",
+        "hash": "a97e3cd8d2f860562e1c750457f072539ddcf460216d875f9a990f40df6cf486"
+    },
+    "2022602": {
+        "text": "Promising Omen",
+        "hash": "a97e3cd8d2f860562e1c750457f072539ddcf460216d875f9a990f40df6cf486"
+    },
+    "2022603": {
+        "text": "Promising Omen",
+        "hash": "a97e3cd8d2f860562e1c750457f072539ddcf460216d875f9a990f40df6cf486"
+    },
+    "2022701": {
+        "text": "Turnaround",
+        "hash": "9c7fbd5a3178333a886abece56edef330b18554eea02461dbef64748145e2f6b"
+    },
+    "2022702": {
+        "text": "Turnaround",
+        "hash": "9c7fbd5a3178333a886abece56edef330b18554eea02461dbef64748145e2f6b"
+    },
+    "2022703": {
+        "text": "Turnaround",
+        "hash": "9c7fbd5a3178333a886abece56edef330b18554eea02461dbef64748145e2f6b"
+    },
+    "2022801": {
+        "text": "At Full Speed",
+        "hash": "63e96b513a5d96c5bebfe9668b95c95242bf7ec69dd347b3f746a41a5cfa7f09"
+    },
+    "2022802": {
+        "text": "At Full Speed",
+        "hash": "63e96b513a5d96c5bebfe9668b95c95242bf7ec69dd347b3f746a41a5cfa7f09"
+    },
+    "2022803": {
+        "text": "At Full Speed",
+        "hash": "63e96b513a5d96c5bebfe9668b95c95242bf7ec69dd347b3f746a41a5cfa7f09"
+    },
+    "2022901": {
+        "text": "Clear Head",
+        "hash": "4f758872fac5feea8c4aa9f90388a5c4e3b07a72ad66c3c4df65bbfef22c77f0"
+    },
+    "2022902": {
+        "text": "Clear Head",
+        "hash": "4f758872fac5feea8c4aa9f90388a5c4e3b07a72ad66c3c4df65bbfef22c77f0"
+    },
+    "2022903": {
+        "text": "Clear Head",
+        "hash": "4f758872fac5feea8c4aa9f90388a5c4e3b07a72ad66c3c4df65bbfef22c77f0"
+    },
+    "2023001": {
+        "text": "Dust Bath ○",
+        "hash": "c25285745803662cbb2c8dae215e6e2f030b9303d9921921e7d1a55bbb1b2b7e"
+    },
+    "2023002": {
+        "text": "Dust Bath ○",
+        "hash": "c25285745803662cbb2c8dae215e6e2f030b9303d9921921e7d1a55bbb1b2b7e"
+    },
+    "2023003": {
+        "text": "Dust Bath ○",
+        "hash": "c25285745803662cbb2c8dae215e6e2f030b9303d9921921e7d1a55bbb1b2b7e"
+    },
+    "2023101": {
+        "text": "Full of Zeal",
+        "hash": "0207cdd90bdc015109fb03c7669d118fd6613facc1f8ab179c132f73214c34be"
+    },
+    "2023102": {
+        "text": "Full of Zeal",
+        "hash": "0207cdd90bdc015109fb03c7669d118fd6613facc1f8ab179c132f73214c34be"
+    },
+    "2023103": {
+        "text": "Full of Zeal",
+        "hash": "0207cdd90bdc015109fb03c7669d118fd6613facc1f8ab179c132f73214c34be"
+    },
+    "2023201": {
+        "text": "Rapid Ascent",
+        "hash": "0ef938e704fbebc1bd1d2a8a67aa63b2b1a40aca3a7292243252a8c3573d25f9"
+    },
+    "2023202": {
+        "text": "Rapid Ascent",
+        "hash": "0ef938e704fbebc1bd1d2a8a67aa63b2b1a40aca3a7292243252a8c3573d25f9"
+    },
+    "2023203": {
+        "text": "Rapid Ascent",
+        "hash": "0ef938e704fbebc1bd1d2a8a67aa63b2b1a40aca3a7292243252a8c3573d25f9"
+    },
+    "2023301": {
+        "text": "Skillful Step",
+        "hash": "bcaf9274150c5ea5b2e57b9f431651bb9340bfae7141b8a42b4f6f2d3daabab3"
+    },
+    "2023302": {
+        "text": "Skillful Step",
+        "hash": "bcaf9274150c5ea5b2e57b9f431651bb9340bfae7141b8a42b4f6f2d3daabab3"
+    },
+    "2023303": {
+        "text": "Skillful Step",
+        "hash": "bcaf9274150c5ea5b2e57b9f431651bb9340bfae7141b8a42b4f6f2d3daabab3"
+    },
+    "2023401": {
+        "text": "Mud Play ○",
+        "hash": "89e7d18bb9d467cf7ed727e39870911b70f0ecb10f12e1e46e5542c3dd19d10b"
+    },
+    "2023402": {
+        "text": "Mud Play ○",
+        "hash": "89e7d18bb9d467cf7ed727e39870911b70f0ecb10f12e1e46e5542c3dd19d10b"
+    },
+    "2023403": {
+        "text": "Mud Play ○",
+        "hash": "89e7d18bb9d467cf7ed727e39870911b70f0ecb10f12e1e46e5542c3dd19d10b"
+    },
+    "2023501": {
+        "text": "Cloud of Dust",
+        "hash": "16a151978411c9c48a88fd401ee2464bfd28a13e6a6724dba47416ac0e413fdd"
+    },
+    "2023502": {
+        "text": "Cloud of Dust",
+        "hash": "16a151978411c9c48a88fd401ee2464bfd28a13e6a6724dba47416ac0e413fdd"
+    },
+    "2023503": {
+        "text": "Cloud of Dust",
+        "hash": "16a151978411c9c48a88fd401ee2464bfd28a13e6a6724dba47416ac0e413fdd"
+    },
+    "2023601": {
+        "text": "Pressing Feeling",
+        "hash": "171935884234fcdeee622f9ac6df7ac78b272127fed72306344399612879d6f2"
+    },
+    "2023602": {
+        "text": "Pressing Feeling",
+        "hash": "171935884234fcdeee622f9ac6df7ac78b272127fed72306344399612879d6f2"
+    },
+    "2023603": {
+        "text": "Pressing Feeling",
+        "hash": "171935884234fcdeee622f9ac6df7ac78b272127fed72306344399612879d6f2"
+    },
+    "2023701": {
+        "text": "Attack Stance",
+        "hash": "46c441e2c2ec4229a4872b85fc833a46cf071279b5884ca6d62058ad3a235375"
+    },
+    "2023702": {
+        "text": "Attack Stance",
+        "hash": "46c441e2c2ec4229a4872b85fc833a46cf071279b5884ca6d62058ad3a235375"
+    },
+    "2023703": {
+        "text": "Attack Stance",
+        "hash": "46c441e2c2ec4229a4872b85fc833a46cf071279b5884ca6d62058ad3a235375"
+    },
+    "2023801": {
+        "text": "Breakthrough Plan",
+        "hash": "5396c5cd61cd87f8a1783864ca2aa61132259e6c10adcb681e39785632e7c427"
+    },
+    "2023802": {
+        "text": "Breakthrough Plan",
+        "hash": "5396c5cd61cd87f8a1783864ca2aa61132259e6c10adcb681e39785632e7c427"
+    },
+    "2023803": {
+        "text": "Breakthrough Plan",
+        "hash": "5396c5cd61cd87f8a1783864ca2aa61132259e6c10adcb681e39785632e7c427"
+    },
+    "2023901": {
+        "text": "Frantic State",
+        "hash": "036efc5ed79b994cf0721c5069c65bdb7f95411fabd86046c9dfe03bfc5d2569"
+    },
+    "2023902": {
+        "text": "Frantic State",
+        "hash": "036efc5ed79b994cf0721c5069c65bdb7f95411fabd86046c9dfe03bfc5d2569"
+    },
+    "2023903": {
+        "text": "Frantic State",
+        "hash": "036efc5ed79b994cf0721c5069c65bdb7f95411fabd86046c9dfe03bfc5d2569"
+    },
+    "2024001": {
+        "text": "Mighty Leap",
+        "hash": "15f4c7c8c4ec6d68f9383e8bd3da7e152c2855e944e1ef8284781ede38c06426"
+    },
+    "2024002": {
+        "text": "Mighty Leap",
+        "hash": "15f4c7c8c4ec6d68f9383e8bd3da7e152c2855e944e1ef8284781ede38c06426"
+    },
+    "2024003": {
+        "text": "Mighty Leap",
+        "hash": "15f4c7c8c4ec6d68f9383e8bd3da7e152c2855e944e1ef8284781ede38c06426"
+    },
+    "2024101": {
+        "text": "Ambitions",
+        "hash": "e65edac7d2fce55f95c844d67151e815bb8e6c8a202ddc70fb5a57eafb66a103"
+    },
+    "2024102": {
+        "text": "Ambitions",
+        "hash": "e65edac7d2fce55f95c844d67151e815bb8e6c8a202ddc70fb5a57eafb66a103"
+    },
+    "2024103": {
+        "text": "Ambitions",
+        "hash": "e65edac7d2fce55f95c844d67151e815bb8e6c8a202ddc70fb5a57eafb66a103"
+    },
+    "2024201": {
+        "text": "Devil-May-Care",
+        "hash": "4000dce4eda1cc1252f2df35c6c4f9638bb14ba900f2567a9238a5a56dfaab2d"
+    },
+    "2024202": {
+        "text": "Devil-May-Care",
+        "hash": "4000dce4eda1cc1252f2df35c6c4f9638bb14ba900f2567a9238a5a56dfaab2d"
+    },
+    "2024203": {
+        "text": "Devil-May-Care",
+        "hash": "4000dce4eda1cc1252f2df35c6c4f9638bb14ba900f2567a9238a5a56dfaab2d"
+    },
+    "2024301": {
+        "text": "Firm Step",
+        "hash": "db1e242456aa7641120de18970357f8ba636db910d8555306c00db569f153202"
+    },
+    "2024302": {
+        "text": "Firm Step",
+        "hash": "db1e242456aa7641120de18970357f8ba636db910d8555306c00db569f153202"
+    },
+    "2024303": {
+        "text": "Firm Step",
+        "hash": "db1e242456aa7641120de18970357f8ba636db910d8555306c00db569f153202"
+    },
+    "2024401": {
+        "text": "Gambling Spirit",
+        "hash": "4c3fbfae80ec5046d0eeb3508ba9859c0a6ec864c279afe7dfb8612bb32e2b52"
+    },
+    "2024402": {
+        "text": "Gambling Spirit",
+        "hash": "4c3fbfae80ec5046d0eeb3508ba9859c0a6ec864c279afe7dfb8612bb32e2b52"
+    },
+    "2024403": {
+        "text": "Gambling Spirit",
+        "hash": "4c3fbfae80ec5046d0eeb3508ba9859c0a6ec864c279afe7dfb8612bb32e2b52"
+    },
+    "2024501": {
+        "text": "Razor-Sharp Stride",
+        "hash": "287c159b0338f11587179d6070809c5e0714430b837a84f4f32dbab9a29c2707"
+    },
+    "2024502": {
+        "text": "Razor-Sharp Stride",
+        "hash": "287c159b0338f11587179d6070809c5e0714430b837a84f4f32dbab9a29c2707"
+    },
+    "2024503": {
+        "text": "Razor-Sharp Stride",
+        "hash": "287c159b0338f11587179d6070809c5e0714430b837a84f4f32dbab9a29c2707"
+    },
+    "2024601": {
+        "text": "Steadfast",
+        "hash": "60c81e48e8a6d3df9594a29079de071e17cb537e4f00cb547b667dca8d9fa887"
+    },
+    "2024602": {
+        "text": "Steadfast",
+        "hash": "60c81e48e8a6d3df9594a29079de071e17cb537e4f00cb547b667dca8d9fa887"
+    },
+    "2024603": {
+        "text": "Steadfast",
+        "hash": "60c81e48e8a6d3df9594a29079de071e17cb537e4f00cb547b667dca8d9fa887"
+    },
+    "2024701": {
+        "text": "Tooth and Tail",
+        "hash": "6ab15419d1bcbee4711ef2e09b6351ad8600108e36d964d1d5c307ea1d2ac556"
+    },
+    "2024702": {
+        "text": "Tooth and Tail",
+        "hash": "6ab15419d1bcbee4711ef2e09b6351ad8600108e36d964d1d5c307ea1d2ac556"
+    },
+    "2024703": {
+        "text": "Tooth and Tail",
+        "hash": "6ab15419d1bcbee4711ef2e09b6351ad8600108e36d964d1d5c307ea1d2ac556"
+    },
+    "2024801": {
+        "text": "True Worth",
+        "hash": "ea4cef9ff36d07f10f6bd00f4163edfa882ccd469392bc96127a9b2b6b45ae7f"
+    },
+    "2024802": {
+        "text": "True Worth",
+        "hash": "ea4cef9ff36d07f10f6bd00f4163edfa882ccd469392bc96127a9b2b6b45ae7f"
+    },
+    "2024803": {
+        "text": "True Worth",
+        "hash": "ea4cef9ff36d07f10f6bd00f4163edfa882ccd469392bc96127a9b2b6b45ae7f"
+    },
+    "2024901": {
+        "text": "Witful",
+        "hash": "19c58bd85d37c8ff2c5b471a2dfc6ed53e5d22d270eb65c7b3780c06d7fba4c1"
+    },
+    "2024902": {
+        "text": "Witful",
+        "hash": "19c58bd85d37c8ff2c5b471a2dfc6ed53e5d22d270eb65c7b3780c06d7fba4c1"
+    },
+    "2024903": {
+        "text": "Witful",
+        "hash": "19c58bd85d37c8ff2c5b471a2dfc6ed53e5d22d270eb65c7b3780c06d7fba4c1"
+    },
+    "2025001": {
+        "text": "Rushing in Blind",
+        "hash": "ba59764cf015c20fbb5de999f2347c7a701e9bb81c731d5ca2a4aa4e86efdf5b"
+    },
+    "2025002": {
+        "text": "Rushing in Blind",
+        "hash": "ba59764cf015c20fbb5de999f2347c7a701e9bb81c731d5ca2a4aa4e86efdf5b"
+    },
+    "2025003": {
+        "text": "Rushing in Blind",
+        "hash": "ba59764cf015c20fbb5de999f2347c7a701e9bb81c731d5ca2a4aa4e86efdf5b"
+    },
+    "2025201": {
+        "text": "Mold Breaker",
+        "hash": "ada2f56bb03c51b1d89bcc2774e8de3bb5a49a6345983dfb1945d8289bf52a1e"
+    },
+    "2025202": {
+        "text": "Mold Breaker",
+        "hash": "ada2f56bb03c51b1d89bcc2774e8de3bb5a49a6345983dfb1945d8289bf52a1e"
+    },
+    "2025203": {
+        "text": "Mold Breaker",
+        "hash": "ada2f56bb03c51b1d89bcc2774e8de3bb5a49a6345983dfb1945d8289bf52a1e"
+    },
+    "2025301": {
+        "text": "Graceful Step",
+        "hash": "a645bb9e7fab5903038da2e865be056c05259d2fc2985577434e82dee55b2b1c"
+    },
+    "2025302": {
+        "text": "Graceful Step",
+        "hash": "a645bb9e7fab5903038da2e865be056c05259d2fc2985577434e82dee55b2b1c"
+    },
+    "2025303": {
+        "text": "Graceful Step",
+        "hash": "a645bb9e7fab5903038da2e865be056c05259d2fc2985577434e82dee55b2b1c"
+    },
+    "2025401": {
+        "text": "Pressure",
+        "hash": "649bb9c4a591f1c70ac131662dfbe0387d5f8e8ca9ac3fa20f710e647b423101"
+    },
+    "2025402": {
+        "text": "Pressure",
+        "hash": "649bb9c4a591f1c70ac131662dfbe0387d5f8e8ca9ac3fa20f710e647b423101"
+    },
+    "2025403": {
+        "text": "Pressure",
+        "hash": "649bb9c4a591f1c70ac131662dfbe0387d5f8e8ca9ac3fa20f710e647b423101"
+    },
+    "2025501": {
+        "text": "Rapid",
+        "hash": "db945cfe9f9f8ffeaa77a3d34d81a7deae3dfc94e96d5f618093bdeba5b4db62"
+    },
+    "2025502": {
+        "text": "Rapid",
+        "hash": "db945cfe9f9f8ffeaa77a3d34d81a7deae3dfc94e96d5f618093bdeba5b4db62"
+    },
+    "2025503": {
+        "text": "Rapid",
+        "hash": "db945cfe9f9f8ffeaa77a3d34d81a7deae3dfc94e96d5f618093bdeba5b4db62"
+    },
+    "2025601": {
+        "text": "Lock On",
+        "hash": "686b14af094fa4ec56ac965e68e20b754f3d83e4ee3c485ed5f16eb35f78d65e"
+    },
+    "2025602": {
+        "text": "Lock On",
+        "hash": "686b14af094fa4ec56ac965e68e20b754f3d83e4ee3c485ed5f16eb35f78d65e"
+    },
+    "2025603": {
+        "text": "Lock On",
+        "hash": "686b14af094fa4ec56ac965e68e20b754f3d83e4ee3c485ed5f16eb35f78d65e"
+    },
+    "2025801": {
+        "text": "Stay the Course",
+        "hash": "2e2c42b993e163950cd32300ad0f2f831aa5afc48e5bfdaf005a07d76f15c9e2"
+    },
+    "2025802": {
+        "text": "Stay the Course",
+        "hash": "2e2c42b993e163950cd32300ad0f2f831aa5afc48e5bfdaf005a07d76f15c9e2"
+    },
+    "2025803": {
+        "text": "Stay the Course",
+        "hash": "2e2c42b993e163950cd32300ad0f2f831aa5afc48e5bfdaf005a07d76f15c9e2"
+    },
+    "2025901": {
+        "text": "Great Haste",
+        "hash": "085dae6b64f4dd3fef0b726ebd64caffef68d58d45be1c3a0db6291ee559aeb6"
+    },
+    "2025902": {
+        "text": "Great Haste",
+        "hash": "085dae6b64f4dd3fef0b726ebd64caffef68d58d45be1c3a0db6291ee559aeb6"
+    },
+    "2025903": {
+        "text": "Great Haste",
+        "hash": "085dae6b64f4dd3fef0b726ebd64caffef68d58d45be1c3a0db6291ee559aeb6"
+    },
+    "2026001": {
+        "text": "Ignition",
+        "hash": "7d54c1f9743bd935281b29b65a8d7d10054c8e2c87075a5342565af11016a5d1"
+    },
+    "2026002": {
+        "text": "Ignition",
+        "hash": "7d54c1f9743bd935281b29b65a8d7d10054c8e2c87075a5342565af11016a5d1"
+    },
+    "2026003": {
+        "text": "Ignition",
+        "hash": "7d54c1f9743bd935281b29b65a8d7d10054c8e2c87075a5342565af11016a5d1"
+    },
+    "2026101": {
+        "text": "Overflowing Passion",
+        "hash": "cd6df00446e68dcecacab06d12ca3e2eace81c3faaa19f676cceb46f1614ede0"
+    },
+    "2026102": {
+        "text": "Overflowing Passion",
+        "hash": "cd6df00446e68dcecacab06d12ca3e2eace81c3faaa19f676cceb46f1614ede0"
+    },
+    "2026103": {
+        "text": "Overflowing Passion",
+        "hash": "cd6df00446e68dcecacab06d12ca3e2eace81c3faaa19f676cceb46f1614ede0"
+    },
+    "2026201": {
+        "text": "On the Move",
+        "hash": "5e9533d91f1070b395e6d06927cfb927838a03d9c17da608c8910b2c82d5b96d"
+    },
+    "2026202": {
+        "text": "On the Move",
+        "hash": "5e9533d91f1070b395e6d06927cfb927838a03d9c17da608c8910b2c82d5b96d"
+    },
+    "2026203": {
+        "text": "On the Move",
+        "hash": "5e9533d91f1070b395e6d06927cfb927838a03d9c17da608c8910b2c82d5b96d"
+    },
+    "2026401": {
+        "text": "From the First Step",
+        "hash": "a8f3b2de207850b93209e82f4659de140f290f3ae1369c129fa0a4fb1fa0d438"
+    },
+    "2026402": {
+        "text": "From the First Step",
+        "hash": "a8f3b2de207850b93209e82f4659de140f290f3ae1369c129fa0a4fb1fa0d438"
+    },
+    "2026403": {
+        "text": "From the First Step",
+        "hash": "a8f3b2de207850b93209e82f4659de140f290f3ae1369c129fa0a4fb1fa0d438"
+    },
+    "2026501": {
+        "text": "Self-Assured",
+        "hash": "7adaf7292e4bfcd1eb2495355650630a7c1cfc1c676628edf44dc329829d924f"
+    },
+    "2026502": {
+        "text": "Self-Assured",
+        "hash": "7adaf7292e4bfcd1eb2495355650630a7c1cfc1c676628edf44dc329829d924f"
+    },
+    "2026503": {
+        "text": "Self-Assured",
+        "hash": "7adaf7292e4bfcd1eb2495355650630a7c1cfc1c676628edf44dc329829d924f"
+    },
+    "2026601": {
+        "text": "Rising Passion",
+        "hash": "aacded1112425e4ed68762361711b0b74a43642c5398b1cf11bca40ad3973444"
+    },
+    "2026602": {
+        "text": "Rising Passion",
+        "hash": "aacded1112425e4ed68762361711b0b74a43642c5398b1cf11bca40ad3973444"
+    },
+    "2026603": {
+        "text": "Rising Passion",
+        "hash": "aacded1112425e4ed68762361711b0b74a43642c5398b1cf11bca40ad3973444"
+    },
+    "2026701": {
+        "text": "High Hopes",
+        "hash": "f27fd2dfdb2776d6bff3b9d9aa0e77304d5fb31d72d6229364fdb4b7a5b051c3"
+    },
+    "2026702": {
+        "text": "High Hopes",
+        "hash": "f27fd2dfdb2776d6bff3b9d9aa0e77304d5fb31d72d6229364fdb4b7a5b051c3"
+    },
+    "2026703": {
+        "text": "High Hopes",
+        "hash": "f27fd2dfdb2776d6bff3b9d9aa0e77304d5fb31d72d6229364fdb4b7a5b051c3"
+    },
+    "2026801": {
+        "text": "Up the Vibes",
+        "hash": "d54d5d2e9422e8d2fceaa60501fb562efd4f8ac71867ddc76de8ca7c18e7972d"
+    },
+    "2026802": {
+        "text": "Up the Vibes",
+        "hash": "d54d5d2e9422e8d2fceaa60501fb562efd4f8ac71867ddc76de8ca7c18e7972d"
+    },
+    "2026803": {
+        "text": "Up the Vibes",
+        "hash": "d54d5d2e9422e8d2fceaa60501fb562efd4f8ac71867ddc76de8ca7c18e7972d"
+    },
+    "2026901": {
+        "text": "Early Bird",
+        "hash": "e0665abd057d25c3fc126cdae8eadd1354dad23194bd2e99c7d5e2ae3dd2e346"
+    },
+    "2026902": {
+        "text": "Early Bird",
+        "hash": "e0665abd057d25c3fc126cdae8eadd1354dad23194bd2e99c7d5e2ae3dd2e346"
+    },
+    "2026903": {
+        "text": "Early Bird",
+        "hash": "e0665abd057d25c3fc126cdae8eadd1354dad23194bd2e99c7d5e2ae3dd2e346"
+    },
+    "2027001": {
+        "text": "Inquisitive Mind",
+        "hash": "fa18c793cf611a75419022a0942fbaddac0d417db1420944a2599d5cb90200ac"
+    },
+    "2027002": {
+        "text": "Inquisitive Mind",
+        "hash": "fa18c793cf611a75419022a0942fbaddac0d417db1420944a2599d5cb90200ac"
+    },
+    "2027003": {
+        "text": "Inquisitive Mind",
+        "hash": "fa18c793cf611a75419022a0942fbaddac0d417db1420944a2599d5cb90200ac"
+    },
+    "2027101": {
+        "text": "Satisfying Pace",
+        "hash": "4fbc357e17d7efa5ea609390c7e3b2e69c3f3f7f39601bd25fa342150e83e73d"
+    },
+    "2027102": {
+        "text": "Satisfying Pace",
+        "hash": "4fbc357e17d7efa5ea609390c7e3b2e69c3f3f7f39601bd25fa342150e83e73d"
+    },
+    "2027103": {
+        "text": "Satisfying Pace",
+        "hash": "4fbc357e17d7efa5ea609390c7e3b2e69c3f3f7f39601bd25fa342150e83e73d"
+    },
+    "2027201": {
+        "text": "Unbreakable Mind",
+        "hash": "bfcffa4529a543cba8c7ae92ec841c77963042a4b9636a7e7aa3906b5f60e90f"
+    },
+    "2027202": {
+        "text": "Unbreakable Mind",
+        "hash": "bfcffa4529a543cba8c7ae92ec841c77963042a4b9636a7e7aa3906b5f60e90f"
+    },
+    "2027203": {
+        "text": "Unbreakable Mind",
+        "hash": "bfcffa4529a543cba8c7ae92ec841c77963042a4b9636a7e7aa3906b5f60e90f"
+    },
+    "2027301": {
+        "text": "Longchamp Racecourse ○",
+        "hash": "c8f5e1d996df26a92bb977a00173c7cd17d1587749b4e78108977be1d2331b09"
+    },
+    "2027302": {
+        "text": "Longchamp Racecourse ○",
+        "hash": "c8f5e1d996df26a92bb977a00173c7cd17d1587749b4e78108977be1d2331b09"
+    },
+    "2027303": {
+        "text": "Longchamp Racecourse ○",
+        "hash": "c8f5e1d996df26a92bb977a00173c7cd17d1587749b4e78108977be1d2331b09"
+    },
+    "2027401": {
+        "text": "Refined Conduct",
+        "hash": "d1815d4d746668903e6adf4536ae7e91e2088c4a79c81683d44e638db3dc3b03"
+    },
+    "2027402": {
+        "text": "Refined Conduct",
+        "hash": "d1815d4d746668903e6adf4536ae7e91e2088c4a79c81683d44e638db3dc3b03"
+    },
+    "2027403": {
+        "text": "Refined Conduct",
+        "hash": "d1815d4d746668903e6adf4536ae7e91e2088c4a79c81683d44e638db3dc3b03"
+    },
+    "2027501": {
+        "text": "Single-Minded Advance",
+        "hash": "b8d9aeec81e0336bf072b405f3575e32af630e895a04631dd2ec6359e23cea55"
+    },
+    "2027502": {
+        "text": "Single-Minded Advance",
+        "hash": "b8d9aeec81e0336bf072b405f3575e32af630e895a04631dd2ec6359e23cea55"
+    },
+    "2027503": {
+        "text": "Single-Minded Advance",
+        "hash": "b8d9aeec81e0336bf072b405f3575e32af630e895a04631dd2ec6359e23cea55"
+    },
+    "2027601": {
+        "text": "Toward Victory",
+        "hash": "2547aff483cb5f48577d9dac7ae4ef5a5ca2b3e2e96dde0d2b129aad4630fd8e"
+    },
+    "2027602": {
+        "text": "Toward Victory",
+        "hash": "2547aff483cb5f48577d9dac7ae4ef5a5ca2b3e2e96dde0d2b129aad4630fd8e"
+    },
+    "2027603": {
+        "text": "Toward Victory",
+        "hash": "2547aff483cb5f48577d9dac7ae4ef5a5ca2b3e2e96dde0d2b129aad4630fd8e"
+    },
+    "2027701": {
+        "text": "Honing In",
+        "hash": "183db81c9365d290faba33441cf2a188996e2042d1ea0c94357c2f206c4a9fc3"
+    },
+    "2027702": {
+        "text": "Honing In",
+        "hash": "183db81c9365d290faba33441cf2a188996e2042d1ea0c94357c2f206c4a9fc3"
+    },
+    "2027703": {
+        "text": "Honing In",
+        "hash": "183db81c9365d290faba33441cf2a188996e2042d1ea0c94357c2f206c4a9fc3"
+    },
+    "2027901": {
+        "text": "Middle Leg Adept",
+        "hash": "36263f8195138121b538edf043437ee26a52d06887141b4d239bbf11d615a52b"
+    },
+    "2027902": {
+        "text": "Middle Leg Adept",
+        "hash": "36263f8195138121b538edf043437ee26a52d06887141b4d239bbf11d615a52b"
+    },
+    "2027903": {
+        "text": "Middle Leg Adept",
+        "hash": "36263f8195138121b538edf043437ee26a52d06887141b4d239bbf11d615a52b"
+    },
+    "2028001": {
+        "text": "Opening Leg Adept",
+        "hash": "e2e36dc9c0c942efcf835a091adae54abe7ebc7fa96150fd6222f0a882ce3ff8"
+    },
+    "2028002": {
+        "text": "Opening Leg Adept",
+        "hash": "e2e36dc9c0c942efcf835a091adae54abe7ebc7fa96150fd6222f0a882ce3ff8"
+    },
+    "2028003": {
+        "text": "Opening Leg Adept",
+        "hash": "e2e36dc9c0c942efcf835a091adae54abe7ebc7fa96150fd6222f0a882ce3ff8"
+    },
+    "2028101": {
+        "text": "Finale",
+        "hash": "545d511d565422cbf0cd4406963ddae537a27b134a9b4229c02efc5b3c45353d"
+    },
+    "2028102": {
+        "text": "Finale",
+        "hash": "545d511d565422cbf0cd4406963ddae537a27b134a9b4229c02efc5b3c45353d"
+    },
+    "2028103": {
+        "text": "Finale",
+        "hash": "545d511d565422cbf0cd4406963ddae537a27b134a9b4229c02efc5b3c45353d"
+    },
+    "2028201": {
+        "text": "No Hesitation",
+        "hash": "6b7744875e5a082f5953163c9c7bcef9f0ef04b1576d132ce77b9f648c4923a0"
+    },
+    "2028202": {
+        "text": "No Hesitation",
+        "hash": "6b7744875e5a082f5953163c9c7bcef9f0ef04b1576d132ce77b9f648c4923a0"
+    },
+    "2028203": {
+        "text": "No Hesitation",
+        "hash": "6b7744875e5a082f5953163c9c7bcef9f0ef04b1576d132ce77b9f648c4923a0"
+    },
+    "2100101": {
+        "text": "Aoharu Ignition・Speed",
+        "hash": "07ae7e34d4e5c3d43127796610ea2bdcb890d59b4c0bc963d7181b6e7a29a664"
+    },
+    "2100102": {
+        "text": "Aoharu Ignition・Speed",
+        "hash": "07ae7e34d4e5c3d43127796610ea2bdcb890d59b4c0bc963d7181b6e7a29a664"
+    },
+    "2100103": {
+        "text": "Aoharu Ignition・Speed",
+        "hash": "07ae7e34d4e5c3d43127796610ea2bdcb890d59b4c0bc963d7181b6e7a29a664"
+    },
+    "2100201": {
+        "text": "Aoharu Ignition・Stamina",
+        "hash": "5e0fd8613e8d05491d3dbfc995c646274b3f2c123ef08fb8d40d9c8f6b78e456"
+    },
+    "2100202": {
+        "text": "Aoharu Ignition・Stamina",
+        "hash": "5e0fd8613e8d05491d3dbfc995c646274b3f2c123ef08fb8d40d9c8f6b78e456"
+    },
+    "2100203": {
+        "text": "Aoharu Ignition・Stamina",
+        "hash": "5e0fd8613e8d05491d3dbfc995c646274b3f2c123ef08fb8d40d9c8f6b78e456"
+    },
+    "2100301": {
+        "text": "Aoharu Ignition・Power",
+        "hash": "0fb23bbc448aafc8bdc70e9c7cb2925dabbb04cc225e2216f83661b858d1b410"
+    },
+    "2100302": {
+        "text": "Aoharu Ignition・Power",
+        "hash": "0fb23bbc448aafc8bdc70e9c7cb2925dabbb04cc225e2216f83661b858d1b410"
+    },
+    "2100303": {
+        "text": "Aoharu Ignition・Power",
+        "hash": "0fb23bbc448aafc8bdc70e9c7cb2925dabbb04cc225e2216f83661b858d1b410"
+    },
+    "2100401": {
+        "text": "Aoharu Ignition・Guts",
+        "hash": "a9e440dbcf9a9b0f15fb7763d9186f4165603654cf0fcb552070cfc83403f4b6"
+    },
+    "2100402": {
+        "text": "Aoharu Ignition・Guts",
+        "hash": "a9e440dbcf9a9b0f15fb7763d9186f4165603654cf0fcb552070cfc83403f4b6"
+    },
+    "2100403": {
+        "text": "Aoharu Ignition・Guts",
+        "hash": "a9e440dbcf9a9b0f15fb7763d9186f4165603654cf0fcb552070cfc83403f4b6"
+    },
+    "2100501": {
+        "text": "Aoharu Ignition・Wisdom",
+        "hash": "5a9fe10b865873e397f0437ff4a4c5a7a6bd7d0b614d47e4dae06806d68782b2"
+    },
+    "2100502": {
+        "text": "Aoharu Ignition・Wisdom",
+        "hash": "5a9fe10b865873e397f0437ff4a4c5a7a6bd7d0b614d47e4dae06806d68782b2"
+    },
+    "2100503": {
+        "text": "Aoharu Ignition・Wisdom",
+        "hash": "5a9fe10b865873e397f0437ff4a4c5a7a6bd7d0b614d47e4dae06806d68782b2"
+    },
+    "2100601": {
+        "text": "Glittering Stars",
+        "hash": "2fa9f763f91fcafa980082154a358c11f12bd135161a7c430469cc16c3050f18"
+    },
+    "2100602": {
+        "text": "Glittering Stars",
+        "hash": "2fa9f763f91fcafa980082154a358c11f12bd135161a7c430469cc16c3050f18"
+    },
+    "2100603": {
+        "text": "Glittering Stars",
+        "hash": "2fa9f763f91fcafa980082154a358c11f12bd135161a7c430469cc16c3050f18"
+    },
+    "2100701": {
+        "text": "Halfway to a Dream",
+        "hash": "dff224a311d1849f4dbef2e9f79ecbab247bd6308cf4d994eab0731c7ee159f5"
+    },
+    "2100702": {
+        "text": "Halfway to a Dream",
+        "hash": "dff224a311d1849f4dbef2e9f79ecbab247bd6308cf4d994eab0731c7ee159f5"
+    },
+    "2100703": {
+        "text": "Halfway to a Dream",
+        "hash": "dff224a311d1849f4dbef2e9f79ecbab247bd6308cf4d994eab0731c7ee159f5"
+    },
+    "2100801": {
+        "text": "Essence of Racing・Speed",
+        "hash": "8b3b42b5c9d91b498789ccdb3de17add8bba854dfed0e89af162faf75d8458e9"
+    },
+    "2100802": {
+        "text": "Essence of Racing・Speed",
+        "hash": "8b3b42b5c9d91b498789ccdb3de17add8bba854dfed0e89af162faf75d8458e9"
+    },
+    "2100803": {
+        "text": "Essence of Racing・Speed",
+        "hash": "8b3b42b5c9d91b498789ccdb3de17add8bba854dfed0e89af162faf75d8458e9"
+    },
+    "2100901": {
+        "text": "Essence of Racing・Stamina",
+        "hash": "4c6e5517004570368c4cc17ddd9cd48768c8c9b67c88cc0237a9c46b70fadd95"
+    },
+    "2100902": {
+        "text": "Essence of Racing・Stamina",
+        "hash": "4c6e5517004570368c4cc17ddd9cd48768c8c9b67c88cc0237a9c46b70fadd95"
+    },
+    "2100903": {
+        "text": "Essence of Racing・Stamina",
+        "hash": "4c6e5517004570368c4cc17ddd9cd48768c8c9b67c88cc0237a9c46b70fadd95"
+    },
+    "2101001": {
+        "text": "Essence of Racing・Power",
+        "hash": "7bb4d6e578b89bd43ef5078492b850ddf3b2bff34265a202389d513f6ef602cf"
+    },
+    "2101002": {
+        "text": "Essence of Racing・Power",
+        "hash": "7bb4d6e578b89bd43ef5078492b850ddf3b2bff34265a202389d513f6ef602cf"
+    },
+    "2101003": {
+        "text": "Essence of Racing・Power",
+        "hash": "7bb4d6e578b89bd43ef5078492b850ddf3b2bff34265a202389d513f6ef602cf"
+    },
+    "2101101": {
+        "text": "Essence of Racing・Guts",
+        "hash": "e6b433c4c4860e2852275e3decebbb66960bd634119b263ac659e7838f7eb018"
+    },
+    "2101102": {
+        "text": "Essence of Racing・Guts",
+        "hash": "e6b433c4c4860e2852275e3decebbb66960bd634119b263ac659e7838f7eb018"
+    },
+    "2101103": {
+        "text": "Essence of Racing・Guts",
+        "hash": "e6b433c4c4860e2852275e3decebbb66960bd634119b263ac659e7838f7eb018"
+    },
+    "2101201": {
+        "text": "Essence of Racing・Wisdom",
+        "hash": "7435089b46cc0a15b8c8364cfef39d9807a80f0b63ca9a86d12c3f6e53b37dc9"
+    },
+    "2101202": {
+        "text": "Essence of Racing・Wisdom",
+        "hash": "7435089b46cc0a15b8c8364cfef39d9807a80f0b63ca9a86d12c3f6e53b37dc9"
+    },
+    "2101203": {
+        "text": "Essence of Racing・Wisdom",
+        "hash": "7435089b46cc0a15b8c8364cfef39d9807a80f0b63ca9a86d12c3f6e53b37dc9"
+    },
+    "2101301": {
+        "text": "Essence of Racing・Energy",
+        "hash": "f9a324f0cdb118da0395abccada254f34c7c0da4706a34d9d3589bf7361975a4"
+    },
+    "2101302": {
+        "text": "Essence of Racing・Energy",
+        "hash": "f9a324f0cdb118da0395abccada254f34c7c0da4706a34d9d3589bf7361975a4"
+    },
+    "2101303": {
+        "text": "Essence of Racing・Energy",
+        "hash": "f9a324f0cdb118da0395abccada254f34c7c0da4706a34d9d3589bf7361975a4"
+    },
+    "2102001": {
+        "text": "Eyes on the Horizon",
+        "hash": "d264bb5eeb936b5469ed0c7cb2fbf404db91b8c0cff1b3cd7f5161668ed48b42"
+    },
+    "2102002": {
+        "text": "Eyes on the Horizon",
+        "hash": "d264bb5eeb936b5469ed0c7cb2fbf404db91b8c0cff1b3cd7f5161668ed48b42"
+    },
+    "2102003": {
+        "text": "Eyes on the Horizon",
+        "hash": "d264bb5eeb936b5469ed0c7cb2fbf404db91b8c0cff1b3cd7f5161668ed48b42"
+    },
+    "2102601": {
+        "text": "Blessing of the Sun",
+        "hash": "9cc71a444041130fe15be84400aa244927460c72019475926a03674a4d69a710"
+    },
+    "2102602": {
+        "text": "Blessing of the Sun",
+        "hash": "9cc71a444041130fe15be84400aa244927460c72019475926a03674a4d69a710"
+    },
+    "2102603": {
+        "text": "Blessing of the Sun",
+        "hash": "9cc71a444041130fe15be84400aa244927460c72019475926a03674a4d69a710"
+    },
+    "2102701": {
+        "text": "Blessing of the Ocean",
+        "hash": "3564db29d99dd5825cbe9f515ac9e9342361e8ca9152b887aeaab99f5e3d662c"
+    },
+    "2102702": {
+        "text": "Blessing of the Ocean",
+        "hash": "3564db29d99dd5825cbe9f515ac9e9342361e8ca9152b887aeaab99f5e3d662c"
+    },
+    "2102703": {
+        "text": "Blessing of the Ocean",
+        "hash": "3564db29d99dd5825cbe9f515ac9e9342361e8ca9152b887aeaab99f5e3d662c"
+    },
+    "2102801": {
+        "text": "Blessing of the Land",
+        "hash": "4effcd1812b60a0ed00e6dbe58f951c802df11fb5b43cc1f65795ee4bddb1f0e"
+    },
+    "2102802": {
+        "text": "Blessing of the Land",
+        "hash": "4effcd1812b60a0ed00e6dbe58f951c802df11fb5b43cc1f65795ee4bddb1f0e"
+    },
+    "2102803": {
+        "text": "Blessing of the Land",
+        "hash": "4effcd1812b60a0ed00e6dbe58f951c802df11fb5b43cc1f65795ee4bddb1f0e"
+    },
+    "2102901": {
+        "text": "Bearer of Hope",
+        "hash": "1c32c091f85b162d46376ebbde24aa0672a4094f892b337698c60799599545b8"
+    },
+    "2102902": {
+        "text": "Bearer of Hope",
+        "hash": "1c32c091f85b162d46376ebbde24aa0672a4094f892b337698c60799599545b8"
+    },
+    "2102903": {
+        "text": "Bearer of Hope",
+        "hash": "1c32c091f85b162d46376ebbde24aa0672a4094f892b337698c60799599545b8"
     },
     "3100101": {
         "text": "Overseas Turf Aptitude",
@@ -310,5 +3382,1841 @@
     "3101003": {
         "text": "L'Arc Domination Dreams",
         "hash": "cee4a4309dcae1a22cdd78abc408e450cdfceb572e5177449e4a70ab036356d3"
+    },
+    "4000101": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "4000102": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "4000103": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "4000104": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "4000105": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "4000106": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "10010101": {
+        "text": "Shooting Star",
+        "hash": "398123fcde08508e687fdba5addb22587eec3b2339ecac24fc0bee73a92f75b1"
+    },
+    "10010102": {
+        "text": "Shooting Star",
+        "hash": "398123fcde08508e687fdba5addb22587eec3b2339ecac24fc0bee73a92f75b1"
+    },
+    "10010103": {
+        "text": "Shooting Star",
+        "hash": "398123fcde08508e687fdba5addb22587eec3b2339ecac24fc0bee73a92f75b1"
+    },
+    "10010201": {
+        "text": "Wayakawa ♪ Marine Dive",
+        "hash": "48139151053bf80fd65e4bc4e2d3a978cff7f466e63b7b866b8eb7bb5bc4aa2b"
+    },
+    "10010202": {
+        "text": "Wayakawa ♪ Marine Dive",
+        "hash": "48139151053bf80fd65e4bc4e2d3a978cff7f466e63b7b866b8eb7bb5bc4aa2b"
+    },
+    "10010203": {
+        "text": "Wayakawa ♪ Marine Dive",
+        "hash": "48139151053bf80fd65e4bc4e2d3a978cff7f466e63b7b866b8eb7bb5bc4aa2b"
+    },
+    "10010301": {
+        "text": "Dignified Dreamlike Brocade",
+        "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f"
+    },
+    "10010302": {
+        "text": "Dignified Dreamlike Brocade",
+        "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f"
+    },
+    "10010303": {
+        "text": "Dignified Dreamlike Brocade",
+        "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f"
+    },
+    "10020101": {
+        "text": "I'm Not Giving up the Lead!",
+        "hash": "5ccc205d1c97c796c6148df621e913dec54c9369a1f1893d7e815b911ed1a69f"
+    },
+    "10020102": {
+        "text": "I'm Not Giving up the Lead!",
+        "hash": "5ccc205d1c97c796c6148df621e913dec54c9369a1f1893d7e815b911ed1a69f"
+    },
+    "10020103": {
+        "text": "I'm Not Giving up the Lead!",
+        "hash": "5ccc205d1c97c796c6148df621e913dec54c9369a1f1893d7e815b911ed1a69f"
+    },
+    "10020201": {
+        "text": "Beyond the Ocean's Infinity",
+        "hash": "aeb3fcd93046aa29231b89447ba94130d711e752a916eb5fd23bd5656064827a"
+    },
+    "10020202": {
+        "text": "Beyond the Ocean's Infinity",
+        "hash": "aeb3fcd93046aa29231b89447ba94130d711e752a916eb5fd23bd5656064827a"
+    },
+    "10020203": {
+        "text": "Beyond the Ocean's Infinity",
+        "hash": "aeb3fcd93046aa29231b89447ba94130d711e752a916eb5fd23bd5656064827a"
+    },
+    "10030101": {
+        "text": "Ultimate Teio Step",
+        "hash": "780e3ff31efb225534cb76a497b412b5e2e0ce7dc83ab1c299f3f13923958030"
+    },
+    "10030102": {
+        "text": "Ultimate Teio Step",
+        "hash": "780e3ff31efb225534cb76a497b412b5e2e0ce7dc83ab1c299f3f13923958030"
+    },
+    "10030103": {
+        "text": "Ultimate Teio Step",
+        "hash": "780e3ff31efb225534cb76a497b412b5e2e0ce7dc83ab1c299f3f13923958030"
+    },
+    "10030201": {
+        "text": "It's Going to Be Me",
+        "hash": "8e20edb26a1a63635af631d4df3b8a8a4a64e9ff76e6a61cc912427c19921bbd"
+    },
+    "10030202": {
+        "text": "It's Going to Be Me",
+        "hash": "8e20edb26a1a63635af631d4df3b8a8a4a64e9ff76e6a61cc912427c19921bbd"
+    },
+    "10030203": {
+        "text": "It's Going to Be Me",
+        "hash": "8e20edb26a1a63635af631d4df3b8a8a4a64e9ff76e6a61cc912427c19921bbd"
+    },
+    "10030301": {
+        "text": "Merrymaking Song and Dance",
+        "hash": "67bac01efc886bc4c7ac2a1ed835355a17a4cf0eb613e7deeb81bd4f1c53e7c3"
+    },
+    "10030302": {
+        "text": "Merrymaking Song and Dance",
+        "hash": "67bac01efc886bc4c7ac2a1ed835355a17a4cf0eb613e7deeb81bd4f1c53e7c3"
+    },
+    "10030303": {
+        "text": "Merrymaking Song and Dance",
+        "hash": "67bac01efc886bc4c7ac2a1ed835355a17a4cf0eb613e7deeb81bd4f1c53e7c3"
+    },
+    "10040101": {
+        "text": "Red Flame Gear/LP1211-M",
+        "hash": "0fc29f26a6de3c35b8c210d678f1ee3697fdd3c537a194a14e2994d551b35dd3"
+    },
+    "10040102": {
+        "text": "Red Flame Gear/LP1211-M",
+        "hash": "0fc29f26a6de3c35b8c210d678f1ee3697fdd3c537a194a14e2994d551b35dd3"
+    },
+    "10040103": {
+        "text": "Red Flame Gear/LP1211-M",
+        "hash": "0fc29f26a6de3c35b8c210d678f1ee3697fdd3c537a194a14e2994d551b35dd3"
+    },
+    "10040201": {
+        "text": "Heartfelt ♪ Smooch",
+        "hash": "0567a2e716eaaa6978af059776b21519eb903f9d4c5140732fdea9b08b3e4b2a"
+    },
+    "10040202": {
+        "text": "Heartfelt ♪ Smooch",
+        "hash": "0567a2e716eaaa6978af059776b21519eb903f9d4c5140732fdea9b08b3e4b2a"
+    },
+    "10040203": {
+        "text": "Heartfelt ♪ Smooch",
+        "hash": "0567a2e716eaaa6978af059776b21519eb903f9d4c5140732fdea9b08b3e4b2a"
+    },
+    "10050101": {
+        "text": "Glittering Star Vaudeville",
+        "hash": "2b5d9e801b0e8138b7244ec8d05408c089b455b2bbbfc36a3dee173022773005"
+    },
+    "10050102": {
+        "text": "Glittering Star Vaudeville",
+        "hash": "2b5d9e801b0e8138b7244ec8d05408c089b455b2bbbfc36a3dee173022773005"
+    },
+    "10050103": {
+        "text": "Glittering Star Vaudeville",
+        "hash": "2b5d9e801b0e8138b7244ec8d05408c089b455b2bbbfc36a3dee173022773005"
+    },
+    "10050201": {
+        "text": "Ravissante",
+        "hash": "6b3fb833160596c594738f3aee7b929e81999e31903aa625f9f149261a7c43d5"
+    },
+    "10050202": {
+        "text": "Ravissante",
+        "hash": "6b3fb833160596c594738f3aee7b929e81999e31903aa625f9f149261a7c43d5"
+    },
+    "10050203": {
+        "text": "Ravissante",
+        "hash": "6b3fb833160596c594738f3aee7b929e81999e31903aa625f9f149261a7c43d5"
+    },
+    "10060101": {
+        "text": "The Beat of Victory",
+        "hash": "02fadddb6c7f20be0b386bb8c25fc46b5525a68f14b076cc2237fdeb4413070b"
+    },
+    "10060102": {
+        "text": "The Beat of Victory",
+        "hash": "02fadddb6c7f20be0b386bb8c25fc46b5525a68f14b076cc2237fdeb4413070b"
+    },
+    "10060103": {
+        "text": "The Beat of Victory",
+        "hash": "02fadddb6c7f20be0b386bb8c25fc46b5525a68f14b076cc2237fdeb4413070b"
+    },
+    "10060201": {
+        "text": "Christmas Eve Miracle Run!",
+        "hash": "f7a92ed6913c711a331b362e3b21bac7dae8188f10deafa26154efda1ee5090f"
+    },
+    "10060202": {
+        "text": "Christmas Eve Miracle Run!",
+        "hash": "f7a92ed6913c711a331b362e3b21bac7dae8188f10deafa26154efda1ee5090f"
+    },
+    "10060203": {
+        "text": "Christmas Eve Miracle Run!",
+        "hash": "f7a92ed6913c711a331b362e3b21bac7dae8188f10deafa26154efda1ee5090f"
+    },
+    "10070101": {
+        "text": "Unsinkable Ship, Anchored!",
+        "hash": "b30d8fe66c4d9fe96e0d81a7ea118ae2aa07aba297e0be8a2a9a9f07c8580b48"
+    },
+    "10070102": {
+        "text": "Unsinkable Ship, Anchored!",
+        "hash": "b30d8fe66c4d9fe96e0d81a7ea118ae2aa07aba297e0be8a2a9a9f07c8580b48"
+    },
+    "10070103": {
+        "text": "Unsinkable Ship, Anchored!",
+        "hash": "b30d8fe66c4d9fe96e0d81a7ea118ae2aa07aba297e0be8a2a9a9f07c8580b48"
+    },
+    "10070201": {
+        "text": "Adventure of 564",
+        "hash": "f6afc3adafc18bdb22ecb069c4b1cb31f4140dcd9bfdd1052a609ae4e5ca99a2"
+    },
+    "10070202": {
+        "text": "Adventure of 564",
+        "hash": "f6afc3adafc18bdb22ecb069c4b1cb31f4140dcd9bfdd1052a609ae4e5ca99a2"
+    },
+    "10070203": {
+        "text": "Adventure of 564",
+        "hash": "f6afc3adafc18bdb22ecb069c4b1cb31f4140dcd9bfdd1052a609ae4e5ca99a2"
+    },
+    "10070301": {
+        "text": "Vive la GOLD",
+        "hash": "897ef29af4165c554ce754a8e7f51e6331a41456d38be04bab48475cc6239bc4"
+    },
+    "10070302": {
+        "text": "Vive la GOLD",
+        "hash": "897ef29af4165c554ce754a8e7f51e6331a41456d38be04bab48475cc6239bc4"
+    },
+    "10070303": {
+        "text": "Vive la GOLD",
+        "hash": "897ef29af4165c554ce754a8e7f51e6331a41456d38be04bab48475cc6239bc4"
+    },
+    "10080101": {
+        "text": "Cutting × DRIVE!",
+        "hash": "4cc1cf6746dce5e65fa688254a3801f677ef80c3bf3a1239b7e113c9a1d45eb5"
+    },
+    "10080102": {
+        "text": "Cutting × DRIVE!",
+        "hash": "4cc1cf6746dce5e65fa688254a3801f677ef80c3bf3a1239b7e113c9a1d45eb5"
+    },
+    "10080103": {
+        "text": "Cutting × DRIVE!",
+        "hash": "4cc1cf6746dce5e65fa688254a3801f677ef80c3bf3a1239b7e113c9a1d45eb5"
+    },
+    "10080201": {
+        "text": "Into High Gear!",
+        "hash": "3ac7d3508b3843d7405e5a57c394562e91e34c11edc81298d7f1c1fbe8f8c41e"
+    },
+    "10080202": {
+        "text": "Into High Gear!",
+        "hash": "3ac7d3508b3843d7405e5a57c394562e91e34c11edc81298d7f1c1fbe8f8c41e"
+    },
+    "10080203": {
+        "text": "Into High Gear!",
+        "hash": "3ac7d3508b3843d7405e5a57c394562e91e34c11edc81298d7f1c1fbe8f8c41e"
+    },
+    "10090101": {
+        "text": "Brilliant Red Ace",
+        "hash": "1dc119f9e52d2798d963f72b3695231492b14bbb871ae85bbceddc8b72466911"
+    },
+    "10090102": {
+        "text": "Brilliant Red Ace",
+        "hash": "1dc119f9e52d2798d963f72b3695231492b14bbb871ae85bbceddc8b72466911"
+    },
+    "10090103": {
+        "text": "Brilliant Red Ace",
+        "hash": "1dc119f9e52d2798d963f72b3695231492b14bbb871ae85bbceddc8b72466911"
+    },
+    "10090201": {
+        "text": "Queen's Lumination",
+        "hash": "0d15e5a8745a30eba6463bcb5997f0c6afe7459ed725a647c6011beed311d85b"
+    },
+    "10090202": {
+        "text": "Queen's Lumination",
+        "hash": "0d15e5a8745a30eba6463bcb5997f0c6afe7459ed725a647c6011beed311d85b"
+    },
+    "10090203": {
+        "text": "Queen's Lumination",
+        "hash": "0d15e5a8745a30eba6463bcb5997f0c6afe7459ed725a647c6011beed311d85b"
+    },
+    "10100101": {
+        "text": "Victory Shot!",
+        "hash": "14d93056fc4cf3b79b15f840867f7f641bb9e971c869a55cec2ab668d2b4438e"
+    },
+    "10100102": {
+        "text": "Victory Shot!",
+        "hash": "14d93056fc4cf3b79b15f840867f7f641bb9e971c869a55cec2ab668d2b4438e"
+    },
+    "10100103": {
+        "text": "Victory Shot!",
+        "hash": "14d93056fc4cf3b79b15f840867f7f641bb9e971c869a55cec2ab668d2b4438e"
+    },
+    "10100201": {
+        "text": "Joyful Voyage!",
+        "hash": "927a6b412b23ff2195ebab3bed371e3e7e670c933446fe4f6bc29f0b102e00a7"
+    },
+    "10100202": {
+        "text": "Joyful Voyage!",
+        "hash": "927a6b412b23ff2195ebab3bed371e3e7e670c933446fe4f6bc29f0b102e00a7"
+    },
+    "10100203": {
+        "text": "Joyful Voyage!",
+        "hash": "927a6b412b23ff2195ebab3bed371e3e7e670c933446fe4f6bc29f0b102e00a7"
+    },
+    "10110101": {
+        "text": "Where There's a Will, There's a Way",
+        "hash": "aefa14ad3c6cf3e5aaa1967eb86fd9dafc85554e535d61344143386fdf40cbee"
+    },
+    "10110102": {
+        "text": "Where There's a Will, There's a Way",
+        "hash": "aefa14ad3c6cf3e5aaa1967eb86fd9dafc85554e535d61344143386fdf40cbee"
+    },
+    "10110103": {
+        "text": "Where There's a Will, There's a Way",
+        "hash": "aefa14ad3c6cf3e5aaa1967eb86fd9dafc85554e535d61344143386fdf40cbee"
+    },
+    "10110201": {
+        "text": "Gain Superior Heal",
+        "hash": "935eb0b81169ae91325cabc304dbca26a2afac64924c1a7e1a00ec7244eaed11"
+    },
+    "10110202": {
+        "text": "Gain Superior Heal",
+        "hash": "935eb0b81169ae91325cabc304dbca26a2afac64924c1a7e1a00ec7244eaed11"
+    },
+    "10110203": {
+        "text": "Gain Superior Heal",
+        "hash": "935eb0b81169ae91325cabc304dbca26a2afac64924c1a7e1a00ec7244eaed11"
+    },
+    "10120101": {
+        "text": "One-On-One! Dead Heat!",
+        "hash": "0143e7b6030385a53986891c35aacdf73b44d8bf3d94050ae206cbff38305cc8"
+    },
+    "10120102": {
+        "text": "One-On-One! Dead Heat!",
+        "hash": "0143e7b6030385a53986891c35aacdf73b44d8bf3d94050ae206cbff38305cc8"
+    },
+    "10120103": {
+        "text": "One-On-One! Dead Heat!",
+        "hash": "0143e7b6030385a53986891c35aacdf73b44d8bf3d94050ae206cbff38305cc8"
+    },
+    "10120201": {
+        "text": "Extra Large First Bite!",
+        "hash": "511fb6093bde8db36e834f57d2ae2561e7d73f11a097f69a0b8ea585ab95bd87"
+    },
+    "10120202": {
+        "text": "Extra Large First Bite!",
+        "hash": "511fb6093bde8db36e834f57d2ae2561e7d73f11a097f69a0b8ea585ab95bd87"
+    },
+    "10120203": {
+        "text": "Extra Large First Bite!",
+        "hash": "511fb6093bde8db36e834f57d2ae2561e7d73f11a097f69a0b8ea585ab95bd87"
+    },
+    "10130101": {
+        "text": "Fulfilling Your Noble Duty",
+        "hash": "e1714f28a03aa8028cd6a00f06f74c17662acafc775e00a0a17c493cad7b38b0"
+    },
+    "10130102": {
+        "text": "Fulfilling Your Noble Duty",
+        "hash": "e1714f28a03aa8028cd6a00f06f74c17662acafc775e00a0a17c493cad7b38b0"
+    },
+    "10130103": {
+        "text": "Fulfilling Your Noble Duty",
+        "hash": "e1714f28a03aa8028cd6a00f06f74c17662acafc775e00a0a17c493cad7b38b0"
+    },
+    "10130201": {
+        "text": "For the Strongest Name",
+        "hash": "e58756343c06c0981b20f3b88307e4ffae4f36ad17efe023875cc22dca34aa25"
+    },
+    "10130202": {
+        "text": "For the Strongest Name",
+        "hash": "e58756343c06c0981b20f3b88307e4ffae4f36ad17efe023875cc22dca34aa25"
+    },
+    "10130203": {
+        "text": "For the Strongest Name",
+        "hash": "e58756343c06c0981b20f3b88307e4ffae4f36ad17efe023875cc22dca34aa25"
+    },
+    "10130301": {
+        "text": "The Sea Glitters, but You're Dazzling",
+        "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825"
+    },
+    "10130302": {
+        "text": "The Sea Glitters, but You're Dazzling",
+        "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825"
+    },
+    "10130303": {
+        "text": "The Sea Glitters, but You're Dazzling",
+        "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825"
+    },
+    "10140101": {
+        "text": "Plancha ☆ Ganador",
+        "hash": "64575b02b53252d5abbe809158710598f58e2cedb53a2c2496e24a2bb3695c1c"
+    },
+    "10140102": {
+        "text": "Plancha ☆ Ganador",
+        "hash": "64575b02b53252d5abbe809158710598f58e2cedb53a2c2496e24a2bb3695c1c"
+    },
+    "10140103": {
+        "text": "Plancha ☆ Ganador",
+        "hash": "64575b02b53252d5abbe809158710598f58e2cedb53a2c2496e24a2bb3695c1c"
+    },
+    "10140201": {
+        "text": "Condor Onslaught",
+        "hash": "10ace9f0a023edd9590388246770d643734ea6916877dde4d50d70ae7ec3a160"
+    },
+    "10140202": {
+        "text": "Condor Onslaught",
+        "hash": "10ace9f0a023edd9590388246770d643734ea6916877dde4d50d70ae7ec3a160"
+    },
+    "10140203": {
+        "text": "Condor Onslaught",
+        "hash": "10ace9f0a023edd9590388246770d643734ea6916877dde4d50d70ae7ec3a160"
+    },
+    "10150101": {
+        "text": "Dance for Vittoria",
+        "hash": "1f8ee03d4beda9daa766629781984a5bf8079feeafceaccf6da0a584bbb359c2"
+    },
+    "10150102": {
+        "text": "Dance for Vittoria",
+        "hash": "1f8ee03d4beda9daa766629781984a5bf8079feeafceaccf6da0a584bbb359c2"
+    },
+    "10150103": {
+        "text": "Dance for Vittoria",
+        "hash": "1f8ee03d4beda9daa766629781984a5bf8079feeafceaccf6da0a584bbb359c2"
+    },
+    "10150201": {
+        "text": "Blessed Barcarolle",
+        "hash": "8f5208bde5ea64b7f9b853b5bec2384a282f3aaa4fcafe55886f8a549e8e6a8c"
+    },
+    "10150202": {
+        "text": "Blessed Barcarolle",
+        "hash": "8f5208bde5ea64b7f9b853b5bec2384a282f3aaa4fcafe55886f8a549e8e6a8c"
+    },
+    "10150203": {
+        "text": "Blessed Barcarolle",
+        "hash": "8f5208bde5ea64b7f9b853b5bec2384a282f3aaa4fcafe55886f8a549e8e6a8c"
+    },
+    "10160101": {
+        "text": "Shadow Break",
+        "hash": "67012e4892ffbd6b599dd3050fcc64f5fa2d690dddea50576e94495f4c3ecad6"
+    },
+    "10160102": {
+        "text": "Shadow Break",
+        "hash": "67012e4892ffbd6b599dd3050fcc64f5fa2d690dddea50576e94495f4c3ecad6"
+    },
+    "10160103": {
+        "text": "Shadow Break",
+        "hash": "67012e4892ffbd6b599dd3050fcc64f5fa2d690dddea50576e94495f4c3ecad6"
+    },
+    "10160201": {
+        "text": "Critical Point: Gray",
+        "hash": "72201b4aa9c90cdb87308b7a145989538ebb138c3f9d1e1f4a4e9f35509ac652"
+    },
+    "10160202": {
+        "text": "Critical Point: Gray",
+        "hash": "72201b4aa9c90cdb87308b7a145989538ebb138c3f9d1e1f4a4e9f35509ac652"
+    },
+    "10160203": {
+        "text": "Critical Point: Gray",
+        "hash": "72201b4aa9c90cdb87308b7a145989538ebb138c3f9d1e1f4a4e9f35509ac652"
+    },
+    "10170101": {
+        "text": "Thou, Witness the Heavenly Might of the Emperor",
+        "hash": "d28357bcded495f6315372ada8d925339027e08b9cefc1d979fabe4aba074525"
+    },
+    "10170102": {
+        "text": "Thou, Witness the Heavenly Might of the Emperor",
+        "hash": "d28357bcded495f6315372ada8d925339027e08b9cefc1d979fabe4aba074525"
+    },
+    "10170103": {
+        "text": "Thou, Witness the Heavenly Might of the Emperor",
+        "hash": "d28357bcded495f6315372ada8d925339027e08b9cefc1d979fabe4aba074525"
+    },
+    "10170201": {
+        "text": "Howling Arrow Piercing the Darkness",
+        "hash": "890e90150ce0ba9bffdacc1ed24d1767b0490cffc433994995ad7f3e3c2540a2"
+    },
+    "10170202": {
+        "text": "Howling Arrow Piercing the Darkness",
+        "hash": "890e90150ce0ba9bffdacc1ed24d1767b0490cffc433994995ad7f3e3c2540a2"
+    },
+    "10170203": {
+        "text": "Howling Arrow Piercing the Darkness",
+        "hash": "890e90150ce0ba9bffdacc1ed24d1767b0490cffc433994995ad7f3e3c2540a2"
+    },
+    "10180101": {
+        "text": "Blaze of Pride",
+        "hash": "cacfa9bb06d60ccc42e8edbe8dbfa566d059d0a8382b0b8c5c93439cb5ce4de5"
+    },
+    "10180102": {
+        "text": "Blaze of Pride",
+        "hash": "cacfa9bb06d60ccc42e8edbe8dbfa566d059d0a8382b0b8c5c93439cb5ce4de5"
+    },
+    "10180103": {
+        "text": "Blaze of Pride",
+        "hash": "cacfa9bb06d60ccc42e8edbe8dbfa566d059d0a8382b0b8c5c93439cb5ce4de5"
+    },
+    "10180201": {
+        "text": "Summer Breeze, the Eternal Moment",
+        "hash": "bfebdd013a8ea1097ab87131005ff911295787f8a0071393543b3fb903e86cbb"
+    },
+    "10180202": {
+        "text": "Summer Breeze, the Eternal Moment",
+        "hash": "bfebdd013a8ea1097ab87131005ff911295787f8a0071393543b3fb903e86cbb"
+    },
+    "10180203": {
+        "text": "Summer Breeze, the Eternal Moment",
+        "hash": "bfebdd013a8ea1097ab87131005ff911295787f8a0071393543b3fb903e86cbb"
+    },
+    "10190101": {
+        "text": "Kyuute☆Last SpuU(ﾟ∀ﾟ)Uurt!",
+        "hash": "1ead4dd191d4ebed3c38c08d92789bee3271cdbfddcf3083a1394b95cd74fd94"
+    },
+    "10190102": {
+        "text": "Kyuute☆Last SpuU(ﾟ∀ﾟ)Uurt!",
+        "hash": "1ead4dd191d4ebed3c38c08d92789bee3271cdbfddcf3083a1394b95cd74fd94"
+    },
+    "10190103": {
+        "text": "Kyuute☆Last SpuU(ﾟ∀ﾟ)Uurt!",
+        "hash": "1ead4dd191d4ebed3c38c08d92789bee3271cdbfddcf3083a1394b95cd74fd94"
+    },
+    "10190201": {
+        "text": "Revived by Moe!",
+        "hash": "a3fb8372a5b02b71f109e1683f3bd6d34dee625e3dd13caee6fe72efd9ed362b"
+    },
+    "10190202": {
+        "text": "Revived by Moe!",
+        "hash": "a3fb8372a5b02b71f109e1683f3bd6d34dee625e3dd13caee6fe72efd9ed362b"
+    },
+    "10190203": {
+        "text": "Revived by Moe!",
+        "hash": "a3fb8372a5b02b71f109e1683f3bd6d34dee625e3dd13caee6fe72efd9ed362b"
+    },
+    "10200101": {
+        "text": "Angling×Scheming",
+        "hash": "8813ba3151c52941dfb18f33a45fb4fc20cf46e06173dd9627685aff5de6bd04"
+    },
+    "10200102": {
+        "text": "Angling×Scheming",
+        "hash": "8813ba3151c52941dfb18f33a45fb4fc20cf46e06173dd9627685aff5de6bd04"
+    },
+    "10200103": {
+        "text": "Angling×Scheming",
+        "hash": "8813ba3151c52941dfb18f33a45fb4fc20cf46e06173dd9627685aff5de6bd04"
+    },
+    "10200201": {
+        "text": "Do Ya Breakin!",
+        "hash": "c1e4b4f4dcaa13d9c44d0b06d6ec5b93600bacc4386844da862572d8aa78ee54"
+    },
+    "10200202": {
+        "text": "Do Ya Breakin!",
+        "hash": "c1e4b4f4dcaa13d9c44d0b06d6ec5b93600bacc4386844da862572d8aa78ee54"
+    },
+    "10200203": {
+        "text": "Do Ya Breakin!",
+        "hash": "c1e4b4f4dcaa13d9c44d0b06d6ec5b93600bacc4386844da862572d8aa78ee54"
+    },
+    "10210101": {
+        "text": "Imma Show You White Lightning!",
+        "hash": "5c0845de778803b69eca374c950bc3037c5001d89b597b9afb28c45db98abfef"
+    },
+    "10210102": {
+        "text": "Imma Show You White Lightning!",
+        "hash": "5c0845de778803b69eca374c950bc3037c5001d89b597b9afb28c45db98abfef"
+    },
+    "10210103": {
+        "text": "Imma Show You White Lightning!",
+        "hash": "5c0845de778803b69eca374c950bc3037c5001d89b597b9afb28c45db98abfef"
+    },
+    "10210201": {
+        "text": "Thunderous Firestarter",
+        "hash": "c257743d23df8032b8d721512ccd9882d7540d69d8c63b27a68818e03995c2a3"
+    },
+    "10210202": {
+        "text": "Thunderous Firestarter",
+        "hash": "c257743d23df8032b8d721512ccd9882d7540d69d8c63b27a68818e03995c2a3"
+    },
+    "10210203": {
+        "text": "Thunderous Firestarter",
+        "hash": "c257743d23df8032b8d721512ccd9882d7540d69d8c63b27a68818e03995c2a3"
+    },
+    "10220101": {
+        "text": "Fairy Tale",
+        "hash": "4f0012274febae738b366668175a1f895ebfef379e60e6ab8387d8c84028cb1c"
+    },
+    "10220102": {
+        "text": "Fairy Tale",
+        "hash": "4f0012274febae738b366668175a1f895ebfef379e60e6ab8387d8c84028cb1c"
+    },
+    "10220103": {
+        "text": "Fairy Tale",
+        "hash": "4f0012274febae738b366668175a1f895ebfef379e60e6ab8387d8c84028cb1c"
+    },
+    "10220201": {
+        "text": "Best Day Ever",
+        "hash": "3627d266ef72b7d20dfa11dc0ba45d085c0ba09599f2d6e0d8f561c01db74e35"
+    },
+    "10220202": {
+        "text": "Best Day Ever",
+        "hash": "3627d266ef72b7d20dfa11dc0ba45d085c0ba09599f2d6e0d8f561c01db74e35"
+    },
+    "10220203": {
+        "text": "Best Day Ever",
+        "hash": "3627d266ef72b7d20dfa11dc0ba45d085c0ba09599f2d6e0d8f561c01db74e35"
+    },
+    "10230101": {
+        "text": "∴win Q.E.D.",
+        "hash": "5bbe39b44a544c67aa3d9c1a7fde88fc4169eb01a59805caeff918adcc145f5a"
+    },
+    "10230102": {
+        "text": "∴win Q.E.D.",
+        "hash": "5bbe39b44a544c67aa3d9c1a7fde88fc4169eb01a59805caeff918adcc145f5a"
+    },
+    "10230103": {
+        "text": "∴win Q.E.D.",
+        "hash": "5bbe39b44a544c67aa3d9c1a7fde88fc4169eb01a59805caeff918adcc145f5a"
+    },
+    "10230201": {
+        "text": "Presents from X",
+        "hash": "7cc247ce81b9a0be4e71247dad8d102d9bbb41b899ccdaad4468b70ba8a0be8c"
+    },
+    "10230202": {
+        "text": "Presents from X",
+        "hash": "7cc247ce81b9a0be4e71247dad8d102d9bbb41b899ccdaad4468b70ba8a0be8c"
+    },
+    "10230203": {
+        "text": "Presents from X",
+        "hash": "7cc247ce81b9a0be4e71247dad8d102d9bbb41b899ccdaad4468b70ba8a0be8c"
+    },
+    "10240101": {
+        "text": "Inspiration ☆ Landing",
+        "hash": "88a1dbf5be1408fac61042b7e7902ca72834eb889b2ade16da0f8052f7fe813b"
+    },
+    "10240102": {
+        "text": "Inspiration ☆ Landing",
+        "hash": "88a1dbf5be1408fac61042b7e7902ca72834eb889b2ade16da0f8052f7fe813b"
+    },
+    "10240103": {
+        "text": "Inspiration ☆ Landing",
+        "hash": "88a1dbf5be1408fac61042b7e7902ca72834eb889b2ade16da0f8052f7fe813b"
+    },
+    "10240201": {
+        "text": "Flowery ☆ Maneuver",
+        "hash": "ed50b24fdd2e386380c4b65672f3987eaad155f916738e01ff0b957fc4a8d6b4"
+    },
+    "10240202": {
+        "text": "Flowery ☆ Maneuver",
+        "hash": "ed50b24fdd2e386380c4b65672f3987eaad155f916738e01ff0b957fc4a8d6b4"
+    },
+    "10240203": {
+        "text": "Flowery ☆ Maneuver",
+        "hash": "ed50b24fdd2e386380c4b65672f3987eaad155f916738e01ff0b957fc4a8d6b4"
+    },
+    "10250101": {
+        "text": "Chasing After You",
+        "hash": "42d365c956c2df7bf41edd8aabd61cd4281c293a0a32d3f184e5e292e132cbee"
+    },
+    "10250102": {
+        "text": "Chasing After You",
+        "hash": "42d365c956c2df7bf41edd8aabd61cd4281c293a0a32d3f184e5e292e132cbee"
+    },
+    "10250103": {
+        "text": "Chasing After You",
+        "hash": "42d365c956c2df7bf41edd8aabd61cd4281c293a0a32d3f184e5e292e132cbee"
+    },
+    "10260101": {
+        "text": "G00 1st.F∞;",
+        "hash": "17b580df145f7da151bcc9edae5fb2945774304aa4338bd539589f4cdb562026"
+    },
+    "10260102": {
+        "text": "G00 1st.F∞;",
+        "hash": "17b580df145f7da151bcc9edae5fb2945774304aa4338bd539589f4cdb562026"
+    },
+    "10260103": {
+        "text": "G00 1st.F∞;",
+        "hash": "17b580df145f7da151bcc9edae5fb2945774304aa4338bd539589f4cdb562026"
+    },
+    "10260201": {
+        "text": "Operation Cacao",
+        "hash": "73ec0708770e9ed62f323d8dcbe0c70c8541bffc61587c607d74a2ba3351ccb2"
+    },
+    "10260202": {
+        "text": "Operation Cacao",
+        "hash": "73ec0708770e9ed62f323d8dcbe0c70c8541bffc61587c607d74a2ba3351ccb2"
+    },
+    "10260203": {
+        "text": "Operation Cacao",
+        "hash": "73ec0708770e9ed62f323d8dcbe0c70c8541bffc61587c607d74a2ba3351ccb2"
+    },
+    "10270101": {
+        "text": "Let's Anabolic!",
+        "hash": "49464c8ea3b1d135bf8e21ace884e96c69067e87f6774f5c7d0e77e1b825ca0d"
+    },
+    "10270102": {
+        "text": "Let's Anabolic!",
+        "hash": "49464c8ea3b1d135bf8e21ace884e96c69067e87f6774f5c7d0e77e1b825ca0d"
+    },
+    "10270103": {
+        "text": "Let's Anabolic!",
+        "hash": "49464c8ea3b1d135bf8e21ace884e96c69067e87f6774f5c7d0e77e1b825ca0d"
+    },
+    "10270201": {
+        "text": "Latte Art For You",
+        "hash": "22b717feb04569470530aec545ea757b4de3aee88c09fb2fed90e0d57fb4e7c3"
+    },
+    "10270202": {
+        "text": "Latte Art For You",
+        "hash": "22b717feb04569470530aec545ea757b4de3aee88c09fb2fed90e0d57fb4e7c3"
+    },
+    "10270203": {
+        "text": "Latte Art For You",
+        "hash": "22b717feb04569470530aec545ea757b4de3aee88c09fb2fed90e0d57fb4e7c3"
+    },
+    "10280101": {
+        "text": "I'M☆FULL☆SPEED!!",
+        "hash": "f0e2a8a2715dbebaede34726a5ffc086dc73c7b67f6d92ff739c73dfe11f5360"
+    },
+    "10280102": {
+        "text": "I'M☆FULL☆SPEED!!",
+        "hash": "f0e2a8a2715dbebaede34726a5ffc086dc73c7b67f6d92ff739c73dfe11f5360"
+    },
+    "10280103": {
+        "text": "I'M☆FULL☆SPEED!!",
+        "hash": "f0e2a8a2715dbebaede34726a5ffc086dc73c7b67f6d92ff739c73dfe11f5360"
+    },
+    "10290101": {
+        "text": "Chasing the Snowlight",
+        "hash": "c6dae930d70f1d51be3b934f287586881ea7e555963391cc6513f73d55ac3ee7"
+    },
+    "10290102": {
+        "text": "Chasing the Snowlight",
+        "hash": "c6dae930d70f1d51be3b934f287586881ea7e555963391cc6513f73d55ac3ee7"
+    },
+    "10290103": {
+        "text": "Chasing the Snowlight",
+        "hash": "c6dae930d70f1d51be3b934f287586881ea7e555963391cc6513f73d55ac3ee7"
+    },
+    "10300101": {
+        "text": "Blue Rose Chaser",
+        "hash": "a6915592a806bd882556d8105214c91dcfd0f2ff0c3bd5617829222394e0c736"
+    },
+    "10300102": {
+        "text": "Blue Rose Chaser",
+        "hash": "a6915592a806bd882556d8105214c91dcfd0f2ff0c3bd5617829222394e0c736"
+    },
+    "10300103": {
+        "text": "Blue Rose Chaser",
+        "hash": "a6915592a806bd882556d8105214c91dcfd0f2ff0c3bd5617829222394e0c736"
+    },
+    "10300201": {
+        "text": "Drain for Rose",
+        "hash": "eaa781cf604ab19e4c4c4333077d0f22ab44c836006262580f5387102652e2d1"
+    },
+    "10300202": {
+        "text": "Drain for Rose",
+        "hash": "eaa781cf604ab19e4c4c4333077d0f22ab44c836006262580f5387102652e2d1"
+    },
+    "10300203": {
+        "text": "Drain for Rose",
+        "hash": "eaa781cf604ab19e4c4c4333077d0f22ab44c836006262580f5387102652e2d1"
+    },
+    "10310101": {
+        "text": "Charge Complete! Full Speed Ahead!",
+        "hash": "4d02cfdfba1d1df88653560160dd74612012bf5a5af865baa744f5fab593ffd4"
+    },
+    "10310102": {
+        "text": "Charge Complete! Full Speed Ahead!",
+        "hash": "4d02cfdfba1d1df88653560160dd74612012bf5a5af865baa744f5fab593ffd4"
+    },
+    "10310103": {
+        "text": "Charge Complete! Full Speed Ahead!",
+        "hash": "4d02cfdfba1d1df88653560160dd74612012bf5a5af865baa744f5fab593ffd4"
+    },
+    "10310201": {
+        "text": "Fresh ☆ Parlor",
+        "hash": "57d6d5159762ffeef9565b881b4749eac6a789dd1403d8f095acd748db4d75db"
+    },
+    "10310202": {
+        "text": "Fresh ☆ Parlor",
+        "hash": "57d6d5159762ffeef9565b881b4749eac6a789dd1403d8f095acd748db4d75db"
+    },
+    "10310203": {
+        "text": "Fresh ☆ Parlor",
+        "hash": "57d6d5159762ffeef9565b881b4749eac6a789dd1403d8f095acd748db4d75db"
+    },
+    "10320101": {
+        "text": "U=ma2",
+        "hash": "fb9bf8950771ef57b6e26dcbe622377cf1d6abb71d36a0f8bd4da901161d8bd9"
+    },
+    "10320102": {
+        "text": "U=ma2",
+        "hash": "fb9bf8950771ef57b6e26dcbe622377cf1d6abb71d36a0f8bd4da901161d8bd9"
+    },
+    "10320103": {
+        "text": "U=ma2",
+        "hash": "fb9bf8950771ef57b6e26dcbe622377cf1d6abb71d36a0f8bd4da901161d8bd9"
+    },
+    "10320201": {
+        "text": "Summer Halation",
+        "hash": "5e76dbcbb5c055d46bbb355e4ecf25b488875b755370c43588e89711d3ac6cbb"
+    },
+    "10320202": {
+        "text": "Summer Halation",
+        "hash": "5e76dbcbb5c055d46bbb355e4ecf25b488875b755370c43588e89711d3ac6cbb"
+    },
+    "10320203": {
+        "text": "Summer Halation",
+        "hash": "5e76dbcbb5c055d46bbb355e4ecf25b488875b755370c43588e89711d3ac6cbb"
+    },
+    "10330101": {
+        "text": "Meteor of Dioscuri",
+        "hash": "026cea0f889360a6911c0e73cf37287c31d8de2f9a4b33be762a03a7507a54ff"
+    },
+    "10330102": {
+        "text": "Meteor of Dioscuri",
+        "hash": "026cea0f889360a6911c0e73cf37287c31d8de2f9a4b33be762a03a7507a54ff"
+    },
+    "10330103": {
+        "text": "Meteor of Dioscuri",
+        "hash": "026cea0f889360a6911c0e73cf37287c31d8de2f9a4b33be762a03a7507a54ff"
+    },
+    "10340101": {
+        "text": "Fast Running, Fast Running!",
+        "hash": "0d12fdc685322ba233615e22d82574efbc9c58e787c7563acadee375827cb5ec"
+    },
+    "10340102": {
+        "text": "Fast Running, Fast Running!",
+        "hash": "0d12fdc685322ba233615e22d82574efbc9c58e787c7563acadee375827cb5ec"
+    },
+    "10340103": {
+        "text": "Fast Running, Fast Running!",
+        "hash": "0d12fdc685322ba233615e22d82574efbc9c58e787c7563acadee375827cb5ec"
+    },
+    "10340201": {
+        "text": "Bristling Lights",
+        "hash": "db24fe370676d7ea40af8e663612caaf1d85d76b5973f2e37d38461a126b1ed8"
+    },
+    "10340202": {
+        "text": "Bristling Lights",
+        "hash": "db24fe370676d7ea40af8e663612caaf1d85d76b5973f2e37d38461a126b1ed8"
+    },
+    "10340203": {
+        "text": "Bristling Lights",
+        "hash": "db24fe370676d7ea40af8e663612caaf1d85d76b5973f2e37d38461a126b1ed8"
+    },
+    "10350101": {
+        "text": "The Ticket to Victory, for You!",
+        "hash": "6d18956aeb6a04314305bd878c7d274163e719c1819e7534cae44bd7c0e9e6d4"
+    },
+    "10350102": {
+        "text": "The Ticket to Victory, for You!",
+        "hash": "6d18956aeb6a04314305bd878c7d274163e719c1819e7534cae44bd7c0e9e6d4"
+    },
+    "10350103": {
+        "text": "The Ticket to Victory, for You!",
+        "hash": "6d18956aeb6a04314305bd878c7d274163e719c1819e7534cae44bd7c0e9e6d4"
+    },
+    "10350201": {
+        "text": "Delivering Beyond the Dreams!",
+        "hash": "80bf6c160ff14a835ffebbd3b77e4add698347aa08c005880305d5c28a539364"
+    },
+    "10350202": {
+        "text": "Delivering Beyond the Dreams!",
+        "hash": "80bf6c160ff14a835ffebbd3b77e4add698347aa08c005880305d5c28a539364"
+    },
+    "10350203": {
+        "text": "Delivering Beyond the Dreams!",
+        "hash": "80bf6c160ff14a835ffebbd3b77e4add698347aa08c005880305d5c28a539364"
+    },
+    "10360101": {
+        "text": "trigger:BEAT",
+        "hash": "72bc0c0c8e37dda7ee7b23a41b86692cd5345f26870411d0cda0db51334777a2"
+    },
+    "10360102": {
+        "text": "trigger:BEAT",
+        "hash": "72bc0c0c8e37dda7ee7b23a41b86692cd5345f26870411d0cda0db51334777a2"
+    },
+    "10360103": {
+        "text": "trigger:BEAT",
+        "hash": "72bc0c0c8e37dda7ee7b23a41b86692cd5345f26870411d0cda0db51334777a2"
+    },
+    "10360201": {
+        "text": "...found you.",
+        "hash": "1b0eecf7b80853c14d22d0cb3a66654157e66fee74e0c3f739a42d2bf1d745c3"
+    },
+    "10360202": {
+        "text": "...found you.",
+        "hash": "1b0eecf7b80853c14d22d0cb3a66654157e66fee74e0c3f739a42d2bf1d745c3"
+    },
+    "10360203": {
+        "text": "...found you.",
+        "hash": "1b0eecf7b80853c14d22d0cb3a66654157e66fee74e0c3f739a42d2bf1d745c3"
+    },
+    "10370101": {
+        "text": "Schwarzes Schwert",
+        "hash": "ab80d5d73de5dc1c1bd28f658c54fcef2a0b290363694a6c196ac9acb56af619"
+    },
+    "10370102": {
+        "text": "Schwarzes Schwert",
+        "hash": "ab80d5d73de5dc1c1bd28f658c54fcef2a0b290363694a6c196ac9acb56af619"
+    },
+    "10370103": {
+        "text": "Schwarzes Schwert",
+        "hash": "ab80d5d73de5dc1c1bd28f658c54fcef2a0b290363694a6c196ac9acb56af619"
+    },
+    "10370201": {
+        "text": "Guten Appetit♪",
+        "hash": "89c243130bf123653bf8d3d2a3102af17f50be34f2997e4a9e48196e0fc434c1"
+    },
+    "10370202": {
+        "text": "Guten Appetit♪",
+        "hash": "89c243130bf123653bf8d3d2a3102af17f50be34f2997e4a9e48196e0fc434c1"
+    },
+    "10370203": {
+        "text": "Guten Appetit♪",
+        "hash": "89c243130bf123653bf8d3d2a3102af17f50be34f2997e4a9e48196e0fc434c1"
+    },
+    "10380101": {
+        "text": "#LookatCurren",
+        "hash": "43ea64283387e6459b779ceba4b6107a13b3290def94f6d8b61adfd9cc4dd5e0"
+    },
+    "10380102": {
+        "text": "#LookatCurren",
+        "hash": "43ea64283387e6459b779ceba4b6107a13b3290def94f6d8b61adfd9cc4dd5e0"
+    },
+    "10380103": {
+        "text": "#LookatCurren",
+        "hash": "43ea64283387e6459b779ceba4b6107a13b3290def94f6d8b61adfd9cc4dd5e0"
+    },
+    "10380201": {
+        "text": "One True Color",
+        "hash": "ec36f86e8a390b9cda8ae0cc0161f72bc7fd5342de7f55fad275a478a2477472"
+    },
+    "10380202": {
+        "text": "One True Color",
+        "hash": "ec36f86e8a390b9cda8ae0cc0161f72bc7fd5342de7f55fad275a478a2477472"
+    },
+    "10380203": {
+        "text": "One True Color",
+        "hash": "ec36f86e8a390b9cda8ae0cc0161f72bc7fd5342de7f55fad275a478a2477472"
+    },
+    "10390101": {
+        "text": "Victory Befitting a Princess",
+        "hash": "34213c7e23d7f34b99e78e6fba3756f26f128ba5d92e37712241fcb6095fe1ac"
+    },
+    "10390102": {
+        "text": "Victory Befitting a Princess",
+        "hash": "34213c7e23d7f34b99e78e6fba3756f26f128ba5d92e37712241fcb6095fe1ac"
+    },
+    "10390103": {
+        "text": "Victory Befitting a Princess",
+        "hash": "34213c7e23d7f34b99e78e6fba3756f26f128ba5d92e37712241fcb6095fe1ac"
+    },
+    "10390201": {
+        "text": "Invigorating Strength",
+        "hash": "c6069d6db4a9b29508bce802354b694d608ee388def350d1895fa575f4a5dcbb"
+    },
+    "10390202": {
+        "text": "Invigorating Strength",
+        "hash": "c6069d6db4a9b29508bce802354b694d608ee388def350d1895fa575f4a5dcbb"
+    },
+    "10390203": {
+        "text": "Invigorating Strength",
+        "hash": "c6069d6db4a9b29508bce802354b694d608ee388def350d1895fa575f4a5dcbb"
+    },
+    "10400101": {
+        "text": "KEEP IT REAL.",
+        "hash": "93f1288590a86783d33808afe826ca4c95511cd9523c9a1eac739726ba9dbf6b"
+    },
+    "10400102": {
+        "text": "KEEP IT REAL.",
+        "hash": "93f1288590a86783d33808afe826ca4c95511cd9523c9a1eac739726ba9dbf6b"
+    },
+    "10400103": {
+        "text": "KEEP IT REAL.",
+        "hash": "93f1288590a86783d33808afe826ca4c95511cd9523c9a1eac739726ba9dbf6b"
+    },
+    "10400201": {
+        "text": "GET DOWN",
+        "hash": "65f217c0b0561a2d05c7e02b3d854467a1d71cb588798052abba2bfbaf3260a3"
+    },
+    "10400202": {
+        "text": "GET DOWN",
+        "hash": "65f217c0b0561a2d05c7e02b3d854467a1d71cb588798052abba2bfbaf3260a3"
+    },
+    "10400203": {
+        "text": "GET DOWN",
+        "hash": "65f217c0b0561a2d05c7e02b3d854467a1d71cb588798052abba2bfbaf3260a3"
+    },
+    "10410101": {
+        "text": "Honor Student x Bakushin = Big Victory",
+        "hash": "356c630666ce831c6922395fed59e0cbbe5d37df6c70c83d48832f07edfa06e4"
+    },
+    "10410102": {
+        "text": "Honor Student x Bakushin = Big Victory",
+        "hash": "356c630666ce831c6922395fed59e0cbbe5d37df6c70c83d48832f07edfa06e4"
+    },
+    "10410103": {
+        "text": "Honor Student x Bakushin = Big Victory",
+        "hash": "356c630666ce831c6922395fed59e0cbbe5d37df6c70c83d48832f07edfa06e4"
+    },
+    "10410201": {
+        "text": "Cherry☆Scramble",
+        "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
+    },
+    "10410202": {
+        "text": "Cherry☆Scramble",
+        "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
+    },
+    "10410203": {
+        "text": "Cherry☆Scramble",
+        "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
+    },
+    "10420101": {
+        "text": "『I'm Possible』",
+        "hash": "ad83277b86b5f68fef070b6a489ac07fcf20714f5690d42bbbc2cbe6a8cfa03c"
+    },
+    "10420102": {
+        "text": "『I'm Possible』",
+        "hash": "ad83277b86b5f68fef070b6a489ac07fcf20714f5690d42bbbc2cbe6a8cfa03c"
+    },
+    "10420103": {
+        "text": "『I'm Possible』",
+        "hash": "ad83277b86b5f68fef070b6a489ac07fcf20714f5690d42bbbc2cbe6a8cfa03c"
+    },
+    "10430101": {
+        "text": "Ding Dong Boo",
+        "hash": "33bee134fd496905b25f06b5281913d77fcc6562400503ebe75872d404ff0706"
+    },
+    "10430102": {
+        "text": "Ding Dong Boo",
+        "hash": "33bee134fd496905b25f06b5281913d77fcc6562400503ebe75872d404ff0706"
+    },
+    "10430103": {
+        "text": "Ding Dong Boo",
+        "hash": "33bee134fd496905b25f06b5281913d77fcc6562400503ebe75872d404ff0706"
+    },
+    "10440101": {
+        "text": "You're Mine ☆ Strelitzia",
+        "hash": "5600f25ee81873fd4aced4202e6de1bc698b4101251581f90c32642a984874c1"
+    },
+    "10440102": {
+        "text": "You're Mine ☆ Strelitzia",
+        "hash": "5600f25ee81873fd4aced4202e6de1bc698b4101251581f90c32642a984874c1"
+    },
+    "10440103": {
+        "text": "You're Mine ☆ Strelitzia",
+        "hash": "5600f25ee81873fd4aced4202e6de1bc698b4101251581f90c32642a984874c1"
+    },
+    "10450101": {
+        "text": "Purity of Heart",
+        "hash": "ece403ca4a09f35ddaf656d5dc9484c9c57e3a20507929e0191d7ff76e9d1a51"
+    },
+    "10450102": {
+        "text": "Purity of Heart",
+        "hash": "ece403ca4a09f35ddaf656d5dc9484c9c57e3a20507929e0191d7ff76e9d1a51"
+    },
+    "10450103": {
+        "text": "Purity of Heart",
+        "hash": "ece403ca4a09f35ddaf656d5dc9484c9c57e3a20507929e0191d7ff76e9d1a51"
+    },
+    "10450201": {
+        "text": "Round and Round, Mummy Trick♡",
+        "hash": "37ff500ce49f42dde941dc7e23182c0b53c3ea971652f3a3e6ecec02f2031ed8"
+    },
+    "10450202": {
+        "text": "Round and Round, Mummy Trick♡",
+        "hash": "37ff500ce49f42dde941dc7e23182c0b53c3ea971652f3a3e6ecec02f2031ed8"
+    },
+    "10450203": {
+        "text": "Round and Round, Mummy Trick♡",
+        "hash": "37ff500ce49f42dde941dc7e23182c0b53c3ea971652f3a3e6ecec02f2031ed8"
+    },
+    "10460101": {
+        "text": "Sparkling☆STARDOM",
+        "hash": "4ed1b0881737ac86de7d84532387fda6bc81608afcd0b769c02d74cc0f556f9a"
+    },
+    "10460102": {
+        "text": "Sparkling☆STARDOM",
+        "hash": "4ed1b0881737ac86de7d84532387fda6bc81608afcd0b769c02d74cc0f556f9a"
+    },
+    "10460103": {
+        "text": "Sparkling☆STARDOM",
+        "hash": "4ed1b0881737ac86de7d84532387fda6bc81608afcd0b769c02d74cc0f556f9a"
+    },
+    "10460201": {
+        "text": "α-star*",
+        "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
+    },
+    "10460202": {
+        "text": "α-star*",
+        "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
+    },
+    "10460203": {
+        "text": "α-star*",
+        "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
+    },
+    "10470101": {
+        "text": "Raise Thy Soul's Sword!",
+        "hash": "e1c4142505e626dfc78d05c7439976e8e3b2fd79ab3f299fe687168db7276b4d"
+    },
+    "10470102": {
+        "text": "Raise Thy Soul's Sword!",
+        "hash": "e1c4142505e626dfc78d05c7439976e8e3b2fd79ab3f299fe687168db7276b4d"
+    },
+    "10470103": {
+        "text": "Raise Thy Soul's Sword!",
+        "hash": "e1c4142505e626dfc78d05c7439976e8e3b2fd79ab3f299fe687168db7276b4d"
+    },
+    "10480101": {
+        "text": "YEAH☆VIVID TIME!",
+        "hash": "e8057412971874a5c43180a2e376d9e73465e9b43de33f691399c4b855e0a989"
+    },
+    "10480102": {
+        "text": "YEAH☆VIVID TIME!",
+        "hash": "e8057412971874a5c43180a2e376d9e73465e9b43de33f691399c4b855e0a989"
+    },
+    "10480103": {
+        "text": "YEAH☆VIVID TIME!",
+        "hash": "e8057412971874a5c43180a2e376d9e73465e9b43de33f691399c4b855e0a989"
+    },
+    "10480201": {
+        "text": "GALmem. forever♪",
+        "hash": "3e6b87a3542d70e8a984d768ff7ffc75404954535588e27f6294d2b5927717c3"
+    },
+    "10480202": {
+        "text": "GALmem. forever♪",
+        "hash": "3e6b87a3542d70e8a984d768ff7ffc75404954535588e27f6294d2b5927717c3"
+    },
+    "10480203": {
+        "text": "GALmem. forever♪",
+        "hash": "3e6b87a3542d70e8a984d768ff7ffc75404954535588e27f6294d2b5927717c3"
+    },
+    "10490101": {
+        "text": "Laugh in the Face of Danger",
+        "hash": "9f44f12373a0ec61641d28366629a4831c543688d31a198e5c4b9599e6cb5a55"
+    },
+    "10490102": {
+        "text": "Laugh in the Face of Danger",
+        "hash": "9f44f12373a0ec61641d28366629a4831c543688d31a198e5c4b9599e6cb5a55"
+    },
+    "10490103": {
+        "text": "Laugh in the Face of Danger",
+        "hash": "9f44f12373a0ec61641d28366629a4831c543688d31a198e5c4b9599e6cb5a55"
+    },
+    "10500101": {
+        "text": "Nemesis",
+        "hash": "0e00169ad8095561c51357e43f9d5cc76e316a950e70c4129b5d42ee6a3d7655"
+    },
+    "10500102": {
+        "text": "Nemesis",
+        "hash": "0e00169ad8095561c51357e43f9d5cc76e316a950e70c4129b5d42ee6a3d7655"
+    },
+    "10500103": {
+        "text": "Nemesis",
+        "hash": "0e00169ad8095561c51357e43f9d5cc76e316a950e70c4129b5d42ee6a3d7655"
+    },
+    "10500201": {
+        "text": "Hephaistos",
+        "hash": "187da28bbd80516d170fdefec659f54bf1be981ba8c42c620519f243f51dee4b"
+    },
+    "10500202": {
+        "text": "Hephaistos",
+        "hash": "187da28bbd80516d170fdefec659f54bf1be981ba8c42c620519f243f51dee4b"
+    },
+    "10500203": {
+        "text": "Hephaistos",
+        "hash": "187da28bbd80516d170fdefec659f54bf1be981ba8c42c620519f243f51dee4b"
+    },
+    "10510101": {
+        "text": "When the Flower Bud Opens",
+        "hash": "35548089f7acab5d3f86ada634f6c211a1e8e594660eee7490959efffe633f38"
+    },
+    "10510102": {
+        "text": "When the Flower Bud Opens",
+        "hash": "35548089f7acab5d3f86ada634f6c211a1e8e594660eee7490959efffe633f38"
+    },
+    "10510103": {
+        "text": "When the Flower Bud Opens",
+        "hash": "35548089f7acab5d3f86ada634f6c211a1e8e594660eee7490959efffe633f38"
+    },
+    "10510201": {
+        "text": "Flowering Dreams",
+        "hash": "ead5928745b5faffdb902ca087a87f027768180ff71685bebfef3848a5bc738d"
+    },
+    "10510202": {
+        "text": "Flowering Dreams",
+        "hash": "ead5928745b5faffdb902ca087a87f027768180ff71685bebfef3848a5bc738d"
+    },
+    "10510203": {
+        "text": "Flowering Dreams",
+        "hash": "ead5928745b5faffdb902ca087a87f027768180ff71685bebfef3848a5bc738d"
+    },
+    "10520101": {
+        "text": "Exciting Climax",
+        "hash": "13c811d93c10e41bf4bf0afecf3914dc9ce55854e21de1dc3c4f199bf464a71e"
+    },
+    "10520102": {
+        "text": "Exciting Climax",
+        "hash": "13c811d93c10e41bf4bf0afecf3914dc9ce55854e21de1dc3c4f199bf464a71e"
+    },
+    "10520103": {
+        "text": "Exciting Climax",
+        "hash": "13c811d93c10e41bf4bf0afecf3914dc9ce55854e21de1dc3c4f199bf464a71e"
+    },
+    "10520201": {
+        "text": "Fall Down 113 Times, Get Up 114",
+        "hash": "05c72ed673de84fd8310be3ad0c48a877e0084a3ba722205b8068d99e31d871c"
+    },
+    "10520202": {
+        "text": "Fall Down 113 Times, Get Up 114",
+        "hash": "05c72ed673de84fd8310be3ad0c48a877e0084a3ba722205b8068d99e31d871c"
+    },
+    "10520203": {
+        "text": "Fall Down 113 Times, Get Up 114",
+        "hash": "05c72ed673de84fd8310be3ad0c48a877e0084a3ba722205b8068d99e31d871c"
+    },
+    "10530101": {
+        "text": "Hot-Blooded Disciplinary Attack!",
+        "hash": "6a7260f9bab3e65789d2127e83feaf2afc7b637ad97c713b5332f2710a8064b7"
+    },
+    "10530102": {
+        "text": "Hot-Blooded Disciplinary Attack!",
+        "hash": "6a7260f9bab3e65789d2127e83feaf2afc7b637ad97c713b5332f2710a8064b7"
+    },
+    "10530103": {
+        "text": "Hot-Blooded Disciplinary Attack!",
+        "hash": "6a7260f9bab3e65789d2127e83feaf2afc7b637ad97c713b5332f2710a8064b7"
+    },
+    "10530201": {
+        "text": "Secret Technique: Everlasting Summer!!",
+        "hash": "e845642197d4e593bb61342c53d61cf2e4422f37405ad1d0e04963f5d8b7cb59"
+    },
+    "10530202": {
+        "text": "Secret Technique: Everlasting Summer!!",
+        "hash": "e845642197d4e593bb61342c53d61cf2e4422f37405ad1d0e04963f5d8b7cb59"
+    },
+    "10530203": {
+        "text": "Secret Technique: Everlasting Summer!!",
+        "hash": "e845642197d4e593bb61342c53d61cf2e4422f37405ad1d0e04963f5d8b7cb59"
+    },
+    "10550101": {
+        "text": "Colorful☆Marvelous★World",
+        "hash": "5c40e6594b66846aa024edb371bbcafb3d1778d7f4e998b8b28976f86949836d"
+    },
+    "10550102": {
+        "text": "Colorful☆Marvelous★World",
+        "hash": "5c40e6594b66846aa024edb371bbcafb3d1778d7f4e998b8b28976f86949836d"
+    },
+    "10550103": {
+        "text": "Colorful☆Marvelous★World",
+        "hash": "5c40e6594b66846aa024edb371bbcafb3d1778d7f4e998b8b28976f86949836d"
+    },
+    "10560101": {
+        "text": "Luck Is Coming",
+        "hash": "c247e574af55f68f155b9ae0a22e9f3ba7a2db990f3227a0c99b4201ee5a66c4"
+    },
+    "10560102": {
+        "text": "Luck Is Coming",
+        "hash": "c247e574af55f68f155b9ae0a22e9f3ba7a2db990f3227a0c99b4201ee5a66c4"
+    },
+    "10560103": {
+        "text": "Luck Is Coming",
+        "hash": "c247e574af55f68f155b9ae0a22e9f3ba7a2db990f3227a0c99b4201ee5a66c4"
+    },
+    "10560201": {
+        "text": "Grains Become Ripe",
+        "hash": "ee7bbfab0c6a1fbfed77ac9046f1292c7edfe42bcedd5f52315f14b918a360aa"
+    },
+    "10560202": {
+        "text": "Grains Become Ripe",
+        "hash": "ee7bbfab0c6a1fbfed77ac9046f1292c7edfe42bcedd5f52315f14b918a360aa"
+    },
+    "10560203": {
+        "text": "Grains Become Ripe",
+        "hash": "ee7bbfab0c6a1fbfed77ac9046f1292c7edfe42bcedd5f52315f14b918a360aa"
+    },
+    "10570101": {
+        "text": "Lyricism at Journey's End",
+        "hash": "c917cddd11b1f12d99087e066fef47dda7bcc5b2a93c05a5e1006656e74fd576"
+    },
+    "10570102": {
+        "text": "Lyricism at Journey's End",
+        "hash": "c917cddd11b1f12d99087e066fef47dda7bcc5b2a93c05a5e1006656e74fd576"
+    },
+    "10570103": {
+        "text": "Lyricism at Journey's End",
+        "hash": "c917cddd11b1f12d99087e066fef47dda7bcc5b2a93c05a5e1006656e74fd576"
+    },
+    "10580201": {
+        "text": "Spooky-Scary-Happy",
+        "hash": "7cd8a8bace11ea46e7fcd379a44b6e193d006c13b1b89cfdee79d4db4cfc7bda"
+    },
+    "10580202": {
+        "text": "Spooky-Scary-Happy",
+        "hash": "7cd8a8bace11ea46e7fcd379a44b6e193d006c13b1b89cfdee79d4db4cfc7bda"
+    },
+    "10580203": {
+        "text": "Spooky-Scary-Happy",
+        "hash": "7cd8a8bace11ea46e7fcd379a44b6e193d006c13b1b89cfdee79d4db4cfc7bda"
+    },
+    "10590101": {
+        "text": "Beyond the Other Side",
+        "hash": "cde935c21f1ec6c27b03b2753e63a987fb4daafc510d6f355328bbd709e8dc5a"
+    },
+    "10590102": {
+        "text": "Beyond the Other Side",
+        "hash": "cde935c21f1ec6c27b03b2753e63a987fb4daafc510d6f355328bbd709e8dc5a"
+    },
+    "10590103": {
+        "text": "Beyond the Other Side",
+        "hash": "cde935c21f1ec6c27b03b2753e63a987fb4daafc510d6f355328bbd709e8dc5a"
+    },
+    "10590201": {
+        "text": "To Where the Heart Beckons",
+        "hash": "dcdfd221cf6ab9700fcfb08e4ec5bb0c4ed1e589d30f0e8643c4a1bedc70ffea"
+    },
+    "10590202": {
+        "text": "To Where the Heart Beckons",
+        "hash": "dcdfd221cf6ab9700fcfb08e4ec5bb0c4ed1e589d30f0e8643c4a1bedc70ffea"
+    },
+    "10590203": {
+        "text": "To Where the Heart Beckons",
+        "hash": "dcdfd221cf6ab9700fcfb08e4ec5bb0c4ed1e589d30f0e8643c4a1bedc70ffea"
+    },
+    "10600101": {
+        "text": "Surely, Beyond...!",
+        "hash": "ecfb8c43650c0d23f7fb96e4e3207db4e9a81c2f6cc6590ee06617f8f1f47312"
+    },
+    "10600102": {
+        "text": "Surely, Beyond...!",
+        "hash": "ecfb8c43650c0d23f7fb96e4e3207db4e9a81c2f6cc6590ee06617f8f1f47312"
+    },
+    "10600103": {
+        "text": "Surely, Beyond...!",
+        "hash": "ecfb8c43650c0d23f7fb96e4e3207db4e9a81c2f6cc6590ee06617f8f1f47312"
+    },
+    "10600201": {
+        "text": "Go☆Go☆For It!",
+        "hash": "336c21813bbea15029165416e8ec89c22879579f284e512068fb2e8678274314"
+    },
+    "10600202": {
+        "text": "Go☆Go☆For It!",
+        "hash": "336c21813bbea15029165416e8ec89c22879579f284e512068fb2e8678274314"
+    },
+    "10600203": {
+        "text": "Go☆Go☆For It!",
+        "hash": "336c21813bbea15029165416e8ec89c22879579f284e512068fb2e8678274314"
+    },
+    "10610101": {
+        "text": "Pride of KING",
+        "hash": "799c6bf79d1931a978d84016a5b57d4148cabe694a4870f4edc0fbc4f23fa89a"
+    },
+    "10610102": {
+        "text": "Pride of KING",
+        "hash": "799c6bf79d1931a978d84016a5b57d4148cabe694a4870f4edc0fbc4f23fa89a"
+    },
+    "10610103": {
+        "text": "Pride of KING",
+        "hash": "799c6bf79d1931a978d84016a5b57d4148cabe694a4870f4edc0fbc4f23fa89a"
+    },
+    "10610201": {
+        "text": "Roaring Tracen Cheerleading Squad",
+        "hash": "64761e6ce56daf2d799a08efa8b6572608a5d6edbc1c5502d28a152f05844e28"
+    },
+    "10610202": {
+        "text": "Roaring Tracen Cheerleading Squad",
+        "hash": "64761e6ce56daf2d799a08efa8b6572608a5d6edbc1c5502d28a152f05844e28"
+    },
+    "10610203": {
+        "text": "Roaring Tracen Cheerleading Squad",
+        "hash": "64761e6ce56daf2d799a08efa8b6572608a5d6edbc1c5502d28a152f05844e28"
+    },
+    "10620101": {
+        "text": "Bang, Bam, Mun",
+        "hash": "2baa91da266667cfcb3bb6ac493e892fc1297a1713a6ed4d2541efe396ffc0c4"
+    },
+    "10620102": {
+        "text": "Bang, Bam, Mun",
+        "hash": "2baa91da266667cfcb3bb6ac493e892fc1297a1713a6ed4d2541efe396ffc0c4"
+    },
+    "10620103": {
+        "text": "Bang, Bam, Mun",
+        "hash": "2baa91da266667cfcb3bb6ac493e892fc1297a1713a6ed4d2541efe396ffc0c4"
+    },
+    "10620201": {
+        "text": "Rolling Power Drive!",
+        "hash": "7ba74cf8a237fa52c4461d506b3e974769b244614100e8040b7ca543cb02cb8a"
+    },
+    "10620202": {
+        "text": "Rolling Power Drive!",
+        "hash": "7ba74cf8a237fa52c4461d506b3e974769b244614100e8040b7ca543cb02cb8a"
+    },
+    "10620203": {
+        "text": "Rolling Power Drive!",
+        "hash": "7ba74cf8a237fa52c4461d506b3e974769b244614100e8040b7ca543cb02cb8a"
+    },
+    "10640101": {
+        "text": "The Breakaway Road",
+        "hash": "21bd7b6f28082a9ef55cc570885550229bc889aa00729fa69a96d196f8d4d3c9"
+    },
+    "10640102": {
+        "text": "The Breakaway Road",
+        "hash": "21bd7b6f28082a9ef55cc570885550229bc889aa00729fa69a96d196f8d4d3c9"
+    },
+    "10640103": {
+        "text": "The Breakaway Road",
+        "hash": "21bd7b6f28082a9ef55cc570885550229bc889aa00729fa69a96d196f8d4d3c9"
+    },
+    "10640201": {
+        "text": "Jingle All the Way",
+        "hash": "9c77ed2e3c63e785edf6045958a5e87aac6d40234289adfb3c714a9afa9efbaa"
+    },
+    "10640202": {
+        "text": "Jingle All the Way",
+        "hash": "9c77ed2e3c63e785edf6045958a5e87aac6d40234289adfb3c714a9afa9efbaa"
+    },
+    "10640203": {
+        "text": "Jingle All the Way",
+        "hash": "9c77ed2e3c63e785edf6045958a5e87aac6d40234289adfb3c714a9afa9efbaa"
+    },
+    "10650101": {
+        "text": "Everybody Put Your Hands Up!",
+        "hash": "6f9ea8cc89638c187cae3a365f30eaacd382fbd984aac114f546f6035206d92a"
+    },
+    "10650102": {
+        "text": "Everybody Put Your Hands Up!",
+        "hash": "6f9ea8cc89638c187cae3a365f30eaacd382fbd984aac114f546f6035206d92a"
+    },
+    "10650103": {
+        "text": "Everybody Put Your Hands Up!",
+        "hash": "6f9ea8cc89638c187cae3a365f30eaacd382fbd984aac114f546f6035206d92a"
+    },
+    "10660101": {
+        "text": "Engine, Full Throttle! Turbo Time!",
+        "hash": "a604e4c99e9347df1f7c0ce0d01b927d6cfb91e5f7783031d2c89011f395cc57"
+    },
+    "10660102": {
+        "text": "Engine, Full Throttle! Turbo Time!",
+        "hash": "a604e4c99e9347df1f7c0ce0d01b927d6cfb91e5f7783031d2c89011f395cc57"
+    },
+    "10660103": {
+        "text": "Engine, Full Throttle! Turbo Time!",
+        "hash": "a604e4c99e9347df1f7c0ce0d01b927d6cfb91e5f7783031d2c89011f395cc57"
+    },
+    "10670101": {
+        "text": "Brilliance Illuminating the Darkness",
+        "hash": "a4768c31ff8f45c8eb6526d14135609a045256cf778639f4a09b61320f5b7022"
+    },
+    "10670102": {
+        "text": "Brilliance Illuminating the Darkness",
+        "hash": "a4768c31ff8f45c8eb6526d14135609a045256cf778639f4a09b61320f5b7022"
+    },
+    "10670103": {
+        "text": "Brilliance Illuminating the Darkness",
+        "hash": "a4768c31ff8f45c8eb6526d14135609a045256cf778639f4a09b61320f5b7022"
+    },
+    "10670201": {
+        "text": "Arrow of Gold, Break up the Dark Clouds",
+        "hash": "fdbf0ea817b8dc4ded596deed624111cb61decd4b8e4a8561fdcac345557dabb"
+    },
+    "10670202": {
+        "text": "Arrow of Gold, Break up the Dark Clouds",
+        "hash": "fdbf0ea817b8dc4ded596deed624111cb61decd4b8e4a8561fdcac345557dabb"
+    },
+    "10670203": {
+        "text": "Arrow of Gold, Break up the Dark Clouds",
+        "hash": "fdbf0ea817b8dc4ded596deed624111cb61decd4b8e4a8561fdcac345557dabb"
+    },
+    "10670301": {
+        "text": "Ponte de Diamant",
+        "hash": "2e2f3a2f41fcc8d5ebcb6f832ad2182522f3969f7844e3c6323bb08e4f3d2507"
+    },
+    "10670302": {
+        "text": "Ponte de Diamant",
+        "hash": "2e2f3a2f41fcc8d5ebcb6f832ad2182522f3969f7844e3c6323bb08e4f3d2507"
+    },
+    "10670303": {
+        "text": "Ponte de Diamant",
+        "hash": "2e2f3a2f41fcc8d5ebcb6f832ad2182522f3969f7844e3c6323bb08e4f3d2507"
+    },
+    "10680101": {
+        "text": "Shout of Victory",
+        "hash": "59afa1884229f9f3a0c0de35fe882c9147ffbda1292efca062b3d69e36e9e0a9"
+    },
+    "10680102": {
+        "text": "Shout of Victory",
+        "hash": "59afa1884229f9f3a0c0de35fe882c9147ffbda1292efca062b3d69e36e9e0a9"
+    },
+    "10680103": {
+        "text": "Shout of Victory",
+        "hash": "59afa1884229f9f3a0c0de35fe882c9147ffbda1292efca062b3d69e36e9e0a9"
+    },
+    "10680201": {
+        "text": "Lavish Feast",
+        "hash": "862669a74943e7f4805e01561a16f2ecdbe3578f283eb229b26028cec0085dfe"
+    },
+    "10680202": {
+        "text": "Lavish Feast",
+        "hash": "862669a74943e7f4805e01561a16f2ecdbe3578f283eb229b26028cec0085dfe"
+    },
+    "10680203": {
+        "text": "Lavish Feast",
+        "hash": "862669a74943e7f4805e01561a16f2ecdbe3578f283eb229b26028cec0085dfe"
+    },
+    "10680301": {
+        "text": "Becoming Everyone's Joy!",
+        "hash": "09b1a7b73cbbb1ab0441565c340b157e672d0edda6495934ffb959d8bc205bfa"
+    },
+    "10680302": {
+        "text": "Becoming Everyone's Joy!",
+        "hash": "09b1a7b73cbbb1ab0441565c340b157e672d0edda6495934ffb959d8bc205bfa"
+    },
+    "10680303": {
+        "text": "Becoming Everyone's Joy!",
+        "hash": "09b1a7b73cbbb1ab0441565c340b157e672d0edda6495934ffb959d8bc205bfa"
+    },
+    "10690101": {
+        "text": "Longing Beyond the Sakura",
+        "hash": "80276d124840a596c8c453defa57dfc88263e4758f799dfd8523940f28430f7a"
+    },
+    "10690102": {
+        "text": "Longing Beyond the Sakura",
+        "hash": "80276d124840a596c8c453defa57dfc88263e4758f799dfd8523940f28430f7a"
+    },
+    "10690103": {
+        "text": "Longing Beyond the Sakura",
+        "hash": "80276d124840a596c8c453defa57dfc88263e4758f799dfd8523940f28430f7a"
+    },
+    "10690201": {
+        "text": "Bloom! Blossom! Sakura!",
+        "hash": "85c171ac721618055096e48001c467eb80aaa06e7818cbfd74f6b8a2098292f0"
+    },
+    "10690202": {
+        "text": "Bloom! Blossom! Sakura!",
+        "hash": "85c171ac721618055096e48001c467eb80aaa06e7818cbfd74f6b8a2098292f0"
+    },
+    "10690203": {
+        "text": "Bloom! Blossom! Sakura!",
+        "hash": "85c171ac721618055096e48001c467eb80aaa06e7818cbfd74f6b8a2098292f0"
+    },
+    "10700101": {
+        "text": "Seirios",
+        "hash": "119c351866c59f9bc02848994925816d9960df500552914221d3037f326019bb"
+    },
+    "10700102": {
+        "text": "Seirios",
+        "hash": "119c351866c59f9bc02848994925816d9960df500552914221d3037f326019bb"
+    },
+    "10700103": {
+        "text": "Seirios",
+        "hash": "119c351866c59f9bc02848994925816d9960df500552914221d3037f326019bb"
+    },
+    "10710101": {
+        "text": "A Lifetime's Dream, A Moment's Flight",
+        "hash": "22748c83f32b0d823ac0a61137f807d1f58af37da6605c7f1ca8bded4a8858a4"
+    },
+    "10710102": {
+        "text": "A Lifetime's Dream, A Moment's Flight",
+        "hash": "22748c83f32b0d823ac0a61137f807d1f58af37da6605c7f1ca8bded4a8858a4"
+    },
+    "10710103": {
+        "text": "A Lifetime's Dream, A Moment's Flight",
+        "hash": "22748c83f32b0d823ac0a61137f807d1f58af37da6605c7f1ca8bded4a8858a4"
+    },
+    "10710201": {
+        "text": "Danser le Présent",
+        "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
+    },
+    "10710202": {
+        "text": "Danser le Présent",
+        "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
+    },
+    "10710203": {
+        "text": "Danser le Présent",
+        "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
+    },
+    "10720101": {
+        "text": "Dazzling Fire, Invincible Dance",
+        "hash": "e9fd834b1f8cd1e3ca792559a0d304ae15a07e5e2cbac7786d5f173f5b67070c"
+    },
+    "10720102": {
+        "text": "Dazzling Fire, Invincible Dance",
+        "hash": "e9fd834b1f8cd1e3ca792559a0d304ae15a07e5e2cbac7786d5f173f5b67070c"
+    },
+    "10720103": {
+        "text": "Dazzling Fire, Invincible Dance",
+        "hash": "e9fd834b1f8cd1e3ca792559a0d304ae15a07e5e2cbac7786d5f173f5b67070c"
+    },
+    "10740101": {
+        "text": "Lovely Spring Wind",
+        "hash": "a6442abedd9ce1ca5f068aff4116ac21b42e780df4bb53729bb9f2296d43581d"
+    },
+    "10740102": {
+        "text": "Lovely Spring Wind",
+        "hash": "a6442abedd9ce1ca5f068aff4116ac21b42e780df4bb53729bb9f2296d43581d"
+    },
+    "10740103": {
+        "text": "Lovely Spring Wind",
+        "hash": "a6442abedd9ce1ca5f068aff4116ac21b42e780df4bb53729bb9f2296d43581d"
+    },
+    "10740201": {
+        "text": "Illuminate You",
+        "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
+    },
+    "10740202": {
+        "text": "Illuminate You",
+        "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
+    },
+    "10740203": {
+        "text": "Illuminate You",
+        "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
+    },
+    "10760101": {
+        "text": "Blossoming World",
+        "hash": "af4064ce40c4d40828fd0ea614bd2dbe56bf0383f321f8de5ba305c92c699068"
+    },
+    "10760102": {
+        "text": "Blossoming World",
+        "hash": "af4064ce40c4d40828fd0ea614bd2dbe56bf0383f321f8de5ba305c92c699068"
+    },
+    "10760103": {
+        "text": "Blossoming World",
+        "hash": "af4064ce40c4d40828fd0ea614bd2dbe56bf0383f321f8de5ba305c92c699068"
+    },
+    "10770101": {
+        "text": "Road to Glory",
+        "hash": "4e1d20a32e15a17f08e498af0f8f031c83342a02fe81a0c1e840c1a0b5522401"
+    },
+    "10770102": {
+        "text": "Road to Glory",
+        "hash": "4e1d20a32e15a17f08e498af0f8f031c83342a02fe81a0c1e840c1a0b5522401"
+    },
+    "10770103": {
+        "text": "Road to Glory",
+        "hash": "4e1d20a32e15a17f08e498af0f8f031c83342a02fe81a0c1e840c1a0b5522401"
+    },
+    "10780101": {
+        "text": "A Spring in My Step",
+        "hash": "afcea5d5ba8c063da24d2bc439673019016afb4a90208bab21f67e1570389c86"
+    },
+    "10780102": {
+        "text": "A Spring in My Step",
+        "hash": "afcea5d5ba8c063da24d2bc439673019016afb4a90208bab21f67e1570389c86"
+    },
+    "10780103": {
+        "text": "A Spring in My Step",
+        "hash": "afcea5d5ba8c063da24d2bc439673019016afb4a90208bab21f67e1570389c86"
+    },
+    "10830101": {
+        "text": "Mission: Triumph",
+        "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
+    },
+    "10830102": {
+        "text": "Mission: Triumph",
+        "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
+    },
+    "10830103": {
+        "text": "Mission: Triumph",
+        "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
+    },
+    "10830201": {
+        "text": "Immortal Work",
+        "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
+    },
+    "10830202": {
+        "text": "Immortal Work",
+        "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
+    },
+    "10830203": {
+        "text": "Immortal Work",
+        "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
+    },
+    "10840101": {
+        "text": "Thunderstorm Sublation",
+        "hash": "fcea8062ef0b0945fab47c36bdde63560cf554178b825a64edf1c83afd34d63f"
+    },
+    "10840102": {
+        "text": "Thunderstorm Sublation",
+        "hash": "fcea8062ef0b0945fab47c36bdde63560cf554178b825a64edf1c83afd34d63f"
+    },
+    "10840103": {
+        "text": "Thunderstorm Sublation",
+        "hash": "fcea8062ef0b0945fab47c36bdde63560cf554178b825a64edf1c83afd34d63f"
+    },
+    "10850101": {
+        "text": "Reign Supreme",
+        "hash": "e8ba4b72b8e80ec4bccaed5eedfbeae5fb8a2ee85c0104e934e05c4a373a53d8"
+    },
+    "10850102": {
+        "text": "Reign Supreme",
+        "hash": "e8ba4b72b8e80ec4bccaed5eedfbeae5fb8a2ee85c0104e934e05c4a373a53d8"
+    },
+    "10850103": {
+        "text": "Reign Supreme",
+        "hash": "e8ba4b72b8e80ec4bccaed5eedfbeae5fb8a2ee85c0104e934e05c4a373a53d8"
+    },
+    "10860101": {
+        "text": "Melt in Love's Embrace",
+        "hash": "3935bec0856eaf435f5a31bbeda007407c6426a3b920fd9d377b26ca6d7343cf"
+    },
+    "10860102": {
+        "text": "Melt in Love's Embrace",
+        "hash": "3935bec0856eaf435f5a31bbeda007407c6426a3b920fd9d377b26ca6d7343cf"
+    },
+    "10860103": {
+        "text": "Melt in Love's Embrace",
+        "hash": "3935bec0856eaf435f5a31bbeda007407c6426a3b920fd9d377b26ca6d7343cf"
+    },
+    "10870101": {
+        "text": "Silent Letter",
+        "hash": "a9ed6bb46b6a466c3aec3a30d4034a08290abff24b2d7a7f6f29a8e10a2bab97"
+    },
+    "10870102": {
+        "text": "Silent Letter",
+        "hash": "a9ed6bb46b6a466c3aec3a30d4034a08290abff24b2d7a7f6f29a8e10a2bab97"
+    },
+    "10870103": {
+        "text": "Silent Letter",
+        "hash": "a9ed6bb46b6a466c3aec3a30d4034a08290abff24b2d7a7f6f29a8e10a2bab97"
+    },
+    "10880101": {
+        "text": "Reversal Illusion",
+        "hash": "ad4b127ef8520a3f22cacaf60f7e6134f62c2d015830b016da04906c774f8d0f"
+    },
+    "10880102": {
+        "text": "Reversal Illusion",
+        "hash": "ad4b127ef8520a3f22cacaf60f7e6134f62c2d015830b016da04906c774f8d0f"
+    },
+    "10880103": {
+        "text": "Reversal Illusion",
+        "hash": "ad4b127ef8520a3f22cacaf60f7e6134f62c2d015830b016da04906c774f8d0f"
+    },
+    "10890101": {
+        "text": "Celeste Oath",
+        "hash": "f40c8a7a87a9cc875f712ac918c2b3ddb794e50475a2f509fe5f2b38c9464beb"
+    },
+    "10890102": {
+        "text": "Celeste Oath",
+        "hash": "f40c8a7a87a9cc875f712ac918c2b3ddb794e50475a2f509fe5f2b38c9464beb"
+    },
+    "10890103": {
+        "text": "Celeste Oath",
+        "hash": "f40c8a7a87a9cc875f712ac918c2b3ddb794e50475a2f509fe5f2b38c9464beb"
+    },
+    "10930101": {
+        "text": "Blue Ray of Happiness",
+        "hash": "914d9d21ed0d85c500960e1ae619a5bb71c511deeb3c0d30d3924cad54eee125"
+    },
+    "10930102": {
+        "text": "Blue Ray of Happiness",
+        "hash": "914d9d21ed0d85c500960e1ae619a5bb71c511deeb3c0d30d3924cad54eee125"
+    },
+    "10930103": {
+        "text": "Blue Ray of Happiness",
+        "hash": "914d9d21ed0d85c500960e1ae619a5bb71c511deeb3c0d30d3924cad54eee125"
+    },
+    "10980101": {
+        "text": "Luck Comes to the Prepared",
+        "hash": "719397157d186feb1b4bed4eff5774be7374717fd115f2295c5b5669f7baf074"
+    },
+    "10980102": {
+        "text": "Luck Comes to the Prepared",
+        "hash": "719397157d186feb1b4bed4eff5774be7374717fd115f2295c5b5669f7baf074"
+    },
+    "10980103": {
+        "text": "Luck Comes to the Prepared",
+        "hash": "719397157d186feb1b4bed4eff5774be7374717fd115f2295c5b5669f7baf074"
+    },
+    "10990101": {
+        "text": "Shine ☆ Tomakomai",
+        "hash": "431fecf3d291530f37672beaaf0e7e266232d95a4dec62edd3dc2c43dcaced77"
+    },
+    "10990102": {
+        "text": "Shine ☆ Tomakomai",
+        "hash": "431fecf3d291530f37672beaaf0e7e266232d95a4dec62edd3dc2c43dcaced77"
+    },
+    "10990103": {
+        "text": "Shine ☆ Tomakomai",
+        "hash": "431fecf3d291530f37672beaaf0e7e266232d95a4dec62edd3dc2c43dcaced77"
+    },
+    "11000101": {
+        "text": "Never Say Never",
+        "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "11000102": {
+        "text": "Never Say Never",
+        "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "11000103": {
+        "text": "Never Say Never",
+        "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "11040101": {
+        "text": "Flag of Dawn: Katsuragi Ace",
+        "hash": "f1dc75826bf8bf4dd854364aefed6c4051725e95fffc1e5a322aaf799517369f"
+    },
+    "11040102": {
+        "text": "Flag of Dawn: Katsuragi Ace",
+        "hash": "f1dc75826bf8bf4dd854364aefed6c4051725e95fffc1e5a322aaf799517369f"
+    },
+    "11040103": {
+        "text": "Flag of Dawn: Katsuragi Ace",
+        "hash": "f1dc75826bf8bf4dd854364aefed6c4051725e95fffc1e5a322aaf799517369f"
+    },
+    "11050101": {
+        "text": "Ad Astra",
+        "hash": "6041bd40eb670e08908dc4f923998c8c6f1a4968406bccfd8df07964989d76d9"
+    },
+    "11050102": {
+        "text": "Ad Astra",
+        "hash": "6041bd40eb670e08908dc4f923998c8c6f1a4968406bccfd8df07964989d76d9"
+    },
+    "11050103": {
+        "text": "Ad Astra",
+        "hash": "6041bd40eb670e08908dc4f923998c8c6f1a4968406bccfd8df07964989d76d9"
+    },
+    "11060101": {
+        "text": "Bang☆Miracle Maker!",
+        "hash": "286bd8e5b8b770af8b34a5d3acb44cff33dbcb52742c4c39ed93c6283dac2816"
+    },
+    "11060102": {
+        "text": "Bang☆Miracle Maker!",
+        "hash": "286bd8e5b8b770af8b34a5d3acb44cff33dbcb52742c4c39ed93c6283dac2816"
+    },
+    "11060103": {
+        "text": "Bang☆Miracle Maker!",
+        "hash": "286bd8e5b8b770af8b34a5d3acb44cff33dbcb52742c4c39ed93c6283dac2816"
+    },
+    "11070101": {
+        "text": "Billions of Stars",
+        "hash": "f3bd37f73912496617dc90354ffba86890b98b9765b679765c0c15074362619d"
+    },
+    "11070102": {
+        "text": "Billions of Stars",
+        "hash": "f3bd37f73912496617dc90354ffba86890b98b9765b679765c0c15074362619d"
+    },
+    "11070103": {
+        "text": "Billions of Stars",
+        "hash": "f3bd37f73912496617dc90354ffba86890b98b9765b679765c0c15074362619d"
     }
 }
