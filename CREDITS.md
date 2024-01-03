@@ -1,5 +1,5 @@
 WIP credits table.
-Anything not in the table may be assumed to be translated/made by me (KevinVG207)
+Anything not in the table may be assumed to be translated/made by me (KevinVG207), GameTora or Noccu.
 
 <table>
     <tr>
@@ -21,7 +21,7 @@ Anything not in the table may be assumed to be translated/made by me (KevinVG207
         <td>
             <ul>
                 <li>Translation: not_sinus</li>
-                <li>Typesetting: nem</li>
+                <li>Typesetting: nemupyoi</li>
             </ul>
         </td>
     </tr>

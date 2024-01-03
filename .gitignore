@@ -4,7 +4,7 @@ editing/
 tmp/
 .vscode/
 src/config.json
-src/__sandbox.py
+*sandbox*
 *backup*/
 translations_backup/
 dist/

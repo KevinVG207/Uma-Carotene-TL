@@ -146,12 +146,71 @@ def autofill_pieces():
     
     util.save_json(json_path, json_data)
 
+def autofill_chara_secret_headers():
+    chara_path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "6.json")
+
+    if not os.path.exists(chara_path):
+        print(f"File {chara_path} does not exist. Skipping.")
+        return
+
+    chara_name_data = util.load_json(chara_path)
+
+    char_dict = {}
+    for entry in chara_name_data:
+        jp = entry["source"]
+        en = entry["text"]
+        if not en:
+            continue
+        char_dict[jp] = en
+    
+    json_path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "68.json")
+
+    if not os.path.exists(json_path):
+        print(f"File {json_path} does not exist. Skipping.")
+        return
+    
+    json_data = util.load_json(json_path)
+
+    for entry in json_data:
+        source = entry["source"]
+
+        num = source[-1]
+        num = unicodedata.normalize('NFKC', num)  # Turn circle numbers into normal numbers
+
+        if not num.isnumeric():
+            continue
+
+        rest = source[:-1]
+
+        is_secret = False
+
+        if rest.endswith("のヒミツ"):
+            rest = rest[:-4]
+            is_secret = True
+
+        char_name = char_dict.get(rest)
+        if not char_name:
+            print(f"Character {rest} not found in character index. Skipping.")
+            continue
+
+        out = f"{char_name} "
+        if is_secret:
+            out += "Secret "
+        
+        out += f"#{num}"
+
+        entry["text"] = out
+
+    util.save_json(json_path, json_data)
+
+
 
 def main():
     # autofill_birthdays()
     autofill_outfit_combos()
     autofill_support_combos()
     autofill_pieces()
+    autofill_chara_secret_headers()
     pass
 
 if __name__ == "__main__":
