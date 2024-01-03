@@ -14,7 +14,6 @@ import UnityPy
 from itertools import repeat
 import filecmp
 import hashlib
-import preprocess
 
 def write_recursive(cur_path, cur_dict, overwrite=False):
     if "hash" not in cur_dict[list(cur_dict.keys())[0]]:
@@ -199,7 +198,6 @@ def add_to_dict(parent_dict, values_list):
 
 def mdb_from_intermediate():
     print("=== CREATING TL FILES FOR MDB ===")
-    pp = preprocess.Preprocessor()
 
     index = util.load_json("src/index.json")
 
@@ -233,7 +231,7 @@ def mdb_from_intermediate():
             text = item_data['text']
             hash = item_data['hash']
             tl_item = {
-                "text": pp.fix(text, path),
+                "text": text,
                 "hash": hash
             }
             for key_list in keys:

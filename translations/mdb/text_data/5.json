@@ -9,7 +9,8 @@
     },
     "100103": {
         "text": "[Supreme Commander of the Rising Sun]",
-        "hash": "37d9fde5f20dde5741c794074fb2a0fa4c0d0ac48da2ca643c4bbd34f0548dac"
+        "hash": "37d9fde5f20dde5741c794074fb2a0fa4c0d0ac48da2ca643c4bbd34f0548dac",
+        "processed": "<ssc>68<esc>[Supreme Commander of the Rising Sun]"
     },
     "100201": {
         "text": "[Silent Innocence]",
@@ -17,7 +18,8 @@
     },
     "100202": {
         "text": "[Emerald Among the Waves]",
-        "hash": "9b740fb0d0c1854053010a5522202ec7dffd600c15d85e7ec9b7ccc605ba5e0e"
+        "hash": "9b740fb0d0c1854053010a5522202ec7dffd600c15d85e7ec9b7ccc605ba5e0e",
+        "processed": "<ssc>99<esc>[Emerald Among the Waves]"
     },
     "100301": {
         "text": "[Top of Joyful]",
@@ -29,7 +31,8 @@
     },
     "100303": {
         "text": "[Dream Butterfly of Purple Clouds]",
-        "hash": "d9ce05ff1c14d042c3a3b248565ac7e4ec50e43a678a2d6954786d1eee3f6777"
+        "hash": "d9ce05ff1c14d042c3a3b248565ac7e4ec50e43a678a2d6954786d1eee3f6777",
+        "processed": "<ssc>80<esc>[Dream Butterfly of Purple Clouds]"
     },
     "100401": {
         "text": "[Rouge Formula]",
@@ -37,7 +40,8 @@
     },
     "100402": {
         "text": "[Blasting Off ☆ Summer Night]",
-        "hash": "4e08f0605899c1cbd0afb861e93f3bb4d880713b0223a2eb79ae7c437a2a0bd8"
+        "hash": "4e08f0605899c1cbd0afb861e93f3bb4d880713b0223a2eb79ae7c437a2a0bd8",
+        "processed": "<ssc>90<esc>[Blasting Off ☆ Summer Night]"
     },
     "100501": {
         "text": "[Shooting Star Revue]",
@@ -161,7 +165,8 @@
     },
     "101901": {
         "text": "[Super Express! Full Color Special]",
-        "hash": "f4fb4248bb8502124ceb75e9c55deb531b728f9fa566b6ea9b47830c6c8b0976"
+        "hash": "f4fb4248bb8502124ceb75e9c55deb531b728f9fa566b6ea9b47830c6c8b0976",
+        "processed": "<ssc>80<esc>[Super Express! Full Color Special]"
     },
     "101902": {
         "text": "[Agnes​♡​Jiangshi]",
@@ -233,7 +238,8 @@
     },
     "102901": {
         "text": "[Cute Sweet Flower of Mutsu]",
-        "hash": "afbde2890f1928070e58b92064d4cf4968ce81dfe6127eba1e73fcf433edcb9c"
+        "hash": "afbde2890f1928070e58b92064d4cf4968ce81dfe6127eba1e73fcf433edcb9c",
+        "processed": "<ssc>94<esc>[Cute Sweet Flower of Mutsu]"
     },
     "103001": {
         "text": "[Rose Dream]",
@@ -405,11 +411,13 @@
     },
     "105501": {
         "text": "[☆Sparkling​★​Dazzling​☆​Exciting​∞​Marvelous∞]",
-        "hash": "51a91a0b5bbbae33e3d0fb8abebc67aaefda031ad734742c6768fd4976eb8b09"
+        "hash": "51a91a0b5bbbae33e3d0fb8abebc67aaefda031ad734742c6768fd4976eb8b09",
+        "processed": "<ssc>59<esc>[☆Sparkling​★​Dazzling​☆​Exciting​∞​Marvelous∞]"
     },
     "105601": {
         "text": "[Rising Luck ☆ Flood of Happiness]",
-        "hash": "57db647ef2a0fbc00d8264eb342ffb8ea86fed9946691d4d2ec2ddae3d70498c"
+        "hash": "57db647ef2a0fbc00d8264eb342ffb8ea86fed9946691d4d2ec2ddae3d70498c",
+        "processed": "<ssc>78<esc>[Rising Luck ☆ Flood of Happiness]"
     },
     "105602": {
         "text": "[Good Omen​・​First Storm]",
@@ -481,7 +489,8 @@
     },
     "106702": {
         "text": "[Floral Star​・​Prosperous Green]",
-        "hash": "01168c8ea6bdbd5bdc9f77274fd340db6f71ada55324c159d5a8ebf855a78c75"
+        "hash": "01168c8ea6bdbd5bdc9f77274fd340db6f71ada55324c159d5a8ebf855a78c75",
+        "processed": "<ssc>87<esc>[Floral Star​・​Prosperous Green]"
     },
     "106703": {
         "text": "[Chevalier Bleu]",
@@ -493,7 +502,8 @@
     },
     "106802": {
         "text": "[Jubilant Star​・​Auspicious Crane]",
-        "hash": "e628647f229840b7f19c139ec005e205fe3f0165dbf90abb3ad471d260414177"
+        "hash": "e628647f229840b7f19c139ec005e205fe3f0165dbf90abb3ad471d260414177",
+        "processed": "<ssc>83<esc>[Jubilant Star​・​Auspicious Crane]"
     },
     "106803": {
         "text": "[Vow-Ending Flower]",
@@ -501,7 +511,8 @@
     },
     "106901": {
         "text": "[Hinoshita Kaisan​・​Hana Akari]",
-        "hash": "dce535dbb41c3233eb092cdd855741c603196a2e196d4a5a84c975d2f19936df"
+        "hash": "dce535dbb41c3233eb092cdd855741c603196a2e196d4a5a84c975d2f19936df",
+        "processed": "<ssc>89<esc>[Hinoshita Kaisan​・​Hana Akari]"
     },
     "106902": {
         "text": "[Fleur Enneigée]",
@@ -521,7 +532,8 @@
     },
     "107201": {
         "text": "[Attack of the Four White Meteors]",
-        "hash": "383c2d5c589d62b48de9aca5af05aecb81abeaf3461ea7687f541d71d660b50f"
+        "hash": "383c2d5c589d62b48de9aca5af05aecb81abeaf3461ea7687f541d71d660b50f",
+        "processed": "<ssc>80<esc>[Attack of the Four White Meteors]"
     },
     "107401": {
         "text": "[Brunissage Line]",
@@ -529,7 +541,8 @@
     },
     "107402": {
         "text": "[Elegant Starry Snow Lolita]",
-        "hash": "0e77903e9384fc4babe2f378e566b8bdbbd249ed424447b82d2f13d86fab7717"
+        "hash": "0e77903e9384fc4babe2f378e566b8bdbbd249ed424447b82d2f13d86fab7717",
+        "processed": "<ssc>99<esc>[Elegant Starry Snow Lolita]"
     },
     "107601": {
         "text": "[Saisir le Rêve]",
@@ -581,7 +594,8 @@
     },
     "109801": {
         "text": "[Yin​-​yang Bagua ☆ Lucky Costume]",
-        "hash": "b34b5095c6141f71bcb91a129914bd306ce04243445edcd2231b12517a1de783"
+        "hash": "b34b5095c6141f71bcb91a129914bd306ce04243445edcd2231b12517a1de783",
+        "processed": "<ssc>78<esc>[Yin​-​yang Bagua ☆ Lucky Costume]"
     },
     "109901": {
         "text": "[Star​・​Light​・​Ship]",

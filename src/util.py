@@ -17,6 +17,7 @@ import win32api
 import win32con
 import lz4.frame
 import time
+import glob
 
 relative_dir = os.path.abspath(os.getcwd())
 unpack_dir = relative_dir
@@ -60,6 +61,12 @@ INTERMEDIATE_PREFIX = get_asset("editing\\")
 
 MDB_FOLDER = TL_PREFIX + "mdb\\"
 MDB_FOLDER_EDITING = INTERMEDIATE_PREFIX + "mdb\\"
+
+def get_tl_mdb_jsons():
+    mdb_jsons = glob.glob(MDB_FOLDER + "*.json")
+    mdb_jsons += glob.glob(MDB_FOLDER + "**\\*.json")
+    return mdb_jsons
+
 
 ASSETS_FOLDER = TL_PREFIX + "assets\\"
 ASSETS_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assets\\"
@@ -437,3 +444,8 @@ def get_text_width(text, ttfont):
             pass
 
     return tot
+
+def split_mdb_path(path):
+    rel_path = os.path.relpath(path, MDB_FOLDER)
+    path_segments = os.path.normpath(rel_path).rsplit(".", 1)[0].split(os.sep)
+    return tuple(path_segments)
