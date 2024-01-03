@@ -140,9 +140,6 @@ def get_current_patch_ver():
 
 
 def import_mdb():
-    global FONT
-    FONT = util.prepare_font()
-
     mdb_jsons = util.get_tl_mdb_jsons()
 
     with util.MDBConnection() as (conn, cursor):

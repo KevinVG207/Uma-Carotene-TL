@@ -17,7 +17,7 @@ def add_scale_tag(text, max_width):
     
     scale_factor = math.floor(max_width / cur_width * 100)
 
-    return f"<ssc>{scale_factor}<esc>{text}"
+    return f"<sc={scale_factor}>{text}"
 
 
 PP_FUNCS = {
