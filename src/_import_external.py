@@ -3,6 +3,7 @@ import util
 from multiprocessing.pool import Pool
 import os
 import glob
+import json
 
 def fetch_chara_data(chara_id):
     out = (chara_id, {})
@@ -229,6 +230,55 @@ def import_external_story(local_path, url_to_github_jsons):
     print("Done")
 
 
+def apply_gametora_skills():
+    print("Importing GameTora skills")
+
+    r = requests.get("https://gametora.com/loc/umamusume/skills.json")
+    r.raise_for_status()
+
+    gt_data = r.json()
+
+    gt_name_dict = {data['name_ja']: data['name_en'] for data in gt_data if data.get('name_en')}
+    gt_desc_dict = {data['id']: data['desc_en'] for data in gt_data if data.get('desc_en')}
+
+    # Load local skill data
+    print("Skill names")
+
+    prefix = os.path.join(util.MDB_FOLDER_EDITING, "text_data")
+    name_files = [
+        "47",
+        "147"
+    ]
+
+    for name_file in name_files:
+        data = util.load_json(os.path.join(prefix, f"{name_file}.json"))
+
+        for entry in data:
+            if entry['source'] in gt_name_dict:
+                entry['text'] = gt_name_dict[entry['source']]
+                entry['new'] = False
+
+        util.save_json(os.path.join(prefix, f"{name_file}.json"), data)
+
+    print("Skill descriptions")
+    desc_data = util.load_json(os.path.join(prefix, "48.json"))
+
+    for entry in desc_data:
+        keys = json.loads(entry['keys'])
+        skill_id = keys[0][1]
+        if skill_id in gt_desc_dict:
+            cur_desc = gt_desc_dict[skill_id]
+            if not cur_desc.endswith('.') and not cur_desc.endswith('.)'):
+                cur_desc += '.'
+            entry['text'] = cur_desc
+            entry['new'] = False
+    
+    util.save_json(os.path.join(prefix, "48.json"), desc_data)
+
+    print("Done")
+
+
+
 
 def main():
     # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
@@ -236,6 +286,8 @@ def main():
     umapyoi_chara_ids = get_umapyoi_chara_ids()
     apply_umapyoi_character_profiles(umapyoi_chara_ids)
     apply_umapyoi_outfits(umapyoi_chara_ids)
+
+    apply_gametora_skills()
 
 if __name__ == "__main__":
     main()
