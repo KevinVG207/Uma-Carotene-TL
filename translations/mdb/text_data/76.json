@@ -410,12 +410,12 @@
     "20004": {
         "text": "[Vice President's Swift Justice]",
         "hash": "c9d64ce46b87b022ddef777ba88217c8d26d864d228165720f3273e2501f03f2",
-        "processed": "<ssc>89<esc>[Vice President's Swift Justice]"
+        "processed": "<sc=89>[Vice President's Swift Justice]"
     },
     "20005": {
         "text": "[Digital Charging in Progress+]",
         "hash": "2b50ed511389294dfd0979bc6fc9ca2dd6bf7cc9ce1681e6b757410bcf948df5",
-        "processed": "<ssc>89<esc>[Digital Charging in Progress+]"
+        "processed": "<sc=89>[Digital Charging in Progress+]"
     },
     "20006": {
         "text": "[Verification, Start]",
@@ -444,7 +444,7 @@
     "20012": {
         "text": "[Experimental Study of Lifeform A]",
         "hash": "83f698637bf5674ced7b9f924613ec78929fd2018ea931046e08ab578607d2ce",
-        "processed": "<ssc>80<esc>[Experimental Study of Lifeform A]"
+        "processed": "<sc=80>[Experimental Study of Lifeform A]"
     },
     "20013": {
         "text": "[05:00​・​Just As Scheduled]",
@@ -465,7 +465,7 @@
     "20017": {
         "text": "[Back-to-Back with Happiness]",
         "hash": "d957905467cc7cc2e61c9728b4a9817b525e332f6539fea68dc77a245c854164",
-        "processed": "<ssc>90<esc>[Back-to-Back with Happiness]"
+        "processed": "<sc=90>[Back-to-Back with Happiness]"
     },
     "20018": {
         "text": "[Don't Mind the Gazes]",
@@ -482,7 +482,7 @@
     "20021": {
         "text": "[Together on the Same Path!]",
         "hash": "b72c7334400c028e457d2eb7574723d6aeba4ace7284054020ccfe39cab3ced0",
-        "processed": "<ssc>94<esc>[Together on the Same Path!]"
+        "processed": "<sc=94>[Together on the Same Path!]"
     },
     "20022": {
         "text": "[Taste my Ikayaki!]",
@@ -491,17 +491,17 @@
     "20023": {
         "text": "[The Apprentice Witch and the Long Night]",
         "hash": "9e734669802229cd1332d88fc5e7b7bb5620b6f03aec95fa03264af45204a014",
-        "processed": "<ssc>65<esc>[The Apprentice Witch and the Long Night]"
+        "processed": "<sc=65>[The Apprentice Witch and the Long Night]"
     },
     "20024": {
         "text": "[Party People​・​Party Night!]",
         "hash": "18c9faffd3ade5f1dcad5a78d5a15c8fca3476f7f579624115de221b527e634a",
-        "processed": "<ssc>98<esc>[Party People​・​Party Night!]"
+        "processed": "<sc=98>[Party People​・​Party Night!]"
     },
     "20025": {
         "text": "[Thou Shan't Neglect Warming Up]",
         "hash": "b446fe6b5aa996ba306ae64c244ec999f23119dc122f1314431e5b2028fff80a",
-        "processed": "<ssc>80<esc>[Thou Shan't Neglect Warming Up]"
+        "processed": "<sc=80>[Thou Shan't Neglect Warming Up]"
     },
     "20026": {
         "text": "[Disheveled Innocence]",
@@ -514,7 +514,7 @@
     "20028": {
         "text": "[Book Recommendations Available!]",
         "hash": "d29a8b946612de8780908b957f2820c7f6d79293276b4621a9a5aaf382cd0a1e",
-        "processed": "<ssc>77<esc>[Book Recommendations Available!]"
+        "processed": "<sc=77>[Book Recommendations Available!]"
     },
     "20029": {
         "text": "[Pearl of the World]",
@@ -523,7 +523,7 @@
     "20030": {
         "text": "[To Your Hard-working Self!]",
         "hash": "59cfd6198c41d947a72bad9699aafb8d0095bf5a8628fa786480ecc73e08263f",
-        "processed": "<ssc>97<esc>[To Your Hard-working Self!]"
+        "processed": "<sc=97>[To Your Hard-working Self!]"
     },
     "20031": {
         "text": "[///WARNING GATE///]",
@@ -552,7 +552,7 @@
     "20038": {
         "text": "[A First-magnitude Star Does Not Waver]",
         "hash": "62c1720fe408827e5782893d14431253b1e14e12b9519588a19a75a3d2cb06cf",
-        "processed": "<ssc>68<esc>[A First-magnitude Star Does Not Waver]"
+        "processed": "<sc=68>[A First-magnitude Star Does Not Waver]"
     },
     "20039": {
         "text": "[Fussy Supervisor]",
@@ -561,7 +561,7 @@
     "20040": {
         "text": "[Pulse-Quickening Cooldown]",
         "hash": "9377b0518c97a352d5f6f46fb46d8124ddbd78cc529d27b32d6345ca1d8cd71a",
-        "processed": "<ssc>94<esc>[Pulse-Quickening Cooldown]"
+        "processed": "<sc=94>[Pulse-Quickening Cooldown]"
     },
     "20041": {
         "text": "[First Magnitude Desire]",
@@ -570,7 +570,7 @@
     "20042": {
         "text": "[Hear! An Exemplary Greeting!]",
         "hash": "8371dcfec192da734980770d683effa14f7dfa9268eab3492e5c7c1f4b90adca",
-        "processed": "<ssc>89<esc>[Hear! An Exemplary Greeting!]"
+        "processed": "<sc=89>[Hear! An Exemplary Greeting!]"
     },
     "20043": {
         "text": "[At Day's End]",
@@ -623,12 +623,12 @@
     "20055": {
         "text": "[Would you like your attachment heated?]",
         "hash": "9a8c1f7df78e4260c34e08118cd2bbe3940ed3bfcf6f4c9eb5f8d9ec4b922e23",
-        "processed": "<ssc>66<esc>[Would you like your attachment heated?]"
+        "processed": "<sc=66>[Would you like your attachment heated?]"
     },
     "20056": {
         "text": "[Dead End: Blocking The Way]",
         "hash": "f8beef0db03dcc197fb0180e1123761d561dba91cf188c747248a440942c9182",
-        "processed": "<ssc>92<esc>[Dead End: Blocking The Way]"
+        "processed": "<sc=92>[Dead End: Blocking The Way]"
     },
     "20057": {
         "text": "[Gentle & Sleek]",
@@ -657,22 +657,22 @@
     "20063": {
         "text": "[Peeking Through the Evening Shower]",
         "hash": "fb035d8427b907c7e4c1f584df7943c80d6583f7520dbf6083e010f913f5d019",
-        "processed": "<ssc>71<esc>[Peeking Through the Evening Shower]"
+        "processed": "<sc=71>[Peeking Through the Evening Shower]"
     },
     "20064": {
         "text": "[The Gods of Luck Rise Early]",
         "hash": "73c8fffa63486a229c4420fe957638171071c585a6c5e4d9d66f8ad3c1c8e01c",
-        "processed": "<ssc>94<esc>[The Gods of Luck Rise Early]"
+        "processed": "<sc=94>[The Gods of Luck Rise Early]"
     },
     "20065": {
         "text": "[Good Tea leaves an Aftertaste]",
         "hash": "89c7711ff899ca9374407544fc558c5de958a4d1262f5cc817cb3b8731d45016",
-        "processed": "<ssc>88<esc>[Good Tea leaves an Aftertaste]"
+        "processed": "<sc=88>[Good Tea leaves an Aftertaste]"
     },
     "20066": {
         "text": "[The Helpful Captain and the Little Witch]",
         "hash": "6085b135e54b4f5191ca96cfb770ecbadaf3c71d162734d75c39a93bd9a72ad2",
-        "processed": "<ssc>67<esc>[The Helpful Captain and the Little Witch]"
+        "processed": "<sc=67>[The Helpful Captain and the Little Witch]"
     },
     "20067": {
         "text": "[A Spoiled Kid's Night]",
@@ -689,7 +689,7 @@
     "20070": {
         "text": "[Is the Older Sister a Big Deal?]",
         "hash": "5655a0d4d53844d4e15d24598ced4cf13d8f86663df3afecac4a67d7ef10806a",
-        "processed": "<ssc>87<esc>[Is the Older Sister a Big Deal?]"
+        "processed": "<sc=87>[Is the Older Sister a Big Deal?]"
     },
     "20071": {
         "text": "[Making the \"Strongest\"!]",
@@ -702,17 +702,17 @@
     "30002": {
         "text": "[Beyond the Brilliant Scenery]",
         "hash": "10337b8a7bf250042bddb14c18da8a8346466c893f0022a33400de3ca4b96f79",
-        "processed": "<ssc>92<esc>[Beyond the Brilliant Scenery]"
+        "processed": "<sc=92>[Beyond the Brilliant Scenery]"
     },
     "30003": {
         "text": "[Let Your Dreams Be Known!]",
         "hash": "d959f62d81bafe6e18a23f57b19c18e6519677416be0bf7be43bc09d62d1dec3",
-        "processed": "<ssc>94<esc>[Let Your Dreams Be Known!]"
+        "processed": "<sc=94>[Let Your Dreams Be Known!]"
     },
     "30004": {
         "text": "[Advance of the Unsinkable Battleship]",
         "hash": "c7ae11b0e65f5da65b1dc0d1c573356f8a2452f22693ffb7aaad422ed3f281ee",
-        "processed": "<ssc>71<esc>[Advance of the Unsinkable Battleship]"
+        "processed": "<sc=71>[Advance of the Unsinkable Battleship]"
     },
     "30005": {
         "text": "[Road of Vodka]",
@@ -721,7 +721,7 @@
     "30006": {
         "text": "[A Myriad of Colors, a Noble Bloom]",
         "hash": "0a75a6ebdd8b65360b6a0584c781beee066f8d3448ee1f974f1088c673870ad2",
-        "processed": "<ssc>77<esc>[A Myriad of Colors, a Noble Bloom]"
+        "processed": "<sc=77>[A Myriad of Colors, a Noble Bloom]"
     },
     "30007": {
         "text": "[Passion Campeóna!]",
@@ -734,12 +734,12 @@
     "30009": {
         "text": "[Heaven-Piercing Lightning Girl!]",
         "hash": "c704070e24a32e45072af2666ea48faf5a1d576eec5c38d69783d435b044bb72",
-        "processed": "<ssc>84<esc>[Heaven-Piercing Lightning Girl!]"
+        "processed": "<sc=84>[Heaven-Piercing Lightning Girl!]"
     },
     "30010": {
         "text": "[Gratitude Up to One's Fingertips]",
         "hash": "eb8dc098f559ec871d9a7d189840b3ef2bd52a1259559f8bca36892b244ac62b",
-        "processed": "<ssc>81<esc>[Gratitude Up to One's Fingertips]"
+        "processed": "<sc=81>[Gratitude Up to One's Fingertips]"
     },
     "30011": {
         "text": "[Jump Out and Shine]",
@@ -780,12 +780,12 @@
     "30020": {
         "text": "[Special Move! W Carrot Punch!]",
         "hash": "8e955a00a5af1f5da6d80635d497d607ccc7198e907943d3d4cb1e8395162803",
-        "processed": "<ssc>85<esc>[Special Move! W Carrot Punch!]"
+        "processed": "<sc=85>[Special Move! W Carrot Punch!]"
     },
     "30021": {
         "text": "[Welcome to Tracen Academy!]",
         "hash": "e1bf31751244d05558d2460c6992981b31bb06b325dcf1e53fd58f706addcbc9",
-        "processed": "<ssc>90<esc>[Welcome to Tracen Academy!]"
+        "processed": "<sc=90>[Welcome to Tracen Academy!]"
     },
     "30022": {
         "text": "[As the Ace]",
@@ -802,7 +802,7 @@
     "30025": {
         "text": "[Sunset-Colored Aspiration]",
         "hash": "725d194859bafa022b84cc22a1373bf4e403a84832528985752d8ea4f726df29",
-        "processed": "<ssc>99<esc>[Sunset-Colored Aspiration]"
+        "processed": "<sc=99>[Sunset-Colored Aspiration]"
     },
     "30026": {
         "text": "[Turbo Engine, Full Power!]",
@@ -815,7 +815,7 @@
     "30028": {
         "text": "[Pushed by the Approaching Passion]",
         "hash": "14863a84aef25b8bc0a670cc5a70077351c74a0a2951aa37a4a67d3829ae0287",
-        "processed": "<ssc>74<esc>[Pushed by the Approaching Passion]"
+        "processed": "<sc=74>[Pushed by the Approaching Passion]"
     },
     "30029": {
         "text": "[Surpassing That Back]",
@@ -828,12 +828,12 @@
     "30031": {
         "text": "[Hometown Cheering Express!]",
         "hash": "99225df4806ef4c09fd3dcbddd2351e3f8e3081010af2db286d165ae2d2f179a",
-        "processed": "<ssc>90<esc>[Hometown Cheering Express!]"
+        "processed": "<sc=90>[Hometown Cheering Express!]"
     },
     "30032": {
         "text": "[Unrestrainably Burning With Passion]",
         "hash": "874babd877115086e21655bc8ecf2dca29e91277c06d264f8334e519878d6f90",
-        "processed": "<ssc>72<esc>[Unrestrainably Burning With Passion]"
+        "processed": "<sc=72>[Unrestrainably Burning With Passion]"
     },
     "30033": {
         "text": "[Dreams Do Come True!]",
@@ -842,7 +842,7 @@
     "30034": {
         "text": "[Happiness is Just Around the Corner]",
         "hash": "9f5b3f6dbbc6fa19a7164a9448df137f475ac19715d77b6a966973ce22239f5e",
-        "processed": "<ssc>72<esc>[Happiness is Just Around the Corner]"
+        "processed": "<sc=72>[Happiness is Just Around the Corner]"
     },
     "30036": {
         "text": "[Thorough Management]",
@@ -895,7 +895,7 @@
     "30048": {
         "text": "[Invigorating! Winning Shot!]",
         "hash": "97be8b62ed3d915c3855d4c2eec333bc07c3425768fd39b490a2c12ed3a31edd",
-        "processed": "<ssc>95<esc>[Invigorating! Winning Shot!]"
+        "processed": "<sc=95>[Invigorating! Winning Shot!]"
     },
     "30052": {
         "text": "[from the GROUND UP]",
@@ -912,17 +912,17 @@
     "30055": {
         "text": "[Tomorrow the Entire Country Will Be Dyed Red♪]",
         "hash": "ca8f77245e770a59f1e6724a9b7b7f6298fc4d5f80e0255b389fc697d369c3cb",
-        "processed": "<ssc>55<esc>[Tomorrow the Entire Country Will Be Dyed Red♪]"
+        "processed": "<sc=55>[Tomorrow the Entire Country Will Be Dyed Red♪]"
     },
     "30056": {
         "text": "[Tonight, Let's Dance to the Waltz]",
         "hash": "6a34b89edffaf49c3b4b6eca19399fcec9caa0ba923fa133902f833bf8301f4a",
-        "processed": "<ssc>80<esc>[Tonight, Let's Dance to the Waltz]"
+        "processed": "<sc=80>[Tonight, Let's Dance to the Waltz]"
     },
     "30057": {
         "text": "[Legend of the Strongest Uma King]",
         "hash": "753eb44f35b7778143303961e1bfe76c69843366ffc4e6dc4856fa08a5ca7319",
-        "processed": "<ssc>77<esc>[Legend of the Strongest Uma King]"
+        "processed": "<sc=77>[Legend of the Strongest Uma King]"
     },
     "30058": {
         "text": "[Two Noble Lights]",
@@ -951,17 +951,17 @@
     "30064": {
         "text": "[Let's go, Halloween Night!]",
         "hash": "12f3537ef79f6892893c53109d982b44ae169660bd0cd42f98accdef7b24f7a9",
-        "processed": "<ssc>99<esc>[Let's go, Halloween Night!]"
+        "processed": "<sc=99>[Let's go, Halloween Night!]"
     },
     "30065": {
         "text": "[Heroine Blessed with Magic]",
         "hash": "ba7d36ac36a2e19bf0abeebd85c98c7a5f008030b4af6d55792f50731bd108f2",
-        "processed": "<ssc>95<esc>[Heroine Blessed with Magic]"
+        "processed": "<sc=95>[Heroine Blessed with Magic]"
     },
     "30066": {
         "text": "[Ghosts and the Magic of Halloween]",
         "hash": "614ef1610bdfc35ee2f7fc82b2debc366182c8f0bc67a13ed0634db39fe1e3d7",
-        "processed": "<ssc>75<esc>[Ghosts and the Magic of Halloween]"
+        "processed": "<sc=75>[Ghosts and the Magic of Halloween]"
     },
     "30067": {
         "text": "[Love Beyond Affection]",
@@ -974,17 +974,17 @@
     "30069": {
         "text": "[Arrow Whistling Through the Skies]",
         "hash": "1f182fe95888d15d1d7b4f246c472d6f6d7700f4f8867fbf03b760492a9bc0a6",
-        "processed": "<ssc>76<esc>[Arrow Whistling Through the Skies]"
+        "processed": "<sc=76>[Arrow Whistling Through the Skies]"
     },
     "30070": {
         "text": "[Ceremonial Dance Lighting Up the Night]",
         "hash": "72409ada5427f5e67276b10a007be106ed2cde02db6bccf4d48988c71f00ade4",
-        "processed": "<ssc>66<esc>[Ceremonial Dance Lighting Up the Night]"
+        "processed": "<sc=66>[Ceremonial Dance Lighting Up the Night]"
     },
     "30071": {
         "text": "[Get Movin'! Live It Up! Party On!]",
         "hash": "2df9a3b702e02b8cf6466501ec5d07e3731a748d0e71dc52775ddc68deb81f47",
-        "processed": "<ssc>81<esc>[Get Movin'! Live It Up! Party On!]"
+        "processed": "<sc=81>[Get Movin'! Live It Up! Party On!]"
     },
     "30072": {
         "text": "[Formation: PARTY]",
@@ -1009,12 +1009,12 @@
     "30077": {
         "text": "[Dawn to Night, Stars to Their Heavens]",
         "hash": "a2d5e189bea6a6e0622b80eab94f8b3623a7b9da8e5d1ff75da37a9fa51bd4e9",
-        "processed": "<ssc>69<esc>[Dawn to Night, Stars to Their Heavens]"
+        "processed": "<sc=69>[Dawn to Night, Stars to Their Heavens]"
     },
     "30078": {
         "text": "[Touching Sleeves Bring Fortune♪]",
         "hash": "f9fd9f9f72a2ac3496c3262892c70992ef096de85aefad8dba4600a9a4e42009",
-        "processed": "<ssc>78<esc>[Touching Sleeves Bring Fortune♪]"
+        "processed": "<sc=78>[Touching Sleeves Bring Fortune♪]"
     },
     "30079": {
         "text": "[Wishing to Leap Out]",
@@ -1035,7 +1035,7 @@
     "30083": {
         "text": "[Blustering! Breakneck! Flower Storm!]",
         "hash": "8cc08d11f735069f8513ac2ca72fbaa1bdebee93f736759012a745401208f5d9",
-        "processed": "<ssc>71<esc>[Blustering! Breakneck! Flower Storm!]"
+        "processed": "<sc=71>[Blustering! Breakneck! Flower Storm!]"
     },
     "30084": {
         "text": "[In my way]",
@@ -1084,7 +1084,7 @@
     "30095": {
         "text": "[The Cheer That Changed the World]",
         "hash": "eae6ba0b0295a3915593a25551c260f4f72701bb6b7963a7dd6857f438d3fe27",
-        "processed": "<ssc>76<esc>[The Cheer That Changed the World]"
+        "processed": "<sc=76>[The Cheer That Changed the World]"
     },
     "30096": {
         "text": "[Go! Go!​☆​Princess!]",
@@ -1101,7 +1101,7 @@
     "30099": {
         "text": "[Bonds Like a Golden Orchid Bouquet]",
         "hash": "0df3e3f2627fbf705a923f84e66cb8e09902b27a1fcc94dfef08df0c33f0693a",
-        "processed": "<ssc>72<esc>[Bonds Like a Golden Orchid Bouquet]"
+        "processed": "<sc=72>[Bonds Like a Golden Orchid Bouquet]"
     },
     "30100": {
         "text": "[A Scene From Dreams]",
@@ -1122,7 +1122,7 @@
     "30104": {
         "text": "[\"Rhodonite and the Dreamstone\"]",
         "hash": "0970be9f1a1bd5fa215c753fd2cc95d46433349a52aebf048f295ab94b62d919",
-        "processed": "<ssc>80<esc>[\"Rhodonite and the Dreamstone\"]"
+        "processed": "<sc=80>[\"Rhodonite and the Dreamstone\"]"
     },
     "30105": {
         "text": "[Let's Seize Our Dreams!]",
@@ -1131,7 +1131,7 @@
     "30106": {
         "text": "[A Summer Gale Towards Ideals]",
         "hash": "d06d40aeaf04cc4fb575ba42ff051172e146fbcde979616b83e3e974558b5ed5",
-        "processed": "<ssc>85<esc>[A Summer Gale Towards Ideals]"
+        "processed": "<sc=85>[A Summer Gale Towards Ideals]"
     },
     "30107": {
         "text": "[Sentimentality Advisory♪]",
@@ -1144,7 +1144,7 @@
     "30109": {
         "text": "[A Fab Heart is a Blooming Heart]",
         "hash": "28645d0342441cdf275474cde1580eb3aeed2ea4baba37c530e73fbf675aa617",
-        "processed": "<ssc>82<esc>[A Fab Heart is a Blooming Heart]"
+        "processed": "<sc=82>[A Fab Heart is a Blooming Heart]"
     },
     "30110": {
         "text": "[It's on the house.]",
@@ -1165,7 +1165,7 @@
     "30114": {
         "text": "[Behold the Majestic Bloodline]",
         "hash": "1da11de7ef793c4990188d6f0e7335232c898886fa67a082838dd762a6836cee",
-        "processed": "<ssc>88<esc>[Behold the Majestic Bloodline]"
+        "processed": "<sc=88>[Behold the Majestic Bloodline]"
     },
     "30115": {
         "text": "[Devils In the Moonlight♪]",
@@ -1178,7 +1178,7 @@
     "30117": {
         "text": "[Onwards! The Fearsome Demon Queen Forces]",
         "hash": "d2a2961e7979364354888c1b5b740e64c8adf207cbc052b8d0262dbaed9da0bb",
-        "processed": "<ssc>58<esc>[Onwards! The Fearsome Demon Queen Forces]"
+        "processed": "<sc=58>[Onwards! The Fearsome Demon Queen Forces]"
     },
     "30118": {
         "text": "[A Win Foreshadowed]",
@@ -1187,12 +1187,12 @@
     "30119": {
         "text": "[Ride the Night Winds, Flowers of Prayer]",
         "hash": "b67b325c7607e93c47be311dcfbe7db67a961dafeecaaaf6276b7ef2ce74bd55",
-        "processed": "<ssc>67<esc>[Ride the Night Winds, Flowers of Prayer]"
+        "processed": "<sc=67>[Ride the Night Winds, Flowers of Prayer]"
     },
     "30120": {
         "text": "[Scorch Even the Heavens, Flame of Devotion]",
         "hash": "d2d772c920192376ca5b80cde2f42ebf2d97e80a5b699e8f854026dc1096b76b",
-        "processed": "<ssc>60<esc>[Scorch Even the Heavens, Flame of Devotion]"
+        "processed": "<sc=60>[Scorch Even the Heavens, Flame of Devotion]"
     },
     "30121": {
         "text": "[U & Me]",
@@ -1221,7 +1221,7 @@
     "30127": {
         "text": "[Pray To Ward Off Evil Spirits]",
         "hash": "1b195f9221c57f92e13f6fc3481d03bd6f232e47a783d1e1045a9d84cd799529",
-        "processed": "<ssc>93<esc>[Pray To Ward Off Evil Spirits]"
+        "processed": "<sc=93>[Pray To Ward Off Evil Spirits]"
     },
     "30128": {
         "text": "[Capricious Whimsy]",
@@ -1230,7 +1230,7 @@
     "30129": {
         "text": "[Winter Gives Way to Summer's Verdancy]",
         "hash": "17edc2b2c653bc8017eb4c1fb7d80ed9c8c002829f21e8d9a31a73bfe73673de",
-        "processed": "<ssc>66<esc>[Winter Gives Way to Summer's Verdancy]"
+        "processed": "<sc=66>[Winter Gives Way to Summer's Verdancy]"
     },
     "30130": {
         "text": "[To you]",
@@ -1239,7 +1239,7 @@
     "30131": {
         "text": "[MARVELOUS​☆​CHOCOLATE SHOW]",
         "hash": "7c4b9d613775eff6cecdd678ac2170be59a1858a69b6463f5e234c507f416796",
-        "processed": "<ssc>78<esc>[MARVELOUS​☆​CHOCOLATE SHOW]"
+        "processed": "<sc=78>[MARVELOUS​☆​CHOCOLATE SHOW]"
     },
     "30132": {
         "text": "[Transform! Garçon Form!]",
@@ -1256,7 +1256,7 @@
     "30135": {
         "text": "[Raise up your raging torch]",
         "hash": "c4ad1be56433d3edc49fbf95e65d082600030efdba84b5ff446e2480900b345c",
-        "processed": "<ssc>99<esc>[Raise up your raging torch]"
+        "processed": "<sc=99>[Raise up your raging torch]"
     },
     "30136": {
         "text": "[Unyielding resolve]",
@@ -1269,12 +1269,12 @@
     "30138": {
         "text": "[Don't close your eyes now]",
         "hash": "50d63931a0583b843cda7725e6cdc1b6c65b6ed49d7a9b0c7cdafc0f75b6b447",
-        "processed": "<ssc>99<esc>[Don't close your eyes now]"
+        "processed": "<sc=99>[Don't close your eyes now]"
     },
     "30139": {
         "text": "[My heart on a night breeze]",
         "hash": "be75dd156e1695c3994b684b1ac2fc29ab32df276632fce181cfe965e401c189",
-        "processed": "<ssc>98<esc>[My heart on a night breeze]"
+        "processed": "<sc=98>[My heart on a night breeze]"
     },
     "30140": {
         "text": "[A waltz with you]",
@@ -1283,17 +1283,17 @@
     "30141": {
         "text": "[Mission: Replenish the Soul]",
         "hash": "c9f236c79635a87021f3e6575735af386baa81ce90f4e9731bb7ca24de5939af",
-        "processed": "<ssc>94<esc>[Mission: Replenish the Soul]"
+        "processed": "<sc=94>[Mission: Replenish the Soul]"
     },
     "30142": {
         "text": "[Cherry Blossoms in Full Bloom]",
         "hash": "b6a388990c6afa7bd69a147e8d05609f3e9903d985c6d1640b6fdd41b57c911c",
-        "processed": "<ssc>86<esc>[Cherry Blossoms in Full Bloom]"
+        "processed": "<sc=86>[Cherry Blossoms in Full Bloom]"
     },
     "30143": {
         "text": "[The View I Finally Reached]",
         "hash": "3484310664bab17e2b8db522e9cbb1a4d6364f1b58d262e30bbf73ac1ce6a8b6",
-        "processed": "<ssc>98<esc>[The View I Finally Reached]"
+        "processed": "<sc=98>[The View I Finally Reached]"
     },
     "30145": {
         "text": "[Welcome to Umayuru]",
@@ -1350,7 +1350,7 @@
     "30158": {
         "text": "[Let's Enjoy This Hot Summer!]",
         "hash": "039e6226180149c27baa5303309eacf8f3dbad098566887fa5a3556a87e9821a",
-        "processed": "<ssc>89<esc>[Let's Enjoy This Hot Summer!]"
+        "processed": "<sc=89>[Let's Enjoy This Hot Summer!]"
     },
     "30159": {
         "text": "[Seaside Bloom]",
@@ -1371,12 +1371,12 @@
     "30163": {
         "text": "[Blooming Violet of the Gambling Den]",
         "hash": "d9248ccf64f1a30aadb69f90ed8108d8f2112cca928b209267988a5ca1088e91",
-        "processed": "<ssc>72<esc>[Blooming Violet of the Gambling Den]"
+        "processed": "<sc=72>[Blooming Violet of the Gambling Den]"
     },
     "30164": {
         "text": "[Embracing the Fiery Fighting Spirit]",
         "hash": "2590e96b8fd2c33ff504cc265580054e747a65484aa6a21a95baa8b18d96c7eb",
-        "processed": "<ssc>76<esc>[Embracing the Fiery Fighting Spirit]"
+        "processed": "<sc=76>[Embracing the Fiery Fighting Spirit]"
     },
     "30165": {
         "text": "[Fortuna's Applause]",
@@ -1393,12 +1393,12 @@
     "30168": {
         "text": "[Dreams Cut Through the Waves]",
         "hash": "348fcfcf8c7bf9bcfc6a61e63fd091a1bcbbe38eb20a5a0ebb7dc8207fbdc900",
-        "processed": "<ssc>84<esc>[Dreams Cut Through the Waves]"
+        "processed": "<sc=84>[Dreams Cut Through the Waves]"
     },
     "30169": {
         "text": "[A Smile Sent From Heaven]",
         "hash": "eeb874876aa6d2fffeb273f473b1500ac92ffcd075e795d62373ccb66303d53a",
-        "processed": "<ssc>99<esc>[A Smile Sent From Heaven]"
+        "processed": "<sc=99>[A Smile Sent From Heaven]"
     },
     "30170": {
         "text": "[Whirl, My Dance]",
@@ -1411,12 +1411,12 @@
     "30172": {
         "text": "[Drive it Home! ...I Suppose]",
         "hash": "934af51d84aebb835dfeac5cc2287beb58be840875c072036ebce1253680a89b",
-        "processed": "<ssc>97<esc>[Drive it Home! ...I Suppose]"
+        "processed": "<sc=97>[Drive it Home! ...I Suppose]"
     },
     "30173": {
         "text": "[Ensemble of the Earth and Us]",
         "hash": "1fa0f8b88c63aa1b4f28c1aceea374153a3627b01912fc03329c320b02755719",
-        "processed": "<ssc>89<esc>[Ensemble of the Earth and Us]"
+        "processed": "<sc=89>[Ensemble of the Earth and Us]"
     },
     "30174": {
         "text": "[Holy Night, For Change]",
@@ -1425,17 +1425,17 @@
     "30175": {
         "text": "[Ember Which Dissolves Winter]",
         "hash": "a4132ae234e6e989cf820363f23e25793f7a7cc6cf23025d31cf00d5b557967b",
-        "processed": "<ssc>87<esc>[Ember Which Dissolves Winter]"
+        "processed": "<sc=87>[Ember Which Dissolves Winter]"
     },
     "30176": {
         "text": "[Choose, Choose, With All Your Heart]",
         "hash": "24cb3b3300226de065779ceb3d8a85f4ebf934a904ed0b842db5bbf835a70b4e",
-        "processed": "<ssc>73<esc>[Choose, Choose, With All Your Heart]"
+        "processed": "<sc=73>[Choose, Choose, With All Your Heart]"
     },
     "30177": {
         "text": "[Winning Smile of Satisfaction]",
         "hash": "3a417d1f3bc216c5c22eb838d75752b0534c5ae21f16b325e6812bee9563428c",
-        "processed": "<ssc>90<esc>[Winning Smile of Satisfaction]"
+        "processed": "<sc=90>[Winning Smile of Satisfaction]"
     },
     "30178": {
         "text": "[Stirring Veins]",
@@ -1444,7 +1444,7 @@
     "30179": {
         "text": "[Wishes of a Hundred Flowers]",
         "hash": "05f2d85b118601a4873fb260718ccd9aa67540e95ff553c617cc94b50aaf2099",
-        "processed": "<ssc>90<esc>[Wishes of a Hundred Flowers]"
+        "processed": "<sc=90>[Wishes of a Hundred Flowers]"
     },
     "30180": {
         "text": "[The Future Ahead!]",
