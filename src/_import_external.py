@@ -4,6 +4,7 @@ from multiprocessing.pool import Pool
 import os
 import glob
 import json
+from bs4 import BeautifulSoup
 
 def fetch_chara_data(chara_id):
     out = (chara_id, {})
@@ -277,17 +278,79 @@ def apply_gametora_skills():
 
     print("Done")
 
+CACHED_PAGES = {}
 
+def scrape_gametora(page_url, start_json, end_json, start_offset, end_offset):
+    global CACHED_PAGES
+
+    print(f"Scraping {page_url} chunks")
+
+    if page_url not in CACHED_PAGES:
+        CACHED_PAGES[page_url] = requests.get(page_url)
+
+    r = CACHED_PAGES[page_url]
+    html = r.text
+    soup = BeautifulSoup(html, "html.parser")
+
+    files = []
+    for script_tag in soup.find_all("script"):
+        src = script_tag.get("src")
+        if src and src.startswith("/_next/static/chunks/"):
+            files.append(src)
+
+    data = None
+    for file in files:
+        if file not in CACHED_PAGES:
+            CACHED_PAGES[file] = requests.get(f"https://gametora.com{file}")
+
+        r = CACHED_PAGES[file]
+        text = r.content.decode('unicode-escape')
+        # text = r.text
+
+        start_idx = text.find(start_json)
+        end_idx = text.find(end_json)
+
+        if start_idx == -1 or end_idx == -1:
+            continue
+
+        if end_idx < start_idx:
+            continue
+
+        data = text[start_idx + start_offset:end_idx + end_offset]
+
+        data = json.loads(data)
+
+    if not data:
+        print("Error: No outfits data found")
+        return None
+
+    return data
+
+def scrape_missions():
+    pages = [
+        ("main", '[{"id":330500,"originalText":"ホーム設定を変更しよう"', '}]}]', 0, -2)
+    ]
+
+    for scrape_data in pages:
+        slug, start_json, end_json, start_offset, end_offset = scrape_data
+        page_url = f"https://gametora.com/umamusume/missions/{slug}"
+        data = scrape_gametora(page_url, start_json, end_json, start_offset, end_offset)
+        print(data[0])
+
+
+def apply_gametora_missions():
+    mission_data = scrape_missions()
 
 
 def main():
     # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
 
-    umapyoi_chara_ids = get_umapyoi_chara_ids()
-    apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    apply_umapyoi_outfits(umapyoi_chara_ids)
+    # umapyoi_chara_ids = get_umapyoi_chara_ids()
+    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    # apply_umapyoi_outfits(umapyoi_chara_ids)
 
-    apply_gametora_skills()
+    # apply_gametora_skills()
+    apply_gametora_missions()
 
 if __name__ == "__main__":
     main()
