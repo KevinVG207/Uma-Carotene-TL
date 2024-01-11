@@ -4220,7 +4220,7 @@
         "hash": "4971f94b2c8093a9971f17815c6618a77b71919e86c90293858ca52faae387a5"
     },
     "Common0230": {
-        "text": "",
+        "text": "Max",
         "hash": "9730c15f3c1963a1806fedca35317cb8f44a9d35d83a60fe68e205f41db05527"
     },
     "Common0234": {
@@ -9024,7 +9024,7 @@
         "hash": "d80c21a204909f441d26f94818222eb68eb9f6fe811e3a5b054a7237cca1ee22"
     },
     "Outgame0381": {
-        "text": "",
+        "text": "Max",
         "hash": "9730c15f3c1963a1806fedca35317cb8f44a9d35d83a60fe68e205f41db05527"
     },
     "Outgame0382": {
@@ -12720,7 +12720,7 @@
         "hash": "b125ac5f64c637b5e189977e5daa33d452d97e36e2a51c5d42d818c21af5fa5a"
     },
     "Race0674": {
-        "text": "",
+        "text": "Limited Missions",
         "hash": "9729d41a1c55e577c45d00d2f5a5f60cee5e7c98986dac72f757bbdb37b1117b"
     },
     "Race0675": {
@@ -14160,7 +14160,7 @@
         "hash": "d49952128436ee6398eeb09379e519d7cb648d99596979a5a4616ac7bf69a1c0"
     },
     "Shop0085": {
-        "text": "",
+        "text": "{0}% Off!",
         "hash": "5a10809f72611a741892ca3fd090e061b524d28b5140484670f4c83e3cdd46bf"
     },
     "Shop0090": {
@@ -14964,7 +14964,7 @@
         "hash": "575cbb1bd15091d5597cd359a2d4ae1ea11d4a9720f4dd624d78ca8dc148ba62"
     },
     "SingleMode0210": {
-        "text": "",
+        "text": "{0}% Off",
         "hash": "8028a31ab5025754a161b52040d03675edbd4f0e1ed3810b7911fef786b5aaf6"
     },
     "SingleMode0211": {
@@ -15176,7 +15176,7 @@
         "hash": "e3113a9a7e54f3328765869bfbfa691aa387c8301f2853351c126c2a65c99420"
     },
     "SingleMode0265": {
-        "text": "In Training",
+        "text": "In Use",
         "hash": "31671706415d877fac73fe020bf3b5858464f47eb1b68ca68a875f423559fc58"
     },
     "SingleMode0267": {
@@ -15436,7 +15436,7 @@
         "hash": "ba9cc14edf67e3084c03764d30dde47c537a832a349d1e6b6d34537ee69b07ea"
     },
     "SingleMode0349": {
-        "text": "Well done, Trainer! You can add the Umamusume you trained to your team. Good luck with the Team Stadium races!",
+        "text": "Well done, Trainer! You can add the \nUmamusume you trained to your team. \nGood luck with the Team Stadium races!",
         "hash": "032e2ee27d59e162f5e8b2db886bf30abb5d35dec8288cf1f59a0c9f8ec071d1"
     },
     "SingleMode0350": {
@@ -15444,7 +15444,7 @@
         "hash": "f258c82c7e02a8b6de458ac236fcd39b83014c80df5fc682301771ece92aa696"
     },
     "SingleMode0351": {
-        "text": "",
+        "text": "<sc=85>Maxed",
         "hash": "885006044732e3539c1ed0dc034f17900927e0446b995c18a8deaf221be9d0e7"
     },
     "SingleMode0352": {
@@ -19528,19 +19528,19 @@
         "hash": "4b32599e9710c6f2d1ce83c3124c67d261bb679fb06b545f45e98496cac6b8dc"
     },
     "Story0038": {
-        "text": "",
+        "text": "She obtained<color=#2E85E6>「{0}」</color>",
         "hash": "0ca3ca2392a0e4727d20536957c6b4569686f08f5fb98fc1642305473db8de5f"
     },
     "Story0039": {
-        "text": "She became<color=#F16D27>「{0}」</color>",
+        "text": "She obtained<color=#F16D27>「{0}」</color>",
         "hash": "709300402a4a656a78798002297b1c45f06517a0f61d3049d261d81c9ae96e4a"
     },
     "Story0040": {
-        "text": "",
+        "text": "She <color=#F16D27>recovered</color> from <color=#2E85E6>「{0}」</color>",
         "hash": "2c6a1f4c12c59349f1490d092e9d674cce03065dcf5645cb46a49dabc587f369"
     },
     "Story0041": {
-        "text": "",
+        "text": "<color=#F16D27>「{0}」</color> went away",
         "hash": "de2ebfe4b8a4f76226880891b0f23c2400200861a91247057edbd06a2cba480b"
     },
     "Story0042": {
