@@ -24,7 +24,7 @@ def add_scale_tag(text, max_width):
 
     return f"<sc={scale_factor}>{text}"
 
-def scale_to_box(text, max_width, lines, line_spacing=1.05):
+def scale_to_box(text, max_width, lines, line_spacing=1.00):
     # Find text scaling so it fits in a box with wrapping on spaces.
     global FONT
     line_height = 1000 * line_spacing

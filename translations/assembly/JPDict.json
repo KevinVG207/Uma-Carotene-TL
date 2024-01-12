@@ -5996,15 +5996,15 @@
         "hash": "89857ee4672c4d5985195fc83906e9a27a433bca3b3218c92e0e84f7b4ab4ac7"
     },
     "Heroes408026": {
-        "text": "",
+        "text": "League Score",
         "hash": "2d7b89d21e7a85e17cf150390105f3e4cf30db5f15bba178c6b4b6d87fc307cf"
     },
     "Heroes408027": {
-        "text": "",
+        "text": "Score Gained",
         "hash": "c8e784a9ef2bfa320045a4a70f3d9a89a6bdfd8dbf9c995cdbaae069639e9043"
     },
     "Heroes408028": {
-        "text": "",
+        "text": "League Score Info",
         "hash": "9eaabcf18c9b73503ccb6713bf79fd19eb3657c928766a4ba0bb2fcf7418a917"
     },
     "Heroes408029": {
@@ -6028,11 +6028,11 @@
         "hash": "948b018309b8075e6982535e2b99d3115211ae81346c53127ccdfbd2af00018d"
     },
     "Heroes408034": {
-        "text": "",
+        "text": "<a4><sc=69>Left today:",
         "hash": "55f5b2124fd9442eca6acd2a7211f82beb517d0ff6baf339fd2502b2fa73ca6b"
     },
     "Heroes408035": {
-        "text": "",
+        "text": "​",
         "hash": "6da3e5c03ac7e66cdc5f307308e136ff9a65b05fdd2022bd96fc27132b9d6373"
     },
     "Heroes408036": {
@@ -6132,7 +6132,7 @@
         "hash": "f471bc89e392276102412c22304947d655d55955552b8525144acd74904fc4a8"
     },
     "Heroes511005": {
-        "text": "Free until {0}",
+        "text": "<nb><sc=92>Free until {0}",
         "hash": "98c2a5e3574140352cad0dddfc7d7d9df02e46a41241df16a4ddfc894c22c6d2"
     },
     "Heroes511006": {
@@ -12652,7 +12652,7 @@
         "hash": "39919bcd06793244efca8ec3f706e1a28627308ca747c402f8b1b5f86a169903"
     },
     "Race0657": {
-        "text": "<a4><size=27>  Ongoing</size>",
+        "text": "<a5><sc=80>Ongoing",
         "hash": "b4b5beae00d23285133647e4d7227283542ca57e9f7678af1475e4c6f121bd07"
     },
     "Race0658": {
@@ -15492,7 +15492,7 @@
         "hash": "94d56bc1b27b4ef72000c2f758a89d942ebca485eae2c889efd6fa226dd61b8d"
     },
     "SingleMode0364": {
-        "text": "",
+        "text": "Energy is <color=#F16D27>maxed</color>",
         "hash": "4a48465ae891e822823b23fb3ee28d7e5a13172ad35a1ce4a864cdc9de32fdc5"
     },
     "SingleMode0366": {
@@ -21152,7 +21152,7 @@
         "hash": "14fef1ece9c77ae4c193b82603b82aca74ffe677d29ed6d0aadefc6dd85d603f"
     },
     "TeamStadium0039": {
-        "text": "",
+        "text": "Race #{0}",
         "hash": "83ceb2af076fbc2522ece37732a5ef8ea6b4b98e88fbdee5e1d0673e27918158"
     },
     "TeamStadium0040": {
@@ -21300,7 +21300,7 @@
         "hash": "a6207cf53faf8a9e75596afc9b998d0a54452ead910003eed0ee9c4f7efde8fa"
     },
     "TeamStadium0093": {
-        "text": "",
+        "text": "Race {0} {1}",
         "hash": "313860954ab3592f9de2a16cd89e6114d05c91e1de2db226373ed26e3a6e8d96"
     },
     "TeamStadium0094": {
@@ -21376,11 +21376,11 @@
         "hash": "591f21d803261fdda5ba9d2c9cff65625b96b7dd3f225063599f5a065d728f15"
     },
     "TeamStadium483001": {
-        "text": "",
+        "text": "Skip: ON",
         "hash": "627bb71f5586c91820f0991321ac8b4bf9c30ee8f6d54398e1366b49f3f13c7f"
     },
     "TeamStadium483002": {
-        "text": "",
+        "text": "Skip: OFF",
         "hash": "8947e159d065557af4670ab336f4eb537e5c79212551225e42c4e9730b85c5d6"
     },
     "TeamStadium352001": {
