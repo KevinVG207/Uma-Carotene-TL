@@ -4,6 +4,14 @@ from multiprocessing.pool import Pool
 import os
 import glob
 import json
+import datetime
+from selenium import webdriver
+import time
+
+MISSIONS_JSONS = [
+    "66",
+    "67",
+]
 
 def fetch_chara_data(chara_id):
     out = (chara_id, {})
@@ -241,6 +249,10 @@ def apply_gametora_skills():
     gt_name_dict = {data['name_ja']: data['name_en'] for data in gt_data if data.get('name_en')}
     gt_desc_dict = {data['id']: data['desc_en'] for data in gt_data if data.get('desc_en')}
 
+    name_override_dict = {
+        "fb9bf8950771ef57b6e26dcbe622377cf1d6abb71d36a0f8bd4da901161d8bd9": "U=ma²"
+    }
+
     # Load local skill data
     print("Skill names")
 
@@ -254,8 +266,14 @@ def apply_gametora_skills():
         data = util.load_json(os.path.join(prefix, f"{name_file}.json"))
 
         for entry in data:
-            if entry['source'] in gt_name_dict:
+            prev_text = entry.get('prev_text')
+            if gt_name_dict.get(entry['source']):
+                entry['prev_text'] = prev_text
                 entry['text'] = gt_name_dict[entry['source']]
+                entry['new'] = False
+            if name_override_dict.get(entry['hash']):
+                entry['prev_text'] = prev_text
+                entry['text'] = name_override_dict[entry['hash']]
                 entry['new'] = False
 
         util.save_json(os.path.join(prefix, f"{name_file}.json"), data)
@@ -268,8 +286,8 @@ def apply_gametora_skills():
         skill_id = keys[0][1]
         if skill_id in gt_desc_dict:
             cur_desc = gt_desc_dict[skill_id]
-            if not cur_desc.endswith('.') and not cur_desc.endswith('.)'):
-                cur_desc += '.'
+            cur_desc = util.add_period(cur_desc)
+            entry['prev_text'] = entry['text']
             entry['text'] = cur_desc
             entry['new'] = False
     
@@ -278,16 +296,214 @@ def apply_gametora_skills():
     print("Done")
 
 
+def fetch_skill_translations():
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "47.json")
+    data = util.load_json(path)
+    tl_dict = {}
+    for entry in data:
+        tl_dict[entry['source']] = entry['text']
+
+    return tl_dict
+
+
+def scrape_missions():
+    driver = webdriver.Firefox()
+
+    # Get story event URLs
+    driver.get("https://gametora.com/umamusume/events/story-events")
+    while not driver.execute_script("""return document.querySelector("[class^='utils_umamusume_']");""") and time.perf_counter() - t0 < 6:
+        time.sleep(1.0)
+    time.sleep(1.0)
+    
+    urls = driver.execute_script(
+"""
+let out = [];
+let ele = document.querySelector("[class^='utils_umamusume_']");
+let elements = ele.querySelectorAll("a");
+for (let i = 0; i < elements.length; i++) {
+    out.push(elements[i].href);
+}
+return out;
+""")
+    
+    urls = set(urls)
+    urls = list(urls)
+
+    current_year = datetime.datetime.now().year
+    start_year = 2021
+    urls += [
+        "daily",
+        "main",
+        "permanent"
+    ]
+    urls += [f"history-{year}" for year in range(start_year, current_year + 1)]
+
+    out_dict = {}
+
+    for url in set(urls):
+        if not url.startswith("http"):
+            url = f"https://gametora.com/umamusume/missions/{url}"
+
+        driver.get(url)
+
+        t0 = time.perf_counter()
+        while not driver.execute_script("""return document.querySelector("[class^='missions_row_text_']");""") and time.perf_counter() - t0 < 6:
+            time.sleep(1.0)
+        time.sleep(2.0)
+        ele = driver.execute_script("""
+            let skill_dict = arguments[0];
+            let out = [];
+            let elements = document.querySelectorAll("[class^='missions_row_text_']");
+            for (let i = 0; i < elements.length; i++) {
+                if (elements[i].children.length != 2) {
+                    continue;
+                }
+                let jp = elements[i].children[0].innerText;
+                let en_element = elements[i].children[1];
+                let skill_elements = en_element.querySelectorAll("[aria-expanded='false']");
+                for (let j = 0; j < skill_elements.length; j++) {
+                    let skill_name = skill_elements[j].innerText;
+                    if (skill_dict.hasOwnProperty(skill_name)) {
+                        skill_elements[j].textContent = skill_dict[skill_name];
+                    }
+                }
+                let en = en_element.innerText;
+                out.push([jp, en]);
+            }
+            return out;
+        """, fetch_skill_translations())
+
+        for e in ele:
+            out_dict[e[0]] = e[1]
+    
+    driver.close()
+
+    return out_dict
+
+def scrape_title_missions():
+    driver = webdriver.Firefox()
+
+    driver.get("https://gametora.com/umamusume/trainer-titles")
+
+    t0 = time.perf_counter()
+    while not driver.execute_script("""return document.querySelector("[class^='titles_table_row_']");""") and time.perf_counter() - t0 < 6:
+        time.sleep(1.0)
+    time.sleep(1.0)
+
+    data = driver.execute_script(
+"""
+let skill_dict = arguments[0];
+let out = {};
+let elements = document.querySelectorAll("[class^='titles_table_row_']");
+for (let i = 0; i < elements.length; i++) {
+    let src = elements[i].querySelector("img").src;
+    let segments = src.split("_");
+    let id = segments[segments.length - 1].split(".")[0];
+
+    // Replace skill names
+    let descr_element = elements[i].querySelector("[class^='titles_table_desc_']");
+    let skill_elements = descr_element.querySelectorAll("[aria-expanded='false']");
+    for (let j = 0; j < skill_elements.length; j++) {
+        let skill_name = skill_elements[j].innerText;
+        if (skill_dict.hasOwnProperty(skill_name)) {
+            skill_elements[j].textContent = skill_dict[skill_name];
+        }
+    }
+
+    let descr = descr_element.innerText;
+    out[id] = descr;
+}
+return out;
+""", fetch_skill_translations())
+    return data
+
+def apply_gametora_missions():
+    print("Importing GameTora missions")
+
+    mission_data = scrape_missions()
+
+    if not mission_data:
+        print("Failed to scrape missions")
+        return
+
+    # Load local mission data
+    for json_file in MISSIONS_JSONS:
+        path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", f"{json_file}.json")
+        data = util.load_json(path)
+
+        for entry in data:
+            source = entry['source'].replace("\n", "").replace("\\n", "")
+            if source in mission_data:
+                entry['prev_text'] = entry['text']
+                entry['text'] = util.add_period(mission_data[source])
+                entry['new'] = False
+
+        util.save_json(path, data)
+
+    print("Done")
+
+def apply_gametora_title_missions():
+    print("Importing GameTora title missions")
+
+    # {ID: EN}
+    mission_data = scrape_title_missions()
+
+    if not mission_data:
+        print("Failed to scrape missions")
+        return
+    
+
+    with util.MDBConnection() as (conn, cursor):
+        new_dict = {}
+        for key in mission_data:
+            cursor.execute(
+                """
+                SELECT id FROM mission_data WHERE item_id = ?;
+                """,
+                (key,)
+            )
+            rows = cursor.fetchall()
+            if not rows:
+                continue
+            for row in rows:
+                new_id = str(row[0])
+                if new_id.startswith("20"):
+                    continue
+                new_dict[new_id] = mission_data[key]
+        mission_data.update(new_dict)
+
+
+    # Load local mission data
+    for json_file in MISSIONS_JSONS:
+        path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", f"{json_file}.json")
+        data = util.load_json(path)
+
+        for entry in data:
+            keys = json.loads(entry['keys'])
+            for key in keys:
+                key = str(key[1])
+                if mission_data.get(key):
+                    entry['prev_text'] = entry['text']
+                    entry['text'] = util.add_period(mission_data[key])
+                    entry['new'] = False
+                    break
+
+        util.save_json(path, data)
+    
+    print("Done")
+
 
 
 def main():
     # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
 
-    umapyoi_chara_ids = get_umapyoi_chara_ids()
-    apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    apply_umapyoi_outfits(umapyoi_chara_ids)
+    # umapyoi_chara_ids = get_umapyoi_chara_ids()
+    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    # apply_umapyoi_outfits(umapyoi_chara_ids)
 
     apply_gametora_skills()
+    apply_gametora_missions()
+    apply_gametora_title_missions()
 
 if __name__ == "__main__":
     main()

@@ -4220,7 +4220,7 @@
         "hash": "4971f94b2c8093a9971f17815c6618a77b71919e86c90293858ca52faae387a5"
     },
     "Common0230": {
-        "text": "",
+        "text": "Max",
         "hash": "9730c15f3c1963a1806fedca35317cb8f44a9d35d83a60fe68e205f41db05527"
     },
     "Common0234": {
@@ -5996,15 +5996,15 @@
         "hash": "89857ee4672c4d5985195fc83906e9a27a433bca3b3218c92e0e84f7b4ab4ac7"
     },
     "Heroes408026": {
-        "text": "",
+        "text": "League Score",
         "hash": "2d7b89d21e7a85e17cf150390105f3e4cf30db5f15bba178c6b4b6d87fc307cf"
     },
     "Heroes408027": {
-        "text": "",
+        "text": "Score Gained",
         "hash": "c8e784a9ef2bfa320045a4a70f3d9a89a6bdfd8dbf9c995cdbaae069639e9043"
     },
     "Heroes408028": {
-        "text": "",
+        "text": "League Score Info",
         "hash": "9eaabcf18c9b73503ccb6713bf79fd19eb3657c928766a4ba0bb2fcf7418a917"
     },
     "Heroes408029": {
@@ -6028,11 +6028,11 @@
         "hash": "948b018309b8075e6982535e2b99d3115211ae81346c53127ccdfbd2af00018d"
     },
     "Heroes408034": {
-        "text": "",
+        "text": "<a4><sc=69>Left today:",
         "hash": "55f5b2124fd9442eca6acd2a7211f82beb517d0ff6baf339fd2502b2fa73ca6b"
     },
     "Heroes408035": {
-        "text": "",
+        "text": "​",
         "hash": "6da3e5c03ac7e66cdc5f307308e136ff9a65b05fdd2022bd96fc27132b9d6373"
     },
     "Heroes408036": {
@@ -6132,7 +6132,7 @@
         "hash": "f471bc89e392276102412c22304947d655d55955552b8525144acd74904fc4a8"
     },
     "Heroes511005": {
-        "text": "Free until {0}",
+        "text": "<nb><sc=92>Free until {0}",
         "hash": "98c2a5e3574140352cad0dddfc7d7d9df02e46a41241df16a4ddfc894c22c6d2"
     },
     "Heroes511006": {
@@ -9024,7 +9024,7 @@
         "hash": "d80c21a204909f441d26f94818222eb68eb9f6fe811e3a5b054a7237cca1ee22"
     },
     "Outgame0381": {
-        "text": "",
+        "text": "Max",
         "hash": "9730c15f3c1963a1806fedca35317cb8f44a9d35d83a60fe68e205f41db05527"
     },
     "Outgame0382": {
@@ -12652,7 +12652,7 @@
         "hash": "39919bcd06793244efca8ec3f706e1a28627308ca747c402f8b1b5f86a169903"
     },
     "Race0657": {
-        "text": "<a4><size=27>  Ongoing</size>",
+        "text": "<a5><sc=80>Ongoing",
         "hash": "b4b5beae00d23285133647e4d7227283542ca57e9f7678af1475e4c6f121bd07"
     },
     "Race0658": {
@@ -12720,7 +12720,7 @@
         "hash": "b125ac5f64c637b5e189977e5daa33d452d97e36e2a51c5d42d818c21af5fa5a"
     },
     "Race0674": {
-        "text": "",
+        "text": "Limited Missions",
         "hash": "9729d41a1c55e577c45d00d2f5a5f60cee5e7c98986dac72f757bbdb37b1117b"
     },
     "Race0675": {
@@ -14160,7 +14160,7 @@
         "hash": "d49952128436ee6398eeb09379e519d7cb648d99596979a5a4616ac7bf69a1c0"
     },
     "Shop0085": {
-        "text": "",
+        "text": "{0}% Off!",
         "hash": "5a10809f72611a741892ca3fd090e061b524d28b5140484670f4c83e3cdd46bf"
     },
     "Shop0090": {
@@ -14608,7 +14608,7 @@
         "hash": "bc30238ae718342277bb5f578093423884c71fdad429e91a172e60cc997ec80c"
     },
     "SingleMode0045": {
-        "text": "",
+        "text": "<nb><ho>Are you sure you want to buy \nthe above skills?",
         "hash": "771fe1732593588aa498c51b2b3c8af6f0bb128faf514d03615c98e1886aa4a3"
     },
     "SingleMode0046": {
@@ -14716,7 +14716,7 @@
         "hash": "c4017470bb210b8bd0db693ca6b3855226e60434a6734f76d349dd68ada2e345"
     },
     "SingleMode0097": {
-        "text": "",
+        "text": "Confirm Skills",
         "hash": "8b2310b8efd536786ec747f4c7bf06cc6167a8edf3ccd86a51458392666c08fe"
     },
     "SingleMode0099": {
@@ -14964,7 +14964,7 @@
         "hash": "575cbb1bd15091d5597cd359a2d4ae1ea11d4a9720f4dd624d78ca8dc148ba62"
     },
     "SingleMode0210": {
-        "text": "",
+        "text": "{0}% Off",
         "hash": "8028a31ab5025754a161b52040d03675edbd4f0e1ed3810b7911fef786b5aaf6"
     },
     "SingleMode0211": {
@@ -14972,7 +14972,7 @@
         "hash": "813e99dc94a8fcd089921948de7e643c77287ba6b8334340e9817c812d6582f1"
     },
     "SingleMode0212": {
-        "text": "",
+        "text": "<nb>You do not have enough skill points.",
         "hash": "e452b576384ea3e50481846e5cb8f4c3057fb7e15a749c1736b4faca6f66b411"
     },
     "SingleMode0213": {
@@ -14980,7 +14980,7 @@
         "hash": "3d93736cea2fcc5288a43524aba386582c60015044803167d721870fe36edfe4"
     },
     "SingleMode0214": {
-        "text": "",
+        "text": "Buy Skill(s)",
         "hash": "b54f6c15a24157cb7d351456ed91282167bbd8a9dfcde0fa2dd0d2adc3b505f5"
     },
     "SingleMode0215": {
@@ -15040,7 +15040,7 @@
         "hash": "bba4556c5dcd89cefcd017f33f88eb77aca4a664924f20218945be59dbb2ea05"
     },
     "SingleMode0230": {
-        "text": "",
+        "text": "You have one or more skills \nselected for purchase.\nAre you sure you want to go back?",
         "hash": "45ac8485eb8f2fc08ef83b5cb0ca015a3edf47fb4a5138785bc1892be2bb661a"
     },
     "SingleMode0231": {
@@ -15088,11 +15088,11 @@
         "hash": "6483c781105ac26be39fbe122287aea41b8cefbed4bf6f71b86cfb557a8b4e8e"
     },
     "SingleMode0243": {
-        "text": "",
+        "text": "<nb>This skill is maxed out.",
         "hash": "3e88ff4d36a1a0d4870034aaca542adcd53d4cd5303ed86c1a61767210369eb6"
     },
     "SingleMode0244": {
-        "text": "",
+        "text": "<nb>You cannot deselect this skill.",
         "hash": "12dd16593a75934d0b80bb958ea25ec7b5b3ca6971f3d392156111a33fdbf437"
     },
     "SingleMode0245": {
@@ -15176,7 +15176,7 @@
         "hash": "e3113a9a7e54f3328765869bfbfa691aa387c8301f2853351c126c2a65c99420"
     },
     "SingleMode0265": {
-        "text": "In Training",
+        "text": "In Use",
         "hash": "31671706415d877fac73fe020bf3b5858464f47eb1b68ca68a875f423559fc58"
     },
     "SingleMode0267": {
@@ -15436,7 +15436,7 @@
         "hash": "ba9cc14edf67e3084c03764d30dde47c537a832a349d1e6b6d34537ee69b07ea"
     },
     "SingleMode0349": {
-        "text": "Well done, Trainer! You can add the Umamusume you trained to your team. Good luck with the Team Stadium races!",
+        "text": "Well done, Trainer! You can add the \nUmamusume you trained to your team. \nGood luck with the Team Stadium races!",
         "hash": "032e2ee27d59e162f5e8b2db886bf30abb5d35dec8288cf1f59a0c9f8ec071d1"
     },
     "SingleMode0350": {
@@ -15444,7 +15444,7 @@
         "hash": "f258c82c7e02a8b6de458ac236fcd39b83014c80df5fc682301771ece92aa696"
     },
     "SingleMode0351": {
-        "text": "",
+        "text": "<sc=85>Maxed",
         "hash": "885006044732e3539c1ed0dc034f17900927e0446b995c18a8deaf221be9d0e7"
     },
     "SingleMode0352": {
@@ -15492,7 +15492,7 @@
         "hash": "94d56bc1b27b4ef72000c2f758a89d942ebca485eae2c889efd6fa226dd61b8d"
     },
     "SingleMode0364": {
-        "text": "",
+        "text": "Energy is <color=#F16D27>maxed</color>",
         "hash": "4a48465ae891e822823b23fb3ee28d7e5a13172ad35a1ce4a864cdc9de32fdc5"
     },
     "SingleMode0366": {
@@ -19528,19 +19528,19 @@
         "hash": "4b32599e9710c6f2d1ce83c3124c67d261bb679fb06b545f45e98496cac6b8dc"
     },
     "Story0038": {
-        "text": "",
+        "text": "She obtained<color=#2E85E6>「{0}」</color>",
         "hash": "0ca3ca2392a0e4727d20536957c6b4569686f08f5fb98fc1642305473db8de5f"
     },
     "Story0039": {
-        "text": "She became<color=#F16D27>「{0}」</color>",
+        "text": "She obtained<color=#F16D27>「{0}」</color>",
         "hash": "709300402a4a656a78798002297b1c45f06517a0f61d3049d261d81c9ae96e4a"
     },
     "Story0040": {
-        "text": "",
+        "text": "She <color=#F16D27>recovered</color> from <color=#2E85E6>「{0}」</color>",
         "hash": "2c6a1f4c12c59349f1490d092e9d674cce03065dcf5645cb46a49dabc587f369"
     },
     "Story0041": {
-        "text": "",
+        "text": "<color=#F16D27>「{0}」</color> went away",
         "hash": "de2ebfe4b8a4f76226880891b0f23c2400200861a91247057edbd06a2cba480b"
     },
     "Story0042": {
@@ -21152,7 +21152,7 @@
         "hash": "14fef1ece9c77ae4c193b82603b82aca74ffe677d29ed6d0aadefc6dd85d603f"
     },
     "TeamStadium0039": {
-        "text": "",
+        "text": "Race #{0}",
         "hash": "83ceb2af076fbc2522ece37732a5ef8ea6b4b98e88fbdee5e1d0673e27918158"
     },
     "TeamStadium0040": {
@@ -21300,7 +21300,7 @@
         "hash": "a6207cf53faf8a9e75596afc9b998d0a54452ead910003eed0ee9c4f7efde8fa"
     },
     "TeamStadium0093": {
-        "text": "",
+        "text": "Race {0} {1}",
         "hash": "313860954ab3592f9de2a16cd89e6114d05c91e1de2db226373ed26e3a6e8d96"
     },
     "TeamStadium0094": {
@@ -21376,11 +21376,11 @@
         "hash": "591f21d803261fdda5ba9d2c9cff65625b96b7dd3f225063599f5a065d728f15"
     },
     "TeamStadium483001": {
-        "text": "",
+        "text": "Skip: ON",
         "hash": "627bb71f5586c91820f0991321ac8b4bf9c30ee8f6d54398e1366b49f3f13c7f"
     },
     "TeamStadium483002": {
-        "text": "",
+        "text": "Skip: OFF",
         "hash": "8947e159d065557af4670ab336f4eb537e5c79212551225e42c4e9730b85c5d6"
     },
     "TeamStadium352001": {

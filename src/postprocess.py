@@ -24,17 +24,18 @@ def add_scale_tag(text, max_width):
 
     return f"<sc={scale_factor}>{text}"
 
-def scale_to_box(text, max_width, max_height, line_spacing=0.9):
+def scale_to_box(text, max_width, lines, line_spacing=1.00):
     # Find text scaling so it fits in a box with wrapping on spaces.
     global FONT
     line_height = 1000 * line_spacing
+    max_height = line_height * lines
 
     scale = 100
     hyphenation = False
     while True:
         true_scale = scale / 100.
         lines = util.wrap_text_to_width(text, max_width, FONT, true_scale, hyphenation)
-        height = (1 + lines.count("\n")) * line_height * true_scale
+        height = (1 + lines.count("\n")) * 1000 * true_scale
 
         if height <= max_height:
             break
@@ -72,9 +73,13 @@ PP_FUNCS = {
     ("text_data", "78"): [(add_scale_tag, (9500,))],
     ("text_data", "170"): [(add_scale_tag, (9500,))],
 
-    # Skill names
+    # Skills
     ("text_data", "47"): [(add_scale_tag, (13110,))],
-    ("text_data", "48"): [(scale_to_box, (18630, 4000)), (add_rbr_tag, None)],
+    ("text_data", "48"): [(scale_to_box, (18630, 4)), (add_rbr_tag, None)],
+
+    # Missions
+    ("text_data", "66"): [(scale_to_box, (15800, 2)), (add_rbr_tag, None)],
+    ("text_data", "67"): [(scale_to_box, (15800, 2)), (add_rbr_tag, None)],
 }
 
 
@@ -111,37 +116,37 @@ def fix_mdb():
 
         keys, values = zip(*data.items())
 
-        # if key in PP_FUNCS:
-        #     with Pool() as p:
-        #         values = p.map(process_mdb, zip(values, repeat(key)))
+        if key in PP_FUNCS:
+            with Pool() as p:
+                values = p.map(process_mdb, zip(values, repeat(key)))
             
-        #     data = dict(zip(keys, values))
+            data = dict(zip(keys, values))
         
-        # else:
-        #     for i, entry in enumerate(values):
-        #         data[keys[i]] = process_mdb((entry, key))
+        else:
+            for i, entry in enumerate(values):
+                data[keys[i]] = process_mdb((entry, key))
 
 
-        for entry in data.values():
-            # Clean up any previous processed data
-            if 'processed' in entry:
-                del entry['processed']
+        # for entry in data.values():
+        #     # Clean up any previous processed data
+        #     if 'processed' in entry:
+        #         del entry['processed']
 
-            if not entry.get('text'):
-                continue
+        #     if not entry.get('text'):
+        #         continue
 
-            if key in PP_FUNCS:
-                processed = entry['text']
-                for func in PP_FUNCS[key]:
-                    pp_func, pp_args = func
+        #     if key in PP_FUNCS:
+        #         processed = entry['text']
+        #         for func in PP_FUNCS[key]:
+        #             pp_func, pp_args = func
 
-                    if pp_args:
-                        processed = pp_func(processed, *pp_args)
-                    else:
-                        processed = pp_func(processed)
+        #             if pp_args:
+        #                 processed = pp_func(processed, *pp_args)
+        #             else:
+        #                 processed = pp_func(processed)
                     
-                if processed != entry['text']:
-                    entry['processed'] = processed
+        #         if processed != entry['text']:
+        #             entry['processed'] = processed
         
         util.save_json(mdb_json_path, data)
 
@@ -156,12 +161,10 @@ def do_postprocess():
 
 def main():
     do_postprocess()
-    # a = "If you're in the middle of the pack during the Final Straight, and you've overtaken someone since entering the final corner, your speed will increase (bonus duration if you're not popular)"
-    # # a = "someone since entering the final corner, your"
+    # a = "Raise the total fan count of 30 characters to 1000000 fans."
     # b = util.get_text_width(a, FONT)
     # print(b)
-    # print(b * 0.8)
-    # d = scale_to_box(a, 18630, 4000)
+    # d = scale_to_box(a, 15800, 2)
     # print(d)
 
 

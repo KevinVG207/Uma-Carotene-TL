@@ -429,17 +429,33 @@ def prepare_font():
 
     return TTFont(font_path)
 
-def get_text_width(text, ttfont, scale=1.0):
-    t = ttfont.getBestCmap()
-    s = ttfont.getGlyphSet()
+CACHED_FONT_DATA = {}
+def get_font_data(ttfont):
+    if not CACHED_FONT_DATA.get(ttfont):
+        t = ttfont.getBestCmap()
+        s = ttfont.getGlyphSet()
+        CACHED_FONT_DATA[ttfont] = (t, s)
+    
+    return CACHED_FONT_DATA[ttfont]
 
+CACHED_CHAR_DATA = {}
+def _get_char_width(char, ttfont):
+    key = (ttfont, char)
+    if not CACHED_CHAR_DATA.get(key):
+        t, s = get_font_data(ttfont)
+        a = ord(char)
+        b = t[a]
+        c = s[b]
+        CACHED_CHAR_DATA[key] = c.width
+
+    return CACHED_CHAR_DATA[key]
+
+
+def get_text_width(text, ttfont, scale=1.0):
     tot = 0
     for char in text:
         try:
-            a = ord(char)
-            b = t[a]
-            c = s[b]
-            tot += c.width * scale
+            tot += _get_char_width(char, ttfont) * scale
         except KeyError:
             # Char not found in font
             pass
@@ -471,6 +487,11 @@ def wrap_text_to_width(text, width, ttfont, scale=1.0, hyphen=True):
             else:
                 hyphenated = False
                 for hyphenation in hyphenations:
+
+                    # Skip 1-2 letter hyphenations
+                    if any(len(h) <= 2 for h in hyphenation):
+                        continue
+
                     tmp_line = cur_line + " " + hyphenation[0] + "-" if cur_line else hyphenation[0] + "-"
                     if get_text_width(tmp_line, ttfont, scale) <= width:
                         lines.append(tmp_line)
@@ -490,3 +511,8 @@ def split_mdb_path(path):
     rel_path = os.path.relpath(path, MDB_FOLDER)
     path_segments = os.path.normpath(rel_path).rsplit(".", 1)[0].split(os.sep)
     return tuple(path_segments)
+
+def add_period(text):
+    if not text.endswith('.') and not text.endswith('.)'):
+        text += '.'
+    return text
