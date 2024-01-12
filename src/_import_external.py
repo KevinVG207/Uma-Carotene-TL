@@ -249,6 +249,10 @@ def apply_gametora_skills():
     gt_name_dict = {data['name_ja']: data['name_en'] for data in gt_data if data.get('name_en')}
     gt_desc_dict = {data['id']: data['desc_en'] for data in gt_data if data.get('desc_en')}
 
+    name_override_dict = {
+        "fb9bf8950771ef57b6e26dcbe622377cf1d6abb71d36a0f8bd4da901161d8bd9": "U=ma²"
+    }
+
     # Load local skill data
     print("Skill names")
 
@@ -262,9 +266,14 @@ def apply_gametora_skills():
         data = util.load_json(os.path.join(prefix, f"{name_file}.json"))
 
         for entry in data:
-            if entry['source'] in gt_name_dict:
-                entry['prev_text'] = entry['text']
+            prev_text = entry.get('prev_text')
+            if gt_name_dict.get(entry['source']):
+                entry['prev_text'] = prev_text
                 entry['text'] = gt_name_dict[entry['source']]
+                entry['new'] = False
+            if name_override_dict.get(entry['hash']):
+                entry['prev_text'] = prev_text
+                entry['text'] = name_override_dict[entry['hash']]
                 entry['new'] = False
 
         util.save_json(os.path.join(prefix, f"{name_file}.json"), data)

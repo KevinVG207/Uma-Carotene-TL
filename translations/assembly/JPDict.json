@@ -14608,7 +14608,7 @@
         "hash": "bc30238ae718342277bb5f578093423884c71fdad429e91a172e60cc997ec80c"
     },
     "SingleMode0045": {
-        "text": "",
+        "text": "<nb><ho>Are you sure you want to buy \nthe above skills?",
         "hash": "771fe1732593588aa498c51b2b3c8af6f0bb128faf514d03615c98e1886aa4a3"
     },
     "SingleMode0046": {
@@ -14716,7 +14716,7 @@
         "hash": "c4017470bb210b8bd0db693ca6b3855226e60434a6734f76d349dd68ada2e345"
     },
     "SingleMode0097": {
-        "text": "",
+        "text": "Confirm Skills",
         "hash": "8b2310b8efd536786ec747f4c7bf06cc6167a8edf3ccd86a51458392666c08fe"
     },
     "SingleMode0099": {
@@ -14972,7 +14972,7 @@
         "hash": "813e99dc94a8fcd089921948de7e643c77287ba6b8334340e9817c812d6582f1"
     },
     "SingleMode0212": {
-        "text": "",
+        "text": "<nb>You do not have enough skill points.",
         "hash": "e452b576384ea3e50481846e5cb8f4c3057fb7e15a749c1736b4faca6f66b411"
     },
     "SingleMode0213": {
@@ -14980,7 +14980,7 @@
         "hash": "3d93736cea2fcc5288a43524aba386582c60015044803167d721870fe36edfe4"
     },
     "SingleMode0214": {
-        "text": "",
+        "text": "Buy Skill(s)",
         "hash": "b54f6c15a24157cb7d351456ed91282167bbd8a9dfcde0fa2dd0d2adc3b505f5"
     },
     "SingleMode0215": {
@@ -15040,7 +15040,7 @@
         "hash": "bba4556c5dcd89cefcd017f33f88eb77aca4a664924f20218945be59dbb2ea05"
     },
     "SingleMode0230": {
-        "text": "",
+        "text": "You have one or more skills \nselected for purchase.\nAre you sure you want to go back?",
         "hash": "45ac8485eb8f2fc08ef83b5cb0ca015a3edf47fb4a5138785bc1892be2bb661a"
     },
     "SingleMode0231": {
@@ -15088,11 +15088,11 @@
         "hash": "6483c781105ac26be39fbe122287aea41b8cefbed4bf6f71b86cfb557a8b4e8e"
     },
     "SingleMode0243": {
-        "text": "",
+        "text": "<nb>This skill is maxed out.",
         "hash": "3e88ff4d36a1a0d4870034aaca542adcd53d4cd5303ed86c1a61767210369eb6"
     },
     "SingleMode0244": {
-        "text": "",
+        "text": "<nb>You cannot deselect this skill.",
         "hash": "12dd16593a75934d0b80bb958ea25ec7b5b3ca6971f3d392156111a33fdbf437"
     },
     "SingleMode0245": {

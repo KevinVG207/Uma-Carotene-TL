@@ -9564,6 +9564,16 @@
         "hash": "5b252e68997d1ed97aee0d44b7f06d8474c5d6bf129c16e47e4b9b52dd77f82a",
         "processed": "<rbr>Raise the affection rank of<br>Tap Dance City to rank 1."
     },
+    "340087": {
+        "text": "Raise the affection rank of Satono Crown to rank 1.",
+        "hash": "6396d79baed05c0ca958e19f8a93631efe5cef5b4c2542660c69e7af099a9515",
+        "processed": "<rbr>Raise the affection rank of<br>Satono Crown to rank 1."
+    },
+    "340088": {
+        "text": "Raise the affection rank of Cheval Grand to rank 1.",
+        "hash": "3d65bde8f63941e8d22d11b5667bb89e5844c7f10f27421ab4b082340ffafb2f",
+        "processed": "<rbr>Raise the affection rank of<br>Cheval Grand to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -9618,6 +9628,11 @@
         "text": "Raise the affection rank of Grass Wonder to rank 11.",
         "hash": "c33a341271cb27c546b78c5b258663c662465de18abfa14c59f0bc566cf34d4a",
         "processed": "<rbr>Raise the affection rank of<br>Grass Wonder to rank 11."
+    },
+    "341011": {
+        "text": "Raise the affection rank of Hishi Amazon to rank 11.",
+        "hash": "dc8749a18474c4f29c44da27f60be31a7ade37ec5cf66fe2d5c5f1d3569f0203",
+        "processed": "<rbr>Raise the affection rank of<br>Hishi Amazon to rank 11."
     },
     "341012": {
         "text": "Raise the affection rank of Mejiro McQueen to rank 11.",
@@ -9739,6 +9754,11 @@
         "hash": "fb90683c57c36a32ed290f735d22b9da6f0fda09296f674cb0d6ccaa3d515ff3",
         "processed": "<rbr>Raise the affection rank of<br>Narita Brian to rank 11."
     },
+    "341038": {
+        "text": "Raise the affection rank of Hishi Akebono to rank 11.",
+        "hash": "972cd5d32df31eee3a8bdffa6374dea17acce9938686ae4901e62a2f671df509",
+        "processed": "<rbr>Raise the affection rank of<br>Hishi Akebono to rank 11."
+    },
     "341039": {
         "text": "Raise the affection rank of Agnes Digital to rank 11.",
         "hash": "8bdd70c84a4d70326ede2634865e819b68deb18b4a44d3e6b3c87c901a234c67",
@@ -9833,6 +9853,11 @@
         "text": "Raise the affection rank of Grass Wonder to rank 12.",
         "hash": "24e44c548de914ec83baf994b46426413b3ff9010290f17499309dc721fb7950",
         "processed": "<rbr>Raise the affection rank of<br>Grass Wonder to rank 12."
+    },
+    "342011": {
+        "text": "Raise the affection rank of Hishi Amazon to rank 12.",
+        "hash": "4550882aa7a1031851fbba850b537523683ceeedd376323b50b4a590a0766cdc",
+        "processed": "<rbr>Raise the affection rank of<br>Hishi Amazon to rank 12."
     },
     "342012": {
         "text": "Raise the affection rank of Mejiro McQueen to rank 12.",
@@ -9953,6 +9978,11 @@
         "text": "Raise the affection rank of Narita Brian to rank 12.",
         "hash": "2b3d581279bf965425f77c0034fdcc8160d66b5fa94979e6c5919c6d387ce78b",
         "processed": "<rbr>Raise the affection rank of<br>Narita Brian to rank 12."
+    },
+    "342038": {
+        "text": "Raise the affection rank of Hishi Akebono to rank 12.",
+        "hash": "5799e1bed12b3c1335e1f13faf742636e805b7d889353b63d331fb6187d3df64",
+        "processed": "<rbr>Raise the affection rank of<br>Hishi Akebono to rank 12."
     },
     "342039": {
         "text": "Raise the affection rank of Agnes Digital to rank 12.",
@@ -10575,9 +10605,9 @@
         "processed": "<rbr>Watch 'Tracen Ondo'."
     },
     "600635": {
-        "text": "ソシテミンナノを見よう.",
+        "text": "Watch 'Soshite Minna No'.",
         "hash": "ef580c393c06e11af3ad51848432838b803d522c18d42684e5d7c31ddd519bf0",
-        "processed": "<rbr>ソシテミンナノを見よう."
+        "processed": "<rbr>Watch 'Soshite Minna No'."
     },
     "600690": {
         "text": "Watch a total of 10 live concerts.",
@@ -18908,6 +18938,26 @@
         "text": "Do 10 training runs ('Illuminate the Heart' story event).",
         "hash": "64c766aa5c0e426dfcaab6890b7188eeae6a5348567e7441b05622c0546f1a68",
         "processed": "<rbr>Do 10 training runs ('Illumi-<br>nate the Heart' story event)."
+    },
+    "2600089": {
+        "text": "Do 2 training runs ('Happy New Future: Bonds Dyed in the Sunrise' story event).",
+        "hash": "b192d83e8279a14613cf02b56892cb7cc7112e19b6da6a58e7e2291dbc0d8568",
+        "processed": "<rbr><sc=73>Do 2 training runs ('Happy New Future:<br>Bonds Dyed in the Sunrise' story event)."
+    },
+    "2600090": {
+        "text": "Do 4 training runs ('Happy New Future: Bonds Dyed in the Sunrise' story event).",
+        "hash": "7bb5fcb9ec279a9696e4dbded8ef8aab05e450d825d4f267e3727437e96540cb",
+        "processed": "<rbr><sc=73>Do 4 training runs ('Happy New Future:<br>Bonds Dyed in the Sunrise' story event)."
+    },
+    "2600091": {
+        "text": "Do 7 training runs ('Happy New Future: Bonds Dyed in the Sunrise' story event).",
+        "hash": "ac5b91fc1d8e56348207224ee44e867e0f121a0bca5f1e83096c23705f669beb",
+        "processed": "<rbr><sc=73>Do 7 training runs ('Happy New Future:<br>Bonds Dyed in the Sunrise' story event)."
+    },
+    "2600092": {
+        "text": "Do 10 training runs ('Happy New Future: Bonds Dyed in the Sunrise' story event).",
+        "hash": "c9c800486ab44f944c0383bbb30c33c2a122a3fed125c1c44ce00083da8d516c",
+        "processed": "<rbr><sc=72>Do 10 training runs ('Happy New Future:<br>Bonds Dyed in the Sunrise' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",
