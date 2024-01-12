@@ -18,6 +18,9 @@ import win32con
 import lz4.frame
 import time
 import glob
+import pyphen
+
+hyphen_dict = pyphen.Pyphen(lang='en_US')
 
 relative_dir = os.path.abspath(os.getcwd())
 unpack_dir = relative_dir
@@ -409,8 +412,6 @@ def download_asset(hash, no_progress=False):
     download_file(url, asset_path, no_progress=no_progress)
 
 def prepare_font():
-    print("Loading font.")
-
     with MetaConnection() as (conn, cursor):
         cursor.execute("SELECT h FROM a WHERE n = 'font/dynamic01.otf'")
         row = cursor.fetchone()
@@ -428,7 +429,7 @@ def prepare_font():
 
     return TTFont(font_path)
 
-def get_text_width(text, ttfont):
+def get_text_width(text, ttfont, scale=1.0):
     t = ttfont.getBestCmap()
     s = ttfont.getGlyphSet()
 
@@ -438,12 +439,52 @@ def get_text_width(text, ttfont):
             a = ord(char)
             b = t[a]
             c = s[b]
-            tot += c.width
+            tot += c.width * scale
         except KeyError:
             # Char not found in font
             pass
 
     return tot
+
+def wrap_text_to_width(text, width, ttfont, scale=1.0, hyphen=True):
+    global hyphen_dict
+
+    words = text.split(" ")
+    lines = []
+    cur_line = ""
+    for word in words:
+        tmp_line = cur_line + " " + word if cur_line else word
+
+        if get_text_width(tmp_line, ttfont, scale) <= width:
+            cur_line = tmp_line
+        else:
+            if not hyphen:
+                lines.append(cur_line)
+                cur_line = word
+                continue
+
+            # Try to hyphenate
+            hyphenations = list(hyphen_dict.iterate(word))
+            if not hyphenations:
+                lines.append(cur_line)
+                cur_line = word
+            else:
+                hyphenated = False
+                for hyphenation in hyphenations:
+                    tmp_line = cur_line + " " + hyphenation[0] + "-" if cur_line else hyphenation[0] + "-"
+                    if get_text_width(tmp_line, ttfont, scale) <= width:
+                        lines.append(tmp_line)
+                        cur_line = hyphenation[1]
+                        hyphenated = True
+                        break
+                if not hyphenated:
+                    lines.append(cur_line)
+                    cur_line = word
+
+    if cur_line:
+        lines.append(cur_line)
+
+    return "\n".join(lines)
 
 def split_mdb_path(path):
     rel_path = os.path.relpath(path, MDB_FOLDER)
