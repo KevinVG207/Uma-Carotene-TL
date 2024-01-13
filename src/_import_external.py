@@ -124,6 +124,37 @@ def apply_umapyoi_outfits(chara_ids):
     import_category(5, proper_outfit_list)
 
 
+def apply_umapyoi_vas():
+    va_dict = {}
+
+    r = requests.get("https://umapyoi.net/api/v1/va")
+    r.raise_for_status()
+    data = r.json()
+
+    for va_data in data.values():
+        if not va_data.get('name_en'):
+            continue
+        if not va_data.get('characters_game'):
+            continue
+
+        for chara_id in va_data['characters_game']:
+            va_dict[chara_id] = va_data['name_en']
+    
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "7.json")
+    data = util.load_json(path)
+
+    for entry in data:
+        key = json.loads(entry['keys'])[0][1]
+
+        if va_dict.get(key):
+            entry['prev_text'] = entry['text']
+            entry['text'] = va_dict[key]
+            entry['new'] = False
+
+    util.save_json(path, data)
+        
+
+
 
 def get_umapyoi_chara_ids():
     # Fetch all character IDs
@@ -500,10 +531,12 @@ def main():
     # umapyoi_chara_ids = get_umapyoi_chara_ids()
     # apply_umapyoi_character_profiles(umapyoi_chara_ids)
     # apply_umapyoi_outfits(umapyoi_chara_ids)
+    # apply_umapyoi_vas()
 
-    apply_gametora_skills()
-    apply_gametora_missions()
-    apply_gametora_title_missions()
+    # apply_gametora_skills()
+    # apply_gametora_missions()
+    # apply_gametora_title_missions()
+    pass
 
 if __name__ == "__main__":
     main()
