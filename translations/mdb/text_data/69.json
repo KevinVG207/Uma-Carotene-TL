@@ -215,6 +215,154 @@
         "text": "My hero!",
         "hash": "18ec49fd0e2332d94a92129d75502b2236a54c736edffafd4d53e67f82523678"
     },
+    "8001": {
+        "text": "If you're not going fast during the last spurt, you might be lacking speed.",
+        "hash": "57d23d2e25a77e15df54828291c655c6ff41922170d60f2a5a12701dc63b0996"
+    },
+    "8002": {
+        "text": "If you're losing positions in the final stretch, you might be lacking stamina.",
+        "hash": "794bc4e9337b7e9fde888aab071d54a6bdd18212d7b1fd03df1fb324789a6ef2"
+    },
+    "8003": {
+        "text": "If you find yourself unable to get ahead, it might be good to increase your power.",
+        "hash": "131e236894c94349937acdf949760ddad4477d31d0103d7e8717fc7515a32035"
+    },
+    "8004": {
+        "text": "If you find yourself unable to catch up in the final stretch, you might be lacking guts.",
+        "hash": "d59f53d006235190cf4e1066e822c39785af6e64832d80222c99bbd0c4dd4da7"
+    },
+    "8005": {
+        "text": "With higher wisdom, positioning and skill activation becomes easier.",
+        "hash": "22c649194ee104c70ebb3d1657df9566e43194202f8b686b92592c41c4068888"
+    },
+    "8006": {
+        "text": "If you're low on Money and Support Points, try entering the Daily Races.",
+        "hash": "77a575691e080ee51d91fc1c2e5b82813dddf8eeed066065d1cbbaf6785423f3"
+    },
+    "8007": {
+        "text": "Upgrading your Support Cards and Umamusume is key to winning races.",
+        "hash": "b9a55e0cbf1804e6d33b30aa2ee001228f3aece448e8f7c9b1dcf13957e5d359"
+    },
+    "8008": {
+        "text": "Race outcomes are not only decided by what happens during the race, but also the weather and sometimes even luck...",
+        "hash": "0fbc6c9dbea8a56b2e0a7c3dcfba91626efa9820335f995589fbd3a72d0de0ce"
+    },
+    "8009": {
+        "text": "Upgrading the level of your Support Cards will give you better support effects.",
+        "hash": "e770bd550f328e2ae850e03aabccafbd54c9c064d1d2672d7cb8baa920085304"
+    },
+    "8010": {
+        "text": "Limit Breaking your Support Cards will give you powerful support effects.",
+        "hash": "225fb631132f96db882bb5bf19dc52f39bb9ca0d81a54dc80535dc63cc03c412"
+    },
+    "8011": {
+        "text": "The effect [Motivation Bonus] also amplifies negative effects, so be careful!",
+        "hash": "d10553f0dcb6c473659f3c8f3cdac023f0e09ba691a57265ae8ae27494a6ffad"
+    },
+    "8012": {
+        "text": "The effect [Friendship Bonus] increases the effect of Friendship Training.",
+        "hash": "46057d4a9ac13bf39ab41664f295567d6a607cdc578392f73a1a8e05ffb6812d"
+    },
+    "8013": {
+        "text": "The [Parameter Bonus] effects increase the results of a specific training.",
+        "hash": "d59c44ce8a2ee617e80aac3c42a0f72d8dc3dec4669bee06142054d0d2d9c3ac"
+    },
+    "8014": {
+        "text": "The [Training Bonus] effect increases the results of any training.",
+        "hash": "ea9c56ad3958e087910909b85875b655213ac6e65d498bd558fb4bc081c8700f"
+    },
+    "8015": {
+        "text": "The [Initial Parameter Bonus] effects increase stats at the start of training.",
+        "hash": "8b2f22f5f21bb34fd6345a7f895bafb8be24a38210337cda18d9c8b2a7a55ae3"
+    },
+    "8016": {
+        "text": "I recommend the [Initial Bond Gauge Bonus] effect if you want to max bond gauges quickly.",
+        "hash": "46c044ee84519c6a672524a49660d3f74dff214d01a656f2ffb2a7b2b8f26424"
+    },
+    "8017": {
+        "text": "[Race Bonus] and [Fan Count Bonus] also affect goal races.",
+        "hash": "00f3fffd59ac7223e5fc727c62931cee1cee3dfca8b017d14b7ed489c169f1c1"
+    },
+    "8018": {
+        "text": "I recommend the [Race Bonus] effect if you want to earn more Skill Points.",
+        "hash": "2952d9aa6f76674696c015f79ea906fcbced603bb190b3d0eee68c268606a188"
+    },
+    "8019": {
+        "text": "The [Hint Level Bonus] effect lets you increase Hint levels more quickly.",
+        "hash": "e024e16e93a3a6a41d5903f6088e916bac6f6360338e01eae56b5e941ba0f13e"
+    },
+    "8020": {
+        "text": "The [Hint Chance Bonus] effect increases the chance of a Hint showing up.",
+        "hash": "da8049dfeff558edbf393263e5553bc94ec4e2244e5456438980439912f1b74d"
+    },
+    "8021": {
+        "text": "The [Specialty Rate Up] effect increases the chance of a support character appearing on their training type.",
+        "hash": "bbc13d8e05b54f60977c52fc57114e4fc0478181c936ad98234292d2f640d323"
+    },
+    "8022": {
+        "text": "The [Event Recovery Up] effect increases the energy recovered during events.",
+        "hash": "c95c68b63729a9ddeb02134cdafc541a5e15e997bb0d7ccea8e248a05901ce11"
+    },
+    "8023": {
+        "text": "The [Event Effect Up] effect increases the results of events.",
+        "hash": "dbc2296009eeb61167bd8e81ac1ff36395ecd0e3a77c5c558ba7aee7ee3b8ec4"
+    },
+    "8024": {
+        "text": "The [Failure Rate Down] effect makes it less likely to fail when training with the support character.",
+        "hash": "b432251a7001b55a82a81c4165fd281f7e7f812c11c55be6e1e5b295e1a9f056"
+    },
+    "8025": {
+        "text": "The [Energy Discount] effect reduces the energy consumed when training with the support character.",
+        "hash": "67c4a5c79b3593d5a4340262ff4bba10cb0d5e920111a811faeadf3d09baab88"
+    },
+    "8026": {
+        "text": "The [Wisdom Training Recovery Up] effect increases the energy recovered when doing Friendship Wisdom Training.",
+        "hash": "42ab52e0ef0e9d0e09f0f24bd937ac444c27c6e7a47791ea7f48619f463c9021"
+    },
+    "8027": {
+        "text": "Friendship Trainings will occur after the bond gauge turns orange.",
+        "hash": "1933fa5b593abe0f43be668c3514724a47ca7abafc1cbf55af501ce9a944abcc"
+    },
+    "8028": {
+        "text": "When multiple Friendship Trainings occur at once, the effects will be even greater.",
+        "hash": "701f2ae427aa5e3853753e90ed93aa9e56bdab5f0c46b6149dbebda089acfddd"
+    },
+    "8029": {
+        "text": "Events of equipped Support Cards are much more likely to occur.",
+        "hash": "75368a31129b83a078b961385e8415d4b8d5a7c45bbda4bbe9136ac9b1d37f4b"
+    },
+    "8030": {
+        "text": "You may sometimes get events from unequipped Support Cards, too!",
+        "hash": "38c6e6d08e5827f662a38416fe4f76434ed79b194859d0398319a138a69a1843"
+    },
+    "8031": {
+        "text": "Note: You cannot equip Support Cards of the same Umamusume you are training.",
+        "hash": "9b922484494bcc6e8834062f8b1985e61ff380ba2dd9905fab7c583be713b281"
+    },
+    "8032": {
+        "text": "You can convert unwanted Support Cards into Horseshoes, which can be exchanged for items in the Shop.",
+        "hash": "2d9adbb3ce6b996c655997e9e934f77e6516efa27baddeb0206306b88c7e5ac8"
+    },
+    "8033": {
+        "text": "You can check the Skill Hints you can get from Support Cards in the [Training Events] section of the details page.",
+        "hash": "9d63e4fedb9e3ae07a76da9e01cb7d18af4be32d29a19f9374f4a72c7f5f6de2"
+    },
+    "8034": {
+        "text": "You can increase the Awakening level of trainable Umamusume with items and Money.",
+        "hash": "52af14afed34dc20850e1485b98567e14bd08e4c45bc7598512fbbfab7880000"
+    },
+    "8035": {
+        "text": "The higher the Awakening level, the more skills you start a training with.",
+        "hash": "6a11caa9413c200058bd7e681f289f4392a9ad3024567a20960a8ce41521773d"
+    },
+    "8036": {
+        "text": "You can obtain items for Awakening by winning races of G3 or higher during training.",
+        "hash": "d5e69cca3f6cbe5ba524086cf0e1df85a8187218de73d774584eb58d37ce4406"
+    },
+    "8037": {
+        "text": "You can upgrade Umamusume by collecting their pieces.",
+        "hash": "7ba4ba8ae1077ff781be613ee9c5b1a99822590eb079861443c5c3670a7084e2"
+    },
     "9000": {
         "text": "Can identify milk by taste.",
         "hash": "e623c1df24a798fe0c23525b35e497d2b41ed5b2a4706bac7139b9fc4c9c84bb"
