@@ -62,6 +62,8 @@ MDB_CAT_NAMES = {
         "88": "Card Stories",
         "113": "Chara Pieces",
         "144": "Profile Slogan",
+        "147": "Factors(?)",
+        "151": "Support Events",
         "162": "Profile Grade",
         "163": "Profile Descr",
         "164": "Profile Strengths",
@@ -71,6 +73,7 @@ MDB_CAT_NAMES = {
         "168": "Profile Shoe Size",
         "169": "Profile Family",
         "170": "Character Names",
+        "172": "Factor details",
         "182": "Chara Names (katakana)"
     }
 }

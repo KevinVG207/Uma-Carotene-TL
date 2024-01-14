@@ -15,7 +15,7 @@ def add_rbr_tag(text):
     return "<rbr>" + text
 
 
-def add_scale_tag(text, max_width):
+def scale_to_width(text, max_width):
     cur_width = util.get_text_width(text, FONT)
     if cur_width <= max_width:
         return text
@@ -62,24 +62,27 @@ PP_FUNCS = {
     ("text_data", "144"): [(add_slogan_tag, None)],
     
     # Support cards
-    ("text_data", "76"): [(add_scale_tag, (14800,))],
+    ("text_data", "76"): [(scale_to_width, (14800,))],
 
     # Outfits
-    ("text_data", "5"): [(add_scale_tag, (14800,))],
+    ("text_data", "5"): [(scale_to_width, (14800,))],
 
     # Chara names
-    ("text_data", "6"): [(add_scale_tag, (9500,))],
-    ("text_data", "77"): [(add_scale_tag, (9500,))],
-    ("text_data", "78"): [(add_scale_tag, (9500,))],
-    ("text_data", "170"): [(add_scale_tag, (9500,))],
+    ("text_data", "6"): [(scale_to_width, (9500,))],
+    ("text_data", "77"): [(scale_to_width, (9500,))],
+    ("text_data", "78"): [(scale_to_width, (9500,))],
+    ("text_data", "170"): [(scale_to_width, (9500,))],
 
     # Skills
-    ("text_data", "47"): [(add_scale_tag, (13110,))],
+    ("text_data", "47"): [(scale_to_width, (13110,))],
     ("text_data", "48"): [(scale_to_box, (18630, 4)), (add_rbr_tag, None)],
 
     # Missions
     ("text_data", "66"): [(scale_to_box, (15800, 2)), (add_rbr_tag, None)],
     ("text_data", "67"): [(scale_to_box, (15800, 2)), (add_rbr_tag, None)],
+
+    # Factors
+    ("text_data", "147"): [(scale_to_width, (12555,))]
 }
 
 
@@ -160,10 +163,10 @@ def do_postprocess():
 
 
 def main():
-    do_postprocess()
-    # a = "Raise the total fan count of 30 characters to 1000000 fans."
-    # b = util.get_text_width(a, FONT)
-    # print(b)
+    # do_postprocess()
+    a = "Aoharu Ignition・Power"
+    b = util.get_text_width(a, FONT)
+    print(b)
     # d = scale_to_box(a, 15800, 2)
     # print(d)
 
