@@ -5,7 +5,16 @@ import tqdm
 def main():
     progress_bar = tqdm.tqdm(total=100, desc="Filling duplicates", position=0, leave=True)
 
-    all_mdb_jsons = glob.glob(util.MDB_FOLDER_EDITING + "text_data\\*.json", recursive=True)
+    # all_mdb_jsons = glob.glob(util.MDB_FOLDER_EDITING + "text_data\\*.json", recursive=True)
+    files = [
+        "29",
+        "32",
+        "36",
+        "38",
+        "111",
+        "147"
+    ]
+    all_mdb_jsons = [util.MDB_FOLDER_EDITING + f"text_data\\{file}.json" for file in files]
 
     hash_dict = {}
     all_dict = {}
