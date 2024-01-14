@@ -15,6 +15,7 @@ from itertools import repeat
 import UnityPy
 import _patch
 from win32com.client import Dispatch
+import copy
 
 def add_to_dict(parent_dict, values_list):
     if len(values_list) == 2:
@@ -659,6 +660,119 @@ def index_textures():
 
     # for metadata in all_textures:
     #     index_textures_from_assetbundle(metadata)
+        
+
+def index_flash_text_from_assetbundle(metadata):
+    file_name = metadata[0]
+    hash = metadata[1]
+
+    file_path = os.path.join(util.DATA_PATH, hash[:2], hash)
+
+    if not os.path.exists(file_path):
+        print(f"\nUser has not downloaded flash {file_name}. Skipping.")
+        return
+
+    meta_file_path = os.path.join(util.FLASH_FOLDER_EDITING, file_name, os.path.basename(file_name) + ".json")
+
+    # TODO: Make this better
+    if os.path.exists(meta_file_path):
+        existing_meta = util.load_json(meta_file_path)
+        if existing_meta['hash'] == hash:
+            # Already indexed and no change in hash.
+            if not 'new' in existing_meta:
+                existing_meta['new'] = True
+            if existing_meta['new']:
+                existing_meta['new'] = False
+                with open(meta_file_path, "w", encoding='utf-8') as f:
+                    f.write(json.dumps(existing_meta, indent=4, ensure_ascii=False))
+            return
+        else:
+            # Hash has changed. Create a backup.
+            print(f"\nFlash {file_name} has changed. Creating backup and replacing.", flush=True)
+            shutil.copy(meta_file_path, meta_file_path + f".{round(time.time())}")
+
+    try:
+        root = unity.load_assetbundle(file_path)
+    except:
+        print(f"\nError loading flash {file_name}. Skipping.")
+        return
+    
+    tl_dict = {}
+
+    for asset in root.assets_file.objects.values():
+        if asset.type.name == "MonoBehaviour":
+            if not asset.serialized_type.nodes:
+                continue
+            # Read the mono behaviour.
+            tree = asset.read_typetree()
+            if not tree.get("_motionParameterGroup"):
+                continue
+            mpg = tree["_motionParameterGroup"]
+            if not mpg.get("_motionParameterList"):
+                continue
+            mpl = mpg["_motionParameterList"]
+            for ele in mpl:
+                if not ele.get("_textParamList"):
+                    continue
+                tpl = ele["_textParamList"]
+                for tpl_ele in tpl:
+                    if not tpl_ele.get("_text"):
+                        continue
+                    source = tpl_ele["_text"]
+                    source_hash = hashlib.sha256(str(source).encode("utf-8")).hexdigest()
+                    path_id = str(asset.path_id)
+                    mpl_id = ele["_id"]
+                    tpl_name = tpl_ele["_objectName"]
+                    source_dict = {
+                        "_text": source,
+                        "_positionOffset": tpl_ele.get("_positionOffset"),
+                        "_scale": tpl_ele.get("_scale"),
+                    }
+                    transl_dict = copy.deepcopy(source_dict)
+                    transl_dict['hash'] = source_hash
+
+                    if not tl_dict.get(path_id):
+                        tl_dict[path_id] = {}
+                    path_dict = tl_dict[path_id]
+                    if not path_dict.get(mpl_id):
+                        path_dict[mpl_id] = {}
+                    mpl_dict = path_dict[mpl_id]
+                    if not mpl_dict.get(tpl_name):
+                        mpl_dict[tpl_name] = {}
+                    tpl_dict = mpl_dict[tpl_name]
+                    tpl_dict['source'] = source_dict
+                    tpl_dict['tl'] = transl_dict
+
+    if tl_dict:
+        os.makedirs(os.path.dirname(meta_file_path), exist_ok=True)
+        with open(meta_file_path, "w", encoding='utf-8') as f:
+            f.write(json.dumps(
+                {
+                    "type": "flash",
+                    "version": version.VERSION,
+                    "file_name": file_name,
+                    "hash": hash,
+                    "new": True,
+                    "data": tl_dict,
+                }, indent=4, ensure_ascii=False
+            ))
+
+def index_flash():
+    all_textures = []
+    with util.MetaConnection() as (_, cursor):
+        cursor.execute(
+            """SELECT n, h FROM a WHERE n like 'uianimation/flash/%' ORDER BY n ASC;"""
+        )
+        rows = cursor.fetchall()
+        all_textures += rows
+    
+    if not all_textures:
+        return
+    
+    with Pool() as pool:
+        _ = list(tqdm.tqdm(pool.imap_unordered(index_flash_text_from_assetbundle, all_textures, chunksize=16), total=len(all_textures), desc="Extracting flash"))
+    # for metadata in util.tqdm(all_textures, desc="Extracting flash"):
+    #     index_flash_text_from_assetbundle(metadata)
 
 
 def index_assets():
@@ -666,6 +780,7 @@ def index_assets():
     index_lyrics()
     index_story()
     index_textures()
+    index_flash()
 
 
 def index_jpdict():
@@ -803,7 +918,7 @@ def index_assembly():
 
 
 def main():
-    index_textures()
+    index_flash()
     pass
 
 if __name__ == "__main__":

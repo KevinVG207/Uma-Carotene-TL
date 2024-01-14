@@ -14,6 +14,7 @@ import UnityPy
 from itertools import repeat
 import filecmp
 import hashlib
+import copy
 
 def write_recursive(cur_path, cur_dict, overwrite=False):
     if "hash" not in cur_dict[list(cur_dict.keys())[0]]:
@@ -557,6 +558,7 @@ def assets_from_intermediate():
     convert_lyrics()
     convert_stories()
     convert_textures()
+    convert_flash()
 
 def jpdict_from_intermediate():
     print("=== CREATING JP DICT ===")
@@ -629,6 +631,65 @@ def assembly_from_intermediate():
     hashed_from_intermediate()
 
 
+def _handle_one_flash(path):
+    data = util.load_json(path)
+
+    out_dict = {
+        "type": data['type'],
+        "hash": data['hash'],
+        "file_name": data['file_name'],
+        "data": {}
+    }
+
+    tl_data = data['data']
+    real_data = {}
+
+    for path_id, mpl_dict in tl_data.items():
+        for mpl_id, tpl_dict in mpl_dict.items():
+            for tp_name, tp_data in tpl_dict.items():
+                source_dict = tp_data['source']
+                tl_dict = tp_data['tl']
+                tp_data.clear()
+
+                new_dict = {}
+
+                for key, value in tl_dict.items():
+                    source_value = source_dict.get(key, None)
+                    if value == source_value:
+                        # Skip unchanged values
+                        continue
+                    new_dict[key] = value
+                
+                if list(new_dict.keys()) == ['hash'] or not new_dict:
+                    continue
+
+                util.add_nested_dict(real_data, [path_id, mpl_id, tp_name], new_dict)
+
+    out_dict['data'] = real_data
+
+    out_path = os.path.join(util.FLASH_FOLDER, data['file_name'] + ".json")
+
+    if not real_data:
+        if os.path.exists(out_path):
+            os.remove(out_path)
+        return
+
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    util.save_json(out_path, out_dict)
+
+
+
+def convert_flash():
+    print("=== CREATING TL FILES FOR FLASH ===")
+
+    flash_jsons = glob.glob(util.FLASH_FOLDER_EDITING + "/**/*.json", recursive=True)
+
+    for path in flash_jsons:
+        _handle_one_flash(path)
+
+
+
 def get_mdb_structure():
     jsons = glob.glob(util.MDB_FOLDER_EDITING + "/**/*.json", recursive=True)
 
@@ -651,11 +712,7 @@ def get_mdb_structure():
     return structure
 
 def main():
-    # assembly_from_intermediate()
-    # print("Done")
-    # pass
-
-    get_mdb_structure()
+    convert_flash()
     pass
 
 if __name__ == "__main__":

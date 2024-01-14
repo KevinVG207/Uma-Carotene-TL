@@ -74,6 +74,9 @@ def get_tl_mdb_jsons():
 ASSETS_FOLDER = TL_PREFIX + "assets\\"
 ASSETS_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assets\\"
 
+FLASH_FOLDER = TL_PREFIX + "flash\\"
+FLASH_FOLDER_EDITING = INTERMEDIATE_PREFIX + "flash\\"
+
 ASSEMBLY_FOLDER = TL_PREFIX + "assembly\\"
 ASSEMBLY_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assembly\\"
 
@@ -516,3 +519,10 @@ def add_period(text):
     if not text.endswith('.') and not text.endswith('.)'):
         text += '.'
     return text
+
+def add_nested_dict(d, path, value):
+    for key in path[:-1]:
+        if key not in d:
+            d[key] = {}
+        d = d[key]
+    d[path[-1]] = value
