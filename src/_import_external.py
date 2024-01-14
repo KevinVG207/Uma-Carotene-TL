@@ -533,7 +533,7 @@ def main():
     # apply_umapyoi_outfits(umapyoi_chara_ids)
     # apply_umapyoi_vas()
 
-    # apply_gametora_skills()
+    apply_gametora_skills()
     # apply_gametora_missions()
     # apply_gametora_title_missions()
     pass
