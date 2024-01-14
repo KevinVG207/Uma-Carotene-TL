@@ -322,7 +322,7 @@ def _import_flash(flash_metadata):
 def import_flash(flash_metadatas):
     print(f"Replacing {len(flash_metadatas)} flash files.")
 
-    for flash_metadata in util.tqdm(flash_metadatas, desc="Importing flash"):
+    for flash_metadata in util.tqdm(flash_metadatas, desc="Import. flash TLs"):
         _import_flash(flash_metadata)
 
 def _import_story(story_data):
