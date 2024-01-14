@@ -204,13 +204,131 @@ def autofill_chara_secret_headers():
     util.save_json(json_path, json_data)
 
 
+def autofill_factor_descriptions():
+    # Prepare skill dict
+    skill_name_dict = {}
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "47.json")
+    data = util.load_json(path)
+    for entry in data:
+        keys = json.loads(entry["keys"])
+        name = entry["text"]
+        if not name:
+            name = entry["source"]
+        
+        for key in keys:
+            skill_name_dict[key[-1]] = name
+
+    type_descr = {
+        1: "SPD",
+        2: "STA",
+        3: "POW",
+        4: "GUT",
+        5: "WIS",
+        6: "Skill Points",
+        11: "Turf Aptitude",
+        12: "Dirt Aptitude",
+        21: "Runner Aptitude",
+        22: "Leader Aptitude",
+        23: "Betweener Aptitude",
+        24: "Chaser Aptitude",
+        31: "Short Aptitude",
+        32: "Mile Aptitude",
+        33: "Medium Aptitude",
+        34: "Long Aptitude",
+        61: "SPD Cap",
+        62: "STA Cap",
+        63: "POW Cap",
+        64: "GUT Cap",
+        65: "WIS Cap",
+    }
+
+
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "172.json")
+    data = util.load_json(path)
+
+    for entry in data:
+        key = json.loads(entry["keys"])[0][-1]
+        factor_group_id = str(key)[:-2]
+
+        # Fetch factor effects
+        with util.MDBConnection() as (_, cursor):
+            cursor.execute("SELECT target_type, value_1, value_2 FROM succession_factor_effect WHERE factor_group_id = ?", (factor_group_id,))
+            rows = cursor.fetchall()
+
+            if not rows:
+                print(f"Factor group {factor_group_id} has no factor effects. Skipping.")
+                continue
+
+        effect_dict = {}
+
+        for row in rows:
+            if row[0] in effect_dict:
+                continue
+
+            effect_dict[row[0]] = (row[1], row[2])
+        
+        effect_types = sorted(effect_dict.keys())
+
+        # 41: Skill
+        # 51: Carnival Bonus LvX Skill - Goes away after training.
+        uppies = []
+        getties = []
+
+        for effect_type in effect_types:
+            if effect_type in type_descr:
+                uppies.append(type_descr[effect_type])
+            elif effect_type == 41:
+                # Obtain skill
+                skill_id = effect_dict[effect_type][0]
+                skill_name = skill_name_dict.get(skill_id)
+                if not skill_name:
+                    print(f"Skill {skill_id} not found in skill index. Skipping effect type {effect_type}.")
+                    continue
+                txt = f"obtain [{skill_name}] skill hint"
+                getties.append(txt)
+            elif effect_type == 51:
+                # Carnival bonus skill
+                txt = "obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends"
+                getties.append(txt)
+
+        uppies_part = ""
+
+        if uppies:
+            uppies_part = "Increases "
+            if len(uppies) == 1:
+                uppies_part += uppies[0]
+            else:
+                uppies_part += ", ".join(uppies[:-1]) + f" and {uppies[-1]}"
+            uppies_part += "."
+        
+        getties_part = ""
+        if getties:
+            if len(getties) == 1:
+                getties_part = getties[0]
+            else:
+                getties_part = ", ".join(getties[:-1]) + f" and {getties[-1]}"
+            getties_part += "."
+        
+        if uppies_part and getties_part:
+            uppies_part += "\\n"
+        
+        if getties_part:
+            getties_part = getties_part[0].upper() + getties_part[1:]
+        
+        entry["text"] = uppies_part + getties_part
+
+    util.save_json(path, data)
+
+
 
 def main():
     # autofill_birthdays()
-    autofill_outfit_combos()
-    autofill_support_combos()
-    autofill_pieces()
-    autofill_chara_secret_headers()
+    # autofill_outfit_combos()
+    # autofill_support_combos()
+    # autofill_pieces()
+    # autofill_chara_secret_headers()
+
+    autofill_factor_descriptions()
     pass
 
 if __name__ == "__main__":
