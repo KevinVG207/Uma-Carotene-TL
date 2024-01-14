@@ -394,7 +394,6 @@ def import_assets():
 
     jsons = glob.glob(util.ASSETS_FOLDER + "\\**\\*.json", recursive=True)
     jsons += glob.glob(util.FLASH_FOLDER + "\\**\\*.json", recursive=True)
-    jsons += glob.glob(util.FLASH_FOLDER + "\\**\\*.json", recursive=True)
 
     with Pool() as pool:
         results = list(util.tqdm(pool.imap_unordered(util.get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for assets"))
@@ -412,7 +411,6 @@ def import_assets():
 
         asset_dict[asset_type].append(asset_data)
 
-    import_flash(asset_dict['flash'])
     import_flash(asset_dict['flash'])
     import_textures(asset_dict['texture'])
     import_stories(asset_dict['story'])
