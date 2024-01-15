@@ -65,8 +65,8 @@ def import_unique_inherited_skills():
 
 
 def main():
-    # export_unique_inherited_skills()
-    import_unique_inherited_skills()
+    export_unique_inherited_skills()
+    # import_unique_inherited_skills()
 
 if __name__ == "__main__":
     main()
