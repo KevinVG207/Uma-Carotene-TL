@@ -3,6 +3,7 @@ import util
 from tqdm import tqdm
 from multiprocessing import Pool
 from itertools import repeat
+import json
 
 
 FONT = util.prepare_font()
@@ -13,6 +14,9 @@ def add_slogan_tag(text):
 
 def add_rbr_tag(text):
     return "<rbr>" + text
+
+def add_nb_tag(text):
+    return "<nb>" + text
 
 
 def scale_to_width(text, max_width):
@@ -59,13 +63,16 @@ def scale_to_box(text, max_width, lines, line_spacing=1.00):
 
 PP_FUNCS = {
     # Slogans
-    ("text_data", "144"): [(add_slogan_tag, None)],
+    ("text_data", "144"): [(add_rbr_tag, None)],
     
     # Support cards
     ("text_data", "76"): [(scale_to_width, (14800,))],
 
     # Outfits
     ("text_data", "5"): [(scale_to_width, (14800,))],
+
+    # VA names
+    ("text_data", "7"): [(scale_to_width, (9200,)), (add_nb_tag, None)],
 
     # Chara names
     ("text_data", "6"): [(scale_to_width, (9500,))],
@@ -82,12 +89,16 @@ PP_FUNCS = {
     ("text_data", "67"): [(scale_to_box, (15800, 2)), (add_rbr_tag, None)],
 
     # Factors
-    ("text_data", "147"): [(scale_to_width, (12555,))]
+    ("text_data", "147"): [(scale_to_width, (12555,))],
+
+    # Secrets/Comics/Tazuna
+    ("text_data", "69"): [("filter", (8000, 9999)), (scale_to_box, (21000, 4)), (add_rbr_tag, None)],
 }
 
 
 def process_mdb(args):
-    entry, key = args
+    entry, key, file_key = args
+    key = int(key)
 
     # Clean up any previous processed data
     if 'processed' in entry:
@@ -96,10 +107,18 @@ def process_mdb(args):
     if not entry.get('text'):
         return entry
 
-    if key in PP_FUNCS:
+    if file_key in PP_FUNCS:
         processed = entry['text']
-        for func in PP_FUNCS[key]:
+        for func in PP_FUNCS[file_key]:
             pp_func, pp_args = func
+
+            # Filter keys
+            if pp_func == "filter":
+                start, end = pp_args
+                if key in range(start, end + 1):
+                    continue
+                else:
+                    break
 
             if pp_args:
                 processed = pp_func(processed, *pp_args)
@@ -119,15 +138,15 @@ def fix_mdb():
 
         keys, values = zip(*data.items())
 
-        if key in PP_FUNCS:
-            with Pool() as p:
-                values = p.map(process_mdb, zip(values, repeat(key)))
+        # if key in PP_FUNCS:
+        #     with Pool() as p:
+        #         values = p.map(process_mdb, zip(values, keys, repeat(key)))
             
-            data = dict(zip(keys, values))
+        #     data = dict(zip(keys, values))
         
-        else:
-            for i, entry in enumerate(values):
-                data[keys[i]] = process_mdb((entry, key))
+        # else:
+        for i, entry in enumerate(values):
+            data[keys[i]] = process_mdb((entry, keys[i], key))
 
 
         # for entry in data.values():
@@ -163,10 +182,10 @@ def do_postprocess():
 
 
 def main():
-    # do_postprocess()
-    a = "Aoharu Ignition・Power"
-    b = util.get_text_width(a, FONT)
-    print(b)
+    do_postprocess()
+    # a = "Tomoyo Takayan"
+    # b = util.get_text_width(a, FONT)
+    # print(b)
     # d = scale_to_box(a, 15800, 2)
     # print(d)
 
