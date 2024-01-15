@@ -92,7 +92,7 @@ PP_FUNCS = {
     ("text_data", "147"): [(scale_to_width, (12555,))],
 
     # Secrets/Comics/Tazuna
-    ("text_data", "69"): [("filter", (8000, 9999)), (scale_to_box, (21000, 4)), (add_rbr_tag, None)],
+    ("text_data", "69"): [("filter", (8000, 9999)), (scale_to_box, (20000, 4)), (add_rbr_tag, None)],
 }
 
 
@@ -138,15 +138,15 @@ def fix_mdb():
 
         keys, values = zip(*data.items())
 
-        # if key in PP_FUNCS:
-        #     with Pool() as p:
-        #         values = p.map(process_mdb, zip(values, keys, repeat(key)))
+        if key in PP_FUNCS:
+            with Pool() as p:
+                values = p.map(process_mdb, zip(values, keys, repeat(key)))
             
-        #     data = dict(zip(keys, values))
+            data = dict(zip(keys, values))
         
-        # else:
-        for i, entry in enumerate(values):
-            data[keys[i]] = process_mdb((entry, keys[i], key))
+        else:
+            for i, entry in enumerate(values):
+                data[keys[i]] = process_mdb((entry, keys[i], key))
 
 
         # for entry in data.values():

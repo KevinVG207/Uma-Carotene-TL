@@ -218,12 +218,12 @@
     "8001": {
         "text": "If you're not going fast during the last spurt, you might be lacking speed.",
         "hash": "57d23d2e25a77e15df54828291c655c6ff41922170d60f2a5a12701dc63b0996",
-        "processed": "<rbr>If you're not going fast during the last<br>spurt, you might be lacking speed."
+        "processed": "<rbr>If you're not going fast during the<br>last spurt, you might be lacking<br>speed."
     },
     "8002": {
         "text": "If you're losing positions in the final stretch, you might be lacking stamina.",
         "hash": "794bc4e9337b7e9fde888aab071d54a6bdd18212d7b1fd03df1fb324789a6ef2",
-        "processed": "<rbr>If you're losing positions in the final<br>stretch, you might be lacking stamina."
+        "processed": "<rbr>If you're losing positions in the final<br>stretch, you might be lacking<br>stamina."
     },
     "8003": {
         "text": "If you find yourself unable to get ahead, it might be good to increase your power.",
@@ -233,7 +233,7 @@
     "8004": {
         "text": "If you find yourself unable to catch up in the final stretch, you might be lacking guts.",
         "hash": "d59f53d006235190cf4e1066e822c39785af6e64832d80222c99bbd0c4dd4da7",
-        "processed": "<rbr>If you find yourself unable to catch up<br>in the final stretch, you might be<br>lacking guts."
+        "processed": "<rbr>If you find yourself unable to catch<br>up in the final stretch, you might be<br>lacking guts."
     },
     "8005": {
         "text": "With higher wisdom, positioning and skill activation becomes easier.",
@@ -253,7 +253,7 @@
     "8008": {
         "text": "Race outcomes are not only decided by what happens during the race, but also the weather and sometimes even luck...",
         "hash": "0fbc6c9dbea8a56b2e0a7c3dcfba91626efa9820335f995589fbd3a72d0de0ce",
-        "processed": "<rbr>Race outcomes are not only decided by<br>what happens during the race, but also<br>the weather and sometimes even<br>luck..."
+        "processed": "<rbr>Race outcomes are not only decided<br>by what happens during the race, but<br>also the weather and sometimes even<br>luck..."
     },
     "8009": {
         "text": "Upgrading the level of your Support Cards will give you better support effects.",
@@ -263,7 +263,7 @@
     "8010": {
         "text": "Limit Breaking your Support Cards will give you powerful support effects.",
         "hash": "225fb631132f96db882bb5bf19dc52f39bb9ca0d81a54dc80535dc63cc03c412",
-        "processed": "<rbr>Limit Breaking your Support Cards will<br>give you powerful support effects."
+        "processed": "<rbr>Limit Breaking your Support Cards<br>will give you powerful support<br>effects."
     },
     "8011": {
         "text": "The effect [Motivation Bonus] also amplifies negative effects, so be careful!",
@@ -278,7 +278,7 @@
     "8013": {
         "text": "The [Parameter Bonus] effects increase the results of a specific training.",
         "hash": "d59c44ce8a2ee617e80aac3c42a0f72d8dc3dec4669bee06142054d0d2d9c3ac",
-        "processed": "<rbr>The [Parameter Bonus] effects increase<br>the results of a specific training."
+        "processed": "<rbr>The [Parameter Bonus] effects<br>increase the results of a specific<br>training."
     },
     "8014": {
         "text": "The [Training Bonus] effect increases the results of any training.",
@@ -293,7 +293,7 @@
     "8016": {
         "text": "I recommend the [Initial Bond Gauge Bonus] effect if you want to max bond gauges quickly.",
         "hash": "46c044ee84519c6a672524a49660d3f74dff214d01a656f2ffb2a7b2b8f26424",
-        "processed": "<rbr>I recommend the [Initial Bond Gauge<br>Bonus] effect if you want to max bond<br>gauges quickly."
+        "processed": "<rbr>I recommend the [Initial Bond Gauge<br>Bonus] effect if you want to max<br>bond gauges quickly."
     },
     "8017": {
         "text": "[Race Bonus] and [Fan Count Bonus] also affect goal races.",
@@ -303,17 +303,17 @@
     "8018": {
         "text": "I recommend the [Race Bonus] effect if you want to earn more Skill Points.",
         "hash": "2952d9aa6f76674696c015f79ea906fcbced603bb190b3d0eee68c268606a188",
-        "processed": "<rbr>I recommend the [Race Bonus] effect if<br>you want to earn more Skill Points."
+        "processed": "<rbr>I recommend the [Race Bonus] effect<br>if you want to earn more Skill Points."
     },
     "8019": {
         "text": "The [Hint Level Bonus] effect lets you increase Hint levels more quickly.",
         "hash": "e024e16e93a3a6a41d5903f6088e916bac6f6360338e01eae56b5e941ba0f13e",
-        "processed": "<rbr>The [Hint Level Bonus] effect lets you<br>increase Hint levels more quickly."
+        "processed": "<rbr>The [Hint Level Bonus] effect lets<br>you increase Hint levels more<br>quickly."
     },
     "8020": {
         "text": "The [Hint Chance Bonus] effect increases the chance of a Hint showing up.",
         "hash": "da8049dfeff558edbf393263e5553bc94ec4e2244e5456438980439912f1b74d",
-        "processed": "<rbr>The [Hint Chance Bonus] effect<br>increases the chance of a Hint showing<br>up."
+        "processed": "<rbr>The [Hint Chance Bonus] effect<br>increases the chance of a Hint<br>showing up."
     },
     "8021": {
         "text": "The [Specialty Rate Up] effect increases the chance of a support character appearing on their training type.",
@@ -323,17 +323,17 @@
     "8022": {
         "text": "The [Event Recovery Up] effect increases the energy recovered during events.",
         "hash": "c95c68b63729a9ddeb02134cdafc541a5e15e997bb0d7ccea8e248a05901ce11",
-        "processed": "<rbr>The [Event Recovery Up] effect<br>increases the energy recovered during<br>events."
+        "processed": "<rbr>The [Event Recovery Up] effect<br>increases the energy recovered<br>during events."
     },
     "8023": {
         "text": "The [Event Effect Up] effect increases the results of events.",
         "hash": "dbc2296009eeb61167bd8e81ac1ff36395ecd0e3a77c5c558ba7aee7ee3b8ec4",
-        "processed": "<rbr>The [Event Effect Up] effect increases<br>the results of events."
+        "processed": "<rbr>The [Event Effect Up] effect<br>increases the results of events."
     },
     "8024": {
         "text": "The [Failure Rate Down] effect makes it less likely to fail when training with the support character.",
         "hash": "b432251a7001b55a82a81c4165fd281f7e7f812c11c55be6e1e5b295e1a9f056",
-        "processed": "<rbr>The [Failure Rate Down] effect makes it<br>less likely to fail when training with the<br>support character."
+        "processed": "<rbr>The [Failure Rate Down] effect makes<br>it less likely to fail when training with<br>the support character."
     },
     "8025": {
         "text": "The [Energy Discount] effect reduces the energy consumed when training with the support character.",
@@ -343,7 +343,7 @@
     "8026": {
         "text": "The [Wisdom Training Recovery Up] effect increases the energy recovered when doing Friendship Wisdom Training.",
         "hash": "42ab52e0ef0e9d0e09f0f24bd937ac444c27c6e7a47791ea7f48619f463c9021",
-        "processed": "<rbr>The [Wisdom Training Recovery Up]<br>effect increases the energy recovered<br>when doing Friendship Wisdom<br>Training."
+        "processed": "<rbr>The [Wisdom Training Recovery Up]<br>effect increases the energy<br>recovered when doing Friendship<br>Wisdom Training."
     },
     "8027": {
         "text": "Friendship Trainings will occur after the bond gauge turns orange.",
@@ -353,12 +353,12 @@
     "8028": {
         "text": "When multiple Friendship Trainings occur at once, the effects will be even greater.",
         "hash": "701f2ae427aa5e3853753e90ed93aa9e56bdab5f0c46b6149dbebda089acfddd",
-        "processed": "<rbr>When multiple Friendship Trainings<br>occur at once, the effects will be even<br>greater."
+        "processed": "<rbr>When multiple Friendship Trainings<br>occur at once, the effects will be<br>even greater."
     },
     "8029": {
         "text": "Events of equipped Support Cards are much more likely to occur.",
         "hash": "75368a31129b83a078b961385e8415d4b8d5a7c45bbda4bbe9136ac9b1d37f4b",
-        "processed": "<rbr>Events of equipped Support Cards are<br>much more likely to occur."
+        "processed": "<rbr>Events of equipped Support Cards<br>are much more likely to occur."
     },
     "8030": {
         "text": "You may sometimes get events from unequipped Support Cards, too!",
@@ -368,7 +368,7 @@
     "8031": {
         "text": "Note: You cannot equip Support Cards of the same Umamusume you are training.",
         "hash": "9b922484494bcc6e8834062f8b1985e61ff380ba2dd9905fab7c583be713b281",
-        "processed": "<rbr>Note: You cannot equip Support Cards<br>of the same Umamusume you are<br>training."
+        "processed": "<rbr>Note: You cannot equip Support<br>Cards of the same Umamusume you<br>are training."
     },
     "8032": {
         "text": "You can convert unwanted Support Cards into Horseshoes, which can be exchanged for items in the Shop.",
@@ -378,7 +378,7 @@
     "8033": {
         "text": "You can check the Skill Hints you can get from Support Cards in the [Training Events] section of the details page.",
         "hash": "9d63e4fedb9e3ae07a76da9e01cb7d18af4be32d29a19f9374f4a72c7f5f6de2",
-        "processed": "<rbr>You can check the Skill Hints you can<br>get from Support Cards in the [Training<br>Events] section of the details page."
+        "processed": "<rbr>You can check the Skill Hints you can<br>get from Support Cards in the<br>[Training Events] section of the<br>details page."
     },
     "8034": {
         "text": "You can increase the Awakening level of trainable Umamusume with items and Money.",
@@ -393,7 +393,7 @@
     "8036": {
         "text": "You can obtain items for Awakening by winning races of G3 or higher during training.",
         "hash": "d5e69cca3f6cbe5ba524086cf0e1df85a8187218de73d774584eb58d37ce4406",
-        "processed": "<rbr>You can obtain items for Awakening by<br>winning races of G3 or higher during<br>training."
+        "processed": "<rbr>You can obtain items for Awakening<br>by winning races of G3 or higher<br>during training."
     },
     "8037": {
         "text": "You can upgrade Umamusume by collecting their pieces.",
@@ -448,6 +448,6 @@
     "9198": {
         "text": "She never loses a palm pushing match.",
         "hash": "991deba40525636eda901187e4d31986d0cb8ba8150fc73776f7c851362f6ea2",
-        "processed": "<rbr>She never loses a palm pushing match."
+        "processed": "<rbr>She never loses a palm pushing<br>match."
     }
 }
