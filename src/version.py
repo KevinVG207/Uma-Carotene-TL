@@ -1,6 +1,6 @@
 # In case more metadata is added in the future, we need to keep track of the version of the intermediate files.
 
-VERSION = (0, 0, 3)
+VERSION = (0, 0, 4)
 
 def version_to_string(version):
     return "v" + ".".join(str(v) for v in version)
