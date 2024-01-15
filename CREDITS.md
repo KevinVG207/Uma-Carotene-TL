@@ -17,7 +17,7 @@ Anything not in the table may be assumed to be translated/made by me (KevinVG207
         </td>
     </tr>
     <tr>
-        <td>Skill names, descriptions and Missions</td>
+        <td>Skill names + descriptions, Missions, Factor names</td>
         <td><a href="https://gametora.com/umamusume">GameTora</a></td>
     <tr>
         <td>Comics</td>
