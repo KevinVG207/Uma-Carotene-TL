@@ -19,6 +19,7 @@ import lz4.frame
 import time
 import glob
 import pyphen
+from functools import cache
 
 hyphen_dict = pyphen.Pyphen(lang='en_US')
 
@@ -432,26 +433,20 @@ def prepare_font():
 
     return TTFont(font_path)
 
-CACHED_FONT_DATA = {}
+@cache
 def get_font_data(ttfont):
-    if not CACHED_FONT_DATA.get(ttfont):
-        t = ttfont.getBestCmap()
-        s = ttfont.getGlyphSet()
-        CACHED_FONT_DATA[ttfont] = (t, s)
+    t = ttfont.getBestCmap()
+    s = ttfont.getGlyphSet()
     
-    return CACHED_FONT_DATA[ttfont]
+    return t, s
 
-CACHED_CHAR_DATA = {}
+@cache
 def _get_char_width(char, ttfont):
-    key = (ttfont, char)
-    if not CACHED_CHAR_DATA.get(key):
-        t, s = get_font_data(ttfont)
-        a = ord(char)
-        b = t[a]
-        c = s[b]
-        CACHED_CHAR_DATA[key] = c.width
-
-    return CACHED_CHAR_DATA[key]
+    t, s = get_font_data(ttfont)
+    a = ord(char)
+    b = t[a]
+    c = s[b]
+    return c.width
 
 
 def get_text_width(text, ttfont, scale=1.0):
