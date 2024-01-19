@@ -4104,6 +4104,11 @@
         "hash": "533b7fcda5f5fa2eea44395a75af179fa63e639d87cd3a8e9085b3224c3ff298",
         "processed": "<rbr><sc=80>Around the middle of the race, if you're<br>near the front but not leading, your speed<br>will slightly increase and your stamina will<br>marginally recover; bonus stamina recovery<br>in races of at least 2400 m."
     },
+    "900911": {
+        "text": "If you entered the Final Straight in the middle of the pack, then when there's 300 m remaining in the race, your speed will slightly increase; it will increase a little more if you didn't panic (kakari) during the race.",
+        "hash": "36eb45ef3b745855429f6deb343add37b3c35f91a3e0dfdeff42567d470ad61f",
+        "processed": "<rbr><sc=78>If you entered the Final Straight in the mid-<br>dle of the pack, then when there's 300 m<br>remaining in the race, your speed will<br>slightly increase; it will increase a little more<br>if you didn't panic (kakari) during the race."
+    },
     "900931": {
         "text": "During the first half of the Final Leg, if you're in a good position, you will get a slight speed boost; the effect is stronger in Short and Mile races.",
         "hash": "0edde6ee3448bb9b73317b80ddd6411ddf7e3981b8e1a4e104fb95da2e4e3d6a",
