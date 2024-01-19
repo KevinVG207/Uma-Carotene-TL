@@ -494,6 +494,11 @@
         "hash": "ef7a61a0544ede08b168e848a56798c9d71e45006e2b4b0d5a6059101740ec03",
         "processed": "<rbr><sc=80>Around the middle of the race, if you're<br>near the front but not leading, your speed<br>will increase and your stamina will slightly<br>recover; bonus stamina recovery in races of<br>at least 2400 m."
     },
+    "100911": {
+        "text": "If you entered the Final Straight in the middle of the pack, then when there's 300 m remaining in the race, your speed will increase; it will increase greatly if you didn't panic (kakari) during the race.",
+        "hash": "6498e2fbcbcde446d066009c739b53ef45ecf5bdc95361ca2794410279376796",
+        "processed": "<rbr><sc=80>If you entered the Final Straight in the mid-<br>dle of the pack, then when there's 300 m<br>remaining in the race, your speed will<br>increase; it will increase greatly if you did-<br>n't panic (kakari) during the race."
+    },
     "100931": {
         "text": "During the first half of the Final Leg, if you're in a good position, you will get a speed boost; the effect is stronger in Short and Mile races.",
         "hash": "0ac624ef64259faa8f9a84e654cf1f66e96c072009da4d0a68887e5178daad70",
@@ -3458,6 +3463,21 @@
         "text": "Runner・Long・If you're in the front during any last spurt straight, your acceleration will slightly increase.",
         "hash": "ea493a715323079d0173efc0fe82e9ef857e8d3db17ea6f1073912403046d7af",
         "processed": "<rbr>Runner・Long・If you're in the<br>front during any last spurt<br>straight, your acceleration will<br>slightly increase."
+    },
+    "202831": {
+        "text": "Dirt・If you activate any other skill during the Middle Leg, your speed will increase; then, if you activate any other skill during the Final Leg or beyond, you will get a speed boost.",
+        "hash": "614ce336467ee601a0583efceada9cb25060f7278603f4e07048ceafd6769f15",
+        "processed": "<rbr><sc=80>Dirt・If you activate any other skill during<br>the Middle Leg, your speed will increase;<br>then, if you activate any other skill during<br>the Final Leg or beyond, you will get a<br>speed boost."
+    },
+    "202832": {
+        "text": "Dirt・If you activate any other skill during the Middle Leg, your speed will marginally increase; then, if you activate any other skill during the Final Leg or beyond, you will get a marginal speed boost.",
+        "hash": "c1a0da07371da43323d9e330a242813938298eab4211c9ddbe191f81446ffd46",
+        "processed": "<rbr><sc=80>Dirt・If you activate any other skill during<br>the Middle Leg, your speed will marginally<br>increase; then, if you activate any other<br>skill during the Final Leg or beyond, you<br>will get a marginal speed boost."
+    },
+    "202842": {
+        "text": "Dirt・At a random point during the Middle Leg, if you're in the first half of the pack, your stamina will slightly recover.",
+        "hash": "51f42608f95f2e6a26979f0e3ad1da4d83da805420608450a3a3494ed3e5c6a4",
+        "processed": "<rbr>Dirt・At a random point during the<br>Middle Leg, if you're in the first<br>half of the pack, your stamina will<br>slightly recover."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
