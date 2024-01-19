@@ -6074,6 +6074,16 @@
         "hash": "17c1e5c77dc7979fe4b0846fcd6818b9970978c7b92ec12e3fa0728342007f9a",
         "processed": "<rbr>During the last spurt, your speed<br>will greatly increase."
     },
+    "109101111": {
+        "text": "Mile/Medium・At a random point on a random downhill, your speed and acceleration will increase.",
+        "hash": "6f7db2ae152052d579f6f3a6ecac93ebc3bbc3e2384ac4bf14bd41ac6844fea0",
+        "processed": "<rbr>Mile/Medium・At a random point<br>on a random downhill, your speed<br>and acceleration will increase."
+    },
+    "109101211": {
+        "text": "Betweener・At a random point in the second half of the race, if you're around the middle of the pack, your speed will increase and your acceleration will increase slightly.",
+        "hash": "64d413429efb8e55ff705028cef414da329904343df09bc50c1057eaa523e34f",
+        "processed": "<rbr><sc=80>Betweener・At a random point in the sec-<br>ond half of the race, if you're around the<br>middle of the pack, your speed will<br>increase and your acceleration will increase<br>slightly."
+    },
     "109301111": {
         "text": "Leader・At a random point on the Final Corner, if you're in the first half of the pack, your speed will increase; in Short races, you will also get a slight speed boost.",
         "hash": "d217c2d5161c7c3b52dadcf2054e2511e01a80e8e3a9b737b39c66fa01b0406e",
