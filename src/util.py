@@ -20,6 +20,7 @@ import time
 import glob
 import pyphen
 from functools import cache
+from multiprocessing import Pool
 
 hyphen_dict = pyphen.Pyphen(lang='en_US')
 
@@ -220,7 +221,7 @@ def test_for_type(args):
 
 def get_asset_and_type(path):
     data = load_json(path)
-    return (data.get('type'), data)
+    return (data.get('type'), data, path)
 
 def get_asset_path(asset_hash):
     return os.path.join(DATA_PATH, asset_hash[:2], asset_hash)
@@ -521,3 +522,25 @@ def add_nested_dict(d, path, value):
             d[key] = {}
         d = d[key]
     d[path[-1]] = value
+
+def get_assets_type_dict():
+    jsons = glob.glob(ASSETS_FOLDER + "\\**\\*.json", recursive=True)
+    jsons += glob.glob(FLASH_FOLDER + "\\**\\*.json", recursive=True)
+
+    with Pool() as pool:
+        results = list(tqdm(pool.imap_unordered(get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for assets"))
+
+    # asset_dict = {result[0]: result[1] for result in results if result[0]}
+    asset_dict = {}
+
+    for result in results:
+        asset_type, asset_data, path = result
+        if not asset_type:
+            continue
+
+        if asset_type not in asset_dict:
+            asset_dict[asset_type] = []
+
+        asset_dict[asset_type].append((asset_data, path))
+
+    return asset_dict

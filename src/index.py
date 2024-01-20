@@ -153,20 +153,6 @@ def load_asset_data(row_metadata):
                     clip_item["clip_length"] = text_data["ClipLength"]
                     clip_item["source_clip_length"] = text_data["ClipLength"]
 
-                    for track_group in block['CharacterTrackList']:
-                        for key in track_group.keys():
-                            if key.endswith("MotionTrackData") and track_group[key]['ClipList']:
-                                if 'anim_data' not in clip_item:
-                                    clip_item['anim_data'] = []
-                                clip_path_id = track_group[key]['ClipList'][-1]['m_PathID']
-                                anim_asset = root.assets_file.files[clip_path_id]
-                                if anim_asset:
-                                    anim_data = anim_asset.read_typetree()
-                                    anim_group_data = {}
-                                    anim_group_data['orig_length'] = anim_data['ClipLength']
-                                    anim_group_data['path_id'] = clip_path_id
-                                    clip_item['anim_data'].append(anim_group_data)
-
                 if text_data.get('ChoiceDataList'):
                     clip_item["choices"] = []
                     for choice in text_data['ChoiceDataList']:

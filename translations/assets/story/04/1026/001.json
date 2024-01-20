@@ -23,34 +23,14 @@
             "name": "???",
             "path_id": -110588895963452470,
             "block_id": 2,
-            "clip_length": 135,
-            "anim_data": [
-                {
-                    "orig_length": 330,
-                    "path_id": -2295783648532431969
-                },
-                {
-                    "orig_length": 116,
-                    "path_id": 4563843716566874130
-                }
-            ]
+            "clip_length": 135
         },
         {
             "text": "I spot a lone horse girl standing motionless \nas I walk through the downtown area.",
             "name": "",
             "path_id": 1570390305001737597,
             "block_id": 3,
-            "clip_length": 91,
-            "anim_data": [
-                {
-                    "orig_length": 330,
-                    "path_id": -807288645814511721
-                },
-                {
-                    "orig_length": 116,
-                    "path_id": -9067715177620820257
-                }
-            ]
+            "clip_length": 91
         },
         {
             "text": "My device's GPS function also displays an error. \nReturning error code 404.",
@@ -61,21 +41,11 @@
             "choices": [
                 {
                     "text": "Is everything okay?",
-                    "source": "……どうしたんだ？"
+                    "hash": "3391cea441cd349cef81527b525989d04321663ab8f7117801fd2e6c59cff471"
                 },
                 {
                     "text": "Is everything okay?",
-                    "source": "……どうしたの？"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 330,
-                    "path_id": 7460570367973115475
-                },
-                {
-                    "orig_length": 78,
-                    "path_id": 3769778949937849052
+                    "hash": "13ed1c21d4144a8ab184cc71179955fe327dfcb1630f2729035109f7ca85f138"
                 }
             ]
         },
@@ -84,68 +54,28 @@
             "name": "Mihono Bourbon",
             "path_id": 2018057287337414201,
             "block_id": 5,
-            "clip_length": 257,
-            "anim_data": [
-                {
-                    "orig_length": 98,
-                    "path_id": 1675078247127108063
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 4387800678032031619
-                }
-            ]
+            "clip_length": 257
         },
         {
             "text": "I am currently returning error code 404. \nThe newly opened training supplies store could not be found.",
             "name": "Mihono Bourbon",
             "path_id": 1958785806600039231,
             "block_id": 6,
-            "clip_length": 260,
-            "anim_data": [
-                {
-                    "orig_length": 243,
-                    "path_id": -1124576682413756028
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -5433972261036439219
-                }
-            ]
+            "clip_length": 260
         },
         {
             "text": "I was told to continue along this street for about \n100 meters, so I did. But I cannot find the store here.",
             "name": "Mihono Bourbon",
             "path_id": -1912633058097791492,
             "block_id": 7,
-            "clip_length": 272,
-            "anim_data": [
-                {
-                    "orig_length": 210,
-                    "path_id": -2971269553201748208
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 4266970848701335577
-                }
-            ]
+            "clip_length": 272
         },
         {
             "text": "Furthermore, my device is now giving me an error \nmaking it impossible to use the navigation software.",
             "name": "Mihono Bourbon",
             "path_id": -7055502045278439621,
             "block_id": 8,
-            "clip_length": 163,
-            "anim_data": [
-                {
-                    "orig_length": 157,
-                    "path_id": -463000282951861363
-                },
-                {
-                    "orig_length": 103,
-                    "path_id": 8590936205269687472
-                }
-            ]
+            "clip_length": 163
         },
         {
             "text": "I'm not familiar with the store, but I should be able \nto look it up on my phone for her.",
@@ -156,17 +86,7 @@
             "choices": [
                 {
                     "text": "I'll see if I can find it.",
-                    "source": "調べようか"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 7274215803126568030
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -8558014316898009081
+                    "hash": "acbd8b52cefe84f81dff182289a13e578a989e952f1911ccda1d7d110f2a4533"
                 }
             ]
         },
@@ -175,17 +95,7 @@
             "name": "Mihono Bourbon",
             "path_id": -4825990850853831541,
             "block_id": 10,
-            "clip_length": 38,
-            "anim_data": [
-                {
-                    "orig_length": 70,
-                    "path_id": -7418645937898951248
-                },
-                {
-                    "orig_length": 18,
-                    "path_id": 4284298384892355574
-                }
-            ]
+            "clip_length": 38
         },
         {
             "text": "It didn't take long before I found it. \nIt says it's about 42 meters from here. \nIn fact, looking closely in the distance, I think I see it.",
@@ -196,17 +106,13 @@
             "choices": [
                 {
                     "text": "<size=40>It's just a little further along the street.</size>",
-                    "source": "ここから、もう少し歩いたところにある"
+                    "hash": "ab90bb712c4f1d1eff4e49fe2a546d605a51c771a8088ba3164da09af1eac660",
+                    "processed": "<size=29><size=40>It's just a little further along the street.</size></size>"
                 },
                 {
                     "text": "<size=40>It's just a little further along the street.</size>",
-                    "source": "ここから、もう少し歩いたところにあるよ"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 166,
-                    "path_id": 2693431562406896654
+                    "hash": "5fb4f09922c74dcad99c0f769d97a4f416b1fa5eaac8d79f46fde090166183a7",
+                    "processed": "<size=29><size=40>It's just a little further along the street.</size></size>"
                 }
             ]
         },
@@ -219,17 +125,7 @@
             "choices": [
                 {
                     "text": "Um... What do you mean?",
-                    "source": "え？"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 100,
-                    "path_id": 5060690269741968234
-                },
-                {
-                    "orig_length": 127,
-                    "path_id": 2037656337255372058
+                    "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
                 }
             ]
         },
@@ -242,17 +138,7 @@
             "choices": [
                 {
                     "text": "It's about forty-ish meters?",
-                    "source": "40ちょっとかな？"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": -2064444693823313443
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -5921916046043058919
+                    "hash": "3671f93a7ba22106cf4821ee55e86b665104211e673ab07fe38eb5a9ddab8a6b"
                 }
             ]
         },
@@ -265,17 +151,7 @@
             "choices": [
                 {
                     "text": "Um... it's 42 meters ahead.",
-                    "source": "……42m先です"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 6088010699575412868
-                },
-                {
-                    "orig_length": 47,
-                    "path_id": -1021010009192393094
+                    "hash": "3f927311c42de071d03c961954e5dbf3f3e15040d3911d9d00d83f65c3c59db8"
                 }
             ]
         },
@@ -284,47 +160,21 @@
             "name": "Mihono Bourbon",
             "path_id": -4071105900480212778,
             "block_id": 15,
-            "clip_length": 342,
-            "anim_data": [
-                {
-                    "orig_length": 262,
-                    "path_id": -8977133311024824860
-                },
-                {
-                    "orig_length": 171,
-                    "path_id": 1867587194543250272
-                }
-            ]
+            "clip_length": 342
         },
         {
             "text": "This was an unexpected lapse in my own research. \nI have logged the error and will work to prevent this issue \nfrom occurring again in the future.",
             "name": "Mihono Bourbon",
             "path_id": -2035923442729394254,
             "block_id": 16,
-            "clip_length": 232,
-            "anim_data": [
-                {
-                    "orig_length": 116,
-                    "path_id": -588938436750899928
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 1771667454641419355
-                }
-            ]
+            "clip_length": 232
         },
         {
             "text": "I once again offer you my thanks for your help.",
             "name": "Mihono Bourbon",
             "path_id": 2586670384710024208,
             "block_id": 17,
-            "clip_length": 142,
-            "anim_data": [
-                {
-                    "orig_length": 91,
-                    "path_id": -8607323859195976011
-                }
-            ]
+            "clip_length": 142
         },
         {
             "text": "Commencing operation: Moving 42 meters ahead.",
@@ -335,13 +185,7 @@
             "choices": [
                 {
                     "text": "(She's a strange one...)",
-                    "source": "（不思議な子だなぁ……）"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 102,
-                    "path_id": 5146777551760589552
+                    "hash": "85895a32764e245828b25cf0f8313c11c24a8ce078537ea894b530269d972af2"
                 }
             ]
         },
@@ -399,90 +243,42 @@
             "name": "Rookie Trainer",
             "path_id": 5075469339116393419,
             "block_id": 26,
-            "clip_length": 99,
-            "anim_data": [
-                {
-                    "orig_length": 173,
-                    "path_id": -7185204761867207288
-                },
-                {
-                    "orig_length": 81,
-                    "path_id": 7697743056461226013
-                }
-            ]
+            "clip_length": 99
         },
         {
             "text": "One horse girl managed to break away from the pack \nright away. It was Mihono Bourbon. \nShe leads with quite the distance.",
             "name": "",
             "path_id": 5432854181793903029,
             "block_id": 27,
-            "clip_length": 108,
-            "anim_data": [
-                {
-                    "orig_length": 173,
-                    "path_id": 1822438146928280581
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 2328479902927023587
-                }
-            ]
+            "clip_length": 108
         },
         {
             "text": "*huff huff*",
             "name": "Mihono Bourbon",
             "path_id": 5681211253256653989,
             "block_id": 28,
-            "clip_length": 71,
-            "anim_data": [
-                {
-                    "orig_length": 173,
-                    "path_id": -60751218408767778
-                }
-            ]
+            "clip_length": 71
         },
         {
             "text": "The rumors were right, her speed is truly fascinating. \nThe short distance racers are about to face \nan incredibly talented newcomer!",
             "name": "Experienced Trainer",
             "path_id": 8886349171418670700,
             "block_id": 29,
-            "clip_length": 259,
-            "anim_data": [
-                {
-                    "orig_length": 274,
-                    "path_id": 2425361834770691501
-                }
-            ]
+            "clip_length": 259
         },
         {
             "text": "She impresses everyone as she speeds down the \nhome stretch with a huge lead over the rest.",
             "name": "",
             "path_id": -5497749331307927264,
             "block_id": 30,
-            "clip_length": 91,
-            "anim_data": [
-                {
-                    "orig_length": 173,
-                    "path_id": -7612407943126616036
-                }
-            ]
+            "clip_length": 91
         },
         {
             "text": "*huff huff* Hngh!",
             "name": "Mihono Bourbon",
             "path_id": 2922795302645145689,
             "block_id": 31,
-            "clip_length": 101,
-            "anim_data": [
-                {
-                    "orig_length": 124,
-                    "path_id": 2217999061501159830
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 1438897705895385457
-                }
-            ]
+            "clip_length": 101
         },
         {
             "text": "She easily takes first place by a landslide.",
@@ -493,17 +289,11 @@
             "choices": [
                 {
                     "text": "(Damn, she's talented!)",
-                    "source": "（なんて才能だ……！）"
+                    "hash": "83d612a2556dc3977310e20f9eceae28d84e9b0f5074f08d67e7a14926443f22"
                 },
                 {
                     "text": "(Damn, she's talented!)",
-                    "source": "（なんて才能……！）"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 24,
-                    "path_id": 3433173437465006591
+                    "hash": "6b72e3610e3b80bed59162bff6acf6337250b2bd32d4cc50263b0b2370282a07"
                 }
             ]
         },
@@ -523,11 +313,11 @@
             "choices": [
                 {
                     "text": "(Right, I've gotta hurry too!)",
-                    "source": "（そうだ、俺も急いで――）"
+                    "hash": "2e64f0ed42cc5b5511c8eccb9ea97bea15df6b2a8ba95d6fc5f9fa1191599921"
                 },
                 {
                     "text": "(Right, I've gotta hurry too!)",
-                    "source": "（そうだ、私も急いで――）"
+                    "hash": "24444341c3d2b96b4fec5dedad52513f906fe62988b3a45d6107dfc2aff0bc20"
                 }
             ]
         },
@@ -540,7 +330,7 @@
             "choices": [
                 {
                     "text": "What?!",
-                    "source": "えーっ！？"
+                    "hash": "08a44ccf16cbc9319a5978d9d3d237692eff225899a32c46675b354077277d8d"
                 }
             ]
         },
@@ -553,17 +343,7 @@
             "choices": [
                 {
                     "text": "(A-Am I too late...?)",
-                    "source": "（お、遅かった……！）"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 123,
-                    "path_id": 6132070998503007307
-                },
-                {
-                    "orig_length": 17,
-                    "path_id": -8265818529548570617
+                    "hash": "83b6a692c7c7ad5e519b46434d4d647233a6397dfa41440ad16efa5ee041dc5c"
                 }
             ]
         },
@@ -572,52 +352,28 @@
             "name": "Rookie Trainer",
             "path_id": 9163781016131698720,
             "block_id": 37,
-            "clip_length": 192,
-            "anim_data": [
-                {
-                    "orig_length": 217,
-                    "path_id": 3853026543489350081
-                }
-            ]
+            "clip_length": 192
         },
         {
             "text": "He said he sees great promise in pursuing \nshort distance races with her.",
             "name": "Experienced Trainer",
             "path_id": -3423378473899198508,
             "block_id": 38,
-            "clip_length": 174,
-            "anim_data": [
-                {
-                    "orig_length": 204,
-                    "path_id": 5719626245867638576
-                }
-            ]
+            "clip_length": 174
         },
         {
             "text": "If she's already found a trainer, then that's it for me. \nI guess I'll just secretly cheer her on from the sidelines \nfrom now on.",
             "name": "",
             "path_id": 274001593929473918,
             "block_id": 39,
-            "clip_length": 107,
-            "anim_data": [
-                {
-                    "orig_length": 141,
-                    "path_id": -5880146944320039900
-                }
-            ]
+            "clip_length": 107
         },
         {
             "text": "It's evening and time to head home. I take a stroll \naround the school grounds when suddenly...",
             "name": "",
             "path_id": -5118680158689698928,
             "block_id": 40,
-            "clip_length": 152,
-            "anim_data": [
-                {
-                    "orig_length": 18,
-                    "path_id": -620101943192337904
-                }
-            ]
+            "clip_length": 152
         },
         {
             "text": "*huff huff*",
@@ -628,13 +384,7 @@
             "choices": [
                 {
                     "text": "(It's her!)",
-                    "source": "（ミホノブルボン……！）"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 54,
-                    "path_id": 5585884901647721727
+                    "hash": "b058a9405be73e7c721ef27f545502d34c2c28389465a57cd71fa0ab06a9a3bb"
                 }
             ]
         },
@@ -643,30 +393,14 @@
             "name": "",
             "path_id": -447116203379110508,
             "block_id": 42,
-            "clip_length": 77,
-            "anim_data": [
-                {
-                    "orig_length": 113,
-                    "path_id": 496658659161192354
-                }
-            ]
+            "clip_length": 77
         },
         {
             "text": "*huff huff* 1800 meters reached. 1200 meters remaining. \nTime elapsed: 2:04. Severely behind target pace.",
             "name": "Mihono Bourbon",
             "path_id": 7130393128977985556,
             "block_id": 43,
-            "clip_length": 266,
-            "anim_data": [
-                {
-                    "orig_length": 278,
-                    "path_id": 2085447521259258976
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -2493694129684389838
-                }
-            ]
+            "clip_length": 266
         },
         {
             "text": "Is she timing herself? And, wait... \nDid I hear that right?",
@@ -677,13 +411,7 @@
             "choices": [
                 {
                     "text": "(...3000 meters?!)",
-                    "source": "（……3000m！？）"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 126,
-                    "path_id": -2029244925161063366
+                    "hash": "52af89c60f9fff54717df542ad060d5247064a9cf971e0d8f588a24a1a31e282"
                 }
             ]
         },
@@ -692,43 +420,21 @@
             "name": "",
             "path_id": -599748735688382723,
             "block_id": 45,
-            "clip_length": 112,
-            "anim_data": [
-                {
-                    "orig_length": 141,
-                    "path_id": 1026974736642628529
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 4853879487150763043
-                }
-            ]
+            "clip_length": 112
         },
         {
             "text": "Hng!",
             "name": "Mihono Bourbon",
             "path_id": -3555763644314727133,
             "block_id": 46,
-            "clip_length": 55,
-            "anim_data": [
-                {
-                    "orig_length": 51,
-                    "path_id": -1643625203767980989
-                }
-            ]
+            "clip_length": 55
         },
         {
             "text": "*pant pant*",
             "name": "Mihono Bourbon",
             "path_id": -5091012673985860751,
             "block_id": 47,
-            "clip_length": 94,
-            "anim_data": [
-                {
-                    "orig_length": 139,
-                    "path_id": 5153669973515960218
-                }
-            ]
+            "clip_length": 94
         },
         {
             "text": "Ugh...",
@@ -739,13 +445,7 @@
             "choices": [
                 {
                     "text": "Wha—!",
-                    "source": "！！"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 42,
-                    "path_id": -3407516727413775399
+                    "hash": "41fa91dd7af96b2b0550866e59d8cc9e203ae26c64b4cada1a9b2e1b8269397d"
                 }
             ]
         },
@@ -754,13 +454,7 @@
             "name": "",
             "path_id": 7642043380533049783,
             "block_id": 49,
-            "clip_length": 78,
-            "anim_data": [
-                {
-                    "orig_length": 22,
-                    "path_id": -1949145631692192263
-                }
-            ]
+            "clip_length": 78
         }
     ],
     "title": "A Cyborg's Secret"

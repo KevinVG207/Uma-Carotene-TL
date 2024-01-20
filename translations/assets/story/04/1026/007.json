@@ -9,26 +9,14 @@
             "name": "",
             "path_id": -6584522816594974206,
             "block_id": 0,
-            "clip_length": 45,
-            "anim_data": [
-                {
-                    "orig_length": 46,
-                    "path_id": 6591299620617869902
-                }
-            ]
+            "clip_length": 45
         },
         {
             "text": "Would you like to go to tonight's \nfireworks festival with me?",
             "name": "Mihono Bourbon",
             "path_id": 1743900900668141901,
             "block_id": 1,
-            "clip_length": 100,
-            "anim_data": [
-                {
-                    "orig_length": 98,
-                    "path_id": -9146551419531601529
-                }
-            ]
+            "clip_length": 100
         },
         {
             "text": "It was early afternoon in the middle of our summer \ntraining camp, when Mihono Bourbon came up to me \nand asked that question.",
@@ -39,13 +27,7 @@
             "choices": [
                 {
                     "text": "O-Of course!",
-                    "source": "も、もちろん！"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 122,
-                    "path_id": 3787422850336200431
+                    "hash": "107b72aaca48bc35363fb78587fd5f97a2782fc10646918ebc726a2f8d6c5d8f"
                 }
             ]
         },
@@ -54,55 +36,21 @@
             "name": "",
             "path_id": -3480184003465911375,
             "block_id": 3,
-            "clip_length": 111,
-            "anim_data": [
-                {
-                    "orig_length": 121,
-                    "path_id": -1493223919582706615
-                },
-                {
-                    "orig_length": 30,
-                    "path_id": -8475441986334428755
-                }
-            ]
+            "clip_length": 111
         },
         {
             "text": "According to my research, there are usually around \n70,000 attendees. There are around 90 different stalls, \namong which are 9 types of games to play.",
             "name": "Mihono Bourbon",
             "path_id": 2247406671872859033,
             "block_id": 4,
-            "clip_length": 298,
-            "anim_data": [
-                {
-                    "orig_length": 24,
-                    "path_id": 546217713595019739
-                },
-                {
-                    "orig_length": 393,
-                    "path_id": 8536876608611237048
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 8282864075252617862
-                }
-            ]
+            "clip_length": 298
         },
         {
             "text": "What would you like to do? There is shooting, die cutting, \ngoldfish scooping, yo-yo fishing, ring tossing, a lottery, \nstring pulling, box punching and melon splitting.",
             "name": "Mihono Bourbon",
             "path_id": -2880247710655290901,
             "block_id": 5,
-            "clip_length": 351,
-            "anim_data": [
-                {
-                    "orig_length": 24,
-                    "path_id": -4467115914633147789
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -8975459318124031028
-                }
-            ]
+            "clip_length": 351
         },
         {
             "text": "Inviting me out and doing so much research \nbeforehand... The usually reserved Mihono Bourbon \nis exploding with enthusiasm today.",
@@ -113,17 +61,11 @@
             "choices": [
                 {
                     "text": "You sure love festivals.",
-                    "source": "お祭り、好きなんだな"
+                    "hash": "8bb2d75edb6ae0d9e0789f38759ebb79a00304ab522cc93ae2252ffa4b582eb7"
                 },
                 {
                     "text": "You sure love festivals.",
-                    "source": "お祭り、好きなんだね"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 138,
-                    "path_id": -3738932533582299914
+                    "hash": "cd1c2583c930284db9852ce83775ec0510a77003eb5901e159bf83273522eab9"
                 }
             ]
         },
@@ -136,17 +78,7 @@
             "choices": [
                 {
                     "text": "Why are you so enthusiastic, then?",
-                    "source": "じゃあ、今日はどうして？"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 69,
-                    "path_id": -7264097414789294315
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": 8424193311641678069
+                    "hash": "5311ade023a103cc5a2cf19045d3ac6bd9f2de5f9fcd261bb58c29ad571b9cee"
                 }
             ]
         },
@@ -159,17 +91,7 @@
             "choices": [
                 {
                     "text": "Huh?",
-                    "source": "……？"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 185,
-                    "path_id": -3148883966761219927
-                },
-                {
-                    "orig_length": 101,
-                    "path_id": 219461942474160104
+                    "hash": "fea14373030f77fe59b8e828b607a745b9576347d4420757e783504fbaf52ab2"
                 }
             ]
         },
@@ -178,34 +100,14 @@
             "name": "Mihono Bourbon",
             "path_id": -8874690265385128689,
             "block_id": 9,
-            "clip_length": 207,
-            "anim_data": [
-                {
-                    "orig_length": 218,
-                    "path_id": -6383407398040427741
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -9158309157643953822
-                }
-            ]
+            "clip_length": 207
         },
         {
             "text": "But... Perhaps my understanding was wrong.",
             "name": "Mihono Bourbon",
             "path_id": 653989455860105011,
             "block_id": 10,
-            "clip_length": 152,
-            "anim_data": [
-                {
-                    "orig_length": 187,
-                    "path_id": 3982430088417481453
-                },
-                {
-                    "orig_length": 62,
-                    "path_id": -7944245728352600098
-                }
-            ]
+            "clip_length": 152
         },
         {
             "text": "I'm surprised to hear her speak less formal. \nFrom the corner of my eye, I spotted the head of \na bunny plush sticking out of her pocket.",
@@ -216,17 +118,7 @@
             "choices": [
                 {
                     "text": "Hey, is that...",
-                    "source": "それって……"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 22,
-                    "path_id": 5154209933887098572
-                },
-                {
-                    "orig_length": 19,
-                    "path_id": 6143987448251892635
+                    "hash": "d47ab0852c88707cfcabd6c1e3ebe51a939ea05033ea29d667753ab338a923a0"
                 }
             ]
         },
@@ -242,34 +134,14 @@
             "name": "Mihono Bourbon",
             "path_id": -1898621882791614602,
             "block_id": 13,
-            "clip_length": 139,
-            "anim_data": [
-                {
-                    "orig_length": 163,
-                    "path_id": 4654823861655804120
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": 5303708893951588641
-                }
-            ]
+            "clip_length": 139
         },
         {
             "text": "It helps my motivation stay up during training and \nstudying. I never expected it to have such an effect...",
             "name": "Mihono Bourbon",
             "path_id": -7800829320359089907,
             "block_id": 14,
-            "clip_length": 255,
-            "anim_data": [
-                {
-                    "orig_length": 225,
-                    "path_id": -7447757880102486228
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 8773055030874523863
-                }
-            ]
+            "clip_length": 255
         },
         {
             "text": "So I was thinking... That maybe the 'fun' you helped \nme experience back then really <i>does</i> have meaning...",
@@ -280,17 +152,7 @@
             "choices": [
                 {
                     "text": "...!",
-                    "source": "……！"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 242,
-                    "path_id": 7792040886074281350
-                },
-                {
-                    "orig_length": 126,
-                    "path_id": -3810674805929169546
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
                 }
             ]
         },
@@ -299,34 +161,14 @@
             "name": "Mihono Bourbon",
             "path_id": 2970792380735887082,
             "block_id": 16,
-            "clip_length": 115,
-            "anim_data": [
-                {
-                    "orig_length": 126,
-                    "path_id": -4744785276004385894
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": 1420351781253368627
-                }
-            ]
+            "clip_length": 115
         },
         {
             "text": "Were perhaps supposed to be... \nInterpreted a little... softer than that.",
             "name": "Mihono Bourbon",
             "path_id": -9201200524928489881,
             "block_id": 17,
-            "clip_length": 312,
-            "anim_data": [
-                {
-                    "orig_length": 190,
-                    "path_id": -68769268876748186
-                },
-                {
-                    "orig_length": 143,
-                    "path_id": 2658350530423322315
-                }
-            ]
+            "clip_length": 312
         },
         {
             "text": "I'm speechless at her personal growth. She combined her \nexperiences like a puzzle to reach the conclusion on her \nown, even if things didn't always work out right away.",
@@ -337,17 +179,7 @@
             "choices": [
                 {
                     "text": "Let's make today unforgettable!",
-                    "source": "……今日は、たくさん遊ぼう！"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 1014190656436451557
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 445412243832346065
+                    "hash": "3c7f57dc1d0a7bbe339d42b13db827b414ed22424dec19b072b4a4a52bbc95a5"
                 }
             ]
         },
@@ -356,43 +188,21 @@
             "name": "",
             "path_id": 6302641872690916662,
             "block_id": 19,
-            "clip_length": 180,
-            "anim_data": [
-                {
-                    "orig_length": 24,
-                    "path_id": -1304086831430118170
-                }
-            ]
+            "clip_length": 180
         },
         {
             "text": "Rotate the muzzle 5 degrees downwards. \nToo far, move it slightly upwards. That's it.",
             "name": "Mihono Bourbon",
             "path_id": -856243035419495718,
             "block_id": 20,
-            "clip_length": 233,
-            "anim_data": [
-                {
-                    "orig_length": 67,
-                    "path_id": -7915669221464450912
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -672826863275529267
-                }
-            ]
+            "clip_length": 233
         },
         {
             "text": "*bang*",
             "name": "",
             "path_id": -3977371288420625447,
             "block_id": 21,
-            "clip_length": 51,
-            "anim_data": [
-                {
-                    "orig_length": 62,
-                    "path_id": -4372584261173352418
-                }
-            ]
+            "clip_length": 51
         },
         {
             "text": "Wow, you got it! \nYou're a natural, my man!",
@@ -403,15 +213,10 @@
             "choices": [
                 {
                     "text": "Only thanks to her instructions.",
-                    "source": "指示が的確なんです"
+                    "hash": "0fe868c850b4165148f4b0ebf23cb0eae43e52aedd4bb71071605d10221571e7"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 183,
-                    "path_id": 3794160231870091587
-                }
-            ]
+            "name_processed": "<sc=85>Shooting Gallery Attendant"
         },
         {
             "text": "Wow, you got it! \nYou're a natural, m'lady!",
@@ -422,15 +227,10 @@
             "choices": [
                 {
                     "text": "Only thanks to her instructions.",
-                    "source": "指示が的確なんです"
+                    "hash": "0fe868c850b4165148f4b0ebf23cb0eae43e52aedd4bb71071605d10221571e7"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 162,
-                    "path_id": -2177712979988431117
-                }
-            ]
+            "name_processed": "<sc=85>Shooting Gallery Attendant"
         },
         {
             "text": "Hahaha! I see, you two make a perfect pair! \nHere's the prize, you lovely horse girl. Don't lose it!",
@@ -438,234 +238,105 @@
             "path_id": 1950027943213718287,
             "block_id": 24,
             "clip_length": 285,
-            "anim_data": [
-                {
-                    "orig_length": 341,
-                    "path_id": 8222563920803757504
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 4371298218642144746
-                }
-            ]
+            "name_processed": "<sc=85>Shooting Gallery Attendant"
         },
         {
             "text": "...... \nThank you very much.",
             "name": "Mihono Bourbon",
             "path_id": -6863443130318409487,
             "block_id": 25,
-            "clip_length": 119,
-            "anim_data": [
-                {
-                    "orig_length": 108,
-                    "path_id": 8238367445318727667
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -2155172940348223474
-                }
-            ]
+            "clip_length": 119
         },
         {
             "text": "We enjoyed the festival to our heart's content and the \nevening whizzed by in a flash. We went die cutting, \nring throwing and drew in the lottery.",
             "name": "",
             "path_id": 2736268421280171802,
             "block_id": 26,
-            "clip_length": 105,
-            "anim_data": [
-                {
-                    "orig_length": 26,
-                    "path_id": -1489985375714586023
-                }
-            ]
+            "clip_length": 105
         },
         {
             "text": "The fireworks are about to start. We should move \ntowards a good vantage point.",
             "name": "Mihono Bourbon",
             "path_id": -2899965329042637356,
             "block_id": 27,
-            "clip_length": 168,
-            "anim_data": [
-                {
-                    "orig_length": 279,
-                    "path_id": -4487383062243549260
-                },
-                {
-                    "orig_length": 96,
-                    "path_id": 7325041208163622992
-                }
-            ]
+            "clip_length": 168
         },
         {
             "text": "Oh, Bourbon?",
             "name": "Honest Horsegirl",
             "path_id": 3174863887996542494,
             "block_id": 28,
-            "clip_length": 65,
-            "anim_data": [
-                {
-                    "orig_length": 85,
-                    "path_id": -4119656688758876333
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 3649094122582981199
-                }
-            ]
+            "clip_length": 65
         },
         {
             "text": "We ran into the horse girl that came up to Bourbon \nsome time ago.",
             "name": "",
             "path_id": -3830550897832987360,
             "block_id": 29,
-            "clip_length": 91,
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": -4651068827816707311
-                }
-            ]
+            "clip_length": 91
         },
         {
             "text": "<i>I concluded that you must have some sort of reason \nto reach out to me during my break.</i>",
             "name": "Mihono Bourbon",
             "path_id": -8294592393068589914,
             "block_id": 30,
-            "clip_length": 210,
-            "anim_data": [
-                {
-                    "orig_length": 54,
-                    "path_id": -6914820230641476402
-                },
-                {
-                    "orig_length": 154,
-                    "path_id": 8256346153005294952
-                },
-                {
-                    "orig_length": 30,
-                    "path_id": -5121378334422261612
-                }
-            ]
+            "clip_length": 210
         },
         {
             "text": "<i>Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going! </i>",
             "name": "Honest Horsegirl",
             "path_id": -4322616121485581154,
             "block_id": 31,
-            "clip_length": 303,
-            "anim_data": [
-                {
-                    "orig_length": 322,
-                    "path_id": -7075498119356014176
-                }
-            ]
+            "clip_length": 303
         },
         {
             "text": "I didn't know you went to festivals, Bourbon... Oh wait, \nI-I'm sorry for interrupting your free time! I got a little \ntoo excited...",
             "name": "Honest Horsegirl",
             "path_id": 4165796758532264234,
             "block_id": 32,
-            "clip_length": 269,
-            "anim_data": [
-                {
-                    "orig_length": 325,
-                    "path_id": 5441374317368549956
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": 6963374619428078435
-                }
-            ]
+            "clip_length": 269
         },
         {
             "text": "Don't feel sorry, it's no problem. \nYou are here to see the fireworks, too?",
             "name": "Mihono Bourbon",
             "path_id": -5816262175580585248,
             "block_id": 33,
-            "clip_length": 192,
-            "anim_data": [
-                {
-                    "orig_length": 102,
-                    "path_id": 2514862593434121288
-                },
-                {
-                    "orig_length": 50,
-                    "path_id": -9093642999396242885
-                }
-            ]
+            "clip_length": 192
         },
         {
             "text": "The centerpiece of this fireworks display \nis a shell 90 centimeters in diameter. \nI am looking forward to it.",
             "name": "Mihono Bourbon",
             "path_id": -9047060465800049975,
             "block_id": 34,
-            "clip_length": 235,
-            "anim_data": [
-                {
-                    "orig_length": 184,
-                    "path_id": -159964650823767633
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -1607473074764183523
-                }
-            ]
+            "clip_length": 235
         },
         {
             "text": "So, do you have a reason for that?",
             "name": "Honest Horsegirl",
             "path_id": -6937034149024145434,
             "block_id": 35,
-            "clip_length": 107,
-            "anim_data": [
-                {
-                    "orig_length": 145,
-                    "path_id": -5813853483993810935
-                }
-            ]
+            "clip_length": 107
         },
         {
             "text": "No, not in particular.",
             "name": "Mihono Bourbon",
             "path_id": -5956345886330782607,
             "block_id": 36,
-            "clip_length": 91,
-            "anim_data": [
-                {
-                    "orig_length": 34,
-                    "path_id": -8525983327806618374
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -3845556227420020386
-                }
-            ]
+            "clip_length": 91
         },
         {
             "text": "Huh?",
             "name": "Honest Horsegirl",
             "path_id": 6500352877454356704,
             "block_id": 37,
-            "clip_length": 26,
-            "anim_data": [
-                {
-                    "orig_length": 83,
-                    "path_id": 5388069644934524811
-                }
-            ]
+            "clip_length": 26
         },
         {
             "text": "The little horse girl seemed in shock after \nhearing those words come from Bourbon.",
             "name": "",
             "path_id": -3496069988935881270,
             "block_id": 38,
-            "clip_length": 102,
-            "anim_data": [
-                {
-                    "orig_length": 113,
-                    "path_id": -5321079660562331475
-                }
-            ]
+            "clip_length": 102
         },
         {
             "text": "Mihono Bourbon has come a long way. She finally \nunderstands what it's like to 'have fun' with others. \n...Wait a minute.",
@@ -676,13 +347,7 @@
             "choices": [
                 {
                     "text": "Go play with her.",
-                    "source": "一緒に遊んでおいで"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 132,
-                    "path_id": -1928934550850553698
+                    "hash": "ff358083e13a139924134b1ff389e25947062c18303a11c723cb147b4d9dcaa7"
                 }
             ]
         },
@@ -695,13 +360,7 @@
             "choices": [
                 {
                     "text": "I'm sure it'll be 'fun!'",
-                    "source": "きっと『楽しい』から"
-                }
-            ],
-            "anim_data": [
-                {
-                    "orig_length": 33,
-                    "path_id": -2878780267105221091
+                    "hash": "51810e7a4926617d323c7488d73c07893129fc427e459568bb64b1a0b3f3833b"
                 }
             ]
         },
@@ -710,299 +369,133 @@
             "name": "Mihono Bourbon",
             "path_id": -4849360696200775386,
             "block_id": 41,
-            "clip_length": 60,
-            "anim_data": [
-                {
-                    "orig_length": 71,
-                    "path_id": 5192090549045373891
-                },
-                {
-                    "orig_length": 73,
-                    "path_id": 5060805022727915472
-                }
-            ]
+            "clip_length": 60
         },
         {
             "text": "She turned her gaze to the younger horse girl.",
             "name": "",
             "path_id": -3981396040110055425,
             "block_id": 42,
-            "clip_length": 71,
-            "anim_data": [
-                {
-                    "orig_length": 32,
-                    "path_id": -6215207467548743151
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 7022194981684273517
-                }
-            ]
+            "clip_length": 71
         },
         {
             "text": "Would you like to... Watch the fireworks with me?",
             "name": "Mihono Bourbon",
             "path_id": -5185071335651342519,
             "block_id": 43,
-            "clip_length": 149,
-            "anim_data": [
-                {
-                    "orig_length": 203,
-                    "path_id": 4884290616612919351
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -1303034753076058112
-                }
-            ]
+            "clip_length": 149
         },
         {
             "text": "*fweet* ... *boom*",
             "name": "",
             "path_id": 8397271179793330432,
             "block_id": 44,
-            "clip_length": 59,
-            "anim_data": [
-                {
-                    "orig_length": 43,
-                    "path_id": -2188864352113118396
-                }
-            ]
+            "clip_length": 59
         },
         {
             "text": "Wow, the fireworks really are amazing! \nI'm glad I worked up the courage to go here alone.",
             "name": "Honest Horsegirl",
             "path_id": 2202834340525452061,
             "block_id": 45,
-            "clip_length": 218,
-            "anim_data": [
-                {
-                    "orig_length": 317,
-                    "path_id": 8892679883762282817
-                },
-                {
-                    "orig_length": 115,
-                    "path_id": 8094608572773562947
-                }
-            ]
+            "clip_length": 218
         },
         {
             "text": "I'm so glad I met you here, to see the fireworks together... \nOh, I'm sorry. I started speaking my thoughts again...",
             "name": "Honest Horsegirl",
             "path_id": -5971056417311892133,
             "block_id": 46,
-            "clip_length": 274,
-            "anim_data": [
-                {
-                    "orig_length": 211,
-                    "path_id": 4412247653377177085
-                },
-                {
-                    "orig_length": 78,
-                    "path_id": 5165255667059131154
-                }
-            ]
+            "clip_length": 274
         },
         {
             "text": "Do you like fireworks?",
             "name": "Mihono Bourbon",
             "path_id": -5380306920861260903,
             "block_id": 47,
-            "clip_length": 110,
-            "anim_data": [
-                {
-                    "orig_length": 211,
-                    "path_id": 4008629591620572763
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -8860553193488162080
-                }
-            ]
+            "clip_length": 110
         },
         {
             "text": "Yes, I do! I like how they sparkle so wide in the sky. \nThey inspire me! Everyone longs for something that \nthey don't have. Be it fireworks or something else.",
             "name": "Honest Horsegirl",
             "path_id": 4223683864855118820,
             "block_id": 48,
-            "clip_length": 311,
-            "anim_data": [
-                {
-                    "orig_length": 406,
-                    "path_id": 374756249476451457
-                }
-            ]
+            "clip_length": 311
         },
         {
             "text": "I know this sounds as an excuse for what I did back then, \nbut I'm bad at sensing the distance between people...",
             "name": "Honest Horsegirl",
             "path_id": 2566950610588250616,
             "block_id": 49,
-            "clip_length": 292,
-            "anim_data": [
-                {
-                    "orig_length": 275,
-                    "path_id": -6518772909570090609
-                }
-            ]
+            "clip_length": 292
         },
         {
             "text": "Understood. So you have trouble measuring distances? \nI'm actually an expert at this subject.",
             "name": "Mihono Bourbon",
             "path_id": -3316340968937546506,
             "block_id": 50,
-            "clip_length": 230,
-            "anim_data": [
-                {
-                    "orig_length": 180,
-                    "path_id": -6225260372582108650
-                }
-            ]
+            "clip_length": 230
         },
         {
             "text": "For example: The two of us are 34 centimeters apart. \nThe shaved ice stand behind us at 4 o'clock is 8 meters \nand 24 centimeters away from you.",
             "name": "Mihono Bourbon",
             "path_id": 2183607759400150059,
             "block_id": 51,
-            "clip_length": 343,
-            "anim_data": [
-                {
-                    "orig_length": 294,
-                    "path_id": 6276886471001016384
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 1585428794647444614
-                }
-            ]
+            "clip_length": 343
         },
         {
             "text": "Um, Bourbon. Are you a bit of an airhead, actually?",
             "name": "Honest Horsegirl",
             "path_id": 6032486489359253252,
             "block_id": 52,
-            "clip_length": 116,
-            "anim_data": [
-                {
-                    "orig_length": 272,
-                    "path_id": 663284724377794170
-                }
-            ]
+            "clip_length": 116
         },
         {
             "text": "My head is filled with gray matter only, not air.",
             "name": "Mihono Bourbon",
             "path_id": 1408034774874081145,
             "block_id": 53,
-            "clip_length": 128,
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 5132641971622913789
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": 2601852343284515007
-                }
-            ]
+            "clip_length": 128
         },
         {
             "text": "Yep! An airhead!",
             "name": "Honest Horsegirl",
             "path_id": 2407511753114649514,
             "block_id": 54,
-            "clip_length": 72,
-            "anim_data": [
-                {
-                    "orig_length": 83,
-                    "path_id": 6995621145969677669
-                }
-            ]
+            "clip_length": 72
         },
         {
             "text": "...They continued chatting for a while, \nunder the twinkling lights of the fireworks.",
             "name": "",
             "path_id": -7845657766577302643,
             "block_id": 55,
-            "clip_length": 84,
-            "anim_data": [
-                {
-                    "orig_length": 109,
-                    "path_id": -8784934940325559920
-                }
-            ]
+            "clip_length": 84
         },
         {
             "text": "The next day.",
             "name": "",
             "path_id": 864891670930271386,
             "block_id": 56,
-            "clip_length": 51,
-            "anim_data": [
-                {
-                    "orig_length": 20,
-                    "path_id": 7599346658257557807
-                },
-                {
-                    "orig_length": 73,
-                    "path_id": -660813011243665822
-                },
-                {
-                    "orig_length": 73,
-                    "path_id": 941929298058989360
-                }
-            ]
+            "clip_length": 51
         },
         {
             "text": "Hi Father. It's me, Mihono Bourbon. I'm calling \nto report on the completion of your orde—",
             "name": "Mihono Bourbon",
             "path_id": 6829756049796562811,
             "block_id": 57,
-            "clip_length": 241,
-            "anim_data": [
-                {
-                    "orig_length": 252,
-                    "path_id": -3469432684641360381
-                },
-                {
-                    "orig_length": 252,
-                    "path_id": -5173686742564726426
-                }
-            ]
+            "clip_length": 241
         },
         {
             "text": "No, sorry. This is a status report.",
             "name": "Mihono Bourbon",
             "path_id": 6942524991850244035,
             "block_id": 58,
-            "clip_length": 161,
-            "anim_data": [
-                {
-                    "orig_length": 172,
-                    "path_id": -3487901863607920834
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 386642556287968790
-                }
-            ]
+            "clip_length": 161
         },
         {
             "text": "I managed to make a friend.",
             "name": "Mihono Bourbon",
             "path_id": -1222494978675720204,
             "block_id": 59,
-            "clip_length": 135,
-            "anim_data": [
-                {
-                    "orig_length": 170,
-                    "path_id": -6621409221696404411
-                },
-                {
-                    "orig_length": 148,
-                    "path_id": 2629149799614360727
-                }
-            ]
+            "clip_length": 135
         }
     ],
     "title": "Update Complete"

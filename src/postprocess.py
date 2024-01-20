@@ -19,14 +19,18 @@ def add_nb_tag(text):
     return "<nb>" + text
 
 
-def scale_to_width(text, max_width):
+def scale_to_width(text, max_width, def_size=None):
     cur_width = util.get_text_width(text, FONT)
     if cur_width <= max_width:
         return text
     
+    if def_size:
+        scale_factor = math.floor(max_width / cur_width * def_size)
+        return f"<size={scale_factor}>{text}</size>"
+    
     scale_factor = math.floor(max_width / cur_width * 100)
-
     return f"<sc={scale_factor}>{text}"
+
 
 def scale_to_box(text, max_width, lines, line_spacing=1.00):
     # Find text scaling so it fits in a box with wrapping on spaces.
@@ -172,18 +176,52 @@ def fix_mdb():
         
         util.save_json(mdb_json_path, data)
 
+def _fix_story(story_data):
+    json_data, path = story_data
+    for block in json_data['data']:
+        # Process name
+        if block.get('name'):
+            proc_name = scale_to_width(block['name'], 12420)
+            if proc_name != block['name']:
+                block['name_processed'] = proc_name
+        
+        if block.get('choices'):
+            for choice in block['choices']:
+                # Process choice text
+                if choice.get('text'):
+                    proc_text = scale_to_width(choice['text'], 20150, 44)
+                    if proc_text != choice['text']:
+                        choice['processed'] = proc_text
+
+    util.save_json(path, json_data)
+
+
+def fix_stories(story_datas):
+    with Pool() as pool:
+        _ = list(util.tqdm(pool.imap_unordered(_fix_story, story_datas, chunksize=2), total=len(story_datas), desc="Postprocessing stories"))
+    # for story_data in tqdm(story_datas, desc="Postprocessing stories"):
+    #     _fix_story(story_data)
+
+def fix_assets():
+    asset_dict = util.get_assets_type_dict()
+    # fix_flash(asset_dict.get('flash', []))
+    # fix_textures(asset_dict.get('texture', []))
+    fix_stories(asset_dict.get('story', []))
+
 
 def do_postprocess():
     print("Postprocessing start")
 
     fix_mdb()
+    fix_assets()
 
     print("Postprocessing done")
 
 
 def main():
     do_postprocess()
-    # a = "Tomoyo Takayan"
+    # fix_assets()
+    # a = "(Why didn't I say anything back then.."
     # b = util.get_text_width(a, FONT)
     # print(b)
     # d = scale_to_box(a, 15800, 2)

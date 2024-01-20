@@ -1,0 +1,590 @@
+{
+    "type": "story",
+    "row_index": 205112,
+    "file_name": "story/data/04/1107/storytimeline_041107002",
+    "hash": "DBR4U36JVWHCUH5ZUQ25CTMOXGTMXNJK",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -7408087142170552550,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "After the Selection Race, one of the horsegirls, \nTap Dance City, came up to me. And now, she and I...",
+            "name": "",
+            "path_id": 23481559810601705,
+            "block_id": 1,
+            "clip_length": 99
+        },
+        {
+            "text": "...Are having a barbeque.",
+            "name": "",
+            "path_id": -5133546862132068235,
+            "block_id": 2,
+            "clip_length": 63,
+            "choices": [
+                {
+                    "text": "(How did I get here...?)",
+                    "hash": "0525244ad048d6bacc0a6478e42367a26cd2f8fb5b6a049a707ba36d559c1f16"
+                }
+            ]
+        },
+        {
+            "text": "She entered the race to find out if she could become \nthe \"world's greatest horsegirl.\" The result:",
+            "name": "",
+            "path_id": -2833552450189774269,
+            "block_id": 3,
+            "clip_length": 121
+        },
+        {
+            "text": "A pretty unremarkable 9th place...",
+            "name": "",
+            "path_id": 4606107872065140247,
+            "block_id": 4,
+            "clip_length": 64
+        },
+        {
+            "text": "Starting from the back and no stamina to back it up! \nShe really <i>did</i> use it all up by dancing before \nthe race even started, eh?",
+            "name": "Veteran Trainer B",
+            "path_id": -763292673063308832,
+            "block_id": 5,
+            "clip_length": 256
+        },
+        {
+            "text": "The experienced trainers criticized her to no end. I turned \na blind eye and wrote down her lap time off my stopwatch.",
+            "name": "",
+            "path_id": -7913070839553377951,
+            "block_id": 6,
+            "clip_length": 120
+        },
+        {
+            "text": "Ignoring her lack of stamina from dancing, she <i>did</i> have \na very bad start, and she never came back from that.",
+            "name": "",
+            "path_id": 4394976281824537083,
+            "block_id": 7,
+            "clip_length": 119
+        },
+        {
+            "text": "She ran using the \"betweener\" strategy until the end. \nHer time for the last 3 furlongs was 38.5s.",
+            "name": "",
+            "path_id": -7343785968738670259,
+            "block_id": 8,
+            "clip_length": 107
+        },
+        {
+            "text": "She didn't have the speed to come back with her last \nspurt... She'd need to shave off at least 1 more second.",
+            "name": "",
+            "path_id": 2721503890773521217,
+            "block_id": 9,
+            "clip_length": 116,
+            "choices": [
+                {
+                    "text": "Was betweener the right choice...?",
+                    "hash": "80e176fbb95f9d8346008af9c48482d0be669a61a99002f4d73aa18490040237"
+                }
+            ]
+        },
+        {
+            "text": "She'd do well to practice her starts, as well as switching \nto the leader or runner strategy. It didn't look like she \nhad trouble with pacing, after all.",
+            "name": "",
+            "path_id": 8440094835546411075,
+            "block_id": 10,
+            "clip_length": 125
+        },
+        {
+            "text": "Hmm? You got all that from <i>one</i> race?",
+            "name": "Tap Dance City",
+            "path_id": -7531080404024443814,
+            "block_id": 11,
+            "clip_length": 102,
+            "choices": [
+                {
+                    "text": "Wha—?!",
+                    "hash": "be23c531bdee868dc200b0db6ee58c91c64ca807fdbc56e35887c9d19fec6844"
+                }
+            ]
+        },
+        {
+            "text": "Her sudden whisper in my ear startled me, \nand I dropped my notebook.",
+            "name": "",
+            "path_id": -1775793087572389,
+            "block_id": 12,
+            "clip_length": 174
+        },
+        {
+            "text": "Hahaha! You sure get spooked easily! \n...So, this is why you said that...?*",
+            "name": "Tap Dance City",
+            "path_id": 4017689748923725962,
+            "block_id": 13,
+            "clip_length": 288
+        },
+        {
+            "text": "Hmm... \nYou like meat, my guy?",
+            "name": "Tap Dance City",
+            "path_id": 6470864596422254122,
+            "block_id": 14,
+            "clip_length": 225
+        },
+        {
+            "text": "Yo Tap, congrats on finding a trainer! When I saw you carry \nhim over your shoulder, I thought you'd kidnapped him!",
+            "name": "Horsegirl with a hairband",
+            "path_id": -789523420243987824,
+            "block_id": 15,
+            "clip_length": 319,
+            "name_processed": "<sc=92>Horsegirl with a hairband"
+        },
+        {
+            "text": "I'm so happy for you! We were worried \nyou'd never ever debut!",
+            "name": "Girl with brown-dyed hair",
+            "path_id": 5270606002964545568,
+            "block_id": 16,
+            "clip_length": 199,
+            "name_processed": "<sc=91>Girl with brown-dyed hair"
+        },
+        {
+            "text": "...She's getting a lot of praise here, but we never agreed \non anything. In fact, she pulled a bag over my head \nand carried me over here without my permission!",
+            "name": "",
+            "path_id": -3052263702841152472,
+            "block_id": 17,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "(However...)",
+                    "hash": "d69a597058a7fbae5450a472c856f7358b5fa8b4b9049923414e43b346428993"
+                }
+            ]
+        },
+        {
+            "text": "Congrats on getting a trainer, Tap!",
+            "name": "Tap's Friends",
+            "path_id": -6404858557248033275,
+            "block_id": 18,
+            "clip_length": 125,
+            "choices": [
+                {
+                    "text": "(It's too awkward to tell them...!)",
+                    "hash": "fe0edd36fc21cd61abdf4ec5675e4d41f46ab8ce4252c98898dc49215997764b"
+                }
+            ]
+        },
+        {
+            "text": "Ahaha! We haven't agreed on anything yet, though!",
+            "name": "Tap Dance City",
+            "path_id": -6343882642441131806,
+            "block_id": 19,
+            "clip_length": 141
+        },
+        {
+            "text": "Really?!",
+            "name": "Girl with pigtails",
+            "path_id": 31078106860029501,
+            "block_id": 20,
+            "clip_length": 45
+        },
+        {
+            "text": "I'm only just getting started showing them what I'm \nmade of! My race today was absolutely dreadful!",
+            "name": "Tap Dance City",
+            "path_id": 7662933673239237735,
+            "block_id": 21,
+            "clip_length": 299
+        },
+        {
+            "text": "Hey, do you wanna make your scribbles into a reality?",
+            "name": "Tap Dance City",
+            "path_id": -109246240876594447,
+            "block_id": 22,
+            "clip_length": 148,
+            "choices": [
+                {
+                    "text": "Hey, my notebook!",
+                    "hash": "4a2def26af8c737afa25d1cafede8bd4ff4379b99527fb74b37a78dba31a0caa"
+                },
+                {
+                    "text": "Hey, my notebook!",
+                    "hash": "24bb838c5496db4c66e4449f33200d6a53f6416d53d9ff04d47e7046c36e02d7"
+                }
+            ]
+        },
+        {
+            "text": "It was a great read! It's detailed like a ship's log! \nYou could overcome the stormiest seas with this!",
+            "name": "Tap Dance City",
+            "path_id": -7292617410183692840,
+            "block_id": 23,
+            "clip_length": 288
+        },
+        {
+            "text": "Ah, such wonderful strategies! And I'm going to \nbring them to fruition! How about it?",
+            "name": "Tap Dance City",
+            "path_id": -3871111145726957428,
+            "block_id": 24,
+            "clip_length": 293,
+            "choices": [
+                {
+                    "text": "...!",
+                    "hash": "7066d1b756eb1ed18f51a2e54916778009685fc50380e7de09417b77f21e6307"
+                }
+            ]
+        },
+        {
+            "text": "What a request. Who'd expect that to come from the \ngirl who placed 9th at the Selection Race...? But...",
+            "name": "",
+            "path_id": 2411614106275360423,
+            "block_id": 25,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "...I trust your words.",
+                    "hash": "1eb7d7954a1200a5cbf6cbd940545cd3635396727d4bc8745f5ca49f26add780"
+                },
+                {
+                    "text": "...I trust your words.",
+                    "hash": "6560b97cccd115daff2c4aa81234e3103be3d14db908a7e6e693605a03831b55"
+                }
+            ]
+        },
+        {
+            "text": "<i>The show must go on... right?</i> Help me get rid of \nmy bad rap from the Selection Race, okay?",
+            "name": "Tap Dance City",
+            "path_id": 1327546283306394884,
+            "block_id": 26,
+            "clip_length": 212
+        },
+        {
+            "text": "...I couldn't help it. She just radiates confidence.",
+            "name": "",
+            "path_id": 6835827001224822089,
+            "block_id": 27,
+            "clip_length": 82
+        },
+        {
+            "text": "After wrapping up the barbeque, \nshe took me to her \"play area.\"",
+            "name": "",
+            "path_id": 6343995993516205282,
+            "block_id": 28,
+            "clip_length": 94
+        },
+        {
+            "text": "Let's see... According to your notes, I suck at the \nfinal spurt. A frontrunning strategy is a must, then!",
+            "name": "Tap Dance City",
+            "path_id": -2186823493946767409,
+            "block_id": 29,
+            "clip_length": 298,
+            "choices": [
+                {
+                    "text": "Hold it! I wanna see you run one more time.",
+                    "hash": "e05a1f7785b3f16a8014804fa777d7872084231a62e6b576022deb274081f79b",
+                    "processed": "<size=38>Hold it! I wanna see you run one more time.</size>"
+                },
+                {
+                    "text": "Hold it! I wanna see you run one more time.",
+                    "hash": "3f3e460fe4009199fe4d806a73dacdd194e3f3e5367d9d770aea87b7fc9e1be2",
+                    "processed": "<size=38>Hold it! I wanna see you run one more time.</size>"
+                }
+            ]
+        },
+        {
+            "text": "I want to make sure that her 9th place really was due to \nher bad last spurt, or simply because of a lack of stamina.",
+            "name": "",
+            "path_id": 6416384572123950513,
+            "block_id": 30,
+            "clip_length": 135,
+            "choices": [
+                {
+                    "text": "(Does she have what it takes to be a runner?)",
+                    "hash": "bc851539e2113651f0d2ad15632f1c3572c4df3af8530b411110cedc369faa08",
+                    "processed": "<size=36>(Does she have what it takes to be a runner?)</size>"
+                }
+            ]
+        },
+        {
+            "text": "*huff* Haha! Hup! \nSo this is what is's like to be a true... runner!",
+            "name": "Tap Dance City",
+            "path_id": 4259299455260982658,
+            "block_id": 31,
+            "clip_length": 278,
+            "choices": [
+                {
+                    "text": "1600m! And she's not slowing!",
+                    "hash": "1dbb46a4118dc8b638f491029dab589156e02230fd1128092d08c8c0617d8353"
+                }
+            ]
+        },
+        {
+            "text": "Haha! And? \nDid I meet your expectations?",
+            "name": "Tap Dance City",
+            "path_id": -3498184540957539008,
+            "block_id": 32,
+            "clip_length": 170,
+            "choices": [
+                {
+                    "text": "Can you shave off another 0.5s?",
+                    "hash": "a6f7ffbce34f47b4794268b7a6d61e1fc52190a1e72a282437bd5530757dc7b3"
+                },
+                {
+                    "text": "Can you shave off another 0.5s?",
+                    "hash": "c62c67da3c079854a9f917e8915cb21fd297a6b60dbd66077db2028e4da0dfdc"
+                }
+            ]
+        },
+        {
+            "text": "What?! ...Gosh, talk about strict. \nWell okay, let's do this!",
+            "name": "Tap Dance City",
+            "path_id": -3578199001515959008,
+            "block_id": 33,
+            "clip_length": 240
+        },
+        {
+            "text": "I'm using my stopwatch to time her. She already \nmade up 0.59s. It looks like my intuition was spot on.",
+            "name": "",
+            "path_id": 7698522060337120300,
+            "block_id": 34,
+            "clip_length": 116
+        },
+        {
+            "text": "*pant* *pant* Ahhh... Yo, Trainer! You'd better \nhave written \"passes as runner with flying colors!\"",
+            "name": "Tap Dance City",
+            "path_id": -1864502908901821684,
+            "block_id": 35,
+            "clip_length": 426
+        },
+        {
+            "text": "It does look like she's got the qualities for it. \nI think she might be able to follow my race schedule \nas well as my training routine...",
+            "name": "",
+            "path_id": 3664340428051212054,
+            "block_id": 36,
+            "clip_length": 114
+        },
+        {
+            "text": "I'm gonna do a warm-up. \nTap, wanna run like... 2000m with me?",
+            "name": "Horsegirl with sunglasses",
+            "path_id": -5195049418424019707,
+            "block_id": 37,
+            "clip_length": 193,
+            "choices": [
+                {
+                    "text": "Hmm? You're gonna run with her?",
+                    "hash": "5985590def525964e47156aec753b7dd469861cd73b1ebba603524a9cf6f75e0"
+                }
+            ],
+            "name_processed": "<sc=90>Horsegirl with sunglasses"
+        },
+        {
+            "text": "<i>No.</i> Not just running, we're racing! Your plan \nneeds opponents, right? This is the perfect opportunity!",
+            "name": "Tap Dance City",
+            "path_id": -6470290656881615602,
+            "block_id": 38,
+            "clip_length": 248
+        },
+        {
+            "text": "There's two more gals who declined offers from Tracen \nwho'll join in. How's that sound?",
+            "name": "Tap Dance City",
+            "path_id": 2631608156124486676,
+            "block_id": 39,
+            "clip_length": 300,
+            "choices": [
+                {
+                    "text": "I'm not too sure about this...",
+                    "hash": "b8f6ab9a7f692cb96850633f792e36fbc6b5f335d1da4b5d3f81ef2594a2ef94"
+                },
+                {
+                    "text": "I'm not too sure about this...",
+                    "hash": "eacbb7d4c0cfabea9b810c3792a765f5c286654065735bdfb1a6a3fe69512420"
+                }
+            ]
+        },
+        {
+            "text": "<i>Oh!</i> Where'd that confidence go? \nAnd you said I could win with your strategy?",
+            "name": "Tap Dance City",
+            "path_id": -8306430522569928457,
+            "block_id": 40,
+            "clip_length": 182,
+            "choices": [
+                {
+                    "text": "I just... Haven't got enough data yet.",
+                    "hash": "db62a3367475bfb7404edd1dd1fb7c06371b18dd4861b9d345867c6c762b6e36"
+                }
+            ]
+        },
+        {
+            "text": "No race is the same. You need to thorougly understand \nthe situation and your opponents. There is no one \nperfect strategy that always guarantees a win.",
+            "name": "",
+            "path_id": 5590086459044597517,
+            "block_id": 41,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "I don't even have all the data on you yet.",
+                    "hash": "64b483f285361d2577e9bebe4ac161c9d111adf16fbb708c718882f9478b4a38",
+                    "processed": "<size=40>I don't even have all the data on you yet.</size>"
+                },
+                {
+                    "text": "I don't even have all the data on you yet.",
+                    "hash": "10a17f396172ae8b0ec78abdeb12d35ffc45bc4dbcb12b7a8aa1464322b1c355",
+                    "processed": "<size=40>I don't even have all the data on you yet.</size>"
+                }
+            ]
+        },
+        {
+            "text": "...You're saying you need more time? \nOh man, and I thought I did so well just now.",
+            "name": "Tap Dance City",
+            "path_id": 1265903705112194674,
+            "block_id": 42,
+            "clip_length": 304
+        },
+        {
+            "text": "Ahaha! Too bad, Tap! \nWe'll call it off for now. Let's move it to...",
+            "name": "Horsegirl with a hairband",
+            "path_id": -8138388036375733568,
+            "block_id": 43,
+            "clip_length": 295,
+            "choices": [
+                {
+                    "text": "I'd like to get your times as well at some point.",
+                    "hash": "547238b5c4dd841f37fed9fb82bc001dffdf5620518dd0ca3ce03f36dc82e51e",
+                    "processed": "<size=35>I'd like to get your times as well at some point.</size>"
+                },
+                {
+                    "text": "I'd like to get your times as well at some point.",
+                    "hash": "df9095b9580edc1108a351946ef97205a592f3130c664dce915393d450a094e0",
+                    "processed": "<size=35>I'd like to get your times as well at some point.</size>"
+                }
+            ],
+            "name_processed": "<sc=92>Horsegirl with a hairband"
+        },
+        {
+            "text": "Oh, woah! ...Okaaay.",
+            "name": "Horsegirl with a hairband",
+            "path_id": -8859811170251562176,
+            "block_id": 44,
+            "clip_length": 198,
+            "name_processed": "<sc=92>Horsegirl with a hairband"
+        },
+        {
+            "text": "Ah! I'm finished! Let's stop here...",
+            "name": "Horsegirl with a hairband",
+            "path_id": 3050056603982063529,
+            "block_id": 45,
+            "clip_length": 215,
+            "name_processed": "<sc=92>Horsegirl with a hairband"
+        },
+        {
+            "text": "*huff* ...And, data maniac? Surely you've got \nenough measurements by now...!",
+            "name": "Tap Dance City",
+            "path_id": -3535616420754413300,
+            "block_id": 46,
+            "clip_length": 252
+        },
+        {
+            "text": "I feel like I might as well go for \"Great Escape\" at this point! \nI wish to be like the Japan Cup's Ace!",
+            "name": "Tap Dance City",
+            "path_id": -4950681005148653102,
+            "block_id": 47,
+            "clip_length": 260,
+            "choices": [
+                {
+                    "text": "You mean Katsuragi Ace?",
+                    "hash": "d11bd66939cb8effc4f0bd7eaf891bac5bac1aca52957ab6bb1889463385e4c3"
+                }
+            ]
+        },
+        {
+            "text": "Yeah! Ace was the strongest <i>challenger</i> on the track! \nLeading the entire world! She's unlike anyone!",
+            "name": "Tap Dance City",
+            "path_id": -544948713972210829,
+            "block_id": 48,
+            "clip_length": 333
+        },
+        {
+            "text": "Even when it seemed like she was gonna get overtaken, \nshe held strong and persevered! You get my drift? \nShe's legendary!",
+            "name": "Tap Dance City",
+            "path_id": -1698175152355735030,
+            "block_id": 49,
+            "clip_length": 302,
+            "choices": [
+                {
+                    "text": "...It's like a grand adventure.",
+                    "hash": "2422b034f4057b5cc5d43678016fe4a17e60ca6c23671da168e5bd3019fd5f88"
+                },
+                {
+                    "text": "...It's like a grand adventure.",
+                    "hash": "f14570571809529a49b9a8fd5a623baaf1e7c5cecda3b91f0ffe1b8c75700e7a"
+                }
+            ]
+        },
+        {
+            "text": "Yes, that's why she captured me! I came all the way from \nAmerica because of her, all by myself!",
+            "name": "Tap Dance City",
+            "path_id": 4847711824215437196,
+            "block_id": 50,
+            "clip_length": 321,
+            "choices": [
+                {
+                    "text": "You came to Japan by yourself...?!",
+                    "hash": "17669d3f79327c6da9d6039f32a85b3bfa2bfacfc8fcd83e357e97165b22debd"
+                }
+            ]
+        },
+        {
+            "text": "Tap's incredible for entering Tracen! She was a nobody \nand knew nobody. But that's Tap for you!",
+            "name": "Girl with brown-dyed hair",
+            "path_id": 3401495739459988193,
+            "block_id": 51,
+            "clip_length": 327,
+            "name_processed": "<sc=91>Girl with brown-dyed hair"
+        },
+        {
+            "text": "Things always work out in the end! I want to live life \n<i>my</i> way! Working and playing in freedom!",
+            "name": "Tap Dance City",
+            "path_id": -3550382782615164991,
+            "block_id": 52,
+            "clip_length": 263
+        },
+        {
+            "text": "...That way, I'll end up with a castle where me \nand my friends can play until we're grannies!",
+            "name": "Tap Dance City",
+            "path_id": 7988249344975953870,
+            "block_id": 53,
+            "clip_length": 244,
+            "choices": [
+                {
+                    "text": "A castle...?",
+                    "hash": "9a4190c9868d375bd34ee44e329bd426611fae62820e3ca3e4317b01d9ded0f5"
+                }
+            ]
+        },
+        {
+            "text": "That's right. When I first met her at the riverside, \nshe proclaimed her dream of building a castle.",
+            "name": "",
+            "path_id": 692357751235652968,
+            "block_id": 54,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "Your dream is to build that castle?",
+                    "hash": "450b4f12ae26525be9307f83fcc2772a3b45e555772e4ff0151230cd75420d18"
+                },
+                {
+                    "text": "Your dream is to build that castle?",
+                    "hash": "891b81f5fac5ef05d58bc65a61504c195b3e07cc4bb85519bba991eb3151ec6e"
+                }
+            ]
+        },
+        {
+            "text": "Yeah!",
+            "name": "Tap Dance City",
+            "path_id": 8425081070467569931,
+            "block_id": 55,
+            "clip_length": 57
+        },
+        {
+            "text": "And I'll gather the funds... Through winning races.",
+            "name": "Tap Dance City",
+            "path_id": 6122959826705747849,
+            "block_id": 56,
+            "clip_length": 147
+        }
+    ],
+    "title": "Cramp Rolls"
+}
