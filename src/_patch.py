@@ -354,32 +354,30 @@ def _import_story(story_data):
     # org_typewritespeed = tree['TypewriteCountPerSecond']
     tree['TypewriteCountPerSecond'] *= 3
 
-    for new_block in story_data['data']:
-        block_data = tree['BlockList'][new_block['block_id']]
-        text_block = root.assets_file.files[new_block['path_id']]
-        text_block_data = text_block.read_typetree()
+    for new_clip in story_data['data']:
+        block_data = tree['BlockList'][new_clip['block_id']]
+        text_clip = root.assets_file.files[new_clip['path_id']]
+        text_clip_data = text_clip.read_typetree()
 
-        text_block_data['Text'] = new_block.get('processed') or new_block['text']
-        text_block_data['Name'] = new_block.get('name_processed') or new_block['name']
-
-        if new_block.get('clip_length'):
-            text_block_data['ClipLength'] = new_block['clip_length']
+        text_clip_data['Text'] = new_clip.get('processed') or new_clip['text']
+        text_clip_data['Name'] = new_clip.get('name_processed') or new_clip['name']
         
-        if new_block.get('choices'):
-            for i, choice in enumerate(text_block_data['ChoiceDataList']):
-                choice_data = new_block['choices'][i]
+        if new_clip.get('choices'):
+            for i, choice in enumerate(text_clip_data['ChoiceDataList']):
+                choice_data = new_clip['choices'][i]
                 choice['Text'] = choice_data.get('processed') or choice_data['text']
         
-        org_clip_length = text_block_data['ClipLength']
-        new_clip_length = new_block['clip_length']
+        org_clip_length = text_clip_data['ClipLength']
+        new_clip_length = new_clip['clip_length']
 
         if org_clip_length == new_clip_length:
-            txt_len = len(new_block['text'])
-            new_clip_length = int(text_block_data['WaitFrame'] + max(txt_len, text_block_data['VoiceLength']))
+            txt_len = len(new_clip['text'])
+            new_clip_length = int(text_clip_data['WaitFrame'] + max(txt_len, text_clip_data['VoiceLength']))
         
         if new_clip_length > org_clip_length:
-            text_block_data['ClipLength'] = new_clip_length
-            new_block_length = new_clip_length + text_block_data['StartFrame'] + 1
+            text_clip_data['ClipLength'] = new_clip_length
+            # old_block_length = block_data['BlockLength']
+            new_block_length = new_clip_length + text_clip_data['StartFrame'] + 1
             block_data['BlockLength'] = new_block_length
 
             # Adjust anim lengths
@@ -411,8 +409,9 @@ def _import_story(story_data):
                 clip_tree['ClipLength'] = tmp_clip_length
                 clip_asset.save_typetree(clip_tree)
 
-        text_block.save_typetree(text_block_data)
+        text_clip.save_typetree(text_clip_data)
 
+    tree['Length'] = sum([block_data['BlockLength'] for block_data in tree['BlockList']])
     root.save_typetree(tree)
 
     with open(bundle_path, "wb") as f:

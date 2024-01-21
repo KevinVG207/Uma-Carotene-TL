@@ -28,12 +28,12 @@
             "processed": "<story>(I'm sick of hearing that. \n<story>I'm just going to Japan, that's all.)"
         },
         {
-            "text": "\"You might regret this, Tap. Chasing your 'dreams' to Japan? Come on, \nwe're not kids anymore. You don't have any friends over there, either!\"",
+            "text": "\"You might regret this, Tap. Chasing your 'dreams' to Japan? \nCome on, we're not kids anymore. \nYou don't have any friends over there, either!\"",
             "name": "American Friend",
             "path_id": 7980557503722633101,
             "block_id": 3,
             "clip_length": 299,
-            "processed": "<story>\"You might regret this, Tap. Chasing your 'dreams' to Japan? Come on, \n<story>we're not kids anymore. You don't have any friends over there, either!\""
+            "processed": "<story>\"You might regret this, Tap. Chasing your 'dreams' to Japan? \n<story>Come on, we're not kids anymore. \n<story>You don't have any friends over there, either!\""
         },
         {
             "text": "(I'm not giving up on my dreams. \nThere's no chance I'll ever give up this adventure!)",
@@ -156,12 +156,12 @@
             "processed": "<story>... Tap!"
         },
         {
-            "text": "<i>But!</i> You have to be famous to enter them, right? \nThen I'll become a <i>record breaker</i>! \nI'll make everyone go wild!",
+            "text": "<i>But!</i> You have to be famous to enter them, right? \nThen I'll become a <i>record breaker!</i> \nI'll make everyone go wild!",
             "name": "Tap Dance City",
             "path_id": -8032022259092641052,
             "block_id": 19,
             "clip_length": 388,
-            "processed": "<story><i>But!</i> You have to be famous to enter them, right? \n<story>Then I'll become a <i>record breaker</i>! \n<story>I'll make everyone go wild!"
+            "processed": "<story><i>But!</i> You have to be famous to enter them, right? \n<story>Then I'll become a <i>record breaker!</i> \n<story>I'll make everyone go wild!"
         },
         {
             "text": "I'll become someone the likes of which the world has never seen! \nI'll help myself to records, popularity and above all: Adventure!",
@@ -242,7 +242,7 @@
             "processed": "<story>...!"
         },
         {
-            "text": "And you, Trainer, let's make a killing! \nAnd we'll make your dream come true while we're at it!",
+            "text": "You, Trainer, let's make a killing! \nAnd we'll make your dream come true while we're at it!",
             "name": "Tap Dance City",
             "path_id": 1204648699507098966,
             "block_id": 29,
@@ -257,7 +257,7 @@
                     "hash": "69552e66740b0a71f98854d2b653a074d12d0bb13cc25c5d5f406c04fb7af1f6"
                 }
             ],
-            "processed": "<story>And you, Trainer, let's make a killing! \n<story>And we'll make your dream come true while we're at it!"
+            "processed": "<story>You, Trainer, let's make a killing! \n<story>And we'll make your dream come true while we're at it!"
         },
         {
             "text": "Don't you think your goals are a bit of a stretch? \nNot only mastering the G1 class, but even a record \nand going overseas, too...?",
@@ -275,14 +275,14 @@
             "clip_length": 115,
             "choices": [
                 {
-                    "text": "You sure act like you're already there.",
+                    "text": "You make it sound like you're already there.",
                     "hash": "158248b3699d5ff9e73a6710e30e830491836e6ef6df6bbe29bc941f198cb97b",
-                    "processed": "<size=43>You sure act like you're already there.</size>"
+                    "processed": "<size=37>You make it sound like you're already there.</size>"
                 },
                 {
-                    "text": "You sure act like you're already there.",
+                    "text": "You make it sound like you're already there.",
                     "hash": "17cf1bc4761db3372cef42d09a1666239c030443babe8515835eb67f76c7cd19",
-                    "processed": "<size=43>You sure act like you're already there.</size>"
+                    "processed": "<size=37>You make it sound like you're already there.</size>"
                 }
             ],
             "processed": "<story>I firmly grasp the hand that's right in front of me. The hand \n<story>of the horsegirl who said she'd make my dream come true. \n<story>The dream I was told was impossible."
@@ -304,15 +304,15 @@
             "processed": "<story>This is beyond reckless. But her confident smile... \n<story>She might really be suited to become the ruler of the races."
         },
         {
-            "text": "A few days later. Tap Dance City is about to do a mock race with fellow \nclassmates and upperclassmen in the lead-up to her debut.",
+            "text": "A few days later. Tap Dance City is about to do a mock race \nwith fellow classmates and upperclassmen \nin the lead-up to her debut.",
             "name": "",
             "path_id": -2647372198554931236,
             "block_id": 34,
             "clip_length": 115,
-            "processed": "<story>A few days later. Tap Dance City is about to do a mock race with fellow \n<story>classmates and upperclassmen in the lead-up to her debut."
+            "processed": "<story>A few days later. Tap Dance City is about to do a mock race \n<story>with fellow classmates and upperclassmen \n<story>in the lead-up to her debut."
         },
         {
-            "text": "Argh! 5th pace again! How many times in a row is that? \nI thought it'd be a piece of cake with your strategy!",
+            "text": "Argh! 5th place again! How many times in a row is that? \nI thought it'd be a piece of cake with your strategy!",
             "name": "Tap Dance City",
             "path_id": -5740280787064458418,
             "block_id": 35,
@@ -323,7 +323,7 @@
                     "hash": "968ddead250e19249e4ccc669bd8eed64bf7eedcd3ef7776a7d526db7c5152dd"
                 }
             ],
-            "processed": "<story>Argh! 5th pace again! How many times in a row is that? \n<story>I thought it'd be a piece of cake with your strategy!"
+            "processed": "<story>Argh! 5th place again! How many times in a row is that? \n<story>I thought it'd be a piece of cake with your strategy!"
         },
         {
             "text": "We've been working together, but the only races she's won so far \nare the ones with her friends. We're still lacking in both \npower and strategy for the Twinkle Series.",
@@ -422,12 +422,12 @@
             "processed": "<story>... Are we really seein' the same thing, with comments like that?"
         },
         {
-            "text": "(She's gaining experience racing against those stronger than her, \nand she's improving abnormally fast. She's may already \nbe ready for the Derby right now...)",
+            "text": "(She's gaining experience racing against those stronger than her, \nand she's improving abnormally fast. She's may already be ready \nfor the Derby right now...)",
             "name": "Air Shakur",
             "path_id": -800715904929427023,
             "block_id": 44,
             "clip_length": 412,
-            "processed": "<story>(She's gaining experience racing against those stronger than her, \n<story>and she's improving abnormally fast. She's may already \n<story>be ready for the Derby right now...)"
+            "processed": "<story>(She's gaining experience racing against those stronger than her, \n<story>and she's improving abnormally fast. She's may already be ready \n<story>for the Derby right now...)"
         },
         {
             "text": "... \nTap Dance City, Classic Races, Derb――",
@@ -454,12 +454,12 @@
             "processed": "<story>――A single encounter may be able to change fate."
         },
         {
-            "text": "Tap Dance City's decision to come to Japan was caused by Katsuragi Ace. \nThen, she met new friends in Japan and developed her dream of building a castle.",
+            "text": "Tap Dance City's decision to come to Japan was caused \nby Katsuragi Ace. Then, she met new friends in Japan \nand developed her dream of building a castle.",
             "name": "",
             "path_id": 811449039000989123,
             "block_id": 48,
             "clip_length": 124,
-            "processed": "<story>Tap Dance City's decision to come to Japan was caused by Katsuragi Ace. \n<story>Then, she met new friends in Japan and developed her dream of building a castle."
+            "processed": "<story>Tap Dance City's decision to come to Japan was caused \n<story>by Katsuragi Ace. Then, she met new friends in Japan \n<story>and developed her dream of building a castle."
         },
         {
             "text": "Every encounter just like that, shifts fate in a new direction.",
