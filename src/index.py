@@ -159,7 +159,7 @@ def load_asset_data(row_metadata):
                         choice_item = {
                             "text": "",
                             "source": choice['Text'],
-                            # "source_hash": hashlib.sha256(str(choice['Text']).encode("utf-8")).hexdigest(),
+                            "hash": hashlib.sha256(str(choice['Text']).encode("utf-8")).hexdigest(),
                         }
                         clip_item["choices"].append(choice_item)
                 
@@ -169,7 +169,7 @@ def load_asset_data(row_metadata):
                         color_item = {
                             "text": "",
                             "source": color_info['Text'],
-                            # "source_hash": hashlib.sha256(str(color_info['Text']).encode("utf-8")).hexdigest(),
+                            "hash": hashlib.sha256(str(color_info['Text']).encode("utf-8")).hexdigest(),
                         }
                         clip_item["color_info"].append(color_item)
 
@@ -264,8 +264,14 @@ def update_story_intermediate(path_to_existing):
             continue
 
         if line['text'] or line['name']:
-            for key, value in line.items():
-                intermediate_data['data'][i][key] = value
+            intermediate_data['data'][i]['text'] = line['text']
+            intermediate_data['data'][i]['name'] = line['name']
+            intermediate_data['data'][i]['clip_length'] = line['clip_length']
+            if 'choices' in line:
+                for j, choice in enumerate(line['choices']):
+                    intermediate_data['data'][i]['choices'][j]['text'] = choice['text']
+            # for key, value in line.items():
+            #     intermediate_data['data'][i][key] = value
     with open(intermediate_path, "w", encoding="utf-8") as f:
         f.write(util.json.dumps(intermediate_data, indent=4, ensure_ascii=False))
 

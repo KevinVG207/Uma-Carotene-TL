@@ -20,7 +20,9 @@ def add_nb_tag(text):
 
 
 def scale_to_width(text, max_width, def_size=None):
-    cur_width = util.get_text_width(text, FONT)
+    tmp_text = util.filter_tags(text)
+
+    cur_width = util.get_text_width(tmp_text, FONT)
     if cur_width <= max_width:
         return text
     
@@ -34,6 +36,8 @@ def scale_to_width(text, max_width, def_size=None):
 
 def scale_to_box(text, max_width, lines, line_spacing=1.00):
     # Find text scaling so it fits in a box with wrapping on spaces.
+    # TODO: Find a way to handle tags.
+
     global FONT
     line_height = 1000 * line_spacing
     max_height = line_height * lines
@@ -179,8 +183,16 @@ def fix_mdb():
 def _fix_story(story_data):
     json_data, path = story_data
     for block in json_data['data']:
+        # Add story tags
+        if block.get('text'):
+            tmp_text = block['text']
+            tmp_text = '<story>' + tmp_text.replace("\n", "\n<story>")
+            block['processed'] = tmp_text
+
         # Process name
         if block.get('name'):
+            if block.get('name_processed'):
+                del block['name_processed']
             proc_name = scale_to_width(block['name'], 12420)
             if proc_name != block['name']:
                 block['name_processed'] = proc_name
@@ -188,6 +200,9 @@ def _fix_story(story_data):
         if block.get('choices'):
             for choice in block['choices']:
                 # Process choice text
+                if choice.get('processed'):
+                    del choice['processed']
+
                 if choice.get('text'):
                     proc_text = scale_to_width(choice['text'], 20150, 44)
                     if proc_text != choice['text']:

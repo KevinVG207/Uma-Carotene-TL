@@ -16,14 +16,16 @@
             "name": "",
             "path_id": 3843479204225040729,
             "block_id": 1,
-            "clip_length": 90
+            "clip_length": 90,
+            "processed": "<story>Today is a day off, the perfect time to head to the local \n<story>shopping mall for some grocery shopping. Except..."
         },
         {
             "text": "......",
             "name": "Mihono Bourbon",
             "path_id": 5534012546198892142,
             "block_id": 2,
-            "clip_length": 49
+            "clip_length": 49,
+            "processed": "<story>......"
         },
         {
             "text": "I found Mihono Bourbon standing motionless \nin front of the arcade inside the mall.",
@@ -40,42 +42,48 @@
                     "text": "What are you up to, Bourbon?",
                     "hash": "e1b980428a056099cccd4c0e0111a0989a397bd7a006e5ea416689d152a1981c"
                 }
-            ]
+            ],
+            "processed": "<story>I found Mihono Bourbon standing motionless \n<story>in front of the arcade inside the mall."
         },
         {
             "text": "I went to investigate the arcade in an attempt to \nimprove my social skills. But I'm hesitant to enter...",
             "name": "Mihono Bourbon",
             "path_id": -7318668523539117418,
             "block_id": 4,
-            "clip_length": 222
+            "clip_length": 222,
+            "processed": "<story>I went to investigate the arcade in an attempt to \n<story>improve my social skills. But I'm hesitant to enter..."
         },
         {
             "text": "I asked her for more details, and she explained that she \nwanted to master a social skill known as 'small talk' at \nthis arcade, which is popular among her classmates.",
             "name": "",
             "path_id": -7324187033688529716,
             "block_id": 5,
-            "clip_length": 121
+            "clip_length": 121,
+            "processed": "<story>I asked her for more details, and she explained that she \n<story>wanted to master a social skill known as 'small talk' at \n<story>this arcade, which is popular among her classmates."
         },
         {
             "text": "Seeing the size of those arcade machines triggered my \nrisk management system. There is a high risk of the \nmachines breaking if I were to touch them.",
             "name": "Mihono Bourbon",
             "path_id": 7125384446818555612,
             "block_id": 6,
-            "clip_length": 310
+            "clip_length": 310,
+            "processed": "<story>Seeing the size of those arcade machines triggered my \n<story>risk management system. There is a high risk of the \n<story>machines breaking if I were to touch them."
         },
         {
             "text": "So she's afraid of breaking the machines. \nIn that case...",
             "name": "",
             "path_id": 2981722999581768379,
             "block_id": 7,
-            "clip_length": 95
+            "clip_length": 95,
+            "processed": "<story>So she's afraid of breaking the machines. \n<story>In that case..."
         },
         {
             "text": "I appreciate your help with my observation.",
             "name": "Mihono Bourbon",
             "path_id": -7235594217440756502,
             "block_id": 8,
-            "clip_length": 122
+            "clip_length": 122,
+            "processed": "<story>I appreciate your help with my observation."
         },
         {
             "text": "I decided to help her out by playing the games for her, \nso she could observe in peace.",
@@ -88,21 +96,24 @@
                     "text": "Let's just enjoy ourselves today!",
                     "hash": "319d4569509865ca7a1c43cb784f680df652f32ed78fbf8e3c7000208a4d6e40"
                 }
-            ]
+            ],
+            "processed": "<story>I decided to help her out by playing the games for her, \n<story>so she could observe in peace."
         },
         {
             "text": "Order accepted. Starting 'enjoy ourselves' procedure.",
             "name": "Mihono Bourbon",
             "path_id": 5771767165413063713,
             "block_id": 10,
-            "clip_length": 148
+            "clip_length": 148,
+            "processed": "<story>Order accepted. Starting 'enjoy ourselves' procedure."
         },
         {
             "text": "And thus started her observation.",
             "name": "",
             "path_id": 4370077288570412127,
             "block_id": 11,
-            "clip_length": 76
+            "clip_length": 76,
+            "processed": "<story>And thus started her observation."
         },
         {
             "text": "Rock, paper, scissors! \nYou lose!",
@@ -110,6 +121,7 @@
             "path_id": 2823545980465013102,
             "block_id": 12,
             "clip_length": 127,
+            "processed": "<story>Rock, paper, scissors! \n<story>You lose!",
             "name_processed": "<sc=79>Rock Paper Scissors Machine"
         },
         {
@@ -117,49 +129,56 @@
             "name": "Mihono Bourbon",
             "path_id": -5969179680835774839,
             "block_id": 13,
-            "clip_length": 328
+            "clip_length": 328,
+            "processed": "<story>1 win, 9 losses. I detect a sudden negative change in your \n<story>mood, Master. Sweet foods have a relaxing effect. \n<story>How about getting some ice cream?"
         },
         {
             "text": "Ding-ding-ding! You win the jackpot!",
             "name": "Slot Machine",
             "path_id": -7076279866578427715,
             "block_id": 14,
-            "clip_length": 171
+            "clip_length": 171,
+            "processed": "<story>Ding-ding-ding! You win the jackpot!"
         },
         {
             "text": "I detect a huge output of coins from the machine. \nDid it break?",
             "name": "Mihono Bourbon",
             "path_id": -4425341330800890603,
             "block_id": 15,
-            "clip_length": 134
+            "clip_length": 134,
+            "processed": "<story>I detect a huge output of coins from the machine. \n<story>Did it break?"
         },
         {
             "text": "16,000 points! Hooray, you sent the monster flying!",
             "name": "Boxing Machine",
             "path_id": 31962252321171982,
             "block_id": 16,
-            "clip_length": 149
+            "clip_length": 149,
+            "processed": "<story>16,000 points! Hooray, you sent the monster flying!"
         },
         {
             "text": "Determining Master's punching strength as 16,000. \nI am trying to log the value, but what unit of \nmeasurement is this?",
             "name": "Mihono Bourbon",
             "path_id": -9176216740182646923,
             "block_id": 17,
-            "clip_length": 237
+            "clip_length": 237,
+            "processed": "<story>Determining Master's punching strength as 16,000. \n<story>I am trying to log the value, but what unit of \n<story>measurement is this?"
         },
         {
             "text": "Even though she was still a bit disconnected, \nshe was still satisfied at the end of the day.",
             "name": "",
             "path_id": -4932732502235295321,
             "block_id": 18,
-            "clip_length": 99
+            "clip_length": 99,
+            "processed": "<story>Even though she was still a bit disconnected, \n<story>she was still satisfied at the end of the day."
         },
         {
             "text": "Yet, I couldn't call it a day without having <i>her</i> \ntry at least one game.",
             "name": "",
             "path_id": -8582462501332091003,
             "block_id": 19,
-            "clip_length": 108
+            "clip_length": 108,
+            "processed": "<story>Yet, I couldn't call it a day without having <i>her</i> \n<story>try at least one game."
         },
         {
             "text": "You want me to use the claw machine with you? \nSadly, I will not touch it. It might break if I do.",
@@ -176,126 +195,144 @@
                     "text": "<i>I</i> will use the buttons.",
                     "hash": "0dbf23c17e425de6fa5ce4326756d2df776dc6ed0f9f012fce3d886271442b38"
                 }
-            ]
+            ],
+            "processed": "<story>You want me to use the claw machine with you? \n<story>Sadly, I will not touch it. It might break if I do."
         },
         {
             "text": "I told her to look at the claw from the side of the \nmachine and give me instructions. She gave me \nan understanding nod.",
             "name": "",
             "path_id": -2000448765665420920,
             "block_id": 21,
-            "clip_length": 101
+            "clip_length": 101,
+            "processed": "<story>I told her to look at the claw from the side of the \n<story>machine and give me instructions. She gave me \n<story>an understanding nod."
         },
         {
             "text": "Order accepted. I will help you \nwith accurate measurements.",
             "name": "Mihono Bourbon",
             "path_id": 5138581559266456874,
             "block_id": 22,
-            "clip_length": 177
+            "clip_length": 177,
+            "processed": "<story>Order accepted. I will help you \n<story>with accurate measurements."
         },
         {
             "text": "With that, I chose to play 3 times for 500 yen. \nMy target is a small bunny plush that seems easy to get.",
             "name": "",
             "path_id": -5349063943785465919,
             "block_id": 23,
-            "clip_length": 111
+            "clip_length": 111,
+            "processed": "<story>With that, I chose to play 3 times for 500 yen. \n<story>My target is a small bunny plush that seems easy to get."
         },
         {
             "text": "Please move the claw 22 centimeters across. \nAccording to my calculations, there should be \na 98% chance of success.",
             "name": "Mihono Bourbon",
             "path_id": -6190504699393829727,
             "block_id": 24,
-            "clip_length": 306
+            "clip_length": 306,
+            "processed": "<story>Please move the claw 22 centimeters across. \n<story>According to my calculations, there should be \n<story>a 98% chance of success."
         },
         {
             "text": "Just as planned, the claw lowered and gripped \nthe bunny around its neck. But then...",
             "name": "",
             "path_id": -1423999367086984381,
             "block_id": 25,
-            "clip_length": 77
+            "clip_length": 77,
+            "processed": "<story>Just as planned, the claw lowered and gripped \n<story>the bunny around its neck. But then..."
         },
         {
             "text": "*thump*",
             "name": "",
             "path_id": -5989621002453450693,
             "block_id": 26,
-            "clip_length": 54
+            "clip_length": 54,
+            "processed": "<story>*thump*"
         },
         {
             "text": "As the claw raised up, the bunny slipped through \nits grasp and fell right back down.",
             "name": "",
             "path_id": -771849071774327190,
             "block_id": 27,
-            "clip_length": 85
+            "clip_length": 85,
+            "processed": "<story>As the claw raised up, the bunny slipped through \n<story>its grasp and fell right back down."
         },
         {
             "text": "Observed the claw's lack of strength. Recalculating...",
             "name": "Mihono Bourbon",
             "path_id": -322527503875604440,
             "block_id": 28,
-            "clip_length": 126
+            "clip_length": 126,
+            "processed": "<story>Observed the claw's lack of strength. Recalculating..."
         },
         {
             "text": "Switching to strategy 'push the bunny'. \nWith this strategy, the winning chance is 91%.",
             "name": "Mihono Bourbon",
             "path_id": -256094283601404936,
             "block_id": 29,
-            "clip_length": 219
+            "clip_length": 219,
+            "processed": "<story>Switching to strategy 'push the bunny'. \n<story>With this strategy, the winning chance is 91%."
         },
         {
             "text": "*bump*",
             "name": "",
             "path_id": 1357044185546628978,
             "block_id": 30,
-            "clip_length": 52
+            "clip_length": 52,
+            "processed": "<story>*bump*"
         },
         {
             "text": "I overestimated the claw's ability to push. \nRecalculating...",
             "name": "Mihono Bourbon",
             "path_id": -2337820674468966124,
             "block_id": 31,
-            "clip_length": 145
+            "clip_length": 145,
+            "processed": "<story>I overestimated the claw's ability to push. \n<story>Recalculating..."
         },
         {
             "text": "According to my new strategy, the chance is 75%...",
             "name": "Mihono Bourbon",
             "path_id": -2744771225376909542,
             "block_id": 32,
-            "clip_length": 99
+            "clip_length": 99,
+            "processed": "<story>According to my new strategy, the chance is 75%..."
         },
         {
             "text": "*slip*",
             "name": "",
             "path_id": -886751406178842513,
             "block_id": 33,
-            "clip_length": 52
+            "clip_length": 52,
+            "processed": "<story>*slip*"
         },
         {
             "text": "...... \nDetermined that this is a near-impossible mission...",
             "name": "Mihono Bourbon",
             "path_id": -8001396627497612289,
             "block_id": 34,
-            "clip_length": 189
+            "clip_length": 189,
+            "processed": "<story>...... \n<story>Determined that this is a near-impossible mission..."
         },
         {
             "text": "We tried many things but in the end, \nwe could not get the bunny out...",
             "name": "",
             "path_id": -7543564273773134557,
             "block_id": 35,
-            "clip_length": 93
+            "clip_length": 93,
+            "processed": "<story>We tried many things but in the end, \n<story>we could not get the bunny out..."
         },
         {
             "text": "My apologies, Master. My calculations were off because \nI could not fully understand the claw's strength.",
             "name": "Mihono Bourbon",
             "path_id": 191636936376383128,
             "block_id": 36,
-            "clip_length": 194
+            "clip_length": 194,
+            "processed": "<story>My apologies, Master. My calculations were off because \n<story>I could not fully understand the claw's strength."
         },
         {
             "text": "But I'm certain that there is a 70% chance \nof success, were we to try again...",
             "name": "Mihono Bourbon",
             "path_id": -4222464987496976752,
             "block_id": 37,
-            "clip_length": 173
+            "clip_length": 173,
+            "processed": "<story>But I'm certain that there is a 70% chance \n<story>of success, were we to try again..."
         },
         {
             "text": "I'm surprised she wants to keep going. \nMaybe she's more into it than I thought.",
@@ -308,63 +345,72 @@
                     "text": "Sure, let's try one more time!",
                     "hash": "14960df4dfcc95f98a662c0f42fbe3c1f5219cd4784e4d92cd3841f95cbc7b19"
                 }
-            ]
+            ],
+            "processed": "<story>I'm surprised she wants to keep going. \n<story>Maybe she's more into it than I thought."
         },
         {
             "text": "Order accepted. I will make sure we get that bunny \nwith all that I have.",
             "name": "Mihono Bourbon",
             "path_id": -7401749987352597222,
             "block_id": 39,
-            "clip_length": 134
+            "clip_length": 134,
+            "processed": "<story>Order accepted. I will make sure we get that bunny \n<story>with all that I have."
         },
         {
             "text": "Stop now. Move 14 centimeters forward. \nUse the arm to push the bunny towards the chute.",
             "name": "Mihono Bourbon",
             "path_id": -1703167181426229011,
             "block_id": 40,
-            "clip_length": 255
+            "clip_length": 255,
+            "processed": "<story>Stop now. Move 14 centimeters forward. \n<story>Use the arm to push the bunny towards the chute."
         },
         {
             "text": "I do as she says and the bunny is pushed towards the \nedge of the chute. It slowly tilts over, towards the chute...",
             "name": "",
             "path_id": -8335612554900853438,
             "block_id": 41,
-            "clip_length": 110
+            "clip_length": 110,
+            "processed": "<story>I do as she says and the bunny is pushed towards the \n<story>edge of the chute. It slowly tilts over, towards the chute..."
         },
         {
             "text": "I watch it tilt with my breath held... \nActually, Mihono Bourbon is holding her breath as well.",
             "name": "",
             "path_id": -497063311122626644,
             "block_id": 42,
-            "clip_length": 103
+            "clip_length": 103,
+            "processed": "<story>I watch it tilt with my breath held... \n<story>Actually, Mihono Bourbon is holding her breath as well."
         },
         {
             "text": "...!!",
             "name": "Mihono Bourbon",
             "path_id": 7265782926052933068,
             "block_id": 43,
-            "clip_length": 47
+            "clip_length": 47,
+            "processed": "<story>...!!"
         },
         {
             "text": "Go!",
             "name": "Mihono Bourbon",
             "path_id": -4567059145053768463,
             "block_id": 44,
-            "clip_length": 36
+            "clip_length": 36,
+            "processed": "<story>Go!"
         },
         {
             "text": "The bunny falls over into the chute.",
             "name": "",
             "path_id": 8156376379480635301,
             "block_id": 45,
-            "clip_length": 73
+            "clip_length": 73,
+            "processed": "<story>The bunny falls over into the chute."
         },
         {
             "text": "Thank you for your help today. Experiencing the arcade \nfirst-hand has taught me a lot and resulted in some \nvaluable insights.",
             "name": "Mihono Bourbon",
             "path_id": 3356395291299083351,
             "block_id": 46,
-            "clip_length": 250
+            "clip_length": 250,
+            "processed": "<story>Thank you for your help today. Experiencing the arcade \n<story>first-hand has taught me a lot and resulted in some \n<story>valuable insights."
         },
         {
             "text": "The feeling of excitement in my chest, and how my \nfacial muscles relaxed on their own... I added these \nsensations to the topic of 'small talk' in my database.",
@@ -377,28 +423,32 @@
                     "text": "I'm glad you enjoyed yourself.",
                     "hash": "136c10c8e6748bc54beccd3000edb01d05f5cfce747c974666cc57efa611a0f3"
                 }
-            ]
+            ],
+            "processed": "<story>The feeling of excitement in my chest, and how my \n<story>facial muscles relaxed on their own... I added these \n<story>sensations to the topic of 'small talk' in my database."
         },
         {
             "text": "\"Enjoyed myself?\"",
             "name": "Mihono Bourbon",
             "path_id": 1367026339367944518,
             "block_id": 48,
-            "clip_length": 73
+            "clip_length": 73,
+            "processed": "<story>\"Enjoyed myself?\""
         },
         {
             "text": "I explained to her that the sensations she felt are called \n'fun' and how that caused her to enjoy herself.",
             "name": "",
             "path_id": -4663687935800636326,
             "block_id": 49,
-            "clip_length": 105
+            "clip_length": 105,
+            "processed": "<story>I explained to her that the sensations she felt are called \n<story>'fun' and how that caused her to enjoy herself."
         },
         {
             "text": "That's what 'fun' is...",
             "name": "Mihono Bourbon",
             "path_id": -6425047900717534549,
             "block_id": 50,
-            "clip_length": 81
+            "clip_length": 81,
+            "processed": "<story>That's what 'fun' is..."
         },
         {
             "text": "I do not understand how using the claw machine \ncaused these feelings of 'fun' when it was \nvery counterproductive.",
@@ -408,11 +458,11 @@
             "clip_length": 257,
             "choices": [
                 {
-                    "text": "<size=40>You call it counterproductive...</size>",
-                    "hash": "289176abd56069a8fe8273e5ef5507b33726b595bc57ffce9d99791d57017149",
-                    "processed": "<size=34><size=40>You call it counterproductive...</size></size>"
+                    "text": "You call it counterproductive...",
+                    "hash": "289176abd56069a8fe8273e5ef5507b33726b595bc57ffce9d99791d57017149"
                 }
-            ]
+            ],
+            "processed": "<story>I do not understand how using the claw machine \n<story>caused these feelings of 'fun' when it was \n<story>very counterproductive."
         },
         {
             "text": "I had to choose my words in such a way \nthat she would understand.",
@@ -422,33 +472,37 @@
             "clip_length": 90,
             "choices": [
                 {
-                    "text": "<size=36>The goal of using the machine is to have fun.</size>",
+                    "text": "The goal of using the machine is to have fun.",
                     "hash": "87a3b0bc5f0162b5bfe5b57d03f2763175925a3a9b69b5b3f06ba73b36ba7517",
-                    "processed": "<size=26><size=36>The goal of using the machine is to have fun.</size></size>"
+                    "processed": "<size=37>The goal of using the machine is to have fun.</size>"
                 }
-            ]
+            ],
+            "processed": "<story>I had to choose my words in such a way \n<story>that she would understand."
         },
         {
             "text": "...... \nI see. Status changed to 'shocked.'",
             "name": "Mihono Bourbon",
             "path_id": -7509060298671967305,
             "block_id": 53,
-            "clip_length": 227
+            "clip_length": 227,
+            "processed": "<story>...... \n<story>I see. Status changed to 'shocked.'"
         },
         {
             "text": "New values inserted. <i>Even if something seems useless \nat first glance, it may not be the case in the end.</i>",
             "name": "Mihono Bourbon",
             "path_id": 2420403559344306932,
             "block_id": 54,
-            "clip_length": 226
+            "clip_length": 226,
+            "processed": "<story>New values inserted. <i>Even if something seems useless \n<story>at first glance, it may not be the case in the end.</i>"
         },
         {
             "text": "As she speaks, she lightly strokes \nthe bunny plush we won today.",
             "name": "",
             "path_id": -6591295992379118313,
             "block_id": 55,
-            "clip_length": 93
+            "clip_length": 93,
+            "processed": "<story>As she speaks, she lightly strokes \n<story>the bunny plush we won today."
         }
     ],
-    "title": "Status: \"Shock\""
+    "title": ""
 }

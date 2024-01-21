@@ -359,8 +359,7 @@ def _import_story(story_data):
         text_block = root.assets_file.files[new_block['path_id']]
         text_block_data = text_block.read_typetree()
 
-        new_text = new_block.get('processed') or new_block['text']
-        text_block_data['Text'] = '<story>' + new_text
+        text_block_data['Text'] = new_block.get('processed') or new_block['text']
         text_block_data['Name'] = new_block.get('name_processed') or new_block['name']
 
         if new_block.get('clip_length'):

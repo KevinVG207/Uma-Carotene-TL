@@ -16,105 +16,120 @@
             "name": "Mihono Bourbon",
             "path_id": -5089634875978061970,
             "block_id": 1,
-            "clip_length": 197
+            "clip_length": 197,
+            "processed": "<story>Reached my 5 PM quota. Continuing to the next training \n<story>after a 10-minute break."
         },
         {
             "text": "E-Excuse me... Are you Mihono Bourbon?",
             "name": "Honest Horsegirl",
             "path_id": -5561472350189950712,
             "block_id": 2,
-            "clip_length": 111
+            "clip_length": 111,
+            "processed": "<story>E-Excuse me... Are you Mihono Bourbon?"
         },
         {
             "text": "It was a normal day of training when a lone horse girl \ngalloped up to Mihono Bourbon.",
             "name": "",
             "path_id": -339749304122685496,
             "block_id": 3,
-            "clip_length": 97
+            "clip_length": 97,
+            "processed": "<story>It was a normal day of training when a lone horse girl \n<story>galloped up to Mihono Bourbon."
         },
         {
             "text": "I'm sorry for interrupting... I know you're \nalways doing such tough trainings, so...",
             "name": "Honest Horsegirl",
             "path_id": 3523922899133626510,
             "block_id": 4,
-            "clip_length": 180
+            "clip_length": 180,
+            "processed": "<story>I'm sorry for interrupting... I know you're \n<story>always doing such tough trainings, so..."
         },
         {
             "text": "Worry not. I'm open to 'conversation.' \nWhat did you want to discuss?",
             "name": "Mihono Bourbon",
             "path_id": -5685894751913903322,
             "block_id": 5,
-            "clip_length": 124
+            "clip_length": 124,
+            "processed": "<story>Worry not. I'm open to 'conversation.' \n<story>What did you want to discuss?"
         },
         {
             "text": "Umm, so... You used to do short races, right? \nI'm just impressed that you managed to do so well \nin a medium distance race!",
             "name": "Honest Horsegirl",
             "path_id": -216203168721922133,
             "block_id": 6,
-            "clip_length": 294
+            "clip_length": 294,
+            "processed": "<story>Umm, so... You used to do short races, right? \n<story>I'm just impressed that you managed to do so well \n<story>in a medium distance race!"
         },
         {
             "text": "That girl looks quite excited. Mihono Bourbon on the \nother hand is staring at her motionlessly.",
             "name": "",
             "path_id": 7740353245997069370,
             "block_id": 7,
-            "clip_length": 86
+            "clip_length": 86,
+            "processed": "<story>That girl looks quite excited. Mihono Bourbon on the \n<story>other hand is staring at her motionlessly."
         },
         {
             "text": "What is it you're trying to achieve by telling me that?",
             "name": "Mihono Bourbon",
             "path_id": -6866016479658709800,
             "block_id": 8,
-            "clip_length": 121
+            "clip_length": 121,
+            "processed": "<story>What is it you're trying to achieve by telling me that?"
         },
         {
             "text": "Huh?",
             "name": "Honest Horsegirl",
             "path_id": -3778168044645756775,
             "block_id": 9,
-            "clip_length": 29
+            "clip_length": 29,
+            "processed": "<story>Huh?"
         },
         {
             "text": "I concluded that you must have some sort of reason \nto reach out to me during my break.",
             "name": "Mihono Bourbon",
             "path_id": 338280080684179896,
             "block_id": 10,
-            "clip_length": 210
+            "clip_length": 210,
+            "processed": "<story>I concluded that you must have some sort of reason \n<story>to reach out to me during my break."
         },
         {
             "text": "A question, inspection, confirmation, et cetera. \nWhat would be the reason for you reaching out to me?",
             "name": "Mihono Bourbon",
             "path_id": 8388682850581648738,
             "block_id": 11,
-            "clip_length": 283
+            "clip_length": 283,
+            "processed": "<story>A question, inspection, confirmation, et cetera. \n<story>What would be the reason for you reaching out to me?"
         },
         {
             "text": "R-Reason...?",
             "name": "Honest Horsegirl",
             "path_id": -2669547360427155039,
             "block_id": 12,
-            "clip_length": 53
+            "clip_length": 53,
+            "processed": "<story>R-Reason...?"
         },
         {
             "text": "As the girl was thinking over Mihono Bourbon's \nquestion, her face turned a little red.",
             "name": "",
             "path_id": -1089622833273066972,
             "block_id": 13,
-            "clip_length": 85
+            "clip_length": 85,
+            "processed": "<story>As the girl was thinking over Mihono Bourbon's \n<story>question, her face turned a little red."
         },
         {
             "text": "Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going!",
             "name": "Honest Horsegirl",
             "path_id": -8926829227546834942,
             "block_id": 14,
-            "clip_length": 302
+            "clip_length": 302,
+            "processed": "<story>Sorry, I didn't have a particular reason, \n<story>I just wanted to chat for a bit... \n<story>I guess I interrupted you after all, so I'll be going!"
         },
         {
             "text": "That's not what I...",
             "name": "Mihono Bourbon",
             "path_id": -4363476815270372152,
             "block_id": 15,
-            "clip_length": 50
+            "clip_length": 50,
+            "processed": "<story>That's not what I..."
         },
         {
             "text": "The girl trots away. Mihono Bourbon's only movement \ncomes from her eyes as they follow after the girl.",
@@ -131,7 +146,8 @@
                     "text": "What happened there?",
                     "hash": "13ed1c21d4144a8ab184cc71179955fe327dfcb1630f2729035109f7ca85f138"
                 }
-            ]
+            ],
+            "processed": "<story>The girl trots away. Mihono Bourbon's only movement \n<story>comes from her eyes as they follow after the girl."
         },
         {
             "text": "I am currently analyzing for possible counter- \nmeasures for my inability to reach my target \nparameters, a.k.a. 'failure.'",
@@ -144,14 +160,16 @@
                     "text": "Target parameters?",
                     "hash": "1245c297fbc83d6c7f76e4822efcc6151180e70f782902d80cd091b4116a551a"
                 }
-            ]
+            ],
+            "processed": "<story>I am currently analyzing for possible counter- \n<story>measures for my inability to reach my target \n<story>parameters, a.k.a. 'failure.'"
         },
         {
             "text": "Parameters like expression and tone of voice, \ntaken from my data log that are useful for \nachieving 'proper communication.'",
             "name": "Mihono Bourbon",
             "path_id": 1139658430021029749,
             "block_id": 18,
-            "clip_length": 298
+            "clip_length": 298,
+            "processed": "<story>Parameters like expression and tone of voice, \n<story>taken from my data log that are useful for \n<story>achieving 'proper communication.'"
         },
         {
             "text": "At least she's self-aware... So she wants to get \nbetter at socializing and having conversations...",
@@ -164,35 +182,40 @@
                     "text": "What brought you to this?",
                     "hash": "4c2bdcb8ed9142d941c0a103027c7a63eeb2452ec39cd6dfb7b95f7d393ee2c5"
                 }
-            ]
+            ],
+            "processed": "<story>At least she's self-aware... So she wants to get \n<story>better at socializing and having conversations..."
         },
         {
             "text": "My parents ordered me to improve my social skills.",
             "name": "Mihono Bourbon",
             "path_id": -6369756306030993855,
             "block_id": 20,
-            "clip_length": 151
+            "clip_length": 151,
+            "processed": "<story>My parents ordered me to improve my social skills."
         },
         {
             "text": "I spent my childhood training with my father, so I never \ninteracted with other horse girls of my age.",
             "name": "Mihono Bourbon",
             "path_id": -7013748623907831720,
             "block_id": 21,
-            "clip_length": 236
+            "clip_length": 236,
+            "processed": "<story>I spent my childhood training with my father, so I never \n<story>interacted with other horse girls of my age."
         },
         {
             "text": "Thus, my parents grew worried about my social skills \nwhen it became clear I was going to Tracen Academy.",
             "name": "Mihono Bourbon",
             "path_id": -6408528361703283142,
             "block_id": 22,
-            "clip_length": 246
+            "clip_length": 246,
+            "processed": "<story>Thus, my parents grew worried about my social skills \n<story>when it became clear I was going to Tracen Academy."
         },
         {
             "text": "They told me to take great care to interact \nwith my classmates and make friends.",
             "name": "Mihono Bourbon",
             "path_id": 3325977676374148401,
             "block_id": 23,
-            "clip_length": 203
+            "clip_length": 203,
+            "processed": "<story>They told me to take great care to interact \n<story>with my classmates and make friends."
         },
         {
             "text": "They are right. Good social skills are a necessity for \nhorse girls. We need it for interviews and \ninteracting with fans.",
@@ -205,21 +228,24 @@
                     "text": "(Hmm...)",
                     "hash": "7c35399f1faccfc784decd9c378d2454ab0f5ca588f2f2c527afa026b84ee3b1"
                 }
-            ]
+            ],
+            "processed": "<story>They are right. Good social skills are a necessity for \n<story>horse girls. We need it for interviews and \n<story>interacting with fans."
         },
         {
             "text": "In order to fulfill my parents' order, I created new \nparameters. I have set my objective to actively \nstart conversations.",
             "name": "Mihono Bourbon",
             "path_id": -2445457061403551216,
             "block_id": 25,
-            "clip_length": 264
+            "clip_length": 264,
+            "processed": "<story>In order to fulfill my parents' order, I created new \n<story>parameters. I have set my objective to actively \n<story>start conversations."
         },
         {
             "text": "However, the parameters have decreased slightly since \nschool started. Extrapolating the data, it would seem \nimpossible to fulfill my objective at this rate.",
             "name": "Mihono Bourbon",
             "path_id": 3051676504010234964,
             "block_id": 26,
-            "clip_length": 256
+            "clip_length": 256,
+            "processed": "<story>However, the parameters have decreased slightly since \n<story>school started. Extrapolating the data, it would seem \n<story>impossible to fulfill my objective at this rate."
         },
         {
             "text": "Today, I tried a new input technique that I researched: \n\"asking about uncertanties.\" Yet, the girl just left...",
@@ -232,14 +258,16 @@
                     "text": "(I see.)",
                     "hash": "555bbfb07bd1782af448e6a186f2df0a524dffb8e64dd51ac4e74553768b4830"
                 }
-            ]
+            ],
+            "processed": "<story>Today, I tried a new input technique that I researched: \n<story>\"asking about uncertanties.\" Yet, the girl just left..."
         },
         {
             "text": "I can tell she gives it her all, but she seems to be \nmisinterpreting things a little...",
             "name": "",
             "path_id": -928703090112396407,
             "block_id": 28,
-            "clip_length": 108
+            "clip_length": 108,
+            "processed": "<story>I can tell she gives it her all, but she seems to be \n<story>misinterpreting things a little..."
         },
         {
             "text": "Would parents who love their daughter really give such \nmechanical orders as 'interact with others' \njust to have her improve her social skills?",
@@ -252,14 +280,16 @@
                     "text": "I think your parents meant—",
                     "hash": "c96d5ec519858ebb51db0cb9ba94a80d714bb360868b0a24917e53df57a1127d"
                 }
-            ]
+            ],
+            "processed": "<story>Would parents who love their daughter really give such \n<story>mechanical orders as 'interact with others' \n<story>just to have her improve her social skills?"
         },
         {
             "text": "I told her that her parents probably just wanted her to \nhave a fun time with her friends at school. \nShe just stared at me in confusion.",
             "name": "",
             "path_id": 5583866402591745504,
             "block_id": 30,
-            "clip_length": 118
+            "clip_length": 118,
+            "processed": "<story>I told her that her parents probably just wanted her to \n<story>have a fun time with her friends at school. \n<story>She just stared at me in confusion."
         },
         {
             "text": "I'm sorry, but I don't understand what you mean. \nMy database does not contain any knowledge \non this subject.",
@@ -272,43 +302,49 @@
                     "text": "Hmm...",
                     "hash": "67ff768687a67a7918d1c3033ae68dcbc3361ef51c2cc84ee4c2feb496b4c87d"
                 }
-            ]
+            ],
+            "processed": "<story>I'm sorry, but I don't understand what you mean. \n<story>My database does not contain any knowledge \n<story>on this subject."
         },
         {
             "text": "I'm trying to explain that doing things with friends \ncreates valuable experiences and memories, \nwhen suddenly...",
             "name": "",
             "path_id": 5924757266970418210,
             "block_id": 32,
-            "clip_length": 116
+            "clip_length": 116,
+            "processed": "<story>I'm trying to explain that doing things with friends \n<story>creates valuable experiences and memories, \n<story>when suddenly..."
         },
         {
             "text": "Break time exceeded by 20 seconds. \nReturning to training as soon as possible.",
             "name": "Mihono Bourbon",
             "path_id": -2648623464128450978,
             "block_id": 33,
-            "clip_length": 153
+            "clip_length": 153,
+            "processed": "<story>Break time exceeded by 20 seconds. \n<story>Returning to training as soon as possible."
         },
         {
             "text": "...She sprints back to the racecourse.",
             "name": "",
             "path_id": 4456486758123295539,
             "block_id": 34,
-            "clip_length": 76
+            "clip_length": 76,
+            "processed": "<story>...She sprints back to the racecourse."
         },
         {
             "text": "As a horse girl, she is growing very well. Yet she \ncontinues to be somewhat out of touch with \nthe world, for better or worse.",
             "name": "",
             "path_id": -1491843774809762846,
             "block_id": 35,
-            "clip_length": 125
+            "clip_length": 125,
+            "processed": "<story>As a horse girl, she is growing very well. Yet she \n<story>continues to be somewhat out of touch with \n<story>the world, for better or worse."
         },
         {
             "text": "As she continues to run towards the horizon, I can \nonly wish that one day, she will understand \nwhat her parents really meant.",
             "name": "",
             "path_id": -1371732689061676499,
             "block_id": 36,
-            "clip_length": 112
+            "clip_length": 112,
+            "processed": "<story>As she continues to run towards the horizon, I can \n<story>only wish that one day, she will understand \n<story>what her parents really meant."
         }
     ],
-    "title": "Parents' Order"
+    "title": ""
 }

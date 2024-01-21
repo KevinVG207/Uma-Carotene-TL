@@ -21,6 +21,7 @@ import glob
 import pyphen
 from functools import cache
 from multiprocessing import Pool
+import re
 
 hyphen_dict = pyphen.Pyphen(lang='en_US')
 
@@ -210,7 +211,6 @@ def close_umamusume():
             return False
 
     return True
-
 
 def test_for_type(args):
     path, type = args
@@ -544,3 +544,7 @@ def get_assets_type_dict():
         asset_dict[asset_type].append((asset_data, path))
 
     return asset_dict
+
+def filter_tags(str):
+    # Remove any <> tags from string.
+    return re.sub(r'<[^>]*>', '', str)

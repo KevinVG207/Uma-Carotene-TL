@@ -16,56 +16,64 @@
             "name": "Mihono Bourbon",
             "path_id": -3601140361055702257,
             "block_id": 1,
-            "clip_length": 183
+            "clip_length": 183,
+            "processed": "<story>When I was younger, I was bad at making my own decisions. \n<story>I only did what others asked me to."
         },
         {
             "text": "Then one day, I saw a horse girl running a G1 race \nfor the Triple Crown. It was then that I found it... \nI found something I wanted to devote myself to.",
             "name": "Mihono Bourbon",
             "path_id": 6422958304775283016,
             "block_id": 2,
-            "clip_length": 290
+            "clip_length": 290,
+            "processed": "<story>Then one day, I saw a horse girl running a G1 race \n<story>for the Triple Crown. It was then that I found it... \n<story>I found something I wanted to devote myself to."
         },
         {
             "text": "<i>F-Father... I... I think... \nI want to be a Triple Crown horse girl...</i>",
             "name": "Young Bourbon",
             "path_id": 1056649191764638163,
             "block_id": 3,
-            "clip_length": 318
+            "clip_length": 318,
+            "processed": "<story><i>F-Father... I... I think... \n<story>I want to be a Triple Crown horse girl...</i>"
         },
         {
             "text": "<i>I see, I see. My little Bourbon wants the Triple Crown title.</i>",
             "name": "Bourbon's Father",
             "path_id": -3210342947206226472,
             "block_id": 4,
-            "clip_length": 312
+            "clip_length": 312,
+            "processed": "<story><i>I see, I see. My little Bourbon wants the Triple Crown title.</i>"
         },
         {
             "text": "<i>I still remember this moment like it was yesterday. \nMy usually grumpy father actually smiled and looked happy.</i>",
             "name": "Mihono Bourbon",
             "path_id": -7303474317753412604,
             "block_id": 5,
-            "clip_length": 200
+            "clip_length": 188,
+            "processed": "<story><i>I still remember this moment like it was yesterday. \n<story>My usually grumpy father actually smiled and looked happy.</i>"
         },
         {
             "text": "<i>Then give it your all. Aim for that Triple Crown.</i>",
             "name": "Bourbon's Father",
             "path_id": 9197973024702275307,
             "block_id": 6,
-            "clip_length": 161
+            "clip_length": 161,
+            "processed": "<story><i>Then give it your all. Aim for that Triple Crown.</i>"
         },
         {
             "text": "My objective became one of the very few decisions \nI made for myself. It is the dream of my father and me.",
             "name": "Mihono Bourbon",
             "path_id": -6150889889744511856,
             "block_id": 7,
-            "clip_length": 171
+            "clip_length": 171,
+            "processed": "<story>My objective became one of the very few decisions \n<story>I made for myself. It is the dream of my father and me."
         },
         {
             "text": "That's all of the data log I wanted to share with you, \nas my Master. Because it explains the foundation \nof my current self.",
             "name": "Mihono Bourbon",
             "path_id": 5383850055662049050,
             "block_id": 8,
-            "clip_length": 217
+            "clip_length": 217,
+            "processed": "<story>That's all of the data log I wanted to share with you, \n<story>as my Master. Because it explains the foundation \n<story>of my current self."
         },
         {
             "text": "It had been a few days since I became Mihono Bourbon's \ntrainer. She finally explained the reason for her goal \nof the Triple Crown title in more detail.",
@@ -82,69 +90,78 @@
                     "text": "So that's why.",
                     "hash": "3f9552098a2eb699ebcca7732e9d9cea20baf4009341ca589a84dab05a1f7b73"
                 }
-            ]
+            ],
+            "processed": "<story>It had been a few days since I became Mihono Bourbon's \n<story>trainer. She finally explained the reason for her goal \n<story>of the Triple Crown title in more detail."
         },
         {
             "text": "Hearing the story of this indecisive girl finally making \nher own decision and finding something to long for... \nIt got me a little emotional.",
             "name": "",
             "path_id": -5309164967333944024,
             "block_id": 10,
-            "clip_length": 200,
+            "clip_length": 99,
             "choices": [
                 {
                     "text": "I'll make it happen, with you!",
                     "hash": "3f3e6ee3576bf8c90ac0cec8450babce61e389592f6a8b6229cacc330ff23828"
                 }
-            ]
+            ],
+            "processed": "<story>Hearing the story of this indecisive girl finally making \n<story>her own decision and finding something to long for... \n<story>It got me a little emotional."
         },
         {
             "text": "We will, Master.",
             "name": "Mihono Bourbon",
             "path_id": 1017625598877643180,
             "block_id": 11,
-            "clip_length": 64
+            "clip_length": 64,
+            "processed": "<story>We will, Master."
         },
         {
             "text": "I think I caught a glimpse of a smile.",
             "name": "",
             "path_id": 1349852240594637790,
             "block_id": 12,
-            "clip_length": 65
+            "clip_length": 65,
+            "processed": "<story>I think I caught a glimpse of a smile."
         },
         {
             "text": "My trainings are bearing fruit on her.  Still, since \nI became her trainer I've had multiple people \ntell me the same thing over and over...",
             "name": "",
             "path_id": -5923017445957648598,
             "block_id": 13,
-            "clip_length": 123
+            "clip_length": 123,
+            "processed": "<story>My trainings are bearing fruit on her.  Still, since \n<story>I became her trainer I've had multiple people \n<story>tell me the same thing over and over..."
         },
         {
             "text": "<i>What? Mihono Bourbon is going for the Triple Crown? \nHow could you? She's clearly cut out for short races instead!</i>",
             "name": "Rookie Trainer",
             "path_id": 646728996711875925,
             "block_id": 14,
-            "clip_length": 217
+            "clip_length": 217,
+            "processed": "<story><i>What? Mihono Bourbon is going for the Triple Crown? \n<story>How could you? She's clearly cut out for short races instead!</i>"
         },
         {
             "text": "But, we don't listen to what others tell us. We'll prove \nthem wrong and have them take back their words.",
             "name": "",
             "path_id": -1578802757973176958,
             "block_id": 15,
-            "clip_length": 112
+            "clip_length": 112,
+            "processed": "<story>But, we don't listen to what others tell us. We'll prove \n<story>them wrong and have them take back their words."
         },
         {
             "text": "And so...",
             "name": "",
             "path_id": 8124094908068493344,
             "block_id": 16,
-            "clip_length": 58
+            "clip_length": 58,
+            "processed": "<story>And so..."
         },
         {
             "text": "You want me to partake in a 2000 meters turf race in the \nSemiannual Race Meeting? I determined that the longest \nG1 race there, the Hopeful Stakes, is of that length.",
             "name": "Mihono Bourbon",
             "path_id": 5045704526885460297,
             "block_id": 17,
-            "clip_length": 332
+            "clip_length": 332,
+            "processed": "<story>You want me to partake in a 2000 meters turf race in the \n<story>Semiannual Race Meeting? I determined that the longest \n<story>G1 race there, the Hopeful Stakes, is of that length."
         },
         {
             "text": "The Semiannual Meet is a race meeting at \nTracen Academy where one may choose out of many \ndifferent races. It draws in quite a lot of visitors.",
@@ -154,32 +171,36 @@
             "clip_length": 125,
             "choices": [
                 {
-                    "text": "<size=36>Let's show everyone what you're capable of!</size>",
+                    "text": "Let's show everyone what you're capable of!",
                     "hash": "00a58bb99071521eed3e5471376ef8674316864a9ce5a6777d41dc77e7eaa6a7",
-                    "processed": "<size=26><size=36>Let's show everyone what you're capable of!</size></size>"
+                    "processed": "<size=37>Let's show everyone what you're capable of!</size>"
                 }
-            ]
+            ],
+            "processed": "<story>The Semiannual Meet is a race meeting at \n<story>Tracen Academy where one may choose out of many \n<story>different races. It draws in quite a lot of visitors."
         },
         {
             "text": "Orders received. \nResponse: I'm all for it.",
             "name": "Mihono Bourbon",
             "path_id": 1646573871021096368,
             "block_id": 19,
-            "clip_length": 100
+            "clip_length": 83,
+            "processed": "<story>Orders received. \n<story>Response: I'm all for it."
         },
         {
             "text": "And with that, we started training for the competition.",
             "name": "",
             "path_id": 1741733289911022294,
             "block_id": 20,
-            "clip_length": 91
+            "clip_length": 91,
+            "processed": "<story>And with that, we started training for the competition."
         },
         {
             "text": "*huff huff*",
             "name": "Mihono Bourbon",
             "path_id": 5304478124686482360,
             "block_id": 21,
-            "clip_length": 76
+            "clip_length": 76,
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "(1600 meters passed. 400 meters left. \nPulse and breathing are within expected range.)",
@@ -193,42 +214,48 @@
                     "hash": "69932cdb14d15f51004f8c5417967acc4793e841a9b22e2d53a68de543d75dba",
                     "processed": "<size=43>Keep going! Your times are improving!</size>"
                 }
-            ]
+            ],
+            "processed": "<story>(1600 meters passed. 400 meters left. \n<story>Pulse and breathing are within expected range.)"
         },
         {
             "text": "Got it!",
             "name": "Mihono Bourbon",
             "path_id": 1089899661125675305,
             "block_id": 23,
-            "clip_length": 26
+            "clip_length": 26,
+            "processed": "<story>Got it!"
         },
         {
             "text": "With her teeth clenched, she ran and ran. \nIt was like she was one with the wind.",
             "name": "",
             "path_id": -3720942336122532825,
             "block_id": 24,
-            "clip_length": 89
+            "clip_length": 89,
+            "processed": "<story>With her teeth clenched, she ran and ran. \n<story>It was like she was one with the wind."
         },
         {
             "text": "And thus, the day of the event arrived. \nCrowds of people showed up, not just students. \nMany people came to visit.",
             "name": "",
             "path_id": 8802302362244294637,
             "block_id": 25,
-            "clip_length": 140
+            "clip_length": 97,
+            "processed": "<story>And thus, the day of the event arrived. \n<story>Crowds of people showed up, not just students. \n<story>Many people came to visit."
         },
         {
             "text": "Of course, Mihono Bourbon, 'the Hope of the Short Distance', \nbecame the talk of the town because of her switch \nto the medium distance event.",
             "name": "",
             "path_id": -4777256665763565306,
             "block_id": 26,
-            "clip_length": 190
+            "clip_length": 115,
+            "processed": "<story>Of course, Mihono Bourbon, 'the Hope of the Short Distance', \n<story>became the talk of the town because of her switch \n<story>to the medium distance event."
         },
         {
             "text": "She ain't got no stamina, a longer distance is a no-go. \nI really doubt she's gonna finish the 2000 meters...",
             "name": "Rookie Trainer",
             "path_id": 8180754221504452223,
             "block_id": 27,
-            "clip_length": 223
+            "clip_length": 223,
+            "processed": "<story>She ain't got no stamina, a longer distance is a no-go. \n<story>I really doubt she's gonna finish the 2000 meters..."
         },
         {
             "text": "How reckless. What is her trainer thinking?!",
@@ -245,35 +272,40 @@
                     "text": "(I'm just believing in Bourbon!)",
                     "hash": "fd22562ce61c53d1522cebe4961510b88f85e4c735f5f0c5f0a1ca484d2db9f9"
                 }
-            ]
+            ],
+            "processed": "<story>How reckless. What is her trainer thinking?!"
         },
         {
             "text": "Still, part of me was praying as I focused on the gate.",
             "name": "",
             "path_id": 8606063274711429985,
             "block_id": 29,
-            "clip_length": 69
+            "clip_length": 69,
+            "processed": "<story>Still, part of me was praying as I focused on the gate."
         },
         {
             "text": "*clang*",
             "name": "",
             "path_id": 7437309160440797645,
             "block_id": 30,
-            "clip_length": 52
+            "clip_length": 52,
+            "processed": "<story>*clang*"
         },
         {
             "text": "<i>And they're off for the 2000 meter turf race! \nWhich horse girl is going to grab gold?</i>",
             "name": "Commentator",
             "path_id": 6855406342003196149,
             "block_id": 31,
-            "clip_length": 195
+            "clip_length": 195,
+            "processed": "<story><i>And they're off for the 2000 meter turf race! \n<story>Which horse girl is going to grab gold?</i>"
         },
         {
             "text": "(Positioning successful. Executing 'maintaining the lead' \nand 'break away'. Aware of lap time. Breathing OK.)",
             "name": "Mihono Bourbon",
             "path_id": 2439473670020826563,
             "block_id": 32,
-            "clip_length": 209
+            "clip_length": 209,
+            "processed": "<story>(Positioning successful. Executing 'maintaining the lead' \n<story>and 'break away'. Aware of lap time. Breathing OK.)"
         },
         {
             "text": "Mihono Bourbon is able to stay in the front! But how?!",
@@ -286,126 +318,144 @@
                     "text": "(Great! Now hang in there!)",
                     "hash": "2bedb7caa540f08ee27dd0669f279f4f5dc44bb521d1dc703533e565136a0847"
                 }
-            ]
+            ],
+            "processed": "<story>Mihono Bourbon is able to stay in the front! But how?!"
         },
         {
             "text": "*huff huff*",
             "name": "Mihono Bourbon",
             "path_id": -2659652085236636557,
             "block_id": 34,
-            "clip_length": 43
+            "clip_length": 43,
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "<i>Mihono Bourbon is leading the pack! As they exit \nthe fourth corner, they're onto the final straight! \nThe backmarkers are approaching!</i>",
             "name": "Commentator",
             "path_id": -8240522217745380047,
             "block_id": 35,
-            "clip_length": 204
+            "clip_length": 204,
+            "processed": "<story><i>Mihono Bourbon is leading the pack! As they exit \n<story>the fourth corner, they're onto the final straight! \n<story>The backmarkers are approaching!</i>"
         },
         {
             "text": "This is it!",
             "name": "Horsegirl",
             "path_id": -1045426127420384200,
             "block_id": 36,
-            "clip_length": 40
+            "clip_length": 40,
+            "processed": "<story>This is it!"
         },
         {
             "text": "...!!",
             "name": "Mihono Bourbon",
             "path_id": 8263998051074666095,
             "block_id": 37,
-            "clip_length": 27
+            "clip_length": 27,
+            "processed": "<story>...!!"
         },
         {
             "text": "<i>Mihono Bourbon finally lost her lead, with 100 meters to go!</i>",
             "name": "Commentator",
             "path_id": 8638472838623667557,
             "block_id": 38,
-            "clip_length": 133
+            "clip_length": 133,
+            "processed": "<story><i>Mihono Bourbon finally lost her lead, with 100 meters to go!</i>"
         },
         {
             "text": "(One ahead, two approaching from behind. \nLittle stamina left. A stabbing pain in my lungs and \nI can't concentrate... But I... I must...)",
             "name": "Mihono Bourbon",
             "path_id": 2209369860269556291,
             "block_id": 39,
-            "clip_length": 308
+            "clip_length": 308,
+            "processed": "<story>(One ahead, two approaching from behind. \n<story>Little stamina left. A stabbing pain in my lungs and \n<story>I can't concentrate... But I... I must...)"
         },
         {
             "text": "I must...!",
             "name": "Mihono Bourbon",
             "path_id": 8691678161948597929,
             "block_id": 40,
-            "clip_length": 33
+            "clip_length": 33,
+            "processed": "<story>I must...!"
         },
         {
             "text": "<i>What a climax! Four horse girls are battling \nfor first, it's now or nothing!</i>",
             "name": "Commentator",
             "path_id": 3742464735399850849,
             "block_id": 41,
-            "clip_length": 190
+            "clip_length": 190,
+            "processed": "<story><i>What a climax! Four horse girls are battling \n<story>for first, it's now or nothing!</i>"
         },
         {
             "text": "*huff huff*",
             "name": "Mihono Bourbon",
             "path_id": 3722104972475704759,
             "block_id": 42,
-            "clip_length": 89
+            "clip_length": 89,
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "The four leaders are bolting towards the finish. \nIt's a miracle they haven't collided...",
             "name": "",
             "path_id": 8958143074679733948,
             "block_id": 43,
-            "clip_length": 85
+            "clip_length": 85,
+            "processed": "<story>The four leaders are bolting towards the finish. \n<story>It's a miracle they haven't collided..."
         },
         {
             "text": "<i>But Mihono Bourbon crosses the goal first! \nMihono Bourbon wins!</i>",
             "name": "Commentator",
             "path_id": -1896699847523174391,
             "block_id": 44,
-            "clip_length": 175
+            "clip_length": 175,
+            "processed": "<story><i>But Mihono Bourbon crosses the goal first! \n<story>Mihono Bourbon wins!</i>"
         },
         {
             "text": "A huge wave of excitement eminates from the trainers. \nThey are all fixated on her. None of them had \nexpected this outcome.",
             "name": "",
             "path_id": -287381724631677366,
             "block_id": 45,
-            "clip_length": 93
+            "clip_length": 93,
+            "processed": "<story>A huge wave of excitement eminates from the trainers. \n<story>They are all fixated on her. None of them had \n<story>expected this outcome."
         },
         {
             "text": "Who knew she would be so fast on the 2000 meters?! \nWhat an incredible performance by Mihono Bourbon!",
             "name": "Rookie Trainer",
             "path_id": -4031779368095217557,
             "block_id": 46,
-            "clip_length": 170
+            "clip_length": 170,
+            "processed": "<story>Who knew she would be so fast on the 2000 meters?! \n<story>What an incredible performance by Mihono Bourbon!"
         },
         {
             "text": "Looks like she's able to run medium distance races after all.",
             "name": "Experienced Trainer",
             "path_id": 957254870712778959,
             "block_id": 47,
-            "clip_length": 128
+            "clip_length": 128,
+            "processed": "<story>Looks like she's able to run medium distance races after all."
         },
         {
             "text": "It was this day that 'the Hope of the Short Distance' \nturned into 'the Challenger of the Triple Crown!'",
             "name": "",
             "path_id": 1713706987805861657,
             "block_id": 48,
-            "clip_length": 99
+            "clip_length": 99,
+            "processed": "<story>It was this day that 'the Hope of the Short Distance' \n<story>turned into 'the Challenger of the Triple Crown!'"
         },
         {
             "text": "You managed first on the 2000 meters, \neven with your lack of stamina... I see...",
             "name": "Veteran Trainer",
             "path_id": 1353472245206965321,
             "block_id": 49,
-            "clip_length": 245
+            "clip_length": 245,
+            "processed": "<story>You managed first on the 2000 meters, \n<story>even with your lack of stamina... I see..."
         },
         {
             "text": "I have high hopes for you, Mihono Bourbon.",
             "name": "Veteran Trainer",
             "path_id": 5950643171632183769,
             "block_id": 50,
-            "clip_length": 162
+            "clip_length": 162,
+            "processed": "<story>I have high hopes for you, Mihono Bourbon."
         },
         {
             "text": "Goal accomplished. I won the 2000 meters on turf.",
@@ -422,7 +472,8 @@
                     "text": "You did an incredible job!",
                     "hash": "a4d9d379d6066ae37a0a218059da096b73b45da9a4c8c262a15d1981bd2ce7c3"
                 }
-            ]
+            ],
+            "processed": "<story>Goal accomplished. I won the 2000 meters on turf."
         },
         {
             "text": "After the race, she was still her usual emotionless self.",
@@ -439,14 +490,16 @@
                     "text": "(But I know...)",
                     "hash": "9ca68cc6747254b832021ecc9ba9b549f2011365bf255dac41b2ac276b8286d8"
                 }
-            ]
+            ],
+            "processed": "<story>After the race, she was still her usual emotionless self."
         },
         {
             "text": "I know that what led her to this victory \nwas her own tremendous effort.",
             "name": "",
             "path_id": -9069398859371868175,
             "block_id": 53,
-            "clip_length": 80
+            "clip_length": 80,
+            "processed": "<story>I know that what led her to this victory \n<story>was her own tremendous effort."
         },
         {
             "text": "Hard work is what surpasses talent. It once again goes \nto show that you shouldn't judge a book by its cover.",
@@ -459,7 +512,8 @@
                     "text": "*sniffle*",
                     "hash": "465a1db1e2ea5768a6e46415e4e3407d195b0a1f69cff80c5c6fbab1e90104cf"
                 }
-            ]
+            ],
+            "processed": "<story>Hard work is what surpasses talent. It once again goes \n<story>to show that you shouldn't judge a book by its cover."
         },
         {
             "text": "Big changes in breathing and sensation were logged. \nAssuming that confusion of unknown cause has occurred.",
@@ -469,30 +523,33 @@
             "clip_length": 243,
             "choices": [
                 {
-                    "text": "<size=38>Your running has the power to give courage.</size>",
+                    "text": "Your running has the power to give courage.",
                     "hash": "f96b70f9060ff89d2c1c54d6b3c683cae1fc47d46b5bf716d3d6fd96fffcabc3",
-                    "processed": "<size=26><size=38>Your running has the power to give courage.</size></size>"
+                    "processed": "<size=37>Your running has the power to give courage.</size>"
                 },
                 {
-                    "text": "<size=38>Your running has the power to give courage.</size>",
+                    "text": "Your running has the power to give courage.",
                     "hash": "a4f965721a4e1c732f91456b41391a8f1d9afc841858b9ab01a084b2f73e2cf8",
-                    "processed": "<size=26><size=38>Your running has the power to give courage.</size></size>"
+                    "processed": "<size=37>Your running has the power to give courage.</size>"
                 }
-            ]
+            ],
+            "processed": "<story>Big changes in breathing and sensation were logged. \n<story>Assuming that confusion of unknown cause has occurred."
         },
         {
             "text": "I'm sure that we will continue to prove that hard work \nis more important than raw talent. And I hope that one day, \nshe'll break free from her robotic self. Even just a little bit.",
             "name": "",
             "path_id": -4963881714326642781,
             "block_id": 56,
-            "clip_length": 120
+            "clip_length": 120,
+            "processed": "<story>I'm sure that we will continue to prove that hard work \n<story>is more important than raw talent. And I hope that one day, \n<story>she'll break free from her robotic self. Even just a little bit."
         },
         {
             "text": "All I'm doing is racing to achieve my objective. \nDisplays of emotion do not exist in my database.",
             "name": "Mihono Bourbon",
             "path_id": 6738827670012085852,
             "block_id": 57,
-            "clip_length": 270
+            "clip_length": 270,
+            "processed": "<story>All I'm doing is racing to achieve my objective. \n<story>Displays of emotion do not exist in my database."
         },
         {
             "text": "But if you say so, Master... \nThen perhaps, I can place my trust in those words.",
@@ -505,36 +562,41 @@
                     "text": "Bourbon!",
                     "hash": "9d1e7c4c318a745d44264932333c99a1e1701fa2ffc61052b81510be53daff99"
                 }
-            ]
+            ],
+            "processed": "<story>But if you say so, Master... \n<story>Then perhaps, I can place my trust in those words."
         },
         {
             "text": "Command accepted. Appending a new instance of Objective \nto the list. Current objectives for the Twinkle Series are: \nAchieving the Triple Crown... And providing proof of hard work.",
             "name": "Mihono Bourbon",
             "path_id": 6610374501371876574,
             "block_id": 59,
-            "clip_length": 346
+            "clip_length": 346,
+            "processed": "<story>Command accepted. Appending a new instance of Objective \n<story>to the list. Current objectives for the Twinkle Series are: \n<story>Achieving the Triple Crown... And providing proof of hard work."
         },
         {
             "text": "I predict that what's to come won't be easy. \nBut according to my calculations, we will have \nenough strength to overcome it.",
             "name": "Mihono Bourbon",
             "path_id": -5923485367598559946,
             "block_id": 60,
-            "clip_length": 211
+            "clip_length": 211,
+            "processed": "<story>I predict that what's to come won't be easy. \n<story>But according to my calculations, we will have \n<story>enough strength to overcome it."
         },
         {
             "text": "I am glad to have you as my trainer, Fathe―― \nMy Master.",
             "name": "Mihono Bourbon",
             "path_id": 4615172396675445167,
             "block_id": 61,
-            "clip_length": 285
+            "clip_length": 285,
+            "processed": "<story>I am glad to have you as my trainer, Fathe―― \n<story>My Master."
         },
         {
             "text": "Seeing a slight blush on her cheeks, \nI felt that we grew even closer still.",
             "name": "",
             "path_id": 4571146722201497381,
             "block_id": 62,
-            "clip_length": 89
+            "clip_length": 89,
+            "processed": "<story>Seeing a slight blush on her cheeks, \n<story>I felt that we grew even closer still."
         }
     ],
-    "title": "Spartan Wind"
+    "title": ""
 }

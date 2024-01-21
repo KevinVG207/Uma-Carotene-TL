@@ -16,49 +16,56 @@
             "name": "Girl with pigtails",
             "path_id": 1469741650887708207,
             "block_id": 1,
-            "clip_length": 67
+            "clip_length": 67,
+            "processed": "<story>Look, there's treasure near the river!"
         },
         {
             "text": "Treasure?! Wait... I've been had! \nDuring my training, even... Geez!",
             "name": "Tap Dance City",
             "path_id": 5576974579935017937,
             "block_id": 2,
-            "clip_length": 237
+            "clip_length": 237,
+            "processed": "<story>Treasure?! Wait... I've been had! \n<story>During my training, even... Geez!"
         },
         {
             "text": "I'm sorry, I'm sorry! Heh... Tap, you look happy recently, \nand you're so focused on racing. ...Before long, you \nwon't be coming here anymore, right?",
             "name": "Girl with pigtails",
             "path_id": 7016064850016836978,
             "block_id": 3,
-            "clip_length": 393
+            "clip_length": 393,
+            "processed": "<story>I'm sorry, I'm sorry! Heh... Tap, you look happy recently, \n<story>and you're so focused on racing. ...Before long, you \n<story>won't be coming here anymore, right?"
         },
         {
             "text": "You, and the rest of us... We'll be seeing each other \na lot less... I guess we'll talk over LANE.",
             "name": "Girl with pigtails",
             "path_id": -8969957902369624865,
             "block_id": 4,
-            "clip_length": 256
+            "clip_length": 256,
+            "processed": "<story>You, and the rest of us... We'll be seeing each other \n<story>a lot less... I guess we'll talk over LANE."
         },
         {
             "text": "Hahaha, what are you saying?! \nWe'll have fun together until the end of time!",
             "name": "Tap Dance City",
             "path_id": -1175355155936837837,
             "block_id": 5,
-            "clip_length": 229
+            "clip_length": 229,
+            "processed": "<story>Hahaha, what are you saying?! \n<story>We'll have fun together until the end of time!"
         },
         {
             "text": "Haha, you exaggerate. \nDo you really think that's gonna happen?",
             "name": "Girl with pigtails",
             "path_id": 9196436756963573849,
             "block_id": 6,
-            "clip_length": 223
+            "clip_length": 223,
+            "processed": "<story>Haha, you exaggerate. \n<story>Do you really think that's gonna happen?"
         },
         {
             "text": "Whether the world turns to ruins or not... \nEventually we'll all graduate from school.",
             "name": "Girl with pigtails",
             "path_id": -2426798348425004741,
             "block_id": 7,
-            "clip_length": 268
+            "clip_length": 268,
+            "processed": "<story>Whether the world turns to ruins or not... \n<story>Eventually we'll all graduate from school."
         },
         {
             "text": "I'm looking over documents that I gathered while \nresearching Tap Dance City's runner strategy.",
@@ -71,7 +78,8 @@
                     "text": "But Katsuragi Ace's \"great escape...\"",
                     "hash": "21accd5b4fb33f8ccb95b181e2b1349bbb4344072807b7385872a910439e68ed"
                 }
-            ]
+            ],
+            "processed": "<story>I'm looking over documents that I gathered while \n<story>researching Tap Dance City's runner strategy."
         },
         {
             "text": "One of the most legendary runners has to be \nSilence Suzuka. Her spectacular record at the \nKinko Sho still stands to this day.",
@@ -84,14 +92,16 @@
                     "text": "To be even better than that...",
                     "hash": "a904eeccf0d62f3f60a02dfdf4ca1c3f5ed0fc80a880c91bce8d8529b0ec8261"
                 }
-            ]
+            ],
+            "processed": "<story>One of the most legendary runners has to be \n<story>Silence Suzuka. Her spectacular record at the \n<story>Kinko Sho still stands to this day."
         },
         {
             "text": "And I'm going to bring them to fruition! How about it?",
             "name": "Tap Dance City",
             "path_id": -7176429057196150839,
             "block_id": 10,
-            "clip_length": 182
+            "clip_length": 182,
+            "processed": "<story>And I'm going to bring them to fruition! How about it?"
         },
         {
             "text": "I shake my head. At that moment, I just couldn't refuse. \nNow I'm here collecting data to make a plan for her.",
@@ -108,21 +118,24 @@
                     "text": "I'm still feeling out our bond.",
                     "hash": "0b94e9051f53e01693e24a9eafd8abc1ca99d56f66d179ba55647f9dc0ebef6a"
                 }
-            ]
+            ],
+            "processed": "<story>I shake my head. At that moment, I just couldn't refuse. \n<story>Now I'm here collecting data to make a plan for her."
         },
         {
             "text": "<i>Yeah!</i> The day has come! \nA race of me <i>versus</i> all of you!",
             "name": "Tap Dance City",
             "path_id": -1015508528852590082,
             "block_id": 12,
-            "clip_length": 233
+            "clip_length": 233,
+            "processed": "<story><i>Yeah!</i> The day has come! \n<story>A race of me <i>versus</i> all of you!"
         },
         {
             "text": "Yeah!",
             "name": "Tap's Friends",
             "path_id": 6512493425723282568,
             "block_id": 13,
-            "clip_length": 56
+            "clip_length": 56,
+            "processed": "<story>Yeah!"
         },
         {
             "text": "Yo, Trainer! What's your plan to steer my path?",
@@ -135,7 +148,8 @@
                     "text": "Let's see...",
                     "hash": "314c1440d856611aa4a7e2b5ae4540f6642051103182cfcbd9781813e483d730"
                 }
-            ]
+            ],
+            "processed": "<story>Yo, Trainer! What's your plan to steer my path?"
         },
         {
             "text": "From what I gathered, none of them are assertive \nenough to run far ahead. It's looking like the race \nwill develop at a slow pace.",
@@ -149,14 +163,16 @@
                     "hash": "f4c4897d5a619892b4c5a3aa8e2c08ad0e72366363fd666467934739bb54e87e",
                     "processed": "<size=35>Don't give them a chance to catch their breath.</size>"
                 }
-            ]
+            ],
+            "processed": "<story>From what I gathered, none of them are assertive \n<story>enough to run far ahead. It's looking like the race \n<story>will develop at a slow pace."
         },
         {
             "text": "Okay... 12.4 seconds per furlong... \nYou've brought out your usual level of detail, eh?",
             "name": "Tap Dance City",
             "path_id": -7139365773494316705,
             "block_id": 16,
-            "clip_length": 302
+            "clip_length": 302,
+            "processed": "<story>Okay... 12.4 seconds per furlong... \n<story>You've brought out your usual level of detail, eh?"
         },
         {
             "text": "And I have to destroy the others through my stamina? You \nthink I've got the strength, let alone brains to timekeep?",
@@ -173,21 +189,24 @@
                     "text": "I do. That's why I made this plan.",
                     "hash": "0c5bbce1087bbb74024070cfdb4b4104a1961557360fe42de2456a57917a90fc"
                 }
-            ]
+            ],
+            "processed": "<story>And I have to destroy the others through my stamina? You \n<story>think I've got the strength, let alone brains to timekeep?"
         },
         {
             "text": "<i>Great!</i> I'm glad I ran so much for you. I'll be sailing to my \nheart's content, over the waves you laid out for me!",
             "name": "Tap Dance City",
             "path_id": -1849441004337657143,
             "block_id": 18,
-            "clip_length": 278
+            "clip_length": 278,
+            "processed": "<story><i>Great!</i> I'm glad I ran so much for you. I'll be sailing to my \n<story>heart's content, over the waves you laid out for me!"
         },
         {
             "text": "Thus, the race begins...",
             "name": "",
             "path_id": -4328856398124187040,
             "block_id": 19,
-            "clip_length": 60
+            "clip_length": 60,
+            "processed": "<story>Thus, the race begins..."
         },
         {
             "text": "Ugh! I can't...! \nThis speed...!",
@@ -195,6 +214,7 @@
             "path_id": 8289582682235664834,
             "block_id": 20,
             "clip_length": 164,
+            "processed": "<story>Ugh! I can't...! \n<story>This speed...!",
             "name_processed": "<sc=90>Horsegirl with sunglasses"
         },
         {
@@ -214,7 +234,8 @@
                     "hash": "591b88f9598c31f1afda46419ac429a498c5c1383fc9be0019dd8fcdcf1968ac",
                     "processed": "<size=42>(I can't believe she's making it work...!)</size>"
                 }
-            ]
+            ],
+            "processed": "<story>The success of this plan was a big gamble. \n<story>Using speed to create a gap early on..."
         },
         {
             "text": "Haaa!",
@@ -231,21 +252,24 @@
                     "text": "Our forces, joined together...",
                     "hash": "7fd62b121859580d33d6efe0ba0f62394151aecd354337ff02d33979ec2bf64d"
                 }
-            ]
+            ],
+            "processed": "<story>Haaa!"
         },
         {
             "text": "Seeing her accelerate even more on the final stretch, \nit's like a dream come true. I'm starting to feel like she'd \nbe able to make any future plans come true as well.",
             "name": "",
             "path_id": 7003734711935001061,
             "block_id": 23,
-            "clip_length": 110
+            "clip_length": 110,
+            "processed": "<story>Seeing her accelerate even more on the final stretch, \n<story>it's like a dream come true. I'm starting to feel like she'd \n<story>be able to make any future plans come true as well."
         },
         {
             "text": "I'm astonished by Tap Dance City's excellent display of \nthe runner strategy,",
             "name": "",
             "path_id": -4570550871994177927,
             "block_id": 24,
-            "clip_length": 69
+            "clip_length": 69,
+            "processed": "<story>I'm astonished by Tap Dance City's excellent display of \n<story>the runner strategy,"
         },
         {
             "text": "I'm sure that she'll be able to surpass \nthe runners of the past!",
@@ -262,7 +286,8 @@
                     "text": "(I will make her the strongest leader!)",
                     "hash": "2e0bcdba23176824cb2d6abe7876bdc201713f40e017b2b407b7d1991f11757a"
                 }
-            ]
+            ],
+            "processed": "<story>I'm sure that she'll be able to surpass \n<story>the runners of the past!"
         },
         {
             "text": "*huff* *huff* Whadda ya think, Trainer? \nWill I be able to be \"the world's greatest horsegirl?\"",
@@ -279,7 +304,8 @@
                     "text": "Yes, I'm sure of it now.",
                     "hash": "7bf2fe24ec3d9eca169b4e4f699967cf9a300fa9a566250e3a8ac707436f8207"
                 }
-            ]
+            ],
+            "processed": "<story>*huff* *huff* Whadda ya think, Trainer? \n<story>Will I be able to be \"the world's greatest horsegirl?\""
         },
         {
             "text": "Bye-bye, Tap! \nThat was a lot of fun!",
@@ -296,7 +322,8 @@
                     "text": "Ah? Isn't she your friend?",
                     "hash": "a850bbbaa80af0b748a17cceb3eb0ef015fec40e82ccae5fb8de8f43e7d02932"
                 }
-            ]
+            ],
+            "processed": "<story>Bye-bye, Tap! \n<story>That was a lot of fun!"
         },
         {
             "text": "\"Bye-bye\"...? ...<i>Sorry, Trainer!</i> \nHey, hold on!",
@@ -309,7 +336,8 @@
                     "text": "...? Tap?!",
                     "hash": "69571aba79b77987fb99ce3da840b58a2770f412711963b78dfd3df634df3245"
                 }
-            ]
+            ],
+            "processed": "<story>\"Bye-bye\"...? ...<i>Sorry, Trainer!</i> \n<story>Hey, hold on!"
         },
         {
             "text": "Huh? Tap? ...And your trainer, too? \nWhy'd you follow me?",
@@ -322,42 +350,48 @@
                     "text": "*huff* That's what I'd like to...",
                     "hash": "afdff26e2c53f94d3c66f53b2bbedfb34676d09ae2d9dfed1805fcc1b428fcce"
                 }
-            ]
+            ],
+            "processed": "<story>Huh? Tap? ...And your trainer, too? \n<story>Why'd you follow me?"
         },
         {
             "text": "You just left all of a sudden. \nHey, you've been acting a bit weird for some time...",
             "name": "Tap Dance City",
             "path_id": -7630845003101171738,
             "block_id": 30,
-            "clip_length": 294
+            "clip_length": 294,
+            "processed": "<story>You just left all of a sudden. \n<story>Hey, you've been acting a bit weird for some time..."
         },
         {
             "text": "...... We... We can't be together forever \nI thought it was time to say goodbye.",
             "name": "Girl with pigtails",
             "path_id": 8236187599985781108,
             "block_id": 31,
-            "clip_length": 333
+            "clip_length": 333,
+            "processed": "<story>...... We... We can't be together forever \n<story>I thought it was time to say goodbye."
         },
         {
             "text": "You see... I got a C on the mock exam for the university \nI want to go to... So my mom arranged for me to go \nto cram school starting tomorrow.",
             "name": "Girl with pigtails",
             "path_id": 9023317586212027461,
             "block_id": 32,
-            "clip_length": 291
+            "clip_length": 291,
+            "processed": "<story>You see... I got a C on the mock exam for the university \n<story>I want to go to... So my mom arranged for me to go \n<story>to cram school starting tomorrow."
         },
         {
             "text": "...And? It's not like you won't have any free time. \nAnd what about after the exams are over?",
             "name": "Tap Dance City",
             "path_id": 3983574205617595901,
             "block_id": 33,
-            "clip_length": 238
+            "clip_length": 238,
+            "processed": "<story>...And? It's not like you won't have any free time. \n<story>And what about after the exams are over?"
         },
         {
             "text": "Tap... It's not like we'll be kids forever. You should be \na bit more realistic, or you'll never grow up.",
             "name": "Girl with pigtails",
             "path_id": -6830810641381430656,
             "block_id": 34,
-            "clip_length": 386
+            "clip_length": 386,
+            "processed": "<story>Tap... It's not like we'll be kids forever. You should be \n<story>a bit more realistic, or you'll never grow up."
         },
         {
             "text": "...!",
@@ -370,7 +404,8 @@
                     "text": "(\"More realistic...\")",
                     "hash": "c7c6da6467f536886d212a1f5f0cab8518e4686f5202eafde30ca44a1353cd66"
                 }
-            ]
+            ],
+            "processed": "<story>...!"
         },
         {
             "text": "You should act a bit more realistic. You're an adult. \nWhat you're going for is like a child's dream.",
@@ -383,7 +418,8 @@
                     "text": "(...It comes up again.)",
                     "hash": "c64fdab7a4cca3c2b74c8bd4eb0c2944d5321f70d724183d766ff83ee7037cfa"
                 }
-            ]
+            ],
+            "processed": "<story>You should act a bit more realistic. You're an adult. \n<story>What you're going for is like a child's dream."
         },
         {
             "text": "Haha! I see... More realistic... More realistic! Yeah, \nof course! Realistically, us breaking up is inevitable!",
@@ -396,7 +432,8 @@
                     "text": "Hold on, Tap...",
                     "hash": "c7551d7bce79bee22e2f9adc5d23e936664839a485517e4dba34d8cd69a7c18f"
                 }
-            ]
+            ],
+            "processed": "<story>Haha! I see... More realistic... More realistic! Yeah, \n<story>of course! Realistically, us breaking up is inevitable!"
         },
         {
             "text": "Farewells happen at many turning points in life. \nGraduating, getting employed, moving, arguments...",
@@ -409,57 +446,65 @@
                     "text": "(Real life is cruel like that...)",
                     "hash": "3a0d6b78eb2a0e6d3dcd8512c72e37c1a0dbe4c00e82d38c56343be7eab1b5fa"
                 }
-            ]
+            ],
+            "processed": "<story>Farewells happen at many turning points in life. \n<story>Graduating, getting employed, moving, arguments..."
         },
         {
             "text": "Pu-hah! Hahaha! I get it, I get it. \nSo... How about we continue \"realistically.\"",
             "name": "Tap Dance City",
             "path_id": -924783347917176789,
             "block_id": 39,
-            "clip_length": 518
+            "clip_length": 518,
+            "processed": "<story>Pu-hah! Hahaha! I get it, I get it. \n<story>So... How about we continue \"realistically.\""
         },
         {
             "text": "Huh?",
             "name": "Girl with pigtails",
             "path_id": -6686953107684712280,
             "block_id": 40,
-            "clip_length": 28
+            "clip_length": 28,
+            "processed": "<story>Huh?"
         },
         {
             "text": "Think about it. All our paths are starting to diverge. All \nwe need is a means, a place and a time to meet up again!",
             "name": "Tap Dance City",
             "path_id": -4140391700401252911,
             "block_id": 41,
-            "clip_length": 292
+            "clip_length": 292,
+            "processed": "<story>Think about it. All our paths are starting to diverge. All \n<story>we need is a means, a place and a time to meet up again!"
         },
         {
             "text": "All we need is the power of money, and our paths \nwill meet again! ...Am I wrong?",
             "name": "Tap Dance City",
             "path_id": -3132729301454716790,
             "block_id": 42,
-            "clip_length": 235
+            "clip_length": 235,
+            "processed": "<story>All we need is the power of money, and our paths \n<story>will meet again! ...Am I wrong?"
         },
         {
             "text": "Of course, you don't need to worry about the money! \nI'm gonna build the most amazing castle for us all!",
             "name": "Tap Dance City",
             "path_id": -1549515825296631983,
             "block_id": 43,
-            "clip_length": 211
+            "clip_length": 211,
+            "processed": "<story>Of course, you don't need to worry about the money! \n<story>I'm gonna build the most amazing castle for us all!"
         },
         {
             "text": "All I need now is a ship. \nHey, Trainer!",
             "name": "Tap Dance City",
             "path_id": -8061899644767017782,
             "block_id": 44,
-            "clip_length": 169
+            "clip_length": 169,
+            "processed": "<story>All I need now is a ship. \n<story>Hey, Trainer!"
         },
         {
             "text": "Let me ask you again. \nWill I be able to be \"the world's greatest horsegirl?\"",
             "name": "Tap Dance City",
             "path_id": -5790663438045103877,
             "block_id": 45,
-            "clip_length": 267
+            "clip_length": 267,
+            "processed": "<story>Let me ask you again. \n<story>Will I be able to be \"the world's greatest horsegirl?\""
         }
     ],
-    "title": "Back Brush"
+    "title": ""
 }
