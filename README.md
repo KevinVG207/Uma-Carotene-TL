@@ -9,6 +9,11 @@ Translations on this repository are made by KevinVG207 or taken from [GameTora](
 
 The *CODE* of this project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International** license. This means it may be shared and adapted without commercial use. No part of the code of this project may be distributed if a monetary transaction was required before the distribution. (No paywalling.) For more information, see ``LICENSE.md``.
 
+## Credits
+Translation credits can be found in this [Google Sheets](https://docs.google.com/spreadsheets/d/1NTGzdvDuab0gaSi6Yt8CBSchxDXCbrkSsxPESXCHCaU/edit?usp=sharing).
+
+Thank you to all the people who have contributed to this project as well as its sources!
+
 ## Requirements
 This project assumes the use of Windows 10 (11 not tested.)
 
