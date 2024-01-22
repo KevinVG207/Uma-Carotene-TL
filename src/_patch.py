@@ -376,7 +376,7 @@ def _import_story(story_data):
         
         if new_clip_length > org_clip_length:
             text_clip_data['ClipLength'] = new_clip_length
-            # old_block_length = block_data['BlockLength']
+            old_block_length = block_data['BlockLength']
             new_block_length = new_clip_length + text_clip_data['StartFrame'] + 1
             block_data['BlockLength'] = new_block_length
 
@@ -402,7 +402,7 @@ def _import_story(story_data):
                 clip_asset = root.assets_file.files[clip_path_id]
                 clip_tree = clip_asset.read_typetree()
 
-                if clip_tree['StartFrame'] + clip_tree['ClipLength'] < org_clip_length:
+                if clip_tree['StartFrame'] + clip_tree['ClipLength'] < old_block_length:
                     continue
 
                 tmp_clip_length = clip_tree['ClipLength'] + new_clip_length - org_clip_length
