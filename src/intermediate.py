@@ -284,8 +284,14 @@ def process_asset(path):
             new_item['clip_length'] = item['clip_length']
         if 'choices' in item:
             new_item['choices'] = item['choices']
-        if 'anim_data' in item:
-            new_item['anim_data'] = item['anim_data']
+            for choice in new_item['choices']:
+                choice_source = choice['source']
+                choice_hash = hashlib.sha256(choice_source.encode('utf-8')).hexdigest()
+                choice['hash'] = choice_hash
+                del choice['source']
+
+        # if 'anim_data' in item:
+        #     new_item['anim_data'] = item['anim_data']
         if 'color_info' in item:
             new_item['color_info'] = item['color_info']
         new_chapter_data['data'].append(new_item)

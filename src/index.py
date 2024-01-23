@@ -153,27 +153,13 @@ def load_asset_data(row_metadata):
                     clip_item["clip_length"] = text_data["ClipLength"]
                     clip_item["source_clip_length"] = text_data["ClipLength"]
 
-                    for track_group in block['CharacterTrackList']:
-                        for key in track_group.keys():
-                            if key.endswith("MotionTrackData") and track_group[key]['ClipList']:
-                                if 'anim_data' not in clip_item:
-                                    clip_item['anim_data'] = []
-                                clip_path_id = track_group[key]['ClipList'][-1]['m_PathID']
-                                anim_asset = root.assets_file.files[clip_path_id]
-                                if anim_asset:
-                                    anim_data = anim_asset.read_typetree()
-                                    anim_group_data = {}
-                                    anim_group_data['orig_length'] = anim_data['ClipLength']
-                                    anim_group_data['path_id'] = clip_path_id
-                                    clip_item['anim_data'].append(anim_group_data)
-
                 if text_data.get('ChoiceDataList'):
                     clip_item["choices"] = []
                     for choice in text_data['ChoiceDataList']:
                         choice_item = {
                             "text": "",
                             "source": choice['Text'],
-                            # "source_hash": hashlib.sha256(str(choice['Text']).encode("utf-8")).hexdigest(),
+                            "hash": hashlib.sha256(str(choice['Text']).encode("utf-8")).hexdigest(),
                         }
                         clip_item["choices"].append(choice_item)
                 
@@ -183,7 +169,7 @@ def load_asset_data(row_metadata):
                         color_item = {
                             "text": "",
                             "source": color_info['Text'],
-                            # "source_hash": hashlib.sha256(str(color_info['Text']).encode("utf-8")).hexdigest(),
+                            "hash": hashlib.sha256(str(color_info['Text']).encode("utf-8")).hexdigest(),
                         }
                         clip_item["color_info"].append(color_item)
 
@@ -278,8 +264,14 @@ def update_story_intermediate(path_to_existing):
             continue
 
         if line['text'] or line['name']:
-            for key, value in line.items():
-                intermediate_data['data'][i][key] = value
+            intermediate_data['data'][i]['text'] = line['text']
+            intermediate_data['data'][i]['name'] = line['name']
+            intermediate_data['data'][i]['clip_length'] = line['clip_length']
+            if 'choices' in line:
+                for j, choice in enumerate(line['choices']):
+                    intermediate_data['data'][i]['choices'][j]['text'] = choice['text']
+            # for key, value in line.items():
+            #     intermediate_data['data'][i][key] = value
     with open(intermediate_path, "w", encoding="utf-8") as f:
         f.write(util.json.dumps(intermediate_data, indent=4, ensure_ascii=False))
 

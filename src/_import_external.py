@@ -527,15 +527,16 @@ def apply_gametora_title_missions():
 
 def main():
     # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
+    import_external_story('story/04/1107', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1107?ref=tap-dance-city')
 
-    umapyoi_chara_ids = get_umapyoi_chara_ids()
-    apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    apply_umapyoi_outfits(umapyoi_chara_ids)
-    apply_umapyoi_vas()
+    # umapyoi_chara_ids = get_umapyoi_chara_ids()
+    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    # apply_umapyoi_outfits(umapyoi_chara_ids)
+    # apply_umapyoi_vas()
 
-    apply_gametora_skills()
-    apply_gametora_missions()
-    apply_gametora_title_missions()
+    # apply_gametora_skills()
+    # apply_gametora_missions()
+    # apply_gametora_title_missions()
     pass
 
 if __name__ == "__main__":

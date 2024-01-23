@@ -16,7 +16,8 @@
             "name": "",
             "path_id": -8696819820456880974,
             "block_id": 1,
-            "clip_length": 81
+            "clip_length": 81,
+            "processed": "<story>A few weeks passed since I started helping \n<story>Mihono Bourbon train in secret."
         },
         {
             "text": "*huff huff*",
@@ -27,20 +28,22 @@
             "choices": [
                 {
                     "text": "Hang on! You're almost there!",
-                    "source": "踏ん張れ！あと少しだ！"
+                    "hash": "88985088cca0c68bb92944dbb670e3fd8ca0b40e2dd6c6a8a6325379e691594c"
                 },
                 {
                     "text": "Hang on! You're almost there!",
-                    "source": "踏ん張れ！あと少しだよ！"
+                    "hash": "9230e665b14f2ae27e642d1eb985520cb463328947f850f79b01bb7210a528c0"
                 }
-            ]
+            ],
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "Hng!",
             "name": "Mihono Bourbon",
             "path_id": 1167931170662864705,
             "block_id": 3,
-            "clip_length": 46
+            "clip_length": 46,
+            "processed": "<story>Hng!"
         },
         {
             "text": "*pant pant* \nThat's... a new record!",
@@ -51,23 +54,14 @@
             "choices": [
                 {
                     "text": "Well done!",
-                    "source": "よく頑張った！"
+                    "hash": "af6114f2bca2365fb3565a6a526f90ba8ca90258e67071456bbebf59eff40784"
                 },
                 {
                     "text": "Well done!",
-                    "source": "よく頑張ったね！"
+                    "hash": "b50a4bda64c3ae0cbce7299e3fcedd53eceb75c2bc6b1418cf99ecbb76a5f233"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": -2169800901024725473
-                },
-                {
-                    "orig_length": 243,
-                    "path_id": 5340276788110962452
-                }
-            ]
+            "processed": "<story>*pant pant* \n<story>That's... a new record!"
         },
         {
             "text": "I appreciate your encouragement. \nWhen my stamina recovers, I will checkout the lactic acid \ntolerance branch... And proceed towards the slope.",
@@ -78,19 +72,10 @@
             "choices": [
                 {
                     "text": "Let's try one more run today.",
-                    "source": "今日から、1本追加して走ろう"
+                    "hash": "0c07907ad0a3f6534c80ebd40cc2c5691f4b08ea63f9707a771a36b1429cc598"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 267,
-                    "path_id": -6145169788119507827
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -3892286808549810382
-                }
-            ]
+            "processed": "<story>I appreciate your encouragement. \n<story>When my stamina recovers, I will checkout the lactic acid \n<story>tolerance branch... And proceed towards the slope."
         },
         {
             "text": "Advice recognized. Input parsed. \nFlowchart updated. Added one more run up the slope.",
@@ -98,16 +83,7 @@
             "path_id": 6355777506122235645,
             "block_id": 6,
             "clip_length": 208,
-            "anim_data": [
-                {
-                    "orig_length": 113,
-                    "path_id": -3653376351861964452
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 6899824554113517140
-                }
-            ]
+            "processed": "<story>Advice recognized. Input parsed. \n<story>Flowchart updated. Added one more run up the slope."
         },
         {
             "text": "Energy recovered. Proceding to run up the slope.",
@@ -115,16 +91,7 @@
             "path_id": 6540224109540483577,
             "block_id": 7,
             "clip_length": 140,
-            "anim_data": [
-                {
-                    "orig_length": 42,
-                    "path_id": 5973856714614748407
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -7785383953173967168
-                }
-            ]
+            "processed": "<story>Energy recovered. Proceding to run up the slope."
         },
         {
             "text": "So far, she has not once complained about my \ndifficult training. She acts like it's nothing.",
@@ -135,15 +102,10 @@
             "choices": [
                 {
                     "text": "(She might actually be able to...)",
-                    "source": "（短距離にすべきだと思っていた。けど）"
+                    "hash": "08e10b7fe8ca35b8a4367754ec8ae11d48bd71dc96a48189ba6191e31ac70b52"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 58,
-                    "path_id": 1249574937987116862
-                }
-            ]
+            "processed": "<story>So far, she has not once complained about my \n<story>difficult training. She acts like it's nothing."
         },
         {
             "text": "Before I knew it, her total determination had captured me.",
@@ -154,15 +116,10 @@
             "choices": [
                 {
                     "text": "(You can do it, Mihono Bourbon!)",
-                    "source": "（頑張れ、ミホノブルボン……！）"
+                    "hash": "8b1d4669afd172e04ea7a54fe96dcc15b60caa99cb54d366b56a468609365ca5"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 106,
-                    "path_id": 241359779206179290
-                }
-            ]
+            "processed": "<story>Before I knew it, her total determination had captured me."
         },
         {
             "text": "*huff huff*",
@@ -170,12 +127,7 @@
             "path_id": 908316684339015491,
             "block_id": 10,
             "clip_length": 91,
-            "anim_data": [
-                {
-                    "orig_length": 106,
-                    "path_id": 6925028235864754446
-                }
-            ]
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "I realized that with enough time, she might actually \nbe able to partake in medium and long races. \nBut then...",
@@ -183,16 +135,7 @@
             "path_id": -45778115136332010,
             "block_id": 11,
             "clip_length": 108,
-            "anim_data": [
-                {
-                    "orig_length": 164,
-                    "path_id": 8330879534413329320
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -6722358018039610645
-                }
-            ]
+            "processed": "<story>I realized that with enough time, she might actually \n<story>be able to partake in medium and long races. \n<story>But then..."
         },
         {
             "text": "So you're the trainer who let her do long-distance \ntraining behind my back?",
@@ -200,20 +143,7 @@
             "path_id": -6384641144185521207,
             "block_id": 12,
             "clip_length": 163,
-            "anim_data": [
-                {
-                    "orig_length": 13,
-                    "path_id": -1572114337427266228
-                },
-                {
-                    "orig_length": 265,
-                    "path_id": -1747172798122705906
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 6610130430109483364
-                }
-            ]
+            "processed": "<story>So you're the trainer who let her do long-distance \n<story>training behind my back?"
         },
         {
             "text": "Mihono Bourbon's real trainer called me over after \nhe realized what happened. Her behavior \nduring trainings had changed over time.",
@@ -221,12 +151,7 @@
             "path_id": -7080893092440987182,
             "block_id": 13,
             "clip_length": 110,
-            "anim_data": [
-                {
-                    "orig_length": 123,
-                    "path_id": -5669605398245245695
-                }
-            ]
+            "processed": "<story>Mihono Bourbon's real trainer called me over after \n<story>he realized what happened. Her behavior \n<story>during trainings had changed over time."
         },
         {
             "text": "Master, the nightly trainings were all my own decision. \nThus, this person has no relation to it.",
@@ -234,16 +159,7 @@
             "path_id": 6075100538178037756,
             "block_id": 14,
             "clip_length": 230,
-            "anim_data": [
-                {
-                    "orig_length": 217,
-                    "path_id": -42644080563483678
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -7357623837554320066
-                }
-            ]
+            "processed": "<story>Master, the nightly trainings were all my own decision. \n<story>Thus, this person has no relation to it."
         },
         {
             "text": "He was with you every night, of course he's related to it! \nAt the very least, he pitied you and watched.",
@@ -254,19 +170,10 @@
             "choices": [
                 {
                     "text": "I wasn't pitying...",
-                    "source": "同情のつもりでは……"
+                    "hash": "f115dfc5d917a4b235dc4928e0c04bef336a57325668b0098dc13081a0d7be4f"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 334,
-                    "path_id": 3475007421579572650
-                },
-                {
-                    "orig_length": 70,
-                    "path_id": 4591741040321774231
-                }
-            ]
+            "processed": "<story>He was with you every night, of course he's related to it! \n<story>At the very least, he pitied you and watched."
         },
         {
             "text": "She's told me about the Triple Crown many times, \nbut I can't have her take any risks! You're a trainer, \nso you must understand that as well.",
@@ -274,16 +181,7 @@
             "path_id": -8960060689164299312,
             "block_id": 16,
             "clip_length": 332,
-            "anim_data": [
-                {
-                    "orig_length": 334,
-                    "path_id": -5830941545807227261
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -7842578809407646718
-                }
-            ]
+            "processed": "<story>She's told me about the Triple Crown many times, \n<story>but I can't have her take any risks! You're a trainer, \n<story>so you must understand that as well."
         },
         {
             "text": "Even so, I joined this academy to attain the Triple Crown. \nI have no intention of altering my objective.",
@@ -291,16 +189,7 @@
             "path_id": 6203983062170701570,
             "block_id": 17,
             "clip_length": 240,
-            "anim_data": [
-                {
-                    "orig_length": 161,
-                    "path_id": 2151717470504432623
-                },
-                {
-                    "orig_length": 50,
-                    "path_id": -5224646260415936074
-                }
-            ]
+            "processed": "<story>Even so, I joined this academy to attain the Triple Crown. \n<story>I have no intention of altering my objective."
         },
         {
             "text": "Mihono Bourbon's trainer released a deep sigh \nafter hearing her stubborn response.",
@@ -308,12 +197,7 @@
             "path_id": -2873239583245709606,
             "block_id": 18,
             "clip_length": 90,
-            "anim_data": [
-                {
-                    "orig_length": 161,
-                    "path_id": -188083888781240744
-                }
-            ]
+            "processed": "<story>Mihono Bourbon's trainer released a deep sigh \n<story>after hearing her stubborn response."
         },
         {
             "text": "*sigh* Okay, you get one more chance to show you're \ncapable of it. Show me you can run run 3 kilometers, \nlike the Kikka Sho. Right now.",
@@ -324,15 +208,10 @@
             "choices": [
                 {
                     "text": "(What is he saying?!)",
-                    "source": "（そんな、無茶な）"
+                    "hash": "62fd3ae49d19f286ce3c4fff8212d9243042f298a83fd283883db55b92bdd510"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 416,
-                    "path_id": 8361992112394156621
-                }
-            ]
+            "processed": "<story>*sigh* Okay, you get one more chance to show you're \n<story>capable of it. Show me you can run run 3 kilometers, \n<story>like the Kikka Sho. Right now."
         },
         {
             "text": "Understood.",
@@ -343,15 +222,10 @@
             "choices": [
                 {
                     "text": "?!",
-                    "source": "！？"
+                    "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 416,
-                    "path_id": 7249019152599838594
-                }
-            ]
+            "processed": "<story>Understood."
         },
         {
             "text": "I will persuade you.",
@@ -359,12 +233,7 @@
             "path_id": -7931610868079041030,
             "block_id": 21,
             "clip_length": 86,
-            "anim_data": [
-                {
-                    "orig_length": 50,
-                    "path_id": 1520208027767669074
-                }
-            ]
+            "processed": "<story>I will persuade you."
         },
         {
             "text": "She quickly heads over to the race track and starts \non the 3000 meters. To be honest, I doubt she will \nbe able to complete it with her current stamina...",
@@ -375,19 +244,10 @@
             "choices": [
                 {
                     "text": "(Will she really make it...)",
-                    "source": "（大丈夫かな……）"
+                    "hash": "403aa64a91a2d291e20f72acee7d0d421820c93678b306e05f1cb1c07768c3a8"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 71,
-                    "path_id": -8095951853496999117
-                },
-                {
-                    "orig_length": 16,
-                    "path_id": -9066598931563840325
-                }
-            ]
+            "processed": "<story>She quickly heads over to the race track and starts \n<story>on the 3000 meters. To be honest, I doubt she will \n<story>be able to complete it with her current stamina..."
         },
         {
             "text": "*huff huff*",
@@ -395,12 +255,7 @@
             "path_id": -6471139341947680893,
             "block_id": 23,
             "clip_length": 65,
-            "anim_data": [
-                {
-                    "orig_length": 191,
-                    "path_id": 1636448030434869441
-                }
-            ]
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "(1600 meters passed. Lap time is good. 1400 meters left...) \n(Disturbance in breathing rhythm detected. Pace is decreasing \nand failing to keep consistency.)",
@@ -408,16 +263,7 @@
             "path_id": 4224285147004652230,
             "block_id": 24,
             "clip_length": 313,
-            "anim_data": [
-                {
-                    "orig_length": 352,
-                    "path_id": -6069836510736482302
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 8451294797278612660
-                }
-            ]
+            "processed": "<story>(1600 meters passed. Lap time is good. 1400 meters left...) \n<story>(Disturbance in breathing rhythm detected. Pace is decreasing \n<story>and failing to keep consistency.)"
         },
         {
             "text": "Hng!",
@@ -425,16 +271,7 @@
             "path_id": 8616981951468004904,
             "block_id": 25,
             "clip_length": 65,
-            "anim_data": [
-                {
-                    "orig_length": 98,
-                    "path_id": -3291384079949248342
-                },
-                {
-                    "orig_length": 37,
-                    "path_id": 3323271552346155965
-                }
-            ]
+            "processed": "<story>Hng!"
         },
         {
             "text": "Just like I thought. Her pace slowed after 2 kilometers and \nshe was barely able to walk when she crossed the finish line.",
@@ -442,16 +279,7 @@
             "path_id": 2713372896523014772,
             "block_id": 26,
             "clip_length": 118,
-            "anim_data": [
-                {
-                    "orig_length": 193,
-                    "path_id": -4195406649265209651
-                },
-                {
-                    "orig_length": 46,
-                    "path_id": 5530574276714834688
-                }
-            ]
+            "processed": "<story>Just like I thought. Her pace slowed after 2 kilometers and \n<story>she was barely able to walk when she crossed the finish line."
         },
         {
             "text": "*huff huff*",
@@ -459,16 +287,7 @@
             "path_id": -8055845433899759672,
             "block_id": 27,
             "clip_length": 124,
-            "anim_data": [
-                {
-                    "orig_length": 193,
-                    "path_id": -6414263600528638542
-                },
-                {
-                    "orig_length": 142,
-                    "path_id": -1102264705647923165
-                }
-            ]
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "See? Give up already. It's a waste of time to continue. \nYou're not cut out for longer race distances.",
@@ -479,19 +298,10 @@
             "choices": [
                 {
                     "text": "(Truthfully, she isn't. But still...)",
-                    "source": "（たしかに、向いてはいない。でも――）"
+                    "hash": "96d8654e9d8f4730e18aec0c3f4ed64ebdd3ad64b673c48ac80cd55ed7bd09f4"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 267,
-                    "path_id": -780676095571953537
-                },
-                {
-                    "orig_length": 259,
-                    "path_id": -5049324954290267635
-                }
-            ]
+            "processed": "<story>See? Give up already. It's a waste of time to continue. \n<story>You're not cut out for longer race distances."
         },
         {
             "text": "I've seen her willingness to train for the Triple Crown. \nI know how determined she is to reach it.",
@@ -501,43 +311,26 @@
             "clip_length": 111,
             "choices": [
                 {
-                    "text": "<size=40>Why won't you let her follow her dreams?</size>",
-                    "source": "彼女の夢を尊重しませんか"
+                    "text": "Why won't you let her follow her dreams?",
+                    "hash": "ecae6a352e7d88f8ec2fb4beebb1bc59c1c3a0178190a8c197553a8a1b8a1027",
+                    "processed": "<size=40>Why won't you let her follow her dreams?</size>"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 135,
-                    "path_id": 1566621836511338059
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 7881415617437756132
-                }
-            ]
+            "processed": "<story>I've seen her willingness to train for the Triple Crown. \n<story>I know how determined she is to reach it."
         },
         {
             "text": "<i>She</i> is the one who would suffer through her own bad \ndecision to go after something she's not cut out for. \nWhat do you not understand about that?",
             "name": "Veteran Trainer",
             "path_id": 8630338058811726518,
             "block_id": 30,
-            "clip_length": 220,
+            "clip_length": 183,
             "choices": [
                 {
                     "text": "I just...",
-                    "source": "でも――"
+                    "hash": "7d8485a5d4161c22d32848f2719604881f323fa382a65af22c9b62c8ea6b005e"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 205,
-                    "path_id": -3056947593084478619
-                },
-                {
-                    "orig_length": 204,
-                    "path_id": -2738689426122767790
-                }
-            ]
+            "processed": "<story><i>She</i> is the one who would suffer through her own bad \n<story>decision to go after something she's not cut out for. \n<story>What do you not understand about that?"
         },
         {
             "text": "Stop, I don't want to get into an argument with you. \nBourbon, I need to know how you really feel, \nnow that you've tried running that 3 kilometers.",
@@ -545,16 +338,7 @@
             "path_id": 7048423149596272517,
             "block_id": 31,
             "clip_length": 343,
-            "anim_data": [
-                {
-                    "orig_length": 239,
-                    "path_id": 8417525970733348449
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 7898986281275474410
-                }
-            ]
+            "processed": "<story>Stop, I don't want to get into an argument with you. \n<story>Bourbon, I need to know how you really feel, \n<story>now that you've tried running that 3 kilometers."
         },
         {
             "text": "<i>How I really feel</i>...",
@@ -562,16 +346,7 @@
             "path_id": 4006809250807159937,
             "block_id": 32,
             "clip_length": 61,
-            "anim_data": [
-                {
-                    "orig_length": 122,
-                    "path_id": -2719097920590871204
-                },
-                {
-                    "orig_length": 98,
-                    "path_id": -3268381267314364010
-                }
-            ]
+            "processed": "<story><i>How I really feel</i>..."
         },
         {
             "text": "She looked confused, but then started speaking.",
@@ -579,16 +354,7 @@
             "path_id": -6622269234145636687,
             "block_id": 33,
             "clip_length": 73,
-            "anim_data": [
-                {
-                    "orig_length": 122,
-                    "path_id": -3116911432239027655
-                },
-                {
-                    "orig_length": 98,
-                    "path_id": 4500583418135947676
-                }
-            ]
+            "processed": "<story>She looked confused, but then started speaking."
         },
         {
             "text": "I my goal of the Triple Crown is hardcoded... \nI apologize....",
@@ -596,16 +362,7 @@
             "path_id": 5832342864045141522,
             "block_id": 34,
             "clip_length": 199,
-            "anim_data": [
-                {
-                    "orig_length": 194,
-                    "path_id": -7227485479017021080
-                },
-                {
-                    "orig_length": 101,
-                    "path_id": 644764626778317836
-                }
-            ]
+            "processed": "<story>I my goal of the Triple Crown is hardcoded... \n<story>I apologize...."
         },
         {
             "text": "So please, Master...",
@@ -613,16 +370,7 @@
             "path_id": 9052687645936511661,
             "block_id": 35,
             "clip_length": 79,
-            "anim_data": [
-                {
-                    "orig_length": 81,
-                    "path_id": -6158684707163696899
-                },
-                {
-                    "orig_length": 91,
-                    "path_id": -5202537275063654426
-                }
-            ]
+            "processed": "<story>So please, Master..."
         },
         {
             "text": "...",
@@ -630,16 +378,7 @@
             "path_id": 2192919277249073869,
             "block_id": 36,
             "clip_length": 56,
-            "anim_data": [
-                {
-                    "orig_length": 81,
-                    "path_id": 4448473670865845168
-                },
-                {
-                    "orig_length": 91,
-                    "path_id": -5357969023434841859
-                }
-            ]
+            "processed": "<story>..."
         },
         {
             "text": "I see. Then I will let you do what you wish... \nOn the condition that we end our contract \nright here, right now.",
@@ -647,16 +386,7 @@
             "path_id": 3371366853541936486,
             "block_id": 37,
             "clip_length": 307,
-            "anim_data": [
-                {
-                    "orig_length": 159,
-                    "path_id": 3596272446989704765
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -7338397011074163654
-                }
-            ]
+            "processed": "<story>I see. Then I will let you do what you wish... \n<story>On the condition that we end our contract \n<story>right here, right now."
         },
         {
             "text": "...... \nI accept your proposal.",
@@ -664,16 +394,7 @@
             "path_id": 3964345557408002668,
             "block_id": 38,
             "clip_length": 145,
-            "anim_data": [
-                {
-                    "orig_length": 71,
-                    "path_id": 6490450912416385352
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": 2897273478214562447
-                }
-            ]
+            "processed": "<story>...... \n<story>I accept your proposal."
         },
         {
             "text": "To think you were so foolish... \nYou disappoint me, Bourbon.",
@@ -681,12 +402,7 @@
             "path_id": 6739150508649875609,
             "block_id": 39,
             "clip_length": 193,
-            "anim_data": [
-                {
-                    "orig_length": 214,
-                    "path_id": -7946783497704100824
-                }
-            ]
+            "processed": "<story>To think you were so foolish... \n<story>You disappoint me, Bourbon."
         },
         {
             "text": "Mihono Bourbon's trainer left the race course \nwithout saying another word after that..",
@@ -694,16 +410,7 @@
             "path_id": 3888446195881135571,
             "block_id": 40,
             "clip_length": 89,
-            "anim_data": [
-                {
-                    "orig_length": 118,
-                    "path_id": 1040016777381748391
-                },
-                {
-                    "orig_length": 99,
-                    "path_id": -4981658492165278132
-                }
-            ]
+            "processed": "<story>Mihono Bourbon's trainer left the race course \n<story>without saying another word after that.."
         },
         {
             "text": "...",
@@ -714,19 +421,10 @@
             "choices": [
                 {
                     "text": "Are you okay after all that?",
-                    "source": "……大丈夫？"
+                    "hash": "4c4707c203742b7d444b454beef35d2125cbd0b8ccc22df559c94949d3d3deda"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 111,
-                    "path_id": -1855148916077231388
-                },
-                {
-                    "orig_length": 87,
-                    "path_id": -5003706174088152510
-                }
-            ]
+            "processed": "<story>..."
         },
         {
             "text": "Due to the loss of my Master, I have entered \na state best described as 'bewildered.'",
@@ -734,16 +432,7 @@
             "path_id": 4338069617769482829,
             "block_id": 42,
             "clip_length": 128,
-            "anim_data": [
-                {
-                    "orig_length": 180,
-                    "path_id": -5703173849542554998
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -1597581182287962870
-                }
-            ]
+            "processed": "<story>Due to the loss of my Master, I have entered \n<story>a state best described as 'bewildered.'"
         },
         {
             "text": "Even after all that nighttime training, I still \nwasn't able to complete a 3000 meter run.",
@@ -751,16 +440,7 @@
             "path_id": -4186412338731851701,
             "block_id": 43,
             "clip_length": 254,
-            "anim_data": [
-                {
-                    "orig_length": 139,
-                    "path_id": -3255080039027312792
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -4243617759331368183
-                }
-            ]
+            "processed": "<story>Even after all that nighttime training, I still \n<story>wasn't able to complete a 3000 meter run."
         },
         {
             "text": "My objective for the Triple Crown is a constant. \nAnd yet, I'm starting to doubt whether it was \nthe correct choice.",
@@ -771,19 +451,10 @@
             "choices": [
                 {
                     "text": "Of course it's the right choice!",
-                    "source": "正しいに決まってる"
+                    "hash": "053f49c79097e82e5b9db9ccf395066be46a084c3e52955641679821f133c5bc"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 121,
-                    "path_id": -7281883754320752054
-                },
-                {
-                    "orig_length": 78,
-                    "path_id": -7596278812748950427
-                }
-            ]
+            "processed": "<story>My objective for the Triple Crown is a constant. \n<story>And yet, I'm starting to doubt whether it was \n<story>the correct choice."
         },
         {
             "text": "She managed to train hard every day without complaining. \nBut more importantly, she has an immense passion for it.",
@@ -791,16 +462,7 @@
             "path_id": 4301686972006757830,
             "block_id": 45,
             "clip_length": 111,
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 1532069780063024020
-                },
-                {
-                    "orig_length": 160,
-                    "path_id": -1311341759747440784
-                }
-            ]
+            "processed": "<story>She managed to train hard every day without complaining. \n<story>But more importantly, she has an immense passion for it."
         },
         {
             "text": "A burning passion to attain the Triple Crown!",
@@ -810,24 +472,17 @@
             "clip_length": 76,
             "choices": [
                 {
-                    "text": "<size=39>I support you, no matter what others say!</size>",
-                    "source": "誰が何と言おうと俺はブルボンを応援する"
+                    "text": "I support you, no matter what others say!",
+                    "hash": "0af5d411cd61e7a5aa7bee21faa15fd82eb3b405f613f3550f338bc159ed74a2",
+                    "processed": "<size=40>I support you, no matter what others say!</size>"
                 },
                 {
-                    "text": "<size=39>I support you, no matter what others say!</size>",
-                    "source": "誰が何と言おうと私はブルボンを応援する"
+                    "text": "I support you, no matter what others say!",
+                    "hash": "736055955987d8506f7742a7b6e0340a5e149a3f58a72e316162b1bce9e8acfc",
+                    "processed": "<size=40>I support you, no matter what others say!</size>"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 133,
-                    "path_id": -9167755796306156437
-                },
-                {
-                    "orig_length": 160,
-                    "path_id": -3787368223417113462
-                }
-            ]
+            "processed": "<story>A burning passion to attain the Triple Crown!"
         },
         {
             "text": "...!",
@@ -838,23 +493,14 @@
             "choices": [
                 {
                     "text": "I will help you fulfill your dream!",
-                    "source": "だから……今度は俺と一緒に夢を叶えよう"
+                    "hash": "92cc1b47c2bd990b7b06a6f405a497846c8843051d785655a15e1c0cbc5aaa73"
                 },
                 {
                     "text": "I will help you fulfill your dream!",
-                    "source": "だから……今度は私と一緒に夢を叶えよう"
+                    "hash": "dbf3b5c865a0e54829190a7f3c9d3091b07f7035abf2667b593fc87d64d7627a"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 635972581234176292
-                },
-                {
-                    "orig_length": 21,
-                    "path_id": -3750241855447519333
-                }
-            ]
+            "processed": "<story>...!"
         },
         {
             "text": "Her eyes started to quiver a little.",
@@ -862,12 +508,7 @@
             "path_id": -3050277861744912364,
             "block_id": 48,
             "clip_length": 68,
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 6773730965661543748
-                }
-            ]
+            "processed": "<story>Her eyes started to quiver a little."
         },
         {
             "text": "You'll help...",
@@ -878,23 +519,16 @@
             "choices": [
                 {
                     "text": "I won't let you give up on your dream!",
-                    "source": "絶対に諦めさせたくないんだ"
+                    "hash": "1ae1a102aaa958f7c8f85fdac1f62c67580ad37c39c272a1ef3fb5354844cd97",
+                    "processed": "<size=43>I won't let you give up on your dream!</size>"
                 },
                 {
                     "text": "I won't let you give up on your dream!",
-                    "source": "絶対に諦めさせたくないの"
+                    "hash": "191ba05be78c30c88dc672b9acf5d677f322c9fe8e93dd96d2d0ca19cd60e388",
+                    "processed": "<size=43>I won't let you give up on your dream!</size>"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 80,
-                    "path_id": -1146881836652573068
-                },
-                {
-                    "orig_length": 98,
-                    "path_id": 4861284089543119558
-                }
-            ]
+            "processed": "<story>You'll help..."
         },
         {
             "text": "(Their gaze... It feels familiar.)",
@@ -902,16 +536,7 @@
             "path_id": -7016296054297142101,
             "block_id": 50,
             "clip_length": 121,
-            "anim_data": [
-                {
-                    "orig_length": 181,
-                    "path_id": 630556263204375064
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": -1894695116097551570
-                }
-            ]
+            "processed": "<story>(Their gaze... It feels familiar.)"
         },
         {
             "text": "<i>*huff huff* *sniffle* \nI failed again, Father... I am just not...</i>",
@@ -919,26 +544,23 @@
             "path_id": -46381638481920755,
             "block_id": 51,
             "clip_length": 404,
-            "anim_data": [
-                {
-                    "orig_length": 21,
-                    "path_id": -2747848655841156783
-                }
-            ]
+            "processed": "<story><i>*huff huff* *sniffle* \n<story>I failed again, Father... I am just not...</i>"
         },
         {
             "text": "<i>You may not have enough stamina, yet you keep on trying. \nThat is why I know that one day, you will succeed.</i>",
             "name": "Bourbon's Father",
             "path_id": 2091793432935946741,
             "block_id": 52,
-            "clip_length": 239
+            "clip_length": 239,
+            "processed": "<story><i>You may not have enough stamina, yet you keep on trying. \n<story>That is why I know that one day, you will succeed.</i>"
         },
         {
             "text": "<i>I will help you fulfill that dearest dream of yours!</i>",
             "name": "Bourbon's Father",
             "path_id": 7755471138672399376,
             "block_id": 53,
-            "clip_length": 120
+            "clip_length": 96,
+            "processed": "<story><i>I will help you fulfill that dearest dream of yours!</i>"
         },
         {
             "text": "(They remind me of my father...)",
@@ -946,12 +568,7 @@
             "path_id": 3559216093804886097,
             "block_id": 54,
             "clip_length": 118,
-            "anim_data": [
-                {
-                    "orig_length": 283,
-                    "path_id": 6983933795390171106
-                }
-            ]
+            "processed": "<story>(They remind me of my father...)"
         },
         {
             "text": "...",
@@ -962,15 +579,10 @@
             "choices": [
                 {
                     "text": "...Mihono Bourbon?",
-                    "source": "……ミホノブルボン？"
+                    "hash": "59ebbe75fde4cfbf1da3fe65275709b15180ac3a1ff75d48d0aafe5ea8e458ad"
                 }
             ],
-            "anim_data": [
-                {
-                    "orig_length": 181,
-                    "path_id": 4627890436179932654
-                }
-            ]
+            "processed": "<story>..."
         },
         {
             "text": "I could not bear the silence and called out to her. \nShe stood there, quietly looking at me.",
@@ -978,12 +590,7 @@
             "path_id": -891485661169955966,
             "block_id": 56,
             "clip_length": 90,
-            "anim_data": [
-                {
-                    "orig_length": 59,
-                    "path_id": -5824332274130148455
-                }
-            ]
+            "processed": "<story>I could not bear the silence and called out to her. \n<story>She stood there, quietly looking at me."
         },
         {
             "text": "You customized my running style. The improvement \nof my 1600 meters record is all thanks to your skill.",
@@ -991,12 +598,7 @@
             "path_id": 1124181198417723948,
             "block_id": 57,
             "clip_length": 248,
-            "anim_data": [
-                {
-                    "orig_length": 283,
-                    "path_id": -647543951139055312
-                }
-            ]
+            "processed": "<story>You customized my running style. The improvement \n<story>of my 1600 meters record is all thanks to your skill."
         },
         {
             "text": "I think reaching my objective might be \na possibility with your help.",
@@ -1004,16 +606,7 @@
             "path_id": 1507464961096440086,
             "block_id": 58,
             "clip_length": 134,
-            "anim_data": [
-                {
-                    "orig_length": 89,
-                    "path_id": 4461006577907156780
-                },
-                {
-                    "orig_length": 20,
-                    "path_id": 2423545655022488348
-                }
-            ]
+            "processed": "<story>I think reaching my objective might be \n<story>a possibility with your help."
         },
         {
             "text": "So please, I want you to be my trainer... \n...My Master.",
@@ -1021,16 +614,7 @@
             "path_id": -7488081996894087321,
             "block_id": 59,
             "clip_length": 180,
-            "anim_data": [
-                {
-                    "orig_length": 60,
-                    "path_id": 2760060347623014573
-                },
-                {
-                    "orig_length": 56,
-                    "path_id": -490469125892322518
-                }
-            ]
+            "processed": "<story>So please, I want you to be my trainer... \n<story>...My Master."
         },
         {
             "text": "The right hand of this \"cyborg\" had a firm grip, \nyet also felt strangely comfortable and warm.",
@@ -1038,17 +622,8 @@
             "path_id": -3825510327235898187,
             "block_id": 60,
             "clip_length": 94,
-            "anim_data": [
-                {
-                    "orig_length": 60,
-                    "path_id": -1225032205352619759
-                },
-                {
-                    "orig_length": 56,
-                    "path_id": -8505797612202803640
-                }
-            ]
+            "processed": "<story>The right hand of this \"cyborg\" had a firm grip, \n<story>yet also felt strangely comfortable and warm."
         }
     ],
-    "title": "A Straight Answer"
+    "title": ""
 }
