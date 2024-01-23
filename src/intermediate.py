@@ -274,12 +274,18 @@ def process_asset(path):
         if not item['text'] and not item['name']:
             empty_count += 1
 
+        new_text, color_list = util.process_colored_text(item['text'])
+
         new_item = {
-            "text": item['text'],
+            "text": new_text,
             "name": item['name'],
             'path_id': item['path_id'],
             'block_id': item['block_id'],
         }
+
+        if color_list:
+            new_item['color_list'] = color_list
+
         if 'clip_length' in item:
             new_item['clip_length'] = item['clip_length']
         if 'choices' in item:

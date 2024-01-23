@@ -144,10 +144,15 @@ def load_asset_data(row_metadata):
                     "text": "",
                     "source": source_text,
                     # "source_hash": hashlib.sha256(str(source_text).encode("utf-8")).hexdigest(),
-                    "name": "",
-                    "source_name": source_name,
+
                     # "source_name_hash": hashlib.sha256(str(source_name).encode("utf-8")).hexdigest()
                 }
+
+                if text_data.get('ColorTextInfoList'):
+                    clip_item['source_color'] = util.apply_colored_text(clip_item['source'], text_data['ColorTextInfoList'])
+
+                clip_item['name'] = ""
+                clip_item['source_name'] = source_name
 
                 if text_data.get("ClipLength"):
                     clip_item["clip_length"] = text_data["ClipLength"]
@@ -162,16 +167,6 @@ def load_asset_data(row_metadata):
                             "hash": hashlib.sha256(str(choice['Text']).encode("utf-8")).hexdigest(),
                         }
                         clip_item["choices"].append(choice_item)
-                
-                if text_data.get('ColorTextInfoList'):
-                    clip_item["color_info"] = []
-                    for color_info in text_data['ColorTextInfoList']:
-                        color_item = {
-                            "text": "",
-                            "source": color_info['Text'],
-                            "hash": hashlib.sha256(str(color_info['Text']).encode("utf-8")).hexdigest(),
-                        }
-                        clip_item["color_info"].append(color_item)
 
                 tl_item["data"].append(clip_item)
 
@@ -264,7 +259,7 @@ def update_story_intermediate(path_to_existing):
             continue
 
         if line['text'] or line['name']:
-            intermediate_data['data'][i]['text'] = line['text']
+            intermediate_data['data'][i]['text'] = util.apply_colored_text(line['text'], line.get('color_info'))
             intermediate_data['data'][i]['name'] = line['name']
             intermediate_data['data'][i]['clip_length'] = line['clip_length']
             if 'choices' in line:

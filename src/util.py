@@ -545,10 +545,51 @@ def get_assets_type_dict():
 
     return asset_dict
 
-def filter_tags(str):
+def filter_tags(in_str):
     # Remove any <> tags from string.
-    return re.sub(r'<[^>]*>', '', str)
+    return re.sub(r'<[^>]*>', '', in_str)
 
 def remove_size_tags(str):
     # Remove any <size=?> or </size> tags from string.
     return re.sub(r"<size=[^>]*>|</size>", "", str)
+
+def process_colored_text(in_str):
+    color_list = []
+    used_text = set()
+
+    matches = re.findall(r"<col=[^>]*>.*?</col>", in_str)
+
+    for match_str in matches:
+        color_id = re.search(r"<col=([^>]*)>", match_str).group(1)
+        text = re.search(r"<col=[^>]*>(.*)</col>", match_str).group(1)
+
+        # Skip if text has already been colored.
+        if text in used_text:
+            continue
+
+        used_text.add(text)
+
+        color_list.append({
+            "text": text,
+            "color_id": int(color_id)
+        })
+    
+    # Remove all <col=?> and </col> tags from string.
+    in_str = re.sub(r"<col=[^>]*>|</col>", "", in_str)
+
+    return in_str, color_list
+
+def apply_colored_text(in_str, color_list):
+    if not color_list:
+        return in_str
+
+    for color_info in color_list:
+        match_str = color_info.get('Text') or color_info.get('text')
+        color_id = color_info.get('FontColor') or color_info.get('color_id')
+
+        if not match_str or not color_id:
+            raise Exception(f"Invalid color info {color_info}")
+
+        in_str = in_str.replace(match_str, f"<col={color_id}>{match_str}</col>")
+
+    return in_str

@@ -359,8 +359,22 @@ def _import_story(story_data):
         text_clip = root.assets_file.files[new_clip['path_id']]
         text_clip_data = text_clip.read_typetree()
 
+        if not text_clip_data['Text']:
+            # Skip untranslated blocks.
+            continue
+
         text_clip_data['Text'] = new_clip.get('processed') or new_clip['text']
         text_clip_data['Name'] = new_clip.get('name_processed') or new_clip['name']
+
+        # Handle colored text.
+        if new_clip.get('color_list') and text_clip_data.get('ColorTextInfoList'):
+            new_color_list = []
+            for color_info in new_clip['color_list']:
+                new_color_list.append({
+                    'Text': color_info['text'],
+                    'FontColor': int(color_info['color_id']),
+                })
+            text_clip_data['ColorTextInfoList'] = new_color_list
         
         if new_clip.get('choices'):
             for i, choice in enumerate(text_clip_data['ChoiceDataList']):
