@@ -548,3 +548,7 @@ def get_assets_type_dict():
 def filter_tags(str):
     # Remove any <> tags from string.
     return re.sub(r'<[^>]*>', '', str)
+
+def remove_size_tags(str):
+    # Remove any <size=?> or </size> tags from string.
+    return re.sub(r"<size=[^>]*>|</size>", "", str)
