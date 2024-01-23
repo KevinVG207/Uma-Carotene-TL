@@ -437,11 +437,12 @@
         },
         {
             "text": "-Oh! Welcome, little lady. \nDo you want the usual?",
-            "name": "",
+            "name": "Extreme Noodle Shopkeeper",
             "path_id": 1851072028155238582,
             "block_id": 41,
             "clip_length": 99,
-            "processed": "<story>-Oh! Welcome, little lady. \n<story>Do you want the usual?"
+            "processed": "<story>-Oh! Welcome, little lady. \n<story>Do you want the usual?",
+            "name_processed": "<sc=82>Extreme Noodle Shopkeeper"
         },
         {
             "text": "Yeah, if you don't mind.",
@@ -513,11 +514,12 @@
         },
         {
             "text": "-Order up. 3 lightly salted, large size.",
-            "name": "",
+            "name": "Extreme Noodle Shopkeeper",
             "path_id": 8497081550282337124,
             "block_id": 48,
             "clip_length": 90,
-            "processed": "<story>-Order up. 3 lightly salted, large size."
+            "processed": "<story>-Order up. 3 lightly salted, large size.",
+            "name_processed": "<sc=82>Extreme Noodle Shopkeeper"
         },
         {
             "text": "…Huh?! I don't think I ordered corn \nand bamboo shoot as toppings…",
@@ -529,11 +531,12 @@
         },
         {
             "text": "Isn't this \"The Usual\" for you? \nIt's on the house today, so just enjoy.",
-            "name": "",
+            "name": "Extreme Noodle Shopkeeper",
             "path_id": -8520513868290265419,
             "block_id": 50,
             "clip_length": 160,
-            "processed": "<story>Isn't this \"The Usual\" for you? \n<story>It's on the house today, so just enjoy."
+            "processed": "<story>Isn't this \"The Usual\" for you? \n<story>It's on the house today, so just enjoy.",
+            "name_processed": "<sc=82>Extreme Noodle Shopkeeper"
         },
         {
             "text": "! Thank you very much! \nThen, with pleasure.",

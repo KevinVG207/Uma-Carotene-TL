@@ -6,6 +6,7 @@ from multiprocessing.pool import Pool
 import io
 import version
 import unity
+from UnityPy.enums import TextureFormat
 from sqlite3 import Error as SqliteError
 from PIL import Image, ImageFile
 from settings import settings
@@ -217,12 +218,13 @@ def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
         diff_bytes = f.read()
     
     # Apply the diff
-    max_len = max(len(diff_bytes), len(source_bytes))
+    new_bytes = util.apply_diff(source_bytes, diff_bytes)
+    # max_len = max(len(diff_bytes), len(source_bytes))
 
-    diff_bytes = diff_bytes.ljust(max_len, b'\x00')
-    source_bytes = source_bytes.ljust(max_len, b'\x00')
+    # diff_bytes = diff_bytes.ljust(max_len, b'\x00')
+    # source_bytes = source_bytes.ljust(max_len, b'\x00')
 
-    new_bytes = util.xor_bytes(diff_bytes, source_bytes)
+    # new_bytes = util.xor_bytes(diff_bytes, source_bytes)
 
     return new_bytes, texture_read
 
@@ -274,6 +276,7 @@ def _import_texture(asset_metadata):
         new_image = Image.open(new_image_buffer)
 
         # Replace the image
+        texture_read.m_TextureFormat = TextureFormat.BC7
         texture_read.image = new_image
         texture_read.save()
 

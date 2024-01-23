@@ -276,9 +276,14 @@ def process_asset(path):
 
         new_text, color_list = util.process_colored_text(item['text'])
 
+        name = item['name']
+        # Sometimes an author decides to keep it empty.
+        if not name and item['source_name'] != 'モノローグ':
+            name = item['source_name']
+
         new_item = {
             "text": new_text,
-            "name": item['name'],
+            "name": name,
             'path_id': item['path_id'],
             'block_id': item['block_id'],
         }
@@ -423,13 +428,15 @@ def _convert_texture(metadata):
         with open(org_path, "rb") as f:
             source_bytes = f.read()
         
-        max_len = max(len(edited_bytes), len(source_bytes))
+        diff = util.make_diff(edited_bytes, source_bytes)
+        
+        # max_len = max(len(edited_bytes), len(source_bytes))
 
-        gen = np.random.default_rng(seed=int(edited_hash.hex(), 16))
-        edited_bytes += gen.bytes(max_len - len(edited_bytes))
-        source_bytes = source_bytes.ljust(max_len, b'\x00')
+        # gen = np.random.default_rng(seed=int(edited_hash.hex(), 16))
+        # edited_bytes += gen.bytes(max_len - len(edited_bytes))
+        # source_bytes = source_bytes.ljust(max_len, b'\x00')
 
-        diff = util.xor_bytes(edited_bytes, source_bytes)
+        # diff = util.xor_bytes(edited_bytes, source_bytes)
 
         os.makedirs(os.path.dirname(diff_path), exist_ok=True)
 
