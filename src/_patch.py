@@ -217,12 +217,13 @@ def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
         diff_bytes = f.read()
     
     # Apply the diff
-    max_len = max(len(diff_bytes), len(source_bytes))
+    new_bytes = util.apply_diff(source_bytes, diff_bytes)
+    # max_len = max(len(diff_bytes), len(source_bytes))
 
-    diff_bytes = diff_bytes.ljust(max_len, b'\x00')
-    source_bytes = source_bytes.ljust(max_len, b'\x00')
+    # diff_bytes = diff_bytes.ljust(max_len, b'\x00')
+    # source_bytes = source_bytes.ljust(max_len, b'\x00')
 
-    new_bytes = util.xor_bytes(diff_bytes, source_bytes)
+    # new_bytes = util.xor_bytes(diff_bytes, source_bytes)
 
     return new_bytes, texture_read
 
