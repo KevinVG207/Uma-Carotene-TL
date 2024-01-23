@@ -1,0 +1,365 @@
+{
+    "type": "story",
+    "row_index": 176304,
+    "file_name": "story/data/04/1105/storytimeline_041105001",
+    "hash": "OHZJ5T2HPLABD42ZIT45BYKUU7ITCVNQ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2105387778101485177,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "In this vast universe――there exist inexplicable lifeforms. \nLifeforms that we cannot perceive.",
+            "name": "Narration",
+            "path_id": 7294178538332195002,
+            "block_id": 1,
+            "clip_length": 205,
+            "processed": "<story>In this vast universe――there exist inexplicable lifeforms. \n<story>Lifeforms that we cannot perceive."
+        },
+        {
+            "text": "『Aliens』 and multi-dimensional organisms inhabiting an 『Astral Body』. \nSomeday, one such existence may decide to descend upon this planet.",
+            "name": "Narration",
+            "path_id": 3071570573147719083,
+            "block_id": 2,
+            "clip_length": 325,
+            "processed": "<story>『Aliens』 and multi-dimensional organisms inhabiting an 『Astral Body』. \n<story>Someday, one such existence may decide to descend upon this planet."
+        },
+        {
+            "text": "――Tracen Academy at night. I had some business to attend to…… \nbut then I heard a sound from overhead.",
+            "name": "",
+            "path_id": -6363524542603635546,
+            "block_id": 3,
+            "clip_length": 102,
+            "choices": [
+                {
+                    "text": "Did that……come from the roof?",
+                    "hash": "d423e70c5908ab408b183048aca98a09c0b16bd6d1512b1c11d9ab24b975edf1"
+                },
+                {
+                    "text": "Did that……come from the roof?",
+                    "hash": "0d0fbb4686f4b0fcb5c4955325084d67d98a0ad98094031910f750a8356b4e60"
+                }
+            ],
+            "processed": "<story>――Tracen Academy at night. I had some business to attend to…… \n<story>but then I heard a sound from overhead."
+        },
+        {
+            "text": "",
+            "name": "",
+            "path_id": 4009469047204500497,
+            "block_id": 4,
+            "clip_length": 64
+        },
+        {
+            "text": "If something had happened with the HVAC system, \nit'd be a big problem. I borrowed a key from the night \nstaff and hurried to the roof to see what happened.",
+            "name": "",
+            "path_id": 1355653770198888706,
+            "block_id": 5,
+            "clip_length": 108,
+            "processed": "<story>If something had happened with the HVAC system, \n<story>it'd be a big problem. I borrowed a key from the night \n<story>staff and hurried to the roof to see what happened."
+        },
+        {
+            "text": "And, there on the roof――",
+            "name": "",
+            "path_id": 4195055070860323844,
+            "block_id": 6,
+            "clip_length": 55,
+            "processed": "<story>And, there on the roof――"
+        },
+        {
+            "text": "Was a girl I didn't recognize. Those were Uma Musume ears. \nBut……the shape seemed a little off.",
+            "name": "",
+            "path_id": 6415639206697408692,
+            "block_id": 7,
+            "clip_length": 93,
+            "processed": "<story>Was a girl I didn't recognize. Those were Uma Musume ears. \n<story>But……the shape seemed a little off."
+        },
+        {
+            "text": "No matter who it was, even an Uma Musume couldn't jump to the \nroof of a locked school building. Just who was this girl……?",
+            "name": "",
+            "path_id": -8746404487377379892,
+            "block_id": 8,
+            "clip_length": 102,
+            "processed": "<story>No matter who it was, even an Uma Musume couldn't jump to the \n<story>roof of a locked school building. Just who was this girl……?"
+        },
+        {
+            "text": "……………………",
+            "name": "???",
+            "path_id": 2095653288752432885,
+            "block_id": 9,
+            "clip_length": 78,
+            "choices": [
+                {
+                    "text": "Um, excuse me……",
+                    "hash": "f95de3d559d298ff33a151bbc622d662afb5125fdc618ede86106a1315a9d835"
+                }
+            ],
+            "processed": "<story>……………………"
+        },
+        {
+            "text": "My voice was shaky out of fear. \nWould my words……even get through to her?",
+            "name": "",
+            "path_id": 8533055733119161059,
+            "block_id": 10,
+            "clip_length": 84,
+            "processed": "<story>My voice was shaky out of fear. \n<story>Would my words……even get through to her?"
+        },
+        {
+            "text": "…………\"Communication\"",
+            "name": "???",
+            "path_id": 1535401036964283684,
+            "block_id": 11,
+            "clip_length": 155,
+            "processed": "<story>…………\"Communication\""
+        },
+        {
+            "text": "\"Communication\" with Neo Universe……would you like to try it? \nThat is, if……you're \"INTI\" it.",
+            "name": "Neo Universe",
+            "path_id": -7564573113872777771,
+            "block_id": 12,
+            "clip_length": 330,
+            "processed": "<story>\"Communication\" with Neo Universe……would you like to try it? \n<story>That is, if……you're \"INTI\" it."
+        },
+        {
+            "text": "Neo Universe……was that this girl's name? \nI felt like I could somewhat understand her words.",
+            "name": "",
+            "path_id": -6076774408092510797,
+            "block_id": 13,
+            "clip_length": 106,
+            "processed": "<story>Neo Universe……was that this girl's name? \n<story>I felt like I could somewhat understand her words."
+        },
+        {
+            "text": "Was she an Uma Musume, or some mysterious lifeform \nshaped like an Uma Musume……? Either way, it seemed \nlike we were on the same wavelength. In that case……",
+            "name": "",
+            "path_id": 6936007145136822576,
+            "block_id": 14,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "What are you doing here?",
+                    "hash": "197c4a44df4fae3132d7ad5a781d5d8935c686951ac16268ae915ac02cce858c"
+                },
+                {
+                    "text": "What are you doing here?",
+                    "hash": "e64ff0ca81506760ef7de794cb61f69de3dbb2eea6b4092902fbbd1aaf750de1"
+                }
+            ],
+            "processed": "<story>Was she an Uma Musume, or some mysterious lifeform \n<story>shaped like an Uma Musume……? Either way, it seemed \n<story>like we were on the same wavelength. In that case……"
+        },
+        {
+            "text": "\"Discontinuity\"……I was trying to repair it.",
+            "name": "Neo Universe",
+            "path_id": 4372807863275174495,
+            "block_id": 15,
+            "clip_length": 132,
+            "processed": "<story>\"Discontinuity\"……I was trying to repair it."
+        },
+        {
+            "text": "Because the scale that rang out……was one of my 『Favorites』. \nWhen it resonates within, it puts me at 『Peace』.",
+            "name": "Neo Universe",
+            "path_id": 7063585445422936937,
+            "block_id": 16,
+            "clip_length": 354,
+            "processed": "<story>Because the scale that rang out……was one of my 『Favorites』. \n<story>When it resonates within, it puts me at 『Peace』."
+        },
+        {
+            "text": "――Repair the discontinuity. I didn't know what that meant, \nand I don't know what would happen after that. But……",
+            "name": "",
+            "path_id": -4196075534479321327,
+            "block_id": 17,
+            "clip_length": 103,
+            "processed": "<story>――Repair the discontinuity. I didn't know what that meant, \n<story>and I don't know what would happen after that. But……"
+        },
+        {
+            "text": "The girl herself didn't seem to \nbe harmful to those around her.",
+            "name": "",
+            "path_id": -2616788980713520743,
+            "block_id": 18,
+            "clip_length": 82,
+            "processed": "<story>The girl herself didn't seem to \n<story>be harmful to those around her."
+        },
+        {
+            "text": "Your alignment is……\"Educator\". \n『Trainer』……is what you're called?",
+            "name": "Neo Universe",
+            "path_id": 3885397285213339846,
+            "block_id": 19,
+            "clip_length": 351,
+            "choices": [
+                {
+                    "text": "Yeah, I'm a trainer",
+                    "hash": "0af0e2a499a1ed81c4a9d640b08f099e18b31c1fb0b03056dd6692d133ad1d88"
+                },
+                {
+                    "text": "Yeah, I'm a trainer",
+                    "hash": "53fb359580adfdbd2647b2f6b9a58d6316f6d05acee3ab85c474ad78c690d227"
+                }
+            ],
+            "processed": "<story>Your alignment is……\"Educator\". \n<story>『Trainer』……is what you're called?"
+        },
+        {
+            "text": "I don't have an Uma Musume that I'm responsible for. \nBut when I told her I was a trainer……",
+            "name": "",
+            "path_id": 1871407313981866860,
+            "block_id": 20,
+            "clip_length": 89,
+            "processed": "<story>I don't have an Uma Musume that I'm responsible for. \n<story>But when I told her I was a trainer……"
+        },
+        {
+            "text": "Trainer……If that is a complementary \nexistence……then that is what I \"seek\".",
+            "name": "Neo Universe",
+            "path_id": -1838919648984991952,
+            "block_id": 21,
+            "clip_length": 245,
+            "processed": "<story>Trainer……If that is a complementary \n<story>existence……then that is what I \"seek\"."
+        },
+        {
+            "text": "\"Monitoring\" of a \"Campaign\"…… \nNo, it's something beyond that……",
+            "name": "Neo Universe",
+            "path_id": -1962140923735676109,
+            "block_id": 22,
+            "clip_length": 277,
+            "processed": "<story>\"Monitoring\" of a \"Campaign\"…… \n<story>No, it's something beyond that……"
+        },
+        {
+            "text": "It's not simply \"Monitoring\"……『???』……",
+            "name": "Neo Universe",
+            "path_id": -4790776230554887248,
+            "block_id": 23,
+            "clip_length": 184,
+            "processed": "<story>It's not simply \"Monitoring\"……『???』……"
+        },
+        {
+            "text": "……It seemed like she was requesting something of me. \nHowever, she seemed unable to properly put it in to words.",
+            "name": "",
+            "path_id": 155410551601425770,
+            "block_id": 24,
+            "clip_length": 91,
+            "processed": "<story>……It seemed like she was requesting something of me. \n<story>However, she seemed unable to properly put it in to words."
+        },
+        {
+            "text": "This girl who looked like an Uma Musume, \n\"Neo Universe\", just what was it she wanted?",
+            "name": "",
+            "path_id": -5921141287485477754,
+            "block_id": 25,
+            "clip_length": 94,
+            "processed": "<story>This girl who looked like an Uma Musume, \n<story>\"Neo Universe\", just what was it she wanted?"
+        },
+        {
+            "text": "First, to \"manifest\". \nTo be \"perceived\"……",
+            "name": "Neo Universe",
+            "path_id": 6832709602816334221,
+            "block_id": 26,
+            "clip_length": 179,
+            "processed": "<story>First, to \"manifest\". \n<story>To be \"perceived\"……"
+        },
+        {
+            "text": "If I can't do that, then I won't \"be on track\"……",
+            "name": "Neo Universe",
+            "path_id": 722627068820976165,
+            "block_id": 27,
+            "clip_length": 181,
+            "processed": "<story>If I can't do that, then I won't \"be on track\"……"
+        },
+        {
+            "text": "Neo Universe looked up to the sky. I looked \nup as well, wondering what was up there. When \nI tried to tell her \"I don't see anything\"……",
+            "name": "",
+            "path_id": -3993699989331784230,
+            "block_id": 28,
+            "clip_length": 114,
+            "processed": "<story>Neo Universe looked up to the sky. I looked \n<story>up as well, wondering what was up there. When \n<story>I tried to tell her \"I don't see anything\"……"
+        },
+        {
+            "text": "She was……nowhere to be seen. \nAs if she had disappeared in to a rift in space-time.",
+            "name": "",
+            "path_id": -4828628349524169124,
+            "block_id": 29,
+            "clip_length": 86,
+            "processed": "<story>She was……nowhere to be seen. \n<story>As if she had disappeared in to a rift in space-time."
+        },
+        {
+            "text": "\"Neo Universe\"……had she even really existed? \nOr had I just been imagining things?",
+            "name": "",
+            "path_id": -7030785785889231031,
+            "block_id": 30,
+            "clip_length": 102,
+            "processed": "<story>\"Neo Universe\"……had she even really existed? \n<story>Or had I just been imagining things?"
+        },
+        {
+            "text": "――Several days after that. \nAt a mock race.",
+            "name": "",
+            "path_id": 692264613785281782,
+            "block_id": 31,
+            "clip_length": 71,
+            "processed": "<story>――Several days after that. \n<story>At a mock race."
+        },
+        {
+            "text": "Seems like there will be a lot of \npromising girls entering today.",
+            "name": "Mid-rank Trainer A",
+            "path_id": -630741532144402112,
+            "block_id": 32,
+            "clip_length": 99,
+            "processed": "<story>Seems like there will be a lot of \n<story>promising girls entering today."
+        },
+        {
+            "text": "Yeah, I'm looking forward to how the \nrace will turn out. Out of all of them……",
+            "name": "Mid-rank Trainer B",
+            "path_id": 1540757437049980291,
+            "block_id": 33,
+            "clip_length": 131,
+            "processed": "<story>Yeah, I'm looking forward to how the \n<story>race will turn out. Out of all of them……"
+        },
+        {
+            "text": "W-who's that……?",
+            "name": "Mid-rank Trainer A",
+            "path_id": 6313423005151651054,
+            "block_id": 34,
+            "clip_length": 53,
+            "choices": [
+                {
+                    "text": "You're……!?",
+                    "hash": "67d1faa13bd85846f430ce90521031530b87652443e94eeaf2bfcdc004114ba5"
+                },
+                {
+                    "text": "You're……!?",
+                    "hash": "ef5b691753b6ee6cc92d74f228e7ca0c0872588375976637c6710a1a18b22bba"
+                }
+            ],
+            "processed": "<story>W-who's that……?"
+        },
+        {
+            "text": "That girl, \"Neo Universe\" had suddenly \nappeared at the racetrack. And then――",
+            "name": "",
+            "path_id": 5276010427883778113,
+            "block_id": 35,
+            "clip_length": 85,
+            "processed": "<story>That girl, \"Neo Universe\" had suddenly \n<story>appeared at the racetrack. And then――"
+        },
+        {
+            "text": "I'm going to……『Compete』",
+            "name": "Neo Universe",
+            "path_id": 38012393156953289,
+            "block_id": 36,
+            "clip_length": 105,
+            "processed": "<story>I'm going to……『Compete』"
+        },
+        {
+            "text": "Neo Universe is a……\"STDA\" \n……so to acquire \"synapses\"……",
+            "name": "Neo Universe",
+            "path_id": 6023978382715114171,
+            "block_id": 37,
+            "clip_length": 221,
+            "processed": "<story>Neo Universe is a……\"STDA\" \n<story>……so to acquire \"synapses\"……"
+        },
+        {
+            "text": "Everyone was stunned as she walked out on to the turf. \nAnd so, the mysterious girl unexpectedly entered the race.",
+            "name": "",
+            "path_id": -6632330271053390678,
+            "block_id": 38,
+            "clip_length": 121,
+            "processed": "<story>Everyone was stunned as she walked out on to the turf. \n<story>And so, the mysterious girl unexpectedly entered the race."
+        }
+    ],
+    "title": "Communication Log 1 - \"Contact, Uma Musume\""
+}

@@ -7,6 +7,7 @@ import json
 import datetime
 from selenium import webdriver
 import time
+import re
 
 MISSIONS_JSONS = [
     "66",
@@ -204,23 +205,13 @@ def import_external_story(local_path, url_to_github_jsons):
                 'source_clip_length': block['origClipLength'],
             }
 
-            anim_data = block.get('animData')
             choices = block.get('choices')
 
-            if anim_data:
-                cur_data = []
-                for anim in anim_data:
-                    cur_data.append({
-                        'orig_length': anim['origLen'],
-                        'path_id': anim['pathId'],
-                    })
-                cur_blocks[block['pathId']]['anim_data'] = cur_data
-            
             if choices:
                 cur_data = []
                 for choice in choices:
                     cur_data.append({
-                        'text': choice['enText']
+                        'text': util.remove_size_tags(choice['enText'])
                     })
                 cur_blocks[block['pathId']]['_choices'] = cur_data
                 # cur_blocks[block['pathId']]['choices'] = choices
@@ -527,7 +518,7 @@ def apply_gametora_title_missions():
 
 def main():
     # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
-    import_external_story('story/04/1107', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1107?ref=tap-dance-city')
+    import_external_story('story/04/1105', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1105')
 
     # umapyoi_chara_ids = get_umapyoi_chara_ids()
     # apply_umapyoi_character_profiles(umapyoi_chara_ids)
