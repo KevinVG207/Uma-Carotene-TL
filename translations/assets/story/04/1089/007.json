@@ -1,0 +1,515 @@
+{
+    "type": "story",
+    "row_index": 209288,
+    "file_name": "story/data/04/1089/storytimeline_041089007",
+    "hash": "NMDFA3FCSQQTHYXCO427GGTWZXU3UMDP",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 7746022676107980226,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "(Today, is the end of the camp. \nI...  wonder if I have learned properly. Did I grow?)",
+            "name": "Cheval Grand",
+            "path_id": 9077453168367087788,
+            "block_id": 1,
+            "clip_length": 397,
+            "processed": "<story>(Today, is the end of the camp. \n<story>I...  wonder if I have learned properly. Did I grow?)"
+        },
+        {
+            "text": "Trainer is always praising me, though",
+            "name": "Cheval Grand",
+            "path_id": -6347766306573378654,
+            "block_id": 2,
+            "clip_length": 210,
+            "processed": "<story>Trainer is always praising me, though"
+        },
+        {
+            "text": "(I'm not only happy to receive compliments, but also... \nI want to be able to be proud of those words. \nHow in the world do I-)",
+            "name": "Cheval Grand",
+            "path_id": 4891583152288901128,
+            "block_id": 3,
+            "clip_length": 405,
+            "processed": "<story>(I'm not only happy to receive compliments, but also... \n<story>I want to be able to be proud of those words. \n<story>How in the world do I-)"
+        },
+        {
+            "text": "Oh, hey, hey! I heard there's a festival today! \nI saw it on the bulletin board!",
+            "name": "Horse girl A",
+            "path_id": 2420216400567371830,
+            "block_id": 4,
+            "clip_length": 154,
+            "processed": "<story>Oh, hey, hey! I heard there's a festival today! \n<story>I saw it on the bulletin board!"
+        },
+        {
+            "text": "Huh!",
+            "name": "Cheval Grand",
+            "path_id": 1501359663433912854,
+            "block_id": 5,
+            "clip_length": 30,
+            "processed": "<story>Huh!"
+        },
+        {
+            "text": "Yeah, you've got to go for sure! \nbeen doing good on training, \nTrainer must treat me for that atleast~",
+            "name": "Horse Girl B",
+            "path_id": -2840519648104503045,
+            "block_id": 6,
+            "clip_length": 232,
+            "processed": "<story>Yeah, you've got to go for sure! \n<story>been doing good on training, \n<story>Trainer must treat me for that atleast~"
+        },
+        {
+            "text": "T-This is it!",
+            "name": "Cheval Grand",
+            "path_id": 3177906304471594534,
+            "block_id": 7,
+            "clip_length": 97,
+            "processed": "<story>T-This is it!"
+        },
+        {
+            "text": "(1 steps to change myself. \nDare to get the starting line! From me!)",
+            "name": "Cheval Grand",
+            "path_id": -3223243693469840497,
+            "block_id": 8,
+            "clip_length": 294,
+            "processed": "<story>(1 steps to change myself. \n<story>Dare to get the starting line! From me!)"
+        },
+        {
+            "text": "Food stalls line the streets, \nand festive lights and music surround the area. \nThe distant sound of drums seems to lift one's spirits",
+            "name": "",
+            "path_id": -8837976770317951483,
+            "block_id": 9,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "Looks fun, thanks for inviting me!",
+                    "hash": "25b39efb102ef966bae369c5832613e38afd8a303ba633db619ba25d3f94b26a"
+                }
+            ],
+            "processed": "<story>Food stalls line the streets, \n<story>and festive lights and music surround the area. \n<story>The distant sound of drums seems to lift one's spirits"
+        },
+        {
+            "text": "No, not at all! its... yes, \nThank you too...",
+            "name": "Cheval Grand",
+            "path_id": 4877624399790140959,
+            "block_id": 10,
+            "clip_length": 295,
+            "processed": "<story>No, not at all! its... yes, \n<story>Thank you too..."
+        },
+        {
+            "text": "(Fwuaah. I manage to invite, I did invite but... \nWhat should I do? Will I be able to entertain Trainer properly?)",
+            "name": "Cheval Grand",
+            "path_id": -1940126529109057395,
+            "block_id": 11,
+            "clip_length": 464,
+            "processed": "<story>(Fwuaah. I manage to invite, I did invite but... \n<story>What should I do? Will I be able to entertain Trainer properly?)"
+        },
+        {
+            "text": "(No, I know how to have fun at a Festival! \nI'm going to make noise and have fun today like the other kids around me!)",
+            "name": "Cheval Grand",
+            "path_id": -628788397810214461,
+            "block_id": 12,
+            "clip_length": 391,
+            "processed": "<story>(No, I know how to have fun at a Festival! \n<story>I'm going to make noise and have fun today like the other kids around me!)"
+        },
+        {
+            "text": "T- Trainer, let's play... together! \nOh, look! That stall over there is empty",
+            "name": "Cheval Grand",
+            "path_id": 1239690321541526651,
+            "block_id": 13,
+            "clip_length": 337,
+            "processed": "<story>T- Trainer, let's play... together! \n<story>Oh, look! That stall over there is empty"
+        },
+        {
+            "text": ".........",
+            "name": "Cheval Grand",
+            "path_id": 7150496879552645373,
+            "block_id": 14,
+            "clip_length": 180,
+            "choices": [
+                {
+                    "text": "..............",
+                    "hash": "b5999fb8c439aedc310fc22e9b23faada72dc7422a48e55a6526491f7b19cc31"
+                }
+            ],
+            "processed": "<story>........."
+        },
+        {
+            "text": "-Mold cutting. Because my own had long been cut in half, \nI watch Cheval Grand is silently grinding away",
+            "name": "",
+            "path_id": 2925326646922177670,
+            "block_id": 15,
+            "clip_length": 114,
+            "processed": "<story>-Mold cutting. Because my own had long been cut in half, \n<story>I watch Cheval Grand is silently grinding away"
+        },
+        {
+            "text": "......... \nHmm.. mmm.. uhm.... Ahh!?",
+            "name": "Cheval Grand",
+            "path_id": -7911733665775347720,
+            "block_id": 16,
+            "clip_length": 318,
+            "processed": "<story>......... \n<story>Hmm.. mmm.. uhm.... Ahh!?"
+        },
+        {
+            "text": "I'm sorry, Trainer! \nI got carried away. This is too boring-",
+            "name": "Cheval Grand",
+            "path_id": 7864590765292501932,
+            "block_id": 17,
+            "clip_length": 269,
+            "choices": [
+                {
+                    "text": "That focus sure is one of your strengths!",
+                    "hash": "f991ed4f0bcb2a4f0aa5ad1a562444748b42e36b7a66256312bb0e9258bce57e",
+                    "processed": "<size=40>That focus sure is one of your strengths!</size>"
+                },
+                {
+                    "text": "That focus sure is one of your strengths!",
+                    "hash": "0adc9a69f01eb8dbad3debbcd0026cc36227de74fce9317fff073128da3799a8",
+                    "processed": "<size=40>That focus sure is one of your strengths!</size>"
+                }
+            ],
+            "processed": "<story>I'm sorry, Trainer! \n<story>I got carried away. This is too boring-"
+        },
+        {
+            "text": "Ahhh... next one... let's do something more exciting! \nA more thrilling and exciting...!",
+            "name": "Cheval Grand",
+            "path_id": -4719993384462308069,
+            "block_id": 18,
+            "clip_length": 371,
+            "processed": "<story>Ahhh... next one... let's do something more exciting! \n<story>A more thrilling and exciting...!"
+        },
+        {
+            "text": "-pull the string and guess, a raffle draw. \nThe products were all for children, but the excitement was certainly there",
+            "name": "",
+            "path_id": 8725676558447689977,
+            "block_id": 19,
+            "clip_length": 107,
+            "processed": "<story>-pull the string and guess, a raffle draw. \n<story>The products were all for children, but the excitement was certainly there"
+        },
+        {
+            "text": "Ah, Um! Please let me know what you want, Trainer... \nI... will do my best and try to get it...",
+            "name": "Cheval Grand",
+            "path_id": -287379035832426524,
+            "block_id": 20,
+            "clip_length": 276,
+            "choices": [
+                {
+                    "text": "Then, the snack over there",
+                    "hash": "22e6b41605641b34bae41af3947ddf9d08f9cdea10c00c8ad03e3f706d06560d"
+                }
+            ],
+            "processed": "<story>Ah, Um! Please let me know what you want, Trainer... \n<story>I... will do my best and try to get it..."
+        },
+        {
+            "text": "I understand! Let's see, it's a little bit in the front, so... \nThe string in the back is different. And this one, too, \nin terms of length out the top...",
+            "name": "Cheval Grand",
+            "path_id": -3936048778901493393,
+            "block_id": 21,
+            "clip_length": 491,
+            "processed": "<story>I understand! Let's see, it's a little bit in the front, so... \n<story>The string in the back is different. And this one, too, \n<story>in terms of length out the top..."
+        },
+        {
+            "text": "And then there's... This one seems to stick out more than the others, \nThis one is...",
+            "name": "Cheval Grand",
+            "path_id": -6959915711583808433,
+            "block_id": 22,
+            "clip_length": 258,
+            "processed": "<story>And then there's... This one seems to stick out more than the others, \n<story>This one is..."
+        },
+        {
+            "text": "Ha-ha-ha! Girl, you've got to pull out all the stops on these things! \nThe back of the line is starting to line up, so it's time to get to it!",
+            "name": "Raffle Shop Uncle",
+            "path_id": -2651528169587947786,
+            "block_id": 23,
+            "clip_length": 305,
+            "processed": "<story>Ha-ha-ha! Girl, you've got to pull out all the stops on these things! \n<story>The back of the line is starting to line up, so it's time to get to it!"
+        },
+        {
+            "text": "Eh, ah...ah, so-sorry! \nWell, here we go...",
+            "name": "Cheval Grand",
+            "path_id": 3559488040841031478,
+            "block_id": 24,
+            "clip_length": 198,
+            "processed": "<story>Eh, ah...ah, so-sorry! \n<story>Well, here we go..."
+        },
+        {
+            "text": "(Weird... I couldn't guess it...)",
+            "name": "Cheval Grand",
+            "path_id": -3849711393520574100,
+            "block_id": 25,
+            "clip_length": 194,
+            "processed": "<story>(Weird... I couldn't guess it...)"
+        },
+        {
+            "text": "(Aaahhh....Why am I like this? \n...its not cool at all...)",
+            "name": "Cheval Grand",
+            "path_id": 5191577067812281923,
+            "block_id": 26,
+            "clip_length": 332,
+            "processed": "<story>(Aaahhh....Why am I like this? \n<story>...its not cool at all...)"
+        },
+        {
+            "text": "(Things didn't go as planned, even when I was feeling courageous)",
+            "name": "Cheval Grand",
+            "path_id": 1350314992219895138,
+            "block_id": 27,
+            "clip_length": 148,
+            "processed": "<story>(Things didn't go as planned, even when I was feeling courageous)"
+        },
+        {
+            "text": "(I wonder if Trainer was disappointed too, its sure does... \nI knew it. I'm not like those two)",
+            "name": "Cheval Grand",
+            "path_id": -1997647740331646516,
+            "block_id": 28,
+            "clip_length": 433,
+            "choices": [
+                {
+                    "text": "Ahahahaha!",
+                    "hash": "8423b04a55c43e720bc32743e8f490d2b17b5a516645efb41ca7392cea4f3bb4"
+                }
+            ],
+            "processed": "<story>(I wonder if Trainer was disappointed too, its sure does... \n<story>I knew it. I'm not like those two)"
+        },
+        {
+            "text": "Eh",
+            "name": "Cheval Grand",
+            "path_id": 7088821546602124229,
+            "block_id": 29,
+            "clip_length": 30,
+            "processed": "<story>Eh"
+        },
+        {
+            "text": "Cheval Grand, with the serious-looking and serious-eyed earlier. \nI remembered and laughed unbearably",
+            "name": "",
+            "path_id": 5601047972347608321,
+            "block_id": 30,
+            "clip_length": 103,
+            "processed": "<story>Cheval Grand, with the serious-looking and serious-eyed earlier. \n<story>I remembered and laughed unbearably"
+        },
+        {
+            "text": "T-Trainer? What's the matter? \nCould it be that you're so dumbfounded because of me!?",
+            "name": "Cheval Grand",
+            "path_id": 6610805610117408021,
+            "block_id": 31,
+            "clip_length": 301,
+            "choices": [
+                {
+                    "text": "No, it's not that",
+                    "hash": "c8fb9a2813f5306a6a2c1a497726d2c614ad65af30cf7fa72b2e299154a7b339"
+                }
+            ],
+            "processed": "<story>T-Trainer? What's the matter? \n<story>Could it be that you're so dumbfounded because of me!?"
+        },
+        {
+            "text": "I prefaced it with a laugh and said sorry, you're just too serious about everything \nI told her like that and also said it was fun and made me happy",
+            "name": "",
+            "path_id": -13227465539135003,
+            "block_id": 32,
+            "clip_length": 108,
+            "processed": "<story>I prefaced it with a laugh and said sorry, you're just too serious about everything \n<story>I told her like that and also said it was fun and made me happy"
+        },
+        {
+            "text": "Happy, you say...?",
+            "name": "Cheval Grand",
+            "path_id": 8124014397313994570,
+            "block_id": 33,
+            "clip_length": 91,
+            "processed": "<story>Happy, you say...?"
+        },
+        {
+            "text": "I nodded my head. Because even in such a small way, \nI was so happy to see that She was serious for me",
+            "name": "",
+            "path_id": -721890643258554643,
+            "block_id": 34,
+            "clip_length": 106,
+            "processed": "<story>I nodded my head. Because even in such a small way, \n<story>I was so happy to see that She was serious for me"
+        },
+        {
+            "text": "Ah....",
+            "name": "Cheval Grand",
+            "path_id": -4040301111684245722,
+            "block_id": 35,
+            "clip_length": 50,
+            "processed": "<story>Ah...."
+        },
+        {
+            "text": "(Trainer... \nwho always accepts me... even im not sparkling at all)",
+            "name": "Cheval Grand",
+            "path_id": -6179679938357237781,
+            "block_id": 36,
+            "clip_length": 280,
+            "processed": "<story>(Trainer... \n<story>who always accepts me... even im not sparkling at all)"
+        },
+        {
+            "text": "(...even \"on the other side\" but still... next to me)",
+            "name": "Cheval Grand",
+            "path_id": 6247632530293015785,
+            "block_id": 37,
+            "clip_length": 179,
+            "processed": "<story>(...even \"on the other side\" but still... next to me)"
+        },
+        {
+            "text": "Trainer, someday... you may regret it",
+            "name": "Cheval Grand",
+            "path_id": -1672387370283965022,
+            "block_id": 38,
+            "clip_length": 309,
+            "choices": [
+                {
+                    "text": "Hm?",
+                    "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
+                }
+            ],
+            "processed": "<story>Trainer, someday... you may regret it"
+        },
+        {
+            "text": "That you choose me. \nThat you accepted me...",
+            "name": "Cheval Grand",
+            "path_id": 8678838230843434066,
+            "block_id": 39,
+            "clip_length": 244,
+            "processed": "<story>That you choose me. \n<story>That you accepted me..."
+        },
+        {
+            "text": "There are many sparkling Horse girls, \nThey are all... much more dazzling than I am.",
+            "name": "Cheval Grand",
+            "path_id": 6040426946864676235,
+            "block_id": 40,
+            "clip_length": 266,
+            "processed": "<story>There are many sparkling Horse girls, \n<story>They are all... much more dazzling than I am."
+        },
+        {
+            "text": "I-I know it... I know about it but still.... \nBut, for me its just...",
+            "name": "Cheval Grand",
+            "path_id": -4975264734000084710,
+            "block_id": 41,
+            "clip_length": 359,
+            "processed": "<story>I-I know it... I know about it but still.... \n<story>But, for me its just..."
+        },
+        {
+            "text": "Her voice is laced with fear. \nI soothed Cheval Grand, who seems to be anxious. And then-",
+            "name": "",
+            "path_id": -2094564264678766570,
+            "block_id": 42,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "That's not exactly true.",
+                    "hash": "428c2d6d05aaf4def7417ddb50efcbe759aeaa37969faa429b5c10b5651b52ed"
+                }
+            ],
+            "processed": "<story>Her voice is laced with fear. \n<story>I soothed Cheval Grand, who seems to be anxious. And then-"
+        },
+        {
+            "text": "I dismissed her words",
+            "name": "",
+            "path_id": -1973102137803844294,
+            "block_id": 43,
+            "clip_length": 59,
+            "choices": [
+                {
+                    "text": "I make the choice",
+                    "hash": "960dcc668fabbf17f4d572c4877077f74b4fc3e48a442208f1e95f44d273f974"
+                }
+            ],
+            "processed": "<story>I dismissed her words"
+        },
+        {
+            "text": "――――",
+            "name": "Cheval Grand",
+            "path_id": 5244937922129294392,
+            "block_id": 44,
+            "clip_length": 54,
+            "processed": "<story>――――"
+        },
+        {
+            "text": "That said, I don't regret the choice",
+            "name": "",
+            "path_id": 8065223243276356196,
+            "block_id": 45,
+            "clip_length": 72,
+            "processed": "<story>That said, I don't regret the choice"
+        },
+        {
+            "text": "I'm glad I chose. Every time I see Cheval Grand, I think of her. \nHer efforts, like no other, \ngive me confidence in this feeling every day",
+            "name": "",
+            "path_id": -13751530473325616,
+            "block_id": 46,
+            "clip_length": 115,
+            "processed": "<story>I'm glad I chose. Every time I see Cheval Grand, I think of her. \n<story>Her efforts, like no other, \n<story>give me confidence in this feeling every day"
+        },
+        {
+            "text": "T-Trainer....",
+            "name": "Cheval Grand",
+            "path_id": 4511627610975231817,
+            "block_id": 47,
+            "clip_length": 136,
+            "processed": "<story>T-Trainer...."
+        },
+        {
+            "text": "(... I don't like myself when I'm all depressed)",
+            "name": "Cheval Grand",
+            "path_id": 9015715347898323732,
+            "block_id": 48,
+            "clip_length": 228,
+            "processed": "<story>(... I don't like myself when I'm all depressed)"
+        },
+        {
+            "text": "(-And yet, in Trainer eyes, I look like \"something\", \nI'm like something sparkling)",
+            "name": "Cheval Grand",
+            "path_id": -1685921486295964154,
+            "block_id": 49,
+            "clip_length": 312,
+            "processed": "<story>(-And yet, in Trainer eyes, I look like \"something\", \n<story>I'm like something sparkling)"
+        },
+        {
+            "text": "(Oh... then, at least)",
+            "name": "Cheval Grand",
+            "path_id": -5295091753452255776,
+            "block_id": 50,
+            "clip_length": 195,
+            "choices": [
+                {
+                    "text": "Okay, let's get back to the academy and keep up the good work!",
+                    "hash": "a8bdac797ab9553d2e9230450a6993e25cdb93b9d841244dd53915e6c72e2f50",
+                    "processed": "<size=25>Okay, let's get back to the academy and keep up the good work!</size>"
+                }
+            ],
+            "processed": "<story>(Oh... then, at least)"
+        },
+        {
+            "text": "(I want to be able to believe in \"Trainer believes in me\" \nI want to be able to trust you)",
+            "name": "Cheval Grand",
+            "path_id": 462078246582079516,
+            "block_id": 51,
+            "clip_length": 296,
+            "processed": "<story>(I want to be able to believe in \"Trainer believes in me\" \n<story>I want to be able to trust you)"
+        },
+        {
+            "text": "Yes, Trainer \nI, I will do my best",
+            "name": "Cheval Grand",
+            "path_id": -3690762391964880778,
+            "block_id": 52,
+            "clip_length": 273,
+            "processed": "<story>Yes, Trainer \n<story>I, I will do my best"
+        },
+        {
+            "text": "(And then... I'd love to hear about it someday)",
+            "name": "Cheval Grand",
+            "path_id": -8632941743058135101,
+            "block_id": 53,
+            "clip_length": 143,
+            "processed": "<story>(And then... I'd love to hear about it someday)"
+        },
+        {
+            "text": "(...What do I look like in your eyes... \nHow do you see me?)",
+            "name": "Cheval Grand",
+            "path_id": 7166905878030961674,
+            "block_id": 54,
+            "clip_length": 273,
+            "processed": "<story>(...What do I look like in your eyes... \n<story>How do you see me?)"
+        }
+    ],
+    "title": "Wish: I want to hear it someday"
+}

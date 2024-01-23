@@ -1,0 +1,638 @@
+{
+    "type": "story",
+    "row_index": 209284,
+    "file_name": "story/data/04/1089/storytimeline_041089003",
+    "hash": "TVNJV4EDMEOPW5NQOTZJ3GNWUREK6Q6E",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -5068238673828073333,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "She left as if to run away, but I found myself chasing after her. \nThe way she looked the other day...... \nI feel like I shouldn't leave her alone",
+            "name": "",
+            "path_id": -4797566704606162031,
+            "block_id": 1,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "Wait!",
+                    "hash": "6e2bb352c44dfc20e7e01c86dc64b587b4243d73c9ca2614aed3fa707f126089"
+                },
+                {
+                    "text": "Please Wait!",
+                    "hash": "29bc5d20f9b0fc82a9c6b6cfe0358e11314ce36dfc6022d76bb9413ae6380497"
+                }
+            ],
+            "processed": "<story>She left as if to run away, but I found myself chasing after her. \n<story>The way she looked the other day...... \n<story>I feel like I shouldn't leave her alone"
+        },
+        {
+            "text": "Eh!?",
+            "name": "Cheval Grand",
+            "path_id": -5016500343350411819,
+            "block_id": 2,
+            "clip_length": 34,
+            "choices": [
+                {
+                    "text": "If you have any problems, please let me know",
+                    "hash": "7e82e77bce28b5c28d901d7ee8e5ca4c9912b082ae45485666a65a6480831d50",
+                    "processed": "<size=36>If you have any problems, please let me know</size>"
+                }
+            ],
+            "processed": "<story>Eh!?"
+        },
+        {
+            "text": "B-but... Why are you so insist on doing this-",
+            "name": "Cheval Grand",
+            "path_id": -4893685097957637683,
+            "block_id": 3,
+            "clip_length": 177,
+            "choices": [
+                {
+                    "text": "Because I see talent in you",
+                    "hash": "3de6ec836716c9f58f00fd6c48be117ce633337a3b2883b7754abc3a0f4dcd81"
+                },
+                {
+                    "text": "Because I see talent in you",
+                    "hash": "bbd6e4ca8366dae7bbdfa6d2e46d2055974f3536e160a522d71d745b5110c1dd"
+                }
+            ],
+            "processed": "<story>B-but... Why are you so insist on doing this-"
+        },
+        {
+            "text": "That's why, the word \"I can't be like that\" \nis the reason her lack of confidence was catching on with me",
+            "name": "",
+            "path_id": 8326066696059244270,
+            "block_id": 4,
+            "clip_length": 112,
+            "processed": "<story>That's why, the word \"I can't be like that\" \n<story>is the reason her lack of confidence was catching on with me"
+        },
+        {
+            "text": "T-Talent is something I don't...",
+            "name": "Cheval Grand",
+            "path_id": -9058857604378039204,
+            "block_id": 5,
+            "clip_length": 83,
+            "processed": "<story>T-Talent is something I don't..."
+        },
+        {
+            "text": "Its, I just, you know, Im missing a lot of things to begin with, \nI got in here by accident, so―",
+            "name": "Cheval Grand",
+            "path_id": -2065618890430145940,
+            "block_id": 6,
+            "clip_length": 398,
+            "choices": [
+                {
+                    "text": "First of all, That start was good",
+                    "hash": "3e22682cb5965d5688cb9a274f2856e4416bfdb03415b9e65567d16f7f1f5ad9"
+                }
+            ],
+            "processed": "<story>Its, I just, you know, Im missing a lot of things to begin with, \n<story>I got in here by accident, so―"
+        },
+        {
+            "text": "Eh?",
+            "name": "Cheval Grand",
+            "path_id": -2640747529191792263,
+            "block_id": 7,
+            "clip_length": 20,
+            "processed": "<story>Eh?"
+        },
+        {
+            "text": "Anyway, I wanted to stop the negativity. \nI'll say all the advantages I felt about her, \neven though I only saw her once",
+            "name": "",
+            "path_id": -6978431543381267675,
+            "block_id": 8,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "You have good stamina and was able to hold position",
+                    "hash": "d1e35087bc7fca2fd317e978c61e396c3d5ca460079241c79a3905cd5b3322c8",
+                    "processed": "<size=31>You have good stamina and was able to hold position</size>"
+                }
+            ],
+            "processed": "<story>Anyway, I wanted to stop the negativity. \n<story>I'll say all the advantages I felt about her, \n<story>even though I only saw her once"
+        },
+        {
+            "text": "In other words, forced to run around the outside \nand got surrounded, it seemed like there wasn't much to do-",
+            "name": "",
+            "path_id": -7182837882175725734,
+            "block_id": 9,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "however, you able to run firmly and look surrounding",
+                    "hash": "d416952ab92dbcb08a1a2adb497d270b92084616e1120cd4015f6840327008ad",
+                    "processed": "<size=31>however, you able to run firmly and look surrounding</size>"
+                }
+            ],
+            "processed": "<story>In other words, forced to run around the outside \n<story>and got surrounded, it seemed like there wasn't much to do-"
+        },
+        {
+            "text": "In a race, the slightest error in judgment can directly affect the outcome later on. \nNot losing one's cool is a big advantage",
+            "name": "",
+            "path_id": -8094947984622427403,
+            "block_id": 10,
+            "clip_length": 108,
+            "processed": "<story>In a race, the slightest error in judgment can directly affect the outcome later on. \n<story>Not losing one's cool is a big advantage"
+        },
+        {
+            "text": "N-No, it just, I-",
+            "name": "Cheval Grand",
+            "path_id": 1084518438079103524,
+            "block_id": 11,
+            "clip_length": 158,
+            "choices": [
+                {
+                    "text": "You are a talented Horse girl",
+                    "hash": "160002bc48923decd8a6d20d463a7c5e8354efbabf61f281f5aea1ece4bbf650"
+                },
+                {
+                    "text": "You are a very talented Horse girl",
+                    "hash": "bdd72268851301a88160d6b59bab57604be6066b6e0b167c8bf1c1b591b1ebf8"
+                }
+            ],
+            "processed": "<story>N-No, it just, I-"
+        },
+        {
+            "text": "Hwaaaaaah...!",
+            "name": "Cheval Grand",
+            "path_id": -6226976606779544425,
+            "block_id": 12,
+            "clip_length": 58,
+            "processed": "<story>Hwaaaaaah...!"
+        },
+        {
+            "text": "Uhh..... \nHuuuhh......",
+            "name": "Cheval Grand",
+            "path_id": 8035116364429909090,
+            "block_id": 13,
+            "clip_length": 224,
+            "processed": "<story>Uhh..... \n<story>Huuuhh......"
+        },
+        {
+            "text": "Thank you so much",
+            "name": "Cheval Grand",
+            "path_id": 2144701005084158940,
+            "block_id": 14,
+            "clip_length": 193,
+            "processed": "<story>Thank you so much"
+        },
+        {
+            "text": "...I thought I had done my best to make her understand, \nbut now, I can't seem to grasp the seriousness of her",
+            "name": "",
+            "path_id": 769457870564214472,
+            "block_id": 15,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "(This girl is remarkably unsure of herself)",
+                    "hash": "b4c82824c35b72e98737c66121519c510b9507c97694466ac59d44c0d936340c",
+                    "processed": "<size=40>(This girl is remarkably unsure of herself)</size>"
+                }
+            ],
+            "processed": "<story>...I thought I had done my best to make her understand, \n<story>but now, I can't seem to grasp the seriousness of her"
+        },
+        {
+            "text": "I don't know why she isn't confident. \nWas it her characteristics. \nIs it due to the lack of results in the race",
+            "name": "",
+            "path_id": -5348128732182861153,
+            "block_id": 16,
+            "clip_length": 112,
+            "processed": "<story>I don't know why she isn't confident. \n<story>Was it her characteristics. \n<story>Is it due to the lack of results in the race"
+        },
+        {
+            "text": "Anyway, perhaps the reason for the strange appearance that I saw the other day, \nIt must have been from this 'astonishing lack of confidence'",
+            "name": "",
+            "path_id": -1646350317090850066,
+            "block_id": 17,
+            "clip_length": 115,
+            "processed": "<story>Anyway, perhaps the reason for the strange appearance that I saw the other day, \n<story>It must have been from this 'astonishing lack of confidence'"
+        },
+        {
+            "text": "If left alone, she might quit the academy. \nConsidering her ability, that would be too much of a waste. \nIf that is the case, then-",
+            "name": "",
+            "path_id": 5675883567069247180,
+            "block_id": 18,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "Let me put on a little training, okay?",
+                    "hash": "5751203adbc97d1e3d300cc6f1c7ee119b55e1c5f355d864f1aa3e8c7b541fbb"
+                },
+                {
+                    "text": "Let me put on a little training, okay?",
+                    "hash": "5374a0f13e2c6a745a889d8957688fb2ad2c563010d77289a95a86ff9a2ec832"
+                }
+            ],
+            "processed": "<story>If left alone, she might quit the academy. \n<story>Considering her ability, that would be too much of a waste. \n<story>If that is the case, then-"
+        },
+        {
+            "text": "The more I know about her, the better I can choose a training plan to suit her. \nI can offer her a training plan that fits her. If she wins a lot of victories, \nit will surely boost her self-confidence",
+            "name": "",
+            "path_id": -6735916437256723437,
+            "block_id": 19,
+            "clip_length": 118,
+            "processed": "<story>The more I know about her, the better I can choose a training plan to suit her. \n<story>I can offer her a training plan that fits her. If she wins a lot of victories, \n<story>it will surely boost her self-confidence"
+        },
+        {
+            "text": "I can make you believe that you have a talent for racing.",
+            "name": "",
+            "path_id": -8161149768737258204,
+            "block_id": 20,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "I will make you strong, I promise",
+                    "hash": "4dd7a338368d6e2d8acd4fc16bbfde6c47decc5cb030bfc8ea67898235686e3b"
+                },
+                {
+                    "text": "I will make you strong, I promise",
+                    "hash": "a269c0bd7c4613d30d9746e2c98ea5ef2af820052bce5c5a52cc272dfa6e3bfc"
+                }
+            ],
+            "processed": "<story>I can make you believe that you have a talent for racing."
+        },
+        {
+            "text": "You will make me-",
+            "name": "Cheval Grand",
+            "path_id": 5450421966159693717,
+            "block_id": 21,
+            "clip_length": 114,
+            "processed": "<story>You will make me-"
+        },
+        {
+            "text": "(But what if I still can't be strong? If I just waste this person time because of me)",
+            "name": "Cheval Grand",
+            "path_id": -8461807562715966004,
+            "block_id": 22,
+            "clip_length": 355,
+            "processed": "<story>(But what if I still can't be strong? If I just waste this person time because of me)"
+        },
+        {
+            "text": "(No, its not like that! You just thought like that as if you just walked forward...!)",
+            "name": "Cheval Grand",
+            "path_id": -3213162537650712699,
+            "block_id": 23,
+            "clip_length": 290,
+            "processed": "<story>(No, its not like that! You just thought like that as if you just walked forward...!)"
+        },
+        {
+            "text": "(Look only at your chances. If you want to be strong, if you still want to run!)",
+            "name": "Cheval Grand",
+            "path_id": 7564066289035425288,
+            "block_id": 24,
+            "clip_length": 266,
+            "processed": "<story>(Look only at your chances. If you want to be strong, if you still want to run!)"
+        },
+        {
+            "text": "Uh.... Ahh...",
+            "name": "Cheval Grand",
+            "path_id": -5071844001247713311,
+            "block_id": 25,
+            "clip_length": 113,
+            "processed": "<story>Uh.... Ahh..."
+        },
+        {
+            "text": "P-p-please train me well",
+            "name": "Cheval Grand",
+            "path_id": 579757093774451364,
+            "block_id": 26,
+            "clip_length": 117,
+            "processed": "<story>P-p-please train me well"
+        },
+        {
+            "text": "I signed a trial contract with Cheval Grand, watch her training for a while",
+            "name": "",
+            "path_id": 2849931314925292148,
+            "block_id": 27,
+            "clip_length": 111,
+            "processed": "<story>I signed a trial contract with Cheval Grand, watch her training for a while"
+        },
+        {
+            "text": "Ha, hah hmmph Haaaaaaaaaa!!",
+            "name": "Cheval Grand",
+            "path_id": -2406225470404856534,
+            "block_id": 28,
+            "clip_length": 167,
+            "processed": "<story>Ha, hah hmmph Haaaaaaaaaa!!"
+        },
+        {
+            "text": "(First, I need to improve my form... \nI'll let my body learn how to run according to the running style that suits me best)",
+            "name": "Cheval Grand",
+            "path_id": -8704896510730923777,
+            "block_id": 29,
+            "clip_length": 255,
+            "processed": "<story>(First, I need to improve my form... \n<story>I'll let my body learn how to run according to the running style that suits me best)"
+        },
+        {
+            "text": "Ha, Ha, Haaa...! not yet!",
+            "name": "Cheval Grand",
+            "path_id": -9117804641366370457,
+            "block_id": 30,
+            "clip_length": 235,
+            "processed": "<story>Ha, Ha, Haaa...! not yet!"
+        },
+        {
+            "text": "(And then, lower body strengthening. In the final straight line, \nMore instantaneous power to win the race with as much advantage as possible)",
+            "name": "Cheval Grand",
+            "path_id": -5394043041694297516,
+            "block_id": 31,
+            "clip_length": 336,
+            "processed": "<story>(And then, lower body strengthening. In the final straight line, \n<story>More instantaneous power to win the race with as much advantage as possible)"
+        },
+        {
+            "text": "Hah, Hah, Haah",
+            "name": "Cheval Grand",
+            "path_id": 5975853147473312074,
+            "block_id": 32,
+            "clip_length": 132,
+            "processed": "<story>Hah, Hah, Haah"
+        },
+        {
+            "text": "My ... st-, stamina was said to be my strength, \nI'm going to develop it even more",
+            "name": "Cheval Grand",
+            "path_id": -7041149051632916412,
+            "block_id": 33,
+            "clip_length": 241,
+            "choices": [
+                {
+                    "text": "Okay, once more!",
+                    "hash": "75b6cf38b98e86c0f3321288c7dc99b5700b6645e021609984cc9bc99242db48"
+                }
+            ],
+            "processed": "<story>My ... st-, stamina was said to be my strength, \n<story>I'm going to develop it even more"
+        },
+        {
+            "text": "Ah, Yes!",
+            "name": "Cheval Grand",
+            "path_id": -8000653918668984250,
+            "block_id": 34,
+            "clip_length": 58,
+            "processed": "<story>Ah, Yes!"
+        },
+        {
+            "text": "Its been a while since I started putting some training on Cheval Grand",
+            "name": "",
+            "path_id": -7675398961103448922,
+            "block_id": 35,
+            "clip_length": 84,
+            "processed": "<story>Its been a while since I started putting some training on Cheval Grand"
+        },
+        {
+            "text": "Haah.....Ho-how about that?",
+            "name": "Cheval Grand",
+            "path_id": -4449780989110091137,
+            "block_id": 36,
+            "clip_length": 230,
+            "choices": [
+                {
+                    "text": "Yeah, you cleared your target time. Congratulations!",
+                    "hash": "bb5e269844bf7083f2438feb41d1d1ddd1162bc3c767476d50d3479a8854807e",
+                    "processed": "<size=31>Yeah, you cleared your target time. Congratulations!</size>"
+                },
+                {
+                    "text": "Yeah, you cleared your target time. Congratulations!",
+                    "hash": "a884f8800d7ec8fe95dd6f79289891e50b36a5e46847c48e8d65ea27d45e8a8e",
+                    "processed": "<size=31>Yeah, you cleared your target time. Congratulations!</size>"
+                }
+            ],
+            "processed": "<story>Haah.....Ho-how about that?"
+        },
+        {
+            "text": "Woah, Awesome, in such a short period of time...!",
+            "name": "Cheval Grand",
+            "path_id": -2733701128452863659,
+            "block_id": 37,
+            "clip_length": 164,
+            "processed": "<story>Woah, Awesome, in such a short period of time...!"
+        },
+        {
+            "text": "Because you put on the training, Thank you so much for the help",
+            "name": "Cheval Grand",
+            "path_id": -1625772745328306826,
+            "block_id": 38,
+            "clip_length": 256,
+            "choices": [
+                {
+                    "text": "....I doubt that",
+                    "hash": "e43795dc1472a8dd97c7055a43fea71f308a989e1ec09be0c4771c78b30703c3"
+                }
+            ],
+            "processed": "<story>Because you put on the training, Thank you so much for the help"
+        },
+        {
+            "text": "In other words, I have only provided knowledge. \nThe only one that properly reached the target was-",
+            "name": "",
+            "path_id": 307092280358907578,
+            "block_id": 39,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "Because you have a great attitude.",
+                    "hash": "9c1e64ff20bc9897e040f2efbb57df2adc4bea9044d6f805e87c3ec26a940ead"
+                },
+                {
+                    "text": "Because you have a great attitude.",
+                    "hash": "99619683e4da413c2eb9411efd5ad05990d97ff7156e1bb32345ecacf08efb9a"
+                }
+            ],
+            "processed": "<story>In other words, I have only provided knowledge. \n<story>The only one that properly reached the target was-"
+        },
+        {
+            "text": "Huh, attitude?",
+            "name": "Cheval Grand",
+            "path_id": 1246147244218253129,
+            "block_id": 40,
+            "clip_length": 133,
+            "processed": "<story>Huh, attitude?"
+        },
+        {
+            "text": "Since we started training together, \nI now have a better understanding of what kind of Horse girl Cheval Grand is",
+            "name": "",
+            "path_id": -9125507162973207281,
+            "block_id": 41,
+            "clip_length": 103,
+            "processed": "<story>Since we started training together, \n<story>I now have a better understanding of what kind of Horse girl Cheval Grand is"
+        },
+        {
+            "text": "This is what I'm good at and what I'm not so good at, now I see..",
+            "name": "Cheval Grand",
+            "path_id": 3563642164945857332,
+            "block_id": 42,
+            "clip_length": 293,
+            "processed": "<story>This is what I'm good at and what I'm not so good at, now I see.."
+        },
+        {
+            "text": "Even if it is the instruction of a trainer you have just met, \nshe have the honesty to accept it straight away without doubts",
+            "name": "",
+            "path_id": -8423698585230091696,
+            "block_id": 43,
+            "clip_length": 107,
+            "processed": "<story>Even if it is the instruction of a trainer you have just met, \n<story>she have the honesty to accept it straight away without doubts"
+        },
+        {
+            "text": "Oh, um, sorry. I have a few questions about the stretching you taught me",
+            "name": "Cheval Grand",
+            "path_id": -100950051613039499,
+            "block_id": 44,
+            "clip_length": 254,
+            "processed": "<story>Oh, um, sorry. I have a few questions about the stretching you taught me"
+        },
+        {
+            "text": "She is a serious person who never forgets to check even the smallest details",
+            "name": "",
+            "path_id": 1783398291491814892,
+            "block_id": 45,
+            "clip_length": 76,
+            "processed": "<story>She is a serious person who never forgets to check even the smallest details"
+        },
+        {
+            "text": "One, Two, Three, Four. Two-Two, three, Four. Okay, let's start with warming up",
+            "name": "Cheval Grand",
+            "path_id": -8052583779582935814,
+            "block_id": 46,
+            "clip_length": 555,
+            "processed": "<story>One, Two, Three, Four. Two-Two, three, Four. Okay, let's start with warming up"
+        },
+        {
+            "text": "With our agreement, \nShe was hardworking enough to do additional independent training",
+            "name": "",
+            "path_id": 7198287981911488585,
+            "block_id": 47,
+            "clip_length": 94,
+            "processed": "<story>With our agreement, \n<story>She was hardworking enough to do additional independent training"
+        },
+        {
+            "text": "Cheval Grand sure is such an honest, serious, and hardworking person. \nWhich is why-",
+            "name": "",
+            "path_id": -7322482546802424206,
+            "block_id": 48,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "You've grown so much.",
+                    "hash": "7444b09ae8044d36be53b3dc532bd16539d63e72c3993b157687df7d6287566b"
+                },
+                {
+                    "text": "You've grown so much.",
+                    "hash": "288629d10b103288931f3d2df607cc30c104ece1e14a5477850eb043958180c2"
+                }
+            ],
+            "processed": "<story>Cheval Grand sure is such an honest, serious, and hardworking person. \n<story>Which is why-"
+        },
+        {
+            "text": "Ahh....You're praising too much, I'm just insecure, worried and... scared",
+            "name": "Cheval Grand",
+            "path_id": -1601274851154989853,
+            "block_id": 49,
+            "clip_length": 400,
+            "processed": "<story>Ahh....You're praising too much, I'm just insecure, worried and... scared"
+        },
+        {
+            "text": "That's why I believe everything you say as an expert. \nI check every little thing. I'm also anxious about my own training",
+            "name": "Cheval Grand",
+            "path_id": -4509368236867957138,
+            "block_id": 50,
+            "clip_length": 396,
+            "choices": [
+                {
+                    "text": "I mean, you're an honest and such a hard worker",
+                    "hash": "1e146d289175a6d1e06d3c719a506147e2a984cb0fc6d34873cd849f95ca0c44",
+                    "processed": "<size=34>I mean, you're an honest and such a hard worker</size>"
+                },
+                {
+                    "text": "I mean, you're an honest \nand such a hard worker.",
+                    "hash": "013419c688726405a20c20706f90908dd130ff831749a8563b35736bb7feb579",
+                    "processed": "<size=33>I mean, you're an honest \nand such a hard worker.</size>"
+                }
+            ],
+            "processed": "<story>That's why I believe everything you say as an expert. \n<story>I check every little thing. I'm also anxious about my own training"
+        },
+        {
+            "text": "Ah, It's...",
+            "name": "Cheval Grand",
+            "path_id": -3800654388767242380,
+            "block_id": 51,
+            "clip_length": 112,
+            "processed": "<story>Ah, It's..."
+        },
+        {
+            "text": "Aside from racing talent, the temperament you are born with \nis not something that is easy to change. \nIt is not something that can be easily changed. That is why her temperament is so valuable",
+            "name": "",
+            "path_id": 475437984235281242,
+            "block_id": 52,
+            "clip_length": 124,
+            "choices": [
+                {
+                    "text": "Not many horse girls are like you",
+                    "hash": "38b9b0ca8607aa4d1f718e60131a44f4903cd4777b2545dde10172fd8008efee"
+                },
+                {
+                    "text": "Not many horse girls are like you",
+                    "hash": "39b6f27d022b1788bc3d0fe2b0368fc9d0c906cfa53317618014dc86cf7abc53"
+                }
+            ],
+            "processed": "<story>Aside from racing talent, the temperament you are born with \n<story>is not something that is easy to change. \n<story>It is not something that can be easily changed. That is why her temperament is so valuable"
+        },
+        {
+            "text": "Somehow, I look into her eyes to convey my eagerness, \nHer blue eyes meet mine for a moment-",
+            "name": "",
+            "path_id": 9159272465659212441,
+            "block_id": 53,
+            "clip_length": 94,
+            "processed": "<story>Somehow, I look into her eyes to convey my eagerness, \n<story>Her blue eyes meet mine for a moment-"
+        },
+        {
+            "text": "Ah... \nI, Im sorry",
+            "name": "Cheval Grand",
+            "path_id": -5286967849375635242,
+            "block_id": 54,
+            "clip_length": 201,
+            "processed": "<story>Ah... \n<story>I, Im sorry"
+        },
+        {
+            "text": "As if puzzled, I allow her to leave",
+            "name": "",
+            "path_id": -673436457337181792,
+            "block_id": 55,
+            "clip_length": 61,
+            "processed": "<story>As if puzzled, I allow her to leave"
+        },
+        {
+            "text": "My head, it's hot",
+            "name": "Cheval Grand",
+            "path_id": -5227252463518643388,
+            "block_id": 56,
+            "clip_length": 119,
+            "processed": "<story>My head, it's hot"
+        },
+        {
+            "text": "(Not only the way I ran, \neven complimented me on what's inside)",
+            "name": "Cheval Grand",
+            "path_id": -8749696023414964049,
+            "block_id": 57,
+            "clip_length": 290,
+            "processed": "<story>(Not only the way I ran, \n<story>even complimented me on what's inside)"
+        },
+        {
+            "text": "(Moreover, I was in those eyes)",
+            "name": "Cheval Grand",
+            "path_id": -1981455772169574295,
+            "block_id": 58,
+            "clip_length": 215,
+            "processed": "<story>(Moreover, I was in those eyes)"
+        },
+        {
+            "text": "It's weird. Very much so.",
+            "name": "Cheval Grand",
+            "path_id": -5391062151621393639,
+            "block_id": 59,
+            "clip_length": 149,
+            "processed": "<story>It's weird. Very much so."
+        }
+    ],
+    "title": "Personality: No Self-Esteem, Nervous & Timid"
+}
