@@ -1,0 +1,465 @@
+{
+    "type": "story",
+    "row_index": 472,
+    "file_name": "story/data/04/1021/storytimeline_041021004",
+    "hash": "47P3BXWBPLQHH5MJUJPJS73UPRFYU637",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -2638944186313038568,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "After training on a day with the Selection Race \nlooming. I called out to Tamamo Cross since I \nwanted to talk to her about something…",
+            "name": "",
+            "path_id": 9115510740780687832,
+            "block_id": 1,
+            "clip_length": 106,
+            "processed": "<story>After training on a day with the Selection Race \n<story>looming. I called out to Tamamo Cross since I \n<story>wanted to talk to her about something…"
+        },
+        {
+            "text": "I'm done with my cooldown now. \nAnd… what did ya wanna talk about?",
+            "name": "Tamamo Cross",
+            "path_id": 1510828702180257807,
+            "block_id": 2,
+            "clip_length": 136,
+            "choices": [
+                {
+                    "text": "My last bit of advice for the Selection Race",
+                    "hash": "d4c5c9cff5463e25f25812b866db1e7535753cecb6d27ecfa6ae9514a5e88ba1",
+                    "processed": "<size=38>My last bit of advice for the Selection Race</size>"
+                },
+                {
+                    "text": "My last bit of advice for the Selection Race",
+                    "hash": "1a859921f1d8232c64126ac52318830251ca8727f61861ab903622e27748b73c",
+                    "processed": "<size=38>My last bit of advice for the Selection Race</size>"
+                }
+            ],
+            "processed": "<story>I'm done with my cooldown now. \n<story>And… what did ya wanna talk about?"
+        },
+        {
+            "text": "Last bit of… advice? Whadaya mean by that? \nDon't tell me, ya started ta think I can't win-",
+            "name": "Tamamo Cross",
+            "path_id": 8456665462171560777,
+            "block_id": 3,
+            "clip_length": 310,
+            "processed": "<story>Last bit of… advice? Whadaya mean by that? \n<story>Don't tell me, ya started ta think I can't win-"
+        },
+        {
+            "text": "I shook my head, denying her words. It's the exact \nopposite. If it's Tamamo Cross, I believe she \ncan win, so in that way, it's the last.",
+            "name": "",
+            "path_id": -615832446301815360,
+            "block_id": 4,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "On the day of the race, make sure to have fun",
+                    "hash": "42b82cd4833876b80d1950410dc9974ae70893cbad9540c93c6d81da5f23367f",
+                    "processed": "<size=36>On the day of the race, make sure to have fun</size>"
+                }
+            ],
+            "processed": "<story>I shook my head, denying her words. It's the exact \n<story>opposite. If it's Tamamo Cross, I believe she \n<story>can win, so in that way, it's the last."
+        },
+        {
+            "text": "W-… what the heck are ya sayin'?! It's a serious competition! \nThere's no way I've got th' leeway ta just have fun!!",
+            "name": "Tamamo Cross",
+            "path_id": 5085656309717750845,
+            "block_id": 5,
+            "clip_length": 240,
+            "choices": [
+                {
+                    "text": "That's not true!",
+                    "hash": "acf20f7d2c1a51895e651527ee7b5546146be8728d40a04bf28d15f800a90507"
+                }
+            ],
+            "processed": "<story>W-… what the heck are ya sayin'?! It's a serious competition! \n<story>There's no way I've got th' leeway ta just have fun!!"
+        },
+        {
+            "text": "Wha-",
+            "name": "Tamamo Cross",
+            "path_id": -4006974643355037004,
+            "block_id": 6,
+            "clip_length": 28,
+            "processed": "<story>Wha-"
+        },
+        {
+            "text": "The reason that Tamamo Cross can't exert her full power, \nI explained to her my thoughts on why that might be…",
+            "name": "",
+            "path_id": -5195320900218722598,
+            "block_id": 7,
+            "clip_length": 119,
+            "processed": "<story>The reason that Tamamo Cross can't exert her full power, \n<story>I explained to her my thoughts on why that might be…"
+        },
+        {
+            "text": "Haaa… haaa… haaa…!! \nGonna win…! For sure, gotta win…!",
+            "name": "Tamamo Cross",
+            "path_id": 1060370003741129308,
+            "block_id": 8,
+            "clip_length": 187,
+            "processed": "<story>Haaa… haaa… haaa…!! \n<story>Gonna win…! For sure, gotta win…!"
+        },
+        {
+            "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-",
+            "name": "Tamamo Cross",
+            "path_id": -3076545145412584807,
+            "block_id": 9,
+            "clip_length": 295,
+            "processed": "<story>'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \n<story>It ain't good if I can't win! But even then-"
+        },
+        {
+            "text": "Tamamo Cross' feelings, of wanting to win for the sake of her \nfamily are strong… maybe too strong.",
+            "name": "",
+            "path_id": 2788012363790505825,
+            "block_id": 10,
+            "clip_length": 102,
+            "processed": "<story>Tamamo Cross' feelings, of wanting to win for the sake of her \n<story>family are strong… maybe too strong."
+        },
+        {
+            "text": "That's the main reason her motivation is so strong. Maybe that \ndesire to grow stronger has narrowed her field of view.",
+            "name": "",
+            "path_id": 8347156281721117277,
+            "block_id": 11,
+            "clip_length": 120,
+            "processed": "<story>That's the main reason her motivation is so strong. Maybe that \n<story>desire to grow stronger has narrowed her field of view."
+        },
+        {
+            "text": "But those feelings are an irreplaceable, precious thing. \nTherefore, I told her this. Embrace those feelings and-",
+            "name": "",
+            "path_id": 8793575571662190035,
+            "block_id": 12,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "Become \"White Lightning\"!",
+                    "hash": "cb45029bca55ab5217b02a042eeba4d59588ce8ed10984dce3a4475535ae1b87"
+                },
+                {
+                    "text": "Become \"White Lightning\"!",
+                    "hash": "ff7955b8364bdd2f85a53171fa2de6a5633418557a1b849b3fe36839ccf0ed15"
+                }
+            ],
+            "processed": "<story>But those feelings are an irreplaceable, precious thing. \n<story>Therefore, I told her this. Embrace those feelings and-"
+        },
+        {
+            "text": "…!",
+            "name": "Tamamo Cross",
+            "path_id": -8243384251720120368,
+            "block_id": 13,
+            "clip_length": 36,
+            "processed": "<story>…!"
+        },
+        {
+            "text": "The feelings towards her family, and the joy of \nrunning. With both of those, Tamamo Cross will \ndefinitely win. That's the answer I came to.",
+            "name": "",
+            "path_id": 2017057116992690510,
+            "block_id": 14,
+            "clip_length": 121,
+            "processed": "<story>The feelings towards her family, and the joy of \n<story>running. With both of those, Tamamo Cross will \n<story>definitely win. That's the answer I came to."
+        },
+        {
+            "text": "…I did say that. Faster an' havin' more fun \nthan anyone, White Lightning… but… havin' \nfun while runnin'… can I really win…?",
+            "name": "Tamamo Cross",
+            "path_id": 2926173832035887471,
+            "block_id": 15,
+            "clip_length": 550,
+            "choices": [
+                {
+                    "text": "Who decided you couldn't win?",
+                    "hash": "751990ff3a8d025d980875125a7f40c426795762ba0b55e74488523d99f09efa"
+                },
+                {
+                    "text": "Who decided you couldn't win?",
+                    "hash": "901e2bc6f5c1f99ee5ad61020a66c46a936c948e01af1933b0fdf1f53721e66c"
+                }
+            ],
+            "processed": "<story>…I did say that. Faster an' havin' more fun \n<story>than anyone, White Lightning… but… havin' \n<story>fun while runnin'… can I really win…?"
+        },
+        {
+            "text": "—",
+            "name": "Tamamo Cross",
+            "path_id": 4993581734806539744,
+            "block_id": 16,
+            "clip_length": 45,
+            "processed": "<story>—"
+        },
+        {
+            "text": "…Hahaa. I've been a real blockhead, haven't I? \nI jus' now, fiiinally realized it after ya said that…",
+            "name": "Tamamo Cross",
+            "path_id": 5169133701743013635,
+            "block_id": 17,
+            "clip_length": 429,
+            "processed": "<story>…Hahaa. I've been a real blockhead, haven't I? \n<story>I jus' now, fiiinally realized it after ya said that…"
+        },
+        {
+            "text": "The one holdin' me back… was me, this whole \ntime. Thinkin' this wasn't a place ta be havin' \nfun, thinkin' only 'bout winnin'…",
+            "name": "Tamamo Cross",
+            "path_id": -8361633858499928824,
+            "block_id": 18,
+            "clip_length": 328,
+            "processed": "<story>The one holdin' me back… was me, this whole \n<story>time. Thinkin' this wasn't a place ta be havin' \n<story>fun, thinkin' only 'bout winnin'…"
+        },
+        {
+            "text": "But that ain't me. \nTh' real \"White Lightning\"-",
+            "name": "Tamamo Cross",
+            "path_id": -4335629406003762086,
+            "block_id": 19,
+            "clip_length": 184,
+            "processed": "<story>But that ain't me. \n<story>Th' real \"White Lightning\"-"
+        },
+        {
+            "text": "Uoooooooooooooo!! \nMy runnin'! Howzzat?!",
+            "name": "Tamamo Cross",
+            "path_id": -5608747235242990884,
+            "block_id": 20,
+            "clip_length": 171,
+            "processed": "<story>Uoooooooooooooo!! \n<story>My runnin'! Howzzat?!"
+        },
+        {
+            "text": "Neene, you're so cool~!",
+            "name": "Tamamo's Younger Siblings",
+            "path_id": 5792385887556651982,
+            "block_id": 21,
+            "clip_length": 67,
+            "processed": "<story>Neene, you're so cool~!",
+            "name_processed": "<sc=84>Tamamo's Younger Siblings"
+        },
+        {
+            "text": "Tama, yer really making it look like yer havin' fun! \n-Yo, \"White Lightning\"! Japan's best!",
+            "name": "Tamamo's Younger Siblings",
+            "path_id": -6108427156317349887,
+            "block_id": 22,
+            "clip_length": 228,
+            "processed": "<story>Tama, yer really making it look like yer havin' fun! \n<story>-Yo, \"White Lightning\"! Japan's best!",
+            "name_processed": "<sc=84>Tamamo's Younger Siblings"
+        },
+        {
+            "text": "…That last bit 'a advice, I got it. Ya better be lookin' \nforward ta th' Selection Race. Me too… I'll be havin' a blast!",
+            "name": "Tamamo Cross",
+            "path_id": -3204647642338733869,
+            "block_id": 23,
+            "clip_length": 381,
+            "choices": [
+                {
+                    "text": "Yeah!",
+                    "hash": "36715a0db82dfed3cebfb77240a999689b9a75e47453710dab9c549718e0684c"
+                },
+                {
+                    "text": "Yeah!",
+                    "hash": "a8fd86d23e2ad8a21912cf51de4a6ff256c07739ed98f9c7e0cd3ef55152f106"
+                }
+            ],
+            "processed": "<story>…That last bit 'a advice, I got it. Ya better be lookin' \n<story>forward ta th' Selection Race. Me too… I'll be havin' a blast!"
+        },
+        {
+            "text": "And so, the day of the Selection Race arrived-",
+            "name": "",
+            "path_id": -7708447498824287657,
+            "block_id": 24,
+            "clip_length": 65,
+            "processed": "<story>And so, the day of the Selection Race arrived-"
+        },
+        {
+            "text": "-We're approaching the final corner and there \nhasn't been a change to the situation! Will \nthe girls in the back make it in time?!",
+            "name": "Commentator",
+            "path_id": -1163577193515537749,
+            "block_id": 25,
+            "clip_length": 173,
+            "processed": "<story>-We're approaching the final corner and there \n<story>hasn't been a change to the situation! Will \n<story>the girls in the back make it in time?!"
+        },
+        {
+            "text": "(-Th' sound 'a th' wind. Th' feel 'a th' ground. Th' beatin' 'a \nmy heart. It's a familiar feelin', an' it's been a while)",
+            "name": "Tamamo Cross",
+            "path_id": 4867049877555125485,
+            "block_id": 26,
+            "clip_length": 291,
+            "processed": "<story>(-Th' sound 'a th' wind. Th' feel 'a th' ground. Th' beatin' 'a \n<story>my heart. It's a familiar feelin', an' it's been a while)"
+        },
+        {
+            "text": "(I spent all that time thinkin' 'bout nothin' but winnin'- \nI'd forgotten how good it feels ta just run…!)",
+            "name": "Tamamo Cross",
+            "path_id": -3815721808351500627,
+            "block_id": 27,
+            "clip_length": 216,
+            "processed": "<story>(I spent all that time thinkin' 'bout nothin' but winnin'- \n<story>I'd forgotten how good it feels ta just run…!)"
+        },
+        {
+            "text": "(This feelin' jus' won't stop! I still got plenty ta spare…! \nJus' watch me…! From here on, I'll show ya what I can do!)",
+            "name": "Tamamo Cross",
+            "path_id": -5547901205930585623,
+            "block_id": 28,
+            "clip_length": 315,
+            "processed": "<story>(This feelin' jus' won't stop! I still got plenty ta spare…! \n<story>Jus' watch me…! From here on, I'll show ya what I can do!)"
+        },
+        {
+            "text": "-Uooooooooooo!!!!",
+            "name": "Tamamo Cross",
+            "path_id": -3409425045811352158,
+            "block_id": 29,
+            "clip_length": 113,
+            "processed": "<story>-Uooooooooooo!!!!"
+        },
+        {
+            "text": "Tamamo Cross is catching up! Coming up from behind it's Tamamo \nCross! In one big surge Tamamo Cross pulls ahead!!",
+            "name": "Commentator",
+            "path_id": 7745665612035975376,
+            "block_id": 30,
+            "clip_length": 171,
+            "processed": "<story>Tamamo Cross is catching up! Coming up from behind it's Tamamo \n<story>Cross! In one big surge Tamamo Cross pulls ahead!!"
+        },
+        {
+            "text": "Tamamo Cross is out in front! Tamamo Cross! After putting on such \ntremendous pressure, she magnificently grasps victory!!",
+            "name": "Commentator",
+            "path_id": -7423502505630462119,
+            "block_id": 31,
+            "clip_length": 220,
+            "processed": "<story>Tamamo Cross is out in front! Tamamo Cross! After putting on such \n<story>tremendous pressure, she magnificently grasps victory!!"
+        },
+        {
+            "text": "Hell ya!! This is th' real me!! \nThe \"White Lightning\", Tamamo Cross!!",
+            "name": "Tamamo Cross",
+            "path_id": -2277877119022851530,
+            "block_id": 32,
+            "clip_length": 235,
+            "processed": "<story>Hell ya!! This is th' real me!! \n<story>The \"White Lightning\", Tamamo Cross!!"
+        },
+        {
+            "text": "…looks like she had much more to spare this time around. \nI seem to have misjudged her potential.",
+            "name": "Average Trainer A",
+            "path_id": 5302316772105119429,
+            "block_id": 33,
+            "clip_length": 264,
+            "processed": "<story>…looks like she had much more to spare this time around. \n<story>I seem to have misjudged her potential."
+        },
+        {
+            "text": "That powerful drive at the end… I thought she \nwouldn't have enough power in that small body, \nbut she's not to be taken lightly…",
+            "name": "Veteran Trainer A",
+            "path_id": 4842827278129651973,
+            "block_id": 34,
+            "clip_length": 245,
+            "processed": "<story>That powerful drive at the end… I thought she \n<story>wouldn't have enough power in that small body, \n<story>but she's not to be taken lightly…"
+        },
+        {
+            "text": "-I did it, I did it I diiiiiid it! \nDid ya see tha' run?!",
+            "name": "Tamamo Cross",
+            "path_id": 6236327534425138103,
+            "block_id": 35,
+            "clip_length": 164,
+            "choices": [
+                {
+                    "text": "Yo, \"White Lightning\"!",
+                    "hash": "8dc0d5d2270876fb0d10c0a8d7417a36429b197b9d7d5ec3c42f7cdfb145f3ff"
+                }
+            ],
+            "processed": "<story>-I did it, I did it I diiiiiid it! \n<story>Did ya see tha' run?!"
+        },
+        {
+            "text": "Got tha' right! 'sall thanks ta you! \nReally… really, thank ya! ",
+            "name": "Tamamo Cross",
+            "path_id": -7020957631480355277,
+            "block_id": 36,
+            "clip_length": 254,
+            "choices": [
+                {
+                    "text": "It's because you worked so hard",
+                    "hash": "b9137a548798d569f27e9500dea196bc2b8a22e8fe803ff018e325957a75d1f0"
+                },
+                {
+                    "text": "It's because you worked so hard",
+                    "hash": "73cfab651f0f5ab9c42c0c33184ac3d299892a8e7c9762c0a40eb66ab304bf4c"
+                }
+            ],
+            "processed": "<story>Got tha' right! 'sall thanks ta you! \n<story>Really… really, thank ya! "
+        },
+        {
+            "text": "Hehe-",
+            "name": "Tamamo Cross",
+            "path_id": 9086587624100837816,
+            "block_id": 37,
+            "clip_length": 47,
+            "processed": "<story>Hehe-"
+        },
+        {
+            "text": "…well, ya see. Now tha' th' Selection Race \nis over, our provisional contract is done, so \nI guess tha' makes me a free agent…",
+            "name": "Tamamo Cross",
+            "path_id": -4831452973567801152,
+            "block_id": 38,
+            "clip_length": 354,
+            "processed": "<story>…well, ya see. Now tha' th' Selection Race \n<story>is over, our provisional contract is done, so \n<story>I guess tha' makes me a free agent…"
+        },
+        {
+            "text": "…so. If someone \nreally wanted ta scout me, I'd-",
+            "name": "Tamamo Cross",
+            "path_id": -5226947628960420911,
+            "block_id": 39,
+            "clip_length": 246,
+            "choices": [
+                {
+                    "text": "Once again, please let me scout you!",
+                    "hash": "1bb1069a70fa790e3368e805f3bba0542ae75ff43e2c6964408e637f9636eb4a"
+                },
+                {
+                    "text": "Once again, please let me scout you!",
+                    "hash": "df9a1cb619cfdc84656504242a60c6f19f505581e23d373d1ca2b775ccacdcd5"
+                }
+            ],
+            "processed": "<story>…so. If someone \n<story>really wanted ta scout me, I'd-"
+        },
+        {
+            "text": "-probably -Hey, C'mon!! I was still talkin' here! \nShouldn't ya wait yer turn?! Why th' heck are ya so eager?!",
+            "name": "Tamamo Cross",
+            "path_id": -5841997084315603557,
+            "block_id": 40,
+            "clip_length": 269,
+            "choices": [
+                {
+                    "text": "I just really wanted a real contract!",
+                    "hash": "2774b227f0393fce9ba46dddd5838fffb2c3134f2782f003f06381c576b1fde5"
+                }
+            ],
+            "processed": "<story>-probably -Hey, C'mon!! I was still talkin' here! \n<story>Shouldn't ya wait yer turn?! Why th' heck are ya so eager?!"
+        },
+        {
+            "text": "Frank, ain't ya!!!!?",
+            "name": "Tamamo Cross",
+            "path_id": 3300934899073572494,
+            "block_id": 41,
+            "clip_length": 46,
+            "processed": "<story>Frank, ain't ya!!!!?"
+        },
+        {
+            "text": "…pu. Fufuu, hahahahaa! \nDAAAAA HAA HAA HAA!!",
+            "name": "Tamamo Cross",
+            "path_id": -8487047504972218611,
+            "block_id": 42,
+            "clip_length": 186,
+            "processed": "<story>…pu. Fufuu, hahahahaa! \n<story>DAAAAA HAA HAA HAA!!"
+        },
+        {
+            "text": "What th' heck, this is so dumb! \nI look like an idiot gettin' so nervous like tha'! Geez-",
+            "name": "Tamamo Cross",
+            "path_id": 5302997997466795648,
+            "block_id": 43,
+            "clip_length": 210,
+            "processed": "<story>What th' heck, this is so dumb! \n<story>I look like an idiot gettin' so nervous like tha'! Geez-"
+        },
+        {
+            "text": "Once more… I'll be relyin' on ya again from now on. \n—Trainer!",
+            "name": "Tamamo Cross",
+            "path_id": -2340309462086906088,
+            "block_id": 44,
+            "clip_length": 168,
+            "processed": "<story>Once more… I'll be relyin' on ya again from now on. \n<story>—Trainer!"
+        },
+        {
+            "text": "I grasped the hand she held out and we shook firmly. \nThe days spent with Tamamo Cross, start now-!",
+            "name": "",
+            "path_id": 7575342634502954963,
+            "block_id": 45,
+            "clip_length": 107,
+            "processed": "<story>I grasped the hand she held out and we shook firmly. \n<story>The days spent with Tamamo Cross, start now-!"
+        }
+    ],
+    "title": "White Lightning"
+}

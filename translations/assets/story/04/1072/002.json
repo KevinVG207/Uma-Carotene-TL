@@ -1,0 +1,481 @@
+{
+    "type": "story",
+    "row_index": 14973,
+    "file_name": "story/data/04/1072/storytimeline_041072002",
+    "hash": "CLNDQZWMOK7XQN37LSJVSG3ECO55OWZG",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8633701710203334943,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Several days after the Selection Race. There was a question that \nhad been on my mind the whole time. ……maybe that's why I found \nmyself heading to that river bank again.",
+            "name": "",
+            "path_id": -3842700927254678456,
+            "block_id": 1,
+            "clip_length": 121,
+            "processed": "<story>Several days after the Selection Race. There was a question that \n<story>had been on my mind the whole time. ……maybe that's why I found \n<story>myself heading to that river bank again."
+        },
+        {
+            "text": "I saw Yaeno Muteki here the day before the race, but the Yaeno \nMuteki I saw the day of the race――",
+            "name": "",
+            "path_id": 2229886923658475110,
+            "block_id": 2,
+            "clip_length": 93,
+            "choices": [
+                {
+                    "text": "(Why was she so different……？)",
+                    "hash": "768ac83a28a70e3fedb1bb3a41cef6b8248207e2fe0abf90efc91f8c0fa3f1c2"
+                }
+            ],
+            "processed": "<story>I saw Yaeno Muteki here the day before the race, but the Yaeno \n<story>Muteki I saw the day of the race――"
+        },
+        {
+            "text": "――――Haa!!",
+            "name": "Yaeno Muteki",
+            "path_id": 3549447434929130992,
+            "block_id": 3,
+            "clip_length": 22,
+            "processed": "<story>――――Haa!!"
+        },
+        {
+            "text": "……！ You are――",
+            "name": "Yaeno Muteki",
+            "path_id": -8224351847566135710,
+            "block_id": 4,
+            "clip_length": 88,
+            "processed": "<story>……！ You are――"
+        },
+        {
+            "text": "……in the spectator seats at the Selection Race, I saw that you \nhappened to be there. While it's a bit late, thank you for taking \nthe trouble to attend.",
+            "name": "Yaeno Muteki",
+            "path_id": 3485369005564039792,
+            "block_id": 5,
+            "clip_length": 328,
+            "processed": "<story>……in the spectator seats at the Selection Race, I saw that you \n<story>happened to be there. While it's a bit late, thank you for taking \n<story>the trouble to attend."
+        },
+        {
+            "text": "However…… even though you took the trouble to come see me, \nI showed you such a disappointing run…… I am ashamed……",
+            "name": "Yaeno Muteki",
+            "path_id": -4643829431450818683,
+            "block_id": 6,
+            "clip_length": 288,
+            "choices": [
+                {
+                    "text": "……you were completely different during the race",
+                    "hash": "837664b9fba7a971ef820fee172b6a0470da9e0cb37086ed510b4b10642f2627",
+                    "processed": "<size=33>……you were completely different during the race</size>"
+                },
+                {
+                    "text": "……you were completely different during the race",
+                    "hash": "812dae61dda61345a0a53480b19a7e6b9eda5ab193f885062b61a29401435fff",
+                    "processed": "<size=33>……you were completely different during the race</size>"
+                }
+            ],
+            "processed": "<story>However…… even though you took the trouble to come see me, \n<story>I showed you such a disappointing run…… I am ashamed……"
+        },
+        {
+            "text": "……！",
+            "name": "Yaeno Muteki",
+            "path_id": 3423128330658419257,
+            "block_id": 7,
+            "clip_length": 30,
+            "choices": [
+                {
+                    "text": "Which is the real you?",
+                    "hash": "048dc8b482eda708429d554c9aa4eb01f9a9cedd3baa832a8bd9dc543c4ca01c"
+                },
+                {
+                    "text": "Which is the real you?",
+                    "hash": "e39dd6b24daa6cf3977f043f87b443f41d1acf7f0b492063ed60baf7632f6cef"
+                }
+            ],
+            "processed": "<story>……！"
+        },
+        {
+            "text": "…………you have a very discerning eye, it seems.",
+            "name": "Yaeno Muteki",
+            "path_id": -7580589263312820482,
+            "block_id": 8,
+            "clip_length": 96,
+            "processed": "<story>…………you have a very discerning eye, it seems."
+        },
+        {
+            "text": "If I had to answer that question, then the real me―― \nwas most likely the one you saw during the race.",
+            "name": "Yaeno Muteki",
+            "path_id": -1331286217111661729,
+            "block_id": 9,
+            "clip_length": 241,
+            "processed": "<story>If I had to answer that question, then the real me―― \n<story>was most likely the one you saw during the race."
+        },
+        {
+            "text": "Unable to control that 『Ardent Flame』 within myself, letting it \nrage while running…… that immaturity, is my foundation.",
+            "name": "Yaeno Muteki",
+            "path_id": -588709925801536472,
+            "block_id": 10,
+            "clip_length": 270,
+            "processed": "<story>Unable to control that 『Ardent Flame』 within myself, letting it \n<story>rage while running…… that immaturity, is my foundation."
+        },
+        {
+            "text": "Shut up, shut up！ Because…… because it pisses me off！！ \nIt makes me sick！！ Just like that, my vision turns red……！！",
+            "name": "Young Yaeno Muteki",
+            "path_id": -511808817837999962,
+            "block_id": 11,
+            "clip_length": 349,
+            "processed": "<story>Shut up, shut up！ Because…… because it pisses me off！！ \n<story>It makes me sick！！ Just like that, my vision turns red……！！"
+        },
+        {
+            "text": "……when I was young, I often behaved violently, letting my \nemotions and desires run wild like a beast. Solving everything I \ndidn't like using power, like some kind of brigand.",
+            "name": "Yaeno Muteki",
+            "path_id": -9156170557513423930,
+            "block_id": 12,
+            "clip_length": 368,
+            "processed": "<story>……when I was young, I often behaved violently, letting my \n<story>emotions and desires run wild like a beast. Solving everything I \n<story>didn't like using power, like some kind of brigand."
+        },
+        {
+            "text": "Without knowing what I should do, being controlled by my inner \nfuror, injuring those around me, ignoring others……",
+            "name": "Yaeno Muteki",
+            "path_id": 4188902336962150626,
+            "block_id": 13,
+            "clip_length": 259,
+            "processed": "<story>Without knowing what I should do, being controlled by my inner \n<story>furor, injuring those around me, ignoring others……"
+        },
+        {
+            "text": "It's fine, I'll just beat everyone！！ All those weaklings, \nbeating all of them, and then…… alone by myself……",
+            "name": "Young Yaeno Muteki",
+            "path_id": -178259928701142656,
+            "block_id": 14,
+            "clip_length": 354,
+            "processed": "<story>It's fine, I'll just beat everyone！！ All those weaklings, \n<story>beating all of them, and then…… alone by myself……"
+        },
+        {
+            "text": "『Weaklings』 is it? Hmmm. \n……if that is the case, then as long as I am here, you shall never be alone.",
+            "name": "Yaeno Muteki's Grandfather",
+            "path_id": -8222710586569190417,
+            "block_id": 15,
+            "clip_length": 310,
+            "processed": "<story>『Weaklings』 is it? Hmmm. \n<story>……if that is the case, then as long as I am here, you shall never be alone.",
+            "name_processed": "<sc=84>Yaeno Muteki's Grandfather"
+        },
+        {
+            "text": "Ah…… G-…… Grandpa……",
+            "name": "Young Yaeno Muteki",
+            "path_id": -6919629702237016371,
+            "block_id": 16,
+            "clip_length": 119,
+            "processed": "<story>Ah…… G-…… Grandpa……"
+        },
+        {
+            "text": "Come along, it's long past time you came to the dojo, Yaeno. \n……it's time to train with Grandpa.",
+            "name": "Yaeno Muteki's Grandfather",
+            "path_id": -5165040654727128561,
+            "block_id": 17,
+            "clip_length": 271,
+            "processed": "<story>Come along, it's long past time you came to the dojo, Yaeno. \n<story>……it's time to train with Grandpa.",
+            "name_processed": "<sc=84>Yaeno Muteki's Grandfather"
+        },
+        {
+            "text": "For that exceedingly immature me, the one who persistently \nimparted upon me―― was the head of the 『Kongou \nYaegaki Ryuu』, my grandfather.",
+            "name": "Yaeno Muteki",
+            "path_id": -4290199484193316347,
+            "block_id": 18,
+            "clip_length": 312,
+            "processed": "<story>For that exceedingly immature me, the one who persistently \n<story>imparted upon me―― was the head of the 『Kongou \n<story>Yaegaki Ryuu』, my grandfather."
+        },
+        {
+            "text": "My grandfather said this. That inner fury―― if you continue to \nallow this 『Ardent Flame』 to rage, you will naturally continue to \nsuffer the consequences.",
+            "name": "Yaeno Muteki",
+            "path_id": -1562916584618527032,
+            "block_id": 19,
+            "clip_length": 319,
+            "processed": "<story>My grandfather said this. That inner fury―― if you continue to \n<story>allow this 『Ardent Flame』 to rage, you will naturally continue to \n<story>suffer the consequences."
+        },
+        {
+            "text": "Channel this in to the Kongou Yaegaki Ryuu 『Kata』, in order to \ntemper that wild tendency. By doing this, you may eventually \nreach the state of 『Tranquil Water』.",
+            "name": "Yaeno Muteki",
+            "path_id": -5814441909347862376,
+            "block_id": 20,
+            "clip_length": 327,
+            "choices": [
+                {
+                    "text": "And were you able to calm down？",
+                    "hash": "650822ac05b53fe1d879c557fcfab4aca913c058b0f385d2427b7aab3f5b9ba3"
+                },
+                {
+                    "text": "And were you able to calm down？",
+                    "hash": "4607b4c5c1fc0bd0779350d3507046e6feec13af2086c17792695ee944ffd373"
+                }
+            ],
+            "processed": "<story>Channel this in to the Kongou Yaegaki Ryuu 『Kata』, in order to \n<story>temper that wild tendency. By doing this, you may eventually \n<story>reach the state of 『Tranquil Water』."
+        },
+        {
+            "text": "Yes. Due to the days of training with my exemplary grandfather, \neven if just a little, I've learned to keep myself in check, and \nobtained some measure of harmony.",
+            "name": "Yaeno Muteki",
+            "path_id": 4066976009411303757,
+            "block_id": 21,
+            "clip_length": 314,
+            "processed": "<story>Yes. Due to the days of training with my exemplary grandfather, \n<story>even if just a little, I've learned to keep myself in check, and \n<story>obtained some measure of harmony."
+        },
+        {
+            "text": "However, even this 『Tranquil Water』, \nwas unable to quell the 『Ardent Flame』 within me……",
+            "name": "Yaeno Muteki",
+            "path_id": -1683757673415243575,
+            "block_id": 22,
+            "clip_length": 188,
+            "processed": "<story>However, even this 『Tranquil Water』, \n<story>was unable to quell the 『Ardent Flame』 within me……"
+        },
+        {
+            "text": "Perhaps fearing I would once again fall in to madness and injure \nanother, one day, my grandfather inquired of me―",
+            "name": "Yaeno Muteki",
+            "path_id": 972882024416778699,
+            "block_id": 23,
+            "clip_length": 234,
+            "processed": "<story>Perhaps fearing I would once again fall in to madness and injure \n<story>another, one day, my grandfather inquired of me―"
+        },
+        {
+            "text": "On that path, without bringing harm to others, rather reveling \njointly in contention. On that path, this fury becomes a ray of \nlight. ――What would that path be？",
+            "name": "Yaeno Muteki's Grandfather",
+            "path_id": -4433824814438080765,
+            "block_id": 24,
+            "clip_length": 508,
+            "processed": "<story>On that path, without bringing harm to others, rather reveling \n<story>jointly in contention. On that path, this fury becomes a ray of \n<story>light. ――What would that path be？",
+            "name_processed": "<sc=84>Yaeno Muteki's Grandfather"
+        },
+        {
+            "text": "……I shall ask this of you as well. The answer to my grandfather's \nquestion, would you happen to know？",
+            "name": "Yaeno Muteki",
+            "path_id": -3440372904437206423,
+            "block_id": 25,
+            "clip_length": 245,
+            "processed": "<story>……I shall ask this of you as well. The answer to my grandfather's \n<story>question, would you happen to know？"
+        },
+        {
+            "text": "……there was one thing that came to mind. Something where the goal \nis not to injure, but to compete and enjoy oneself. That's――",
+            "name": "",
+            "path_id": 5615798377147819498,
+            "block_id": 26,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "A 『Race』……！",
+                    "hash": "abcd4762d1df4940a5e17070ab8b98b431cafaf9bf35aeeb8e1ef13fa7ece478"
+                },
+                {
+                    "text": "A 『Race』……！",
+                    "hash": "5194e6c336b90c8b72097c5ba3ecaad2bf5b365fbb8fc6e025770af178675d2b"
+                }
+            ],
+            "processed": "<story>……there was one thing that came to mind. Something where the goal \n<story>is not to injure, but to compete and enjoy oneself. That's――"
+        },
+        {
+            "text": "――As I thought, you're quite discerning.",
+            "name": "Yaeno Muteki",
+            "path_id": 4740740931283863552,
+            "block_id": 27,
+            "clip_length": 95,
+            "processed": "<story>――As I thought, you're quite discerning."
+        },
+        {
+            "text": "Coming to know of races, granted me some measure of contentment \nas I had found my path.",
+            "name": "Yaeno Muteki",
+            "path_id": 6933883992415764831,
+            "block_id": 28,
+            "clip_length": 150,
+            "processed": "<story>Coming to know of races, granted me some measure of contentment \n<story>as I had found my path."
+        },
+        {
+            "text": "Using martial arts to temper this fury, harnessing this fury \nduring races. These violent emotions within me now had an outlet, \nthey could be channeled――",
+            "name": "Yaeno Muteki",
+            "path_id": -5992390990804251000,
+            "block_id": 29,
+            "clip_length": 265,
+            "processed": "<story>Using martial arts to temper this fury, harnessing this fury \n<story>during races. These violent emotions within me now had an outlet, \n<story>they could be channeled――"
+        },
+        {
+            "text": "And thus…… I realized. On this path, if I could obtain splendid \nresults, I could take pride in myself…… and properly repay him.",
+            "name": "Yaeno Muteki",
+            "path_id": -1349175464871062877,
+            "block_id": 30,
+            "clip_length": 308,
+            "processed": "<story>And thus…… I realized. On this path, if I could obtain splendid \n<story>results, I could take pride in myself…… and properly repay him."
+        },
+        {
+            "text": "Even if I'm immature…… even though I've done nothing but cause my \ngrandfather trouble, and worry. That I could still show him that \nI can hold my chest out in pride……",
+            "name": "Yaeno Muteki",
+            "path_id": 6516525498996346049,
+            "block_id": 31,
+            "clip_length": 343,
+            "processed": "<story>Even if I'm immature…… even though I've done nothing but cause my \n<story>grandfather trouble, and worry. That I could still show him that \n<story>I can hold my chest out in pride……"
+        },
+        {
+            "text": "However……――！",
+            "name": "Yaeno Muteki",
+            "path_id": -740131696649706692,
+            "block_id": 32,
+            "clip_length": 88,
+            "processed": "<story>However……――！"
+        },
+        {
+            "text": "Even on this path！ Even in the race, I've been made aware that I \ncan still be overcome by these emotions……！！",
+            "name": "Yaeno Muteki",
+            "path_id": 7479647416306731797,
+            "block_id": 33,
+            "clip_length": 317,
+            "choices": [
+                {
+                    "text": "Yaeno Muteki……",
+                    "hash": "ccdb79859c99b9ff8b4a971d3419c217999607b3ae5b6debaee04d89828a3bb7"
+                }
+            ],
+            "processed": "<story>Even on this path！ Even in the race, I've been made aware that I \n<story>can still be overcome by these emotions……！！"
+        },
+        {
+            "text": "I need to be straightened out！ These overflowing emotions, \ncontinue to disturb the immature 『Ardent Flame』 within me！",
+            "name": "Yaeno Muteki",
+            "path_id": -4729996500228453475,
+            "block_id": 34,
+            "clip_length": 292,
+            "processed": "<story>I need to be straightened out！ These overflowing emotions, \n<story>continue to disturb the immature 『Ardent Flame』 within me！"
+        },
+        {
+            "text": "If I… can't handle at least that much…… if I continue \nstaying this immature, no matter how long passes…… \nI won't be able to repay him……！！",
+            "name": "Yaeno Muteki",
+            "path_id": -953743432334661604,
+            "block_id": 35,
+            "clip_length": 293,
+            "processed": "<story>If I… can't handle at least that much…… if I continue \n<story>staying this immature, no matter how long passes…… \n<story>I won't be able to repay him……！！"
+        },
+        {
+            "text": "I need to continue training…… \nMy training, was insufficient……",
+            "name": "Yaeno Muteki",
+            "path_id": 7609453607335392646,
+            "block_id": 36,
+            "clip_length": 208,
+            "processed": "<story>I need to continue training…… \n<story>My training, was insufficient……"
+        },
+        {
+            "text": "Being unable to control herself, while carrying \nthat anguish―― Even with that, Yaeno Muteki was \nearnestly trying to overcome this hurdle.",
+            "name": "",
+            "path_id": -8546331144371699986,
+            "block_id": 37,
+            "clip_length": 115,
+            "processed": "<story>Being unable to control herself, while carrying \n<story>that anguish―― Even with that, Yaeno Muteki was \n<story>earnestly trying to overcome this hurdle."
+        },
+        {
+            "text": "While standing there in front of her, \nthese words naturally came out―",
+            "name": "",
+            "path_id": -7295616835956062528,
+            "block_id": 38,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Will you let me help you？",
+                    "hash": "a5fc3b2fe6332297923fd84f19d9b6c0a3859c3321d8ad9fed48103f6e9cc78e"
+                },
+                {
+                    "text": "Will you let me help you？",
+                    "hash": "f03964d9db3dd22673e17818413a44bc3c8caf921dbc659b65a8e61aefc645cb"
+                }
+            ],
+            "processed": "<story>While standing there in front of her, \n<story>these words naturally came out―"
+        },
+        {
+            "text": "Eh――",
+            "name": "Yaeno Muteki",
+            "path_id": 2512614836688067388,
+            "block_id": 39,
+            "clip_length": 17,
+            "processed": "<story>Eh――"
+        },
+        {
+            "text": "…………for what reason？ From the perspective of a trainer, \nmy current self is nothing but an illーtempered Uma Musume, there is \nno merit in being concerned with me.",
+            "name": "Yaeno Muteki",
+            "path_id": -3889282429753525945,
+            "block_id": 40,
+            "clip_length": 374,
+            "choices": [
+                {
+                    "text": "Merit has nothing to do with this",
+                    "hash": "36a9840081a57bfe94cef1ac18d4b4f0d13c8d013f114e0c7299930802796a5a"
+                }
+            ],
+            "processed": "<story>…………for what reason？ From the perspective of a trainer, \n<story>my current self is nothing but an illーtempered Uma Musume, there is \n<story>no merit in being concerned with me."
+        },
+        {
+            "text": "To show her that that was not the reason―― \nI continued to look straight in to her eyes.",
+            "name": "",
+            "path_id": 3184060544463204122,
+            "block_id": 41,
+            "clip_length": 89,
+            "choices": [
+                {
+                    "text": "I want to cheer you on",
+                    "hash": "5ac08258afa0e485bb5dbac5748c1a7a13f4fe13b85f309c7d8925423b88b7a2"
+                },
+                {
+                    "text": "I want to cheer you on",
+                    "hash": "b4b02d1bfe0bd067cbf99b33770cb4f9f27ed5570cdd8d36a45e53a0d8ec7802"
+                }
+            ],
+            "processed": "<story>To show her that that was not the reason―― \n<story>I continued to look straight in to her eyes."
+        },
+        {
+            "text": "……――",
+            "name": "Yaeno Muteki",
+            "path_id": 2305240433570450384,
+            "block_id": 42,
+            "clip_length": 35,
+            "processed": "<story>……――"
+        },
+        {
+            "text": "…………you're quite sincere, aren't you? Your words, \nand those eyes…… so straight-forward, as if \nyou believe you can't be mistaken.",
+            "name": "Yaeno Muteki",
+            "path_id": 6262232953279816006,
+            "block_id": 43,
+            "clip_length": 355,
+            "processed": "<story>…………you're quite sincere, aren't you? Your words, \n<story>and those eyes…… so straight-forward, as if \n<story>you believe you can't be mistaken."
+        },
+        {
+            "text": "……truthfully, I'm fully aware that I'm at a complete loss. \nThat's why…… I would also like to request your help.",
+            "name": "Yaeno Muteki",
+            "path_id": -6168326992676875171,
+            "block_id": 44,
+            "clip_length": 359,
+            "processed": "<story>……truthfully, I'm fully aware that I'm at a complete loss. \n<story>That's why…… I would also like to request your help."
+        },
+        {
+            "text": "In order to help me find a way to control this 『Ardent Flame』…… \nwould I be able to request your assistance?",
+            "name": "Yaeno Muteki",
+            "path_id": -4763560957058572901,
+            "block_id": 45,
+            "clip_length": 204,
+            "choices": [
+                {
+                    "text": "Of course！",
+                    "hash": "d7dc2c584dab1c79c1051244bd1990da52c55f4f5fffd94bd0097c76a51bd1ca"
+                }
+            ],
+            "processed": "<story>In order to help me find a way to control this 『Ardent Flame』…… \n<story>would I be able to request your assistance?"
+        },
+        {
+            "text": "……you have my gratitude.",
+            "name": "Yaeno Muteki",
+            "path_id": -2531372980306783414,
+            "block_id": 46,
+            "clip_length": 71,
+            "processed": "<story>……you have my gratitude."
+        },
+        {
+            "text": "Yaeno Muteki has a large hurdle in front of \nher. A way to overcome it…… from now on, together \nwith her, we'd try to find a way!",
+            "name": "",
+            "path_id": -1228428517998709237,
+            "block_id": 47,
+            "clip_length": 111,
+            "processed": "<story>Yaeno Muteki has a large hurdle in front of \n<story>her. A way to overcome it…… from now on, together \n<story>with her, we'd try to find a way!"
+        }
+    ],
+    "title": "Uncertain Flame"
+}

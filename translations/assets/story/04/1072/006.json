@@ -1,0 +1,489 @@
+{
+    "type": "story",
+    "row_index": 14722,
+    "file_name": "story/data/04/1072/storytimeline_041072006",
+    "hash": "5EXWOXXDH5GB6VYLFDSWR7YAJDXUS233",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -1535567962438706221,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Why……why did things turn out like this?――",
+            "name": "",
+            "path_id": 7902785351202467511,
+            "block_id": 1,
+            "clip_length": 69,
+            "processed": "<story>Why……why did things turn out like this?――"
+        },
+        {
+            "text": "(Clack clack clack!!)",
+            "name": "",
+            "path_id": -5379249712246300030,
+            "block_id": 2,
+            "clip_length": 78,
+            "processed": "<story>(Clack clack clack!!)"
+        },
+        {
+            "text": "……! \nJet Coaster……It's quite imposing in person.",
+            "name": "Yaeno Muteki",
+            "path_id": 41556752539999719,
+            "block_id": 3,
+            "clip_length": 184,
+            "processed": "<story>……! \n<story>Jet Coaster……It's quite imposing in person."
+        },
+        {
+            "text": "However, as one bearing the name \"Invincible\", I must overcome it! \nNow――To battle!",
+            "name": "Yaeno Muteki",
+            "path_id": 749843699560930782,
+            "block_id": 4,
+            "clip_length": 198,
+            "processed": "<story>However, as one bearing the name \"Invincible\", I must overcome it! \n<story>Now――To battle!"
+        },
+        {
+            "text": "It was just a few hours ago――",
+            "name": "",
+            "path_id": -8037257350927214416,
+            "block_id": 5,
+            "clip_length": 64,
+            "processed": "<story>It was just a few hours ago――"
+        },
+        {
+            "text": "Afternoon on a day off. As I was walking by the station, \nI spotted Yaeno Muteki standing in front of the information board.",
+            "name": "",
+            "path_id": -4779328217365728037,
+            "block_id": 6,
+            "clip_length": 99,
+            "processed": "<story>Afternoon on a day off. As I was walking by the station, \n<story>I spotted Yaeno Muteki standing in front of the information board."
+        },
+        {
+            "text": "Oh, if it isn't Trainer-dono. What a coincidence.",
+            "name": "Yaeno Muteki",
+            "path_id": 8326567643930710039,
+            "block_id": 7,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "What are you doing here?",
+                    "hash": "53f9c1529d24a3be273ab052197f7b84ea41fcf46cb8b1fc8fb7bfc210ebf1ac"
+                },
+                {
+                    "text": "What are you doing here?",
+                    "hash": "7ba2b492e57daac13747da702c9da05fd3482e3fb3dbbefd28f347dab13005e4"
+                }
+            ],
+            "processed": "<story>Oh, if it isn't Trainer-dono. What a coincidence."
+        },
+        {
+            "text": "Right. In regards to my breaks recently, I've been reflecting \non it a lot lately……and I made a quick decision. First I would \nhead to town in order to forget about training.",
+            "name": "Yaeno Muteki",
+            "path_id": -711030132127761861,
+            "block_id": 8,
+            "clip_length": 347,
+            "processed": "<story>Right. In regards to my breaks recently, I've been reflecting \n<story>on it a lot lately……and I made a quick decision. First I would \n<story>head to town in order to forget about training."
+        },
+        {
+            "text": "However, I am someone who is always immersed in martial arts. \nAs embarrassing as it is, I'm unsure where to go.",
+            "name": "Yaeno Muteki",
+            "path_id": 7393088132272259609,
+            "block_id": 9,
+            "clip_length": 288,
+            "processed": "<story>However, I am someone who is always immersed in martial arts. \n<story>As embarrassing as it is, I'm unsure where to go."
+        },
+        {
+            "text": "In that case, perhaps a place made for everyone to enjoy. \nMaybe even someone like her could relax there.",
+            "name": "",
+            "path_id": 7258908670924906379,
+            "block_id": 10,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "How about an amusement park?",
+                    "hash": "214dd6d39a71fe0a822a878a133e3ac57e0dececb41480aa3ff5cb1a0d1f2f64"
+                }
+            ],
+            "processed": "<story>In that case, perhaps a place made for everyone to enjoy. \n<story>Maybe even someone like her could relax there."
+        },
+        {
+            "text": "I see, an amusement park……a sound idea. In a place like that, \neven I should be able to forget about my training.",
+            "name": "Yaeno Muteki",
+            "path_id": -3803633695580717296,
+            "block_id": 11,
+            "clip_length": 275,
+            "processed": "<story>I see, an amusement park……a sound idea. In a place like that, \n<story>even I should be able to forget about my training."
+        },
+        {
+            "text": "Then――shall we proceed?",
+            "name": "Yaeno Muteki",
+            "path_id": -1275309524563767120,
+            "block_id": 12,
+            "clip_length": 61,
+            "processed": "<story>Then――shall we proceed?"
+        },
+        {
+            "text": "And so, that's why the two of us find \nourselves at the amusement park, however……",
+            "name": "",
+            "path_id": -4046201229529741480,
+            "block_id": 13,
+            "clip_length": 76,
+            "processed": "<story>And so, that's why the two of us find \n<story>ourselves at the amusement park, however……"
+        },
+        {
+            "text": "Huuu, it was a splendid Jet Coaster.",
+            "name": "Yaeno Muteki",
+            "path_id": 6038194027384727953,
+            "block_id": 14,
+            "clip_length": 135,
+            "choices": [
+                {
+                    "text": "But, was it fun?",
+                    "hash": "3bcffbb9fe9f37d775a98a195df97dd43f781fecac1212501d6f789287031a6d"
+                }
+            ],
+            "processed": "<story>Huuu, it was a splendid Jet Coaster."
+        },
+        {
+            "text": "Oh, well……of course it was. But that acceleration \nduring the descent was a sight to behold.",
+            "name": "Yaeno Muteki",
+            "path_id": 5458253123786676204,
+            "block_id": 15,
+            "clip_length": 202,
+            "processed": "<story>Oh, well……of course it was. But that acceleration \n<story>during the descent was a sight to behold."
+        },
+        {
+            "text": "Racetracks also have downhill slopes. I was aware of it, but I \ndon't think I can handle them much better than I currently am……",
+            "name": "Yaeno Muteki",
+            "path_id": 7833048694756241647,
+            "block_id": 16,
+            "clip_length": 219,
+            "processed": "<story>Racetracks also have downhill slopes. I was aware of it, but I \n<story>don't think I can handle them much better than I currently am……"
+        },
+        {
+            "text": "I was only asking for her impressions, but Yaeno Muteki was deep in \nthought. At this rate, she'd start thinking about training again……!",
+            "name": "",
+            "path_id": 6527263451242564348,
+            "block_id": 17,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "Yaeno! Let's go there next!",
+                    "hash": "946129d6b9ffaf72413c22956c5e8c05ef735605665ab968d0436abaef8c9cb5"
+                }
+            ],
+            "processed": "<story>I was only asking for her impressions, but Yaeno Muteki was deep in \n<story>thought. At this rate, she'd start thinking about training again……!"
+        },
+        {
+            "text": "Eh――",
+            "name": "Yaeno Muteki",
+            "path_id": -5613686330488873753,
+            "block_id": 18,
+            "clip_length": 30,
+            "processed": "<story>Eh――"
+        },
+        {
+            "text": "D-dark…… \nTrainer-dono! Where have you gone!?",
+            "name": "Yaeno Muteki",
+            "path_id": 475923587898253684,
+            "block_id": 19,
+            "clip_length": 169,
+            "processed": "<story>D-dark…… \n<story>Trainer-dono! Where have you gone!?"
+        },
+        {
+            "text": "Hmm, my eyes are gradually adjusting……",
+            "name": "Yaeno Muteki",
+            "path_id": 3765813501764140356,
+            "block_id": 20,
+            "clip_length": 92,
+            "processed": "<story>Hmm, my eyes are gradually adjusting……"
+        },
+        {
+            "text": "This is――",
+            "name": "Yaeno Muteki",
+            "path_id": -6448920350410668387,
+            "block_id": 21,
+            "clip_length": 35,
+            "processed": "<story>This is――"
+        },
+        {
+            "text": "Eeeheeheehee! For those that set foot \nin this manor, escape is impossible……",
+            "name": "Ghost?",
+            "path_id": -1940239964243715201,
+            "block_id": 22,
+            "clip_length": 270,
+            "processed": "<story>Eeeheeheehee! For those that set foot \n<story>in this manor, escape is impossible……"
+        },
+        {
+            "text": "We shall plunge you in to the depths of fear……!",
+            "name": "Ghost?",
+            "path_id": -3159793990013503081,
+            "block_id": 23,
+            "clip_length": 114,
+            "processed": "<story>We shall plunge you in to the depths of fear……!"
+        },
+        {
+            "text": "What did you say……!?",
+            "name": "Yaeno Muteki",
+            "path_id": -8693848954073559283,
+            "block_id": 24,
+            "clip_length": 37,
+            "choices": [
+                {
+                    "text": "(Good, if it's a haunted mansion then……)",
+                    "hash": "f958bbe88247b8a2b6299c325771077212ef8b70979eba884483ebb27bb5565e",
+                    "processed": "<size=39>(Good, if it's a haunted mansion then……)</size>"
+                }
+            ],
+            "processed": "<story>What did you say……!?"
+        },
+        {
+            "text": "――――HAA!!",
+            "name": "Yaeno Muteki",
+            "path_id": -5466210132627960782,
+            "block_id": 25,
+            "clip_length": 40,
+            "processed": "<story>――――HAA!!"
+        },
+        {
+            "text": "Uwaaah!?",
+            "name": "Ghost?",
+            "path_id": 7044478748946209691,
+            "block_id": 26,
+            "clip_length": 34,
+            "processed": "<story>Uwaaah!?"
+        },
+        {
+            "text": "I'm not one that would be overwhelmed by just this level of darkness! \nWicked fiend, perish the thought of waylaying Trainer-dono!",
+            "name": "Yaeno Muteki",
+            "path_id": 99345074175779670,
+            "block_id": 27,
+            "clip_length": 216,
+            "processed": "<story>I'm not one that would be overwhelmed by just this level of darkness! \n<story>Wicked fiend, perish the thought of waylaying Trainer-dono!"
+        },
+        {
+            "text": "And now, those hooligans have run away. \nFufu……I won't let you escape!",
+            "name": "Yaeno Muteki",
+            "path_id": 8899814495369095823,
+            "block_id": 28,
+            "clip_length": 198,
+            "processed": "<story>And now, those hooligans have run away. \n<story>Fufu……I won't let you escape!"
+        },
+        {
+            "text": "Baaaaaaa~! Eehiihii, were you scared?",
+            "name": "Monster?",
+            "path_id": 1922482678858625886,
+            "block_id": 29,
+            "clip_length": 133,
+            "processed": "<story>Baaaaaaa~! Eehiihii, were you scared?"
+        },
+        {
+            "text": "Not by something of this level! \nWithstand this if you can, Kongou Yaegaki Ryuu Ultimate――!",
+            "name": "Yaeno Muteki",
+            "path_id": 8609071168798592826,
+            "block_id": 30,
+            "clip_length": 174,
+            "processed": "<story>Not by something of this level! \n<story>Withstand this if you can, Kongou Yaegaki Ryuu Ultimate――!"
+        },
+        {
+            "text": "Ueeeeehh~!?!?",
+            "name": "Monster?",
+            "path_id": 1098968255106498847,
+            "block_id": 31,
+            "clip_length": 64,
+            "choices": [
+                {
+                    "text": "Wait wait stop~!",
+                    "hash": "a9ffe1e327acbaa82fac74862bf027e38f8b37e582717610beb594f16a93ca0f"
+                }
+            ],
+            "processed": "<story>Ueeeeehh~!?!?"
+        },
+        {
+            "text": "No, you should get behind me! \nNow is the time to purify this specter――!",
+            "name": "Yaeno Muteki",
+            "path_id": 1939201223582361922,
+            "block_id": 32,
+            "clip_length": 183,
+            "processed": "<story>No, you should get behind me! \n<story>Now is the time to purify this specter――!"
+        },
+        {
+            "text": "……All is well. Without being led astray by those wicked fiends, \nit was a good opportunity to train a stalwart spirit――Ha!?",
+            "name": "Yaeno Muteki",
+            "path_id": 1557794877059419547,
+            "block_id": 33,
+            "clip_length": 280,
+            "processed": "<story>……All is well. Without being led astray by those wicked fiends, \n<story>it was a good opportunity to train a stalwart spirit――Ha!?"
+        },
+        {
+            "text": "O-once again, I forcibly turned this in to training……I apologize! \nEven though you've gone so far for this, how unsightly……!",
+            "name": "Yaeno Muteki",
+            "path_id": -5707033733741789140,
+            "block_id": 34,
+            "clip_length": 334,
+            "processed": "<story>O-once again, I forcibly turned this in to training……I apologize! \n<story>Even though you've gone so far for this, how unsightly……!"
+        },
+        {
+            "text": "This was supposed to be training to discipline myself, \nI end up so caught up in the training that I forget all \nelse. It's proof of my immaturity……!",
+            "name": "Yaeno Muteki",
+            "path_id": 4560664606357598015,
+            "block_id": 35,
+            "clip_length": 254,
+            "choices": [
+                {
+                    "text": "Then train to forget about training",
+                    "hash": "f762fc0a9ff4a6675beeb0688361fac6a8f9e5b750313397b5e24b0d13e286e9"
+                }
+            ],
+            "processed": "<story>This was supposed to be training to discipline myself, \n<story>I end up so caught up in the training that I forget all \n<story>else. It's proof of my immaturity……!"
+        },
+        {
+            "text": "Eh……? H-however……to have you accompany me in this \nkind of light-hearted matter, it feels inexcusable……",
+            "name": "Yaeno Muteki",
+            "path_id": 2783522844496389497,
+            "block_id": 36,
+            "clip_length": 259,
+            "processed": "<story>Eh……? H-however……to have you accompany me in this \n<story>kind of light-hearted matter, it feels inexcusable……"
+        },
+        {
+            "text": "Today, and during my recent breaks…… \nI feel like I'm always inconveniencing Trainer-dono.",
+            "name": "Yaeno Muteki",
+            "path_id": 3549647067241411358,
+            "block_id": 37,
+            "clip_length": 197,
+            "processed": "<story>Today, and during my recent breaks…… \n<story>I feel like I'm always inconveniencing Trainer-dono."
+        },
+        {
+            "text": "That's why, helping anymore than this…… \nI absolutely need to solve this on my own!",
+            "name": "Yaeno Muteki",
+            "path_id": 4550300529748436447,
+            "block_id": 38,
+            "clip_length": 145,
+            "choices": [
+                {
+                    "text": "No, I'll accompany you to the end",
+                    "hash": "9fc46fefb1f5748df6047d7f36a0f5174cd454b4992a6b26658b52f2040badcd"
+                }
+            ],
+            "processed": "<story>That's why, helping anymore than this…… \n<story>I absolutely need to solve this on my own!"
+        },
+        {
+            "text": "I say it firmly. This is the role of a trainer.",
+            "name": "",
+            "path_id": -2263963999415563377,
+            "block_id": 39,
+            "clip_length": 71,
+            "processed": "<story>I say it firmly. This is the role of a trainer."
+        },
+        {
+            "text": "However……!",
+            "name": "Yaeno Muteki",
+            "path_id": 1988135224228241261,
+            "block_id": 40,
+            "clip_length": 41,
+            "choices": [
+                {
+                    "text": "And a flustered Yaeno is interesting!",
+                    "hash": "def0381370ed459f577482d231d91e2fd7c256765c4b3ad471700b49753df9d6"
+                }
+            ],
+            "processed": "<story>However……!"
+        },
+        {
+            "text": "Huh!? Ah…… Is…… that so……?",
+            "name": "Yaeno Muteki",
+            "path_id": -8294460442119685871,
+            "block_id": 41,
+            "clip_length": 148,
+            "processed": "<story>Huh!? Ah…… Is…… that so……?"
+        },
+        {
+            "text": "It seems like Yaeno Muteki was left speechless. We had a \ngood time, so I decided we should head back to school for now……",
+            "name": "",
+            "path_id": 1616776741675709089,
+            "block_id": 42,
+            "clip_length": 111,
+            "processed": "<story>It seems like Yaeno Muteki was left speechless. We had a \n<story>good time, so I decided we should head back to school for now……"
+        },
+        {
+            "text": "The train ride on the way back. \nYaeno Muteki, who was standing beside me, finally opened her mouth.",
+            "name": "",
+            "path_id": -448576086720807358,
+            "block_id": 43,
+            "clip_length": 81,
+            "processed": "<story>The train ride on the way back. \n<story>Yaeno Muteki, who was standing beside me, finally opened her mouth."
+        },
+        {
+            "text": "……is this really fine? \nOnce again, I've exposed my shameful side……",
+            "name": "Yaeno Muteki",
+            "path_id": -2940797200248306491,
+            "block_id": 44,
+            "clip_length": 174,
+            "processed": "<story>……is this really fine? \n<story>Once again, I've exposed my shameful side……"
+        },
+        {
+            "text": "As immature as I am……I still wanted to be able to remain \ndisciplined and devoted myself fully to my training.",
+            "name": "Yaeno Muteki",
+            "path_id": 3739042984581825741,
+            "block_id": 45,
+            "clip_length": 254,
+            "processed": "<story>As immature as I am……I still wanted to be able to remain \n<story>disciplined and devoted myself fully to my training."
+        },
+        {
+            "text": "That's why, your instructions to 『Take a break from \ntraining』, I suppose I didn't truly understand it.",
+            "name": "Yaeno Muteki",
+            "path_id": 5194836333843556899,
+            "block_id": 46,
+            "clip_length": 249,
+            "processed": "<story>That's why, your instructions to 『Take a break from \n<story>training』, I suppose I didn't truly understand it."
+        },
+        {
+            "text": "And if that's the case…… \n…………",
+            "name": "Yaeno Muteki",
+            "path_id": -8772752459780279643,
+            "block_id": 47,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "……In that case?",
+                    "hash": "390a6c0f9a9ed0f8d8ed5f62939ab9edb45c1b5b658c61d67a712bad1efd3efc"
+                }
+            ],
+            "processed": "<story>And if that's the case…… \n<story>…………"
+        },
+        {
+            "text": "……No. For now, I'll think on this myself.",
+            "name": "Yaeno Muteki",
+            "path_id": -2168416369211076728,
+            "block_id": 48,
+            "clip_length": 169,
+            "processed": "<story>……No. For now, I'll think on this myself."
+        },
+        {
+            "text": "After that, Yaeno Muteki remained silent.",
+            "name": "",
+            "path_id": -3952016677524907356,
+            "block_id": 49,
+            "clip_length": 69,
+            "processed": "<story>After that, Yaeno Muteki remained silent."
+        },
+        {
+            "text": "Indeed……for Yaeno Muteki, who devoted herself to \ndisciplining herself through training, this was \nprobably a good opportunity to reevaluate her progress.",
+            "name": "",
+            "path_id": 9155042286189389568,
+            "block_id": 50,
+            "clip_length": 114,
+            "processed": "<story>Indeed……for Yaeno Muteki, who devoted herself to \n<story>disciplining herself through training, this was \n<story>probably a good opportunity to reevaluate her progress."
+        },
+        {
+            "text": "In that case, I had to help her. \nAs summer approached, I'd have to keep this in mind.",
+            "name": "",
+            "path_id": 8485428808542464141,
+            "block_id": 51,
+            "clip_length": 117,
+            "processed": "<story>In that case, I had to help her. \n<story>As summer approached, I'd have to keep this in mind."
+        }
+    ],
+    "title": "Turnaround Still Not Achieved"
+}

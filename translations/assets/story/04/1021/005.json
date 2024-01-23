@@ -1,0 +1,333 @@
+{
+    "type": "story",
+    "row_index": 473,
+    "file_name": "story/data/04/1021/storytimeline_041021005",
+    "hash": "3BSHGYVF7LBVWGMUIZGEFCBYE2GIZL3R",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5577855951323729682,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Hmm hmm… Dad, ya never change, do ya? \nHahaa, even th' brats are tsukkomi-ing.",
+            "name": "Tamamo Cross",
+            "path_id": 176850569381080225,
+            "block_id": 1,
+            "clip_length": 275,
+            "processed": "<story>Hmm hmm… Dad, ya never change, do ya? \n<story>Hahaa, even th' brats are tsukkomi-ing."
+        },
+        {
+            "text": "Looks like they're enjoyin' the souvenirs too!",
+            "name": "Tamamo Cross",
+            "path_id": -6966279068178011698,
+            "block_id": 2,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "A letter from your family?",
+                    "hash": "f75e16f8e212f85ec9d87b2a2ce91ebf0492522e363d6eab7b3cc6e2c6dce1c1"
+                }
+            ],
+            "processed": "<story>Looks like they're enjoyin' the souvenirs too!"
+        },
+        {
+            "text": "Yep. They also wrote somethin' for ya. Take a look.",
+            "name": "Tamamo Cross",
+            "path_id": -4950990034614285897,
+            "block_id": 3,
+            "clip_length": 119,
+            "processed": "<story>Yep. They also wrote somethin' for ya. Take a look."
+        },
+        {
+            "text": "Several different handwritings were in the letter. The sentences \nwritten mainly in hiragana were probably Tamamo Cross' siblings'.",
+            "name": "",
+            "path_id": 1848059069518397071,
+            "block_id": 4,
+            "clip_length": 98,
+            "processed": "<story>Several different handwritings were in the letter. The sentences \n<story>written mainly in hiragana were probably Tamamo Cross' siblings'."
+        },
+        {
+            "text": "A few days ago, [Tracen Academy, Enrolled for a Day!] had aired \non TV. Tamamo Cross had appeared in it while running, and they \nhad written their impressions about that.",
+            "name": "",
+            "path_id": -8644662355186227768,
+            "block_id": 5,
+            "clip_length": 118,
+            "processed": "<story>A few days ago, [Tracen Academy, Enrolled for a Day!] had aired \n<story>on TV. Tamamo Cross had appeared in it while running, and they \n<story>had written their impressions about that."
+        },
+        {
+            "text": "Th' script said ta run side-by-side with Oguri 'n \nInari. They told us ta jus' take it easy, but that \nain't us so we ended up goin' full throttle.",
+            "name": "Tamamo Cross",
+            "path_id": -7918250557098399791,
+            "block_id": 6,
+            "clip_length": 268,
+            "choices": [
+                {
+                    "text": "So the scene turned in to a competition",
+                    "hash": "5f9836dae69908ab9d97d8f7295c957060e9c9c9f9062564cd6a41631dc0c959",
+                    "processed": "<size=42>So the scene turned in to a competition</size>"
+                },
+                {
+                    "text": "So the scene turned in to a competition",
+                    "hash": "fb37e13185116dd7d8b21ca2451ab694e8435ce65006afcb9408f10073f89014",
+                    "processed": "<size=42>So the scene turned in to a competition</size>"
+                }
+            ],
+            "processed": "<story>Th' script said ta run side-by-side with Oguri 'n \n<story>Inari. They told us ta jus' take it easy, but that \n<story>ain't us so we ended up goin' full throttle."
+        },
+        {
+            "text": "Yeah. Dad was impressed by ya too. \nYer th' reason she's become so amazin', she said.",
+            "name": "Tamamo Cross",
+            "path_id": 3075360410310819527,
+            "block_id": 7,
+            "clip_length": 263,
+            "processed": "<story>Yeah. Dad was impressed by ya too. \n<story>Yer th' reason she's become so amazin', she said."
+        },
+        {
+            "text": "[Trainer and \"White Lightning\", quake th' heavens with thunder], \nshe said! Don' go betrayin' Dad's expectations, ya hear!",
+            "name": "Tamamo Cross",
+            "path_id": -6609514611792264659,
+            "block_id": 8,
+            "clip_length": 288,
+            "choices": [
+                {
+                    "text": "Bring it on!",
+                    "hash": "f65d704c83aa544c12c4dd4ed8fb640d53139d54583bdaea560df40ad2fb7a2b"
+                }
+            ],
+            "processed": "<story>[Trainer and \"White Lightning\", quake th' heavens with thunder], \n<story>she said! Don' go betrayin' Dad's expectations, ya hear!"
+        },
+        {
+            "text": "Hahahaa, if that's th' case, I'll write 'em that.",
+            "name": "Tamamo Cross",
+            "path_id": -45080845620782375,
+            "block_id": 9,
+            "clip_length": 125,
+            "processed": "<story>Hahahaa, if that's th' case, I'll write 'em that."
+        },
+        {
+            "text": "Right, I'll send the brats some more snacks. \nMeanin' some shoppin', wanna come with?",
+            "name": "Tamamo Cross",
+            "path_id": -61656960358016272,
+            "block_id": 10,
+            "clip_length": 202,
+            "processed": "<story>Right, I'll send the brats some more snacks. \n<story>Meanin' some shoppin', wanna come with?"
+        },
+        {
+            "text": "Help me pick some snacks ta send 'em. I'll let 'em know in th' \nletter, and it'll do for an introduction, don't ya think?",
+            "name": "Tamamo Cross",
+            "path_id": -1248808994347977329,
+            "block_id": 11,
+            "clip_length": 197,
+            "choices": [
+                {
+                    "text": "Absolutely!",
+                    "hash": "f779b5d8814ff346d65220eec89618572f8047068283af7d35ad873e5b5388a0"
+                }
+            ],
+            "processed": "<story>Help me pick some snacks ta send 'em. I'll let 'em know in th' \n<story>letter, and it'll do for an introduction, don't ya think?"
+        },
+        {
+            "text": "Let's see… last time they said this chocolate snack was good. \nThere's even a limited edition peach flavor?",
+            "name": "Tamamo Cross",
+            "path_id": -3347410088185718141,
+            "block_id": 12,
+            "clip_length": 284,
+            "processed": "<story>Let's see… last time they said this chocolate snack was good. \n<story>There's even a limited edition peach flavor?"
+        },
+        {
+            "text": "Ah, these cookies're great, there's alot in there! \nTh' red box makes 'em look real fancy!",
+            "name": "Tamamo Cross",
+            "path_id": 1495436144993410351,
+            "block_id": 13,
+            "clip_length": 217,
+            "processed": "<story>Ah, these cookies're great, there's alot in there! \n<story>Th' red box makes 'em look real fancy!"
+        },
+        {
+            "text": "Now that I get a good look, there's lotsa new brands ain't there? \n…Trainer, got any suggestions?",
+            "name": "Tamamo Cross",
+            "path_id": 8181409339989195848,
+            "block_id": 14,
+            "clip_length": 208,
+            "choices": [
+                {
+                    "text": "The cookies in that red box are great!",
+                    "hash": "3cea03e9430ea06503a892cdbba43cad30ac2cb9a7d653d7cb1983bba4e65d38"
+                }
+            ],
+            "processed": "<story>Now that I get a good look, there's lotsa new brands ain't there? \n<story>…Trainer, got any suggestions?"
+        },
+        {
+            "text": "Her siblings probably have a hearty appetite. If that's the case, \nthen snacks with quantity are probably best, so I suggest that.",
+            "name": "",
+            "path_id": 717787013159716053,
+            "block_id": 15,
+            "clip_length": 103,
+            "processed": "<story>Her siblings probably have a hearty appetite. If that's the case, \n<story>then snacks with quantity are probably best, so I suggest that."
+        },
+        {
+            "text": "Got it! In tha' case, th' cookies and a family size \npack of rice crackers are th' right choice…",
+            "name": "Tamamo Cross",
+            "path_id": -6534451271617800450,
+            "block_id": 16,
+            "clip_length": 149,
+            "processed": "<story>Got it! In tha' case, th' cookies and a family size \n<story>pack of rice crackers are th' right choice…"
+        },
+        {
+            "text": "Hmmmm… maybe I should get 'em th' one they liked last time too. \nIf I'm thrifty this month, I can probably get them both th' \nregular an' peach flavor ones.",
+            "name": "Tamamo Cross",
+            "path_id": -7863576693816909456,
+            "block_id": 17,
+            "clip_length": 293,
+            "choices": [
+                {
+                    "text": "Don't force yourself if your budget's tight…",
+                    "hash": "ff006a2dd81d1d78ec7a02ac527eb68a3eabe7a70c6ef1c4eec5a25bddc5ecda",
+                    "processed": "<size=38>Don't force yourself if your budget's tight…</size>"
+                }
+            ],
+            "processed": "<story>Hmmmm… maybe I should get 'em th' one they liked last time too. \n<story>If I'm thrifty this month, I can probably get them both th' \n<story>regular an' peach flavor ones."
+        },
+        {
+            "text": "I ain't forcin' myself. I only have to be a little thrifty. \nNo different from how it is normally.",
+            "name": "Tamamo Cross",
+            "path_id": -9071985451958446903,
+            "block_id": 18,
+            "clip_length": 192,
+            "processed": "<story>I ain't forcin' myself. I only have to be a little thrifty. \n<story>No different from how it is normally."
+        },
+        {
+            "text": "But… thinking back on the contents \nof that letter she showed me-",
+            "name": "",
+            "path_id": 824492645793229904,
+            "block_id": 19,
+            "clip_length": 82,
+            "processed": "<story>But… thinking back on the contents \n<story>of that letter she showed me-"
+        },
+        {
+            "text": "[Thanks fer th' snacks. They were tasty. Tama had some too right? \nEven without th' souvenirs, it's fine if ya just give us a call]",
+            "name": "Letter",
+            "path_id": 3703772795164063403,
+            "block_id": 20,
+            "clip_length": 121,
+            "processed": "<story>[Thanks fer th' snacks. They were tasty. Tama had some too right? \n<story>Even without th' souvenirs, it's fine if ya just give us a call]"
+        },
+        {
+            "text": "Tamamo Cross' family wrote they were fine without souvenirs. \nThey've probably already realized how tight her budget is.",
+            "name": "",
+            "path_id": -3011108399499031172,
+            "block_id": 21,
+            "clip_length": 123,
+            "processed": "<story>Tamamo Cross' family wrote they were fine without souvenirs. \n<story>They've probably already realized how tight her budget is."
+        },
+        {
+            "text": "Alright! Let's go with these 4!",
+            "name": "Tamamo Cross",
+            "path_id": -6740239190252266949,
+            "block_id": 22,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Not buying any for yourself?",
+                    "hash": "d2ca0900136af338937d02c8e1bd2126b65ecfe37d43d6b00144b1c636e6acc6"
+                },
+                {
+                    "text": "Not buying any for yourself?",
+                    "hash": "68c4765172427942480f5b8024adffcdbc77786b22881c388f80cfc1c17a7fce"
+                }
+            ],
+            "processed": "<story>Alright! Let's go with these 4!"
+        },
+        {
+            "text": "I'm fine, I already get ta eat my fill of good food. \n'Cuz of Tracen Academy, everyday I get ta eat a feast!",
+            "name": "Tamamo Cross",
+            "path_id": 7966693524587367455,
+            "block_id": 23,
+            "clip_length": 214,
+            "processed": "<story>I'm fine, I already get ta eat my fill of good food. \n<story>'Cuz of Tracen Academy, everyday I get ta eat a feast!"
+        },
+        {
+            "text": "Any more luxury than this and I'll be in for a reckonin'.",
+            "name": "Tamamo Cross",
+            "path_id": -4977055646989829480,
+            "block_id": 24,
+            "clip_length": 92,
+            "processed": "<story>Any more luxury than this and I'll be in for a reckonin'."
+        },
+        {
+            "text": "Tha's why, rather than me, \nI wanna give my family somethin' tasty.",
+            "name": "Tamamo Cross",
+            "path_id": 7349382375642037338,
+            "block_id": 25,
+            "clip_length": 148,
+            "processed": "<story>Tha's why, rather than me, \n<story>I wanna give my family somethin' tasty."
+        },
+        {
+            "text": "-I thought 'bout it alot. 'Bout what I could do ta make life \neasier for 'em. An' it finally hit me… th' Twinkle Series.",
+            "name": "Tamamo Cross",
+            "path_id": 5382696950645957812,
+            "block_id": 26,
+            "clip_length": 306,
+            "processed": "<story>-I thought 'bout it alot. 'Bout what I could do ta make life \n<story>easier for 'em. An' it finally hit me… th' Twinkle Series."
+        },
+        {
+            "text": "'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \nIt ain't good if I can't win! But even then-",
+            "name": "Tamamo Cross",
+            "path_id": 7089728569339784829,
+            "block_id": 27,
+            "clip_length": 295,
+            "processed": "<story>'Cuz they helped me get ta Tracen Academy, I can't go on losin'! \n<story>It ain't good if I can't win! But even then-"
+        },
+        {
+            "text": "Letting her attend Tracen Academy was a blessing, \nand in return her inclination was to prioritize \nher family over everything else.",
+            "name": "",
+            "path_id": -5011617935772114184,
+            "block_id": 28,
+            "clip_length": 102,
+            "choices": [
+                {
+                    "text": "Don't overdo it by being thrifty",
+                    "hash": "a84f1137b34c64e555d4c22932978037cbd44c0c351e1d2d66ed4d6e3082d631"
+                },
+                {
+                    "text": "Don't overdo it by being thrifty",
+                    "hash": "6296b76651fd20b05403836a3f189af361eecc04d532db9eb1c6b1b9d3196e8a"
+                }
+            ],
+            "processed": "<story>Letting her attend Tracen Academy was a blessing, \n<story>and in return her inclination was to prioritize \n<story>her family over everything else."
+        },
+        {
+            "text": "Are ya stupid? My thriftiness is Pro-level! \nAnd what's this all of a sudden? Are ya my mom?!",
+            "name": "Tamamo Cross",
+            "path_id": -6611499152004988729,
+            "block_id": 29,
+            "clip_length": 217,
+            "choices": [
+                {
+                    "text": "But I'm worried about you!",
+                    "hash": "693b3fecc5f09ae1a3838281f40d433fe3759db978070837dec92ba23c7eb5a0"
+                }
+            ],
+            "processed": "<story>Are ya stupid? My thriftiness is Pro-level! \n<story>And what's this all of a sudden? Are ya my mom?!"
+        },
+        {
+            "text": "Frank, ain't ya!? \nDon't say tha' with such a straight face, it's embarassin'!",
+            "name": "Tamamo Cross",
+            "path_id": 6681540546422759047,
+            "block_id": 30,
+            "clip_length": 102,
+            "processed": "<story>Frank, ain't ya!? \n<story>Don't say tha' with such a straight face, it's embarassin'!"
+        },
+        {
+            "text": "For the sake of her family is what drives her. But, it would be \nfine to spoil herself just a little… is what I thought.",
+            "name": "",
+            "path_id": 5308278847564546973,
+            "block_id": 31,
+            "clip_length": 105,
+            "processed": "<story>For the sake of her family is what drives her. But, it would be \n<story>fine to spoil herself just a little… is what I thought."
+        }
+    ],
+    "title": "Through The Wind And Rain"
+}

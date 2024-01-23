@@ -319,16 +319,51 @@ def autofill_factor_descriptions():
 
     util.save_json(path, data)
 
+def autofill_chara_story_chapters():
+    print("Autofilling story chapters (text_data/92.json)")
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "92.json")
 
+    if not os.path.exists(path):
+        print(f"File {path} does not exist. Skipping.")
+        return
+    
+    data = util.load_json(path)
+
+    for entry in data:
+        key = json.loads(entry["keys"])[0][-1]
+        grp = '04'
+        chara = str(key)[1:5]
+        chpt = str(key)[5:]
+
+        story_path = os.path.join(util.ASSETS_FOLDER_EDITING, "story", grp, chara, f"{chpt}.json")
+
+        if not os.path.exists(story_path):
+            print(f"Story {story_path} does not exist. Skipping.")
+            continue
+
+        story_data = util.load_json(story_path)
+
+        tl_title = story_data.get('title')
+
+        if not tl_title or tl_title == story_data.get('source'):
+            # No translation or translation is the same as the original
+            continue
+
+        entry['text'] = tl_title
+
+    util.save_json(path, data)
+
+def run():
+    autofill_birthdays()
+    autofill_outfit_combos()
+    autofill_support_combos()
+    autofill_pieces()
+    autofill_chara_secret_headers()
+    autofill_factor_descriptions()
+    autofill_chara_story_chapters()
 
 def main():
-    # autofill_birthdays()
-    # autofill_outfit_combos()
-    # autofill_support_combos()
-    # autofill_pieces()
-    # autofill_chara_secret_headers()
-
-    autofill_factor_descriptions()
+    autofill_chara_story_chapters()
     pass
 
 if __name__ == "__main__":

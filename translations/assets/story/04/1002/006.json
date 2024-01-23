@@ -1,0 +1,442 @@
+{
+    "type": "story",
+    "row_index": 242,
+    "file_name": "story/data/04/1002/storytimeline_041002006",
+    "hash": "JP3VMG7JIVC32F3GEBDDNCXPWNNDXZVO",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2955163522975675213,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "One day while training, Silence Suzuka seemed \nto be running in good form but-",
+            "name": "",
+            "path_id": 2021256084031092407,
+            "block_id": 1,
+            "clip_length": 95,
+            "processed": "<story>One day while training, Silence Suzuka seemed \n<story>to be running in good form but-"
+        },
+        {
+            "text": "Haa… haa… haa… haa…!",
+            "name": "Silence Suzuka",
+            "path_id": 7685248689452501657,
+            "block_id": 2,
+            "clip_length": 136,
+            "processed": "<story>Haa… haa… haa… haa…!"
+        },
+        {
+            "text": "Fuu- an improvement of 0.1 second. Seems like \nthere's no issue with running… haa…",
+            "name": "Silence Suzuka",
+            "path_id": 7353846500476037388,
+            "block_id": 3,
+            "clip_length": 326,
+            "choices": [
+                {
+                    "text": "Was there a problem with the training…?",
+                    "hash": "b974117d829ca891e9e3d43832f8c0c8aaa24dc411da3ccd248fbfc6af505363",
+                    "processed": "<size=40>Was there a problem with the training…?</size>"
+                },
+                {
+                    "text": "Was there a problem with the training…?",
+                    "hash": "f8578448c4f5ab715149dbc236833cd1797dab53b0ffeadc97c8e493663aa162",
+                    "processed": "<size=40>Was there a problem with the training…?</size>"
+                }
+            ],
+            "processed": "<story>Fuu- an improvement of 0.1 second. Seems like \n<story>there's no issue with running… haa…"
+        },
+        {
+            "text": "Ah, no. There's no issue with the training.",
+            "name": "Silence Suzuka",
+            "path_id": -6137632706733097366,
+            "block_id": 4,
+            "clip_length": 129,
+            "processed": "<story>Ah, no. There's no issue with the training."
+        },
+        {
+            "text": "…It's just that, this weekend, there's a Fan Meetup event.",
+            "name": "Silence Suzuka",
+            "path_id": -5890520403371819064,
+            "block_id": 5,
+            "clip_length": 213,
+            "processed": "<story>…It's just that, this weekend, there's a Fan Meetup event."
+        },
+        {
+            "text": "But, I've been so preoccupied with running that…I haven't \nreally gotten used to that kind of thing.",
+            "name": "Silence Suzuka",
+            "path_id": 8900552765854370690,
+            "block_id": 6,
+            "clip_length": 266,
+            "processed": "<story>But, I've been so preoccupied with running that…I haven't \n<story>really gotten used to that kind of thing."
+        },
+        {
+            "text": "And last time, when a fan spoke to me, I was so worried thinking \nof a response that I unconsciously started pacing in a circle…",
+            "name": "Silence Suzuka",
+            "path_id": 8298504900343126674,
+            "block_id": 7,
+            "clip_length": 278,
+            "processed": "<story>And last time, when a fan spoke to me, I was so worried thinking \n<story>of a response that I unconsciously started pacing in a circle…"
+        },
+        {
+            "text": "After that, there was an article in a magazine titled \"When I \ncalled out to her, she mysteriously started walking in a \ncounterclockwise circle\"…",
+            "name": "Silence Suzuka",
+            "path_id": -587104856852304150,
+            "block_id": 8,
+            "clip_length": 287,
+            "processed": "<story>After that, there was an article in a magazine titled \"When I \n<story>called out to her, she mysteriously started walking in a \n<story>counterclockwise circle\"…"
+        },
+        {
+            "text": "Because of that, whenever I hear about a \"Meetup \nEvent\" I feel a little dejected… it'd be nice \nif I didn't mess up like that again.",
+            "name": "Silence Suzuka",
+            "path_id": -4911649835732755101,
+            "block_id": 9,
+            "clip_length": 325,
+            "choices": [
+                {
+                    "text": "Maybe you were a little overwhelmed",
+                    "hash": "76b4082fe410d5c238b873fe8d4978af32163d7c550cba9f88bca34f6d66eed2"
+                }
+            ],
+            "processed": "<story>Because of that, whenever I hear about a \"Meetup \n<story>Event\" I feel a little dejected… it'd be nice \n<story>if I didn't mess up like that again."
+        },
+        {
+            "text": "I suppose that could have been the case…",
+            "name": "Silence Suzuka",
+            "path_id": 5168481797491558678,
+            "block_id": 10,
+            "clip_length": 123,
+            "processed": "<story>I suppose that could have been the case…"
+        },
+        {
+            "text": "However, that's exactly why I'd like to conduct the event \nproperly. I say that, but, I don't feel like I can…",
+            "name": "Silence Suzuka",
+            "path_id": 7884776465191076089,
+            "block_id": 11,
+            "clip_length": 302,
+            "choices": [
+                {
+                    "text": "Want to try practicing with me?",
+                    "hash": "6499612728195a391b26a2ddd1b19f29a5db109bce31de41ba9ebd1517fde586"
+                },
+                {
+                    "text": "Want to try practicing with me?",
+                    "hash": "7c799e0010971688974fe0f4cdf4c915e6fbc282b4151eed9c5c0022587e0269"
+                }
+            ],
+            "processed": "<story>However, that's exactly why I'd like to conduct the event \n<story>properly. I say that, but, I don't feel like I can…"
+        },
+        {
+            "text": "Eh… practice, is it? With Trainer-san…?",
+            "name": "Silence Suzuka",
+            "path_id": -2171929470506663208,
+            "block_id": 12,
+            "clip_length": 187,
+            "processed": "<story>Eh… practice, is it? With Trainer-san…?"
+        },
+        {
+            "text": "And with that, I volunteered to act as a \nFan to help Silence Suzuka practice.",
+            "name": "",
+            "path_id": -8755184270193263446,
+            "block_id": 13,
+            "clip_length": 72,
+            "choices": [
+                {
+                    "text": "I've become an even bigger admirer now \nbecause of your wonderful running!",
+                    "hash": "2fb1b6c4dc3dd3decb849644a7faf279bbc373a2cbd5e67d608346c1e0a7cd64",
+                    "processed": "<size=21>I've become an even bigger admirer now \nbecause of your wonderful running!</size>"
+                }
+            ],
+            "processed": "<story>And with that, I volunteered to act as a \n<story>Fan to help Silence Suzuka practice."
+        },
+        {
+            "text": "Ah… you're starting with an unexpectedly \nhigher difficulty subject.",
+            "name": "Silence Suzuka",
+            "path_id": 4317396424684537576,
+            "block_id": 14,
+            "clip_length": 135,
+            "processed": "<story>Ah… you're starting with an unexpectedly \n<story>higher difficulty subject."
+        },
+        {
+            "text": "Um… I should honestly accept the \npraise of \"Wonderful Running\"…",
+            "name": "Silence Suzuka",
+            "path_id": 5786616304242974635,
+            "block_id": 15,
+            "clip_length": 216,
+            "processed": "<story>Um… I should honestly accept the \n<story>praise of \"Wonderful Running\"…"
+        },
+        {
+            "text": "\"-bigger admirer now\" means, in short, up until \nnow they've admired me, too… uuuu~n…",
+            "name": "Silence Suzuka",
+            "path_id": 8181942271098234779,
+            "block_id": 16,
+            "clip_length": 313,
+            "processed": "<story>\"-bigger admirer now\" means, in short, up until \n<story>now they've admired me, too… uuuu~n…"
+        },
+        {
+            "text": "…Thank you very much.",
+            "name": "Silence Suzuka",
+            "path_id": 504360919814977697,
+            "block_id": 17,
+            "clip_length": 122,
+            "processed": "<story>…Thank you very much."
+        },
+        {
+            "text": "…Um, that's all.",
+            "name": "Silence Suzuka",
+            "path_id": -6042946227299355271,
+            "block_id": 18,
+            "clip_length": 82,
+            "choices": [
+                {
+                    "text": "…what a refined answer.",
+                    "hash": "5e92af1c0af005d805685a3ef1eb8bcc265084ac0f52748adb820af9396b275c"
+                },
+                {
+                    "text": "…what a refined answer.",
+                    "hash": "7157422ca75047aa99cc1f3cf29a8512c3a612a2d6d8ad7b515570fa8dc2fe30"
+                }
+            ],
+            "processed": "<story>…Um, that's all."
+        },
+        {
+            "text": "You don't need to follow up like that. Even if we practice now, \nit'd be just a drop in the bucket.",
+            "name": "Silence Suzuka",
+            "path_id": -8181503971820383758,
+            "block_id": 19,
+            "clip_length": 222,
+            "processed": "<story>You don't need to follow up like that. Even if we practice now, \n<story>it'd be just a drop in the bucket."
+        },
+        {
+            "text": "Unlike Fukikitaru and her fortunes or Taiki who can talk about \nanything, I guess I'm not suited to holding lively conversations.",
+            "name": "Silence Suzuka",
+            "path_id": 5207007516325839258,
+            "block_id": 20,
+            "clip_length": 324,
+            "processed": "<story>Unlike Fukikitaru and her fortunes or Taiki who can talk about \n<story>anything, I guess I'm not suited to holding lively conversations."
+        },
+        {
+            "text": "That said… at the very least, I feel like I should \ndo the event with a brighter outlook…",
+            "name": "Silence Suzuka",
+            "path_id": -7138992498556006419,
+            "block_id": 21,
+            "clip_length": 265,
+            "choices": [
+                {
+                    "text": "Then should I prepare a reward?",
+                    "hash": "2b4fb7eecd9cf9018133858a832843b035c807a0b6e7f1235acf643853ef09e8"
+                }
+            ],
+            "processed": "<story>That said… at the very least, I feel like I should \n<story>do the event with a brighter outlook…"
+        },
+        {
+            "text": "A reward…?",
+            "name": "Silence Suzuka",
+            "path_id": 8348321398042756758,
+            "block_id": 22,
+            "clip_length": 41,
+            "processed": "<story>A reward…?"
+        },
+        {
+            "text": "And then the weekend, the day of the Meetup event \nthat worried Silence Suzuka approached.",
+            "name": "",
+            "path_id": -6512611896414204279,
+            "block_id": 23,
+            "clip_length": 58,
+            "processed": "<story>And then the weekend, the day of the Meetup event \n<story>that worried Silence Suzuka approached."
+        },
+        {
+            "text": "Fuuua… the tension in the air is a bit \ndifferent from a race, isn't it?",
+            "name": "Silence Suzuka",
+            "path_id": 3707535502770496892,
+            "block_id": 24,
+            "clip_length": 198,
+            "processed": "<story>Fuuua… the tension in the air is a bit \n<story>different from a race, isn't it?"
+        },
+        {
+            "text": "Honestly, I'm still a little uneasy but…Yeah. \nI'll stay positive and give it my best.",
+            "name": "Silence Suzuka",
+            "path_id": 7427716447854183458,
+            "block_id": 25,
+            "clip_length": 284,
+            "choices": [
+                {
+                    "text": "Do your best!",
+                    "hash": "e87092b1faddc76b9bae6a9948143f241c7c8917b5d9a0d32e395b5cb4de97f3"
+                },
+                {
+                    "text": "Do your best!",
+                    "hash": "3e728c2ad20486ecf33af9d0fc9535f0d63ba06d7f57418fad8cd32e4bc410f1"
+                }
+            ],
+            "processed": "<story>Honestly, I'm still a little uneasy but…Yeah. \n<story>I'll stay positive and give it my best."
+        },
+        {
+            "text": "Yes. I'll be off…I'll be looking forward to my reward.",
+            "name": "Silence Suzuka",
+            "path_id": -8814350647284855522,
+            "block_id": 26,
+            "clip_length": 230,
+            "processed": "<story>Yes. I'll be off…I'll be looking forward to my reward."
+        },
+        {
+            "text": "Suzuka-san, I always cheer for you! Lately when I see you run, it \nseems like you've got this air of 'completeness' about you!",
+            "name": "Suzuka's Fan",
+            "path_id": -6851376048731892354,
+            "block_id": 27,
+            "clip_length": 205,
+            "processed": "<story>Suzuka-san, I always cheer for you! Lately when I see you run, it \n<story>seems like you've got this air of 'completeness' about you!"
+        },
+        {
+            "text": "Um, Thank you very much. And… um… mmmm…",
+            "name": "Silence Suzuka",
+            "path_id": -1256755996863568384,
+            "block_id": 28,
+            "clip_length": 266,
+            "processed": "<story>Um, Thank you very much. And… um… mmmm…"
+        },
+        {
+            "text": "Ah! Paying attention to such a small detail, I'm honored.",
+            "name": "Silence Suzuka",
+            "path_id": -253502500341970532,
+            "block_id": 29,
+            "clip_length": 145,
+            "processed": "<story>Ah! Paying attention to such a small detail, I'm honored."
+        },
+        {
+            "text": "And, mmmmm… mmmm…",
+            "name": "Silence Suzuka",
+            "path_id": 2334069667130714691,
+            "block_id": 30,
+            "clip_length": 149,
+            "processed": "<story>And, mmmmm… mmmm…"
+        },
+        {
+            "text": "Having seen Silence Suzuka trying her best with \nthe event, I went to prepare her reward-",
+            "name": "",
+            "path_id": -6476818336210119940,
+            "block_id": 31,
+            "clip_length": 72,
+            "processed": "<story>Having seen Silence Suzuka trying her best with \n<story>the event, I went to prepare her reward-"
+        },
+        {
+            "text": "The end of the line for a \"Royal Honey Carrot Tart\" is over \nheeeere! The wait will be at least 140 minutes!",
+            "name": "Store Staff",
+            "path_id": -2240220784679911655,
+            "block_id": 32,
+            "clip_length": 197,
+            "processed": "<story>The end of the line for a \"Royal Honey Carrot Tart\" is over \n<story>heeeere! The wait will be at least 140 minutes!"
+        },
+        {
+            "text": "There was a famous sweets shop in this part of the mall and I \nqueued up in the long line. Then-",
+            "name": "",
+            "path_id": -2576516793781737352,
+            "block_id": 33,
+            "clip_length": 66,
+            "processed": "<story>There was a famous sweets shop in this part of the mall and I \n<story>queued up in the long line. Then-"
+        },
+        {
+            "text": "4 hours… you stood in line for that long?",
+            "name": "Silence Suzuka",
+            "path_id": -1700290964539445285,
+            "block_id": 34,
+            "clip_length": 151,
+            "processed": "<story>4 hours… you stood in line for that long?"
+        },
+        {
+            "text": "I see, part of making a Tart is to bake and let \nit cool. That must be why it takes so long…",
+            "name": "Silence Suzuka",
+            "path_id": -4786436472518469669,
+            "block_id": 35,
+            "clip_length": 240,
+            "processed": "<story>I see, part of making a Tart is to bake and let \n<story>it cool. That must be why it takes so long…"
+        },
+        {
+            "text": "Um, I'm sorry. When you suddenly talked about a reward, this was \nthe first thing I thought of since it was a hot topic in class…",
+            "name": "Silence Suzuka",
+            "path_id": -580926305183609423,
+            "block_id": 36,
+            "clip_length": 365,
+            "processed": "<story>Um, I'm sorry. When you suddenly talked about a reward, this was \n<story>the first thing I thought of since it was a hot topic in class…"
+        },
+        {
+            "text": "But, because of that, the event went really well.",
+            "name": "Silence Suzuka",
+            "path_id": -4651372513843621993,
+            "block_id": 37,
+            "clip_length": 150,
+            "processed": "<story>But, because of that, the event went really well."
+        },
+        {
+            "text": "Ah… this doesn't mean I've become better at \ninteracting with people. It's just…",
+            "name": "Silence Suzuka",
+            "path_id": -4570460289710173710,
+            "block_id": 38,
+            "clip_length": 261,
+            "choices": [
+                {
+                    "text": "You faced it with positivity?",
+                    "hash": "c2c518cc15d1b91ae55335bb69d69ebe98c6c72085bcbb0fdb8534f9c613b5dd"
+                }
+            ],
+            "processed": "<story>Ah… this doesn't mean I've become better at \n<story>interacting with people. It's just…"
+        },
+        {
+            "text": "Yes, that's right. At the very least, more so than before.",
+            "name": "Silence Suzuka",
+            "path_id": 3823653157767273618,
+            "block_id": 39,
+            "clip_length": 170,
+            "processed": "<story>Yes, that's right. At the very least, more so than before."
+        },
+        {
+            "text": "Before, I was worried about how to behave or what I should do. I \nthought about alot of things but…",
+            "name": "Silence Suzuka",
+            "path_id": -8465029215405622780,
+            "block_id": 40,
+            "clip_length": 279,
+            "processed": "<story>Before, I was worried about how to behave or what I should do. I \n<story>thought about alot of things but…"
+        },
+        {
+            "text": "Focusing on that \"reward\" made things simple. \nI just have to do my best, I thought.",
+            "name": "Silence Suzuka",
+            "path_id": 370989100817705866,
+            "block_id": 41,
+            "clip_length": 243,
+            "processed": "<story>Focusing on that \"reward\" made things simple. \n<story>I just have to do my best, I thought."
+        },
+        {
+            "text": "Just like in a race, focusing only on the goal… thinking \nlike that made it possible.",
+            "name": "Silence Suzuka",
+            "path_id": -5898569589258927903,
+            "block_id": 42,
+            "clip_length": 207,
+            "choices": [
+                {
+                    "text": "You worked hard, so the sweets will be delicious",
+                    "hash": "bf5560daa7477dd11c45e102cf90681015ef1debf29d4609fb8a7af3b3fa0494",
+                    "processed": "<size=34>You worked hard, so the sweets will be delicious</size>"
+                }
+            ],
+            "processed": "<story>Just like in a race, focusing only on the goal… thinking \n<story>like that made it possible."
+        },
+        {
+            "text": "Fufuu, I'm looking forward to how good they'll be.",
+            "name": "Silence Suzuka",
+            "path_id": 7841287155622187705,
+            "block_id": 43,
+            "clip_length": 143,
+            "processed": "<story>Fufuu, I'm looking forward to how good they'll be."
+        },
+        {
+            "text": "Silence Suzuka said that with a soft expression on her face, full \nof the satisfaction of completing the event.",
+            "name": "",
+            "path_id": -4452142652522447977,
+            "block_id": 44,
+            "clip_length": 70,
+            "processed": "<story>Silence Suzuka said that with a soft expression on her face, full \n<story>of the satisfaction of completing the event."
+        }
+    ],
+    "title": "Forging Ahead With Certainty"
+}

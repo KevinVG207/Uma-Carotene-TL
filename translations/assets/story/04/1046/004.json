@@ -1,0 +1,579 @@
+{
+    "type": "story",
+    "row_index": 689,
+    "file_name": "story/data/04/1046/storytimeline_041046004",
+    "hash": "LQZLSF555X7P6P4ZSNM5VMHCBNAO563A",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -1997707452280835674,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "The appointed day. With permission from the school, \nI had brought Smart Falcon to the Ooi Racetrack.",
+            "name": "",
+            "path_id": 547559478624761011,
+            "block_id": 1,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "We're watching dirt races today",
+                    "hash": "1ca03792581ec672fc760f9f98d3f03a3dbd02069530c573696165fc520c081f"
+                }
+            ],
+            "processed": "<story>The appointed day. With permission from the school, \n<story>I had brought Smart Falcon to the Ooi Racetrack."
+        },
+        {
+            "text": "I see～ ……but, why today of all days? \nThere aren't any big races, and there aren't many spectators.",
+            "name": "Smart Falcon",
+            "path_id": 2670326122816931712,
+            "block_id": 2,
+            "clip_length": 284,
+            "processed": "<story>I see～ ……but, why today of all days? \n<story>There aren't any big races, and there aren't many spectators."
+        },
+        {
+            "text": "……you're probably trying to show me the good parts \nof dirt racing, right? In that case, I would think \nseeing bigger races would be better.",
+            "name": "Smart Falcon",
+            "path_id": -1139187653193759427,
+            "block_id": 3,
+            "clip_length": 280,
+            "choices": [
+                {
+                    "text": "You'll understand once you see it",
+                    "hash": "fdbd548677d959db79a6539987b4603c829075650f0b4dd354f04284dfaf2008"
+                }
+            ],
+            "processed": "<story>……you're probably trying to show me the good parts \n<story>of dirt racing, right? In that case, I would think \n<story>seeing bigger races would be better."
+        },
+        {
+            "text": "……？",
+            "name": "Smart Falcon",
+            "path_id": -2970952857343035147,
+            "block_id": 4,
+            "clip_length": 33,
+            "processed": "<story>……？"
+        },
+        {
+            "text": "――The races that day were incredibly fierce. Even while covered \nin dirt, the participating Uma Musume competed with all they had.",
+            "name": "",
+            "path_id": -7566704022541156421,
+            "block_id": 5,
+            "clip_length": 115,
+            "processed": "<story>――The races that day were incredibly fierce. Even while covered \n<story>in dirt, the participating Uma Musume competed with all they had."
+        },
+        {
+            "text": "Pushing their strength to the limits, painfully gasping for \nbreath. It wasn't something you could say was beautiful. Even \nthen, no, perhaps because of that―",
+            "name": "",
+            "path_id": 362102287091967068,
+            "block_id": 6,
+            "clip_length": 120,
+            "processed": "<story>Pushing their strength to the limits, painfully gasping for \n<story>breath. It wasn't something you could say was beautiful. Even \n<story>then, no, perhaps because of that―"
+        },
+        {
+            "text": "Goooooo!! Don't lose-!! \nGo, go, gooooo-!",
+            "name": "Crowd",
+            "path_id": 4098149266927151805,
+            "block_id": 7,
+            "clip_length": 122,
+            "processed": "<story>Goooooo!! Don't lose-!! \n<story>Go, go, gooooo-!"
+        },
+        {
+            "text": "……! Ah, look out! Ah! \nAh, ah, aaaah～! Waaaaaaa～……!!",
+            "name": "Smart Falcon",
+            "path_id": 5255588530567993472,
+            "block_id": 8,
+            "clip_length": 271,
+            "processed": "<story>……! Ah, look out! Ah! \n<story>Ah, ah, aaaah～! Waaaaaaa～……!!"
+        },
+        {
+            "text": "Perhaps captivated by them doing their utmost, \neveryone who was watching raised their voices, and then―",
+            "name": "",
+            "path_id": 4617059596717245620,
+            "block_id": 9,
+            "clip_length": 95,
+            "processed": "<story>Perhaps captivated by them doing their utmost, \n<story>everyone who was watching raised their voices, and then―"
+        },
+        {
+            "text": "Haaa, haaa…… Everyone～! \nThank you for the passionate cheers today～!!",
+            "name": "Center Uma Musume",
+            "path_id": 5692990720396287264,
+            "block_id": 10,
+            "clip_length": 341,
+            "processed": "<story>Haaa, haaa…… Everyone～! \n<story>Thank you for the passionate cheers today～!!"
+        },
+        {
+            "text": "Haaa…… Huuu～, alright, let's keep smiling until the end! \nAnd so, please listen. Our song is……―",
+            "name": "Center Uma Musume",
+            "path_id": -8683902110271644948,
+            "block_id": 11,
+            "clip_length": 497,
+            "processed": "<story>Haaa…… Huuu～, alright, let's keep smiling until the end! \n<story>And so, please listen. Our song is……―"
+        },
+        {
+            "text": "――Haaaa～…… that was amazing! \nIt was a really great Live, wasn't it～!?",
+            "name": "Smart Falcon",
+            "path_id": -4151575374716996160,
+            "block_id": 12,
+            "clip_length": 216,
+            "choices": [
+                {
+                    "text": "It was",
+                    "hash": "2f718d5390d3ceea2345a0a02c444e3a7621e3794c110c4dc70da7e76caa728c"
+                },
+                {
+                    "text": "It was",
+                    "hash": "6a97d2bc532c20d2a883a779907e711c19912e9db36c818cb2f37ff72f3cca41"
+                }
+            ],
+            "processed": "<story>――Haaaa～…… that was amazing! \n<story>It was a really great Live, wasn't it～!?"
+        },
+        {
+            "text": "Everyone was sparkling as they gave their best to the point they \nwere about to collapse. No matter how much dirt they were covered \nin, it was still beautiful―",
+            "name": "Smart Falcon",
+            "path_id": 6494786059292899682,
+            "block_id": 13,
+            "clip_length": 293,
+            "processed": "<story>Everyone was sparkling as they gave their best to the point they \n<story>were about to collapse. No matter how much dirt they were covered \n<story>in, it was still beautiful―"
+        },
+        {
+            "text": "Ah…… That's right, that's how it is. It's because they run \nwith all their might, that an Umadol shines brightly.",
+            "name": "Smart Falcon",
+            "path_id": 8284503850439617845,
+            "block_id": 14,
+            "clip_length": 275,
+            "processed": "<story>Ah…… That's right, that's how it is. It's because they run \n<story>with all their might, that an Umadol shines brightly."
+        },
+        {
+            "text": "It's because they had to fight and win to sing \non stage that it moves people. I was moved too. \nThose were the Umadols that I looked up to!",
+            "name": "Smart Falcon",
+            "path_id": -6071913245087438816,
+            "block_id": 15,
+            "clip_length": 278,
+            "processed": "<story>It's because they had to fight and win to sing \n<story>on stage that it moves people. I was moved too. \n<story>Those were the Umadols that I looked up to!"
+        },
+        {
+            "text": "Being able to to move someone's heart, it doesn't matter whether \nit's Turf or Dirt. Even then…… I didn't think much about dirt.",
+            "name": "Smart Falcon",
+            "path_id": 6313779746611970028,
+            "block_id": 16,
+            "clip_length": 297,
+            "processed": "<story>Being able to to move someone's heart, it doesn't matter whether \n<story>it's Turf or Dirt. Even then…… I didn't think much about dirt."
+        },
+        {
+            "text": "It couldn't be helped that even if you won on Dirt, you wouldn't \nbe able to move people…… I had already convinced myself of that…… \nHaaa～, I'm disappointed in myself.",
+            "name": "Smart Falcon",
+            "path_id": -6927299907028586813,
+            "block_id": 17,
+            "clip_length": 333,
+            "choices": [
+                {
+                    "text": "How do you feel now?",
+                    "hash": "38cc0ae768f13f25d83771913f0c49be33179dfe46ca0f40274a4fe408e17469"
+                }
+            ],
+            "processed": "<story>It couldn't be helped that even if you won on Dirt, you wouldn't \n<story>be able to move people…… I had already convinced myself of that…… \n<story>Haaa～, I'm disappointed in myself."
+        },
+        {
+            "text": "For now…… anyways, I'm glad I got to see the stage today! \nIt helped me realize something important, and I had a lot of fun.",
+            "name": "Smart Falcon",
+            "path_id": 4630266950333614155,
+            "block_id": 18,
+            "clip_length": 291,
+            "processed": "<story>For now…… anyways, I'm glad I got to see the stage today! \n<story>It helped me realize something important, and I had a lot of fun."
+        },
+        {
+            "text": "But everyone, just like me, won't easily be drawn to that stage. \nBecause Dirt doesn't get much attention, people don't know about \nsuch passionate Lives.",
+            "name": "Smart Falcon",
+            "path_id": 1042632539390082594,
+            "block_id": 19,
+            "clip_length": 305,
+            "processed": "<story>But everyone, just like me, won't easily be drawn to that stage. \n<story>Because Dirt doesn't get much attention, people don't know about \n<story>such passionate Lives."
+        },
+        {
+            "text": "Because there's no Top, this whole time few people \nhave realized it. It just feels like such a waste～.",
+            "name": "Smart Falcon",
+            "path_id": 3118471347136789458,
+            "block_id": 20,
+            "clip_length": 208,
+            "choices": [
+                {
+                    "text": "Then you just need to become the Top",
+                    "hash": "8640b9a6443401c7e289bc7c48fdd0468eca3c4ca5c28d7b5c4994bd5e3f4980",
+                    "processed": "<size=43>Then you just need to become the Top</size>"
+                }
+            ],
+            "processed": "<story>Because there's no Top, this whole time few people \n<story>have realized it. It just feels like such a waste～."
+        },
+        {
+            "text": "Hee……? \nWhat do you mean by that……?",
+            "name": "Smart Falcon",
+            "path_id": 9126462198595948826,
+            "block_id": 21,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "『Aptitude』 shouldn't limit you, right?",
+                    "hash": "271dfe3b109bafb86c78f468f5e3c4b20b9c15ebae4c5bab4cd5971567516999",
+                    "processed": "<size=42>『Aptitude』 shouldn't limit you, right?</size>"
+                },
+                {
+                    "text": "『Aptitude』 shouldn't limit you, right?",
+                    "hash": "b7c1007b116bd311c95075af9c3df8e058d988fd03bb4f3c0a6e24bce4369b19",
+                    "processed": "<size=42>『Aptitude』 shouldn't limit you, right?</size>"
+                }
+            ],
+            "processed": "<story>Hee……? \n<story>What do you mean by that……?"
+        },
+        {
+            "text": "……! \nThat's right……!",
+            "name": "Smart Falcon",
+            "path_id": 3835806127316277274,
+            "block_id": 22,
+            "clip_length": 142,
+            "processed": "<story>……! \n<story>That's right……!"
+        },
+        {
+            "text": "You're right! With my running, singing, and dancing! \nI just need to make Dirt the place where the Top is!",
+            "name": "Smart Falcon",
+            "path_id": 1760195501018086007,
+            "block_id": 23,
+            "clip_length": 262,
+            "processed": "<story>You're right! With my running, singing, and dancing! \n<story>I just need to make Dirt the place where the Top is!"
+        },
+        {
+            "text": "A world where everyone will aim for, and give attention to Dirt! \nFalco will be the one to change it……!",
+            "name": "Smart Falcon",
+            "path_id": 628939117955932326,
+            "block_id": 24,
+            "clip_length": 221,
+            "processed": "<story>A world where everyone will aim for, and give attention to Dirt! \n<story>Falco will be the one to change it……!"
+        },
+        {
+            "text": "……huh? Could it be that that's something really difficult? \nHarder than becoming a Top Umadol?",
+            "name": "Smart Falcon",
+            "path_id": -2621018934454950962,
+            "block_id": 25,
+            "clip_length": 227,
+            "choices": [
+                {
+                    "text": "Most likely",
+                    "hash": "26929e9490cb9dcb040e9636c2ff3d5595a938b60bad47798fb4f6f26557190b"
+                },
+                {
+                    "text": "Most likely",
+                    "hash": "c20f2a62f323844437216e502029507eef628ad5b476a46a5d8779bcf8615a4f"
+                }
+            ],
+            "processed": "<story>……huh? Could it be that that's something really difficult? \n<story>Harder than becoming a Top Umadol?"
+        },
+        {
+            "text": "Ahaha～…… but, it being difficult isn't a reason \nto give up, right? In that case, I'll need \nto put in even more work than before!",
+            "name": "Smart Falcon",
+            "path_id": -756029622668228261,
+            "block_id": 26,
+            "clip_length": 283,
+            "processed": "<story>Ahaha～…… but, it being difficult isn't a reason \n<story>to give up, right? In that case, I'll need \n<story>to put in even more work than before!"
+        },
+        {
+            "text": "If nobody knows who Falco is, then I can't draw in anyone. \nSo I need to start by making a name for myself!",
+            "name": "Smart Falcon",
+            "path_id": -3306608455203921073,
+            "block_id": 27,
+            "clip_length": 223,
+            "choices": [
+                {
+                    "text": "Keep working hard and a chance will come",
+                    "hash": "d7719f1fc564fe3bbd91aef0f85e8758c7c75da094e69a7d594f8d0c35617054",
+                    "processed": "<size=39>Keep working hard and a chance will come</size>"
+                },
+                {
+                    "text": "Keep working hard and a chance will come",
+                    "hash": "54a3fb183ff140363aa3a844aa4c5d9da622651e93621b5365aa5f36e3d04929",
+                    "processed": "<size=39>Keep working hard and a chance will come</size>"
+                }
+            ],
+            "processed": "<story>If nobody knows who Falco is, then I can't draw in anyone. \n<story>So I need to start by making a name for myself!"
+        },
+        {
+            "text": "Ehhhhh～ If I keep working as hard as before, nothing will change! \nI need to be able to seal the deal☆ and figure out how to do that!",
+            "name": "Smart Falcon",
+            "path_id": -5640452546000379840,
+            "block_id": 28,
+            "clip_length": 233,
+            "processed": "<story>Ehhhhh～ If I keep working as hard as before, nothing will change! \n<story>I need to be able to seal the deal☆ and figure out how to do that!"
+        },
+        {
+            "text": "I nod to Smart Falcon. Even now she continues to move forward. \nAnd because of that―",
+            "name": "",
+            "path_id": -3222304481522165453,
+            "block_id": 29,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "Fan#1 is here for you",
+                    "hash": "7f3ade790ec2c4ea34ee09b4b23c7479b984dea08c2e0e72ed53dc6c9e6b689e"
+                }
+            ],
+            "processed": "<story>I nod to Smart Falcon. Even now she continues to move forward. \n<story>And because of that―"
+        },
+        {
+            "text": "Eh……",
+            "name": "Smart Falcon",
+            "path_id": 8188669116856868449,
+            "block_id": 30,
+            "clip_length": 31,
+            "processed": "<story>Eh……"
+        },
+        {
+            "text": "The first day I met her. Illuminated by the evening sky, \nsinging and dancing alone, she was―― sparkling brilliantly.",
+            "name": "",
+            "path_id": -3971881975833775749,
+            "block_id": 31,
+            "clip_length": 106,
+            "processed": "<story>The first day I met her. Illuminated by the evening sky, \n<story>singing and dancing alone, she was―― sparkling brilliantly."
+        },
+        {
+            "text": "Nobody was watching her, nobody was listening to her. \nBut still performing with that smile――",
+            "name": "",
+            "path_id": 6782914716068745167,
+            "block_id": 32,
+            "clip_length": 105,
+            "processed": "<story>Nobody was watching her, nobody was listening to her. \n<story>But still performing with that smile――"
+        },
+        {
+            "text": "――She was able to give someone courage and hope.",
+            "name": "",
+            "path_id": -7666212203792372378,
+            "block_id": 33,
+            "clip_length": 73,
+            "processed": "<story>――She was able to give someone courage and hope."
+        },
+        {
+            "text": "Trainer-san……",
+            "name": "Smart Falcon",
+            "path_id": -330555616458870477,
+            "block_id": 34,
+            "clip_length": 56,
+            "processed": "<story>Trainer-san……"
+        },
+        {
+            "text": "……Thank you.",
+            "name": "Smart Falcon",
+            "path_id": -6163968513565166788,
+            "block_id": 35,
+            "clip_length": 107,
+            "processed": "<story>……Thank you."
+        },
+        {
+            "text": "Yeah, I've made up my mind! \nYou see, Trainer-san, about the next Selection Race――",
+            "name": "Smart Falcon",
+            "path_id": 1270580330921729036,
+            "block_id": 36,
+            "clip_length": 190,
+            "processed": "<story>Yeah, I've made up my mind! \n<story>You see, Trainer-san, about the next Selection Race――"
+        },
+        {
+            "text": "――Several months later. It was the first Selection Race \nto occur after teaming up with Smart Falcon.",
+            "name": "",
+            "path_id": -4253914636140023843,
+            "block_id": 37,
+            "clip_length": 97,
+            "processed": "<story>――Several months later. It was the first Selection Race \n<story>to occur after teaming up with Smart Falcon."
+        },
+        {
+            "text": "Alright then, Falco will be heading out☆ \nI'll be waiting for those passionate cheers☆",
+            "name": "Smart Falcon",
+            "path_id": 2429440962578975287,
+            "block_id": 38,
+            "clip_length": 188,
+            "processed": "<story>Alright then, Falco will be heading out☆ \n<story>I'll be waiting for those passionate cheers☆"
+        },
+        {
+            "text": "That girl……who is she? She was really enthusiastic…… \nI'm pretty sure she's a new face on Dirt though.",
+            "name": "Rookie Trainer A",
+            "path_id": -4085331989359451777,
+            "block_id": 39,
+            "clip_length": 249,
+            "choices": [
+                {
+                    "text": "(This is fine)",
+                    "hash": "93000295ecc7dc174a1745583299fbf1752128b6c88d60d0f188c3fe346c38a0"
+                }
+            ],
+            "processed": "<story>That girl……who is she? She was really enthusiastic…… \n<story>I'm pretty sure she's a new face on Dirt though."
+        },
+        {
+            "text": "The buzz was short-lived, and talk quickly turned back to \nanother, more prominent, Uma Musume. But that's exactly why \ntoday…… she would stand out more than anyone.",
+            "name": "",
+            "path_id": -8102473414896928971,
+            "block_id": 40,
+            "clip_length": 112,
+            "processed": "<story>The buzz was short-lived, and talk quickly turned back to \n<story>another, more prominent, Uma Musume. But that's exactly why \n<story>today…… she would stand out more than anyone."
+        },
+        {
+            "text": "Huuu…… Yaaaaaaaa☆☆☆☆",
+            "name": "Smart Falcon",
+            "path_id": 1551305512956192695,
+            "block_id": 41,
+            "clip_length": 109,
+            "processed": "<story>Huuu…… Yaaaaaaaa☆☆☆☆"
+        },
+        {
+            "text": "Wha-……!? \nSo fast!!",
+            "name": "Trainers",
+            "path_id": -4972837222657858225,
+            "block_id": 42,
+            "clip_length": 73,
+            "processed": "<story>Wha-……!? \n<story>So fast!!"
+        },
+        {
+            "text": "She powerfully kicked up the sand and flew ahead faster than \nanyone else, and the entire audience stared in amazement.",
+            "name": "",
+            "path_id": -3173703764121491506,
+            "block_id": 43,
+            "clip_length": 106,
+            "processed": "<story>She powerfully kicked up the sand and flew ahead faster than \n<story>anyone else, and the entire audience stared in amazement."
+        },
+        {
+            "text": "Ahaa, it's so easy to run……! \nYeah, that's right! I already knew that! This is my……!",
+            "name": "Smart Falcon",
+            "path_id": 4984953673260557593,
+            "block_id": 44,
+            "clip_length": 275,
+            "processed": "<story>Ahaa, it's so easy to run……! \n<story>Yeah, that's right! I already knew that! This is my……!"
+        },
+        {
+            "text": "This is the \"Stage\" that I can shine on! \nAlright, Falco's On Staaaaaaage☆☆",
+            "name": "Smart Falcon",
+            "path_id": 409644756743667906,
+            "block_id": 45,
+            "clip_length": 250,
+            "processed": "<story>This is the \"Stage\" that I can shine on! \n<story>Alright, Falco's On Staaaaaaage☆☆"
+        },
+        {
+            "text": "―Just like a falcon flying freely in the sky. \nThe Dirt was her sky, and nobody could catch her.",
+            "name": "",
+            "path_id": -5800166350418829216,
+            "block_id": 46,
+            "clip_length": 111,
+            "processed": "<story>―Just like a falcon flying freely in the sky. \n<story>The Dirt was her sky, and nobody could catch her."
+        },
+        {
+            "text": "I did iiiiit～!! \nI won, Falco wooooon～～☆☆",
+            "name": "Smart Falcon",
+            "path_id": 9081530130335556855,
+            "block_id": 47,
+            "clip_length": 176,
+            "processed": "<story>I did iiiiit～!! \n<story>I won, Falco wooooon～～☆☆"
+        },
+        {
+            "text": "Wai-wait a minute! You, where have you been all \nthis time!? If you don't have a trainer yet, even \nif it's for a little, could we talk……!?",
+            "name": "Rookie Trainer A",
+            "path_id": 7661971943204714849,
+            "block_id": 48,
+            "clip_length": 242,
+            "processed": "<story>Wai-wait a minute! You, where have you been all \n<story>this time!? If you don't have a trainer yet, even \n<story>if it's for a little, could we talk……!?"
+        },
+        {
+            "text": "No way, Falco's super popular☆ \nBut, that talk will have to wait juuuuuust a little bit!",
+            "name": "Smart Falcon",
+            "path_id": 3037177453267914535,
+            "block_id": 49,
+            "clip_length": 226,
+            "processed": "<story>No way, Falco's super popular☆ \n<story>But, that talk will have to wait juuuuuust a little bit!"
+        },
+        {
+            "text": "Ah, there they are! \nTrainer-saaaan!",
+            "name": "Smart Falcon",
+            "path_id": 8296280918766371375,
+            "block_id": 50,
+            "clip_length": 82,
+            "choices": [
+                {
+                    "text": "Good work out there",
+                    "hash": "b953841c6237f6f93550f5268f577fd573201293558ed014b9eb53c636e0c0c4"
+                }
+            ],
+            "processed": "<story>Ah, there they are! \n<story>Trainer-saaaan!"
+        },
+        {
+            "text": "Thanks☆ \nHey hey, was Falco sparkling?",
+            "name": "Smart Falcon",
+            "path_id": 6052729856726833979,
+            "block_id": 51,
+            "clip_length": 129,
+            "choices": [
+                {
+                    "text": "Of course!",
+                    "hash": "d7dc2c584dab1c79c1051244bd1990da52c55f4f5fffd94bd0097c76a51bd1ca"
+                }
+            ],
+            "processed": "<story>Thanks☆ \n<story>Hey hey, was Falco sparkling?"
+        },
+        {
+            "text": "Ehehee, that's great! And on that note, there's \nsomething important I want to talk about. I want \nto ask properly…… will you hear me out!?",
+            "name": "Smart Falcon",
+            "path_id": -7748363447966924999,
+            "block_id": 52,
+            "clip_length": 281,
+            "processed": "<story>Ehehee, that's great! And on that note, there's \n<story>something important I want to talk about. I want \n<story>to ask properly…… will you hear me out!?"
+        },
+        {
+            "text": "Trainer-san! Will you become Falco's trainer \nand aim for Top Umadol together with me!?",
+            "name": "Smart Falcon",
+            "path_id": 4435145149891729869,
+            "block_id": 53,
+            "clip_length": 183,
+            "choices": [
+                {
+                    "text": "……Looking forward to it, Falco!",
+                    "hash": "7eba2dde118e8d37bb0f81c492a0864a5cf6e4b5eec1b44e087ec321ff1efffb"
+                }
+            ],
+            "processed": "<story>Trainer-san! Will you become Falco's trainer \n<story>and aim for Top Umadol together with me!?"
+        },
+        {
+            "text": "……! Ehehee☆ \nThank you, Trainer-san!",
+            "name": "Smart Falcon",
+            "path_id": 5600454563917897319,
+            "block_id": 54,
+            "clip_length": 163,
+            "processed": "<story>……! Ehehee☆ \n<story>Thank you, Trainer-san!"
+        },
+        {
+            "text": "And so, with that all wrapped up! All of you fans～! \nOnce again from the top, it's Intro Time☆",
+            "name": "Smart Falcon",
+            "path_id": -6006583213886352070,
+            "block_id": 55,
+            "clip_length": 249,
+            "processed": "<story>And so, with that all wrapped up! All of you fans～! \n<story>Once again from the top, it's Intro Time☆"
+        },
+        {
+            "text": "If Falco runs away～? (You should chase!) \nCatch her with lots of love☆ It's the strongest Umadol, Smart Falcon☆",
+            "name": "Smart Falcon",
+            "path_id": -3579531662341428269,
+            "block_id": 56,
+            "clip_length": 312,
+            "processed": "<story>If Falco runs away～? (You should chase!) \n<story>Catch her with lots of love☆ It's the strongest Umadol, Smart Falcon☆"
+        },
+        {
+            "text": "Falco's dream is to \"use\" the Dirt to become the Top Umadol! \nTo make that come true, I need everyone's cheering! That's why――",
+            "name": "Smart Falcon",
+            "path_id": -8379099790911465212,
+            "block_id": 57,
+            "clip_length": 273,
+            "processed": "<story>Falco's dream is to \"use\" the Dirt to become the Top Umadol! \n<story>To make that come true, I need everyone's cheering! That's why――"
+        },
+        {
+            "text": "The incredibly lovely Falco, make sure to chase her a loooooot, okay☆? \nEhe♪",
+            "name": "Smart Falcon",
+            "path_id": -5880665201717455612,
+            "block_id": 58,
+            "clip_length": 173,
+            "processed": "<story>The incredibly lovely Falco, make sure to chase her a loooooot, okay☆? \n<story>Ehe♪"
+        }
+    ],
+    "title": "ZETTAI! Top☆Umadol"
+}

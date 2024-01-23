@@ -1,0 +1,548 @@
+{
+    "type": "story",
+    "row_index": 185551,
+    "file_name": "story/data/04/1104/storytimeline_041104006",
+    "hash": "2B4C4DS3LKVQTMUQHRMJ2RQ6EU3MCBID",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2587987470709659964,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――I wanted to do something about Katsuragi Ace's homesickness. \nWith that in mind, I bought several books, including one \ntitled 『My First Kitchen Garden』.",
+            "name": "",
+            "path_id": 2695170026713638786,
+            "block_id": 1,
+            "clip_length": 114,
+            "processed": "<story>――I wanted to do something about Katsuragi Ace's homesickness. \n<story>With that in mind, I bought several books, including one \n<story>titled 『My First Kitchen Garden』."
+        },
+        {
+            "text": "If I can learn this properly, then I should be able \nto help her alleviate some of that loneliness――",
+            "name": "",
+            "path_id": -5041574350558036909,
+            "block_id": 2,
+            "clip_length": 98,
+            "processed": "<story>If I can learn this properly, then I should be able \n<story>to help her alleviate some of that loneliness――"
+        },
+        {
+            "text": "Huh, is that Trainer-san? Whoa, that looks like \na really heavy bag there. Is it all books?",
+            "name": "Katsuragi Ace",
+            "path_id": 4225522213533953811,
+            "block_id": 3,
+            "clip_length": 259,
+            "choices": [
+                {
+                    "text": "Yeah, just something I wanted to learn",
+                    "hash": "6f4a8a9176d2d9592e18e020f2f4f207b9b95f5f3b2c3b0d4bd25fd09cfe7b46",
+                    "processed": "<size=43>Yeah, just something I wanted to learn</size>"
+                },
+                {
+                    "text": "Yeah, just something I wanted to learn",
+                    "hash": "ba9a534ec9faabbc1e7fa78bf2c33c50e2539a563346eeb4a72f7edf86fdd9d9",
+                    "processed": "<size=43>Yeah, just something I wanted to learn</size>"
+                }
+            ],
+            "processed": "<story>Huh, is that Trainer-san? Whoa, that looks like \n<story>a really heavy bag there. Is it all books?"
+        },
+        {
+            "text": "You're studying on your days off too!? \n……Haa~, sounds like being a trainer is pretty rough.",
+            "name": "Katsuragi Ace",
+            "path_id": -1572095809782666892,
+            "block_id": 4,
+            "clip_length": 215,
+            "choices": [
+                {
+                    "text": "Well, it's not work-related though――",
+                    "hash": "635cc1c351d8637f9ef63565a4fd91b370523c8ff3ac43ccd7747a63090abcce"
+                }
+            ],
+            "processed": "<story>You're studying on your days off too!? \n<story>……Haa~, sounds like being a trainer is pretty rough."
+        },
+        {
+            "text": "Alright, I've made up my mind! \nLet's take it easy today! Trainer-san!",
+            "name": "Katsuragi Ace",
+            "path_id": 1009357011706771547,
+            "block_id": 5,
+            "clip_length": 111,
+            "processed": "<story>Alright, I've made up my mind! \n<story>Let's take it easy today! Trainer-san!"
+        },
+        {
+            "text": "Just the other day you were so worn out, \nso once in a while should be fine, right? \nC'mon, I'll lead the way! ――To my secret base!",
+            "name": "Katsuragi Ace",
+            "path_id": -113773109715284365,
+            "block_id": 6,
+            "clip_length": 218,
+            "processed": "<story>Just the other day you were so worn out, \n<story>so once in a while should be fine, right? \n<story>C'mon, I'll lead the way! ――To my secret base!"
+        },
+        {
+            "text": "And, we're here! What do you think, Trainer-san? \nIt's just run-down enough to make it perfect, don't you think?",
+            "name": "Katsuragi Ace",
+            "path_id": -8103312570767603112,
+            "block_id": 7,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "Ace, do you come here often?",
+                    "hash": "6308423a6b33927842410d9ff84e4a9c013fd720ec4d8eef08179d6d02551ff6"
+                },
+                {
+                    "text": "Ace, do you come here often?",
+                    "hash": "010fe0a0b1c2934e345461b84fa847c1e71654b8538daab6a13c73fa65dc3cf1"
+                }
+            ],
+            "processed": "<story>And, we're here! What do you think, Trainer-san? \n<story>It's just run-down enough to make it perfect, don't you think?"
+        },
+        {
+            "text": "Hmmmm……it's more like, before I realize it, \nI end up here, I guess? The air reminds me \nof home, and it just some how calms me down!",
+            "name": "Katsuragi Ace",
+            "path_id": 251538551704242086,
+            "block_id": 8,
+            "clip_length": 273,
+            "processed": "<story>Hmmmm……it's more like, before I realize it, \n<story>I end up here, I guess? The air reminds me \n<story>of home, and it just some how calms me down!"
+        },
+        {
+            "text": "――HaaaaAAAAA!",
+            "name": "Young Ace",
+            "path_id": -5208789356570695501,
+            "block_id": 9,
+            "clip_length": 86,
+            "processed": "<story>――HaaaaAAAAA!"
+        },
+        {
+            "text": "There, go for it, go for it! \nWaahaaha! You were really fast, huh~.",
+            "name": "Neighborly Old Man",
+            "path_id": -8506633302926741994,
+            "block_id": 10,
+            "clip_length": 286,
+            "processed": "<story>There, go for it, go for it! \n<story>Waahaaha! You were really fast, huh~."
+        },
+        {
+            "text": "Yeah! ……Ace! If you're starting to get scared, c'mon over here! \nThis old lady's got some tea for ya.",
+            "name": "Neighborly Old Lady",
+            "path_id": 18497483203327118,
+            "block_id": 11,
+            "clip_length": 237,
+            "processed": "<story>Yeah! ……Ace! If you're starting to get scared, c'mon over here! \n<story>This old lady's got some tea for ya."
+        },
+        {
+            "text": "Wonder if that old man and woman are doing well. It'd be \nnice if the radishes they're growing are big this year too.",
+            "name": "Katsuragi Ace",
+            "path_id": -8146493792124698262,
+            "block_id": 12,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "Big radishes?",
+                    "hash": "182e6fb7c1879d836362e3b1759304855b92b789ac7fef84d37aca0d536f93a8"
+                }
+            ],
+            "processed": "<story>Wonder if that old man and woman are doing well. It'd be \n<story>nice if the radishes they're growing are big this year too."
+        },
+        {
+            "text": "Y'see, there was this big athletics competition \nwe had back in our district. In the Relay races, \nwe'd use 『Radishes』 instead of batons!",
+            "name": "Katsuragi Ace",
+            "path_id": 6852049430797136384,
+            "block_id": 13,
+            "clip_length": 190,
+            "processed": "<story>Y'see, there was this big athletics competition \n<story>we had back in our district. In the Relay races, \n<story>we'd use 『Radishes』 instead of batons!"
+        },
+        {
+            "text": "……Ahaaha! I guess it's natural you'd make \na face like that! Just so you know, afterwards \nwe'd all eat those radishes! And then――",
+            "name": "Katsuragi Ace",
+            "path_id": 7360077326508510052,
+            "block_id": 14,
+            "clip_length": 309,
+            "processed": "<story>……Ahaaha! I guess it's natural you'd make \n<story>a face like that! Just so you know, afterwards \n<story>we'd all eat those radishes! And then――"
+        },
+        {
+            "text": "You could tell by the way Katsuragi Ace talked \nabout it, she really loved her hometown, and \nthe people in her hometown really loved her.",
+            "name": "",
+            "path_id": 5921084079458036876,
+            "block_id": 15,
+            "clip_length": 105,
+            "processed": "<story>You could tell by the way Katsuragi Ace talked \n<story>about it, she really loved her hometown, and \n<story>the people in her hometown really loved her."
+        },
+        {
+            "text": "Maybe that's why she felt so homesick. She probably came to \nthis place just so she could feel closer to her hometown.",
+            "name": "",
+            "path_id": -3492260457367448512,
+            "block_id": 16,
+            "clip_length": 114,
+            "processed": "<story>Maybe that's why she felt so homesick. She probably came to \n<story>this place just so she could feel closer to her hometown."
+        },
+        {
+            "text": "I may not be anything like the people from her \nhometown, but I wanted to do something about \nher loneliness, even if it was just a little……",
+            "name": "",
+            "path_id": 4521678131406251315,
+            "block_id": 17,
+            "clip_length": 98,
+            "processed": "<story>I may not be anything like the people from her \n<story>hometown, but I wanted to do something about \n<story>her loneliness, even if it was just a little……"
+        },
+        {
+            "text": "Oh, sorry! Trainer-san, this was meant to \nbe a change of pace for you, but I ended up \ntalking so much……it was boring wasn't it?",
+            "name": "Katsuragi Ace",
+            "path_id": -1843713964659831266,
+            "block_id": 18,
+            "clip_length": 231,
+            "choices": [
+                {
+                    "text": "No, it was really fun",
+                    "hash": "5befb375d759a38e6a148fad99aa0d6f38084d76eeb5478976f84116480bcc81"
+                },
+                {
+                    "text": "No, it was really fun",
+                    "hash": "168c4afdcc8e05786e05987356f44572918ab79f8286da86f9788a671e84705b"
+                }
+            ],
+            "processed": "<story>Oh, sorry! Trainer-san, this was meant to \n<story>be a change of pace for you, but I ended up \n<story>talking so much……it was boring wasn't it?"
+        },
+        {
+            "text": "In that case, I'm glad! I'm starting to get hungry, \nso we should probably head back! ――Hm?",
+            "name": "Katsuragi Ace",
+            "path_id": 5812392944933479195,
+            "block_id": 19,
+            "clip_length": 187,
+            "processed": "<story>In that case, I'm glad! I'm starting to get hungry, \n<story>so we should probably head back! ――Hm?"
+        },
+        {
+            "text": "『My First Kitchen Garden』? This is……",
+            "name": "Katsuragi Ace",
+            "path_id": 8367250625605832569,
+            "block_id": 20,
+            "clip_length": 143,
+            "choices": [
+                {
+                    "text": "Ah……",
+                    "hash": "030da17b2ba66ae256e94406b640d008159a89bde2607defd07fc6588e1ad946"
+                }
+            ],
+            "processed": "<story>『My First Kitchen Garden』? This is……"
+        },
+        {
+            "text": "So that 『Something I wanted to learn』 wasn't something \nto do with training, but it was about that field?",
+            "name": "Katsuragi Ace",
+            "path_id": -3444347325300729531,
+            "block_id": 21,
+            "clip_length": 173,
+            "processed": "<story>So that 『Something I wanted to learn』 wasn't something \n<story>to do with training, but it was about that field?"
+        },
+        {
+            "text": "It's not like I was trying to hide it, but it still felt awkward. \nWith a wry smile, I held the book in my hand.",
+            "name": "",
+            "path_id": 5799300072621145965,
+            "block_id": 22,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "I wasn't ready to give up just yet",
+                    "hash": "ea362f9148231293578cc7b22f1b72df93343bc149423554e83a69edf13374a8"
+                }
+            ],
+            "processed": "<story>It's not like I was trying to hide it, but it still felt awkward. \n<story>With a wry smile, I held the book in my hand."
+        },
+        {
+            "text": "There was no reason for you to worry about what happened \nlast time though. You're already so busy after all……",
+            "name": "Katsuragi Ace",
+            "path_id": 189581814540478788,
+            "block_id": 23,
+            "clip_length": 168,
+            "choices": [
+                {
+                    "text": "I meant about you",
+                    "hash": "23192bb74c0f15545391ccd782fd3029c2c92187c448f38fafb5e91eac085275"
+                },
+                {
+                    "text": "I meant about you",
+                    "hash": "670fce95d734cac142d72652911f25ec90295de51d2767305184a19c7c453f04"
+                }
+            ],
+            "processed": "<story>There was no reason for you to worry about what happened \n<story>last time though. You're already so busy after all……"
+        },
+        {
+            "text": "The important thing was neither the fieldwork nor fixing \nmistakes. It was to cheer up Katsuragi Ace, just that.",
+            "name": "",
+            "path_id": 1028643135803318345,
+            "block_id": 24,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "I don't want to give up on helping you",
+                    "hash": "3a686b7c201b8c506999d73af2e7684d6ffa041c1125535b7257023517e8d3cf",
+                    "processed": "<size=43>I don't want to give up on helping you</size>"
+                },
+                {
+                    "text": "I don't want to give up on helping you",
+                    "hash": "3dd6b017253e33d5fd4810cdc799b6ca52b31c332e898d2c5efc884f62552483",
+                    "processed": "<size=43>I don't want to give up on helping you</size>"
+                }
+            ],
+            "processed": "<story>The important thing was neither the fieldwork nor fixing \n<story>mistakes. It was to cheer up Katsuragi Ace, just that."
+        },
+        {
+            "text": "……！",
+            "name": "Katsuragi Ace",
+            "path_id": -4111582021250498286,
+            "block_id": 25,
+            "clip_length": 31,
+            "processed": "<story>……！"
+        },
+        {
+            "text": "Truthfully, there probably wasn't much I could help with. \nBut, even just going from 0 to 1 was worth it. So――",
+            "name": "",
+            "path_id": 1146715092648537831,
+            "block_id": 26,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "Let me help with the field!",
+                    "hash": "c38386e22d1fdf5f7e7d5db9a31add874846196a49d15c73e8dd07c48bfcfb1e"
+                },
+                {
+                    "text": "Let me help with the field!",
+                    "hash": "d98495dcf4fad3d783c612c5c29212ed6628fe70587278db28a65e263a0406fd"
+                }
+            ],
+            "processed": "<story>Truthfully, there probably wasn't much I could help with. \n<story>But, even just going from 0 to 1 was worth it. So――"
+        },
+        {
+            "text": "Trainer-san…… \n――Got it. That spirit, I'll accept it!",
+            "name": "Katsuragi Ace",
+            "path_id": -7993304044669891080,
+            "block_id": 27,
+            "clip_length": 214,
+            "processed": "<story>Trainer-san…… \n<story>――Got it. That spirit, I'll accept it!"
+        },
+        {
+            "text": "Let's do the fieldwork! It'll be really early in the morning, \nso I don't want to hear any complaints, got it?",
+            "name": "Katsuragi Ace",
+            "path_id": 6666471420987960087,
+            "block_id": 28,
+            "clip_length": 171,
+            "processed": "<story>Let's do the fieldwork! It'll be really early in the morning, \n<story>so I don't want to hear any complaints, got it?"
+        },
+        {
+            "text": "That's right! If we're doing this, we might as well study \ntogether too! If there's anything you don't get, I'll teach ya!",
+            "name": "Katsuragi Ace",
+            "path_id": 1471228886547093030,
+            "block_id": 29,
+            "clip_length": 187,
+            "processed": "<story>That's right! If we're doing this, we might as well study \n<story>together too! If there's anything you don't get, I'll teach ya!"
+        },
+        {
+            "text": "Several days later――",
+            "name": "",
+            "path_id": -9094417812546763866,
+            "block_id": 30,
+            "clip_length": 51,
+            "processed": "<story>Several days later――"
+        },
+        {
+            "text": "……Hmmm~, like this, there's too much leftover. \nWhen thinning these out, it's fine to go rougher!",
+            "name": "Katsuragi Ace",
+            "path_id": -181881753243731041,
+            "block_id": 31,
+            "clip_length": 227,
+            "choices": [
+                {
+                    "text": "I-is that so……?",
+                    "hash": "82a03f3c64f278e9a555d5e6b76df5a8a14cf0b4b76fd7227b5ee477853fcf99"
+                },
+                {
+                    "text": "I-is that so……?",
+                    "hash": "b98fc0d472b33b0a239ab119f2611bf7d16dad22a48070e5462ed5374c3fdb0a"
+                }
+            ],
+            "processed": "<story>……Hmmm~, like this, there's too much leftover. \n<story>When thinning these out, it's fine to go rougher!"
+        },
+        {
+            "text": "Alright! Guess that's about it for this spot. \n……Trainer-san! How's it looking over there~?",
+            "name": "Katsuragi Ace",
+            "path_id": 2833355343412309351,
+            "block_id": 32,
+            "clip_length": 197,
+            "choices": [
+                {
+                    "text": "W-with just a bit more time……!",
+                    "hash": "96a3ec0d7ba3b802a3832555fa0e7406443f5612951451fefd381a4ffb4ee6cb"
+                }
+            ],
+            "processed": "<story>Alright! Guess that's about it for this spot. \n<story>……Trainer-san! How's it looking over there~?"
+        },
+        {
+            "text": "Hmmm, these rows look just about ready, \nnext is the fertilizer……",
+            "name": "Katsuragi Ace",
+            "path_id": -5204002817261104104,
+            "block_id": 33,
+            "clip_length": 201,
+            "choices": [
+                {
+                    "text": "Ace, come look at this!",
+                    "hash": "0dcaca1e3de025814bf0e264ff7fbfac2055ac8f746547d150e083215fad15e5"
+                },
+                {
+                    "text": "Ace, come look at this!",
+                    "hash": "a8d33892a7b34be65114510a25e7d13b6f333c27cf3a23123381e21dab27032f"
+                }
+            ],
+            "processed": "<story>Hmmm, these rows look just about ready, \n<story>next is the fertilizer……"
+        },
+        {
+            "text": "Hm? ……Oooh, awesome! Did you do this entire line!? The balance \nis perfect. Trainer-san you're a pretty quick learner, huh~.",
+            "name": "Katsuragi Ace",
+            "path_id": -3356101171294012016,
+            "block_id": 34,
+            "clip_length": 319,
+            "processed": "<story>Hm? ……Oooh, awesome! Did you do this entire line!? The balance \n<story>is perfect. Trainer-san you're a pretty quick learner, huh~."
+        },
+        {
+            "text": "But――",
+            "name": "Katsuragi Ace",
+            "path_id": 4862392224155777808,
+            "block_id": 35,
+            "clip_length": 46,
+            "processed": "<story>But――"
+        },
+        {
+            "text": "You've got dirt on you here, you know? \n……And, got it.",
+            "name": "Katsuragi Ace",
+            "path_id": 3267916834308904221,
+            "block_id": 36,
+            "clip_length": 150,
+            "processed": "<story>You've got dirt on you here, you know? \n<story>……And, got it."
+        },
+        {
+            "text": "Hahaa, seems like you're a little lacking here, huh~!",
+            "name": "Katsuragi Ace",
+            "path_id": -6603621518384436365,
+            "block_id": 37,
+            "clip_length": 125,
+            "processed": "<story>Hahaa, seems like you're a little lacking here, huh~!"
+        },
+        {
+            "text": "Alright! Then, let's get the rest of it all wrapped up! \nTrainer-san, I'll leave that side to you!",
+            "name": "Katsuragi Ace",
+            "path_id": -3122422619781934019,
+            "block_id": 38,
+            "clip_length": 216,
+            "processed": "<story>Alright! Then, let's get the rest of it all wrapped up! \n<story>Trainer-san, I'll leave that side to you!"
+        },
+        {
+            "text": "――And you see, on those leaves was another caterpillar, \nbut, this time Trainer-san got it and released \nit themself without so much as a peep~.",
+            "name": "Katsuragi Ace",
+            "path_id": -1987742945499809270,
+            "block_id": 39,
+            "clip_length": 199,
+            "processed": "<story>――And you see, on those leaves was another caterpillar, \n<story>but, this time Trainer-san got it and released \n<story>it themself without so much as a peep~."
+        },
+        {
+            "text": "『Oh~ isn't that amazing!? Last time you told \nme they just fell all over themself, too』",
+            "name": "Ace's Mom",
+            "path_id": -845048669568482005,
+            "block_id": 40,
+            "clip_length": 198,
+            "processed": "<story>『Oh~ isn't that amazing!? Last time you told \n<story>me they just fell all over themself, too』"
+        },
+        {
+            "text": "『……But I'm glad, looks like you're doing well! Last time \nwe talked, you seemed a little off so I was worried』",
+            "name": "Ace's Mom",
+            "path_id": -8394275755775031988,
+            "block_id": 41,
+            "clip_length": 277,
+            "processed": "<story>『……But I'm glad, looks like you're doing well! Last time \n<story>we talked, you seemed a little off so I was worried』"
+        },
+        {
+            "text": "『Guess it really is better to work the fields \ntogether with someone, huh~. I'd be really \nlonely if I was alone too, you know!』",
+            "name": "Ace's Mom",
+            "path_id": -5910980245780234345,
+            "block_id": 42,
+            "clip_length": 189,
+            "processed": "<story>『Guess it really is better to work the fields \n<story>together with someone, huh~. I'd be really \n<story>lonely if I was alone too, you know!』"
+        },
+        {
+            "text": "Hahaa, I guess so! \nYeah……it really does seem like that.",
+            "name": "Katsuragi Ace",
+            "path_id": 3993417713175202075,
+            "block_id": 43,
+            "clip_length": 229,
+            "processed": "<story>Hahaa, I guess so! \n<story>Yeah……it really does seem like that."
+        },
+        {
+            "text": "Alright, before Trainer-san gets here, \nguess I'll do a quick check for bugs~……oh, ah.",
+            "name": "Katsuragi Ace",
+            "path_id": -948850221806251153,
+            "block_id": 44,
+            "clip_length": 229,
+            "choices": [
+                {
+                    "text": "M-morning, Ace! It's cold today, huh",
+                    "hash": "77fa53bb49a45253aeca348845b1455f237e7f0a108c32e89df5e837c2e6c204"
+                },
+                {
+                    "text": "M-morning, Ace! It's cold today, huh",
+                    "hash": "8aa0799e06edb5b9a49db32e924555ac00b002f61efdfc53a1e406fc736cf4e3"
+                }
+            ],
+            "processed": "<story>Alright, before Trainer-san gets here, \n<story>guess I'll do a quick check for bugs~……oh, ah."
+        },
+        {
+            "text": "――Oh! Morning, Trainer-san! \n……Ah, Hahaa! That's some wild bed head ya got there!",
+            "name": "Katsuragi Ace",
+            "path_id": 6255515859800380179,
+            "block_id": 45,
+            "clip_length": 247,
+            "processed": "<story>――Oh! Morning, Trainer-san! \n<story>……Ah, Hahaa! That's some wild bed head ya got there!"
+        },
+        {
+            "text": "(Mom's right. Since I came here, I guess I was \ngetting used to doing the work alone, but……)",
+            "name": "Katsuragi Ace",
+            "path_id": 4895301598464070915,
+            "block_id": 46,
+            "clip_length": 223,
+            "processed": "<story>(Mom's right. Since I came here, I guess I was \n<story>getting used to doing the work alone, but……)"
+        },
+        {
+            "text": "(In the dim light, just having someone respond. And \nhaving someone to wipe off the last bit of dirt on my face.)",
+            "name": "Katsuragi Ace",
+            "path_id": -6260939609869290328,
+            "block_id": 47,
+            "clip_length": 213,
+            "processed": "<story>(In the dim light, just having someone respond. And \n<story>having someone to wipe off the last bit of dirt on my face.)"
+        },
+        {
+            "text": "(With just something like that, with just that……I――)",
+            "name": "Katsuragi Ace",
+            "path_id": 7314282384469944319,
+            "block_id": 48,
+            "clip_length": 139,
+            "processed": "<story>(With just something like that, with just that……I――)"
+        },
+        {
+            "text": "『――Well then, talk to you later. If you ever feel you're \nmissing home, you're welcome to come back anytime』",
+            "name": "Ace's Mom",
+            "path_id": -8637145844395814114,
+            "block_id": 49,
+            "clip_length": 194,
+            "processed": "<story>『――Well then, talk to you later. If you ever feel you're \n<story>missing home, you're welcome to come back anytime』"
+        },
+        {
+            "text": "Yeah. Thanks, Mom. \n……but I'm fine, there's nothing to worry about.",
+            "name": "Katsuragi Ace",
+            "path_id": -7274392110369065036,
+            "block_id": 50,
+            "clip_length": 155,
+            "processed": "<story>Yeah. Thanks, Mom. \n<story>……but I'm fine, there's nothing to worry about."
+        },
+        {
+            "text": "――Because, I have Trainer-san with me after all.",
+            "name": "Katsuragi Ace",
+            "path_id": -7605589885633112751,
+            "block_id": 51,
+            "clip_length": 108,
+            "processed": "<story>――Because, I have Trainer-san with me after all."
+        }
+    ],
+    "title": "『Ace's』 Sentimentality"
+}

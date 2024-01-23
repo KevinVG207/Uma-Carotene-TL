@@ -1,0 +1,494 @@
+{
+    "type": "story",
+    "row_index": 823,
+    "file_name": "story/data/04/1069/storytimeline_041069004",
+    "hash": "327ACAXOM2FE7BHKGTOBYB6RBJ5Z7HBY",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -7709601397506364748,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "…Okay, got it. I'm looking forward to it! Fufufuu. \nAlright, just because it's parallel running, \ndon't think I'll go easy on you~",
+            "name": "Maruzensky",
+            "path_id": -4328054153831987196,
+            "block_id": 1,
+            "clip_length": 291,
+            "processed": "<story>…Okay, got it. I'm looking forward to it! Fufufuu. \n<story>Alright, just because it's parallel running, \n<story>don't think I'll go easy on you~"
+        },
+        {
+            "text": "…Okay! \nThank you very much…!",
+            "name": "Sakura Chiyono O",
+            "path_id": 9222172917910029577,
+            "block_id": 2,
+            "clip_length": 107,
+            "processed": "<story>…Okay! \n<story>Thank you very much…!"
+        },
+        {
+            "text": "From that day on, from dawn until dusk, Sakura Chiyono O could be \nseen on the grounds enthusiastically training.",
+            "name": "",
+            "path_id": 7508451029738361825,
+            "block_id": 3,
+            "clip_length": 108,
+            "processed": "<story>From that day on, from dawn until dusk, Sakura Chiyono O could be \n<story>seen on the grounds enthusiastically training."
+        },
+        {
+            "text": "Alright, starting from tomorrow, I should increase \nthe number of rest intervals- Ah, good work!",
+            "name": "Sakura Chiyono O",
+            "path_id": -2725899031105825143,
+            "block_id": 4,
+            "clip_length": 239,
+            "processed": "<story>Alright, starting from tomorrow, I should increase \n<story>the number of rest intervals- Ah, good work!"
+        },
+        {
+            "text": "She was eagerly looking at the notebook in her hands, \nthe same one she had dropped before- the \"ChiyoNote\".",
+            "name": "",
+            "path_id": 6957835199207306165,
+            "block_id": 5,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "Using the ChiyoNote, I see.",
+                    "hash": "fee258240e289cb86a0e81755b90448e49a06fd9a6eaf4ee13c83bf1835c6ec1"
+                },
+                {
+                    "text": "Using the ChiyoNote, I see.",
+                    "hash": "24bd10fdb679edf88412de6629ec21449c23ee8068a21c317266a846d9fe83e0"
+                }
+            ],
+            "processed": "<story>She was eagerly looking at the notebook in her hands, \n<story>the same one she had dropped before- the \"ChiyoNote\"."
+        },
+        {
+            "text": "This contains everything I've learned up until this point. If I \nwant to fight using everything I have- I figured I should use it.",
+            "name": "Sakura Chiyono O",
+            "path_id": 4469749145416216092,
+            "block_id": 6,
+            "clip_length": 317,
+            "processed": "<story>This contains everything I've learned up until this point. If I \n<story>want to fight using everything I have- I figured I should use it."
+        },
+        {
+            "text": "…If I'm not in it to win it, then, there'd be no point!",
+            "name": "Sakura Chiyono O",
+            "path_id": 8444508966776138062,
+            "block_id": 7,
+            "clip_length": 146,
+            "processed": "<story>…If I'm not in it to win it, then, there'd be no point!"
+        },
+        {
+            "text": "-And so, the day came.",
+            "name": "",
+            "path_id": 2076926110192570899,
+            "block_id": 8,
+            "clip_length": 61,
+            "processed": "<story>-And so, the day came."
+        },
+        {
+            "text": "Um… T-Today, I'll! Be running… \nas if I'm challenging… the Japan Derby! Please!",
+            "name": "Sakura Chiyono O",
+            "path_id": -2376236943819238840,
+            "block_id": 9,
+            "clip_length": 384,
+            "processed": "<story>Um… T-Today, I'll! Be running… \n<story>as if I'm challenging… the Japan Derby! Please!"
+        },
+        {
+            "text": "Fufu, Thanks. Then… \nI'll also be running at full power, okay?",
+            "name": "Maruzensky",
+            "path_id": 1524179213252800152,
+            "block_id": 10,
+            "clip_length": 243,
+            "processed": "<story>Fufu, Thanks. Then… \n<story>I'll also be running at full power, okay?"
+        },
+        {
+            "text": "uh…? Hey, look! The ones entering the gate are \nMaruzen-san and… Chiyo-chan?!",
+            "name": "Classmate A",
+            "path_id": 4260910939483754126,
+            "block_id": 11,
+            "clip_length": 207,
+            "processed": "<story>uh…? Hey, look! The ones entering the gate are \n<story>Maruzen-san and… Chiyo-chan?!"
+        },
+        {
+            "text": "Here and there the gallery was gathering, the course is turf, \n2400m, counter-clockwise. Sakura Chiyono O's once-in-a-lifetime \nbattle was about to begin!",
+            "name": "",
+            "path_id": -684822082086854523,
+            "block_id": 12,
+            "clip_length": 118,
+            "processed": "<story>Here and there the gallery was gathering, the course is turf, \n<story>2400m, counter-clockwise. Sakura Chiyono O's once-in-a-lifetime \n<story>battle was about to begin!"
+        },
+        {
+            "text": "Fu…!",
+            "name": "Maruzensky",
+            "path_id": -5452366106657180099,
+            "block_id": 13,
+            "clip_length": 90,
+            "processed": "<story>Fu…!"
+        },
+        {
+            "text": "Waa, Maruzen-san is pulling farther and farther ahead! But, \nChiyo-chan is staying really calm. If it was me I'd probably be \npanicking and speeding up…",
+            "name": "Classmate B",
+            "path_id": 645300971240467676,
+            "block_id": 14,
+            "clip_length": 273,
+            "processed": "<story>Waa, Maruzen-san is pulling farther and farther ahead! But, \n<story>Chiyo-chan is staying really calm. If it was me I'd probably be \n<story>panicking and speeding up…"
+        },
+        {
+            "text": "…",
+            "name": "Sakura Chiyono O",
+            "path_id": 4645805355043138437,
+            "block_id": 15,
+            "clip_length": 69,
+            "processed": "<story>…"
+        },
+        {
+            "text": "Eh, a plan? That's right… \nI did try giving it a bit of thinking but, well…",
+            "name": "Sakura Chiyono O",
+            "path_id": -2743290971636234585,
+            "block_id": 16,
+            "clip_length": 337,
+            "processed": "<story>Eh, a plan? That's right… \n<story>I did try giving it a bit of thinking but, well…"
+        },
+        {
+            "text": "…trying to keep up with Maruzen-san who specializes in a high \npace escape run, turning it into a battle of attrition wouldn't \nincrease my chances of winning.",
+            "name": "Sakura Chiyono O",
+            "path_id": 3812019625253909310,
+            "block_id": 17,
+            "clip_length": 268,
+            "processed": "<story>…trying to keep up with Maruzen-san who specializes in a high \n<story>pace escape run, turning it into a battle of attrition wouldn't \n<story>increase my chances of winning."
+        },
+        {
+            "text": "That's why, no matter how far Maruzen-san pulls ahead, \nI'll continue at my own pace and save my stamina for the end.",
+            "name": "Sakura Chiyono O",
+            "path_id": -4042716202475595793,
+            "block_id": 18,
+            "clip_length": 224,
+            "processed": "<story>That's why, no matter how far Maruzen-san pulls ahead, \n<story>I'll continue at my own pace and save my stamina for the end."
+        },
+        {
+            "text": "And then… j-just before reaching the last corner \nI'll up my pace, and try to catch up to the escaping Maruzen-san-",
+            "name": "Sakura Chiyono O",
+            "path_id": 7154931430404575882,
+            "block_id": 19,
+            "clip_length": 320,
+            "processed": "<story>And then… j-just before reaching the last corner \n<story>I'll up my pace, and try to catch up to the escaping Maruzen-san-"
+        },
+        {
+            "text": "I'll catch up and then hang on as long as I can, \nand at the end try to pull slightly ahead, no… \nI will pull ahead! Pull ahead and w-…w-win!",
+            "name": "Sakura Chiyono O",
+            "path_id": -3339751028135606339,
+            "block_id": 20,
+            "clip_length": 453,
+            "processed": "<story>I'll catch up and then hang on as long as I can, \n<story>and at the end try to pull slightly ahead, no… \n<story>I will pull ahead! Pull ahead and w-…w-win!"
+        },
+        {
+            "text": "…Honestly, there's alot that I'm lacking. But, if I \nwant to win then, this method is the best option I think!",
+            "name": "Sakura Chiyono O",
+            "path_id": 4734597825787665043,
+            "block_id": 21,
+            "clip_length": 345,
+            "processed": "<story>…Honestly, there's alot that I'm lacking. But, if I \n<story>want to win then, this method is the best option I think!"
+        },
+        {
+            "text": "(Stay calm, calm down, stay at my pace…! \nSoon, I'll be at the last corner…!)",
+            "name": "Sakura Chiyono O",
+            "path_id": -6885050483695957488,
+            "block_id": 22,
+            "clip_length": 179,
+            "processed": "<story>(Stay calm, calm down, stay at my pace…! \n<story>Soon, I'll be at the last corner…!)"
+        },
+        {
+            "text": "…ku, here! Haaaaaaaaaaaaaaa!",
+            "name": "Sakura Chiyono O",
+            "path_id": -3649955545702089030,
+            "block_id": 23,
+            "clip_length": 164,
+            "processed": "<story>…ku, here! Haaaaaaaaaaaaaaa!"
+        },
+        {
+            "text": "(…! Amazing acceleration! She was saving that much? \nIt's a bit beyond my expectations-)",
+            "name": "Maruzensky",
+            "path_id": -4813042988533109921,
+            "block_id": 24,
+            "clip_length": 231,
+            "processed": "<story>(…! Amazing acceleration! She was saving that much? \n<story>It's a bit beyond my expectations-)"
+        },
+        {
+            "text": "…",
+            "name": "Maruzensky",
+            "path_id": -5916061540125597899,
+            "block_id": 25,
+            "clip_length": 94,
+            "processed": "<story>…"
+        },
+        {
+            "text": "(…I see, Chiyo-chan, you're seriously \ntrying to win, aren't you?)",
+            "name": "Maruzensky",
+            "path_id": 4764180885219187561,
+            "block_id": 26,
+            "clip_length": 245,
+            "processed": "<story>(…I see, Chiyo-chan, you're seriously \n<story>trying to win, aren't you?)"
+        },
+        {
+            "text": "(I've caught up, I need to pull ahead, here, in front…!)",
+            "name": "Sakura Chiyono O",
+            "path_id": -1509648543430273009,
+            "block_id": 27,
+            "clip_length": 141,
+            "processed": "<story>(I've caught up, I need to pull ahead, here, in front…!)"
+        },
+        {
+            "text": "Fufuu, that's good!",
+            "name": "Maruzensky",
+            "path_id": -5796089774561796798,
+            "block_id": 28,
+            "clip_length": 77,
+            "processed": "<story>Fufuu, that's good!"
+        },
+        {
+            "text": "!! —Taaaaaaaaa!",
+            "name": "Sakura Chiyono O",
+            "path_id": -6503395285414709985,
+            "block_id": 29,
+            "clip_length": 112,
+            "processed": "<story>!! —Taaaaaaaaa!"
+        },
+        {
+            "text": "Uwaa, Maruzen-san's acceleration is really crazy…! \n…wait, huh? Chiyo-chan is catching up to her?!",
+            "name": "Classmate A",
+            "path_id": 159967829220144773,
+            "block_id": 30,
+            "clip_length": 243,
+            "processed": "<story>Uwaa, Maruzen-san's acceleration is really crazy…! \n<story>…wait, huh? Chiyo-chan is catching up to her?!"
+        },
+        {
+            "text": "…! —Fufuu!",
+            "name": "Maruzensky",
+            "path_id": 7230022199251862234,
+            "block_id": 31,
+            "clip_length": 70,
+            "processed": "<story>…! —Fufuu!"
+        },
+        {
+            "text": "! —Haaa, haaa! Not yet! \nNot yet, not yet! Not yet, not yet, not yeeeeet!",
+            "name": "Sakura Chiyono O",
+            "path_id": 5483264768914581065,
+            "block_id": 32,
+            "clip_length": 349,
+            "processed": "<story>! —Haaa, haaa! Not yet! \n<story>Not yet, not yet! Not yet, not yet, not yeeeeet!"
+        },
+        {
+            "text": "Daaaaaaaaaaaaaaa!",
+            "name": "Sakura Chiyono O",
+            "path_id": -3997674588179645352,
+            "block_id": 33,
+            "clip_length": 92,
+            "processed": "<story>Daaaaaaaaaaaaaaa!"
+        },
+        {
+            "text": "…Ha, ha… haaa…!",
+            "name": "Sakura Chiyono O",
+            "path_id": 4392693839399261376,
+            "block_id": 34,
+            "clip_length": 159,
+            "processed": "<story>…Ha, ha… haaa…!"
+        },
+        {
+            "text": "(…I couldn't reach her. Even with a plan, \ngiving it everything I had, even with all that, I still couldn't)",
+            "name": "Sakura Chiyono O",
+            "path_id": -7106731395384715240,
+            "block_id": 35,
+            "clip_length": 346,
+            "processed": "<story>(…I couldn't reach her. Even with a plan, \n<story>giving it everything I had, even with all that, I still couldn't)"
+        },
+        {
+            "text": "(As I thought, she's still, really far away-)",
+            "name": "Sakura Chiyono O",
+            "path_id": -6784603864112152582,
+            "block_id": 36,
+            "clip_length": 162,
+            "processed": "<story>(As I thought, she's still, really far away-)"
+        },
+        {
+            "text": "Chiyo-chan.",
+            "name": "Maruzensky",
+            "path_id": -5554776157877423366,
+            "block_id": 37,
+            "clip_length": 32,
+            "processed": "<story>Chiyo-chan."
+        },
+        {
+            "text": "Thanks for the fun race! I haven't been that excited \nin a while! …Do your best in the real Japan Derby, \ntoo. I'll entrust my hopes to you!",
+            "name": "Maruzensky",
+            "path_id": 5057778435316050544,
+            "block_id": 38,
+            "clip_length": 355,
+            "processed": "<story>Thanks for the fun race! I haven't been that excited \n<story>in a while! …Do your best in the real Japan Derby, \n<story>too. I'll entrust my hopes to you!"
+        },
+        {
+            "text": "…Maruzen-san's, hopes… \n…to me?",
+            "name": "Sakura Chiyono O",
+            "path_id": 1608111831600995841,
+            "block_id": 39,
+            "clip_length": 282,
+            "processed": "<story>…Maruzen-san's, hopes… \n<story>…to me?"
+        },
+        {
+            "text": "Yep. If it wasn't Chiyo-chan, I wouldn't do it.",
+            "name": "Maruzensky",
+            "path_id": -1036904427612759095,
+            "block_id": 40,
+            "clip_length": 125,
+            "processed": "<story>Yep. If it wasn't Chiyo-chan, I wouldn't do it."
+        },
+        {
+            "text": "…",
+            "name": "Sakura Chiyono O",
+            "path_id": 8532693599368246568,
+            "block_id": 41,
+            "clip_length": 142,
+            "processed": "<story>…"
+        },
+        {
+            "text": "…kusu!",
+            "name": "Sakura Chiyono O",
+            "path_id": 3845219051907644787,
+            "block_id": 42,
+            "clip_length": 138,
+            "processed": "<story>…kusu!"
+        },
+        {
+            "text": "I-I was…! O-on the verge of breaking! Chasing after someone as \nimposing as you, I didn't think I could reach!",
+            "name": "Sakura Chiyono O",
+            "path_id": -511885912447316850,
+            "block_id": 43,
+            "clip_length": 374,
+            "processed": "<story>I-I was…! O-on the verge of breaking! Chasing after someone as \n<story>imposing as you, I didn't think I could reach!"
+        },
+        {
+            "text": "Even while I was running, I was scared, there was no chance I was \ngoing to win…! But, but, as I thought-",
+            "name": "Sakura Chiyono O",
+            "path_id": -99717521240308511,
+            "block_id": 44,
+            "clip_length": 365,
+            "processed": "<story>Even while I was running, I was scared, there was no chance I was \n<story>going to win…! But, but, as I thought-"
+        },
+        {
+            "text": "I-I want to stay by your side!",
+            "name": "Sakura Chiyono O",
+            "path_id": 3695449758030919120,
+            "block_id": 45,
+            "clip_length": 142,
+            "processed": "<story>I-I want to stay by your side!"
+        },
+        {
+            "text": "…Yeah.",
+            "name": "Maruzensky",
+            "path_id": 597416717495808975,
+            "block_id": 46,
+            "clip_length": 23,
+            "processed": "<story>…Yeah."
+        },
+        {
+            "text": "For sure… for sure! The \"Japan Derby\", I'll show you that I can \nwin! I'll show you that I can become the strongest Uma Musume!",
+            "name": "Sakura Chiyono O",
+            "path_id": -6251610583327326012,
+            "block_id": 47,
+            "clip_length": 344,
+            "processed": "<story>For sure… for sure! The \"Japan Derby\", I'll show you that I can \n<story>win! I'll show you that I can become the strongest Uma Musume!"
+        },
+        {
+            "text": "That's why, when that happens, when I become stronger…! \nWill you run another race with me…?",
+            "name": "Sakura Chiyono O",
+            "path_id": -8691163524474452454,
+            "block_id": 48,
+            "clip_length": 340,
+            "processed": "<story>That's why, when that happens, when I become stronger…! \n<story>Will you run another race with me…?"
+        },
+        {
+            "text": "…Fufu! Of course!",
+            "name": "Maruzensky",
+            "path_id": 3233301596613850961,
+            "block_id": 49,
+            "clip_length": 84,
+            "processed": "<story>…Fufu! Of course!"
+        },
+        {
+            "text": "And so, under this clear and sunny sky, \nher once-in-a-lifetime battle, came to a close.",
+            "name": "",
+            "path_id": 5567135638548663132,
+            "block_id": 50,
+            "clip_length": 91,
+            "processed": "<story>And so, under this clear and sunny sky, \n<story>her once-in-a-lifetime battle, came to a close."
+        },
+        {
+            "text": "With the race over, I started walking \nback to the Trainer's room when-",
+            "name": "",
+            "path_id": -3249689259896830481,
+            "block_id": 51,
+            "clip_length": 84,
+            "processed": "<story>With the race over, I started walking \n<story>back to the Trainer's room when-"
+        },
+        {
+            "text": "Ah, hey, hey hey hey! \nCan you become my trainer?",
+            "name": "Sakura Chiyono O",
+            "path_id": 1111370354268570789,
+            "block_id": 52,
+            "clip_length": 226,
+            "choices": [
+                {
+                    "text": "Eh?",
+                    "hash": "80969d56b19202da3264bddc71a5ce375d45ed4833473d0eb22980dcdc6e9cc7"
+                }
+            ],
+            "processed": "<story>Ah, hey, hey hey hey! \n<story>Can you become my trainer?"
+        },
+        {
+            "text": "It was because of you! Because of you I was able \nto remember my feelings towards Maruzen-san. Because \nyou gently pushed me forward…",
+            "name": "Sakura Chiyono O",
+            "path_id": 6040920181134799123,
+            "block_id": 53,
+            "clip_length": 306,
+            "processed": "<story>It was because of you! Because of you I was able \n<story>to remember my feelings towards Maruzen-san. Because \n<story>you gently pushed me forward…"
+        },
+        {
+            "text": "That's why! I'll grow bigger, and the next time I battle \nMaruzen-san, I want you to be there next to me too…!",
+            "name": "Sakura Chiyono O",
+            "path_id": -5805235796750976876,
+            "block_id": 54,
+            "clip_length": 302,
+            "processed": "<story>That's why! I'll grow bigger, and the next time I battle \n<story>Maruzen-san, I want you to be there next to me too…!"
+        },
+        {
+            "text": "Because of her earnest attitude, I was thinking that I wanted to \ncontinue watching over her growth. I had no reason to refuse.",
+            "name": "",
+            "path_id": 1524336633243787215,
+            "block_id": 55,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "I look forward to working with you",
+                    "hash": "8ad8f0554e1e4635bea0fe7392871847e96d3abfa046db4a45fe02a5ba85797d"
+                }
+            ],
+            "processed": "<story>Because of her earnest attitude, I was thinking that I wanted to \n<story>continue watching over her growth. I had no reason to refuse."
+        },
+        {
+            "text": "Waaa, I-I did it! Thank you very much! Well then, in that case… \nin commemoration, I'll tell you the proverb I just thought up!",
+            "name": "Sakura Chiyono O",
+            "path_id": -8653615181496668625,
+            "block_id": 56,
+            "clip_length": 333,
+            "processed": "<story>Waaa, I-I did it! Thank you very much! Well then, in that case… \n<story>in commemoration, I'll tell you the proverb I just thought up!"
+        },
+        {
+            "text": "\"Carrots, never know when it will rain.\" \nFrom now on, I look forward to working with you, Trainer-san!",
+            "name": "Sakura Chiyono O",
+            "path_id": 7392023098678809617,
+            "block_id": 57,
+            "clip_length": 297,
+            "processed": "<story>\"Carrots, never know when it will rain.\" \n<story>From now on, I look forward to working with you, Trainer-san!"
+        }
+    ],
+    "title": "Sakura Won't Merely Wither"
+}

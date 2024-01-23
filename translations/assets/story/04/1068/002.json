@@ -1,0 +1,489 @@
+{
+    "type": "story",
+    "row_index": 809,
+    "file_name": "story/data/04/1068/storytimeline_041068002",
+    "hash": "ZOBZSKGKRDVJPEDOL4ZBBT2LNS3RHCBU",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -5996617871659445454,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Wait, isn't that weird?! Scouting an Uma Musume \nthat showed no good points on top of losing?",
+            "name": "Kitasan Black",
+            "path_id": -2043760374194215858,
+            "block_id": 1,
+            "clip_length": 175,
+            "processed": "<story>Wait, isn't that weird?! Scouting an Uma Musume \n<story>that showed no good points on top of losing?"
+        },
+        {
+            "text": "I was trying to scout Kitasan Black, who had just lost in this \nmock race. But… the response was laced with doubt.",
+            "name": "",
+            "path_id": 3884915858268801959,
+            "block_id": 2,
+            "clip_length": 105,
+            "processed": "<story>I was trying to scout Kitasan Black, who had just lost in this \n<story>mock race. But… the response was laced with doubt."
+        },
+        {
+            "text": "Umm～, even though I lost? \nWhat was it about me that caught your interest?",
+            "name": "Kitasan Black",
+            "path_id": -5747237864858869003,
+            "block_id": 3,
+            "clip_length": 174,
+            "choices": [
+                {
+                    "text": "…the look in your eyes and your face",
+                    "hash": "86e9bab8be19e8eab337e4ea071ae1bb39d79053d1f35819cf0224694ebf2150"
+                }
+            ],
+            "processed": "<story>Umm～, even though I lost? \n<story>What was it about me that caught your interest?"
+        },
+        {
+            "text": "Eeeh? So you're saying my looks? Hmmm, if you were \nwatching closely that makes me happy but, I'd \nprefer if you focused on my running…",
+            "name": "Kitasan Black",
+            "path_id": 3100667189835437060,
+            "block_id": 4,
+            "clip_length": 318,
+            "processed": "<story>Eeeh? So you're saying my looks? Hmmm, if you were \n<story>watching closely that makes me happy but, I'd \n<story>prefer if you focused on my running…"
+        },
+        {
+            "text": "Anyways, I don't think I'm good enough to be scouted just yet. \nI'm pretty much at the level of an apprentice…",
+            "name": "Kitasan Black",
+            "path_id": 818210754395495029,
+            "block_id": 5,
+            "clip_length": 241,
+            "processed": "<story>Anyways, I don't think I'm good enough to be scouted just yet. \n<story>I'm pretty much at the level of an apprentice…"
+        },
+        {
+            "text": "Oh, but training is like your area of expertise, right? In that \ncase, do you think I can get your advice about running? Please!",
+            "name": "Kitasan Black",
+            "path_id": -1458665925356208672,
+            "block_id": 6,
+            "clip_length": 310,
+            "processed": "<story>Oh, but training is like your area of expertise, right? In that \n<story>case, do you think I can get your advice about running? Please!"
+        },
+        {
+            "text": "The contract is on-hold for now but, in the future \nshe'll at least listen to what I have to say.",
+            "name": "",
+            "path_id": -3680479987425116416,
+            "block_id": 7,
+            "clip_length": 80,
+            "processed": "<story>The contract is on-hold for now but, in the future \n<story>she'll at least listen to what I have to say."
+        },
+        {
+            "text": "But… Kitasan Black didn't show up at the scheduled time. \nShe seemed like a sincere girl but, did something happen…?",
+            "name": "",
+            "path_id": -1574750083768690335,
+            "block_id": 8,
+            "clip_length": 106,
+            "processed": "<story>But… Kitasan Black didn't show up at the scheduled time. \n<story>She seemed like a sincere girl but, did something happen…?"
+        },
+        {
+            "text": "Eh, Mr. Sumo Wrestler, you twisted your ankle? Even if I lend you \nmy shoulder, you probably won't be able to walk, will you…?",
+            "name": "Kitasan Black",
+            "path_id": -5736715960444308780,
+            "block_id": 9,
+            "clip_length": 211,
+            "processed": "<story>Eh, Mr. Sumo Wrestler, you twisted your ankle? Even if I lend you \n<story>my shoulder, you probably won't be able to walk, will you…?"
+        },
+        {
+            "text": "Got it! In that case, I'll take care of it. \nDon't worry about it, let me carry you myself!",
+            "name": "Kitasan Black",
+            "path_id": 9109145958204257735,
+            "block_id": 10,
+            "clip_length": 175,
+            "processed": "<story>Got it! In that case, I'll take care of it. \n<story>Don't worry about it, let me carry you myself!"
+        },
+        {
+            "text": "Eeeh, your puppy ran away～?! Is it, possibly, that shepherd \nrunning around way over there? Alright, I'll go catch it…",
+            "name": "Kitasan Black",
+            "path_id": -5793993574349923487,
+            "block_id": 11,
+            "clip_length": 329,
+            "processed": "<story>Eeeh, your puppy ran away～?! Is it, possibly, that shepherd \n<story>running around way over there? Alright, I'll go catch it…"
+        },
+        {
+            "text": "Eeeeh, your truck won't move?! It's fully loaded too… \nThey're emergency supplies?! Then they need to get there quick!",
+            "name": "Kitasan Black",
+            "path_id": 8651432845099012835,
+            "block_id": 12,
+            "clip_length": 274,
+            "processed": "<story>Eeeeh, your truck won't move?! It's fully loaded too… \n<story>They're emergency supplies?! Then they need to get there quick!"
+        },
+        {
+            "text": "In that case, I'll carry them! \nI'll be fine, it's only 20km roundtrip! That much is nothing!",
+            "name": "Kitasan Black",
+            "path_id": -3059885589264601339,
+            "block_id": 13,
+            "clip_length": 242,
+            "processed": "<story>In that case, I'll carry them! \n<story>I'll be fine, it's only 20km roundtrip! That much is nothing!"
+        },
+        {
+            "text": "Uuuuuu, I'm sorry～. I was super late… It's just that when I \nsee someone in trouble, I can't just leave them.",
+            "name": "Kitasan Black",
+            "path_id": 8683965339584812777,
+            "block_id": 14,
+            "clip_length": 297,
+            "choices": [
+                {
+                    "text": "Did something happen?",
+                    "hash": "d5bf85e30a964813fed94d84772ec1bcb959a955ce88edbc471494f3d1f9fb42"
+                },
+                {
+                    "text": "Did something happen?",
+                    "hash": "033c8163d70eb352567123b9ee8ad9b6816985f56902ffcade13082b129c255f"
+                }
+            ],
+            "processed": "<story>Uuuuuu, I'm sorry～. I was super late… It's just that when I \n<story>see someone in trouble, I can't just leave them."
+        },
+        {
+            "text": "I carried a Sumo Wrestler, caught a dog, delivered \nsome emergency supplies… each one by itself wasn't \nmuch, but the time it took… I'm sorry～.",
+            "name": "Kitasan Black",
+            "path_id": -2712550472321882049,
+            "block_id": 15,
+            "clip_length": 416,
+            "choices": [
+                {
+                    "text": "T-that much happened…?",
+                    "hash": "dc0006bba2715d1c9669b3d97c1e31ee4e990fd074cb565e686fbc318dd95d6b"
+                }
+            ],
+            "processed": "<story>I carried a Sumo Wrestler, caught a dog, delivered \n<story>some emergency supplies… each one by itself wasn't \n<story>much, but the time it took… I'm sorry～."
+        },
+        {
+            "text": "She was the epitomy of empathy. Kitasan Black was \njust that kind of Uma Musume. For now, I won't \nworry about her being late and advise her.",
+            "name": "",
+            "path_id": -2271527653442307241,
+            "block_id": 16,
+            "clip_length": 119,
+            "processed": "<story>She was the epitomy of empathy. Kitasan Black was \n<story>just that kind of Uma Musume. For now, I won't \n<story>worry about her being late and advise her."
+        },
+        {
+            "text": "How can I get better at racing? Tracen Academy is way different \nfrom what I was imagining, and I wasn't prepared at all…",
+            "name": "Kitasan Black",
+            "path_id": -8788918367670583215,
+            "block_id": 17,
+            "clip_length": 315,
+            "processed": "<story>How can I get better at racing? Tracen Academy is way different \n<story>from what I was imagining, and I wasn't prepared at all…"
+        },
+        {
+            "text": "I can't help but think I have to do something about that but, \nI just really have no idea where to start…",
+            "name": "Kitasan Black",
+            "path_id": -3265845062346852421,
+            "block_id": 18,
+            "clip_length": 205,
+            "choices": [
+                {
+                    "text": "How about figuring out your strong point?",
+                    "hash": "9e7f9d0edceabc5660e0794836d92ba86aba6de688cd038164cc21b3eb7e99a7",
+                    "processed": "<size=39>How about figuring out your strong point?</size>"
+                }
+            ],
+            "processed": "<story>I can't help but think I have to do something about that but, \n<story>I just really have no idea where to start…"
+        },
+        {
+            "text": "My strong point! That's right. I usually just end up leaving it \nto fighting spirit and don't think about anything else…!",
+            "name": "Kitasan Black",
+            "path_id": -3666134321755494485,
+            "block_id": 19,
+            "clip_length": 266,
+            "processed": "<story>My strong point! That's right. I usually just end up leaving it \n<story>to fighting spirit and don't think about anything else…!"
+        },
+        {
+            "text": "Hmmmm. In that case… I probably need to understand myself \nbetter. To figure out what I can do I need to…",
+            "name": "Kitasan Black",
+            "path_id": -4521122833548966056,
+            "block_id": 20,
+            "clip_length": 312,
+            "choices": [
+                {
+                    "text": "Face a strong rival",
+                    "hash": "7cdd1ddea929027e1c557179a170934d601967b0f7b956c41898686326f86fdf"
+                }
+            ],
+            "processed": "<story>Hmmmm. In that case… I probably need to understand myself \n<story>better. To figure out what I can do I need to…"
+        },
+        {
+            "text": "A strong rival! Yeah! In other words— \nrace against more strong Uma Musume!",
+            "name": "Kitasan Black",
+            "path_id": 3497975312322818888,
+            "block_id": 21,
+            "clip_length": 265,
+            "processed": "<story>A strong rival! Yeah! In other words— \n<story>race against more strong Uma Musume!"
+        },
+        {
+            "text": "And so, we picked some of the strongest Uma Musume \nand held a mock race.",
+            "name": "",
+            "path_id": -843999014156680846,
+            "block_id": 22,
+            "clip_length": 85,
+            "processed": "<story>And so, we picked some of the strongest Uma Musume \n<story>and held a mock race."
+        },
+        {
+            "text": "Kita-chan! Your opponents in today's race are me and… \none more that you called, right? That person I admire!",
+            "name": "Satono Diamond",
+            "path_id": 8797698796024421826,
+            "block_id": 23,
+            "clip_length": 223,
+            "processed": "<story>Kita-chan! Your opponents in today's race are me and… \n<story>one more that you called, right? That person I admire!"
+        },
+        {
+            "text": "Yeah… I needed to call some of the strongest Uma Musume, \nso I can figure out what I need to do.",
+            "name": "Kitasan Black",
+            "path_id": -2933112333845407574,
+            "block_id": 24,
+            "clip_length": 238,
+            "processed": "<story>Yeah… I needed to call some of the strongest Uma Musume, \n<story>so I can figure out what I need to do."
+        },
+        {
+            "text": "Sorry for making you wait, Kita-san. It sounded \nlike you were trying to figure out your strong points, right?",
+            "name": "Mejiro McQueen",
+            "path_id": 7814002655148005641,
+            "block_id": 25,
+            "clip_length": 206,
+            "processed": "<story>Sorry for making you wait, Kita-san. It sounded \n<story>like you were trying to figure out your strong points, right?"
+        },
+        {
+            "text": "Very well, I'll lend you a hand. \nA 3000m marathon, come at me with everything you can think of.",
+            "name": "Mejiro McQueen",
+            "path_id": 4138099349549839887,
+            "block_id": 26,
+            "clip_length": 282,
+            "processed": "<story>Very well, I'll lend you a hand. \n<story>A 3000m marathon, come at me with everything you can think of."
+        },
+        {
+            "text": "The mock race against Tracen Academy's \nstrongest stayer \"Mejiro McQueen\" began.",
+            "name": "",
+            "path_id": 1747822577909248814,
+            "block_id": 27,
+            "clip_length": 102,
+            "processed": "<story>The mock race against Tracen Academy's \n<story>strongest stayer \"Mejiro McQueen\" began."
+        },
+        {
+            "text": "(A-amazing… No matter how much she runs, \nher pace doesn't drop… so this is McQueen-san…!)",
+            "name": "Kitasan Black",
+            "path_id": 4298613524057909381,
+            "block_id": 28,
+            "clip_length": 203,
+            "processed": "<story>(A-amazing… No matter how much she runs, \n<story>her pace doesn't drop… so this is McQueen-san…!)"
+        },
+        {
+            "text": "(—?! She's pulling away? \nI can't… keep up…?! Kuuuu…!)",
+            "name": "Kitasan Black",
+            "path_id": 4423372875413035430,
+            "block_id": 29,
+            "clip_length": 241,
+            "processed": "<story>(—?! She's pulling away? \n<story>I can't… keep up…?! Kuuuu…!)"
+        },
+        {
+            "text": "—Right here! \nKita-chan, let's go…!!",
+            "name": "Satono Diamond",
+            "path_id": -3848753866399395989,
+            "block_id": 30,
+            "clip_length": 81,
+            "processed": "<story>—Right here! \n<story>Kita-chan, let's go…!!"
+        },
+        {
+            "text": "(Dia-chan?! She's been marking me this whole time?! \nNo way…!!)",
+            "name": "Kitasan Black",
+            "path_id": 2120153155112129401,
+            "block_id": 31,
+            "clip_length": 147,
+            "processed": "<story>(Dia-chan?! She's been marking me this whole time?! \n<story>No way…!!)"
+        },
+        {
+            "text": "I don't want to lose, I don't want to…!! \nUwaaaaaaaaaaaaaaaaaaaahh!!",
+            "name": "Kitasan Black",
+            "path_id": 2443086127344869273,
+            "block_id": 32,
+            "clip_length": 193,
+            "processed": "<story>I don't want to lose, I don't want to…!! \n<story>Uwaaaaaaaaaaaaaaaaaaaahh!!"
+        },
+        {
+            "text": "In the end, Kitasan Black was utterly defeated.",
+            "name": "",
+            "path_id": 615298722362147180,
+            "block_id": 33,
+            "clip_length": 78,
+            "processed": "<story>In the end, Kitasan Black was utterly defeated."
+        },
+        {
+            "text": "Kuuu… I'm pathetic… McQueen-san \nhas stamina. And Dia-chan has the technical skill…",
+            "name": "Kitasan Black",
+            "path_id": -1949854632196577498,
+            "block_id": 34,
+            "clip_length": 304,
+            "processed": "<story>Kuuu… I'm pathetic… McQueen-san \n<story>has stamina. And Dia-chan has the technical skill…"
+        },
+        {
+            "text": "I couldn't figure anything out…! If I stay like this, I won't \nbe able to be an Uma Musume that can grant people courage…",
+            "name": "Kitasan Black",
+            "path_id": 534426850835769391,
+            "block_id": 35,
+            "clip_length": 270,
+            "processed": "<story>I couldn't figure anything out…! If I stay like this, I won't \n<story>be able to be an Uma Musume that can grant people courage…"
+        },
+        {
+            "text": "Someday becoming someone like that— \nEven though I want to be just like my dad…",
+            "name": "Kitasan Black",
+            "path_id": -8067351636209709327,
+            "block_id": 36,
+            "clip_length": 185,
+            "choices": [
+                {
+                    "text": "Your dad?",
+                    "hash": "d86ea28b04c6c34747c5019e349ce2661ad263dee05ae8cfc4b41537188d0254"
+                }
+            ],
+            "processed": "<story>Someday becoming someone like that— \n<story>Even though I want to be just like my dad…"
+        },
+        {
+            "text": "Yes. My dad is an enka singer. \nHis fans and his disciples all really adore him…",
+            "name": "Kitasan Black",
+            "path_id": 8956495258787576448,
+            "block_id": 37,
+            "clip_length": 253,
+            "processed": "<story>Yes. My dad is an enka singer. \n<story>His fans and his disciples all really adore him…"
+        },
+        {
+            "text": "Dad isn't just a popular person either. He understands \nothers' pain, and because of that he reaches his \nhand out to help all kinds of people…",
+            "name": "Kitasan Black",
+            "path_id": -6439887591921031885,
+            "block_id": 38,
+            "clip_length": 269,
+            "processed": "<story>Dad isn't just a popular person either. He understands \n<story>others' pain, and because of that he reaches his \n<story>hand out to help all kinds of people…"
+        },
+        {
+            "text": "It's different from singing and racing, but I want to be like \nthat. I want to become the kind of Uma Musume that can give \ncourage and spirit to others…",
+            "name": "Kitasan Black",
+            "path_id": -6652896194564366502,
+            "block_id": 39,
+            "clip_length": 336,
+            "processed": "<story>It's different from singing and racing, but I want to be like \n<story>that. I want to become the kind of Uma Musume that can give \n<story>courage and spirit to others…"
+        },
+        {
+            "text": "But, with the way I am now, unable to find my strength, \nthere's no way I can become like that. Offering people \nin need my help is about all I can do…",
+            "name": "Kitasan Black",
+            "path_id": -6584443845994105090,
+            "block_id": 40,
+            "clip_length": 347,
+            "choices": [
+                {
+                    "text": "I think that that's admirable, though",
+                    "hash": "27cdc66190d258d9011c02f75ea860b4a4d2f334f4eda2e2c36f67133bdcd5bd"
+                }
+            ],
+            "processed": "<story>But, with the way I am now, unable to find my strength, \n<story>there's no way I can become like that. Offering people \n<story>in need my help is about all I can do…"
+        },
+        {
+            "text": "But, that's something anyone can do, can't they? \nI'm just a little bit of a busybody, that's all.",
+            "name": "Kitasan Black",
+            "path_id": 366934261716563122,
+            "block_id": 41,
+            "clip_length": 230,
+            "processed": "<story>But, that's something anyone can do, can't they? \n<story>I'm just a little bit of a busybody, that's all."
+        },
+        {
+            "text": "Kitasan Black was feeling down. It's true that in the race this \ntime, her strong legs stood out but-",
+            "name": "",
+            "path_id": -8606952971398255646,
+            "block_id": 42,
+            "clip_length": 102,
+            "processed": "<story>Kitasan Black was feeling down. It's true that in the race this \n<story>time, her strong legs stood out but-"
+        },
+        {
+            "text": "In that case, I'll carry them! \nI'll be fine, it's only 20km roundtrip! That much is nothing!",
+            "name": "Kitasan Black",
+            "path_id": 8770873355612148434,
+            "block_id": 43,
+            "clip_length": 242,
+            "processed": "<story>In that case, I'll carry them! \n<story>I'll be fine, it's only 20km roundtrip! That much is nothing!"
+        },
+        {
+            "text": "I remembered that time when she was late. Repeatedly \nsolving people's troubles one after another. She \nthinks it's \"No big deal\" but…",
+            "name": "",
+            "path_id": 8356041141434662998,
+            "block_id": 44,
+            "clip_length": 116,
+            "processed": "<story>I remembered that time when she was late. Repeatedly \n<story>solving people's troubles one after another. She \n<story>thinks it's \"No big deal\" but…"
+        },
+        {
+            "text": "Maybe there's some kind of hidden potential there. \nI decided to try approaching this from a different angle.",
+            "name": "",
+            "path_id": -381481140085338840,
+            "block_id": 45,
+            "clip_length": 110,
+            "processed": "<story>Maybe there's some kind of hidden potential there. \n<story>I decided to try approaching this from a different angle."
+        },
+        {
+            "text": "Fuu, really, how troubling… \nI guess I'll just have to wait for a warmer season, or maybe…",
+            "name": "Mejiro McQueen",
+            "path_id": -1296587829083154500,
+            "block_id": 46,
+            "clip_length": 292,
+            "processed": "<story>Fuu, really, how troubling… \n<story>I guess I'll just have to wait for a warmer season, or maybe…"
+        },
+        {
+            "text": "McQueen, what's wrong? Oh, didn't you race \nagainst Kita-chan a little while ago? Is that it?",
+            "name": "Tokai Teio",
+            "path_id": 3907072783141015537,
+            "block_id": 47,
+            "clip_length": 266,
+            "processed": "<story>McQueen, what's wrong? Oh, didn't you race \n<story>against Kita-chan a little while ago? Is that it?"
+        },
+        {
+            "text": "That case has already been resolved. \nThe thing that's troubling me now is our mountain villa.",
+            "name": "Mejiro McQueen",
+            "path_id": 9124848926436773376,
+            "block_id": 48,
+            "clip_length": 216,
+            "processed": "<story>That case has already been resolved. \n<story>The thing that's troubling me now is our mountain villa."
+        },
+        {
+            "text": "The generator seems to be in bade shape. If there \nwasn't snow, I'd take the replacement one there \nmyself as part of training but…",
+            "name": "Mejiro McQueen",
+            "path_id": -686241663548679645,
+            "block_id": 49,
+            "clip_length": 279,
+            "choices": [
+                {
+                    "text": "Excuse me… do you have a moment?",
+                    "hash": "40f33323847ad0a1b56c66d07cc0fd8f90f13e4696d03de826915448a37ba172"
+                }
+            ],
+            "processed": "<story>The generator seems to be in bade shape. If there \n<story>wasn't snow, I'd take the replacement one there \n<story>myself as part of training but…"
+        },
+        {
+            "text": "Huh? You're… that trainer from before. \nNeed something?",
+            "name": "Tokai Teio",
+            "path_id": 3087925830518045262,
+            "block_id": 50,
+            "clip_length": 188,
+            "choices": [
+                {
+                    "text": "Do you think you can leave it to Kitasan?",
+                    "hash": "89587ccef8d22241781cd8ed6ebb784c4acc36963cf6779323982a0645708161",
+                    "processed": "<size=40>Do you think you can leave it to Kitasan?</size>"
+                },
+                {
+                    "text": "Do you think you can leave it to Kitasan?",
+                    "hash": "e0fd54d5cdb68d017a57c43d16fe22b9b7cc87872b39dd8414e35bbe6d336f4d",
+                    "processed": "<size=40>Do you think you can leave it to Kitasan?</size>"
+                }
+            ],
+            "processed": "<story>Huh? You're… that trainer from before. \n<story>Need something?"
+        },
+        {
+            "text": "Eeh? To Kitasan Black-san?! \n…can I ask why?",
+            "name": "Mejiro McQueen",
+            "path_id": -5216225740095190528,
+            "block_id": 51,
+            "clip_length": 154,
+            "processed": "<story>Eeh? To Kitasan Black-san?! \n<story>…can I ask why?"
+        }
+    ],
+    "title": "Incomplete Without A Forte"
+}

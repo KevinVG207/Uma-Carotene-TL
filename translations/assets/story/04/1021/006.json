@@ -1,0 +1,540 @@
+{
+    "type": "story",
+    "row_index": 15677,
+    "file_name": "story/data/04/1021/storytimeline_041021006",
+    "hash": "KTCQ6TJZ4XL2O4I5CQUHJFZEXQ7MIWXM",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2195723339057087783,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "On a day off, while I was out shopping, I happened to see Tamamo \nCross. She was just standing there, spacing out.",
+            "name": "",
+            "path_id": 8234296589099930683,
+            "block_id": 1,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "Tamamo Cross?",
+                    "hash": "715e3080ad18af6b510451c8dbc6088cbbaff7424211ead950c7d812719d61c0"
+                }
+            ],
+            "processed": "<story>On a day off, while I was out shopping, I happened to see Tamamo \n<story>Cross. She was just standing there, spacing out."
+        },
+        {
+            "text": "!! T-t-t-…Traineeeeer!!",
+            "name": "Tamamo Cross",
+            "path_id": -7112405293606935845,
+            "block_id": 2,
+            "clip_length": 97,
+            "processed": "<story>!! T-t-t-…Traineeeeer!!"
+        },
+        {
+            "text": "Yer here! Yer reeeeally here, thanks!! \nI've reeeeeally been hopin' you'd show up!!",
+            "name": "Tamamo Cross",
+            "path_id": -5840062281421289350,
+            "block_id": 3,
+            "clip_length": 242,
+            "choices": [
+                {
+                    "text": "I-it's just a coincidence though…?",
+                    "hash": "b64d2fd307261156d28bedddf04dd0d5cb11dd675fa030b1d888fdebca4b9416"
+                },
+                {
+                    "text": "I-it's just a coincidence though…?",
+                    "hash": "b90cb215392a7abcc9c82f6fe230052f282c8b09c899f1f3c7b0fba3a8f21fd7"
+                }
+            ],
+            "processed": "<story>Yer here! Yer reeeeally here, thanks!! \n<story>I've reeeeeally been hopin' you'd show up!!"
+        },
+        {
+            "text": "Tha's fine! Ya see, \nI'm jus' really strugglin' with this on my own!",
+            "name": "Tamamo Cross",
+            "path_id": 1669393972470520804,
+            "block_id": 4,
+            "clip_length": 148,
+            "processed": "<story>Tha's fine! Ya see, \n<story>I'm jus' really strugglin' with this on my own!"
+        },
+        {
+            "text": "Ya see, I've never been in one 'a these fancy stores ta buy \nanything before, right? I don' even know where ta enter, and th' \nsun'll be settin' by the time I do!",
+            "name": "Tamamo Cross",
+            "path_id": -6020662893487283574,
+            "block_id": 5,
+            "clip_length": 208,
+            "processed": "<story>Ya see, I've never been in one 'a these fancy stores ta buy \n<story>anything before, right? I don' even know where ta enter, and th' \n<story>sun'll be settin' by the time I do!"
+        },
+        {
+            "text": "I beg of ya! Can ya help me find a present \nfer my parents' weddin' anniversary?!",
+            "name": "Tamamo Cross",
+            "path_id": 4454847013774052078,
+            "block_id": 6,
+            "clip_length": 203,
+            "processed": "<story>I beg of ya! Can ya help me find a present \n<story>fer my parents' weddin' anniversary?!"
+        },
+        {
+            "text": "-and, it sounds like th' brats are gonna make some okonomiyaki ta \ncelebrate. Since I can't help 'em, I thought it'd be better ta \nbuy somethin' and send it.",
+            "name": "Tamamo Cross",
+            "path_id": 5487362137361905617,
+            "block_id": 7,
+            "clip_length": 292,
+            "processed": "<story>-and, it sounds like th' brats are gonna make some okonomiyaki ta \n<story>celebrate. Since I can't help 'em, I thought it'd be better ta \n<story>buy somethin' and send it."
+        },
+        {
+            "text": "With my budget, I can't really send 'em anything \ntoo pricey but… got any good ideas?",
+            "name": "Tamamo Cross",
+            "path_id": -4634796940856564994,
+            "block_id": 8,
+            "clip_length": 143,
+            "processed": "<story>With my budget, I can't really send 'em anything \n<story>too pricey but… got any good ideas?"
+        },
+        {
+            "text": "She just said something about this being fancy but, \nthese stores were normally reasonable for a student's \nbudget. If that's expensive to her-",
+            "name": "",
+            "path_id": -3618800296492430630,
+            "block_id": 9,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "How about some really good snacks?",
+                    "hash": "c1d2e212c7cfc15b38216b99343135ad8595023bf54c0563ce0e79c826a35474"
+                },
+                {
+                    "text": "How about some really good snacks?",
+                    "hash": "6449bbe4b092c089f372fdb5c2e98401ad9ac9fda514dfa2aba5626e03cffb8e"
+                }
+            ],
+            "processed": "<story>She just said something about this being fancy but, \n<story>these stores were normally reasonable for a student's \n<story>budget. If that's expensive to her-"
+        },
+        {
+            "text": "There are plenty of snacks that are low budget but look \nextravagant. They tend to be happily given away at gift \nexchanges, so maybe it'll feel a bit celebratory.",
+            "name": "",
+            "path_id": -3699826914850786791,
+            "block_id": 10,
+            "clip_length": 115,
+            "processed": "<story>There are plenty of snacks that are low budget but look \n<story>extravagant. They tend to be happily given away at gift \n<story>exchanges, so maybe it'll feel a bit celebratory."
+        },
+        {
+            "text": "Looks fancy but is a decent price? Sounds great! And if it's \nsnacks, th' brats can enjoy 'em too… Yeah, let's do that!",
+            "name": "Tamamo Cross",
+            "path_id": 6848964775756076579,
+            "block_id": 11,
+            "clip_length": 266,
+            "processed": "<story>Looks fancy but is a decent price? Sounds great! And if it's \n<story>snacks, th' brats can enjoy 'em too… Yeah, let's do that!"
+        },
+        {
+            "text": "And with that, we ended up in a place that sells sweets, but-",
+            "name": "",
+            "path_id": 1877162679714120491,
+            "block_id": 12,
+            "clip_length": 73,
+            "processed": "<story>And with that, we ended up in a place that sells sweets, but-"
+        },
+        {
+            "text": "N-no way… isn't tha' one digit too many…?",
+            "name": "Tamamo Cross",
+            "path_id": 7331314506493928065,
+            "block_id": 13,
+            "clip_length": 146,
+            "processed": "<story>N-no way… isn't tha' one digit too many…?"
+        },
+        {
+            "text": "Wha-… this… this 1 piece costs \nmore than 5 boxes of chocolate!?",
+            "name": "Tamamo Cross",
+            "path_id": -1739046424997776899,
+            "block_id": 14,
+            "clip_length": 167,
+            "processed": "<story>Wha-… this… this 1 piece costs \n<story>more than 5 boxes of chocolate!?"
+        },
+        {
+            "text": "One month's worth of allowance, gone in one bite… tha's insane!",
+            "name": "Tamamo Cross",
+            "path_id": 4572885367470500399,
+            "block_id": 15,
+            "clip_length": 193,
+            "processed": "<story>One month's worth of allowance, gone in one bite… tha's insane!"
+        },
+        {
+            "text": "Unbelievable… inconceivable… \ndo people normally eat somethin' this expensive…?",
+            "name": "Tamamo Cross",
+            "path_id": -411902846782879425,
+            "block_id": 16,
+            "clip_length": 213,
+            "choices": [
+                {
+                    "text": "Maybe just for special occasions",
+                    "hash": "8af7c40795203dc1a21091e8e961edcd6e12aa58888b308bd38abc2433fb08d5"
+                }
+            ],
+            "processed": "<story>Unbelievable… inconceivable… \n<story>do people normally eat somethin' this expensive…?"
+        },
+        {
+            "text": "I explain that they're normally used as gifts and \nnot something for everyday. High-class sweets are \nspecial, so maybe as a way to reward yourself.",
+            "name": "",
+            "path_id": -2487889412175725004,
+            "block_id": 17,
+            "clip_length": 118,
+            "processed": "<story>I explain that they're normally used as gifts and \n<story>not something for everyday. High-class sweets are \n<story>special, so maybe as a way to reward yourself."
+        },
+        {
+            "text": "A reward fer yerself…?",
+            "name": "Tamamo Cross",
+            "path_id": -1452873470095453955,
+            "block_id": 18,
+            "clip_length": 86,
+            "processed": "<story>A reward fer yerself…?"
+        },
+        {
+            "text": "I've heard 'bout tha' before, but people actually do that? \nEh, isn't tha' wasteful? They don't save it? So weird…",
+            "name": "Tamamo Cross",
+            "path_id": -3027587186977511974,
+            "block_id": 19,
+            "clip_length": 320,
+            "processed": "<story>I've heard 'bout tha' before, but people actually do that? \n<story>Eh, isn't tha' wasteful? They don't save it? So weird…"
+        },
+        {
+            "text": "But, really, this price… \nnow I seriously have no idea what ta get…",
+            "name": "Tamamo Cross",
+            "path_id": -9077214156197800427,
+            "block_id": 20,
+            "clip_length": 225,
+            "choices": [
+                {
+                    "text": "How about a short break?",
+                    "hash": "6028ae522b531544597f7646f076c583a6529abf8cfb22782bc7336a15c40ee3"
+                },
+                {
+                    "text": "How about a short break?",
+                    "hash": "32d4f78ef543054033a551440f755667cfd2b2adebcea1b0873f1c3e75cadd53"
+                }
+            ],
+            "processed": "<story>But, really, this price… \n<story>now I seriously have no idea what ta get…"
+        },
+        {
+            "text": "…yeah. I wanna calm down a bit an' think about it.",
+            "name": "Tamamo Cross",
+            "path_id": 4933224146095801375,
+            "block_id": 21,
+            "clip_length": 196,
+            "processed": "<story>…yeah. I wanna calm down a bit an' think about it."
+        },
+        {
+            "text": "Fuuuuuu… I can finally take a breather. \nOkay, what should I order~.",
+            "name": "Tamamo Cross",
+            "path_id": 6279732732498081665,
+            "block_id": 22,
+            "clip_length": 204,
+            "processed": "<story>Fuuuuuu… I can finally take a breather. \n<story>Okay, what should I order~."
+        },
+        {
+            "text": "…",
+            "name": "Tamamo Cross",
+            "path_id": -6941249607090458758,
+            "block_id": 23,
+            "clip_length": 43,
+            "processed": "<story>…"
+        },
+        {
+            "text": "…pancakes are THIS much?! \nI still need ta buy a present, so I'd rather spend it on that.",
+            "name": "Tamamo Cross",
+            "path_id": 8021079058189366187,
+            "block_id": 24,
+            "clip_length": 305,
+            "processed": "<story>…pancakes are THIS much?! \n<story>I still need ta buy a present, so I'd rather spend it on that."
+        },
+        {
+            "text": "Ah-, I'm fine with jus' water! I'm not tha' hungry anyways~.",
+            "name": "Tamamo Cross",
+            "path_id": 7897320267021108150,
+            "block_id": 25,
+            "clip_length": 178,
+            "processed": "<story>Ah-, I'm fine with jus' water! I'm not tha' hungry anyways~."
+        },
+        {
+            "text": "Pardon me. Have you decided on your order?",
+            "name": "Cafe Employee",
+            "path_id": 7023865218739225149,
+            "block_id": 26,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Pancakes and juice for two",
+                    "hash": "5c22ac6588a866ea69ab0ab02af3c2e2722cdb9f255fe96bc8089c4cd7e85f73"
+                }
+            ],
+            "processed": "<story>Pardon me. Have you decided on your order?"
+        },
+        {
+            "text": "Two orders of pancakes and juice. Certainly.",
+            "name": "Cafe Employee",
+            "path_id": 1472263792387659345,
+            "block_id": 27,
+            "clip_length": 143,
+            "processed": "<story>Two orders of pancakes and juice. Certainly."
+        },
+        {
+            "text": "Wait! Why are ya orderin' for me?!",
+            "name": "Tamamo Cross",
+            "path_id": -173102663075005450,
+            "block_id": 28,
+            "clip_length": 87,
+            "choices": [
+                {
+                    "text": "A reward for you and me",
+                    "hash": "0ea4653f7099f9011c1f134ae0a05ce430f5b018c7ffdb5b2e3c30197f9dcacb"
+                },
+                {
+                    "text": "A reward for you and me",
+                    "hash": "6149dd82ddf5ea3a85b0bb06b8a16094f13e7570ba9c2ff96a392160370542de"
+                }
+            ],
+            "processed": "<story>Wait! Why are ya orderin' for me?!"
+        },
+        {
+            "text": "Tamamo Cross and I have been working hard day in and day out. \nI tell her they're a reward for me too, and she should join me.",
+            "name": "",
+            "path_id": -1711408600696151957,
+            "block_id": 29,
+            "clip_length": 119,
+            "processed": "<story>Tamamo Cross and I have been working hard day in and day out. \n<story>I tell her they're a reward for me too, and she should join me."
+        },
+        {
+            "text": "Besides, it's not just for this spring. Hopefully she'll eat this \nand get the motiviation to work even harder moving forward.",
+            "name": "",
+            "path_id": -1127411906131408348,
+            "block_id": 30,
+            "clip_length": 106,
+            "processed": "<story>Besides, it's not just for this spring. Hopefully she'll eat this \n<story>and get the motiviation to work even harder moving forward."
+        },
+        {
+            "text": "…I can guess what yer thinkin'. \nYa want me ta try out this \"rewardin' yerself\" thing fer myself.",
+            "name": "Tamamo Cross",
+            "path_id": 141937068561973453,
+            "block_id": 31,
+            "clip_length": 256,
+            "processed": "<story>…I can guess what yer thinkin'. \n<story>Ya want me ta try out this \"rewardin' yerself\" thing fer myself."
+        },
+        {
+            "text": "Since I can't really grasp what rewardin' yerself means… \nI ain't gotta reason ta refuse then. I'll try it fer myself!",
+            "name": "Tamamo Cross",
+            "path_id": 7605644217429498493,
+            "block_id": 32,
+            "clip_length": 268,
+            "processed": "<story>Since I can't really grasp what rewardin' yerself means… \n<story>I ain't gotta reason ta refuse then. I'll try it fer myself!"
+        },
+        {
+            "text": "Fuu Fuu Fuu… gettin' ta enjoy such expensive \npancakes for free, today's my lucky day!",
+            "name": "Tamamo Cross",
+            "path_id": 6984780301992373899,
+            "block_id": 33,
+            "clip_length": 184,
+            "processed": "<story>Fuu Fuu Fuu… gettin' ta enjoy such expensive \n<story>pancakes for free, today's my lucky day!"
+        },
+        {
+            "text": "Sorry for the wait, pancakes and juice. \nPlease take your time~.",
+            "name": "Cafe Employee",
+            "path_id": 4477051938827422127,
+            "block_id": 34,
+            "clip_length": 148,
+            "processed": "<story>Sorry for the wait, pancakes and juice. \n<story>Please take your time~."
+        },
+        {
+            "text": "Oh, it's here!…it's really fluffy isn't it? \nSo how is it…?",
+            "name": "Tamamo Cross",
+            "path_id": -3459902465010181,
+            "block_id": 35,
+            "clip_length": 254,
+            "processed": "<story>Oh, it's here!…it's really fluffy isn't it? \n<story>So how is it…?"
+        },
+        {
+            "text": "…Fuaa!?",
+            "name": "Tamamo Cross",
+            "path_id": 2771332122136353850,
+            "block_id": 36,
+            "clip_length": 136,
+            "processed": "<story>…Fuaa!?"
+        },
+        {
+            "text": "(The moment I put it in my mouth, it melted an' \nth' flavor of eggs spread all through my mouth… \nand it was gone in an instant…)",
+            "name": "Tamamo Cross",
+            "path_id": 9054356354670719219,
+            "block_id": 37,
+            "clip_length": 237,
+            "processed": "<story>(The moment I put it in my mouth, it melted an' \n<story>th' flavor of eggs spread all through my mouth… \n<story>and it was gone in an instant…)"
+        },
+        {
+            "text": "(The salty taste of th' butter goes real well \nwith th' cream… and such a light aftertaste… \nI could eat these foreeeeeever…!)",
+            "name": "Tamamo Cross",
+            "path_id": -8270864062195582992,
+            "block_id": 38,
+            "clip_length": 281,
+            "processed": "<story>(The salty taste of th' butter goes real well \n<story>with th' cream… and such a light aftertaste… \n<story>I could eat these foreeeeeever…!)"
+        },
+        {
+            "text": "SOOOO GOOD!!",
+            "name": "Tamamo Cross",
+            "path_id": 9051941788482119506,
+            "block_id": 39,
+            "clip_length": 66,
+            "processed": "<story>SOOOO GOOD!!"
+        },
+        {
+            "text": "Trainer, these… are amazin'!!",
+            "name": "Tamamo Cross",
+            "path_id": 4355544484246775333,
+            "block_id": 40,
+            "clip_length": 100,
+            "processed": "<story>Trainer, these… are amazin'!!"
+        },
+        {
+            "text": "…fer sure, I'd want ta eat this again. I think I see why ya'd \nwant ta stretch yer budget for somethin' like this!",
+            "name": "Tamamo Cross",
+            "path_id": -4870305711935209876,
+            "block_id": 41,
+            "clip_length": 276,
+            "processed": "<story>…fer sure, I'd want ta eat this again. I think I see why ya'd \n<story>want ta stretch yer budget for somethin' like this!"
+        },
+        {
+            "text": "…so tha's why it's called \"rewardin' yerself\"…",
+            "name": "Tamamo Cross",
+            "path_id": 976542923978052115,
+            "block_id": 42,
+            "clip_length": 146,
+            "processed": "<story>…so tha's why it's called \"rewardin' yerself\"…"
+        },
+        {
+            "text": "…But, I want my family to eat somethin' like this too. \nI want ta reward my parents and th' brats, too.",
+            "name": "Tamamo Cross",
+            "path_id": 7973695216385985973,
+            "block_id": 43,
+            "clip_length": 294,
+            "choices": [
+                {
+                    "text": "I'm sure they feel the same way",
+                    "hash": "f8de9c9d7ae5a3ed932d37f513fd6fffe755e28b58cddda729c9d74b8ccf1bdb"
+                }
+            ],
+            "processed": "<story>…But, I want my family to eat somethin' like this too. \n<story>I want ta reward my parents and th' brats, too."
+        },
+        {
+            "text": "Tamamo Cross' family, probably want to treat her \nto something tasty like this too, feeling like \nit would be a reward for working so hard.",
+            "name": "",
+            "path_id": -2735117443497983889,
+            "block_id": 44,
+            "clip_length": 116,
+            "processed": "<story>Tamamo Cross' family, probably want to treat her \n<story>to something tasty like this too, feeling like \n<story>it would be a reward for working so hard."
+        },
+        {
+            "text": "My family wanting ta reward me… \n…now that I think about it-",
+            "name": "Tamamo Cross",
+            "path_id": 4293993133328064821,
+            "block_id": 45,
+            "clip_length": 174,
+            "processed": "<story>My family wanting ta reward me… \n<story>…now that I think about it-"
+        },
+        {
+            "text": "Ah-! Neene is the only one with 1 extra croquette! Why-?",
+            "name": "Tamamo's Little Brother",
+            "path_id": 1244478570761107830,
+            "block_id": 46,
+            "clip_length": 140,
+            "processed": "<story>Ah-! Neene is the only one with 1 extra croquette! Why-?",
+            "name_processed": "<sc=97>Tamamo's Little Brother"
+        },
+        {
+            "text": "Tha's Tama's reward! 'Cuz she won first place! \nTama, eat up so ya can run well in th' next one too!",
+            "name": "Tamamo Cross' Father",
+            "path_id": 94206137795860572,
+            "block_id": 47,
+            "clip_length": 265,
+            "processed": "<story>Tha's Tama's reward! 'Cuz she won first place! \n<story>Tama, eat up so ya can run well in th' next one too!"
+        },
+        {
+            "text": "Tha's right… I've gotten rewarded before…",
+            "name": "Tamamo Cross",
+            "path_id": -7957100771868471481,
+            "block_id": 48,
+            "clip_length": 154,
+            "processed": "<story>Tha's right… I've gotten rewarded before…"
+        },
+        {
+            "text": "My family and me feel th' same… it's so obvious ain't it? \nNot good… I was gettin' tunnel vision again…",
+            "name": "Tamamo Cross",
+            "path_id": 7995193415038135157,
+            "block_id": 49,
+            "clip_length": 307,
+            "choices": [
+                {
+                    "text": "Every now and then, how about spoiling yourself?",
+                    "hash": "570ad0f6d7f43332987cb4d499dbaa0142cee3c696db8e808fac26df517335a9",
+                    "processed": "<size=33>Every now and then, how about spoiling yourself?</size>"
+                }
+            ],
+            "processed": "<story>My family and me feel th' same… it's so obvious ain't it? \n<story>Not good… I was gettin' tunnel vision again…"
+        },
+        {
+            "text": "…I've been spoiled more than enough… but I'll think about it.",
+            "name": "Tamamo Cross",
+            "path_id": -4099105196915161497,
+            "block_id": 50,
+            "clip_length": 247,
+            "processed": "<story>…I've been spoiled more than enough… but I'll think about it."
+        },
+        {
+            "text": "…well then. Gonna have some more of these pancakes! \nDon't wanna leave any leftovers of somethin' this tasty!",
+            "name": "Tamamo Cross",
+            "path_id": 1174681573539959309,
+            "block_id": 51,
+            "clip_length": 226,
+            "processed": "<story>…well then. Gonna have some more of these pancakes! \n<story>Don't wanna leave any leftovers of somethin' this tasty!"
+        },
+        {
+            "text": "After saying that, Tamamo Cross continued stuffing \nherself with the pancakes with surprising vigor, \nsaying how tasty it was the whole time.",
+            "name": "",
+            "path_id": -2749038689101013876,
+            "block_id": 52,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "There's no need to hurry…",
+                    "hash": "c793fd8141bee16617c40bead4b69735475d2c2c66a65e4777e3e3466e721f51"
+                }
+            ],
+            "processed": "<story>After saying that, Tamamo Cross continued stuffing \n<story>herself with the pancakes with surprising vigor, \n<story>saying how tasty it was the whole time."
+        },
+        {
+            "text": "I wanna finish it!! I wanna savor it! \nBut, my limit… my limit is already approachin'…!",
+            "name": "Tamamo Cross",
+            "path_id": 3162819853094784184,
+            "block_id": 53,
+            "clip_length": 337,
+            "choices": [
+                {
+                    "text": "Limit?",
+                    "hash": "98504ba7f7d401903efefad9c4fbcb4698862de3da12ada766574c1c13080344"
+                }
+            ],
+            "processed": "<story>I wanna finish it!! I wanna savor it! \n<story>But, my limit… my limit is already approachin'…!"
+        },
+        {
+            "text": "…I think I'm cappin' out on this unfamiliar luxury… \nnow, my back is covered in cold sweat… I'm feelin' faint…",
+            "name": "Tamamo Cross",
+            "path_id": 3965905045640663692,
+            "block_id": 54,
+            "clip_length": 341,
+            "processed": "<story>…I think I'm cappin' out on this unfamiliar luxury… \n<story>now, my back is covered in cold sweat… I'm feelin' faint…"
+        },
+        {
+            "text": "-I never thought her tolerance for high-class food \nwould be this low. But, even while in a cold sweat, \nshe continued to stuff her mouth with pancake.",
+            "name": "",
+            "path_id": 1541949448139588318,
+            "block_id": 55,
+            "clip_length": 140,
+            "processed": "<story>-I never thought her tolerance for high-class food \n<story>would be this low. But, even while in a cold sweat, \n<story>she continued to stuff her mouth with pancake."
+        }
+    ],
+    "title": "Up In The Clouds"
+}
