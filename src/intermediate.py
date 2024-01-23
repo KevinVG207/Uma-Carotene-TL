@@ -276,9 +276,14 @@ def process_asset(path):
 
         new_text, color_list = util.process_colored_text(item['text'])
 
+        name = item['name']
+        # Sometimes an author decides to keep it empty.
+        if not name and item['source_name'] != 'モノローグ':
+            name = item['source_name']
+
         new_item = {
             "text": new_text,
-            "name": item['name'],
+            "name": name,
             'path_id': item['path_id'],
             'block_id': item['block_id'],
         }

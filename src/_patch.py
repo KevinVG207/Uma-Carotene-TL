@@ -6,6 +6,7 @@ from multiprocessing.pool import Pool
 import io
 import version
 import unity
+from UnityPy.enums import TextureFormat
 from sqlite3 import Error as SqliteError
 from PIL import Image, ImageFile
 from settings import settings
@@ -275,6 +276,7 @@ def _import_texture(asset_metadata):
         new_image = Image.open(new_image_buffer)
 
         # Replace the image
+        texture_read.m_TextureFormat = TextureFormat.BC7
         texture_read.image = new_image
         texture_read.save()
 
