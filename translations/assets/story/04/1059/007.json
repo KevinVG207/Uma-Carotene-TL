@@ -1,0 +1,661 @@
+{
+    "type": "story",
+    "row_index": 760,
+    "file_name": "story/data/04/1059/storytimeline_041059007",
+    "hash": "32QQY3F3WLEEAVIPYBZBUHL4MGUHNDRH",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -9211954028207045420,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Haa, haa………… Last one……!",
+            "name": "Mejiro Dober",
+            "path_id": -8481359045522242629,
+            "block_id": 1,
+            "clip_length": 132,
+            "processed": "<story>Haa, haa………… Last one……!"
+        },
+        {
+            "text": "The yearly summer training camp. \nMejiro Dober's training was proceeding smoothly as planned.",
+            "name": "",
+            "path_id": -7459945928198167644,
+            "block_id": 2,
+            "clip_length": 91,
+            "processed": "<story>The yearly summer training camp. \n<story>Mejiro Dober's training was proceeding smoothly as planned."
+        },
+        {
+            "text": "Hey, hey, which festival stalls do you want to hit up? \nI want to eat a candy apple!",
+            "name": "Uma Musume A",
+            "path_id": -4341903629259206399,
+            "block_id": 3,
+            "clip_length": 156,
+            "processed": "<story>Hey, hey, which festival stalls do you want to hit up? \n<story>I want to eat a candy apple!"
+        },
+        {
+            "text": "And we can't skip the grilled carrots either! \nWish it was night time already～.",
+            "name": "Uma Musume B",
+            "path_id": -1386029622185353769,
+            "block_id": 4,
+            "clip_length": 178,
+            "processed": "<story>And we can't skip the grilled carrots either! \n<story>Wish it was night time already～."
+        },
+        {
+            "text": "Since there was going to be a festival tonight, \neveryone seemed a little more excited than usual during training.",
+            "name": "",
+            "path_id": 3801847670416944570,
+            "block_id": 5,
+            "clip_length": 111,
+            "processed": "<story>Since there was going to be a festival tonight, \n<story>everyone seemed a little more excited than usual during training."
+        },
+        {
+            "text": "……you've been looking at me for a while now, \nis something wrong? Do I have sand on my face?",
+            "name": "Mejiro Dober",
+            "path_id": -4648846484493699196,
+            "block_id": 6,
+            "clip_length": 157,
+            "choices": [
+                {
+                    "text": "No……you just seem like your normal self",
+                    "hash": "300b995aad931d20035bed755116663ef25918968f92f4147f7fba9056c3f0e2",
+                    "processed": "<size=40>No……you just seem like your normal self</size>"
+                }
+            ],
+            "processed": "<story>……you've been looking at me for a while now, \n<story>is something wrong? Do I have sand on my face?"
+        },
+        {
+            "text": "Ha? Isn't that normal? Rather than that, make sure \nyou're properly tracking my back-and-forth dashes.",
+            "name": "Mejiro Dober",
+            "path_id": -1084538725990544039,
+            "block_id": 7,
+            "clip_length": 192,
+            "processed": "<story>Ha? Isn't that normal? Rather than that, make sure \n<story>you're properly tracking my back-and-forth dashes."
+        },
+        {
+            "text": "I am my normal self though……? Rather than that, next up is \nback-and-forth dashes, right? Can you track my time?",
+            "name": "Mejiro Dober",
+            "path_id": 1741402807894295695,
+            "block_id": 8,
+            "clip_length": 211,
+            "processed": "<story>I am my normal self though……? Rather than that, next up is \n<story>back-and-forth dashes, right? Can you track my time?"
+        },
+        {
+            "text": "A couple hours after training had finished. The \ndorms were unusually quiet. Most of the students \nmust have headed out to the summer festival.",
+            "name": "",
+            "path_id": 1773566995377492478,
+            "block_id": 9,
+            "clip_length": 107,
+            "processed": "<story>A couple hours after training had finished. The \n<story>dorms were unusually quiet. Most of the students \n<story>must have headed out to the summer festival."
+        },
+        {
+            "text": "A couple hours after training had finished. The \ndorms were unusually quiet. Most of the students \nmust have headed out to the summer festival.",
+            "name": "",
+            "path_id": -8473508469517909328,
+            "block_id": 10,
+            "clip_length": 108,
+            "processed": "<story>A couple hours after training had finished. The \n<story>dorms were unusually quiet. Most of the students \n<story>must have headed out to the summer festival."
+        },
+        {
+            "text": "Oh, Trainer? So you stayed behind, huh.",
+            "name": "Mejiro Dober",
+            "path_id": 3672006577207015284,
+            "block_id": 11,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "You're not going to the festival?",
+                    "hash": "0eb9286c8c920710a2c3d8d383b0fdd03d04a1a86c84174cbfe2c4af2b612083"
+                },
+                {
+                    "text": "You're not going to the festival?",
+                    "hash": "d4b9b4cf4bd77167711f6f8959f284aaee03dddea7e7c6543e615e5062a34cf4"
+                }
+            ],
+            "processed": "<story>Oh, Trainer? So you stayed behind, huh."
+        },
+        {
+            "text": "I have something I need to take care of. \nAnd when there's nobody around, it's easier to focus.",
+            "name": "Mejiro Dober",
+            "path_id": -2312678581025700442,
+            "block_id": 12,
+            "clip_length": 160,
+            "processed": "<story>I have something I need to take care of. \n<story>And when there's nobody around, it's easier to focus."
+        },
+        {
+            "text": "…………Hey, Trainer. Can you draw backgrounds?",
+            "name": "Mejiro Dober",
+            "path_id": -6879969982683028921,
+            "block_id": 13,
+            "clip_length": 145,
+            "choices": [
+                {
+                    "text": "Backgrounds?",
+                    "hash": "a0c166b329abea4bffd7078dbcd4942d63c221b0aee0bedc02f449f3811d9999"
+                }
+            ],
+            "processed": "<story>…………Hey, Trainer. Can you draw backgrounds?"
+        },
+        {
+            "text": "Well…… you see, I was making a 『Veggie Carolyn』 \npicture book based on the movie.",
+            "name": "Mejiro Dober",
+            "path_id": -4964741060661417684,
+            "block_id": 14,
+            "clip_length": 209,
+            "processed": "<story>Well…… you see, I was making a 『Veggie Carolyn』 \n<story>picture book based on the movie."
+        },
+        {
+            "text": "Ah-, sorry. It's a weird thing to ask all of \na sudden, huh? You see…… I'm making a storybook \nversion of the 『Veggie Carolyn』 movie.",
+            "name": "Mejiro Dober",
+            "path_id": 131784617046265248,
+            "block_id": 15,
+            "clip_length": 324,
+            "processed": "<story>Ah-, sorry. It's a weird thing to ask all of \n<story>a sudden, huh? You see…… I'm making a storybook \n<story>version of the 『Veggie Carolyn』 movie."
+        },
+        {
+            "text": "My little brother and sister…… it seems like they can't go to the \ntheater. Probably because they're not old enough to be able to \nsit still for that long.",
+            "name": "Mejiro Dober",
+            "path_id": 841993375542682552,
+            "block_id": 16,
+            "clip_length": 325,
+            "processed": "<story>My little brother and sister…… it seems like they can't go to the \n<story>theater. Probably because they're not old enough to be able to \n<story>sit still for that long."
+        },
+        {
+            "text": "My little brother and sister…… it seems like they can't go to the \ntheater. Probably because they're not old enough to be able to \nsit still for that long.",
+            "name": "Mejiro Dober",
+            "path_id": 1478861275863390765,
+            "block_id": 17,
+            "clip_length": 325,
+            "processed": "<story>My little brother and sister…… it seems like they can't go to the \n<story>theater. Probably because they're not old enough to be able to \n<story>sit still for that long."
+        },
+        {
+            "text": "That's why, I was thinking of making a picture book about that \nstory for them…… That way they can enjoy it too, right?",
+            "name": "Mejiro Dober",
+            "path_id": -6278263867167902705,
+            "block_id": 18,
+            "clip_length": 231,
+            "processed": "<story>That's why, I was thinking of making a picture book about that \n<story>story for them…… That way they can enjoy it too, right?"
+        },
+        {
+            "text": "And, I was able to draw the characters but…… there's just an \nendless number of backgrounds. Even doing just one, takes a \nreally long time, you see……",
+            "name": "Mejiro Dober",
+            "path_id": 6655372127057376600,
+            "block_id": 19,
+            "clip_length": 335,
+            "processed": "<story>And, I was able to draw the characters but…… there's just an \n<story>endless number of backgrounds. Even doing just one, takes a \n<story>really long time, you see……"
+        },
+        {
+            "text": "That makes sense, the movie took place on an uninhabited island \nso there were various backgrounds. Beaches, a forest, and an \nabandoned villa, etc.――",
+            "name": "",
+            "path_id": -8381307924689427228,
+            "block_id": 20,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "……How about using photos?",
+                    "hash": "5ac94edba98b7b55c1d98905c3545322a103553d1345ec75440d2bc6176911a0"
+                }
+            ],
+            "processed": "<story>That makes sense, the movie took place on an uninhabited island \n<story>so there were various backgrounds. Beaches, a forest, and an \n<story>abandoned villa, etc.――"
+        },
+        {
+            "text": "Eh, photos……? What do you mean by that?",
+            "name": "Mejiro Dober",
+            "path_id": 8473685745432880136,
+            "block_id": 21,
+            "clip_length": 112,
+            "processed": "<story>Eh, photos……? What do you mean by that?"
+        },
+        {
+            "text": "We're near a beach right now. There's a forest nearby too. On top \nof that, this dorm kind of looks like a villa. In other words, it \nhas all the places from the movie.",
+            "name": "",
+            "path_id": -7836318171090938760,
+            "block_id": 22,
+            "clip_length": 116,
+            "processed": "<story>We're near a beach right now. There's a forest nearby too. On top \n<story>of that, this dorm kind of looks like a villa. In other words, it \n<story>has all the places from the movie."
+        },
+        {
+            "text": "In that case, she could cut out the pictures of the characters \nand take photos of them in front of a background. I suggested it \nmight be easier to finish it this way.",
+            "name": "",
+            "path_id": -6639184092860976710,
+            "block_id": 23,
+            "clip_length": 118,
+            "processed": "<story>In that case, she could cut out the pictures of the characters \n<story>and take photos of them in front of a background. I suggested it \n<story>might be easier to finish it this way."
+        },
+        {
+            "text": "……………………You, are you really Trainer? That's a great idea.",
+            "name": "Mejiro Dober",
+            "path_id": -4899219214296221611,
+            "block_id": 24,
+            "clip_length": 191,
+            "processed": "<story>……………………You, are you really Trainer? That's a great idea."
+        },
+        {
+            "text": "Trainer, that's a really good idea!",
+            "name": "Mejiro Dober",
+            "path_id": -5621972508141512919,
+            "block_id": 25,
+            "clip_length": 94,
+            "processed": "<story>Trainer, that's a really good idea!"
+        },
+        {
+            "text": "I could get the photos I took printed out larger, \nand if I attached them to a large paper……it \nwould definitely be like a storybook!",
+            "name": "Mejiro Dober",
+            "path_id": -6964361063076171164,
+            "block_id": 26,
+            "clip_length": 182,
+            "processed": "<story>I could get the photos I took printed out larger, \n<story>and if I attached them to a large paper……it \n<story>would definitely be like a storybook!"
+        },
+        {
+            "text": "I could get the photos I took printed out larger, \nand if I attached them to a large paper……it \nwould definitely be like a storybook!",
+            "name": "Mejiro Dober",
+            "path_id": -937593881412900223,
+            "block_id": 27,
+            "clip_length": 182,
+            "processed": "<story>I could get the photos I took printed out larger, \n<story>and if I attached them to a large paper……it \n<story>would definitely be like a storybook!"
+        },
+        {
+            "text": "Then I just need to cut out the characters, then take pictures on \nthe beach―― I wonder if I can finish before everyone comes back!?",
+            "name": "Mejiro Dober",
+            "path_id": -4776037041387536490,
+            "block_id": 28,
+            "clip_length": 187,
+            "choices": [
+                {
+                    "text": "I'll help you!",
+                    "hash": "1a8474aa2ec4e2f744d667e381e4ba3b72b42ef8f2a0ead3963eb5e833efdd65"
+                }
+            ],
+            "processed": "<story>Then I just need to cut out the characters, then take pictures on \n<story>the beach―― I wonder if I can finish before everyone comes back!?"
+        },
+        {
+            "text": "……I figured you'd say that.",
+            "name": "Mejiro Dober",
+            "path_id": 5416819483771639904,
+            "block_id": 29,
+            "clip_length": 110,
+            "processed": "<story>……I figured you'd say that."
+        },
+        {
+            "text": "Yeah, I was expecting that.",
+            "name": "Mejiro Dober",
+            "path_id": 4503603657280391250,
+            "block_id": 30,
+            "clip_length": 103,
+            "processed": "<story>Yeah, I was expecting that."
+        },
+        {
+            "text": "Even if I declined the offer, you're not one to give up, I guess. \nI think I'm starting to understand you better.",
+            "name": "Mejiro Dober",
+            "path_id": -8645536849756154238,
+            "block_id": 31,
+            "clip_length": 203,
+            "processed": "<story>Even if I declined the offer, you're not one to give up, I guess. \n<story>I think I'm starting to understand you better."
+        },
+        {
+            "text": "Trainer, before you told me that if I was troubled \nby anything I should talk to you, right? That's \nwhy, I was planning on asking you.",
+            "name": "Mejiro Dober",
+            "path_id": 7619991712770760819,
+            "block_id": 32,
+            "clip_length": 272,
+            "processed": "<story>Trainer, before you told me that if I was troubled \n<story>by anything I should talk to you, right? That's \n<story>why, I was planning on asking you."
+        },
+        {
+            "text": "Alright, let's meet up in the main room in five minutes.",
+            "name": "Mejiro Dober",
+            "path_id": 7948644107354615262,
+            "block_id": 33,
+            "clip_length": 102,
+            "processed": "<story>Alright, let's meet up in the main room in five minutes."
+        },
+        {
+            "text": "Alright, let's meet up in the main room in five minutes.",
+            "name": "Mejiro Dober",
+            "path_id": -3691477556709342635,
+            "block_id": 34,
+            "clip_length": 96,
+            "processed": "<story>Alright, let's meet up in the main room in five minutes."
+        },
+        {
+            "text": "Then, after cutting out all the character illustrations―― \nwe moved on to the photography work.",
+            "name": "",
+            "path_id": 5088152112110138132,
+            "block_id": 35,
+            "clip_length": 99,
+            "processed": "<story>Then, after cutting out all the character illustrations―― \n<story>we moved on to the photography work."
+        },
+        {
+            "text": "Then, after cutting out all the character illustrations―― \nwe moved on to the photography work.",
+            "name": "",
+            "path_id": 5368088201067751042,
+            "block_id": 36,
+            "clip_length": 101,
+            "processed": "<story>Then, after cutting out all the character illustrations―― \n<story>we moved on to the photography work."
+        },
+        {
+            "text": "Trainer, more to the right! Stretch your arms out as much as you \ncan! Otherwise you'll be in the picture too!",
+            "name": "Mejiro Dober",
+            "path_id": -8808594509839157505,
+            "block_id": 37,
+            "clip_length": 190,
+            "processed": "<story>Trainer, more to the right! Stretch your arms out as much as you \n<story>can! Otherwise you'll be in the picture too!"
+        },
+        {
+            "text": "Trainer? Is there something about the window……ah, that's good! So \nI can make the characters stand behind the window! Like watching \nthem from outside the room!",
+            "name": "Mejiro Dober",
+            "path_id": 114878265528594270,
+            "block_id": 38,
+            "clip_length": 282,
+            "processed": "<story>Trainer? Is there something about the window……ah, that's good! So \n<story>I can make the characters stand behind the window! Like watching \n<story>them from outside the room!"
+        },
+        {
+            "text": "I want the running to be a bit more realistic. \nTrainer, can you dash for a bit?",
+            "name": "Mejiro Dober",
+            "path_id": 6695588361177009924,
+            "block_id": 39,
+            "clip_length": 213,
+            "processed": "<story>I want the running to be a bit more realistic. \n<story>Trainer, can you dash for a bit?"
+        },
+        {
+            "text": "What, you're gonna leave it there? Fufuu, that's kind of \nmysterious! Searching for the characters in the backgrounds would \nbe fun! Thanks for the idea!",
+            "name": "Mejiro Dober",
+            "path_id": -1682490565601911424,
+            "block_id": 40,
+            "clip_length": 274,
+            "processed": "<story>What, you're gonna leave it there? Fufuu, that's kind of \n<story>mysterious! Searching for the characters in the backgrounds would \n<story>be fun! Thanks for the idea!"
+        },
+        {
+            "text": "I'll get a picture of the beach during daytime tomorrow. \nFor now, this will be the last for tonight.",
+            "name": "Mejiro Dober",
+            "path_id": -2105937592755684275,
+            "block_id": 41,
+            "clip_length": 215,
+            "processed": "<story>I'll get a picture of the beach during daytime tomorrow. \n<story>For now, this will be the last for tonight."
+        },
+        {
+            "text": "I'll get a picture of the beach during daytime tomorrow. \nFor now, this will be the last for tonight.",
+            "name": "Mejiro Dober",
+            "path_id": -717243011466707217,
+            "block_id": 42,
+            "clip_length": 215,
+            "processed": "<story>I'll get a picture of the beach during daytime tomorrow. \n<story>For now, this will be the last for tonight."
+        },
+        {
+            "text": "Don't move, Trainer. 3, 2, 1――",
+            "name": "Mejiro Dober",
+            "path_id": 1201073414655743827,
+            "block_id": 43,
+            "clip_length": 161,
+            "processed": "<story>Don't move, Trainer. 3, 2, 1――"
+        },
+        {
+            "text": "Okay, got itー!",
+            "name": "Mejiro Dober",
+            "path_id": 7218912255602876909,
+            "block_id": 44,
+            "clip_length": 51,
+            "processed": "<story>Okay, got itー!"
+        },
+        {
+            "text": "(Hyururururu……Bang! Boooom!!)",
+            "name": "",
+            "path_id": -9155933650047874442,
+            "block_id": 45,
+            "clip_length": 72,
+            "processed": "<story>(Hyururururu……Bang! Boooom!!)"
+        },
+        {
+            "text": "Fireworks……!",
+            "name": "Mejiro Dober",
+            "path_id": -1529163331968000288,
+            "block_id": 46,
+            "clip_length": 35,
+            "processed": "<story>Fireworks……!"
+        },
+        {
+            "text": "The festival……is probably over by now……",
+            "name": "Mejiro Dober",
+            "path_id": -1405683310977047360,
+            "block_id": 47,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "Do you want to head over now?",
+                    "hash": "367be2329a089a5eda60b8ad8f89e78512b6c3e740ae38bab977bed0e75cc16a"
+                }
+            ],
+            "processed": "<story>The festival……is probably over by now……"
+        },
+        {
+            "text": "The stalls are probably all closed by now, don't you think? \nAnd I already asked Ryan and the others to get some souvenirs.",
+            "name": "Mejiro Dober",
+            "path_id": -2724196154653523939,
+            "block_id": 48,
+            "clip_length": 210,
+            "processed": "<story>The stalls are probably all closed by now, don't you think? \n<story>And I already asked Ryan and the others to get some souvenirs."
+        },
+        {
+            "text": "――But festivals, huh…… I used to go to them \nwith Ryan and the others all the time.",
+            "name": "Mejiro Dober",
+            "path_id": 2532708993663077589,
+            "block_id": 49,
+            "clip_length": 160,
+            "processed": "<story>――But festivals, huh…… I used to go to them \n<story>with Ryan and the others all the time."
+        },
+        {
+            "text": "Fuee…… there are so many people…… \nRyan, don't let go of my hand…… no matter what.",
+            "name": "Young Dober",
+            "path_id": 4054628396331030039,
+            "block_id": 50,
+            "clip_length": 227,
+            "processed": "<story>Fuee…… there are so many people…… \n<story>Ryan, don't let go of my hand…… no matter what."
+        },
+        {
+            "text": "Ah…… cotton candy. Ryan, I found cotton candy. \nSee, over there. C'mon, let's eat some cotton candy, okay?",
+            "name": "Young Dober",
+            "path_id": 5535761350869295562,
+            "block_id": 51,
+            "clip_length": 234,
+            "processed": "<story>Ah…… cotton candy. Ryan, I found cotton candy. \n<story>See, over there. C'mon, let's eat some cotton candy, okay?"
+        },
+        {
+            "text": "I'd get Ryan to hold my hand. Saying I want to do that, I want to \neat that, and I'd end up dragging her around like that……",
+            "name": "Mejiro Dober",
+            "path_id": 6704043162228585583,
+            "block_id": 52,
+            "clip_length": 266,
+            "choices": [
+                {
+                    "text": "You're really close, huh?",
+                    "hash": "d87add4aeeaca30013213bdd30aaf5b47bc778c1cb9206522dd74777ad06c181"
+                },
+                {
+                    "text": "You're really close, huh?",
+                    "hash": "eac3324d90c2594de2202468428927e4eecef3f446dc90bd69b0c904e18d90a8"
+                }
+            ],
+            "processed": "<story>I'd get Ryan to hold my hand. Saying I want to do that, I want to \n<story>eat that, and I'd end up dragging her around like that……"
+        },
+        {
+            "text": "My mom was usually busy with work. Because of \nthat, when I was little, I'd play with everyone \nat the Mejiro household pretty often.",
+            "name": "Mejiro Dober",
+            "path_id": 7776364407133297748,
+            "block_id": 53,
+            "clip_length": 235,
+            "processed": "<story>My mom was usually busy with work. Because of \n<story>that, when I was little, I'd play with everyone \n<story>at the Mejiro household pretty often."
+        },
+        {
+            "text": "Ryan looked after me a lot…… 一When I was with her, \nI'd feel reassured and it was always fun.",
+            "name": "Mejiro Dober",
+            "path_id": -2208559299479743398,
+            "block_id": 54,
+            "clip_length": 241,
+            "processed": "<story>Ryan looked after me a lot…… 一When I was with her, \n<story>I'd feel reassured and it was always fun."
+        },
+        {
+            "text": "That's why when I got a little sister and brother…… \nI thought it was my turn to be a proper big sister.",
+            "name": "Mejiro Dober",
+            "path_id": 2798693346158540701,
+            "block_id": 55,
+            "clip_length": 242,
+            "processed": "<story>That's why when I got a little sister and brother…… \n<story>I thought it was my turn to be a proper big sister."
+        },
+        {
+            "text": "All the things she did for me that made me happy…… \nI wanted to do the same thing for them.",
+            "name": "Mejiro Dober",
+            "path_id": -4047169155529493323,
+            "block_id": 56,
+            "clip_length": 167,
+            "processed": "<story>All the things she did for me that made me happy…… \n<story>I wanted to do the same thing for them."
+        },
+        {
+            "text": "Though, so far I haven't been able to do anything for them. \nI live in the dorms, so I don't get many chances to see them though.",
+            "name": "Mejiro Dober",
+            "path_id": 3531285555538595087,
+            "block_id": 57,
+            "clip_length": 206,
+            "processed": "<story>Though, so far I haven't been able to do anything for them. \n<story>I live in the dorms, so I don't get many chances to see them though."
+        },
+        {
+            "text": "And when I meet them…… I don't really \nknow how to interact with them.",
+            "name": "Mejiro Dober",
+            "path_id": -4651588037691507936,
+            "block_id": 58,
+            "clip_length": 139,
+            "processed": "<story>And when I meet them…… I don't really \n<story>know how to interact with them."
+        },
+        {
+            "text": "But just recently, when I happened to be drawing 『Veggie Carolyn』, \nthey started begging me to draw more.",
+            "name": "Mejiro Dober",
+            "path_id": 7163198815247087435,
+            "block_id": 59,
+            "clip_length": 216,
+            "choices": [
+                {
+                    "text": "So that's why you were practicing",
+                    "hash": "0f4e7db0afe234ee405e6a1ac2522212a25fcc2f4d137ff5e6789a36f994d9a3"
+                },
+                {
+                    "text": "So that's why you were practicing",
+                    "hash": "1fdb71819b8a23a05ca04042d24d8645a31bf852a347a8110cdfdcb754cda86e"
+                }
+            ],
+            "processed": "<story>But just recently, when I happened to be drawing 『Veggie Carolyn』, \n<story>they started begging me to draw more."
+        },
+        {
+            "text": "Yeah. I can kind of draw…… so I wondered if I \ncould draw anything for them…… and here we are.",
+            "name": "Mejiro Dober",
+            "path_id": -8634251113426381438,
+            "block_id": 60,
+            "clip_length": 236,
+            "choices": [
+                {
+                    "text": "So you thought of a storybook",
+                    "hash": "12c1d7a5c3bff0cb20572c2db8772f9d909bc1b86133b6e8cba2d4485749311e"
+                },
+                {
+                    "text": "So you thought of a storybook",
+                    "hash": "a075b38bf5931c35974d819b7c7db2257ab9057d5d8d98de5fc50e436ea0324e"
+                }
+            ],
+            "processed": "<story>Yeah. I can kind of draw…… so I wondered if I \n<story>could draw anything for them…… and here we are."
+        },
+        {
+            "text": "Palmer always had a storybook with her. Fufu…… \neven now it feels like I'm always relying on my older sisters.",
+            "name": "Mejiro Dober",
+            "path_id": -577157323931697094,
+            "block_id": 61,
+            "clip_length": 297,
+            "choices": [
+                {
+                    "text": "You look like an older sister now",
+                    "hash": "d49728d329b27931236648f189f502b93b3275cda32de53ab0262832b9530d3c"
+                }
+            ],
+            "processed": "<story>Palmer always had a storybook with her. Fufu…… \n<story>even now it feels like I'm always relying on my older sisters."
+        },
+        {
+            "text": "Hee!? I-I look like an older sister? What do you mean……!? \nTrainer, aren't you just saying that?",
+            "name": "Mejiro Dober",
+            "path_id": 3042333769118354300,
+            "block_id": 62,
+            "clip_length": 198,
+            "processed": "<story>Hee!? I-I look like an older sister? What do you mean……!? \n<story>Trainer, aren't you just saying that?"
+        },
+        {
+            "text": "I-I look like an older sister……? \nI don't really know if I do but…… do you think so?",
+            "name": "Mejiro Dober",
+            "path_id": 5963396864289893705,
+            "block_id": 63,
+            "clip_length": 221,
+            "processed": "<story>I-I look like an older sister……? \n<story>I don't really know if I do but…… do you think so?"
+        },
+        {
+            "text": "I don't think I'm anything like a big sister though. But, if they \ncan enjoy this storybook then…… maybe just a little bit……",
+            "name": "Mejiro Dober",
+            "path_id": -4953658152883547258,
+            "block_id": 64,
+            "clip_length": 334,
+            "processed": "<story>I don't think I'm anything like a big sister though. But, if they \n<story>can enjoy this storybook then…… maybe just a little bit……"
+        },
+        {
+            "text": "I don't think I'm anything like a big sister though…… \nBut, if they can enjoy this storybook then…… maybe \nI can start seeing myself like that.",
+            "name": "Mejiro Dober",
+            "path_id": 7408891178661290929,
+            "block_id": 65,
+            "clip_length": 353,
+            "processed": "<story>I don't think I'm anything like a big sister though…… \n<story>But, if they can enjoy this storybook then…… maybe \n<story>I can start seeing myself like that."
+        },
+        {
+            "text": "Well, I'm also grateful that you helped me out! After I get back \nfrom showing them…… I guess, I'll let you know how it went.",
+            "name": "Mejiro Dober",
+            "path_id": -1147673756925530610,
+            "block_id": 66,
+            "clip_length": 295,
+            "processed": "<story>Well, I'm also grateful that you helped me out! After I get back \n<story>from showing them…… I guess, I'll let you know how it went."
+        },
+        {
+            "text": "Trainer helped out with a lot of things so after \nI get back from showing them…… I'll let you know how it went!",
+            "name": "Mejiro Dober",
+            "path_id": 9043912520921135386,
+            "block_id": 67,
+            "clip_length": 206,
+            "processed": "<story>Trainer helped out with a lot of things so after \n<story>I get back from showing them…… I'll let you know how it went!"
+        },
+        {
+            "text": "Alright, we should probably head back. \nThe fireworks will probably be over soon.",
+            "name": "Mejiro Dober",
+            "path_id": 141382906059489846,
+            "block_id": 68,
+            "clip_length": 166,
+            "processed": "<story>Alright, we should probably head back. \n<story>The fireworks will probably be over soon."
+        },
+        {
+            "text": "Alright, we should probably head back. \nThe fireworks will probably be over soon.",
+            "name": "Mejiro Dober",
+            "path_id": -1951938296205769490,
+            "block_id": 69,
+            "clip_length": 166,
+            "processed": "<story>Alright, we should probably head back. \n<story>The fireworks will probably be over soon."
+        },
+        {
+            "text": "……Once they both get a little older…… \nI want to bring them to a festival too……",
+            "name": "Mejiro Dober",
+            "path_id": 1254080911367449845,
+            "block_id": 70,
+            "clip_length": 231,
+            "processed": "<story>……Once they both get a little older…… \n<story>I want to bring them to a festival too……"
+        },
+        {
+            "text": "While looking up at the fireworks and thinking about her younger \nsiblings, Mejiro Dober had a gentle smile on her face.",
+            "name": "",
+            "path_id": -6135758346625401045,
+            "block_id": 71,
+            "clip_length": 120,
+            "processed": "<story>While looking up at the fireworks and thinking about her younger \n<story>siblings, Mejiro Dober had a gentle smile on her face."
+        }
+    ],
+    "title": "That Is, Precious"
+}

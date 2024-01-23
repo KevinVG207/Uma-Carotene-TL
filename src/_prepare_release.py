@@ -7,7 +7,7 @@ import postprocess
 def main():
     _unpatch.main()
     # _fill_duplicates.main()
-    autofill_mdb.main()
+    autofill_mdb.run()
     intermediate.mdb_from_intermediate()
     intermediate.assets_from_intermediate()
     intermediate.assembly_from_intermediate()

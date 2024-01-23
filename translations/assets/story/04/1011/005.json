@@ -1,0 +1,310 @@
+{
+    "type": "story",
+    "row_index": 353,
+    "file_name": "story/data/04/1011/storytimeline_041011005",
+    "hash": "4NZ6WPBIBOKIX37RUKX4QUQ3XYSAHJSR",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -6060470450168460153,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "One day after training――",
+            "name": "",
+            "path_id": 8551438485040473211,
+            "block_id": 1,
+            "clip_length": 65,
+            "processed": "<story>One day after training――"
+        },
+        {
+            "text": "Good work, Trainer-san. I found a \ndelicious tea, so I'll prepare it now.",
+            "name": "Grass Wonder",
+            "path_id": 438420865385145579,
+            "block_id": 2,
+            "clip_length": 219,
+            "processed": "<story>Good work, Trainer-san. I found a \n<story>delicious tea, so I'll prepare it now."
+        },
+        {
+            "text": "Even if it was to recover fatigue from the previous race, \nthe training felt so light that it was a little unsatisfying～.",
+            "name": "Grass Wonder",
+            "path_id": 1955633188017945278,
+            "block_id": 3,
+            "clip_length": 286,
+            "processed": "<story>Even if it was to recover fatigue from the previous race, \n<story>the training felt so light that it was a little unsatisfying～."
+        },
+        {
+            "text": "Today, again, it ended before the sun had set……",
+            "name": "Grass Wonder",
+            "path_id": 2865629614965775242,
+            "block_id": 4,
+            "clip_length": 131,
+            "choices": [
+                {
+                    "text": "Let's prioritize rest for now",
+                    "hash": "024048b14cc343fa7fe33aedd556a8f497803bf84ff9976a513053fb8896274e"
+                },
+                {
+                    "text": "Let's prioritize rest for now",
+                    "hash": "d313435be45c83e91bcfda12517a30bc1f98582d5de8658cbc657dab7b270746"
+                }
+            ],
+            "processed": "<story>Today, again, it ended before the sun had set……"
+        },
+        {
+            "text": "Fufuu, of course, I understand. So that I can \nwin the next race, I need to properly rest…… right?",
+            "name": "Grass Wonder",
+            "path_id": -7656291838694112290,
+            "block_id": 5,
+            "clip_length": 284,
+            "processed": "<story>Fufuu, of course, I understand. So that I can \n<story>win the next race, I need to properly rest…… right?"
+        },
+        {
+            "text": "『It'll be too late once something happens』―― \nTrainer-san, I'm always grateful for your consideration♪",
+            "name": "Grass Wonder",
+            "path_id": 670356040839908255,
+            "block_id": 6,
+            "clip_length": 248,
+            "processed": "<story>『It'll be too late once something happens』―― \n<story>Trainer-san, I'm always grateful for your consideration♪"
+        },
+        {
+            "text": "(Ding dong ding……)",
+            "name": "",
+            "path_id": 1287577496701970710,
+            "block_id": 7,
+            "clip_length": 68,
+            "processed": "<story>(Ding dong ding……)"
+        },
+        {
+            "text": "『Grass Wonder-san, the Student Council President is calling you. \nPlease make your way to the student council room』",
+            "name": "School Broadcast",
+            "path_id": -8336603687480336596,
+            "block_id": 8,
+            "clip_length": 198,
+            "processed": "<story>『Grass Wonder-san, the Student Council President is calling you. \n<story>Please make your way to the student council room』"
+        },
+        {
+            "text": "Oh, what could that possibly be about……?",
+            "name": "Grass Wonder",
+            "path_id": 7615118768594546322,
+            "block_id": 9,
+            "clip_length": 115,
+            "processed": "<story>Oh, what could that possibly be about……?"
+        },
+        {
+            "text": "Trainer-san, I have returned～.",
+            "name": "Grass Wonder",
+            "path_id": 987200046513027644,
+            "block_id": 10,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Why did they call you?",
+                    "hash": "04edd01caff8961138fd3d168246b6305853065123511a75c9ec6782c159ae56"
+                },
+                {
+                    "text": "Why did they call you?",
+                    "hash": "c2651471f317ff70ea15800cf370955a805a06fb6f7dd67d023fc711869a16a6"
+                }
+            ],
+            "processed": "<story>Trainer-san, I have returned～."
+        },
+        {
+            "text": "It seems that they wanted to request that I participate in the \nmock race they're holding at the school's orientation.",
+            "name": "Grass Wonder",
+            "path_id": -1239260982477186712,
+            "block_id": 11,
+            "clip_length": 213,
+            "processed": "<story>It seems that they wanted to request that I participate in the \n<story>mock race they're holding at the school's orientation."
+        },
+        {
+            "text": "For all those girls who dream of the Twinkle Series, \nto think they'd be watching me race, it's quite the honor♪",
+            "name": "Grass Wonder",
+            "path_id": 1031914182339248257,
+            "block_id": 12,
+            "clip_length": 222,
+            "processed": "<story>For all those girls who dream of the Twinkle Series, \n<story>to think they'd be watching me race, it's quite the honor♪"
+        },
+        {
+            "text": "Then we should get to training…… Oh, Trainer-san, \nyou've been staring at me for a while, is something wrong?",
+            "name": "Grass Wonder",
+            "path_id": -5872636706187881687,
+            "block_id": 13,
+            "clip_length": 322,
+            "choices": [
+                {
+                    "text": "Don't push yourself too hard, ok?",
+                    "hash": "be3bf3895362e71cbb86e8f198f4ffe1e9828fcf9853dc8861741e199a7ded05"
+                },
+                {
+                    "text": "Don't push yourself too hard, ok?",
+                    "hash": "2b6ee516e33f41a6a9b97a780f80d005e79dd8f7836f2908bab481d440b748d4"
+                }
+            ],
+            "processed": "<story>Then we should get to training…… Oh, Trainer-san, \n<story>you've been staring at me for a while, is something wrong?"
+        },
+        {
+            "text": "Oh, that's right. \nI was so happy to be selected, that I couldn't help it.",
+            "name": "Grass Wonder",
+            "path_id": -4490713290621209809,
+            "block_id": 14,
+            "clip_length": 169,
+            "processed": "<story>Oh, that's right. \n<story>I was so happy to be selected, that I couldn't help it."
+        },
+        {
+            "text": "Well then, I'll adjust my running, a little bit, accordingly.",
+            "name": "Grass Wonder",
+            "path_id": 7302119087719667664,
+            "block_id": 15,
+            "clip_length": 136,
+            "processed": "<story>Well then, I'll adjust my running, a little bit, accordingly."
+        },
+        {
+            "text": "Trainer-san, it's fine if you head home first. \nThere's no issue if I do the adjustments on my own～",
+            "name": "Grass Wonder",
+            "path_id": -5382539080943247972,
+            "block_id": 16,
+            "clip_length": 213,
+            "processed": "<story>Trainer-san, it's fine if you head home first. \n<story>There's no issue if I do the adjustments on my own～"
+        },
+        {
+            "text": "『A little bit』 is what Grass Wonder said but, she had originally \nrefused scouts until she was satisfied with her own results.",
+            "name": "",
+            "path_id": 4999034032826694558,
+            "block_id": 17,
+            "clip_length": 111,
+            "processed": "<story>『A little bit』 is what Grass Wonder said but, she had originally \n<story>refused scouts until she was satisfied with her own results."
+        },
+        {
+            "text": "Even if it was just a mock race, if she herself \nwanted to win, then she'd probably go too far…… \nthinking that, I went to check on her――",
+            "name": "",
+            "path_id": 8793787763146666303,
+            "block_id": 18,
+            "clip_length": 115,
+            "processed": "<story>Even if it was just a mock race, if she herself \n<story>wanted to win, then she'd probably go too far…… \n<story>thinking that, I went to check on her――"
+        },
+        {
+            "text": "Haa…… Haa…… Haa…… Haa…… Haa……",
+            "name": "Grass Wonder",
+            "path_id": 1718389810007346038,
+            "block_id": 19,
+            "clip_length": 143,
+            "processed": "<story>Haa…… Haa…… Haa…… Haa…… Haa……"
+        },
+        {
+            "text": "Huu…… 3 more laps…… \nBut with a faster time……!",
+            "name": "Grass Wonder",
+            "path_id": -8013190905218228023,
+            "block_id": 20,
+            "clip_length": 237,
+            "processed": "<story>Huu…… 3 more laps…… \n<story>But with a faster time……!"
+        },
+        {
+            "text": "As I predicted, she was doing the same amount of \ntraining she would normally do before a race.",
+            "name": "",
+            "path_id": 690018080547614174,
+            "block_id": 21,
+            "clip_length": 85,
+            "processed": "<story>As I predicted, she was doing the same amount of \n<story>training she would normally do before a race."
+        },
+        {
+            "text": "I know how strong her desire for victory is. At the very least, \nI would make sure she didn't push herself too hard. And then――",
+            "name": "",
+            "path_id": 4351955991559178602,
+            "block_id": 22,
+            "clip_length": 105,
+            "processed": "<story>I know how strong her desire for victory is. At the very least, \n<story>I would make sure she didn't push herself too hard. And then――"
+        },
+        {
+            "text": "So fast!! \nGrass Wonder drives in on the straight!!",
+            "name": "Announcer Uma Musume",
+            "path_id": 4915347554393731289,
+            "block_id": 23,
+            "clip_length": 135,
+            "processed": "<story>So fast!! \n<story>Grass Wonder drives in on the straight!!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "And just like that she stays in front! \nFirst place is Grass Wonder!",
+            "name": "Announcer Uma Musume",
+            "path_id": 5202300513181927487,
+            "block_id": 24,
+            "clip_length": 165,
+            "processed": "<story>And just like that she stays in front! \n<story>First place is Grass Wonder!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "It was an overwhelming victory for Grass Wonder. \nAnd after that, the younger girls started gathering around her.",
+            "name": "",
+            "path_id": -4281494713132213241,
+            "block_id": 25,
+            "clip_length": 95,
+            "processed": "<story>It was an overwhelming victory for Grass Wonder. \n<story>And after that, the younger girls started gathering around her."
+        },
+        {
+            "text": "Onee～chan, you're so strooo～ng!",
+            "name": "Uma Musume Girl A",
+            "path_id": -3880519462290176117,
+            "block_id": 26,
+            "clip_length": 93,
+            "processed": "<story>Onee～chan, you're so strooo～ng!"
+        },
+        {
+            "text": "Onee～chan looks so kind, \nbut she's almost like a \"monster\"～! Amaaaaazing～!",
+            "name": "Uma Musume Girl B",
+            "path_id": 9188770544946464620,
+            "block_id": 27,
+            "clip_length": 169,
+            "processed": "<story>Onee～chan looks so kind, \n<story>but she's almost like a \"monster\"～! Amaaaaazing～!"
+        },
+        {
+            "text": "Fufuu, a \"monster\", is it? I'm honored♪",
+            "name": "Grass Wonder",
+            "path_id": 8624190348875326820,
+            "block_id": 28,
+            "clip_length": 147,
+            "choices": [
+                {
+                    "text": "(Monster, huh……)",
+                    "hash": "06abddce780328ed14f664c0fb96301a2b3e9db146c93bf654dbfdc0de179f32"
+                }
+            ],
+            "processed": "<story>Fufuu, a \"monster\", is it? I'm honored♪"
+        },
+        {
+            "text": "Oh, Trainer-san. \nIs there something on my face?",
+            "name": "Grass Wonder",
+            "path_id": 8368550165707381510,
+            "block_id": 29,
+            "clip_length": 181,
+            "processed": "<story>Oh, Trainer-san. \n<story>Is there something on my face?"
+        },
+        {
+            "text": "I'll cheer for you in the Twinkle Series too, so win! \nMonster Onee～chan!",
+            "name": "Uma Musume Girl A",
+            "path_id": 2263082073408367554,
+            "block_id": 30,
+            "clip_length": 167,
+            "processed": "<story>I'll cheer for you in the Twinkle Series too, so win! \n<story>Monster Onee～chan!"
+        },
+        {
+            "text": "Yeah, I'll definitely win～. \nOnce you grow up, you can run together with Onee-chan too.",
+            "name": "Grass Wonder",
+            "path_id": 5612430388132466976,
+            "block_id": 31,
+            "clip_length": 266,
+            "processed": "<story>Yeah, I'll definitely win～. \n<story>Once you grow up, you can run together with Onee-chan too."
+        },
+        {
+            "text": "Grass Wonder's desire to win was unfathomable. \nIt was a mock race that reaffirmed how I needed to support her.",
+            "name": "",
+            "path_id": 8106429327133810269,
+            "block_id": 32,
+            "clip_length": 108,
+            "processed": "<story>Grass Wonder's desire to win was unfathomable. \n<story>It was a mock race that reaffirmed how I needed to support her."
+        }
+    ],
+    "title": "One's Own Path"
+}

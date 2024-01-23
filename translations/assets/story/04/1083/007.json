@@ -1,0 +1,554 @@
+{
+    "type": "story",
+    "row_index": 171524,
+    "file_name": "story/data/04/1083/storytimeline_041083007",
+    "hash": "XC5AR7XOTI2V2YBOE6JNT5FSO4WML65M",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8561386721575316497,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Tonight, I'd be attending a party together with Symboli Kris S. \nIt was a party held at the same time as the Summer Training camp――",
+            "name": "",
+            "path_id": -2404981301235452719,
+            "block_id": 1,
+            "clip_length": 116,
+            "processed": "<story>Tonight, I'd be attending a party together with Symboli Kris S. \n<story>It was a party held at the same time as the Summer Training camp――"
+        },
+        {
+            "text": "Welcome to the 『Racing Promotional Exchange』. \nSymboli Kris S-sama and one guest. Please, come aboard.",
+            "name": "Receptionist",
+            "path_id": -7504059801455910982,
+            "block_id": 2,
+            "clip_length": 238,
+            "choices": [
+                {
+                    "text": "Looking forward to the conversations",
+                    "hash": "cc1bb5819920dc197b73376869b4e819f7b028ca12117e04940364f744c3e2a3"
+                },
+                {
+                    "text": "Looking forward to the conversations",
+                    "hash": "b2221e92fb2a31b43f9c6b5691b135481db46f3f4c66318912e5472cf0f4dc7a"
+                }
+            ],
+            "processed": "<story>Welcome to the 『Racing Promotional Exchange』. \n<story>Symboli Kris S-sama and one guest. Please, come aboard."
+        },
+        {
+            "text": "――Yeah. \nA learning―― experience. ――Every little bit helps.",
+            "name": "Symboli Kris S",
+            "path_id": 4418914023577450251,
+            "block_id": 3,
+            "clip_length": 241,
+            "processed": "<story>――Yeah. \n<story>A learning―― experience. ――Every little bit helps."
+        },
+        {
+            "text": "――At the party, there were many notable faces that \nwere involved in the Uma Musume Racing world.",
+            "name": "",
+            "path_id": 5577443815128354711,
+            "block_id": 4,
+            "clip_length": 99,
+            "processed": "<story>――At the party, there were many notable faces that \n<story>were involved in the Uma Musume Racing world."
+        },
+        {
+            "text": "Famous trainers with many accolades to their name……the \nauthor of a book on racing theory that could be \ncalled mandatory reading……and so on.",
+            "name": "",
+            "path_id": -1455177298599000291,
+            "block_id": 5,
+            "clip_length": 116,
+            "processed": "<story>Famous trainers with many accolades to their name……the \n<story>author of a book on racing theory that could be \n<story>called mandatory reading……and so on."
+        },
+        {
+            "text": "Excuse me \n――those two glasses on the right.",
+            "name": "Symboli Kris S",
+            "path_id": -6187766824734930163,
+            "block_id": 6,
+            "clip_length": 161,
+            "processed": "<story>Excuse me \n<story>――those two glasses on the right."
+        },
+        {
+            "text": "Understood. \n……Please enjoy.",
+            "name": "Waiter",
+            "path_id": -3305282107713184830,
+            "block_id": 7,
+            "clip_length": 80,
+            "processed": "<story>Understood. \n<story>……Please enjoy."
+        },
+        {
+            "text": "――Trainer. ……Here.",
+            "name": "Symboli Kris S",
+            "path_id": 8435009694413519524,
+            "block_id": 8,
+            "clip_length": 79,
+            "choices": [
+                {
+                    "text": "Thanks",
+                    "hash": "5773be7d3dedf7cbda8a0ea503873b85d558dcbb78a636f491ed206a375eda3f"
+                }
+            ],
+            "processed": "<story>――Trainer. ……Here."
+        },
+        {
+            "text": "She took the initiative and acted as escort. \nMaybe she's used to these kinds of places――",
+            "name": "",
+            "path_id": -3390836918692381307,
+            "block_id": 9,
+            "clip_length": 95,
+            "processed": "<story>She took the initiative and acted as escort. \n<story>Maybe she's used to these kinds of places――"
+        },
+        {
+            "text": "And so―― Cheers! \nEveryone, please enjoy the festivities.",
+            "name": "Party Organizer",
+            "path_id": 2698454876575720737,
+            "block_id": 10,
+            "clip_length": 210,
+            "processed": "<story>And so―― Cheers! \n<story>Everyone, please enjoy the festivities."
+        },
+        {
+            "text": "――You're, Symboli Kris S-san right? The rumors weren't an \nexaggeration. That race the other day was amazing!",
+            "name": "Race Official",
+            "path_id": 1734521699137790304,
+            "block_id": 11,
+            "clip_length": 250,
+            "processed": "<story>――You're, Symboli Kris S-san right? The rumors weren't an \n<story>exaggeration. That race the other day was amazing!"
+        },
+        {
+            "text": "Thank you. \n――It's an honor.",
+            "name": "Symboli Kris S",
+            "path_id": -6254372889313030067,
+            "block_id": 12,
+            "clip_length": 87,
+            "processed": "<story>Thank you. \n<story>――It's an honor."
+        },
+        {
+            "text": "……Fufu, the cool-type I see.",
+            "name": "Race Official",
+            "path_id": 2433301717483693650,
+            "block_id": 13,
+            "clip_length": 109,
+            "processed": "<story>……Fufu, the cool-type I see."
+        },
+        {
+            "text": "I'm researching the best methods to train Uma Musumes. I'd love \nto hear about the experiences of a first-class runner like you.",
+            "name": "Race Researcher",
+            "path_id": 8021557903055410445,
+            "block_id": 14,
+            "clip_length": 237,
+            "processed": "<story>I'm researching the best methods to train Uma Musumes. I'd love \n<story>to hear about the experiences of a first-class runner like you."
+        },
+        {
+            "text": "Sure. \n……I don't mind.",
+            "name": "Symboli Kris S",
+            "path_id": -6503561644313952550,
+            "block_id": 15,
+            "clip_length": 83,
+            "processed": "<story>Sure. \n<story>……I don't mind."
+        },
+        {
+            "text": "Symboli Kris S was approached by attendees one after the other. \nI decided to watch over her while she mingled for now.",
+            "name": "",
+            "path_id": 445369795068154979,
+            "block_id": 16,
+            "clip_length": 114,
+            "processed": "<story>Symboli Kris S was approached by attendees one after the other. \n<story>I decided to watch over her while she mingled for now."
+        },
+        {
+            "text": "――The number of people approaching her had finally died down. \nAfter all that talking, she probably wanted something to drink.",
+            "name": "",
+            "path_id": 2531968858785127068,
+            "block_id": 17,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Want to take a break?",
+                    "hash": "96c3693a428aaec0823a123cf14b37bb902b6146d651b2e5e38bc31c5a88da3f"
+                }
+            ],
+            "processed": "<story>――The number of people approaching her had finally died down. \n<story>After all that talking, she probably wanted something to drink."
+        },
+        {
+            "text": "…………",
+            "name": "Symboli Kris S",
+            "path_id": -5883004402666858206,
+            "block_id": 18,
+            "clip_length": 32,
+            "processed": "<story>…………"
+        },
+        {
+            "text": "Oh…… It's already this late? \n――Well then, give me your hand.",
+            "name": "Symboli Kris S",
+            "path_id": 7686761932517146359,
+            "block_id": 19,
+            "clip_length": 248,
+            "processed": "<story>Oh…… It's already this late? \n<story>――Well then, give me your hand."
+        },
+        {
+            "text": "Symboli Kris S grabbed my hand and took me to the cafe area. \nMost of the attendees were on the deck, so there were few people.",
+            "name": "",
+            "path_id": 8605707310450148282,
+            "block_id": 20,
+            "clip_length": 123,
+            "processed": "<story>Symboli Kris S grabbed my hand and took me to the cafe area. \n<story>Most of the attendees were on the deck, so there were few people."
+        },
+        {
+            "text": "――If it's here…… we can sit down.",
+            "name": "Symboli Kris S",
+            "path_id": -3764628655834169648,
+            "block_id": 21,
+            "clip_length": 80,
+            "choices": [
+                {
+                    "text": "Thanks",
+                    "hash": "5773be7d3dedf7cbda8a0ea503873b85d558dcbb78a636f491ed206a375eda3f"
+                }
+            ],
+            "processed": "<story>――If it's here…… we can sit down."
+        },
+        {
+            "text": "――……",
+            "name": "Symboli Kris S",
+            "path_id": 7721989483938948770,
+            "block_id": 22,
+            "clip_length": 31,
+            "processed": "<story>――……"
+        },
+        {
+            "text": "The summer sky that was visible from the ship was expansive, \nclear, and brilliant. That brilliance was just like――",
+            "name": "",
+            "path_id": 2503892044262317790,
+            "block_id": 23,
+            "clip_length": 95,
+            "processed": "<story>The summer sky that was visible from the ship was expansive, \n<story>clear, and brilliant. That brilliance was just like――"
+        },
+        {
+            "text": "? ……――What's――so funny?",
+            "name": "Symboli Kris S",
+            "path_id": 1575884466543535100,
+            "block_id": 24,
+            "clip_length": 147,
+            "choices": [
+                {
+                    "text": "I'm glad the party seemed fun",
+                    "hash": "2e3eff5efd4b399019e21cd1ec2b0c2fe46e7e2aa3095c08dba2f9194b8bd6f2"
+                }
+            ],
+            "processed": "<story>? ……――What's――so funny?"
+        },
+        {
+            "text": "―――――Seemed fun……?",
+            "name": "Symboli Kris S",
+            "path_id": -2330039161323845614,
+            "block_id": 25,
+            "clip_length": 116,
+            "choices": [
+                {
+                    "text": "Your eyes were shining like these stars",
+                    "hash": "b113ffdac63678a0b349f6b8afa77a58cb8d5d26cb0e9c2e78f6d89ab8d05a78",
+                    "processed": "<size=42>Your eyes were shining like these stars</size>"
+                }
+            ],
+            "processed": "<story>―――――Seemed fun……?"
+        },
+        {
+            "text": "――…………",
+            "name": "Symboli Kris S",
+            "path_id": 6558798841420634215,
+            "block_id": 26,
+            "clip_length": 100,
+            "processed": "<story>――…………"
+        },
+        {
+            "text": "――The party today…… is an important place. \nA place necessary――to fulfill my mission.",
+            "name": "Symboli Kris S",
+            "path_id": -6486620924159701879,
+            "block_id": 27,
+            "clip_length": 449,
+            "choices": [
+                {
+                    "text": "But that's not the only thing, right?",
+                    "hash": "c09084cc61f4b452170b2925cf77d124fd5666e0929d94e74c77f980d0287b47"
+                },
+                {
+                    "text": "But that's not the only thing, right?",
+                    "hash": "eb55ddea4611d4e9d0c96088b2d51abb503d4e02977234b1408642ab8290fa9c"
+                }
+            ],
+            "processed": "<story>――The party today…… is an important place. \n<story>A place necessary――to fulfill my mission."
+        },
+        {
+            "text": "I had come to understand her. She wasn't defined \nby just her mission…… She could find purpose and \nenjoyment in her own way. At that time too――",
+            "name": "",
+            "path_id": 6989922156318089774,
+            "block_id": 28,
+            "clip_length": 116,
+            "processed": "<story>I had come to understand her. She wasn't defined \n<story>by just her mission…… She could find purpose and \n<story>enjoyment in her own way. At that time too――"
+        },
+        {
+            "text": "『Looks like we found its purpose』",
+            "name": "",
+            "path_id": 2721015454159707294,
+            "block_id": 29,
+            "clip_length": 69,
+            "processed": "<story>『Looks like we found its purpose』"
+        },
+        {
+            "text": "『Looks like we found its purpose』",
+            "name": "",
+            "path_id": -7169237632247576547,
+            "block_id": 30,
+            "clip_length": 69,
+            "processed": "<story>『Looks like we found its purpose』"
+        },
+        {
+            "text": "……That's good. ――……I think…… \n…………that too.",
+            "name": "Symboli Kris S",
+            "path_id": 1549698736898522724,
+            "block_id": 31,
+            "clip_length": 327,
+            "processed": "<story>……That's good. ――……I think…… \n<story>…………that too."
+        },
+        {
+            "text": "Unsold goods――She was glad we had found their \npurpose. You could read her emotions just by \nnoticing the slight changes in her demeanor.",
+            "name": "",
+            "path_id": 5322169938899309967,
+            "block_id": 32,
+            "clip_length": 120,
+            "processed": "<story>Unsold goods――She was glad we had found their \n<story>purpose. You could read her emotions just by \n<story>noticing the slight changes in her demeanor."
+        },
+        {
+            "text": "Particularly today, she seemed to be in high spirits. \nShe was proactive and had listened intently to \neach attendee that had spoken to her――",
+            "name": "",
+            "path_id": 2761319694646692752,
+            "block_id": 33,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "It seemed like you were having fun",
+                    "hash": "106f9384c44450d6ca444c9404f501fec96dedb1c4ee537f91051760b3678bf4"
+                }
+            ],
+            "processed": "<story>Particularly today, she seemed to be in high spirits. \n<story>She was proactive and had listened intently to \n<story>each attendee that had spoken to her――"
+        },
+        {
+            "text": "………… \n……………………",
+            "name": "Symboli Kris S",
+            "path_id": 4143898313282332399,
+            "block_id": 34,
+            "clip_length": 84,
+            "processed": "<story>………… \n<story>……………………"
+        },
+        {
+            "text": "――Listening to the pros…… I learned a lot. \nCutting-edge information―― was useful.",
+            "name": "Symboli Kris S",
+            "path_id": -2135663765179032040,
+            "block_id": 35,
+            "clip_length": 431,
+            "processed": "<story>――Listening to the pros…… I learned a lot. \n<story>Cutting-edge information―― was useful."
+        },
+        {
+            "text": "I need to figure out…… how to use that―― \ninformation in the future.",
+            "name": "Symboli Kris S",
+            "path_id": -5924716362278990850,
+            "block_id": 36,
+            "clip_length": 271,
+            "processed": "<story>I need to figure out…… how to use that―― \n<story>information in the future."
+        },
+        {
+            "text": "So that next time―― I know what to ask――",
+            "name": "Symboli Kris S",
+            "path_id": -4877389423830228524,
+            "block_id": 37,
+            "clip_length": 200,
+            "choices": [
+                {
+                    "text": "Yeah. It's exciting, huh?",
+                    "hash": "33629b45113f727ddbc25cbcc4cfc65ee4eba43b9d68c9fd5466ca96a3c4e37b"
+                },
+                {
+                    "text": "Yeah. It's exciting, huh?",
+                    "hash": "10f05c57364413fb1d2810bc0f9878b633a651e1ac2d3dc38b25a91b14d51a9f"
+                }
+            ],
+            "processed": "<story>So that next time―― I know what to ask――"
+        },
+        {
+            "text": "――――……Exciting.",
+            "name": "Symboli Kris S",
+            "path_id": 398148757498786297,
+            "block_id": 38,
+            "clip_length": 101,
+            "processed": "<story>――――……Exciting."
+        },
+        {
+            "text": "…………………… \n――――is that so……",
+            "name": "Symboli Kris S",
+            "path_id": 1858773188773699889,
+            "block_id": 39,
+            "clip_length": 194,
+            "processed": "<story>…………………… \n<story>――――is that so……"
+        },
+        {
+            "text": "So I was………… thrilled?――",
+            "name": "Symboli Kris S",
+            "path_id": 4676273560348106050,
+            "block_id": 40,
+            "clip_length": 172,
+            "processed": "<story>So I was………… thrilled?――"
+        },
+        {
+            "text": "You're………… amazing, huh?",
+            "name": "Symboli Kris S",
+            "path_id": -5586032462817002076,
+            "block_id": 41,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Eh?",
+                    "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
+                }
+            ],
+            "processed": "<story>You're………… amazing, huh?"
+        },
+        {
+            "text": "You―― understand my…… emotions.",
+            "name": "Symboli Kris S",
+            "path_id": -4931511934570625488,
+            "block_id": 42,
+            "clip_length": 153,
+            "processed": "<story>You―― understand my…… emotions."
+        },
+        {
+            "text": "Those emotions―― that I can't put in to words. \n……Even those emotions―― that I don't―― really understand.",
+            "name": "Symboli Kris S",
+            "path_id": 1427691694445219212,
+            "block_id": 43,
+            "clip_length": 351,
+            "processed": "<story>Those emotions―― that I can't put in to words. \n<story>……Even those emotions―― that I don't―― really understand."
+        },
+        {
+            "text": "This―― excitement……",
+            "name": "Symboli Kris S",
+            "path_id": 612999349251211464,
+            "block_id": 44,
+            "clip_length": 109,
+            "processed": "<story>This―― excitement……"
+        },
+        {
+            "text": "Symboli Kris S, who had desperately been searching \nfor the words, suddenly looked directly at me.",
+            "name": "",
+            "path_id": 3007801633394557467,
+            "block_id": 45,
+            "clip_length": 90,
+            "processed": "<story>Symboli Kris S, who had desperately been searching \n<story>for the words, suddenly looked directly at me."
+        },
+        {
+            "text": "For me, that is――――",
+            "name": "Symboli Kris S",
+            "path_id": 8421259785983039118,
+            "block_id": 46,
+            "clip_length": 99,
+            "processed": "<story>For me, that is――――"
+        },
+        {
+            "text": "…………Nevermind. ――-If it's you, \nyou understand…… feelings like these……",
+            "name": "Symboli Kris SSymboli Kris S",
+            "path_id": 2879817159100274854,
+            "block_id": 47,
+            "clip_length": 314,
+            "processed": "<story>…………Nevermind. ――-If it's you, \n<story>you understand…… feelings like these……",
+            "name_processed": "<sc=80>Symboli Kris SSymboli Kris S"
+        },
+        {
+            "text": "The corners of her eyes seemed to soften as she looked straight \nat me―― that sparkle, it really did seem like the night sky.",
+            "name": "",
+            "path_id": -5048012213189529545,
+            "block_id": 48,
+            "clip_length": 105,
+            "processed": "<story>The corners of her eyes seemed to soften as she looked straight \n<story>at me―― that sparkle, it really did seem like the night sky."
+        },
+        {
+            "text": "But… \n――……Why is it? …………how do you know……?",
+            "name": "Symboli Kris S",
+            "path_id": -1446037621716766544,
+            "block_id": 49,
+            "clip_length": 191,
+            "processed": "<story>But… \n<story>――……Why is it? …………how do you know……?"
+        },
+        {
+            "text": "Symboli Kris S tilted her head slightly. \nSeeing that slightly child-like expression, I couldn't help it――",
+            "name": "",
+            "path_id": -6780940725611680820,
+            "block_id": 50,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "You see, I can read minds",
+                    "hash": "d45b86143a72c8afdae48a9d6cd987b3308a96a1cfbe99e92bb8c02b6081af82"
+                }
+            ],
+            "processed": "<story>Symboli Kris S tilted her head slightly. \n<story>Seeing that slightly child-like expression, I couldn't help it――"
+        },
+        {
+            "text": "――――……Hmmm. \n……that's―― amazing, huh.",
+            "name": "Symboli Kris S",
+            "path_id": -6946438298627570867,
+            "block_id": 51,
+            "clip_length": 213,
+            "processed": "<story>――――……Hmmm. \n<story>……that's―― amazing, huh."
+        },
+        {
+            "text": "The corners of her mouth raised slightly…… \nIt seems like she realized I was joking.",
+            "name": "",
+            "path_id": -3764891442452081773,
+            "block_id": 52,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "I can tell just by watching you",
+                    "hash": "f03e008944975ff440b5c16c19869c8f8b61198449e961e0742f279177c110ad"
+                },
+                {
+                    "text": "I can tell just by watching you",
+                    "hash": "2a21dcbf85ea93300059e2eaecbc08d68df80a2ad91003678fb9e71e364b2c42"
+                }
+            ],
+            "processed": "<story>The corners of her mouth raised slightly…… \n<story>It seems like she realized I was joking."
+        },
+        {
+            "text": "Communicating without words. What she's feeling, \nwhat she desires, what stirs her heart――",
+            "name": "",
+            "path_id": -5518253233786009675,
+            "block_id": 53,
+            "clip_length": 93,
+            "processed": "<story>Communicating without words. What she's feeling, \n<story>what she desires, what stirs her heart――"
+        },
+        {
+            "text": "I had sworn to be the one closest to her, \nand to understand her the most.",
+            "name": "",
+            "path_id": -8479569020063997154,
+            "block_id": 54,
+            "clip_length": 88,
+            "processed": "<story>I had sworn to be the one closest to her, \n<story>and to understand her the most."
+        },
+        {
+            "text": "――――Is that so?",
+            "name": "Symboli Kris S",
+            "path_id": 2641652778959277479,
+            "block_id": 55,
+            "clip_length": 105,
+            "processed": "<story>――――Is that so?"
+        },
+        {
+            "text": "I see. That's―― great――",
+            "name": "Symboli Kris S",
+            "path_id": -2967267063947313185,
+            "block_id": 56,
+            "clip_length": 203,
+            "processed": "<story>I see. That's―― great――"
+        }
+    ],
+    "title": "Synchronization"
+}

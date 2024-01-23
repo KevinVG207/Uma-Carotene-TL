@@ -1,0 +1,581 @@
+{
+    "type": "story",
+    "row_index": 240,
+    "file_name": "story/data/04/1002/storytimeline_041002003",
+    "hash": "DYUU7XMXNYC7BR7KIUKHQJUTV7GDYRM3",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -36247155344352083,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "When stopping by the Training Course today, \nI happened to spot Silence Suzuka running.",
+            "name": "",
+            "path_id": 3417756305098444354,
+            "block_id": 1,
+            "clip_length": 107,
+            "processed": "<story>When stopping by the Training Course today, \n<story>I happened to spot Silence Suzuka running."
+        },
+        {
+            "text": "Since her trainer isn't here, is she doing her training \nindependently? Thinking that, I ended up watching over her.",
+            "name": "",
+            "path_id": 569974185589984145,
+            "block_id": 2,
+            "clip_length": 131,
+            "processed": "<story>Since her trainer isn't here, is she doing her training \n<story>independently? Thinking that, I ended up watching over her."
+        },
+        {
+            "text": "Haaa… haa…Ah?!",
+            "name": "Silence Suzuka",
+            "path_id": -6442547640365784293,
+            "block_id": 3,
+            "clip_length": 163,
+            "choices": [
+                {
+                    "text": "Are you okay?!",
+                    "hash": "8f7e53cf4fc98a87d6dbaaddf0cde6f5106c804924ba51db2f6b8ac20e33d42b"
+                },
+                {
+                    "text": "Are you okay?!",
+                    "hash": "c515d0ceb4668edf8dc2e3d8cc3895f45ed766dfbbe9e49560e8e5a28f5f5b47"
+                }
+            ],
+            "processed": "<story>Haaa… haa…Ah?!"
+        },
+        {
+            "text": "When Silence Suzuka stumbled, I panicked and rushed \nto her. Don't tell me she's injured…!",
+            "name": "",
+            "path_id": -4309132972261094774,
+            "block_id": 4,
+            "clip_length": 108,
+            "processed": "<story>When Silence Suzuka stumbled, I panicked and rushed \n<story>to her. Don't tell me she's injured…!"
+        },
+        {
+            "text": "Ah… S-sorry. It's nothing, I'm fine. It's \njust… my feet feel a little heavy…",
+            "name": "Silence Suzuka",
+            "path_id": 771653331751636348,
+            "block_id": 5,
+            "clip_length": 378,
+            "choices": [
+                {
+                    "text": "Are you feeling out of sorts…?",
+                    "hash": "e0ee73d5104be60f32a8c96c9c1e83a34955835e77154c506b4f44cec58ad40e"
+                },
+                {
+                    "text": "Are you feeling out of sorts…?",
+                    "hash": "10224085dcd5d7e92b52d8897f136737a293ece4dbb0dfa8b0429488cd3271fb"
+                }
+            ],
+            "processed": "<story>Ah… S-sorry. It's nothing, I'm fine. It's \n<story>just… my feet feel a little heavy…"
+        },
+        {
+            "text": "Out of sorts… could that be it?",
+            "name": "Silence Suzuka",
+            "path_id": 4030903447312252583,
+            "block_id": 6,
+            "clip_length": 160,
+            "processed": "<story>Out of sorts… could that be it?"
+        },
+        {
+            "text": "…something's wrong with me. Ever since that mock race.",
+            "name": "Silence Suzuka",
+            "path_id": 8832789992253812850,
+            "block_id": 7,
+            "clip_length": 162,
+            "processed": "<story>…something's wrong with me. Ever since that mock race."
+        },
+        {
+            "text": "My legs feel heavy, as if they've been chained. As I keep \nrunning, eventually my vision starts to darken…",
+            "name": "Silence Suzuka",
+            "path_id": 1433757428301729266,
+            "block_id": 8,
+            "clip_length": 315,
+            "choices": [
+                {
+                    "text": "You shouldn't push yourself…",
+                    "hash": "e3222c9fd5a2921478781873460442929b0a7d1ce599de5ae9b9fa8d61438ae5"
+                },
+                {
+                    "text": "You shouldn't push yourself…",
+                    "hash": "a20d8a5620e112589e0660e729c3fba3e4616de27f3ff0b778ec4ea1314acce2"
+                }
+            ],
+            "processed": "<story>My legs feel heavy, as if they've been chained. As I keep \n<story>running, eventually my vision starts to darken…"
+        },
+        {
+            "text": "Pushing myself…? I'm not doing that. \nNormally, I could keep on running.",
+            "name": "Silence Suzuka",
+            "path_id": 5982299823653466485,
+            "block_id": 9,
+            "clip_length": 261,
+            "processed": "<story>Pushing myself…? I'm not doing that. \n<story>Normally, I could keep on running."
+        },
+        {
+            "text": "…I've always been running. Always. Running is everything to me.",
+            "name": "Silence Suzuka",
+            "path_id": -8770574162300988316,
+            "block_id": 10,
+            "clip_length": 315,
+            "processed": "<story>…I've always been running. Always. Running is everything to me."
+        },
+        {
+            "text": "However, now… what should I do? This is \nthe first time I've ever felt like this.",
+            "name": "Silence Suzuka",
+            "path_id": 6567869914932114488,
+            "block_id": 11,
+            "clip_length": 314,
+            "processed": "<story>However, now… what should I do? This is \n<story>the first time I've ever felt like this."
+        },
+        {
+            "text": "I feel like 'I don't want to run anymore'… \nThis is… the first time…",
+            "name": "Silence Suzuka",
+            "path_id": -4936801800380258798,
+            "block_id": 12,
+            "clip_length": 281,
+            "choices": [
+                {
+                    "text": "Suzuka…",
+                    "hash": "3d4289875bc577f260540d3ef00756fb4c19f31cbe5cb32a377eea1ae0381d78"
+                }
+            ],
+            "processed": "<story>I feel like 'I don't want to run anymore'… \n<story>This is… the first time…"
+        },
+        {
+            "text": "It seems like she's really suffering. Is \nthere anything I can do for her…?",
+            "name": "",
+            "path_id": 4801673619363971146,
+            "block_id": 13,
+            "clip_length": 94,
+            "processed": "<story>It seems like she's really suffering. Is \n<story>there anything I can do for her…?"
+        },
+        {
+            "text": "For this girl that's lost sight of the excitement \nof running, is there anything?",
+            "name": "",
+            "path_id": 7374173643019288425,
+            "block_id": 14,
+            "clip_length": 77,
+            "processed": "<story>For this girl that's lost sight of the excitement \n<story>of running, is there anything?"
+        },
+        {
+            "text": "Huuu… Yeah… running at night is great, it's nice and quiet",
+            "name": "Silence Suzuka",
+            "path_id": 7294436035941598385,
+            "block_id": 15,
+            "clip_length": 239,
+            "processed": "<story>Huuu… Yeah… running at night is great, it's nice and quiet"
+        },
+        {
+            "text": "Now that I think about it, doesn't it seem \nlike the stars are brighter tonight?",
+            "name": "Silence Suzuka",
+            "path_id": -2523371292202295501,
+            "block_id": 16,
+            "clip_length": 147,
+            "processed": "<story>Now that I think about it, doesn't it seem \n<story>like the stars are brighter tonight?"
+        },
+        {
+            "text": "…hehe. This scenery, I have it all to myself",
+            "name": "Silence Suzuka",
+            "path_id": 718080489545700700,
+            "block_id": 17,
+            "clip_length": 167,
+            "processed": "<story>…hehe. This scenery, I have it all to myself"
+        },
+        {
+            "text": "That reminds me, at that time… when Silence Suzuka was happily \nrunning, she was also enjoying the scenery around her.",
+            "name": "",
+            "path_id": 243882716851303196,
+            "block_id": 18,
+            "clip_length": 118,
+            "processed": "<story>That reminds me, at that time… when Silence Suzuka was happily \n<story>running, she was also enjoying the scenery around her."
+        },
+        {
+            "text": "If that's the case…",
+            "name": "",
+            "path_id": -3455419019860602027,
+            "block_id": 19,
+            "clip_length": 52,
+            "choices": [
+                {
+                    "text": "For a change of pace, how about running in a different location?",
+                    "hash": "39dc96c8840269c30e2b9a09100f8c44757eb2bf72a0d809de15de309b5568c9",
+                    "processed": "<size=25>For a change of pace, how about running in a different location?</size>"
+                },
+                {
+                    "text": "For a change of pace, how about running in a different location?",
+                    "hash": "97a3ad326e168eefea7e28fcc99a60de89e6c5d60576f9dae68462c430d1ea93",
+                    "processed": "<size=25>For a change of pace, how about running in a different location?</size>"
+                }
+            ],
+            "processed": "<story>If that's the case…"
+        },
+        {
+            "text": "A different location…?",
+            "name": "Silence Suzuka",
+            "path_id": 8047696623101869005,
+            "block_id": 20,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "Yeah, like a place with beautiful scenery",
+                    "hash": "585681eb6abfa9a7aad365618b352e8a89b8a288e05e288cab6915af812f2ae9",
+                    "processed": "<size=41>Yeah, like a place with beautiful scenery</size>"
+                }
+            ],
+            "processed": "<story>A different location…?"
+        },
+        {
+            "text": "Scenery…",
+            "name": "Silence Suzuka",
+            "path_id": -3979684857563925216,
+            "block_id": 21,
+            "clip_length": 41,
+            "processed": "<story>Scenery…"
+        },
+        {
+            "text": "But, there isn't a place like that near school. \nI've visited most of the area on my runs…",
+            "name": "Silence Suzuka",
+            "path_id": -7082064264880740122,
+            "block_id": 22,
+            "clip_length": 203,
+            "choices": [
+                {
+                    "text": "In that case, I'll show you",
+                    "hash": "9ad0f71e9fbd20419a6c182c90c9bb4bf35e45c6823ff59e945bd03c50c294ad"
+                },
+                {
+                    "text": "In that case, I'll show you",
+                    "hash": "9643ae2c3b3e28430a8af69da584b9fa1fec422dd1cab828897c58c061f627ae"
+                }
+            ],
+            "processed": "<story>But, there isn't a place like that near school. \n<story>I've visited most of the area on my runs…"
+        },
+        {
+            "text": "…is that okay?",
+            "name": "Silence Suzuka",
+            "path_id": -9178272971806365922,
+            "block_id": 23,
+            "clip_length": 89,
+            "processed": "<story>…is that okay?"
+        },
+        {
+            "text": "I led Silence Suzuka to a place with beautiful scenery where she \ncould run to her heart's content.",
+            "name": "",
+            "path_id": 4889828925660734921,
+            "block_id": 24,
+            "clip_length": 101,
+            "processed": "<story>I led Silence Suzuka to a place with beautiful scenery where she \n<story>could run to her heart's content."
+        },
+        {
+            "text": "Wow…",
+            "name": "Silence Suzuka",
+            "path_id": 6740740910220551523,
+            "block_id": 25,
+            "clip_length": 54,
+            "processed": "<story>Wow…"
+        },
+        {
+            "text": "While we were on the train, the sky seems to have cleared up. \nIt's all green and bathed in sunlight… beautiful…",
+            "name": "Silence Suzuka",
+            "path_id": 777561370439694242,
+            "block_id": 26,
+            "clip_length": 347,
+            "processed": "<story>While we were on the train, the sky seems to have cleared up. \n<story>It's all green and bathed in sunlight… beautiful…"
+        },
+        {
+            "text": "That aside, this path… where does it lead…?",
+            "name": "Silence Suzuka",
+            "path_id": -7583750212029267579,
+            "block_id": 27,
+            "clip_length": 177,
+            "choices": [
+                {
+                    "text": "How about running and finding out?",
+                    "hash": "0a807032981d5c8a3341af868ab21e565ddd4de639d04581d0206042263fd717"
+                },
+                {
+                    "text": "How about running and finding out?",
+                    "hash": "d9a211f89163be38ef3a032b33d47dd1a53a1ef501dd37d88c957bbb9c4d5a7b"
+                }
+            ],
+            "processed": "<story>That aside, this path… where does it lead…?"
+        },
+        {
+            "text": "Ah…",
+            "name": "Silence Suzuka",
+            "path_id": -6497758830522344487,
+            "block_id": 28,
+            "clip_length": 27,
+            "processed": "<story>Ah…"
+        },
+        {
+            "text": "…That's right. I'll go and see.",
+            "name": "Silence Suzuka",
+            "path_id": -460555599136707002,
+            "block_id": 29,
+            "clip_length": 217,
+            "processed": "<story>…That's right. I'll go and see."
+        },
+        {
+            "text": "Haa, haa, haa… Fuuu.",
+            "name": "Silence Suzuka",
+            "path_id": 1074318319102496277,
+            "block_id": 30,
+            "clip_length": 191,
+            "processed": "<story>Haa, haa, haa… Fuuu."
+        },
+        {
+            "text": "(My feet still feel a little heavy… but…)",
+            "name": "Silence Suzuka",
+            "path_id": -6560297757067715093,
+            "block_id": 31,
+            "clip_length": 156,
+            "processed": "<story>(My feet still feel a little heavy… but…)"
+        },
+        {
+            "text": "…A nice breeze. It feels cool…",
+            "name": "Silence Suzuka",
+            "path_id": -763729889270387577,
+            "block_id": 32,
+            "clip_length": 211,
+            "processed": "<story>…A nice breeze. It feels cool…"
+        },
+        {
+            "text": "…Yeah. Let's run a little more.",
+            "name": "Silence Suzuka",
+            "path_id": -5148843141348666123,
+            "block_id": 33,
+            "clip_length": 130,
+            "processed": "<story>…Yeah. Let's run a little more."
+        },
+        {
+            "text": "Haa, haa, haa…",
+            "name": "Silence Suzuka",
+            "path_id": 6861479056756997131,
+            "block_id": 34,
+            "clip_length": 178,
+            "processed": "<story>Haa, haa, haa…"
+        },
+        {
+            "text": "(The feeling of both feet kicking the ground… \nmy body is hot, the breeze is cool…)",
+            "name": "Silence Suzuka",
+            "path_id": 5219625917335363219,
+            "block_id": 35,
+            "clip_length": 230,
+            "processed": "<story>(The feeling of both feet kicking the ground… \n<story>my body is hot, the breeze is cool…)"
+        },
+        {
+            "text": "(That's right. If I run like this, if I keep \nrunning like this, then eventually-)",
+            "name": "Silence Suzuka",
+            "path_id": -5061180633047286355,
+            "block_id": 36,
+            "clip_length": 196,
+            "processed": "<story>(That's right. If I run like this, if I keep \n<story>running like this, then eventually-)"
+        },
+        {
+            "text": "Haa, haaa…!",
+            "name": "Silence Suzuka",
+            "path_id": 5561651390928185894,
+            "block_id": 37,
+            "clip_length": 141,
+            "processed": "<story>Haa, haaa…!"
+        },
+        {
+            "text": "(-I'll finally reach that quiet scenery)",
+            "name": "Silence Suzuka",
+            "path_id": 2190515931368630870,
+            "block_id": 38,
+            "clip_length": 116,
+            "processed": "<story>(-I'll finally reach that quiet scenery)"
+        },
+        {
+            "text": "(With only the sound of the wind and my beating heart. With \nnobody around, a whole new… world just for me…!)",
+            "name": "Silence Suzuka",
+            "path_id": -3762430988100802006,
+            "block_id": 39,
+            "clip_length": 362,
+            "processed": "<story>(With only the sound of the wind and my beating heart. With \n<story>nobody around, a whole new… world just for me…!)"
+        },
+        {
+            "text": "That's right, I…!",
+            "name": "Silence Suzuka",
+            "path_id": -3725071383876417713,
+            "block_id": 40,
+            "clip_length": 116,
+            "processed": "<story>That's right, I…!"
+        },
+        {
+            "text": "Haa, haa… haaaaaaauu…Fuuu.",
+            "name": "Silence Suzuka",
+            "path_id": 5173618602367445475,
+            "block_id": 41,
+            "clip_length": 234,
+            "choices": [
+                {
+                    "text": "You look relieved",
+                    "hash": "3faaf311587689bbd5a8a9bfb03230f445be8255a001e9c55d6ed192cae4333d"
+                },
+                {
+                    "text": "You look relieved",
+                    "hash": "f3918e083e24ec595cefc94039f5eab831d4d052da698747e98c4b917c04f1ab"
+                }
+            ],
+            "processed": "<story>Haa, haa… haaaaaaauu…Fuuu."
+        },
+        {
+            "text": "…Yes, I am. I ran my heart out, until it emptied my mind.",
+            "name": "Silence Suzuka",
+            "path_id": -7720020670988855466,
+            "block_id": 42,
+            "clip_length": 302,
+            "processed": "<story>…Yes, I am. I ran my heart out, until it emptied my mind."
+        },
+        {
+            "text": "Because of that…I remembered.",
+            "name": "Silence Suzuka",
+            "path_id": -3769428983731572475,
+            "block_id": 43,
+            "clip_length": 104,
+            "choices": [
+                {
+                    "text": "You remembered?",
+                    "hash": "85ec06e2f464309775639c6bdb8ea9bed04325859457970f98fdb3bcba81956a"
+                }
+            ],
+            "processed": "<story>Because of that…I remembered."
+        },
+        {
+            "text": "When I was little and just ran and ran, one day, \nmy parents recommended I enter a race.",
+            "name": "Silence Suzuka",
+            "path_id": -2423861742900978682,
+            "block_id": 44,
+            "clip_length": 263,
+            "processed": "<story>When I was little and just ran and ran, one day, \n<story>my parents recommended I enter a race."
+        },
+        {
+            "text": "I entered the race thinking 'As long as I get \nto run'. At first… it was very stressful",
+            "name": "Silence Suzuka",
+            "path_id": 4611204712818988508,
+            "block_id": 45,
+            "clip_length": 281,
+            "processed": "<story>I entered the race thinking 'As long as I get \n<story>to run'. At first… it was very stressful"
+        },
+        {
+            "text": "Being surrounded by so many… it was noisy, and uncomfortable.",
+            "name": "Silence Suzuka",
+            "path_id": 6287564672385892971,
+            "block_id": 46,
+            "clip_length": 223,
+            "processed": "<story>Being surrounded by so many… it was noisy, and uncomfortable."
+        },
+        {
+            "text": "That's why… I thought I should go to a place \nwhere nobody was, and went out in front.",
+            "name": "Silence Suzuka",
+            "path_id": -4576215068326025512,
+            "block_id": 47,
+            "clip_length": 199,
+            "choices": [
+                {
+                    "text": "You 'escaped'",
+                    "hash": "7f67db6f6a9cc84f33893e74d169dfde47129e28ee5f3bc8daec7acdd7620f86"
+                },
+                {
+                    "text": "You 'escaped'",
+                    "hash": "ad40ee57e25dca50613507cd114f976706ef4811535b4afa98a29e4b2726d9dc"
+                }
+            ],
+            "processed": "<story>That's why… I thought I should go to a place \n<story>where nobody was, and went out in front."
+        },
+        {
+            "text": "Yes. I thought 'I have to get to a place that nobody can follow'. \nWhen I ran my hardest, suddenly my eyes were opened.",
+            "name": "Silence Suzuka",
+            "path_id": -4123482926009012540,
+            "block_id": 48,
+            "clip_length": 307,
+            "processed": "<story>Yes. I thought 'I have to get to a place that nobody can follow'. \n<story>When I ran my hardest, suddenly my eyes were opened."
+        },
+        {
+            "text": "It became quiet… I reached that scenery with nobody around.",
+            "name": "Silence Suzuka",
+            "path_id": -697151804320838497,
+            "block_id": 49,
+            "clip_length": 179,
+            "processed": "<story>It became quiet… I reached that scenery with nobody around."
+        },
+        {
+            "text": "…I want to run out in front.",
+            "name": "Silence Suzuka",
+            "path_id": 8190181477605359431,
+            "block_id": 50,
+            "clip_length": 122,
+            "processed": "<story>…I want to run out in front."
+        },
+        {
+            "text": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!",
+            "name": "Silence Suzuka",
+            "path_id": -5515857675235134416,
+            "block_id": 51,
+            "clip_length": 229,
+            "processed": "<story>Once more, I want to reach that place again and again. These \n<story>feelings alone…I won't concede…!"
+        },
+        {
+            "text": "I think I want to speak with my trainer now. \nTo say \"I can't run without Escaping\".",
+            "name": "Silence Suzuka",
+            "path_id": -9158376722230590933,
+            "block_id": 52,
+            "clip_length": 269,
+            "processed": "<story>I think I want to speak with my trainer now. \n<story>To say \"I can't run without Escaping\"."
+        },
+        {
+            "text": "Um, and so… um.",
+            "name": "Silence Suzuka",
+            "path_id": -233213318638178765,
+            "block_id": 53,
+            "clip_length": 133,
+            "choices": [
+                {
+                    "text": "What's wrong?",
+                    "hash": "18d162531d5f9652f5090e392594e21551e1fc20748023a27800d522426cc30b"
+                },
+                {
+                    "text": "What's wrong?",
+                    "hash": "fadbc5d0d897940ffcf2111dde60d5c2fa8162910ed987a226e91f1f64754fe9"
+                }
+            ],
+            "processed": "<story>Um, and so… um."
+        },
+        {
+            "text": "…do you think you can come with me? Speaking \nisn't one of my strong points…",
+            "name": "Silence Suzuka",
+            "path_id": 7731324551342331376,
+            "block_id": 54,
+            "clip_length": 331,
+            "processed": "<story>…do you think you can come with me? Speaking \n<story>isn't one of my strong points…"
+        },
+        {
+            "text": "W-would that be okay…?",
+            "name": "Silence Suzuka",
+            "path_id": -4254766258297812653,
+            "block_id": 55,
+            "clip_length": 71,
+            "choices": [
+                {
+                    "text": "Yeah",
+                    "hash": "7b2c6e4e5f4a77b1fc265497fc360d54de4549e7d36d30425c59d1610257f859"
+                }
+            ],
+            "processed": "<story>W-would that be okay…?"
+        },
+        {
+            "text": "Let's return to school, and talk to Silence Suzuka's trainer…!",
+            "name": "",
+            "path_id": 887761690183195804,
+            "block_id": 56,
+            "clip_length": 84,
+            "processed": "<story>Let's return to school, and talk to Silence Suzuka's trainer…!"
+        }
+    ],
+    "title": "Why do Uma Musume run?"
+}

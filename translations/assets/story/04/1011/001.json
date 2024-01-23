@@ -1,0 +1,490 @@
+{
+    "type": "story",
+    "row_index": 349,
+    "file_name": "story/data/04/1011/storytimeline_041011001",
+    "hash": "YOEMIYTIONP44GAKUXTAA7VYWGYY4GIW",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8547226085183658264,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "One day, in the afternoon―",
+            "name": "",
+            "path_id": -1222876144399619046,
+            "block_id": 1,
+            "clip_length": 59,
+            "processed": "<story>One day, in the afternoon―"
+        },
+        {
+            "text": "I was out on a shopping errand, but I ended up in an unfamiliar \nplace. While I was standing there at a loss……",
+            "name": "",
+            "path_id": 6001785778565522301,
+            "block_id": 2,
+            "clip_length": 123,
+            "processed": "<story>I was out on a shopping errand, but I ended up in an unfamiliar \n<story>place. While I was standing there at a loss……"
+        },
+        {
+            "text": "Um～, excuse me.",
+            "name": "Grass Wonder",
+            "path_id": -5773315777389992497,
+            "block_id": 3,
+            "clip_length": 72,
+            "processed": "<story>Um～, excuse me."
+        },
+        {
+            "text": "Are you perhaps a trainer affiliated with the school?",
+            "name": "Grass Wonder",
+            "path_id": 4154232495184550227,
+            "block_id": 4,
+            "clip_length": 167,
+            "choices": [
+                {
+                    "text": "Well, yes, but……",
+                    "hash": "19ff795b99619e898f5acf79761ed29e0d0bdb153aae4931eef83605022558b5"
+                }
+            ],
+            "processed": "<story>Are you perhaps a trainer affiliated with the school?"
+        },
+        {
+            "text": "Ah, I thought so～. I was pretty sure I'd seen you \naround the campus a few times before.",
+            "name": "Grass Wonder",
+            "path_id": 1255263126923919421,
+            "block_id": 5,
+            "clip_length": 230,
+            "processed": "<story>Ah, I thought so～. I was pretty sure I'd seen you \n<story>around the campus a few times before."
+        },
+        {
+            "text": "By the way, it looks like something's troubling you. \nIs something the matter?",
+            "name": "Grass Wonder",
+            "path_id": 6749588542197450801,
+            "block_id": 6,
+            "clip_length": 193,
+            "processed": "<story>By the way, it looks like something's troubling you. \n<story>Is something the matter?"
+        },
+        {
+            "text": "When Grass Wonder kindly asked, I replied that it was my first \ntime coming out this far and I was lost……",
+            "name": "",
+            "path_id": -7451932355365472791,
+            "block_id": 7,
+            "clip_length": 119,
+            "processed": "<story>When Grass Wonder kindly asked, I replied that it was my first \n<story>time coming out this far and I was lost……"
+        },
+        {
+            "text": "Oh my, that sounds like quite the predicament!",
+            "name": "Grass Wonder",
+            "path_id": -4737377903585242859,
+            "block_id": 8,
+            "clip_length": 89,
+            "processed": "<story>Oh my, that sounds like quite the predicament!"
+        },
+        {
+            "text": "If you'd like, I could lead you back to the school.",
+            "name": "Grass Wonder",
+            "path_id": -3696758862911746683,
+            "block_id": 9,
+            "clip_length": 125,
+            "choices": [
+                {
+                    "text": "Is that okay?",
+                    "hash": "24d5f884c2f19912c988d785c40d928e3df0030df882611be38c260339c784b6"
+                },
+                {
+                    "text": "Is that okay?",
+                    "hash": "6c091e40e6e0341d4edb4ac74e478c527853fce5acbebbd5dedb779cc38bd9e9"
+                }
+            ],
+            "processed": "<story>If you'd like, I could lead you back to the school."
+        },
+        {
+            "text": "Yes, I was just about to head back myself. 『The journey is as \nimportant as the people you meet along the way』♪",
+            "name": "Grass Wonder",
+            "path_id": 3371279622554997013,
+            "block_id": 10,
+            "clip_length": 239,
+            "processed": "<story>Yes, I was just about to head back myself. 『The journey is as \n<story>important as the people you meet along the way』♪"
+        },
+        {
+            "text": "I come here often to buy things for my hobby so, \nI'm familiar with the area. Soo～ just leave it to me.",
+            "name": "Grass Wonder",
+            "path_id": -5192594811985265833,
+            "block_id": 11,
+            "clip_length": 317,
+            "processed": "<story>I come here often to buy things for my hobby so, \n<story>I'm familiar with the area. Soo～ just leave it to me."
+        },
+        {
+            "text": "Well then, shall we set off?",
+            "name": "Grass Wonder",
+            "path_id": 5460956756344221570,
+            "block_id": 12,
+            "clip_length": 71,
+            "processed": "<story>Well then, shall we set off?"
+        },
+        {
+            "text": "While accompanied by the kind Uma Musume, Grass Wonder, \nwe made our way back towards the school at a leisurely pace……",
+            "name": "",
+            "path_id": -3228482959121267157,
+            "block_id": 13,
+            "clip_length": 97,
+            "processed": "<story>While accompanied by the kind Uma Musume, Grass Wonder, \n<story>we made our way back towards the school at a leisurely pace……"
+        },
+        {
+            "text": "Huu～. If we've made it this far, \nthe school should be nearby.",
+            "name": "Grass Wonder",
+            "path_id": -8986102146735752711,
+            "block_id": 14,
+            "clip_length": 230,
+            "processed": "<story>Huu～. If we've made it this far, \n<story>the school should be nearby."
+        },
+        {
+            "text": "The sun has already started setting, hasn't it～? I ended up \nwalking at such a carefree pace…… I'm sorry about that.",
+            "name": "Grass Wonder",
+            "path_id": -1377750499562597441,
+            "block_id": 15,
+            "clip_length": 293,
+            "choices": [
+                {
+                    "text": "I enjoyed the scenery though",
+                    "hash": "1284977cdc20a559d6bc882f0a34e06df8ce6b5d8e7570983c4b639fb24c76ac"
+                }
+            ],
+            "processed": "<story>The sun has already started setting, hasn't it～? I ended up \n<story>walking at such a carefree pace…… I'm sorry about that."
+        },
+        {
+            "text": "Oh my. Trainer-san, it seems like you're \nsomeone who can appreciate 『Mono no Aware』.",
+            "name": "Grass Wonder",
+            "path_id": 2869906745344020249,
+            "block_id": 16,
+            "clip_length": 221,
+            "processed": "<story>Oh my. Trainer-san, it seems like you're \n<story>someone who can appreciate 『Mono no Aware』."
+        },
+        {
+            "text": "……in particular, 『Twilight』. The crimson-hued \nsky, each time you look at it, it changes slightly. \nIt's quite beautiful because of that.",
+            "name": "Grass Wonder",
+            "path_id": 4189125802525986450,
+            "block_id": 17,
+            "clip_length": 352,
+            "processed": "<story>……in particular, 『Twilight』. The crimson-hued \n<story>sky, each time you look at it, it changes slightly. \n<story>It's quite beautiful because of that."
+        },
+        {
+            "text": "I feel like I could watch it forever…… \nBecause of that, I end up slowing my pace without thinking.",
+            "name": "Grass Wonder",
+            "path_id": 5071075324053810391,
+            "block_id": 18,
+            "clip_length": 272,
+            "processed": "<story>I feel like I could watch it forever…… \n<story>Because of that, I end up slowing my pace without thinking."
+        },
+        {
+            "text": "While speaking about that, I stood together \nwith Grass Wonder, admiring the sky and―",
+            "name": "",
+            "path_id": 6924611174592089820,
+            "block_id": 19,
+            "clip_length": 98,
+            "processed": "<story>While speaking about that, I stood together \n<story>with Grass Wonder, admiring the sky and―"
+        },
+        {
+            "text": "(Guuuuuuu)",
+            "name": "",
+            "path_id": -1174669763563575137,
+            "block_id": 20,
+            "clip_length": 54,
+            "processed": "<story>(Guuuuuuu)"
+        },
+        {
+            "text": "……Oh dear～.",
+            "name": "Grass Wonder",
+            "path_id": -5714827587318728058,
+            "block_id": 21,
+            "clip_length": 91,
+            "choices": [
+                {
+                    "text": "Sorry about that……",
+                    "hash": "907eac2b362b39e15c023ffa41d6ac511cd9144685243e4d373ce0a00db9f24d"
+                },
+                {
+                    "text": "Sorry about that……",
+                    "hash": "087eb6877e620ceb154c94ef0547357469b236bda6cfd7447b68719490172415"
+                }
+            ],
+            "processed": "<story>……Oh dear～."
+        },
+        {
+            "text": "Fufufuu, no, it's fine. After walking that much, \nit's not unusual to become hungry, is it?",
+            "name": "Grass Wonder",
+            "path_id": 4055433797036488486,
+            "block_id": 22,
+            "clip_length": 237,
+            "processed": "<story>Fufufuu, no, it's fine. After walking that much, \n<story>it's not unusual to become hungry, is it?"
+        },
+        {
+            "text": "That's right, I happen to have something perfect \nfor that with me. Trainer-san, do you mind if I \ntake up just a little bit more of your time?",
+            "name": "Grass Wonder",
+            "path_id": -3593557273310706092,
+            "block_id": 23,
+            "clip_length": 319,
+            "processed": "<story>That's right, I happen to have something perfect \n<story>for that with me. Trainer-san, do you mind if I \n<story>take up just a little bit more of your time?"
+        },
+        {
+            "text": "If you're fine with it, Trainer-san, \nlet me treat you to a 『Tea Ceremony』.",
+            "name": "Grass Wonder",
+            "path_id": -7446847480640165028,
+            "block_id": 24,
+            "clip_length": 189,
+            "choices": [
+                {
+                    "text": "『Tea Ceremony』?",
+                    "hash": "27d89a66da6f3cea5026e0d4a553e171441dd4b8aa223db8bed80241be4748f4"
+                }
+            ],
+            "processed": "<story>If you're fine with it, Trainer-san, \n<story>let me treat you to a 『Tea Ceremony』."
+        },
+        {
+            "text": "Yes, you could call it an outdoor tea party. Basking in the \nnatural light, taking in the scents in the air all while enjoying \ntea. It's quite a refined cultural experience, you know?～",
+            "name": "Grass Wonder",
+            "path_id": -8497911408985363756,
+            "block_id": 25,
+            "clip_length": 398,
+            "processed": "<story>Yes, you could call it an outdoor tea party. Basking in the \n<story>natural light, taking in the scents in the air all while enjoying \n<story>tea. It's quite a refined cultural experience, you know?～"
+        },
+        {
+            "text": "Tea ceremonies are my hobby, you see. The whole \nreason I was out so far was to order some matcha \nand sweets from a store that I fancy.",
+            "name": "Grass Wonder",
+            "path_id": 8197825835188772882,
+            "block_id": 26,
+            "clip_length": 343,
+            "processed": "<story>Tea ceremonies are my hobby, you see. The whole \n<story>reason I was out so far was to order some matcha \n<story>and sweets from a store that I fancy."
+        },
+        {
+            "text": "I happen to have the proper equipment \nwith me so…… how about it?",
+            "name": "Grass Wonder",
+            "path_id": -675776925967561190,
+            "block_id": 27,
+            "clip_length": 169,
+            "choices": [
+                {
+                    "text": "Absolutely!",
+                    "hash": "5368c553d81fb5a14c047591af6438b9d60241f2f5d3e1339ab1210f63ef7368"
+                }
+            ],
+            "processed": "<story>I happen to have the proper equipment \n<story>with me so…… how about it?"
+        },
+        {
+            "text": "I'm glad～♪ Well then, \nI'll get everything prepared.",
+            "name": "Grass Wonder",
+            "path_id": -4893564240001528295,
+            "block_id": 28,
+            "clip_length": 136,
+            "processed": "<story>I'm glad～♪ Well then, \n<story>I'll get everything prepared."
+        },
+        {
+            "text": "Then, I enjoyed a cup of tea and some elegant \nsweets prepared for me by Grass Wonder.",
+            "name": "",
+            "path_id": -592457304020595423,
+            "block_id": 29,
+            "clip_length": 94,
+            "processed": "<story>Then, I enjoyed a cup of tea and some elegant \n<story>sweets prepared for me by Grass Wonder."
+        },
+        {
+            "text": "How was it, Trainer-san?",
+            "name": "Grass Wonder",
+            "path_id": 8864904816412133714,
+            "block_id": 30,
+            "clip_length": 87,
+            "choices": [
+                {
+                    "text": "It was exquisite",
+                    "hash": "66b236438094157679ea300565473db533681e768559c17ff63417718d08700a"
+                }
+            ],
+            "processed": "<story>How was it, Trainer-san?"
+        },
+        {
+            "text": "Fufuu, I'm glad to hear it.",
+            "name": "Grass Wonder",
+            "path_id": -1525149201073569233,
+            "block_id": 31,
+            "clip_length": 129,
+            "processed": "<story>Fufuu, I'm glad to hear it."
+        },
+        {
+            "text": "Being fulfilling for body and soul \nis one of the good points about tea.",
+            "name": "Grass Wonder",
+            "path_id": 1601942800231902453,
+            "block_id": 32,
+            "clip_length": 165,
+            "choices": [
+                {
+                    "text": "Have you been practicing for long?",
+                    "hash": "d3189e830a1c1d0b1898a3daec3d8af0df668117e54dbcd49e5b78506d224a5e"
+                },
+                {
+                    "text": "Have you been practicing for long?",
+                    "hash": "fe939ce06b4e45294fc5d25172439492099bb9159602a2d32a2e50fc43299d85"
+                }
+            ],
+            "processed": "<story>Being fulfilling for body and soul \n<story>is one of the good points about tea."
+        },
+        {
+            "text": "Yes, since I was young.",
+            "name": "Grass Wonder",
+            "path_id": -5272868593637566603,
+            "block_id": 33,
+            "clip_length": 81,
+            "processed": "<story>Yes, since I was young."
+        },
+        {
+            "text": "Tea ceremonies, flower arrangement, calligraphy, Japanese dance…… \noh, and a little training with the Naginata.",
+            "name": "Grass Wonder",
+            "path_id": 1739615165283459491,
+            "block_id": 34,
+            "clip_length": 274,
+            "choices": [
+                {
+                    "text": "That's amazing!!",
+                    "hash": "ccaeba7541f485926c1d60d18d44e9da573db267cd39b224da7c2c3bb5b529c0"
+                },
+                {
+                    "text": "That's amazing!!",
+                    "hash": "0bd7d067c1f66d2f42570924f7bc3ab8a83c9fc71cad6a1806e0827f1c084b9c"
+                }
+            ],
+            "processed": "<story>Tea ceremonies, flower arrangement, calligraphy, Japanese dance…… \n<story>oh, and a little training with the Naginata."
+        },
+        {
+            "text": "No, no, it's not that impressive～. \nI just really like them all.",
+            "name": "Grass Wonder",
+            "path_id": 6904198275712589726,
+            "block_id": 35,
+            "clip_length": 162,
+            "processed": "<story>No, no, it's not that impressive～. \n<story>I just really like them all."
+        },
+        {
+            "text": "I was born in America, and both of my \nparents had a deep appreciation for Japan.",
+            "name": "Grass Wonder",
+            "path_id": 7989472778844286389,
+            "block_id": 36,
+            "clip_length": 254,
+            "processed": "<story>I was born in America, and both of my \n<story>parents had a deep appreciation for Japan."
+        },
+        {
+            "text": "Because of that, I had a lot of exposure to the \nwonders of Japanese culture. It was only natural \nthat I would grow an interest in it too.",
+            "name": "Grass Wonder",
+            "path_id": -729824712436623721,
+            "block_id": 37,
+            "clip_length": 248,
+            "processed": "<story>Because of that, I had a lot of exposure to the \n<story>wonders of Japanese culture. It was only natural \n<story>that I would grow an interest in it too."
+        },
+        {
+            "text": "And back home, I had a teacher that had knowledge of this too, \nso I asked my parents if I could study under them.",
+            "name": "Grass Wonder",
+            "path_id": 7217144338747560778,
+            "block_id": 38,
+            "clip_length": 283,
+            "choices": [
+                {
+                    "text": "You really like Japanese culture, huh?",
+                    "hash": "688948ed07a2bd8c074e1ef485924fd7217248d055ddb77c2915566c1eafb281",
+                    "processed": "<size=43>You really like Japanese culture, huh?</size>"
+                },
+                {
+                    "text": "You really like Japanese culture, huh?",
+                    "hash": "4d3e21fa009fd9bcbc27e10e8b45d11a721281402249cf92f384670041f9c479",
+                    "processed": "<size=43>You really like Japanese culture, huh?</size>"
+                }
+            ],
+            "processed": "<story>And back home, I had a teacher that had knowledge of this too, \n<story>so I asked my parents if I could study under them."
+        },
+        {
+            "text": "Yes, of course!",
+            "name": "Grass Wonder",
+            "path_id": 9119122694301178668,
+            "block_id": 39,
+            "clip_length": 77,
+            "processed": "<story>Yes, of course!"
+        },
+        {
+            "text": "Because of that, courtesy, sincerity, consideration for others…… \nI learned many important things like that.",
+            "name": "Grass Wonder",
+            "path_id": -5972594177806388169,
+            "block_id": 40,
+            "clip_length": 317,
+            "processed": "<story>Because of that, courtesy, sincerity, consideration for others…… \n<story>I learned many important things like that."
+        },
+        {
+            "text": "Well, I say that, but I have a \nlot I still need to work on.",
+            "name": "Grass Wonder",
+            "path_id": -1582147623562224508,
+            "block_id": 41,
+            "clip_length": 151,
+            "processed": "<story>Well, I say that, but I have a \n<story>lot I still need to work on."
+        },
+        {
+            "text": "Someday, I hope to be as refined and elegant, with the dignity \nof a Yamato Nadeshiko…… and to that end, I practice daily.",
+            "name": "Grass Wonder",
+            "path_id": -7642435788039885306,
+            "block_id": 42,
+            "clip_length": 332,
+            "processed": "<story>Someday, I hope to be as refined and elegant, with the dignity \n<story>of a Yamato Nadeshiko…… and to that end, I practice daily."
+        },
+        {
+            "text": "Oh…… I'm sorry, I seem to have gotten quite \nabsorbed in our conversation.",
+            "name": "Grass Wonder",
+            "path_id": -4750331212039607473,
+            "block_id": 43,
+            "clip_length": 199,
+            "processed": "<story>Oh…… I'm sorry, I seem to have gotten quite \n<story>absorbed in our conversation."
+        },
+        {
+            "text": "For now, let's return to the school♪",
+            "name": "Grass Wonder",
+            "path_id": 6939605832532203145,
+            "block_id": 44,
+            "clip_length": 107,
+            "processed": "<story>For now, let's return to the school♪"
+        },
+        {
+            "text": "And so, I parted ways with Grass Wonder \nand headed towards the trainer dorms……",
+            "name": "",
+            "path_id": -216386248381768411,
+            "block_id": 45,
+            "clip_length": 90,
+            "processed": "<story>And so, I parted ways with Grass Wonder \n<story>and headed towards the trainer dorms……"
+        },
+        {
+            "text": "The Yamato Nadeshiko Uma Musume, Grass Wonder. \nA girl with a gentle smile that held tea ceremonies. \nI wonder how she would run?―",
+            "name": "",
+            "path_id": -8567007566266268060,
+            "block_id": 46,
+            "clip_length": 124,
+            "processed": "<story>The Yamato Nadeshiko Uma Musume, Grass Wonder. \n<story>A girl with a gentle smile that held tea ceremonies. \n<story>I wonder how she would run?―"
+        },
+        {
+            "text": "The answer would come unexpectedly quickly.",
+            "name": "",
+            "path_id": 941985107590876217,
+            "block_id": 47,
+            "clip_length": 72,
+            "processed": "<story>The answer would come unexpectedly quickly."
+        },
+        {
+            "text": "『Notice to all trainers. \nRegarding the next Selection Race』",
+            "name": "",
+            "path_id": 6914171336175212089,
+            "block_id": 48,
+            "clip_length": 85,
+            "processed": "<story>『Notice to all trainers. \n<story>Regarding the next Selection Race』"
+        },
+        {
+            "text": "Among the list of participants \nwas the name 『Grass Wonder』",
+            "name": "",
+            "path_id": -127304284475569364,
+            "block_id": 49,
+            "clip_length": 97,
+            "processed": "<story>Among the list of participants \n<story>was the name 『Grass Wonder』"
+        }
+    ],
+    "title": "Modesty"
+}

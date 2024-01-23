@@ -1,0 +1,601 @@
+{
+    "type": "story",
+    "row_index": 22804,
+    "file_name": "story/data/04/1047/storytimeline_041047003",
+    "hash": "BCKEUF6FQV2CNKUMIG4ZEEGNXYNWGV4G",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 4652022144034802999,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "A few days later, we were looking over documents \nin the library…… I brought up what the instructor \ntold me about Zenno Rob Roy the other day.",
+            "name": "",
+            "path_id": 6793134070613829977,
+            "block_id": 1,
+            "clip_length": 116,
+            "choices": [
+                {
+                    "text": "You were going to enter the Sports Festival, right?",
+                    "hash": "675e8b2931717afc62d238da872184bec03054286bb4a0ea7b974e78dbe9f500",
+                    "processed": "<size=32>You were going to enter the Sports Festival, right?</size>"
+                },
+                {
+                    "text": "You were going to enter the Sports Festival, right?",
+                    "hash": "11c292c32fc0d700c8e26204cf4c26d7d8cc6a501ea1677498462df194868b4d",
+                    "processed": "<size=32>You were going to enter the Sports Festival, right?</size>"
+                }
+            ],
+            "processed": "<story>A few days later, we were looking over documents \n<story>in the library…… I brought up what the instructor \n<story>told me about Zenno Rob Roy the other day."
+        },
+        {
+            "text": "Eh, ah, yeah……! \nSo you knew already……!",
+            "name": "Zenno Rob Roy",
+            "path_id": -1608256718224617738,
+            "block_id": 2,
+            "clip_length": 153,
+            "processed": "<story>Eh, ah, yeah……! \n<story>So you knew already……!"
+        },
+        {
+            "text": "Zenno Rob Roy seemed bewildered at first, but she seemed to \nunderstand when I mentioned her instructor told me.",
+            "name": "",
+            "path_id": 4262822902249252238,
+            "block_id": 3,
+            "clip_length": 103,
+            "processed": "<story>Zenno Rob Roy seemed bewildered at first, but she seemed to \n<story>understand when I mentioned her instructor told me."
+        },
+        {
+            "text": "The Sports Festival is an event held at Tracen \nAcademy. There were some students focused on \nconditioning their bodies for these races.",
+            "name": "",
+            "path_id": 8359753235544009221,
+            "block_id": 4,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "Do your best! I'll be cheering for you!",
+                    "hash": "e73f4412ddd4dcee615459601c887fa151143a29d68e3e030ee64279df5a7bac"
+                }
+            ],
+            "processed": "<story>The Sports Festival is an event held at Tracen \n<story>Academy. There were some students focused on \n<story>conditioning their bodies for these races."
+        },
+        {
+            "text": "Yeah…… thank you…… very much……",
+            "name": "Zenno Rob Roy",
+            "path_id": -3051037646193832891,
+            "block_id": 5,
+            "clip_length": 180,
+            "processed": "<story>Yeah…… thank you…… very much……"
+        },
+        {
+            "text": "……Ah, no, it's not that I'm not thankful for that! \nI'm sorry, it's just…… I'm not the type that stands out.",
+            "name": "Zenno Rob Roy",
+            "path_id": -114349170339556226,
+            "block_id": 6,
+            "clip_length": 399,
+            "processed": "<story>……Ah, no, it's not that I'm not thankful for that! \n<story>I'm sorry, it's just…… I'm not the type that stands out."
+        },
+        {
+            "text": "That's why…… I think even if you took the time \nto come and watch, I don't think there's much \nyou'd notice about me…… is what I think.",
+            "name": "Zenno Rob Roy",
+            "path_id": 3194331986469272231,
+            "block_id": 7,
+            "clip_length": 324,
+            "processed": "<story>That's why…… I think even if you took the time \n<story>to come and watch, I don't think there's much \n<story>you'd notice about me…… is what I think."
+        },
+        {
+            "text": "……if you've already spoken with the instructor, \nthen Trainer-san…… I'm sure you already know, \nright? How poorly I've been doing lately.",
+            "name": "Zenno Rob Roy",
+            "path_id": 666404860034297289,
+            "block_id": 8,
+            "clip_length": 492,
+            "choices": [
+                {
+                    "text": "Sorry, for prying……",
+                    "hash": "34443e78f013d2c2e39fdd939fe52255447b9a5848d889b42a1ff82b4dddd8b9"
+                }
+            ],
+            "processed": "<story>……if you've already spoken with the instructor, \n<story>then Trainer-san…… I'm sure you already know, \n<story>right? How poorly I've been doing lately."
+        },
+        {
+            "text": "No! Thank you very much for being concerned about me. \nIt's true that lately, I've been at a loss…… ehehe.",
+            "name": "Zenno Rob Roy",
+            "path_id": 3831716431581882084,
+            "block_id": 9,
+            "clip_length": 397,
+            "processed": "<story>No! Thank you very much for being concerned about me. \n<story>It's true that lately, I've been at a loss…… ehehe."
+        },
+        {
+            "text": "Ever since I was young, I've never really had any \nspecialties. My favorite thing has always been only \nbooks pretty much…… it's extremely plain.",
+            "name": "Zenno Rob Roy",
+            "path_id": -8049222674146239659,
+            "block_id": 10,
+            "clip_length": 437,
+            "processed": "<story>Ever since I was young, I've never really had any \n<story>specialties. My favorite thing has always been only \n<story>books pretty much…… it's extremely plain."
+        },
+        {
+            "text": "And me too, I'm used to being unremarkable. Even if someone \ncomes to see me, it's…… still embarrassing……",
+            "name": "Zenno Rob Roy",
+            "path_id": 2608625908747358515,
+            "block_id": 11,
+            "clip_length": 400,
+            "processed": "<story>And me too, I'm used to being unremarkable. Even if someone \n<story>comes to see me, it's…… still embarrassing……"
+        },
+        {
+            "text": "At the very least, I wanted to get good enough that I wouldn't be \nembarrassed, but I was anxious, too anxious…… and ended up \nhurting myself again.",
+            "name": "Zenno Rob Roy",
+            "path_id": -4999561281535101873,
+            "block_id": 12,
+            "clip_length": 425,
+            "processed": "<story>At the very least, I wanted to get good enough that I wouldn't be \n<story>embarrassed, but I was anxious, too anxious…… and ended up \n<story>hurting myself again."
+        },
+        {
+            "text": "Just being there, in a place where people's gazes \nnaturally gather, like the hero of a story…… it's \nalmost funny how far away that feels.",
+            "name": "Zenno Rob Roy",
+            "path_id": -1183402123690298690,
+            "block_id": 13,
+            "clip_length": 456,
+            "processed": "<story>Just being there, in a place where people's gazes \n<story>naturally gather, like the hero of a story…… it's \n<story>almost funny how far away that feels."
+        },
+        {
+            "text": "It's pathetic…… like this, I can't even live up to my name.",
+            "name": "Zenno Rob Roy",
+            "path_id": -4362017873522701211,
+            "block_id": 14,
+            "clip_length": 207,
+            "choices": [
+                {
+                    "text": "Live up to your name?",
+                    "hash": "f9ff56818caeceef5c84aca2928443e9f0560db9d252486a5e2e1f6a3211578c"
+                }
+            ],
+            "processed": "<story>It's pathetic…… like this, I can't even live up to my name."
+        },
+        {
+            "text": "Yeah…… Ah, well, you see……",
+            "name": "Zenno Rob Roy",
+            "path_id": -6311504994021335402,
+            "block_id": 15,
+            "clip_length": 132,
+            "processed": "<story>Yeah…… Ah, well, you see……"
+        },
+        {
+            "text": "Saying that, Zenno Rob Roy, grabbed \na book from the shelf without even pausing.",
+            "name": "",
+            "path_id": 4397344409748239940,
+            "block_id": 16,
+            "clip_length": 89,
+            "processed": "<story>Saying that, Zenno Rob Roy, grabbed \n<story>a book from the shelf without even pausing."
+        },
+        {
+            "text": "『Rob Roy』 ……my name is the same as the \nhero written about in this story.",
+            "name": "Zenno Rob Roy",
+            "path_id": 8609923566307285320,
+            "block_id": 17,
+            "clip_length": 321,
+            "processed": "<story>『Rob Roy』 ……my name is the same as the \n<story>hero written about in this story."
+        },
+        {
+            "text": "Defeating the strong, protecting the weak. Continuing \nto fight on to restore his family's honor, the people's \nhero…… completely different from me.",
+            "name": "Zenno Rob Roy",
+            "path_id": 2116347964775355111,
+            "block_id": 18,
+            "clip_length": 527,
+            "choices": [
+                {
+                    "text": "Rob Roy……",
+                    "hash": "9ce2359249d25a75f034c97c61fbf1d168d2de89d622ece520c42dcc870810ee"
+                }
+            ],
+            "processed": "<story>Defeating the strong, protecting the weak. Continuing \n<story>to fight on to restore his family's honor, the people's \n<story>hero…… completely different from me."
+        },
+        {
+            "text": "Ahaha, ha………… \nI'm sorry, I'm heading back for the day……!",
+            "name": "Zenno Rob Roy",
+            "path_id": 562421633162846731,
+            "block_id": 19,
+            "clip_length": 353,
+            "processed": "<story>Ahaha, ha………… \n<story>I'm sorry, I'm heading back for the day……!"
+        },
+        {
+            "text": "I tried to chase after her but, there was no way I could keep up \nwith an Uma Musume's legs. Before I knew it, I lost sight of her……",
+            "name": "",
+            "path_id": 3862848228317711011,
+            "block_id": 20,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "(A place that Rob Roy might go……)",
+                    "hash": "8810935ed31a3c1c406e5048216153d87735b3dbd74f46a999c6aab251f4a534"
+                }
+            ],
+            "processed": "<story>I tried to chase after her but, there was no way I could keep up \n<story>with an Uma Musume's legs. Before I knew it, I lost sight of her……"
+        },
+        {
+            "text": "After thinking for a moment, I took off. \nFor some reason, I felt like I had a clue.",
+            "name": "",
+            "path_id": 1798893982139777256,
+            "block_id": 21,
+            "clip_length": 76,
+            "processed": "<story>After thinking for a moment, I took off. \n<story>For some reason, I felt like I had a clue."
+        },
+        {
+            "text": "The training course―― As I thought, Zenno Rob \nRoy was there. Standing by herself, she was looking \nout over the training course from afar.",
+            "name": "",
+            "path_id": -6306363782157323714,
+            "block_id": 22,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "Rob Roy!",
+                    "hash": "a6ed3f99e98a10b464e7e8b29b3099e18df18544b658fe79877fdbe0a631d82c"
+                }
+            ],
+            "processed": "<story>The training course―― As I thought, Zenno Rob \n<story>Roy was there. Standing by herself, she was looking \n<story>out over the training course from afar."
+        },
+        {
+            "text": "Eh…… huh? Trainer-san!? \nWhy are you here……!?",
+            "name": "Zenno Rob Roy",
+            "path_id": 2473829513994389823,
+            "block_id": 23,
+            "clip_length": 185,
+            "choices": [
+                {
+                    "text": "I didn't think you'd just head home",
+                    "hash": "a4d82aabc0f8ce271c6bf91d21dc1501ecdf4001191818167ef3c60b4936d654"
+                }
+            ],
+            "processed": "<story>Eh…… huh? Trainer-san!? \n<story>Why are you here……!?"
+        },
+        {
+            "text": "I-I'm pretty sure that the situation would make it \nseem like I was heading home though……!",
+            "name": "Zenno Rob Roy",
+            "path_id": 7059899716274827116,
+            "block_id": 24,
+            "clip_length": 127,
+            "choices": [
+                {
+                    "text": "But you have a hard time giving up",
+                    "hash": "5534c77ccffa66c5b9e994c3347a508f8b0aeabe973ee5b494d9df4b77ad26fc"
+                },
+                {
+                    "text": "But you have a hard time giving up",
+                    "hash": "42a9e8e170209d8395d1cc67228be31eb33fb207650c3c42edfe16153c6f2810"
+                }
+            ],
+            "processed": "<story>I-I'm pretty sure that the situation would make it \n<story>seem like I was heading home though……!"
+        },
+        {
+            "text": "I pulled out the notebook I picked up yesterday. Contained within \nwas her struggles through trial and error, it was proof of Zenno \nRob Roy's refusal to give up.",
+            "name": "",
+            "path_id": -5839449598085704287,
+            "block_id": 25,
+            "clip_length": 118,
+            "processed": "<story>I pulled out the notebook I picked up yesterday. Contained within \n<story>was her struggles through trial and error, it was proof of Zenno \n<story>Rob Roy's refusal to give up."
+        },
+        {
+            "text": "Ah, that's……! D-did you by chance, look inside……!?",
+            "name": "Zenno Rob Roy",
+            "path_id": -7710986397907632373,
+            "block_id": 26,
+            "clip_length": 295,
+            "choices": [
+                {
+                    "text": "Sorry, I wanted to confirm the owner……",
+                    "hash": "0ec8a468eafe60e1679951014900369e356e870455ca28826a6aa3cad804a669",
+                    "processed": "<size=41>Sorry, I wanted to confirm the owner……</size>"
+                }
+            ],
+            "processed": "<story>Ah, that's……! D-did you by chance, look inside……!?"
+        },
+        {
+            "text": "Ah, Ahaha…… it's really silly isn't it? Acting like \nI've given up, but then writing like that in my notebook.",
+            "name": "Zenno Rob Roy",
+            "path_id": -2195752801997709211,
+            "block_id": 27,
+            "clip_length": 310,
+            "processed": "<story>Ah, Ahaha…… it's really silly isn't it? Acting like \n<story>I've given up, but then writing like that in my notebook."
+        },
+        {
+            "text": "Even if it's not possible…… Sorry for letting you \nsee something so weird. It's fine if you throw that away.",
+            "name": "Zenno Rob Roy",
+            "path_id": 4015165918363843843,
+            "block_id": 28,
+            "clip_length": 342,
+            "choices": [
+                {
+                    "text": "I won't thow it away",
+                    "hash": "36f7c3b050b8a24c315440d0c434421334701b9fb7fd50336a7850f2fa15f8fe"
+                }
+            ],
+            "processed": "<story>Even if it's not possible…… Sorry for letting you \n<story>see something so weird. It's fine if you throw that away."
+        },
+        {
+            "text": "Ah…… Y-you're right, sorry about that. \nI should properly throw it away myself―",
+            "name": "Zenno Rob Roy",
+            "path_id": 4334142459495630704,
+            "block_id": 29,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "I just wanted to confirm",
+                    "hash": "155c9adcb3d5adc2d4fe02f548ff3565b79e48f31f64bcc095f1021fe38fe919"
+                }
+            ],
+            "processed": "<story>Ah…… Y-you're right, sorry about that. \n<story>I should properly throw it away myself―"
+        },
+        {
+            "text": "Confirm……?",
+            "name": "Zenno Rob Roy",
+            "path_id": -2736207190080793034,
+            "block_id": 30,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "Rob Roy. What is your dream?",
+                    "hash": "ab1a2158afa36308fe0a2e4a828a06b9e898fdea15e8c08d7fe8f648b16c8a8b"
+                },
+                {
+                    "text": "Rob Roy. What is your dream?",
+                    "hash": "7d1090f6434396d1d694fcb95519a7bd5022bd399f5dca4b3536f7a737147ed5"
+                }
+            ],
+            "processed": "<story>Confirm……?"
+        },
+        {
+            "text": "Ah……!…… ………… \n……I …………y-you won't laugh?",
+            "name": "Zenno Rob Roy",
+            "path_id": -7412400078714206850,
+            "block_id": 31,
+            "clip_length": 488,
+            "choices": [
+                {
+                    "text": "I won't laugh. Promise",
+                    "hash": "56df43b4631e93e42abe343595dd96d25462b62fbdfe9b46eaaf5f9697f3e6bf"
+                }
+            ],
+            "processed": "<story>Ah……!…… ………… \n<story>……I …………y-you won't laugh?"
+        },
+        {
+            "text": "…………",
+            "name": "Zenno Rob Roy",
+            "path_id": 6874449809212168335,
+            "block_id": 32,
+            "clip_length": 166,
+            "processed": "<story>…………"
+        },
+        {
+            "text": "The truth is, I…… I saw a dream where I became a hero.",
+            "name": "Zenno Rob Roy",
+            "path_id": -2636357925455258954,
+            "block_id": 33,
+            "clip_length": 418,
+            "processed": "<story>The truth is, I…… I saw a dream where I became a hero."
+        },
+        {
+            "text": "She spoke softly if she was telling some huge secret, \nbut also as if it was a very precious treasure.",
+            "name": "",
+            "path_id": 637055530597787086,
+            "block_id": 34,
+            "clip_length": 102,
+            "processed": "<story>She spoke softly if she was telling some huge secret, \n<story>but also as if it was a very precious treasure."
+        },
+        {
+            "text": "E-even though my debut is late…… even though \nI don't have anything I can call results, and \nI haven't gotten the attention of anyone……",
+            "name": "Zenno Rob Roy",
+            "path_id": 7072158953435969564,
+            "block_id": 35,
+            "clip_length": 274,
+            "processed": "<story>E-even though my debut is late…… even though \n<story>I don't have anything I can call results, and \n<story>I haven't gotten the attention of anyone……"
+        },
+        {
+            "text": "……Even then, I want to cling to the word, Hero.",
+            "name": "Zenno Rob Roy",
+            "path_id": 1906498246579052922,
+            "block_id": 36,
+            "clip_length": 284,
+            "choices": [
+                {
+                    "text": "It's a good dream",
+                    "hash": "936f3971f6749103b36632ec1f5eb17358004b78e8b982d9cd5cbc7d486d8891"
+                },
+                {
+                    "text": "It's a good dream",
+                    "hash": "7f516048a163253d18d049dac84e81778d324a8f5960f6cc938ccd113d5b475c"
+                }
+            ],
+            "processed": "<story>……Even then, I want to cling to the word, Hero."
+        },
+        {
+            "text": "Eh……?",
+            "name": "Zenno Rob Roy",
+            "path_id": 5073382837624890950,
+            "block_id": 37,
+            "clip_length": 37,
+            "processed": "<story>Eh……?"
+        },
+        {
+            "text": "The reason she started this 『Hero Search』, why she skipped \ntraining, and even the reason she ran all the way here―",
+            "name": "",
+            "path_id": 6409197478321802210,
+            "block_id": 38,
+            "clip_length": 112,
+            "processed": "<story>The reason she started this 『Hero Search』, why she skipped \n<story>training, and even the reason she ran all the way here―"
+        },
+        {
+            "text": "All of that was because Zenno Rob Roy hadn't given up on the \ndream, 『I will become a Hero』.",
+            "name": "",
+            "path_id": -5587810361359048120,
+            "block_id": 39,
+            "clip_length": 94,
+            "processed": "<story>All of that was because Zenno Rob Roy hadn't given up on the \n<story>dream, 『I will become a Hero』."
+        },
+        {
+            "text": "……that's not true. It's a shameless and cruel dream.",
+            "name": "Zenno Rob Roy",
+            "path_id": 8484524271400169223,
+            "block_id": 40,
+            "clip_length": 333,
+            "processed": "<story>……that's not true. It's a shameless and cruel dream."
+        },
+        {
+            "text": "Among my senpai, classmates, and kouhai, there are lots of \ngirls who are amazing, strong, and stand out like Heroes.",
+            "name": "Zenno Rob Roy",
+            "path_id": -5539376186534126074,
+            "block_id": 41,
+            "clip_length": 361,
+            "processed": "<story>Among my senpai, classmates, and kouhai, there are lots of \n<story>girls who are amazing, strong, and stand out like Heroes."
+        },
+        {
+            "text": "They all have such wonderful dreams…… the kind that a story can \nbe based on. Like wanting to protect the honor of their family, \nor wanting to make the people watching happy!",
+            "name": "Zenno Rob Roy",
+            "path_id": -1335724520884080321,
+            "block_id": 42,
+            "clip_length": 423,
+            "processed": "<story>They all have such wonderful dreams…… the kind that a story can \n<story>be based on. Like wanting to protect the honor of their family, \n<story>or wanting to make the people watching happy!"
+        },
+        {
+            "text": "I don't have something like that, I just want to stand out, \nI just want people to look at me……!",
+            "name": "Zenno Rob Roy",
+            "path_id": -6829080946175120954,
+            "block_id": 43,
+            "clip_length": 206,
+            "processed": "<story>I don't have something like that, I just want to stand out, \n<story>I just want people to look at me……!"
+        },
+        {
+            "text": "I don't have a story! \nThat's why I've always been in the background……!",
+            "name": "Zenno Rob Roy",
+            "path_id": 3054229053040147251,
+            "block_id": 44,
+            "clip_length": 205,
+            "choices": [
+                {
+                    "text": "……but you still want to be a Hero?",
+                    "hash": "e4d2132ce1c72c763884c107e8a1d3d2b0ad93e02e820b23d3e96b7d266c5327"
+                }
+            ],
+            "processed": "<story>I don't have a story! \n<story>That's why I've always been in the background……!"
+        },
+        {
+            "text": "……",
+            "name": "Zenno Rob Roy",
+            "path_id": -516150756349817050,
+            "block_id": 45,
+            "clip_length": 45,
+            "processed": "<story>……"
+        },
+        {
+            "text": "……Yes ……!",
+            "name": "Zenno Rob Roy",
+            "path_id": -8339063405611486664,
+            "block_id": 46,
+            "clip_length": 182,
+            "choices": [
+                {
+                    "text": "Lend me your notebook",
+                    "hash": "db8c3a00bc3847fab3c6496193d85fd4e5dac3395a1af4d85d0ee27b42b5f646"
+                },
+                {
+                    "text": "Lend me your notebook",
+                    "hash": "8db0b7d8189cdcb678759f397cc4ba09a9c708a022e3c171d00ad948035074f3"
+                }
+            ],
+            "processed": "<story>……Yes ……!"
+        },
+        {
+            "text": "O-okay……?",
+            "name": "Zenno Rob Roy",
+            "path_id": -7191551929275552197,
+            "block_id": 47,
+            "clip_length": 58,
+            "processed": "<story>O-okay……?"
+        },
+        {
+            "text": "I take out a permanent marker. \nI don't open the notebook, I only need the cover.",
+            "name": "",
+            "path_id": -8474628234711975520,
+            "block_id": 48,
+            "clip_length": 91,
+            "processed": "<story>I take out a permanent marker. \n<story>I don't open the notebook, I only need the cover."
+        },
+        {
+            "text": "Eh, w-what are you doing? Um……?",
+            "name": "Zenno Rob Roy",
+            "path_id": 2770150063883391381,
+            "block_id": 49,
+            "clip_length": 113,
+            "processed": "<story>Eh, w-what are you doing? Um……?"
+        },
+        {
+            "text": "Now, it's no longer just a 『Notebook』, \nand I hand it back to Zenno Rob Roy.",
+            "name": "",
+            "path_id": 6230548637807192177,
+            "block_id": 50,
+            "clip_length": 90,
+            "processed": "<story>Now, it's no longer just a 『Notebook』, \n<story>and I hand it back to Zenno Rob Roy."
+        },
+        {
+            "text": "『The Heroic Tale of Zenno Rob Roy』……?",
+            "name": "Zenno Rob Roy",
+            "path_id": 4930517731930771327,
+            "block_id": 51,
+            "clip_length": 131,
+            "choices": [
+                {
+                    "text": "I want to read this!",
+                    "hash": "2f99edfc6397ac8d248302eb78fb5b1254b8c3d041e39f73906c4aefe5a4b29b"
+                },
+                {
+                    "text": "I want to read this!",
+                    "hash": "335d7a7aeb9ed74ee87f4abddf38b797a736c10c04126a52ce7be5f9aa99295a"
+                }
+            ],
+            "processed": "<story>『The Heroic Tale of Zenno Rob Roy』……?"
+        },
+        {
+            "text": "Eh――Eeeeh!?",
+            "name": "Zenno Rob Roy",
+            "path_id": 5778180285510370754,
+            "block_id": 52,
+            "clip_length": 98,
+            "processed": "<story>Eh――Eeeeh!?"
+        },
+        {
+            "text": "A dream that can't be given up, that's how strong her wish is. If \nshe keeps striving for it, someday―― No, I want it to be granted.",
+            "name": "",
+            "path_id": 7790374900433880518,
+            "block_id": 53,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "Let me help with your training",
+                    "hash": "d5d02e9f5a6677c1ead944428a2982670d60b6f499f9ca9776a3e426cda4b8f6"
+                },
+                {
+                    "text": "Let me help with your training",
+                    "hash": "9dda3f2f3329fcc1dfda105b234a52c61ccee8a6756891fb3122408eb1e80dcb"
+                }
+            ],
+            "processed": "<story>A dream that can't be given up, that's how strong her wish is. If \n<story>she keeps striving for it, someday―― No, I want it to be granted."
+        },
+        {
+            "text": "I'm weak and don't stand out…… you might even \nget fed up with me……? Is that really okay……?",
+            "name": "Zenno Rob Roy",
+            "path_id": 4559072270765875608,
+            "block_id": 54,
+            "clip_length": 478,
+            "processed": "<story>I'm weak and don't stand out…… you might even \n<story>get fed up with me……? Is that really okay……?"
+        },
+        {
+            "text": "I nod emphatically. For now, the 『Hero Search』 is on hold. \n――Now, I want to see this story.",
+            "name": "",
+            "path_id": -3315792578307539741,
+            "block_id": 55,
+            "clip_length": 95,
+            "processed": "<story>I nod emphatically. For now, the 『Hero Search』 is on hold. \n<story>――Now, I want to see this story."
+        }
+    ],
+    "title": "Like Telling A Legend"
+}

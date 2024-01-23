@@ -1,0 +1,540 @@
+{
+    "type": "story",
+    "row_index": 243,
+    "file_name": "story/data/04/1002/storytimeline_041002007",
+    "hash": "NMXZGF4POAX7NOYBNNZZFTRH27YRNP37",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3601355902590299122,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Summer training camp is held for the sake of improving the \nabilities of Uma Musume. Silence Suzuka is also working hard \nwith the same goal in mind.",
+            "name": "",
+            "path_id": 4991409761782245094,
+            "block_id": 1,
+            "clip_length": 86,
+            "processed": "<story>Summer training camp is held for the sake of improving the \n<story>abilities of Uma Musume. Silence Suzuka is also working hard \n<story>with the same goal in mind."
+        },
+        {
+            "text": "There's only a few days left of training camp…",
+            "name": "Silence Suzuka",
+            "path_id": 2666127081753837157,
+            "block_id": 2,
+            "clip_length": 87,
+            "processed": "<story>There's only a few days left of training camp…"
+        },
+        {
+            "text": "It's unfortunate that we'll be leaving such \na great place to focus on training.",
+            "name": "Silence Suzuka",
+            "path_id": 6734131666644532288,
+            "block_id": 3,
+            "clip_length": 176,
+            "choices": [
+                {
+                    "text": "Let's spend the remaining days with no regrets",
+                    "hash": "13a6f2809cfefd39dcf44184f025a172ad894459c1e87f84025f6a3429473957",
+                    "processed": "<size=35>Let's spend the remaining days with no regrets</size>"
+                }
+            ],
+            "processed": "<story>It's unfortunate that we'll be leaving such \n<story>a great place to focus on training."
+        },
+        {
+            "text": "Fufuu, of course.",
+            "name": "Silence Suzuka",
+            "path_id": 4701388034558526188,
+            "block_id": 4,
+            "clip_length": 81,
+            "processed": "<story>Fufuu, of course."
+        },
+        {
+            "text": "Ah… speaking of which, Trainer-san. \nAbout the triathalon competition…",
+            "name": "Silence Suzuka",
+            "path_id": -4056821674282140531,
+            "block_id": 5,
+            "clip_length": 199,
+            "processed": "<story>Ah… speaking of which, Trainer-san. \n<story>About the triathalon competition…"
+        },
+        {
+            "text": "Silence Suzuka is talking about a Triathalon that \nis held as part of the summer training camp.",
+            "name": "",
+            "path_id": 5552847023585447401,
+            "block_id": 6,
+            "clip_length": 74,
+            "processed": "<story>Silence Suzuka is talking about a Triathalon that \n<story>is held as part of the summer training camp."
+        },
+        {
+            "text": "A triathalon consists of swimming, bicycling and \na long-distance run at the end. It's something \nthat requires quite a bit of stamina.",
+            "name": "",
+            "path_id": -3867023642419793018,
+            "block_id": 7,
+            "clip_length": 83,
+            "choices": [
+                {
+                    "text": "I thought you weren't going to participate.",
+                    "hash": "532222bc1e5aec81a370e52c5245282710a6fbeb5e98408d7a92e1c3c4726c8e",
+                    "processed": "<size=39>I thought you weren't going to participate.</size>"
+                },
+                {
+                    "text": "I thought you weren't going to participate.",
+                    "hash": "b93fa39d6b6d2966b4b4114b3d9e62bbb7658d450316cb3ca66d49584c7f8868",
+                    "processed": "<size=39>I thought you weren't going to participate.</size>"
+                }
+            ],
+            "processed": "<story>A triathalon consists of swimming, bicycling and \n<story>a long-distance run at the end. It's something \n<story>that requires quite a bit of stamina."
+        },
+        {
+            "text": "Yes… my specialty is medium distance, and the only thing I can \ndo is \"escape\" so I didn't think I was suited for it…",
+            "name": "Silence Suzuka",
+            "path_id": 4618770098906030685,
+            "block_id": 8,
+            "clip_length": 251,
+            "processed": "<story>Yes… my specialty is medium distance, and the only thing I can \n<story>do is \"escape\" so I didn't think I was suited for it…"
+        },
+        {
+            "text": "But…",
+            "name": "Silence Suzuka",
+            "path_id": -2914014234762987056,
+            "block_id": 9,
+            "clip_length": 34,
+            "processed": "<story>But…"
+        },
+        {
+            "text": "Um, Trainer-san. Would it be fine for me to enter?",
+            "name": "Silence Suzuka",
+            "path_id": 3470829300257221050,
+            "block_id": 10,
+            "clip_length": 188,
+            "processed": "<story>Um, Trainer-san. Would it be fine for me to enter?"
+        },
+        {
+            "text": "For the sake of having no regrets… I'd like to give it a try.",
+            "name": "Silence Suzuka",
+            "path_id": 7470957537524835651,
+            "block_id": 11,
+            "clip_length": 143,
+            "choices": [
+                {
+                    "text": "In that case, I'll support you to the best of my abilities.",
+                    "hash": "d1447d5c77ccfb5902edb3ba4ffcd4ea6eb82e0da6b6f684e246ede253eef11f",
+                    "processed": "<size=30>In that case, I'll support you to the best of my abilities.</size>"
+                },
+                {
+                    "text": "In that case, I'll support you to the best of my abilities.",
+                    "hash": "aa4ff23059283e5d8650193a200fc1cc07e3866990feff8fadcb55084b9cc4ac",
+                    "processed": "<size=30>In that case, I'll support you to the best of my abilities.</size>"
+                }
+            ],
+            "processed": "<story>For the sake of having no regrets… I'd like to give it a try."
+        },
+        {
+            "text": "Yes, please. I'll also run to the best of my abilities.",
+            "name": "Silence Suzuka",
+            "path_id": -8228310128428638129,
+            "block_id": 12,
+            "clip_length": 169,
+            "processed": "<story>Yes, please. I'll also run to the best of my abilities."
+        },
+        {
+            "text": "And so, Silence Suzuka's participation in the Triathalon was \ndecided. Then, the day of the race-",
+            "name": "",
+            "path_id": -2881939272053285222,
+            "block_id": 13,
+            "clip_length": 57,
+            "processed": "<story>And so, Silence Suzuka's participation in the Triathalon was \n<story>decided. Then, the day of the race-"
+        },
+        {
+            "text": "There are quite a few participants… I wonder if a lot of them \nare doing this as part of training…",
+            "name": "Silence Suzuka",
+            "path_id": -9192082622486597883,
+            "block_id": 14,
+            "clip_length": 243,
+            "processed": "<story>There are quite a few participants… I wonder if a lot of them \n<story>are doing this as part of training…"
+        },
+        {
+            "text": "…but, I'm the same. From start to finish, \nI'll just run at my own pace.",
+            "name": "Silence Suzuka",
+            "path_id": 8924965676449957165,
+            "block_id": 15,
+            "clip_length": 195,
+            "choices": [
+                {
+                    "text": "Are you going to try something other than escape?",
+                    "hash": "cc7a6904dfc841ee074d90d304dd135a78f025f37670165fbe73009e3e36b173",
+                    "processed": "<size=32>Are you going to try something other than escape?</size>"
+                },
+                {
+                    "text": "Are you going to try something other than escape?",
+                    "hash": "5a3f85348b9745a78a9e88ffc64c66a3b7839975b027d9ef874ae5b1a569165a",
+                    "processed": "<size=32>Are you going to try something other than escape?</size>"
+                }
+            ],
+            "processed": "<story>…but, I'm the same. From start to finish, \n<story>I'll just run at my own pace."
+        },
+        {
+            "text": "No, I will run in the only way I can.",
+            "name": "Silence Suzuka",
+            "path_id": -5996509781050338579,
+            "block_id": 16,
+            "clip_length": 139,
+            "processed": "<story>No, I will run in the only way I can."
+        },
+        {
+            "text": "Um, Trainer-san. …will you listen to a request?",
+            "name": "Silence Suzuka",
+            "path_id": 147343833044574940,
+            "block_id": 17,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "A request?",
+                    "hash": "de45084e4f5c13026123031e336ad8e25343ecec0037e58023b9d847e6962b98"
+                }
+            ],
+            "processed": "<story>Um, Trainer-san. …will you listen to a request?"
+        },
+        {
+            "text": "-A reward. I'd like you to prepare one and wait for me.",
+            "name": "Silence Suzuka",
+            "path_id": 7072618394976535859,
+            "block_id": 18,
+            "clip_length": 130,
+            "processed": "<story>-A reward. I'd like you to prepare one and wait for me."
+        },
+        {
+            "text": "Um, that's right… Since there's going to be a Summer Festival \ntonight, how about accompanying me…?",
+            "name": "Silence Suzuka",
+            "path_id": -1244906022692816264,
+            "block_id": 19,
+            "clip_length": 290,
+            "choices": [
+                {
+                    "text": "I'll treat you at a food stall",
+                    "hash": "eafdb08227852c8609c4791bc5eac427f83e08064c3c8822892c25ed6249eaaa"
+                }
+            ],
+            "processed": "<story>Um, that's right… Since there's going to be a Summer Festival \n<story>tonight, how about accompanying me…?"
+        },
+        {
+            "text": "Thank you very much. Then… I'll be off.",
+            "name": "Silence Suzuka",
+            "path_id": 4476375919504247519,
+            "block_id": 20,
+            "clip_length": 148,
+            "processed": "<story>Thank you very much. Then… I'll be off."
+        },
+        {
+            "text": "And so, at last, the Triathalon started.",
+            "name": "",
+            "path_id": 440052335499685378,
+            "block_id": 21,
+            "clip_length": 44,
+            "processed": "<story>And so, at last, the Triathalon started."
+        },
+        {
+            "text": "First up, it's swimming in the open ocean! It may look calm, but \nswimming against the waves is a daunting endeavor!",
+            "name": "Announcer Uma Musume",
+            "path_id": -6058484191747151080,
+            "block_id": 22,
+            "clip_length": 251,
+            "processed": "<story>First up, it's swimming in the open ocean! It may look calm, but \n<story>swimming against the waves is a daunting endeavor!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "Oh, the one that pulls ahead here is Silence Suzuka-san! Whether \nit's on the turf, or in the ocean, she won't give up the lead!",
+            "name": "Announcer Uma Musume",
+            "path_id": -1601280807286294317,
+            "block_id": 23,
+            "clip_length": 281,
+            "processed": "<story>Oh, the one that pulls ahead here is Silence Suzuka-san! Whether \n<story>it's on the turf, or in the ocean, she won't give up the lead!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "Suzuka-senpai is awesome!",
+            "name": "Horsegirl A",
+            "path_id": -2092152936305066056,
+            "block_id": 24,
+            "clip_length": 70,
+            "processed": "<story>Suzuka-senpai is awesome!"
+        },
+        {
+            "text": "But this is a Triathalon though. If she takes off like that at \nthe start, she won't last until the end.",
+            "name": "Horsegirl B",
+            "path_id": -3454294849618488056,
+            "block_id": 25,
+            "clip_length": 169,
+            "processed": "<story>But this is a Triathalon though. If she takes off like that at \n<story>the start, she won't last until the end."
+        },
+        {
+            "text": "Despite those concerns, during the swimming and cycling portions \nof the race, Silence Suzuka pulled farther ahead.",
+            "name": "",
+            "path_id": 6043379847809047025,
+            "block_id": 26,
+            "clip_length": 72,
+            "processed": "<story>Despite those concerns, during the swimming and cycling portions \n<story>of the race, Silence Suzuka pulled farther ahead."
+        },
+        {
+            "text": "However, the long distance run at the end-",
+            "name": "",
+            "path_id": 5147010809975566633,
+            "block_id": 27,
+            "clip_length": 28,
+            "processed": "<story>However, the long distance run at the end-"
+        },
+        {
+            "text": "We're finally at the Triathalon's finale! \nSilence Suzuka-san is still in the lead!",
+            "name": "Announcer Uma Musume",
+            "path_id": 7932510305159564071,
+            "block_id": 28,
+            "clip_length": 197,
+            "processed": "<story>We're finally at the Triathalon's finale! \n<story>Silence Suzuka-san is still in the lead!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "However! Since she's been running full speed until now, she's \ngreatly slowed down! The followers are catching up!",
+            "name": "Announcer Uma Musume",
+            "path_id": -2010593485932725194,
+            "block_id": 29,
+            "clip_length": 295,
+            "processed": "<story>However! Since she's been running full speed until now, she's \n<story>greatly slowed down! The followers are catching up!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "…Haa… haa… ku…!",
+            "name": "Silence Suzuka",
+            "path_id": -3788185655368736410,
+            "block_id": 30,
+            "clip_length": 88,
+            "processed": "<story>…Haa… haa… ku…!"
+        },
+        {
+            "text": "From the goal, I can see Silence Suzuka's form approaching, but-",
+            "name": "",
+            "path_id": -3865505157699067905,
+            "block_id": 31,
+            "clip_length": 69,
+            "processed": "<story>From the goal, I can see Silence Suzuka's form approaching, but-"
+        },
+        {
+            "text": "As I thought, she must not have enough stamina left…",
+            "name": "Horsegirl B",
+            "path_id": -6721395915454839418,
+            "block_id": 32,
+            "clip_length": 98,
+            "processed": "<story>As I thought, she must not have enough stamina left…"
+        },
+        {
+            "text": "Hey, our voices might reach her from here, let's \ncheer her on! You can do it, Suzuka-senpai!",
+            "name": "Horsegirl A",
+            "path_id": -6824548761361946611,
+            "block_id": 33,
+            "clip_length": 209,
+            "processed": "<story>Hey, our voices might reach her from here, let's \n<story>cheer her on! You can do it, Suzuka-senpai!"
+        },
+        {
+            "text": "This Triathalon is just a part of training, \nan unimportant event- but still…",
+            "name": "",
+            "path_id": 1258380817469477665,
+            "block_id": 34,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "You can do it, Suzuka!!!!",
+                    "hash": "7794d9eafca303d85e7454baa86114a2629871fac9889cfecf35a7973b0d749b"
+                }
+            ],
+            "processed": "<story>This Triathalon is just a part of training, \n<story>an unimportant event- but still…"
+        },
+        {
+            "text": "I didn't know if my voice would reach her, \nbut I still cheered as loud as I could.",
+            "name": "",
+            "path_id": 8527910011182652871,
+            "block_id": 35,
+            "clip_length": 49,
+            "processed": "<story>I didn't know if my voice would reach her, \n<story>but I still cheered as loud as I could."
+        },
+        {
+            "text": "…!!",
+            "name": "Silence Suzuka",
+            "path_id": 8132317336320208648,
+            "block_id": 36,
+            "clip_length": 31,
+            "processed": "<story>…!!"
+        },
+        {
+            "text": "This scenery…I won't yield it to anyone!",
+            "name": "Silence Suzuka",
+            "path_id": 3151295762921316177,
+            "block_id": 37,
+            "clip_length": 113,
+            "processed": "<story>This scenery…I won't yield it to anyone!"
+        },
+        {
+            "text": "Oh! Silence Suzuka-san once again increases her speed!",
+            "name": "Announcer Uma Musume",
+            "path_id": -2931723003200643762,
+            "block_id": 38,
+            "clip_length": 190,
+            "processed": "<story>Oh! Silence Suzuka-san once again increases her speed!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "The others can't catch up! She's completely running away!",
+            "name": "Announcer Uma Musume",
+            "path_id": 6417584207790688248,
+            "block_id": 39,
+            "clip_length": 207,
+            "processed": "<story>The others can't catch up! She's completely running away!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "And just like that she keeps her lead, now - GOAL! The \nTriathalon's winner is Silence Suzuka-san!",
+            "name": "Announcer Uma Musume",
+            "path_id": -3568886639825956927,
+            "block_id": 40,
+            "clip_length": 343,
+            "processed": "<story>And just like that she keeps her lead, now - GOAL! The \n<story>Triathalon's winner is Silence Suzuka-san!",
+            "name_processed": "<sc=93>Announcer Uma Musume"
+        },
+        {
+            "text": "(WHOOOOOOOOOA!!!)",
+            "name": "Cheers",
+            "path_id": 3887004160869971425,
+            "block_id": 41,
+            "clip_length": 64,
+            "processed": "<story>(WHOOOOOOOOOA!!!)"
+        },
+        {
+            "text": "The shaved ice was delicious. It tastes so much \nbetter after moving my body to the fullest.",
+            "name": "Silence Suzuka",
+            "path_id": 2096377469479672506,
+            "block_id": 42,
+            "clip_length": 240,
+            "choices": [
+                {
+                    "text": "Even more so, since you won.",
+                    "hash": "b064894d308cfd8a238e714df0ca09a5fe8d32eeb8a17047948c6e2ff25574ad"
+                },
+                {
+                    "text": "Even more so, since you won.",
+                    "hash": "132be7dfce4851754f75c256462f82140c29acfa03bd9243ecb1922a1f3c6377"
+                }
+            ],
+            "processed": "<story>The shaved ice was delicious. It tastes so much \n<story>better after moving my body to the fullest."
+        },
+        {
+            "text": "Even if it was a Triathalon, I still didn't want to give the lead \nto anyone… But since that's such a difficult thing to do, I \nwasn't planning on entering.",
+            "name": "Silence Suzuka",
+            "path_id": -1092825486248692568,
+            "block_id": 43,
+            "clip_length": 368,
+            "processed": "<story>Even if it was a Triathalon, I still didn't want to give the lead \n<story>to anyone… But since that's such a difficult thing to do, I \n<story>wasn't planning on entering."
+        },
+        {
+            "text": "But, just like the Meetup event, instead of thinking \ntoo hard about it, why not just simply run the way \nI want… that's what I was thinking.",
+            "name": "Silence Suzuka",
+            "path_id": -5465983255792616905,
+            "block_id": 44,
+            "clip_length": 383,
+            "processed": "<story>But, just like the Meetup event, instead of thinking \n<story>too hard about it, why not just simply run the way \n<story>I want… that's what I was thinking."
+        },
+        {
+            "text": "The reason I'm able to think like this, \nis because of you, Trainer-san.",
+            "name": "Silence Suzuka",
+            "path_id": 2744624247809716235,
+            "block_id": 45,
+            "clip_length": 166,
+            "choices": [
+                {
+                    "text": "Participating was a good call, huh?",
+                    "hash": "c0197708d52689707f3b9f23e1f3ae2ebe31d7a9e8202387372f4bd0da768805"
+                },
+                {
+                    "text": "Participating was a good call, huh?",
+                    "hash": "5194054be31af120de36d8c979bbb05b2ce69ff71ab672b0ba1362ac52883f35"
+                }
+            ],
+            "processed": "<story>The reason I'm able to think like this, \n<story>is because of you, Trainer-san."
+        },
+        {
+            "text": "Yes…Also, I've figured one more thing out.",
+            "name": "Silence Suzuka",
+            "path_id": -1493397456807981491,
+            "block_id": 46,
+            "clip_length": 190,
+            "processed": "<story>Yes…Also, I've figured one more thing out."
+        },
+        {
+            "text": "A place so quiet that I could only hear the wind \nand my beating heart, a world just for me… that \nwas the most important scenery to me.",
+            "name": "Silence Suzuka",
+            "path_id": -8304290196800982355,
+            "block_id": 47,
+            "clip_length": 390,
+            "processed": "<story>A place so quiet that I could only hear the wind \n<story>and my beating heart, a world just for me… that \n<story>was the most important scenery to me."
+        },
+        {
+            "text": "…however, that's changed just a little bit.",
+            "name": "Silence Suzuka",
+            "path_id": -2428275434551680671,
+            "block_id": 48,
+            "clip_length": 114,
+            "processed": "<story>…however, that's changed just a little bit."
+        },
+        {
+            "text": "With nobody else around, the only thing \nI see infront of me is Trainer-san",
+            "name": "Silence Suzuka",
+            "path_id": -1090576539552775456,
+            "block_id": 49,
+            "clip_length": 162,
+            "processed": "<story>With nobody else around, the only thing \n<story>I see infront of me is Trainer-san"
+        },
+        {
+            "text": "At the end, that was the scenery that pulled me forward.",
+            "name": "Silence Suzuka",
+            "path_id": -5489385012882349374,
+            "block_id": 50,
+            "clip_length": 145,
+            "choices": [
+                {
+                    "text": "From here on, I'll be waiting at the goal",
+                    "hash": "d1ca674a47091b3d912367b5e58a100dce7e2c7e87a1cea187081d01b82c4d99",
+                    "processed": "<size=42>From here on, I'll be waiting at the goal</size>"
+                },
+                {
+                    "text": "From here on, I'll be waiting at the goal",
+                    "hash": "b74febc807eb9384c6d49b0037fdb1aac4b13227af863c91420c39be66d31140",
+                    "processed": "<size=42>From here on, I'll be waiting at the goal</size>"
+                }
+            ],
+            "processed": "<story>At the end, that was the scenery that pulled me forward."
+        },
+        {
+            "text": "Fufuu, Thank you very much.",
+            "name": "Silence Suzuka",
+            "path_id": -6349297987132662173,
+            "block_id": 51,
+            "clip_length": 114,
+            "processed": "<story>Fufuu, Thank you very much."
+        },
+        {
+            "text": "No matter the race, I will definitely lead \nand return to Trainer-san's side.",
+            "name": "Silence Suzuka",
+            "path_id": -8875297051739769856,
+            "block_id": 52,
+            "clip_length": 193,
+            "processed": "<story>No matter the race, I will definitely lead \n<story>and return to Trainer-san's side."
+        },
+        {
+            "text": "Throughout this training camp, Silence Suzuka \nhad not only improved her abilities, but had also \ngrown enough to express her feelings.",
+            "name": "",
+            "path_id": -9167919855811266010,
+            "block_id": 53,
+            "clip_length": 108,
+            "processed": "<story>Throughout this training camp, Silence Suzuka \n<story>had not only improved her abilities, but had also \n<story>grown enough to express her feelings."
+        }
+    ],
+    "title": "At That Place, Wait For Me"
+}

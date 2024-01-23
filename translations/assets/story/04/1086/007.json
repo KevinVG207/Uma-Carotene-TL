@@ -1,0 +1,580 @@
+{
+    "type": "story",
+    "row_index": 202568,
+    "file_name": "story/data/04/1086/storytimeline_041086007",
+    "hash": "V42EKJ53QN4O74QBLUFMZHFYXFIUPXXO",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 7572362995492177374,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Summer Training Camp had started. Mejiro Ramonu was stoically \ncarrying out the training without any input from me.",
+            "name": "",
+            "path_id": 2419556297200451962,
+            "block_id": 1,
+            "clip_length": 95,
+            "processed": "<story>Summer Training Camp had started. Mejiro Ramonu was stoically \n<story>carrying out the training without any input from me."
+        },
+        {
+            "text": "――Haa…… Haa……",
+            "name": "Mejiro Ramonu",
+            "path_id": -7096485591544708617,
+            "block_id": 2,
+            "clip_length": 96,
+            "choices": [
+                {
+                    "text": "Yeah……looking good. Continue",
+                    "hash": "922b5026295867c931a3043e13563e58be09260cda276710af7231e4448154e5"
+                },
+                {
+                    "text": "Yeah……looking good. Continue",
+                    "hash": "8cddcf33ceddae7b700fe2632e0776c97e0b0aef2dc879ca7433dec55e7bd749"
+                }
+            ],
+            "processed": "<story>――Haa…… Haa……"
+        },
+        {
+            "text": "Huu――!",
+            "name": "Mejiro Ramonu",
+            "path_id": 6051480832358647815,
+            "block_id": 3,
+            "clip_length": 33,
+            "processed": "<story>Huu――!"
+        },
+        {
+            "text": "She was doing everything perfectly, there were no issues. \nBut, not being able to understand what she's thinking had me worried……",
+            "name": "",
+            "path_id": -6101662698395032007,
+            "block_id": 4,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "(I want to understand her……)",
+                    "hash": "24037309ed2eab5daa1304460ca09de34c34c17482b531d3c7669b8ed4c5f36f"
+                }
+            ],
+            "processed": "<story>She was doing everything perfectly, there were no issues. \n<story>But, not being able to understand what she's thinking had me worried……"
+        },
+        {
+            "text": "Thanks for the meal. \nThen, back to training――",
+            "name": "Mejiro Ramonu",
+            "path_id": 1870374802392710317,
+            "block_id": 5,
+            "clip_length": 146,
+            "processed": "<story>Thanks for the meal. \n<story>Then, back to training――"
+        },
+        {
+            "text": "Oh, there you are~. Hey, did you hear? \nSeems like there's going to be a festival tonight.",
+            "name": "Trainer Colleague",
+            "path_id": -2616791803617955229,
+            "block_id": 6,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "Really?",
+                    "hash": "b29460c4caf4a2b845f7ca683dd699fd3594b3da6849e15571fcf503856e93e1"
+                },
+                {
+                    "text": "Really?",
+                    "hash": "5808bb4eb355d77f6d6b042fe50993da612366b6cc2492c5e279d3bed72c7bb3"
+                }
+            ],
+            "processed": "<story>Oh, there you are~. Hey, did you hear? \n<story>Seems like there's going to be a festival tonight."
+        },
+        {
+            "text": "Yeah! And, that thing from your hometown…… \nwhat was it called? You know, that! That tasty \nlooking gourmet food is going to be sold――",
+            "name": "Trainer Colleague",
+            "path_id": -4998120969678588314,
+            "block_id": 7,
+            "clip_length": 291,
+            "processed": "<story>Yeah! And, that thing from your hometown…… \n<story>what was it called? You know, that! That tasty \n<story>looking gourmet food is going to be sold――"
+        },
+        {
+            "text": "He was all smiles as he talked about the place. To me, \nit wasn't too unusual, but the night festival sounded fun.",
+            "name": "",
+            "path_id": 7711917530267439128,
+            "block_id": 8,
+            "clip_length": 108,
+            "processed": "<story>He was all smiles as he talked about the place. To me, \n<story>it wasn't too unusual, but the night festival sounded fun."
+        },
+        {
+            "text": "Well, keep it in mind. A bunch of the other trainers \nand their Uma Musume are going too. Things'll go \nmuch smoother that way, after all. Hahahaa.",
+            "name": "Trainer Colleague",
+            "path_id": -1343301895624607301,
+            "block_id": 9,
+            "clip_length": 279,
+            "choices": [
+                {
+                    "text": "Ohhh……A festival, he said",
+                    "hash": "a66beca1ef44f87ec1e4ef711f5ac7a3374b23190efbb37540cae229b0fd26d5"
+                }
+            ],
+            "processed": "<story>Well, keep it in mind. A bunch of the other trainers \n<story>and their Uma Musume are going too. Things'll go \n<story>much smoother that way, after all. Hahahaa."
+        },
+        {
+            "text": "I see.",
+            "name": "Mejiro Ramonu",
+            "path_id": 7818703149472491054,
+            "block_id": 10,
+            "clip_length": 93,
+            "processed": "<story>I see."
+        },
+        {
+            "text": "I thought maybe if we went together we could interact \nmore, but it seems she's not interested. Well, knowing \nher, she might change her mind later, maybe……?",
+            "name": "",
+            "path_id": -4168952895740435970,
+            "block_id": 11,
+            "clip_length": 121,
+            "choices": [
+                {
+                    "text": "(If she's in a good mood, I'll ask……?)",
+                    "hash": "b597e53c246b16892129fa133d5cfd51441347d0ab99bf57592eda031eba01f6"
+                }
+            ],
+            "processed": "<story>I thought maybe if we went together we could interact \n<story>more, but it seems she's not interested. Well, knowing \n<story>her, she might change her mind later, maybe……?"
+        },
+        {
+            "text": "Or, at least that was what I was thinking, but…… In the evening, \na butler from the Mejiro family came looking for her.",
+            "name": "",
+            "path_id": -7843185546246270425,
+            "block_id": 12,
+            "clip_length": 93,
+            "processed": "<story>Or, at least that was what I was thinking, but…… In the evening, \n<story>a butler from the Mejiro family came looking for her."
+        },
+        {
+            "text": "――And so, I was entrusted with this invitation \nby the fans. The party will be held on a modest \nship nearby, so they would like you to attend……",
+            "name": "Mejiro Family Butler",
+            "path_id": 193544195944575810,
+            "block_id": 13,
+            "clip_length": 329,
+            "processed": "<story>――And so, I was entrusted with this invitation \n<story>by the fans. The party will be held on a modest \n<story>ship nearby, so they would like you to attend……"
+        },
+        {
+            "text": "I see.",
+            "name": "Mejiro Ramonu",
+            "path_id": -8940114021012727763,
+            "block_id": 14,
+            "clip_length": 37,
+            "choices": [
+                {
+                    "text": "……!?",
+                    "hash": "c852f2a372d80446b99a7c7fe3b82ec07bab9faf8d327ec068aaf7f7392bf0c4"
+                }
+            ],
+            "processed": "<story>I see."
+        },
+        {
+            "text": "It's being held by that businessman who sends \ngifts almost every month. Apparently they happened \nto be here attempting to escape the heat.",
+            "name": "Mejiro Family Butler",
+            "path_id": -2811428842434642770,
+            "block_id": 15,
+            "clip_length": 296,
+            "processed": "<story>It's being held by that businessman who sends \n<story>gifts almost every month. Apparently they happened \n<story>to be here attempting to escape the heat."
+        },
+        {
+            "text": "Who might that be……?",
+            "name": "Mejiro Ramonu",
+            "path_id": -2253101607499367341,
+            "block_id": 16,
+            "clip_length": 48,
+            "processed": "<story>Who might that be……?"
+        },
+        {
+            "text": "Well, it's fine. 『I will attend』, would you mind telling them?",
+            "name": "Mejiro Ramonu",
+            "path_id": 6158627284179100068,
+            "block_id": 17,
+            "clip_length": 147,
+            "processed": "<story>Well, it's fine. 『I will attend』, would you mind telling them?"
+        },
+        {
+            "text": "The butler bowed and left. I was surprised by how \nsudden it was, but for her, I guess it was normal.",
+            "name": "",
+            "path_id": 5063246265142091687,
+            "block_id": 18,
+            "clip_length": 103,
+            "processed": "<story>The butler bowed and left. I was surprised by how \n<story>sudden it was, but for her, I guess it was normal."
+        },
+        {
+            "text": "Seems like the night breeze is coming in \n……Notify the school, would you?",
+            "name": "Mejiro Ramonu",
+            "path_id": -2190230147761419952,
+            "block_id": 19,
+            "clip_length": 189,
+            "choices": [
+                {
+                    "text": "…………",
+                    "hash": "b5999fb8c439aedc310fc22e9b23faada72dc7422a48e55a6526491f7b19cc31"
+                }
+            ],
+            "processed": "<story>Seems like the night breeze is coming in \n<story>……Notify the school, would you?"
+        },
+        {
+            "text": "……Hello?",
+            "name": "Mejiro Ramonu",
+            "path_id": 5875910885949247240,
+            "block_id": 20,
+            "clip_length": 113,
+            "processed": "<story>……Hello?"
+        },
+        {
+            "text": "Heeeeeey~, finished with training~? \nAbout the festival, what're you gonna do?",
+            "name": "Trainer Colleague",
+            "path_id": 3369318509590625651,
+            "block_id": 21,
+            "clip_length": 167,
+            "choices": [
+                {
+                    "text": "Sorry, I'll have to pass",
+                    "hash": "80eed5ba4f8f804de8fce1dc57fe2027334119f376f41f656997cc24b91ff7a8"
+                }
+            ],
+            "processed": "<story>Heeeeeey~, finished with training~? \n<story>About the festival, what're you gonna do?"
+        },
+        {
+            "text": "…………?",
+            "name": "Mejiro Ramonu",
+            "path_id": -3695221657692074416,
+            "block_id": 22,
+            "clip_length": 29,
+            "choices": [
+                {
+                    "text": "She has something to attend to",
+                    "hash": "773f9f3d981709472b6a7728ef09fbe4bfbcd488c5d3576129fb7b5b907b336f"
+                }
+            ],
+            "processed": "<story>…………?"
+        },
+        {
+            "text": "I didn't ask you to come with me though?",
+            "name": "Mejiro Ramonu",
+            "path_id": -2255025095318205692,
+            "block_id": 23,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "I want to go with you",
+                    "hash": "8550136737ddd23711a6ad8ffd242aaec194f5875db2f015d307d5483a7ba08e"
+                },
+                {
+                    "text": "I want to go with you",
+                    "hash": "41b4b40cd7bdd8fb4b0fd7add541bbd75f45ee5c773370e6b48c6a8e3d323d3d"
+                }
+            ],
+            "processed": "<story>I didn't ask you to come with me though?"
+        },
+        {
+            "text": "Hmmmmm. ……I see.",
+            "name": "Mejiro Ramonu",
+            "path_id": -3775455130005825632,
+            "block_id": 24,
+            "clip_length": 83,
+            "processed": "<story>Hmmmmm. ……I see."
+        },
+        {
+            "text": "Okay……! Then, next time when we get a chance~~!",
+            "name": "Trainer Colleague",
+            "path_id": -787853427722012369,
+            "block_id": 25,
+            "clip_length": 103,
+            "processed": "<story>Okay……! Then, next time when we get a chance~~!"
+        },
+        {
+            "text": "Then, I followed her to the venue written on \nthe invitation. There was a luxurious cruise \nship moored by the dock in the distance.",
+            "name": "",
+            "path_id": -6514642702112076784,
+            "block_id": 26,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "[Modest], huh……?",
+                    "hash": "2c4cb9a38173bd0ed71cd9827a7373dca0f78f596d2241ba225ba4a3d64c2c09"
+                }
+            ],
+            "processed": "<story>Then, I followed her to the venue written on \n<story>the invitation. There was a luxurious cruise \n<story>ship moored by the dock in the distance."
+        },
+        {
+            "text": "In any case, this was probably fine. I wasn't invited so, \nI was thinking of just waiting for her nearby.",
+            "name": "",
+            "path_id": -7953954725466176129,
+            "block_id": 27,
+            "clip_length": 115,
+            "processed": "<story>In any case, this was probably fine. I wasn't invited so, \n<story>I was thinking of just waiting for her nearby."
+        },
+        {
+            "text": "Aaaah~~! Ramonu-san! I've been waiting for you…… \nOh, that badge…… are you Ramonu-san's trainer!?",
+            "name": "Ramonu Fan",
+            "path_id": -8638567214281391012,
+            "block_id": 28,
+            "clip_length": 329,
+            "processed": "<story>Aaaah~~! Ramonu-san! I've been waiting for you…… \n<story>Oh, that badge…… are you Ramonu-san's trainer!?"
+        },
+        {
+            "text": "I see, since it's training camp I suppose it's normal \nyour trainer would be with you……! I apologize \nfor forgetting about that. Now, to the ship……!",
+            "name": "Ramonu Fan",
+            "path_id": 6332571551036758766,
+            "block_id": 29,
+            "clip_length": 290,
+            "processed": "<story>I see, since it's training camp I suppose it's normal \n<story>your trainer would be with you……! I apologize \n<story>for forgetting about that. Now, to the ship……!"
+        },
+        {
+            "text": "So she says……lucky you.",
+            "name": "Mejiro Ramonu",
+            "path_id": -3392158139503120552,
+            "block_id": 30,
+            "clip_length": 110,
+            "processed": "<story>So she says……lucky you."
+        },
+        {
+            "text": "On deck, a sparkly scene spread before me. The ship headed \noffshore, leaving the hustle and bustle of land behind.",
+            "name": "",
+            "path_id": -2693650348501404367,
+            "block_id": 31,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "(Ugh……keep it together!)",
+                    "hash": "ac7d08187a62baeb73bd84e44d1949c90b5f45b543b673c066860fa272aba00f"
+                }
+            ],
+            "processed": "<story>On deck, a sparkly scene spread before me. The ship headed \n<story>offshore, leaving the hustle and bustle of land behind."
+        },
+        {
+            "text": "I had come as Mejiro Ramonu's chaperone. I'd have to behave \nin a proper manner. On the other hand, she acted as normal.",
+            "name": "",
+            "path_id": 7440385884518061314,
+            "block_id": 32,
+            "clip_length": 111,
+            "processed": "<story>I had come as Mejiro Ramonu's chaperone. I'd have to behave \n<story>in a proper manner. On the other hand, she acted as normal."
+        },
+        {
+            "text": "What a nice sea breeze……",
+            "name": "Mejiro Ramonu",
+            "path_id": 8444686884341189517,
+            "block_id": 33,
+            "clip_length": 60,
+            "processed": "<story>What a nice sea breeze……"
+        },
+        {
+            "text": "Good evening, Ramonu-san. I'm honored to meet you! \nI always watch your races. Your spring results were wonderful……",
+            "name": "Celeb A",
+            "path_id": 8885326547461318203,
+            "block_id": 34,
+            "clip_length": 308,
+            "processed": "<story>Good evening, Ramonu-san. I'm honored to meet you! \n<story>I always watch your races. Your spring results were wonderful……"
+        },
+        {
+            "text": "Thank you very much. I see you also like races.",
+            "name": "Mejiro Ramonu",
+            "path_id": 7438983225938569796,
+            "block_id": 35,
+            "clip_length": 147,
+            "processed": "<story>Thank you very much. I see you also like races."
+        },
+        {
+            "text": "Oooh, it really is Ramonu-san……! I heard you would be attending \ntoday, so I thought I just had to come and meet you.",
+            "name": "Celeb B",
+            "path_id": -2629234902766562111,
+            "block_id": 36,
+            "clip_length": 236,
+            "processed": "<story>Oooh, it really is Ramonu-san……! I heard you would be attending \n<story>today, so I thought I just had to come and meet you."
+        },
+        {
+            "text": "Oh, I'm honored.",
+            "name": "Mejiro Ramonu",
+            "path_id": 7333159235189349291,
+            "block_id": 37,
+            "clip_length": 113,
+            "processed": "<story>Oh, I'm honored."
+        },
+        {
+            "text": "She exchanged words with many people as if it was natural. \nI was so nervous and shy, all I could do was just smile and nod.",
+            "name": "",
+            "path_id": 7179561364595730745,
+            "block_id": 38,
+            "clip_length": 110,
+            "processed": "<story>She exchanged words with many people as if it was natural. \n<story>I was so nervous and shy, all I could do was just smile and nod."
+        },
+        {
+            "text": "――Ooh, lessons like that too…… ――Oh, that person from the URA……? \n――I'll go see your races in the fall…… ――He's a classmate of mine……",
+            "name": "Multiple Celebs",
+            "path_id": 1538903796893342833,
+            "block_id": 39,
+            "clip_length": 153,
+            "processed": "<story>――Ooh, lessons like that too…… ――Oh, that person from the URA……? \n<story>――I'll go see your races in the fall…… ――He's a classmate of mine……"
+        },
+        {
+            "text": "――Right, right! This year I vacationed around there. I was tired \nof traveling abroad so I wanted to see some famous local places too.",
+            "name": "Celeb C",
+            "path_id": 2052050693677687519,
+            "block_id": 40,
+            "clip_length": 279,
+            "processed": "<story>――Right, right! This year I vacationed around there. I was tired \n<story>of traveling abroad so I wanted to see some famous local places too."
+        },
+        {
+            "text": "Oh. That's Trainer-san's hometown, isn't it?",
+            "name": "Mejiro Ramonu",
+            "path_id": 2891033528152573146,
+            "block_id": 41,
+            "clip_length": 147,
+            "choices": [
+                {
+                    "text": "…………Huh?",
+                    "hash": "54bd7d508472a90a7faa8037405020b0a04daf920595056e0d271822fd75bafa"
+                }
+            ],
+            "processed": "<story>Oh. That's Trainer-san's hometown, isn't it?"
+        },
+        {
+            "text": "Am I wrong?",
+            "name": "Mejiro Ramonu",
+            "path_id": 1380295507161269422,
+            "block_id": 42,
+            "clip_length": 40,
+            "choices": [
+                {
+                    "text": "No, that's right……you remembered!?",
+                    "hash": "e2638620d678fab98f2b364306566bcf8ed1f896195e05186ea2fd45d6590150"
+                },
+                {
+                    "text": "No, that's right……you remembered!?",
+                    "hash": "d7d30c11c64311dd454eb649f071b128540eade6b5ca94533cd68798574bc929"
+                }
+            ],
+            "processed": "<story>Am I wrong?"
+        },
+        {
+            "text": "Yes, something wrong with that?",
+            "name": "Mejiro Ramonu",
+            "path_id": 4300945404375581126,
+            "block_id": 43,
+            "clip_length": 79,
+            "choices": [
+                {
+                    "text": "!?!?",
+                    "hash": "c038db85ab8a4ee31ad677151cc4db65bacd8c612d8cfccf2df095980f321970"
+                }
+            ],
+            "processed": "<story>Yes, something wrong with that?"
+        },
+        {
+            "text": "Oooh, so that's your hometown! Well, it's quite a fine place. \nI took a bunch of photos, take a look!",
+            "name": "Celeb C",
+            "path_id": 5985839572895758272,
+            "block_id": 44,
+            "clip_length": 268,
+            "choices": [
+                {
+                    "text": "Ah, I've been to that place too……!",
+                    "hash": "71add5d3513869304c9ec01d0540816cb8e9e04400958e495e1b0cb3933353be"
+                },
+                {
+                    "text": "Ah, I've been to that place too……!",
+                    "hash": "b00b341ee951f81f26036e4993974eb3eab6a50bd097e881df1b02982e449df7"
+                }
+            ],
+            "processed": "<story>Oooh, so that's your hometown! Well, it's quite a fine place. \n<story>I took a bunch of photos, take a look!"
+        },
+        {
+            "text": "Before I realized it, I was joining in on the lively conversations \nas well. My stress disappeared and I ended up having a great time.",
+            "name": "",
+            "path_id": 1251313717474381608,
+            "block_id": 45,
+            "clip_length": 114,
+            "processed": "<story>Before I realized it, I was joining in on the lively conversations \n<story>as well. My stress disappeared and I ended up having a great time."
+        },
+        {
+            "text": "――Eventually, the ship returned to shore and \nthe party ended. The walk back to training camp \nwas quiet, as if I had woken up from a dream……",
+            "name": "",
+            "path_id": 2868685155948397401,
+            "block_id": 46,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "Thanks……for bringing that topic up",
+                    "hash": "6a12fd7f4425cafd5ad1b91719146a00ca4eb48983a9aa45cc2edfd3ec5882b7"
+                }
+            ],
+            "processed": "<story>――Eventually, the ship returned to shore and \n<story>the party ended. The walk back to training camp \n<story>was quiet, as if I had woken up from a dream……"
+        },
+        {
+            "text": "……Oh, I just happened to remember it.",
+            "name": "Mejiro Ramonu",
+            "path_id": -1913520923649589618,
+            "block_id": 47,
+            "clip_length": 156,
+            "processed": "<story>……Oh, I just happened to remember it."
+        },
+        {
+            "text": "Keeping the conversation going is just the basics of socializing……",
+            "name": "Mejiro Ramonu",
+            "path_id": -861045635679624305,
+            "block_id": 48,
+            "clip_length": 143,
+            "processed": "<story>Keeping the conversation going is just the basics of socializing……"
+        },
+        {
+            "text": "It's not possible that……you thought I was the type \nof Uma Musume who couldn't handle that much, right?",
+            "name": "Mejiro Ramonu",
+            "path_id": -342384312382234078,
+            "block_id": 49,
+            "clip_length": 173,
+            "choices": [
+                {
+                    "text": "No, that's not it……!",
+                    "hash": "86c155514796e26c1536e249f9451e4a0136305d4b2665852afd65cbeef8a841"
+                }
+            ],
+            "processed": "<story>It's not possible that……you thought I was the type \n<story>of Uma Musume who couldn't handle that much, right?"
+        },
+        {
+            "text": "Hmmm……",
+            "name": "Mejiro Ramonu",
+            "path_id": -1630309748447760839,
+            "block_id": 50,
+            "clip_length": 29,
+            "choices": [
+                {
+                    "text": "It helped……so I'm glad",
+                    "hash": "b694182ce276dac1f6817ba1d6c03042e16380e33ec4277be4f395d2ab8e86bc"
+                }
+            ],
+            "processed": "<story>Hmmm……"
+        },
+        {
+            "text": "It felt like I was finally reflected in her eyes. \nEven after telling her, her expression remained unchanged.",
+            "name": "",
+            "path_id": -8640890989549270437,
+            "block_id": 51,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "I'm really glad you remembered",
+                    "hash": "27a57b8cef3f96bbb47912562982e1ef9280cf6aae3cf0302e1bd8f06b222af0"
+                }
+            ],
+            "processed": "<story>It felt like I was finally reflected in her eyes. \n<story>Even after telling her, her expression remained unchanged."
+        },
+        {
+            "text": "…………Heh.",
+            "name": "Mejiro Ramonu",
+            "path_id": -4711455611804112632,
+            "block_id": 52,
+            "clip_length": 61,
+            "processed": "<story>…………Heh."
+        },
+        {
+            "text": "You sure like to exaggerate",
+            "name": "Mejiro Ramonu",
+            "path_id": 2630550956823831274,
+            "block_id": 53,
+            "clip_length": 93,
+            "processed": "<story>You sure like to exaggerate"
+        }
+    ],
+    "title": "To Your Love"
+}

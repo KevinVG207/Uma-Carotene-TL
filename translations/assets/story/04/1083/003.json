@@ -1,0 +1,538 @@
+{
+    "type": "story",
+    "row_index": 171520,
+    "file_name": "story/data/04/1083/storytimeline_041083003",
+    "hash": "5TTPA7BKB6OWQEMZ7YOPKAFNGF7TIRWN",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 6784231394179982609,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "On that day as well, Symboli Kris S' 『Trainer Selection』 was \ncontinuing as planned, but――",
+            "name": "",
+            "path_id": -2296389279095183779,
+            "block_id": 1,
+            "clip_length": 93,
+            "choices": [
+                {
+                    "text": "Eh, you're…… withdrawing?",
+                    "hash": "e13ce802abb31c6f630c334d318aa22b5519e010535f84f096090b36983d16e0"
+                }
+            ],
+            "processed": "<story>On that day as well, Symboli Kris S' 『Trainer Selection』 was \n<story>continuing as planned, but――"
+        },
+        {
+            "text": "『Yeah, some work came up suddenly. So, if you wanted to watch, \nthere won't be anything today』",
+            "name": "Mid-Rank Trainer A",
+            "path_id": 5855733959126370757,
+            "block_id": 2,
+            "clip_length": 194,
+            "processed": "<story>『Yeah, some work came up suddenly. So, if you wanted to watch, \n<story>there won't be anything today』"
+        },
+        {
+            "text": "[……Well, I've kinda lost confidence in being able to work with \nher though…… anyways, just letting you know!]",
+            "name": "Mid-Rank Trainer A",
+            "path_id": -892942793790204417,
+            "block_id": 3,
+            "clip_length": 231,
+            "processed": "<story>[……Well, I've kinda lost confidence in being able to work with \n<story>her though…… anyways, just letting you know!]"
+        },
+        {
+            "text": "He had already let Symboli Kris S know but…… \nI was kind of worried, so I went to see her.",
+            "name": "",
+            "path_id": 4423456580459738392,
+            "block_id": 4,
+            "clip_length": 106,
+            "processed": "<story>He had already let Symboli Kris S know but…… \n<story>I was kind of worried, so I went to see her."
+        },
+        {
+            "text": "――I was planning…… on training―― myself anyways. \n――So, no problem.",
+            "name": "Symboli Kris S",
+            "path_id": -5370282701566618325,
+            "block_id": 5,
+            "clip_length": 219,
+            "choices": [
+                {
+                    "text": "If you'd like, I could help",
+                    "hash": "7efab2dc7b54074089f8a6a7008ca68340b49a94ef5dfed3582c0e624cd85d26"
+                }
+            ],
+            "processed": "<story>――I was planning…… on training―― myself anyways. \n<story>――So, no problem."
+        },
+        {
+            "text": "If things stayed like this, I was worried that \nSymboli Kris S would become isolated. I wondered \nif there was any way I could help her――",
+            "name": "",
+            "path_id": 2561660964383839913,
+            "block_id": 6,
+            "clip_length": 121,
+            "processed": "<story>If things stayed like this, I was worried that \n<story>Symboli Kris S would become isolated. I wondered \n<story>if there was any way I could help her――"
+        },
+        {
+            "text": "――……Yes.",
+            "name": "Symboli Kris S",
+            "path_id": -4412168103829580394,
+            "block_id": 7,
+            "clip_length": 121,
+            "processed": "<story>――……Yes."
+        },
+        {
+            "text": "And so, I was going to supervise Symboli \nKris S' training for just the day, but――",
+            "name": "",
+            "path_id": 6406279075991610354,
+            "block_id": 8,
+            "clip_length": 101,
+            "processed": "<story>And so, I was going to supervise Symboli \n<story>Kris S' training for just the day, but――"
+        },
+        {
+            "text": "――……",
+            "name": "Symboli Kris S",
+            "path_id": -4554890171651134842,
+            "block_id": 9,
+            "clip_length": 57,
+            "processed": "<story>――……"
+        },
+        {
+            "text": "――Next, lunges. ――Any objections?",
+            "name": "Symboli Kris S",
+            "path_id": 5836081146391191100,
+            "block_id": 10,
+            "clip_length": 172,
+            "choices": [
+                {
+                    "text": "S-sounds fine! But――",
+                    "hash": "dc45d9330d46b2a40229237cc0da3648fc44773eb129292b31de8a100c97933b"
+                }
+            ],
+            "processed": "<story>――Next, lunges. ――Any objections?"
+        },
+        {
+            "text": "Symboli Kris S seemed to have designed the training menu to not \ncross a line that would put too much strain on her body.",
+            "name": "",
+            "path_id": 5853659787603419442,
+            "block_id": 11,
+            "clip_length": 111,
+            "processed": "<story>Symboli Kris S seemed to have designed the training menu to not \n<story>cross a line that would put too much strain on her body."
+        },
+        {
+            "text": "Because of this line―― she wasn't able to follow the menu that \nthe trainers provided her.",
+            "name": "",
+            "path_id": -3344562549794723553,
+            "block_id": 12,
+            "clip_length": 110,
+            "processed": "<story>Because of this line―― she wasn't able to follow the menu that \n<story>the trainers provided her."
+        },
+        {
+            "text": "It wasn't that she wanted to slack off or had reached \nher limit. It was probably because she wanted to \navoid overworking herself at all costs.",
+            "name": "",
+            "path_id": -3253777630432646509,
+            "block_id": 13,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "Why are you regulating this so strictly?",
+                    "hash": "459d365b2dfa078456ea74619714c270ce8c8b35f00e997e0633cacc518fafb4",
+                    "processed": "<size=42>Why are you regulating this so strictly?</size>"
+                }
+            ],
+            "processed": "<story>It wasn't that she wanted to slack off or had reached \n<story>her limit. It was probably because she wanted to \n<story>avoid overworking herself at all costs."
+        },
+        {
+            "text": "…… ……――",
+            "name": "Symboli Kris S",
+            "path_id": -7210146224493394102,
+            "block_id": 14,
+            "clip_length": 115,
+            "processed": "<story>…… ……――"
+        },
+        {
+            "text": "There was a long silence, but I knew she was just searching for \nthe right words. So―― I waited.",
+            "name": "",
+            "path_id": -7726690814154461638,
+            "block_id": 15,
+            "clip_length": 93,
+            "processed": "<story>There was a long silence, but I knew she was just searching for \n<story>the right words. So―― I waited."
+        },
+        {
+            "text": "――――Back when…… I was in…… America.",
+            "name": "Symboli Kris S",
+            "path_id": -6356457796369890178,
+            "block_id": 16,
+            "clip_length": 166,
+            "processed": "<story>――――Back when…… I was in…… America."
+        },
+        {
+            "text": "(――My body was weak. \nAnd, more than now…… I was bad at speaking)",
+            "name": "Symboli Kris S",
+            "path_id": 2844107672756445391,
+            "block_id": 17,
+            "clip_length": 199,
+            "processed": "<story>(――My body was weak. \n<story>And, more than now…… I was bad at speaking)"
+        },
+        {
+            "text": "Oh, are you okay? Are you tired?",
+            "name": "Hometown Coach",
+            "path_id": 1895230435534586037,
+            "block_id": 18,
+            "clip_length": 93,
+            "processed": "<story>Oh, are you okay? Are you tired?"
+        },
+        {
+            "text": "(I wanted to run more―― if I rest, I can run more. \nEven though I thought that, I couldn't say it)",
+            "name": "Symboli Kris S",
+            "path_id": -9176180017182253854,
+            "block_id": 19,
+            "clip_length": 334,
+            "processed": "<story>(I wanted to run more―― if I rest, I can run more. \n<story>Even though I thought that, I couldn't say it)"
+        },
+        {
+            "text": "Kris S-san, you tire easily don't you? \nIt's fine, why don't we call it a day?",
+            "name": "Hometown Coach",
+            "path_id": 5713907862442709913,
+            "block_id": 20,
+            "clip_length": 228,
+            "processed": "<story>Kris S-san, you tire easily don't you? \n<story>It's fine, why don't we call it a day?"
+        },
+        {
+            "text": "(Because of that, I couldn't get better at running. \nFor no other reason than I couldn't say it)",
+            "name": "Symboli Kris S",
+            "path_id": -5405859387948958846,
+            "block_id": 21,
+            "clip_length": 258,
+            "processed": "<story>(Because of that, I couldn't get better at running. \n<story>For no other reason than I couldn't say it)"
+        },
+        {
+            "text": "――Pardon me. I'm from the Symboli family in Japan…… \nthat girl, would it be alright if I took a look at her?",
+            "name": "Kris S' Mentor",
+            "path_id": -5391359190219403666,
+            "block_id": 22,
+            "clip_length": 270,
+            "processed": "<story>――Pardon me. I'm from the Symboli family in Japan…… \n<story>that girl, would it be alright if I took a look at her?"
+        },
+        {
+            "text": "――My mentor…… for the sake of raising the level of racing in \nJapan―― He came to scout…… promising Uma Musume, he said.",
+            "name": "Symboli Kris S",
+            "path_id": -6458601085295194026,
+            "block_id": 23,
+            "clip_length": 357,
+            "processed": "<story>――My mentor…… for the sake of raising the level of racing in \n<story>Japan―― He came to scout…… promising Uma Musume, he said."
+        },
+        {
+            "text": "In my case―― I probably…… wasn't promising. \nBut, he taught me ――Lots of things.",
+            "name": "Symboli Kris S",
+            "path_id": 648617130524132145,
+            "block_id": 24,
+            "clip_length": 452,
+            "processed": "<story>In my case―― I probably…… wasn't promising. \n<story>But, he taught me ――Lots of things."
+        },
+        {
+            "text": "Even with a weak body―― training, was possible. ――If there were \nresults, people would come―― to evaluate them, he said.",
+            "name": "Symboli Kris S",
+            "path_id": -5830186358757372191,
+            "block_id": 25,
+            "clip_length": 441,
+            "processed": "<story>Even with a weak body―― training, was possible. ――If there were \n<story>results, people would come―― to evaluate them, he said."
+        },
+        {
+            "text": "(To prevent strain on my body, training was strictly \nmanaged. Break time, meal time, play time too.)",
+            "name": "Symboli Kris S",
+            "path_id": -3330491706714678941,
+            "block_id": 26,
+            "clip_length": 451,
+            "processed": "<story>(To prevent strain on my body, training was strictly \n<story>managed. Break time, meal time, play time too.)"
+        },
+        {
+            "text": "Yeah, you're working hard, huh. If you keep it up…… \neven if it's a little at a time, your physique will improve.",
+            "name": "Kris S' Mentor",
+            "path_id": 5938149387839387660,
+            "block_id": 27,
+            "clip_length": 302,
+            "processed": "<story>Yeah, you're working hard, huh. If you keep it up…… \n<story>even if it's a little at a time, your physique will improve."
+        },
+        {
+            "text": "(I eventually asked him, why are you letting me work hard…… \neven if I'm not saying I want to run, why are you having me run?)",
+            "name": "Symboli Kris S",
+            "path_id": -5003918493498958142,
+            "block_id": 28,
+            "clip_length": 315,
+            "processed": "<story>(I eventually asked him, why are you letting me work hard…… \n<story>even if I'm not saying I want to run, why are you having me run?)"
+        },
+        {
+            "text": "……Because, even though the training is strict, you \ncontinue on. Your results say more than hearing \nthe 『Reasons』 of someone who's done nothing.",
+            "name": "Kris S' Mentor",
+            "path_id": 600893782366420965,
+            "block_id": 29,
+            "clip_length": 388,
+            "processed": "<story>……Because, even though the training is strict, you \n<story>continue on. Your results say more than hearing \n<story>the 『Reasons』 of someone who's done nothing."
+        },
+        {
+            "text": "If you can't speak, then that's fine. \nSay it with your results.",
+            "name": "Kris S' Mentor",
+            "path_id": -8013996435801954153,
+            "block_id": 30,
+            "clip_length": 236,
+            "processed": "<story>If you can't speak, then that's fine. \n<story>Say it with your results."
+        },
+        {
+            "text": "――That's fine, he said. \nThat's why―― I started to think it's fine.",
+            "name": "Symboli Kris S",
+            "path_id": 5981596180497586586,
+            "block_id": 31,
+            "clip_length": 273,
+            "choices": [
+                {
+                    "text": "He accepted you as you were",
+                    "hash": "ac883c77b4cf2fc0d983578f7817b6c38a2acae653df854b64f985c43b9ca585"
+                },
+                {
+                    "text": "He accepted you as you were",
+                    "hash": "ec1c61510e6ee8256ccfb3198251d46d32b6eaf64e46d1e3ba112936f0c2f3a5"
+                }
+            ],
+            "processed": "<story>――That's fine, he said. \n<story>That's why―― I started to think it's fine."
+        },
+        {
+            "text": "……That's why, when my mentor―― said he would \nreturn to his country. I was able―― to finally \nsay…… that I didn't want him to go.",
+            "name": "Symboli Kris S",
+            "path_id": -2298001426224545897,
+            "block_id": 32,
+            "clip_length": 528,
+            "processed": "<story>……That's why, when my mentor―― said he would \n<story>return to his country. I was able―― to finally \n<story>say…… that I didn't want him to go."
+        },
+        {
+            "text": "Sorry. I know you don't want me to leave―― \nBut, if I stop here, I won't be able to fulfill my mission.",
+            "name": "Kris S' Mentor",
+            "path_id": 7947064628923081952,
+            "block_id": 33,
+            "clip_length": 242,
+            "processed": "<story>Sorry. I know you don't want me to leave―― \n<story>But, if I stop here, I won't be able to fulfill my mission."
+        },
+        {
+            "text": "(I asked what that mission was. \nWhat mission is it that my mentor would prioritize so much?)",
+            "name": "Symboli Kris S",
+            "path_id": 5583025295210500327,
+            "block_id": 34,
+            "clip_length": 366,
+            "processed": "<story>(I asked what that mission was. \n<story>What mission is it that my mentor would prioritize so much?)"
+        },
+        {
+            "text": "Kris S, my mission…… \nis to revolutionize Japan's racing world.",
+            "name": "Kris S' Mentor",
+            "path_id": 6678459218273758229,
+            "block_id": 35,
+            "clip_length": 192,
+            "processed": "<story>Kris S, my mission…… \n<story>is to revolutionize Japan's racing world."
+        },
+        {
+            "text": "(His eyes were bright, and straight-forward)",
+            "name": "Symboli Kris S",
+            "path_id": 5663081741600326895,
+            "block_id": 36,
+            "clip_length": 128,
+            "processed": "<story>(His eyes were bright, and straight-forward)"
+        },
+        {
+            "text": "As they are now, Japan's Uma Musume can't compete \nwith the world. But, I will change that. Starting \nwith what they call common sense.",
+            "name": "Kris S' Mentor",
+            "path_id": -6153748443992295115,
+            "block_id": 37,
+            "clip_length": 349,
+            "processed": "<story>As they are now, Japan's Uma Musume can't compete \n<story>with the world. But, I will change that. Starting \n<story>with what they call common sense."
+        },
+        {
+            "text": "For that reason…… I'm inviting World level Uma Musume \nfrom all over the world. That was my main motive.",
+            "name": "Kris S' Mentor",
+            "path_id": 2374426037356413871,
+            "block_id": 38,
+            "clip_length": 298,
+            "processed": "<story>For that reason…… I'm inviting World level Uma Musume \n<story>from all over the world. That was my main motive."
+        },
+        {
+            "text": "That's right―― It's not what I had originally \nplanned but, I plan on mentioning you too.",
+            "name": "Kris S' Mentor",
+            "path_id": 4392945662283352032,
+            "block_id": 39,
+            "clip_length": 211,
+            "processed": "<story>That's right―― It's not what I had originally \n<story>planned but, I plan on mentioning you too."
+        },
+        {
+            "text": "――An Uma Musume like you, will revolutionize the racing \nworld in Japan. One day, I believe that will happen.",
+            "name": "Kris S' Mentor",
+            "path_id": 8558501875811233069,
+            "block_id": 40,
+            "clip_length": 293,
+            "processed": "<story>――An Uma Musume like you, will revolutionize the racing \n<story>world in Japan. One day, I believe that will happen."
+        },
+        {
+            "text": "――I will―",
+            "name": "Symboli Kris S",
+            "path_id": -6201887977996422259,
+            "block_id": 41,
+            "clip_length": 42,
+            "processed": "<story>――I will―"
+        },
+        {
+            "text": "-become my mentor's results―― that's what I think.",
+            "name": "Symboli Kris S",
+            "path_id": 2260542892847148141,
+            "block_id": 42,
+            "clip_length": 163,
+            "processed": "<story>-become my mentor's results―― that's what I think."
+        },
+        {
+            "text": "For that reason―― I continued to train. \n――After I kept getting results…… Rudolf appeared.",
+            "name": "Symboli Kris S",
+            "path_id": 5999170879972585372,
+            "block_id": 43,
+            "clip_length": 348,
+            "processed": "<story>For that reason―― I continued to train. \n<story>――After I kept getting results…… Rudolf appeared."
+        },
+        {
+            "text": "After hearing about me from my mentor―― she \nhad always been watching. ――To change Japan, \nshe wanted me to run…… and invited me.",
+            "name": "Symboli Kris S",
+            "path_id": -3629515884062901117,
+            "block_id": 44,
+            "clip_length": 504,
+            "processed": "<story>After hearing about me from my mentor―― she \n<story>had always been watching. ――To change Japan, \n<story>she wanted me to run…… and invited me."
+        },
+        {
+            "text": "――Together with that gratitude―― all of it, for those 『Results』. \nTo be unbreakable, strong, building up a strong body――",
+            "name": "Symboli Kris S",
+            "path_id": 8180407829243439214,
+            "block_id": 45,
+            "clip_length": 458,
+            "processed": "<story>――Together with that gratitude―― all of it, for those 『Results』. \n<story>To be unbreakable, strong, building up a strong body――"
+        },
+        {
+            "text": "In this country, Japan―― to become an Uma Musume \nthat could cause a revolution. ――That's my mission.",
+            "name": "Symboli Kris S",
+            "path_id": -1240109896177718370,
+            "block_id": 46,
+            "clip_length": 314,
+            "choices": [
+                {
+                    "text": "……You're shouldering something amazing",
+                    "hash": "ee89b061ba78e3442b957a48b8ea1f2df82595e2ebdad790953f2f7b927d048b",
+                    "processed": "<size=39>……You're shouldering something amazing</size>"
+                },
+                {
+                    "text": "……You're shouldering something amazing",
+                    "hash": "bab2fe954ddc8bb1c9f7ce58820f4fdbaf106e3d73ae019aa0ab64fbb12518bd",
+                    "processed": "<size=39>……You're shouldering something amazing</size>"
+                }
+            ],
+            "processed": "<story>In this country, Japan―― to become an Uma Musume \n<story>that could cause a revolution. ――That's my mission."
+        },
+        {
+            "text": "『Changing the racing world in Japan』 ――An arduous, fantastical \nmission like that, she's saying she'll definitely fulfill it.",
+            "name": "",
+            "path_id": -6589200399049263237,
+            "block_id": 47,
+            "clip_length": 111,
+            "processed": "<story>『Changing the racing world in Japan』 ――An arduous, fantastical \n<story>mission like that, she's saying she'll definitely fulfill it."
+        },
+        {
+            "text": "That's why she must have worked so hard to not strain \nher body in this important time before her debut.",
+            "name": "",
+            "path_id": -6080629798887970199,
+            "block_id": 48,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "Thanks for telling me.",
+                    "hash": "97b786e6de7215e41fde9645e5c92b73a09e4072ab530291c01e36a29fe792bd"
+                }
+            ],
+            "processed": "<story>That's why she must have worked so hard to not strain \n<story>her body in this important time before her debut."
+        },
+        {
+            "text": "――I'm the one ……that's grateful.",
+            "name": "Symboli Kris S",
+            "path_id": -4643350084142967583,
+            "block_id": 49,
+            "clip_length": 93,
+            "processed": "<story>――I'm the one ……that's grateful."
+        },
+        {
+            "text": "――You came here ――watched and listened. \nI still haven't―― shown you any results. ……That's why.",
+            "name": "Symboli Kris S",
+            "path_id": 5541874555372308639,
+            "block_id": 50,
+            "clip_length": 503,
+            "processed": "<story>――You came here ――watched and listened. \n<story>I still haven't―― shown you any results. ……That's why."
+        },
+        {
+            "text": "But was that true? Symboli Kris S seemed so focused on returning \nthat gratitude, almost to the point of neglecting everything else.",
+            "name": "",
+            "path_id": 1161527314139374643,
+            "block_id": 51,
+            "clip_length": 106,
+            "processed": "<story>But was that true? Symboli Kris S seemed so focused on returning \n<story>that gratitude, almost to the point of neglecting everything else."
+        },
+        {
+            "text": "After all, she was standing here because she \nhad persevered through everything. The truth is――",
+            "name": "",
+            "path_id": 6778409686779333354,
+            "block_id": 52,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "――I think your results are commendable",
+                    "hash": "52e1aa72eaa01766ff0438af604aff6330a2a97babd2dbcfd710f9d2c1638e31",
+                    "processed": "<size=40>――I think your results are commendable</size>"
+                }
+            ],
+            "processed": "<story>After all, she was standing here because she \n<story>had persevered through everything. The truth is――"
+        },
+        {
+            "text": "……！",
+            "name": "Symboli Kris S",
+            "path_id": 5744288086225308784,
+            "block_id": 53,
+            "clip_length": 29,
+            "processed": "<story>……！"
+        },
+        {
+            "text": "――Is that so? \n…………Results――huh.",
+            "name": "Symboli Kris S",
+            "path_id": -553687825499767968,
+            "block_id": 54,
+            "clip_length": 186,
+            "processed": "<story>――Is that so? \n<story>…………Results――huh."
+        },
+        {
+            "text": "Dignified but expressionless, certainly, \nit was hard to guess what she was thinking. However――",
+            "name": "",
+            "path_id": -7435612206476245864,
+            "block_id": 55,
+            "clip_length": 82,
+            "processed": "<story>Dignified but expressionless, certainly, \n<story>it was hard to guess what she was thinking. However――"
+        },
+        {
+            "text": "If you face her with sincerity, she will return it. \nHidden behind that veil was genuineness.",
+            "name": "",
+            "path_id": -1553854098645183516,
+            "block_id": 56,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "(I want to see eye to eye with her)",
+                    "hash": "eeb53f9a1fe08cec6701b8373ad13344893926cfa15699ae91384397d2374461"
+                }
+            ],
+            "processed": "<story>If you face her with sincerity, she will return it. \n<story>Hidden behind that veil was genuineness."
+        },
+        {
+            "text": "If I'm lacking, then I want to change that. \nI had a strong desire to become a trainer that could support her.",
+            "name": "",
+            "path_id": -5498841931828899916,
+            "block_id": 57,
+            "clip_length": 103,
+            "processed": "<story>If I'm lacking, then I want to change that. \n<story>I had a strong desire to become a trainer that could support her."
+        }
+    ],
+    "title": "Understand"
+}

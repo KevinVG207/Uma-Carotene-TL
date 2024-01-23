@@ -1,0 +1,568 @@
+{
+    "type": "story",
+    "row_index": 352,
+    "file_name": "story/data/04/1011/storytimeline_041011004",
+    "hash": "Y6SSWKN2BDMXJ3XUC32YOCU5UYROJEFC",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 6789498457634027943,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Everyone thought that Grass Wonder was rejecting \nscouts because of a lack of competitiveness.",
+            "name": "",
+            "path_id": 1716352256161495033,
+            "block_id": 1,
+            "clip_length": 95,
+            "processed": "<story>Everyone thought that Grass Wonder was rejecting \n<story>scouts because of a lack of competitiveness."
+        },
+        {
+            "text": "But after watching her during training the day before, \nit didn't seem like she was such an unassertive girl.",
+            "name": "",
+            "path_id": 4560521348684250673,
+            "block_id": 2,
+            "clip_length": 103,
+            "processed": "<story>But after watching her during training the day before, \n<story>it didn't seem like she was such an unassertive girl."
+        },
+        {
+            "text": "――I want to know her true self.",
+            "name": "",
+            "path_id": -632059507538254986,
+            "block_id": 3,
+            "clip_length": 115,
+            "processed": "<story>――I want to know her true self."
+        },
+        {
+            "text": "Oh…… good evening. \nTo be out here at this hour, is something the matter～?",
+            "name": "Grass Wonder",
+            "path_id": 6417924349644705846,
+            "block_id": 4,
+            "clip_length": 146,
+            "choices": [
+                {
+                    "text": "I was going to ask you that",
+                    "hash": "8e2b6fb2181d9eb8048cb16d37521fda35118fada04fc411fce917577c9cfe9f"
+                },
+                {
+                    "text": "I was going to ask you that",
+                    "hash": "f234d7f0567ddd5afd7e9ee8538ca0ce7bbba2a41a7d679cd4296e62357b4b54"
+                }
+            ],
+            "processed": "<story>Oh…… good evening. \n<story>To be out here at this hour, is something the matter～?"
+        },
+        {
+            "text": "Eh?",
+            "name": "Grass Wonder",
+            "path_id": 7666230509778386630,
+            "block_id": 5,
+            "clip_length": 20,
+            "processed": "<story>Eh?"
+        },
+        {
+            "text": "Well…… that's right, when I was looking at the night sky, \nI decided to take it easy～. Fufufu, I probably shouldn't though.",
+            "name": "Grass Wonder",
+            "path_id": 6529816980047180057,
+            "block_id": 6,
+            "clip_length": 325,
+            "processed": "<story>Well…… that's right, when I was looking at the night sky, \n<story>I decided to take it easy～. Fufufu, I probably shouldn't though."
+        },
+        {
+            "text": "But, I plan on heading back to the dorms soon. \n……did you have any other business with me? Well then, I'll be――",
+            "name": "Grass Wonder",
+            "path_id": 5549021595101241053,
+            "block_id": 7,
+            "clip_length": 312,
+            "choices": [
+                {
+                    "text": "You really don't plan to be scouted?",
+                    "hash": "1d6a60c96393c7fd56bbc569c33422ef0950abfb1d416798da89657e71e980cb"
+                },
+                {
+                    "text": "You really don't plan to be scouted?",
+                    "hash": "925864d21cde917372538c49808556b1b0b00fde1c871e4385ad85fb70e2819e"
+                }
+            ],
+            "processed": "<story>But, I plan on heading back to the dorms soon. \n<story>……did you have any other business with me? Well then, I'll be――"
+        },
+        {
+            "text": "Oh my…… regarding that, \nI thought I had already rejected that before……",
+            "name": "Grass Wonder",
+            "path_id": -5254515271483667227,
+            "block_id": 8,
+            "clip_length": 213,
+            "processed": "<story>Oh my…… regarding that, \n<story>I thought I had already rejected that before……"
+        },
+        {
+            "text": "Unfortunately, my feelings haven't changed from then. \nI'm sorry.",
+            "name": "Grass Wonder",
+            "path_id": 6440796480220031140,
+            "block_id": 9,
+            "clip_length": 171,
+            "choices": [
+                {
+                    "text": "But why?",
+                    "hash": "fb589e6246d3ba780efc14c564a948639635711e3b97199942075da29ab64fde"
+                }
+            ],
+            "processed": "<story>Unfortunately, my feelings haven't changed from then. \n<story>I'm sorry."
+        },
+        {
+            "text": "Hmmmmm～…… I'm sorry, \nall I can say about that is…… it's my own personal problem.",
+            "name": "Grass Wonder",
+            "path_id": 4998447818979596878,
+            "block_id": 10,
+            "clip_length": 291,
+            "processed": "<story>Hmmmmm～…… I'm sorry, \n<story>all I can say about that is…… it's my own personal problem."
+        },
+        {
+            "text": "I hadn't heard it directly from her mouth, \nbut I think I had an idea of what it was.",
+            "name": "",
+            "path_id": 4332560848249434480,
+            "block_id": 11,
+            "clip_length": 86,
+            "processed": "<story>I hadn't heard it directly from her mouth, \n<story>but I think I had an idea of what it was."
+        },
+        {
+            "text": "On the training course the other day, her eyes. \nThe hidden feelings behind those determined blue eyes――",
+            "name": "",
+            "path_id": -3485981341834985103,
+            "block_id": 12,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "Are you frustrated that you got second?",
+                    "hash": "c559f7776720bf818179e3e1fab3db3407d41f79280b7d2b444802396eb09514",
+                    "processed": "<size=41>Are you frustrated that you got second?</size>"
+                },
+                {
+                    "text": "Are you frustrated that you got second?",
+                    "hash": "f911aeb3dbb8358608729ca8e6997ebe6d795afdb11e41b19ee92d6170cfcb21",
+                    "processed": "<size=41>Are you frustrated that you got second?</size>"
+                }
+            ],
+            "processed": "<story>On the training course the other day, her eyes. \n<story>The hidden feelings behind those determined blue eyes――"
+        },
+        {
+            "text": "……Oh.",
+            "name": "Grass Wonder",
+            "path_id": -6523339039671712489,
+            "block_id": 13,
+            "clip_length": 31,
+            "processed": "<story>……Oh."
+        },
+        {
+            "text": "What makes you think that?",
+            "name": "Grass Wonder",
+            "path_id": 3939654550029622998,
+            "block_id": 14,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "I could see the fire in your eyes",
+                    "hash": "4c4fea2bf002a6b1adac0a586c1ae6a678029414e850694bda79b04abb6794b3"
+                },
+                {
+                    "text": "I could see the fire in your eyes",
+                    "hash": "0e5a1ba0d9ae32791eaad52add5d190785a1b9726923a528980defb7e658bdf4"
+                }
+            ],
+            "processed": "<story>What makes you think that?"
+        },
+        {
+            "text": "My eyes……?",
+            "name": "Grass Wonder",
+            "path_id": 115514891070694262,
+            "block_id": 15,
+            "clip_length": 23,
+            "processed": "<story>My eyes……?"
+        },
+        {
+            "text": "From just…… my eyes, you could tell?",
+            "name": "Grass Wonder",
+            "path_id": 7636339077156797108,
+            "block_id": 16,
+            "clip_length": 140,
+            "processed": "<story>From just…… my eyes, you could tell?"
+        },
+        {
+            "text": "………………",
+            "name": "Grass Wonder",
+            "path_id": 5911296895722404145,
+            "block_id": 17,
+            "clip_length": 60,
+            "processed": "<story>………………"
+        },
+        {
+            "text": "……A Yamato Nadeshiko should always be modest. \nWith a soft demeanor, and calm bearing. Never wavering, solemn.",
+            "name": "Grass Wonder",
+            "path_id": 3684367666289261942,
+            "block_id": 18,
+            "clip_length": 393,
+            "processed": "<story>……A Yamato Nadeshiko should always be modest. \n<story>With a soft demeanor, and calm bearing. Never wavering, solemn."
+        },
+        {
+            "text": "That's what I had decided in my heart, but――",
+            "name": "Grass Wonder",
+            "path_id": 7401859916981613683,
+            "block_id": 19,
+            "clip_length": 89,
+            "processed": "<story>That's what I had decided in my heart, but――"
+        },
+        {
+            "text": "『Remain calm in the face of adversity』. I can't help but be \nfrustrated at my own weakness, and I can't erase this feeling.",
+            "name": "Grass Wonder",
+            "path_id": 6468220603613310597,
+            "block_id": 20,
+            "clip_length": 264,
+            "processed": "<story>『Remain calm in the face of adversity』. I can't help but be \n<story>frustrated at my own weakness, and I can't erase this feeling."
+        },
+        {
+            "text": "I started running by my own will. The path I've chosen \nlays atop the turf. Until I reach the summit, I will not stop.",
+            "name": "Grass Wonder",
+            "path_id": 4559974137489866255,
+            "block_id": 21,
+            "clip_length": 479,
+            "processed": "<story>I started running by my own will. The path I've chosen \n<story>lays atop the turf. Until I reach the summit, I will not stop."
+        },
+        {
+            "text": "That being the case…… no matter the reason, \nI should not yield victory. ……no matter what happens.",
+            "name": "Grass Wonder",
+            "path_id": 2795330275262422759,
+            "block_id": 22,
+            "clip_length": 393,
+            "processed": "<story>That being the case…… no matter the reason, \n<story>I should not yield victory. ……no matter what happens."
+        },
+        {
+            "text": "And yet……!",
+            "name": "Grass Wonder",
+            "path_id": -4931542275726288508,
+            "block_id": 23,
+            "clip_length": 55,
+            "choices": [
+                {
+                    "text": "You can't forgive yourself for losing?",
+                    "hash": "706ee8aae8954f312e2d271ce8d53c0b181e62ad18eeceb1ea90fad223dd35bb"
+                }
+            ],
+            "processed": "<story>And yet……!"
+        },
+        {
+            "text": "……Yes.",
+            "name": "Grass Wonder",
+            "path_id": 8751325817918927728,
+            "block_id": 24,
+            "clip_length": 31,
+            "processed": "<story>……Yes."
+        },
+        {
+            "text": "The moment you start to concede, the path to the top is closed. \nIt won't do to accept a scout with these half-hearted emotions.",
+            "name": "Grass Wonder",
+            "path_id": -8335748538177665429,
+            "block_id": 25,
+            "clip_length": 337,
+            "processed": "<story>The moment you start to concede, the path to the top is closed. \n<story>It won't do to accept a scout with these half-hearted emotions."
+        },
+        {
+            "text": "……To put it another way, it's my own selfishness. \nA personal conviction.",
+            "name": "Grass Wonder",
+            "path_id": -2882092966138693458,
+            "block_id": 26,
+            "clip_length": 263,
+            "processed": "<story>……To put it another way, it's my own selfishness. \n<story>A personal conviction."
+        },
+        {
+            "text": "I apologize, but you'll just have to let it go――",
+            "name": "Grass Wonder",
+            "path_id": -5620129349278480975,
+            "block_id": 27,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "Then I'll ask again when you win",
+                    "hash": "c16e1655388806b1929ef96266e1dfd7b902eeb4ac08d22e0e09c665b5765bfe"
+                },
+                {
+                    "text": "Then I'll ask again when you win",
+                    "hash": "740ca04514d07770e10851db8b1b065de3f0d7cec4dc2dc9694ddf73739eda6a"
+                }
+            ],
+            "processed": "<story>I apologize, but you'll just have to let it go――"
+        },
+        {
+            "text": "……Eh?",
+            "name": "Grass Wonder",
+            "path_id": -4755723587952797846,
+            "block_id": 28,
+            "clip_length": 20,
+            "processed": "<story>……Eh?"
+        },
+        {
+            "text": "By again…… um, perhaps, \ndo you mean you'll come and try to scout me again?",
+            "name": "Grass Wonder",
+            "path_id": 7267446113241112924,
+            "block_id": 29,
+            "clip_length": 300,
+            "processed": "<story>By again…… um, perhaps, \n<story>do you mean you'll come and try to scout me again?"
+        },
+        {
+            "text": "A couple months from now, when I enter another \nSelection Race, you'll wait until then……?",
+            "name": "Grass Wonder",
+            "path_id": 6190783761218442507,
+            "block_id": 30,
+            "clip_length": 191,
+            "choices": [
+                {
+                    "text": "Of course!",
+                    "hash": "d7dc2c584dab1c79c1051244bd1990da52c55f4f5fffd94bd0097c76a51bd1ca"
+                }
+            ],
+            "processed": "<story>A couple months from now, when I enter another \n<story>Selection Race, you'll wait until then……?"
+        },
+        {
+            "text": "Um…… well.",
+            "name": "Grass Wonder",
+            "path_id": 1563784809855454242,
+            "block_id": 31,
+            "clip_length": 145,
+            "processed": "<story>Um…… well."
+        },
+        {
+            "text": "I don't know what to say…… \nI'm not an easy Uma Musume to deal with, you know?",
+            "name": "Grass Wonder",
+            "path_id": -3047560656938481081,
+            "block_id": 32,
+            "clip_length": 264,
+            "processed": "<story>I don't know what to say…… \n<story>I'm not an easy Uma Musume to deal with, you know?"
+        },
+        {
+            "text": "The things I can't yield, I won't yield. \nOnce I decide on something, I won't change my mind.",
+            "name": "Grass Wonder",
+            "path_id": -8005867041995796730,
+            "block_id": 33,
+            "clip_length": 202,
+            "processed": "<story>The things I can't yield, I won't yield. \n<story>Once I decide on something, I won't change my mind."
+        },
+        {
+            "text": "I was uneasy with the results, that's the only reason I've been \nrefusing scouts, just so I could enter another Selection Race.",
+            "name": "Grass Wonder",
+            "path_id": 6147286522306982388,
+            "block_id": 34,
+            "clip_length": 269,
+            "processed": "<story>I was uneasy with the results, that's the only reason I've been \n<story>refusing scouts, just so I could enter another Selection Race."
+        },
+        {
+            "text": "……even knowing that, will you still say that? \n『I will wait』?",
+            "name": "Grass Wonder",
+            "path_id": 4448235432531238909,
+            "block_id": 35,
+            "clip_length": 200,
+            "choices": [
+                {
+                    "text": "I want to support you in your endeavor",
+                    "hash": "f4c186389d80abed597af45657ca506c7a9c09917807cb055d11e11bd6fafc14",
+                    "processed": "<size=42>I want to support you in your endeavor</size>"
+                },
+                {
+                    "text": "I want to support you in your endeavor",
+                    "hash": "9debaa6729cf261e130505a94bc68bb7c9bab36eb27676706956eb414b8876e0",
+                    "processed": "<size=42>I want to support you in your endeavor</size>"
+                }
+            ],
+            "processed": "<story>……even knowing that, will you still say that? \n<story>『I will wait』?"
+        },
+        {
+            "text": "Trainer-san……",
+            "name": "Grass Wonder",
+            "path_id": -5519551944952324126,
+            "block_id": 36,
+            "clip_length": 53,
+            "processed": "<story>Trainer-san……"
+        },
+        {
+            "text": "……Fufu. Are you okay with that? If I don't \nplace first in a Selection Race, it means you \nwon't be in charge of anyone, you know?",
+            "name": "Grass Wonder",
+            "path_id": -2787152479062839718,
+            "block_id": 37,
+            "clip_length": 299,
+            "choices": [
+                {
+                    "text": "You'll definitely win next time, though?",
+                    "hash": "9b00756eb2d2cb32e860b111fd041ced4e17746ba53540173843a99a28f4bbf3",
+                    "processed": "<size=42>You'll definitely win next time, though?</size>"
+                },
+                {
+                    "text": "You'll definitely win next time, though?",
+                    "hash": "2e34355c0d3037774b2f4602d8706133067cbfd80f3d72aa7606eb378f7287f4",
+                    "processed": "<size=42>You'll definitely win next time, though?</size>"
+                }
+            ],
+            "processed": "<story>……Fufu. Are you okay with that? If I don't \n<story>place first in a Selection Race, it means you \n<story>won't be in charge of anyone, you know?"
+        },
+        {
+            "text": "Oh my～. \nIf you say something like that…… Fufufuu.",
+            "name": "Grass Wonder",
+            "path_id": -5210835574874495306,
+            "block_id": 38,
+            "clip_length": 269,
+            "processed": "<story>Oh my～. \n<story>If you say something like that…… Fufufuu."
+        },
+        {
+            "text": "……Trainer-san, you're quite good at \ngetting me to go along, aren't you?",
+            "name": "Grass Wonder",
+            "path_id": 8156998792791674797,
+            "block_id": 39,
+            "clip_length": 141,
+            "processed": "<story>……Trainer-san, you're quite good at \n<story>getting me to go along, aren't you?"
+        },
+        {
+            "text": "And then, several months later――",
+            "name": "",
+            "path_id": 8214445601488952779,
+            "block_id": 40,
+            "clip_length": 60,
+            "processed": "<story>And then, several months later――"
+        },
+        {
+            "text": "―Surging forward, it's Grass Wonder! \nShe passes the leaders with ease and moves in to 1st!",
+            "name": "Announcer",
+            "path_id": -5158678375987031613,
+            "block_id": 41,
+            "clip_length": 181,
+            "processed": "<story>―Surging forward, it's Grass Wonder! \n<story>She passes the leaders with ease and moves in to 1st!"
+        },
+        {
+            "text": "She's pulling away! She's pulling away! What a strong finish! \nShe's pulling away―― Grass Wonder, crosses the gooooooal!!",
+            "name": "Announcer",
+            "path_id": -5535143480695735557,
+            "block_id": 42,
+            "clip_length": 286,
+            "processed": "<story>She's pulling away! She's pulling away! What a strong finish! \n<story>She's pulling away―― Grass Wonder, crosses the gooooooal!!"
+        },
+        {
+            "text": "With her strong will, Grass Wonder was magnificent.",
+            "name": "",
+            "path_id": 8143224063882855708,
+            "block_id": 43,
+            "clip_length": 71,
+            "processed": "<story>With her strong will, Grass Wonder was magnificent."
+        },
+        {
+            "text": "And then――",
+            "name": "",
+            "path_id": -4173510270780454583,
+            "block_id": 44,
+            "clip_length": 51,
+            "processed": "<story>And then――"
+        },
+        {
+            "text": "You got first, huh, Grass!",
+            "name": "El Condor Pasa",
+            "path_id": 6654638082341225134,
+            "block_id": 45,
+            "clip_length": 91,
+            "processed": "<story>You got first, huh, Grass!"
+        },
+        {
+            "text": "Oh, even I was surprised～",
+            "name": "Grass Wonder",
+            "path_id": 8559103056714853510,
+            "block_id": 46,
+            "clip_length": 91,
+            "processed": "<story>Oh, even I was surprised～"
+        },
+        {
+            "text": "What a lie! I won't fall for it! El won't fall for it!",
+            "name": "El Condor Pasa",
+            "path_id": 4609606630951564235,
+            "block_id": 47,
+            "clip_length": 118,
+            "processed": "<story>What a lie! I won't fall for it! El won't fall for it!"
+        },
+        {
+            "text": "That aside, with this you can debut without regret, \nright? The races should get more interesting! \nPassion! Fervor! I'm getting fired up!",
+            "name": "El Condor Pasa",
+            "path_id": 6418088097592284497,
+            "block_id": 48,
+            "clip_length": 334,
+            "processed": "<story>That aside, with this you can debut without regret, \n<story>right? The races should get more interesting! \n<story>Passion! Fervor! I'm getting fired up!"
+        },
+        {
+            "text": "Grass-chan, congratulations……! I'll be looking \nforward to the days we can compete together!",
+            "name": "Special Week",
+            "path_id": 6015457019153292787,
+            "block_id": 49,
+            "clip_length": 170,
+            "processed": "<story>Grass-chan, congratulations……! I'll be looking \n<story>forward to the days we can compete together!"
+        },
+        {
+            "text": "Yes, I will too～. \nFufufuu.",
+            "name": "Grass Wonder",
+            "path_id": 9158283514319127689,
+            "block_id": 50,
+            "clip_length": 109,
+            "processed": "<story>Yes, I will too～. \n<story>Fufufuu."
+        },
+        {
+            "text": "Grass Wonder responded to her rivals with a smile, \nthen she came over here by herself.",
+            "name": "",
+            "path_id": 1486780002023105787,
+            "block_id": 51,
+            "clip_length": 94,
+            "processed": "<story>Grass Wonder responded to her rivals with a smile, \n<story>then she came over here by herself."
+        },
+        {
+            "text": "Thank you for coming, Trainer-san.",
+            "name": "Grass Wonder",
+            "path_id": -7993718222682780043,
+            "block_id": 52,
+            "clip_length": 125,
+            "choices": [
+                {
+                    "text": "Once again, I wanted to talk to you",
+                    "hash": "dd14e8c4346a7ee8360852f07bacaf0d109fa48076082717b586396e20b664c9"
+                },
+                {
+                    "text": "Once again, I wanted to talk to you",
+                    "hash": "095365aaede0ecdd2ecab978de0c46db6b0a5d28a20fe8d7a1d36deba1407285"
+                }
+            ],
+            "processed": "<story>Thank you for coming, Trainer-san."
+        },
+        {
+            "text": "Fufu…… Yes. \nI've been waiting for you.",
+            "name": "Grass Wonder",
+            "path_id": -9155517769483860767,
+            "block_id": 53,
+            "clip_length": 164,
+            "processed": "<story>Fufu…… Yes. \n<story>I've been waiting for you."
+        },
+        {
+            "text": "Once again……my name is Grass Wonder. \nI look forward to your kind guidance.",
+            "name": "Grass Wonder",
+            "path_id": -4700029816985190334,
+            "block_id": 54,
+            "clip_length": 297,
+            "processed": "<story>Once again……my name is Grass Wonder. \n<story>I look forward to your kind guidance."
+        },
+        {
+            "text": "Will you accompany me on this journey to the top?",
+            "name": "Grass Wonder",
+            "path_id": 4132914531957030473,
+            "block_id": 55,
+            "clip_length": 185,
+            "processed": "<story>Will you accompany me on this journey to the top?"
+        },
+        {
+            "text": "And so, my days with the unyielding Grass Wonder began!",
+            "name": "",
+            "path_id": 7297604159674053542,
+            "block_id": 56,
+            "clip_length": 90,
+            "processed": "<story>And so, my days with the unyielding Grass Wonder began!"
+        }
+    ],
+    "title": "The Unyielding Yamato Nadeshiko"
+}

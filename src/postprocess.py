@@ -101,6 +101,9 @@ PP_FUNCS = {
 
     # Secrets/Comics/Tazuna
     ("text_data", "69"): [("filter", (8000, 9999)), (scale_to_box, (20000, 4)), (add_rbr_tag, None)],
+
+    # Chara story chapter titles
+    ("text_data", "92"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
 }
 
 
@@ -234,11 +237,11 @@ def do_postprocess():
 
 
 def main():
-    do_postprocess()
-    # fix_assets()
-    # a = "(Why didn't I say anything back then.."
-    # b = util.get_text_width(a, FONT)
-    # print(b)
+    # do_postprocess()
+
+    a = "Communication Log 7 - \"Synchroniz"
+    b = util.get_text_width(a, FONT)
+    print(b)
     # d = scale_to_box(a, 15800, 2)
     # print(d)
 

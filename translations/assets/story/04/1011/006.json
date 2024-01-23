@@ -1,0 +1,462 @@
+{
+    "type": "story",
+    "row_index": 354,
+    "file_name": "story/data/04/1011/storytimeline_041011006",
+    "hash": "BD3AE6TLORFYHVZZ2Z7BFUQUREGA3LI6",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 4469301987841729298,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "On a holiday, I was taking a walk at the \npark when a voice called out to me.",
+            "name": "",
+            "path_id": -112060815528114598,
+            "block_id": 1,
+            "clip_length": 116,
+            "processed": "<story>On a holiday, I was taking a walk at the \n<story>park when a voice called out to me."
+        },
+        {
+            "text": "Oh, Trainer-san.",
+            "name": "Grass Wonder",
+            "path_id": 2710679137841983008,
+            "block_id": 2,
+            "clip_length": 68,
+            "processed": "<story>Oh, Trainer-san."
+        },
+        {
+            "text": "Bumping in to you here is quite a coincidence, isn't it?～",
+            "name": "Grass Wonder",
+            "path_id": 2763882540249920555,
+            "block_id": 3,
+            "clip_length": 128,
+            "choices": [
+                {
+                    "text": "What are you doing?",
+                    "hash": "8a65677aca165f7535eb225ea764bacc518885c63e5d2c98ba430b4a1521a67b"
+                },
+                {
+                    "text": "What are you doing?",
+                    "hash": "6d96171d296b2cd27f3778a94ee8025c0a74024adb43f3590f6a073b3f89d250"
+                }
+            ],
+            "processed": "<story>Bumping in to you here is quite a coincidence, isn't it?～"
+        },
+        {
+            "text": "Just wandering here and there aimlessly……you could call it a \nwalk. I tend to spend most of my days off like this, you know?",
+            "name": "Grass Wonder",
+            "path_id": 7307864257110286343,
+            "block_id": 4,
+            "clip_length": 345,
+            "processed": "<story>Just wandering here and there aimlessly……you could call it a \n<story>walk. I tend to spend most of my days off like this, you know?"
+        },
+        {
+            "text": "My friends often tell me that I'm wasting a lot \nof time but, since I came from America, just walking \nand seeing the scenery is fulfilling.",
+            "name": "Grass Wonder",
+            "path_id": 4304452739268680859,
+            "block_id": 5,
+            "clip_length": 389,
+            "processed": "<story>My friends often tell me that I'm wasting a lot \n<story>of time but, since I came from America, just walking \n<story>and seeing the scenery is fulfilling."
+        },
+        {
+            "text": "Besides, even if it's a day off, I still want \nto move my body even just a little bit.",
+            "name": "Grass Wonder",
+            "path_id": -7346926915826892761,
+            "block_id": 6,
+            "clip_length": 213,
+            "processed": "<story>Besides, even if it's a day off, I still want \n<story>to move my body even just a little bit."
+        },
+        {
+            "text": "While I'm moving my body, I can enjoy the atmosphere \nof this country…… you could say walking is a form \nof entertainment for me, you know?～",
+            "name": "Grass Wonder",
+            "path_id": 9061563280291251112,
+            "block_id": 7,
+            "clip_length": 275,
+            "processed": "<story>While I'm moving my body, I can enjoy the atmosphere \n<story>of this country…… you could say walking is a form \n<story>of entertainment for me, you know?～"
+        },
+        {
+            "text": "But well, I've already seen all around this area, \nso I'm not sure where I should go next time.",
+            "name": "Grass Wonder",
+            "path_id": 5735903553121576910,
+            "block_id": 8,
+            "clip_length": 238,
+            "choices": [
+                {
+                    "text": "I could act as your guide",
+                    "hash": "be37b54d27100d2836a801c33734f45e0d6509a0ef11d949c81cd1eb5864c589"
+                }
+            ],
+            "processed": "<story>But well, I've already seen all around this area, \n<story>so I'm not sure where I should go next time."
+        },
+        {
+            "text": "Eh, to a place for a walk? \nI see, that's a good idea～",
+            "name": "Grass Wonder",
+            "path_id": 9179207007420733179,
+            "block_id": 9,
+            "clip_length": 229,
+            "processed": "<story>Eh, to a place for a walk? \n<story>I see, that's a good idea～"
+        },
+        {
+            "text": "Maybe Trainer-san knows some scenery that \nI've never seen before, after all.",
+            "name": "Grass Wonder",
+            "path_id": -800085442098393124,
+            "block_id": 10,
+            "clip_length": 160,
+            "processed": "<story>Maybe Trainer-san knows some scenery that \n<story>I've never seen before, after all."
+        },
+        {
+            "text": "Fufu, in that case, I'll take you up on that offer. \nLet's take a leisurely stroll together!",
+            "name": "Grass Wonder",
+            "path_id": -8156415105289475002,
+            "block_id": 11,
+            "clip_length": 213,
+            "processed": "<story>Fufu, in that case, I'll take you up on that offer. \n<story>Let's take a leisurely stroll together!"
+        },
+        {
+            "text": "So I chose a few places that Grass \nWonder might not have known about.",
+            "name": "",
+            "path_id": -1790626695945315412,
+            "block_id": 12,
+            "clip_length": 86,
+            "processed": "<story>So I chose a few places that Grass \n<story>Wonder might not have known about."
+        },
+        {
+            "text": "To think there was a teahouse here. \nI never knew～.",
+            "name": "Grass Wonder",
+            "path_id": 8211377171233807040,
+            "block_id": 13,
+            "clip_length": 148,
+            "processed": "<story>To think there was a teahouse here. \n<story>I never knew～."
+        },
+        {
+            "text": "Even with all these fancy shops lined up, \nthey haven't forgotten to give it a well balanced feel.",
+            "name": "Grass Wonder",
+            "path_id": -8285313557251424362,
+            "block_id": 14,
+            "clip_length": 258,
+            "processed": "<story>Even with all these fancy shops lined up, \n<story>they haven't forgotten to give it a well balanced feel."
+        },
+        {
+            "text": "Oh, they've even created such a \nlarge menu using my favorite matcha♪",
+            "name": "Grass Wonder",
+            "path_id": 3535019664191155395,
+            "block_id": 15,
+            "clip_length": 178,
+            "processed": "<story>Oh, they've even created such a \n<story>large menu using my favorite matcha♪"
+        },
+        {
+            "text": "……But, it might have been a mistake learning about \nthis place. The temptation of sweets…… hmmmmm～……",
+            "name": "Grass Wonder",
+            "path_id": -550564817374086545,
+            "block_id": 16,
+            "clip_length": 351,
+            "processed": "<story>……But, it might have been a mistake learning about \n<story>this place. The temptation of sweets…… hmmmmm～……"
+        },
+        {
+            "text": "And like that, I visited several places \ntogether with Grass Wonder―",
+            "name": "",
+            "path_id": -4021031540252293065,
+            "block_id": 17,
+            "clip_length": 78,
+            "processed": "<story>And like that, I visited several places \n<story>together with Grass Wonder―"
+        },
+        {
+            "text": "A nice, quiet walk is good, but a fun walk like this is good too, \nisn't it? It's the result of walking together.",
+            "name": "Grass Wonder",
+            "path_id": 5202486628456202866,
+            "block_id": 18,
+            "clip_length": 303,
+            "processed": "<story>A nice, quiet walk is good, but a fun walk like this is good too, \n<story>isn't it? It's the result of walking together."
+        },
+        {
+            "text": "Trainer-san, where should we go next??",
+            "name": "Grass Wonder",
+            "path_id": -3969697535094872681,
+            "block_id": 19,
+            "clip_length": 121,
+            "processed": "<story>Trainer-san, where should we go next??"
+        },
+        {
+            "text": "When Grass Wonder asked, I looked around. \nThe Game Center caught my eye.",
+            "name": "",
+            "path_id": 7458553935491656466,
+            "block_id": 20,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "Want to see the Game Center?",
+                    "hash": "46871edb71d528164a1da5cd2b6c0158477b86979077e3771e7b3058d5c0721e"
+                }
+            ],
+            "processed": "<story>When Grass Wonder asked, I looked around. \n<story>The Game Center caught my eye."
+        },
+        {
+            "text": "The Game Center, is it……? \nHmmmmm～, I'm not too familiar with places like that……",
+            "name": "Grass Wonder",
+            "path_id": -1507270807295860447,
+            "block_id": 21,
+            "clip_length": 293,
+            "processed": "<story>The Game Center, is it……? \n<story>Hmmmmm～, I'm not too familiar with places like that……"
+        },
+        {
+            "text": "When it comes to walks, I can't help but think that \na leisurely stroll is more suited for a quieter place……",
+            "name": "Grass Wonder",
+            "path_id": -1545381910273920709,
+            "block_id": 22,
+            "clip_length": 231,
+            "choices": [
+                {
+                    "text": "You might discover something new",
+                    "hash": "cca806f67fcbd55faadfe3828dd61e4e8de0a3fd157e51235c47f1e31220944f"
+                }
+            ],
+            "processed": "<story>When it comes to walks, I can't help but think that \n<story>a leisurely stroll is more suited for a quieter place……"
+        },
+        {
+            "text": "A new discovery……",
+            "name": "Grass Wonder",
+            "path_id": -7397283388761052437,
+            "block_id": 23,
+            "clip_length": 84,
+            "processed": "<story>A new discovery……"
+        },
+        {
+            "text": "That's true, every place we've seen up until now had \nseveral new discoveries to be made as well.",
+            "name": "Grass Wonder",
+            "path_id": -8157552311500762512,
+            "block_id": 24,
+            "clip_length": 202,
+            "processed": "<story>That's true, every place we've seen up until now had \n<story>several new discoveries to be made as well."
+        },
+        {
+            "text": "……I understand. It's not often I get to take \na walk with Trainer-san, so let's go take a look.",
+            "name": "Grass Wonder",
+            "path_id": -2082868595797958951,
+            "block_id": 25,
+            "clip_length": 250,
+            "processed": "<story>……I understand. It's not often I get to take \n<story>a walk with Trainer-san, so let's go take a look."
+        },
+        {
+            "text": "As I thought, it's quite lively, isn't it～?",
+            "name": "Grass Wonder",
+            "path_id": 5202336990437633070,
+            "block_id": 26,
+            "clip_length": 124,
+            "processed": "<story>As I thought, it's quite lively, isn't it～?"
+        },
+        {
+            "text": "Trainer-san, what kind of game is this?",
+            "name": "Grass Wonder",
+            "path_id": 5629961876477658955,
+            "block_id": 27,
+            "clip_length": 163,
+            "processed": "<story>Trainer-san, what kind of game is this?"
+        },
+        {
+            "text": "The game that Grass Wonder was curious about was a dance game.",
+            "name": "",
+            "path_id": -6172138777201290087,
+            "block_id": 28,
+            "clip_length": 95,
+            "processed": "<story>The game that Grass Wonder was curious about was a dance game."
+        },
+        {
+            "text": "So it's a game you play by stepping on these buttons, \nit kind of seems a little bit like a Winning Live, doesn't it?",
+            "name": "Grass Wonder",
+            "path_id": -7151954957918140962,
+            "block_id": 29,
+            "clip_length": 234,
+            "choices": [
+                {
+                    "text": "How about trying it!?",
+                    "hash": "197a75c83b9654c76d8cb75f847d2672b0cb33ab7658785d0fb1f4faec462180"
+                }
+            ],
+            "processed": "<story>So it's a game you play by stepping on these buttons, \n<story>it kind of seems a little bit like a Winning Live, doesn't it?"
+        },
+        {
+            "text": "Eh? You mean…… me?",
+            "name": "Grass Wonder",
+            "path_id": -5567251578503436060,
+            "block_id": 30,
+            "clip_length": 94,
+            "processed": "<story>Eh? You mean…… me?"
+        },
+        {
+            "text": "Hmmmm～…… well, I've done some dance training, \nso I should be able to play it……",
+            "name": "Grass Wonder",
+            "path_id": -5087920968421457098,
+            "block_id": 31,
+            "clip_length": 277,
+            "processed": "<story>Hmmmm～…… well, I've done some dance training, \n<story>so I should be able to play it……"
+        },
+        {
+            "text": "Understood, I'll give it a try. \nDon't laugh if I'm not very good at it, okay?",
+            "name": "Grass Wonder",
+            "path_id": -7909659756820306781,
+            "block_id": 32,
+            "clip_length": 207,
+            "processed": "<story>Understood, I'll give it a try. \n<story>Don't laugh if I'm not very good at it, okay?"
+        },
+        {
+            "text": "And so, Grass Wonder started the game……",
+            "name": "",
+            "path_id": -8948358822600071708,
+            "block_id": 33,
+            "clip_length": 78,
+            "processed": "<story>And so, Grass Wonder started the game……"
+        },
+        {
+            "text": "Hmm…… oh…… \nAh, ah……!?",
+            "name": "Grass Wonder",
+            "path_id": -1755109210554771938,
+            "block_id": 34,
+            "clip_length": 159,
+            "processed": "<story>Hmm…… oh…… \n<story>Ah, ah……!?"
+        },
+        {
+            "text": "…………",
+            "name": "Grass Wonder",
+            "path_id": -597177311043735648,
+            "block_id": 35,
+            "clip_length": 76,
+            "choices": [
+                {
+                    "text": "That looked a little hard",
+                    "hash": "16538bd386555e04f1b66b8557fdb43289de633ca032cfd37a8031fe8d26a710"
+                },
+                {
+                    "text": "That looked a little hard",
+                    "hash": "96b94e7edebc74d9b4409267894ceff4bf4dca9a547cfcd5a8fbfd542e06bef2"
+                }
+            ],
+            "processed": "<story>…………"
+        },
+        {
+            "text": "……It didn't go anything like a Winning Live.",
+            "name": "Grass Wonder",
+            "path_id": 7906245636942068487,
+            "block_id": 36,
+            "clip_length": 108,
+            "processed": "<story>……It didn't go anything like a Winning Live."
+        },
+        {
+            "text": "Ah, but it was an interesting game. \nIt's also a good work out.",
+            "name": "Grass Wonder",
+            "path_id": 5111197369609798424,
+            "block_id": 37,
+            "clip_length": 212,
+            "processed": "<story>Ah, but it was an interesting game. \n<story>It's also a good work out."
+        },
+        {
+            "text": "So there are games like this, huh～? \nI learned about a lot of things today.",
+            "name": "Grass Wonder",
+            "path_id": -5149725889647007702,
+            "block_id": 38,
+            "clip_length": 230,
+            "processed": "<story>So there are games like this, huh～? \n<story>I learned about a lot of things today."
+        },
+        {
+            "text": "This was also because we took a walk together. \nTrainer-san, thank you very much for accompanying me.",
+            "name": "Grass Wonder",
+            "path_id": 6957641623490122649,
+            "block_id": 39,
+            "clip_length": 296,
+            "choices": [
+                {
+                    "text": "You're welcome",
+                    "hash": "90d7d4d05f94e8afd3920523efb31aa4464ad1a0475a15d88a7f63bed23dbc2c"
+                }
+            ],
+            "processed": "<story>This was also because we took a walk together. \n<story>Trainer-san, thank you very much for accompanying me."
+        },
+        {
+            "text": "When our schedules allow for it, let's take more walks together♪",
+            "name": "Grass Wonder",
+            "path_id": -3287687816977751331,
+            "block_id": 40,
+            "clip_length": 130,
+            "processed": "<story>When our schedules allow for it, let's take more walks together♪"
+        },
+        {
+            "text": "Well then, I'll give it one more try……",
+            "name": "Grass Wonder",
+            "path_id": -6514834470698909667,
+            "block_id": 41,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "Because it's a good work out, right?",
+                    "hash": "2ff1074c9fa81ed31cb704916b9004f87a55d0676fd0d1c657c3a768950ebdda"
+                },
+                {
+                    "text": "Because it's a good work out, right?",
+                    "hash": "42a18c77d8cefa8ff15b94703616d7e27d5dae33be3f85fd32772a0aa4f3c34e"
+                }
+            ],
+            "processed": "<story>Well then, I'll give it one more try……"
+        },
+        {
+            "text": "『To empathize is to know』…… to be able to understand without \nexchanging words, I'm in awe of your perceptiveness, Trainer-san.",
+            "name": "Grass Wonder",
+            "path_id": -1578148209645170427,
+            "block_id": 42,
+            "clip_length": 324,
+            "processed": "<story>『To empathize is to know』…… to be able to understand without \n<story>exchanging words, I'm in awe of your perceptiveness, Trainer-san."
+        },
+        {
+            "text": "Next I'll clear it, so just watch me.",
+            "name": "Grass Wonder",
+            "path_id": 1671574169691438969,
+            "block_id": 43,
+            "clip_length": 104,
+            "processed": "<story>Next I'll clear it, so just watch me."
+        },
+        {
+            "text": "Hmmmm～…… it's not going very well is it……?",
+            "name": "Grass Wonder",
+            "path_id": -8636312445066335062,
+            "block_id": 44,
+            "clip_length": 154,
+            "choices": [
+                {
+                    "text": "Should we move on……?",
+                    "hash": "18935faf0fae6eb226fe51507719f3611b7a5d06cdc6159e30b9976c602b69dd"
+                },
+                {
+                    "text": "Should we move on……?",
+                    "hash": "9aa8af032876546d154a19cb3ede3ddc98481163ba54173500fa5d56611250ec"
+                }
+            ],
+            "processed": "<story>Hmmmm～…… it's not going very well is it……?"
+        },
+        {
+            "text": "Oh, are you seriously asking that? \nI haven't excercised enough yet, you know?",
+            "name": "Grass Wonder",
+            "path_id": -894576640433145588,
+            "block_id": 45,
+            "clip_length": 226,
+            "processed": "<story>Oh, are you seriously asking that? \n<story>I haven't excercised enough yet, you know?"
+        },
+        {
+            "text": "And with that, I'll play another round, okay? \nThis is for excercise, after all～.",
+            "name": "Grass Wonder",
+            "path_id": 4065876541443981066,
+            "block_id": 46,
+            "clip_length": 215,
+            "processed": "<story>And with that, I'll play another round, okay? \n<story>This is for excercise, after all～."
+        },
+        {
+            "text": "And so, the walk with Grass Wonder continued \nuntil she felt she could play the game well.",
+            "name": "",
+            "path_id": 941962756618460963,
+            "block_id": 47,
+            "clip_length": 95,
+            "processed": "<story>And so, the walk with Grass Wonder continued \n<story>until she felt she could play the game well."
+        }
+    ],
+    "title": "Walking Side By Side"
+}

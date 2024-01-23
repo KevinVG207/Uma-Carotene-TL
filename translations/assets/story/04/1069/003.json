@@ -1,0 +1,438 @@
+{
+    "type": "story",
+    "row_index": 822,
+    "file_name": "story/data/04/1069/storytimeline_041069003",
+    "hash": "7VM6B2FBNXSIDENWNK7DNES35EDNUWJS",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -6435539088479528696,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Eh? The reason I'm chasing after Maruzen-san?",
+            "name": "Sakura Chiyono O",
+            "path_id": -623850054237275380,
+            "block_id": 1,
+            "clip_length": 130,
+            "processed": "<story>Eh? The reason I'm chasing after Maruzen-san?"
+        },
+        {
+            "text": "Up until now, Sakura Chiyono O's driving motivation had been a \nmix of fear, of resignation, and of genuine admiration. ",
+            "name": "",
+            "path_id": -5243665681317721529,
+            "block_id": 2,
+            "clip_length": 102,
+            "processed": "<story>Up until now, Sakura Chiyono O's driving motivation had been a \n<story>mix of fear, of resignation, and of genuine admiration. "
+        },
+        {
+            "text": "If she can remember those feelings… she should \nbe able to escape this quagmire she's found herself \nin. I ask her about those feelings.",
+            "name": "",
+            "path_id": -4294207580151106452,
+            "block_id": 3,
+            "clip_length": 118,
+            "processed": "<story>If she can remember those feelings… she should \n<story>be able to escape this quagmire she's found herself \n<story>in. I ask her about those feelings."
+        },
+        {
+            "text": "That's, um. \nBecause she's faster, and stronger than anyone-",
+            "name": "Sakura Chiyono O",
+            "path_id": -2895716158548672279,
+            "block_id": 4,
+            "clip_length": 230,
+            "processed": "<story>That's, um. \n<story>Because she's faster, and stronger than anyone-"
+        },
+        {
+            "text": "…She has, what I lack…",
+            "name": "Sakura Chiyono O",
+            "path_id": -6413558162764381743,
+            "block_id": 5,
+            "clip_length": 92,
+            "processed": "<story>…She has, what I lack…"
+        },
+        {
+            "text": "—",
+            "name": "Sakura Chiyono O",
+            "path_id": 5966743706368592541,
+            "block_id": 6,
+            "clip_length": 56,
+            "processed": "<story>—"
+        },
+        {
+            "text": "-Thinking back, every since I was small, I've been good at \nrunning, and I loved it… joining a club, racing, winning a lot.",
+            "name": "Sakura Chiyono O",
+            "path_id": 7811765544449619375,
+            "block_id": 7,
+            "clip_length": 354,
+            "processed": "<story>-Thinking back, every since I was small, I've been good at \n<story>running, and I loved it… joining a club, racing, winning a lot."
+        },
+        {
+            "text": "My my, Chiyo-chan you've got alot of talent, don't you? \nSomeday you're going to enroll at Tracen Academy, you say?",
+            "name": "Relative",
+            "path_id": -4912986523012896589,
+            "block_id": 8,
+            "clip_length": 214,
+            "processed": "<story>My my, Chiyo-chan you've got alot of talent, don't you? \n<story>Someday you're going to enroll at Tracen Academy, you say?"
+        },
+        {
+            "text": "Yeah! I'm going to become an amazing Uma Musume-! \nEveryday, I'm training at home with my big brother, too!",
+            "name": "Young Chiyono O",
+            "path_id": -4319553762507077220,
+            "block_id": 9,
+            "clip_length": 280,
+            "processed": "<story>Yeah! I'm going to become an amazing Uma Musume-! \n<story>Everyday, I'm training at home with my big brother, too!"
+        },
+        {
+            "text": "With the help of my outstanding brother, I was able to pass the \nbest academy's entrance exams and leave moderate results. With \npride I enrolled, but what awaited me was-",
+            "name": "Sakura Chiyono O",
+            "path_id": 6670994255035013746,
+            "block_id": 10,
+            "clip_length": 380,
+            "processed": "<story>With the help of my outstanding brother, I was able to pass the \n<story>best academy's entrance exams and leave moderate results. With \n<story>pride I enrolled, but what awaited me was-"
+        },
+        {
+            "text": "Hey, did you see the mock race that Mister CB was \nin?! When she pulled away at the end, that was super \ncool, I've never seen anything like that!",
+            "name": "Classmate A",
+            "path_id": -5918039171701132213,
+            "block_id": 11,
+            "clip_length": 239,
+            "processed": "<story>Hey, did you see the mock race that Mister CB was \n<story>in?! When she pulled away at the end, that was super \n<story>cool, I've never seen anything like that!"
+        },
+        {
+            "text": "Hey now, Oguri cap is really cool too! Seriously, \nit's like watching a prodigy running, that acceleration is crazy!",
+            "name": "Classmate B",
+            "path_id": -8340697514919340846,
+            "block_id": 12,
+            "clip_length": 245,
+            "processed": "<story>Hey now, Oguri cap is really cool too! Seriously, \n<story>it's like watching a prodigy running, that acceleration is crazy!"
+        },
+        {
+            "text": "At Tracen Academy, I was just a normal, everyday, Uma Musume.",
+            "name": "Sakura Chiyono O",
+            "path_id": 4983660442427771881,
+            "block_id": 13,
+            "clip_length": 204,
+            "processed": "<story>At Tracen Academy, I was just a normal, everyday, Uma Musume."
+        },
+        {
+            "text": "…well then, good work!",
+            "name": "Sakura Chiyono O",
+            "path_id": 3522799520476977252,
+            "block_id": 14,
+            "clip_length": 95,
+            "processed": "<story>…well then, good work!"
+        },
+        {
+            "text": "Huh, Chiyo-chan? We don't have an instructor, \nso it sounds like there's no training today.",
+            "name": "Classmate A",
+            "path_id": 5127277133984112342,
+            "block_id": 15,
+            "clip_length": 161,
+            "processed": "<story>Huh, Chiyo-chan? We don't have an instructor, \n<story>so it sounds like there's no training today."
+        },
+        {
+            "text": "Ah, yeah! I thought I'd do some self training!",
+            "name": "Sakura Chiyono O",
+            "path_id": 3485053543871022496,
+            "block_id": 16,
+            "clip_length": 103,
+            "processed": "<story>Ah, yeah! I thought I'd do some self training!"
+        },
+        {
+            "text": "Haaa, haaa, haaa…! \n…ku… taaaaaaaaa!",
+            "name": "Sakura Chiyono O",
+            "path_id": -4943855360864417513,
+            "block_id": 17,
+            "clip_length": 165,
+            "processed": "<story>Haaa, haaa, haaa…! \n<story>…ku… taaaaaaaaa!"
+        },
+        {
+            "text": "No matter how much I ran, that feeling kept getting stronger.",
+            "name": "Sakura Chiyono O",
+            "path_id": 8303453810574725408,
+            "block_id": 18,
+            "clip_length": 137,
+            "processed": "<story>No matter how much I ran, that feeling kept getting stronger."
+        },
+        {
+            "text": "Haaa, haaa, haaa!",
+            "name": "Sakura Chiyono O",
+            "path_id": 1176876852030895222,
+            "block_id": 19,
+            "clip_length": 121,
+            "processed": "<story>Haaa, haaa, haaa!"
+        },
+        {
+            "text": "Yeah, for someone that just enrolled, not bad! There'll be some \nchallenges, but let's work on clearing them one by one!",
+            "name": "Instructor",
+            "path_id": 1602582747119865354,
+            "block_id": 20,
+            "clip_length": 225,
+            "processed": "<story>Yeah, for someone that just enrolled, not bad! There'll be some \n<story>challenges, but let's work on clearing them one by one!"
+        },
+        {
+            "text": "(For someone who just enrolled, huh?)",
+            "name": "Sakura Chiyono O",
+            "path_id": -7371567645272086447,
+            "block_id": 21,
+            "clip_length": 104,
+            "processed": "<story>(For someone who just enrolled, huh?)"
+        },
+        {
+            "text": "…Instructor, what are my strong points?",
+            "name": "Sakura Chiyono O",
+            "path_id": -7133564131505232486,
+            "block_id": 22,
+            "clip_length": 159,
+            "processed": "<story>…Instructor, what are my strong points?"
+        },
+        {
+            "text": "Let's see. It's not flashy, but in the end your \nsteadiness eventually wins out. You're earnest, \nso you've probably got a solid foundation.",
+            "name": "Instructor",
+            "path_id": -5599634871343941812,
+            "block_id": 23,
+            "clip_length": 298,
+            "processed": "<story>Let's see. It's not flashy, but in the end your \n<story>steadiness eventually wins out. You're earnest, \n<story>so you've probably got a solid foundation."
+        },
+        {
+            "text": "A steady, earnest, Uma Musume.",
+            "name": "Sakura Chiyono O",
+            "path_id": -8793808012079146786,
+            "block_id": 24,
+            "clip_length": 119,
+            "processed": "<story>A steady, earnest, Uma Musume."
+        },
+        {
+            "text": "With that, is there anything I can become…?",
+            "name": "Sakura Chiyono O",
+            "path_id": 7014555010813336389,
+            "block_id": 25,
+            "clip_length": 105,
+            "processed": "<story>With that, is there anything I can become…?"
+        },
+        {
+            "text": "What is it that I want to become here?",
+            "name": "Sakura Chiyono O",
+            "path_id": 3698762429697194851,
+            "block_id": 26,
+            "clip_length": 126,
+            "processed": "<story>What is it that I want to become here?"
+        },
+        {
+            "text": "Then, one day. A fateful day",
+            "name": "Sakura Chiyono O",
+            "path_id": -2062142115953458745,
+            "block_id": 27,
+            "clip_length": 133,
+            "processed": "<story>Then, one day. A fateful day"
+        },
+        {
+            "text": "Maruzensky pulls farther and farther ahead! She increases the \nseparation by 3 length, 4 lengths, - Strong, as expected!",
+            "name": "Commentator",
+            "path_id": 5065820939225303216,
+            "block_id": 28,
+            "clip_length": 177,
+            "processed": "<story>Maruzensky pulls farther and farther ahead! She increases the \n<story>separation by 3 length, 4 lengths, - Strong, as expected!"
+        },
+        {
+            "text": "Fufuu, here I gooo!",
+            "name": "Maruzensky",
+            "path_id": -5351548335627449966,
+            "block_id": 29,
+            "clip_length": 85,
+            "processed": "<story>Fufuu, here I gooo!"
+        },
+        {
+            "text": "The one who was there -an absurdly vivid, \"Super Car\".",
+            "name": "Sakura Chiyono O",
+            "path_id": -6632022085607985169,
+            "block_id": 30,
+            "clip_length": 190,
+            "processed": "<story>The one who was there -an absurdly vivid, \"Super Car\"."
+        },
+        {
+            "text": "Ah, wa, wa, ah…!",
+            "name": "Sakura Chiyono O",
+            "path_id": 4859861691792503118,
+            "block_id": 31,
+            "clip_length": 200,
+            "processed": "<story>Ah, wa, wa, ah…!"
+        },
+        {
+            "text": "Someone who had everything I lacked, an Uma Musume dyed in red. \nIt left a huge impact.",
+            "name": "Sakura Chiyono O",
+            "path_id": 374131371579756801,
+            "block_id": 32,
+            "clip_length": 240,
+            "processed": "<story>Someone who had everything I lacked, an Uma Musume dyed in red. \n<story>It left a huge impact."
+        },
+        {
+            "text": "My excitement wouldn't subside, it couldn't be helped. \nBecause of these heightened emotions, all those thoughts \nrunning through my head came together-",
+            "name": "Sakura Chiyono O",
+            "path_id": 6956311159450284114,
+            "block_id": 33,
+            "clip_length": 306,
+            "processed": "<story>My excitement wouldn't subside, it couldn't be helped. \n<story>Because of these heightened emotions, all those thoughts \n<story>running through my head came together-"
+        },
+        {
+            "text": "A steady, earnest Uma Musume -however. \nThat's wrong, higher, I want to reach even higher…!",
+            "name": "Sakura Chiyono O",
+            "path_id": 6229413617761140055,
+            "block_id": 34,
+            "clip_length": 361,
+            "processed": "<story>A steady, earnest Uma Musume -however. \n<story>That's wrong, higher, I want to reach even higher…!"
+        },
+        {
+            "text": "Even if the training is difficult, even if I can't \nreach it, even if it takes a long time, I want \nto get faster, stronger, just like her-",
+            "name": "Sakura Chiyono O",
+            "path_id": 1992763756922186824,
+            "block_id": 35,
+            "clip_length": 359,
+            "processed": "<story>Even if the training is difficult, even if I can't \n<story>reach it, even if it takes a long time, I want \n<story>to get faster, stronger, just like her-"
+        },
+        {
+            "text": "I want to be like Maruzensky-san…!",
+            "name": "Sakura Chiyono O",
+            "path_id": 5057312945944940771,
+            "block_id": 36,
+            "clip_length": 108,
+            "processed": "<story>I want to be like Maruzensky-san…!"
+        },
+        {
+            "text": "In an instant, the world became brilliant.",
+            "name": "Sakura Chiyono O",
+            "path_id": -1997766210503258386,
+            "block_id": 37,
+            "clip_length": 113,
+            "processed": "<story>In an instant, the world became brilliant."
+        },
+        {
+            "text": "Thanks for the food!",
+            "name": "Sakura Chiyono O",
+            "path_id": 7164663678586123355,
+            "block_id": 38,
+            "clip_length": 37,
+            "processed": "<story>Thanks for the food!"
+        },
+        {
+            "text": "Spaghetti with, nata de coco and tiramisu…? \n…is this perhaps, a trend that's coming back in to fashion?",
+            "name": "Mejiro Ardan",
+            "path_id": -6237952152414648296,
+            "block_id": 39,
+            "clip_length": 282,
+            "processed": "<story>Spaghetti with, nata de coco and tiramisu…? \n<story>…is this perhaps, a trend that's coming back in to fashion?"
+        },
+        {
+            "text": "Eh? Ehe, ehehehe…! It's nothing like that, it's just, well the \nsenpai I look up to eats this, so without thinking…",
+            "name": "Sakura Chiyono O",
+            "path_id": 6288309391830904563,
+            "block_id": 40,
+            "clip_length": 328,
+            "processed": "<story>Eh? Ehe, ehehehe…! It's nothing like that, it's just, well the \n<story>senpai I look up to eats this, so without thinking…"
+        },
+        {
+            "text": "Well, when it comes to magazines featuring Maruzensky-san, \nthese seem to be all of them.",
+            "name": "Zenno Rob Roy",
+            "path_id": -3071280927931945020,
+            "block_id": 41,
+            "clip_length": 224,
+            "processed": "<story>Well, when it comes to magazines featuring Maruzensky-san, \n<story>these seem to be all of them."
+        },
+        {
+            "text": "Waa, there's a lot…! Thank you very much! \nIs it fine for me to borrow all of them?",
+            "name": "Sakura Chiyono O",
+            "path_id": 142037256040612279,
+            "block_id": 42,
+            "clip_length": 198,
+            "processed": "<story>Waa, there's a lot…! Thank you very much! \n<story>Is it fine for me to borrow all of them?"
+        },
+        {
+            "text": "Of course, that's fine but… Fufu. \nYou really like Maruzen-san don't you?",
+            "name": "Zenno Rob Roy",
+            "path_id": 7123374004819582086,
+            "block_id": 43,
+            "clip_length": 261,
+            "processed": "<story>Of course, that's fine but… Fufu. \n<story>You really like Maruzen-san don't you?"
+        },
+        {
+            "text": "Eh? Ah… ehehe, Yes!",
+            "name": "Sakura Chiyono O",
+            "path_id": -6826309056109636910,
+            "block_id": 44,
+            "clip_length": 144,
+            "processed": "<story>Eh? Ah… ehehe, Yes!"
+        },
+        {
+            "text": "Haa, haa…!",
+            "name": "Sakura Chiyono O",
+            "path_id": 1663590495709452702,
+            "block_id": 45,
+            "clip_length": 62,
+            "processed": "<story>Haa, haa…!"
+        },
+        {
+            "text": "(My time, is it a little too fast…? \nNo, \"If you don't run, the scenery will never change\", right?!)",
+            "name": "Sakura Chiyono O",
+            "path_id": 3959186046624747862,
+            "block_id": 46,
+            "clip_length": 287,
+            "processed": "<story>(My time, is it a little too fast…? \n<story>No, \"If you don't run, the scenery will never change\", right?!)"
+        },
+        {
+            "text": "Alllright, from now on I'm going to work hard every morning! \nChiyono Fight O-!",
+            "name": "Sakura Chiyono O",
+            "path_id": 6375613415433153123,
+            "block_id": 47,
+            "clip_length": 242,
+            "processed": "<story>Alllright, from now on I'm going to work hard every morning! \n<story>Chiyono Fight O-!"
+        },
+        {
+            "text": "…O-.",
+            "name": "Sakura Chiyono O",
+            "path_id": -8232326008963750800,
+            "block_id": 48,
+            "clip_length": 103,
+            "processed": "<story>…O-."
+        },
+        {
+            "text": "…I see, that's right. \nI wanted to do everything I could to be by Maruzensky's side.",
+            "name": "Sakura Chiyono O",
+            "path_id": 3618267167992736313,
+            "block_id": 49,
+            "clip_length": 366,
+            "processed": "<story>…I see, that's right. \n<story>I wanted to do everything I could to be by Maruzensky's side."
+        },
+        {
+            "text": "Even then, I forgot all of that, \nwondering what I should do from now on, thinking only about that-",
+            "name": "Sakura Chiyono O",
+            "path_id": -1022760209105981711,
+            "block_id": 50,
+            "clip_length": 302,
+            "choices": [
+                {
+                    "text": "What do you want to do now?",
+                    "hash": "5cb4f609e84d74abdac4e782cb20b50fb2ce4d98bf29ecdb460b0c0892b19483"
+                }
+            ],
+            "processed": "<story>Even then, I forgot all of that, \n<story>wondering what I should do from now on, thinking only about that-"
+        },
+        {
+            "text": "Right now-",
+            "name": "Sakura Chiyono O",
+            "path_id": -8627987794302999215,
+            "block_id": 51,
+            "clip_length": 53,
+            "processed": "<story>Right now-"
+        },
+        {
+            "text": "I want to fight…!",
+            "name": "Sakura Chiyono O",
+            "path_id": -463103592055920576,
+            "block_id": 52,
+            "clip_length": 97,
+            "processed": "<story>I want to fight…!"
+        }
+    ],
+    "title": "Keys Are In Your Pockets"
+}

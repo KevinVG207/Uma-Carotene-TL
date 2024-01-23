@@ -1,0 +1,585 @@
+{
+    "type": "story",
+    "row_index": 15689,
+    "file_name": "story/data/04/1034/storytimeline_041034001",
+    "hash": "PU4RHSA7KTZTLUT63STJMYHXT3ZQ3DJ5",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 8522637714657464752,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "It's been a short while since I became a new trainer at Tracen \nAcademy. So far, I haven't been able to try to scout an Uma \nMusume, let alone become their trainer.",
+            "name": "",
+            "path_id": 9144038496603366614,
+            "block_id": 1,
+            "clip_length": 120,
+            "processed": "<story>It's been a short while since I became a new trainer at Tracen \n<story>Academy. So far, I haven't been able to try to scout an Uma \n<story>Musume, let alone become their trainer."
+        },
+        {
+            "text": "Naturally, I think they're all wonderful, but, when it comes to \ntalking to them, for some reason I end up hesitating……",
+            "name": "",
+            "path_id": -2410932488639836338,
+            "block_id": 2,
+            "clip_length": 115,
+            "processed": "<story>Naturally, I think they're all wonderful, but, when it comes to \n<story>talking to them, for some reason I end up hesitating……"
+        },
+        {
+            "text": "――In that case, I have a suggestion…… if you're having trouble at \nCentral, how about searching 『Outside』?",
+            "name": "Hayakawa Tazuna",
+            "path_id": -5679955642053503343,
+            "block_id": 3,
+            "clip_length": 264,
+            "choices": [
+                {
+                    "text": "Outside, is it？",
+                    "hash": "9664c30e294f1602217b1fa39d33d9412ec84b7d8305996f9963e6492d1b7bd8"
+                }
+            ],
+            "processed": "<story>――In that case, I have a suggestion…… if you're having trouble at \n<story>Central, how about searching 『Outside』?"
+        },
+        {
+            "text": "Yes♪ I'm sure you're already aware but, Uma Musume aren't limited \nto racing only in the Twinkle Series！",
+            "name": "Hayakawa Tazuna",
+            "path_id": -7187748053467087711,
+            "block_id": 4,
+            "clip_length": 236,
+            "processed": "<story>Yes♪ I'm sure you're already aware but, Uma Musume aren't limited \n<story>to racing only in the Twinkle Series！"
+        },
+        {
+            "text": "Scattered all throughout Japan, different series \nexist, and in each district there are girls attending \nschools to hone their skills.",
+            "name": "Hayakawa Tazuna",
+            "path_id": -4796281955086520697,
+            "block_id": 5,
+            "clip_length": 262,
+            "processed": "<story>Scattered all throughout Japan, different series \n<story>exist, and in each district there are girls attending \n<story>schools to hone their skills."
+        },
+        {
+            "text": "Occasionally, among those girls, someone with exceptional talent \nis found, and they'll come to Tracen academy as a transfer \nstudent by contracting with a trainer！",
+            "name": "Hayakawa Tazuna",
+            "path_id": 6966732866601407134,
+            "block_id": 6,
+            "clip_length": 295,
+            "choices": [
+                {
+                    "text": "I see……！",
+                    "hash": "fec2cfbdc7dd2ffafe770bf44915021018bd6054c8c8a6f22c9bfe4b7e6914ca"
+                }
+            ],
+            "processed": "<story>Occasionally, among those girls, someone with exceptional talent \n<story>is found, and they'll come to Tracen academy as a transfer \n<story>student by contracting with a trainer！"
+        },
+        {
+            "text": "And with that, I made my way to the Oi Selection Race, where \ngirls aiming to participate in Oi races gathered, but――",
+            "name": "",
+            "path_id": 8781458345404719297,
+            "block_id": 7,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "Where…… am I……！？",
+                    "hash": "3ecef6bfd3153ef4e1443ee4bfc48ca404029fd4a5ac01c0ee21c2cf419327bf"
+                },
+                {
+                    "text": "Where…… am I……！？",
+                    "hash": "4e13b88ecc3107a91ccead97dac73c6f15a5d185dd79f1c52770dcb49ddcc0d3"
+                }
+            ],
+            "processed": "<story>And with that, I made my way to the Oi Selection Race, where \n<story>girls aiming to participate in Oi races gathered, but――"
+        },
+        {
+            "text": "Probably because I'm unfamiliar with this place, \nI'm now completely lost, and on top of that――",
+            "name": "",
+            "path_id": -4339343793715644041,
+            "block_id": 8,
+            "clip_length": 94,
+            "processed": "<story>Probably because I'm unfamiliar with this place, \n<story>I'm now completely lost, and on top of that――"
+        },
+        {
+            "text": "BuuNyaaaaaaao！！",
+            "name": "Intimidating Cat",
+            "path_id": -4502688790919482250,
+            "block_id": 9,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "Uwaaaaaa！？",
+                    "hash": "7dc6621ae482aaf70e61901f375d60d47b117df6202f861eb8a0f062e7eba9be"
+                }
+            ],
+            "processed": "<story>BuuNyaaaaaaao！！"
+        },
+        {
+            "text": "All of a sudden a cat with an imposing physique \nstarted chasing me！ Eventually……",
+            "name": "",
+            "path_id": -3405131920220392897,
+            "block_id": 10,
+            "clip_length": 114,
+            "processed": "<story>All of a sudden a cat with an imposing physique \n<story>started chasing me！ Eventually……"
+        },
+        {
+            "text": "(Guuuuuuuu……)",
+            "name": "",
+            "path_id": 2191874542822870786,
+            "block_id": 11,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "(I……I'm hungry……)",
+                    "hash": "ac129913c666456b01fb22a5ff538bdc0a09041e1880d3986c85d4b9f657f7b3"
+                }
+            ],
+            "processed": "<story>(Guuuuuuuu……)"
+        },
+        {
+            "text": "Ahaahaahaahaa！！ Hey, hey, hey, what's wrong？ \nYou look like ya could use somethin' to eat！",
+            "name": "？？？",
+            "path_id": -7548141914083998853,
+            "block_id": 12,
+            "clip_length": 207,
+            "processed": "<story>Ahaahaahaahaa！！ Hey, hey, hey, what's wrong？ \n<story>You look like ya could use somethin' to eat！"
+        },
+        {
+            "text": "Bunyaaaa～～～！！",
+            "name": "Intimidating Cat",
+            "path_id": 3591251088789959840,
+            "block_id": 13,
+            "clip_length": 58,
+            "processed": "<story>Bunyaaaa～～～！！"
+        },
+        {
+            "text": "Well look what we have here. If it ain't this place's boss cat. \n……Hahaa, did ya step in to this guy's territory？",
+            "name": "Debonair Uma Musume",
+            "path_id": -1613793225786369225,
+            "block_id": 14,
+            "clip_length": 275,
+            "processed": "<story>Well look what we have here. If it ain't this place's boss cat. \n<story>……Hahaa, did ya step in to this guy's territory？"
+        },
+        {
+            "text": "Now, now, he's just someone that's not from around \nhere. Let's see, I can probably fix things by doin' \nthis！ ……here kitty, kitty, good kitty！",
+            "name": "Debonair Uma Musume",
+            "path_id": -7044266271374213851,
+            "block_id": 15,
+            "clip_length": 339,
+            "processed": "<story>Now, now, he's just someone that's not from around \n<story>here. Let's see, I can probably fix things by doin' \n<story>this！ ……here kitty, kitty, good kitty！"
+        },
+        {
+            "text": "With all the petting from this debonair Uma Musume, that \nferocious cat instantly settled down！ I couldn't call her \ntechnique anything but superb……！",
+            "name": "",
+            "path_id": -7296040846157200174,
+            "block_id": 16,
+            "clip_length": 123,
+            "processed": "<story>With all the petting from this debonair Uma Musume, that \n<story>ferocious cat instantly settled down！ I couldn't call her \n<story>technique anything but superb……！"
+        },
+        {
+            "text": "FunyaAaan♪",
+            "name": "Intimidating Cat",
+            "path_id": -3723126025082381663,
+            "block_id": 17,
+            "clip_length": 102,
+            "processed": "<story>FunyaAaan♪"
+        },
+        {
+            "text": "Oh, see ya later～！ ……well then. This your first time here？ On top \nof bein' chased around by the boss cat, you've been wanderin' \naround lost to the point you're starvin', huh？",
+            "name": "Debonair Uma Musume",
+            "path_id": 5339515671136840971,
+            "block_id": 18,
+            "clip_length": 426,
+            "processed": "<story>Oh, see ya later～！ ……well then. This your first time here？ On top \n<story>of bein' chased around by the boss cat, you've been wanderin' \n<story>around lost to the point you're starvin', huh？"
+        },
+        {
+            "text": "In that case, how about comin' with me！？ \nI can show ya to a good Soba place.",
+            "name": "Debonair Uma Musume",
+            "path_id": 8603946465250870478,
+            "block_id": 19,
+            "clip_length": 147,
+            "choices": [
+                {
+                    "text": "Even though we've just met……？",
+                    "hash": "043f5e626eb6b05a64a0e377b308eb3761b9015b342cbb838801c20eccff6ff6"
+                },
+                {
+                    "text": "Even though we've just met……？",
+                    "hash": "107b630c8df7b0db2c1116b6375df001fccd41a0ccd4305bcf46943d3689c09b"
+                }
+            ],
+            "processed": "<story>In that case, how about comin' with me！？ \n<story>I can show ya to a good Soba place."
+        },
+        {
+            "text": "Of course！ I can't do somethin' as boorish as to just leave ya here. \nIt's fine, so just shut up and follow me！",
+            "name": "Debonair Uma Musume",
+            "path_id": 6215668773655568773,
+            "block_id": 20,
+            "clip_length": 220,
+            "processed": "<story>Of course！ I can't do somethin' as boorish as to just leave ya here. \n<story>It's fine, so just shut up and follow me！"
+        },
+        {
+            "text": "And so, I was led to the shopping district, this \ndebonair Uma Musume seemed familiar with this place \nand confidently led me to a Soba stand.",
+            "name": "",
+            "path_id": 337665912669654137,
+            "block_id": 21,
+            "clip_length": 121,
+            "processed": "<story>And so, I was led to the shopping district, this \n<story>debonair Uma Musume seemed familiar with this place \n<story>and confidently led me to a Soba stand."
+        },
+        {
+            "text": "Well, well, well, if it ain't Inari-chan！ Feelin' like some fried tofu？ \nI've got lots ready for ya！",
+            "name": "Soba-stand Old Lady",
+            "path_id": 9000435858698947717,
+            "block_id": 22,
+            "clip_length": 252,
+            "processed": "<story>Well, well, well, if it ain't Inari-chan！ Feelin' like some fried tofu？ \n<story>I've got lots ready for ya！"
+        },
+        {
+            "text": "Oh, thanks for that！ But, old lady, \ncan I get an order of soba too？ I brought ya a customer！",
+            "name": "Debonair Uma Musume",
+            "path_id": 3025318000941794544,
+            "block_id": 23,
+            "clip_length": 228,
+            "processed": "<story>Oh, thanks for that！ But, old lady, \n<story>can I get an order of soba too？ I brought ya a customer！"
+        },
+        {
+            "text": "Oh my, welcome！ Ufuufuu, if Inari-chan is bringin' ya here, \nI'll have to provide some service！",
+            "name": "Soba-store Old Lady",
+            "path_id": 307997164154262587,
+            "block_id": 24,
+            "clip_length": 247,
+            "processed": "<story>Oh my, welcome！ Ufuufuu, if Inari-chan is bringin' ya here, \n<story>I'll have to provide some service！"
+        },
+        {
+            "text": "And with that, by 『Service』 she meant that my soba had TWO pieces \nof shrimp tempura. Because of that, it was very filling！",
+            "name": "",
+            "path_id": -2816419024254550548,
+            "block_id": 25,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "Thank you very much……！",
+                    "hash": "59b366b3f466e60245af893fd35d7965e87eb23cb370fd11e3ba82f7c8bb0d4e"
+                }
+            ],
+            "processed": "<story>And with that, by 『Service』 she meant that my soba had TWO pieces \n<story>of shrimp tempura. Because of that, it was very filling！"
+        },
+        {
+            "text": "Just melts in your mouth doesn't it！？ This is the best soba place around. \n……and so？ You, where were ya headed to？",
+            "name": "Debonair Uma Musume",
+            "path_id": -1120194739217159032,
+            "block_id": 26,
+            "clip_length": 352,
+            "processed": "<story>Just melts in your mouth doesn't it！？ This is the best soba place around. \n<story>……and so？ You, where were ya headed to？"
+        },
+        {
+            "text": "Since we've come this far, I might as well accompany ya to the end！ \nThis area is pretty much like my backyard, I can guide ya just \nabout anywhere. Alright, let's hear it！",
+            "name": "Debonair Uma Musume",
+            "path_id": 5057251364072232761,
+            "block_id": 27,
+            "clip_length": 252,
+            "choices": [
+                {
+                    "text": "Actually, to the 『Oi Racetrack』……",
+                    "hash": "f72c2cbeb5650c33f24b2b774864d2418083032a5ae6998b195e0797d0057063"
+                }
+            ],
+            "processed": "<story>Since we've come this far, I might as well accompany ya to the end！ \n<story>This area is pretty much like my backyard, I can guide ya just \n<story>about anywhere. Alright, let's hear it！"
+        },
+        {
+            "text": "Hmmm？ Did I hear that right？ ……Ahaa haa haa haa！！",
+            "name": "Debonair Uma Musume",
+            "path_id": -3270948217705088815,
+            "block_id": 28,
+            "clip_length": 183,
+            "processed": "<story>Hmmm？ Did I hear that right？ ……Ahaa haa haa haa！！"
+        },
+        {
+            "text": "Well, what do ya know？ I was headin' there too！",
+            "name": "Debonair Uma Musume",
+            "path_id": -8714680344110242601,
+            "block_id": 29,
+            "clip_length": 107,
+            "processed": "<story>Well, what do ya know？ I was headin' there too！"
+        },
+        {
+            "text": "And with that, somehow or other I made it to the Oi Racetrack, \nand I was able to spectate the Selection Race, but――",
+            "name": "",
+            "path_id": -209965629471973680,
+            "block_id": 30,
+            "clip_length": 110,
+            "processed": "<story>And with that, somehow or other I made it to the Oi Racetrack, \n<story>and I was able to spectate the Selection Race, but――"
+        },
+        {
+            "text": "(UooOOOOOOOOH！)",
+            "name": "",
+            "path_id": 260042133402617497,
+            "block_id": 31,
+            "clip_length": 109,
+            "processed": "<story>(UooOOOOOOOOH！)"
+        },
+        {
+            "text": "DaaAAAAARaAAAAA！！ \nMove it, outta the way, comin' through！！",
+            "name": "Debonair Uma Musume",
+            "path_id": 7170733412328858503,
+            "block_id": 32,
+            "clip_length": 122,
+            "choices": [
+                {
+                    "text": "Didn't I just meet her！？",
+                    "hash": "5dbd7f314e505e15f57b3159aee612553f6de255a0dd43e467e4d455a91ea001"
+                }
+            ],
+            "processed": "<story>DaaAAAAARaAAAAA！！ \n<story>Move it, outta the way, comin' through！！"
+        },
+        {
+            "text": "I had no idea she was a participant！ \nNo, more than that……！",
+            "name": "",
+            "path_id": -8637927615257836741,
+            "block_id": 33,
+            "clip_length": 85,
+            "processed": "<story>I had no idea she was a participant！ \n<story>No, more than that……！"
+        },
+        {
+            "text": "We're finally entering the last straight！ And kicking up a cloud \nof dust, pushing forward is Inari One, it's Inari One！",
+            "name": "Announcer",
+            "path_id": 2316824539791654776,
+            "block_id": 34,
+            "clip_length": 217,
+            "processed": "<story>We're finally entering the last straight！ And kicking up a cloud \n<story>of dust, pushing forward is Inari One, it's Inari One！"
+        },
+        {
+            "text": "With this…… it's over！ \nOraAAAAAAAA！！",
+            "name": "Inari One",
+            "path_id": 3271740044583355986,
+            "block_id": 35,
+            "clip_length": 149,
+            "processed": "<story>With this…… it's over！ \n<story>OraAAAAAAAA！！"
+        },
+        {
+            "text": "Inari One takes the lead！！ Inari One is out in front！ 2 lengths, \n3 lengths and more！！ There she goes, it's Inari One！！",
+            "name": "Announcer",
+            "path_id": 2996931823971989499,
+            "block_id": 36,
+            "clip_length": 194,
+            "processed": "<story>Inari One takes the lead！！ Inari One is out in front！ 2 lengths, \n<story>3 lengths and more！！ There she goes, it's Inari One！！"
+        },
+        {
+            "text": "Goal！ Inari One, wins the Oi Selection Race with an \noverwhelming 4 lengths！ Even with that small stature she's \noverflowing with such power, what a marvelous run！！",
+            "name": "Announcer",
+            "path_id": 6971698965791698531,
+            "block_id": 37,
+            "clip_length": 263,
+            "choices": [
+                {
+                    "text": "……Haa……！！",
+                    "hash": "c9b52126047237ccaf0b71b80d75930f6a6c61a15c048a0d8071b61bbb18836e"
+                }
+            ],
+            "processed": "<story>Goal！ Inari One, wins the Oi Selection Race with an \n<story>overwhelming 4 lengths！ Even with that small stature she's \n<story>overflowing with such power, what a marvelous run！！"
+        },
+        {
+            "text": "Without realizing it, I took a deep breath, I was \nso enthralled that I had forgotten to breathe. \n……That's just how fascinating her run had been.",
+            "name": "",
+            "path_id": 2810005494340942646,
+            "block_id": 38,
+            "clip_length": 119,
+            "processed": "<story>Without realizing it, I took a deep breath, I was \n<story>so enthralled that I had forgotten to breathe. \n<story>……That's just how fascinating her run had been."
+        },
+        {
+            "text": "My pulse was racing. With each step, the earth seemed to shake \nbeneath her feet. With fighting spirit that burned like fire. \nWith brilliant speed even on the dirt.",
+            "name": "",
+            "path_id": -7872267030406089060,
+            "block_id": 39,
+            "clip_length": 123,
+            "processed": "<story>My pulse was racing. With each step, the earth seemed to shake \n<story>beneath her feet. With fighting spirit that burned like fire. \n<story>With brilliant speed even on the dirt."
+        },
+        {
+            "text": "Certainly, even on a turf course―― even in the Twinkle Series. \nIt has to be her…… it has to be her！",
+            "name": "",
+            "path_id": -644043320889095897,
+            "block_id": 40,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "That girl―― I want to scout her！",
+                    "hash": "3715574fba9488cb6872086ee9ee014fa1d6824d821b68eb83f7162df70eacf4"
+                }
+            ],
+            "processed": "<story>Certainly, even on a turf course―― even in the Twinkle Series. \n<story>It has to be her…… it has to be her！"
+        },
+        {
+            "text": "Nah, sorry. \nI'm glad ya feel that way, but I can't accept that offer.",
+            "name": "Inari One",
+            "path_id": 3135007669595456183,
+            "block_id": 41,
+            "clip_length": 201,
+            "processed": "<story>Nah, sorry. \n<story>I'm glad ya feel that way, but I can't accept that offer."
+        },
+        {
+            "text": "But, this debonair Uma Musume―― Inari One, who listened silently \nuntil I finished, plainly rejected me.",
+            "name": "",
+            "path_id": -1997066524450848934,
+            "block_id": 42,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "……can you tell me why？",
+                    "hash": "acbe975138ed128538fe61d955659f59d6cc2b88a403a4c995c239dde9a194ec"
+                },
+                {
+                    "text": "……can you tell me why？",
+                    "hash": "eaa1e52a3574cd4b5bff25634c00b4da7601e3b174dd66d3077da2ba8329071f"
+                }
+            ],
+            "processed": "<story>But, this debonair Uma Musume―― Inari One, who listened silently \n<story>until I finished, plainly rejected me."
+        },
+        {
+            "text": "As ya can tell, I'm a workin'-class girl raised in a workin'-class \ntown！ Since the time I could walk, I was raised with all the \nother kids in town like one big family.",
+            "name": "Inari One",
+            "path_id": 3199515186894553211,
+            "block_id": 43,
+            "clip_length": 281,
+            "processed": "<story>As ya can tell, I'm a workin'-class girl raised in a workin'-class \n<story>town！ Since the time I could walk, I was raised with all the \n<story>other kids in town like one big family."
+        },
+        {
+            "text": "Even our runnin' styles are the same. There's someone who's been \nlookin' after and raisin' me this whole time. That person, is \nwaitin' for me here on the Oi team.",
+            "name": "Inari One",
+            "path_id": -9140169109225917098,
+            "block_id": 44,
+            "clip_length": 320,
+            "processed": "<story>Even our runnin' styles are the same. There's someone who's been \n<story>lookin' after and raisin' me this whole time. That person, is \n<story>waitin' for me here on the Oi team."
+        },
+        {
+            "text": "On top of that――",
+            "name": "Inari One",
+            "path_id": -8442526298521543611,
+            "block_id": 45,
+            "clip_length": 46,
+            "processed": "<story>On top of that――"
+        },
+        {
+            "text": "――Ah, you're here, Inari-neesan！ Congratulationsー！ \nI…… ran out of stamina again, and got 5th though……",
+            "name": "Purple Scrunchie Uma Musume",
+            "path_id": -4241943276584725217,
+            "block_id": 46,
+            "clip_length": 327,
+            "processed": "<story>――Ah, you're here, Inari-neesan！ Congratulationsー！ \n<story>I…… ran out of stamina again, and got 5th though……",
+            "name_processed": "<sc=75>Purple Scrunchie Uma Musume"
+        },
+        {
+            "text": "What's with the gloomy face！？ Ya ran with all \nya had, and came this far right？ Besides, the \nChief's already talked to ya, hasn't he？",
+            "name": "Inari One",
+            "path_id": 2356502416469048723,
+            "block_id": 47,
+            "clip_length": 291,
+            "processed": "<story>What's with the gloomy face！？ Ya ran with all \n<story>ya had, and came this far right？ Besides, the \n<story>Chief's already talked to ya, hasn't he？"
+        },
+        {
+            "text": "Yeah！ Ever since I was small, I've looked up to Inari-neesan, \nand now we're on the same team……！ I'm glad！ \nI look forward to working with you！！",
+            "name": "Purple Scrunchie Uma Musume",
+            "path_id": -7338857120065844346,
+            "block_id": 48,
+            "clip_length": 290,
+            "processed": "<story>Yeah！ Ever since I was small, I've looked up to Inari-neesan, \n<story>and now we're on the same team……！ I'm glad！ \n<story>I look forward to working with you！！",
+            "name_processed": "<sc=75>Purple Scrunchie Uma Musume"
+        },
+        {
+            "text": "Ah, sorry for interrupting you！ I'll be heading off now！！",
+            "name": "Purple Scrunchie Uma Musume",
+            "path_id": 4604400180027973620,
+            "block_id": 49,
+            "clip_length": 133,
+            "processed": "<story>Ah, sorry for interrupting you！ I'll be heading off now！！",
+            "name_processed": "<sc=75>Purple Scrunchie Uma Musume"
+        },
+        {
+            "text": "Yeah, see ya later！！ \n…………and. Well, something like that.",
+            "name": "Inari One",
+            "path_id": 7137729063985091628,
+            "block_id": 50,
+            "clip_length": 245,
+            "processed": "<story>Yeah, see ya later！！ \n<story>…………and. Well, something like that."
+        },
+        {
+            "text": "See, I'm an Edo kid after all. For the Chief that's \nbeen lookin' after me, and my cute follower, I can't \njust leave 'em be. ……Sorry 'bout that！",
+            "name": "Inari One",
+            "path_id": -1672003363399577160,
+            "block_id": 51,
+            "clip_length": 265,
+            "choices": [
+                {
+                    "text": "No it's fine……I understand",
+                    "hash": "97cb2a908df3e4dac40fe71d34655c5579fc073b2ff5405b2e19c1d59b8ee1af"
+                },
+                {
+                    "text": "No it's fine……I understand",
+                    "hash": "7b1f4150b808904290d64e64d992699f2a1e600d8ca9bcdca2e89c81f74bb774"
+                }
+            ],
+            "processed": "<story>See, I'm an Edo kid after all. For the Chief that's \n<story>been lookin' after me, and my cute follower, I can't \n<story>just leave 'em be. ……Sorry 'bout that！"
+        },
+        {
+            "text": "……Aw, c'mon, don't give me that sad look! \nYou, you've got a good eye if ya came straight to me!",
+            "name": "Inari One",
+            "path_id": -7915182815089909603,
+            "block_id": 52,
+            "clip_length": 296,
+            "processed": "<story>……Aw, c'mon, don't give me that sad look! \n<story>You, you've got a good eye if ya came straight to me!"
+        },
+        {
+            "text": "With an eye like that, ya shouldn't have a problem \nfindin' a good girl at Tracen Academy. It's a really \nprestigious school right？ In that case――",
+            "name": "Inari One",
+            "path_id": 716613568437739024,
+            "block_id": 53,
+            "clip_length": 254,
+            "choices": [
+                {
+                    "text": "I've searched the school but――",
+                    "hash": "b42a7442ada5e7ce37adc1a8f92e834049687449d78c2eefb50267e561e7e2e1"
+                }
+            ],
+            "processed": "<story>With an eye like that, ya shouldn't have a problem \n<story>findin' a good girl at Tracen Academy. It's a really \n<story>prestigious school right？ In that case――"
+        },
+        {
+            "text": "But…… what？",
+            "name": "Inari One",
+            "path_id": 7121483884997467560,
+            "block_id": 54,
+            "clip_length": 92,
+            "choices": [
+                {
+                    "text": "I still think it has to be you",
+                    "hash": "640158fe89a147579dfc56af69b13e06339dbfcf2850591defefe46734a9f348"
+                },
+                {
+                    "text": "I still think it has to be you",
+                    "hash": "6457d7cc0133e406ee65cb121f860757741ff6de73434d058f3ab9570fb4b0a1"
+                }
+            ],
+            "processed": "<story>But…… what？"
+        },
+        {
+            "text": "…………！",
+            "name": "Inari One",
+            "path_id": -2444677745382587996,
+            "block_id": 55,
+            "clip_length": 30,
+            "processed": "<story>…………！"
+        },
+        {
+            "text": "Ah, well…… i-is that so? \nUmmmmーーー………………",
+            "name": "Inari One",
+            "path_id": 1035199726785982347,
+            "block_id": 56,
+            "clip_length": 156,
+            "processed": "<story>Ah, well…… i-is that so? \n<story>Ummmmーーー………………"
+        },
+        {
+            "text": "……have ya memorized the area already？ Don't get caught by that \nboss cat again. Well then…… um, careful on your way back！",
+            "name": "Inari One",
+            "path_id": 769652871485862324,
+            "block_id": 57,
+            "clip_length": 298,
+            "processed": "<story>……have ya memorized the area already？ Don't get caught by that \n<story>boss cat again. Well then…… um, careful on your way back！"
+        }
+    ],
+    "title": "I'm an Edo Kid, After All!"
+}

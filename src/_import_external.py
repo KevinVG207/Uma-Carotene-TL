@@ -181,7 +181,7 @@ def import_external_story(local_path, url_to_github_jsons):
     # Download all jsons from github
     print("Downloading jsons from github")
 
-    r = requests.get(url_to_github_jsons)
+    r = requests.get(url_to_github_jsons + local_path)
     r.raise_for_status()
 
     urls = [data['download_url'] for data in r.json()]
@@ -201,9 +201,16 @@ def import_external_story(local_path, url_to_github_jsons):
                 'block_id': block['blockIdx'],
                 'text': block['enText'],
                 'name': block['enName'],
-                'clip_length': block.get('newClipLength', block['origClipLength']),
-                'source_clip_length': block['origClipLength'],
             }
+
+            if block.get('title'):
+                cur_blocks[block['pathId']]['title'] = block['title']
+
+            if block.get('newClipLength'):
+                cur_blocks[block['pathId']]['clip_length'] = block['newClipLength']
+            
+            if block.get('origClipLength'):
+                cur_blocks[block['pathId']]['source_clip_length'] = block['origClipLength']
 
             choices = block.get('choices')
 
@@ -518,7 +525,29 @@ def apply_gametora_title_missions():
 
 def main():
     # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
-    import_external_story('story/04/1105', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1105')
+    import_external_story('story/04/1034', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1098', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1065', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1022', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1011', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1106', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1106', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1104', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1068', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1055', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1071', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1059', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1086', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1077', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1069', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1043', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1002', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1046', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1083', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1010', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1021', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1072', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1047', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
 
     # umapyoi_chara_ids = get_umapyoi_chara_ids()
     # apply_umapyoi_character_profiles(umapyoi_chara_ids)

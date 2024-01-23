@@ -1,0 +1,524 @@
+{
+    "type": "story",
+    "row_index": 183214,
+    "file_name": "story/data/04/1055/storytimeline_041055003",
+    "hash": "SB44RMVZVRW6VVU56YKTKPKL7PECPZFD",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 7160584857220029751,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I had been sitting at my desk for a while, but \nI was still worried about Marvelous Sunday. I \ndecided to go to the infirmary to check on her――",
+            "name": "",
+            "path_id": -2938555349358360958,
+            "block_id": 1,
+            "clip_length": 116,
+            "processed": "<story>I had been sitting at my desk for a while, but \n<story>I was still worried about Marvelous Sunday. I \n<story>decided to go to the infirmary to check on her――"
+        },
+        {
+            "text": "Haa…… Haa…… ……Ugh……",
+            "name": "Marvelous Sunday",
+            "path_id": -3015166654578841539,
+            "block_id": 2,
+            "clip_length": 148,
+            "choices": [
+                {
+                    "text": "Marvelous Sunday!?",
+                    "hash": "df52e8bd7385cb68fc585420bfb601495b1b2437f8836d295fb1d95248344f4c"
+                }
+            ],
+            "processed": "<story>Haa…… Haa…… ……Ugh……"
+        },
+        {
+            "text": "Mmm…… mmmmm……",
+            "name": "Marvelous Sunday",
+            "path_id": 4699166865860013026,
+            "block_id": 3,
+            "clip_length": 94,
+            "processed": "<story>Mmm…… mmmmm……"
+        },
+        {
+            "text": "Huh…… Trainer……? \n……Ahaa, seems like, I'm still dreaming……",
+            "name": "Marvelous Sunday",
+            "path_id": 2023968698319481355,
+            "block_id": 4,
+            "clip_length": 300,
+            "processed": "<story>Huh…… Trainer……? \n<story>……Ahaa, seems like, I'm still dreaming……"
+        },
+        {
+            "text": "I'm glad…… being alone, isn't marvelous after all……",
+            "name": "Marvelous Sunday",
+            "path_id": -2046043100102075251,
+            "block_id": 5,
+            "clip_length": 191,
+            "processed": "<story>I'm glad…… being alone, isn't marvelous after all……"
+        },
+        {
+            "text": "Maybe it's because she just woke up, but Marvelous \nSunday seemed a little out of it. Wondering if she \nwas okay, I talked to her because she seemed depressed.",
+            "name": "",
+            "path_id": 7325999550729632256,
+            "block_id": 6,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "……what were you dreaming about?",
+                    "hash": "61ffa12f158277139a6540725cbc71399b331feacde93faa41eb7241d944152f"
+                },
+                {
+                    "text": "……what were you dreaming about?",
+                    "hash": "257e594174745e2da4edc85eefa61f85a44f9daca7dbf95d16518dc62334e961"
+                }
+            ],
+            "processed": "<story>Maybe it's because she just woke up, but Marvelous \n<story>Sunday seemed a little out of it. Wondering if she \n<story>was okay, I talked to her because she seemed depressed."
+        },
+        {
+            "text": "Hmmmm~…… a long time ago……the same dream I'd had \nwhile I was hospitalized…… It was dark……in a place \nwhere I couldn't see anything…… and very cold――",
+            "name": "Marvelous Sunday",
+            "path_id": -7658219541947378056,
+            "block_id": 7,
+            "clip_length": 472,
+            "processed": "<story>Hmmmm~…… a long time ago……the same dream I'd had \n<story>while I was hospitalized…… It was dark……in a place \n<story>where I couldn't see anything…… and very cold――"
+        },
+        {
+            "text": "I hated being alone, so I'd just start walking. \nI didn't know where to go, but I kept moving forward.",
+            "name": "Marvelous Sunday",
+            "path_id": -7934351303554633988,
+            "block_id": 8,
+            "clip_length": 285,
+            "processed": "<story>I hated being alone, so I'd just start walking. \n<story>I didn't know where to go, but I kept moving forward."
+        },
+        {
+            "text": "When I did, eventually I could see a light far in \nthe distance…… A warm looking place……if I went \nthere, maybe I'd find someone to hold me tight――",
+            "name": "Marvelous Sunday",
+            "path_id": -9080458471359732624,
+            "block_id": 9,
+            "clip_length": 357,
+            "processed": "<story>When I did, eventually I could see a light far in \n<story>the distance…… A warm looking place……if I went \n<story>there, maybe I'd find someone to hold me tight――"
+        },
+        {
+            "text": "Without realizing it, I started running. But \nthat light kept getting further away…… No matter \nhow much I wanted to go there, to reach it――",
+            "name": "Marvelous Sunday",
+            "path_id": 5146587483862205723,
+            "block_id": 10,
+            "clip_length": 295,
+            "processed": "<story>Without realizing it, I started running. But \n<story>that light kept getting further away…… No matter \n<story>how much I wanted to go there, to reach it――"
+        },
+        {
+            "text": "I ran…… I ran with all my strength…… I just ran――!",
+            "name": "Marvelous Sunday",
+            "path_id": 5461353443407807343,
+            "block_id": 11,
+            "clip_length": 137,
+            "processed": "<story>I ran…… I ran with all my strength…… I just ran――!"
+        },
+        {
+            "text": "When I opened my eyes, Papa and Mama were crying. \nGrandma praised me, saying I had worked hard.",
+            "name": "Marvelous Sunday",
+            "path_id": 1843520710037288364,
+            "block_id": 12,
+            "clip_length": 294,
+            "processed": "<story>When I opened my eyes, Papa and Mama were crying. \n<story>Grandma praised me, saying I had worked hard."
+        },
+        {
+            "text": "They told us you might not open your eyes again. \nBut just like your name, you showed us a wonderful miracle……",
+            "name": "Marvelous' Grandmother",
+            "path_id": 272400249137765302,
+            "block_id": 13,
+            "clip_length": 287,
+            "processed": "<story>They told us you might not open your eyes again. \n<story>But just like your name, you showed us a wonderful miracle……",
+            "name_processed": "<sc=94>Marvelous' Grandmother"
+        },
+        {
+            "text": "Marvelous is a miracle――joy――a wonderous surprise. \nTo us, you just being here is Marvelous, you know.",
+            "name": "Marvelous' Grandmother",
+            "path_id": 400301456368829720,
+            "block_id": 14,
+            "clip_length": 423,
+            "processed": "<story>Marvelous is a miracle――joy――a wonderous surprise. \n<story>To us, you just being here is Marvelous, you know.",
+            "name_processed": "<sc=94>Marvelous' Grandmother"
+        },
+        {
+            "text": "That was when I realized it――!",
+            "name": "Marvelous Sunday",
+            "path_id": -8780023150318746862,
+            "block_id": 15,
+            "clip_length": 105,
+            "processed": "<story>That was when I realized it――!"
+        },
+        {
+            "text": "Being born, being alive, running. Just sharing a connection with \nsomeone, that that would make everything more joyous for everyone.",
+            "name": "Marvelous Sunday",
+            "path_id": 2124724832266011156,
+            "block_id": 16,
+            "clip_length": 305,
+            "processed": "<story>Being born, being alive, running. Just sharing a connection with \n<story>someone, that that would make everything more joyous for everyone."
+        },
+        {
+            "text": "That something miraculous, that wonderful surprises exist! \nEven if you can't see or feel it, they're all around……!",
+            "name": "Marvelous Sunday",
+            "path_id": 826643019862211315,
+            "block_id": 17,
+            "clip_length": 276,
+            "choices": [
+                {
+                    "text": "And that's…… Marvelous……?",
+                    "hash": "a671a6013cf881b378378879d88cce5c853cc72f0075969176b1f5783ee94993"
+                }
+            ],
+            "processed": "<story>That something miraculous, that wonderful surprises exist! \n<story>Even if you can't see or feel it, they're all around……!"
+        },
+        {
+            "text": "Right! Marvelous is something special, amazing, a wonderful \nsurprise! That's what I wanted to show Trainer!",
+            "name": "Marvelous Sunday",
+            "path_id": -2420073170995552168,
+            "block_id": 18,
+            "clip_length": 314,
+            "processed": "<story>Right! Marvelous is something special, amazing, a wonderful \n<story>surprise! That's what I wanted to show Trainer!"
+        },
+        {
+            "text": "Because showing everyone that kind of Marvelous is my dream☆ \nThat's why I came to Tracen Academy, after all!",
+            "name": "Marvelous Sunday",
+            "path_id": -2169570567657471907,
+            "block_id": 19,
+            "clip_length": 266,
+            "processed": "<story>Because showing everyone that kind of Marvelous is my dream☆ \n<story>That's why I came to Tracen Academy, after all!"
+        },
+        {
+            "text": "At some point, the strength had returned to \nher eyes. Maybe it was because she remembered \nher promise to show me what Marvelous was.",
+            "name": "",
+            "path_id": -3087334131854533144,
+            "block_id": 20,
+            "clip_length": 115,
+            "processed": "<story>At some point, the strength had returned to \n<story>her eyes. Maybe it was because she remembered \n<story>her promise to show me what Marvelous was."
+        },
+        {
+            "text": "You see, the world is filled with people like Trainer. \nLots of people that don't realize what Marvelous is.",
+            "name": "Marvelous Sunday",
+            "path_id": 4530830982366915077,
+            "block_id": 21,
+            "clip_length": 216,
+            "processed": "<story>You see, the world is filled with people like Trainer. \n<story>Lots of people that don't realize what Marvelous is."
+        },
+        {
+            "text": "It can't be seen so they don't know…… in that case, \nI want to show them! That's why I decided to enter races!",
+            "name": "Marvelous Sunday",
+            "path_id": -7297763495913761226,
+            "block_id": 22,
+            "clip_length": 270,
+            "processed": "<story>It can't be seen so they don't know…… in that case, \n<story>I want to show them! That's why I decided to enter races!"
+        },
+        {
+            "text": "There's alot of Marvelous things in races, after all☆ \nPassion……excitement……emotions, and many other special, \nwonderful surprises that can't be found elsewhere!",
+            "name": "Marvelous Sunday",
+            "path_id": 1737340650469185511,
+            "block_id": 23,
+            "clip_length": 355,
+            "processed": "<story>There's alot of Marvelous things in races, after all☆ \n<story>Passion……excitement……emotions, and many other special, \n<story>wonderful surprises that can't be found elsewhere!"
+        },
+        {
+            "text": "A wonderful surprise――if she put it that way, \nthen I felt I could understand what 『Marvelous』 meant.",
+            "name": "",
+            "path_id": 6553495026518988588,
+            "block_id": 24,
+            "clip_length": 101,
+            "processed": "<story>A wonderful surprise――if she put it that way, \n<story>then I felt I could understand what 『Marvelous』 meant."
+        },
+        {
+            "text": "Like with the waxed hallway――",
+            "name": "",
+            "path_id": -7384613178305731750,
+            "block_id": 25,
+            "clip_length": 67,
+            "processed": "<story>Like with the waxed hallway――"
+        },
+        {
+            "text": "That Mystery Tea. You didn't know what flavor it \nhad until you drank it. Marvelous Sunday considered \nall these little surprises to be something special.",
+            "name": "",
+            "path_id": 5898520110533586271,
+            "block_id": 26,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "(That's why I was so captivated……)",
+                    "hash": "0888f7aa2c4c2b692ba6656a2e735136c9f73e723018e22e5eb0c643f2d6055a"
+                }
+            ],
+            "processed": "<story>That Mystery Tea. You didn't know what flavor it \n<story>had until you drank it. Marvelous Sunday considered \n<story>all these little surprises to be something special."
+        },
+        {
+            "text": "I had thought my life was boring. But I never even tried \nto see the beauty in everyday life, thinking that \nI'd be disappointed if the world itself didn't shine.",
+            "name": "",
+            "path_id": -6685420335282043493,
+            "block_id": 27,
+            "clip_length": 111,
+            "processed": "<story>I had thought my life was boring. But I never even tried \n<story>to see the beauty in everyday life, thinking that \n<story>I'd be disappointed if the world itself didn't shine."
+        },
+        {
+            "text": "But, there were many wonderful surprises in my life, and I just had \nto look for them. If I did, then my world would definitely shine!",
+            "name": "",
+            "path_id": -7810407840193009979,
+            "block_id": 28,
+            "clip_length": 112,
+            "processed": "<story>But, there were many wonderful surprises in my life, and I just had \n<story>to look for them. If I did, then my world would definitely shine!"
+        },
+        {
+            "text": "Whether your days were exciting or unforgettable, it \nall depended on how you saw it. Even those days I spent \nthinking and worrying about the meaning of Marvelous――",
+            "name": "",
+            "path_id": -8261972714719967671,
+            "block_id": 29,
+            "clip_length": 127,
+            "processed": "<story>Whether your days were exciting or unforgettable, it \n<story>all depended on how you saw it. Even those days I spent \n<story>thinking and worrying about the meaning of Marvelous――"
+        },
+        {
+            "text": "Were fun…… those days after coming to Tracen were fulfilling! \nThe thing I found marvelous――the wonderful surprise, was her!",
+            "name": "",
+            "path_id": 1741470927870474628,
+            "block_id": 30,
+            "clip_length": 116,
+            "processed": "<story>Were fun…… those days after coming to Tracen were fulfilling! \n<story>The thing I found marvelous――the wonderful surprise, was her!"
+        },
+        {
+            "text": "I wanted the world to know about Marvelous Sunday. By \nsupporting her, I wanted her feelings to reach everyone.",
+            "name": "",
+            "path_id": 6128713167645916108,
+            "block_id": 31,
+            "clip_length": 119,
+            "processed": "<story>I wanted the world to know about Marvelous Sunday. By \n<story>supporting her, I wanted her feelings to reach everyone."
+        },
+        {
+            "text": "That the world around you is overflowing \nwith marvelous things. If that's her dream――",
+            "name": "",
+            "path_id": 8533774012788624388,
+            "block_id": 32,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "……Will you let me help with that dream?",
+                    "hash": "6977f02a4f0b07c90a5366b6c9130802227c7ad59ea31d7514782cbc064c6ef5",
+                    "processed": "<size=40>……Will you let me help with that dream?</size>"
+                },
+                {
+                    "text": "……Will you let me help with that dream?",
+                    "hash": "ddb89153c6624cebdd2ee388648c334983021270eb86efab75350fbe4f6d5bc5",
+                    "processed": "<size=40>……Will you let me help with that dream?</size>"
+                }
+            ],
+            "processed": "<story>That the world around you is overflowing \n<story>with marvelous things. If that's her dream――"
+        },
+        {
+            "text": "Trainer is going to help!? But, but, how are you gonna do that!?",
+            "name": "Marvelous Sunday",
+            "path_id": -2125443208277051302,
+            "block_id": 33,
+            "clip_length": 132,
+            "choices": [
+                {
+                    "text": "Let me help with your training",
+                    "hash": "6d910d37d38b2d4b8dc3de81bfc9c59c856659968456d8c452a4c3a5a11fee78"
+                }
+            ],
+            "processed": "<story>Trainer is going to help!? But, but, how are you gonna do that!?"
+        },
+        {
+            "text": "Normally, this kind of talk would be accompanied \nby talks of a contract. But, if she wanted to \nshow everyone that, she couldn't stay as she was.",
+            "name": "",
+            "path_id": 1423420268363126260,
+            "block_id": 34,
+            "clip_length": 120,
+            "processed": "<story>Normally, this kind of talk would be accompanied \n<story>by talks of a contract. But, if she wanted to \n<story>show everyone that, she couldn't stay as she was."
+        },
+        {
+            "text": "First, we need to increase her strength so she \ndoesn't collapse during training. If she wanted to \nshow everyone what Marvelous was, it was necessary.",
+            "name": "",
+            "path_id": 8077220430826511711,
+            "block_id": 35,
+            "clip_length": 115,
+            "processed": "<story>First, we need to increase her strength so she \n<story>doesn't collapse during training. If she wanted to \n<story>show everyone what Marvelous was, it was necessary."
+        },
+        {
+            "text": "Maybe she'd be dissatisfied if she was told to \nhold back. Maybe it would feel a bit like a \ndetour. But, Marvelous Sunday might understand.",
+            "name": "",
+            "path_id": 2960227026697638186,
+            "block_id": 36,
+            "clip_length": 118,
+            "processed": "<story>Maybe she'd be dissatisfied if she was told to \n<story>hold back. Maybe it would feel a bit like a \n<story>detour. But, Marvelous Sunday might understand."
+        },
+        {
+            "text": "After all, even during that rainy day, \nshe was able to find something marvelous――",
+            "name": "",
+            "path_id": 4002683295627722619,
+            "block_id": 37,
+            "clip_length": 94,
+            "processed": "<story>After all, even during that rainy day, \n<story>she was able to find something marvelous――"
+        },
+        {
+            "text": "Eh~, how? If it's raining this hard, we might not be able \nto train tomorrow either, you know? Maya wants to run!",
+            "name": "Mayano Top Gun",
+            "path_id": 4563944165352341397,
+            "block_id": 38,
+            "clip_length": 257,
+            "processed": "<story>Eh~, how? If it's raining this hard, we might not be able \n<story>to train tomorrow either, you know? Maya wants to run!"
+        },
+        {
+            "text": "That's true, if you can't run because it's \nraining, it's boring, huh?☆ But if you wait, \nand wait, and wait a little more for the sun then――",
+            "name": "Marvelous Sunday",
+            "path_id": -5684324107493123455,
+            "block_id": 39,
+            "clip_length": 327,
+            "processed": "<story>That's true, if you can't run because it's \n<story>raining, it's boring, huh?☆ But if you wait, \n<story>and wait, and wait a little more for the sun then――"
+        },
+        {
+            "text": "Maybe by holding back on her desire to run \nduring the rain, it would make the next time \nshe was on the turf that much more exciting.",
+            "name": "",
+            "path_id": -4221190893214050883,
+            "block_id": 40,
+            "clip_length": 112,
+            "processed": "<story>Maybe by holding back on her desire to run \n<story>during the rain, it would make the next time \n<story>she was on the turf that much more exciting."
+        },
+        {
+            "text": "If the Marvelous she mentioned on that day was anything \nlike that, maybe she'd understand what it meant \nto focus on efficiency to get better results later.",
+            "name": "",
+            "path_id": -7353494914647864570,
+            "block_id": 41,
+            "clip_length": 116,
+            "processed": "<story>If the Marvelous she mentioned on that day was anything \n<story>like that, maybe she'd understand what it meant \n<story>to focus on efficiency to get better results later."
+        },
+        {
+            "text": "You'll help me with training!? If you do, will I be \nable to show that special Marvelous to everyone!?",
+            "name": "Marvelous Sunday",
+            "path_id": -6528017396439490267,
+            "block_id": 42,
+            "clip_length": 216,
+            "choices": [
+                {
+                    "text": "You'll be able to for sure!",
+                    "hash": "b5cb4915a77f3de0a34763e0a7cdcc7f9eede7df1873d5a7abe825d900943652"
+                }
+            ],
+            "processed": "<story>You'll help me with training!? If you do, will I be \n<story>able to show that special Marvelous to everyone!?"
+        },
+        {
+            "text": "Her positivity would be a huge asset. If she could focus on \nthat, she should be able to aim higher. Putting it that way――",
+            "name": "",
+            "path_id": 8374537565363529731,
+            "block_id": 43,
+            "clip_length": 121,
+            "processed": "<story>Her positivity would be a huge asset. If she could focus on \n<story>that, she should be able to aim higher. Putting it that way――"
+        },
+        {
+            "text": "Aim higher for a special Marvelous! If I show them that, \nthen more people will realize what Marvelous is, right!?",
+            "name": "Marvelous Sunday",
+            "path_id": 6598052767920416067,
+            "block_id": 44,
+            "clip_length": 276,
+            "processed": "<story>Aim higher for a special Marvelous! If I show them that, \n<story>then more people will realize what Marvelous is, right!?"
+        },
+        {
+            "text": "Trainer! I want everyone to see it☆ \nA special Marvelous that only I can show them★☆★",
+            "name": "Marvelous Sunday",
+            "path_id": -8067485131560382482,
+            "block_id": 45,
+            "clip_length": 258,
+            "processed": "<story>Trainer! I want everyone to see it☆ \n<story>A special Marvelous that only I can show them★☆★"
+        },
+        {
+            "text": "I had Marvelous Sunday take a break――and then several days \nlater. Once again I was on the training course with her.",
+            "name": "",
+            "path_id": 3692728847009539723,
+            "block_id": 46,
+            "clip_length": 108,
+            "processed": "<story>I had Marvelous Sunday take a break――and then several days \n<story>later. Once again I was on the training course with her."
+        },
+        {
+            "text": "Haa……Haa……――Alright! \nOn the next one, I'll use all of――☆",
+            "name": "Marvelous Sunday",
+            "path_id": -1525007624550449336,
+            "block_id": 47,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "Hold on!",
+                    "hash": "476cdd55e7cf314bf178d6aa51c3e4200db536e4cb68e8c20018ea1a8f89d78d"
+                }
+            ],
+            "processed": "<story>Haa……Haa……――Alright! \n<story>On the next one, I'll use all of――☆"
+        },
+        {
+            "text": "If she went all out here, nothing would change. \nThe first thing she needed to learn was to manage her pace.",
+            "name": "",
+            "path_id": 6451849447224596560,
+            "block_id": 48,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "Just maintain your speed for now!",
+                    "hash": "5091666684881f03f7108500463e732398a81bfc56c7aeb14fae49967070cfe6"
+                }
+            ],
+            "processed": "<story>If she went all out here, nothing would change. \n<story>The first thing she needed to learn was to manage her pace."
+        },
+        {
+            "text": "Ah, that's right! ……but, you see Trainer! \nIt's strange, for some reason my heart won't stop beating!",
+            "name": "Marvelous Sunday",
+            "path_id": -7656908778699770204,
+            "block_id": 49,
+            "clip_length": 253,
+            "processed": "<story>Ah, that's right! ……but, you see Trainer! \n<story>It's strange, for some reason my heart won't stop beating!"
+        },
+        {
+            "text": "It just feels like that Marvelous feeling keeps building up☆ \nIf I keep on building this up more and more then――",
+            "name": "Marvelous Sunday",
+            "path_id": 7840399509804338581,
+            "block_id": 50,
+            "clip_length": 276,
+            "choices": [
+                {
+                    "text": "Everyone will see that Marvelous!",
+                    "hash": "a69bb1cbaab6a1c858a4aa02d9c598c7e91346e7c3c04767c3ba42407182dda6"
+                },
+                {
+                    "text": "Everyone will see that Marvelous!",
+                    "hash": "d377aa5b4a019f89ac629fec7fc9949208cbcf0f64888b581517ee93925775cd"
+                }
+            ],
+            "processed": "<story>It just feels like that Marvelous feeling keeps building up☆ \n<story>If I keep on building this up more and more then――"
+        },
+        {
+            "text": "Yeah, you're right! That's why right now……is \nthe time to build up that Marvelous feeling!",
+            "name": "Marvelous Sunday",
+            "path_id": 2619164279138575491,
+            "block_id": 51,
+            "clip_length": 288,
+            "processed": "<story>Yeah, you're right! That's why right now……is \n<story>the time to build up that Marvelous feeling!"
+        },
+        {
+            "text": "――Then, Trainer, I'll be off☆",
+            "name": "Marvelous Sunday",
+            "path_id": 7302182275117654590,
+            "block_id": 52,
+            "clip_length": 99,
+            "processed": "<story>――Then, Trainer, I'll be off☆"
+        },
+        {
+            "text": "Just as I instructed, Marvelous Sunday was \nrunning while maintaining her speed.",
+            "name": "",
+            "path_id": -3347081181684334738,
+            "block_id": 53,
+            "clip_length": 98,
+            "processed": "<story>Just as I instructed, Marvelous Sunday was \n<story>running while maintaining her speed."
+        },
+        {
+            "text": "It seems like even she felt something from this training. \nIn that case, I had high expectations.",
+            "name": "",
+            "path_id": -3389285643581678473,
+            "block_id": 54,
+            "clip_length": 112,
+            "processed": "<story>It seems like even she felt something from this training. \n<story>In that case, I had high expectations."
+        }
+    ],
+    "title": "Gathering Marvelous Feelings☆"
+}

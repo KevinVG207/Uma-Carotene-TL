@@ -1,0 +1,510 @@
+{
+    "type": "story",
+    "row_index": 838,
+    "file_name": "story/data/04/1071/storytimeline_041071007",
+    "hash": "JFBPMBSKGQQADILANHSMJMF2AHW2RCYZ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -604692417033725442,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "The middle of Summer Camp. Mejiro Ardan was in good physical \ncondition, and training was proceeding favorably. Then one day―",
+            "name": "",
+            "path_id": 2791067621214934351,
+            "block_id": 1,
+            "clip_length": 105,
+            "processed": "<story>The middle of Summer Camp. Mejiro Ardan was in good physical \n<story>condition, and training was proceeding favorably. Then one day―"
+        },
+        {
+            "text": "And with that, I look forward to this afternoon. \n \n…Oh?",
+            "name": "Mejiro Ardan",
+            "path_id": 2442157406647103315,
+            "block_id": 2,
+            "clip_length": 179,
+            "processed": "<story>And with that, I look forward to this afternoon. \n<story> \n<story>…Oh?"
+        },
+        {
+            "text": "Ah, you two over there! Are you free tonight? We're planning \na test of courage tonight, so we're looking for participants!",
+            "name": "Horsegirl A",
+            "path_id": 518566369884734177,
+            "block_id": 3,
+            "clip_length": 291,
+            "processed": "<story>Ah, you two over there! Are you free tonight? We're planning \n<story>a test of courage tonight, so we're looking for participants!"
+        },
+        {
+            "text": "Oh, a test of courage? I've heard about them, but I've never \nreally had a chance to participate before.",
+            "name": "Mejiro Ardan",
+            "path_id": -7888573475003328020,
+            "block_id": 4,
+            "clip_length": 302,
+            "processed": "<story>Oh, a test of courage? I've heard about them, but I've never \n<story>really had a chance to participate before."
+        },
+        {
+            "text": "Hey, wait a second! If you ask her so suddenly, it'll trouble \nher you know? I mean… Ardan-senpai, probably wants to take \ncare of her physical condition…!",
+            "name": "Horsegirl B",
+            "path_id": 3461603871209914981,
+            "block_id": 5,
+            "clip_length": 265,
+            "processed": "<story>Hey, wait a second! If you ask her so suddenly, it'll trouble \n<story>her you know? I mean… Ardan-senpai, probably wants to take \n<story>care of her physical condition…!"
+        },
+        {
+            "text": "Oh… thank you for your consideration. There aren't any problems \nwith my physical condition but… let's see…",
+            "name": "Mejiro Ardan",
+            "path_id": 5020483960559611106,
+            "block_id": 6,
+            "clip_length": 309,
+            "processed": "<story>Oh… thank you for your consideration. There aren't any problems \n<story>with my physical condition but… let's see…"
+        },
+        {
+            "text": "It looks like Mejiro Ardan wants to participate but she doesn't \nwant anyone to worry about her. If that's the case―",
+            "name": "",
+            "path_id": 7124589085946097874,
+            "block_id": 7,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "Let's join. I'll be with you so it'll be okay",
+                    "hash": "9ecbe48f55c4a4c702d0236ebd8866478a5479b5c269ec09b91a1a1e76e47982",
+                    "processed": "<size=41>Let's join. I'll be with you so it'll be okay</size>"
+                },
+                {
+                    "text": "Let's join. I'll be with you so it'll be okay",
+                    "hash": "7c46beb020fbd3b5d2372965b3ed641c2923a28036619d4e1726b3a9758f71bb",
+                    "processed": "<size=41>Let's join. I'll be with you so it'll be okay</size>"
+                }
+            ],
+            "processed": "<story>It looks like Mejiro Ardan wants to participate but she doesn't \n<story>want anyone to worry about her. If that's the case―"
+        },
+        {
+            "text": "!! \n \nTrainer-san…",
+            "name": "Mejiro Ardan",
+            "path_id": -2878360300128304445,
+            "block_id": 8,
+            "clip_length": 102,
+            "processed": "<story>!! \n<story> \n<story>Trainer-san…"
+        },
+        {
+            "text": "Got it! But, make sure to take it easy, okay? \nIf you need to leave part way through, that's fine!",
+            "name": "Horsegirl B",
+            "path_id": -7464425772607494767,
+            "block_id": 9,
+            "clip_length": 228,
+            "processed": "<story>Got it! But, make sure to take it easy, okay? \n<story>If you need to leave part way through, that's fine!"
+        },
+        {
+            "text": "And so, we decided to participate in the test of courage, but―",
+            "name": "",
+            "path_id": 8686420443454568260,
+            "block_id": 10,
+            "clip_length": 78,
+            "processed": "<story>And so, we decided to participate in the test of courage, but―"
+        },
+        {
+            "text": "Boooooo～～～!!!!",
+            "name": "Ghost Role Horsegirl A",
+            "path_id": 3542998783626635965,
+            "block_id": 11,
+            "clip_length": 53,
+            "processed": "<story>Boooooo～～～!!!!"
+        },
+        {
+            "text": "KYAAAAA―――!!!! \n \nIYAAAA～～～～～!!!!",
+            "name": "Participants Ahead",
+            "path_id": 6749235719132630911,
+            "block_id": 12,
+            "clip_length": 63,
+            "processed": "<story>KYAAAAA―――!!!! \n<story> \n<story>IYAAAA～～～～～!!!!"
+        },
+        {
+            "text": "We could hear loud screams coming from ahead in the darkness",
+            "name": "",
+            "path_id": 292382540305096045,
+            "block_id": 13,
+            "clip_length": 71,
+            "choices": [
+                {
+                    "text": "Looks like everyone's having fun…",
+                    "hash": "f3964d4595f501f44080eb991f6c4fdc3e2d79a4cdf5940aaec02305c81a2158"
+                },
+                {
+                    "text": "Looks like everyone's having fun…",
+                    "hash": "f354b0d8ec692bda5d82b63212162c9cc5c28a0c8a4d9b1123400c088211e19d"
+                }
+            ],
+            "processed": "<story>We could hear loud screams coming from ahead in the darkness"
+        },
+        {
+            "text": "It really does… Fufuu, to say nothing of the excitement. \nWell then, shall we head off too?",
+            "name": "Mejiro Ardan",
+            "path_id": 4410970970271542733,
+            "block_id": 14,
+            "clip_length": 418,
+            "processed": "<story>It really does… Fufuu, to say nothing of the excitement. \n<story>Well then, shall we head off too?"
+        },
+        {
+            "text": "Booooo～～～～!!!! ……Oh, Ardan-senpai?! \nS-sorry, are you okay?!",
+            "name": "Ghost Role Horsegirl A",
+            "path_id": 2657467055121344675,
+            "block_id": 15,
+            "clip_length": 219,
+            "processed": "<story>Booooo～～～～!!!! ……Oh, Ardan-senpai?! \n<story>S-sorry, are you okay?!"
+        },
+        {
+            "text": "Yes, there are no problems. Thank you for being so conscientious.",
+            "name": "Mejiro Ardan",
+            "path_id": -5603106545381367186,
+            "block_id": 16,
+            "clip_length": 160,
+            "processed": "<story>Yes, there are no problems. Thank you for being so conscientious."
+        },
+        {
+            "text": "I'm～…… gonna～…… curse～… you～…… \n……Senpai～ , please watch your step～.",
+            "name": "Ghost Role Horsegirl B",
+            "path_id": -8029605583781722039,
+            "block_id": 17,
+            "clip_length": 322,
+            "processed": "<story>I'm～…… gonna～…… curse～… you～…… \n<story>……Senpai～ , please watch your step～."
+        },
+        {
+            "text": "Thank you very much. \nYou too, be careful of getting bitten by any insects.",
+            "name": "Mejiro Ardan",
+            "path_id": 8942450219217716043,
+            "block_id": 18,
+            "clip_length": 222,
+            "processed": "<story>Thank you very much. \n<story>You too, be careful of getting bitten by any insects."
+        },
+        {
+            "text": "It's good they're worried about Mejiro Ardan's condition but, they're \nnot really playing their part as a ghost. Like this, I'm wondering \nif she's enjoying it but―",
+            "name": "",
+            "path_id": 5565194445225788675,
+            "block_id": 19,
+            "clip_length": 119,
+            "processed": "<story>It's good they're worried about Mejiro Ardan's condition but, they're \n<story>not really playing their part as a ghost. Like this, I'm wondering \n<story>if she's enjoying it but―"
+        },
+        {
+            "text": "Fufuu… tests of courage, are really interesting, aren't they? \nEveryone's so lively, I'm glad they invited me.",
+            "name": "Mejiro Ardan",
+            "path_id": 8628655401690746504,
+            "block_id": 20,
+            "clip_length": 333,
+            "choices": [
+                {
+                    "text": "You look like you're having fun too",
+                    "hash": "247afda06154dcfdd3f24ea072c647a1cf8d295dde68748e552630a6b3ee5691"
+                },
+                {
+                    "text": "You look like you're having fun too",
+                    "hash": "b6cfbe03772595d975de662ff4e1f7ca42fd9698965f4e07d5b3f802cd661187"
+                }
+            ],
+            "processed": "<story>Fufuu… tests of courage, are really interesting, aren't they? \n<story>Everyone's so lively, I'm glad they invited me."
+        },
+        {
+            "text": "Yes, I'm thrilled. After all―",
+            "name": "Mejiro Ardan",
+            "path_id": -8202297815268054804,
+            "block_id": 21,
+            "clip_length": 177,
+            "processed": "<story>Yes, I'm thrilled. After all―"
+        },
+        {
+            "text": "Following a dark path as a pair…… trying to find ghosts. \nIt's much like that play we saw together a little while ago.",
+            "name": "Mejiro Ardan",
+            "path_id": 6495808871312399968,
+            "block_id": 22,
+            "clip_length": 335,
+            "processed": "<story>Following a dark path as a pair…… trying to find ghosts. \n<story>It's much like that play we saw together a little while ago."
+        },
+        {
+            "text": "Look there, friend. Surely that, is the cursed castle that only \nappears at night! How imposing it seems…",
+            "name": "Knight A",
+            "path_id": 1432510264376194279,
+            "block_id": 23,
+            "clip_length": 293,
+            "processed": "<story>Look there, friend. Surely that, is the cursed castle that only \n<story>appears at night! How imposing it seems…"
+        },
+        {
+            "text": "A g-g-g-ghost?!",
+            "name": "The 2 Knights",
+            "path_id": 3334603733216498279,
+            "block_id": 24,
+            "clip_length": 52,
+            "processed": "<story>A g-g-g-ghost?!"
+        },
+        {
+            "text": "Maybe it's because it's dark, but when I think back, it was \nsupposed to be a comedy but, it seemed to suddenly head \nin an ominous direction…",
+            "name": "",
+            "path_id": 11895085692792950,
+            "block_id": 25,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "I-I'm starting to get a little nervous. Maybe…",
+                    "hash": "48f0c9b91f7a484920505c8a782dcb55b67382910d3c73485dabcc3938d36ed5",
+                    "processed": "<size=37>I-I'm starting to get a little nervous. Maybe…</size>"
+                }
+            ],
+            "processed": "<story>Maybe it's because it's dark, but when I think back, it was \n<story>supposed to be a comedy but, it seemed to suddenly head \n<story>in an ominous direction…"
+        },
+        {
+            "text": "…But, there was no response to those words. Mejiro Ardan, \nwho was supposed to be next to me, was nowhere to be seen.",
+            "name": "",
+            "path_id": -4559681808516313056,
+            "block_id": 26,
+            "clip_length": 98,
+            "processed": "<story>…But, there was no response to those words. Mejiro Ardan, \n<story>who was supposed to be next to me, was nowhere to be seen."
+        },
+        {
+            "text": "I started walking quickly while looking around, but couldn't find her―",
+            "name": "",
+            "path_id": 2998899511081245130,
+            "block_id": 27,
+            "clip_length": 82,
+            "choices": [
+                {
+                    "text": "……Ardan?",
+                    "hash": "af39a8b905daa422a9fe956840531de9127059c362c306b0031d8b45be914b4d"
+                }
+            ],
+            "processed": "<story>I started walking quickly while looking around, but couldn't find her―"
+        },
+        {
+            "text": "-Waaa!!!!",
+            "name": "???",
+            "path_id": 3623909986986326717,
+            "block_id": 28,
+            "clip_length": 25,
+            "choices": [
+                {
+                    "text": "Uwaaaaah!",
+                    "hash": "c40f18e460d68ebec85e3b6f608564c471fa894a5fab9c4b4c06dee7fe9f28d9"
+                }
+            ],
+            "processed": "<story>-Waaa!!!!"
+        },
+        {
+            "text": "Oh……! Fufuu, fufufufu, what a loud cry.",
+            "name": "Mejiro Ardan",
+            "path_id": 1608848943591076394,
+            "block_id": 29,
+            "clip_length": 188,
+            "processed": "<story>Oh……! Fufuu, fufufufu, what a loud cry."
+        },
+        {
+            "text": "Fuu… I apologize for that. While we were talking, I thought it \nwould be fun to try being the ghost… so I couldn't help myself.",
+            "name": "Mejiro Ardan",
+            "path_id": 359702370274458710,
+            "block_id": 30,
+            "clip_length": 327,
+            "choices": [
+                {
+                    "text": "Next time, I'll be the one to scare you!",
+                    "hash": "ed470943cef31f3796935a12a14b690b6e04177347aefa2824237b06166c8e91",
+                    "processed": "<size=43>Next time, I'll be the one to scare you!</size>"
+                },
+                {
+                    "text": "Next time, I'll be the one to scare you!",
+                    "hash": "a541b92b8b9fe3a5416ffb641fed6499b45dc78ae36e3d19eb35390e262d4181",
+                    "processed": "<size=43>Next time, I'll be the one to scare you!</size>"
+                }
+            ],
+            "processed": "<story>Fuu… I apologize for that. While we were talking, I thought it \n<story>would be fun to try being the ghost… so I couldn't help myself."
+        },
+        {
+            "text": "Oh my, then I look forward to seeing what you can do～",
+            "name": "Mejiro Ardan",
+            "path_id": -3696315945328430511,
+            "block_id": 31,
+            "clip_length": 121,
+            "processed": "<story>Oh my, then I look forward to seeing what you can do～"
+        },
+        {
+            "text": "That was a very worthwhile event, wasn't it? \nIt's unfortunate we couldn't find any ghosts or that castle though.",
+            "name": "Mejiro Ardan",
+            "path_id": -3565483983946015893,
+            "block_id": 32,
+            "clip_length": 261,
+            "choices": [
+                {
+                    "text": "I couldn't scare you either.",
+                    "hash": "a29680a1951bdf1c2c746b525b88868d86b76d79d94211dcc00229d1966265f5"
+                }
+            ],
+            "processed": "<story>That was a very worthwhile event, wasn't it? \n<story>It's unfortunate we couldn't find any ghosts or that castle though."
+        },
+        {
+            "text": "Fufuu. Things like hiding and letting out a loud voice, \nit was fun seeing all the things you thought of.",
+            "name": "Mejiro Ardan",
+            "path_id": 6658441421049982925,
+            "block_id": 33,
+            "clip_length": 278,
+            "processed": "<story>Fufuu. Things like hiding and letting out a loud voice, \n<story>it was fun seeing all the things you thought of."
+        },
+        {
+            "text": "Returning to childhood… maybe that's the kind of thing \nthey're talking about. When I'm with Trainer-san, it feels \nlike I can relax a bit easier.",
+            "name": "Mejiro Ardan",
+            "path_id": 4998765267998559015,
+            "block_id": 34,
+            "clip_length": 375,
+            "processed": "<story>Returning to childhood… maybe that's the kind of thing \n<story>they're talking about. When I'm with Trainer-san, it feels \n<story>like I can relax a bit easier."
+        },
+        {
+            "text": "Fuu…",
+            "name": "Mejiro Ardan",
+            "path_id": 299234411698054540,
+            "block_id": 35,
+            "clip_length": 49,
+            "choices": [
+                {
+                    "text": "If you're tired, we can take a break.",
+                    "hash": "c1980e7c600a105fe12e1ef0d57d19f3b3cbecaabe4a2bae6b0e80e5e875130f"
+                }
+            ],
+            "processed": "<story>Fuu…"
+        },
+        {
+            "text": "I'm fine, I'm not very tired―",
+            "name": "Mejiro Ardan",
+            "path_id": -3713532049335612053,
+            "block_id": 36,
+            "clip_length": 105,
+            "processed": "<story>I'm fine, I'm not very tired―"
+        },
+        {
+            "text": "…… \n \nNo, maybe it would be fine to take a little break, right?",
+            "name": "Mejiro Ardan",
+            "path_id": -8118446672121076686,
+            "block_id": 37,
+            "clip_length": 317,
+            "processed": "<story>…… \n<story> \n<story>No, maybe it would be fine to take a little break, right?"
+        },
+        {
+            "text": "There's training tomorrow after all… what should we do about \nthe menu? Today it seems like we're staying up a bit late…",
+            "name": "Mejiro Ardan",
+            "path_id": 43492880310092006,
+            "block_id": 38,
+            "clip_length": 375,
+            "choices": [
+                {
+                    "text": "Tomorrow, I plan to have you train hard.",
+                    "hash": "9c396b6fc6fe03702fcb428dc2b3ccd9d382025d74ed67eb66a133b47b486357",
+                    "processed": "<size=41>Tomorrow, I plan to have you train hard.</size>"
+                }
+            ],
+            "processed": "<story>There's training tomorrow after all… what should we do about \n<story>the menu? Today it seems like we're staying up a bit late…"
+        },
+        {
+            "text": "……! Okay, I understand.",
+            "name": "Mejiro Ardan",
+            "path_id": -6248529723033990562,
+            "block_id": 39,
+            "clip_length": 174,
+            "choices": [
+                {
+                    "text": "Are you perhaps, happy?",
+                    "hash": "eb2895405b5ece583fc3e000ed5812d7569fd99753b3982ec7213edd8d6235b7"
+                }
+            ],
+            "processed": "<story>……! Okay, I understand."
+        },
+        {
+            "text": "Fufuu, yes. Probably more so than Trainer-san thinks.",
+            "name": "Mejiro Ardan",
+            "path_id": 9180134456783532737,
+            "block_id": 40,
+            "clip_length": 277,
+            "processed": "<story>Fufuu, yes. Probably more so than Trainer-san thinks."
+        },
+        {
+            "text": "You've accepted that I want to do all that I can. \n…There's someone who understands me.",
+            "name": "Mejiro Ardan",
+            "path_id": -6946959547221614371,
+            "block_id": 41,
+            "clip_length": 281,
+            "processed": "<story>You've accepted that I want to do all that I can. \n<story>…There's someone who understands me."
+        },
+        {
+            "text": "You have no idea how reassuring that is. That's why, I―",
+            "name": "Mejiro Ardan",
+            "path_id": 8200795515574678480,
+            "block_id": 42,
+            "clip_length": 239,
+            "processed": "<story>You have no idea how reassuring that is. That's why, I―"
+        },
+        {
+            "text": "…Trainer-san, do you remember? \nBefore, how you said that it was fine if I wanted to be pampered?",
+            "name": "Mejiro Ardan",
+            "path_id": -3480360396776444958,
+            "block_id": 43,
+            "clip_length": 362,
+            "processed": "<story>…Trainer-san, do you remember? \n<story>Before, how you said that it was fine if I wanted to be pampered?"
+        },
+        {
+            "text": "Trainer-san, I'll promise not to push myself too hard when \nyou're around, so please, rest assured.",
+            "name": "Mejiro Ardan",
+            "path_id": -6582173385195538334,
+            "block_id": 44,
+            "clip_length": 240,
+            "processed": "<story>Trainer-san, I'll promise not to push myself too hard when \n<story>you're around, so please, rest assured."
+        },
+        {
+            "text": "Got it. When you feel like being pampered, let me know.",
+            "name": "",
+            "path_id": -4343937641171704512,
+            "block_id": 45,
+            "clip_length": 72,
+            "processed": "<story>Got it. When you feel like being pampered, let me know."
+        },
+        {
+            "text": "Got it. When you feel like being pampered, let me know.",
+            "name": "",
+            "path_id": 7033434688647508968,
+            "block_id": 46,
+            "clip_length": 72,
+            "processed": "<story>Got it. When you feel like being pampered, let me know."
+        },
+        {
+            "text": "Trainer-san, you said when I was with you, I could relax \na bit more, didn't you?",
+            "name": "Mejiro Ardan",
+            "path_id": 2870744416470128817,
+            "block_id": 47,
+            "clip_length": 198,
+            "choices": [
+                {
+                    "text": "Of course, I remember.",
+                    "hash": "a52bb623a7338467442727c1757a878764e1b77aa1c3f88b99f90809fc9311c6"
+                }
+            ],
+            "processed": "<story>Trainer-san, you said when I was with you, I could relax \n<story>a bit more, didn't you?"
+        },
+        {
+            "text": "Then… could I borrow your shoulder for a bit… \nFor some reason, the sound of the waves is very calming―",
+            "name": "Mejiro Ardan",
+            "path_id": -7804142381958877405,
+            "block_id": 48,
+            "clip_length": 331,
+            "processed": "<story>Then… could I borrow your shoulder for a bit… \n<story>For some reason, the sound of the waves is very calming―"
+        },
+        {
+            "text": "<i>A gentle sound… I might fall asleep just like this… \n…Yes, it would probably be fine even if I did.</i>",
+            "name": "Mejiro Ardan",
+            "path_id": -3884691050040569241,
+            "block_id": 49,
+            "clip_length": 390,
+            "processed": "<story><i>A gentle sound… I might fall asleep just like this… \n<story>…Yes, it would probably be fine even if I did.</i>"
+        },
+        {
+            "text": "<i>Looking at \"the Me, right now\", this must be… the place… I want to be.</i>",
+            "name": "Mejiro Ardan",
+            "path_id": -1062023304600291201,
+            "block_id": 50,
+            "clip_length": 348,
+            "processed": "<story><i>Looking at \"the Me, right now\", this must be… the place… I want to be.</i>"
+        }
+    ],
+    "title": "A Brief Respite"
+}

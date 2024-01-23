@@ -1,0 +1,365 @@
+{
+    "type": "story",
+    "row_index": 190734,
+    "file_name": "story/data/04/1077/storytimeline_041077005",
+    "hash": "BKH7CNIJIVSNYABWGZYQT5U6U3HX6KY4",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 419478675375565329,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Haa, haa……I need to hurry, otherwise the teacher will get mad~! \nOf all times, it had to be my turn to take the trash out……!",
+            "name": "Classmate Uma Musume",
+            "path_id": 1354245854841460590,
+            "block_id": 1,
+            "clip_length": 266,
+            "processed": "<story>Haa, haa……I need to hurry, otherwise the teacher will get mad~! \n<story>Of all times, it had to be my turn to take the trash out……!",
+            "name_processed": "<sc=96>Classmate Uma Musume"
+        },
+        {
+            "text": "Wah! ……Whoa. What's wrong? \nYou look really worried.",
+            "name": "Narita Top Road",
+            "path_id": -4360301474889053207,
+            "block_id": 2,
+            "clip_length": 160,
+            "processed": "<story>Wah! ……Whoa. What's wrong? \n<story>You look really worried."
+        },
+        {
+            "text": "Class Rep Top Road! Sorry, I was in a hurry…… \nEarlier, the teacher called for me since I have an interview soon……",
+            "name": "Classmate Uma Musume",
+            "path_id": 291742859943617135,
+            "block_id": 3,
+            "clip_length": 214,
+            "processed": "<story>Class Rep Top Road! Sorry, I was in a hurry…… \n<story>Earlier, the teacher called for me since I have an interview soon……",
+            "name_processed": "<sc=96>Classmate Uma Musume"
+        },
+        {
+            "text": "Ah, in that case, I'll throw the trash away! \nGo ahead and head to the teacher!",
+            "name": "Narita Top Road",
+            "path_id": -4930178594939459586,
+            "block_id": 4,
+            "clip_length": 188,
+            "processed": "<story>Ah, in that case, I'll throw the trash away! \n<story>Go ahead and head to the teacher!"
+        },
+        {
+            "text": "Eh!? ……Really? Then……can I ask you to do it? \nI'll definitely make it up to you later!",
+            "name": "Classmate Uma Musume",
+            "path_id": -2164225308964726318,
+            "block_id": 5,
+            "clip_length": 291,
+            "processed": "<story>Eh!? ……Really? Then……can I ask you to do it? \n<story>I'll definitely make it up to you later!",
+            "name_processed": "<sc=96>Classmate Uma Musume"
+        },
+        {
+            "text": "Ahaha, you don't need to thank me. Something like this'll \nbe over in an instant! Do your best in the interview!",
+            "name": "Narita Top Road",
+            "path_id": -2003200419331267387,
+            "block_id": 6,
+            "clip_length": 245,
+            "choices": [
+                {
+                    "text": "(She's being relied on again, huh)",
+                    "hash": "1876b3ac60fd4b51122709b1ee73695836976132f2590421aadd05a70b16d1bd"
+                },
+                {
+                    "text": "(She's being relied on again, huh)",
+                    "hash": "c2e778dd794d9a922d31db2858c82d7c17ca5d4620feb74a434be1c559626e79"
+                }
+            ],
+            "processed": "<story>Ahaha, you don't need to thank me. Something like this'll \n<story>be over in an instant! Do your best in the interview!"
+        },
+        {
+            "text": "While I was working, I overheard the conversation \noutside my window. And it made me smile.",
+            "name": "",
+            "path_id": 362957302419052115,
+            "block_id": 7,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "(I'll work hard too!)",
+                    "hash": "4125efeb446c8803f841fd862811d204958cff6954edaf69654f8d1c8877728e"
+                },
+                {
+                    "text": "(I'll work hard too!)",
+                    "hash": "c860dc071e7911c16aa032a2b1faa5d78c26d2ce945026990912d9f5b1bc8e87"
+                }
+            ],
+            "processed": "<story>While I was working, I overheard the conversation \n<story>outside my window. And it made me smile."
+        },
+        {
+            "text": "I turned back to the paperwork that I was working on. \nWhen I finished, I headed out on to the grounds.",
+            "name": "",
+            "path_id": -5549727825249728621,
+            "block_id": 8,
+            "clip_length": 105,
+            "processed": "<story>I turned back to the paperwork that I was working on. \n<story>When I finished, I headed out on to the grounds."
+        },
+        {
+            "text": "However, when I passed by the garbage area――",
+            "name": "",
+            "path_id": -6695925775039060077,
+            "block_id": 9,
+            "clip_length": 73,
+            "choices": [
+                {
+                    "text": "(Huh……?)",
+                    "hash": "59078b44362d807efe4a1d6b7e91e266d3ffe68a9313a89b809b21b85fa209f5"
+                }
+            ],
+            "processed": "<story>However, when I passed by the garbage area――"
+        },
+        {
+            "text": "Narita Top Road was standing there. There were \nseveral crows gathered around the bird net \nthat prevented them from getting to the garbage.",
+            "name": "",
+            "path_id": -6760894781342618659,
+            "block_id": 10,
+            "clip_length": 120,
+            "processed": "<story>Narita Top Road was standing there. There were \n<story>several crows gathered around the bird net \n<story>that prevented them from getting to the garbage."
+        },
+        {
+            "text": "…………Don't look at them, ignore them. \nApproach quietly……and then just leave……!",
+            "name": "Narita Top Road",
+            "path_id": -6172272579273967708,
+            "block_id": 11,
+            "clip_length": 291,
+            "processed": "<story>…………Don't look at them, ignore them. \n<story>Approach quietly……and then just leave……!"
+        },
+        {
+            "text": "Caaaaw.",
+            "name": "Crow",
+            "path_id": 820676751611345577,
+            "block_id": 12,
+            "clip_length": 48,
+            "processed": "<story>Caaaaw."
+        },
+        {
+            "text": "Uwaaah!!",
+            "name": "Narita Top Road",
+            "path_id": 353886223971876033,
+            "block_id": 13,
+            "clip_length": 45,
+            "processed": "<story>Uwaaah!!"
+        },
+        {
+            "text": "…………Uuuuh………… …………",
+            "name": "Narita Top Road",
+            "path_id": 4144860006890574832,
+            "block_id": 14,
+            "clip_length": 119,
+            "processed": "<story>…………Uuuuh………… …………"
+        },
+        {
+            "text": "……Huuuuuーーー…………it's fine, it's fine……",
+            "name": "Narita Top Road",
+            "path_id": -3842857692690366120,
+            "block_id": 15,
+            "clip_length": 190,
+            "processed": "<story>……Huuuuuーーー…………it's fine, it's fine……"
+        },
+        {
+            "text": "Caaaaaaaaw.",
+            "name": "Crow",
+            "path_id": 2388124873416759731,
+            "block_id": 16,
+            "clip_length": 48,
+            "processed": "<story>Caaaaaaaaw."
+        },
+        {
+            "text": "Hiiii!! \n……~~~~~~",
+            "name": "Narita Top Road",
+            "path_id": -9023198993071713904,
+            "block_id": 17,
+            "clip_length": 129,
+            "choices": [
+                {
+                    "text": "Are you……bad with crows?",
+                    "hash": "a9241bd957b846a6d7e4597577aafa496e3c823f97b90b12629fbcb677535b1a"
+                },
+                {
+                    "text": "Are you……bad with crows?",
+                    "hash": "45cfa08e305cd4c173ac9363976ce4f6681ee95a2204ecff94466e94022862a7"
+                }
+            ],
+            "processed": "<story>Hiiii!! \n<story>……~~~~~~"
+        },
+        {
+            "text": "Ah, T-Trainer-san……",
+            "name": "Narita Top Road",
+            "path_id": -7851220001342829875,
+            "block_id": 18,
+            "clip_length": 107,
+            "processed": "<story>Ah, T-Trainer-san……"
+        },
+        {
+            "text": "Um, well yeah……when I was a kid, one of them scared me…… \nEven now, I still get reminded of that time……",
+            "name": "Narita Top Road",
+            "path_id": 8209872746366433499,
+            "block_id": 19,
+            "clip_length": 289,
+            "processed": "<story>Um, well yeah……when I was a kid, one of them scared me…… \n<story>Even now, I still get reminded of that time……"
+        },
+        {
+            "text": "……But when it comes to crows, I can't help it though……",
+            "name": "Narita Top Road",
+            "path_id": -4058926383584931277,
+            "block_id": 20,
+            "clip_length": 144,
+            "choices": [
+                {
+                    "text": "――I'll do it for you then",
+                    "hash": "ae7837c3e4d7ce101da1ba073b5778cf298ddabc03e745ab189df55401496d3b"
+                }
+            ],
+            "processed": "<story>……But when it comes to crows, I can't help it though……"
+        },
+        {
+            "text": "Eh? You don't need to, I'd feel bad!",
+            "name": "Narita Top Road",
+            "path_id": -4568115492703094841,
+            "block_id": 21,
+            "clip_length": 84,
+            "choices": [
+                {
+                    "text": "I'm fine with crows. Let me do it.",
+                    "hash": "0ed7851b681a4c36b847110c8c20be1105576ed494511d2b5f58491db6b6bed3"
+                },
+                {
+                    "text": "I'm fine with crows. Let me do it.",
+                    "hash": "dbc3a4f9fbe3bb21dc507f3e45465d0e65741df6979f77ea612c026e8c7a8541"
+                }
+            ],
+            "processed": "<story>Eh? You don't need to, I'd feel bad!"
+        },
+        {
+            "text": "……You really helped me out. \nReally, thank you for that.",
+            "name": "Narita Top Road",
+            "path_id": -4028729268459234861,
+            "block_id": 22,
+            "clip_length": 159,
+            "processed": "<story>……You really helped me out. \n<story>Really, thank you for that."
+        },
+        {
+            "text": "Aaah~, I'm pathetic! If you hadn't come, \nI'd probably still……really, really, thanks alot!",
+            "name": "Narita Top Road",
+            "path_id": -6117484975019402141,
+            "block_id": 23,
+            "clip_length": 264,
+            "choices": [
+                {
+                    "text": "This isn't a big deal though……",
+                    "hash": "02aa20ade7f467ca67e1cef74a3f0f1bce2bfba1bcf5a23e18ee240c7f66ba30"
+                }
+            ],
+            "processed": "<story>Aaah~, I'm pathetic! If you hadn't come, \n<story>I'd probably still……really, really, thanks alot!"
+        },
+        {
+            "text": "While it was praiseworthy that she was doing something \nthat was left to her and trying to deal with something \nshe was bad with, seeing how she was earlier……",
+            "name": "",
+            "path_id": 365635068693454110,
+            "block_id": 24,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "Couldn't you ask someone else?",
+                    "hash": "c24497958b54e9826e722daa013b2cd6724d9cdfcbf2bf1b6c4dbf16f4aa34fc"
+                }
+            ],
+            "processed": "<story>While it was praiseworthy that she was doing something \n<story>that was left to her and trying to deal with something \n<story>she was bad with, seeing how she was earlier……"
+        },
+        {
+            "text": "……Well, it was a task I had accepted. \nI thought I needed to see it through to the end.",
+            "name": "Narita Top Road",
+            "path_id": -5349761194864977870,
+            "block_id": 25,
+            "clip_length": 192,
+            "choices": [
+                {
+                    "text": "But the crows were unexpected, right?",
+                    "hash": "1c4e5998878591594232eb71a776cfb91bfd7a1c1a5bc37ffc73c3eecd9a064c",
+                    "processed": "<size=43>But the crows were unexpected, right?</size>"
+                },
+                {
+                    "text": "But the crows were unexpected, right?",
+                    "hash": "6bbbb4782d57a6a9ceb77af0f5509bdd98c85fa633d2d44a5bf7ad323b86d968",
+                    "processed": "<size=43>But the crows were unexpected, right?</size>"
+                }
+            ],
+            "processed": "<story>……Well, it was a task I had accepted. \n<story>I thought I needed to see it through to the end."
+        },
+        {
+            "text": "Well, yeah……even so, \nI couldn't just leave the trash somewhere else.",
+            "name": "Narita Top Road",
+            "path_id": -7525597385570546787,
+            "block_id": 26,
+            "clip_length": 196,
+            "processed": "<story>Well, yeah……even so, \n<story>I couldn't just leave the trash somewhere else."
+        },
+        {
+            "text": "And besides, the girl who left it to me, \nI think she believed that I'd see it through to the end.",
+            "name": "Narita Top Road",
+            "path_id": 3359363118415506503,
+            "block_id": 27,
+            "clip_length": 205,
+            "processed": "<story>And besides, the girl who left it to me, \n<story>I think she believed that I'd see it through to the end."
+        },
+        {
+            "text": "――In which case, I wanted to live up to those expectations.",
+            "name": "Narita Top Road",
+            "path_id": 8658215596067615998,
+            "block_id": 28,
+            "clip_length": 99,
+            "processed": "<story>――In which case, I wanted to live up to those expectations."
+        },
+        {
+            "text": "No matter how difficult or troublesome. \nI think that's the duty of someone who's being relied upon!",
+            "name": "Narita Top Road",
+            "path_id": 8681484955015549330,
+            "block_id": 29,
+            "clip_length": 194,
+            "processed": "<story>No matter how difficult or troublesome. \n<story>I think that's the duty of someone who's being relied upon!"
+        },
+        {
+            "text": "Living up to expectations makes it all worthwhile!",
+            "name": "Narita Top Road",
+            "path_id": 5723152022316390495,
+            "block_id": 30,
+            "clip_length": 107,
+            "processed": "<story>Living up to expectations makes it all worthwhile!"
+        },
+        {
+            "text": "……though, I guess it's not very convincing when you had to come help me.",
+            "name": "Narita Top Road",
+            "path_id": 7764271716663791312,
+            "block_id": 31,
+            "clip_length": 216,
+            "choices": [
+                {
+                    "text": "No, I think it's a great mindset",
+                    "hash": "d7f4d55a81e2dc7499878dcf16c4ab6035d022adf7b87c7b3f682fbd0f152e45"
+                }
+            ],
+            "processed": "<story>……though, I guess it's not very convincing when you had to come help me."
+        },
+        {
+            "text": "Thanks alot. \nSo I'm not just all talk, I'll do my best!",
+            "name": "Narita Top Road",
+            "path_id": -4581134358058537599,
+            "block_id": 32,
+            "clip_length": 185,
+            "processed": "<story>Thanks alot. \n<story>So I'm not just all talk, I'll do my best!"
+        },
+        {
+            "text": "She had a strong sense of responsibility and \ndesire to improve. While that was a good thing―― \nI did wish she'd rely on others a little more.",
+            "name": "",
+            "path_id": -5591673875781403411,
+            "block_id": 33,
+            "clip_length": 120,
+            "processed": "<story>She had a strong sense of responsibility and \n<story>desire to improve. While that was a good thing―― \n<story>I did wish she'd rely on others a little more."
+        }
+    ],
+    "title": "An Ominous Shadow On The Road"
+}

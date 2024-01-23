@@ -1,0 +1,533 @@
+{
+    "type": "story",
+    "row_index": 15694,
+    "file_name": "story/data/04/1034/storytimeline_041034006",
+    "hash": "6SUVVPGXZVTWXX2W2O3VFQ3LLVMYRVRV",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 9132449418475249403,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "A day off. For Inari One's training, I was out gathering some \nnecessary materials―",
+            "name": "",
+            "path_id": 3656041123030426115,
+            "block_id": 1,
+            "clip_length": 89,
+            "processed": "<story>A day off. For Inari One's training, I was out gathering some \n<story>necessary materials―"
+        },
+        {
+            "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?",
+            "name": "Inari One",
+            "path_id": -8625541239817689743,
+            "block_id": 2,
+            "clip_length": 155,
+            "choices": [
+                {
+                    "text": "Inari, you too?",
+                    "hash": "97ab4c9fb91882628a3a76e75363b3ebb6e8801a36a352cba6dc0cce1bc4a2d5"
+                }
+            ],
+            "processed": "<story>Boss, what a coincidence! \n<story>What's up, out shoppin' alone?"
+        },
+        {
+            "text": "Boss, what a coincidence! \nWhat's up, out shoppin' alone?",
+            "name": "Inari One",
+            "path_id": -2874215351738679177,
+            "block_id": 3,
+            "clip_length": 155,
+            "choices": [
+                {
+                    "text": "Inari, you too?",
+                    "hash": "97ab4c9fb91882628a3a76e75363b3ebb6e8801a36a352cba6dc0cce1bc4a2d5"
+                }
+            ],
+            "processed": "<story>Boss, what a coincidence! \n<story>What's up, out shoppin' alone?"
+        },
+        {
+            "text": "Nah, the followers are gonna be comin' here to visit soon, so I'm \ngoin' around to the shops. Was thinkin' I could guide them around.",
+            "name": "Inari One",
+            "path_id": -4779978461948581668,
+            "block_id": 4,
+            "clip_length": 266,
+            "processed": "<story>Nah, the followers are gonna be comin' here to visit soon, so I'm \n<story>goin' around to the shops. Was thinkin' I could guide them around."
+        },
+        {
+            "text": "But, there's too many fancy stores around! I really wanna make a \ndecision, but there are way too many options!",
+            "name": "Inari One",
+            "path_id": -1727009460196733810,
+            "block_id": 5,
+            "clip_length": 259,
+            "processed": "<story>But, there's too many fancy stores around! I really wanna make a \n<story>decision, but there are way too many options!"
+        },
+        {
+            "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!",
+            "name": "Inari One",
+            "path_id": -5140954834347449264,
+            "block_id": 6,
+            "clip_length": 291,
+            "choices": [
+                {
+                    "text": "I'll guide you",
+                    "hash": "6fe800a32d70d02c1cf119abd4d9da121cb77b511975ed3ab6f32e6a6a445e12"
+                }
+            ],
+            "processed": "<story>……That's it! Can't go wrong with Boss' sense! \n<story>If you've got any recommendations, can ya tell me?!"
+        },
+        {
+            "text": "……That's it! Can't go wrong with Boss' sense! \nIf you've got any recommendations, can ya tell me?!",
+            "name": "Inari One",
+            "path_id": -7015680514322249683,
+            "block_id": 7,
+            "clip_length": 291,
+            "choices": [
+                {
+                    "text": "I'll guide you",
+                    "hash": "6fe800a32d70d02c1cf119abd4d9da121cb77b511975ed3ab6f32e6a6a445e12"
+                }
+            ],
+            "processed": "<story>……That's it! Can't go wrong with Boss' sense! \n<story>If you've got any recommendations, can ya tell me?!"
+        },
+        {
+            "text": "Oh, thanks! I'm leavin' it to you, Boss!",
+            "name": "Inari One",
+            "path_id": 7897717355535435797,
+            "block_id": 8,
+            "clip_length": 107,
+            "processed": "<story>Oh, thanks! I'm leavin' it to you, Boss!"
+        },
+        {
+            "text": "Oh, thanks! I'm leavin' it to you, Boss!",
+            "name": "Inari One",
+            "path_id": -2610423319886337192,
+            "block_id": 9,
+            "clip_length": 107,
+            "processed": "<story>Oh, thanks! I'm leavin' it to you, Boss!"
+        },
+        {
+            "text": "What the heck's with this flashy parfait!? It \neven has a really colorful flower on top of it……Ha～! \nSo this is what they call a flourish!",
+            "name": "Inari One",
+            "path_id": -8911083225197166811,
+            "block_id": 10,
+            "clip_length": 299,
+            "processed": "<story>What the heck's with this flashy parfait!? It \n<story>even has a really colorful flower on top of it……Ha～! \n<story>So this is what they call a flourish!"
+        },
+        {
+            "text": "Oooh!? Everyone's walkin' around in their swimsuits, \nhuh!? And over there, they're dancin'……how nice, \nit's almost like a festival!",
+            "name": "Inari One",
+            "path_id": 6347311916446482048,
+            "block_id": 11,
+            "clip_length": 328,
+            "processed": "<story>Oooh!? Everyone's walkin' around in their swimsuits, \n<story>huh!? And over there, they're dancin'……how nice, \n<story>it's almost like a festival!"
+        },
+        {
+            "text": "Oh, billiards, right!? I've seen it before! \nHow 'bout it, let's have a one round match!",
+            "name": "Inari One",
+            "path_id": 5742018304357924929,
+            "block_id": 12,
+            "clip_length": 234,
+            "processed": "<story>Oh, billiards, right!? I've seen it before! \n<story>How 'bout it, let's have a one round match!"
+        },
+        {
+            "text": "There's a bunch of stylish stuff here too, huh. \n……Oh, what's that over there?",
+            "name": "Inari One",
+            "path_id": 2137637941066763010,
+            "block_id": 13,
+            "clip_length": 181,
+            "processed": "<story>There's a bunch of stylish stuff here too, huh. \n<story>……Oh, what's that over there?"
+        },
+        {
+            "text": "I'm gonna go take a quick look over there!",
+            "name": "Inari One",
+            "path_id": -3551436830839731149,
+            "block_id": 14,
+            "clip_length": 74,
+            "processed": "<story>I'm gonna go take a quick look over there!"
+        },
+        {
+            "text": "Inari One was always worrying about everyone else. \nWhile looking at anything that caught her interest, \nshe headed deeper in to the store.",
+            "name": "",
+            "path_id": -823784021627592622,
+            "block_id": 15,
+            "clip_length": 106,
+            "processed": "<story>Inari One was always worrying about everyone else. \n<story>While looking at anything that caught her interest, \n<story>she headed deeper in to the store."
+        },
+        {
+            "text": "Since it seems like her 『followers』 were coming this time, it was \na chance to relax, so hopefully she would take it easy.",
+            "name": "",
+            "path_id": -3415150583158806768,
+            "block_id": 16,
+            "clip_length": 107,
+            "processed": "<story>Since it seems like her 『followers』 were coming this time, it was \n<story>a chance to relax, so hopefully she would take it easy."
+        },
+        {
+            "text": "Until Inari One returned, I stayed nearby waiting―",
+            "name": "",
+            "path_id": 51476013133022758,
+            "block_id": 17,
+            "clip_length": 78,
+            "processed": "<story>Until Inari One returned, I stayed nearby waiting―"
+        },
+        {
+            "text": "Like I said, when I got home and opened it, it was broken! \nIt should be fine to exchange it, right?",
+            "name": "Male Customer",
+            "path_id": 7389225993231128443,
+            "block_id": 18,
+            "clip_length": 197,
+            "processed": "<story>Like I said, when I got home and opened it, it was broken! \n<story>It should be fine to exchange it, right?"
+        },
+        {
+            "text": "However, if there were no problems when it was wrapped up, \nwell……then perhaps it bumped in to something along the way?",
+            "name": "General Store Clerk",
+            "path_id": 1104023257049766646,
+            "block_id": 19,
+            "clip_length": 289,
+            "processed": "<story>However, if there were no problems when it was wrapped up, \n<story>well……then perhaps it bumped in to something along the way?"
+        },
+        {
+            "text": "At the register, a customer and clerk were arguing. The customer \nseemed to gradually be getting heated, it seemed like he might \nget physical with the clerk.",
+            "name": "",
+            "path_id": -7584313525048899622,
+            "block_id": 20,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "(Inari isn't nearby……)",
+                    "hash": "d1822e4b9844b0298d99da0905c453c4a271a4fa9e6b83cbe50617012474cafb"
+                }
+            ],
+            "processed": "<story>At the register, a customer and clerk were arguing. The customer \n<story>seemed to gradually be getting heated, it seemed like he might \n<story>get physical with the clerk."
+        },
+        {
+            "text": "Even if I stepped in, there was the worry that \nI might get dragged in to it. I approached and \ncalled out to try and calm things down.",
+            "name": "",
+            "path_id": -446144737472730009,
+            "block_id": 21,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Um, how about we calm down and talk this out?",
+                    "hash": "866e0c4145dea190779e2f79a7912fb88f24825b76eb50476fce2d6a5e919e71",
+                    "processed": "<size=34>Um, how about we calm down and talk this out?</size>"
+                }
+            ],
+            "processed": "<story>Even if I stepped in, there was the worry that \n<story>I might get dragged in to it. I approached and \n<story>called out to try and calm things down."
+        },
+        {
+            "text": "Huh!? Who are you!? Don't get involved! \nOr what? Are you going to――",
+            "name": "Male Customer",
+            "path_id": 5410401953998006559,
+            "block_id": 22,
+            "clip_length": 263,
+            "processed": "<story>Huh!? Who are you!? Don't get involved! \n<story>Or what? Are you going to――"
+        },
+        {
+            "text": "Hey there, mister! \nIt's good that you're so hot-blooded!",
+            "name": "Inari One",
+            "path_id": -8977593973011892980,
+            "block_id": 23,
+            "clip_length": 172,
+            "processed": "<story>Hey there, mister! \n<story>It's good that you're so hot-blooded!"
+        },
+        {
+            "text": "……at the moment things might have reached a tipping point, \na small-sized figure entered.",
+            "name": "",
+            "path_id": -427897407765542009,
+            "block_id": 24,
+            "clip_length": 89,
+            "processed": "<story>……at the moment things might have reached a tipping point, \n<story>a small-sized figure entered."
+        },
+        {
+            "text": "I heard it all. But, it can't be helped that there \nwould be complaints. How 'bout putting it down \nin black and white with a one match battle!",
+            "name": "Inari One",
+            "path_id": -3050139480373432839,
+            "block_id": 25,
+            "clip_length": 309,
+            "processed": "<story>I heard it all. But, it can't be helped that there \n<story>would be complaints. How 'bout putting it down \n<story>in black and white with a one match battle!"
+        },
+        {
+            "text": "If it's a fight, there'll be no hard feelin's \nafterwards! Alright, let's get this started! \nShould it be a race, or how about――",
+            "name": "Inari One",
+            "path_id": -1681252528403844779,
+            "block_id": 26,
+            "clip_length": 271,
+            "processed": "<story>If it's a fight, there'll be no hard feelin's \n<story>afterwards! Alright, let's get this started! \n<story>Should it be a race, or how about――"
+        },
+        {
+            "text": "……Huh? W-what the heck are you saying……?",
+            "name": "Male Customer",
+            "path_id": 1306742683575056265,
+            "block_id": 27,
+            "clip_length": 174,
+            "processed": "<story>……Huh? W-what the heck are you saying……?"
+        },
+        {
+            "text": "What, there's no need to worry! If ya need a ref, just leave it \nto this Inari-sama! I'll decide it fairly with a bang!",
+            "name": "Inari One",
+            "path_id": -1516784885500101143,
+            "block_id": 28,
+            "clip_length": 266,
+            "processed": "<story>What, there's no need to worry! If ya need a ref, just leave it \n<story>to this Inari-sama! I'll decide it fairly with a bang!"
+        },
+        {
+            "text": "……I-it's not like I want to settle this with a fight…… Ah-……yeah, \nit just that……I got a little heated……",
+            "name": "Male Customer",
+            "path_id": -7360403811040030501,
+            "block_id": 29,
+            "clip_length": 322,
+            "processed": "<story>……I-it's not like I want to settle this with a fight…… Ah-……yeah, \n<story>it just that……I got a little heated……"
+        },
+        {
+            "text": "Aw man, so thinkin' you wanted to fight was just a \nmisunderstandin' on my part! Sorry about that, mister! Forgive me.",
+            "name": "Inari One",
+            "path_id": -8238728307492826250,
+            "block_id": 30,
+            "clip_length": 241,
+            "processed": "<story>Aw man, so thinkin' you wanted to fight was just a \n<story>misunderstandin' on my part! Sorry about that, mister! Forgive me."
+        },
+        {
+            "text": "After being taken aback, the male customer took \na look at Inari One's smiling face, he took a deep \nbreath. ……Seems like things have calmed down.",
+            "name": "",
+            "path_id": -8561300194423529482,
+            "block_id": 31,
+            "clip_length": 118,
+            "processed": "<story>After being taken aback, the male customer took \n<story>a look at Inari One's smiling face, he took a deep \n<story>breath. ……Seems like things have calmed down."
+        },
+        {
+            "text": "……No, it's my fault. It was a present for my girlfriend, \nso I just lost it for a bit.",
+            "name": "Male Customer",
+            "path_id": -2219352324058915225,
+            "block_id": 32,
+            "clip_length": 275,
+            "processed": "<story>……No, it's my fault. It was a present for my girlfriend, \n<story>so I just lost it for a bit."
+        },
+        {
+            "text": "Shopkeeper, and you too……I apologize. \nYou too…… um, thanks for stopping me.",
+            "name": "Male Customer",
+            "path_id": 1491366573796760356,
+            "block_id": 33,
+            "clip_length": 282,
+            "processed": "<story>Shopkeeper, and you too……I apologize. \n<story>You too…… um, thanks for stopping me."
+        },
+        {
+            "text": "Hey, Boss! To step in like that, \nyou've got quite the guts, huh?",
+            "name": "Inari One",
+            "path_id": 3817905853402193847,
+            "block_id": 34,
+            "clip_length": 159,
+            "processed": "<story>Hey, Boss! To step in like that, \n<story>you've got quite the guts, huh?"
+        },
+        {
+            "text": "Hey, Boss! To step in like that, \nyou've got quite the guts, huh?",
+            "name": "Inari One",
+            "path_id": -404617488460825819,
+            "block_id": 35,
+            "clip_length": 159,
+            "processed": "<story>Hey, Boss! To step in like that, \n<story>you've got quite the guts, huh?"
+        },
+        {
+            "text": "Ya could have just pretended to see nothin', \nthat's pretty impressive!",
+            "name": "Inari One",
+            "path_id": 6141382652493525255,
+            "block_id": 36,
+            "clip_length": 158,
+            "choices": [
+                {
+                    "text": "Inari was cool too",
+                    "hash": "3fa8f1ce3d759e35de0b7f7c591c44c8923224f1699e3af73db77cd852df27ed"
+                }
+            ],
+            "processed": "<story>Ya could have just pretended to see nothin', \n<story>that's pretty impressive!"
+        },
+        {
+            "text": "What the heck, that's kind of embarrassin'! \nHehee, but it's not so bad if you're the one sayin' it.",
+            "name": "Inari One",
+            "path_id": -2018555379117724453,
+            "block_id": 37,
+            "clip_length": 244,
+            "processed": "<story>What the heck, that's kind of embarrassin'! \n<story>Hehee, but it's not so bad if you're the one sayin' it."
+        },
+        {
+            "text": "At that time, if Inari One hadn't stepped in, \nthings could have gotten out of hand.",
+            "name": "",
+            "path_id": 8377083157470195761,
+            "block_id": 38,
+            "clip_length": 95,
+            "processed": "<story>At that time, if Inari One hadn't stepped in, \n<story>things could have gotten out of hand."
+        },
+        {
+            "text": "However, it was good that the male customer was able to calm down \nwith just that, if he had gone off the rails……",
+            "name": "",
+            "path_id": -3785683929570531711,
+            "block_id": 39,
+            "clip_length": 101,
+            "processed": "<story>However, it was good that the male customer was able to calm down \n<story>with just that, if he had gone off the rails……"
+        },
+        {
+            "text": "Hm? What's wrong? You've got such a serious look on your face. \nIs there somethin' stuck on my face?",
+            "name": "Inari One",
+            "path_id": 3723048386571637689,
+            "block_id": 40,
+            "clip_length": 226,
+            "choices": [
+                {
+                    "text": "Let's avoid dangerous things",
+                    "hash": "2365a20addb5c3496aa2ec1514a5f6d9ddf6a30d093f9c077cde15517cd1c843"
+                }
+            ],
+            "processed": "<story>Hm? What's wrong? You've got such a serious look on your face. \n<story>Is there somethin' stuck on my face?"
+        },
+        {
+            "text": "Originally, it was me who stepped in in the first \nplace, however, I'd rather avoid doing anything \nthat might put Inari One in danger.",
+            "name": "",
+            "path_id": 5468733207967458247,
+            "block_id": 41,
+            "clip_length": 115,
+            "processed": "<story>Originally, it was me who stepped in in the first \n<story>place, however, I'd rather avoid doing anything \n<story>that might put Inari One in danger."
+        },
+        {
+            "text": "Hehee, just when I thought you were makin' such a grave face……",
+            "name": "Inari One",
+            "path_id": -4878672599018211211,
+            "block_id": 42,
+            "clip_length": 127,
+            "processed": "<story>Hehee, just when I thought you were makin' such a grave face……"
+        },
+        {
+            "text": "What the heck are ya sayin', ya moron!! \nThat's my line!",
+            "name": "Inari One",
+            "path_id": 8869583077551548594,
+            "block_id": 43,
+            "clip_length": 148,
+            "processed": "<story>What the heck are ya sayin', ya moron!! \n<story>That's my line!"
+        },
+        {
+            "text": "Geez, you're too kind, Boss. \nYa can't just go shoulderin' everythin' yourself!",
+            "name": "Inari One",
+            "path_id": 7457064310473155036,
+            "block_id": 44,
+            "clip_length": 220,
+            "processed": "<story>Geez, you're too kind, Boss. \n<story>Ya can't just go shoulderin' everythin' yourself!"
+        },
+        {
+            "text": "Geez, you're too kind, Boss. \nYa can't just go shoulderin' everythin' yourself!",
+            "name": "Inari One",
+            "path_id": 7600612296632992512,
+            "block_id": 45,
+            "clip_length": 220,
+            "processed": "<story>Geez, you're too kind, Boss. \n<story>Ya can't just go shoulderin' everythin' yourself!"
+        },
+        {
+            "text": "Just like this time, if it had turned in to a \nfight……that's what ya mean right? But ya see, \nit's much better than seein' ya get hurt.",
+            "name": "Inari One",
+            "path_id": 5101374990493601918,
+            "block_id": 46,
+            "clip_length": 326,
+            "processed": "<story>Just like this time, if it had turned in to a \n<story>fight……that's what ya mean right? But ya see, \n<story>it's much better than seein' ya get hurt."
+        },
+        {
+            "text": "After all, when it comes to power, an Uma Musume like me is stronger. \nSo ya can just leave it all to me!",
+            "name": "Inari One",
+            "path_id": -1326507451095084955,
+            "block_id": 47,
+            "clip_length": 200,
+            "choices": [
+                {
+                    "text": "But……",
+                    "hash": "bbc1b84226f0604c9188b51dbbede6959435a6ae7161580af9fcc9b34e6f3fdd"
+                }
+            ],
+            "processed": "<story>After all, when it comes to power, an Uma Musume like me is stronger. \n<story>So ya can just leave it all to me!"
+        },
+        {
+            "text": "When you were lost that time, I was the one that guided ya. \nAnd today, you were the one that guided me to a bunch of shops.",
+            "name": "Inari One",
+            "path_id": -6092167111096374511,
+            "block_id": 48,
+            "clip_length": 248,
+            "processed": "<story>When you were lost that time, I was the one that guided ya. \n<story>And today, you were the one that guided me to a bunch of shops."
+        },
+        {
+            "text": "I'll say it again. Clear out those things ya call ears, and \nlisten well. There's no reason for ya to shoulder it all yourself!",
+            "name": "Inari One",
+            "path_id": 3712818897839704120,
+            "block_id": 49,
+            "clip_length": 246,
+            "processed": "<story>I'll say it again. Clear out those things ya call ears, and \n<story>listen well. There's no reason for ya to shoulder it all yourself!"
+        },
+        {
+            "text": "Sometimes, ya should just leave it to someone that can handle it. \nThe right person for the right job, right?",
+            "name": "Inari One",
+            "path_id": 843591051025536345,
+            "block_id": 50,
+            "clip_length": 256,
+            "choices": [
+                {
+                    "text": "That's true but……",
+                    "hash": "0c6f674bfbc646ed5bccbc842ae545b8fdbb9b8e86da60893b7a41983f61b6bd"
+                }
+            ],
+            "processed": "<story>Sometimes, ya should just leave it to someone that can handle it. \n<story>The right person for the right job, right?"
+        },
+        {
+            "text": "Boss, you're too serious! ……Oh, seems like it's time for the sun \nto start settin', let's head back!",
+            "name": "Inari One",
+            "path_id": -1374810410650834088,
+            "block_id": 51,
+            "clip_length": 257,
+            "processed": "<story>Boss, you're too serious! ……Oh, seems like it's time for the sun \n<story>to start settin', let's head back!"
+        },
+        {
+            "text": "Boss, you're too serious! ……Oh, seems like it's time for the sun \nto start settin', let's head back!",
+            "name": "Inari One",
+            "path_id": 1039571671774959707,
+            "block_id": 52,
+            "clip_length": 257,
+            "processed": "<story>Boss, you're too serious! ……Oh, seems like it's time for the sun \n<story>to start settin', let's head back!"
+        },
+        {
+            "text": "(Boss is always serious and earnest, \nthis Inari-sama, can see that, ya know?)",
+            "name": "Inari One",
+            "path_id": -838829602844073547,
+            "block_id": 53,
+            "clip_length": 228,
+            "processed": "<story>(Boss is always serious and earnest, \n<story>this Inari-sama, can see that, ya know?)"
+        },
+        {
+            "text": "(Boss is always serious and earnest, \nthis Inari-sama, can see that, ya know?)",
+            "name": "Inari One",
+            "path_id": -6168977523433298147,
+            "block_id": 54,
+            "clip_length": 228,
+            "processed": "<story>(Boss is always serious and earnest, \n<story>this Inari-sama, can see that, ya know?)"
+        },
+        {
+            "text": "(And because of that, that you'll easily push \nyourself too hard! Hehee, I need to keep an eye \non ya, otherwise I'll be the one worryin'!)",
+            "name": "Inari One",
+            "path_id": 8177561808374973877,
+            "block_id": 55,
+            "clip_length": 305,
+            "processed": "<story>(And because of that, that you'll easily push \n<story>yourself too hard! Hehee, I need to keep an eye \n<story>on ya, otherwise I'll be the one worryin'!)"
+        },
+        {
+            "text": "Alright, I'll tell the followers all about today! \n『Inari-sama's trainer was today's guide』 or somethin'!",
+            "name": "Inari One",
+            "path_id": -8626107054205603397,
+            "block_id": 56,
+            "clip_length": 272,
+            "processed": "<story>Alright, I'll tell the followers all about today! \n<story>『Inari-sama's trainer was today's guide』 or somethin'!"
+        },
+        {
+            "text": "Once again hitting me on the back, \nInari One had a hearty smile on her face.",
+            "name": "",
+            "path_id": 4946367957052278333,
+            "block_id": 57,
+            "clip_length": 82,
+            "processed": "<story>Once again hitting me on the back, \n<story>Inari One had a hearty smile on her face."
+        }
+    ],
+    "title": "Leave It To Inari-sama!"
+}

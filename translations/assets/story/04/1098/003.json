@@ -1,0 +1,545 @@
+{
+    "type": "story",
+    "row_index": 17392,
+    "file_name": "story/data/04/1098/storytimeline_041098003",
+    "hash": "7P2C6OYO526MUMJKSELVNCSAQZAHSYAV",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3754631076611806919,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Several days after the Selection Race. \nI spotted Copano Rickey on the training grounds.",
+            "name": "",
+            "path_id": 7883558899593316920,
+            "block_id": 1,
+            "clip_length": 89,
+            "processed": "<story>Several days after the Selection Race. \n<story>I spotted Copano Rickey on the training grounds."
+        },
+        {
+            "text": "Haa, haa, huu, huu…… Wood, Fire, Soil, Gold, Be Blessed with Luck! \nFire, Soil, Gold, Water, Be Blessed with Luck!",
+            "name": "Copano Rickey",
+            "path_id": 8586728239372276816,
+            "block_id": 2,
+            "clip_length": 321,
+            "processed": "<story>Haa, haa, huu, huu…… Wood, Fire, Soil, Gold, Be Blessed with Luck! \n<story>Fire, Soil, Gold, Water, Be Blessed with Luck!"
+        },
+        {
+            "text": "Huu…… Haahuuuu…… That should do it. \nNext, the wood chip course……!",
+            "name": "Copano Rickey",
+            "path_id": -132225738725803941,
+            "block_id": 3,
+            "clip_length": 246,
+            "choices": [
+                {
+                    "text": "You're working hard, Copano Rickey",
+                    "hash": "281f4f45e41fea31d04a230d6ee81c60cacd6e1dc405b38f4dc4f3d4b539ab09"
+                },
+                {
+                    "text": "You're working hard, Copano Rickey",
+                    "hash": "856fa230ce107e284154f300fec46f776b4c23859f7dd727ac3fd3e30db6a2b0"
+                }
+            ],
+            "processed": "<story>Huu…… Haahuuuu…… That should do it. \n<story>Next, the wood chip course……!"
+        },
+        {
+            "text": "Ah, Trainer! Yeah, after such a disappointing result, \nI figured I needed to step up the training another level.",
+            "name": "Copano Rickey",
+            "path_id": 5509317316904542294,
+            "block_id": 4,
+            "clip_length": 241,
+            "choices": [
+                {
+                    "text": "Because of what Hokko Tarumae said?",
+                    "hash": "92fb3562b53ac9dc529b7d34e589375417b235e6abf08da08f864caf9920ce1a",
+                    "processed": "<size=43>Because of what Hokko Tarumae said?</size>"
+                }
+            ],
+            "processed": "<story>Ah, Trainer! Yeah, after such a disappointing result, \n<story>I figured I needed to step up the training another level."
+        },
+        {
+            "text": "Eh!? No, no. I'm not doing this particularly \nbecause Tarumae told me to 『Do more training』.",
+            "name": "Copano Rickey",
+            "path_id": -4113798121457545429,
+            "block_id": 5,
+            "clip_length": 220,
+            "processed": "<story>Eh!? No, no. I'm not doing this particularly \n<story>because Tarumae told me to 『Do more training』."
+        },
+        {
+            "text": "I do about this much everyday already☆ Feng Shui isn't something \nthat can fulfill your wishes. It's something that can show you \nwhere to focus your effort!",
+            "name": "Copano Rickey",
+            "path_id": -3723533666622472706,
+            "block_id": 6,
+            "clip_length": 280,
+            "processed": "<story>I do about this much everyday already☆ Feng Shui isn't something \n<story>that can fulfill your wishes. It's something that can show you \n<story>where to focus your effort!"
+        },
+        {
+            "text": "―Where to focus your efforts. Judging by those \nwords, it seems that Copano Rickey isn't an Uma \nMusume that solely relies on Feng Shui.",
+            "name": "",
+            "path_id": 6044850145836883889,
+            "block_id": 7,
+            "clip_length": 112,
+            "processed": "<story>―Where to focus your efforts. Judging by those \n<story>words, it seems that Copano Rickey isn't an Uma \n<story>Musume that solely relies on Feng Shui."
+        },
+        {
+            "text": "It's not that there's been a change in how hard \nI'm going to work but, that huge loss from before……I \nfelt I needed to do something about that!",
+            "name": "Copano Rickey",
+            "path_id": -522459269641258591,
+            "block_id": 8,
+            "clip_length": 226,
+            "processed": "<story>It's not that there's been a change in how hard \n<story>I'm going to work but, that huge loss from before……I \n<story>felt I needed to do something about that!"
+        },
+        {
+            "text": "I never thought that I wouldn't be able to hear the Voice of the \nEarth. Like this, there's no way I'll be able to help anyone out.",
+            "name": "Copano Rickey",
+            "path_id": -7827114141203044869,
+            "block_id": 9,
+            "clip_length": 221,
+            "processed": "<story>I never thought that I wouldn't be able to hear the Voice of the \n<story>Earth. Like this, there's no way I'll be able to help anyone out."
+        },
+        {
+            "text": "\"To help anyone out\". That's the first time I've heard her say \nthose words. It seems like Copano Rickey had some kind of hidden \nreason to keep running.",
+            "name": "",
+            "path_id": 4432368887113246173,
+            "block_id": 10,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Can we talk for a bit?",
+                    "hash": "759dba8c790674fd9fe7083d2b6cb47886fd694c32403f48a4125d3c69c523c2"
+                },
+                {
+                    "text": "Can we talk for a bit?",
+                    "hash": "1f30ededf690da2f88a548894299735fa220337702c53f52743a26dbf5abf2ac"
+                }
+            ],
+            "processed": "<story>\"To help anyone out\". That's the first time I've heard her say \n<story>those words. It seems like Copano Rickey had some kind of hidden \n<story>reason to keep running."
+        },
+        {
+            "text": "Yeah! Of course, as much as you want♪ \nI was just about to take a break anyways.",
+            "name": "Copano Rickey",
+            "path_id": -3392697844229502318,
+            "block_id": 11,
+            "clip_length": 161,
+            "processed": "<story>Yeah! Of course, as much as you want♪ \n<story>I was just about to take a break anyways."
+        },
+        {
+            "text": "And so we took a walk, heading to the park near Tracen Academy―",
+            "name": "",
+            "path_id": -7025418664672027153,
+            "block_id": 12,
+            "clip_length": 82,
+            "processed": "<story>And so we took a walk, heading to the park near Tracen Academy―"
+        },
+        {
+            "text": "Oh, Rickey-chan! If it ain't Rickey-chan! \nThanks for before!",
+            "name": "Chinese Restaurant Shopkeeper",
+            "path_id": -5744537146259237617,
+            "block_id": 13,
+            "clip_length": 212,
+            "processed": "<story>Oh, Rickey-chan! If it ain't Rickey-chan! \n<story>Thanks for before!",
+            "name_processed": "<sc=72>Chinese Restaurant Shopkeeper"
+        },
+        {
+            "text": "Ah, it's the old man from that Chinese restaurant! \nSo, how'd it go after that?",
+            "name": "Copano Rickey",
+            "path_id": -1370121328625977546,
+            "block_id": 14,
+            "clip_length": 136,
+            "processed": "<story>Ah, it's the old man from that Chinese restaurant! \n<story>So, how'd it go after that?"
+        },
+        {
+            "text": "Yeah, it was a huge success! Just like Rickey-chan said, after \nchanging the location of the tree in the garden, and making the \nramen bowls orange……",
+            "name": "Chinese Restaurant Shopkeeper",
+            "path_id": -8203840607704492337,
+            "block_id": 15,
+            "clip_length": 311,
+            "processed": "<story>Yeah, it was a huge success! Just like Rickey-chan said, after \n<story>changing the location of the tree in the garden, and making the \n<story>ramen bowls orange……",
+            "name_processed": "<sc=72>Chinese Restaurant Shopkeeper"
+        },
+        {
+            "text": "It feels like the atmosphere has changed, and the number of \ncustomers increased. And because of that, my bed ridden old man \nfinally understands.",
+            "name": "Chinese Restaurant Shopkeeper",
+            "path_id": 2354995261135305438,
+            "block_id": 16,
+            "clip_length": 271,
+            "processed": "<story>It feels like the atmosphere has changed, and the number of \n<story>customers increased. And because of that, my bed ridden old man \n<story>finally understands.",
+            "name_processed": "<sc=72>Chinese Restaurant Shopkeeper"
+        },
+        {
+            "text": "I understand not wanting to change the way the place looked but…… \nsometimes it's important to have the courage to change, too.",
+            "name": "Chinese Restaurant Shopkeeper",
+            "path_id": 4652152636769420743,
+            "block_id": 17,
+            "clip_length": 227,
+            "processed": "<story>I understand not wanting to change the way the place looked but…… \n<story>sometimes it's important to have the courage to change, too.",
+            "name_processed": "<sc=72>Chinese Restaurant Shopkeeper"
+        },
+        {
+            "text": "With this, it looks like I'll be able to keep the \nold man's store going. Even the customers that have \nbeen coming since I was a kid were overjoyed.",
+            "name": "Chinese Restaurant Shopkeeper",
+            "path_id": 9169268448836794485,
+            "block_id": 18,
+            "clip_length": 358,
+            "processed": "<story>With this, it looks like I'll be able to keep the \n<story>old man's store going. Even the customers that have \n<story>been coming since I was a kid were overjoyed.",
+            "name_processed": "<sc=72>Chinese Restaurant Shopkeeper"
+        },
+        {
+            "text": "Waah, that's good! That's right, if the \nshop closed up, everyone would be unhappy too.",
+            "name": "Copano Rickey",
+            "path_id": 1527588799765454898,
+            "block_id": 19,
+            "clip_length": 221,
+            "processed": "<story>Waah, that's good! That's right, if the \n<story>shop closed up, everyone would be unhappy too."
+        },
+        {
+            "text": "Rather than sitting and waiting, it's better to continue on! If I \nwas able to give you the push you needed, even if it was only a \nlittle, then I'm glad!",
+            "name": "Copano Rickey",
+            "path_id": 7497686319165010879,
+            "block_id": 20,
+            "clip_length": 203,
+            "processed": "<story>Rather than sitting and waiting, it's better to continue on! If I \n<story>was able to give you the push you needed, even if it was only a \n<story>little, then I'm glad!"
+        },
+        {
+            "text": "Yeah, for the sake of my old man and our regulars, \nI'll be counting on you for more Feng Shui advice!",
+            "name": "Chinese Restaurant Shopkeeper",
+            "path_id": -7644145055059120859,
+            "block_id": 21,
+            "clip_length": 249,
+            "processed": "<story>Yeah, for the sake of my old man and our regulars, \n<story>I'll be counting on you for more Feng Shui advice!",
+            "name_processed": "<sc=72>Chinese Restaurant Shopkeeper"
+        },
+        {
+            "text": "After bowing his head repeatedly, the \nRestaurant Employee took his leave.",
+            "name": "",
+            "path_id": -6189544758387694463,
+            "block_id": 22,
+            "clip_length": 77,
+            "processed": "<story>After bowing his head repeatedly, the \n<story>Restaurant Employee took his leave."
+        },
+        {
+            "text": "―And just like that, Feng Shui can help people that \nare a little lost or find themselves at a standstill.",
+            "name": "Copano Rickey",
+            "path_id": 1633195866767855660,
+            "block_id": 23,
+            "clip_length": 190,
+            "processed": "<story>―And just like that, Feng Shui can help people that \n<story>are a little lost or find themselves at a standstill."
+        },
+        {
+            "text": "It was the same for me, and I've seen it for many other Uma \nMusume as well. It happens a lot, with just a little push from \nFeng Shui, things will work out.",
+            "name": "Copano Rickey",
+            "path_id": 2247404861132968512,
+            "block_id": 24,
+            "clip_length": 319,
+            "processed": "<story>It was the same for me, and I've seen it for many other Uma \n<story>Musume as well. It happens a lot, with just a little push from \n<story>Feng Shui, things will work out."
+        },
+        {
+            "text": "That's why I want more people to learn about Feng \nShui! And I want everyone to be happy! To learn Feng \nShui, avoid misfortune, and invite fortune!",
+            "name": "Copano Rickey",
+            "path_id": -6262339350062178487,
+            "block_id": 25,
+            "clip_length": 304,
+            "processed": "<story>That's why I want more people to learn about Feng \n<story>Shui! And I want everyone to be happy! To learn Feng \n<story>Shui, avoid misfortune, and invite fortune!"
+        },
+        {
+            "text": "Therefore, I need to win in races so \neveryone can learn just how great it is♪",
+            "name": "Copano Rickey",
+            "path_id": 6370509715695985165,
+            "block_id": 26,
+            "clip_length": 196,
+            "choices": [
+                {
+                    "text": "Then you're doing this for everyone……",
+                    "hash": "78262e54c65345399076ce78648069fe73f8fdbdd1515ea3f4e82633a6562913",
+                    "processed": "<size=42>Then you're doing this for everyone……</size>"
+                }
+            ],
+            "processed": "<story>Therefore, I need to win in races so \n<story>everyone can learn just how great it is♪"
+        },
+        {
+            "text": "Saying it's for everyone might be a bit of an exaggeration, \nbut wouldn't you want anyone to be able to be happy?",
+            "name": "Copano Rickey",
+            "path_id": 6807470960701738250,
+            "block_id": 27,
+            "clip_length": 197,
+            "processed": "<story>Saying it's for everyone might be a bit of an exaggeration, \n<story>but wouldn't you want anyone to be able to be happy?"
+        },
+        {
+            "text": "But, well, if I'm the one losing, then it's not very convincing. \nI never thought that, during an important race, I'd be unable to \nhear the Voice of the Earth.",
+            "name": "Copano Rickey",
+            "path_id": 7033182885050638035,
+            "block_id": 28,
+            "clip_length": 327,
+            "processed": "<story>But, well, if I'm the one losing, then it's not very convincing. \n<story>I never thought that, during an important race, I'd be unable to \n<story>hear the Voice of the Earth."
+        },
+        {
+            "text": "Copano Rickey genuinely wanted to be able to help anyone. Along \nwith being impressed with her, something weighed on my mind.",
+            "name": "",
+            "path_id": 2876400371155832618,
+            "block_id": 29,
+            "clip_length": 102,
+            "choices": [
+                {
+                    "text": "What is that \"Voice of the Earth\"?",
+                    "hash": "b11171f773d01d3a6725be6b4bfae0c38a78e65de25ee496cd7a001a9c6806fe"
+                }
+            ],
+            "processed": "<story>Copano Rickey genuinely wanted to be able to help anyone. Along \n<story>with being impressed with her, something weighed on my mind."
+        },
+        {
+            "text": "Voice of the Earth? Ah, even though I call it a voice, it's not \nlike I really hear a voice, it's more like I just get a feeling.",
+            "name": "Copano Rickey",
+            "path_id": -5961004834857755863,
+            "block_id": 30,
+            "clip_length": 281,
+            "processed": "<story>Voice of the Earth? Ah, even though I call it a voice, it's not \n<story>like I really hear a voice, it's more like I just get a feeling."
+        },
+        {
+            "text": "Ever since elementary school, I've been able to \nhear the \"Voice of the Earth\". Like during athletics \ncompetitions, if I focus during the race―",
+            "name": "Copano Rickey",
+            "path_id": 1209537040898004741,
+            "block_id": 31,
+            "clip_length": 312,
+            "processed": "<story>Ever since elementary school, I've been able to \n<story>hear the \"Voice of the Earth\". Like during athletics \n<story>competitions, if I focus during the race―"
+        },
+        {
+            "text": "『Run like this』, as if it was from the viewpoint of the Earth. \nThe flow of qi, how to move around the next corner, I could \nunderstand it all in detail. That's why……!",
+            "name": "Copano Rickey",
+            "path_id": -87519081153984708,
+            "block_id": 32,
+            "clip_length": 369,
+            "processed": "<story>『Run like this』, as if it was from the viewpoint of the Earth. \n<story>The flow of qi, how to move around the next corner, I could \n<story>understand it all in detail. That's why……!"
+        },
+        {
+            "text": "I was able to win consecutively. By training my body while in \nharmony with nature, becoming one with all of creation, by \ncontinuing on the correct path, I could reach the goal first!",
+            "name": "Copano Rickey",
+            "path_id": 842763571985723570,
+            "block_id": 33,
+            "clip_length": 354,
+            "processed": "<story>I was able to win consecutively. By training my body while in \n<story>harmony with nature, becoming one with all of creation, by \n<story>continuing on the correct path, I could reach the goal first!"
+        },
+        {
+            "text": "But, with that previous Selection Race, it was \ndifficult to hear that voice. Was it because \nof nerves, or lack of preparation? Hmmmmm……",
+            "name": "Copano Rickey",
+            "path_id": 7539710867071011714,
+            "block_id": 34,
+            "clip_length": 376,
+            "processed": "<story>But, with that previous Selection Race, it was \n<story>difficult to hear that voice. Was it because \n<story>of nerves, or lack of preparation? Hmmmmm……"
+        },
+        {
+            "text": "Being in harmony with nature is part of Feng Shui, \nbut I felt a kind of distance, and I guess it \nfelt like I couldn't become one with it……",
+            "name": "Copano Rickey",
+            "path_id": 670453505489091649,
+            "block_id": 35,
+            "clip_length": 249,
+            "processed": "<story>Being in harmony with nature is part of Feng Shui, \n<story>but I felt a kind of distance, and I guess it \n<story>felt like I couldn't become one with it……"
+        },
+        {
+            "text": "Copano Rickey was earnest but troubled. If the problem was being \n\"Unable to feel nature\" then I wanted to help her resolve it.",
+            "name": "",
+            "path_id": -6404959373439443636,
+            "block_id": 36,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "Want to try going somewhere tomorrow?",
+                    "hash": "b5424075f3248d407c7552ae87d49687b14e01f039582b29b0b12e566c428e3e",
+                    "processed": "<size=40>Want to try going somewhere tomorrow?</size>"
+                }
+            ],
+            "processed": "<story>Copano Rickey was earnest but troubled. If the problem was being \n<story>\"Unable to feel nature\" then I wanted to help her resolve it."
+        },
+        {
+            "text": "Eh, going somewhere……Trainer, where to?",
+            "name": "Copano Rickey",
+            "path_id": -7785493150973640656,
+            "block_id": 37,
+            "clip_length": 148,
+            "processed": "<story>Eh, going somewhere……Trainer, where to?"
+        },
+        {
+            "text": "Waaah, a picnic～♪ As a change of pace, this might be best! \nHow about I try yelling out to those mountains～?",
+            "name": "Copano Rickey",
+            "path_id": -8942134253649143540,
+            "block_id": 38,
+            "clip_length": 238,
+            "processed": "<story>Waaah, a picnic～♪ As a change of pace, this might be best! \n<story>How about I try yelling out to those mountains～?"
+        },
+        {
+            "text": "Rickey☆ Lucky☆ So Happy～～～～!!!",
+            "name": "Copano Rickey",
+            "path_id": -5966972265436658594,
+            "block_id": 39,
+            "clip_length": 196,
+            "processed": "<story>Rickey☆ Lucky☆ So Happy～～～～!!!"
+        },
+        {
+            "text": "I brought Copano Rickey to the mountains. To figure \nout why she couldn't hear the Voice of the Earth, \nthis was probably the ideal environment.",
+            "name": "",
+            "path_id": 2435448893017545572,
+            "block_id": 40,
+            "clip_length": 120,
+            "processed": "<story>I brought Copano Rickey to the mountains. To figure \n<story>out why she couldn't hear the Voice of the Earth, \n<story>this was probably the ideal environment."
+        },
+        {
+            "text": "Yeah! In a place like this, it's easy to see the \"Ley Lines\". \nAnd you could say the flow of qi is easily discernible!",
+            "name": "Copano Rickey",
+            "path_id": 6739797058839322258,
+            "block_id": 41,
+            "clip_length": 260,
+            "choices": [
+                {
+                    "text": "\"Ley Lines\"?",
+                    "hash": "751984a29c6c7c45e753af969556cfd7cf2443f7094a7461c7faae2fc7980e79"
+                }
+            ],
+            "processed": "<story>Yeah! In a place like this, it's easy to see the \"Ley Lines\". \n<story>And you could say the flow of qi is easily discernible!"
+        },
+        {
+            "text": "Yeah, Ley Lines! They often follow along ridges, \nand you can kind of feel the flow of qi through \nthem. Those are ley lines. And then……!",
+            "name": "Copano Rickey",
+            "path_id": 7664579872710312433,
+            "block_id": 42,
+            "clip_length": 272,
+            "processed": "<story>Yeah, Ley Lines! They often follow along ridges, \n<story>and you can kind of feel the flow of qi through \n<story>them. Those are ley lines. And then……!"
+        },
+        {
+            "text": "And the exits of those Ley Lines are called \"Power \nSpots\". Where the mountain's ki flows down to the \nbeach and gathers, it becomes a power spot.",
+            "name": "Copano Rickey",
+            "path_id": -8610245857992000312,
+            "block_id": 43,
+            "clip_length": 220,
+            "processed": "<story>And the exits of those Ley Lines are called \"Power \n<story>Spots\". Where the mountain's ki flows down to the \n<story>beach and gathers, it becomes a power spot."
+        },
+        {
+            "text": "And if I focus here like this―",
+            "name": "Copano Rickey",
+            "path_id": 339068864636620127,
+            "block_id": 44,
+            "clip_length": 68,
+            "processed": "<story>And if I focus here like this―"
+        },
+        {
+            "text": "Today I can feel it properly. The ki from this \"Power Spot\". \nThat swirling power, I can feel it all around me.",
+            "name": "Copano Rickey",
+            "path_id": -8272236514677867032,
+            "block_id": 45,
+            "clip_length": 237,
+            "processed": "<story>Today I can feel it properly. The ki from this \"Power Spot\". \n<story>That swirling power, I can feel it all around me."
+        },
+        {
+            "text": "Even when I close my eyes― I can see the entire beach. \nI can hear the Voice of the Earth, and very clearly.",
+            "name": "Copano Rickey",
+            "path_id": -4582330289799600143,
+            "block_id": 46,
+            "clip_length": 280,
+            "processed": "<story>Even when I close my eyes― I can see the entire beach. \n<story>I can hear the Voice of the Earth, and very clearly."
+        },
+        {
+            "text": "Hmmm, I'm in perfect condition. So it's not that something was \nwrong with my senses. But then why was I unable to hear it during \nthat Selection Race……?",
+            "name": "Copano Rickey",
+            "path_id": 2052151735584247593,
+            "block_id": 47,
+            "clip_length": 403,
+            "processed": "<story>Hmmm, I'm in perfect condition. So it's not that something was \n<story>wrong with my senses. But then why was I unable to hear it during \n<story>that Selection Race……?"
+        },
+        {
+            "text": "I thought about it. If it's not her condition \nthen…… the reason she could hear it on this \n\"Beach\" now, but not on the \"Race Course\".",
+            "name": "",
+            "path_id": -7562879421756432829,
+            "block_id": 48,
+            "clip_length": 118,
+            "processed": "<story>I thought about it. If it's not her condition \n<story>then…… the reason she could hear it on this \n<story>\"Beach\" now, but not on the \"Race Course\"."
+        },
+        {
+            "text": "Copano Rickey said that she would win consecutively \nat athletics events when she was young. Even on \n\"School Grounds\" she could hear that voice……",
+            "name": "",
+            "path_id": -187292662765772056,
+            "block_id": 49,
+            "clip_length": 121,
+            "processed": "<story>Copano Rickey said that she would win consecutively \n<story>at athletics events when she was young. Even on \n<story>\"School Grounds\" she could hear that voice……"
+        },
+        {
+            "text": "On the \"School Grounds\" and \"Beach\" she could hear it, but on \nthe \"Race Course\" she couldn't. Perhaps, that's it―",
+            "name": "",
+            "path_id": 7424820061466966327,
+            "block_id": 50,
+            "clip_length": 101,
+            "processed": "<story>On the \"School Grounds\" and \"Beach\" she could hear it, but on \n<story>the \"Race Course\" she couldn't. Perhaps, that's it―"
+        },
+        {
+            "text": "Clearly, in regards to Feng Shui, if there was \na difference in those environments, then―",
+            "name": "",
+            "path_id": -3680729869893595067,
+            "block_id": 51,
+            "clip_length": 75,
+            "processed": "<story>Clearly, in regards to Feng Shui, if there was \n<story>a difference in those environments, then―"
+        },
+        {
+            "text": "Trainer……? Is something wrong?",
+            "name": "Copano Rickey",
+            "path_id": 1558417775006072691,
+            "block_id": 52,
+            "clip_length": 83,
+            "choices": [
+                {
+                    "text": "I think……I might know why",
+                    "hash": "ffde67a4ecf9f0c5efdffb4ebd2c209fcb1e48f422b9b021e43a49940b57931b"
+                }
+            ],
+            "processed": "<story>Trainer……? Is something wrong?"
+        },
+        {
+            "text": "Might know what?",
+            "name": "Copano Rickey",
+            "path_id": -8483868854580420242,
+            "block_id": 53,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Why you couldn't hear it",
+                    "hash": "0177dc7e498d6ac9686cf460b4893ac8d1a7067681eec5b3a2c561e6aff10ee6"
+                }
+            ],
+            "processed": "<story>Might know what?"
+        },
+        {
+            "text": "Eeeeeeeh, really?",
+            "name": "Copano Rickey",
+            "path_id": 3034373867908996072,
+            "block_id": 54,
+            "clip_length": 65,
+            "choices": [
+                {
+                    "text": "Yeah",
+                    "hash": "267239f4fcaa6caf00fe6025966aca7caf751596855414b5ae4b4bca6e0588d5"
+                },
+                {
+                    "text": "Yeah",
+                    "hash": "8059f43b69df9852539afc1f29b566b7f4c42992bf4394d66df37c2398729087"
+                }
+            ],
+            "processed": "<story>Eeeeeeeh, really?"
+        },
+        {
+            "text": "And if my prediction is correct, \nthen Copano Rickey―",
+            "name": "",
+            "path_id": 3796082802963184088,
+            "block_id": 55,
+            "clip_length": 77,
+            "processed": "<story>And if my prediction is correct, \n<story>then Copano Rickey―"
+        },
+        {
+            "text": "Will definitely be able to display her \nfull power in the next Selection Race.",
+            "name": "",
+            "path_id": 7238621826921065094,
+            "block_id": 56,
+            "clip_length": 69,
+            "processed": "<story>Will definitely be able to display her \n<story>full power in the next Selection Race."
+        }
+    ],
+    "title": "A Slump? Oh, Voice Of The Earth"
+}

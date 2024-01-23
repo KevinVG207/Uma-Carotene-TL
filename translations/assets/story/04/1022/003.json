@@ -1,0 +1,569 @@
+{
+    "type": "story",
+    "row_index": 480,
+    "file_name": "story/data/04/1022/storytimeline_041022003",
+    "hash": "3JAJZOQQ7MJ2BGZ25AVM3Q2KUCMN2BQP",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -7753774172579434591,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Father, wait here! \nI'll be there like 'whoooosh' really soon! Ready…",
+            "name": "Young Fine Motion",
+            "path_id": 6120257886999453103,
+            "block_id": 1,
+            "clip_length": 236,
+            "processed": "<story>Father, wait here! \n<story>I'll be there like 'whoooosh' really soon! Ready…"
+        },
+        {
+            "text": "(Running…I loved it, I think. Probably, long ago.)",
+            "name": "Fine Motion",
+            "path_id": -8463478343958561643,
+            "block_id": 2,
+            "clip_length": 204,
+            "processed": "<story>(Running…I loved it, I think. Probably, long ago.)"
+        },
+        {
+            "text": "(But, I understood. My normal course was a small \ngarden surrounded by tall, rock walls. The goal \nwas always the clover field in the corner.)",
+            "name": "Fine Motion",
+            "path_id": -1835647747969002136,
+            "block_id": 3,
+            "clip_length": 426,
+            "processed": "<story>(But, I understood. My normal course was a small \n<story>garden surrounded by tall, rock walls. The goal \n<story>was always the clover field in the corner.)"
+        },
+        {
+            "text": "(I was fine with that. I wasn't dissatisfied.)",
+            "name": "Fine Motion",
+            "path_id": 217011529434035980,
+            "block_id": 4,
+            "clip_length": 120,
+            "processed": "<story>(I was fine with that. I wasn't dissatisfied.)"
+        },
+        {
+            "text": "The clash of dreams, a momentary glimmer, a serious race…! \nAwesome! So cool!",
+            "name": "Fine Motion",
+            "path_id": -2650146955291079594,
+            "block_id": 5,
+            "clip_length": 264,
+            "processed": "<story>The clash of dreams, a momentary glimmer, a serious race…! \n<story>Awesome! So cool!"
+        },
+        {
+            "text": "\"Japan Uma Musume Training Center Academy\"! \nI want to go there too…!",
+            "name": "Fine Motion",
+            "path_id": 7281116802518495981,
+            "block_id": 6,
+            "clip_length": 200,
+            "processed": "<story>\"Japan Uma Musume Training Center Academy\"! \n<story>I want to go there too…!"
+        },
+        {
+            "text": "(Dissatisfied…)",
+            "name": "Fine Motion",
+            "path_id": -8766839839533764839,
+            "block_id": 7,
+            "clip_length": 83,
+            "choices": [
+                {
+                    "text": "Fine!!",
+                    "hash": "5ea5c8d835ecf6dd6071d905547c5ab92d8e19789d5dc547ccb3a2edae25b07a"
+                }
+            ],
+            "processed": "<story>(Dissatisfied…)"
+        },
+        {
+            "text": "Wa, you're! Um, what's wrong? \n…you've got a scary look on your face.",
+            "name": "Fine Motion",
+            "path_id": 4949427083045816600,
+            "block_id": 8,
+            "clip_length": 241,
+            "processed": "<story>Wa, you're! Um, what's wrong? \n<story>…you've got a scary look on your face."
+        },
+        {
+            "text": "Since then, I've been thinking. About the burden of her duty, \nabout my resolve to bear some of that burden. But still-",
+            "name": "",
+            "path_id": 1867455658619008941,
+            "block_id": 9,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "I really want to hear your thoughts ",
+                    "hash": "2aff0c8ccf49f9c05d29478e47694a01050694205efd7d3613bb01845486c07f"
+                },
+                {
+                    "text": "I really want to hear your thoughts ",
+                    "hash": "cdc318ca07543a82fa16ddca9a531576b7602d856d774064cff3911144f3b67a"
+                }
+            ],
+            "processed": "<story>Since then, I've been thinking. About the burden of her duty, \n<story>about my resolve to bear some of that burden. But still-"
+        },
+        {
+            "text": "My thoughts? About…what we spoke about a while ago, about \n\"Being satisfied with just this\"?",
+            "name": "Fine Motion",
+            "path_id": 1161869056642577988,
+            "block_id": 10,
+            "clip_length": 399,
+            "processed": "<story>My thoughts? About…what we spoke about a while ago, about \n<story>\"Being satisfied with just this\"?"
+        },
+        {
+            "text": "Hmmm, my answer… won't change, I suppose.",
+            "name": "Fine Motion",
+            "path_id": -888433149140282549,
+            "block_id": 11,
+            "clip_length": 199,
+            "processed": "<story>Hmmm, my answer… won't change, I suppose."
+        },
+        {
+            "text": "I'm very happy you're concerned about me! But, you \nsee, in the first place- compared to the other girls \nat this school, I'm a different Uma Musume.",
+            "name": "Fine Motion",
+            "path_id": 4344986278704744353,
+            "block_id": 12,
+            "clip_length": 366,
+            "processed": "<story>I'm very happy you're concerned about me! But, you \n<story>see, in the first place- compared to the other girls \n<story>at this school, I'm a different Uma Musume."
+        },
+        {
+            "text": "For the family and people I must protect, to devote \nmyself to their long term peace and prosperity. That \nis my duty. My pride. The reason I'm here.",
+            "name": "Fine Motion",
+            "path_id": -7614510719276727177,
+            "block_id": 13,
+            "clip_length": 446,
+            "processed": "<story>For the family and people I must protect, to devote \n<story>myself to their long term peace and prosperity. That \n<story>is my duty. My pride. The reason I'm here."
+        },
+        {
+            "text": "You see? I wasn't born for the sake of running.",
+            "name": "Fine Motion",
+            "path_id": -7171181101567376954,
+            "block_id": 14,
+            "clip_length": 152,
+            "processed": "<story>You see? I wasn't born for the sake of running."
+        },
+        {
+            "text": "Every single word she spoke of while smiling, \nwas extremely heavy. …But, even so.",
+            "name": "",
+            "path_id": -7164221534941917913,
+            "block_id": 15,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "Not your \"Reason\", I want to hear your \"Feelings\"",
+                    "hash": "62343f47ee1f2508958ece13f4cd9a548154aad75799e2bbdcb071f24c356064",
+                    "processed": "<size=33>Not your \"Reason\", I want to hear your \"Feelings\"</size>"
+                }
+            ],
+            "processed": "<story>Every single word she spoke of while smiling, \n<story>was extremely heavy. …But, even so."
+        },
+        {
+            "text": "!",
+            "name": "Fine Motion",
+            "path_id": 2797146757363476058,
+            "block_id": 16,
+            "clip_length": 32,
+            "processed": "<story>!"
+        },
+        {
+            "text": "Royalty. Her duty. Her responsibility. \nThe reason she spoke of, it's all correct. But, even so-!",
+            "name": "",
+            "path_id": 232313546624597215,
+            "block_id": 17,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "Those aren't reasons to give up your dream",
+                    "hash": "27bde8ae58d04e6d80b6d7d8d4cac4289c3f7677b0ae116b6333eb5cf5d902af",
+                    "processed": "<size=38>Those aren't reasons to give up your dream</size>"
+                },
+                {
+                    "text": "Those aren't reasons to give up your dream",
+                    "hash": "2c1df1022e389a5c6aefd4ae13dbdc180dc0cdf29ec2ad4e002609c9857b0b2b",
+                    "processed": "<size=38>Those aren't reasons to give up your dream</size>"
+                }
+            ],
+            "processed": "<story>Royalty. Her duty. Her responsibility. \n<story>The reason she spoke of, it's all correct. But, even so-!"
+        },
+        {
+            "text": "Dreams…",
+            "name": "Fine Motion",
+            "path_id": 2675386887039305465,
+            "block_id": 18,
+            "clip_length": 45,
+            "processed": "<story>Dreams…"
+        },
+        {
+            "text": "Dreams…mine…? \n…",
+            "name": "Fine Motion",
+            "path_id": 1540058917354259085,
+            "block_id": 19,
+            "clip_length": 239,
+            "processed": "<story>Dreams…mine…? \n<story>…"
+        },
+        {
+            "text": "Fine Motion suddenly fell silent. \nShe probably needs a trigger for the sake of facing her feelings.",
+            "name": "",
+            "path_id": 1281071812477328925,
+            "block_id": 20,
+            "clip_length": 116,
+            "processed": "<story>Fine Motion suddenly fell silent. \n<story>She probably needs a trigger for the sake of facing her feelings."
+        },
+        {
+            "text": "That's why-",
+            "name": "",
+            "path_id": -7246432407237402520,
+            "block_id": 21,
+            "clip_length": 51,
+            "processed": "<story>That's why-"
+        },
+        {
+            "text": "The hell d'you say?…a mock race against Fine?",
+            "name": "Air Shakur",
+            "path_id": 5330416107232290534,
+            "block_id": 22,
+            "clip_length": 182,
+            "processed": "<story>The hell d'you say?…a mock race against Fine?"
+        },
+        {
+            "text": "Is your memory 0 bytes? Don't make me say it again, bastard. \nDidn't I tell you not to half-heartedly stick your nose in!",
+            "name": "Air Shakur",
+            "path_id": 8518712268323789182,
+            "block_id": 23,
+            "clip_length": 246,
+            "choices": [
+                {
+                    "text": "I am resolved.",
+                    "hash": "f6ca4d8db79eb7893e7621eb87229f31922ed9e9e4a9e59485cc211921d55688"
+                },
+                {
+                    "text": "I am resolved.",
+                    "hash": "7e5fac284134ed448b4128090458c8bf25286f6a627d206b284253fb08c953c3"
+                }
+            ],
+            "processed": "<story>Is your memory 0 bytes? Don't make me say it again, bastard. \n<story>Didn't I tell you not to half-heartedly stick your nose in!"
+        },
+        {
+            "text": "…Aaah?",
+            "name": "Air Shakur",
+            "path_id": 234624178800123778,
+            "block_id": 24,
+            "clip_length": 45,
+            "processed": "<story>…Aaah?"
+        },
+        {
+            "text": "You shouldn't speak so lightly, Trainer-sama.",
+            "name": "SP Commander",
+            "path_id": 4441922518386378974,
+            "block_id": 25,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "!!",
+                    "hash": "41fa91dd7af96b2b0550866e59d8cc9e203ae26c64b4cada1a9b2e1b8269397d"
+                }
+            ],
+            "processed": "<story>You shouldn't speak so lightly, Trainer-sama."
+        },
+        {
+            "text": "Heh, they've got their eyes on you.",
+            "name": "Air Shakur",
+            "path_id": 7584244375552228333,
+            "block_id": 26,
+            "clip_length": 90,
+            "processed": "<story>Heh, they've got their eyes on you."
+        },
+        {
+            "text": "Excuse me, but you don't seem to understand the \nseriousness of the situation. This will expose \na noble person to unnecessary danger.",
+            "name": "SP Commander",
+            "path_id": -6352288728677841383,
+            "block_id": 27,
+            "clip_length": 291,
+            "processed": "<story>Excuse me, but you don't seem to understand the \n<story>seriousness of the situation. This will expose \n<story>a noble person to unnecessary danger."
+        },
+        {
+            "text": "-Even you yourself, may lose everything.",
+            "name": "SP Commander",
+            "path_id": 5199495013923305194,
+            "block_id": 28,
+            "clip_length": 117,
+            "choices": [
+                {
+                    "text": "Like I said, I am resolved.",
+                    "hash": "d41e4b5f503e08ea22c7576cc8681003f6d403c8c55ffdbdff1efdde59bbe1f1"
+                }
+            ],
+            "processed": "<story>-Even you yourself, may lose everything."
+        },
+        {
+            "text": "…No, you clearly do not understand! \nAs someone who's duty is to protect Her Highness, I must firmly-",
+            "name": "SP Commander",
+            "path_id": 3923851826572589342,
+            "block_id": 29,
+            "clip_length": 272,
+            "choices": [
+                {
+                    "text": "Supporting their dreams with everything I have is my job!",
+                    "hash": "c20244bd9e32f5d7359c825abdddaba37264334187680d3f6091f16c54dc5cf7",
+                    "processed": "<size=29>Supporting their dreams with everything I have is my job!</size>"
+                },
+                {
+                    "text": "Supporting their dreams with everything I have is my job!",
+                    "hash": "bbc5ae45709ca0dd4f84a48ec96a15f9b990e2ed61f27aabfd21381c276addc1",
+                    "processed": "<size=29>Supporting their dreams with everything I have is my job!</size>"
+                }
+            ],
+            "processed": "<story>…No, you clearly do not understand! \n<story>As someone who's duty is to protect Her Highness, I must firmly-"
+        },
+        {
+            "text": "…!",
+            "name": "SP Commander",
+            "path_id": 8716106022998797905,
+            "block_id": 30,
+            "clip_length": 39,
+            "processed": "<story>…!"
+        },
+        {
+            "text": "Tch… whatever, this is annoying.",
+            "name": "Air Shakur",
+            "path_id": 5044509810057257339,
+            "block_id": 31,
+            "clip_length": 121,
+            "processed": "<story>Tch… whatever, this is annoying."
+        },
+        {
+            "text": "And? When are we doing this mock race?",
+            "name": "Air Shakur",
+            "path_id": -7789052101262535559,
+            "block_id": 32,
+            "clip_length": 143,
+            "choices": [
+                {
+                    "text": "Shakur…!",
+                    "hash": "9476a279cdc18f18e33337aa0ef63b9ca58ead0e387c816f2b3c19ef3ddac7af"
+                }
+            ],
+            "processed": "<story>And? When are we doing this mock race?"
+        },
+        {
+            "text": "Commander…will you really overlook this? \nIt's a mock race, after all.",
+            "name": "Fine Motion",
+            "path_id": 466995229639085081,
+            "block_id": 33,
+            "clip_length": 267,
+            "processed": "<story>Commander…will you really overlook this? \n<story>It's a mock race, after all."
+        },
+        {
+            "text": "Trainer-sama is here to fully support Your Highness, \neven risking her entire existence. On top of that, \nif Your Highness also wishes it-",
+            "name": "SP Commander",
+            "path_id": 4626656722222475200,
+            "block_id": 34,
+            "clip_length": 337,
+            "processed": "<story>Trainer-sama is here to fully support Your Highness, \n<story>even risking her entire existence. On top of that, \n<story>if Your Highness also wishes it-"
+        },
+        {
+            "text": "…As someone who's been by your side watching over your labors, \nI can do no more to stop you… do as your heart desires.",
+            "name": "SP Commander",
+            "path_id": -7188884906048081440,
+            "block_id": 35,
+            "clip_length": 399,
+            "processed": "<story>…As someone who's been by your side watching over your labors, \n<story>I can do no more to stop you… do as your heart desires."
+        },
+        {
+            "text": "I want to-",
+            "name": "Fine Motion",
+            "path_id": 8570060278090872459,
+            "block_id": 36,
+            "clip_length": 46,
+            "processed": "<story>I want to-"
+        },
+        {
+            "text": "Hey! How long do you plan on standing over there?!",
+            "name": "Air Shakur",
+            "path_id": 7007625395585470339,
+            "block_id": 37,
+            "clip_length": 122,
+            "processed": "<story>Hey! How long do you plan on standing over there?!"
+        },
+        {
+            "text": "Or what? Since you've come this far, you're not going to say \nsomething stupid like \"Even without running I'm satisfied\" right?",
+            "name": "Air Shakur",
+            "path_id": 3641497204420058590,
+            "block_id": 38,
+            "clip_length": 265,
+            "processed": "<story>Or what? Since you've come this far, you're not going to say \n<story>something stupid like \"Even without running I'm satisfied\" right?"
+        },
+        {
+            "text": "…Shakur.",
+            "name": "Fine Motion",
+            "path_id": 538460102555588950,
+            "block_id": 39,
+            "clip_length": 87,
+            "processed": "<story>…Shakur."
+        },
+        {
+            "text": "Don't act like you understand just by watching from \n\"Over There\", Your Royal Highness. \"Over Here\" this \npassion, this intensity, isn't so simple.",
+            "name": "Air Shakur",
+            "path_id": -934757935939528924,
+            "block_id": 40,
+            "clip_length": 367,
+            "processed": "<story>Don't act like you understand just by watching from \n<story>\"Over There\", Your Royal Highness. \"Over Here\" this \n<story>passion, this intensity, isn't so simple."
+        },
+        {
+            "text": "Let's go, Fine. -I won't let you say you don't want to know.",
+            "name": "Air Shakur",
+            "path_id": -841595581573309714,
+            "block_id": 41,
+            "clip_length": 163,
+            "processed": "<story>Let's go, Fine. -I won't let you say you don't want to know."
+        },
+        {
+            "text": "And so - the mock race between these two, finally, began!",
+            "name": "",
+            "path_id": -7132300971088774210,
+            "block_id": 42,
+            "clip_length": 82,
+            "processed": "<story>And so - the mock race between these two, finally, began!"
+        },
+        {
+            "text": "Haa, haa, haa, haa…!",
+            "name": "Fine Motion",
+            "path_id": -6789322347964442712,
+            "block_id": 43,
+            "clip_length": 74,
+            "processed": "<story>Haa, haa, haa, haa…!"
+        },
+        {
+            "text": "(Incredible, with each step my entire leg trembles. \nThe scenery goes rushing by. My heart is unbearably \nloud…I… right now, I'm running!!)",
+            "name": "Fine Motion",
+            "path_id": 96271333616765824,
+            "block_id": 44,
+            "clip_length": 417,
+            "processed": "<story>(Incredible, with each step my entire leg trembles. \n<story>The scenery goes rushing by. My heart is unbearably \n<story>loud…I… right now, I'm running!!)"
+        },
+        {
+            "text": "Ha! Oi oi! Is that all you got, Your Royal Highness?!",
+            "name": "Air Shakur",
+            "path_id": -4471586260813957711,
+            "block_id": 45,
+            "clip_length": 142,
+            "processed": "<story>Ha! Oi oi! Is that all you got, Your Royal Highness?!"
+        },
+        {
+            "text": "(Shakur…! What pressure-…I'm getting goosebumps! Just like \nthis, it seems I'll be overwhelmed!! But…But, why is it?!)",
+            "name": "Fine Motion",
+            "path_id": -7864647930072354100,
+            "block_id": 46,
+            "clip_length": 330,
+            "processed": "<story>(Shakur…! What pressure-…I'm getting goosebumps! Just like \n<story>this, it seems I'll be overwhelmed!! But…But, why is it?!)"
+        },
+        {
+            "text": "It seems even now…still, I can run!! \n-HAAAAAAAAAAAAA!!",
+            "name": "Fine Motion",
+            "path_id": 3298162325262120260,
+            "block_id": 47,
+            "clip_length": 253,
+            "processed": "<story>It seems even now…still, I can run!! \n<story>-HAAAAAAAAAAAAA!!"
+        },
+        {
+            "text": "! Heh, looks like you can handle it…! \nBut, I won't let you! ORAAAAAAAAAAA!!",
+            "name": "Air Shakur",
+            "path_id": 9017821577796498582,
+            "block_id": 48,
+            "clip_length": 291,
+            "processed": "<story>! Heh, looks like you can handle it…! \n<story>But, I won't let you! ORAAAAAAAAAAA!!"
+        },
+        {
+            "text": "AAAAAAAAAH…!!",
+            "name": "Fine Motion",
+            "path_id": 5665129678911697462,
+            "block_id": 49,
+            "clip_length": 85,
+            "processed": "<story>AAAAAAAAAH…!!"
+        },
+        {
+            "text": "(Aah… amazing. My heart is pounding. My soul is crying out! \n\"Faster\" \"Keep Moving Forward\" \"Run\", \"RUN!\")",
+            "name": "Fine Motion",
+            "path_id": 6330850732037710237,
+            "block_id": 50,
+            "clip_length": 340,
+            "processed": "<story>(Aah… amazing. My heart is pounding. My soul is crying out! \n<story>\"Faster\" \"Keep Moving Forward\" \"Run\", \"RUN!\")"
+        },
+        {
+            "text": "I am-…I'm also…!",
+            "name": "Fine Motion",
+            "path_id": 7404516020006122509,
+            "block_id": 51,
+            "clip_length": 142,
+            "processed": "<story>I am-…I'm also…!"
+        },
+        {
+            "text": "Haaa…haaa…haaa…",
+            "name": "Both",
+            "path_id": -1427797687566736868,
+            "block_id": 52,
+            "clip_length": 154,
+            "processed": "<story>Haaa…haaa…haaa…"
+        },
+        {
+            "text": "-Heh. It's my win.",
+            "name": "Air Shakur",
+            "path_id": 8528910728679809528,
+            "block_id": 53,
+            "clip_length": 104,
+            "processed": "<story>-Heh. It's my win."
+        },
+        {
+            "text": "Fufuu…yeah. It's extremely frustrating!",
+            "name": "Fine Motion",
+            "path_id": 1849365575355631802,
+            "block_id": 54,
+            "clip_length": 146,
+            "choices": [
+                {
+                    "text": "…Fine.",
+                    "hash": "6e460d0b10d928afe2df4a8ef9dd807ea2e5b28e232075222692470e08a1256e"
+                }
+            ],
+            "processed": "<story>Fufuu…yeah. It's extremely frustrating!"
+        },
+        {
+            "text": "Trainer!…Thank you. \nThank you, for giving me the chance to face my own feelings.",
+            "name": "Fine Motion",
+            "path_id": -2889429994585184936,
+            "block_id": 55,
+            "clip_length": 232,
+            "processed": "<story>Trainer!…Thank you. \n<story>Thank you, for giving me the chance to face my own feelings."
+        },
+        {
+            "text": "Also, I'm sorry. I told a lie.",
+            "name": "Fine Motion",
+            "path_id": 5793454623892098038,
+            "block_id": 56,
+            "clip_length": 182,
+            "processed": "<story>Also, I'm sorry. I told a lie."
+        },
+        {
+            "text": "I… don't want to return home just yet.",
+            "name": "Fine Motion",
+            "path_id": -862318623153821039,
+            "block_id": 57,
+            "clip_length": 132,
+            "processed": "<story>I… don't want to return home just yet."
+        },
+        {
+            "text": "Because I want to stay here. \nAnd run. More and more…!",
+            "name": "Fine Motion",
+            "path_id": -2804836895261363173,
+            "block_id": 58,
+            "clip_length": 157,
+            "processed": "<story>Because I want to stay here. \n<story>And run. More and more…!"
+        },
+        {
+            "text": "Boldly declaring that, her eyes shone brightly. \nBrighter than any time before this.",
+            "name": "",
+            "path_id": -1462421124705253740,
+            "block_id": 59,
+            "clip_length": 110,
+            "processed": "<story>Boldly declaring that, her eyes shone brightly. \n<story>Brighter than any time before this."
+        }
+    ],
+    "title": "Hope is a waking dream."
+}

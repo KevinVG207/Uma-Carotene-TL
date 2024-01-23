@@ -1,0 +1,599 @@
+{
+    "type": "story",
+    "row_index": 474,
+    "file_name": "story/data/04/1021/storytimeline_041021007",
+    "hash": "HWGMZGCUKEDSWAXBAUMKLRJN62ETTUTD",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -2102787705591770549,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Haaa, haaa, haa… Finished all ten.",
+            "name": "Tamamo Cross",
+            "path_id": 7684827995162457973,
+            "block_id": 1,
+            "clip_length": 165,
+            "choices": [
+                {
+                    "text": "Good work finishing the morning training menu",
+                    "hash": "3683b006219db88a96d63a0906d3c8ccd6ddff519ea126ea55926b8ae3f66820",
+                    "processed": "<size=35>Good work finishing the morning training menu</size>"
+                }
+            ],
+            "processed": "<story>Haaa, haaa, haa… Finished all ten."
+        },
+        {
+            "text": "…too easy, I can keep goin'. I'm gonna go do 10 more.",
+            "name": "Tamamo Cross",
+            "path_id": 7342326801532911510,
+            "block_id": 2,
+            "clip_length": 245,
+            "choices": [
+                {
+                    "text": "But, there's still the afternoon…",
+                    "hash": "31633d16a7c014701724fdaae83849f9ea7565e8b9103319f09da44860f250e7"
+                }
+            ],
+            "processed": "<story>…too easy, I can keep goin'. I'm gonna go do 10 more."
+        },
+        {
+            "text": "We're entering the high point of the summer training camp, so \nshe's probably building up some fatigue. The blazing sun on the \nbeach should be compounding that.",
+            "name": "",
+            "path_id": 2808626779143148803,
+            "block_id": 3,
+            "clip_length": 112,
+            "processed": "<story>We're entering the high point of the summer training camp, so \n<story>she's probably building up some fatigue. The blazing sun on the \n<story>beach should be compounding that."
+        },
+        {
+            "text": "All th' more reason ta push myself ta th' limit! \nIsn't this th' best chance ta train my endurance?",
+            "name": "Tamamo Cross",
+            "path_id": 6061148424063602691,
+            "block_id": 4,
+            "clip_length": 245,
+            "processed": "<story>All th' more reason ta push myself ta th' limit! \n<story>Isn't this th' best chance ta train my endurance?"
+        },
+        {
+            "text": "I wanna be thorough today…!",
+            "name": "Tamamo Cross",
+            "path_id": -171078297478660840,
+            "block_id": 5,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "Slowly increasing it one at a time is fine",
+                    "hash": "4cc306301f6471356eb92315863fddbe56e8b7b955ef4337f522dfbbe3374c31",
+                    "processed": "<size=41>Slowly increasing it one at a time is fine</size>"
+                },
+                {
+                    "text": "Slowly increasing it one at a time is fine",
+                    "hash": "fe83e7197ce364b4646f6ea3cef8d947d274b295df0b81486e3ac0b174031b5e",
+                    "processed": "<size=41>Slowly increasing it one at a time is fine</size>"
+                }
+            ],
+            "processed": "<story>I wanna be thorough today…!"
+        },
+        {
+            "text": "Okay, tha's fine! Alright, here I go!",
+            "name": "Tamamo Cross",
+            "path_id": -2152884441198322459,
+            "block_id": 6,
+            "clip_length": 128,
+            "processed": "<story>Okay, tha's fine! Alright, here I go!"
+        },
+        {
+            "text": "Tamamo Cross was really motivated. Though it was \nunplanned, I added more to her afternoon training \nmenu since she wanted to train harder.",
+            "name": "",
+            "path_id": 6351008995511171441,
+            "block_id": 7,
+            "clip_length": 121,
+            "processed": "<story>Tamamo Cross was really motivated. Though it was \n<story>unplanned, I added more to her afternoon training \n<story>menu since she wanted to train harder."
+        },
+        {
+            "text": "Ah, there she is. Trainer!",
+            "name": "Tamamo Cross",
+            "path_id": -2709404839408196668,
+            "block_id": 8,
+            "clip_length": 96,
+            "processed": "<story>Ah, there she is. Trainer!"
+        },
+        {
+            "text": "Hey, wanna go ta the nearby summer festival? \nNot like ya got anything better ta do, right?",
+            "name": "Tamamo Cross",
+            "path_id": -787158790124138442,
+            "block_id": 9,
+            "clip_length": 193,
+            "choices": [
+                {
+                    "text": "Sure",
+                    "hash": "7b2c6e4e5f4a77b1fc265497fc360d54de4549e7d36d30425c59d1610257f859"
+                }
+            ],
+            "processed": "<story>Hey, wanna go ta the nearby summer festival? \n<story>Not like ya got anything better ta do, right?"
+        },
+        {
+            "text": "Ya see, I was thinkin' 'bout tryin' \nout this rewardin' yerself thing…",
+            "name": "Tamamo Cross",
+            "path_id": -3632048913582061112,
+            "block_id": 10,
+            "clip_length": 239,
+            "processed": "<story>Ya see, I was thinkin' 'bout tryin' \n<story>out this rewardin' yerself thing…"
+        },
+        {
+            "text": "'Cuz I worked really hard on today's trainin', right? \nIt was two days worth of trainin'. So…",
+            "name": "Tamamo Cross",
+            "path_id": -644181095230583026,
+            "block_id": 11,
+            "clip_length": 325,
+            "choices": [
+                {
+                    "text": "Sounds like you deserve a reward!",
+                    "hash": "66741d649e6d7ad154d63ae1ae2474f17b37f6d6ec80f1a3474ccef17edd9f1e"
+                },
+                {
+                    "text": "Sounds like you deserve a reward!",
+                    "hash": "e802275abd52f3e20aef800b4d9fe413b06657742e7074c6de2fd8934fe90383"
+                }
+            ],
+            "processed": "<story>'Cuz I worked really hard on today's trainin', right? \n<story>It was two days worth of trainin'. So…"
+        },
+        {
+            "text": "R-right…! Since Trainer says so, \nI'll try givin' myself a reward!!",
+            "name": "Tamamo Cross",
+            "path_id": -6385859441411596912,
+            "block_id": 12,
+            "clip_length": 226,
+            "choices": [
+                {
+                    "text": "What kind of reward?",
+                    "hash": "f3b8f531f267130963dfbce86854b83130c50c70f3689a73fc89cbe372c27950"
+                },
+                {
+                    "text": "What kind of reward?",
+                    "hash": "eba7d4ff896c6cb67dac4e02a952667ad9d1a597d91dda8c56f69ef08ceea8ac"
+                }
+            ],
+            "processed": "<story>R-right…! Since Trainer says so, \n<story>I'll try givin' myself a reward!!"
+        },
+        {
+            "text": "Walkin' 'round and tryin' all th' food stalls! I've wanted ta do \nsomethin' like this since I was a kid. Tonight I'm gonna splurge \nan' hit all the' stalls!",
+            "name": "Tamamo Cross",
+            "path_id": -3375469372024772646,
+            "block_id": 13,
+            "clip_length": 259,
+            "processed": "<story>Walkin' 'round and tryin' all th' food stalls! I've wanted ta do \n<story>somethin' like this since I was a kid. Tonight I'm gonna splurge \n<story>an' hit all the' stalls!"
+        },
+        {
+            "text": "What should I eat first~!? It's so hard ta decide!",
+            "name": "Tamamo Cross",
+            "path_id": -4463866392446190832,
+            "block_id": 14,
+            "clip_length": 119,
+            "processed": "<story>What should I eat first~!? It's so hard ta decide!"
+        },
+        {
+            "text": "C'mon, welcome! Choco-bananas! Tonight as a special service, if \nyou beat me in Rock-Paper-Scissors, you'll get one more free!",
+            "name": "Stall Manager",
+            "path_id": 6687168731518796436,
+            "block_id": 15,
+            "clip_length": 225,
+            "processed": "<story>C'mon, welcome! Choco-bananas! Tonight as a special service, if \n<story>you beat me in Rock-Paper-Scissors, you'll get one more free!"
+        },
+        {
+            "text": "Choco-bananas~! They look good but, thinkin' 'bout how fillin' \nthey might be, maybe I should pass fer now…",
+            "name": "Tamamo Cross",
+            "path_id": -7634340023275320698,
+            "block_id": 16,
+            "clip_length": 238,
+            "choices": [
+                {
+                    "text": "Weren't we going to eat and walk around?",
+                    "hash": "4d137b10ea7387da9af93c802c1c0130682927e3458b66143974a9e8a3f63545",
+                    "processed": "<size=39>Weren't we going to eat and walk around?</size>"
+                },
+                {
+                    "text": "Weren't we going to eat and walk around?",
+                    "hash": "0f86bebe9f629dc5fa4890a1db18d76582f34dc4f23901a6401a971903720b71",
+                    "processed": "<size=39>Weren't we going to eat and walk around?</size>"
+                }
+            ],
+            "processed": "<story>Choco-bananas~! They look good but, thinkin' 'bout how fillin' \n<story>they might be, maybe I should pass fer now…"
+        },
+        {
+            "text": "Ah… tha's true… But… Choco-banana… \nare those a good thing ta buy fer that…?",
+            "name": "Tamamo Cross",
+            "path_id": 1571856483116583524,
+            "block_id": 17,
+            "clip_length": 244,
+            "choices": [
+                {
+                    "text": "Can you buy one in my place?",
+                    "hash": "dcfdd30b961af9393832bbdb9a37cb1d2687215543d4fb160595d5b00440ed18"
+                },
+                {
+                    "text": "Can you buy one in my place?",
+                    "hash": "41d90f42e07b5f59e4ad5695d522aa18722a097470d66a1bb8b2109e13ee878a"
+                }
+            ],
+            "processed": "<story>Ah… tha's true… But… Choco-banana… \n<story>are those a good thing ta buy fer that…?"
+        },
+        {
+            "text": "Hm? Ah, Trainer, yer bad at Rock-Paper-Scissors, ain't ya~? \nGot it, I'll get one for ya!",
+            "name": "Tamamo Cross",
+            "path_id": 804322255750519787,
+            "block_id": 18,
+            "clip_length": 206,
+            "processed": "<story>Hm? Ah, Trainer, yer bad at Rock-Paper-Scissors, ain't ya~? \n<story>Got it, I'll get one for ya!"
+        },
+        {
+            "text": "Old man, one choco-banana!",
+            "name": "Tamamo Cross",
+            "path_id": -1643095135747076558,
+            "block_id": 19,
+            "clip_length": 85,
+            "processed": "<story>Old man, one choco-banana!"
+        },
+        {
+            "text": "Here ya go! Alright, bonus time! Rock-Paper-Scissors!",
+            "name": "Stall Manager",
+            "path_id": -6816655232244187362,
+            "block_id": 20,
+            "clip_length": 138,
+            "processed": "<story>Here ya go! Alright, bonus time! Rock-Paper-Scissors!"
+        },
+        {
+            "text": "Rock-Paper-Scissors!",
+            "name": "Tamamo Cross",
+            "path_id": 7926518734957444472,
+            "block_id": 21,
+            "clip_length": 58,
+            "processed": "<story>Rock-Paper-Scissors!"
+        },
+        {
+            "text": "Alright, I won!! \nTrainer, I got two of 'em!",
+            "name": "Tamamo Cross",
+            "path_id": 9192124628583764669,
+            "block_id": 22,
+            "clip_length": 138,
+            "choices": [
+                {
+                    "text": "You won, so I'll give you one",
+                    "hash": "6676cac3bff5c9c472b17136c7a22d47c42a38ae7112b8b97e1a649cd8b5b0bd"
+                },
+                {
+                    "text": "You won, so I'll give you one",
+                    "hash": "7deaeefde4e9a6cb25a8e89c5fa713a198ac0ea8b1374b89f5943b042c3b11a3"
+                }
+            ],
+            "processed": "<story>Alright, I won!! \n<story>Trainer, I got two of 'em!"
+        },
+        {
+            "text": "Huh?…Ah-…okay… \nI'll take one… thanks.",
+            "name": "Tamamo Cross",
+            "path_id": -8249908880438072161,
+            "block_id": 23,
+            "clip_length": 274,
+            "processed": "<story>Huh?…Ah-…okay… \n<story>I'll take one… thanks."
+        },
+        {
+            "text": "Oh…? Oooooh! Trainer! \nThe beef tendon here, it's cooked in miso and mirin!",
+            "name": "Tamamo Cross",
+            "path_id": -6261441669490726594,
+            "block_id": 24,
+            "clip_length": 181,
+            "processed": "<story>Oh…? Oooooh! Trainer! \n<story>The beef tendon here, it's cooked in miso and mirin!"
+        },
+        {
+            "text": "It's white miso!! And this one has alot 'a miso tha' goes well \nwith soy sauce! Got no choice but ta try it, huh?!",
+            "name": "Tamamo Cross",
+            "path_id": -6155969840628822367,
+            "block_id": 25,
+            "clip_length": 223,
+            "processed": "<story>It's white miso!! And this one has alot 'a miso tha' goes well \n<story>with soy sauce! Got no choice but ta try it, huh?!"
+        },
+        {
+            "text": "Lil' lady, ya know a lot! Tha's right, we sell \nDoteyaki! Even though yer an elementary schooler, \ndo ya eat alot of these kinds of snacks?",
+            "name": "Stall Manager",
+            "path_id": -7627962334115588098,
+            "block_id": 26,
+            "clip_length": 244,
+            "processed": "<story>Lil' lady, ya know a lot! Tha's right, we sell \n<story>Doteyaki! Even though yer an elementary schooler, \n<story>do ya eat alot of these kinds of snacks?"
+        },
+        {
+            "text": "Ehehe, Dad eats alot of these kinds of… \n-wait, who are ya callin' an elementary schooler?!",
+            "name": "Tamamo Cross",
+            "path_id": -8364842796161606438,
+            "block_id": 27,
+            "clip_length": 145,
+            "processed": "<story>Ehehe, Dad eats alot of these kinds of… \n<story>-wait, who are ya callin' an elementary schooler?!"
+        },
+        {
+            "text": "Oh my, yer not in elementary? Pardon me. \nAs an apology, how 'bout I treat ya ta one!",
+            "name": "Stall Manager",
+            "path_id": 1858593899990602368,
+            "block_id": 28,
+            "clip_length": 165,
+            "processed": "<story>Oh my, yer not in elementary? Pardon me. \n<story>As an apology, how 'bout I treat ya ta one!"
+        },
+        {
+            "text": "Eh?! Really? Ah, in tha' case, \nI'll pay so it's like it's half-price instead, can I get two?",
+            "name": "Tamamo Cross",
+            "path_id": 3958612460054981905,
+            "block_id": 29,
+            "clip_length": 185,
+            "processed": "<story>Eh?! Really? Ah, in tha' case, \n<story>I'll pay so it's like it's half-price instead, can I get two?"
+        },
+        {
+            "text": "Nnn~, from th' gooey beef tendon a faint sweetness \nfrom th' white miso seeps through… irresistable~.",
+            "name": "Tamamo Cross",
+            "path_id": 5315177252462981325,
+            "block_id": 30,
+            "clip_length": 315,
+            "processed": "<story>Nnn~, from th' gooey beef tendon a faint sweetness \n<story>from th' white miso seeps through… irresistable~."
+        },
+        {
+            "text": "It wasn't a mistake ta buy this! \nOn top of that, gettin' two of 'em. How extravagant!",
+            "name": "Tamamo Cross",
+            "path_id": -8582115590979759357,
+            "block_id": 31,
+            "clip_length": 216,
+            "choices": [
+                {
+                    "text": "…Excuse me, one more order",
+                    "hash": "76af5e72eca6798f5a7a3d97f1439e71fef212d89f4e1edaa46e463419a85bd9"
+                }
+            ],
+            "processed": "<story>It wasn't a mistake ta buy this! \n<story>On top of that, gettin' two of 'em. How extravagant!"
+        },
+        {
+            "text": "Hahahaa, just the' right amount of luxury! It's got an authentic \nflavor ta it, so it'd be a waste not ta eat it!",
+            "name": "Tamamo Cross",
+            "path_id": 4057834228123519284,
+            "block_id": 32,
+            "clip_length": 189,
+            "processed": "<story>Hahahaa, just the' right amount of luxury! It's got an authentic \n<story>flavor ta it, so it'd be a waste not ta eat it!"
+        },
+        {
+            "text": "Next up… yeah, gotta be some takoyaki. \nTrainer, want some too?",
+            "name": "Tamamo Cross",
+            "path_id": -4398628338587726163,
+            "block_id": 33,
+            "clip_length": 182,
+            "choices": [
+                {
+                    "text": "I don't think I can finish one order…",
+                    "hash": "000bace9c59cfb08dceffbf63aa57c8f9d30638c7012cf0ed4089ee2af234f1e"
+                }
+            ],
+            "processed": "<story>Next up… yeah, gotta be some takoyaki. \n<story>Trainer, want some too?"
+        },
+        {
+            "text": "Wanna split one with me then?",
+            "name": "Tamamo Cross",
+            "path_id": -4237593470750458237,
+            "block_id": 34,
+            "clip_length": 73,
+            "processed": "<story>Wanna split one with me then?"
+        },
+        {
+            "text": "I bought an order of Takoyaki, and split it with Tamamo Cross.",
+            "name": "",
+            "path_id": 3077594504132944726,
+            "block_id": 35,
+            "clip_length": 81,
+            "processed": "<story>I bought an order of Takoyaki, and split it with Tamamo Cross."
+        },
+        {
+            "text": "…There's alot 'a dough. Is there even any octopus…?",
+            "name": "Tamamo Cross",
+            "path_id": -211397198076584690,
+            "block_id": 36,
+            "clip_length": 177,
+            "choices": [
+                {
+                    "text": "Seems about right for festival takoyaki",
+                    "hash": "48812d5499aa4162287c1383716c54eaa26aa2e1b136651321f4c545beb0a6d5",
+                    "processed": "<size=43>Seems about right for festival takoyaki</size>"
+                },
+                {
+                    "text": "Seems about right for festival takoyaki",
+                    "hash": "8a31da545ac77bfbd596ec914d9b8b0f733e91172285b415d40a8e5835964c71",
+                    "processed": "<size=43>Seems about right for festival takoyaki</size>"
+                }
+            ],
+            "processed": "<story>…There's alot 'a dough. Is there even any octopus…?"
+        },
+        {
+            "text": "Ah, sounds like Trainer didn't have high \nexpectations for its flavor either.",
+            "name": "Tamamo Cross",
+            "path_id": 1984028463035558051,
+            "block_id": 37,
+            "clip_length": 148,
+            "processed": "<story>Ah, sounds like Trainer didn't have high \n<story>expectations for its flavor either."
+        },
+        {
+            "text": "…I've always wondered about tha'. Why do people buy takoyaki at \na festival, even if it ain't from a specialty shop?",
+            "name": "Tamamo Cross",
+            "path_id": -265423123415003953,
+            "block_id": 38,
+            "clip_length": 319,
+            "processed": "<story>…I've always wondered about tha'. Why do people buy takoyaki at \n<story>a festival, even if it ain't from a specialty shop?"
+        },
+        {
+            "text": "It's… probably that. Th' mood in th' air. \nTh' festival atmosphere makes it tastier.",
+            "name": "Tamamo Cross",
+            "path_id": 4809418304060683209,
+            "block_id": 39,
+            "clip_length": 246,
+            "choices": [
+                {
+                    "text": "Maybe…",
+                    "hash": "48e0d7a18d5bbadfd6fdbef3949549ac40373ae7590342f4d6804192364e93a3"
+                }
+            ],
+            "processed": "<story>It's… probably that. Th' mood in th' air. \n<story>Th' festival atmosphere makes it tastier."
+        },
+        {
+            "text": "Right? But, without tryin' it once, ya'd never \nunderstand why anyone would buy somethin' like that…",
+            "name": "Tamamo Cross",
+            "path_id": -1857955348405171352,
+            "block_id": 40,
+            "clip_length": 253,
+            "processed": "<story>Right? But, without tryin' it once, ya'd never \n<story>understand why anyone would buy somethin' like that…"
+        },
+        {
+            "text": "…same with rewardin' yerself.",
+            "name": "Tamamo Cross",
+            "path_id": 3574685168782077385,
+            "block_id": 41,
+            "clip_length": 155,
+            "processed": "<story>…same with rewardin' yerself."
+        },
+        {
+            "text": "I finally get it. Why ya'd want to splurge on a reward… \npartly so ya have something ta look forward ta.",
+            "name": "Tamamo Cross",
+            "path_id": 8601762549982001989,
+            "block_id": 42,
+            "clip_length": 216,
+            "processed": "<story>I finally get it. Why ya'd want to splurge on a reward… \n<story>partly so ya have something ta look forward ta."
+        },
+        {
+            "text": "While looking at the night sky, Tamamo Cross \nspoke softly as if recalling something.",
+            "name": "",
+            "path_id": 8374481690246256451,
+            "block_id": 43,
+            "clip_length": 76,
+            "processed": "<story>While looking at the night sky, Tamamo Cross \n<story>spoke softly as if recalling something."
+        },
+        {
+            "text": "…A while back, those pancakes I ate, \nI've wanted ta eat 'em again.",
+            "name": "Tamamo Cross",
+            "path_id": -2594680798202979690,
+            "block_id": 44,
+            "clip_length": 182,
+            "processed": "<story>…A while back, those pancakes I ate, \n<story>I've wanted ta eat 'em again."
+        },
+        {
+            "text": "Up until now, just regular hotcake mix has been fine but, \nthat cafe's pancakes are my goal now.",
+            "name": "Tamamo Cross",
+            "path_id": 8090898189565803493,
+            "block_id": 45,
+            "clip_length": 220,
+            "processed": "<story>Up until now, just regular hotcake mix has been fine but, \n<story>that cafe's pancakes are my goal now."
+        },
+        {
+            "text": "My goals have gotten higher! Rewardin' myself, \nit's raisin' my motivation to aim even higher!",
+            "name": "Tamamo Cross",
+            "path_id": 2105815812331820138,
+            "block_id": 46,
+            "clip_length": 293,
+            "choices": [
+                {
+                    "text": "T-that's true…",
+                    "hash": "017e2b90c088057dad1866070de9fa7b743041698b1e1a6c5371d78d7a21a6e3"
+                },
+                {
+                    "text": "T-that's true…",
+                    "hash": "43652f8b0aa58dadb037da9ce398cbffd8eccc2e01a219c76e3224c805ca5202"
+                }
+            ],
+            "processed": "<story>My goals have gotten higher! Rewardin' myself, \n<story>it's raisin' my motivation to aim even higher!"
+        },
+        {
+            "text": "I simply wanted her to spoil herself a little more but… to turn \nthat into a reason to aim higher, it's very much like her.",
+            "name": "",
+            "path_id": 4972823875346001750,
+            "block_id": 47,
+            "clip_length": 123,
+            "processed": "<story>I simply wanted her to spoil herself a little more but… to turn \n<story>that into a reason to aim higher, it's very much like her."
+        },
+        {
+            "text": "'sides, if I don't know what's tasty or good, \nhow can I know what ta get fer my family?!",
+            "name": "Tamamo Cross",
+            "path_id": 4280580363451394805,
+            "block_id": 48,
+            "clip_length": 181,
+            "processed": "<story>'sides, if I don't know what's tasty or good, \n<story>how can I know what ta get fer my family?!"
+        },
+        {
+            "text": "…tha' weddin' anniversary present, \nI ended up havin' Trainer choose it fer me, after all…",
+            "name": "Tamamo Cross",
+            "path_id": 2750620812167729749,
+            "block_id": 49,
+            "clip_length": 201,
+            "processed": "<story>…tha' weddin' anniversary present, \n<story>I ended up havin' Trainer choose it fer me, after all…"
+        },
+        {
+            "text": "Right, in the end she was overwhelmed by the the \natmosphere in the store and forced to retreat. \nShe couldn't decide on the sweets herself.",
+            "name": "",
+            "path_id": 4628321035722085616,
+            "block_id": 50,
+            "clip_length": 116,
+            "choices": [
+                {
+                    "text": "Gaining experience is a good thing!",
+                    "hash": "64494bb9bb28d37eaa332756b7438f45487e9308f62b2ac43e815dc860b6378f"
+                },
+                {
+                    "text": "Gaining experience is a good thing!",
+                    "hash": "d443675ed3a6a899babe8a4660b42cf28d436d28fd5f89baae7dec604363e0f6"
+                }
+            ],
+            "processed": "<story>Right, in the end she was overwhelmed by the the \n<story>atmosphere in the store and forced to retreat. \n<story>She couldn't decide on the sweets herself."
+        },
+        {
+            "text": "Right! After this, I'll give \"Rewardin' myself\" a try! \nMake sure ya teach me a lot, Trainer!",
+            "name": "Tamamo Cross",
+            "path_id": -3052487885497681570,
+            "block_id": 51,
+            "clip_length": 254,
+            "processed": "<story>Right! After this, I'll give \"Rewardin' myself\" a try! \n<story>Make sure ya teach me a lot, Trainer!"
+        },
+        {
+            "text": "Ah, but… I'll pass on that super expensive choco. \nSomething like today, just walkin' and eatin', is jus' right.",
+            "name": "Tamamo Cross",
+            "path_id": -4895806179311013273,
+            "block_id": 52,
+            "clip_length": 271,
+            "choices": [
+                {
+                    "text": "But, you didn't spend very much though?",
+                    "hash": "859b6ec9c6fd92d4ed8034a09ef0b76f99e66d15d1e87e7f16fec14db9d27961",
+                    "processed": "<size=40>But, you didn't spend very much though?</size>"
+                },
+                {
+                    "text": "But, you didn't spend very much though?",
+                    "hash": "4ac30c004b0d449c2915db282c108dd3e2b6bf82e6a6c8c0d8a8748c9b18fa2b",
+                    "processed": "<size=40>But, you didn't spend very much though?</size>"
+                }
+            ],
+            "processed": "<story>Ah, but… I'll pass on that super expensive choco. \n<story>Something like today, just walkin' and eatin', is jus' right."
+        },
+        {
+            "text": "Of course! My Osakan soul won't let me pay full price fer \nanythin'! I won't change my penny-pinchin' ways!",
+            "name": "Tamamo Cross",
+            "path_id": 8915720179154820718,
+            "block_id": 53,
+            "clip_length": 230,
+            "choices": [
+                {
+                    "text": "Yo! Osaka soul!!",
+                    "hash": "29eb3022d2fda89913fea7ef00cd599905148590a5a52db6ea7386cfd38db3e9"
+                }
+            ],
+            "processed": "<story>Of course! My Osakan soul won't let me pay full price fer \n<story>anythin'! I won't change my penny-pinchin' ways!"
+        },
+        {
+            "text": "Got tha' right! Tamamo Cross, having tasted luxury, \nwill take even further strides forward!",
+            "name": "Tamamo Cross",
+            "path_id": -8349596246760668676,
+            "block_id": 54,
+            "clip_length": 256,
+            "processed": "<story>Got tha' right! Tamamo Cross, having tasted luxury, \n<story>will take even further strides forward!"
+        }
+    ],
+    "title": "Aspirations For The Blue Sky"
+}

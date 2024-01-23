@@ -1,0 +1,310 @@
+{
+    "type": "story",
+    "row_index": 241,
+    "file_name": "story/data/04/1002/storytimeline_041002005",
+    "hash": "R47A4O26EO6RASZ2ZYG3FEAVE2JP2DCH",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -2450298108197808435,
+            "block_id": 0,
+            "clip_length": 12
+        },
+        {
+            "text": "During lunch break, I was walking in the school hallways when I \nspotted a familiar face in one of the classrooms.",
+            "name": "",
+            "path_id": 8656465759645417177,
+            "block_id": 1,
+            "clip_length": 62,
+            "processed": "<story>During lunch break, I was walking in the school hallways when I \n<story>spotted a familiar face in one of the classrooms."
+        },
+        {
+            "text": "The 7 of hearts, if I remember was to the right of this…",
+            "name": "Silence Suzuka",
+            "path_id": -1286972509541774011,
+            "block_id": 2,
+            "clip_length": 139,
+            "choices": [
+                {
+                    "text": "What are you doing?",
+                    "hash": "8a65677aca165f7535eb225ea764bacc518885c63e5d2c98ba430b4a1521a67b"
+                },
+                {
+                    "text": "What are you doing?",
+                    "hash": "6d96171d296b2cd27f3778a94ee8025c0a74024adb43f3590f6a073b3f89d250"
+                }
+            ],
+            "processed": "<story>The 7 of hearts, if I remember was to the right of this…"
+        },
+        {
+            "text": "Ah, Trainer-san. I'm playing Memory.",
+            "name": "Silence Suzuka",
+            "path_id": 8728903945171550280,
+            "block_id": 3,
+            "clip_length": 152,
+            "processed": "<story>Ah, Trainer-san. I'm playing Memory."
+        },
+        {
+            "text": "So far, I've been doing well and if this keeps \nup I'll get all the cards… huh…?",
+            "name": "Silence Suzuka",
+            "path_id": 8446800022841917710,
+            "block_id": 4,
+            "clip_length": 215,
+            "processed": "<story>So far, I've been doing well and if this keeps \n<story>up I'll get all the cards… huh…?"
+        },
+        {
+            "text": "Aaaah! I forgot where everything was…",
+            "name": "Silence Suzuka",
+            "path_id": 7660167755077547738,
+            "block_id": 5,
+            "clip_length": 137,
+            "choices": [
+                {
+                    "text": "I'm sorry I bothered you…",
+                    "hash": "2a166b3a7500dd8fe559e1402fdab688889ec583246834d9e4a72709c78dfa9b"
+                },
+                {
+                    "text": "I'm sorry I bothered you…",
+                    "hash": "84d19e989674d99b8d78113b42bdee3c58d7f3325643786dfc539b79ff788bfe"
+                }
+            ],
+            "processed": "<story>Aaaah! I forgot where everything was…"
+        },
+        {
+            "text": "…No, don't worry. I'll just have to start over.",
+            "name": "Silence Suzuka",
+            "path_id": -205692938417659521,
+            "block_id": 6,
+            "clip_length": 153,
+            "processed": "<story>…No, don't worry. I'll just have to start over."
+        },
+        {
+            "text": "Saying that, Silence Suzuka quietly \nrearranged the cards by herself.",
+            "name": "",
+            "path_id": -7634476282806579868,
+            "block_id": 7,
+            "clip_length": 56,
+            "processed": "<story>Saying that, Silence Suzuka quietly \n<story>rearranged the cards by herself."
+        },
+        {
+            "text": "…Alright. This time, for sure.",
+            "name": "Silence Suzuka",
+            "path_id": 8913201411396161509,
+            "block_id": 8,
+            "clip_length": 81,
+            "choices": [
+                {
+                    "text": "By any chance, are you playing by yourself?",
+                    "hash": "d3b7788dca6ca38e48ccc845df2b52824a98d8e6b692b5d09990f16a1ace0242",
+                    "processed": "<size=37>By any chance, are you playing by yourself?</size>"
+                },
+                {
+                    "text": "By any chance, are you playing by yourself?",
+                    "hash": "19444d07bc62500dfdd7412cf1ac4d2e75d030f698fd760f7ef1dd2cbc5305c7",
+                    "processed": "<size=37>By any chance, are you playing by yourself?</size>"
+                }
+            ],
+            "processed": "<story>…Alright. This time, for sure."
+        },
+        {
+            "text": "Eh? Yeah, that's right… It's fun, \nyou know? Playing Memory solo.",
+            "name": "Silence Suzuka",
+            "path_id": -6289740209386489003,
+            "block_id": 9,
+            "clip_length": 216,
+            "processed": "<story>Eh? Yeah, that's right… It's fun, \n<story>you know? Playing Memory solo."
+        },
+        {
+            "text": "I limit the number of times I can fail so \nit has just the right amount of tension.",
+            "name": "Silence Suzuka",
+            "path_id": -416603092254075678,
+            "block_id": 10,
+            "clip_length": 159,
+            "processed": "<story>I limit the number of times I can fail so \n<story>it has just the right amount of tension."
+        },
+        {
+            "text": "Imposing her own rules and stoicly playing, \nis very Silence Suzuka-like.",
+            "name": "",
+            "path_id": -5096791560829636734,
+            "block_id": 11,
+            "clip_length": 61,
+            "processed": "<story>Imposing her own rules and stoicly playing, \n<story>is very Silence Suzuka-like."
+        },
+        {
+            "text": "But, since there's two of us…",
+            "name": "",
+            "path_id": -1281710982466665736,
+            "block_id": 12,
+            "clip_length": 32,
+            "choices": [
+                {
+                    "text": "How about a match?",
+                    "hash": "bdc7161f7c15a87d8d3d25279b586c0e44956514839cadd85c8f82815500fb37"
+                }
+            ],
+            "processed": "<story>But, since there's two of us…"
+        },
+        {
+            "text": "A match… is it? That's… um…",
+            "name": "Silence Suzuka",
+            "path_id": -8679939579452098757,
+            "block_id": 13,
+            "clip_length": 174,
+            "processed": "<story>A match… is it? That's… um…"
+        },
+        {
+            "text": "Ah… sorry. I was… just a little confused…",
+            "name": "Silence Suzuka",
+            "path_id": 6071465209037453699,
+            "block_id": 14,
+            "clip_length": 163,
+            "processed": "<story>Ah… sorry. I was… just a little confused…"
+        },
+        {
+            "text": "Um, understood. For now… let's give \nit a shot. Please go easy on me.",
+            "name": "Silence Suzuka",
+            "path_id": -1751693661914396368,
+            "block_id": 15,
+            "clip_length": 302,
+            "processed": "<story>Um, understood. For now… let's give \n<story>it a shot. Please go easy on me."
+        },
+        {
+            "text": "And that's how I started a game of \nMemory with Silence Suzuka. But-",
+            "name": "",
+            "path_id": -3621468906663516070,
+            "block_id": 16,
+            "clip_length": 55,
+            "processed": "<story>And that's how I started a game of \n<story>Memory with Silence Suzuka. But-"
+        },
+        {
+            "text": "Ah… it wasn't here. Okay, it's your turn, Trainer-san.",
+            "name": "Silence Suzuka",
+            "path_id": 1678617228615691374,
+            "block_id": 17,
+            "clip_length": 203,
+            "processed": "<story>Ah… it wasn't here. Okay, it's your turn, Trainer-san."
+        },
+        {
+            "text": "Only a few cards remained. Using my memory, \none by one, I flipped them.",
+            "name": "",
+            "path_id": 4395042866900795810,
+            "block_id": 18,
+            "clip_length": 52,
+            "processed": "<story>Only a few cards remained. Using my memory, \n<story>one by one, I flipped them."
+        },
+        {
+            "text": "Ah…!?",
+            "name": "Silence Suzuka",
+            "path_id": 6387733967375076147,
+            "block_id": 19,
+            "clip_length": 26,
+            "processed": "<story>Ah…!?"
+        },
+        {
+            "text": "Eh… there too…?! No…! Aaah, even that one…?!",
+            "name": "Silence Suzuka",
+            "path_id": -6086281580426603014,
+            "block_id": 20,
+            "clip_length": 184,
+            "processed": "<story>Eh… there too…?! No…! Aaah, even that one…?!"
+        },
+        {
+            "text": "Out of the corner of my eye, I watched Silence Suzuka's every \nreaction as I flipped card after card in one go.",
+            "name": "",
+            "path_id": -1685071271936127880,
+            "block_id": 21,
+            "clip_length": 74,
+            "processed": "<story>Out of the corner of my eye, I watched Silence Suzuka's every \n<story>reaction as I flipped card after card in one go."
+        },
+        {
+            "text": "Aaah… one after another, the cards I wanted…",
+            "name": "Silence Suzuka",
+            "path_id": 7455895430869902102,
+            "block_id": 22,
+            "clip_length": 159,
+            "processed": "<story>Aaah… one after another, the cards I wanted…"
+        },
+        {
+            "text": "Deducing the cards at the end of the game and taking them all in \none go is the most satisfying part though…",
+            "name": "Silence Suzuka",
+            "path_id": 3998093705028534437,
+            "block_id": 23,
+            "clip_length": 226,
+            "choices": [
+                {
+                    "text": "Is that why you were playing alone?",
+                    "hash": "e3b691729a4d8dc542ac2e33471cfe2ff608af68009be4a8da8d5967b7c46616"
+                }
+            ],
+            "processed": "<story>Deducing the cards at the end of the game and taking them all in \n<story>one go is the most satisfying part though…"
+        },
+        {
+            "text": "…Yes.",
+            "name": "Silence Suzuka",
+            "path_id": -4648142833344491390,
+            "block_id": 24,
+            "clip_length": 115,
+            "processed": "<story>…Yes."
+        },
+        {
+            "text": "Ah, please don't worry. I was the one that accepted \nTrainer-san's invitation, after all.",
+            "name": "Silence Suzuka",
+            "path_id": 5850341194056059798,
+            "block_id": 25,
+            "clip_length": 192,
+            "processed": "<story>Ah, please don't worry. I was the one that accepted \n<story>Trainer-san's invitation, after all."
+        },
+        {
+            "text": "Oops. Looks like I've ruined her fun…",
+            "name": "",
+            "path_id": -2020492406359869669,
+            "block_id": 26,
+            "clip_length": 56,
+            "choices": [
+                {
+                    "text": "(Maybe I should leave…)",
+                    "hash": "4fc8a740b5dd9646b45ad08fa63affadca4128ac752f17d996f77d0615749a02"
+                }
+            ],
+            "processed": "<story>Oops. Looks like I've ruined her fun…"
+        },
+        {
+            "text": "Is something the matter, Trainer-san? \nI'm going to set them up again.",
+            "name": "Silence Suzuka",
+            "path_id": -711199024083804360,
+            "block_id": 27,
+            "clip_length": 202,
+            "choices": [
+                {
+                    "text": "Ah, you're still going to play with me?",
+                    "hash": "249dd9df5bf86e9568b08966253a11b244243cf0f6513cacd9d0736e43d60a23",
+                    "processed": "<size=43>Ah, you're still going to play with me?</size>"
+                },
+                {
+                    "text": "Ah, you're still going to play with me?",
+                    "hash": "5a870ca3fcf257abebfe8e0a351017611adbd2647eed8541292dc1b89a1eb224",
+                    "processed": "<size=43>Ah, you're still going to play with me?</size>"
+                }
+            ],
+            "processed": "<story>Is something the matter, Trainer-san? \n<story>I'm going to set them up again."
+        },
+        {
+            "text": "Yeah…Next time I'll win.",
+            "name": "Silence Suzuka",
+            "path_id": -2431240154531755681,
+            "block_id": 28,
+            "clip_length": 129,
+            "processed": "<story>Yeah…Next time I'll win."
+        },
+        {
+            "text": "After that, we continued playing Memory until Silence \nSuzuka was satisfied with her victories.",
+            "name": "",
+            "path_id": -7741433943260387658,
+            "block_id": 29,
+            "clip_length": 64,
+            "processed": "<story>After that, we continued playing Memory until Silence \n<story>Suzuka was satisfied with her victories."
+        }
+    ],
+    "title": "Walking This Path Alone?"
+}
