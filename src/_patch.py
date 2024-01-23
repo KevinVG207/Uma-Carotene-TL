@@ -217,12 +217,13 @@ def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
         diff_bytes = f.read()
     
     # Apply the diff
-    max_len = max(len(diff_bytes), len(source_bytes))
+    new_bytes = util.apply_diff(source_bytes, diff_bytes)
+    # max_len = max(len(diff_bytes), len(source_bytes))
 
-    diff_bytes = diff_bytes.ljust(max_len, b'\x00')
-    source_bytes = source_bytes.ljust(max_len, b'\x00')
+    # diff_bytes = diff_bytes.ljust(max_len, b'\x00')
+    # source_bytes = source_bytes.ljust(max_len, b'\x00')
 
-    new_bytes = util.xor_bytes(diff_bytes, source_bytes)
+    # new_bytes = util.xor_bytes(diff_bytes, source_bytes)
 
     return new_bytes, texture_read
 
@@ -475,6 +476,45 @@ def import_assets():
     import_flash(asset_dict.get('flash', []))
     import_textures(asset_dict.get('texture', []))
     import_stories(asset_dict.get('story', []))
+
+
+def _import_diff(diff_file):
+    asset_hash = os.path.basename(diff_file)
+    asset_path = handle_backup(asset_hash)
+
+    if not asset_path:
+        return
+
+    source_bytes = util.read_bytes(asset_path)
+    diff_bytes = util.read_bytes(diff_file)
+
+    new_bytes = util.apply_diff(source_bytes, diff_bytes)
+
+    util.write_bytes(new_bytes, asset_path)
+
+
+def import_diffs():
+    clean_asset_backups()
+
+    diff_files = glob.glob(util.DIFF_FOLDER + "*")
+
+    with Pool() as pool:
+        _ = list(util.tqdm(pool.imap_unordered(_import_diff, diff_files, chunksize=32), total=len(diff_files), desc="Patching assets"))
+
+    # for diff_file in util.tqdm(diff_files, desc="Patching assets"):
+    #     asset_hash = os.path.basename(diff_file)
+    #     asset_path = handle_backup(asset_hash)
+
+    #     if not asset_path:
+    #         continue
+
+    #     source_bytes = util.read_bytes(asset_path)
+    #     diff_bytes = util.read_bytes(diff_file)
+
+    #     new_bytes = util.apply_diff(source_bytes, diff_bytes)
+
+    #     util.write_bytes(new_bytes, asset_path)
+
 
 
 def _import_jpdict():
@@ -742,7 +782,7 @@ def main(dl_latest=False, dll_name='version.dll'):
 
     import_assembly(dl_latest, dll_name)
 
-    import_assets()
+    import_diffs()
 
     if dl_latest:
         util.clean_download()

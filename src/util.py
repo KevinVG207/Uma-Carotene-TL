@@ -22,6 +22,7 @@ import pyphen
 from functools import cache
 from multiprocessing import Pool
 import re
+import hashlib
 
 hyphen_dict = pyphen.Pyphen(lang='en_US')
 
@@ -82,6 +83,8 @@ FLASH_FOLDER_EDITING = INTERMEDIATE_PREFIX + "flash\\"
 
 ASSEMBLY_FOLDER = TL_PREFIX + "assembly\\"
 ASSEMBLY_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assembly\\"
+
+DIFF_FOLDER = TL_PREFIX + "diff\\"
 
 TABLE_PREFIX = '_carotene'
 TABLE_BACKUP_PREFIX = TABLE_PREFIX + "_bak_"
@@ -593,3 +596,47 @@ def apply_colored_text(in_str, color_list):
         in_str = in_str.replace(match_str, f"<col={color_id}>{match_str}</col>")
 
     return in_str
+
+def make_diff(edited_bytes, source_bytes):
+    hasher = hashlib.sha256()
+    hasher.update(edited_bytes)
+    edited_hash = hasher.digest()
+
+    hasher = hashlib.sha256()
+    hasher.update(source_bytes)
+    source_hash = hasher.digest()
+
+    max_len = max(len(edited_bytes), len(source_bytes))
+
+    gen = np.random.default_rng(seed=int(edited_hash.hex(), 16))
+    edited_bytes += gen.bytes(max_len - len(edited_bytes))
+    gen = np.random.default_rng(seed=int(source_hash.hex(), 16))
+    source_bytes += gen.bytes(max_len - len(source_bytes))
+
+    diff = xor_bytes(edited_bytes, source_bytes)
+
+    return diff
+
+def apply_diff(source_bytes, diff):
+    if len(diff) < len(source_bytes):
+        raise Exception("Diff is smaller than source")
+    
+    delta_len = len(diff) - len(source_bytes)
+
+    if delta_len > 0:
+        hasher = hashlib.sha256()
+        hasher.update(source_bytes)
+        source_hash = hasher.digest()
+
+        gen = np.random.default_rng(seed=int(source_hash.hex(), 16))
+        source_bytes += gen.bytes(delta_len)
+
+    return xor_bytes(source_bytes, diff)
+
+def read_bytes(path):
+    with open(path, "rb") as f:
+        return f.read()
+
+def write_bytes(data, path):
+    with open(path, "wb") as f:
+        f.write(data)

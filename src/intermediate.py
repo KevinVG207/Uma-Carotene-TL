@@ -423,13 +423,15 @@ def _convert_texture(metadata):
         with open(org_path, "rb") as f:
             source_bytes = f.read()
         
-        max_len = max(len(edited_bytes), len(source_bytes))
+        diff = util.make_diff(edited_bytes, source_bytes)
+        
+        # max_len = max(len(edited_bytes), len(source_bytes))
 
-        gen = np.random.default_rng(seed=int(edited_hash.hex(), 16))
-        edited_bytes += gen.bytes(max_len - len(edited_bytes))
-        source_bytes = source_bytes.ljust(max_len, b'\x00')
+        # gen = np.random.default_rng(seed=int(edited_hash.hex(), 16))
+        # edited_bytes += gen.bytes(max_len - len(edited_bytes))
+        # source_bytes = source_bytes.ljust(max_len, b'\x00')
 
-        diff = util.xor_bytes(edited_bytes, source_bytes)
+        # diff = util.xor_bytes(edited_bytes, source_bytes)
 
         os.makedirs(os.path.dirname(diff_path), exist_ok=True)
 
