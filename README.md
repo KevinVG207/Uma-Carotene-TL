@@ -1,4 +1,6 @@
 # Carotene
+**Go to the website for more information: [https://umapyoi.net/carotene-english-patch](https://umapyoi.net/carotene-english-patch)**
+
 ## English translation patch for Uma Musume: Pretty Derby game (DMM version)
 
 The main purpose of this repository is to host public translations for the Uma Musume: Pretty Derby game in a way that does not include the original Japanese text, for copyright reasons. As such, in order to create/edit the translations, a working installation of the game is required.
