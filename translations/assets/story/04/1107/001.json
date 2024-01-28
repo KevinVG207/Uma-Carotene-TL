@@ -20,12 +20,12 @@
             "processed": "<story>――Breaking away from the pack is an adventure."
         },
         {
-            "text": "Cutting through the air, not looking over your shoulder. \nYet, the immense pressure from behind washes over you.",
+            "text": "Cutting through the air, not looking over your shoulder. \nYet, you feel the immense pressure from behind radiate over you.",
             "name": "",
             "path_id": -387245507392380659,
             "block_id": 2,
             "clip_length": 115,
-            "processed": "<story>Cutting through the air, not looking over your shoulder. \n<story>Yet, the immense pressure from behind washes over you."
+            "processed": "<story>Cutting through the air, not looking over your shoulder. \n<story>Yet, you feel the immense pressure from behind radiate over you."
         },
         {
             "text": "Relaxing is not an option, lest those behind will catch up. \nOn the other hand, speeding up drains your stamina.",
@@ -150,20 +150,20 @@
             "processed": "<story>Hahaha! A castle? That's impossible!"
         },
         {
-            "text": "<i>What?</i> Look kid, nothing is impossible for me, \nthe great treasure hunter: Tap Dance City!",
+            "text": "<i>What?</i> Look kid, nothing is impossible for me, \nthe great adventure hunter: Tap Dance City!",
             "name": "Umamusume",
             "path_id": 6085174437402744013,
             "block_id": 16,
             "clip_length": 308,
-            "processed": "<story><i>What?</i> Look kid, nothing is impossible for me, \n<story>the great treasure hunter: Tap Dance City!"
+            "processed": "<story><i>What?</i> Look kid, nothing is impossible for me, \n<story>the great adventure hunter: Tap Dance City!"
         },
         {
-            "text": "You'd better believe I'm not building any old castle! It's \ngonna be gigantic! Big enough for me and my mates \nto dance from night till the sun comes up!",
+            "text": "You'd better believe I'm not building any old castle! It's \ngonna be <i>gigantic!</i> Big enough for me and my mates \nto dance from night till the sun comes up!",
             "name": "Tap Dance City",
             "path_id": -9171248842219812706,
             "block_id": 17,
             "clip_length": 330,
-            "processed": "<story>You'd better believe I'm not building any old castle! It's \n<story>gonna be gigantic! Big enough for me and my mates \n<story>to dance from night till the sun comes up!"
+            "processed": "<story>You'd better believe I'm not building any old castle! It's \n<story>gonna be <i>gigantic!</i> Big enough for me and my mates \n<story>to dance from night till the sun comes up!"
         },
         {
             "text": "Party all night, every night until we collapse! \nA place where you'll be greeted by sonorous singing!",
@@ -266,7 +266,7 @@
             "processed": "<story>My seniors tell me my dreams are unrealistic. It's laughable \n<story>for an adult like me to even say it out loud..."
         },
         {
-            "text": "――Tell me anyway! \nI really, really, really wanna know!",
+            "text": "... Tell me anyway! \nI really, really, really wanna know!",
             "name": "Tap Dance City",
             "path_id": 6152914121586726973,
             "block_id": 27,
@@ -277,7 +277,7 @@
                     "hash": "c9acfd7295eff3758fc01b0c3efad990f70d225fc9b1ebb5ce8b7fd1e79807d6"
                 }
             ],
-            "processed": "<story>――Tell me anyway! \n<story>I really, really, really wanna know!"
+            "processed": "<story>... Tell me anyway! \n<story>I really, really, really wanna know!"
         },
         {
             "text": "Don't be so shy! An epic tale is something \nto be shared, am I wrong?",

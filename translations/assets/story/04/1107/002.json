@@ -126,20 +126,20 @@
             "processed": "<story>Her sudden whisper in my ear startled me, \n<story>and I dropped my notebook."
         },
         {
-            "text": "Hahaha! You sure get spooked easily! \n...So, this is why you said that...?*",
+            "text": "Hahaha! You sure get spooked easily! \n...So, this is what you were mumbling about...?",
             "name": "Tap Dance City",
             "path_id": 4017689748923725962,
             "block_id": 13,
             "clip_length": 288,
-            "processed": "<story>Hahaha! You sure get spooked easily! \n<story>...So, this is why you said that...?*"
+            "processed": "<story>Hahaha! You sure get spooked easily! \n<story>...So, this is what you were mumbling about...?"
         },
         {
-            "text": "Hmm... \nYou like meat, my guy?",
+            "text": "Hmm... \nYou like meat, buddy?",
             "name": "Tap Dance City",
             "path_id": 6470864596422254122,
             "block_id": 14,
             "clip_length": 225,
-            "processed": "<story>Hmm... \n<story>You like meat, my guy?"
+            "processed": "<story>Hmm... \n<story>You like meat, buddy?"
         },
         {
             "text": "Yo Tap, congrats on finding a trainer! When I saw you carry \nhim over your shoulder, I thought you'd kidnapped him!",
@@ -294,7 +294,7 @@
             "processed": "<story>After wrapping up the barbeque, \n<story>she took me to her \"play area.\""
         },
         {
-            "text": "Let's see... According to your notes, I suck at the \nfinal spurt. A frontrunning strategy is a must, then!",
+            "text": "Let's see... According to your notes, I suck at the \nfinal spurt. A frontrunning strategy is a <i>must</i>, then!",
             "name": "Tap Dance City",
             "path_id": -2186823493946767409,
             "block_id": 29,
@@ -311,7 +311,7 @@
                     "processed": "<size=38>Hold it! I wanna see you run one more time.</size>"
                 }
             ],
-            "processed": "<story>Let's see... According to your notes, I suck at the \n<story>final spurt. A frontrunning strategy is a must, then!"
+            "processed": "<story>Let's see... According to your notes, I suck at the \n<story>final spurt. A frontrunning strategy is a <i>must</i>, then!"
         },
         {
             "text": "I want to make sure that her 9th place really was due to \nher bad last spurt, or simply because of a lack of stamina.",
