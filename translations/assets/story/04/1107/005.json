@@ -54,12 +54,12 @@
             "processed": "<story>――<i>Fantastic!</i>"
         },
         {
-            "text": "You can really tell she's putting her heart and soul into the last spurt, with \nhow her hooves are ripping up the turf! The audience is losing their voices \nfrom cheering so hard for the battle of the leaders on the final straight!!",
+            "text": "You can really tell she's putting her heart and soul into the last spurt! \nTheir hooves are ripping up the turf and the audience is losing their \nvoices from cheering so hard for the battle on the final straight!",
             "name": "Tap Dance City",
             "path_id": -8103619820104866252,
             "block_id": 4,
             "clip_length": 325,
-            "processed": "<story>You can really tell she's putting her heart and soul into the last spurt, with \n<story>how her hooves are ripping up the turf! The audience is losing their voices \n<story>from cheering so hard for the battle of the leaders on the final straight!!"
+            "processed": "<story>You can really tell she's putting her heart and soul into the last spurt! \n<story>Their hooves are ripping up the turf and the audience is losing their \n<story>voices from cheering so hard for the battle on the final straight!"
         },
         {
             "text": "It's awesome, I can really feel the sense of wonder and adventure! \nHey, did you draw this, Trainer?!",
@@ -346,13 +346,13 @@
             "processed": "<story>Your notebook in which you write down our training plans! \n<story>It holds our dreams. It's our adventure map!"
         },
         {
-            "text": "I just showed her why she should continue her journey. \nI showed her what it's like to chase after adventure, that's all!",
+            "text": "I just showed her why she should continue her journey. \nI showed her the joy of chasing after adventure, that's all!",
             "name": "Tap Dance City",
             "path_id": -5065909626393330045,
             "block_id": 35,
             "clip_length": 291,
-            "processed": "<story>I just showed her why she should continue her journey. \n<story>I showed her what it's like to chase after adventure, that's all!"
+            "processed": "<story>I just showed her why she should continue her journey. \n<story>I showed her the joy of chasing after adventure, that's all!"
         }
     ],
-    "title": "Drop"
+    "title": ""
 }
