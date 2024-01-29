@@ -20,18 +20,18 @@
             "processed": "<story>After the Selection Race, one of the horsegirls, \n<story>Tap Dance City, came up to me. And now, she and I..."
         },
         {
-            "text": "...Are having a barbeque.",
+            "text": "...Are having a barbecue.",
             "name": "",
             "path_id": -5133546862132068235,
             "block_id": 2,
             "clip_length": 63,
             "choices": [
                 {
-                    "text": "(How did I get here...?)",
+                    "text": "(How did this happen...?)",
                     "hash": "0525244ad048d6bacc0a6478e42367a26cd2f8fb5b6a049a707ba36d559c1f16"
                 }
             ],
-            "processed": "<story>...Are having a barbeque."
+            "processed": "<story>...Are having a barbecue."
         },
         {
             "text": "She entered the race to find out if she could become \nthe \"world's greatest horsegirl.\" The result:",
@@ -286,12 +286,12 @@
             "processed": "<story>...I couldn't help it. She just radiates confidence."
         },
         {
-            "text": "After wrapping up the barbeque, \nshe took me to her \"play area.\"",
+            "text": "After wrapping up the barbecue, \nshe took me to her \"play area.\"",
             "name": "",
             "path_id": 6343995993516205282,
             "block_id": 28,
             "clip_length": 94,
-            "processed": "<story>After wrapping up the barbeque, \n<story>she took me to her \"play area.\""
+            "processed": "<story>After wrapping up the barbecue, \n<story>she took me to her \"play area.\""
         },
         {
             "text": "Let's see... According to your notes, I suck at the \nfinal spurt. A frontrunning strategy is a <i>must</i>, then!",

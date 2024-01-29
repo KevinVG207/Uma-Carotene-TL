@@ -67,12 +67,12 @@
             "processed": "<story>Now, look over there. \n<story>Can you see that island in the distance?"
         },
         {
-            "text": "I looked across the ocean, and sure enough, there was an island \nnot too far from the beach. It looks it's deserted, though.",
+            "text": "I looked across the ocean, and sure enough, there was an island \nnot too far from the beach. It looks deserted, though.",
             "name": "",
             "path_id": -1069774785501908164,
             "block_id": 7,
             "clip_length": 102,
-            "processed": "<story>I looked across the ocean, and sure enough, there was an island \n<story>not too far from the beach. It looks it's deserted, though."
+            "processed": "<story>I looked across the ocean, and sure enough, there was an island \n<story>not too far from the beach. It looks deserted, though."
         },
         {
             "text": "We're heading there asap! \nLet's prepare for our adventure!",
@@ -285,12 +285,12 @@
             "processed": "<story>Whoa! That's a nice boat you've got there! \n<story>And it has a flag with a skull and crossbones, too!"
         },
         {
-            "text": "So yeah, I managed to get us a boat via the staff member who gave \nme the fish earlier. Oh, and I made the pirate flag myself.",
+            "text": "So yeah, I managed to get us a boat via the staff member who \ngave me the fish earlier. Oh, and I made the pirate flag myself.",
             "name": "",
             "path_id": 7556839372730412921,
             "block_id": 27,
             "clip_length": 108,
-            "processed": "<story>So yeah, I managed to get us a boat via the staff member who gave \n<story>me the fish earlier. Oh, and I made the pirate flag myself."
+            "processed": "<story>So yeah, I managed to get us a boat via the staff member who \n<story>gave me the fish earlier. Oh, and I made the pirate flag myself."
         },
         {
             "text": "I got a bit carried away and even made a pirate hat... \nBut it's all worth it, because now we can go to the island!",
@@ -339,12 +339,12 @@
             "processed": "<story>We're finally here. It's so quiet..."
         },
         {
-            "text": "Now that we're actually here, this deserted island is pretty creepy \nat night. I'm starting to feel a little scared...",
+            "text": "Now that we're actually here at night, this deserted island \nfeels pretty creepy. I'm starting to feel a little scared...",
             "name": "",
             "path_id": 8856180040382247085,
             "block_id": 33,
             "clip_length": 106,
-            "processed": "<story>Now that we're actually here, this deserted island is pretty creepy \n<story>at night. I'm starting to feel a little scared..."
+            "processed": "<story>Now that we're actually here at night, this deserted island \n<story>feels pretty creepy. I'm starting to feel a little scared..."
         },
         {
             "text": "<i>Sound your fanfare♪</i>\n<i>All the way to the goal♪</i>",
@@ -459,12 +459,12 @@
             "processed": "<story>They got us good! I get it now...! \n<story>There was never any treasure here!"
         },
         {
-            "text": "The real treasure we've been chasing all this time... \nIt's the marks of an adventure that these two \namazing people had together!",
+            "text": "The real treasure we've been chasing all this time... \nIt's the marks of the adventure that these two \namazing people had together!",
             "name": "Tap Dance City",
             "path_id": 6744471017832761402,
             "block_id": 46,
             "clip_length": 284,
-            "processed": "<story>The real treasure we've been chasing all this time... \n<story>It's the marks of an adventure that these two \n<story>amazing people had together!"
+            "processed": "<story>The real treasure we've been chasing all this time... \n<story>It's the marks of the adventure that these two \n<story>amazing people had together!"
         },
         {
             "text": "We made it back to the mainland. As we looked back at the island \nwe just explored in the distance, Tap Dance City softly spoke...",
