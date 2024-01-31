@@ -153,7 +153,30 @@ def apply_umapyoi_vas():
             entry['new'] = False
 
     util.save_json(path, data)
-        
+
+
+def apply_umapyoi_supports():
+    print("Importing support names")
+    r = requests.get("https://umapyoi.net/api/v1/support")
+    r.raise_for_status()
+    data = r.json()
+
+    support_dict = {d['id']: d['title_en'] for d in data if d.get('title_en')}
+
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "76.json")
+    data = util.load_json(path)
+
+    for entry in data:
+        key = json.loads(entry['keys'])[0][1]
+
+        if support_dict.get(key):
+            entry['prev_text'] = entry['text']
+            entry['text'] = support_dict[key]
+            entry['new'] = False
+
+    util.save_json(path, data)
+
+
 
 
 
@@ -532,6 +555,7 @@ def main():
     apply_umapyoi_character_profiles(umapyoi_chara_ids)
     apply_umapyoi_outfits(umapyoi_chara_ids)
     apply_umapyoi_vas()
+    apply_umapyoi_supports()
 
     apply_gametora_skills()
     apply_gametora_missions()
