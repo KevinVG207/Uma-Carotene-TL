@@ -249,7 +249,7 @@ def import_external_story(local_path, url_to_github_jsons):
         imported_stories[data['bundle']] = cur_blocks
         imported_titles[data['bundle']] = data['title']
 
-    print(imported_stories.keys())
+    # print(imported_stories.keys())
 
     # Load local story data
     print("Loading local story data")
