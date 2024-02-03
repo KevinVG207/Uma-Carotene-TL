@@ -1,0 +1,582 @@
+{
+    "type": "story",
+    "row_index": 263,
+    "file_name": "story/data/04/1004/storytimeline_041004003",
+    "hash": "4SSCT626APLL7T4Z3HYWKTNMLZLB5XUU",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2964832521680221529,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "A little while after I became Maruzensky's trainer— \nThe day of her debut race had finally arrived.",
+            "name": "",
+            "path_id": -2686984467677530524,
+            "block_id": 1,
+            "clip_length": 108,
+            "processed": "<story>A little while after I became Maruzensky's trainer— \n<story>The day of her debut race had finally arrived."
+        },
+        {
+            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks.",
+            "name": "Maruzensky",
+            "path_id": -8184265436537273506,
+            "block_id": 2,
+            "clip_length": 200,
+            "choices": [
+                {
+                    "text": "How're you feeling?",
+                    "hash": "f7e1811c0c97812e44e9758476a2cd63b6332c10e01713e98a2df668a007521b"
+                },
+                {
+                    "text": "How do you feel?",
+                    "hash": "f826ab461af60469aa15b57ad28ce38d252987750742864afeb966ef2917bfbd"
+                }
+            ],
+            "processed": "<story>Aww, trainer! You came all the way down \n<story>here to see me off? Hmhm, thanks."
+        },
+        {
+            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks.",
+            "name": "Maruzensky",
+            "path_id": 2309005249349305975,
+            "block_id": 3,
+            "clip_length": 197,
+            "choices": [
+                {
+                    "text": "How're you feeling?",
+                    "hash": "f7e1811c0c97812e44e9758476a2cd63b6332c10e01713e98a2df668a007521b"
+                },
+                {
+                    "text": "How do you feel?",
+                    "hash": "f826ab461af60469aa15b57ad28ce38d252987750742864afeb966ef2917bfbd"
+                }
+            ],
+            "processed": "<story>Aww, trainer! You came all the way down \n<story>here to see me off? Hmhm, thanks."
+        },
+        {
+            "text": "Sound as a pound♪ It's been a beautiful day after all.",
+            "name": "Maruzensky",
+            "path_id": 3840706772400137506,
+            "block_id": 4,
+            "clip_length": 151,
+            "processed": "<story>Sound as a pound♪ It's been a beautiful day after all."
+        },
+        {
+            "text": "Besides, there's something special about feeling the wind on the \nrace track. Now that I'm here I'm going to make the most of it!",
+            "name": "Maruzensky",
+            "path_id": -3817259065200655065,
+            "block_id": 5,
+            "clip_length": 288,
+            "processed": "<story>Besides, there's something special about feeling the wind on the \n<story>race track. Now that I'm here I'm going to make the most of it!"
+        },
+        {
+            "text": "Well then, I'm offff!",
+            "name": "Maruzensky",
+            "path_id": -307639299490689857,
+            "block_id": 6,
+            "clip_length": 94,
+            "processed": "<story>Well then, I'm offff!"
+        },
+        {
+            "text": "She smiled and laughed as she always does, and \nput her skills on full display in the race.",
+            "name": "",
+            "path_id": -140123743858117021,
+            "block_id": 7,
+            "clip_length": 99,
+            "processed": "<story>She smiled and laughed as she always does, and \n<story>put her skills on full display in the race."
+        },
+        {
+            "text": "—Approaching the fourth corner, Maruzensky leads! She's had the \nlead from the start and shows no signs of giving it up!",
+            "name": "Commentator",
+            "path_id": 1830112980808061136,
+            "block_id": 8,
+            "clip_length": 209,
+            "processed": "<story>—Approaching the fourth corner, Maruzensky leads! She's had the \n<story>lead from the start and shows no signs of giving it up!"
+        },
+        {
+            "text": "Fuu, fuu, fuu…",
+            "name": "Maruzensky",
+            "path_id": -2657693216311642907,
+            "block_id": 9,
+            "clip_length": 56,
+            "processed": "<story>Fuu, fuu, fuu…"
+        },
+        {
+            "text": "… There's still more in my legs!!",
+            "name": "Maruzensky",
+            "path_id": -8132959116831795602,
+            "block_id": 10,
+            "clip_length": 123,
+            "processed": "<story>… There's still more in my legs!!"
+        },
+        {
+            "text": "Maruzensky speeds up further! She's leaving everyone so far \nbehind they probably can't even see her anymore!",
+            "name": "Commentator",
+            "path_id": -7201573013161892357,
+            "block_id": 11,
+            "clip_length": 237,
+            "processed": "<story>Maruzensky speeds up further! She's leaving everyone so far \n<story>behind they probably can't even see her anymore!"
+        },
+        {
+            "text": "Ha, hah, ha…!!",
+            "name": "Maruzensky",
+            "path_id": -8676956752381498720,
+            "block_id": 12,
+            "clip_length": 66,
+            "processed": "<story>Ha, hah, ha…!!"
+        },
+        {
+            "text": "Maruzensky crosses the line with second place \nnowhere in sight!! How's that for a debut!?",
+            "name": "Commentator",
+            "path_id": 3666678052934372452,
+            "block_id": 13,
+            "clip_length": 259,
+            "processed": "<story>Maruzensky crosses the line with second place \n<story>nowhere in sight!! How's that for a debut!?"
+        },
+        {
+            "text": "—A second later, thunderous cheers erupted from the stands.",
+            "name": "",
+            "path_id": 1666117894830743993,
+            "block_id": 14,
+            "clip_length": 128,
+            "processed": "<story>—A second later, thunderous cheers erupted from the stands."
+        },
+        {
+            "text": "Sorry to keep you, trainer♪ Let's go home—",
+            "name": "Maruzensky",
+            "path_id": 623421545379377890,
+            "block_id": 15,
+            "clip_length": 140,
+            "processed": "<story>Sorry to keep you, trainer♪ Let's go home—"
+        },
+        {
+            "text": "I'm all good now, trainer♪ Let's go home—",
+            "name": "Maruzensky",
+            "path_id": -1036761959906472871,
+            "block_id": 16,
+            "clip_length": 140,
+            "processed": "<story>I'm all good now, trainer♪ Let's go home—"
+        },
+        {
+            "text": "It's here… the day's finally here!! It's time for your debut!!",
+            "name": "Average Trainer A",
+            "path_id": -1130886844188854544,
+            "block_id": 17,
+            "clip_length": 146,
+            "processed": "<story>It's here… the day's finally here!! It's time for your debut!!"
+        },
+        {
+            "text": "Yes, trainer! I'm going to win this race! It will be my first \nstep to becoming a Triple Crown horsegirl!",
+            "name": "Horsegirl A",
+            "path_id": 1190250387499058143,
+            "block_id": 18,
+            "clip_length": 266,
+            "processed": "<story>Yes, trainer! I'm going to win this race! It will be my first \n<story>step to becoming a Triple Crown horsegirl!"
+        },
+        {
+            "text": "That's the spirit! I know you can do it! \nShow 'em what we've been training for!!",
+            "name": "Average Trainer A",
+            "path_id": -4270638876424660775,
+            "block_id": 19,
+            "clip_length": 206,
+            "processed": "<story>That's the spirit! I know you can do it! \n<story>Show 'em what we've been training for!!"
+        },
+        {
+            "text": "Yeeeeaaaaaah!!",
+            "name": "Both",
+            "path_id": 7307978298270001990,
+            "block_id": 20,
+            "clip_length": 49,
+            "processed": "<story>Yeeeeaaaaaah!!"
+        },
+        {
+            "text": "………………",
+            "name": "Maruzensky",
+            "path_id": 6295411866040719476,
+            "block_id": 21,
+            "clip_length": 51,
+            "choices": [
+                {
+                    "text": "What's up?",
+                    "hash": "3ac2c9716b226c2398aacffb469dc1bd52230fd70e168ec35fbd7fd9c51f28ba"
+                },
+                {
+                    "text": "What's up?",
+                    "hash": "fadbc5d0d897940ffcf2111dde60d5c2fa8162910ed987a226e91f1f64754fe9"
+                }
+            ],
+            "processed": "<story>………………"
+        },
+        {
+            "text": "What? Oh, no, it's just…",
+            "name": "Maruzensky",
+            "path_id": -966700118578183293,
+            "block_id": 22,
+            "clip_length": 142,
+            "processed": "<story>What? Oh, no, it's just…"
+        },
+        {
+            "text": "… Hey, once we get back to the school we'll be done for the day, \nright? Do you have any plans after?",
+            "name": "Maruzensky",
+            "path_id": 4727026013423810637,
+            "block_id": 23,
+            "clip_length": 257,
+            "processed": "<story>… Hey, once we get back to the school we'll be done for the day, \n<story>right? Do you have any plans after?"
+        },
+        {
+            "text": "… Hey, once we get back to the school we'll be done for the day, \nright? Do you have any plans after?",
+            "name": "Maruzensky",
+            "path_id": 942072291947091058,
+            "block_id": 24,
+            "clip_length": 257,
+            "processed": "<story>… Hey, once we get back to the school we'll be done for the day, \n<story>right? Do you have any plans after?"
+        },
+        {
+            "text": "If you're free… maybe we can go for a drive together?",
+            "name": "Maruzensky",
+            "path_id": 4815240022540080246,
+            "block_id": 25,
+            "clip_length": 192,
+            "choices": [
+                {
+                    "text": "A drive?",
+                    "hash": "22d92cfa851b3d404b4dca6f85637bcc70cbcd079e14f8b9aa6da59388f543d6"
+                }
+            ],
+            "processed": "<story>If you're free… maybe we can go for a drive together?"
+        },
+        {
+            "text": "Yeah. What do you think? Up for it? I'll come get you then! Can \nyou wait for me at the gate when we get back?",
+            "name": "Maruzensky",
+            "path_id": -6773635130295775925,
+            "block_id": 26,
+            "clip_length": 230,
+            "processed": "<story>Yeah. What do you think? Up for it? I'll come get you then! Can \n<story>you wait for me at the gate when we get back?"
+        },
+        {
+            "text": "And so, as I waited on her at the gate…",
+            "name": "",
+            "path_id": -1783329719832927928,
+            "block_id": 27,
+            "clip_length": 82,
+            "processed": "<story>And so, as I waited on her at the gate…"
+        },
+        {
+            "text": "(Vrrrroovrroooooom!! Screeech…)",
+            "name": "",
+            "path_id": 5121885903041495434,
+            "block_id": 28,
+            "clip_length": 200,
+            "processed": "<story>(Vrrrroovrroooooom!! Screeech…)"
+        },
+        {
+            "text": "Hi, trainer♪",
+            "name": "Maruzensky",
+            "path_id": -3596519192020136285,
+            "block_id": 29,
+            "clip_length": 63,
+            "processed": "<story>Hi, trainer♪"
+        },
+        {
+            "text": "Hi, trainer♪",
+            "name": "Maruzensky",
+            "path_id": 8011925741502614426,
+            "block_id": 30,
+            "clip_length": 63,
+            "processed": "<story>Hi, trainer♪"
+        },
+        {
+            "text": "… A low, bright red car pulled up, and out stepped Maruzensky.",
+            "name": "",
+            "path_id": 4702075585548296815,
+            "block_id": 31,
+            "clip_length": 94,
+            "processed": "<story>… A low, bright red car pulled up, and out stepped Maruzensky."
+        },
+        {
+            "text": "My, what's the blank stare for, something happen?",
+            "name": "Maruzensky",
+            "path_id": -7133662693574153985,
+            "block_id": 32,
+            "clip_length": 101,
+            "choices": [
+                {
+                    "text": "That's a hell of a car…",
+                    "hash": "99ea8f95c1a44443f3af6ee01d09951a2c32eee5ac2f2aa7ec83a9e816db9138"
+                },
+                {
+                    "text": "That certainly is a car…",
+                    "hash": "d8388b266fd9d90abeb7085ca8713efcc985c686e1096787987dba8c17c5dd37"
+                }
+            ],
+            "processed": "<story>My, what's the blank stare for, something happen?"
+        },
+        {
+            "text": "Isn't she just～!? Amazing, right!? This is my buddy; Tacchan!",
+            "name": "Maruzensky",
+            "path_id": -5540942209276307379,
+            "block_id": 33,
+            "clip_length": 182,
+            "processed": "<story>Isn't she just～!? Amazing, right!? This is my buddy; Tacchan!"
+        },
+        {
+            "text": "Her slender, nifty body and the low roar of her \nengine…… They call these scissor doors, isn't \nit charming how they open vertically～!",
+            "name": "Maruzensky",
+            "path_id": -3780339763843889590,
+            "block_id": 34,
+            "clip_length": 341,
+            "processed": "<story>Her slender, nifty body and the low roar of her \n<story>engine…… They call these scissor doors, isn't \n<story>it charming how they open vertically～!"
+        },
+        {
+            "text": "Of course her ride's great too! Hop in, \nhop in, you'll have a great time!",
+            "name": "Maruzensky",
+            "path_id": 1479023669926770180,
+            "block_id": 35,
+            "clip_length": 221,
+            "processed": "<story>Of course her ride's great too! Hop in, \n<story>hop in, you'll have a great time!"
+        },
+        {
+            "text": "Thus invited, I boarded Maruzensky's \"buddy\"…",
+            "name": "",
+            "path_id": -8869451880273786465,
+            "block_id": 36,
+            "clip_length": 76,
+            "processed": "<story>Thus invited, I boarded Maruzensky's \"buddy\"…"
+        },
+        {
+            "text": "Don't you love this acceleration! The scenery rushing by? But \nthis is where Tacchan really starts to shine～!!",
+            "name": "Maruzensky",
+            "path_id": -3676942379946693082,
+            "block_id": 37,
+            "clip_length": 296,
+            "processed": "<story>Don't you love this acceleration! The scenery rushing by? But \n<story>this is where Tacchan really starts to shine～!!"
+        },
+        {
+            "text": "No worries, no worries, I'll obey the traffic rules! \nI'm just… pushing them a little!!",
+            "name": "Maruzensky",
+            "path_id": 115957137458995712,
+            "block_id": 38,
+            "clip_length": 254,
+            "processed": "<story>No worries, no worries, I'll obey the traffic rules! \n<story>I'm just… pushing them a little!!"
+        },
+        {
+            "text": "(Vrrrrvrrrooooooom!!)",
+            "name": "",
+            "path_id": -7365180788647064186,
+            "block_id": 39,
+            "clip_length": 119,
+            "processed": "<story>(Vrrrrvrrrooooooom!!)"
+        },
+        {
+            "text": "—I had an… extraordinarily thrilling time.",
+            "name": "",
+            "path_id": -7969753633924378639,
+            "block_id": 40,
+            "clip_length": 96,
+            "processed": "<story>—I had an… extraordinarily thrilling time."
+        },
+        {
+            "text": "Oooooooh, that felt so good～…! Our carefree \ndrive ends at the beach… oh, how romantic!",
+            "name": "Maruzensky",
+            "path_id": -4330429743422677862,
+            "block_id": 41,
+            "clip_length": 352,
+            "processed": "<story>Oooooooh, that felt so good～…! Our carefree \n<story>drive ends at the beach… oh, how romantic!"
+        },
+        {
+            "text": "What'd you think, trainer? My Tacchan \nmust have been a heavenly ride!",
+            "name": "Maruzensky",
+            "path_id": -7899780892974579039,
+            "block_id": 42,
+            "clip_length": 189,
+            "choices": [
+                {
+                    "text": "I think I did see heaven a few times…",
+                    "hash": "01d64644703d5d1bd1bfb23a34add316826fbd29d29c575e7801b9735e9fd8d0"
+                }
+            ],
+            "processed": "<story>What'd you think, trainer? My Tacchan \n<story>must have been a heavenly ride!"
+        },
+        {
+            "text": "How was it, Trainer? My Tacchan must have been a heavenly ride!",
+            "name": "Maruzensky",
+            "path_id": 6213822734232221912,
+            "block_id": 43,
+            "clip_length": 189,
+            "choices": [
+                {
+                    "text": "I think I did see heaven a few times…",
+                    "hash": "01d64644703d5d1bd1bfb23a34add316826fbd29d29c575e7801b9735e9fd8d0"
+                }
+            ],
+            "processed": "<story>How was it, Trainer? My Tacchan must have been a heavenly ride!"
+        },
+        {
+            "text": "Mmm, mmm! I'm glad you had a good time♪",
+            "name": "Maruzensky",
+            "path_id": 7735251397646380699,
+            "block_id": 44,
+            "clip_length": 103,
+            "processed": "<story>Mmm, mmm! I'm glad you had a good time♪"
+        },
+        {
+            "text": "—Driving's great isn't it? When you let the speed take over, it's \nlike you become the wind, and you feel like you can go anywhere.",
+            "name": "Maruzensky",
+            "path_id": 22069768176660469,
+            "block_id": 45,
+            "clip_length": 272,
+            "processed": "<story>—Driving's great isn't it? When you let the speed take over, it's \n<story>like you become the wind, and you feel like you can go anywhere."
+        },
+        {
+            "text": "Being able to enjoy that feeling, that joy, with my own body… \nI'm truly happy to be born a horsegirl.",
+            "name": "Maruzensky",
+            "path_id": -3714421028943133282,
+            "block_id": 46,
+            "clip_length": 299,
+            "processed": "<story>Being able to enjoy that feeling, that joy, with my own body… \n<story>I'm truly happy to be born a horsegirl."
+        },
+        {
+            "text": "The pleasure of going faster than the wind, feeling it rush by \nwith my whole body… There's nothing else like it!",
+            "name": "Maruzensky",
+            "path_id": 2875041136888678946,
+            "block_id": 47,
+            "clip_length": 248,
+            "choices": [
+                {
+                    "text": "You really like to run, don't you?",
+                    "hash": "6c1765491f01214ff1138245c9bac70b97faefff759645ff0e6b331a72405e10"
+                },
+                {
+                    "text": "You really like to run, don't you?",
+                    "hash": "637c41f5029c706623f790f55b1eecdce74e1fb9d434fb8c62341314bf3d74f0"
+                }
+            ],
+            "processed": "<story>The pleasure of going faster than the wind, feeling it rush by \n<story>with my whole body… There's nothing else like it!"
+        },
+        {
+            "text": "Yeah, of course! …But you know, that's really it, to me.",
+            "name": "Maruzensky",
+            "path_id": -451618877497555922,
+            "block_id": 48,
+            "clip_length": 259,
+            "processed": "<story>Yeah, of course! …But you know, that's really it, to me."
+        },
+        {
+            "text": "I don't have any of those… dazzling dreams \nor lofty goals, like everyone else…",
+            "name": "Maruzensky",
+            "path_id": -5724502488044646281,
+            "block_id": 49,
+            "clip_length": 315,
+            "processed": "<story>I don't have any of those… dazzling dreams \n<story>or lofty goals, like everyone else…"
+        },
+        {
+            "text": "Don't get me wrong, I love to run and race. I just—",
+            "name": "Maruzensky",
+            "path_id": -7563204080475501736,
+            "block_id": 50,
+            "clip_length": 187,
+            "processed": "<story>Don't get me wrong, I love to run and race. I just—"
+        },
+        {
+            "text": "When I'm in a serious competition like today, where everyone's \ndreams collide… I can't help but think \"am I out of place?\".",
+            "name": "Maruzensky",
+            "path_id": 5948456449795569313,
+            "block_id": 51,
+            "clip_length": 375,
+            "choices": [
+                {
+                    "text": "I don't think…",
+                    "hash": "6f6c9eff38b9cce6038c91a22c1e2aeb1dbe18aaa52fef535d5e5c0a48870a21"
+                }
+            ],
+            "processed": "<story>When I'm in a serious competition like today, where everyone's \n<story>dreams collide… I can't help but think \"am I out of place?\"."
+        },
+        {
+            "text": "… Dearie me, I'm getting all soppy! We've finally gone on our \nfirst drive together, I can't be doing this!",
+            "name": "Maruzensky",
+            "path_id": 3431201726618229074,
+            "block_id": 52,
+            "clip_length": 219,
+            "processed": "<story>… Dearie me, I'm getting all soppy! We've finally gone on our \n<story>first drive together, I can't be doing this!"
+        },
+        {
+            "text": "… Dearie me, look at me getting all soppy! We've finally gone on \nour first drive together, I can't be doing this!",
+            "name": "Maruzensky",
+            "path_id": 1980858412832560225,
+            "block_id": 53,
+            "clip_length": 224,
+            "processed": "<story>… Dearie me, look at me getting all soppy! We've finally gone on \n<story>our first drive together, I can't be doing this!"
+        },
+        {
+            "text": "Oh, yeah! Since we're at the beach, why don't we play tag? \nYou know, like in those trendy dramas!",
+            "name": "Maruzensky",
+            "path_id": 3180852086902873283,
+            "block_id": 54,
+            "clip_length": 269,
+            "processed": "<story>Oh, yeah! Since we're at the beach, why don't we play tag? \n<story>You know, like in those trendy dramas!"
+        },
+        {
+            "text": "I'll be running away. —Ehehehe, come and catch me if you ca～aan♪",
+            "name": "Maruzensky",
+            "path_id": -8649493993482094387,
+            "block_id": 55,
+            "clip_length": 185,
+            "processed": "<story>I'll be running away. —Ehehehe, come and catch me if you ca～aan♪"
+        },
+        {
+            "text": "\"I don't have any of those dreams or goals\" …On that \nday, I felt I caught a glimpse of her true self she \nkeeps hidden beneath that mature smile.",
+            "name": "",
+            "path_id": -7547673974306674284,
+            "block_id": 56,
+            "clip_length": 120,
+            "processed": "<story>\"I don't have any of those dreams or goals\" …On that \n<story>day, I felt I caught a glimpse of her true self she \n<story>keeps hidden beneath that mature smile."
+        },
+        {
+            "text": "Ehehehe, ahahahaha♪",
+            "name": "Maruzensky",
+            "path_id": 3976028654649963933,
+            "block_id": 57,
+            "clip_length": 103,
+            "processed": "<story>Ehehehe, ahahahaha♪"
+        },
+        {
+            "text": "(Thudududud!!)",
+            "name": "",
+            "path_id": 2613804531980480752,
+            "block_id": 58,
+            "clip_length": 60,
+            "choices": [
+                {
+                    "text": "…Hang on, there's no way I'm catching you!",
+                    "hash": "3cb875503d42becbe9c5b23762c64898b5a6a973a641f4f5c1d2170f14197eb7",
+                    "processed": "<size=37>…Hang on, there's no way I'm catching you!</size>"
+                },
+                {
+                    "text": "…Hang on, there's no way I'm catching you!",
+                    "hash": "bc99cf915dd7763fdc4d038fcb329f976f1ed3a8cae700f5c157b560401be00c",
+                    "processed": "<size=37>…Hang on, there's no way I'm catching you!</size>"
+                }
+            ],
+            "processed": "<story>(Thudududud!!)"
+        },
+        {
+            "text": "Aww don't say that! You can do it, trainer～♪",
+            "name": "Maruzensky",
+            "path_id": -9101814953308840483,
+            "block_id": 59,
+            "clip_length": 180,
+            "processed": "<story>Aww don't say that! You can do it, trainer～♪"
+        },
+        {
+            "text": "Aww don't say that! Show me your best effort～♪",
+            "name": "Maruzensky",
+            "path_id": 1147051592452722503,
+            "block_id": 60,
+            "clip_length": 192,
+            "processed": "<story>Aww don't say that! Show me your best effort～♪"
+        }
+    ],
+    "title": "I Simply Wish To Become the Wind"
+}

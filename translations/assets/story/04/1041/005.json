@@ -1,0 +1,334 @@
+{
+    "type": "story",
+    "row_index": 666,
+    "file_name": "story/data/04/1041/storytimeline_041041005",
+    "hash": "R43RLARHDEJVBVBL2IEF27FBPBSAH6QQ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 6582103927099202176,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I dropped by the cafeteria to find Sakura Bakushin O \ngetting fired up in front of a mountain of food.",
+            "name": "",
+            "path_id": -8193394362024582378,
+            "block_id": 1,
+            "clip_length": 107,
+            "processed": "<story>I dropped by the cafeteria to find Sakura Bakushin O \n<story>getting fired up in front of a mountain of food."
+        },
+        {
+            "text": "All of this, in the shortest time…!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -3847526003973641253,
+            "block_id": 2,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "Didn't know you ate that much.",
+                    "hash": "7b4e9e208654d6fa38c9f390cdaf5c53d9b0052b85a9b6435cc533bc1baa65aa"
+                },
+                {
+                    "text": "Hungry today?",
+                    "hash": "720e286c0893225a1a385b36e1c0b6248b669538857d2d00ebc9bc6f1c422c25"
+                }
+            ],
+            "processed": "<story>All of this, in the shortest time…!!"
+        },
+        {
+            "text": "Oh, greetings and salutations, trainer! \nCould it be you've caught wind of my grand challenge!?",
+            "name": "Sakura Bakushin O",
+            "path_id": 97348844881846741,
+            "block_id": 3,
+            "clip_length": 226,
+            "processed": "<story>Oh, greetings and salutations, trainer! \n<story>Could it be you've caught wind of my grand challenge!?"
+        },
+        {
+            "text": "You came at the right time then! \nI was just about to start my practice!",
+            "name": "Sakura Bakushin O",
+            "path_id": 7138421969917289060,
+            "block_id": 4,
+            "clip_length": 174,
+            "processed": "<story>You came at the right time then! \n<story>I was just about to start my practice!"
+        },
+        {
+            "text": "Now you're here, you can witness my valiant figure! \nAre you ready!?",
+            "name": "Sakura Bakushin O",
+            "path_id": -3685937494998169421,
+            "block_id": 5,
+            "clip_length": 172,
+            "choices": [
+                {
+                    "text": "Wha, huh?",
+                    "hash": "481871d9a7ce2726f3c80cdf524f849198ca9766a0fe80b75188fa35c5339829"
+                }
+            ],
+            "processed": "<story>Now you're here, you can witness my valiant figure! \n<story>Are you ready!?"
+        },
+        {
+            "text": "Fear not! Be it races or a Tracen food battle, as esteemed \nclass president, I shall take victory! Baku! Shin!",
+            "name": "Sakura Bakushin O",
+            "path_id": 7146254189607722655,
+            "block_id": 6,
+            "clip_length": 272,
+            "processed": "<story>Fear not! Be it races or a Tracen food battle, as esteemed \n<story>class president, I shall take victory! Baku! Shin!"
+        },
+        {
+            "text": "I can't let any discredit befall my trainer's name!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 3293410754228378086,
+            "block_id": 7,
+            "clip_length": 117,
+            "processed": "<story>I can't let any discredit befall my trainer's name!!"
+        },
+        {
+            "text": "I surmised from her words that there is some sort of food battle \ncoming up at the academy, and she is preparing for it.",
+            "name": "",
+            "path_id": -4524476257418455547,
+            "block_id": 8,
+            "clip_length": 106,
+            "processed": "<story>I surmised from her words that there is some sort of food battle \n<story>coming up at the academy, and she is preparing for it."
+        },
+        {
+            "text": "By all means it is up to me, as class president, to set \na brilliant example for all to follow!",
+            "name": "Sakura Bakushin O",
+            "path_id": 1210722782400403653,
+            "block_id": 9,
+            "clip_length": 183,
+            "processed": "<story>By all means it is up to me, as class president, to set \n<story>a brilliant example for all to follow!"
+        },
+        {
+            "text": "Three menus are provided! \nThere's King size omurice, President size fried chicken, \nand Emperor size salad!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 6541770927321017796,
+            "block_id": 10,
+            "clip_length": 218,
+            "processed": "<story>Three menus are provided! \n<story>There's King size omurice, President size fried chicken, \n<story>and Emperor size salad!!"
+        },
+        {
+            "text": "I'll start off with the chicken! How can I say no to delicious meat!? \nIt even has \"president' in the name!",
+            "name": "Sakura Bakushin O",
+            "path_id": 2499362465099605710,
+            "block_id": 11,
+            "clip_length": 242,
+            "processed": "<story>I'll start off with the chicken! How can I say no to delicious meat!? \n<story>It even has \"president' in the name!"
+        },
+        {
+            "text": "Then on to the omurice! \nMeat should be accompanied by rice after all!",
+            "name": "Sakura Bakushin O",
+            "path_id": -8835880636534407518,
+            "block_id": 12,
+            "clip_length": 177,
+            "processed": "<story>Then on to the omurice! \n<story>Meat should be accompanied by rice after all!"
+        },
+        {
+            "text": "The salad sounds plain and lacking in excitement, so \nit will wait until after the chicken and omurice!",
+            "name": "Sakura Bakushin O",
+            "path_id": -1113428134653572788,
+            "block_id": 13,
+            "clip_length": 165,
+            "processed": "<story>The salad sounds plain and lacking in excitement, so \n<story>it will wait until after the chicken and omurice!"
+        },
+        {
+            "text": "Time to dig in!! Bakushiiiin!",
+            "name": "Sakura Bakushin O",
+            "path_id": 3678574226062035470,
+            "block_id": 14,
+            "clip_length": 157,
+            "processed": "<story>Time to dig in!! Bakushiiiin!"
+        },
+        {
+            "text": "The salad seems to have been put off for reasons I don't \nquite understand but… is that the right choice?",
+            "name": "",
+            "path_id": -4073068378417837405,
+            "block_id": 15,
+            "clip_length": 95,
+            "processed": "<story>The salad seems to have been put off for reasons I don't \n<story>quite understand but… is that the right choice?"
+        },
+        {
+            "text": "… Phew, I need a short break.",
+            "name": "Sakura Bakushin O",
+            "path_id": 9001229542191278267,
+            "block_id": 16,
+            "clip_length": 91,
+            "processed": "<story>… Phew, I need a short break."
+        },
+        {
+            "text": "A mountain there was, and a mountain there remains on her plate. \nI'm fairly certain it's because she went straight for the fried \nfoods and carbs.",
+            "name": "",
+            "path_id": 5855111349203749436,
+            "block_id": 17,
+            "clip_length": 110,
+            "processed": "<story>A mountain there was, and a mountain there remains on her plate. \n<story>I'm fairly certain it's because she went straight for the fried \n<story>foods and carbs."
+        },
+        {
+            "text": "Hnnn… For some reason there's as much as I started with. \nDon't tell me this is some magical self-refilling dish?",
+            "name": "Sakura Bakushin O",
+            "path_id": 3514022749166298089,
+            "block_id": 18,
+            "clip_length": 304,
+            "processed": "<story>Hnnn… For some reason there's as much as I started with. \n<story>Don't tell me this is some magical self-refilling dish?"
+        },
+        {
+            "text": "But magic or not, I won't give in! \nWhy? Because I'm the class president! And the class president is me!",
+            "name": "Sakura Bakushin O",
+            "path_id": -2621421068279168876,
+            "block_id": 19,
+            "clip_length": 266,
+            "processed": "<story>But magic or not, I won't give in! \n<story>Why? Because I'm the class president! And the class president is me!"
+        },
+        {
+            "text": "To be a role model to all students, I must overcome any difficulties!",
+            "name": "Sakura Bakushin O",
+            "path_id": -6981225502980829754,
+            "block_id": 20,
+            "clip_length": 143,
+            "processed": "<story>To be a role model to all students, I must overcome any difficulties!"
+        },
+        {
+            "text": "Sakura Bakushin O was serious. \n…I decided to give her some advice.",
+            "name": "",
+            "path_id": -7596825830970382365,
+            "block_id": 21,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "I know of a way to go faster!",
+                    "hash": "b0ae2382d42fff50e7b52c1de0563f1419141c7435acf9e905771d6ab030e99e"
+                },
+                {
+                    "text": "I know of a way to go faster!",
+                    "hash": "621f51b0b5a45cb98e1c4d30da5e5c56351fbb758a0936ff7d2cae0f8e227451"
+                }
+            ],
+            "processed": "<story>Sakura Bakushin O was serious. \n<story>…I decided to give her some advice."
+        },
+        {
+            "text": "You what!?",
+            "name": "Sakura Bakushin O",
+            "path_id": -6080644339569277744,
+            "block_id": 22,
+            "clip_length": 54,
+            "processed": "<story>You what!?"
+        },
+        {
+            "text": "Do you really, trainer…? \nThere's a way to increase my speed…!?",
+            "name": "Sakura Bakushin O",
+            "path_id": 2863795282488873682,
+            "block_id": 23,
+            "clip_length": 196,
+            "processed": "<story>Do you really, trainer…? \n<story>There's a way to increase my speed…!?"
+        },
+        {
+            "text": "I beg of you to share it with me!! \nFor the sake of winning the food battle…!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -7383091866239697982,
+            "block_id": 24,
+            "clip_length": 175,
+            "processed": "<story>I beg of you to share it with me!! \n<story>For the sake of winning the food battle…!!"
+        },
+        {
+            "text": "Fried foods and carbohydrates tend to pile up in your stomach, \nso it's better to start with vegetables.",
+            "name": "",
+            "path_id": 1472532071525138585,
+            "block_id": 25,
+            "clip_length": 94,
+            "processed": "<story>Fried foods and carbohydrates tend to pile up in your stomach, \n<story>so it's better to start with vegetables."
+        },
+        {
+            "text": "I advised her it would be easier to rotate between different things, \neating a little at a time.",
+            "name": "",
+            "path_id": -3039832486290388550,
+            "block_id": 26,
+            "clip_length": 103,
+            "processed": "<story>I advised her it would be easier to rotate between different things, \n<story>eating a little at a time."
+        },
+        {
+            "text": "Hmhmm… indeed… I understand! \nSo I just throw all three in my mouth at once, got it!",
+            "name": "Sakura Bakushin O",
+            "path_id": 8484663132023002749,
+            "block_id": 27,
+            "clip_length": 250,
+            "choices": [
+                {
+                    "text": "Bluh!?",
+                    "hash": "f977370f9a6e4f4d5f5754d5ac5cf88826b0e571859b7921384abc39c1b8050f"
+                }
+            ],
+            "processed": "<story>Hmhmm… indeed… I understand! \n<story>So I just throw all three in my mouth at once, got it!"
+        },
+        {
+            "text": "Leave it to me! \nYou can count on Sakura Bakushin O, reliable class president…!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -8429108332162171305,
+            "block_id": 28,
+            "clip_length": 169,
+            "processed": "<story>Leave it to me! \n<story>You can count on Sakura Bakushin O, reliable class president…!!"
+        },
+        {
+            "text": "So she had said, but—",
+            "name": "",
+            "path_id": 5812207551996669956,
+            "block_id": 29,
+            "clip_length": 71,
+            "processed": "<story>So she had said, but—"
+        },
+        {
+            "text": "Bakushin… bakushiiin…",
+            "name": "Sakura Bakushin O",
+            "path_id": 2945292735166309054,
+            "block_id": 30,
+            "clip_length": 136,
+            "processed": "<story>Bakushin… bakushiiin…"
+        },
+        {
+            "text": "Ahh, my jaw is so tired… I can't… anymore…",
+            "name": "Sakura Bakushin O",
+            "path_id": 6370548164078336315,
+            "block_id": 31,
+            "clip_length": 213,
+            "choices": [
+                {
+                    "text": "'Cause you shoved it all in at once…",
+                    "hash": "b23f2a89c632c8054f319ed2a89519b5b2541b4a64c674b4553925b308ecf488"
+                }
+            ],
+            "processed": "<story>Ahh, my jaw is so tired… I can't… anymore…"
+        },
+        {
+            "text": "If only my mouth weren't so small and unassuming…",
+            "name": "Sakura Bakushin O",
+            "path_id": -6747100320284414090,
+            "block_id": 32,
+            "clip_length": 118,
+            "processed": "<story>If only my mouth weren't so small and unassuming…"
+        },
+        {
+            "text": "… Uugh, just talking is hurting my jaw… \nThis is it… this is the line…",
+            "name": "Sakura Bakushin O",
+            "path_id": 4346375335586149764,
+            "block_id": 33,
+            "clip_length": 313,
+            "processed": "<story>… Uugh, just talking is hurting my jaw… \n<story>This is it… this is the line…"
+        },
+        {
+            "text": "Trainer… I leave the rest… to youugh—",
+            "name": "Sakura Bakushin O",
+            "path_id": 2464346484011251599,
+            "block_id": 34,
+            "clip_length": 280,
+            "processed": "<story>Trainer… I leave the rest… to youugh—"
+        },
+        {
+            "text": "With Sakura Bakushin O face down on the table, \nI committed to eating the remaining food myself…",
+            "name": "",
+            "path_id": 1757331118392345232,
+            "block_id": 35,
+            "clip_length": 110,
+            "processed": "<story>With Sakura Bakushin O face down on the table, \n<story>I committed to eating the remaining food myself…"
+        }
+    ],
+    "title": "Bakushin! Food Battle!"
+}
