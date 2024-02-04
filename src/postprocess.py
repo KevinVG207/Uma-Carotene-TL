@@ -107,6 +107,11 @@ PP_FUNCS = {
     ("text_data", "94"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
     ("text_data", "191"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
     ("text_data", "222"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
+
+    # Story titles
+    # TODO: Check if the width is correct
+    ("text_data", "189"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
+    ("text_data", "214"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
 }
 
 

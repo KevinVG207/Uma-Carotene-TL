@@ -76,7 +76,9 @@ MDB_CAT_NAMES = {
         "170": "Character Names",
         "172": "Factor details",
         "182": "Chara Names (katakana)",
-        "191": "Event Story Chapters",
+        "189": "Story Event Titles",
+        "191": "Story Event Chapters",
+        "214": "Story Event Titles (Short)",
         "222": "Anniv. Story Chapters",
     }
 }
