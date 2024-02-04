@@ -1,0 +1,442 @@
+{
+    "type": "story",
+    "row_index": 464,
+    "file_name": "story/data/04/1020/storytimeline_041020006",
+    "hash": "BUVEYCGXFCDIIKM2SPKOP5PVJJL7GM7K",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5756217102792595493,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "After a training session I saw \nSeiun Sky looking at something on her phone.",
+            "name": "",
+            "path_id": -5853358713240511899,
+            "block_id": 1,
+            "clip_length": 91,
+            "processed": "<story>After a training session I saw \n<story>Seiun Sky looking at something on her phone."
+        },
+        {
+            "text": "Haa… Such a comfy design, \nand that cute, curly tail…",
+            "name": "Seiun Sky",
+            "path_id": 6730370747434337146,
+            "block_id": 2,
+            "clip_length": 210,
+            "processed": "<story>Haa… Such a comfy design, \n<story>and that cute, curly tail…"
+        },
+        {
+            "text": "For this perfect gem to fit in the palm of my hand, \nthis truly is the perfect form of therapy.",
+            "name": "Seiun Sky",
+            "path_id": -701073271680464680,
+            "block_id": 3,
+            "clip_length": 218,
+            "choices": [
+                {
+                    "text": "What're you talking about?",
+                    "hash": "2d10c13d9f9838f109c2ff49e5ff1e86f6f0bad31e5cc215dac94ce36ea1c0d2"
+                },
+                {
+                    "text": "What're you talking about?",
+                    "hash": "007f1836f823bcb7b6674209c0660159740d709ecd76b725018ca48aa5270669"
+                }
+            ],
+            "processed": "<story>For this perfect gem to fit in the palm of my hand, \n<story>this truly is the perfect form of therapy."
+        },
+        {
+            "text": "Ah, don't worry about it.",
+            "name": "Seiun Sky",
+            "path_id": -4565468514384828830,
+            "block_id": 4,
+            "clip_length": 105,
+            "processed": "<story>Ah, don't worry about it."
+        },
+        {
+            "text": "More importantly, Trainer-san, \nare you free on your next day off?",
+            "name": "Seiun Sky",
+            "path_id": -4953653065342954695,
+            "block_id": 5,
+            "clip_length": 186,
+            "processed": "<story>More importantly, Trainer-san, \n<story>are you free on your next day off?"
+        },
+        {
+            "text": "I was thinking of getting a new pair of shoes and was \nwondering if you'd like to come and look at some with me.",
+            "name": "Seiun Sky",
+            "path_id": 4837409582246298223,
+            "block_id": 6,
+            "clip_length": 212,
+            "choices": [
+                {
+                    "text": "Of course.",
+                    "hash": "202330ded13febd1a0dda3aa2a2e3ecc8939f931c8b215ce09f3390a59d73d94"
+                },
+                {
+                    "text": "Of course.",
+                    "hash": "7b2c6e4e5f4a77b1fc265497fc360d54de4549e7d36d30425c59d1610257f859"
+                }
+            ],
+            "processed": "<story>I was thinking of getting a new pair of shoes and was \n<story>wondering if you'd like to come and look at some with me."
+        },
+        {
+            "text": "Great, then let's go to the mall this weekend!",
+            "name": "Seiun Sky",
+            "path_id": -8927540781641218210,
+            "block_id": 7,
+            "clip_length": 194,
+            "processed": "<story>Great, then let's go to the mall this weekend!"
+        },
+        {
+            "text": "On my next day off, Seiun Sky and I \nwent to a shopping mall that had a sports store.",
+            "name": "",
+            "path_id": -7631651347305381872,
+            "block_id": 8,
+            "clip_length": 101,
+            "processed": "<story>On my next day off, Seiun Sky and I \n<story>went to a shopping mall that had a sports store."
+        },
+        {
+            "text": "Hmm, now where's that \nsporting goods store at…",
+            "name": "Seiun Sky",
+            "path_id": 3223580958012010029,
+            "block_id": 9,
+            "clip_length": 184,
+            "processed": "<story>Hmm, now where's that \n<story>sporting goods store at…"
+        },
+        {
+            "text": "Oh…?",
+            "name": "Seiun Sky",
+            "path_id": -7948648099658670913,
+            "block_id": 10,
+            "clip_length": 35,
+            "choices": [
+                {
+                    "text": "What's up?",
+                    "hash": "9c98af1108aae987de649551034900f45ac6169d10ef6ea99ab9c501392b39a1"
+                },
+                {
+                    "text": "What's up?",
+                    "hash": "8ee3966980fc7c30967890600dd7fc5729fefa3108f5c64d6db9e75bd43bc588"
+                }
+            ],
+            "processed": "<story>Oh…?"
+        },
+        {
+            "text": "Nothing, I just saw something intriguing is all.",
+            "name": "Seiun Sky",
+            "path_id": 335648121765834099,
+            "block_id": 11,
+            "clip_length": 132,
+            "processed": "<story>Nothing, I just saw something intriguing is all."
+        },
+        {
+            "text": "Isn't that mug in that \nstore over there super cute?",
+            "name": "Seiun Sky",
+            "path_id": -280613553925256058,
+            "block_id": 12,
+            "clip_length": 147,
+            "processed": "<story>Isn't that mug in that \n<story>store over there super cute?"
+        },
+        {
+            "text": "When I looked to where she was pointing, \nI noticed a mug with a cat painted on it.",
+            "name": "",
+            "path_id": -7060853333703561056,
+            "block_id": 13,
+            "clip_length": 102,
+            "processed": "<story>When I looked to where she was pointing, \n<story>I noticed a mug with a cat painted on it."
+        },
+        {
+            "text": "Haa… The cat on that mug looks \nso comfy, like it's about to fall asleep.",
+            "name": "Seiun Sky",
+            "path_id": 6576326312389056712,
+            "block_id": 14,
+            "clip_length": 199,
+            "processed": "<story>Haa… The cat on that mug looks \n<story>so comfy, like it's about to fall asleep."
+        },
+        {
+            "text": "I'd feel much more motivated if I could have a \ncup of tea out of it before every training session.",
+            "name": "Seiun Sky",
+            "path_id": -5883718208197635457,
+            "block_id": 15,
+            "clip_length": 225,
+            "processed": "<story>I'd feel much more motivated if I could have a \n<story>cup of tea out of it before every training session."
+        },
+        {
+            "text": "What should I do…? \nShould I buy it…? Oh!?",
+            "name": "Seiun Sky",
+            "path_id": -5806931719675905902,
+            "block_id": 16,
+            "clip_length": 160,
+            "choices": [
+                {
+                    "text": "What is it this time?",
+                    "hash": "e08d38b0100bdda053884a4f33d868b58c099a76b330b061965ad1a2701b6f4d"
+                },
+                {
+                    "text": "What is it this time?",
+                    "hash": "987e445461bb86fa8a3ef9e0e630112264bbc326e138f5a44c616b65de68833a"
+                }
+            ],
+            "processed": "<story>What should I do…? \n<story>Should I buy it…? Oh!?"
+        },
+        {
+            "text": "Trainer-san, look over there!",
+            "name": "Seiun Sky",
+            "path_id": 1916774969578890334,
+            "block_id": 17,
+            "clip_length": 82,
+            "processed": "<story>Trainer-san, look over there!"
+        },
+        {
+            "text": "It says, \"buy two mugs and \nget a cat-shaped keyholder for free!\"",
+            "name": "Seiun Sky",
+            "path_id": 8387832988890574958,
+            "block_id": 18,
+            "clip_length": 237,
+            "processed": "<story>It says, \"buy two mugs and \n<story>get a cat-shaped keyholder for free!\""
+        },
+        {
+            "text": "I didn't realize this before, but if I buy two mugs \nI'd also get that super cute cat-shaped keyholder too!",
+            "name": "Seiun Sky",
+            "path_id": 7336464023153333030,
+            "block_id": 19,
+            "clip_length": 175,
+            "processed": "<story>I didn't realize this before, but if I buy two mugs \n<story>I'd also get that super cute cat-shaped keyholder too!"
+        },
+        {
+            "text": "That's great value! \nI want them both so bad!",
+            "name": "Seiun Sky",
+            "path_id": 5471202030324292618,
+            "block_id": 20,
+            "clip_length": 154,
+            "processed": "<story>That's great value! \n<story>I want them both so bad!"
+        },
+        {
+            "text": "But I wouldn't have a \nuse for two mugs… Hmm…",
+            "name": "Seiun Sky",
+            "path_id": 1565299689868761666,
+            "block_id": 21,
+            "clip_length": 172,
+            "processed": "<story>But I wouldn't have a \n<story>use for two mugs… Hmm…"
+        },
+        {
+            "text": "After thinking about it for \nsome time, Seiun Sky said…",
+            "name": "",
+            "path_id": 2901695247199422694,
+            "block_id": 22,
+            "clip_length": 77,
+            "processed": "<story>After thinking about it for \n<story>some time, Seiun Sky said…"
+        },
+        {
+            "text": "Ah, I've got it…",
+            "name": "Seiun Sky",
+            "path_id": 1620453108296269210,
+            "block_id": 23,
+            "clip_length": 53,
+            "processed": "<story>Ah, I've got it…"
+        },
+        {
+            "text": "Trainer-san, I've got a completely \nunrelated question to ask you…",
+            "name": "Seiun Sky",
+            "path_id": 3811014261338899552,
+            "block_id": 24,
+            "clip_length": 180,
+            "processed": "<story>Trainer-san, I've got a completely \n<story>unrelated question to ask you…"
+        },
+        {
+            "text": "Trainer-san… \nDo you happen to own a mug?",
+            "name": "Seiun Sky",
+            "path_id": 6567005013470873378,
+            "block_id": 25,
+            "clip_length": 106,
+            "processed": "<story>Trainer-san… \n<story>Do you happen to own a mug?"
+        },
+        {
+            "text": "If I remember correctly, \nI'm pretty sure you don't have one.",
+            "name": "Seiun Sky",
+            "path_id": 1950341729250467657,
+            "block_id": 26,
+            "clip_length": 168,
+            "choices": [
+                {
+                    "text": "Was this your plan?",
+                    "hash": "dce804dbdea9ce3647770feeff19de0ac700c6859269b58e746b14278ed800b3"
+                },
+                {
+                    "text": "Was this your plan?",
+                    "hash": "fb239e17fd6d40dddac0777641ab538668b6dfc21f5c7bc525df04d4b877d5e0"
+                }
+            ],
+            "processed": "<story>If I remember correctly, \n<story>I'm pretty sure you don't have one."
+        },
+        {
+            "text": "Oh? I have no idea what you're talking about.",
+            "name": "Seiun Sky",
+            "path_id": -7930113897252196161,
+            "block_id": 27,
+            "clip_length": 90,
+            "processed": "<story>Oh? I have no idea what you're talking about."
+        },
+        {
+            "text": "We just happened to pass by here, and \njust so happened to see that mug with \nthe cute cat on it that I want.",
+            "name": "Seiun Sky",
+            "path_id": -8685103909635089774,
+            "block_id": 28,
+            "clip_length": 195,
+            "processed": "<story>We just happened to pass by here, and \n<story>just so happened to see that mug with \n<story>the cute cat on it that I want."
+        },
+        {
+            "text": "You seem like the type of person to use mugs… \nPlus, if you don't have one, \nnow's the perfect time to get one, doncha think?",
+            "name": "Seiun Sky",
+            "path_id": -3682049965843927314,
+            "block_id": 29,
+            "clip_length": 197,
+            "processed": "<story>You seem like the type of person to use mugs… \n<story>Plus, if you don't have one, \n<story>now's the perfect time to get one, doncha think?"
+        },
+        {
+            "text": "Come on now, imagine this. Right before \ntraining, you and your Uma Musume are both \ndrinking tea out of matching mugs…",
+            "name": "Seiun Sky",
+            "path_id": 898066972070810522,
+            "block_id": 30,
+            "clip_length": 295,
+            "processed": "<story>Come on now, imagine this. Right before \n<story>training, you and your Uma Musume are both \n<story>drinking tea out of matching mugs…"
+        },
+        {
+            "text": "Symbolizing the deep bond between us… \nWouldn't that be wonderful?",
+            "name": "Seiun Sky",
+            "path_id": -7407504091019650920,
+            "block_id": 31,
+            "clip_length": 149,
+            "processed": "<story>Symbolizing the deep bond between us… \n<story>Wouldn't that be wonderful?"
+        },
+        {
+            "text": "Plus, I know for a fact it would help \nmake me feel more pumped for training… \n<i>*Glance* *Glance*</i> \n<i>*Glance* *Glance*</i>",
+            "name": "Seiun Sky",
+            "path_id": -8997989163889646373,
+            "block_id": 32,
+            "clip_length": 215,
+            "choices": [
+                {
+                    "text": "Fine…",
+                    "hash": "5b16dd317736546f135cf68f4d2613c40b49cc56580faba5b8c1c45ac7f2f691"
+                }
+            ],
+            "processed": "<story>Plus, I know for a fact it would help \n<story>make me feel more pumped for training… \n<story><i>*Glance* *Glance*</i> \n<story><i>*Glance* *Glance*</i>"
+        },
+        {
+            "text": "Oh, really?",
+            "name": "Seiun Sky",
+            "path_id": -3531058487784149249,
+            "block_id": 33,
+            "clip_length": 53,
+            "choices": [
+                {
+                    "text": "This'll make you happy, right?",
+                    "hash": "f8f815b391d184c12cc91a4068a498ab0a74d80cdeb7ae38f6ea42b26ee928c2"
+                },
+                {
+                    "text": "This'll make you happy, right?",
+                    "hash": "031de90ba9ccbb5a1aa4cb3a2b11d8866e3445d7a96832f3e6b93294410593da"
+                }
+            ],
+            "processed": "<story>Oh, really?"
+        },
+        {
+            "text": "Ahaha, now that's my trainer!",
+            "name": "Seiun Sky",
+            "path_id": -3092291752260425151,
+            "block_id": 34,
+            "clip_length": 98,
+            "processed": "<story>Ahaha, now that's my trainer!"
+        },
+        {
+            "text": "You're pretty good at making sure your Uma \nMusume's motivation is always as high as can be, huh?",
+            "name": "Seiun Sky",
+            "path_id": 8661014992832833923,
+            "block_id": 35,
+            "clip_length": 203,
+            "processed": "<story>You're pretty good at making sure your Uma \n<story>Musume's motivation is always as high as can be, huh?"
+        },
+        {
+            "text": "Now then, why don't we each buy one?",
+            "name": "Seiun Sky",
+            "path_id": -5557033586551809591,
+            "block_id": 36,
+            "clip_length": 104,
+            "choices": [
+                {
+                    "text": "I'll pay for both.",
+                    "hash": "b57403a10d27db5f251236533746b4d691cf979fbe457b49a778c3b8437bab38"
+                }
+            ],
+            "processed": "<story>Now then, why don't we each buy one?"
+        },
+        {
+            "text": "Wha…?",
+            "name": "Seiun Sky",
+            "path_id": -4239477695595326921,
+            "block_id": 37,
+            "clip_length": 23,
+            "processed": "<story>Wha…?"
+        },
+        {
+            "text": "I had Seiun Sky wait there and \ndecided to pay for the mugs on my own.",
+            "name": "",
+            "path_id": 5763209903148439672,
+            "block_id": 38,
+            "clip_length": 85,
+            "processed": "<story>I had Seiun Sky wait there and \n<story>decided to pay for the mugs on my own."
+        },
+        {
+            "text": "Wowie! Trainer-san, you're so mature! \nAnd so cool!",
+            "name": "Seiun Sky",
+            "path_id": -4333330708080383334,
+            "block_id": 39,
+            "clip_length": 169,
+            "processed": "<story>Wowie! Trainer-san, you're so mature! \n<story>And so cool!"
+        },
+        {
+            "text": "To think you'd pay for my mug too!",
+            "name": "Seiun Sky",
+            "path_id": -8786797331476238463,
+            "block_id": 40,
+            "clip_length": 112,
+            "processed": "<story>To think you'd pay for my mug too!"
+        },
+        {
+            "text": "Sei-chan's bond level has \nrisen by one once again. Pirorirorin ♪",
+            "name": "Seiun Sky",
+            "path_id": 7426727828935279600,
+            "block_id": 41,
+            "clip_length": 197,
+            "choices": [
+                {
+                    "text": "Well, you're in a good mood.",
+                    "hash": "e5a93b7158f7668df0c70e2e473ac8f0103f3b43094d5d73758fe212d6954c14"
+                },
+                {
+                    "text": "Well, you're in a good mood.",
+                    "hash": "a63c32d3fde5ee6c9666e91cd41dbc6d937ca8b931dc0f9f28ecd94ed94ef4f8"
+                }
+            ],
+            "processed": "<story>Sei-chan's bond level has \n<story>risen by one once again. Pirorirorin ♪"
+        },
+        {
+            "text": "Hehe… To say that after buying that mug for me. \nTrainer-san, you're not being \nhonest with your feelings, are you?",
+            "name": "Seiun Sky",
+            "path_id": 3967657285319353486,
+            "block_id": 42,
+            "clip_length": 260,
+            "processed": "<story>Hehe… To say that after buying that mug for me. \n<story>Trainer-san, you're not being \n<story>honest with your feelings, are you?"
+        },
+        {
+            "text": "Now then, why don't we head back \nhome and drink some tea out of these mugs?",
+            "name": "Seiun Sky",
+            "path_id": 1781439677542473241,
+            "block_id": 43,
+            "clip_length": 195,
+            "processed": "<story>Now then, why don't we head back \n<story>home and drink some tea out of these mugs?"
+        }
+    ],
+    "title": "Matching Cat Designs"
+}

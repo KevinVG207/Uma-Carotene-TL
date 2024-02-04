@@ -1,0 +1,566 @@
+{
+    "type": "story",
+    "row_index": 459,
+    "file_name": "story/data/04/1020/storytimeline_041020001",
+    "hash": "KF72O7U67TCGKQ3JWD6ZZ3HXZR6EJO3E",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 948219846183389962,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I came to Tracen Academy a few \ndays ago in order to train Uma Musume.",
+            "name": "",
+            "path_id": -5339225385417508935,
+            "block_id": 1,
+            "clip_length": 93,
+            "processed": "<story>I came to Tracen Academy a few \n<story>days ago in order to train Uma Musume."
+        },
+        {
+            "text": "I also received a personal trainer's office, \nand as such I was looking over some files there…",
+            "name": "",
+            "path_id": 1384077813685400608,
+            "block_id": 2,
+            "clip_length": 89,
+            "processed": "<story>I also received a personal trainer's office, \n<story>and as such I was looking over some files there…"
+        },
+        {
+            "text": "Fuee… This place is so nice… No one's here and it's quiet. \nPlus there's a soft and fluffy sofa there all for me!",
+            "name": "Seiun Sky",
+            "path_id": -10899447464400450,
+            "block_id": 3,
+            "clip_length": 340,
+            "processed": "<story>Fuee… This place is so nice… No one's here and it's quiet. \n<story>Plus there's a soft and fluffy sofa there all for me!"
+        },
+        {
+            "text": "So I'll be helping myself to…",
+            "name": "Seiun Sky",
+            "path_id": -5054033821093121059,
+            "block_id": 4,
+            "clip_length": 90,
+            "processed": "<story>So I'll be helping myself to…"
+        },
+        {
+            "text": "Wait, who are you!? \nWhy are you here!?",
+            "name": "Seiun Sky",
+            "path_id": 257859738505864909,
+            "block_id": 5,
+            "clip_length": 74,
+            "choices": [
+                {
+                    "text": "I could ask you the same!",
+                    "hash": "1b6de3a29d238e68ecf2657c7d121a8f6228558b6e63003e3e94a33ba2e92cf5"
+                },
+                {
+                    "text": "I could ask you the same!",
+                    "hash": "ce1d86a483f23868510d3287297507fe1ab579f18df9643e12db66662cd736ab"
+                }
+            ],
+            "processed": "<story>Wait, who are you!? \n<story>Why are you here!?"
+        },
+        {
+            "text": "This empty Trainer's Office is \nSei-chan's precious naptime spot. Wait…",
+            "name": "Seiun Sky",
+            "path_id": 2766287269338892051,
+            "block_id": 6,
+            "clip_length": 220,
+            "processed": "<story>This empty Trainer's Office is \n<story>Sei-chan's precious naptime spot. Wait…"
+        },
+        {
+            "text": "That badge… could it be… are you a rookie trainer? \nAnd if so, did they tell you you could use this office?",
+            "name": "Seiun Sky",
+            "path_id": -7865783012796986162,
+            "block_id": 7,
+            "clip_length": 312,
+            "choices": [
+                {
+                    "text": "That's correct, but…",
+                    "hash": "fa3339262dfa5b04d42fb8c983bef133eb9fa433f22f137547ed92aef4202f79"
+                }
+            ],
+            "processed": "<story>That badge… could it be… are you a rookie trainer? \n<story>And if so, did they tell you you could use this office?"
+        },
+        {
+            "text": "Ah, okay. So that's what happened, got it!",
+            "name": "Seiun Sky",
+            "path_id": 2222324508115822532,
+            "block_id": 8,
+            "clip_length": 169,
+            "processed": "<story>Ah, okay. So that's what happened, got it!"
+        },
+        {
+            "text": "Well anyways, I'll be borrowing that sofa over there. \nToday's class was real rough, and now I'm just so sleepy.",
+            "name": "Seiun Sky",
+            "path_id": 1624515016434303955,
+            "block_id": 9,
+            "clip_length": 349,
+            "processed": "<story>Well anyways, I'll be borrowing that sofa over there. \n<story>Today's class was real rough, and now I'm just so sleepy."
+        },
+        {
+            "text": "So, I'll be taking a nap.",
+            "name": "Seiun Sky",
+            "path_id": -5779246419719153793,
+            "block_id": 10,
+            "clip_length": 111,
+            "processed": "<story>So, I'll be taking a nap."
+        },
+        {
+            "text": "Without waiting for my response, this Uma Musume… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
+            "name": "",
+            "path_id": -2692280573760324313,
+            "block_id": 11,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "She must be really tired…",
+                    "hash": "6101d2383f130f39b1d0f4974de0e9d106e374e761e8f8dcffc9a4367e96821b"
+                },
+                {
+                    "text": "She must be really tired…",
+                    "hash": "b9a8b9950370ab24ca0e3972c38267db77dd585eb367825b0bc643a17317abca"
+                }
+            ],
+            "processed": "<story>Without waiting for my response, this Uma Musume… \n<story>Seiun Sky, lied down on the sofa and drifted off to sleep."
+        },
+        {
+            "text": "At any rate, I covered her with a blanket that I \nhad in my office so she wouldn't catch a cold.",
+            "name": "",
+            "path_id": -8336384006101374454,
+            "block_id": 12,
+            "clip_length": 95,
+            "processed": "<story>At any rate, I covered her with a blanket that I \n<story>had in my office so she wouldn't catch a cold."
+        },
+        {
+            "text": "Fuwa… That was a great nap…",
+            "name": "Seiun Sky",
+            "path_id": -1075193147607282312,
+            "block_id": 13,
+            "clip_length": 176,
+            "processed": "<story>Fuwa… That was a great nap…"
+        },
+        {
+            "text": "Wait, who are you!?",
+            "name": "Seiun Sky",
+            "path_id": -6093211775644292987,
+            "block_id": 14,
+            "clip_length": 42,
+            "choices": [
+                {
+                    "text": "I told you I'm a trainer!",
+                    "hash": "3acaebb4b1250efd4812549fad77820408642c30a34eb4c0b266c77b6ad35d67"
+                }
+            ],
+            "processed": "<story>Wait, who are you!?"
+        },
+        {
+            "text": "Ahaha, I was just kidding. \nThanks for the blanket though.",
+            "name": "Seiun Sky",
+            "path_id": 3262215191257540164,
+            "block_id": 15,
+            "clip_length": 157,
+            "processed": "<story>Ahaha, I was just kidding. \n<story>Thanks for the blanket though."
+        },
+        {
+            "text": "Also… Trainer-san? \nWhy didn't you try and wake me up?",
+            "name": "Seiun Sky",
+            "path_id": 3878830736952229412,
+            "block_id": 16,
+            "clip_length": 227,
+            "processed": "<story>Also… Trainer-san? \n<story>Why didn't you try and wake me up?"
+        },
+        {
+            "text": "I was obviously taking advantage of this \nempty room so that I could slack off in school. \nThen, I just fell asleep in front of you.",
+            "name": "Seiun Sky",
+            "path_id": 4925436266575799138,
+            "block_id": 17,
+            "clip_length": 286,
+            "processed": "<story>I was obviously taking advantage of this \n<story>empty room so that I could slack off in school. \n<story>Then, I just fell asleep in front of you."
+        },
+        {
+            "text": "I can't believe I'm saying this but, \nit'd be normal for you to kick me out saying \nsomething like \"stop messing around,\" don't you think?",
+            "name": "Seiun Sky",
+            "path_id": 6647207752057485743,
+            "block_id": 18,
+            "clip_length": 256,
+            "processed": "<story>I can't believe I'm saying this but, \n<story>it'd be normal for you to kick me out saying \n<story>something like \"stop messing around,\" don't you think?"
+        },
+        {
+            "text": "So then why did you bring me a blanket \nand watch over me as I slept?",
+            "name": "Seiun Sky",
+            "path_id": -3534733005944404846,
+            "block_id": 19,
+            "clip_length": 204,
+            "choices": [
+                {
+                    "text": "I figured you were exhausted…",
+                    "hash": "ac678b868c657ff61ba46bba18e3dc62791fc9f045b5ce8682919d6b8885548d"
+                }
+            ],
+            "processed": "<story>So then why did you bring me a blanket \n<story>and watch over me as I slept?"
+        },
+        {
+            "text": "Ohoho… I get it now.",
+            "name": "Seiun Sky",
+            "path_id": 5082998664852847384,
+            "block_id": 20,
+            "clip_length": 122,
+            "processed": "<story>Ohoho… I get it now."
+        },
+        {
+            "text": "Yup, that's gotta be it! \nWell, thanks for today♪",
+            "name": "Seiun Sky",
+            "path_id": -3545340869386621506,
+            "block_id": 21,
+            "clip_length": 160,
+            "processed": "<story>Yup, that's gotta be it! \n<story>Well, thanks for today♪"
+        },
+        {
+            "text": "I'll be sure to return this favor… \nif I remember it that is.",
+            "name": "Seiun Sky",
+            "path_id": -1216605609784268862,
+            "block_id": 22,
+            "clip_length": 163,
+            "processed": "<story>I'll be sure to return this favor… \n<story>if I remember it that is."
+        },
+        {
+            "text": "So see ya later… \nand let's meet again, okay♪",
+            "name": "Seiun Sky",
+            "path_id": -971843521929595204,
+            "block_id": 23,
+            "clip_length": 158,
+            "processed": "<story>So see ya later… \n<story>and let's meet again, okay♪"
+        },
+        {
+            "text": "As she said this, Seiun Sky left the room.",
+            "name": "",
+            "path_id": -3307402884089295435,
+            "block_id": 24,
+            "clip_length": 82,
+            "processed": "<story>As she said this, Seiun Sky left the room."
+        },
+        {
+            "text": "And a few days after that happened…",
+            "name": "",
+            "path_id": 3660526193571589263,
+            "block_id": 25,
+            "clip_length": 61,
+            "processed": "<story>And a few days after that happened…"
+        },
+        {
+            "text": "Ah, there you are! Oi, you're the rookie trainer \nfrom before! This is bad, really really bad!",
+            "name": "Seiun Sky",
+            "path_id": -8477650658964273923,
+            "block_id": 26,
+            "clip_length": 235,
+            "choices": [
+                {
+                    "text": "What's got you so panicked?",
+                    "hash": "54cbcf681329cf5e3d11cd58b685b88e830f10fcf1905101b831666d7648e2b4"
+                },
+                {
+                    "text": "What's got you so panicked?",
+                    "hash": "8f5d1fbd07b34f771f9fd0fc961f53d8eb4f831489aa6010a167c7e786aac20d"
+                }
+            ],
+            "processed": "<story>Ah, there you are! Oi, you're the rookie trainer \n<story>from before! This is bad, really really bad!"
+        },
+        {
+            "text": "Things are really bad, so I'll tell you \nthe details later, just answer me this!!",
+            "name": "Seiun Sky",
+            "path_id": 2632321127291875192,
+            "block_id": 27,
+            "clip_length": 164,
+            "processed": "<story>Things are really bad, so I'll tell you \n<story>the details later, just answer me this!!"
+        },
+        {
+            "text": "Are the two organs on either side of your \nchest that you use to breathe called lungs!?",
+            "name": "Seiun Sky",
+            "path_id": -5621338746052230428,
+            "block_id": 28,
+            "clip_length": 129,
+            "choices": [
+                {
+                    "text": "Yes…?",
+                    "hash": "3a0cb5afbefbe5dd415f2da58295431c9ad734515f5fbb977d2ee6fc359fb8f5"
+                }
+            ],
+            "processed": "<story>Are the two organs on either side of your \n<story>chest that you use to breathe called lungs!?"
+        },
+        {
+            "text": "You're too quiet! Stop answering with a \nquestion and use your outside voice instead!!",
+            "name": "Seiun Sky",
+            "path_id": -3974780559634138683,
+            "block_id": 29,
+            "clip_length": 190,
+            "processed": "<story>You're too quiet! Stop answering with a \n<story>question and use your outside voice instead!!"
+        },
+        {
+            "text": "Now say it one more time!",
+            "name": "Seiun Sky",
+            "path_id": 9035409835734254845,
+            "block_id": 30,
+            "clip_length": 47,
+            "choices": [
+                {
+                    "text": "Yes!",
+                    "hash": "c8437da922b05a66a006272ae646cc70f57e96453c9e5b620e3abbd8e90368f7"
+                }
+            ],
+            "processed": "<story>Now say it one more time!"
+        },
+        {
+            "text": "Now that's better! \nJust one more time now!",
+            "name": "Seiun Sky",
+            "path_id": 7549584560457836723,
+            "block_id": 31,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "Yes!!",
+                    "hash": "807467320df127a8459030448fa27de721f2a02bac19e3d425e3f657a45c00dd"
+                }
+            ],
+            "processed": "<story>Now that's better! \n<story>Just one more time now!"
+        },
+        {
+            "text": "So as I was saying Sensei, \nthis person is my trainer!",
+            "name": "Seiun Sky",
+            "path_id": 3802269970092846980,
+            "block_id": 32,
+            "clip_length": 177,
+            "choices": [
+                {
+                    "text": "Yes!!!",
+                    "hash": "807467320df127a8459030448fa27de721f2a02bac19e3d425e3f657a45c00dd"
+                }
+            ],
+            "processed": "<story>So as I was saying Sensei, \n<story>this person is my trainer!"
+        },
+        {
+            "text": "I was wondering why you suddenly ran off… \nbut I see, so they're your trainer.",
+            "name": "Teacher A",
+            "path_id": -1060884226531018723,
+            "block_id": 33,
+            "clip_length": 169,
+            "processed": "<story>I was wondering why you suddenly ran off… \n<story>but I see, so they're your trainer."
+        },
+        {
+            "text": "So, Trainer-san. We are immensely appreciative of you \nfor choosing Sky-san… We leave her in your care!!",
+            "name": "Teacher A",
+            "path_id": -62497313902087550,
+            "block_id": 34,
+            "clip_length": 260,
+            "choices": [
+                {
+                    "text": "…Yes?",
+                    "hash": "6a5710b76bd009cd99b2f90067f9dc1ad566d1ba8523d0586ef18091232259fc"
+                }
+            ],
+            "processed": "<story>So, Trainer-san. We are immensely appreciative of you \n<story>for choosing Sky-san… We leave her in your care!!"
+        },
+        {
+            "text": "Now then, Seiun Sky-san. \nI would like to congratulate you on finding a trainer.",
+            "name": "Teacher A",
+            "path_id": -1105706129314962766,
+            "block_id": 35,
+            "clip_length": 172,
+            "processed": "<story>Now then, Seiun Sky-san. \n<story>I would like to congratulate you on finding a trainer."
+        },
+        {
+            "text": "Ahaha, thank you, thank you. \nAlrighty then Sensei, see you later.",
+            "name": "Seiun Sky",
+            "path_id": 6098409654265090752,
+            "block_id": 36,
+            "clip_length": 230,
+            "processed": "<story>Ahaha, thank you, thank you. \n<story>Alrighty then Sensei, see you later."
+        },
+        {
+            "text": "And just like that!",
+            "name": "Seiun Sky",
+            "path_id": -5128841379372286321,
+            "block_id": 37,
+            "clip_length": 75,
+            "processed": "<story>And just like that!"
+        },
+        {
+            "text": "You and I are now trainer \nand Uma Musume. Come on, clap!",
+            "name": "Seiun Sky",
+            "path_id": -333068085278301813,
+            "block_id": 38,
+            "clip_length": 272,
+            "choices": [
+                {
+                    "text": "You set me up!",
+                    "hash": "4bca55a4602a164abbcb70c8c0649b51ea7f3460ac26eec7c8f83997621363c7"
+                }
+            ],
+            "processed": "<story>You and I are now trainer \n<story>and Uma Musume. Come on, clap!"
+        },
+        {
+            "text": "Oi, how scandalous. As they say, \nsimply a means to an end, ya know?",
+            "name": "Seiun Sky",
+            "path_id": -2215926479029554546,
+            "block_id": 39,
+            "clip_length": 172,
+            "processed": "<story>Oi, how scandalous. As they say, \n<story>simply a means to an end, ya know?"
+        },
+        {
+            "text": "More importantly, I was kinda hoping you'd interpret what I did \nas me \"doing this only because I wanted to work with you no \nmatter what\" or something like that.",
+            "name": "Seiun Sky",
+            "path_id": 3134003565519142051,
+            "block_id": 40,
+            "clip_length": 287,
+            "choices": [
+                {
+                    "text": "But why me of all people…?",
+                    "hash": "b8da3cb5baaa74513b2af8a1d81b7d345bc0c4f9897890cd703f80ed9f4a1346"
+                },
+                {
+                    "text": "But why me of all people…?",
+                    "hash": "b379173c2b6c2a72376a6204a6f32d28bd3723e3740524dce1e8ee448988d0c7"
+                }
+            ],
+            "processed": "<story>More importantly, I was kinda hoping you'd interpret what I did \n<story>as me \"doing this only because I wanted to work with you no \n<story>matter what\" or something like that."
+        },
+        {
+            "text": "Eh? Do I really have to spell it out for you?",
+            "name": "Seiun Sky",
+            "path_id": 5241230488951703088,
+            "block_id": 41,
+            "clip_length": 108,
+            "processed": "<story>Eh? Do I really have to spell it out for you?"
+        },
+        {
+            "text": "It was love at first sight! Kyaha ☆",
+            "name": "Seiun Sky",
+            "path_id": -2126314268565897325,
+            "block_id": 42,
+            "clip_length": 121,
+            "processed": "<story>It was love at first sight! Kyaha ☆"
+        },
+        {
+            "text": "I'm just messing with you… \nBut the truth is the way you acted the other \nday in the Trainer's Office really surprised me.",
+            "name": "Seiun Sky",
+            "path_id": -4274781471530717827,
+            "block_id": 43,
+            "clip_length": 243,
+            "processed": "<story>I'm just messing with you… \n<story>But the truth is the way you acted the other \n<story>day in the Trainer's Office really surprised me."
+        },
+        {
+            "text": "Plus this isn't a half bad arrangement \nfor a rookie trainer like yourself!",
+            "name": "Seiun Sky",
+            "path_id": -8873419928028475514,
+            "block_id": 44,
+            "clip_length": 228,
+            "choices": [
+                {
+                    "text": "You think so…?",
+                    "hash": "4bf8d5d8437b7d6cd495039f1eb0d3c98a58d199509cdb9acd58e87a577e8472"
+                },
+                {
+                    "text": "You think so…?",
+                    "hash": "2087f0f564f87e0ba0d1b598d1618db7c6e050855c38ac4df184257e4d6c7f31"
+                }
+            ],
+            "processed": "<story>Plus this isn't a half bad arrangement \n<story>for a rookie trainer like yourself!"
+        },
+        {
+            "text": "Yup. After all… training me is super easy!",
+            "name": "Seiun Sky",
+            "path_id": 3262678975193912205,
+            "block_id": 45,
+            "clip_length": 179,
+            "processed": "<story>Yup. After all… training me is super easy!"
+        },
+        {
+            "text": "I'm not looking for you to be super into your \ntraining or for you to make a special training \nregime or anything annoying like that.",
+            "name": "Seiun Sky",
+            "path_id": 4257086978666018108,
+            "block_id": 46,
+            "clip_length": 297,
+            "processed": "<story>I'm not looking for you to be super into your \n<story>training or for you to make a special training \n<story>regime or anything annoying like that."
+        },
+        {
+            "text": "Everything should be done in moderation after all. \nThat's the philosophy Sei-chan lives her life by anyways.",
+            "name": "Seiun Sky",
+            "path_id": -6144129956450758828,
+            "block_id": 47,
+            "clip_length": 301,
+            "processed": "<story>Everything should be done in moderation after all. \n<story>That's the philosophy Sei-chan lives her life by anyways."
+        },
+        {
+            "text": "So… let's just relax and take \nthis slow and comfortably… Oh!",
+            "name": "Seiun Sky",
+            "path_id": 8490136302002385974,
+            "block_id": 48,
+            "clip_length": 309,
+            "choices": [
+                {
+                    "text": "O-Oh…?",
+                    "hash": "7b23fde906f1b0a49fba11bfe9666c891c6ecee71fcf7e526d0eecabe9183a2e"
+                }
+            ],
+            "processed": "<story>So… let's just relax and take \n<story>this slow and comfortably… Oh!"
+        },
+        {
+            "text": "I got swept along and \nended up signing on as her trainer…!",
+            "name": "",
+            "path_id": 2651489542927692261,
+            "block_id": 49,
+            "clip_length": 68,
+            "processed": "<story>I got swept along and \n<story>ended up signing on as her trainer…!"
+        },
+        {
+            "text": "And on the first day of training with Seiun Sky…",
+            "name": "",
+            "path_id": 4802532287857526800,
+            "block_id": 50,
+            "clip_length": 76,
+            "processed": "<story>And on the first day of training with Seiun Sky…"
+        },
+        {
+            "text": "(Bzz, bzz)",
+            "name": "",
+            "path_id": 2694568240671502612,
+            "block_id": 51,
+            "clip_length": 54,
+            "processed": "<story>(Bzz, bzz)"
+        },
+        {
+            "text": "I received a text, so I opened \nmy phone to see the message, but…",
+            "name": "",
+            "path_id": 5123090961558087648,
+            "block_id": 52,
+            "clip_length": 81,
+            "processed": "<story>I received a text, so I opened \n<story>my phone to see the message, but…"
+        },
+        {
+            "text": "\"Trainer-san, I've got big news! I just saw a huge school of \nfish in the floodplains! It would be a disgrace for a master \nfisher such as myself to miss out on this!\"",
+            "name": "Seiun Sky",
+            "path_id": 8150755285205524526,
+            "block_id": 53,
+            "clip_length": 288,
+            "processed": "<story>\"Trainer-san, I've got big news! I just saw a huge school of \n<story>fish in the floodplains! It would be a disgrace for a master \n<story>fisher such as myself to miss out on this!\""
+        },
+        {
+            "text": "\"P.S. I won't be at today's training. \nFrom Seiun Sky ☆\"",
+            "name": "Seiun Sky",
+            "path_id": 1107814894422770077,
+            "block_id": 54,
+            "clip_length": 158,
+            "processed": "<story>\"P.S. I won't be at today's training. \n<story>From Seiun Sky ☆\""
+        },
+        {
+            "text": "She didn't even show \nup on the first day of training…",
+            "name": "",
+            "path_id": 3578669448050647324,
+            "block_id": 55,
+            "clip_length": 80,
+            "processed": "<story>She didn't even show \n<story>up on the first day of training…"
+        }
+    ],
+    "title": "Like a Cloud Drifting Through the Sky"
+}
