@@ -102,8 +102,11 @@ PP_FUNCS = {
     # Secrets/Comics/Tazuna
     ("text_data", "69"): [("filter", (8000, 9999)), (scale_to_box, (20000, 4)), (add_rbr_tag, None)],
 
-    # Chara story chapter titles
+    # Story chapter titles
     ("text_data", "92"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
+    ("text_data", "94"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
+    ("text_data", "191"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
+    ("text_data", "222"): [(scale_to_width, (19120,)), (add_nb_tag, None)],
 }
 
 
