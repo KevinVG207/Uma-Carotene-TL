@@ -358,13 +358,13 @@ def _import_story(story_data):
     tree['TypewriteCountPerSecond'] *= 3
 
     for new_clip in story_data['data']:
+        if not new_clip['text'] and not new_clip['name']:
+            # Skip untranslated blocks.
+            continue
+
         block_data = tree['BlockList'][new_clip['block_id']]
         text_clip = root.assets_file.files[new_clip['path_id']]
         text_clip_data = text_clip.read_typetree()
-
-        if not text_clip_data['Text']:
-            # Skip untranslated blocks.
-            continue
 
         text_clip_data['Text'] = new_clip.get('processed') or new_clip['text']
         text_clip_data['Name'] = new_clip.get('name_processed') or new_clip['name']
