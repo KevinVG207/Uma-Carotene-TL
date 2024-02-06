@@ -5764,27 +5764,27 @@
         "hash": "b3a24f4bb53785c5946a9ecb666039a01f40bdd6ee5d8e19058f72fcd3bbd99f"
     },
     "Gallery0002": {
-        "text": "",
+        "text": "Main Scenario",
         "hash": "bc6f3ac99a70dee29289cf82b5dbeb4457e5095ebfe7ebc02c91e4c411175a75"
     },
     "Gallery0003": {
-        "text": "",
+        "text": "Would you like to view this event?",
         "hash": "c3b40daa9897c9960dc4175d3ed9eb3ec5e1abfd232a0ca8e59e2ab7815ff1d2"
     },
     "Gallery0004": {
-        "text": "",
+        "text": "Choices will be <color=#ff9900>random</color>.",
         "hash": "8f489d2e079f688a56a4034eaa0877e1c8281d23b428ba4ca330a5761b287cb8"
     },
     "Gallery0006": {
-        "text": "",
+        "text": "<nb>Training Event List",
         "hash": "241e1cc2cd8c729b08a563ec12daf41eca6b57e96f24ca011241fca796dc82dc"
     },
     "Gallery0007": {
-        "text": "",
+        "text": "<nb>View Training Event",
         "hash": "3dfd311bc5c1b64082c9e0a1e295a1a7cc41f1d94492634c1d114078714b453f"
     },
     "Gallery0008": {
-        "text": "",
+        "text": "General",
         "hash": "3bc4fc2328cbc68ec3401c10e957edcdccff0428a54927707dfe03a772ca5f82"
     },
     "Gallery0009": {
@@ -5800,15 +5800,15 @@
         "hash": "dbe09aa59818109f4a158f059da5615a3170f0ef486a2e22db4d556b67105e23"
     },
     "Gallery0012": {
-        "text": "Convo Gallery",
+        "text": "Chat Gallery",
         "hash": "36615e6cd1bbff3f351ea5f5eb9f102ceda763ba3446848f03507042740ab452"
     },
     "Gallery0013": {
-        "text": "",
+        "text": "Chat List",
         "hash": "628ce29ad49bd2a2ae9da346c47fdbbfb02dbca8cf48702f679dd741d3c31b36"
     },
     "Gallery0014": {
-        "text": "",
+        "text": "Casual Chat {0}",
         "hash": "f8307fa3662d75955c54e6ab2de9139caab79aa59ba774a6b990f733fea9039e"
     },
     "Gallery0015": {
@@ -5816,19 +5816,19 @@
         "hash": "43229a35d742c81943db6664ed4b1f028427f7b8b961b981b84b72dc64de89cb"
     },
     "Gallery0016": {
-        "text": "",
+        "text": "Would you like to view this chat?",
         "hash": "289f8b8a2e411afe7f511c382555dbb9ca20449ee3a451742c5d5f1ed13808c0"
     },
     "Gallery0017": {
-        "text": "",
+        "text": "View Chat",
         "hash": "f970ae43ae8820e9c2d412909ec3fde07e0a9b45abbcc6303eb9da6cb09215df"
     },
     "Gallery0018": {
-        "text": "Convo",
+        "text": "Chat",
         "hash": "90542de965f10484dc5c568bbb2edea64b3d9aee5fc49a9a44d3504f1b5c9ccc"
     },
     "Gallery425001": {
-        "text": "",
+        "text": "Play",
         "hash": "6db123e984b6730e2b633e967a8eaad457390af69a631ebe58d8dad0c265daa2"
     },
     "Gallery425002": {
@@ -5840,7 +5840,7 @@
         "hash": "d330a421ce9e83b06660086c19c903f70d9fdaa9ad3e805cad041d482ab6183a"
     },
     "Gallery511002": {
-        "text": "",
+        "text": "Happy Birthday! {0}",
         "hash": "ee4c70eb94dd09fdbf4a8563a2db373edc32539e8ce4842fecdaebc13bab236a"
     },
     "Gallery511003": {
@@ -5856,11 +5856,11 @@
         "hash": "2e52757c7ee2002e37ee833eb421f7d4b316635deedede688ea5b4f2ed4b551a"
     },
     "Gallery400102": {
-        "text": "",
+        "text": "Use Gallery Key",
         "hash": "80046d2b917921b143190c7e806183c145217d60faa3201907e5a1b4324476ce"
     },
     "Gallery400103": {
-        "text": "",
+        "text": "Use",
         "hash": "a391ffe788aa23b923fb862b3359b170126b4108668c8f4cc1e3aaf54b4e59d9"
     },
     "Gallery400104": {
@@ -5872,7 +5872,7 @@
         "hash": "9c42a02a3c3c4fcc90bd695fe0d9d7de23904ad36334c40e5bc0fd01c53c0a35"
     },
     "Gallery400106": {
-        "text": "",
+        "text": "Are you sure you want to unlock \nthis {0} with a Gallery Key?",
         "hash": "32fa40adca0b822658cbb5965a8fb1ed2bc9515769fbee61f91fed3036555ed5"
     },
     "Gallery400107": {
@@ -8676,7 +8676,7 @@
         "hash": "84f6ef36af909eaa353072e9640ff15ba147214fc9165549de5904c593aca27a"
     },
     "Outgame0279": {
-        "text": "",
+        "text": "General",
         "hash": "34eeaf8fd6d353e12044dc772d31a7614b6076215aa7031a6f9d58141cf5a5c3"
     },
     "Outgame0280": {
@@ -9084,7 +9084,7 @@
         "hash": "e85f451a8380165340d39724c959677685fc8576eadc9b7185b61c16dfc974b0"
     },
     "Outgame0388": {
-        "text": "Unlock",
+        "text": "<nb>Unlock",
         "hash": "85a81f88e312e472245e96cca37474fdc5649c440ca1eb9b3451f87cc0db2d97"
     },
     "Outgame0389": {
@@ -9912,11 +9912,11 @@
         "hash": "8563ceb62edafada336f63c3021ee2d6e487af8c853f070c407e305ab68ceee2"
     },
     "Outgame213031": {
-        "text": "",
+        "text": "Unlock All",
         "hash": "ae990822b5b540d61f5e3bcc195bcae82ebbb98ff48b223d759909f5e097d302"
     },
     "Outgame213032": {
-        "text": "",
+        "text": "Unlock All",
         "hash": "ae990822b5b540d61f5e3bcc195bcae82ebbb98ff48b223d759909f5e097d302"
     },
     "Outgame213033": {

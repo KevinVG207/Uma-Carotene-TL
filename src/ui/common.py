@@ -62,6 +62,8 @@ MDB_CAT_NAMES = {
         "88": "Card Stories",
         "94": "Main Story Chapters",
         "113": "Chara Pieces",
+        "119": "Scenario Names",
+        "120": "Scenario Descr",
         "144": "Profile Slogan",
         "147": "Factors(?)",
         "151": "Support Events",
