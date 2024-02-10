@@ -1,0 +1,505 @@
+{
+    "type": "story",
+    "row_index": 664,
+    "file_name": "story/data/04/1041/storytimeline_041041003",
+    "hash": "KPBMV3D54HN3WLNGU4J72VBM2YI246TQ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 8376723378030147878,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "(…Woooooaaaaaaah!)",
+            "name": "",
+            "path_id": -6966999811509469661,
+            "block_id": 1,
+            "clip_length": 65,
+            "processed": "<story>(…Woooooaaaaaaah!)"
+        },
+        {
+            "text": "Bakushin, bakushin, bakushiiin!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 5631796982581824169,
+            "block_id": 2,
+            "clip_length": 94,
+            "processed": "<story>Bakushin, bakushin, bakushiiin!!"
+        },
+        {
+            "text": "Bakushin O is in the lead! \nSakura Bakushin O is leading!",
+            "name": "Commentator",
+            "path_id": 5112765672674048049,
+            "block_id": 3,
+            "clip_length": 152,
+            "processed": "<story>Bakushin O is in the lead! \n<story>Sakura Bakushin O is leading!"
+        },
+        {
+            "text": "Onwaaaaards!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -4923577440699897883,
+            "block_id": 4,
+            "clip_length": 73,
+            "processed": "<story>Onwaaaaards!!"
+        },
+        {
+            "text": "And she leads herself straight to first place!! \nSakura Bakushin O is the Sprinters Stakes' new champion!",
+            "name": "Commentator",
+            "path_id": 4958053557532922445,
+            "block_id": 5,
+            "clip_length": 301,
+            "processed": "<story>And she leads herself straight to first place!! \n<story>Sakura Bakushin O is the Sprinters Stakes' new champion!"
+        },
+        {
+            "text": "(Wooooaaaaahhh…)",
+            "name": "",
+            "path_id": -7878086497692200213,
+            "block_id": 6,
+            "clip_length": 64,
+            "processed": "<story>(Wooooaaaaahhh…)"
+        },
+        {
+            "text": "(chirp chirp)",
+            "name": "",
+            "path_id": 3934416351768083315,
+            "block_id": 7,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "A dream…",
+                    "hash": "53b454352038ca13c241b67369762c3ff5ba9f6bc859cd639f461a318e630555"
+                },
+                {
+                    "text": "A dream…",
+                    "hash": "e48173a23c44d985311bfc2ac2bc1606c889c5295f1eb20051df2fc75fd3abbb"
+                }
+            ],
+            "processed": "<story>(chirp chirp)"
+        },
+        {
+            "text": "Early morning. I'd gone to the training course and saw \nSakura Bakushin O running. She seemed to be training on her own.",
+            "name": "",
+            "path_id": 5689001478044637453,
+            "block_id": 8,
+            "clip_length": 143,
+            "processed": "<story>Early morning. I'd gone to the training course and saw \n<story>Sakura Bakushin O running. She seemed to be training on her own."
+        },
+        {
+            "text": "Uoooooohhhh! ! \nBakushin bakushin bakushiiiiin!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 4971143052734919842,
+            "block_id": 9,
+            "clip_length": 165,
+            "processed": "<story>Uoooooohhhh! ! \n<story>Bakushin bakushin bakushiiiiin!!"
+        },
+        {
+            "text": "She ran even faster than in my dream. \nShe really is the best sprinter I've ever seen…!",
+            "name": "",
+            "path_id": -4947607339928824010,
+            "block_id": 10,
+            "clip_length": 115,
+            "processed": "<story>She ran even faster than in my dream. \n<story>She really is the best sprinter I've ever seen…!"
+        },
+        {
+            "text": "On the other hand, it likely means she can't demonstrate her \ntrue abilities at distances that don't match her. However―",
+            "name": "",
+            "path_id": -4064880448867034816,
+            "block_id": 11,
+            "clip_length": 107,
+            "processed": "<story>On the other hand, it likely means she can't demonstrate her \n<story>true abilities at distances that don't match her. However―"
+        },
+        {
+            "text": "Haa… Hah… Fyaah～! That takes care of that for the day! \nGood job, class rep! You can do it if you try!",
+            "name": "Sakura Bakushin O",
+            "path_id": 2185755471477154890,
+            "block_id": 12,
+            "clip_length": 327,
+            "processed": "<story>Haa… Hah… Fyaah～! That takes care of that for the day! \n<story>Good job, class rep! You can do it if you try!"
+        },
+        {
+            "text": "'scuse me, Ms. Sakura Bakushin O! \nHow would you feel about ruling the sprint world with me?",
+            "name": "Rookie Trainer A",
+            "path_id": 2039112629593072850,
+            "block_id": 13,
+            "clip_length": 187,
+            "processed": "<story>'scuse me, Ms. Sakura Bakushin O! \n<story>How would you feel about ruling the sprint world with me?"
+        },
+        {
+            "text": "I appreciate your offer, and I'm sorry! \nI'm afraid I must decline!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 6829066084231538018,
+            "block_id": 14,
+            "clip_length": 134,
+            "processed": "<story>I appreciate your offer, and I'm sorry! \n<story>I'm afraid I must decline!!"
+        },
+        {
+            "text": "I am the shining example, the class president!",
+            "name": "Sakura Bakushin O",
+            "path_id": -9137298830582370008,
+            "block_id": 15,
+            "clip_length": 103,
+            "processed": "<story>I am the shining example, the class president!"
+        },
+        {
+            "text": "Sakura Bakushin O's will was firm. As a trainer, I want to \nrespect her wishes, but I'm at a bit of a loss…",
+            "name": "",
+            "path_id": -4882612132677523643,
+            "block_id": 16,
+            "clip_length": 115,
+            "processed": "<story>Sakura Bakushin O's will was firm. As a trainer, I want to \n<story>respect her wishes, but I'm at a bit of a loss…"
+        },
+        {
+            "text": "In my brooding, the whole day had passed, \nand when I visited the track again…",
+            "name": "",
+            "path_id": -6986343480399291433,
+            "block_id": 17,
+            "clip_length": 77,
+            "processed": "<story>In my brooding, the whole day had passed, \n<story>and when I visited the track again…"
+        },
+        {
+            "text": "That is to say, you wish me, the class rep, to provide you \na few running tips!! You wish for guidance! Isn't that right!?",
+            "name": "Sakura Bakushin O",
+            "path_id": 6056918383211769810,
+            "block_id": 18,
+            "clip_length": 278,
+            "processed": "<story>That is to say, you wish me, the class rep, to provide you \n<story>a few running tips!! You wish for guidance! Isn't that right!?"
+        },
+        {
+            "text": "Eh, eh…?",
+            "name": "Rice Shower",
+            "path_id": -5916650698303214855,
+            "block_id": 19,
+            "clip_length": 41,
+            "processed": "<story>Eh, eh…?"
+        },
+        {
+            "text": "Well, Rice was just t-talking to herself… \nsaying \"Ms. Bakushin O is so fast…\"…",
+            "name": "Rice Shower",
+            "path_id": -2322122173656435799,
+            "block_id": 20,
+            "clip_length": 199,
+            "processed": "<story>Well, Rice was just t-talking to herself… \n<story>saying \"Ms. Bakushin O is so fast…\"…"
+        },
+        {
+            "text": "There's no need to be shy!! I am the reliable class president!! \nYou can rely on me! Go on! Go go!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -6499472907191720539,
+            "block_id": 21,
+            "clip_length": 238,
+            "processed": "<story>There's no need to be shy!! I am the reliable class president!! \n<story>You can rely on me! Go on! Go go!!"
+        },
+        {
+            "text": "Um, umm, but… if you spend too much time with Rice, bad \nthings are bound to come to Ms. Bakushin O…",
+            "name": "Rice Shower",
+            "path_id": -8831865840351847670,
+            "block_id": 22,
+            "clip_length": 219,
+            "processed": "<story>Um, umm, but… if you spend too much time with Rice, bad \n<story>things are bound to come to Ms. Bakushin O…"
+        },
+        {
+            "text": "…You won't? Rely on me?",
+            "name": "Sakura Bakushin O",
+            "path_id": -8715148948427688788,
+            "block_id": 23,
+            "clip_length": 100,
+            "processed": "<story>…You won't? Rely on me?"
+        },
+        {
+            "text": "Is that so… \nYou won't rely on the class president, I see…",
+            "name": "Sakura Bakushin O",
+            "path_id": -4524030222980262663,
+            "block_id": 24,
+            "clip_length": 156,
+            "processed": "<story>Is that so… \n<story>You won't rely on the class president, I see…"
+        },
+        {
+            "text": "Not a single question…? \nI see…",
+            "name": "Sakura Bakushin O",
+            "path_id": -929276460868998879,
+            "block_id": 25,
+            "clip_length": 177,
+            "processed": "<story>Not a single question…? \n<story>I see…"
+        },
+        {
+            "text": "H-Hawawa…",
+            "name": "Rice Shower",
+            "path_id": -5465512373762034644,
+            "block_id": 26,
+            "clip_length": 67,
+            "processed": "<story>H-Hawawa…"
+        },
+        {
+            "text": "Umm… maybe Rice would like to know the trick to victory…?",
+            "name": "Rice Shower",
+            "path_id": 5888888770569363222,
+            "block_id": 27,
+            "clip_length": 122,
+            "processed": "<story>Umm… maybe Rice would like to know the trick to victory…?"
+        },
+        {
+            "text": "I'm so glad you asked!!!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 7456672787344891789,
+            "block_id": 28,
+            "clip_length": 82,
+            "processed": "<story>I'm so glad you asked!!!!"
+        },
+        {
+            "text": "Fuhyaa!?",
+            "name": "Rice Shower",
+            "path_id": 7938701630688202335,
+            "block_id": 29,
+            "clip_length": 42,
+            "processed": "<story>Fuhyaa!?"
+        },
+        {
+            "text": "The class president will teach you the secret to absolute \nvictory! That is, of course — speed!",
+            "name": "Sakura Bakushin O",
+            "path_id": -7231017381885293040,
+            "block_id": 30,
+            "clip_length": 233,
+            "processed": "<story>The class president will teach you the secret to absolute \n<story>victory! That is, of course — speed!"
+        },
+        {
+            "text": "S-Speed…",
+            "name": "Rice Shower",
+            "path_id": -3795094086814835781,
+            "block_id": 31,
+            "clip_length": 92,
+            "processed": "<story>S-Speed…"
+        },
+        {
+            "text": "Think about it, Ms. Rice. \nHow do you win a race?",
+            "name": "Sakura Bakushin O",
+            "path_id": -7136484756579135231,
+            "block_id": 32,
+            "clip_length": 151,
+            "processed": "<story>Think about it, Ms. Rice. \n<story>How do you win a race?"
+        },
+        {
+            "text": "By reaching the finish faster than anyone else!! \nIsn't that right!?",
+            "name": "Sakura Bakushin O",
+            "path_id": 1027359465579875589,
+            "block_id": 33,
+            "clip_length": 133,
+            "processed": "<story>By reaching the finish faster than anyone else!! \n<story>Isn't that right!?"
+        },
+        {
+            "text": "Y-Yes, you're right…",
+            "name": "Rice Shower",
+            "path_id": -6160452066148621028,
+            "block_id": 34,
+            "clip_length": 91,
+            "processed": "<story>Y-Yes, you're right…"
+        },
+        {
+            "text": "In other words, speed is power! \nRunning faster than anyone else! Any time, every time! \nRun in the lead, closer to the goal than anyone else!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -6281851719102296087,
+            "block_id": 35,
+            "clip_length": 308,
+            "processed": "<story>In other words, speed is power! \n<story>Running faster than anyone else! Any time, every time! \n<story>Run in the lead, closer to the goal than anyone else!!"
+        },
+        {
+            "text": "Overwhelming speed is the key to victory!",
+            "name": "Sakura Bakushin O",
+            "path_id": -2690759340857755841,
+            "block_id": 36,
+            "clip_length": 129,
+            "processed": "<story>Overwhelming speed is the key to victory!"
+        },
+        {
+            "text": "I see…!?",
+            "name": "Rice Shower",
+            "path_id": -1341078812907265747,
+            "block_id": 37,
+            "clip_length": 100,
+            "processed": "<story>I see…!?"
+        },
+        {
+            "text": "… At first I thought she was talking nonsense. \nBut—",
+            "name": "",
+            "path_id": -7548889654967426638,
+            "block_id": 38,
+            "clip_length": 80,
+            "processed": "<story>… At first I thought she was talking nonsense. \n<story>But—"
+        },
+        {
+            "text": "Her obsession with speed, her near absolute faith in it- \nIt may just be what supports her explosive running.",
+            "name": "",
+            "path_id": 6611094106573379873,
+            "block_id": 39,
+            "clip_length": 108,
+            "processed": "<story>Her obsession with speed, her near absolute faith in it- \n<story>It may just be what supports her explosive running."
+        },
+        {
+            "text": "Well, I did a good thing! \nGood class presidenting makes me feel great!",
+            "name": "Sakura Bakushin O",
+            "path_id": 6595855412574884841,
+            "block_id": 40,
+            "clip_length": 188,
+            "processed": "<story>Well, I did a good thing! \n<story>Good class presidenting makes me feel great!"
+        },
+        {
+            "text": "……Huwahh!? \nYou again!?",
+            "name": "Sakura Bakushin O",
+            "path_id": 7851587974908327445,
+            "block_id": 41,
+            "clip_length": 108,
+            "processed": "<story>……Huwahh!? \n<story>You again!?"
+        },
+        {
+            "text": "Hmm…? \nSay, why are you staring at me in silence?",
+            "name": "Sakura Bakushin O",
+            "path_id": 5693675142897507585,
+            "block_id": 42,
+            "clip_length": 155,
+            "processed": "<story>Hmm…? \n<story>Say, why are you staring at me in silence?"
+        },
+        {
+            "text": "\"Surpass everyone with overwhelming speed\". \nIf we could push that as far as it will go…",
+            "name": "",
+            "path_id": -4453513134606568425,
+            "block_id": 43,
+            "clip_length": 107,
+            "processed": "<story>\"Surpass everyone with overwhelming speed\". \n<story>If we could push that as far as it will go…"
+        },
+        {
+            "text": "Bakushin, bakushin, bakushiiin!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -6230242085304438461,
+            "block_id": 44,
+            "clip_length": 94,
+            "processed": "<story>Bakushin, bakushin, bakushiiin!!"
+        },
+        {
+            "text": "Bakushin O is in the lead! \nSakura Bakushin O is leading!",
+            "name": "Commentator",
+            "path_id": 5989806776698127348,
+            "block_id": 45,
+            "clip_length": 152,
+            "processed": "<story>Bakushin O is in the lead! \n<story>Sakura Bakushin O is leading!"
+        },
+        {
+            "text": "Onwaaaards!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -8539104044428702637,
+            "block_id": 46,
+            "clip_length": 73,
+            "processed": "<story>Onwaaaards!!"
+        },
+        {
+            "text": "Maybe, possibly, just conceivably…!?",
+            "name": "",
+            "path_id": 3756811728788027578,
+            "block_id": 47,
+            "clip_length": 76,
+            "processed": "<story>Maybe, possibly, just conceivably…!?"
+        },
+        {
+            "text": "Say? Say, say, say! \nWere you not looking for anything in particular…?!",
+            "name": "Sakura Bakushin O",
+            "path_id": -3107185997242373480,
+            "block_id": 48,
+            "clip_length": 193,
+            "processed": "<story>Say? Say, say, say! \n<story>Were you not looking for anything in particular…?!"
+        },
+        {
+            "text": "All the trainers I spoke to after yesterday tried to \nlead me astray with talk of \"giving up on long distances\" \nand \"aptitudes\"…",
+            "name": "Sakura Bakushin O",
+            "path_id": -691411697740855316,
+            "block_id": 49,
+            "clip_length": 259,
+            "processed": "<story>All the trainers I spoke to after yesterday tried to \n<story>lead me astray with talk of \"giving up on long distances\" \n<story>and \"aptitudes\"…"
+        },
+        {
+            "text": "If you're like that, I can tell you I will refuse!!",
+            "name": "Sakura Bakushin O",
+            "path_id": -2250588254998293566,
+            "block_id": 50,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "…Speed!!",
+                    "hash": "4205f6d436bd4fb89ea02d96040f71a9d40fb8aee9d903320a91b6757f98eded"
+                }
+            ],
+            "processed": "<story>If you're like that, I can tell you I will refuse!!"
+        },
+        {
+            "text": "Yes?!",
+            "name": "Sakura Bakushin O",
+            "path_id": 7079885378028368931,
+            "block_id": 51,
+            "clip_length": 24,
+            "choices": [
+                {
+                    "text": "We go for the pinnacle of speed together!",
+                    "hash": "3f4708c85c2fc3e2004f6878c4e508a486d9308beb08dd6ddd3dceccf4847644",
+                    "processed": "<size=40>We go for the pinnacle of speed together!</size>"
+                }
+            ],
+            "processed": "<story>Yes?!"
+        },
+        {
+            "text": "P-pinnacle of speed…?!",
+            "name": "Sakura Bakushin O",
+            "path_id": -9110134361265969364,
+            "block_id": 52,
+            "clip_length": 68,
+            "processed": "<story>P-pinnacle of speed…?!"
+        },
+        {
+            "text": "Trainer, you mean… \nTo command every race with speed!! Is that it!?",
+            "name": "Sakura Bakushin O",
+            "path_id": -695902227020617167,
+            "block_id": 53,
+            "clip_length": 227,
+            "processed": "<story>Trainer, you mean… \n<story>To command every race with speed!! Is that it!?"
+        },
+        {
+            "text": "As class president!! Every race!! \nIs that what you're trying to do?!?!",
+            "name": "Sakura Bakushin O",
+            "path_id": 6729869364635804033,
+            "block_id": 54,
+            "clip_length": 164,
+            "choices": [
+                {
+                    "text": "… That's right!!",
+                    "hash": "06b728ecd297d397e322423543158a9e5683927335130822a3f612e3dc75e2e6"
+                },
+                {
+                    "text": "… Exactly!!",
+                    "hash": "75060a2d80da111b97f9612d05a17b34d8d37c6e7a255e17c8b35c84bfa0e603"
+                }
+            ],
+            "processed": "<story>As class president!! Every race!! \n<story>Is that what you're trying to do?!?!"
+        },
+        {
+            "text": "Bakushiiiiin!! \nThose are the words I've been waiting for!! My trainer!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 1291685046617421254,
+            "block_id": 55,
+            "clip_length": 217,
+            "processed": "<story>Bakushiiiiin!! \n<story>Those are the words I've been waiting for!! My trainer!!"
+        },
+        {
+            "text": "Starting tomorrow then, I'll be counting \non you for guidance and encouragement!!",
+            "name": "Sakura Bakushin O",
+            "path_id": 9126537954009296193,
+            "block_id": 56,
+            "clip_length": 179,
+            "processed": "<story>Starting tomorrow then, I'll be counting \n<story>on you for guidance and encouragement!!"
+        },
+        {
+            "text": "… This is how I succeeded in scouting Sakura Bakushin O.",
+            "name": "",
+            "path_id": 8137815251093932047,
+            "block_id": 57,
+            "clip_length": 88,
+            "processed": "<story>… This is how I succeeded in scouting Sakura Bakushin O."
+        }
+    ],
+    "title": "Bakushin! Keys to Victory!"
+}
