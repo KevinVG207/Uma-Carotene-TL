@@ -766,6 +766,29 @@ def upgrade():
             settings.dll_name = None
 
         print("Upgrade complete.")
+    
+    if prev_client <= (0, 1, 9):
+        # Try to convert the old TLG system to the new one.
+        tlg_config_path = os.path.join(util.get_game_folder(), "config.json")
+        tlg_dll = check_tlg(tlg_config_path)
+        if tlg_dll:
+            print("TLG detected. Attempting to convert to new system.")
+            tlg_path = os.path.join(util.get_game_folder(), tlg_dll)
+            new_tlg_path = os.path.join(util.get_game_folder(), "tlg.dll")
+            if os.path.exists(tlg_path):
+                print(f"Renaming {tlg_dll} to tlg.dll")
+                shutil.move(tlg_path, new_tlg_path)
+                settings.tlg_orig_name = tlg_dll
+            
+            print("Removing carotene from TLG config.")
+            fix_tlg_config(tlg_config_path)
+        
+        if os.path.exists(os.path.join(util.get_game_folder(), "carotene.dll")):
+            print("Deleting carotene.dll")
+            os.remove(os.path.join(util.get_game_folder(), "carotene.dll"))
+            settings.dll_name = None
+
+        print("Upgrade complete.")
 
 
 def main(dl_latest=False, dll_name='version.dll', ignore_filesize=False):
