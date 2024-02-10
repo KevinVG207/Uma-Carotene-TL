@@ -1,0 +1,66 @@
+{
+    "10001": {
+        "text": "Speed Bonus",
+        "hash": "be4626b8d437f500780f9bdfa1d1fef6ab91809ad0d0ef0b7f2379c3843ef716"
+    },
+    "10002": {
+        "text": "Stamina Bonus",
+        "hash": "0583f1f211e4beb9a0bf56412cd219a37e0eb308152280d769aaf45aa1745d5f"
+    },
+    "10003": {
+        "text": "Power Bonus",
+        "hash": "f635be44486262ab8cf73531e4485c8d87c081ae62ff4e05f984d9fe3b6cd294"
+    },
+    "10004": {
+        "text": "Guts Bonus",
+        "hash": "e22641d2f8b1d692f07ea79bac48876f058f8e39fd3d6f21587dc6ae45075820"
+    },
+    "10005": {
+        "text": "Wisdom Bonus",
+        "hash": "703a7370498813a90086feaac0149f936bda0bbb98ddc34dce725fcf0ff7e8da"
+    },
+    "10030": {
+        "text": "Skill Pt Bonus",
+        "hash": "96c6c63c2f5fdc2bb939627e877af3f329cd7142e9da97592420023fd0eb137c"
+    },
+    "20000": {
+        "text": "All Stats Bonus",
+        "hash": "6c0ca3add47533e2987ba3d970a060003267ddd157d91070a7d21d698cf9c48e"
+    },
+    "20101": {
+        "text": "Expedition Speed Training",
+        "hash": "f34edcc65bb8e3d84981c980d27b8598246262e4301845b975c8bf0fb0dc9e05"
+    },
+    "20102": {
+        "text": "Expedition Power Training",
+        "hash": "dcab84f37e067e015d157d8d02839f65eee338a8c1300a85c15c756093c86ab5"
+    },
+    "20103": {
+        "text": "Expedition Guts Training",
+        "hash": "1767efffff7f3610c7a1ca7dff2232eafeffc8a1068f72d940f8e8fdd2e4c43f"
+    },
+    "20105": {
+        "text": "Expedition Stamina Training",
+        "hash": "cbd52b0f1c06ec4cedade739258d6b71d84c710c8b89e20b4a7fb68144a09286"
+    },
+    "20106": {
+        "text": "Expedition Wisdom Training",
+        "hash": "c1c21b86dc707fc3cbe613f109666ad3bfd751b1e3c021bf29a56aa009651aed"
+    },
+    "30000": {
+        "text": "Friendship Training Bonus",
+        "hash": "e300e9c43e4b1876c03489f9f97bee71602921c3a82a654e6e20729b2050cc3c"
+    },
+    "40000": {
+        "text": "SSS Match Rate Up",
+        "hash": "dbb02390005f6e939ea42201b3bf2370fa015a9836d5db4b24ea8fcd5e3ca02b"
+    },
+    "50000": {
+        "text": "SS Gauge Bonus",
+        "hash": "d5d1ecc1789b66d5a9ad2272e8054e0cbac9e5486da6460be7239f0f606cd8e8"
+    },
+    "70000": {
+        "text": "Expedition Energy Use Down",
+        "hash": "75342993751e0db118f8001b8f59082323ff55829acd068619171357aa33fc45"
+    }
+}

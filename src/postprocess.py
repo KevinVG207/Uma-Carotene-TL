@@ -151,7 +151,7 @@ def process_mdb(args):
 
 
 def fix_mdb():
-    for mdb_json_path in tqdm(util.get_tl_mdb_jsons(), desc="Postprocessing MDBs"):
+    for mdb_json_path in tqdm(util.get_tl_mdb_jsons(), desc="Postprocessing MDB"):
         key = util.split_mdb_path(mdb_json_path)
         data = util.load_json(mdb_json_path)
 
