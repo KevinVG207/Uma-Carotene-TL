@@ -360,13 +360,13 @@ def _import_story(story_data):
     tree['TypewriteCountPerSecond'] *= 3
 
     for new_clip in story_data['data']:
-        if not new_clip['text'] and not new_clip['name']:
-            # Skip untranslated blocks.
-            continue
-
         block_data = tree['BlockList'][new_clip['block_id']]
         text_clip = root.assets_file.files[new_clip['path_id']]
         text_clip_data = text_clip.read_typetree()
+
+        if not text_clip_data['Text']:
+            # Skip untranslated blocks.
+            continue
 
         text_clip_data['Text'] = new_clip.get('processed') or new_clip['text']
         text_clip_data['Name'] = new_clip.get('name_processed') or new_clip['name']
@@ -522,8 +522,13 @@ def _import_hashed():
 
 def check_tlg(config_path):
     base_path = os.path.dirname(config_path)
-    version_path = os.path.join(base_path, "version.dll")
-    uxtheme_path = os.path.join(base_path, "uxtheme.dll")
+    paths = [
+        'version.dll',
+        'uxtheme.dll',
+        'xinput1_3.dll',
+        'umpdc.dll'
+    ]
+    paths = [os.path.join(base_path, p) for p in paths]
     if not os.path.exists(config_path):
         return None
     
@@ -531,10 +536,10 @@ def check_tlg(config_path):
         config = util.load_json(config_path)
         if 'maxFps' in config:
             dll_path = None
-            if os.path.exists(version_path):
-                dll_path = version_path
-            elif os.path.exists(uxtheme_path):
-                dll_path = uxtheme_path
+            for p in paths:
+                if os.path.exists(p):
+                    dll_path = p
+                    break
 
             if dll_path:
                 with open(dll_path, "rb") as f:
@@ -745,7 +750,7 @@ def upgrade():
                         cursor.execute(f"ALTER TABLE {table} RENAME TO {new_table};")
 
             conn.commit()
-
+    
     if prev_client <= (0, 1, 9):
         # Try to convert the old TLG system to the new one.
         tlg_config_path = os.path.join(util.get_game_folder(), "config.json")
