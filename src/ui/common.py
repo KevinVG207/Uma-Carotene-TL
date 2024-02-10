@@ -60,6 +60,7 @@ MDB_CAT_NAMES = {
         "77": "Character Names",
         "78": "Character Names (No Kanji)",
         "88": "Card Stories",
+        "94": "Main Story Chapters",
         "113": "Chara Pieces",
         "144": "Profile Slogan",
         "147": "Factors(?)",
@@ -74,7 +75,11 @@ MDB_CAT_NAMES = {
         "169": "Profile Family",
         "170": "Character Names",
         "172": "Factor details",
-        "182": "Chara Names (katakana)"
+        "182": "Chara Names (katakana)",
+        "189": "Story Event Titles",
+        "191": "Story Event Chapters",
+        "214": "Story Event Titles (Short)",
+        "222": "Anniv. Story Chapters",
     }
 }
 

@@ -358,13 +358,13 @@ def _import_story(story_data):
     tree['TypewriteCountPerSecond'] *= 3
 
     for new_clip in story_data['data']:
+        if not new_clip['text'] and not new_clip['name']:
+            # Skip untranslated blocks.
+            continue
+
         block_data = tree['BlockList'][new_clip['block_id']]
         text_clip = root.assets_file.files[new_clip['path_id']]
         text_clip_data = text_clip.read_typetree()
-
-        if not text_clip_data['Text']:
-            # Skip untranslated blocks.
-            continue
 
         text_clip_data['Text'] = new_clip.get('processed') or new_clip['text']
         text_clip_data['Name'] = new_clip.get('name_processed') or new_clip['name']
@@ -688,7 +688,11 @@ def import_assembly(dl_latest=False, dll_name='version.dll'):
         
 
 def upgrade():
-    prev_client = tuple(settings.client_version)
+    prev_client = settings.client_version
+    if not prev_client:
+        return
+
+    prev_client = tuple(prev_client)
     cur_client = version.VERSION
 
     # print(prev_client)
@@ -739,6 +743,29 @@ def upgrade():
                         cursor.execute(f"ALTER TABLE {table} RENAME TO {new_table};")
 
             conn.commit()
+    
+    if prev_client <= (0, 1, 9):
+        # Try to convert the old TLG system to the new one.
+        tlg_config_path = os.path.join(util.get_game_folder(), "config.json")
+        tlg_dll = check_tlg(tlg_config_path)
+        if tlg_dll:
+            print("TLG detected. Attempting to convert to new system.")
+            tlg_path = os.path.join(util.get_game_folder(), tlg_dll)
+            new_tlg_path = os.path.join(util.get_game_folder(), "tlg.dll")
+            if os.path.exists(tlg_path):
+                print(f"Renaming {tlg_dll} to tlg.dll")
+                shutil.move(tlg_path, new_tlg_path)
+                settings.tlg_orig_name = tlg_dll
+            
+            print("Removing carotene from TLG config.")
+            fix_tlg_config(tlg_config_path)
+        
+        if os.path.exists(os.path.join(util.get_game_folder(), "carotene.dll")):
+            print("Deleting carotene.dll")
+            os.remove(os.path.join(util.get_game_folder(), "carotene.dll"))
+            settings.dll_name = None
+
+        print("Upgrade complete.")
     
     if prev_client <= (0, 1, 9):
         # Try to convert the old TLG system to the new one.

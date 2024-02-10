@@ -1,0 +1,501 @@
+{
+    "type": "story",
+    "row_index": 16821,
+    "file_name": "story/data/02/0001/storytimeline_020001021",
+    "hash": "TSPUGM7GYPEPJWKGM2F7O54BZB4I5HBV",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3601702835637761270,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "The morning after the emotional Arima Kinen, \nTeam Sirius embarks on a new chapter…",
+            "name": "",
+            "path_id": 5135145971787866181,
+            "block_id": 1,
+            "clip_length": 91,
+            "processed": "<story>The morning after the emotional Arima Kinen, \n<story>Team Sirius embarks on a new chapter…"
+        },
+        {
+            "text": "What do you mean the team is going to be disbanded!?",
+            "name": "Mejiro McQueen",
+            "path_id": 1677233567783722778,
+            "block_id": 2,
+            "clip_length": 99,
+            "processed": "<story>What do you mean the team is going to be disbanded!?"
+        },
+        {
+            "text": "It started with a scream from Mejiro McQueen.",
+            "name": "",
+            "path_id": 641588717002747456,
+            "block_id": 3,
+            "clip_length": 80,
+            "processed": "<story>It started with a scream from Mejiro McQueen."
+        },
+        {
+            "text": "The truth of the matter is, all of the other members have \ntransferred to different teams. McQueen-san, you're the only \none left on this team.",
+            "name": "Hayakawa Tazuna",
+            "path_id": -1047998829741412451,
+            "block_id": 4,
+            "clip_length": 249,
+            "processed": "<story>The truth of the matter is, all of the other members have \n<story>transferred to different teams. McQueen-san, you're the only \n<story>one left on this team."
+        },
+        {
+            "text": "This team unfortunately doesn't have the minimum \nrequired number of members anymore.",
+            "name": "Hayakawa Tazuna",
+            "path_id": -7379349949672759175,
+            "block_id": 5,
+            "clip_length": 137,
+            "processed": "<story>This team unfortunately doesn't have the minimum \n<story>required number of members anymore."
+        },
+        {
+            "text": "So unless more members join, \nthis team will have to be disbanded.",
+            "name": "Hayakawa Tazuna",
+            "path_id": 3131497246724777951,
+            "block_id": 6,
+            "clip_length": 150,
+            "processed": "<story>So unless more members join, \n<story>this team will have to be disbanded."
+        },
+        {
+            "text": "I can't believe that, in one night, our team became a shell of \nits former self! You are all so heartless!",
+            "name": "Mejiro McQueen",
+            "path_id": -7177642600146712769,
+            "block_id": 7,
+            "clip_length": 238,
+            "choices": [
+                {
+                    "text": "Hey, first let's try to calm down",
+                    "hash": "af8aabb09f1c54acf6a9b4c28e6c7a87404282be8bcef32c01b8adcb18673806"
+                },
+                {
+                    "text": "Hey, first let's try to calm down",
+                    "hash": "af8aabb09f1c54acf6a9b4c28e6c7a87404282be8bcef32c01b8adcb18673806"
+                }
+            ],
+            "processed": "<story>I can't believe that, in one night, our team became a shell of \n<story>its former self! You are all so heartless!"
+        },
+        {
+            "text": "How can you be so calm?",
+            "name": "Mejiro McQueen",
+            "path_id": -512466100826475610,
+            "block_id": 8,
+            "clip_length": 90,
+            "processed": "<story>How can you be so calm?"
+        },
+        {
+            "text": "Despite the fact that the team \nyou inherited may be disbanded!",
+            "name": "Mejiro McQueen",
+            "path_id": -1868903277819095582,
+            "block_id": 9,
+            "clip_length": 111,
+            "processed": "<story>Despite the fact that the team \n<story>you inherited may be disbanded!"
+        },
+        {
+            "text": "Tazuna-san, will our team be disbanded immediately?",
+            "name": "<username>",
+            "path_id": -7547567545134414171,
+            "block_id": 10,
+            "clip_length": 81,
+            "processed": "<story>Tazuna-san, will our team be disbanded immediately?"
+        },
+        {
+            "text": "No, since this is the first time something like this has \nhappened, we wouldn't suddenly force you to disband…",
+            "name": "Hayakawa Tazuna",
+            "path_id": 6251958135682977402,
+            "block_id": 11,
+            "clip_length": 229,
+            "processed": "<story>No, since this is the first time something like this has \n<story>happened, we wouldn't suddenly force you to disband…"
+        },
+        {
+            "text": "That being said, this is only a temporary postponement. I don't \nknow how much time you have, but I'll be speaking with the \nschool's management about it.",
+            "name": "Hayakawa Tazuna",
+            "path_id": 4888705747615001399,
+            "block_id": 12,
+            "clip_length": 277,
+            "choices": [
+                {
+                    "text": "So, regardless, we need to hurry, huh?",
+                    "hash": "72202c5b9f6d8883641f23f4d3648f23664dc6989dcb0b34eb54946a190d634e",
+                    "processed": "<size=42>So, regardless, we need to hurry, huh?</size>"
+                }
+            ],
+            "processed": "<story>That being said, this is only a temporary postponement. I don't \n<story>know how much time you have, but I'll be speaking with the \n<story>school's management about it."
+        },
+        {
+            "text": "That's correct. I know it must be hard to be put in this kind of \nsituation immediately after inheriting the team…",
+            "name": "Hayakawa Tazuna",
+            "path_id": -606342582351624328,
+            "block_id": 13,
+            "clip_length": 240,
+            "processed": "<story>That's correct. I know it must be hard to be put in this kind of \n<story>situation immediately after inheriting the team…"
+        },
+        {
+            "text": "Hmph! You'll see! I'll find more \nteam members in no time!",
+            "name": "Mejiro McQueen",
+            "path_id": 8847627717577688190,
+            "block_id": 14,
+            "clip_length": 184,
+            "processed": "<story>Hmph! You'll see! I'll find more \n<story>team members in no time!"
+        },
+        {
+            "text": "I'm an Uma Musume of the Mejiro family. Taking care of something \nlike this will be a piece of cake!",
+            "name": "Mejiro McQueen",
+            "path_id": -8253982975921132535,
+            "block_id": 15,
+            "clip_length": 240,
+            "processed": "<story>I'm an Uma Musume of the Mejiro family. Taking care of something \n<story>like this will be a piece of cake!"
+        },
+        {
+            "text": "We're currently recruiting new members! \nLet's work hard together!",
+            "name": "Mejiro McQueen",
+            "path_id": 218468844191644840,
+            "block_id": 16,
+            "clip_length": 170,
+            "processed": "<story>We're currently recruiting new members! \n<story>Let's work hard together!"
+        },
+        {
+            "text": "Even those that have yet to win races are welcome! \nOur team is like a second family!",
+            "name": "Mejiro McQueen",
+            "path_id": -5395153591890678572,
+            "block_id": 17,
+            "clip_length": 154,
+            "processed": "<story>Even those that have yet to win races are welcome! \n<story>Our team is like a second family!"
+        },
+        {
+            "text": "Freshly harvested carrots at a bargain price! \nThey're quite cheap!",
+            "name": "Mejiro McQueen",
+            "path_id": -7627521845248463926,
+            "block_id": 18,
+            "clip_length": 170,
+            "processed": "<story>Freshly harvested carrots at a bargain price! \n<story>They're quite cheap!"
+        },
+        {
+            "text": "And if you act now, you can become \na member of Team Sirius as a bonus! \nHey, you over there! Are you interested!?",
+            "name": "Mejiro McQueen",
+            "path_id": 1333834367569225121,
+            "block_id": 19,
+            "clip_length": 269,
+            "processed": "<story>And if you act now, you can become \n<story>a member of Team Sirius as a bonus! \n<story>Hey, you over there! Are you interested!?"
+        },
+        {
+            "text": "Why is it that, despite someone such as I doing the recruiting, \nnot a single person has shown any interest!?",
+            "name": "Mejiro McQueen",
+            "path_id": -8358878160897076331,
+            "block_id": 20,
+            "clip_length": 233,
+            "processed": "<story>Why is it that, despite someone such as I doing the recruiting, \n<story>not a single person has shown any interest!?"
+        },
+        {
+            "text": "To be fair, I don't think people would want to join a team with \nan inexperienced trainer. Especially when almost all of that \nteam's members left at once.",
+            "name": "<username>",
+            "path_id": -8583209227979701209,
+            "block_id": 21,
+            "clip_length": 110,
+            "processed": "<story>To be fair, I don't think people would want to join a team with \n<story>an inexperienced trainer. Especially when almost all of that \n<story>team's members left at once."
+        },
+        {
+            "text": "To be fair, I don't think people would want to join a team with \nan inexperienced trainer. Especially when almost all of that \nteam's members left at once.",
+            "name": "<username>",
+            "path_id": -4300631947304185653,
+            "block_id": 22,
+            "clip_length": 111,
+            "processed": "<story>To be fair, I don't think people would want to join a team with \n<story>an inexperienced trainer. Especially when almost all of that \n<story>team's members left at once."
+        },
+        {
+            "text": "Why are you standing there and analyzing this \nso calmly!? Have a sense of urgency!",
+            "name": "Mejiro McQueen",
+            "path_id": 4682306836535162154,
+            "block_id": 23,
+            "clip_length": 169,
+            "processed": "<story>Why are you standing there and analyzing this \n<story>so calmly!? Have a sense of urgency!"
+        },
+        {
+            "text": "Trust me, I'm worried too.",
+            "name": "<username>",
+            "path_id": -188799627305656023,
+            "block_id": 24,
+            "clip_length": 75,
+            "processed": "<story>Trust me, I'm worried too."
+        },
+        {
+            "text": "Trust me, I'm worried too.",
+            "name": "<username>",
+            "path_id": -3392942377292007329,
+            "block_id": 25,
+            "clip_length": 77,
+            "processed": "<story>Trust me, I'm worried too."
+        },
+        {
+            "text": "He believed in me and entrusted this team \nto me. I can't betray his expectations.",
+            "name": "",
+            "path_id": -7275122483548799263,
+            "block_id": 26,
+            "clip_length": 93,
+            "processed": "<story>He believed in me and entrusted this team \n<story>to me. I can't betray his expectations."
+        },
+        {
+            "text": "He believed in me and entrusted this team \nto me. I can't betray his expectations.",
+            "name": "",
+            "path_id": -5399051864643004345,
+            "block_id": 27,
+            "clip_length": 94,
+            "processed": "<story>He believed in me and entrusted this team \n<story>to me. I can't betray his expectations."
+        },
+        {
+            "text": "That being said, if we continue to recruit while Team \nSirius is in such a sorry state, I don't think we'll \nbe able to get any new members to join.",
+            "name": "",
+            "path_id": 1778308881982632038,
+            "block_id": 28,
+            "clip_length": 110,
+            "processed": "<story>That being said, if we continue to recruit while Team \n<story>Sirius is in such a sorry state, I don't think we'll \n<story>be able to get any new members to join."
+        },
+        {
+            "text": "We have to think of a new strategy that'll \nentice Uma Musume to join our team…",
+            "name": "",
+            "path_id": 4140766806327125745,
+            "block_id": 29,
+            "clip_length": 111,
+            "processed": "<story>We have to think of a new strategy that'll \n<story>entice Uma Musume to join our team…"
+        },
+        {
+            "text": "Well anyways, I think we should call \nit a day here and begin our training.",
+            "name": "<username>",
+            "path_id": 2092851056434163387,
+            "block_id": 30,
+            "clip_length": 101,
+            "processed": "<story>Well anyways, I think we should call \n<story>it a day here and begin our training."
+        },
+        {
+            "text": "Well anyways, I think we should call \nit a day here and begin our training.",
+            "name": "<username>",
+            "path_id": -233355062409364767,
+            "block_id": 31,
+            "clip_length": 99,
+            "processed": "<story>Well anyways, I think we should call \n<story>it a day here and begin our training."
+        },
+        {
+            "text": "…You're right.",
+            "name": "Mejiro McQueen",
+            "path_id": -1900388815886907471,
+            "block_id": 32,
+            "clip_length": 111,
+            "processed": "<story>…You're right."
+        },
+        {
+            "text": "I've been prioritizing the wrong things by focusing \non recruitment. I'll go get ready!",
+            "name": "Mejiro McQueen",
+            "path_id": -8782349448193797738,
+            "block_id": 33,
+            "clip_length": 240,
+            "processed": "<story>I've been prioritizing the wrong things by focusing \n<story>on recruitment. I'll go get ready!"
+        },
+        {
+            "text": "Our next race is happening at the end of April. It will be the \nSpring Tennō Shō, a 3200 meter long distance race.",
+            "name": "",
+            "path_id": -1706621688711974375,
+            "block_id": 34,
+            "clip_length": 111,
+            "processed": "<story>Our next race is happening at the end of April. It will be the \n<story>Spring Tennō Shō, a 3200 meter long distance race."
+        },
+        {
+            "text": "Our next race is happening at the end of April. It will be the \nSpring Tennō Shō, a 3200 meter long distance race.",
+            "name": "",
+            "path_id": -2407920613383848051,
+            "block_id": 35,
+            "clip_length": 110,
+            "processed": "<story>Our next race is happening at the end of April. It will be the \n<story>Spring Tennō Shō, a 3200 meter long distance race."
+        },
+        {
+            "text": "Since this race will be an incredible test of endurance, I \nrecommended that she work on her form.",
+            "name": "",
+            "path_id": 5974281764231731296,
+            "block_id": 36,
+            "clip_length": 108,
+            "processed": "<story>Since this race will be an incredible test of endurance, I \n<story>recommended that she work on her form."
+        },
+        {
+            "text": "Since this race will be an incredible test of endurance, I \nrecommended that she work on her form.",
+            "name": "",
+            "path_id": 5947007104707498256,
+            "block_id": 37,
+            "clip_length": 108,
+            "processed": "<story>Since this race will be an incredible test of endurance, I \n<story>recommended that she work on her form."
+        },
+        {
+            "text": "Hah… Ha… Ueh…",
+            "name": "Mejiro McQueen",
+            "path_id": 478079038050903197,
+            "block_id": 38,
+            "clip_length": 123,
+            "processed": "<story>Hah… Ha… Ueh…"
+        },
+        {
+            "text": "At the end of the corner, make sure to be conscious of which foot \nyou're kicking off with. You should be kicking off harder with \nyour left foot, rather than your right.",
+            "name": "<username>",
+            "path_id": -6081165058094529883,
+            "block_id": 39,
+            "clip_length": 114,
+            "processed": "<story>At the end of the corner, make sure to be conscious of which foot \n<story>you're kicking off with. You should be kicking off harder with \n<story>your left foot, rather than your right."
+        },
+        {
+            "text": "Okay, understood.",
+            "name": "Mejiro McQueen",
+            "path_id": -2392183042113418071,
+            "block_id": 40,
+            "clip_length": 63,
+            "processed": "<story>Okay, understood."
+        },
+        {
+            "text": "Okay, do 3 more laps around the track, \nthen we can call it a day.",
+            "name": "<username>",
+            "path_id": -8277260545978381058,
+            "block_id": 41,
+            "clip_length": 90,
+            "processed": "<story>Okay, do 3 more laps around the track, \n<story>then we can call it a day."
+        },
+        {
+            "text": "Okay, do 3 more laps around the track, \nthen we can call it a day.",
+            "name": "<username>",
+            "path_id": 8941326538717448234,
+            "block_id": 42,
+            "clip_length": 90,
+            "processed": "<story>Okay, do 3 more laps around the track, \n<story>then we can call it a day."
+        },
+        {
+            "text": "…Only 3 more laps?",
+            "name": "Mejiro McQueen",
+            "path_id": 655307593173828162,
+            "block_id": 43,
+            "clip_length": 93,
+            "processed": "<story>…Only 3 more laps?"
+        },
+        {
+            "text": "You're still working on your form, so I'm worried that it might \nbe putting a heavy strain on your body and mind. We need to make \nsure you aren't pushing yourself too hard.",
+            "name": "<username>",
+            "path_id": -8388726190164227559,
+            "block_id": 44,
+            "clip_length": 119,
+            "processed": "<story>You're still working on your form, so I'm worried that it might \n<story>be putting a heavy strain on your body and mind. We need to make \n<story>sure you aren't pushing yourself too hard."
+        },
+        {
+            "text": "You're still working on your form, so I'm worried that it might \nbe putting a heavy strain on your body and mind. We need to make \nsure you aren't pushing yourself too hard.",
+            "name": "<username>",
+            "path_id": 7290540522208114870,
+            "block_id": 45,
+            "clip_length": 120,
+            "processed": "<story>You're still working on your form, so I'm worried that it might \n<story>be putting a heavy strain on your body and mind. We need to make \n<story>sure you aren't pushing yourself too hard."
+        },
+        {
+            "text": "…I see. I didn't think about that.",
+            "name": "Mejiro McQueen",
+            "path_id": 6092386767188407765,
+            "block_id": 46,
+            "clip_length": 104,
+            "processed": "<story>…I see. I didn't think about that."
+        },
+        {
+            "text": "If you're unsatisfied, please let me know. \nI wouldn't want to push anything onto you after all.",
+            "name": "<username>",
+            "path_id": 9058195056174589245,
+            "block_id": 47,
+            "clip_length": 99,
+            "processed": "<story>If you're unsatisfied, please let me know. \n<story>I wouldn't want to push anything onto you after all."
+        },
+        {
+            "text": "If you're unsatisfied, please let me know. \nI wouldn't want to push anything onto you after all.",
+            "name": "<username>",
+            "path_id": -3892114280633987794,
+            "block_id": 48,
+            "clip_length": 97,
+            "processed": "<story>If you're unsatisfied, please let me know. \n<story>I wouldn't want to push anything onto you after all."
+        },
+        {
+            "text": "No, what you said makes sense. \nSo I have no complaints.",
+            "name": "Mejiro McQueen",
+            "path_id": -832761749259925623,
+            "block_id": 49,
+            "clip_length": 193,
+            "processed": "<story>No, what you said makes sense. \n<story>So I have no complaints."
+        },
+        {
+            "text": "With that, she went back to the track.",
+            "name": "",
+            "path_id": 2683236631576894288,
+            "block_id": 50,
+            "clip_length": 85,
+            "processed": "<story>With that, she went back to the track."
+        },
+        {
+            "text": "As I watched her, she seemed to be a \nlittle bit upset with only doing 3 laps.",
+            "name": "",
+            "path_id": -5818552014435977284,
+            "block_id": 51,
+            "clip_length": 78,
+            "processed": "<story>As I watched her, she seemed to be a \n<story>little bit upset with only doing 3 laps."
+        },
+        {
+            "text": "I guess she really wasn't convinced, huh?",
+            "name": "<username>",
+            "path_id": 3012666863788654561,
+            "block_id": 52,
+            "clip_length": 68,
+            "processed": "<story>I guess she really wasn't convinced, huh?"
+        },
+        {
+            "text": "When compared to Sensei's training, mine is probably \nlacking somewhere… Or maybe her and I have yet \nto build a trusting relationship…",
+            "name": "",
+            "path_id": -4664716392053592313,
+            "block_id": 53,
+            "clip_length": 110,
+            "processed": "<story>When compared to Sensei's training, mine is probably \n<story>lacking somewhere… Or maybe her and I have yet \n<story>to build a trusting relationship…"
+        },
+        {
+            "text": "My ability to manage a team is still lacking, and it would be \ngreat if we could find more members.",
+            "name": "",
+            "path_id": -4449713225315406681,
+            "block_id": 54,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "But we'll definitely get through this!",
+                    "hash": "e65f6f954880fe854585af3556283aff068943e42e707dccd9086ab294f4fb0e"
+                }
+            ],
+            "processed": "<story>My ability to manage a team is still lacking, and it would be \n<story>great if we could find more members."
+        },
+        {
+            "text": "My ability to manage a team is still lacking, and it would be \ngreat if we could find more members.",
+            "name": "",
+            "path_id": 5564397190934763514,
+            "block_id": 55,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "But we'll definitely get through this!",
+                    "hash": "e65f6f954880fe854585af3556283aff068943e42e707dccd9086ab294f4fb0e"
+                }
+            ],
+            "processed": "<story>My ability to manage a team is still lacking, and it would be \n<story>great if we could find more members."
+        },
+        {
+            "text": "Thinking about this got me fired up.",
+            "name": "",
+            "path_id": -7774896822421148252,
+            "block_id": 56,
+            "clip_length": 67,
+            "processed": "<story>Thinking about this got me fired up."
+        },
+        {
+            "text": "Thinking about this got me fired up.",
+            "name": "",
+            "path_id": -942785139483547937,
+            "block_id": 57,
+            "clip_length": 67,
+            "processed": "<story>Thinking about this got me fired up."
+        }
+    ],
+    "title": "Sudden Crisis - Team Breakup!"
+}

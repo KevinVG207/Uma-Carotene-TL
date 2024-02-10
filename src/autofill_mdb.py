@@ -320,7 +320,7 @@ def autofill_factor_descriptions():
     util.save_json(path, data)
 
 def autofill_chara_story_chapters():
-    print("Autofilling story chapters (text_data/92.json)")
+    print("Autofilling chara story chapters (text_data/92.json)")
     path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "92.json")
 
     if not os.path.exists(path):
@@ -352,6 +352,7 @@ def autofill_chara_story_chapters():
         entry['text'] = tl_title
 
     util.save_json(path, data)
+
 
 def run():
     autofill_birthdays()

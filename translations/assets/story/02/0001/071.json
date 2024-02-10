@@ -1,0 +1,487 @@
+{
+    "type": "story",
+    "row_index": 121,
+    "file_name": "story/data/02/0001/storytimeline_020001071",
+    "hash": "K4LHXXG42KX2CXWQ4SL5M25XRHM4G7UP",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3033889288397166547,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "That's it over there. That island is \nhome to the Mejiro Family's villa.",
+            "name": "Mejiro McQueen",
+            "path_id": -944682378216804954,
+            "block_id": 1,
+            "clip_length": 153,
+            "processed": "<story>That's it over there. That island is \n<story>home to the Mejiro Family's villa."
+        },
+        {
+            "text": "That island's full of villas! You know what that means, we can \ndig up some treasure under there!",
+            "name": "Gold Ship",
+            "path_id": 2684186679357651980,
+            "block_id": 2,
+            "clip_length": 189,
+            "processed": "<story>That island's full of villas! You know what that means, we can \n<story>dig up some treasure under there!"
+        },
+        {
+            "text": "Please do not destroy the island!",
+            "name": "Mejiro McQueen",
+            "path_id": 4581899665841850442,
+            "block_id": 3,
+            "clip_length": 76,
+            "processed": "<story>Please do not destroy the island!"
+        },
+        {
+            "text": "The members of Team Sirius decided to host a training \ncamp during their summer vacation.",
+            "name": "",
+            "path_id": -3558510382739403058,
+            "block_id": 4,
+            "clip_length": 91,
+            "processed": "<story>The members of Team Sirius decided to host a training \n<story>camp during their summer vacation."
+        },
+        {
+            "text": "Since it was for the team, Mejiro McQueen allowed us to use the \nMejiro Family's villa. However…",
+            "name": "",
+            "path_id": -8706493623727173537,
+            "block_id": 5,
+            "clip_length": 107,
+            "processed": "<story>Since it was for the team, Mejiro McQueen allowed us to use the \n<story>Mejiro Family's villa. However…"
+        },
+        {
+            "text": "Yahoo!! This island's entirely deserted! Now \nwe can have as much fun as we want!",
+            "name": "Gold Ship",
+            "path_id": 4861204069082339492,
+            "block_id": 6,
+            "clip_length": 197,
+            "processed": "<story>Yahoo!! This island's entirely deserted! Now \n<story>we can have as much fun as we want!"
+        },
+        {
+            "text": "Jeez, we didn't come here to mess around you know.",
+            "name": "Mejiro McQueen",
+            "path_id": 342696196426669710,
+            "block_id": 7,
+            "clip_length": 133,
+            "processed": "<story>Jeez, we didn't come here to mess around you know."
+        },
+        {
+            "text": "I guess she can't help but get excited…",
+            "name": "",
+            "path_id": -6985237107404069576,
+            "block_id": 8,
+            "clip_length": 80,
+            "choices": [
+                {
+                    "text": "Since it's the first day, let's just take it easy.",
+                    "hash": "0e7fa6793763e0d81f3791494a46b05d2956265c6b20befebc3c37a14265b62d",
+                    "processed": "<size=37>Since it's the first day, let's just take it easy.</size>"
+                },
+                {
+                    "text": "Since it's the first day, let's just take it easy.",
+                    "hash": "0e7fa6793763e0d81f3791494a46b05d2956265c6b20befebc3c37a14265b62d",
+                    "processed": "<size=37>Since it's the first day, let's just take it easy.</size>"
+                }
+            ],
+            "processed": "<story>I guess she can't help but get excited…"
+        },
+        {
+            "text": "Haa… Trainer-san, even you're saying things like that?",
+            "name": "Mejiro McQueen",
+            "path_id": 5616922657019299802,
+            "block_id": 9,
+            "clip_length": 120,
+            "processed": "<story>Haa… Trainer-san, even you're saying things like that?"
+        },
+        {
+            "text": "Hey, is it really okay for us to have come along? \nWe aren't a part of your team after all…",
+            "name": "Mejiro Dober",
+            "path_id": -5170773199572234636,
+            "block_id": 10,
+            "clip_length": 194,
+            "processed": "<story>Hey, is it really okay for us to have come along? \n<story>We aren't a part of your team after all…"
+        },
+        {
+            "text": "McQueen and Trainer-san invited us, so it won't be a problem!",
+            "name": "Mejiro Ryan",
+            "path_id": 3230315585846512326,
+            "block_id": 11,
+            "clip_length": 159,
+            "processed": "<story>McQueen and Trainer-san invited us, so it won't be a problem!"
+        },
+        {
+            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome.",
+            "name": "<username>",
+            "path_id": 2712030882015262926,
+            "block_id": 12,
+            "clip_length": 88,
+            "processed": "<story>I figured it would be more fun if more people tagged \n<story>along, so you're both more than welcome."
+        },
+        {
+            "text": "I figured it would be more fun if more people tagged \nalong, so you're both more than welcome.",
+            "name": "<username>",
+            "path_id": 7022953266495815644,
+            "block_id": 13,
+            "clip_length": 86,
+            "processed": "<story>I figured it would be more fun if more people tagged \n<story>along, so you're both more than welcome."
+        },
+        {
+            "text": "Thank you very much!",
+            "name": "Mejiro Ryan",
+            "path_id": 406527546519025773,
+            "block_id": 14,
+            "clip_length": 74,
+            "processed": "<story>Thank you very much!"
+        },
+        {
+            "text": "And thus began the start of Team Sirius' training camp, including \ntwo members of the Mejiro Family.",
+            "name": "",
+            "path_id": 7826846250384259075,
+            "block_id": 15,
+            "clip_length": 89,
+            "processed": "<story>And thus began the start of Team Sirius' training camp, including \n<story>two members of the Mejiro Family."
+        },
+        {
+            "text": "Okay everyone, let's do one more lap!",
+            "name": "Mejiro McQueen",
+            "path_id": 4494740261745065656,
+            "block_id": 16,
+            "clip_length": 94,
+            "processed": "<story>Okay everyone, let's do one more lap!"
+        },
+        {
+            "text": "McQueen, if you don't pick up the pace I'm going to overtake you!",
+            "name": "Mejiro Ryan",
+            "path_id": -580885505764176354,
+            "block_id": 17,
+            "clip_length": 145,
+            "processed": "<story>McQueen, if you don't pick up the pace I'm going to overtake you!"
+        },
+        {
+            "text": "Huh!? It's my job to lead the way though!",
+            "name": "Mejiro McQueen",
+            "path_id": -5756559825233478741,
+            "block_id": 18,
+            "clip_length": 109,
+            "processed": "<story>Huh!? It's my job to lead the way though!"
+        },
+        {
+            "text": "Hey now, Dober, you need to pick up the pace too!",
+            "name": "Mejiro Ryan",
+            "path_id": 2214153175719969234,
+            "block_id": 19,
+            "clip_length": 120,
+            "processed": "<story>Hey now, Dober, you need to pick up the pace too!"
+        },
+        {
+            "text": "B-But I can't really focus on running \nright now… everyone's staring…",
+            "name": "Mejiro Dober",
+            "path_id": -3566430943920509398,
+            "block_id": 20,
+            "clip_length": 189,
+            "processed": "<story>B-But I can't really focus on running \n<story>right now… everyone's staring…"
+        },
+        {
+            "text": "Dober, there's nothing to worry about! \nYou're really cute after all!",
+            "name": "Mejiro Ryan",
+            "path_id": 7461079259994405292,
+            "block_id": 21,
+            "clip_length": 137,
+            "processed": "<story>Dober, there's nothing to worry about! \n<story>You're really cute after all!"
+        },
+        {
+            "text": "P-Please don't try and compliment me! I know \nbetter than anyone else that I'm not cute!",
+            "name": "Mejiro Dober",
+            "path_id": 2299097071869517618,
+            "block_id": 22,
+            "clip_length": 171,
+            "processed": "<story>P-Please don't try and compliment me! I know \n<story>better than anyone else that I'm not cute!"
+        },
+        {
+            "text": "Gold Ship-san! What on Earth are you doing!?",
+            "name": "Mejiro McQueen",
+            "path_id": 8781979853271843350,
+            "block_id": 23,
+            "clip_length": 108,
+            "processed": "<story>Gold Ship-san! What on Earth are you doing!?"
+        },
+        {
+            "text": "When training at the beach you've gotta \ndress the part, doncha think?",
+            "name": "Gold Ship",
+            "path_id": 3768394080636772976,
+            "block_id": 24,
+            "clip_length": 103,
+            "processed": "<story>When training at the beach you've gotta \n<story>dress the part, doncha think?"
+        },
+        {
+            "text": "We don't often get to train at the beach so this \nis the perfect time for some intense training!",
+            "name": "Gold Ship",
+            "path_id": 160937746977224493,
+            "block_id": 25,
+            "clip_length": 129,
+            "processed": "<story>We don't often get to train at the beach so this \n<story>is the perfect time for some intense training!"
+        },
+        {
+            "text": "All I can see is that you're trying to do some intense playing!",
+            "name": "Mejiro McQueen",
+            "path_id": 247163928770340958,
+            "block_id": 26,
+            "clip_length": 88,
+            "processed": "<story>All I can see is that you're trying to do some intense playing!"
+        },
+        {
+            "text": "All right, it's time for me to accelerate!",
+            "name": "Mejiro Ryan",
+            "path_id": -6134716360625430077,
+            "block_id": 27,
+            "clip_length": 117,
+            "processed": "<story>All right, it's time for me to accelerate!"
+        },
+        {
+            "text": "W-Wait up! You're running too fast!!",
+            "name": "Mejiro McQueen",
+            "path_id": 8277810741201187023,
+            "block_id": 28,
+            "clip_length": 110,
+            "processed": "<story>W-Wait up! You're running too fast!!"
+        },
+        {
+            "text": "Haa… Haa… Haa…",
+            "name": "Mejiro McQueen",
+            "path_id": -8531945329936316869,
+            "block_id": 29,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Good work, everyone.",
+                    "hash": "874ada2e7ec9e6e886ff76e53f343e0b2ff2949fc23cbe0a643ab849fc4fd515"
+                }
+            ],
+            "processed": "<story>Haa… Haa… Haa…"
+        },
+        {
+            "text": "I think we may have gone a bit too hard. \nIt is only the first day after all.",
+            "name": "Mejiro Ryan",
+            "path_id": -2883893815075457292,
+            "block_id": 30,
+            "clip_length": 186,
+            "processed": "<story>I think we may have gone a bit too hard. \n<story>It is only the first day after all."
+        },
+        {
+            "text": "That being said, McQueen is truly amazing, isn't she? She managed \nto keep up with your sudden spurt easily.",
+            "name": "Mejiro Dober",
+            "path_id": 4773784942771202181,
+            "block_id": 31,
+            "clip_length": 219,
+            "processed": "<story>That being said, McQueen is truly amazing, isn't she? She managed \n<story>to keep up with your sudden spurt easily."
+        },
+        {
+            "text": "I can't lose to Ryan again. She already beat \nme in the Takarazuka Kinen after all.",
+            "name": "Mejiro McQueen",
+            "path_id": -1828118976173112913,
+            "block_id": 32,
+            "clip_length": 190,
+            "processed": "<story>I can't lose to Ryan again. She already beat \n<story>me in the Takarazuka Kinen after all."
+        },
+        {
+            "text": "For context, prior to this summer camp Mejiro McQueen came into \nthe Takarazuka Kinen, the race that closes off the first half of \nthe year, as the most likely to win.",
+            "name": "",
+            "path_id": 1338750242290845158,
+            "block_id": 33,
+            "clip_length": 112,
+            "processed": "<story>For context, prior to this summer camp Mejiro McQueen came into \n<story>the Takarazuka Kinen, the race that closes off the first half of \n<story>the year, as the most likely to win."
+        },
+        {
+            "text": "However, she was unable to fend off Mejiro \nRyan and ended up coming in second.",
+            "name": "",
+            "path_id": 3060855869946229272,
+            "block_id": 34,
+            "clip_length": 114,
+            "processed": "<story>However, she was unable to fend off Mejiro \n<story>Ryan and ended up coming in second."
+        },
+        {
+            "text": "McQueen's running never ceases to amaze me! Whether \nit be during training or during races!",
+            "name": "Horsegirl with Straight-cut Bangs",
+            "path_id": -6371049190527647986,
+            "block_id": 35,
+            "clip_length": 200,
+            "processed": "<story>McQueen's running never ceases to amaze me! Whether \n<story>it be during training or during races!",
+            "name_processed": "<sc=69>Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "Well she is the reason we joined this team～",
+            "name": "Droopy-eyed Horsegirl",
+            "path_id": -1715270508306790302,
+            "block_id": 36,
+            "clip_length": 117,
+            "processed": "<story>Well she is the reason we joined this team～"
+        },
+        {
+            "text": "Ugh… How long is this going to last?",
+            "name": "Mejiro McQueen",
+            "path_id": -1818137121937546707,
+            "block_id": 37,
+            "clip_length": 137,
+            "processed": "<story>Ugh… How long is this going to last?"
+        },
+        {
+            "text": "There's a reason that they love you so much. It's \nsomething you can be proud of, you know?",
+            "name": "Mejiro Dober",
+            "path_id": -4408937979616407288,
+            "block_id": 38,
+            "clip_length": 193,
+            "processed": "<story>There's a reason that they love you so much. It's \n<story>something you can be proud of, you know?"
+        },
+        {
+            "text": "That's right, you're truly incredible. It makes \nme so happy when people praise you.",
+            "name": "Mejiro Ryan",
+            "path_id": -8256788312614879593,
+            "block_id": 39,
+            "clip_length": 232,
+            "processed": "<story>That's right, you're truly incredible. It makes \n<story>me so happy when people praise you."
+        },
+        {
+            "text": "Okay then, I'm going to go for another run so I can make sure to \ndefeat the super popular McQueen once again!",
+            "name": "Mejiro Ryan",
+            "path_id": 7049056666694263445,
+            "block_id": 40,
+            "clip_length": 213,
+            "processed": "<story>Okay then, I'm going to go for another run so I can make sure to \n<story>defeat the super popular McQueen once again!"
+        },
+        {
+            "text": "Ah, don't go on without me! I'm going for a run too!",
+            "name": "Mejiro McQueen",
+            "path_id": 8202733698583453772,
+            "block_id": 41,
+            "clip_length": 120,
+            "processed": "<story>Ah, don't go on without me! I'm going for a run too!"
+        },
+        {
+            "text": "The sun began to set, and that's when we realized just how late \nit had gotten. Time truly flies when one is having fun.",
+            "name": "",
+            "path_id": 1890698856016189294,
+            "block_id": 42,
+            "clip_length": 94,
+            "processed": "<story>The sun began to set, and that's when we realized just how late \n<story>it had gotten. Time truly flies when one is having fun."
+        },
+        {
+            "text": "…",
+            "name": "Mejiro McQueen",
+            "path_id": 9205526936872534378,
+            "block_id": 43,
+            "clip_length": 132,
+            "processed": "<story>…"
+        },
+        {
+            "text": "Is everything alright? Everyone's already \nheaded back to the villa.",
+            "name": "<username>",
+            "path_id": -3451788992571099654,
+            "block_id": 44,
+            "clip_length": 75,
+            "processed": "<story>Is everything alright? Everyone's already \n<story>headed back to the villa."
+        },
+        {
+            "text": "Ah… I'm fine. I was just thinking about our team's members.",
+            "name": "Mejiro McQueen",
+            "path_id": -5528958751326217502,
+            "block_id": 45,
+            "clip_length": 175,
+            "processed": "<story>Ah… I'm fine. I was just thinking about our team's members."
+        },
+        {
+            "text": "Just a little while ago we were a shell of our \nformer selves, but now we have new members.",
+            "name": "Mejiro McQueen",
+            "path_id": 5058297526999263373,
+            "block_id": 46,
+            "clip_length": 190,
+            "processed": "<story>Just a little while ago we were a shell of our \n<story>former selves, but now we have new members."
+        },
+        {
+            "text": "They all saw how I ran, and that made \nthem want to run alongside me.",
+            "name": "Mejiro McQueen",
+            "path_id": -7125402611538466077,
+            "block_id": 47,
+            "clip_length": 192,
+            "processed": "<story>They all saw how I ran, and that made \n<story>them want to run alongside me."
+        },
+        {
+            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race.",
+            "name": "<username>",
+            "path_id": 3999694941869351942,
+            "block_id": 48,
+            "clip_length": 98,
+            "processed": "<story>They were all moved by you. Just like \n<story>we were moved by Oguri's race."
+        },
+        {
+            "text": "They were all moved by you. Just like \nwe were moved by Oguri's race.",
+            "name": "<username>",
+            "path_id": -2659251580016739333,
+            "block_id": 49,
+            "clip_length": 100,
+            "processed": "<story>They were all moved by you. Just like \n<story>we were moved by Oguri's race."
+        },
+        {
+            "text": "When I think about it I get mixed feelings. \nOn one hand I'm incredibly proud, but on the \nother hand it's quite embarrassing.",
+            "name": "Mejiro McQueen",
+            "path_id": -2148305026589031074,
+            "block_id": 50,
+            "clip_length": 232,
+            "processed": "<story>When I think about it I get mixed feelings. \n<story>On one hand I'm incredibly proud, but on the \n<story>other hand it's quite embarrassing."
+        },
+        {
+            "text": "We were able to win the Spring Tenno Sho \nand preserve the team, however…",
+            "name": "Mejiro McQueen",
+            "path_id": -860765807250250623,
+            "block_id": 51,
+            "clip_length": 173,
+            "processed": "<story>We were able to win the Spring Tenno Sho \n<story>and preserve the team, however…"
+        },
+        {
+            "text": "Trainer-san, there is still something that I need to do.",
+            "name": "Mejiro McQueen",
+            "path_id": 4271007090028982680,
+            "block_id": 52,
+            "clip_length": 159,
+            "choices": [
+                {
+                    "text": "And what would that be?",
+                    "hash": "8366c0bced87c445cc33e4177bbf7433bd66527196125957bc00514adc2cc235"
+                }
+            ],
+            "processed": "<story>Trainer-san, there is still something that I need to do."
+        },
+        {
+            "text": "I need to continue running so as not to betray the \nexpectations that everyone else has of me.",
+            "name": "Mejiro McQueen",
+            "path_id": 8171263600234208136,
+            "block_id": 53,
+            "clip_length": 206,
+            "processed": "<story>I need to continue running so as not to betray the \n<story>expectations that everyone else has of me."
+        },
+        {
+            "text": "The expression on Mejiro McQueen's face, which was smiling yet \nexuding confidence, reassured me.",
+            "name": "",
+            "path_id": 5714094271650417136,
+            "block_id": 54,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "McQueen, I believe in you.",
+                    "hash": "3aa1dcefe9ed5c5802a9894c2b3211c219457f5adbd6e5939ad3c06d6935d9d0"
+                }
+            ],
+            "processed": "<story>The expression on Mejiro McQueen's face, which was smiling yet \n<story>exuding confidence, reassured me."
+        },
+        {
+            "text": "Of course, you can count on me.",
+            "name": "Mejiro McQueen",
+            "path_id": -4940024753952298438,
+            "block_id": 55,
+            "clip_length": 81,
+            "processed": "<story>Of course, you can count on me."
+        }
+    ],
+    "title": "Summer! Sea! Uninhabited Island Camp!"
+}

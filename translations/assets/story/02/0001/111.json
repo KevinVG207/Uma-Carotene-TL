@@ -1,0 +1,537 @@
+{
+    "type": "story",
+    "row_index": 15671,
+    "file_name": "story/data/02/0001/storytimeline_020001111",
+    "hash": "L3IWWZ2NQIHUSYVAGU7FGXHKR3ZMUUCO",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5589702375301122971,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I'm so sorry everyone. I've shown you all something so shameful…",
+            "name": "Mejiro McQueen",
+            "path_id": -4988978555023190612,
+            "block_id": 1,
+            "clip_length": 193,
+            "processed": "<story>I'm so sorry everyone. I've shown you all something so shameful…"
+        },
+        {
+            "text": "Oye, oye, why're you apologizing? You didn't \ncause any issues for us, ya know?",
+            "name": "Gold Ship",
+            "path_id": -5614224324077520567,
+            "block_id": 2,
+            "clip_length": 177,
+            "processed": "<story>Oye, oye, why're you apologizing? You didn't \n<story>cause any issues for us, ya know?"
+        },
+        {
+            "text": "Plus the Japan Cup has some pretty amazing racers from around the \nglobe in it. Coming in 4th ain't that bad.",
+            "name": "Gold Ship",
+            "path_id": 8352976102384970602,
+            "block_id": 3,
+            "clip_length": 239,
+            "processed": "<story>Plus the Japan Cup has some pretty amazing racers from around the \n<story>globe in it. Coming in 4th ain't that bad."
+        },
+        {
+            "text": "Y-Yeah! The way you ran today was just as \nmesmerizing as usual, McQueen-san!",
+            "name": "Horsegirl with Straight-cut Bangs",
+            "path_id": -3439860766799294803,
+            "block_id": 4,
+            "clip_length": 141,
+            "processed": "<story>Y-Yeah! The way you ran today was just as \n<story>mesmerizing as usual, McQueen-san!",
+            "name_processed": "<sc=69>Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "Anyways, now that the race is over why don't \nwe have Trainer treat us to something yummy? \nThat won't be a problem, will it Trainer?",
+            "name": "Gold Ship",
+            "path_id": 4434479061794545718,
+            "block_id": 5,
+            "clip_length": 231,
+            "processed": "<story>Anyways, now that the race is over why don't \n<story>we have Trainer treat us to something yummy? \n<story>That won't be a problem, will it Trainer?"
+        },
+        {
+            "text": "N-Nope! Not a problem at all! McQueen, feel free to eat as much \nas you want now that the Japan Cup is over!",
+            "name": "<username>",
+            "path_id": -4651942629185347809,
+            "block_id": 6,
+            "clip_length": 97,
+            "processed": "<story>N-Nope! Not a problem at all! McQueen, feel free to eat as much \n<story>as you want now that the Japan Cup is over!"
+        },
+        {
+            "text": "N-Nope! Not a problem at all! McQueen, feel free to eat as much \nas you want now that the Japan Cup is over!",
+            "name": "<username>",
+            "path_id": 8615840975456457029,
+            "block_id": 7,
+            "clip_length": 97,
+            "processed": "<story>N-Nope! Not a problem at all! McQueen, feel free to eat as much \n<story>as you want now that the Japan Cup is over!"
+        },
+        {
+            "text": "I'm… going to have to refuse.",
+            "name": "Mejiro McQueen",
+            "path_id": 7557451095711483208,
+            "block_id": 8,
+            "clip_length": 149,
+            "processed": "<story>I'm… going to have to refuse."
+        },
+        {
+            "text": "I have to prepare for the Arima Kinen and I just \nfinished that race, so I'm not hungry.",
+            "name": "Mejiro McQueen",
+            "path_id": 4414050219582328190,
+            "block_id": 9,
+            "clip_length": 178,
+            "processed": "<story>I have to prepare for the Arima Kinen and I just \n<story>finished that race, so I'm not hungry."
+        },
+        {
+            "text": "Ah, I have to call Grandmother as well. \nI'll be taking my leave then.",
+            "name": "Mejiro McQueen",
+            "path_id": 6307182481276605940,
+            "block_id": 10,
+            "clip_length": 197,
+            "processed": "<story>Ah, I have to call Grandmother as well. \n<story>I'll be taking my leave then."
+        },
+        {
+            "text": "Everyone, I'm… I'm so sorry for today…",
+            "name": "Mejiro McQueen",
+            "path_id": 6623259011463737054,
+            "block_id": 11,
+            "clip_length": 247,
+            "choices": [
+                {
+                    "text": "Ah, McQueen!",
+                    "hash": "9e072c3b6d09dc683c582a883826c3eb1302b0882f25253c78ed2f672e469feb"
+                }
+            ],
+            "processed": "<story>Everyone, I'm… I'm so sorry for today…"
+        },
+        {
+            "text": "That felt real forced… Anyways, you're \nreal bad at acting, ya know?",
+            "name": "Gold Ship",
+            "path_id": -8298489259818655735,
+            "block_id": 12,
+            "clip_length": 161,
+            "processed": "<story>That felt real forced… Anyways, you're \n<story>real bad at acting, ya know?"
+        },
+        {
+            "text": "I'm sorry. I tried my best, but…",
+            "name": "<username>",
+            "path_id": 8113504257431117138,
+            "block_id": 13,
+            "clip_length": 81,
+            "processed": "<story>I'm sorry. I tried my best, but…"
+        },
+        {
+            "text": "I'm sorry. I tried my best, but…",
+            "name": "<username>",
+            "path_id": 5390779302294027945,
+            "block_id": 14,
+            "clip_length": 81,
+            "processed": "<story>I'm sorry. I tried my best, but…"
+        },
+        {
+            "text": "I was upset with myself for being unsure whether or not I should \ncall out to her or just leave her alone for a while.",
+            "name": "",
+            "path_id": 702097758596230741,
+            "block_id": 15,
+            "clip_length": 112,
+            "processed": "<story>I was upset with myself for being unsure whether or not I should \n<story>call out to her or just leave her alone for a while."
+        },
+        {
+            "text": "I apologize for the intrusion.",
+            "name": "Oguri Cap",
+            "path_id": 7389168823446912113,
+            "block_id": 16,
+            "clip_length": 82,
+            "processed": "<story>I apologize for the intrusion."
+        },
+        {
+            "text": "Ohh! If it isn't Oguri! Did you come to cheer on McQueen!?",
+            "name": "Gold Ship",
+            "path_id": 9079743769915759600,
+            "block_id": 17,
+            "clip_length": 123,
+            "processed": "<story>Ohh! If it isn't Oguri! Did you come to cheer on McQueen!?"
+        },
+        {
+            "text": "I came to see how the members of my former team were doing.",
+            "name": "Oguri Cap",
+            "path_id": -5414663368590401507,
+            "block_id": 18,
+            "clip_length": 106,
+            "processed": "<story>I came to see how the members of my former team were doing."
+        },
+        {
+            "text": "But it doesn't seem like the star of the show is here.",
+            "name": "Oguri Cap",
+            "path_id": -4350929679334948235,
+            "block_id": 19,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "Um, well…",
+                    "hash": "09b450a2eac8702ef510432bd94f77d2e5b32499ea5ab83a530fb6a7b61b42c4"
+                }
+            ],
+            "processed": "<story>But it doesn't seem like the star of the show is here."
+        },
+        {
+            "text": "Hmm… it seems like something happened. So what is it?",
+            "name": "Oguri Cap",
+            "path_id": 6708599786279007017,
+            "block_id": 20,
+            "clip_length": 181,
+            "processed": "<story>Hmm… it seems like something happened. So what is it?"
+        },
+        {
+            "text": "I decided to tell Oguri Cap everything that had happened.",
+            "name": "",
+            "path_id": -2120628428718290408,
+            "block_id": 21,
+            "clip_length": 78,
+            "processed": "<story>I decided to tell Oguri Cap everything that had happened."
+        },
+        {
+            "text": "I decided to tell Oguri Cap everything that had happened.",
+            "name": "",
+            "path_id": -1301378731426477598,
+            "block_id": 22,
+            "clip_length": 78,
+            "processed": "<story>I decided to tell Oguri Cap everything that had happened."
+        },
+        {
+            "text": "It began with the danger of our team being dissolved, and how we \novercame that, which also brought in more members.",
+            "name": "",
+            "path_id": 8647529990467229713,
+            "block_id": 23,
+            "clip_length": 89,
+            "processed": "<story>It began with the danger of our team being dissolved, and how we \n<story>overcame that, which also brought in more members."
+        },
+        {
+            "text": "Due to the lowering of her placement in the much anticipated \nSpring Tenno Sho, she thought that this race was her chance to \nredeem herself. However, she ended up finishing in 4th place.",
+            "name": "",
+            "path_id": -5546171893267981224,
+            "block_id": 24,
+            "clip_length": 118,
+            "processed": "<story>Due to the lowering of her placement in the much anticipated \n<story>Spring Tenno Sho, she thought that this race was her chance to \n<story>redeem herself. However, she ended up finishing in 4th place."
+        },
+        {
+            "text": "Currently, Mejiro McQueen is like a machine \nwith cogs that don't work together.",
+            "name": "",
+            "path_id": -5277435901450357352,
+            "block_id": 25,
+            "clip_length": 95,
+            "processed": "<story>Currently, Mejiro McQueen is like a machine \n<story>with cogs that don't work together."
+        },
+        {
+            "text": "I see… I think I understand how McQueen is feeling.",
+            "name": "Oguri Cap",
+            "path_id": 8534310791189252308,
+            "block_id": 26,
+            "clip_length": 199,
+            "processed": "<story>I see… I think I understand how McQueen is feeling."
+        },
+        {
+            "text": "She is probably thinking that she has to live up \nto all of the expectations placed on her.",
+            "name": "Oguri Cap",
+            "path_id": -742986917278678744,
+            "block_id": 27,
+            "clip_length": 164,
+            "processed": "<story>She is probably thinking that she has to live up \n<story>to all of the expectations placed on her."
+        },
+        {
+            "text": "Live up to all of the expectations…?",
+            "name": "<username>",
+            "path_id": -8248308334001484703,
+            "block_id": 28,
+            "clip_length": 58,
+            "processed": "<story>Live up to all of the expectations…?"
+        },
+        {
+            "text": "I have been there myself.",
+            "name": "Oguri Cap",
+            "path_id": 3840715961251296192,
+            "block_id": 29,
+            "clip_length": 78,
+            "processed": "<story>I have been there myself."
+        },
+        {
+            "text": "Having good results in your races breeds high expectations. \nInevitably, you end up being tied down by said expectations…",
+            "name": "Oguri Cap",
+            "path_id": -7029174319485636853,
+            "block_id": 30,
+            "clip_length": 279,
+            "processed": "<story>Having good results in your races breeds high expectations. \n<story>Inevitably, you end up being tied down by said expectations…"
+        },
+        {
+            "text": "And as these expectations grow they start feeling \nlike obstacles to forward progress.",
+            "name": "Oguri Cap",
+            "path_id": 6209198048517387328,
+            "block_id": 31,
+            "clip_length": 233,
+            "processed": "<story>And as these expectations grow they start feeling \n<story>like obstacles to forward progress."
+        },
+        {
+            "text": "These expectations begin feeling like obstacles…",
+            "name": "<username>",
+            "path_id": 433925207341141378,
+            "block_id": 32,
+            "clip_length": 69,
+            "processed": "<story>These expectations begin feeling like obstacles…"
+        },
+        {
+            "text": "The only reason that this team is here today \nis thanks to Mejiro McQueen's efforts.",
+            "name": "",
+            "path_id": -8415230089872648083,
+            "block_id": 33,
+            "clip_length": 94,
+            "processed": "<story>The only reason that this team is here today \n<story>is thanks to Mejiro McQueen's efforts."
+        },
+        {
+            "text": "Every member of our team joined because of Mejiro McQueen's \nsuccesses, and the only reason that they continue to run is \nbecause of their admiration for her.",
+            "name": "",
+            "path_id": -8466866350473267307,
+            "block_id": 34,
+            "clip_length": 95,
+            "processed": "<story>Every member of our team joined because of Mejiro McQueen's \n<story>successes, and the only reason that they continue to run is \n<story>because of their admiration for her."
+        },
+        {
+            "text": "And it isn't only the team members. I too was delighted by Mejiro \nMcQueen's performance in her races, and because of that I've \nalways had high expectations of her.",
+            "name": "",
+            "path_id": 1991476825435162370,
+            "block_id": 35,
+            "clip_length": 110,
+            "processed": "<story>And it isn't only the team members. I too was delighted by Mejiro \n<story>McQueen's performance in her races, and because of that I've \n<story>always had high expectations of her."
+        },
+        {
+            "text": "And it isn't only the team members. I too was delighted by Mejiro \nMcQueen's performance in her races, and because of that I've \nalways had high expectations of her.",
+            "name": "",
+            "path_id": -9059867231445144497,
+            "block_id": 36,
+            "clip_length": 110,
+            "processed": "<story>And it isn't only the team members. I too was delighted by Mejiro \n<story>McQueen's performance in her races, and because of that I've \n<story>always had high expectations of her."
+        },
+        {
+            "text": "Mejiro McQueen understood all of this, and as such struggled to \nlive up to these expectations, alone.",
+            "name": "",
+            "path_id": 5558058830261810974,
+            "block_id": 37,
+            "clip_length": 108,
+            "processed": "<story>Mejiro McQueen understood all of this, and as such struggled to \n<story>live up to these expectations, alone."
+        },
+        {
+            "text": "During times like this it's your job as a trainer to turn these \nexpectations into strength, not into obstacles.",
+            "name": "Oguri Cap",
+            "path_id": -1628210830161814026,
+            "block_id": 38,
+            "clip_length": 261,
+            "processed": "<story>During times like this it's your job as a trainer to turn these \n<story>expectations into strength, not into obstacles."
+        },
+        {
+            "text": "Turn these expectations into strength…",
+            "name": "<username>",
+            "path_id": -1302076532450812688,
+            "block_id": 39,
+            "clip_length": 60,
+            "processed": "<story>Turn these expectations into strength…"
+        },
+        {
+            "text": "Oguri… How did you turn expectations into \nstrength? What did Sensei do to help?",
+            "name": "<username>",
+            "path_id": -8828234905763738326,
+            "block_id": 40,
+            "clip_length": 102,
+            "processed": "<story>Oguri… How did you turn expectations into \n<story>strength? What did Sensei do to help?"
+        },
+        {
+            "text": "Oguri… How did you turn expectations into \nstrength? What did Sensei do to help?",
+            "name": "<username>",
+            "path_id": 5051204571615663925,
+            "block_id": 41,
+            "clip_length": 102,
+            "processed": "<story>Oguri… How did you turn expectations into \n<story>strength? What did Sensei do to help?"
+        },
+        {
+            "text": "Hmm, while I wouldn't mind telling you…",
+            "name": "Oguri Cap",
+            "path_id": 4777394010407415659,
+            "block_id": 42,
+            "clip_length": 123,
+            "processed": "<story>Hmm, while I wouldn't mind telling you…"
+        },
+        {
+            "text": "You and McQueen have a relationship that is unique to you two.",
+            "name": "Oguri Cap",
+            "path_id": -994260129564760676,
+            "block_id": 43,
+            "clip_length": 138,
+            "processed": "<story>You and McQueen have a relationship that is unique to you two."
+        },
+        {
+            "text": "Doing it the same way we did would have no meaning \nto it… or at least that's what I think…",
+            "name": "Oguri Cap",
+            "path_id": -1263783960285256310,
+            "block_id": 44,
+            "clip_length": 236,
+            "processed": "<story>Doing it the same way we did would have no meaning \n<story>to it… or at least that's what I think…"
+        },
+        {
+            "text": "A relationship… that is unique to us…",
+            "name": "<username>",
+            "path_id": 4605266938148108066,
+            "block_id": 45,
+            "clip_length": 67,
+            "processed": "<story>A relationship… that is unique to us…"
+        },
+        {
+            "text": "A relationship… that is unique to us…",
+            "name": "<username>",
+            "path_id": -8886684073228154712,
+            "block_id": 46,
+            "clip_length": 67,
+            "processed": "<story>A relationship… that is unique to us…"
+        },
+        {
+            "text": "While I lack the experience and skill that Sensei had, Mejiro \nMcQueen has always respected me as her trainer. ",
+            "name": "",
+            "path_id": 3187579582292102510,
+            "block_id": 47,
+            "clip_length": 108,
+            "processed": "<story>While I lack the experience and skill that Sensei had, Mejiro \n<story>McQueen has always respected me as her trainer. "
+        },
+        {
+            "text": "While I lack the experience and skill that Sensei had, Mejiro \nMcQueen has always respected me as her trainer. ",
+            "name": "",
+            "path_id": 1976547864432484276,
+            "block_id": 48,
+            "clip_length": 108,
+            "processed": "<story>While I lack the experience and skill that Sensei had, Mejiro \n<story>McQueen has always respected me as her trainer. "
+        },
+        {
+            "text": "Why does Mejiro McQueen have so much faith \nin me? And what can I do for her…?",
+            "name": "",
+            "path_id": 5950748995467083458,
+            "block_id": 49,
+            "clip_length": 110,
+            "processed": "<story>Why does Mejiro McQueen have so much faith \n<story>in me? And what can I do for her…?"
+        },
+        {
+            "text": "Why does Mejiro McQueen have so much faith \nin me? And what can I do for her…?",
+            "name": "",
+            "path_id": -7236341370468482509,
+            "block_id": 50,
+            "clip_length": 108,
+            "processed": "<story>Why does Mejiro McQueen have so much faith \n<story>in me? And what can I do for her…?"
+        },
+        {
+            "text": "Hehe, that immediate reply… You really haven't \nchanged since your days as a sub-trainer.",
+            "name": "Mejiro McQueen",
+            "path_id": 6378295085096824415,
+            "block_id": 51,
+            "clip_length": 228,
+            "processed": "<story>Hehe, that immediate reply… You really haven't \n<story>changed since your days as a sub-trainer."
+        },
+        {
+            "text": "You've always put us before yourself.",
+            "name": "Mejiro McQueen",
+            "path_id": 8129522744048589248,
+            "block_id": 52,
+            "clip_length": 135,
+            "processed": "<story>You've always put us before yourself."
+        },
+        {
+            "text": "I see. That's all I can do. Staying by her side, believing in \nher, and supporting her no matter what happens is all I can do!",
+            "name": "",
+            "path_id": -197084376299241284,
+            "block_id": 53,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "I'm going to go look for McQueen!",
+                    "hash": "ff104e6cf13e6ed0a61f18203f62db5998ab255eb496378758f6fcf46babec3a"
+                }
+            ],
+            "processed": "<story>I see. That's all I can do. Staying by her side, believing in \n<story>her, and supporting her no matter what happens is all I can do!"
+        },
+        {
+            "text": "I see. That's all I can do. Staying by her side, believing in \nher, and supporting her no matter what happens is all I can do!",
+            "name": "",
+            "path_id": 4657192893584253829,
+            "block_id": 54,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "I'm going to go look for McQueen!",
+                    "hash": "ff104e6cf13e6ed0a61f18203f62db5998ab255eb496378758f6fcf46babec3a"
+                },
+                {
+                    "text": "I'm off to find McQueen!",
+                    "hash": "cc5614f01898e96a01da1826a4564de0bc03407dbd4f90b2a6a34cfd6b9e46db"
+                }
+            ],
+            "processed": "<story>I see. That's all I can do. Staying by her side, believing in \n<story>her, and supporting her no matter what happens is all I can do!"
+        },
+        {
+            "text": "Hmm… Guess I'll take a look around the shopping district, the \nroad to campus, and in front of the train station.",
+            "name": "Gold Ship",
+            "path_id": -6747343275532242334,
+            "block_id": 55,
+            "clip_length": 232,
+            "processed": "<story>Hmm… Guess I'll take a look around the shopping district, the \n<story>road to campus, and in front of the train station."
+        },
+        {
+            "text": "I'll go check if McQueen-san is somewhere on campus!",
+            "name": "Horsegirl with Straight-cut Bangs",
+            "path_id": -546735165022183084,
+            "block_id": 56,
+            "clip_length": 117,
+            "processed": "<story>I'll go check if McQueen-san is somewhere on campus!",
+            "name_processed": "<sc=69>Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "I'll go and check around the race course!",
+            "name": "Droopy-eyed Horsegirl",
+            "path_id": -5956236186276573239,
+            "block_id": 57,
+            "clip_length": 109,
+            "processed": "<story>I'll go and check around the race course!"
+        },
+        {
+            "text": "Then I'll go and check around the shrine.",
+            "name": "Horsegirl with Black Bob-cut",
+            "path_id": -5971182095076063094,
+            "block_id": 58,
+            "clip_length": 83,
+            "choices": [
+                {
+                    "text": "Everyone… Alright, let's go!",
+                    "hash": "dedb2e839e22277172b64ff0f8b5e2cf4703443fd1c113a77643100180260c4e"
+                },
+                {
+                    "text": "You girls… Alright, let's go!",
+                    "hash": "2092eca027d79ee47d91095e81a4588874a42b8d61549157706357e0dd3890fd"
+                }
+            ],
+            "processed": "<story>Then I'll go and check around the shrine.",
+            "name_processed": "<sc=81>Horsegirl with Black Bob-cut"
+        },
+        {
+            "text": "This time, our team's ace will rely on us!",
+            "name": "<username>",
+            "path_id": 6816908164485724136,
+            "block_id": 59,
+            "clip_length": 84,
+            "processed": "<story>This time, our team's ace will rely on us!"
+        },
+        {
+            "text": "This time, our team's ace will rely on us!",
+            "name": "<username>",
+            "path_id": 514968958838456798,
+            "block_id": 60,
+            "clip_length": 84,
+            "processed": "<story>This time, our team's ace will rely on us!"
+        }
+    ],
+    "title": "The Obstacle of Expectation"
+}

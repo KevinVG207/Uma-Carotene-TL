@@ -1,0 +1,465 @@
+{
+    "type": "story",
+    "row_index": 248,
+    "file_name": "story/data/04/1003/storytimeline_041003001",
+    "hash": "GJEZESPPJPLT3DIOZIMPQDNLV5I3SRKJ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 7581232403547575264,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "The day before the Selection Race was to be \nheld I decided to go for a walk in a nearby park.",
+            "name": "",
+            "path_id": -4778750478526250832,
+            "block_id": 1,
+            "clip_length": 91,
+            "processed": "<story>The day before the Selection Race was to be \n<story>held I decided to go for a walk in a nearby park."
+        },
+        {
+            "text": "Woah woah woah! \nMove! Move outta the way!!",
+            "name": "Tokai Teio",
+            "path_id": 940559603889731495,
+            "block_id": 2,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "!?",
+                    "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
+                }
+            ],
+            "processed": "<story>Woah woah woah! \n<story>Move! Move outta the way!!"
+        },
+        {
+            "text": "Whoo!!",
+            "name": "Tokai Teio",
+            "path_id": 4997573306113617985,
+            "block_id": 3,
+            "clip_length": 26,
+            "processed": "<story>Whoo!!"
+        },
+        {
+            "text": "*Jump!*",
+            "name": "",
+            "path_id": -5211218128767141150,
+            "block_id": 4,
+            "clip_length": 54,
+            "processed": "<story>*Jump!*"
+        },
+        {
+            "text": "I looked over and saw Tokai Teio running towards \nme, but at the last second she jumped over me in \na beautiful manner. Then…",
+            "name": "",
+            "path_id": 5789421854973414145,
+            "block_id": 5,
+            "clip_length": 107,
+            "processed": "<story>I looked over and saw Tokai Teio running towards \n<story>me, but at the last second she jumped over me in \n<story>a beautiful manner. Then…"
+        },
+        {
+            "text": "And safe!! Now then… here's your hat!",
+            "name": "Tokai Teio",
+            "path_id": 7310431757318859179,
+            "block_id": 6,
+            "clip_length": 102,
+            "processed": "<story>And safe!! Now then… here's your hat!"
+        },
+        {
+            "text": "It seems like that little girl's hat got stuck \nup a tree and Tokai Teio went and got it for her…",
+            "name": "",
+            "path_id": 8578967510206416037,
+            "block_id": 7,
+            "clip_length": 94,
+            "processed": "<story>It seems like that little girl's hat got stuck \n<story>up a tree and Tokai Teio went and got it for her…"
+        },
+        {
+            "text": "Waah! Thank you so much, Miss! That jump was \nsuper cool too!!",
+            "name": "Girl A",
+            "path_id": -3152968292695949135,
+            "block_id": 8,
+            "clip_length": 202,
+            "processed": "<story>Waah! Thank you so much, Miss! That jump was \n<story>super cool too!!"
+        },
+        {
+            "text": "No no no. Don't call me \"Miss\" call me the \n\"Unbeatable Teio-sama\"♪",
+            "name": "Tokai Teio",
+            "path_id": 5437450912555389333,
+            "block_id": 9,
+            "clip_length": 188,
+            "processed": "<story>No no no. Don't call me \"Miss\" call me the \n<story>\"Unbeatable Teio-sama\"♪"
+        },
+        {
+            "text": "Unbeatable…? I don't really \nget it, but it sounds cool!",
+            "name": "Girl A",
+            "path_id": -6569653288014887485,
+            "block_id": 10,
+            "clip_length": 140,
+            "processed": "<story>Unbeatable…? I don't really \n<story>get it, but it sounds cool!"
+        },
+        {
+            "text": "Wahahaha!! Feel free to praise me more!!",
+            "name": "Tokai Teio",
+            "path_id": 8551463190594826303,
+            "block_id": 11,
+            "clip_length": 146,
+            "processed": "<story>Wahahaha!! Feel free to praise me more!!"
+        },
+        {
+            "text": "Oh, that's right… Hey you! Sorry \nfor scaring you like that.",
+            "name": "Tokai Teio",
+            "path_id": 735419643003781154,
+            "block_id": 12,
+            "clip_length": 170,
+            "processed": "<story>Oh, that's right… Hey you! Sorry \n<story>for scaring you like that."
+        },
+        {
+            "text": "I couldn't hit the brakes and ended up jumping \nover you! You're not hurt anywhere, are you?",
+            "name": "Tokai Teio",
+            "path_id": 2854038384657200467,
+            "block_id": 13,
+            "clip_length": 260,
+            "choices": [
+                {
+                    "text": "More importantly, are you okay? That landing must've…",
+                    "hash": "c5d4d60530d074c62ace91681e7e31b976ff0184284ee484fd896929f5d95d97",
+                    "processed": "<size=29>More importantly, are you okay? That landing must've…</size>"
+                },
+                {
+                    "text": "More importantly, are you okay? That landing must've…",
+                    "hash": "1b78d16662b88f67c367117d8d65943cc35e94e2fc069ee3fd655702c8acd0c7",
+                    "processed": "<size=29>More importantly, are you okay? That landing must've…</size>"
+                }
+            ],
+            "processed": "<story>I couldn't hit the brakes and ended up jumping \n<story>over you! You're not hurt anywhere, are you?"
+        },
+        {
+            "text": "Aha! That was nothing for someone like me! See? \nI feel perfect!",
+            "name": "Tokai Teio",
+            "path_id": -6489618987472270760,
+            "block_id": 14,
+            "clip_length": 178,
+            "processed": "<story>Aha! That was nothing for someone like me! See? \n<story>I feel perfect!"
+        },
+        {
+            "text": "Even though she jumped so high, Tokai Teio \nseemed completely fine.",
+            "name": "",
+            "path_id": -1883410106995233632,
+            "block_id": 15,
+            "clip_length": 98,
+            "processed": "<story>Even though she jumped so high, Tokai Teio \n<story>seemed completely fine."
+        },
+        {
+            "text": "It seems like she's truly blessed \nwith an amazing physique, as evidenced \nby that amazing leap she had!",
+            "name": "",
+            "path_id": -2956027330348108430,
+            "block_id": 16,
+            "clip_length": 99,
+            "processed": "<story>It seems like she's truly blessed \n<story>with an amazing physique, as evidenced \n<story>by that amazing leap she had!"
+        },
+        {
+            "text": "Were you surprised? I bet you were! Hehe♪",
+            "name": "Tokai Teio",
+            "path_id": -7493647891142347240,
+            "block_id": 17,
+            "clip_length": 123,
+            "processed": "<story>Were you surprised? I bet you were! Hehe♪"
+        },
+        {
+            "text": "Wait, I'm busy right now! I was in the middle of \nrunning. So see ya later!",
+            "name": "Tokai Teio",
+            "path_id": 9186660080963499575,
+            "block_id": 18,
+            "clip_length": 159,
+            "processed": "<story>Wait, I'm busy right now! I was in the middle of \n<story>running. So see ya later!"
+        },
+        {
+            "text": "After saying that, Tokai Teio nimbly ran off.",
+            "name": "",
+            "path_id": 9108865309127269993,
+            "block_id": 19,
+            "clip_length": 103,
+            "processed": "<story>After saying that, Tokai Teio nimbly ran off."
+        },
+        {
+            "text": "For the rest of the day, I couldn't get her out \nof my mind. Then came the Selection Race…",
+            "name": "",
+            "path_id": -6858950596199464165,
+            "block_id": 20,
+            "clip_length": 85,
+            "processed": "<story>For the rest of the day, I couldn't get her out \n<story>of my mind. Then came the Selection Race…"
+        },
+        {
+            "text": "",
+            "name": "Tokai Teio",
+            "path_id": 5520050524934490741,
+            "block_id": 21,
+            "clip_length": 86
+        },
+        {
+            "text": "You're doing great, Teio!! Continue this pace \nand overtake the rest of 'em!!",
+            "name": "Crowd",
+            "path_id": -8484076393653152987,
+            "block_id": 22,
+            "clip_length": 122,
+            "processed": "<story>You're doing great, Teio!! Continue this pace \n<story>and overtake the rest of 'em!!"
+        },
+        {
+            "text": "Tokai Teio is steadily increasing her position! \nShe's pushing gracefully into the lead!",
+            "name": "Commentator",
+            "path_id": -448388557289580600,
+            "block_id": 23,
+            "clip_length": 173,
+            "processed": "<story>Tokai Teio is steadily increasing her position! \n<story>She's pushing gracefully into the lead!"
+        },
+        {
+            "text": "Hehe… The winner's gonna be me!!",
+            "name": "Tokai Teio",
+            "path_id": -5257192499831169948,
+            "block_id": 24,
+            "clip_length": 121,
+            "processed": "<story>Hehe… The winner's gonna be me!!"
+        },
+        {
+            "text": "Tokai Teio is extending her lead!! \nNo one can catch up with her as she \nproceeds forward with ease!!",
+            "name": "Commentator",
+            "path_id": 2161746197562287733,
+            "block_id": 25,
+            "clip_length": 220,
+            "processed": "<story>Tokai Teio is extending her lead!! \n<story>No one can catch up with her as she \n<story>proceeds forward with ease!!"
+        },
+        {
+            "text": "She's four lengths ahead of 2nd place, and \nshe's the winner!! The winner of this Selection \nRace is Tokai Teio! This was a beautiful \ndisplay of her strength!!",
+            "name": "Commentator",
+            "path_id": 6858042697617480196,
+            "block_id": 26,
+            "clip_length": 331,
+            "processed": "<story>She's four lengths ahead of 2nd place, and \n<story>she's the winner!! The winner of this Selection \n<story>Race is Tokai Teio! This was a beautiful \n<story>display of her strength!!"
+        },
+        {
+            "text": "Phew! Everyone! How'd you like that race!?",
+            "name": "Tokai Teio",
+            "path_id": 37507716802800930,
+            "block_id": 27,
+            "clip_length": 157,
+            "processed": "<story>Phew! Everyone! How'd you like that race!?"
+        },
+        {
+            "text": "Teio, you're the best!!",
+            "name": "Spectator A",
+            "path_id": -8501127593429503308,
+            "block_id": 28,
+            "clip_length": 76,
+            "processed": "<story>Teio, you're the best!!"
+        },
+        {
+            "text": "You looked amazing out there!!",
+            "name": "Spectator B",
+            "path_id": -3895065065444937557,
+            "block_id": 29,
+            "clip_length": 81,
+            "processed": "<story>You looked amazing out there!!"
+        },
+        {
+            "text": "Aha, thanks! But hey, of course I of all people \nwas able to do it!!",
+            "name": "Tokai Teio",
+            "path_id": -6878244045133422703,
+            "block_id": 30,
+            "clip_length": 166,
+            "choices": [
+                {
+                    "text": "You're an amazing racer!",
+                    "hash": "161c73b459739929e982d0e2601708b61ef8f899ba7f1a63d718b98adfd34fd7"
+                }
+            ],
+            "processed": "<story>Aha, thanks! But hey, of course I of all people \n<story>was able to do it!!"
+        },
+        {
+            "text": "Eh? Who're… Ah! You were at the park yesterday! \nHmm… why're you here?",
+            "name": "Tokai Teio",
+            "path_id": 1020725221263748345,
+            "block_id": 31,
+            "clip_length": 282,
+            "processed": "<story>Eh? Who're… Ah! You were at the park yesterday! \n<story>Hmm… why're you here?"
+        },
+        {
+            "text": "Ah, I get it! You're a trainer, aren't you!? Now \nthat I take a closer look, you've got a badge \nand everything!!",
+            "name": "Tokai Teio",
+            "path_id": 8922416241345654602,
+            "block_id": 32,
+            "clip_length": 189,
+            "processed": "<story>Ah, I get it! You're a trainer, aren't you!? Now \n<story>that I take a closer look, you've got a badge \n<story>and everything!!"
+        },
+        {
+            "text": "So the reason you're coming to talk to me is… \nYou're trying to scout me, aren't you!?",
+            "name": "Tokai Teio",
+            "path_id": 4123336119819482254,
+            "block_id": 33,
+            "clip_length": 204,
+            "choices": [
+                {
+                    "text": "I'd love to be your trainer!",
+                    "hash": "b2c3a3b1f2668aa7160b3c77d3a473388655e057d1dc1942d435d70f3db82a2e"
+                },
+                {
+                    "text": "I'd love to be your trainer!",
+                    "hash": "186c7d487d19547da9b84b18593fd8a444288812e6d0a472b2d267c9daa00f7e"
+                }
+            ],
+            "processed": "<story>So the reason you're coming to talk to me is… \n<story>You're trying to scout me, aren't you!?"
+        },
+        {
+            "text": "Ehehe, what should I do? The thing \nis, even before this race a lot of \ntrainers reached out to me.",
+            "name": "Tokai Teio",
+            "path_id": -8061278904621911987,
+            "block_id": 34,
+            "clip_length": 275,
+            "processed": "<story>Ehehe, what should I do? The thing \n<story>is, even before this race a lot of \n<story>trainers reached out to me."
+        },
+        {
+            "text": "Ah! There she is, Tokai Teio!! Your \nracing ability was truly spectacular! \nPlease allow me to scout you!!",
+            "name": "Rookie Trainer A",
+            "path_id": 5839507923932626590,
+            "block_id": 35,
+            "clip_length": 273,
+            "processed": "<story>Ah! There she is, Tokai Teio!! Your \n<story>racing ability was truly spectacular! \n<story>Please allow me to scout you!!"
+        },
+        {
+            "text": "Teio, join me! I'm sure that if we work together \nyou'll not only be able to win GI races, but \nalso the Triple Crown!",
+            "name": "Veteran Trainer A",
+            "path_id": -8586963481399356483,
+            "block_id": 36,
+            "clip_length": 281,
+            "processed": "<story>Teio, join me! I'm sure that if we work together \n<story>you'll not only be able to win GI races, but \n<story>also the Triple Crown!"
+        },
+        {
+            "text": "Oh no, they keep increasing!! Umm, if this many \npeople approach me I won't be able to decide…",
+            "name": "Tokai Teio",
+            "path_id": -6081183209915859194,
+            "block_id": 37,
+            "clip_length": 271,
+            "processed": "<story>Oh no, they keep increasing!! Umm, if this many \n<story>people approach me I won't be able to decide…"
+        },
+        {
+            "text": "Well regardless of who I choose, I'll be the one \nrunning so nothing's really gonna change.",
+            "name": "Tokai Teio",
+            "path_id": -6188882208422907729,
+            "block_id": 38,
+            "clip_length": 220,
+            "processed": "<story>Well regardless of who I choose, I'll be the one \n<story>running so nothing's really gonna change."
+        },
+        {
+            "text": "Guess whoever beats me at rock-paper-scissors \ngets to be my trainer!",
+            "name": "Tokai Teio",
+            "path_id": -6918319689741536086,
+            "block_id": 39,
+            "clip_length": 119,
+            "processed": "<story>Guess whoever beats me at rock-paper-scissors \n<story>gets to be my trainer!"
+        },
+        {
+            "text": "Come on now, Teio. An Uma Musume and her trainer \nmust work together in perfect harmony…",
+            "name": "Symboli Rudolf",
+            "path_id": 5593610361814429140,
+            "block_id": 40,
+            "clip_length": 160,
+            "processed": "<story>Come on now, Teio. An Uma Musume and her trainer \n<story>must work together in perfect harmony…"
+        },
+        {
+            "text": "Ahh, Prez!! Preeezz!!",
+            "name": "Tokai Teio",
+            "path_id": 1374181070879819664,
+            "block_id": 41,
+            "clip_length": 106,
+            "processed": "<story>Ahh, Prez!! Preeezz!!"
+        },
+        {
+            "text": "You came to watch my race, didn't you!? Hehehe, \nhow did I do!? I won again ya know?!",
+            "name": "Tokai Teio",
+            "path_id": 5652089897961345853,
+            "block_id": 42,
+            "clip_length": 242,
+            "processed": "<story>You came to watch my race, didn't you!? Hehehe, \n<story>how did I do!? I won again ya know?!"
+        },
+        {
+            "text": "Haa… Yes, I did come to watch. You did \namazingly, as usual.",
+            "name": "Symboli Rudolf",
+            "path_id": -9141218506354409273,
+            "block_id": 43,
+            "clip_length": 223,
+            "processed": "<story>Haa… Yes, I did come to watch. You did \n<story>amazingly, as usual."
+        },
+        {
+            "text": "Yaay!! Ehehe, Prez praised me♪ \nEveryone, did you hear that!?",
+            "name": "Tokai Teio",
+            "path_id": -7388628728500597564,
+            "block_id": 44,
+            "clip_length": 208,
+            "processed": "<story>Yaay!! Ehehe, Prez praised me♪ \n<story>Everyone, did you hear that!?"
+        },
+        {
+            "text": "Eh? Ah, yeah… But more importantly \nthan that, I would like to…",
+            "name": "Rookie Trainer A",
+            "path_id": 3625525349524262131,
+            "block_id": 45,
+            "clip_length": 160,
+            "processed": "<story>Eh? Ah, yeah… But more importantly \n<story>than that, I would like to…"
+        },
+        {
+            "text": "What did you just say!? What do you mean by \n\"that!?\" Hey you, do you not understand just how \namazing Prez really is!?",
+            "name": "Tokai Teio",
+            "path_id": -5762896656847300064,
+            "block_id": 46,
+            "clip_length": 242,
+            "processed": "<story>What did you just say!? What do you mean by \n<story>\"that!?\" Hey you, do you not understand just how \n<story>amazing Prez really is!?"
+        },
+        {
+            "text": "She's the president of Tracen Academy, you \nknow!? She's also super fast, super strong, and \nsuper cool! She's the greatest Uma Musume in the \nworld, and my idol!!",
+            "name": "Tokai Teio",
+            "path_id": 1104716017362207240,
+            "block_id": 47,
+            "clip_length": 285,
+            "processed": "<story>She's the president of Tracen Academy, you \n<story>know!? She's also super fast, super strong, and \n<story>super cool! She's the greatest Uma Musume in the \n<story>world, and my idol!!"
+        },
+        {
+            "text": "One day I'm gonna be as great as her, then \nshe'll praise me a whole bunch♪",
+            "name": "Tokai Teio",
+            "path_id": -5500693059946936138,
+            "block_id": 48,
+            "clip_length": 194,
+            "processed": "<story>One day I'm gonna be as great as her, then \n<story>she'll praise me a whole bunch♪"
+        },
+        {
+            "text": "And that means that if you really wanna \nscout me, you've gotta truly understand \njust how great Prez is!",
+            "name": "Tokai Teio",
+            "path_id": 5731738583677989957,
+            "block_id": 49,
+            "clip_length": 238,
+            "processed": "<story>And that means that if you really wanna \n<story>scout me, you've gotta truly understand \n<story>just how great Prez is!"
+        },
+        {
+            "text": "Speaking of… Did you all see her debut \nrace!? Prez was so amazing, starting \nfrom the first corner she…!",
+            "name": "Tokai Teio",
+            "path_id": -1897235271345589692,
+            "block_id": 50,
+            "clip_length": 309,
+            "processed": "<story>Speaking of… Did you all see her debut \n<story>race!? Prez was so amazing, starting \n<story>from the first corner she…!"
+        },
+        {
+            "text": "All of the trainers that came to speak with \nTokai Teio ended up getting lectured on the \nlegendary history of \"Prez…\"",
+            "name": "",
+            "path_id": 5426883417747732945,
+            "block_id": 51,
+            "clip_length": 118,
+            "processed": "<story>All of the trainers that came to speak with \n<story>Tokai Teio ended up getting lectured on the \n<story>legendary history of \"Prez…\""
+        },
+        {
+            "text": "In the end, no one was able to \ntalk to her about scouting…",
+            "name": "",
+            "path_id": -5446182427097112042,
+            "block_id": 52,
+            "clip_length": 69,
+            "processed": "<story>In the end, no one was able to \n<story>talk to her about scouting…"
+        }
+    ],
+    "title": "The Great, Unbeatable Teio!"
+}

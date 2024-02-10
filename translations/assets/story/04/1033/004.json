@@ -1,0 +1,673 @@
+{
+    "type": "story",
+    "row_index": 589,
+    "file_name": "story/data/04/1033/storytimeline_041033004",
+    "hash": "IJY7EJ4LETYHOMA755QPPZYZQR7OAKN5",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2066463617977489210,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I ended up not being able to \nspeak to Admire Vega after the race.",
+            "name": "",
+            "path_id": 2187412419841619758,
+            "block_id": 1,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "<i>I can't just leave her alone!</i>",
+                    "hash": "26f2264529694a903efeb6a5edd7e4a83f9b785afb81e499bdfabda816eb92c2"
+                }
+            ],
+            "processed": "<story>I ended up not being able to \n<story>speak to Admire Vega after the race."
+        },
+        {
+            "text": "I don't know what's driving her to race, nor what's causing \nher to worry so much, or what kind of baggage she has. But…",
+            "name": "",
+            "path_id": 5188267458830635196,
+            "block_id": 2,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "If I don't try to find out, \nthings will never get going.",
+                    "hash": "633ad80cf4c340ff2d368f76ff1255e2497d76f9f25a57786989e10bc3e337aa",
+                    "processed": "<size=31>If I don't try to find out, \nthings will never get going.</size>"
+                }
+            ],
+            "processed": "<story>I don't know what's driving her to race, nor what's causing \n<story>her to worry so much, or what kind of baggage she has. But…"
+        },
+        {
+            "text": "But first I needed to find her, so I began walking around the \ncampus looking for her. That's when I saw the girl she raced with \nthe other day, Meisho Doto.",
+            "name": "",
+            "path_id": 5918575090048295489,
+            "block_id": 3,
+            "clip_length": 115,
+            "processed": "<story>But first I needed to find her, so I began walking around the \n<story>campus looking for her. That's when I saw the girl she raced with \n<story>the other day, Meisho Doto."
+        },
+        {
+            "text": "Ah, are you asking me if I've seen Ayabe-san…? \nUmm, err…! If I had to say whether I saw her \nor not, I-I'd have to say that I have, but…",
+            "name": "Meisho Doto",
+            "path_id": -1658416093691426409,
+            "block_id": 4,
+            "clip_length": 478,
+            "processed": "<story>Ah, are you asking me if I've seen Ayabe-san…? \n<story>Umm, err…! If I had to say whether I saw her \n<story>or not, I-I'd have to say that I have, but…"
+        },
+        {
+            "text": "Haa Ha Ha Ha! If we were ephemeral stars, we may reach \nthat far away summit! Yet to reach that impenetrable \npeak, one would need to devote thy body!",
+            "name": "TM Opera O",
+            "path_id": 1039716055647994548,
+            "block_id": 5,
+            "clip_length": 325,
+            "choices": [
+                {
+                    "text": "Are you saying she's in the mountains…?",
+                    "hash": "61ed2d5fbf7dba17a458b93bd38303ed2dd00fb8d3674b06b7d0a286bdc9e358",
+                    "processed": "<size=40>Are you saying she's in the mountains…?</size>"
+                }
+            ],
+            "processed": "<story>Haa Ha Ha Ha! If we were ephemeral stars, we may reach \n<story>that far away summit! Yet to reach that impenetrable \n<story>peak, one would need to devote thy body!"
+        },
+        {
+            "text": "If one were to put this plainly, that would be \ncorrect! And to explain it even more plainly, \"she \nwent there to conduct some trail running!\"",
+            "name": "TM Opera O",
+            "path_id": 5593766545327903902,
+            "block_id": 6,
+            "clip_length": 224,
+            "processed": "<story>If one were to put this plainly, that would be \n<story>correct! And to explain it even more plainly, \"she \n<story>went there to conduct some trail running!\""
+        },
+        {
+            "text": "I, uhh…! S-Sorry, but I have something to s-say… I-If you \nknew where she was, you'd already be heading there, right…?",
+            "name": "Meisho Doto",
+            "path_id": -3086818321388902074,
+            "block_id": 7,
+            "clip_length": 410,
+            "processed": "<story>I, uhh…! S-Sorry, but I have something to s-say… I-If you \n<story>knew where she was, you'd already be heading there, right…?"
+        },
+        {
+            "text": "A-Ayabe-san is very stoic and trains at a super high level… \nAnd I know this time is no different, but…",
+            "name": "Meisho Doto",
+            "path_id": -6903400910010695943,
+            "block_id": 8,
+            "clip_length": 335,
+            "processed": "<story>A-Ayabe-san is very stoic and trains at a super high level… \n<story>And I know this time is no different, but…"
+        },
+        {
+            "text": "It is very d-dangerous…! I think the path \nmight be too treacherous for a human…!",
+            "name": "Meisho Doto",
+            "path_id": 7991534042613534948,
+            "block_id": 9,
+            "clip_length": 302,
+            "choices": [
+                {
+                    "text": "Thank you for worrying about \nme, but I want to do this.",
+                    "hash": "204b152e1a34543b4b83355e9c8727cd2c9fbb6c93bab4c6580632da05abb5a8",
+                    "processed": "<size=29>Thank you for worrying about \nme, but I want to do this.</size>"
+                }
+            ],
+            "processed": "<story>It is very d-dangerous…! I think the path \n<story>might be too treacherous for a human…!"
+        },
+        {
+            "text": "Worry not, Doto. The chimes of fate are already \nringing in her brain. Attempting to stop her would be futile.",
+            "name": "TM Opera O",
+            "path_id": 3295917163524407657,
+            "block_id": 10,
+            "clip_length": 289,
+            "processed": "<story>Worry not, Doto. The chimes of fate are already \n<story>ringing in her brain. Attempting to stop her would be futile."
+        },
+        {
+            "text": "Worry not, Doto. The chimes of fate are already \nringing in her brain. Attempting to stop her would be futile.",
+            "name": "TM Opera O",
+            "path_id": -3853337429638488224,
+            "block_id": 11,
+            "clip_length": 295,
+            "processed": "<story>Worry not, Doto. The chimes of fate are already \n<story>ringing in her brain. Attempting to stop her would be futile."
+        },
+        {
+            "text": "While laughing loudly, she told me \nmore about where Admire Vega had gone.",
+            "name": "",
+            "path_id": -1463607515263205099,
+            "block_id": 12,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "You're a life-saver! See you both soon!",
+                    "hash": "f600a323ec050d8f8eddaaaafd97726c1d76a27eb38c5993a04a5f68991bdeea",
+                    "processed": "<size=42>You're a life-saver! See you both soon!</size>"
+                }
+            ],
+            "processed": "<story>While laughing loudly, she told me \n<story>more about where Admire Vega had gone."
+        },
+        {
+            "text": "Awa… Sh-she's already leaving…",
+            "name": "Meisho Doto",
+            "path_id": 411296010600988947,
+            "block_id": 13,
+            "clip_length": 173,
+            "processed": "<story>Awa… Sh-she's already leaving…"
+        },
+        {
+            "text": "After the Selection Race, Ayabe-san said she wanted to be \"alone\" \nfor a while… Is it really okay for that trainer to go…?",
+            "name": "Meisho Doto",
+            "path_id": 1501985581271935243,
+            "block_id": 14,
+            "clip_length": 389,
+            "processed": "<story>After the Selection Race, Ayabe-san said she wanted to be \"alone\" \n<story>for a while… Is it really okay for that trainer to go…?"
+        },
+        {
+            "text": "Some lean against the door. Some knock on the door. And some \nsimply kick the door down… so this will be perfectly fine!",
+            "name": "TM Opera O",
+            "path_id": -6232824539872287116,
+            "block_id": 15,
+            "clip_length": 257,
+            "processed": "<story>Some lean against the door. Some knock on the door. And some \n<story>simply kick the door down… so this will be perfectly fine!"
+        },
+        {
+            "text": "You came to talk to me…?",
+            "name": "Admire Vega",
+            "path_id": 6419755197142065727,
+            "block_id": 16,
+            "clip_length": 68,
+            "choices": [
+                {
+                    "text": "Yeah!",
+                    "hash": "267239f4fcaa6caf00fe6025966aca7caf751596855414b5ae4b4bca6e0588d5"
+                },
+                {
+                    "text": "Yeah!",
+                    "hash": "8059f43b69df9852539afc1f29b566b7f4c42992bf4394d66df37c2398729087"
+                }
+            ],
+            "processed": "<story>You came to talk to me…?"
+        },
+        {
+            "text": "Well I have nothing to say to you. \nNor do I plan on being scouted by you. Bye.",
+            "name": "Admire Vega",
+            "path_id": -2691033498692553990,
+            "block_id": 17,
+            "clip_length": 263,
+            "processed": "<story>Well I have nothing to say to you. \n<story>Nor do I plan on being scouted by you. Bye."
+        },
+        {
+            "text": "She quickly left me in the dust, but… I came \nhere filled with resolve. I can't simply return now!",
+            "name": "",
+            "path_id": 3954131987677068113,
+            "block_id": 18,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "<i>Let's go…!</i>",
+                    "hash": "10d52fc09d704c0acd84be0a09b8492267191d1544c94e8e9e3add3c5496ec68"
+                },
+                {
+                    "text": "<i>Let's go…!</i>",
+                    "hash": "baf8f7e13bd7b0dc2f363669c9b189d8a7f5f732b64ac1677e9a8edfcf2aa69d"
+                }
+            ],
+            "processed": "<story>She quickly left me in the dust, but… I came \n<story>here filled with resolve. I can't simply return now!"
+        },
+        {
+            "text": "However…",
+            "name": "",
+            "path_id": -3932101513696740963,
+            "block_id": 19,
+            "clip_length": 51,
+            "processed": "<story>However…"
+        },
+        {
+            "text": "Hah… haa… haa…",
+            "name": "Admire Vega",
+            "path_id": 3470007764163805400,
+            "block_id": 20,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "<i>*Wheeze…!*</i>",
+                    "hash": "b189c813c0d61092900b3cf051a19ad575c5e1f33e1f53cefa18c3e30ca4ab49"
+                }
+            ],
+            "processed": "<story>Hah… haa… haa…"
+        },
+        {
+            "text": "Hah… haa… haa…",
+            "name": "Admire Vega",
+            "path_id": 9208628408609780244,
+            "block_id": 21,
+            "clip_length": 201,
+            "choices": [
+                {
+                    "text": "<i>*Wheeze…!*</i>",
+                    "hash": "ac0ac175d3abfe6686692ce02c1e29b8ac6bc30d6b4f8d6005a28eab8199799f"
+                }
+            ],
+            "processed": "<story>Hah… haa… haa…"
+        },
+        {
+            "text": "As Meisho Doto had warned me, the path was incredibly steep \nand the gap between Admire Vega and I was only widening…!",
+            "name": "",
+            "path_id": -4616475765687656140,
+            "block_id": 22,
+            "clip_length": 124,
+            "processed": "<story>As Meisho Doto had warned me, the path was incredibly steep \n<story>and the gap between Admire Vega and I was only widening…!"
+        },
+        {
+            "text": "Moreover…",
+            "name": "",
+            "path_id": 1014409655753023927,
+            "block_id": 23,
+            "clip_length": 52,
+            "processed": "<story>Moreover…"
+        },
+        {
+            "text": "I was starting to lose sight of her as the sun was setting, \nbut I continued to desperately run along the steep path.",
+            "name": "",
+            "path_id": -9084227791986661287,
+            "block_id": 24,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "I can't even see my fe- Uwaah!",
+                    "hash": "8622ac8fd1bdc82bf27b5a88f6f48dc07da919ff0dfb20f3e29ec9f1e591f318"
+                }
+            ],
+            "processed": "<story>I was starting to lose sight of her as the sun was setting, \n<story>but I continued to desperately run along the steep path."
+        },
+        {
+            "text": "(*rustle* *rustle*)",
+            "name": "",
+            "path_id": 1397268620167389170,
+            "block_id": 25,
+            "clip_length": 59,
+            "processed": "<story>(*rustle* *rustle*)"
+        },
+        {
+            "text": "――――――――",
+            "name": "",
+            "path_id": 7299052393131950403,
+            "block_id": 26,
+            "clip_length": 55,
+            "processed": "<story>――――――――"
+        },
+        {
+            "text": "My consciousness began returning to me, little by little. As I \nslowly opened my eyes, I noticed the starry sky above me.",
+            "name": "",
+            "path_id": -1648093002762509357,
+            "block_id": 27,
+            "clip_length": 99,
+            "processed": "<story>My consciousness began returning to me, little by little. As I \n<story>slowly opened my eyes, I noticed the starry sky above me."
+        },
+        {
+            "text": "A sea of stars so vast that I could almost dive into…",
+            "name": "",
+            "path_id": 3419622656451951697,
+            "block_id": 28,
+            "clip_length": 67,
+            "processed": "<story>A sea of stars so vast that I could almost dive into…"
+        },
+        {
+            "text": "Are you hurt anywhere…?",
+            "name": "Admire Vega",
+            "path_id": -5153074189719137485,
+            "block_id": 29,
+            "clip_length": 84,
+            "choices": [
+                {
+                    "text": "Huh… Admire Vega!?",
+                    "hash": "1deecd3e5e11469902d8f412328e5f99d9a84aaacc8698d898853a3c9ed74bc8"
+                }
+            ],
+            "processed": "<story>Are you hurt anywhere…?"
+        },
+        {
+            "text": "I'm asking the questions here. Are you hurt?",
+            "name": "Admire Vega",
+            "path_id": 5192483150582864213,
+            "block_id": 30,
+            "clip_length": 117,
+            "choices": [
+                {
+                    "text": "I'm fine. Did you save me…?",
+                    "hash": "3ee866b42f1252cdd5f6f52c2a56ae6d798583a85d58a2f1cb814ba22799f139"
+                },
+                {
+                    "text": "I'm fine. Did you save me…?",
+                    "hash": "15420a80ae6101932a7088d8b13d71cee611bd89283a8c25b565849160e037ed"
+                }
+            ],
+            "processed": "<story>I'm asking the questions here. Are you hurt?"
+        },
+        {
+            "text": "I couldn't just leave you…",
+            "name": "Admire Vega",
+            "path_id": 7128341231582296882,
+            "block_id": 31,
+            "clip_length": 112,
+            "processed": "<story>I couldn't just leave you…"
+        },
+        {
+            "text": "Admire Vega frowned while letting out a deep sigh. She then \nasked me a question.",
+            "name": "",
+            "path_id": 3512975501273725885,
+            "block_id": 32,
+            "clip_length": 91,
+            "processed": "<story>Admire Vega frowned while letting out a deep sigh. She then \n<story>asked me a question."
+        },
+        {
+            "text": "Why are you so obsessed with me?",
+            "name": "Admire Vega",
+            "path_id": 1126114475568619035,
+            "block_id": 33,
+            "clip_length": 98,
+            "processed": "<story>Why are you so obsessed with me?"
+        },
+        {
+            "text": "I had such a poor showing at the Selection Race. I know nothing \nabout you, and aside from that race you know nothing about me.",
+            "name": "Admire Vega",
+            "path_id": 8787781839654429633,
+            "block_id": 34,
+            "clip_length": 322,
+            "processed": "<story>I had such a poor showing at the Selection Race. I know nothing \n<story>about you, and aside from that race you know nothing about me."
+        },
+        {
+            "text": "So why?",
+            "name": "Admire Vega",
+            "path_id": -2564592373362185205,
+            "block_id": 35,
+            "clip_length": 81,
+            "choices": [
+                {
+                    "text": "I'm not sure. But…",
+                    "hash": "c55d0162db4305cd013a7d4af50bd18e0164fc8bed77dd116849e4b14155e3ba"
+                }
+            ],
+            "processed": "<story>So why?"
+        },
+        {
+            "text": "But…?",
+            "name": "Admire Vega",
+            "path_id": -1950317531639882310,
+            "block_id": 36,
+            "clip_length": 29,
+            "choices": [
+                {
+                    "text": "I didn't want to leave you alone any longer.",
+                    "hash": "abc2426953bf67b85f80ee63cbbfb9306ead31e626d0e19ce1c18870da1a9683",
+                    "processed": "<size=38>I didn't want to leave you alone any longer.</size>"
+                },
+                {
+                    "text": "I didn't want to leave you alone any longer.",
+                    "hash": "fba27087f36e1cf361620359422fb25583d6cbca63f49ecc682a6b5286684f03",
+                    "processed": "<size=38>I didn't want to leave you alone any longer.</size>"
+                }
+            ],
+            "processed": "<story>But…?"
+        },
+        {
+            "text": "……………",
+            "name": "Admire Vega",
+            "path_id": 623518556225230246,
+            "block_id": 37,
+            "clip_length": 75,
+            "processed": "<story>……………"
+        },
+        {
+            "text": "I'm… fine being alone. \nI… prefer being alone.",
+            "name": "Admire Vega",
+            "path_id": -5558311405814900624,
+            "block_id": 38,
+            "clip_length": 191,
+            "processed": "<story>I'm… fine being alone. \n<story>I… prefer being alone."
+        },
+        {
+            "text": "Racing and winning are my burdens to bear, \nno one else's. After all, she… my sister…",
+            "name": "Admire Vega",
+            "path_id": 1594911628659661730,
+            "block_id": 39,
+            "clip_length": 414,
+            "processed": "<story>Racing and winning are my burdens to bear, \n<story>no one else's. After all, she… my sister…"
+        },
+        {
+            "text": "Died in my place.",
+            "name": "Admire Vega",
+            "path_id": 778555868238435626,
+            "block_id": 40,
+            "clip_length": 127,
+            "choices": [
+                {
+                    "text": "!!!!!",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story>Died in my place."
+        },
+        {
+            "text": "I've said too much… Forget it all.",
+            "name": "Admire Vega",
+            "path_id": 6020194976327699760,
+            "block_id": 41,
+            "clip_length": 88,
+            "processed": "<story>I've said too much… Forget it all."
+        },
+        {
+            "text": "If only a little, she confided in me some of the burdens that she \ncarries. \"I'll carry all of these burdens myself.\" I'm sure \nthat's what she's thinking.",
+            "name": "",
+            "path_id": 5628240407918252382,
+            "block_id": 42,
+            "clip_length": 115,
+            "processed": "<story>If only a little, she confided in me some of the burdens that she \n<story>carries. \"I'll carry all of these burdens myself.\" I'm sure \n<story>that's what she's thinking."
+        },
+        {
+            "text": "Even so…",
+            "name": "",
+            "path_id": 958216046491941538,
+            "block_id": 43,
+            "clip_length": 54,
+            "choices": [
+                {
+                    "text": "I can't leave you to do this alone!",
+                    "hash": "e9261012ae3a91b409d8f8bd3186641fd859a09e4e9fe0793138b500976db8fd"
+                },
+                {
+                    "text": "I can't leave you to do this alone!",
+                    "hash": "29cb3659a9d065fcbf00094274cd007108de8d723dfaaec789aad2f2a40e0b25"
+                }
+            ],
+            "processed": "<story>Even so…"
+        },
+        {
+            "text": "My legs are so heavy and my stamina has already \nreached its limits. Even so, since I could still see her…",
+            "name": "",
+            "path_id": -3039957272790375655,
+            "block_id": 44,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "Hey, won't you let me be your trainer?",
+                    "hash": "ca882900c2a101681a2f25e2d63f2ea0a09ea8cab1894df6d2511a23307fa169",
+                    "processed": "<size=43>Hey, won't you let me be your trainer?</size>"
+                },
+                {
+                    "text": "Hey, won't you let me be your trainer?",
+                    "hash": "38819272fd687f43e92a61c95ad713ff15b4d5eca181a6dd1122b12d8de615ca",
+                    "processed": "<size=43>Hey, won't you let me be your trainer?</size>"
+                }
+            ],
+            "processed": "<story>My legs are so heavy and my stamina has already \n<story>reached its limits. Even so, since I could still see her…"
+        },
+        {
+            "text": "You're chasing after me again and suddenly saying that…?",
+            "name": "Admire Vega",
+            "path_id": -4772090910069825619,
+            "block_id": 45,
+            "clip_length": 109,
+            "choices": [
+                {
+                    "text": "If you want to go forward alone, that's fine.",
+                    "hash": "475046aeb75959f5b7ed8c5afd0f2db1a0e0d5c65a08602bae1687c172356208",
+                    "processed": "<size=38>If you want to go forward alone, that's fine.</size>"
+                },
+                {
+                    "text": "If you want to go forward alone, that's fine.",
+                    "hash": "e69e895bb3e318d7749e290b8012aec9dfa81d8fa431944cac9955b72e7c327f",
+                    "processed": "<size=38>If you want to go forward alone, that's fine.</size>"
+                }
+            ],
+            "processed": "<story>You're chasing after me again and suddenly saying that…?"
+        },
+        {
+            "text": "Eh?",
+            "name": "Admire Vega",
+            "path_id": 8226522957569580567,
+            "block_id": 46,
+            "clip_length": 31,
+            "choices": [
+                {
+                    "text": "But I will selfishly continue \nto follow you, and selfishly support you.",
+                    "hash": "72e0ee2a11b7eced71fc143cd64e09e47e62bbf23991bcc5af68d00a01cda44f",
+                    "processed": "<size=24>But I will selfishly continue \nto follow you, and selfishly support you.</size>"
+                }
+            ],
+            "processed": "<story>Eh?"
+        },
+        {
+            "text": "What's… with you…?",
+            "name": "Admire Vega",
+            "path_id": 1580852423410000832,
+            "block_id": 47,
+            "clip_length": 231,
+            "processed": "<story>What's… with you…?"
+        },
+        {
+            "text": "It's almost curfew so I'm leaving.",
+            "name": "Admire Vega",
+            "path_id": 2235967788194388814,
+            "block_id": 48,
+            "clip_length": 136,
+            "processed": "<story>It's almost curfew so I'm leaving."
+        },
+        {
+            "text": "Ah, Ayabe-san! Welcome home♪ \nHey, look at this cute, fluffy―",
+            "name": "Curren Chan",
+            "path_id": -9057609810952968486,
+            "block_id": 49,
+            "clip_length": 173,
+            "processed": "<story>Ah, Ayabe-san! Welcome home♪ \n<story>Hey, look at this cute, fluffy―"
+        },
+        {
+            "text": "Sorry, but could you just let me sleep? \nI'm… so tired…",
+            "name": "Admire Vega",
+            "path_id": -241157044557670859,
+            "block_id": 50,
+            "clip_length": 260,
+            "processed": "<story>Sorry, but could you just let me sleep? \n<story>I'm… so tired…"
+        },
+        {
+            "text": "Eh? Ah, okay…?",
+            "name": "Curren Chan",
+            "path_id": 3529759360094943476,
+            "block_id": 51,
+            "clip_length": 107,
+            "processed": "<story>Eh? Ah, okay…?"
+        },
+        {
+            "text": "Zzz…",
+            "name": "Admire Vega",
+            "path_id": -3181105796178239309,
+            "block_id": 52,
+            "clip_length": 74,
+            "processed": "<story>Zzz…"
+        },
+        {
+            "text": "She's making a cute face in her sleep. \nThis. Must. Mean… that something good happened.",
+            "name": "Curren Chan",
+            "path_id": -159552824486323492,
+            "block_id": 53,
+            "clip_length": 272,
+            "processed": "<story>She's making a cute face in her sleep. \n<story>This. Must. Mean… that something good happened."
+        },
+        {
+            "text": "I had a dream. A dream that, for what feels \nlike forever, didn't feel like it was suffocating me.",
+            "name": "Admire Vega",
+            "path_id": -441341247065736028,
+            "block_id": 54,
+            "clip_length": 274,
+            "processed": "<story>I had a dream. A dream that, for what feels \n<story>like forever, didn't feel like it was suffocating me."
+        },
+        {
+            "text": "A careless dream where a cute girl whose face I did not \nknow and I… ran through a sea of stars together…",
+            "name": "Admire Vega",
+            "path_id": 7358886589808590656,
+            "block_id": 55,
+            "clip_length": 311,
+            "processed": "<story>A careless dream where a cute girl whose face I did not \n<story>know and I… ran through a sea of stars together…"
+        },
+        {
+            "text": "The following day there was a hesitant knock on the door \nto my office. As I opened the door, in came… Admire Vega!",
+            "name": "",
+            "path_id": -6944122248581628471,
+            "block_id": 56,
+            "clip_length": 102,
+            "choices": [
+                {
+                    "text": "You came to talk about being scouted?",
+                    "hash": "1f193a5e9f10c84a2b3f8ce45f5b2409053fe9ab0acd528ac2df74991a52d66b",
+                    "processed": "<size=42>You came to talk about being scouted?</size>"
+                },
+                {
+                    "text": "You came to talk about being scouted?",
+                    "hash": "b5daa5d59e3479ac27184887d7d9314bbafeb7c441e9319b2616a0b54e53070e",
+                    "processed": "<size=42>You came to talk about being scouted?</size>"
+                }
+            ],
+            "processed": "<story>The following day there was a hesitant knock on the door \n<story>to my office. As I opened the door, in came… Admire Vega!"
+        },
+        {
+            "text": "If I don't have a trainer, I won't be able to enter the \nTwinkle Series. So either way, I'd need one eventually…",
+            "name": "Admire Vega",
+            "path_id": -1617423294890053160,
+            "block_id": 57,
+            "clip_length": 158,
+            "processed": "<story>If I don't have a trainer, I won't be able to enter the \n<story>Twinkle Series. So either way, I'd need one eventually…"
+        },
+        {
+            "text": "And if I had to choose…",
+            "name": "Admire Vega",
+            "path_id": -6282211145462644004,
+            "block_id": 58,
+            "clip_length": 60,
+            "processed": "<story>And if I had to choose…"
+        },
+        {
+            "text": "I would choose you.",
+            "name": "Admire Vega",
+            "path_id": 2592623928924639023,
+            "block_id": 59,
+            "clip_length": 75,
+            "choices": [
+                {
+                    "text": "Thank you. I look \nforward to working with you.",
+                    "hash": "b9d81037eba1ac4c86296f664cf72fadb8b7c5c48c6dffb504352b51f5de5bd2",
+                    "processed": "<size=35>Thank you. I look \nforward to working with you.</size>"
+                },
+                {
+                    "text": "Thank you. I look \nforward to working with you.",
+                    "hash": "c68bd975ff9958b1e4ec068e936f78d31bf45c1afcb1da74bf5cb37c08953bd0",
+                    "processed": "<size=35>Thank you. I look \nforward to working with you.</size>"
+                }
+            ],
+            "processed": "<story>I would choose you."
+        },
+        {
+            "text": "Thus my days with Admire Vega had finally begun.",
+            "name": "",
+            "path_id": 5014727774102024509,
+            "block_id": 60,
+            "clip_length": 82,
+            "processed": "<story>Thus my days with Admire Vega had finally begun."
+        }
+    ],
+    "title": "You Are A Comet"
+}

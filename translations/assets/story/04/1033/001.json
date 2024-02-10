@@ -1,0 +1,449 @@
+{
+    "type": "story",
+    "row_index": 586,
+    "file_name": "story/data/04/1033/storytimeline_041033001",
+    "hash": "IRONMSHNHJSC4VJXAN6O3A6U6U33NHHC",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 9102146610123251912,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "<i>Running is my way of praying…</i>",
+            "name": "Admire Vega",
+            "path_id": -8762439817035734825,
+            "block_id": 1,
+            "clip_length": 103,
+            "processed": "<story><i>Running is my way of praying…</i>"
+        },
+        {
+            "text": "Hah… hah… haa. \nEgh… gekh.",
+            "name": "Admire Vega",
+            "path_id": 5579796940260220000,
+            "block_id": 2,
+            "clip_length": 173,
+            "processed": "<story>Hah… hah… haa. \n<story>Egh… gekh."
+        },
+        {
+            "text": "<i>I'm struggling to breathe. That I know. \nWhen that happens, I should… take deep breaths.</i>",
+            "name": "Admire Vega",
+            "path_id": 3960194414808398829,
+            "block_id": 3,
+            "clip_length": 358,
+            "processed": "<story><i>I'm struggling to breathe. That I know. \n<story>When that happens, I should… take deep breaths.</i>"
+        },
+        {
+            "text": "……",
+            "name": "Admire Vega",
+            "path_id": -3496428211806896576,
+            "block_id": 4,
+            "clip_length": 173,
+            "processed": "<story>……"
+        },
+        {
+            "text": "<i>Pollux, a gently twinkling red star.</i> <i>It \nis one of the twenty-one first-magnitude stars \nwhich makes up the Winter Hexagon.</i>",
+            "name": "Admire Vega",
+            "path_id": 4845125810735402704,
+            "block_id": 5,
+            "clip_length": 374,
+            "processed": "<story><i>Pollux, a gently twinkling red star.</i> <i>It \n<story>is one of the twenty-one first-magnitude stars \n<story>which makes up the Winter Hexagon.</i>"
+        },
+        {
+            "text": "<i>I'm sure you're looking up \nat it too tonight… over there…</i>",
+            "name": "Admire Vega",
+            "path_id": 1488485256277900704,
+            "block_id": 6,
+            "clip_length": 232,
+            "processed": "<story><i>I'm sure you're looking up \n<story>at it too tonight… over there…</i>"
+        },
+        {
+            "text": "I have to go…",
+            "name": "Admire Vega",
+            "path_id": 2897632963432093876,
+            "block_id": 7,
+            "clip_length": 307,
+            "processed": "<story>I have to go…"
+        },
+        {
+            "text": "<i>I pray. Instead of clasping my hands together, I \npray by kicking at the earth below me.</i> <i>I pray \nthat the brilliant and wonderful things present \nat the end of this path that I follow…</i>",
+            "name": "Admire Vega",
+            "path_id": -2734839294862529527,
+            "block_id": 8,
+            "clip_length": 525,
+            "processed": "<story><i>I pray. Instead of clasping my hands together, I \n<story>pray by kicking at the earth below me.</i> <i>I pray \n<story>that the brilliant and wonderful things present \n<story>at the end of this path that I follow…</i>"
+        },
+        {
+            "text": "<i>will someday reach you…</i>",
+            "name": "Admire Vega",
+            "path_id": -5337779423351680586,
+            "block_id": 9,
+            "clip_length": 116,
+            "processed": "<story><i>will someday reach you…</i>"
+        },
+        {
+            "text": "The \"Selection Race\" would soon be upon us, a race where \ntrainers can assess the abilities of up-and-coming Uma Musume.",
+            "name": "",
+            "path_id": 3940256619406767533,
+            "block_id": 10,
+            "clip_length": 98,
+            "processed": "<story>The \"Selection Race\" would soon be upon us, a race where \n<story>trainers can assess the abilities of up-and-coming Uma Musume."
+        },
+        {
+            "text": "When I arrived at the racecourse I noticed numerous other \ntrainers there looking to observe the Uma Musume there today.",
+            "name": "",
+            "path_id": 6358725408676969801,
+            "block_id": 11,
+            "clip_length": 119,
+            "choices": [
+                {
+                    "text": "<i>Let's see, today's runners are…</i>",
+                    "hash": "f314267a56f8b3ca870d38e46dbdf2b0b9af509332cf4ae85f5d297c94cc32f5"
+                }
+            ],
+            "processed": "<story>When I arrived at the racecourse I noticed numerous other \n<story>trainers there looking to observe the Uma Musume there today."
+        },
+        {
+            "text": "Woah! Her ability in the final stretch is amazing!",
+            "name": "Average Trainer A",
+            "path_id": -5057309061715869217,
+            "block_id": 12,
+            "clip_length": 138,
+            "processed": "<story>Woah! Her ability in the final stretch is amazing!"
+        },
+        {
+            "text": "She's also quite adept at determining when she needs to spurt in \nthe final stretch. Admire Vega, as I watch your race I only grow \nmore and more excited about you.",
+            "name": "Veteran Trainer A",
+            "path_id": 8700918987994747551,
+            "block_id": 13,
+            "clip_length": 253,
+            "choices": [
+                {
+                    "text": "<i>Admire Vega!</i>",
+                    "hash": "5de93533efdb2ad26961069c3ffeff2417484217e954c5cbb3d2e59e8ad843c7"
+                }
+            ],
+            "processed": "<story>She's also quite adept at determining when she needs to spurt in \n<story>the final stretch. Admire Vega, as I watch your race I only grow \n<story>more and more excited about you."
+        },
+        {
+            "text": "I heard the name of one of the racers that I had been \ninterested in, so I hastily looked over towards the race course.",
+            "name": "",
+            "path_id": -4700153381248325798,
+            "block_id": 14,
+            "clip_length": 106,
+            "processed": "<story>I heard the name of one of the racers that I had been \n<story>interested in, so I hastily looked over towards the race course."
+        },
+        {
+            "text": "Thank you for running with me!",
+            "name": "Meisho Doto",
+            "path_id": 2477689344329500043,
+            "block_id": 15,
+            "clip_length": 338,
+            "processed": "<story>Thank you for running with me!"
+        },
+        {
+            "text": "Thank you as well. \nAre you done…?",
+            "name": "Admire Vega",
+            "path_id": 3360158860273005263,
+            "block_id": 16,
+            "clip_length": 91,
+            "processed": "<story>Thank you as well. \n<story>Are you done…?"
+        },
+        {
+            "text": "Y-Yes, I have a dinner arrangement with Urara-san \nand her friends. Umm, err, well… if you \nwant, you can come too, Ayabe-san.",
+            "name": "Meisho Doto",
+            "path_id": 5551314615313721149,
+            "block_id": 17,
+            "clip_length": 417,
+            "processed": "<story>Y-Yes, I have a dinner arrangement with Urara-san \n<story>and her friends. Umm, err, well… if you \n<story>want, you can come too, Ayabe-san."
+        },
+        {
+            "text": "No. I'm going to… run a bit longer.",
+            "name": "Admire Vega",
+            "path_id": -3913683515416309337,
+            "block_id": 18,
+            "clip_length": 144,
+            "processed": "<story>No. I'm going to… run a bit longer."
+        },
+        {
+            "text": "Ah! Umm… Please don't push yourself too hard…!",
+            "name": "Meisho Doto",
+            "path_id": -1310217401303073665,
+            "block_id": 19,
+            "clip_length": 252,
+            "processed": "<story>Ah! Umm… Please don't push yourself too hard…!"
+        },
+        {
+            "text": "Hah, haa, haaa―!",
+            "name": "Admire Vega",
+            "path_id": 4148778626637417310,
+            "block_id": 20,
+            "clip_length": 81,
+            "processed": "<story>Hah, haa, haaa―!"
+        },
+        {
+            "text": "As more and more of the girls finished up their training, she \ncontinues to train stoically and alone, indifferently rejecting \nthe invitations of her friends.",
+            "name": "",
+            "path_id": -6784879612034502623,
+            "block_id": 21,
+            "clip_length": 118,
+            "processed": "<story>As more and more of the girls finished up their training, she \n<story>continues to train stoically and alone, indifferently rejecting \n<story>the invitations of her friends."
+        },
+        {
+            "text": "Haaaah…!!",
+            "name": "Admire Vega",
+            "path_id": 5308825094666313407,
+            "block_id": 22,
+            "clip_length": 28,
+            "choices": [
+                {
+                    "text": "As reported, she's \ngot amazing acceleration!</i>",
+                    "hash": "19ee5f8595b62927245fa2d75351e53c6443bff7382f4b3f945ada8f3a0eb1db",
+                    "processed": "<size=36>As reported, she's \ngot amazing acceleration!</i></size>"
+                },
+                {
+                    "text": "As reported, she's \ngot amazing acceleration!</i>",
+                    "hash": "fb65dd3d497e01dfb46e895200539766f989a0635cb5efd364d2bc6b6a611022",
+                    "processed": "<size=36>As reported, she's \ngot amazing acceleration!</i></size>"
+                }
+            ],
+            "processed": "<story>Haaaah…!!"
+        },
+        {
+            "text": "I could sense the talent that her legs \npossessed and it sent a shiver down my spine.",
+            "name": "",
+            "path_id": -5890465681574065586,
+            "block_id": 23,
+            "clip_length": 77,
+            "processed": "<story>I could sense the talent that her legs \n<story>possessed and it sent a shiver down my spine."
+        },
+        {
+            "text": "Admire Vega: an Uma Musume with \namazing ability and incredible potential…",
+            "name": "",
+            "path_id": 7645722622847442866,
+            "block_id": 24,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "<i>What kind of Uma Musume is she?</i>",
+                    "hash": "f8465f002b2822f808eec8cf4d99669c73909d9651fd1cd7a49d285fe6e00e23"
+                },
+                {
+                    "text": "<i>What kind of Uma Musume is she?</i>",
+                    "hash": "91959bad9a2fa02fcea70d0631d3c05675a6ef8ae28fd700fcafb23531113f67"
+                }
+            ],
+            "processed": "<story>Admire Vega: an Uma Musume with \n<story>amazing ability and incredible potential…"
+        },
+        {
+            "text": "Afterwards, I went back to my office and began doing research on \nAdmire Vega. I was so absorbed in my research that before I knew \nit it was the dead of night.",
+            "name": "",
+            "path_id": -8414777346191921115,
+            "block_id": 25,
+            "clip_length": 125,
+            "processed": "<story>Afterwards, I went back to my office and began doing research on \n<story>Admire Vega. I was so absorbed in my research that before I knew \n<story>it it was the dead of night."
+        },
+        {
+            "text": "Guess it's time I headed back to the trainer's dormitories. As I \nstepped outside I noticed something…",
+            "name": "",
+            "path_id": 7459535174985110030,
+            "block_id": 26,
+            "clip_length": 84,
+            "choices": [
+                {
+                    "text": "Hmm? A shadowy figure \non the racecourse?",
+                    "hash": "7313c9525856da8086c08c3760cfe4acb089f22100c2121e8ed9238f7a116cd2",
+                    "processed": "<size=37>Hmm? A shadowy figure \non the racecourse?</size>"
+                }
+            ],
+            "processed": "<story>Guess it's time I headed back to the trainer's dormitories. As I \n<story>stepped outside I noticed something…"
+        },
+        {
+            "text": "―Feeh. \n…Haa, haah…!",
+            "name": "Admire Vega",
+            "path_id": 1993250559589303750,
+            "block_id": 27,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "<i>She's still going!?</i>",
+                    "hash": "c5aa554903f30442063efc694cc6b56817e116a17c831157f30ba1d915a9b214"
+                },
+                {
+                    "text": "<i>She's still going!?</i>",
+                    "hash": "ef54b2ee0f75527141a7062e37fbf643a7161e11f9512c43443467cab8493b67"
+                }
+            ],
+            "processed": "<story>―Feeh. \n<story>…Haa, haah…!"
+        },
+        {
+            "text": "Alone, she continued to train at the racecourse. \nAs one might expect, she looked completely exhausted.",
+            "name": "",
+            "path_id": -1398851540067197788,
+            "block_id": 28,
+            "clip_length": 110,
+            "processed": "<story>Alone, she continued to train at the racecourse. \n<story>As one might expect, she looked completely exhausted."
+        },
+        {
+            "text": "I can't… give up… now…!",
+            "name": "Admire Vega",
+            "path_id": -3003038536094084949,
+            "block_id": 29,
+            "clip_length": 114,
+            "processed": "<story>I can't… give up… now…!"
+        },
+        {
+            "text": "Without slowing her pace she \ncontinued to move her legs. It was like…",
+            "name": "",
+            "path_id": 3170669754786379494,
+            "block_id": 30,
+            "clip_length": 80,
+            "choices": [
+                {
+                    "text": "Something was forcing her forward…",
+                    "hash": "70bec7ae54203760eadbca80df8f4a75da86ea74175eab3fea6f88ca1fb9b1d6"
+                }
+            ],
+            "processed": "<story>Without slowing her pace she \n<story>continued to move her legs. It was like…"
+        },
+        {
+            "text": "Haah haaah… Ugh…",
+            "name": "Admire Vega",
+            "path_id": -1893987857388033984,
+            "block_id": 31,
+            "clip_length": 171,
+            "processed": "<story>Haah haaah… Ugh…"
+        },
+        {
+            "text": "…………………………",
+            "name": "Admire Vega",
+            "path_id": -7211201824326696518,
+            "block_id": 32,
+            "clip_length": 181,
+            "processed": "<story>…………………………"
+        },
+        {
+            "text": "All of a sudden she stopped, looking completely exhausted. In the \nsilence, where the echoes of her footsteps finally stopped she \nstood there, her eyes filled with the reflection of the stars.",
+            "name": "",
+            "path_id": 6963431110264113672,
+            "block_id": 33,
+            "clip_length": 120,
+            "processed": "<story>All of a sudden she stopped, looking completely exhausted. In the \n<story>silence, where the echoes of her footsteps finally stopped she \n<story>stood there, her eyes filled with the reflection of the stars."
+        },
+        {
+            "text": "The stars. Not only the stars, but the sky filled with said \nstars… As if overwhelmed by the sheer beauty of what she saw, \nshe stood there entranced…",
+            "name": "",
+            "path_id": 7364968733113322735,
+            "block_id": 34,
+            "clip_length": 99,
+            "choices": [
+                {
+                    "text": "Is everything okay?",
+                    "hash": "c0c57722cbc9849ef6ff6479c15effd6020ddf8d80c005054db4259e0317361d"
+                },
+                {
+                    "text": "Is everything okay?",
+                    "hash": "a3b6aec0ab277b1196c195651cbaeff471ad35d092e83db23f777f81a54f6b05"
+                }
+            ],
+            "processed": "<story>The stars. Not only the stars, but the sky filled with said \n<story>stars… As if overwhelmed by the sheer beauty of what she saw, \n<story>she stood there entranced…"
+        },
+        {
+            "text": "Eh?",
+            "name": "Admire Vega",
+            "path_id": -7670104825397318770,
+            "block_id": 35,
+            "clip_length": 24,
+            "choices": [
+                {
+                    "text": "Ah!",
+                    "hash": "e24f9eadaac2feb97fd3fb883a57a6f1e8052f6d5cd578220ba73a635f879700"
+                }
+            ],
+            "processed": "<story>Eh?"
+        },
+        {
+            "text": "Even I was unsure why I responded in that manner…",
+            "name": "",
+            "path_id": -987892434270100983,
+            "block_id": 36,
+            "clip_length": 82,
+            "processed": "<story>Even I was unsure why I responded in that manner…"
+        },
+        {
+            "text": "I'm fine… I do this all of the time.",
+            "name": "Admire Vega",
+            "path_id": 4685177828654719249,
+            "block_id": 37,
+            "clip_length": 188,
+            "choices": [
+                {
+                    "text": "Always this late at night!?",
+                    "hash": "b0f027ee6ce52b55df7def37190d3cc36e9c872147aeabaee92de590b5f9c1e7"
+                }
+            ],
+            "processed": "<story>I'm fine… I do this all of the time."
+        },
+        {
+            "text": "Usually.",
+            "name": "Admire Vega",
+            "path_id": 4994062289638414307,
+            "block_id": 38,
+            "clip_length": 34,
+            "choices": [
+                {
+                    "text": "Isn't it rough on you…?",
+                    "hash": "752a1076d0fad741e842ef4017f0b146995f71f91caa4c30b5efeeac13255aac"
+                },
+                {
+                    "text": "Isn't it rough on you…?",
+                    "hash": "90f78a8aea20819d660055d663b85ea1531988ea836f191b0407968c21bf9903"
+                }
+            ],
+            "processed": "<story>Usually."
+        },
+        {
+            "text": "No. This is necessary for me to win…",
+            "name": "Admire Vega",
+            "path_id": 4270292209367850256,
+            "block_id": 39,
+            "clip_length": 165,
+            "processed": "<story>No. This is necessary for me to win…"
+        },
+        {
+            "text": "I win. I run, then win more. That is all.",
+            "name": "Admire Vega",
+            "path_id": -7913175260575035666,
+            "block_id": 40,
+            "clip_length": 289,
+            "processed": "<story>I win. I run, then win more. That is all."
+        },
+        {
+            "text": "If you'd like to discuss being my trainer, \nwait until after the Selection Race. Bye.",
+            "name": "Admire Vega",
+            "path_id": -7624010224565240592,
+            "block_id": 41,
+            "clip_length": 222,
+            "processed": "<story>If you'd like to discuss being my trainer, \n<story>wait until after the Selection Race. Bye."
+        },
+        {
+            "text": "At that moment, the lights used for night training \nsuddenly went out. Drowned in the starlight, as \nif melting into the night, she walked away.",
+            "name": "",
+            "path_id": 2584514856819074450,
+            "block_id": 42,
+            "clip_length": 120,
+            "processed": "<story>At that moment, the lights used for night training \n<story>suddenly went out. Drowned in the starlight, as \n<story>if melting into the night, she walked away."
+        },
+        {
+            "text": "As if driving herself into the ground, the great resolve \nthat Admire Vega carried would stay with me forever.",
+            "name": "",
+            "path_id": -4079556337711115648,
+            "block_id": 43,
+            "clip_length": 120,
+            "processed": "<story>As if driving herself into the ground, the great resolve \n<story>that Admire Vega carried would stay with me forever."
+        }
+    ],
+    "title": "Shining Nova"
+}
