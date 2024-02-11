@@ -562,6 +562,10 @@
         "text": "Flowery ☆ Maneuver",
         "hash": "ed50b24fdd2e386380c4b65672f3987eaad155f916738e01ff0b957fc4a8d6b4"
     },
+    "110251": {
+        "text": "Purrfect Hospitality",
+        "hash": "8bed5564d97abf258138ee4e941c3235513c208239fdeb2cbc2abaf4d6a0e04b"
+    },
     "110261": {
         "text": "Operation Cacao",
         "hash": "73ec0708770e9ed62f323d8dcbe0c70c8541bffc61587c607d74a2ba3351ccb2"
@@ -569,6 +573,10 @@
     "110271": {
         "text": "Latte Art For You",
         "hash": "22b717feb04569470530aec545ea757b4de3aee88c09fb2fed90e0d57fb4e7c3"
+    },
+    "110291": {
+        "text": "Have Your Fill!",
+        "hash": "64e59b1d89732ed5e35cbec6d1f559df8251dbbb62b851d8dd0ec331192bfd20"
     },
     "110301": {
         "text": "Drain for Rose",
@@ -1565,6 +1573,10 @@
         "text": "Short Distance Corners ○",
         "hash": "599a18ed1dbc05259216852225d9e21f105a181b71f097b7dbddc545f21e751b",
         "processed": "<sc=95>Short Distance Corners ○"
+    },
+    "200973": {
+        "text": "Lightning Slash",
+        "hash": "9ec0fdc61e7d03c6bff27bbc4d1c2886fb32d5d44a86bb18b491967e529eea92"
     },
     "200981": {
         "text": "Overwhelming Lead",
@@ -2850,6 +2862,22 @@
         "text": "Dust Off",
         "hash": "91a5ab9cd48513a290c34b9321841563a6ba31f33ff4c84fbf17563a662d8397"
     },
+    "202851": {
+        "text": "Clean Sweep",
+        "hash": "ba0d087c4e50b6e025111240e397ff4f75ba8cc06206d0a6060943e91701fc88"
+    },
+    "202852": {
+        "text": "Rapid Overtakes",
+        "hash": "c982b5ed25164eea224dbdd1e8dfe0dff72613501b6d50f238db177e2bb3d8e4"
+    },
+    "202861": {
+        "text": "Rocket Start",
+        "hash": "644fe307e5195a3d23f2f955c484e719c5cc2def4c9af7da00aab00f667c8d5b"
+    },
+    "202862": {
+        "text": "Swift Takeoff",
+        "hash": "09fd53e46e9d627e64f2aabd55065e7030d9019dd94b749e423ac07c50db140e"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -3528,6 +3556,10 @@
         "text": "Flowery ☆ Maneuver",
         "hash": "ed50b24fdd2e386380c4b65672f3987eaad155f916738e01ff0b957fc4a8d6b4"
     },
+    "910251": {
+        "text": "Purrfect Hospitality",
+        "hash": "8bed5564d97abf258138ee4e941c3235513c208239fdeb2cbc2abaf4d6a0e04b"
+    },
     "910261": {
         "text": "Operation Cacao",
         "hash": "73ec0708770e9ed62f323d8dcbe0c70c8541bffc61587c607d74a2ba3351ccb2"
@@ -3535,6 +3567,10 @@
     "910271": {
         "text": "Latte Art For You",
         "hash": "22b717feb04569470530aec545ea757b4de3aee88c09fb2fed90e0d57fb4e7c3"
+    },
+    "910291": {
+        "text": "Have Your Fill!",
+        "hash": "64e59b1d89732ed5e35cbec6d1f559df8251dbbb62b851d8dd0ec331192bfd20"
     },
     "910301": {
         "text": "Drain for Rose",
@@ -3874,6 +3910,10 @@
     "100502111": {
         "text": "Stunning Trick",
         "hash": "654cda8826a6d7575fb24c8f27810adfdaaf59075fa16b4d1dd2a07e01f56b19"
+    },
+    "100502121": {
+        "text": "Captivating Cornering",
+        "hash": "2a0e3845ef86ef21dd6e4ecff55a3ff2345dcec4fb624fa36f88ec89514e2099"
     },
     "100502211": {
         "text": "Glittering Top Star",
@@ -4250,6 +4290,14 @@
         "text": "Don't Leave Me",
         "hash": "5667667c59bbddea663a724863b24c7dec1956ca8d7b624baf18c65c90e9abc8"
     },
+    "102502111": {
+        "text": "Imminent Twilight",
+        "hash": "a4a7aed8fc2f3e3b5590f8f40feb8e5e3920a7e458d472f54655cf860e1e6da0"
+    },
+    "102502211": {
+        "text": "World of Marvels",
+        "hash": "8a8e91f73bc339bf3e1256b6d557c716ddc4de4d22fb1f2303313edcf764f89b"
+    },
     "102601111": {
         "text": "Overclocking",
         "hash": "217ea3bd6973e57756dd7f32bb7099cf458b5cb13e2b94ade833ae9b0e73ec4d"
@@ -4302,6 +4350,10 @@
         "text": "Seasoned Sledder's Swoop",
         "hash": "e2a5335c72ebccefbca598c8ad2201321c6788d4349b878f1a851fdfc5d5556a",
         "processed": "<sc=90>Seasoned Sledder's Swoop"
+    },
+    "102902111": {
+        "text": "One More Push!",
+        "hash": "0ada440990118bd899e3208798f1247e41682ffbf260027f0e3551bbf72abc68"
     },
     "103001111": {
         "text": "Determined Hero",
@@ -4444,6 +4496,10 @@
     "103802111": {
         "text": "#WannaGetCurren'd?",
         "hash": "50866961a5dbb362ea234e08ed50e94d81d2c73cf9cf9e51cdf3f974591ada4c"
+    },
+    "103802121": {
+        "text": "Enthralling Glitter",
+        "hash": "e2d31f30a7a7fd88ba0a79302d1578ddfc552a6fee9d0398ef6e9eba416081f4"
     },
     "103802211": {
         "text": "#Beauty Sprint",
@@ -4630,6 +4686,10 @@
     "105101111": {
         "text": "Flurry Dash",
         "hash": "ca3220989ba89d1ddd633146a5841a4427fec67d1573fc6221322740501a6329"
+    },
+    "105101121": {
+        "text": "A Petal's Bravery",
+        "hash": "6cd643829311133d576450c79ce549c26da1c231f2254bcde574d33a77e32d01"
     },
     "105101211": {
         "text": "Large-Petaled Resolution",
@@ -4996,6 +5056,10 @@
     "107801211": {
         "text": "Divine Crossing",
         "hash": "8bc86f3cc8bd77d32887c3c947949067fe8cab7c2b35594e6e1da199fe239aa9"
+    },
+    "107801221": {
+        "text": "Heavenly Wind",
+        "hash": "43ea7fd3d98a91d7a16bacbe600a7b0c223c047993b799c1013554b0d5dc0ecc"
     },
     "108301111": {
         "text": "Ironclad",
