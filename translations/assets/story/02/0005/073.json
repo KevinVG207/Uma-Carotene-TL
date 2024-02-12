@@ -1,0 +1,212 @@
+{
+    "type": "story",
+    "row_index": 212,
+    "file_name": "story/data/02/0005/storytimeline_020005073",
+    "hash": "O64WCINDOOGCVLSAJRD7KCC6QXLNZRUQ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 9073806225332240907,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "(Knock knock knock)",
+            "name": "",
+            "path_id": -4025978200015143622,
+            "block_id": 1,
+            "clip_length": 56,
+            "processed": "<story>(Knock knock knock)"
+        },
+        {
+            "text": "Trainer-san, pardon the intrusion.",
+            "name": "Silence Suzuka",
+            "path_id": -4010032548880555475,
+            "block_id": 2,
+            "clip_length": 87,
+            "processed": "<story>Trainer-san, pardon the intrusion."
+        },
+        {
+            "text": "Coming in at this time, is something wrong? \nYou're probably tired from the race, is it something urgent?",
+            "name": "<username>",
+            "path_id": 1130222547432467037,
+            "block_id": 3,
+            "clip_length": 91,
+            "processed": "<story>Coming in at this time, is something wrong? \n<story>You're probably tired from the race, is it something urgent?"
+        },
+        {
+            "text": "Coming in at this time, is something wrong? \nYou're probably tired from the race, is it something urgent?",
+            "name": "<username>",
+            "path_id": -8659891992275671957,
+            "block_id": 4,
+            "clip_length": 90,
+            "processed": "<story>Coming in at this time, is something wrong? \n<story>You're probably tired from the race, is it something urgent?"
+        },
+        {
+            "text": "I don't really know if it would be considered urgent, \nbut I just wanted to tell you as soon as possible.",
+            "name": "Silence Suzuka",
+            "path_id": -5274435879977451009,
+            "block_id": 5,
+            "clip_length": 183,
+            "processed": "<story>I don't really know if it would be considered urgent, \n<story>but I just wanted to tell you as soon as possible."
+        },
+        {
+            "text": "With today's victory, I realized something. \nAfter all this, I haven't really thanked Trainer-san properly.",
+            "name": "Silence Suzuka",
+            "path_id": 7872627274499775646,
+            "block_id": 6,
+            "clip_length": 260,
+            "processed": "<story>With today's victory, I realized something. \n<story>After all this, I haven't really thanked Trainer-san properly."
+        },
+        {
+            "text": "Thanked me…?",
+            "name": "<username>",
+            "path_id": -1964468627006682147,
+            "block_id": 7,
+            "clip_length": 51,
+            "processed": "<story>Thanked me…?"
+        },
+        {
+            "text": "Even though I wasn't on your team, \nTrainer-san kindly listened to my worries.",
+            "name": "Silence Suzuka",
+            "path_id": 7881707698326004623,
+            "block_id": 8,
+            "clip_length": 206,
+            "processed": "<story>Even though I wasn't on your team, \n<story>Trainer-san kindly listened to my worries."
+        },
+        {
+            "text": "And when I selfishly asked to transfer to your team, \nTrainer-san accepted.",
+            "name": "Silence Suzuka",
+            "path_id": -6056330842872179305,
+            "block_id": 9,
+            "clip_length": 204,
+            "processed": "<story>And when I selfishly asked to transfer to your team, \n<story>Trainer-san accepted."
+        },
+        {
+            "text": "If it's that… on the other hand, normally, it wouldn't be \nstrange to say I was being meddlesome with another team.",
+            "name": "<username>",
+            "path_id": -4186240104207766834,
+            "block_id": 10,
+            "clip_length": 101,
+            "processed": "<story>If it's that… on the other hand, normally, it wouldn't be \n<story>strange to say I was being meddlesome with another team."
+        },
+        {
+            "text": "Fufuu…",
+            "name": "Silence Suzuka",
+            "path_id": -2134352274161074477,
+            "block_id": 11,
+            "clip_length": 61,
+            "processed": "<story>Fufuu…"
+        },
+        {
+            "text": "Since joining <Sirius>, by just looking at the other members I can tell \nwhat kind of person Trainer-san is.",
+            "name": "Silence Suzuka",
+            "path_id": 7715529784390953414,
+            "block_id": 12,
+            "clip_length": 253,
+            "processed": "<story>Since joining <Sirius>, by just looking at the other members I can tell \n<story>what kind of person Trainer-san is."
+        },
+        {
+            "text": "You're someone who believes in and kindly supports us.",
+            "name": "Silence Suzuka",
+            "path_id": 2091914401951898746,
+            "block_id": 13,
+            "clip_length": 193,
+            "processed": "<story>You're someone who believes in and kindly supports us."
+        },
+        {
+            "text": "Thinking that, I wanted to properly thank you, but… \ndo you think you can wait just a little bit longer?",
+            "name": "Silence Suzuka",
+            "path_id": 2111406519006839757,
+            "block_id": 14,
+            "clip_length": 216,
+            "processed": "<story>Thinking that, I wanted to properly thank you, but… \n<story>do you think you can wait just a little bit longer?"
+        },
+        {
+            "text": "Don't talk about waiting, you don't really need to thank me…",
+            "name": "<username>",
+            "path_id": -8260185191391509553,
+            "block_id": 15,
+            "clip_length": 64,
+            "processed": "<story>Don't talk about waiting, you don't really need to thank me…"
+        },
+        {
+            "text": "No, I need to properly thank you.",
+            "name": "Silence Suzuka",
+            "path_id": 8445882460596035613,
+            "block_id": 16,
+            "clip_length": 118,
+            "processed": "<story>No, I need to properly thank you."
+        },
+        {
+            "text": "…from now on, let's see that \"scenery\" together, how's that?",
+            "name": "Silence Suzuka",
+            "path_id": -511339081266274228,
+            "block_id": 17,
+            "clip_length": 131,
+            "processed": "<story>…from now on, let's see that \"scenery\" together, how's that?"
+        },
+        {
+            "text": "Saying that, the expression on Silence Suzuka's face was just as \ngentle, and filled with joy, as when she was running.",
+            "name": "",
+            "path_id": -1282299371684827092,
+            "block_id": 18,
+            "clip_length": 105,
+            "processed": "<story>Saying that, the expression on Silence Suzuka's face was just as \n<story>gentle, and filled with joy, as when she was running."
+        },
+        {
+            "text": "…If it's that kind of gratitude, then that's another story. \nI'll definitely accept that kind of gratitude.",
+            "name": "<username>",
+            "path_id": -3277403236921770139,
+            "block_id": 19,
+            "clip_length": 93,
+            "choices": [
+                {
+                    "text": "Let's continue to look for that \"scenery\"!",
+                    "hash": "f7fdf6c5bc87770c8c669df41d081596b1661da4c31b591a9fb4fe40bbe845ec",
+                    "processed": "<size=40>Let's continue to look for that \"scenery\"!</size>"
+                },
+                {
+                    "text": "Let's continue to look for that \"scenery\"!",
+                    "hash": "c1fadc556271a77108d1924b359cec92c3363fa8e57066e015da867f83d991be",
+                    "processed": "<size=40>Let's continue to look for that \"scenery\"!</size>"
+                }
+            ],
+            "processed": "<story>…If it's that kind of gratitude, then that's another story. \n<story>I'll definitely accept that kind of gratitude."
+        },
+        {
+            "text": "Yes…!",
+            "name": "Silence Suzuka",
+            "path_id": 8014443585667679680,
+            "block_id": 20,
+            "clip_length": 29,
+            "processed": "<story>Yes…!"
+        },
+        {
+            "text": "Running as she desired, \nSilence Suzuka achieved her first victory as a member of <Sirius>.",
+            "name": "",
+            "path_id": 8963643059478752479,
+            "block_id": 21,
+            "clip_length": 85,
+            "processed": "<story>Running as she desired, \n<story>Silence Suzuka achieved her first victory as a member of <Sirius>."
+        },
+        {
+            "text": "With her in good condition and high spirits, \nwhat kind of \"scenery\" will she show me from now on?",
+            "name": "",
+            "path_id": 8280405016879044271,
+            "block_id": 22,
+            "clip_length": 95,
+            "processed": "<story>With her in good condition and high spirits, \n<story>what kind of \"scenery\" will she show me from now on?"
+        },
+        {
+            "text": "With the way she is now, I believe her dreams will continue to \noverflow with these joyful emotions.",
+            "name": "",
+            "path_id": 6306864115335524194,
+            "block_id": 23,
+            "clip_length": 108,
+            "processed": "<story>With the way she is now, I believe her dreams will continue to \n<story>overflow with these joyful emotions."
+        }
+    ],
+    "title": "第7話後半"
+}

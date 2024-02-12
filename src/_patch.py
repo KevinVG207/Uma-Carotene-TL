@@ -345,6 +345,9 @@ def _import_story(story_data):
 
     # print(f"Importing {os.path.basename(bundle_path)}")
 
+    if not bundle_path:
+        return
+
     asset_bundle = unity.load_asset(bundle_path)
 
     root = list(asset_bundle.container.values())[0].get_obj()
@@ -471,6 +474,35 @@ def import_stories(story_datas):
     # print(f"Replacing {len(story_datas)} stories.")
     # for story_data in story_datas:
     #     _import_story(story_data)
+        
+def _import_race_story(story_data):
+    bundle_path = handle_backup(story_data['hash'])
+
+    if not bundle_path:
+        return
+    
+    asset_bundle = unity.load_asset(bundle_path)
+    root = list(asset_bundle.container.values())[0].get_obj()
+
+    tree = root.read_typetree()
+
+    for i, block in enumerate(tree['textData']):
+        block['text'] = story_data['data'][i]
+
+    root.save_typetree(tree)
+
+    with open(bundle_path, "wb") as f:
+        f.write(asset_bundle.file.save(packer="original"))
+
+
+
+def import_race_stories(story_datas):
+    story_datas = [a[0] for a in story_datas]
+    # with Pool() as pool:
+    #     _ = list(util.tqdm(pool.imap_unordered(_import_race_story, story_datas, chunksize=8), total=len(story_datas), desc="Import. race stories"))
+
+    for story_data in util.tqdm(story_datas):
+        _import_race_story(story_data)
 
 def import_assets():
     clean_asset_backups()
@@ -480,6 +512,7 @@ def import_assets():
     import_flash(asset_dict.get('flash', []))
     import_textures(asset_dict.get('texture', []))
     import_stories(asset_dict.get('story', []))
+    import_race_stories(asset_dict.get('race', []))
 
 
 def _import_jpdict():
