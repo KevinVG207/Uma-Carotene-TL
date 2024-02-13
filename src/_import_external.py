@@ -275,7 +275,7 @@ def _import_external_story(local_path, story_data, use_order=False, skip_first=F
                 'source': block['jpText'],
             }
 
-            if block.get('title'):
+            if block.get('title') and block['title'] != cur_blocks[block['pathId']]['source_title']:
                 cur_blocks[block['pathId']]['title'] = block['title']
 
             if block.get('newClipLength'):
@@ -344,7 +344,13 @@ def _import_external_story(local_path, story_data, use_order=False, skip_first=F
                 print(f"Import: {import_block.get('source')}")
                 continue
 
+            if use_order:
+                tmp_path_id = block['path_id']
+
             block.update(import_block)
+
+            if use_order:
+                block['path_id'] = tmp_path_id
 
             # Fix choices
             if block.get('_choices'):
