@@ -1,0 +1,454 @@
+{
+    "type": "story",
+    "row_index": 213,
+    "file_name": "story/data/02/0005/storytimeline_020005081",
+    "hash": "TAYKQ6U7TUGBOKPGOQF45WGQA56NJDXL",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 4405668770790311234,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "After achieving her first victory as a member of \nteam <Sirius>, Silence Suzuka's breakthrough began-",
+            "name": "",
+            "path_id": -2138408725345940702,
+            "block_id": 1,
+            "clip_length": 99,
+            "processed": "<story>After achieving her first victory as a member of \n<story>team <Sirius>, Silence Suzuka's breakthrough began-"
+        },
+        {
+            "text": "She's escaping again today! Silence Suzuka won't \ngive up the lead! The others are increasing \ntheir speed but still can't keep up!",
+            "name": "Commentator",
+            "path_id": -3910161227820401170,
+            "block_id": 2,
+            "clip_length": 189,
+            "processed": "<story>She's escaping again today! Silence Suzuka won't \n<story>give up the lead! The others are increasing \n<story>their speed but still can't keep up!"
+        },
+        {
+            "text": "Escape and escape, then at the end pull farther \naway! \"Escape and Follow Through\" Silence Suzuka, \nwins her second consecutive Major!",
+            "name": "Commentator",
+            "path_id": 7581805888280386957,
+            "block_id": 3,
+            "clip_length": 261,
+            "processed": "<story>Escape and escape, then at the end pull farther \n<story>away! \"Escape and Follow Through\" Silence Suzuka, \n<story>wins her second consecutive Major!"
+        },
+        {
+            "text": "Haa… haa… fuu…",
+            "name": "Silence Suzuka",
+            "path_id": 1764223308117378166,
+            "block_id": 4,
+            "clip_length": 120,
+            "processed": "<story>Haa… haa… fuu…"
+        },
+        {
+            "text": "Haa… fuu… fuee…",
+            "name": "Special Week",
+            "path_id": 7441966235231358533,
+            "block_id": 5,
+            "clip_length": 109,
+            "processed": "<story>Haa… fuu… fuee…"
+        },
+        {
+            "text": "Hiii… S-seriously trying to keep up \nwith Suzuka's speed is roooough~!",
+            "name": "Winning Ticket",
+            "path_id": 2273587370800351880,
+            "block_id": 6,
+            "clip_length": 286,
+            "processed": "<story>Hiii… S-seriously trying to keep up \n<story>with Suzuka's speed is roooough~!"
+        },
+        {
+            "text": "Then again, if you go at your own pace, she'll \ngradually pull away, and at the end you won't \nbe able to catch up~ Mumumuuuu~…!",
+            "name": "Winning Ticket",
+            "path_id": -1615046599663667924,
+            "block_id": 7,
+            "clip_length": 289,
+            "processed": "<story>Then again, if you go at your own pace, she'll \n<story>gradually pull away, and at the end you won't \n<story>be able to catch up~ Mumumuuuu~…!"
+        },
+        {
+            "text": "Again!! Let's run it again!! \nLet's gooo Suzuka, and Spe-chan!!",
+            "name": "Winning Ticket",
+            "path_id": -6140716270204896905,
+            "block_id": 8,
+            "clip_length": 176,
+            "processed": "<story>Again!! Let's run it again!! \n<story>Let's gooo Suzuka, and Spe-chan!!"
+        },
+        {
+            "text": "Yeah, you got it.",
+            "name": "Silence Suzuka",
+            "path_id": -1314376349658722175,
+            "block_id": 9,
+            "clip_length": 115,
+            "processed": "<story>Yeah, you got it."
+        },
+        {
+            "text": "Ueeeee?! Can't we at least take a 5 minute break?!",
+            "name": "Special Week",
+            "path_id": -5765569816744712142,
+            "block_id": 10,
+            "clip_length": 148,
+            "processed": "<story>Ueeeee?! Can't we at least take a 5 minute break?!"
+        },
+        {
+            "text": "From the start she just runs and runs, and then pulls away at the \nend. Silence Suzuka's one crazy Uma Musume, isn't she…?!",
+            "name": "Reporter A",
+            "path_id": 7594683713435329410,
+            "block_id": 11,
+            "clip_length": 233,
+            "processed": "<story>From the start she just runs and runs, and then pulls away at the \n<story>end. Silence Suzuka's one crazy Uma Musume, isn't she…?!"
+        },
+        {
+            "text": "I'm looking forward to the next one! \nI keep wondering how the next race will turn out!",
+            "name": "Reporter B",
+            "path_id": -5201991877255632383,
+            "block_id": 12,
+            "clip_length": 158,
+            "processed": "<story>I'm looking forward to the next one! \n<story>I keep wondering how the next race will turn out!"
+        },
+        {
+            "text": "Lately, Suzuka's been gettin' an insane amount of attention, huh?",
+            "name": "Gold Ship",
+            "path_id": 3516843960076821706,
+            "block_id": 13,
+            "clip_length": 131,
+            "processed": "<story>Lately, Suzuka's been gettin' an insane amount of attention, huh?"
+        },
+        {
+            "text": "Winning Majors consecutively is impressive by itself, \nbut the way she does it is also awe-inspiring.",
+            "name": "Mejiro McQueen",
+            "path_id": 2120112292814393833,
+            "block_id": 14,
+            "clip_length": 169,
+            "choices": [
+                {
+                    "text": "Suzuka's \"Escape\"?",
+                    "hash": "2cdae9bf70d494ece81093a470c9c81301c55a966778590632f89c3432a25ffa"
+                }
+            ],
+            "processed": "<story>Winning Majors consecutively is impressive by itself, \n<story>but the way she does it is also awe-inspiring."
+        },
+        {
+            "text": "Yes… it's no ordinary \"Escape\" that Suzuka has.",
+            "name": "Mejiro McQueen",
+            "path_id": 1923462236110269954,
+            "block_id": 15,
+            "clip_length": 180,
+            "processed": "<story>Yes… it's no ordinary \"Escape\" that Suzuka has."
+        },
+        {
+            "text": "Just like there are various individual personalities, \nwe Uma Musume have several different individualities \nwhen it comes to our running style.",
+            "name": "Mejiro McQueen",
+            "path_id": 6976903630517642918,
+            "block_id": 16,
+            "clip_length": 258,
+            "processed": "<story>Just like there are various individual personalities, \n<story>we Uma Musume have several different individualities \n<story>when it comes to our running style."
+        },
+        {
+            "text": "For me, my strengths are my stamina, ability to adjust \non-the-fly, and being able to quickly get in to a good position. \nIt's a royal road pattern-",
+            "name": "Mejiro McQueen",
+            "path_id": 3835969059046625722,
+            "block_id": 17,
+            "clip_length": 251,
+            "processed": "<story>For me, my strengths are my stamina, ability to adjust \n<story>on-the-fly, and being able to quickly get in to a good position. \n<story>It's a royal road pattern-"
+        },
+        {
+            "text": "Brian-san can use her explosive leg power for a long time, so \nduring the middle, she'll hold back. When she reaches the last \nstraight, she'll aggressively push through everyone.",
+            "name": "Mejiro McQueen",
+            "path_id": -7017696608081419567,
+            "block_id": 18,
+            "clip_length": 356,
+            "processed": "<story>Brian-san can use her explosive leg power for a long time, so \n<story>during the middle, she'll hold back. When she reaches the last \n<story>straight, she'll aggressively push through everyone."
+        },
+        {
+            "text": "Rice-san will convert the stamina she's saved into a Long Spurt \nto shutout and eventually wear down her rivals.",
+            "name": "Mejiro McQueen",
+            "path_id": -1560628391529687645,
+            "block_id": 19,
+            "clip_length": 213,
+            "processed": "<story>Rice-san will convert the stamina she's saved into a Long Spurt \n<story>to shutout and eventually wear down her rivals."
+        },
+        {
+            "text": "We've each settled on a style that is adapted \nto our abilities, and we investigate it thoroughly \nto make it our best chance at winning.",
+            "name": "Mejiro McQueen",
+            "path_id": -9108182335429671500,
+            "block_id": 20,
+            "clip_length": 250,
+            "processed": "<story>We've each settled on a style that is adapted \n<story>to our abilities, and we investigate it thoroughly \n<story>to make it our best chance at winning."
+        },
+        {
+            "text": "That being the case, Suzuka-san's style would be one that many \nconsider the ideal. But everyone else that tried it, could only \nsay it was impossible-",
+            "name": "Mejiro McQueen",
+            "path_id": 1453402623753603507,
+            "block_id": 21,
+            "clip_length": 320,
+            "processed": "<story>That being the case, Suzuka-san's style would be one that many \n<story>consider the ideal. But everyone else that tried it, could only \n<story>say it was impossible-"
+        },
+        {
+            "text": "Using that incredible speed from the start to pull \naway, and continuing to the goal just like that, \nsounds like a dream-like running style.",
+            "name": "<username>",
+            "path_id": 5580965077640175168,
+            "block_id": 22,
+            "clip_length": 108,
+            "processed": "<story>Using that incredible speed from the start to pull \n<story>away, and continuing to the goal just like that, \n<story>sounds like a dream-like running style."
+        },
+        {
+            "text": "Using that incredible speed from the start to pull \naway, and continuing to the goal just like that, \nsounds like a dream-like running style.",
+            "name": "<username>",
+            "path_id": 7967191654038088052,
+            "block_id": 23,
+            "clip_length": 108,
+            "processed": "<story>Using that incredible speed from the start to pull \n<story>away, and continuing to the goal just like that, \n<story>sounds like a dream-like running style."
+        },
+        {
+            "text": "But, that dream-like style is actually \nbeing used by Suzuka, isn't it?",
+            "name": "Gold Ship",
+            "path_id": 7902439388062425009,
+            "block_id": 24,
+            "clip_length": 167,
+            "processed": "<story>But, that dream-like style is actually \n<story>being used by Suzuka, isn't it?"
+        },
+        {
+            "text": "I want to see more and more of it from now on. Suzuka's running \nstyle that you can't help but think is a dream…!",
+            "name": "Mejiro McQueen",
+            "path_id": 6977640854807837279,
+            "block_id": 25,
+            "clip_length": 281,
+            "processed": "<story>I want to see more and more of it from now on. Suzuka's running \n<story>style that you can't help but think is a dream…!"
+        },
+        {
+            "text": "Silence Suzuka's running style. Not only the fans, but even the \nUma Musume are taking notice of that dream-like style.",
+            "name": "",
+            "path_id": 8911261258264333973,
+            "block_id": 26,
+            "clip_length": 103,
+            "processed": "<story>Silence Suzuka's running style. Not only the fans, but even the \n<story>Uma Musume are taking notice of that dream-like style."
+        },
+        {
+            "text": "In the same way that she's pursuing that \"scenery\", \neveryone else wishes to see her one-of-a-kind running style.",
+            "name": "",
+            "path_id": -4635060482852038197,
+            "block_id": 27,
+            "clip_length": 114,
+            "processed": "<story>In the same way that she's pursuing that \"scenery\", \n<story>everyone else wishes to see her one-of-a-kind running style."
+        },
+        {
+            "text": "Trainer-san, pardon the intrusion.",
+            "name": "Silence Suzuka",
+            "path_id": 3283366949353583442,
+            "block_id": 28,
+            "clip_length": 82,
+            "processed": "<story>Trainer-san, pardon the intrusion."
+        },
+        {
+            "text": "What's up? Did you forget something?",
+            "name": "<username>",
+            "path_id": -2499041779172628924,
+            "block_id": 29,
+            "clip_length": 64,
+            "processed": "<story>What's up? Did you forget something?"
+        },
+        {
+            "text": "What's wrong? Did you forget something?",
+            "name": "<username>",
+            "path_id": -6146330723999220709,
+            "block_id": 30,
+            "clip_length": 63,
+            "processed": "<story>What's wrong? Did you forget something?"
+        },
+        {
+            "text": "No, I was just wondering if my next race has been decided yet. \nI thought it would be fine to ask you about it.",
+            "name": "Silence Suzuka",
+            "path_id": -5830750731119159642,
+            "block_id": 31,
+            "clip_length": 195,
+            "processed": "<story>No, I was just wondering if my next race has been decided yet. \n<story>I thought it would be fine to ask you about it."
+        },
+        {
+            "text": "I thought if I knew what my next race was, I could decide \non what my next training goal would be. Other than that… maybe \nthere'd be some merit to it? ",
+            "name": "Silence Suzuka",
+            "path_id": -1269688117004579424,
+            "block_id": 32,
+            "clip_length": 276,
+            "processed": "<story>I thought if I knew what my next race was, I could decide \n<story>on what my next training goal would be. Other than that… maybe \n<story>there'd be some merit to it? "
+        },
+        {
+            "text": "For Silence Suzuka herself to proactively \nconsult me about races is pretty rare.",
+            "name": "",
+            "path_id": 8682457600399604340,
+            "block_id": 33,
+            "clip_length": 90,
+            "processed": "<story>For Silence Suzuka herself to proactively \n<story>consult me about races is pretty rare."
+        },
+        {
+            "text": "This might be another sign of just how \ncontent she is with her running.",
+            "name": "",
+            "path_id": -4557329106143744720,
+            "block_id": 34,
+            "clip_length": 78,
+            "processed": "<story>This might be another sign of just how \n<story>content she is with her running."
+        },
+        {
+            "text": "Next, I'm thinking of having you enter the [Kinko Sho].",
+            "name": "<username>",
+            "path_id": -7490984942925569822,
+            "block_id": 35,
+            "clip_length": 72,
+            "processed": "<story>Next, I'm thinking of having you enter the [Kinko Sho]."
+        },
+        {
+            "text": "Next, I'm thinking of having you enter the [Kinko Sho].",
+            "name": "<username>",
+            "path_id": -4621064622589999355,
+            "block_id": 36,
+            "clip_length": 69,
+            "processed": "<story>Next, I'm thinking of having you enter the [Kinko Sho]."
+        },
+        {
+            "text": "[Kinko Sho]…is a 2000m race, right?",
+            "name": "Silence Suzuka",
+            "path_id": -3114337201936002531,
+            "block_id": 37,
+            "clip_length": 156,
+            "processed": "<story>[Kinko Sho]…is a 2000m race, right?"
+        },
+        {
+            "text": "Yeah, but for someone like Suzuka who runs at top speed from the \nstart, the extended distance might make you a bit uneasy.",
+            "name": "<username>",
+            "path_id": -7932216854108335344,
+            "block_id": 38,
+            "clip_length": 108,
+            "processed": "<story>Yeah, but for someone like Suzuka who runs at top speed from the \n<story>start, the extended distance might make you a bit uneasy."
+        },
+        {
+            "text": "Yeah, but for someone like Suzuka who runs at top speed from the \nstart, the extended distance might make you a bit uneasy.",
+            "name": "<username>",
+            "path_id": -4944819649204217438,
+            "block_id": 39,
+            "clip_length": 108,
+            "processed": "<story>Yeah, but for someone like Suzuka who runs at top speed from the \n<story>start, the extended distance might make you a bit uneasy."
+        },
+        {
+            "text": "But, with the way you are now, Suzuka, I don't think it's \nimpossible. I believe if it's you, you can definitely handle \nmiddle distance races.",
+            "name": "<username>",
+            "path_id": 3638954304997739327,
+            "block_id": 40,
+            "clip_length": 107,
+            "processed": "<story>But, with the way you are now, Suzuka, I don't think it's \n<story>impossible. I believe if it's you, you can definitely handle \n<story>middle distance races."
+        },
+        {
+            "text": "But, with the way you are now, Suzuka, I don't think it's \nimpossible. I believe if it's you, you can definitely handle \nmiddle distance races.",
+            "name": "<username>",
+            "path_id": 5364654690840146039,
+            "block_id": 41,
+            "clip_length": 106,
+            "processed": "<story>But, with the way you are now, Suzuka, I don't think it's \n<story>impossible. I believe if it's you, you can definitely handle \n<story>middle distance races."
+        },
+        {
+            "text": "If Trainer-san says it that way, \nthen there's no reason for me to feel uneasy.",
+            "name": "Silence Suzuka",
+            "path_id": -4026775275087170344,
+            "block_id": 42,
+            "clip_length": 172,
+            "processed": "<story>If Trainer-san says it that way, \n<story>then there's no reason for me to feel uneasy."
+        },
+        {
+            "text": "Besides, as a way to confirm whether my running style is \nsuitable, I think it's the perfect chance.",
+            "name": "Silence Suzuka",
+            "path_id": 4888651590293844556,
+            "block_id": 43,
+            "clip_length": 244,
+            "processed": "<story>Besides, as a way to confirm whether my running style is \n<story>suitable, I think it's the perfect chance."
+        },
+        {
+            "text": "Got it, your physical and mental condition are improving \nso lets keep on challenging new things!",
+            "name": "<username>",
+            "path_id": -6627659909304065923,
+            "block_id": 44,
+            "clip_length": 94,
+            "processed": "<story>Got it, your physical and mental condition are improving \n<story>so lets keep on challenging new things!"
+        },
+        {
+            "text": "If you get results here, the middle distance G1's [Takarazuka \nKinen] and [Fall Tenno Sho] won't be out of reach either!",
+            "name": "<username>",
+            "path_id": -4296037704164694862,
+            "block_id": 45,
+            "clip_length": 101,
+            "processed": "<story>If you get results here, the middle distance G1's [Takarazuka \n<story>Kinen] and [Fall Tenno Sho] won't be out of reach either!"
+        },
+        {
+            "text": "If you get results here, the middle distance G1's [Takarazuka \nKinen] and [Fall Tenno Sho] won't be out of reach either!",
+            "name": "<username>",
+            "path_id": 7350297958680336160,
+            "block_id": 46,
+            "clip_length": 99,
+            "processed": "<story>If you get results here, the middle distance G1's [Takarazuka \n<story>Kinen] and [Fall Tenno Sho] won't be out of reach either!"
+        },
+        {
+            "text": "G1…",
+            "name": "Silence Suzuka",
+            "path_id": -1625598870667661824,
+            "block_id": 47,
+            "clip_length": 55,
+            "processed": "<story>G1…"
+        },
+        {
+            "text": "But in return, from now on, the training \nwill be that much harder.",
+            "name": "<username>",
+            "path_id": 4434846090212538057,
+            "block_id": 48,
+            "clip_length": 78,
+            "processed": "<story>But in return, from now on, the training \n<story>will be that much harder."
+        },
+        {
+            "text": "Fufuu… that's fine.",
+            "name": "Silence Suzuka",
+            "path_id": -2998859260761682218,
+            "block_id": 49,
+            "clip_length": 98,
+            "processed": "<story>Fufuu… that's fine."
+        },
+        {
+            "text": "Trainer-san. I want to keep exploring the \npossibilities of this running style.",
+            "name": "Silence Suzuka",
+            "path_id": -3720924364334872269,
+            "block_id": 50,
+            "clip_length": 224,
+            "processed": "<story>Trainer-san. I want to keep exploring the \n<story>possibilities of this running style."
+        },
+        {
+            "text": "Ahead on this untrodden path, there must be lots \nof beautiful \"scenery\", don't you think?",
+            "name": "Silence Suzuka",
+            "path_id": -1424053815402747494,
+            "block_id": 51,
+            "clip_length": 222,
+            "processed": "<story>Ahead on this untrodden path, there must be lots \n<story>of beautiful \"scenery\", don't you think?"
+        },
+        {
+            "text": "You have my full support. Seeing you taking hold \nof your dreams, is where my dreams lie as well.",
+            "name": "<username>",
+            "path_id": 2346630357898632460,
+            "block_id": 52,
+            "clip_length": 91,
+            "processed": "<story>You have my full support. Seeing you taking hold \n<story>of your dreams, is where my dreams lie as well."
+        },
+        {
+            "text": "You have my full support. Seeing you taking hold \nof your dreams, is where my dreams lie as well.",
+            "name": "<username>",
+            "path_id": -4595240938815613429,
+            "block_id": 53,
+            "clip_length": 91,
+            "processed": "<story>You have my full support. Seeing you taking hold \n<story>of your dreams, is where my dreams lie as well."
+        },
+        {
+            "text": "I will do my very best. \nSo both of us… can see that \"scenery\".",
+            "name": "Silence Suzuka",
+            "path_id": -5795291823112103430,
+            "block_id": 54,
+            "clip_length": 212,
+            "processed": "<story>I will do my very best. \n<story>So both of us… can see that \"scenery\"."
+        }
+    ],
+    "title": "Unstoppable Dream"
+}

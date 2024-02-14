@@ -118,6 +118,7 @@ def load_asset_data(row_metadata):
     }
 
     if file_name.startswith("race/"):
+        tl_item['type'] = 'race'
         for text in tree['textData']:
             clip_item = {
                 "text": "",
@@ -913,7 +914,8 @@ def index_assembly():
 
 
 def main():
-    index_flash()
+    _patch.clean_asset_backups()
+    index_story()
     pass
 
 if __name__ == "__main__":

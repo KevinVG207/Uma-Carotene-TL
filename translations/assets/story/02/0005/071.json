@@ -1,0 +1,464 @@
+{
+    "type": "story",
+    "row_index": 211,
+    "file_name": "story/data/02/0005/storytimeline_020005071",
+    "hash": "PAYVZKX7FLV6YEMT3FYOPE43XV5CYUDB",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -1483904662695699233,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "There's a slope right before the goal, so we should be proactive \nand do some training to increase our leg strength…",
+            "name": "Silence Suzuka",
+            "path_id": -2907300766195245217,
+            "block_id": 1,
+            "clip_length": 242,
+            "processed": "<story>There's a slope right before the goal, so we should be proactive \n<story>and do some training to increase our leg strength…"
+        },
+        {
+            "text": "Hmm hmm… I see!",
+            "name": "Special Week",
+            "path_id": -3880738192303239449,
+            "block_id": 2,
+            "clip_length": 82,
+            "processed": "<story>Hmm hmm… I see!"
+        },
+        {
+            "text": "Oh? Sounds like appropriate advice, Suzuka.",
+            "name": "Air Groove",
+            "path_id": 7936183104961854127,
+            "block_id": 3,
+            "clip_length": 127,
+            "processed": "<story>Oh? Sounds like appropriate advice, Suzuka."
+        },
+        {
+            "text": "Air Groove. \nYeah, I learned a few things beforehand.",
+            "name": "Silence Suzuka",
+            "path_id": 7935610953698885205,
+            "block_id": 4,
+            "clip_length": 176,
+            "processed": "<story>Air Groove. \n<story>Yeah, I learned a few things beforehand."
+        },
+        {
+            "text": "But, this is all information that I was unfamiliar with and \ndeperately trying to learn, at least, before now. ",
+            "name": "Silence Suzuka",
+            "path_id": 1592428925683434238,
+            "block_id": 5,
+            "clip_length": 193,
+            "processed": "<story>But, this is all information that I was unfamiliar with and \n<story>deperately trying to learn, at least, before now. "
+        },
+        {
+            "text": "Everyone has times where things go well, and times \nwhen they don't. But, it's precisely because you've \nexperienced both, that you're here, Suzuka.",
+            "name": "Air Groove",
+            "path_id": -4770619019945722584,
+            "block_id": 6,
+            "clip_length": 294,
+            "processed": "<story>Everyone has times where things go well, and times \n<story>when they don't. But, it's precisely because you've \n<story>experienced both, that you're here, Suzuka."
+        },
+        {
+            "text": "That's true… from now on, I'm going to try to learn lots of \nthings, and step by step, continue moving forward.",
+            "name": "Silence Suzuka",
+            "path_id": 1782027946788327533,
+            "block_id": 7,
+            "clip_length": 209,
+            "processed": "<story>That's true… from now on, I'm going to try to learn lots of \n<story>things, and step by step, continue moving forward."
+        },
+        {
+            "text": "That way, someday, I'll pay back this \ndebt from the race the other day.",
+            "name": "Silence Suzuka",
+            "path_id": 886822233303540205,
+            "block_id": 8,
+            "clip_length": 161,
+            "processed": "<story>That way, someday, I'll pay back this \n<story>debt from the race the other day."
+        },
+        {
+            "text": "Fuu, I won't let you win that easily.",
+            "name": "Air Groove",
+            "path_id": -5477978485083510550,
+            "block_id": 9,
+            "clip_length": 136,
+            "processed": "<story>Fuu, I won't let you win that easily."
+        },
+        {
+            "text": "Uwaaah~ just like real rivals…! \nAfter my debut, do you think I'll meet someone like that…?",
+            "name": "Special Week",
+            "path_id": 2869854454273865358,
+            "block_id": 10,
+            "clip_length": 278,
+            "processed": "<story>Uwaaah~ just like real rivals…! \n<story>After my debut, do you think I'll meet someone like that…?"
+        },
+        {
+            "text": "Rivals are an existence necessary for continued growth… \nthat's why, we should keep working hard so we can meet them.",
+            "name": "Silence Suzuka",
+            "path_id": -1790175871051491218,
+            "block_id": 11,
+            "clip_length": 279,
+            "processed": "<story>Rivals are an existence necessary for continued growth… \n<story>that's why, we should keep working hard so we can meet them."
+        },
+        {
+            "text": "Yeah! But first I need to win my Debut race, don't I? \nSuzuka-san, please teach me more and more about running!",
+            "name": "Special Week",
+            "path_id": 7604190494097874480,
+            "block_id": 12,
+            "clip_length": 239,
+            "processed": "<story>Yeah! But first I need to win my Debut race, don't I? \n<story>Suzuka-san, please teach me more and more about running!"
+        },
+        {
+            "text": "In an instant she surges forward! Special Week takes the lead! \nSpecial Week is starting to pull away!",
+            "name": "Commentator",
+            "path_id": 5955210769395969252,
+            "block_id": 13,
+            "clip_length": 176,
+            "processed": "<story>In an instant she surges forward! Special Week takes the lead! \n<story>Special Week is starting to pull away!"
+        },
+        {
+            "text": "C'moooooon! Goooooo! Knock 'em dead!",
+            "name": "Gold Ship",
+            "path_id": 4503692647159677315,
+            "block_id": 14,
+            "clip_length": 118,
+            "processed": "<story>C'moooooon! Goooooo! Knock 'em dead!"
+        },
+        {
+            "text": "Special Week reaches the goal first! \nShe marks her Debut race with a victory!",
+            "name": "Commentator",
+            "path_id": 4289939786416015550,
+            "block_id": 15,
+            "clip_length": 177,
+            "processed": "<story>Special Week reaches the goal first! \n<story>She marks her Debut race with a victory!"
+        },
+        {
+            "text": "Hell yeah! You did it, Spe! \nWhen we get back to school, it's party time!",
+            "name": "Gold Ship",
+            "path_id": -4545084673912572484,
+            "block_id": 16,
+            "clip_length": 235,
+            "processed": "<story>Hell yeah! You did it, Spe! \n<story>When we get back to school, it's party time!"
+        },
+        {
+            "text": "Uwoooooooooh!! That was the ultimate Debut raaaaaaaaaaace!! \nSpe-chan, congwaduwaaaaaashons!!",
+            "name": "Winning Ticket",
+            "path_id": 6657897958370504436,
+            "block_id": 17,
+            "clip_length": 349,
+            "processed": "<story>Uwoooooooooh!! That was the ultimate Debut raaaaaaaaaaace!! \n<story>Spe-chan, congwaduwaaaaaashons!!"
+        },
+        {
+            "text": "And so begins the legend of Spe, the girl \nwho aims to be \"Japan's #1 Uma Musume\".",
+            "name": "<username>",
+            "path_id": 7798988959730859506,
+            "block_id": 18,
+            "clip_length": 78,
+            "processed": "<story>And so begins the legend of Spe, the girl \n<story>who aims to be \"Japan's #1 Uma Musume\"."
+        },
+        {
+            "text": "And so begins the legend of Spe, the girl \nwho aims to be \"Japan's #1 Uma Musume\".",
+            "name": "<username>",
+            "path_id": 1188403263922607871,
+            "block_id": 19,
+            "clip_length": 78,
+            "processed": "<story>And so begins the legend of Spe, the girl \n<story>who aims to be \"Japan's #1 Uma Musume\"."
+        },
+        {
+            "text": "Yeah, looks that way.",
+            "name": "Silence Suzuka",
+            "path_id": -4931062818261314199,
+            "block_id": 20,
+            "clip_length": 87,
+            "processed": "<story>Yeah, looks that way."
+        },
+        {
+            "text": "Ehehe…!",
+            "name": "Special Week",
+            "path_id": -4716396283017419697,
+            "block_id": 21,
+            "clip_length": 43,
+            "processed": "<story>Ehehe…!"
+        },
+        {
+            "text": "…Fufuu.",
+            "name": "Silence Suzuka",
+            "path_id": 8793148956994825012,
+            "block_id": 22,
+            "clip_length": 53,
+            "processed": "<story>…Fufuu."
+        },
+        {
+            "text": "Fuu~…for some reason, \nthe after party felt more exhausting than the actual Debut race.",
+            "name": "Special Week",
+            "path_id": -1103885765393122498,
+            "block_id": 23,
+            "clip_length": 218,
+            "processed": "<story>Fuu~…for some reason, \n<story>the after party felt more exhausting than the actual Debut race."
+        },
+        {
+            "text": "If she finds out we slipped out like this, \nI wonder what Gold Ship-san is going to make us do…",
+            "name": "Special Week",
+            "path_id": -2041022492151248711,
+            "block_id": 24,
+            "clip_length": 196,
+            "processed": "<story>If she finds out we slipped out like this, \n<story>I wonder what Gold Ship-san is going to make us do…"
+        },
+        {
+            "text": "I wonder if she'll throw another party when I win a race too.",
+            "name": "Silence Suzuka",
+            "path_id": -2635825818487964781,
+            "block_id": 25,
+            "clip_length": 133,
+            "processed": "<story>I wonder if she'll throw another party when I win a race too."
+        },
+        {
+            "text": "Of course! I'll prepare some buttered potatoes! Since Suzuka-san \nwas there to support me during my Debut race too!",
+            "name": "Special Week",
+            "path_id": 7988602680798212386,
+            "block_id": 26,
+            "clip_length": 258,
+            "processed": "<story>Of course! I'll prepare some buttered potatoes! Since Suzuka-san \n<story>was there to support me during my Debut race too!"
+        },
+        {
+            "text": "Supported you… I didn't do anything so grand though.",
+            "name": "Silence Suzuka",
+            "path_id": 7846262472760463771,
+            "block_id": 27,
+            "clip_length": 156,
+            "processed": "<story>Supported you… I didn't do anything so grand though."
+        },
+        {
+            "text": "That's not true! You taught me how to run properly, \nyou've helped me out in regards to school stuff, and and-",
+            "name": "Special Week",
+            "path_id": -6822665641454604600,
+            "block_id": 28,
+            "clip_length": 250,
+            "processed": "<story>That's not true! You taught me how to run properly, \n<story>you've helped me out in regards to school stuff, and and-"
+        },
+        {
+            "text": "Watching Suzuka-san joyfully running, \ngave me the courage to chase after my dreams!",
+            "name": "Special Week",
+            "path_id": 1082369336960715125,
+            "block_id": 29,
+            "clip_length": 215,
+            "processed": "<story>Watching Suzuka-san joyfully running, \n<story>gave me the courage to chase after my dreams!"
+        },
+        {
+            "text": "…it's the same for me. Seeing you so straight-forwardly chase \nyour dreams, made me feel like I want to do the same.",
+            "name": "Silence Suzuka",
+            "path_id": -4076380247739537431,
+            "block_id": 30,
+            "clip_length": 291,
+            "processed": "<story>…it's the same for me. Seeing you so straight-forwardly chase \n<story>your dreams, made me feel like I want to do the same."
+        },
+        {
+            "text": "…Spe-chan's genuine feelings, \nhelped me take that one big step forward.",
+            "name": "Silence Suzuka",
+            "path_id": -3789183210696547703,
+            "block_id": 31,
+            "clip_length": 202,
+            "processed": "<story>…Spe-chan's genuine feelings, \n<story>helped me take that one big step forward."
+        },
+        {
+            "text": "Ehehe… Suzuka-san! Just watch, I'll definitely become \n\"Japan's #1 Uma Musume\"!",
+            "name": "Special Week",
+            "path_id": 1170736328808782068,
+            "block_id": 32,
+            "clip_length": 219,
+            "processed": "<story>Ehehe… Suzuka-san! Just watch, I'll definitely become \n<story>\"Japan's #1 Uma Musume\"!"
+        },
+        {
+            "text": "And then, my mom in Hokkaido, Trainer-san, and Suzuka-san. \nI'll show you all how awesome I've become!",
+            "name": "Special Week",
+            "path_id": -7903970179423667979,
+            "block_id": 33,
+            "clip_length": 251,
+            "processed": "<story>And then, my mom in Hokkaido, Trainer-san, and Suzuka-san. \n<story>I'll show you all how awesome I've become!"
+        },
+        {
+            "text": "Yeah, me too- For the sake of my dream I'll continue to chase \nafter that \"scenery\" I want to see and keep on running.",
+            "name": "Silence Suzuka",
+            "path_id": -4880292674827428000,
+            "block_id": 34,
+            "clip_length": 281,
+            "processed": "<story>Yeah, me too- For the sake of my dream I'll continue to chase \n<story>after that \"scenery\" I want to see and keep on running."
+        },
+        {
+            "text": "Let's both promise to fulfill our dreams!",
+            "name": "Special Week",
+            "path_id": -5562576028280842493,
+            "block_id": 35,
+            "clip_length": 111,
+            "processed": "<story>Let's both promise to fulfill our dreams!"
+        },
+        {
+            "text": "Yeah, I promise…",
+            "name": "Silence Suzuka",
+            "path_id": 3976179903257034385,
+            "block_id": 36,
+            "clip_length": 99,
+            "processed": "<story>Yeah, I promise…"
+        },
+        {
+            "text": "…By the way, Suzuka-san. I get the feeling you changed the way \nyou called my name back there, didn't you?",
+            "name": "Special Week",
+            "path_id": 5618541709495862541,
+            "block_id": 37,
+            "clip_length": 244,
+            "processed": "<story>…By the way, Suzuka-san. I get the feeling you changed the way \n<story>you called my name back there, didn't you?"
+        },
+        {
+            "text": "Eh…? Um… did I really…?",
+            "name": "Silence Suzuka",
+            "path_id": -5575068397804706710,
+            "block_id": 38,
+            "clip_length": 170,
+            "processed": "<story>Eh…? Um… did I really…?"
+        },
+        {
+            "text": "You did! Don't play dumb! \nOnce more! Once more please!",
+            "name": "Special Week",
+            "path_id": 3044449420555109131,
+            "block_id": 39,
+            "clip_length": 189,
+            "processed": "<story>You did! Don't play dumb! \n<story>Once more! Once more please!"
+        },
+        {
+            "text": "Fufufuu, come on…",
+            "name": "Silence Suzuka",
+            "path_id": -2521009634752784341,
+            "block_id": 40,
+            "clip_length": 112,
+            "processed": "<story>Fufufuu, come on…"
+        },
+        {
+            "text": "Today's main race, Silence Suzuka is the favorite!",
+            "name": "Spectator A",
+            "path_id": -741687652805649522,
+            "block_id": 41,
+            "clip_length": 115,
+            "processed": "<story>Today's main race, Silence Suzuka is the favorite!"
+        },
+        {
+            "text": "That girl that runs as an escape? She's the favorite, but I'm \npretty sure her results haven't been that good… ",
+            "name": "Spectator B",
+            "path_id": 886575590532959754,
+            "block_id": 42,
+            "clip_length": 196,
+            "processed": "<story>That girl that runs as an escape? She's the favorite, but I'm \n<story>pretty sure her results haven't been that good… "
+        },
+        {
+            "text": "That may be true, but for some reason it gets your hopes up. \nI keep wanting to see more of that running style!",
+            "name": "Spectator A",
+            "path_id": 1786855105294926395,
+            "block_id": 43,
+            "clip_length": 188,
+            "processed": "<story>That may be true, but for some reason it gets your hopes up. \n<story>I keep wanting to see more of that running style!"
+        },
+        {
+            "text": "Fuu~…",
+            "name": "Silence Suzuka",
+            "path_id": -6415222468025747106,
+            "block_id": 44,
+            "clip_length": 62,
+            "processed": "<story>Fuu~…"
+        },
+        {
+            "text": "Looks like you're able to concentrate just fine.",
+            "name": "<username>",
+            "path_id": -3514476928012553474,
+            "block_id": 45,
+            "clip_length": 61,
+            "processed": "<story>Looks like you're able to concentrate just fine."
+        },
+        {
+            "text": "Because of Trainer-san, the other team members, \nand Spe-chan supporting me, I'm in perfect condition.",
+            "name": "Silence Suzuka",
+            "path_id": 525148956936782854,
+            "block_id": 46,
+            "clip_length": 239,
+            "processed": "<story>Because of Trainer-san, the other team members, \n<story>and Spe-chan supporting me, I'm in perfect condition."
+        },
+        {
+            "text": "Do your best, Suzuka-san! \nI'll be cheering you on from the front of the stands!",
+            "name": "Special Week",
+            "path_id": 751658731817429491,
+            "block_id": 47,
+            "clip_length": 152,
+            "processed": "<story>Do your best, Suzuka-san! \n<story>I'll be cheering you on from the front of the stands!"
+        },
+        {
+            "text": "Yeah, I'll show you I can answer to those cheers.",
+            "name": "Silence Suzuka",
+            "path_id": 6754478055162349111,
+            "block_id": 48,
+            "clip_length": 117,
+            "processed": "<story>Yeah, I'll show you I can answer to those cheers."
+        },
+        {
+            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might.",
+            "name": "<username>",
+            "path_id": 2737797840520875605,
+            "block_id": 49,
+            "clip_length": 90,
+            "choices": [
+                {
+                    "text": "Go and get a good look at that \"scenery\"!",
+                    "hash": "afac6fcf20df240e66884c4205c7701be108d2e849648b6e2efa07b91f06ae15",
+                    "processed": "<size=40>Go and get a good look at that \"scenery\"!</size>"
+                },
+                {
+                    "text": "Go and get a good look at that \"scenery\"!",
+                    "hash": "23e0b8c0fc6731033484d1a0a5c53a7d573102098c82a6fd8de695195902cd41",
+                    "processed": "<size=40>Go and get a good look at that \"scenery\"!</size>"
+                }
+            ],
+            "processed": "<story>You've certainly improved your condition through training, \n<story>all that's left is to go at it with all your might."
+        },
+        {
+            "text": "You've certainly improved your condition through training, \nall that's left is to go at it with all your might.",
+            "name": "<username>",
+            "path_id": -5025912798318598216,
+            "block_id": 50,
+            "clip_length": 90,
+            "choices": [
+                {
+                    "text": "Go and get a good look at that \"scenery\"!",
+                    "hash": "afac6fcf20df240e66884c4205c7701be108d2e849648b6e2efa07b91f06ae15",
+                    "processed": "<size=40>Go and get a good look at that \"scenery\"!</size>"
+                },
+                {
+                    "text": "Go and get a good look at that \"scenery\"!",
+                    "hash": "23e0b8c0fc6731033484d1a0a5c53a7d573102098c82a6fd8de695195902cd41",
+                    "processed": "<size=40>Go and get a good look at that \"scenery\"!</size>"
+                }
+            ],
+            "processed": "<story>You've certainly improved your condition through training, \n<story>all that's left is to go at it with all your might."
+        },
+        {
+            "text": "Understood! Trainer-san, I'll make \nsure you see that \"scenery\" too!",
+            "name": "Silence Suzuka",
+            "path_id": 7218967172208585266,
+            "block_id": 51,
+            "clip_length": 170,
+            "processed": "<story>Understood! Trainer-san, I'll make \n<story>sure you see that \"scenery\" too!"
+        },
+        {
+            "text": "Silence Suzuka settles in to her gate in the outermost frame.",
+            "name": "Commentator",
+            "path_id": 3452069202847060334,
+            "block_id": 52,
+            "clip_length": 116,
+            "processed": "<story>Silence Suzuka settles in to her gate in the outermost frame."
+        },
+        {
+            "text": "1800m to the goal, which Uma Musume will reach the \ngoal first? Prepartions complete - Start!!",
+            "name": "Commentator",
+            "path_id": 7696342853900679721,
+            "block_id": 53,
+            "clip_length": 243,
+            "processed": "<story>1800m to the goal, which Uma Musume will reach the \n<story>goal first? Prepartions complete - Start!!"
+        }
+    ],
+    "title": "Dream-like Scenery"
+}

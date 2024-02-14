@@ -199,8 +199,7 @@ def fetch_story_json(url):
 
     return r.json()
 
-
-def import_external_story(local_path, url_to_github_jsons):
+def import_external_story(local_path, url_to_github_jsons, use_order=False, skip_first=False):
     # Download all jsons from github
     print("Downloading jsons from github")
 
@@ -212,21 +211,71 @@ def import_external_story(local_path, url_to_github_jsons):
 
     with Pool(5) as pool:
         story_data = pool.map(fetch_story_json, urls)
+
+    if local_path.startswith("story/"):
+        _import_external_story(local_path, story_data, use_order, skip_first)
+    elif local_path.startswith("race/"):
+        _import_external_race_story(local_path, story_data)
+
+
+def _import_external_race_story(local_path, story_data):
+    print("Importing external race story")
+    imported_stories = {}
+    for data in story_data:
+        tl_dict = {}
+        for block in data['text']:
+            tl_dict[block['jpText']] = block['enText']
+        imported_stories[data['bundle']] = tl_dict
     
+    # Load local story data
+    print("Loading local story data")
+    local_files = glob.glob(os.path.join(util.ASSETS_FOLDER_EDITING, local_path) + "/*.json")
+
+    for local_file in local_files:
+        data = util.load_json(local_file)
+
+        file_name = os.path.basename(local_file)
+        
+        if not data['hash'] in imported_stories:
+            print(f"Skipping {file_name}, not found in github")
+            continue
+
+        print(f"Merging {file_name}")
+
+        for block in data['data']:
+            import_en = imported_stories[data['hash']].get(block['source'])
+
+            if not import_en:
+                print(f"Skipping {block['source']}, not found in github")
+                continue
+
+            block['text'] = import_en
+        
+        util.save_json(local_file, data)
+
+    print("Done")
+
+
+
+def _import_external_story(local_path, story_data, use_order=False, skip_first=False):
+    print("Importing external story")
     # imported_stories = {data['bundle']: data for data in story_data}
     imported_stories = {}
+    imported_stories_list = {}
     imported_titles = {}
     for data in story_data:
         cur_blocks = {}
+        cur_blocks_list = []
         for block in data['text']:
             cur_blocks[block['pathId']] = {
                 'path_id': block['pathId'],
                 'block_id': block['blockIdx'],
                 'text': block['enText'],
                 'name': block['enName'],
+                'source': block['jpText'],
             }
 
-            if block.get('title'):
+            if block.get('title') and block['title'] != cur_blocks[block['pathId']]['source_title']:
                 cur_blocks[block['pathId']]['title'] = block['title']
 
             if block.get('newClipLength'):
@@ -245,8 +294,11 @@ def import_external_story(local_path, url_to_github_jsons):
                     })
                 cur_blocks[block['pathId']]['_choices'] = cur_data
                 # cur_blocks[block['pathId']]['choices'] = choices
+
+            cur_blocks_list.append(cur_blocks[block['pathId']])
         
         imported_stories[data['bundle']] = cur_blocks
+        imported_stories_list[data['bundle']] = cur_blocks_list
         imported_titles[data['bundle']] = data['title']
 
     # print(imported_stories.keys())
@@ -269,14 +321,36 @@ def import_external_story(local_path, url_to_github_jsons):
         if data['hash'] in imported_titles:
             data['title'] = imported_titles[data['hash']]
         
-        for block in data['data']:
-            import_block = imported_stories[data['hash']].get(block['path_id'])
+        for i, block in enumerate(data['data']):
+            if skip_first and i == 0:
+                continue
+
+            if use_order:
+                if skip_first:
+                    real_i = i - 1
+                else:
+                    real_i = i
+                import_block = imported_stories_list[data['hash']][real_i]
+            else:
+                import_block = imported_stories[data['hash']].get(block['path_id'])
 
             if not import_block:
                 print(f"Skipping {block['path_id']}, not found in github")
                 continue
 
+            if import_block.get('source') != block['source']:
+                print(f"Skipping {block['path_id']}, source text mismatch")
+                print(f"Local: {block['source']}")
+                print(f"Import: {import_block.get('source')}")
+                continue
+
+            if use_order:
+                tmp_path_id = block['path_id']
+
             block.update(import_block)
+
+            if use_order:
+                block['path_id'] = tmp_path_id
 
             # Fix choices
             if block.get('_choices'):
@@ -547,19 +621,24 @@ def apply_gametora_title_missions():
 
 
 def main():
-    # import_external_story('story/04/1026', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/story/04/1026?ref=mdb-update')
     # import_external_story('story/04/1047', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
     # import_external_story('story/04/1089', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('race/02/0001', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/')
+    # import_external_story('story/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
+    import_external_story('story/02/0006', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/', use_order=True, skip_first=True)
+    # import_external_story('race/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
+    # import_external_story('race/02/0006', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
 
-    umapyoi_chara_ids = get_umapyoi_chara_ids()
-    apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    apply_umapyoi_outfits(umapyoi_chara_ids)
-    apply_umapyoi_vas()
-    apply_umapyoi_supports()
 
-    apply_gametora_skills()
-    apply_gametora_missions()
-    apply_gametora_title_missions()
+    # umapyoi_chara_ids = get_umapyoi_chara_ids()
+    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    # apply_umapyoi_outfits(umapyoi_chara_ids)
+    # apply_umapyoi_vas()
+    # apply_umapyoi_supports()
+
+    # apply_gametora_skills()
+    # apply_gametora_missions()
+    # apply_gametora_title_missions()
     pass
 
 if __name__ == "__main__":

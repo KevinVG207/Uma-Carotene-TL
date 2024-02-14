@@ -246,8 +246,40 @@ def mdb_from_intermediate():
     print("Done")
 
 
+def process_race_story(path, interm_data):
+    new_chapter_data = {
+        "type": interm_data['type'],
+        "row_index": interm_data['row_index'],
+        "file_name": interm_data['file_name'],
+        "hash": interm_data['hash'],
+        "data": []
+    }
+
+    count = 0
+    for block in interm_data['data']:
+        new_chapter_data['data'].append(block['text'])
+        if block['text']:
+            count += 1
+    
+    if count == 0:
+        # Skip empty files
+        return
+    
+    base_path = path[len(util.ASSETS_FOLDER_EDITING):]
+    write_path = os.path.join(util.ASSETS_FOLDER, base_path)
+
+    os.makedirs(os.path.dirname(write_path), exist_ok=True)
+
+    util.save_json(write_path, new_chapter_data)
+
+
 def process_asset(path):
     interm_data = util.load_json(path)
+
+    if interm_data['type'] == 'race':
+        process_race_story(path, interm_data)
+        return
+
     if not interm_data['type'] == "story":
         # Skip non-story files
         return
@@ -731,7 +763,7 @@ def get_mdb_structure():
     return structure
 
 def main():
-    convert_flash()
+    convert_stories()
     pass
 
 if __name__ == "__main__":
