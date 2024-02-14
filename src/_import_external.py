@@ -51,6 +51,9 @@ def import_category(category, data):
     json_data = util.load_json(json_path)
 
     for chara_id, value in data:
+        if not value:  # No translation
+            continue
+
         key = f"[{category}, {chara_id}]"
         for entry in json_data:
             if key in entry["keys"]:
@@ -619,26 +622,25 @@ def apply_gametora_title_missions():
     print("Done")
 
 
-
 def main():
     # import_external_story('story/04/1047', 'https://api.github.com/repos/KevinVG207/umamusu-translate/contents/translations/')
     # import_external_story('story/04/1089', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/')
     # import_external_story('race/02/0001', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/')
     # import_external_story('story/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
-    import_external_story('story/02/0006', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/', use_order=True, skip_first=True)
+    # import_external_story('story/02/0006', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/', use_order=True, skip_first=True)
     # import_external_story('race/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
     # import_external_story('race/02/0006', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
 
 
-    # umapyoi_chara_ids = get_umapyoi_chara_ids()
-    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    # apply_umapyoi_outfits(umapyoi_chara_ids)
-    # apply_umapyoi_vas()
-    # apply_umapyoi_supports()
+    umapyoi_chara_ids = get_umapyoi_chara_ids()
+    apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    apply_umapyoi_outfits(umapyoi_chara_ids)
+    apply_umapyoi_vas()
+    apply_umapyoi_supports()
 
-    # apply_gametora_skills()
-    # apply_gametora_missions()
-    # apply_gametora_title_missions()
+    apply_gametora_skills()
+    apply_gametora_missions()
+    apply_gametora_title_missions()
     pass
 
 if __name__ == "__main__":
