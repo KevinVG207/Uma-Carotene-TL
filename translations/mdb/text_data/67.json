@@ -9574,6 +9574,16 @@
         "hash": "3d65bde8f63941e8d22d11b5667bb89e5844c7f10f27421ab4b082340ffafb2f",
         "processed": "<rbr>Raise the affection rank of<br>Cheval Grand to rank 1."
     },
+    "340089": {
+        "text": "Raise the affection rank of Vivlos to rank 1.",
+        "hash": "b9e543705525e15af206ab32045c5e116ef565e80510a2d18d7e00538c5e0cc5",
+        "processed": "<rbr>Raise the affection rank of<br>Vivlos to rank 1."
+    },
+    "340090": {
+        "text": "Raise the affection rank of Biko Pegasus to rank 1.",
+        "hash": "1c8d8793332607581a3f9f3df2e57cf328d206efa6664b9ac9efb95fc76023a7",
+        "processed": "<rbr>Raise the affection rank of<br>Biko Pegasus to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -9769,6 +9779,16 @@
         "hash": "64a0e6469202df3555bd2739a32c87f804eeda5e97c168433ba1864e07accfaa",
         "processed": "<rbr>Raise the affection rank of<br>Tosen Jordan to rank 11."
     },
+    "341043": {
+        "text": "Raise the affection rank of Mejiro Dober to rank 11.",
+        "hash": "48390050dcb68c6606d49c7f555cfacd8817319f915d0786aa841d0df99c9f82",
+        "processed": "<rbr>Raise the affection rank of<br>Mejiro Dober to rank 11."
+    },
+    "341044": {
+        "text": "Raise the affection rank of Fine Motion to rank 11.",
+        "hash": "ab778cfde0bdbb395609e7cd4434982e4765f4c23895da4cbbaab6ed522c0f1b",
+        "processed": "<rbr>Raise the affection rank of<br>Fine Motion to rank 11."
+    },
     "341045": {
         "text": "Raise the affection rank of Tamamo Cross to rank 11.",
         "hash": "8b123b24953ab727842941bf3bb2420a7d7ad7ade820c425987190a8f7aab382",
@@ -9783,6 +9803,11 @@
         "text": "Raise the affection rank of Satono Diamond to rank 11.",
         "hash": "c11cb23ff7eb0a896ca0e8a7b70ad765b6e1ad387c682efcc231cd8542dc5d56",
         "processed": "<rbr>Raise the affection rank of<br>Satono Diamond to rank 11."
+    },
+    "341053": {
+        "text": "Raise the affection rank of Nishino Flower to rank 11.",
+        "hash": "7a7c52592223ee36ee140f276f51b70a8ce46783d28302fca0a57a516d9555ac",
+        "processed": "<rbr>Raise the affection rank of<br>Nishino Flower to rank 11."
     },
     "341056": {
         "text": "Raise the affection rank of Mejiro Palmer to rank 11.",
@@ -9994,6 +10019,16 @@
         "hash": "422b1faee195ed0dca5a2941cd7a242e7df15b5e1380c7e2e0dfd85ffa1723cf",
         "processed": "<rbr>Raise the affection rank of<br>Tosen Jordan to rank 12."
     },
+    "342043": {
+        "text": "Raise the affection rank of Mejiro Dober to rank 12.",
+        "hash": "060c1747b38e50cbe1b029d406ec872694c22a1ba20fcfe65175cf132b1ef637",
+        "processed": "<rbr>Raise the affection rank of<br>Mejiro Dober to rank 12."
+    },
+    "342044": {
+        "text": "Raise the affection rank of Fine Motion to rank 12.",
+        "hash": "40eab32a5f9a76881531427538365c6c9189eedbf62b8660f0724611afbb7260",
+        "processed": "<rbr>Raise the affection rank of<br>Fine Motion to rank 12."
+    },
     "342045": {
         "text": "Raise the affection rank of Tamamo Cross to rank 12.",
         "hash": "e49c0bda67e0b11fe852a2582ad872697fac1510b03ecb8d48638034ce810680",
@@ -10008,6 +10043,11 @@
         "text": "Raise the affection rank of Satono Diamond to rank 12.",
         "hash": "c873d9d825706cfae750402f2702c36041f6518d00b63e7008ee702c6f74263c",
         "processed": "<rbr>Raise the affection rank of<br>Satono Diamond to rank 12."
+    },
+    "342053": {
+        "text": "Raise the affection rank of Nishino Flower to rank 12.",
+        "hash": "ea8425d4556bda719be6886bde8cd77f1915c8bd88473273284438622429c23b",
+        "processed": "<rbr>Raise the affection rank of<br>Nishino Flower to rank 12."
     },
     "342056": {
         "text": "Raise the affection rank of Mejiro Palmer to rank 12.",
@@ -13153,6 +13193,31 @@
         "text": "Win all G1, G2, and G3 trophies with Vivlos.",
         "hash": "d48f485b93c08c941b635ce23cae6ed94d744315e01e39e605ff260bb5c37ec0",
         "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Vivlos."
+    },
+    "610501": {
+        "text": "Watch episode 4 of Biko Pegasus's story.",
+        "hash": "8b36780677083d05e1aaa5f6b0a458bccec46cffe0a8c01c64dbd407d66b073c",
+        "processed": "<rbr>Watch episode 4 of Biko<br>Pegasus's story."
+    },
+    "610502": {
+        "text": "Reach 10 million total fans for Biko Pegasus.",
+        "hash": "22172a2d9d99ea1ee5e6cae1a33499b6d6d4d28a0c11979875ff561521295b17",
+        "processed": "<rbr>Reach 10 million total fans<br>for Biko Pegasus."
+    },
+    "610503": {
+        "text": "Reach 50 million total fans for Biko Pegasus.",
+        "hash": "693f2aadac65e3aeebad60a8d678232722954265db7dfaeb8ddc4ca13ed48080",
+        "processed": "<rbr>Reach 50 million total fans<br>for Biko Pegasus."
+    },
+    "610504": {
+        "text": "Reach 100 million total fans for Biko Pegasus.",
+        "hash": "b404ea61e931d1da00c02970297f0d229794cda41de0bddb78370b253a366f37",
+        "processed": "<rbr>Reach 100 million total fans<br>for Biko Pegasus."
+    },
+    "610505": {
+        "text": "Win all G1, G2, and G3 trophies with Biko Pegasus.",
+        "hash": "e92cf330632b63c2e33ccca6db5969842fb0a2f2f056e2ea290203cdd107096a",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Biko Pegasus."
     },
     "900002": {
         "text": "Watch Sakura Bakushin O's worry counseling from the home menu once.",
@@ -18459,6 +18524,66 @@
         "hash": "2d299148e834d2aafb801a9a2fd090e0604d2694ab591cd4c59d83468a70796e",
         "processed": "<rbr>Clear all event missions."
     },
+    "1001912": {
+        "text": "Clear all event missions.",
+        "hash": "72a6b30d383ff09917d1f23c83a71b44b6d1e82f722c27b5b912919a5f71ac7b",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1001913": {
+        "text": "Complete a training run once.",
+        "hash": "00d4ada698f69b93d40a2461119c89c03846d12f9fbbf46f713f977edb159d17",
+        "processed": "<rbr>Complete a training run once."
+    },
+    "1001914": {
+        "text": "Complete a training run 3 times.",
+        "hash": "28a62254d7707b7afe3001b83a92b26495592fd929314b5fe447f7fa2623c61e",
+        "processed": "<rbr>Complete a training run 3<br>times."
+    },
+    "1001915": {
+        "text": "Complete a training run 5 times.",
+        "hash": "6cf06cbc770224ecaf38306b5f0b6f8384581748bef941c908801577426fed71",
+        "processed": "<rbr>Complete a training run 5<br>times."
+    },
+    "1001916": {
+        "text": "Participate in any Daily Race 6 times.",
+        "hash": "13390c6f677a73fc7cd8886245ea56f306e506490719fe55911d5270873fd32b",
+        "processed": "<rbr>Participate in any Daily Race<br>6 times."
+    },
+    "1001917": {
+        "text": "Participate in any Daily Race 18 times.",
+        "hash": "f4c2a8d276b321737e58ff2f80696dfcade6a6ff19a5d680c72a72bb584a0a35",
+        "processed": "<rbr>Participate in any Daily Race<br>18 times."
+    },
+    "1001918": {
+        "text": "Participate in any Daily Race 30 times.",
+        "hash": "6dae0194cab3ef2977fe945acb71424c597d92be00af30e1cee4af2d51f58c94",
+        "processed": "<rbr>Participate in any Daily Race<br>30 times."
+    },
+    "1001919": {
+        "text": "Reach a cumulative score of 1000000 during Team Stadium matches.",
+        "hash": "b9bf427b0d2ff6f30e1b659a7a4a89fab8ca18d08b3b2aebcfb24a5fc0d4f3c1",
+        "processed": "<rbr><sc=78>Reach a cumulative score of 1000000<br>during Team Stadium matches."
+    },
+    "1001920": {
+        "text": "Reach a cumulative score of 2000000 during Team Stadium matches.",
+        "hash": "d9ca1cf09b56f7a9078ebd4c1fb0ce7068a479d1900215d2a8cf08dad404403d",
+        "processed": "<rbr><sc=78>Reach a cumulative score of 2000000<br>during Team Stadium matches."
+    },
+    "1001921": {
+        "text": "Reach a cumulative score of 4000000 during Team Stadium matches.",
+        "hash": "387912f8a71aa2fcc9895edfbe1bae9406d3194ebcadb12dc7b3be0586721021",
+        "processed": "<rbr><sc=78>Reach a cumulative score of 4000000<br>during Team Stadium matches."
+    },
+    "1001922": {
+        "text": "Reach a cumulative score of 7000000 during Team Stadium matches.",
+        "hash": "8981ba806396c8906e897d1f2b7d4d24758d38607fc3e1176eed0143ac9b766f",
+        "processed": "<rbr><sc=78>Reach a cumulative score of 7000000<br>during Team Stadium matches."
+    },
+    "1001923": {
+        "text": "Reach a cumulative score of 10000000 during Team Stadium matches.",
+        "hash": "2f0585595d3a34fb98b3f8ee6d621c5ddd190abe50ed56f5f915c4ea5b17e7d6",
+        "processed": "<rbr><sc=76>Reach a cumulative score of 10000000<br>during Team Stadium matches."
+    },
     "2000001": {
         "text": "Watch all episodes of main story act 1, chapter 1.",
         "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
@@ -18988,6 +19113,26 @@
         "text": "Do 10 training runs ('Happy New Future: Bonds Dyed in the Sunrise' story event).",
         "hash": "c9c800486ab44f944c0383bbb30c33c2a122a3fed125c1c44ce00083da8d516c",
         "processed": "<rbr><sc=72>Do 10 training runs ('Happy New Future:<br>Bonds Dyed in the Sunrise' story event)."
+    },
+    "2600093": {
+        "text": "Do 2 training runs ('Sweet Memories ♥ Tea Time' story event).",
+        "hash": "649e5961c6d996e1f91a4d2309e502d58ec823d64112f878757d450fbe2e3814",
+        "processed": "<rbr><sc=91>Do 2 training runs ('Sweet Mem-<br>ories ♥ Tea Time' story event)."
+    },
+    "2600094": {
+        "text": "Do 4 training runs ('Sweet Memories ♥ Tea Time' story event).",
+        "hash": "e049894e84686d5b314cc329deae90b48639a30d3a895da0484097e85a1d685f",
+        "processed": "<rbr><sc=91>Do 4 training runs ('Sweet Mem-<br>ories ♥ Tea Time' story event)."
+    },
+    "2600095": {
+        "text": "Do 7 training runs ('Sweet Memories ♥ Tea Time' story event).",
+        "hash": "a05ab701ac3a84ef1b27d7cdb314b990faaedd395071b08ac5f3a94959dfe992",
+        "processed": "<rbr><sc=91>Do 7 training runs ('Sweet Mem-<br>ories ♥ Tea Time' story event)."
+    },
+    "2600096": {
+        "text": "Do 10 training runs ('Sweet Memories ♥ Tea Time' story event).",
+        "hash": "a51577cb61041dbe26aa72ba061cd9463a8307cd0b720a99cad27fe3cd9f3ce9",
+        "processed": "<rbr><sc=87>Do 10 training runs ('Sweet Mem-<br>ories ♥ Tea Time' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",

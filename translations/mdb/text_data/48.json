@@ -64,6 +64,11 @@
         "hash": "850de01694c2b2eea49a2bc5c2a6321a89134a78fa92add23088b61057433be2",
         "processed": "<rbr>Being at the back during the last<br>corner, lightly restores your<br>stamina when you see another<br>girl."
     },
+    "10541": {
+        "text": "If you overtook someone in the back of the pack during the second half of the race, then when there's less than 150 m remaining and you're near the front of the pack, your speed will increase.",
+        "hash": "c5e941248467bf0e84888e13808cc57d49f78a1824575e382de362ad8335a1dd",
+        "processed": "<rbr><sc=80>If you overtook someone in the back of the<br>pack during the second half of the race,<br>then when there's less than 150 m remain-<br>ing and you're near the front of the pack,<br>your speed will increase."
+    },
     "10561": {
         "text": "If during the Final Leg of the race your way to the front of the field is blocked, your power of divination will make it lightly easier to spot an opening.",
         "hash": "bce481010d9071a2e62e7c9c61dd66ea5215d7cd94a778d9b65a4009b061bc89",
@@ -353,6 +358,11 @@
         "text": "During or after the Final Corner, if you're in the second half of the pack, your acceleration will increase; bonus duration and effect strength for overtaking up to 3 times.",
         "hash": "3c022f899b6ead17466583a2b132b351abaf3f61eacffd9281de413551681850",
         "processed": "<rbr><sc=80>During or after the Final Corner, if you're in<br>the second half of the pack, your accelera-<br>tion will increase; bonus duration and<br>effect strength for overtaking up to 3<br>times."
+    },
+    "100541": {
+        "text": "If you overtook someone in the back of the pack during the second half of the race, then when there's less than 150 m remaining and you're near the front of the pack, your speed will greatly increase.",
+        "hash": "122cc54cc96e5f3882eedbe5af455eda6cb51b9702900f54a0f2f5a51ebd7363",
+        "processed": "<rbr><sc=80>If you overtook someone in the back of the<br>pack during the second half of the race,<br>then when there's less than 150 m remain-<br>ing and you're near the front of the pack,<br>your speed will greatly increase."
     },
     "100551": {
         "text": "If you're in the middle of the pack around halfway through the race and there's another girl nearby, your speed will increase; bonus speed if there are at least 4 other girls in your FoV.",
@@ -1670,14 +1680,14 @@
         "processed": "<rbr><sc=93>Short・If you're in the second half of<br>the pack during the Middle Leg, your<br>stamina will slightly recover and your<br>acceleration will slightly increase."
     },
     "200671": {
-        "text": "Short・Spurts become easier when in the back of the pack during the Final Leg.",
+        "text": "Short・If you're in the second half of the pack at a random point during the Final Leg, your speed will increase and your acceleration will slightly increase.",
         "hash": "1efa4f64dcc812906bdc53e177b985b0dd554e4940828fb6e5dbb1891f97a743",
-        "processed": "<rbr>Short・Spurts become easier when<br>in the back of the pack during the<br>Final Leg."
+        "processed": "<rbr><sc=89>Short・If you're in the second half of<br>the pack at a random point during the<br>Final Leg, your speed will increase and<br>your acceleration will slightly increase."
     },
     "200672": {
-        "text": "Short・Spurts become slightly easier when in the back of the pack during the Final Leg.",
+        "text": "Short・If you're in the second half of the pack at a random point during the Final Leg, your speed will slightly increase and your acceleration will marginally increase.",
         "hash": "f31d0d9b5bf3d67c1dc5a7722435511e3fb4f557999debbb74e9374269b02e5d",
-        "processed": "<rbr>Short・Spurts become slightly<br>easier when in the back of the<br>pack during the Final Leg."
+        "processed": "<rbr><sc=83>Short・If you're in the second half of the<br>pack at a random point during the Final<br>Leg, your speed will slightly increase and<br>your acceleration will marginally increase."
     },
     "200681": {
         "text": "Mile・If you're in the first half of the pack during the second half of the Opening Leg, your speed will increase.",
@@ -5723,6 +5733,16 @@
         "text": "Short・At a random point during the Final Leg, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase.",
         "hash": "88dc74b97868a911940b33a14f6d9c6a64537cb2f4cf8066b157a43ec0be02b7",
         "processed": "<rbr><sc=83>Short・At a random point during the Final<br>Leg, your acceleration will increase; then,<br>when there's 200 m remaining in the<br>race, your speed will slightly increase."
+    },
+    "105401111": {
+        "text": "Betweener・At a random point during the Middle Leg, if you're not in the front, your speed will greatly increase.",
+        "hash": "c8e7a01d119d6590c5f7a4e94fd90499e8c12707fda96295dc960a8aacd23565",
+        "processed": "<rbr>Betweener・At a random point<br>during the Middle Leg, if you're<br>not in the front, your speed will<br>greatly increase."
+    },
+    "105401211": {
+        "text": "Short・If you're in the second half of the pack at a random point during the Final Leg, your speed will increase and your acceleration will slightly increase.",
+        "hash": "b81dfd04e42b8d86536f83691713e6e3244374c42e4ee511dc64f9fd13070d20",
+        "processed": "<rbr><sc=89>Short・If you're in the second half of<br>the pack at a random point during the<br>Final Leg, your speed will increase and<br>your acceleration will slightly increase."
     },
     "105501111": {
         "text": "Medium・If you're in the second half of the pack at a random point during the Middle Leg, your speed will greatly increase.",
