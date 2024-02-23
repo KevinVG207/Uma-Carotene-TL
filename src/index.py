@@ -784,10 +784,9 @@ def index_jpdict():
     # Load existing translations
     tl_file = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
     if not os.path.exists(tl_file):
-        print("Existing JPDict.json not found. Skipping")
-        return
-    
-    tl_data = util.load_json(tl_file)
+        tl_data = {}
+    else:
+        tl_data = util.load_json(tl_file)
 
     string_dump_file = os.path.join(util.get_game_folder(), "assembly_dump.json")
 
@@ -811,6 +810,9 @@ def index_jpdict():
 
         new_dict[text_id] = tl_item
     
+    newly_added = {}
+    changed = {}
+
     for key in new_dict:
         if key in tl_data:
             new_data = new_dict[key]
@@ -819,7 +821,25 @@ def index_jpdict():
             if new_data['hash'] == old_data['hash']:
                 new_data['text'] = old_data['text']
                 new_dict[key] = new_data
-
+            else:
+                changed[key] = {
+                    "old": old_data['source'],
+                    "new": new_data['source'],
+                    "old_text": old_data['text'],
+                }
+            
+        else:
+            newly_added[key] = new_dict[key]['source']
+    
+    if newly_added:
+        os.makedirs("dump", exist_ok=True)
+        cur_time_str = round(time.time())
+        with open(f"dump/new_JPDict.{cur_time_str}.json", "w", encoding="utf-8") as f:
+            f.write(util.json.dumps(newly_added, indent=4, ensure_ascii=False, sort_keys=True)
+        )
+        with open(f"dump/changed_JPDict.{cur_time_str}.json", "w", encoding="utf-8") as f:
+            f.write(util.json.dumps(changed, indent=4, ensure_ascii=False, sort_keys=True)
+        )
     # org_data_keys = list(tl_data.keys())
     # new_data_keys = list(new_dict.keys())
     # ignore_list = set()
@@ -914,8 +934,9 @@ def index_assembly():
 
 
 def main():
-    _patch.clean_asset_backups()
-    index_story()
+    # _patch.clean_asset_backups()
+    # index_story()
+    index_assembly()
     pass
 
 if __name__ == "__main__":
