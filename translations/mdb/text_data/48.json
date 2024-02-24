@@ -231,7 +231,7 @@
     },
     "100281": {
         "text": "If you get a little tired while being in a good position in the middle of the race, your speed and acceleration increase.",
-        "hash": "594cb1a29126ba8c3f8d2e895721615b8a0a62203c3e69cb793c7a1fe464031f",
+        "hash": "38e881e44a4d22e66b50288f85183ddf312801b0c0c6fdcf0e5b31775630d3f4",
         "processed": "<rbr>If you get a little tired while being<br>in a good position in the middle of<br>the race, your speed and<br>acceleration increase."
     },
     "100291": {
@@ -291,7 +291,7 @@
     },
     "100401": {
         "text": "In the second half of the race, increase acceleration if you start overtaking from the middle of the pack.",
-        "hash": "ec67e45dc1c24afa10aa2d2ff6fe2e574578080dbc7bbebf17c19923fc1a9d07",
+        "hash": "f60f438eb133059e837657c72118edbb5829c06e989acd3afab8d96a1ac59234",
         "processed": "<rbr>In the second half of the race,<br>increase acceleration if you start<br>overtaking from the middle of the<br>pack."
     },
     "100411": {
@@ -551,7 +551,7 @@
     },
     "110011": {
         "text": "Restore stamina if you activate two skills in the Middle Leg.",
-        "hash": "cbfce5eb303c375164be2aaf7557016698447425242cd6224e4ca6ea83e0d2b4",
+        "hash": "623e6e5cdb2d171505a4d928dec4eba125dac00d82c37bba734d336066756a1f",
         "processed": "<rbr>Restore stamina if you activate<br>two skills in the Middle Leg."
     },
     "110021": {
@@ -741,7 +741,7 @@
     },
     "110411": {
         "text": "If you're in the front with 400 m remaining in the race, your acceleration will increase.",
-        "hash": "dee96badb4bc5c8be941ff76e51e80877b7cb35b53305537b5bffd81e4d76b21",
+        "hash": "83ee3ce467dfc5b4a6c5dc9eec164901ae191e0034d0ac04c6dd970cf819b66f",
         "processed": "<rbr>If you're in the front with 400 m<br>remaining in the race, your<br>acceleration will increase."
     },
     "110451": {
@@ -3081,12 +3081,12 @@
     },
     "202381": {
         "text": "Chaser・If you're in the back of the pack during the Middle Leg, your speed and lane movement speed will increase.",
-        "hash": "d8216b0f64563d268ead20b81e79cbd40b3653251dcfd1af9c259fd49b25cb0a",
+        "hash": "a3c558ebe2a49b33c3f9364be8efba0c0e7b3a696a19a943f12015ed815ba914",
         "processed": "<rbr>Chaser・If you're in the back of<br>the pack during the Middle Leg,<br>your speed and lane movement<br>speed will increase."
     },
     "202382": {
         "text": "Chaser・If you're in the back of the pack during the Middle Leg, your speed and lane movement speed will slightly increase.",
-        "hash": "6bbd868e1afb7f39bcbf310faa3a7f544a70f7e6d3ed6b11e99d1fbc68849297",
+        "hash": "c2fbc3f1ee417ecf27cfeebfe4184184ad3f68dc05d89be992e2a8d94d64812c",
         "processed": "<rbr>Chaser・If you're in the back of<br>the pack during the Middle Leg,<br>your speed and lane movement<br>speed will slightly increase."
     },
     "202391": {
@@ -3674,6 +3674,11 @@
         "hash": "1198a4390b11e8d21ba8a94f6d4baa6999d773f928f68d17f446891581af447e",
         "processed": "<rbr>During the Final Straight, your<br>speed will slightly increase."
     },
+    "210302": {
+        "text": "Mile/Medium・At a random point during the Middle Leg, your speed will slightly increase.",
+        "hash": "aaa981d17279c505765fdf549ff86373093902da0c6bfb6807292746624f440b",
+        "processed": "<rbr>Mile/Medium・At a random point<br>during the Middle Leg, your speed<br>will slightly increase."
+    },
     "300011": {
         "text": "The thirst for racing increases your Stamina stat by 40.",
         "hash": "551075e4280c633d137efe7a1c84766b8bed129e0efe96c23bc6c761bcea8d8a",
@@ -3881,7 +3886,7 @@
     },
     "900281": {
         "text": "If you get a little tired while being in a good position in the middle of the race, your speed and acceleration slightly increase.",
-        "hash": "7953701beeff4e7e065e94d69a8b30b8ef88273972ec38bc850ea7262339d5c2",
+        "hash": "ba1eebf314269c16a9d1c1671721f4f761fb4e6bc286a21ef88b84e1966c136a",
         "processed": "<rbr>If you get a little tired while being<br>in a good position in the middle of<br>the race, your speed and<br>acceleration slightly increase."
     },
     "900291": {
@@ -3941,7 +3946,7 @@
     },
     "900401": {
         "text": "In the second half of the race, slightly increase acceleration if you start overtaking from the middle of the pack.",
-        "hash": "dc201dbf544a26e9403f37928944bbdc35fe7ddf26b0e97f3c274234422678d5",
+        "hash": "662b55a3aef5ce91212828ffbe15ae5b6fbaeaaba34f17602a6c24a9f80ad48c",
         "processed": "<rbr>In the second half of the race,<br>slightly increase acceleration if<br>you start overtaking from the<br>middle of the pack."
     },
     "900411": {
@@ -4196,7 +4201,7 @@
     },
     "910011": {
         "text": "Slightly restore stamina if you activate two skills in the Middle Leg.",
-        "hash": "06d9336d548e5277ab76861b5982510820e52737d8c44c28e5b187254cf0d278",
+        "hash": "339501ab55cb23cea2e509d95680894dabaefafdeac2292e07e0c5348aa5beda",
         "processed": "<rbr>Slightly restore stamina if you<br>activate two skills in the Middle<br>Leg."
     },
     "910021": {
@@ -4386,7 +4391,7 @@
     },
     "910411": {
         "text": "If you're in the front with 400 m remaining in the race, your acceleration will slightly increase.",
-        "hash": "7eaeb573d008e24f1d8c4be32bc6bc2388d159272e671319fa766f2ffb304da2",
+        "hash": "6c3d9a31cad37ad125457a8055961e41aeb11f8871d11dc04aaeaf51438cf45f",
         "processed": "<rbr>If you're in the front with 400 m<br>remaining in the race, your<br>acceleration will slightly increase."
     },
     "910451": {
@@ -5126,7 +5131,7 @@
     },
     "102201111": {
         "text": "Leader・At a random point on the Final Corner, if you're in the first half of the pack, your speed will increase and your stamina will slightly recover.",
-        "hash": "8c6b3eb1bd203146a68fce5c96a94cbe515e019d5a8738d6bb1d40af78209ea1",
+        "hash": "2f8032ec38ceaa9f1f59889af13f323ae757ed751ac0f46c9ad7f9766fab6fe7",
         "processed": "<rbr><sc=92>Leader・At a random point on the<br>Final Corner, if you're in the first half<br>of the pack, your speed will increase<br>and your stamina will slightly recover."
     },
     "102201211": {
@@ -5251,7 +5256,7 @@
     },
     "102801211": {
         "text": "Leader・During the Middle Leg, your speed will slightly increase and your stamina will recover.",
-        "hash": "10b3e86d62d8685ca1b59bd46b5ac9e4166a6f71e9d214b95ca5dabdd8e68ff8",
+        "hash": "971395bfca38ddc1b0f076c0a402624e69b530255549e3ef147bcec309134620",
         "processed": "<rbr>Leader・During the Middle Leg,<br>your speed will slightly increase<br>and your stamina will recover."
     },
     "102901111": {
@@ -5661,7 +5666,7 @@
     },
     "105002111": {
         "text": "Chaser・At a random point during the Middle Leg, if you're in the back of the pack, your speed and lane movement speed will increase.",
-        "hash": "f3ad9ac02c018b665fe941e8e101b8fd915448b5a91836ca1d8ba2b83669467d",
+        "hash": "242cba0e14a3f3b686baaf8175e2a4607b6ae9e6557d6ab8dffdf39511a3123d",
         "processed": "<rbr><sc=98>Chaser・At a random point during<br>the Middle Leg, if you're in the<br>back of the pack, your speed and<br>lane movement speed will increase."
     },
     "105002211": {
