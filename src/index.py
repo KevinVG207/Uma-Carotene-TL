@@ -936,7 +936,7 @@ def index_assembly():
 def main():
     # _patch.clean_asset_backups()
     # index_story()
-    index_assembly()
+    index_textures()
     pass
 
 if __name__ == "__main__":
