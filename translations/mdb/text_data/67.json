@@ -4180,9 +4180,9 @@
         "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
     },
     "320006": {
-        "text": "Raise the Awakening level of any character 25 times.",
+        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
         "hash": "0a717ac112363ec9f5fce25616e3f36ba1d07999f197e69f8edc63c845795736",
-        "processed": "<rbr>Raise the Awakening level of<br>any character 25 times."
+        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
     },
     "320007": {
         "text": "Raise the Awakening level of any character 30 times.",
@@ -13219,6 +13219,56 @@
         "hash": "e92cf330632b63c2e33ccca6db5969842fb0a2f2f056e2ea290203cdd107096a",
         "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Biko Pegasus."
     },
+    "610601": {
+        "text": "Watch episode 4 of Duramente's story.",
+        "hash": "1fa8d23173a8248a5acdbd07e7a059dcdeeefbace7ed9d3ce9ea76d54bc461c5",
+        "processed": "<rbr>Watch episode 4 of<br>Duramente's story."
+    },
+    "610602": {
+        "text": "Reach 10 million total fans for Duramente.",
+        "hash": "ca200b5ec4e1f07486c4d0e8155b293403d3a874557589c4dc4b73876c1fbba8",
+        "processed": "<rbr>Reach 10 million total fans<br>for Duramente."
+    },
+    "610603": {
+        "text": "Reach 50 million total fans for Duramente.",
+        "hash": "fbb064afb6eede31892ae6e732fb9d2ac7cf305f0387021de7e3ccbb5e3c59f9",
+        "processed": "<rbr>Reach 50 million total fans<br>for Duramente."
+    },
+    "610604": {
+        "text": "Reach 100 million total fans for Duramente.",
+        "hash": "90a72dd301591d6979b1f0a2d6b8ea2afd64b4bc855f918f1ac507913c57c02f",
+        "processed": "<rbr>Reach 100 million total fans<br>for Duramente."
+    },
+    "610605": {
+        "text": "Win all G1, G2, and G3 trophies with Duramente.",
+        "hash": "77a64508c5411e5f6f66a629c0db48981fadc083cc32e86270d2570c64a21ca3",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Duramente."
+    },
+    "610701": {
+        "text": "Watch episode 4 of Ikuno Dictus's story.",
+        "hash": "1ae1021bdb4eda9896ca7cee9bd5680b1545bb4e75f5faef7faf1656c3f3bbed",
+        "processed": "<rbr>Watch episode 4 of Ikuno<br>Dictus's story."
+    },
+    "610702": {
+        "text": "Reach 10 million total fans for Ikuno Dictus.",
+        "hash": "a6a6d4591a108dd8de347e110c8da58ef78678c3883c822cc36fdd3a2ad48965",
+        "processed": "<rbr>Reach 10 million total fans<br>for Ikuno Dictus."
+    },
+    "610703": {
+        "text": "Reach 50 million total fans for Ikuno Dictus.",
+        "hash": "5dec3a7cf8d7771ecac9a3323c9123ec7d34be9decd9ba478e8c3a15cb6a697a",
+        "processed": "<rbr>Reach 50 million total fans<br>for Ikuno Dictus."
+    },
+    "610704": {
+        "text": "Reach 100 million total fans for Ikuno Dictus.",
+        "hash": "dc4099a3719c737428716724dc5138fbf0e999af12d9a0b54a4869de391e76de",
+        "processed": "<rbr>Reach 100 million total fans<br>for Ikuno Dictus."
+    },
+    "610705": {
+        "text": "Win all G1, G2, and G3 trophies with Ikuno Dictus.",
+        "hash": "4a5a2e68cc2d590aa2b296c4730ac7043a40b863cd949576946cceb16bd254d6",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Ikuno Dictus."
+    },
     "900002": {
         "text": "Watch Sakura Bakushin O's worry counseling from the home menu once.",
         "hash": "c149b271b55f4d247bb4fca30457d67ba12b291413444b4546f313044eaa9f25",
@@ -18522,6 +18572,36 @@
     "1001905": {
         "text": "Clear all event missions.",
         "hash": "2d299148e834d2aafb801a9a2fd090e0604d2694ab591cd4c59d83468a70796e",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1001906": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "7f969dc2e6763c4dde45d8ef5030fe82a5a071a37d1a6f023428595cfa45cf3f",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1001907": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "7dae128f66492b84e5531b14821e2b7c509785cd1762dff822435952dbcbd944",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1001908": {
+        "text": "Win the Tokai Stakes once during training.",
+        "hash": "23fa74b5c65fbdfa8ae65ea68bb57162d85807129e6ecb28e6f0a63ba04aa7e4",
+        "processed": "<rbr>Win the Tokai Stakes once<br>during training."
+    },
+    "1001909": {
+        "text": "Win the Negishi Stakes once during training.",
+        "hash": "35831af10cf6c50738f2789c99257e4747f30655f595e8af3b10a83f5c32beb7",
+        "processed": "<rbr>Win the Negishi Stakes once<br>during training."
+    },
+    "1001910": {
+        "text": "Win the February Stakes once during training.",
+        "hash": "ee31919e19dff911b55092b57e8a4d38cc662cde612b2b25e96cfbbb878f3606",
+        "processed": "<rbr>Win the February Stakes<br>once during training."
+    },
+    "1001911": {
+        "text": "Clear all event missions.",
+        "hash": "881d85636d4cc0b971943867a3b094aa92c2bd9b46943ffb560e498005b4d46a",
         "processed": "<rbr>Clear all event missions."
     },
     "1001912": {
