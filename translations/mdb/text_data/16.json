@@ -43,6 +43,10 @@
         "text": "Find My Only Way",
         "hash": "31862e3378913443c53bd104f34355c60d447aa05ce14922b40e5b35a73f327b"
     },
+    "1021": {
+        "text": "Sekai wa Bokura no Iinari Sa",
+        "hash": "ddcfa5748aad8038385d8d49f239ee90a2803d0dc90c27ce59398a525f4aca3e"
+    },
     "1023": {
         "text": "Bokura no Bluebird Days",
         "hash": "d725385537455d44c9d7e3d7ea7f8753d908707c584dffe8fff7bdf347b4c8c8"
@@ -287,6 +291,14 @@
         "text": "GSK☆",
         "hash": "a6b58e7fe644c8a0717aa1186cf0e47bf61ab544b4ead96f2a4f98c633cb7eda"
     },
+    "1088": {
+        "text": "Bakunetsu My Soul",
+        "hash": "be9ff942797c63bf63940bb5ddd9cdd43422cde3d32fed8c0c44ab759f5e91cd"
+    },
+    "1089": {
+        "text": "U.M.A. NEW WORLD!!",
+        "hash": "8c8aa0b99197793f99adf487cb00394edabd247acc9f8c1faca9528c80069e48"
+    },
     "1096": {
         "text": "Dance 2 Endless Beat",
         "hash": "df3ec45a23e96bdac1d735fe5455bfc2895c578acdc8effdd504c86bcf3bb807"
@@ -406,6 +418,34 @@
     "1125": {
         "text": "Akogare Challenge Dash!!",
         "hash": "2b24373b7b620e4c17d4197985ca68017a7f7d2b98f054b2db778741d144d572"
+    },
+    "1127": {
+        "text": "PisuPisu☆SupiSupi Golshi-chan no Uta",
+        "hash": "4b4c14d6d7bb7b1b6f55b4f62e17b5e6e88abed8a4c73e4199c0aa80f9ce00fd"
+    },
+    "1128": {
+        "text": "Lost Shine",
+        "hash": "d8e3d14ed5d5a5fba6e5f6452e081a4352ddff450ef1f5f44d55c09a7b5aa9bd"
+    },
+    "1129": {
+        "text": "Yume no Kotae",
+        "hash": "931e466591d80929920aab7a1f34512722331dafd164dea93612d9344b38b56c"
+    },
+    "1130": {
+        "text": "Confident",
+        "hash": "44bc0b54b85acdfc9f81b274724dbc916c198b10396287a2c50e8466f0b8bba7"
+    },
+    "1131": {
+        "text": "Hikari no Ushirosugata",
+        "hash": "09fd6befd83b34b21f564f5aaa4f85c09f73faed62ff399af59b14459d202056"
+    },
+    "1132": {
+        "text": "Sora no Hohoemikata",
+        "hash": "f22eef54bffba2456192d2d19ed097e241d4721fdb7d4a0842cc68dde69d9035"
+    },
+    "1133": {
+        "text": "T.M. Opera ~Tataeyo Towa Ni~",
+        "hash": "46a48ff9f6536e97f0675e4a126a7f7ffcdeedc15b22892711c8f803153750dd"
     },
     "8501": {
         "text": "Star Horse TV",

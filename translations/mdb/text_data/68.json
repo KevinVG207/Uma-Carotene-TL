@@ -579,6 +579,10 @@
         "text": "North Flight #1",
         "hash": "53df29b7aec3c92da89f9ecbd6451e5621a80607df64f17a76f9ff6defd4f0c3"
     },
+    "146": {
+        "text": "Orfevre #1",
+        "hash": "31bbc4984b64a816c3f9354c053899176668a1a5537935b016dbd39507749f45"
+    },
     "147": {
         "text": "Mei Satake #1",
         "hash": "8f0adb15d89d649b68946808c2b2014d8dba5cf8a3ae7897d9bf997de70dee15"
@@ -590,6 +594,14 @@
     "149": {
         "text": "Rigantona #1",
         "hash": "94afac37ce0aaac9079db897536c2ec427b5286286c18c9e06aaa3ac2be0093d"
+    },
+    "150": {
+        "text": "Gentildonna #1",
+        "hash": "e1208b6f601c897e4c7f5a566bb5402f4a7d982dccb31b6010446f089f9bf07a"
+    },
+    "151": {
+        "text": "Win Variation #1",
+        "hash": "3700f2d138be49d8f4766712c1c969755f55627c6db6ca253f2cb414c552e263"
     },
     "152": {
         "text": "Jungle Pocket #2",
@@ -1778,5 +1790,41 @@
     "9207": {
         "text": "North Flight Secret #1",
         "hash": "2fa2c21ce3c1c7071002b644f7c8219c6a828fe4b6b264914b798facd6fe5f3e"
+    },
+    "9208": {
+        "text": "Orfevre Secret #1",
+        "hash": "b957191baf90d6c2cf028808dfa0f4eea136d2c47fc32a18c4e76638d07540f5"
+    },
+    "9209": {
+        "text": "Gentildonna Secret #1",
+        "hash": "04358570bd6bcfbdf857e5be16ee803b4a4f03425d651f378d163259ff1e19ab"
+    },
+    "9210": {
+        "text": "Win Variation Secret #1",
+        "hash": "83964330ba2a02db782534c48333462db2d39fc9e07548568f1edd54e1ff8000"
+    },
+    "9211": {
+        "text": "Sonon Elfie Secret #1",
+        "hash": "9920b1c86bf30fd6645da1f9a31879f9cfb5fbce6a22bd769a06c9a7dbf02995"
+    },
+    "9212": {
+        "text": "Ryoka Tsurugi Secret #1",
+        "hash": "816e5c5dbae0c9809496d1f54956653f31c89e2199f951b47914539dd83b2ddb"
+    },
+    "9213": {
+        "text": "Rhein Kraft Secret #1",
+        "hash": "40d5c31fabde58817d27b99fd83ac12c43a5c6fa33e7932e007633fae59fa038"
+    },
+    "9214": {
+        "text": "Cesario Secret #1",
+        "hash": "23df8b6437f1602e588674dc968bfbc8f2d1924d35e9c605c172313a7d669dc6"
+    },
+    "9215": {
+        "text": "Air Messiah Secret #1",
+        "hash": "1ec7cd40b7de886cfb2d9274f7b8e692f258fe7f656a1dcc05d39fbfa2cd2f5d"
+    },
+    "9216": {
+        "text": "Daring Heart Secret #1",
+        "hash": "0110b2ed104f9448c121e3beb642fdb58080d008d87973dfbe4a301c821a8e92"
     }
 }
