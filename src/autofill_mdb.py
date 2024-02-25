@@ -354,6 +354,48 @@ def autofill_chara_story_chapters():
     util.save_json(path, data)
 
 
+def autofill_support_effects():
+    print("Autofilling support effects (text_data/78.json)")
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "151.json")
+
+    if not os.path.exists(path):
+        print(f"File {path} does not exist. Skipping.")
+        return
+    
+    data = util.load_json(path)
+
+    effect_dict = {}
+    for entry in data:
+        if not entry.get('text'):
+            continue
+
+        effect_dict[entry['source']] = entry['text']
+    
+    fill_ids = [
+        '298',
+        '329'
+    ]
+
+    for id in fill_ids:
+        path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", f"{id}.json")
+
+        if not os.path.exists(path):
+            print(f"File {path} does not exist. Skipping.")
+            continue
+
+        data = util.load_json(path)
+
+        for entry in data:
+            new_text = effect_dict.get(entry['source'])
+            if not new_text:
+                continue
+
+            entry['text'] = new_text
+
+        util.save_json(path, data)
+
+
+
 def run():
     autofill_birthdays()
     autofill_outfit_combos()
@@ -362,9 +404,10 @@ def run():
     autofill_chara_secret_headers()
     autofill_factor_descriptions()
     autofill_chara_story_chapters()
+    autofill_support_effects()
 
 def main():
-    autofill_chara_story_chapters()
+    autofill_support_effects()
     pass
 
 if __name__ == "__main__":
