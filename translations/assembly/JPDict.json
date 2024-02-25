@@ -16120,11 +16120,11 @@
         "hash": "20a44451b9e48672399a59570959fb94ee5d85ab17f94c31c70af970b37b3748"
     },
     "SingleMode0336": {
-        "text": "",
+        "text": "Maximum {0} went <color=#2E85E6>down by {1}</color>",
         "hash": "db2dd674821ac7e905980f94223da4bd7e119082329214efa8be2f89379d779d"
     },
     "SingleMode0337": {
-        "text": "",
+        "text": "Maximum {0} went <color=#F16D27>up by {1}</color>",
         "hash": "b7ed00cd095f3cd841691e601c9f0e1d5c0836ebc811ac76cd43865734fc0efd"
     },
     "SingleMode0339": {
@@ -19484,7 +19484,7 @@
         "hash": "24298c9d65615b1574a4570f3f7f077afe39a37085b13b41d1d160f3e0515b70"
     },
     "SingleModeScenarioSport508002": {
-        "text": "",
+        "text": "<nb>Tournament Results",
         "hash": "b73c61efd04f3312c4b3d030c5a1cffcb3df06b6f0aa620dece4e91c30475911"
     },
     "SingleModeScenarioSport508003": {
@@ -19492,7 +19492,7 @@
         "hash": "adeb7fe26d8d781e734b9bc3deaea6ae1e01f74320e7cc4f0447f603e98d8f95"
     },
     "SingleModeScenarioSport508004": {
-        "text": "",
+        "text": "<nb>Tournament Results",
         "hash": "0fc2ca10d8759f72d76489ed8d3436b6b99359590bbbc449c0fd1b196e809ef8"
     },
     "SingleModeScenarioSport508005": {
@@ -19532,11 +19532,11 @@
         "hash": "bc80d4f0edcd4107f4cf20431642fabf9c03cad1d971554db80dd6eb9272050c"
     },
     "SingleModeScenarioSport508016": {
-        "text": "",
+        "text": "{0} Level <color=#F16D27>increased by {1}</color>",
         "hash": "d0a178066294b41020cccd2042446c3fa4611820a3ce3aea8e870ffe4f58b111"
     },
     "SingleModeScenarioSport508017": {
-        "text": "",
+        "text": "{0}'s <color=#FF911C>heat is rising!</color>",
         "hash": "4f6d5999f8ee9b6ea492e1ef3c26847f45e9c7ccc5c5de6dbd61a216286ab858"
     },
     "SingleModeScenarioSport508018": {
@@ -19552,7 +19552,7 @@
         "hash": "224e833826e664d3c2342104cec63b572907ced6f97be80de5b84a56e0aa1ea9"
     },
     "SingleModeScenarioSport508021": {
-        "text": "<nb>No. of Wins",
+        "text": "Wins",
         "hash": "240049d56d150b3bdab95a64486eb7b8d505c55eeda4c1ee87ed202315a4ac1d"
     },
     "SingleModeScenarioSport508022": {
@@ -19560,7 +19560,7 @@
         "hash": "7971b6d29e5c441c1202e7057ead896dfbcb848722b99804c9a9678b441c49a8"
     },
     "SingleModeScenarioSport508023": {
-        "text": "Call",
+        "text": "Call for Advice",
         "hash": "fb439e9f852a8b5f0fc05c3e4c0096e52241c8ea72194beece0d49052966ec5b"
     },
     "SingleModeScenarioSport508024": {
@@ -19568,31 +19568,31 @@
         "hash": "152feabdd2904b424b2204a46c8453548b0aa3c4f39ae4670d9fe230eabbe6bc"
     },
     "SingleModeScenarioSport508026": {
-        "text": "",
+        "text": "Swap {0}",
         "hash": "276f42dc367e3dbfa9be78a9fca55c8b1f3d29e91b07085b3abb3216aa1f745e"
     },
     "SingleModeScenarioSport508028": {
-        "text": "",
+        "text": "<nb>Confirm Call for Advice",
         "hash": "346006b10d6b4665086dd81174a8720a415d02c848c4f6f6042b63ab3dcf44d3"
     },
     "SingleModeScenarioSport508029": {
-        "text": "",
+        "text": "<nb>Call for Advice",
         "hash": "eb3626663bcceb2403e3035aec8afd90f3b324106d9749dbf4f3a4ce2079f3df"
     },
     "SingleModeScenarioSport508030": {
-        "text": "",
+        "text": "<nb>Do you want to call {0} \nfor training advice?",
         "hash": "556507402941ba63721aead2d774c4e2613c69874f02cb057c37516002b3f39b"
     },
     "SingleModeScenarioSport508031": {
-        "text": "",
+        "text": "Before",
         "hash": "bf99ae2848a01b0d9cbaded2262599148e04ec8ed336da9fbfd78b229a69b650"
     },
     "SingleModeScenarioSport508032": {
-        "text": "",
+        "text": "After",
         "hash": "fc54efa9eb55e81bdcb4fbed4867951620480594cf07db80a008097f42915e17"
     },
     "SingleModeScenarioSport508034": {
-        "text": "",
+        "text": "A sport training <color=#FF911C>genre swapped with another!</color>",
         "hash": "cef2036c214f35f81ad6af4c348f077786f136b506e03b6ffeefe3a2db857ae1"
     },
     "SingleModeScenarioSport508038": {
@@ -19604,7 +19604,7 @@
         "hash": "f02d1550c956a317c504170e767a1fc8a453f1ca77e51f0fe7f4c1aea70a40ee"
     },
     "SingleModeScenarioSport508040": {
-        "text": "",
+        "text": "<nb>Tournament Schedule",
         "hash": "bd96784afdd16c50a5871e9ee99e4f2a3912490a3a22855cf0ab1520a0ac08f3"
     },
     "SingleModeScenarioSport508041": {
@@ -19616,7 +19616,7 @@
         "hash": "d2db472689df454069cc49e5b8e430e056ac60923b06289ad9fa42c8e71e1f88"
     },
     "SingleModeScenarioSport508043": {
-        "text": "",
+        "text": "You called in {0} for some advice!",
         "hash": "5d0e17f0c8757a69570976feb68c2644e8f355479beb719be81b2ff2a4d823db"
     },
     "SingleModeScenarioSport508044": {
@@ -19632,7 +19632,7 @@
         "hash": "ce6206a6b67a6467875d11540c3eadee92a1c259605a5846f7f09405ec2d3367"
     },
     "SingleModeScenarioSport508047": {
-        "text": "",
+        "text": "Grand Victory",
         "hash": "ccfa85102fa584260bdc21b8aca1f365cbbc887a815ec6c9a02667e7bcf09794"
     },
     "SingleModeScenarioSport508048": {
@@ -19664,7 +19664,7 @@
         "hash": "d84a47963e5bd741747d0868fc1c9cd76fd78fae6110bc82c75bb73cf5cfa679"
     },
     "SingleModeScenarioSport508055": {
-        "text": "",
+        "text": "No calls left.",
         "hash": "d8490db2c42b1a5cc18b04f7a03f74fd43d29155e31b493d02b8419d9d8b8585"
     },
     "SingleModeScenarioSport508056": {
@@ -19672,7 +19672,7 @@
         "hash": "6af62ecf65f2da8d26f73ad30e806876928fee5bdf0a239c239f4eb916aea5e6"
     },
     "SingleModeScenarioSport508057": {
-        "text": "",
+        "text": "No calls left.\nYou'll be able to call again\n{0}.",
         "hash": "b801842e7a3b6a3f0a2ff5a2099dbcf79869001c76fd5f6cacbdd6a4fc774e1e"
     },
     "SingleModeScenarioSport508058": {
