@@ -8200,7 +8200,7 @@
         "hash": "0c34788856f204ccdcec7d83ebc9b26edde3d733571ec202b38e0273d5a9f346"
     },
     "Menu608001": {
-        "text": "",
+        "text": "Training\nPass",
         "hash": "b0895f1032337c8a0fbe07ac6812723c16bfa47e98a4edf54b3c37b09713c182"
     },
     "MiniGame0003": {
@@ -11108,15 +11108,15 @@
         "hash": "883022078443f027cc87b70efeaf63f98950297913d271e82b8dd8b11d03892f"
     },
     "Outgame608010": {
-        "text": "",
+        "text": "<nb>This season's training pts",
         "hash": "538aa1fa2caa4fad4feb28aeb2d2b4f83decdcc15a299383f8ac225287e48aac"
     },
     "Outgame608011": {
-        "text": "",
+        "text": "Season Period: {0} ~ {1}",
         "hash": "53bafc6ec4a68f891995388083e6bd533317a2cd6c51307862b4b33727d6a0b5"
     },
     "Outgame608012": {
-        "text": "",
+        "text": "<nb>Get the\nPremium Pass",
         "hash": "982f576d7b08d0df8639c26e124fed63b3faa15e213735e932d2470b9e49ba0b"
     },
     "Outgame608013": {
@@ -11124,7 +11124,7 @@
         "hash": "0de6d182b2e39da8b68ac616a6ed82178627119630372aa3c0733a52c5a41034"
     },
     "Outgame608014": {
-        "text": "",
+        "text": "Training Pass",
         "hash": "3306abe395df1a949988bedd26fe9788a023793b60fa42a9637bde43953447a6"
     },
     "Outgame608015": {
@@ -11216,11 +11216,11 @@
         "hash": "99c4957a188924998f74c2632591a62dfb1aeef64549b11135fecfcd61a1d2a4"
     },
     "Outgame608037": {
-        "text": "",
+        "text": "<nb>Points needed",
         "hash": "a62b7bed6fd68d4336f17e73554154c143884dbb66172d0c8f0177862693fd63"
     },
     "Outgame608038": {
-        "text": "",
+        "text": "Pickup Rewards List",
         "hash": "b8301b8721fed2067a13b7148580fe59c7fd7fbb94b0cadec49ee04527a7b2a9"
     },
     "Outgame608039": {
@@ -15236,11 +15236,11 @@
         "hash": "138872c1bb3045f31ab8c493c434816a61bf8bc1b89413a01337ad9a53ca0894"
     },
     "Shop608003": {
-        "text": "",
+        "text": "Buy Jewels and More",
         "hash": "927eb14cfec5caca6c4ef875e2091701ea8ef818a21a247f7535875f9214b1ef"
     },
     "Shop608004": {
-        "text": "",
+        "text": "Buy Jewels\nand More",
         "hash": "44f1088dec3615e6949b209d12b16d08556301ba4438728c44b74dbce44c6e8c"
     },
     "Shop608005": {
@@ -15456,7 +15456,7 @@
         "hash": "428926567c1a54452c7589a019ffcf0c3e6dc810a2ae267f6a48feb85a24ec07"
     },
     "SingleMode0102": {
-        "text": "",
+        "text": "Concert",
         "hash": "f38bf35b87dda318e4816b0c28b6a7d707488adc210638c5812d245a97063a3a"
     },
     "SingleMode0103": {
@@ -15856,7 +15856,7 @@
         "hash": "10dcb76d4255fdcf1964e8fce9f410afba414c2caa116a17021baf24b113cf01"
     },
     "SingleMode0252": {
-        "text": "",
+        "text": "<nb>Challenges Complete",
         "hash": "a9f7937b9981cf31157d425f5b14ae9b27b1e34a15addaabb90a125d8d32cb66"
     },
     "SingleMode0253": {
@@ -16160,7 +16160,7 @@
         "hash": "862a67ce02220704bf7b8bf125c780384b4320e8e442e33c2c17ddc94326f9dd"
     },
     "SingleMode0347": {
-        "text": "",
+        "text": "URA Finals",
         "hash": "752b9b0da796742d028c603b47d281caae82316b1a468984f727cb576a12bf93"
     },
     "SingleMode0348": {
@@ -17752,7 +17752,7 @@
         "hash": "0036380290bc2d75c3e9c12dbb8e9e6afbbe2c4a0070af89ad32868eafe13391"
     },
     "SingleMode419111": {
-        "text": "",
+        "text": "Choosing Factors",
         "hash": "c0c15832f96f5a4234753af82d2753054975f308cb0fd6c75f2cc02493a0812e"
     },
     "SingleMode419112": {
@@ -17840,7 +17840,7 @@
         "hash": "6abb09e1f5801bb4011f4b120db30b8f578f2290aedda72f516ee3a9d1f49e4c"
     },
     "SingleMode497002": {
-        "text": "",
+        "text": "<nb>{0} more today!",
         "hash": "17090af331c1abe92956be8906cb12283387afbe7f9e523efecea2f081ff885b"
     },
     "SingleMode497003": {
@@ -19128,7 +19128,7 @@
         "hash": "216a2b93eb80987897045fea55188e3788f09d52f8557e3b619ac412ae3a8afd"
     },
     "SingleModeScenarioLive0036": {
-        "text": "",
+        "text": "<nb>Confirm Concert",
         "hash": "ee451e57213dfe8071fecd5522618afd23760ed8c8b2e44f7e7fc93bd02f08f8"
     },
     "SingleModeScenarioLive0037": {
@@ -19600,7 +19600,7 @@
         "hash": "f72765beb7be5572bf4f298be75775c822f96b27b4491e0f175392ed0cf02abe"
     },
     "SingleModeScenarioSport508039": {
-        "text": "",
+        "text": "<nb>Do you want to watch the concert?",
         "hash": "f02d1550c956a317c504170e767a1fc8a453f1ca77e51f0fe7f4c1aea70a40ee"
     },
     "SingleModeScenarioSport508040": {
@@ -19608,11 +19608,11 @@
         "hash": "bd96784afdd16c50a5871e9ee99e4f2a3912490a3a22855cf0ab1520a0ac08f3"
     },
     "SingleModeScenarioSport508041": {
-        "text": "",
+        "text": "U.A.F. has ended.",
         "hash": "ebd1af29b68332d599f4bef4ae4ee2c45b426d11eaea50337eff0cf020262ba0"
     },
     "SingleModeScenarioSport508042": {
-        "text": "",
+        "text": "<nb>U.A.F. has started!",
         "hash": "d2db472689df454069cc49e5b8e430e056ac60923b06289ad9fa42c8e71e1f88"
     },
     "SingleModeScenarioSport508043": {
@@ -20552,7 +20552,7 @@
         "hash": "8389c10f44c0b2a0e7f79cc8dc839f0a778b3dd7307d371f947b5fe47c25fb38"
     },
     "Story0013": {
-        "text": "",
+        "text": "Tracen Academy",
         "hash": "3518a1ff46c97e308a9da1ab05519d71bac075d4803118568f8c8c2b7a34925f"
     },
     "Story0014": {
