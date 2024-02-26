@@ -1,0 +1,14 @@
+{
+    "1": {
+        "text": "Increased stat and skill pt. gain \\nbased on sport level.",
+        "hash": "67fca4ae1c9971a412e7f615dc26d6e598aa044a0557db958e99f4db534bd7f4"
+    },
+    "2": {
+        "text": "Increased stat gain of selected \\ntraining based on amount of \\nlinked trainings.",
+        "hash": "a7ff2de76c03f37e655dfda7e8a4edaaa1e5fdb5cad802bce956cb49f49e4f67"
+    },
+    "3": {
+        "text": "Increased hint event rate and \\nincrease max hints per training \\nto 2.",
+        "hash": "63aec37e05255d626f538516a0e3848a12fab55ec2d382a93fcb090d70566084"
+    }
+}

@@ -89,6 +89,11 @@
         "hash": "53b937f5b7c1729d41c0de68abd3ad40c79e49bd33203f11ca2bd78ac02f08e2",
         "processed": "<rbr>If you're in the middle of the pack<br>in the second half of the race,<br>your stamina will recover and your<br>speed will increase slightly."
     },
+    "10631": {
+        "text": "If you haven't panicked (kakari) during the race, then during the last spurt, your speed will slightly increase.",
+        "hash": "8e599a969f3e59928ce8ae223563131a40fc74920cf798ba4df634b3aa993203",
+        "processed": "<rbr>If you haven't panicked (kakari)<br>during the race, then during the<br>last spurt, your speed will slightly<br>increase."
+    },
     "10661": {
         "text": "If you're leading by at least one length one-third through the race, your speed will marginally increase, but then during the Last Spurt, it will marginally decrease.",
         "hash": "0c6c8407de6a237760260865b0cbe8583457685e5c9681ea3d9912af207cfbf2",
@@ -229,11 +234,6 @@
         "hash": "570923a63977d6a92b0c90d2881b0c6b6ad818f8381cd8a00ed09cfbb15167ca",
         "processed": "<rbr>Increase acceleration as you<br>attempt to overtake on a corner in<br>the Final Leg or beyond."
     },
-    "100281": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "38e881e44a4d22e66b50288f85183ddf312801b0c0c6fdcf0e5b31775630d3f4",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
-    },
     "100291": {
         "text": "If you're close to the first place with 300 m remaining in the race, your speed will increase.",
         "hash": "6f3e9b5bee7454ac4b3e2b68f011fbb3dca67945aafb9afd667ecb507a87714b",
@@ -288,11 +288,6 @@
         "text": "If you struggle for victory on the last straight, your speed will increase.",
         "hash": "ab9194e42c9f9965cf1677dd3fb4b25ed2c9b50b7367a2144ae181f08dab3db0",
         "processed": "<rbr>If you struggle for victory on the<br>last straight, your speed will<br>increase."
-    },
-    "100401": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "f60f438eb133059e837657c72118edbb5829c06e989acd3afab8d96a1ac59234",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "100411": {
         "text": "During the later half of the race, your speed increases when competing for the lead.",
@@ -403,6 +398,11 @@
         "text": "If you're in the middle of the pack in the second half of the race, your stamina will recover and your speed will increase.",
         "hash": "7b6ac16aaef684b341a41afc9b64e19bf79f4fbcbb3d85327c7a895e889e9024",
         "processed": "<rbr>If you're in the middle of the pack<br>in the second half of the race,<br>your stamina will recover and your<br>speed will increase."
+    },
+    "100631": {
+        "text": "If you haven't panicked (kakari) during the race, then during the last spurt, your speed will slightly increase.",
+        "hash": "e409cbfc1723300780dffbe8b228c031e67c7b1551f2437c228653d2d971a0e9",
+        "processed": "<rbr>If you haven't panicked (kakari)<br>during the race, then during the<br>last spurt, your speed will slightly<br>increase."
     },
     "100641": {
         "text": "If you've been in the front of the pack for the entire first half of the race, your stamina will recover and your speed will increase.",
@@ -549,10 +549,10 @@
         "hash": "b06a6a33a4ec609df0f21f339dc4c6030771ab79727526adf1fd4a646dceb2a7",
         "processed": "<rbr>If you're in the lead during the<br>final straight, your speed will<br>slightly increase (special scaling<br>under investigation)."
     },
-    "110011": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "623e6e5cdb2d171505a4d928dec4eba125dac00d82c37bba734d336066756a1f",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
+    "101081": {
+        "text": "If you're in the second half of the pack halfway through the race, your speed will increase; then, if you try to overtake someone during the Final Corner in the Final Leg, you will get a slight speed boost.",
+        "hash": "916acecaad38bf382f4ae6876817ad2d9ba36ba6bbf06ddc08c20aa38583105e",
+        "processed": "<rbr><sc=80>If you're in the second half of the pack<br>halfway through the race, your speed will<br>increase; then, if you try to overtake some-<br>one during the Final Corner in the Final<br>Leg, you will get a slight speed boost."
     },
     "110021": {
         "text": "If you're in the first place two-thirds through the race, you will get a speed boost; the effect will greatly increase if the two-thirds point is on the third corner and if you were leading by at least 3 lengths during the Middle Leg.",
@@ -738,11 +738,6 @@
         "text": "If you're blocked in the middle of the pack at the final corner, it will become easier to get out.",
         "hash": "e3c853a307dd94abf1562ceee4bdaed43d462c701c27ed3a349be04f7a6ebd48",
         "processed": "<rbr>If you're blocked in the middle of<br>the pack at the final corner, it will<br>become easier to get out."
-    },
-    "110411": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "83ee3ce467dfc5b4a6c5dc9eec164901ae191e0034d0ac04c6dd970cf819b66f",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "110451": {
         "text": "If you're in front after the final corner and about to overtake another girl, your speed and acceleration will increase.",
@@ -3079,16 +3074,6 @@
         "hash": "8b4bc8887d9f7cb19f20de27f5b80ed3da0b5d9476955761ddafc76430c7e810",
         "processed": "<rbr>Leader・At a random point in the<br>Middle Leg, your speed will<br>slightly increase."
     },
-    "202381": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "a3c558ebe2a49b33c3f9364be8efba0c0e7b3a696a19a943f12015ed815ba914",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
-    },
-    "202382": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "c2fbc3f1ee417ecf27cfeebfe4184184ad3f68dc05d89be992e2a8d94d64812c",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
-    },
     "202391": {
         "text": "Runner・During the first half of the Middle Leg, use some stamina to greatly increase your speed.",
         "hash": "2413f08818fc5919dc96094e812c587a38885bdd21597328aec6578261d7a869",
@@ -3464,6 +3449,11 @@
         "hash": "989db579be4b023e2deda666469c56de7fb0f7cd7c59bfd79aa8dfa46f247186",
         "processed": "<rbr>At a random point during the<br>Middle Leg, your speed will<br>slightly increase."
     },
+    "202801": {
+        "text": "During the second half of the Opening Leg, your speed will increase.",
+        "hash": "ad0ce160ee6fded8da9ee6492aa8f5940e64572c8c047c001dd6d6fda30e11e1",
+        "processed": "<rbr>During the second half of the<br>Opening Leg, your speed will<br>increase."
+    },
     "202802": {
         "text": "During the second half of the Opening Leg, your speed will slightly increase.",
         "hash": "5716d61cb203e9c80c1677942dc1dd4ff364294637777d307c4bea330b9ee6ba",
@@ -3523,6 +3513,51 @@
         "text": "Short・At the start of the race, your acceleration will slightly increase.",
         "hash": "0585bea81fdc434e4081ec50980b7d87b55f92c77faf96a5db93bc2bcea20a17",
         "processed": "<rbr>Short・At the start of the race,<br>your acceleration will slightly<br>increase."
+    },
+    "202871": {
+        "text": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg, your acceleration will increase.",
+        "hash": "40846d404a1ffb18035786d2a317846c1cac88d659ba88e0d59382d151c75582",
+        "processed": "<rbr>Chaser・Medium・If you're not in<br>the front during the Final Corner<br>in the Final Leg, your acceleration<br>will increase."
+    },
+    "202872": {
+        "text": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg, your acceleration will slightly increase.",
+        "hash": "a97a00684d7150e435a39115a09f0dbd410d5ee551b3b659c7ce2a67f857708e",
+        "processed": "<rbr>Chaser・Medium・If you're not in<br>the front during the Final Corner<br>in the Final Leg, your acceleration<br>will slightly increase."
+    },
+    "202882": {
+        "text": "Chaser・During the Final Straight, if you're second or worse but close to the first place, your speed will slightly increase.",
+        "hash": "ce7c8fc2acce58ac9b8adf1d4b92048f58a5c1825928928a818a06c82d557e61",
+        "processed": "<rbr>Chaser・During the Final Straight,<br>if you're second or worse but<br>close to the first place, your speed<br>will slightly increase."
+    },
+    "202892": {
+        "text": "Chaser・If you're in the second half of the pack during the second half of the Opening Leg, your stamina will slightly recover.",
+        "hash": "6ca1ccf0a0ab8a2929e5f47839b1e2fafaa26b40c9275d3a43abd0e3d3769435",
+        "processed": "<rbr>Chaser・If you're in the second<br>half of the pack during the second<br>half of the Opening Leg, your<br>stamina will slightly recover."
+    },
+    "202902": {
+        "text": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will slightly increase.",
+        "hash": "afc454f53dec2349ec507a8a459142edcfa031f6a2059fbab5f80db2011b822c",
+        "processed": "<rbr>Chaser・If you're not in the front<br>during the second half of the<br>Middle Leg, your speed will<br>slightly increase."
+    },
+    "202912": {
+        "text": "Chaser・If you're in the second half of the pack at a random point during the Final Corner, your speed will slightly increase, and the speed of the closest three girls in front and three girls behind you will slightly decrease.",
+        "hash": "2e033b12726766800c0b7198e9de27ec5ae48887263e789bfbd42acd58f35822",
+        "processed": "<rbr><sc=76>Chaser・If you're in the second half of the<br>pack at a random point during the Final Cor-<br>ner, your speed will slightly increase, and the<br>speed of the closest three girls in front and<br>three girls behind you will slightly decrease."
+    },
+    "202922": {
+        "text": "Chaser・At a random point during the Middle Leg, use a little extra stamina to slightly increase your speed.",
+        "hash": "c25cd8faccc7ec343cb851aa0f78b2b64d3f48a57374ee90114d5c838da5c044",
+        "processed": "<rbr>Chaser・At a random point during<br>the Middle Leg, use a little extra<br>stamina to slightly increase your<br>speed."
+    },
+    "202932": {
+        "text": "Chaser・If you try to overtake someone during the second half of the race, your speed will slightly increase.",
+        "hash": "e9e4c2ac3143507cee34fd77eff6de67486da7304e78097b32e10fd9b2436b73",
+        "processed": "<rbr>Chaser・If you try to overtake<br>someone during the second half of<br>the race, your speed will slightly<br>increase."
+    },
+    "202942": {
+        "text": "Chaser・Medium・If you're in the second half of the pack at a random point during the Middle Leg, your speed will slightly increase, and you will slightly lower speed of the five closest girls in front of you.",
+        "hash": "da08b214541523bff8a3dc4a4a4d447750a69f3ee379598167ebfae498cafd86",
+        "processed": "<rbr><sc=80>Chaser・Medium・If you're in the second<br>half of the pack at a random point during<br>the Middle Leg, your speed will slightly<br>increase, and you will slightly lower speed<br>of the five closest girls in front of you."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -5129,11 +5164,6 @@
         "hash": "f3ad26f50e15c9306e81d5ba302a97852920a9e4ef8856fbbb20468802237617",
         "processed": "<rbr>Greatly increases speed when<br>overtaking during the Middle Leg."
     },
-    "102201111": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "2f8032ec38ceaa9f1f59889af13f323ae757ed751ac0f46c9ad7f9766fab6fe7",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
-    },
     "102201211": {
         "text": "Leader・At a random point on any downhill, your acceleration will increase.",
         "hash": "53cfd88cabb34c728665b97fb644653043a95884c9e3a28f391c6a8741a8f899",
@@ -5253,11 +5283,6 @@
         "text": "Short・At a random point during the Middle Leg, your speed will slightly increase, and your acceleration and lane movement speed will increase.",
         "hash": "4e862f4e271ac5ee9782227f0f3bd43f5c3238bd3b36e45043adda2024497b05",
         "processed": "<rbr><sc=96>Short・At a random point during the<br>Middle Leg, your speed will slightly<br>increase, and your acceleration and<br>lane movement speed will increase."
-    },
-    "102801211": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "971395bfca38ddc1b0f076c0a402624e69b530255549e3ef147bcec309134620",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "102901111": {
         "text": "If there's another girl right in front of you during the Last Spurt, your acceleration and lane movement speed will increase.",
@@ -5663,11 +5688,6 @@
         "text": "Chaser・During a Last Spurt straight, your acceleration and FoV will increase.",
         "hash": "a22dd8e03c3983c703dd6f144a85639ccc24bbd666952dcf8697ccf5cd8988ab",
         "processed": "<rbr>Chaser・During a Last Spurt<br>straight, your acceleration and<br>FoV will increase."
-    },
-    "105002111": {
-        "text": "The description of this skill has recently changed; retranslation is pending.",
-        "hash": "242cba0e14a3f3b686baaf8175e2a4607b6ae9e6557d6ab8dffdf39511a3123d",
-        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "105002211": {
         "text": "Medium・During the first half of the Final Leg, if you're not in the front, your acceleration will increase.",
