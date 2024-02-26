@@ -419,6 +419,9 @@ def apply_gametora_skills():
             entry['prev_text'] = entry['text']
             entry['text'] = cur_desc
             entry['new'] = False
+
+            if 'retranslation is pending' in entry['text']:
+                entry['text'] = ""
     
     util.save_json(os.path.join(prefix, "48.json"), desc_data)
 
