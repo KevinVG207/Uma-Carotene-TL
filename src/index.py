@@ -823,7 +823,7 @@ def index_jpdict():
                 new_dict[key] = new_data
             else:
                 changed[key] = {
-                    "old": old_data['source'],
+                    "old": old_data.get('source') or old_data.get('hash'),
                     "new": new_data['source'],
                     "old_text": old_data['text'],
                 }
