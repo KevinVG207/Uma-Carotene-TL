@@ -69,6 +69,10 @@
         "text": "Ready, Bang!",
         "hash": "3cdd6a8daca30a910525a955decadae66df278e5d097eab1d7347a41a689642f"
     },
+    "10631": {
+        "text": "Strike and Strengthen",
+        "hash": "379831abe81c049dc3347cf49bcb7fbfc88e60e59deac24b1a0179539a0e24d9"
+    },
     "10661": {
         "text": "Engine Ignition!",
         "hash": "4c02d3e2f6d2971fdaf737c97bb68aa8cf416b3123913331e8e0f3c101c93a0f"
@@ -342,6 +346,11 @@
         "text": "Bang, Bam, Mun",
         "hash": "2baa91da266667cfcb3bb6ac493e892fc1297a1713a6ed4d2541efe396ffc0c4"
     },
+    "100631": {
+        "text": "Forged From a Hundred Trials",
+        "hash": "8e34386957d8c1975de7a235569246b0742723ae2aa74790f44bbdb61be1020d",
+        "processed": "<sc=82>Forged From a Hundred Trials"
+    },
     "100641": {
         "text": "The Breakaway Road",
         "hash": "21bd7b6f28082a9ef55cc570885550229bc889aa00729fa69a96d196f8d4d3c9"
@@ -465,6 +474,11 @@
     "101071": {
         "text": "Billions of Stars",
         "hash": "f3bd37f73912496617dc90354ffba86890b98b9765b679765c0c15074362619d"
+    },
+    "101081": {
+        "text": "Scarlet Ascension of the Rakshasa",
+        "hash": "343caafa1146e5f9767028eed340a66fbccfb7d9028f1a54b0205b6572de13ed",
+        "processed": "<sc=71>Scarlet Ascension of the Rakshasa"
     },
     "110011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -2835,6 +2849,11 @@
         "text": "Middle Leg Adept",
         "hash": "36263f8195138121b538edf043437ee26a52d06887141b4d239bbf11d615a52b"
     },
+    "202801": {
+        "text": "Contest of a Thousand Possibilities",
+        "hash": "dee59532e63b7cf023534e4d341efa9a6fd33ddda7d7b64485b6e286920496c0",
+        "processed": "<sc=69>Contest of a Thousand Possibilities"
+    },
     "202802": {
         "text": "Opening Leg Adept",
         "hash": "e2e36dc9c0c942efcf835a091adae54abe7ebc7fa96150fd6222f0a882ce3ff8"
@@ -2882,6 +2901,42 @@
     "202862": {
         "text": "Swift Takeoff",
         "hash": "09fd53e46e9d627e64f2aabd55065e7030d9019dd94b749e423ac07c50db140e"
+    },
+    "202871": {
+        "text": "Reign",
+        "hash": "7629030c17bdb9b87233eab6687213ff89b8357478676f39033a1d219828a2ee"
+    },
+    "202872": {
+        "text": "Mighty Step",
+        "hash": "8576ad0502f2f4d9e3703e831bfa7a097c4fb5a702bdd7d7a668eb0b8d1c3fa3"
+    },
+    "202882": {
+        "text": "Boiling Blood",
+        "hash": "3cd7a2de620df94db5621f17fe6226ff66665c8658130939d9d35030b84de1c3"
+    },
+    "202892": {
+        "text": "Immovable Spirit",
+        "hash": "dd9953cbac6e2346f4e866c3ddca4478318d74488fefda10c70ef92ac8540130"
+    },
+    "202902": {
+        "text": "Sufficient Thrust",
+        "hash": "a0b4ed17d0f5a896721651b6f855b8f75a800018120bccb3cc59f3d1eba43d27"
+    },
+    "202912": {
+        "text": "Cleave",
+        "hash": "4376dcf8bbb7a479a1a3da218934936b2aca044066e3abf3c671eb25c0e84d75"
+    },
+    "202922": {
+        "text": "No Reluctance",
+        "hash": "04838e6de8ac283fe85f7829d9c95883d26729cb93f74e9094fa94a65f190406"
+    },
+    "202932": {
+        "text": "Shadowstepper",
+        "hash": "4805c0c76e9d27cfab6cc9a9ce34ad78e71fa085fd3bc7b37d273dc0b4b1398d"
+    },
+    "202942": {
+        "text": "Ghastly",
+        "hash": "ab1cef5af5e8335162a4f9cf843da45348d10a0bea83fa1862b1664a1306dffe"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -3013,6 +3068,18 @@
         "text": "Bearer of Hope",
         "hash": "1c32c091f85b162d46376ebbde24aa0672a4094f892b337698c60799599545b8"
     },
+    "210301": {
+        "text": "Blazing Radiance!",
+        "hash": "82c56378abe607e50cf72a6aa59382635396cdaf56b06c8ce15d622acb87f430"
+    },
+    "210302": {
+        "text": "Burning Soul",
+        "hash": "a499497177969bbc024e35814e97a0e2efea88be97c7c2deb6c2abf8b448581e"
+    },
+    "210311": {
+        "text": "Athlete's Spirit",
+        "hash": "953cac9c0fe5a67c7ae294b18ac4da6024100bb520f5953a413115f6c74f602a"
+    },
     "300011": {
         "text": "Unquenched Thirst",
         "hash": "6490c193306e82873d603063ad95d306ad318f5f3871e3669fb686a700ab34fc"
@@ -3071,6 +3138,34 @@
     "300141": {
         "text": "Dauntlessness",
         "hash": "73dc66c0b2722cba00c52a1b07e61f34a3040f99af8ca9526e399afb79eeaeb4"
+    },
+    "407011": {
+        "text": "Sparkling Contest",
+        "hash": "3e8d597a6cf6bc6e15043b743c355db8ee5285893d46b1a330e70316fc5abd18"
+    },
+    "407021": {
+        "text": "Now I'm Fired Up!!",
+        "hash": "6942461bab8afd13b41c0fed94cd8ad984583f726e003cf45c0317b947facbcd"
+    },
+    "407031": {
+        "text": "Doing My Best!",
+        "hash": "f2a26e16bd3beace9e0d6f82a8f806f082a92587f0a4cfa88b60a9c5898b5aa9"
+    },
+    "407041": {
+        "text": "Reckless Passion",
+        "hash": "75f70d8026771f6adaf8f2d1e6285a3d5730f8c48ce3f845e6f71515cab034a6"
+    },
+    "407051": {
+        "text": "Unstoppable Muscles",
+        "hash": "e0f1813744d61c445708ef91a375cf3b3415f23a555edfb5db51e248bf76cd52"
+    },
+    "407061": {
+        "text": "Stay Tuned",
+        "hash": "c2b101e07f4c185af05a96622b1be051cdd97afc9a94dba691b2bcb464a96fa9"
+    },
+    "407071": {
+        "text": "Connecting Elation",
+        "hash": "630202ef819a976913d6e5f6d493e6fc86344e0de4447eea155dd9abf8dd23f4"
     },
     "900011": {
         "text": "Shooting Star",
@@ -3341,6 +3436,11 @@
         "text": "Bang, Bam, Mun",
         "hash": "2baa91da266667cfcb3bb6ac493e892fc1297a1713a6ed4d2541efe396ffc0c4"
     },
+    "900631": {
+        "text": "Forged From a Hundred Trials",
+        "hash": "8e34386957d8c1975de7a235569246b0742723ae2aa74790f44bbdb61be1020d",
+        "processed": "<sc=82>Forged From a Hundred Trials"
+    },
     "900641": {
         "text": "The Breakaway Road",
         "hash": "21bd7b6f28082a9ef55cc570885550229bc889aa00729fa69a96d196f8d4d3c9"
@@ -3464,6 +3564,11 @@
     "901071": {
         "text": "Billions of Stars",
         "hash": "f3bd37f73912496617dc90354ffba86890b98b9765b679765c0c15074362619d"
+    },
+    "901081": {
+        "text": "Scarlet Ascension of the Rakshasa",
+        "hash": "343caafa1146e5f9767028eed340a66fbccfb7d9028f1a54b0205b6572de13ed",
+        "processed": "<sc=71>Scarlet Ascension of the Rakshasa"
     },
     "910011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -4891,6 +4996,14 @@
         "text": "Big Comeback",
         "hash": "85b5a1e60277cf14c2b7dec918f030181ca59586bfe15468d2cb42510844295f"
     },
+    "106301111": {
+        "text": "Thorough Planning",
+        "hash": "89f8e23b345a87e09f0104cb140f364066f27624178f3ee44d4f03b2b5c89935"
+    },
+    "106301211": {
+        "text": "Red-Hot Spark",
+        "hash": "6b2cb314855feb95775f34d796e64d80dc0725e4c8e89881d76591284e7715c2"
+    },
     "106401111": {
         "text": "Dope Stuff!",
         "hash": "578047cc7cb2ce8912fd3c2c276767ff8cf41869965b39f61f1f8cba62ce10e5"
@@ -5225,5 +5338,13 @@
     "110701211": {
         "text": "Smooth Sailing!",
         "hash": "1b585ac6c67f5e9876528c4f2ee33bf1afa84474993036392eaddb2fb5fa85c8"
+    },
+    "110801111": {
+        "text": "Constant Refinement",
+        "hash": "4afe5f4ec80190d991e9d58844a94acbb5ca9330db141dcbe07f9625ac95d7da"
+    },
+    "110801211": {
+        "text": "Blazing Brilliance",
+        "hash": "9330c367c784664c551ba12c83e262863d9c4b6b5a6c6eb886776f9429010038"
     }
 }
