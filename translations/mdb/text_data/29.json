@@ -4979,6 +4979,106 @@
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
     },
+    "690001": {
+        "text": "Regular Race - Week 1 - Short",
+        "hash": "fa1570d3fa1fb7e92462e37e0e60a8782d06366ea40c1cdd1b3a717c8af745e9"
+    },
+    "690002": {
+        "text": "Regular Race - Week 1 - Mile",
+        "hash": "9f6055450a9f158fb51fac7a7e7e23fcd036edeafd345dc4a9e75fd45d8f5160"
+    },
+    "690003": {
+        "text": "Regular Race - Week 1 - Medium",
+        "hash": "8fc83ebf0f7b713697063a7e9e0a9ac01daf4a3d9e11d11fa4dbc5abac35e7ca"
+    },
+    "690004": {
+        "text": "Regular Race - Week 1 - Long",
+        "hash": "32902116ac773ae7a0c6783a865d9b2bd0c51d8d3e6ee64394d79febd3fa5bdd"
+    },
+    "690005": {
+        "text": "Regular Race - Week 1 - Dirt",
+        "hash": "a9d98b845e9f76da07a41285b99f70e0271ef1d24fb7911966e57e7d1fcfac23"
+    },
+    "690006": {
+        "text": "Regular Race - Week 2 - Short",
+        "hash": "7ca3fba982fc9f1322a4512d60fce268d6f3ae2901e404c6d9130c706a7ab1f5"
+    },
+    "690007": {
+        "text": "Regular Race - Week 2 - Mile",
+        "hash": "37cf5bfdf1b0cdc090fe78111f1ec20f8c06fe0742a85147f9832ecfcbe24f64"
+    },
+    "690008": {
+        "text": "Regular Race - Week 2 - Medium",
+        "hash": "c76bb0b1043a068e40d03c4d99307f0a2510a175523f00dc4fbd2093deff614c"
+    },
+    "690009": {
+        "text": "Regular Race - Week 2 - Long",
+        "hash": "e37714610f757af2128d65eeb486b895fbfa065f2365506156937a46b6d7a905"
+    },
+    "690010": {
+        "text": "Regular Race - Week 2 - Dirt",
+        "hash": "d04b60ee71a2e3a0662808fd555ac3a7863c011bee2d568150247b6f468e9a0f"
+    },
+    "690011": {
+        "text": "Regular Race - Week 3 - Short",
+        "hash": "d69939f5f5bfe435ec74679271fcf47d50e25de431ba205a4151da7411f223e5"
+    },
+    "690012": {
+        "text": "Regular Race - Week 3 - Mile",
+        "hash": "99af8ee73db6f3b8f65d954abb954da775f635acd12cffc3494f54445039b55d"
+    },
+    "690013": {
+        "text": "Regular Race - Week 3 - Medium",
+        "hash": "3933bd3d1f668d99ea8c4199aa365716aaa178cfea5a45c46d01790e64205404"
+    },
+    "690014": {
+        "text": "Regular Race - Week 3 - Long",
+        "hash": "0d7b4e48f3c1c0742405313924dd015c9012727f2dcbc121ce7090c7288a74ae"
+    },
+    "690015": {
+        "text": "Regular Race - Week 3 - Dirt",
+        "hash": "e09a9ebb1a9cf6fea9d14d6e825794567f17e0fcd24d2ef5c691b31d82c8cb8b"
+    },
+    "690016": {
+        "text": "Regular Race - Week 4 - Short",
+        "hash": "eeae58531d30a20b89c34ca9d9280a81a87fdcd82da7186a9cffc5ef114aa303"
+    },
+    "690017": {
+        "text": "Regular Race - Week 4 - Mile",
+        "hash": "7e6a7e2ac268c5b1676ec6ce5274b2c5fb5be5a878724bad119c0f15d9d00d8b"
+    },
+    "690018": {
+        "text": "Regular Race - Week 4 - Medium",
+        "hash": "f08b448fcad77503871c0191785e842395ae25a599f8fff40002c7957679a099"
+    },
+    "690019": {
+        "text": "Regular Race - Week 4 - Long",
+        "hash": "9fb86a88ad1a8d363d81458f4a496d25ccd096bdc5fafc8a4d13e2e6884646f8"
+    },
+    "690020": {
+        "text": "Regular Race - Week 4 - Dirt",
+        "hash": "48bd86ad6be3edd4455565cecfb85ba63127d1f7c9ae2f130b237ac47e78f770"
+    },
+    "690021": {
+        "text": "Finale Race - Short",
+        "hash": "2f25d954cb6de8ef1f0e30376110c5b1a5686021429ffdc7a894f5fd067ce502"
+    },
+    "690022": {
+        "text": "Finale Race - Mile",
+        "hash": "88e79c2c722c49579c67d9ef6cc7e5b857096e05df7e9632a7ece9efa8cf3534"
+    },
+    "690023": {
+        "text": "Finale Race - Medium",
+        "hash": "d10dc18af70dea5a3abf0d48755f5e6a2cc8a48a0d84841e9f5a6449d1ebe711"
+    },
+    "690024": {
+        "text": "Finale Race - Long",
+        "hash": "52b8190617f6448a0fd655f0d11568908b7abd3e94154b75412f3dfb62f3055d"
+    },
+    "690025": {
+        "text": "Finale Race - Dirt",
+        "hash": "9cf24935750f8c46e502f527f21981e731940c09e9f44d148e4603a5dcf51499"
+    },
     "700101": {
         "text": "Team Practice",
         "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c"
@@ -7994,5 +8094,13 @@
     "1201302": {
         "text": "Asahi Hai FS (HARD)",
         "hash": "72345f55ee0c3d9740b59a85598810a98138f546355f75ebe183beb5a626f1a0"
+    },
+    "1201501": {
+        "text": "Satsuki Sho (HARD)",
+        "hash": "a545c790128d9daa36c9bd7e632b49b8df5c63833c7a288094acb082776e6805"
+    },
+    "1201502": {
+        "text": "Satsuki Sho (HARD)",
+        "hash": "a545c790128d9daa36c9bd7e632b49b8df5c63833c7a288094acb082776e6805"
     }
 }

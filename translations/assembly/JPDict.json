@@ -3568,11 +3568,11 @@
         "hash": "f449128f6e119c76e34aa119f453a405ab8ff1b4791d4557e0602773b379a41b"
     },
     "Common0011": {
-        "text": "",
+        "text": "<nb>Date Change",
         "hash": "311ec04dc823f0e90c5b402c7fa8c1de8c4ed3bd7214aded1a986595d9ea4982"
     },
     "Common0012": {
-        "text": "",
+        "text": "The next day has arrived.",
         "hash": "5b9f6baed61ab32eda1dc229cd25917acdbaeed796719c94df535109af04d283"
     },
     "Common0013": {
@@ -4532,7 +4532,7 @@
         "hash": "5cf792b202b949255dd260931b9cda1395f54483b55f06e9b4c9a406580a47b8"
     },
     "CustomRace0048": {
-        "text": "",
+        "text": "Choose Umamusume",
         "hash": "d853587a532ffcd48164f7f687bb8a6b0eaf23c59590f0844e12b06b226492bc"
     },
     "CustomRace0050": {
@@ -7200,7 +7200,7 @@
         "hash": "db6df5375cc79f653e01aa67a42e60a6c00f892a7e7ee61db9b89c0fd76a3eef"
     },
     "Home424003": {
-        "text": "History",
+        "text": "<sc=90>History",
         "hash": "94b842360f3f9a39e489e10fd8cd347dbd8e117a537d183616934b484c93c91d"
     },
     "Home424004": {
@@ -10124,7 +10124,7 @@
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Outgame213036": {
-        "text": "",
+        "text": "Race",
         "hash": "f874a1c168a7a1783d8e94db9e0c43d72d5c586c67f696402c10e1313fc501f9"
     },
     "Outgame213037": {
@@ -10348,7 +10348,7 @@
         "hash": "f572d7d549384c6902cd829869f23615a808b2fca42df4e4218d1476620f22db"
     },
     "Outgame213092": {
-        "text": "",
+        "text": "No more pages to show.",
         "hash": "9226c86dabea627cbb581a3438aab0c36880f1ec74de8b7242e5b16d8e4689e2"
     },
     "Outgame213093": {
@@ -13060,7 +13060,7 @@
         "hash": "b4b5beae00d23285133647e4d7227283542ca57e9f7678af1475e4c6f121bd07"
     },
     "Race0658": {
-        "text": "",
+        "text": "<nb>Placement Rewards",
         "hash": "c033c96d074ed1d82be789b2adaabf7a23c6e260ddb92e610acec2f9d416f164"
     },
     "Race0659": {
@@ -13284,31 +13284,31 @@
         "hash": "1bf8abcb4cb8e2d3280d14f4eef0bb47e46b1c33edb002e8455223d5f487fcaa"
     },
     "RatingRace408001": {
-        "text": "",
+        "text": "Short Race",
         "hash": "8135d6323b89135cc524e674f7b6e1c4fd36e48a70b344b769233b62141bf29b"
     },
     "RatingRace408002": {
-        "text": "",
+        "text": "Mile Race",
         "hash": "facbebe93c532d89a1f12a4876beba007b3c8130fb8205d80a671b07d71838c9"
     },
     "RatingRace408003": {
-        "text": "",
+        "text": "Medium Race",
         "hash": "0afb47055ede2d7b2b4f59db771b8dead5aacf6829a2fbb12f9eb72f6ee9d7b0"
     },
     "RatingRace408004": {
-        "text": "",
+        "text": "Long Race",
         "hash": "716f15efbf6e4c7d5f48b9b62705162a801f67629440db8fee1385bd2a64b5ee"
     },
     "RatingRace408005": {
-        "text": "",
+        "text": "Dirt Race",
         "hash": "64863e1c4de6fd80b63ed9baefd23eb18afa29aa0a96605debdd09d7c3c3ac45"
     },
     "RatingRace408006": {
-        "text": "",
+        "text": "<nb>3 RP free per day!",
         "hash": "c4e2287f054755ce64ced56156e4baad567c34889209f13a25bd2bd22fc3c93b"
     },
     "RatingRace408007": {
-        "text": "",
+        "text": "Can't transfer because she's in a Monthly Match race.",
         "hash": "7b4ba799e04734849b46942b3a54485e89ef3a649f7974b3b7eed606defda231"
     },
     "RatingRace408008": {
@@ -13320,11 +13320,11 @@
         "hash": "c627c09c14e58e44bc51622dac392958ec88244e414b508020634f53cfcd1e69"
     },
     "RatingRace408010": {
-        "text": "",
+        "text": "Week {0}",
         "hash": "4af59a8f5e24d8b935a4e6320e0ee7cd01eb41f19b09b922f5be7b4debfe65b9"
     },
     "RatingRace408011": {
-        "text": "",
+        "text": "Current Weekend Pts",
         "hash": "df9688435dad8b4bc1f6d956d0783fd0728a5b461c916d8041bc505010df6979"
     },
     "RatingRace408012": {
@@ -13332,47 +13332,47 @@
         "hash": "7a66eabf637f6a4c162d331966b5966e2656f4051ae52acbcb1af0a3ab2eff10"
     },
     "RatingRace408013": {
-        "text": "",
+        "text": "Gather points with races during the weekend!",
         "hash": "79b25fac44fb4276ac8ce631944be2f427ea8f44c76e38f9e498089ddf3671ab"
     },
     "RatingRace408014": {
-        "text": "",
+        "text": "Unlock by reaching CLASS {0}",
         "hash": "fe46e08ca341aed810bd8e260ce9d4c18835d32bdd2f3faca10ed8473fc4c2a9"
     },
     "RatingRace600001": {
-        "text": "",
+        "text": "Monthly\nMatch",
         "hash": "bb27b63f20574f0cec8bb92799b5f684a210ed9bd5fdc0d47b069e22ba66a219"
     },
     "RatingRace600002": {
-        "text": "",
+        "text": "Monthly Match",
         "hash": "d31d9f6af38756959582507c60a6f2144f8a4dae99327c15d78ef17140b426e3"
     },
     "RatingRace600003": {
-        "text": "",
+        "text": "       CLASS up in",
         "hash": "472a6cff4f7fd8a0ff9347702cf721a2d2874a649c1ba9e682fe610c52886d0a"
     },
     "RatingRace600004": {
-        "text": "",
+        "text": "<sc=90>Best CLASS",
         "hash": "56bc57fc1abf1ff3f0d05dd2c481a31c5e461ce58ca9f2d7f5d2b947f325ae4d"
     },
     "RatingRace600005": {
-        "text": "",
+        "text": "Week 1",
         "hash": "9377bd8eac493aa5a71d5cff8f5961f6337c57d1f39caf9e19afcb57ac3e6721"
     },
     "RatingRace600006": {
-        "text": "",
+        "text": "Week 2",
         "hash": "6a1b8576cd2cf3d83fddd31e84ed1e215db90e21f184c01e8b7991c8bb4497dd"
     },
     "RatingRace600007": {
-        "text": "",
+        "text": "Week 3",
         "hash": "399fc19987b7a84bc9adf949a5c5de1f6ed8234884d37743a88cc79e4c144dfc"
     },
     "RatingRace600008": {
-        "text": "",
+        "text": "Week 4",
         "hash": "65f61f29b4b08e49296f69e0158a5cf5693dc2a585122e652f440dc1b158631c"
     },
     "RatingRace600009": {
-        "text": "",
+        "text": "Finale",
         "hash": "3e68104fd0d676cbaa933ede30672977e0850225fba92d9f83ef8b397e02fd71"
     },
     "RatingRace600010": {
@@ -13380,7 +13380,7 @@
         "hash": "72063d8ee8c50b2a2ebd2ac8053d5553d14f89424f43ba83a1fdade3dfea5340"
     },
     "RatingRace600011": {
-        "text": "",
+        "text": "Free RP: {0}/{1}",
         "hash": "723d85f8477b1be5480c1df8a539c82a9e53e23824462a230d7ef64db748c117"
     },
     "RatingRace600012": {
@@ -13424,7 +13424,7 @@
         "hash": "4cc43848d9159cb3f4fb381ab412f19c1255de9768960c695f6439d0bb6fcb5a"
     },
     "RatingRace600022": {
-        "text": "",
+        "text": "Best CLASS History",
         "hash": "4f39bda319deb10c3a221464813d53a7fc7f0e7a008d77f62dfd5c63e6f1e49a"
     },
     "RatingRace600023": {
@@ -13432,7 +13432,7 @@
         "hash": "454f0a7db82ee99dc2a4b72fb8a1c63cecaf0888f4af7190180254cc210bfc19"
     },
     "RatingRace600024": {
-        "text": "",
+        "text": "<sc=90>Best CLASS",
         "hash": "56bc57fc1abf1ff3f0d05dd2c481a31c5e461ce58ca9f2d7f5d2b947f325ae4d"
     },
     "RatingRace600025": {
@@ -13492,27 +13492,27 @@
         "hash": "35688ef15232aba567d2de35359c2931e31ad03a46420b19b8d152ac9804b664"
     },
     "RatingRace600039": {
-        "text": "",
+        "text": "Weekend",
         "hash": "2891f51ef98402ec88905f381714bf424e5200d044070e992b4c9ba16187a831"
     },
     "RatingRace600040": {
-        "text": "",
+        "text": "Reach CLASS {0}",
         "hash": "0efbc0c154adca9c21d8aaf783f6ac348f8e079ae59bbc436fa0bfb68c972542"
     },
     "RatingRace600041": {
-        "text": "",
+        "text": "Improve your CLASS by doing races!",
         "hash": "54406b03978545a0e176bb7aa8174cecbfc4c6860510de3d38fda5c573d41fe6"
     },
     "RatingRace600042": {
-        "text": "",
+        "text": "Receive rewards by entering the Finale Race!",
         "hash": "ae9cb991bdc0fbc78eaa1c3982ecc3abd7dc057f3a44b4430804a743c4e13b05"
     },
     "RatingRace600043": {
-        "text": "",
+        "text": "CLASS {0}",
         "hash": "78ed7654036e2a263f7c85d7c231c692a3a06d94b2ef9eb0c74cf7333f7da7e8"
     },
     "RatingRace600044": {
-        "text": "",
+        "text": "No history to show.",
         "hash": "8f340d51f3e0c467de73e91e356c8c38749f7ca35e74915548833df23eb56798"
     },
     "RatingRace600045": {
@@ -13530,6 +13530,22 @@
     "RatingRace600048": {
         "text": "",
         "hash": "f2516b69127c2ad22a43a0fd0f5bf08b7b452317e5a5ad80b8f6866d59b7df0f"
+    },
+    "RatingRace600049": {
+        "text": "",
+        "hash": "f7b2d30adf00417ab03c6609b0cbb48df823336a5b6a6168148703e98f1bba15"
+    },
+    "RatingRace600050": {
+        "text": "Placement",
+        "hash": "54ff8445f24b6cc95066955158cc8eb7d744e3d3bc32b297cccbf8826b5d9cfa"
+    },
+    "RatingRace600051": {
+        "text": "Race + Rivals",
+        "hash": "9c7e1c1843f645a0635f4e23b4418e73f32f85eee01fb3c02b0c1e4f2a111c32"
+    },
+    "RatingRace600052": {
+        "text": "<nb>Breakdown",
+        "hash": "68652ebeecccebd1992c246b5b6e111f5919abe9110e9fa050a45ac261cc47c4"
     },
     "RoomMatch0001": {
         "text": "Room Match",
@@ -14868,7 +14884,7 @@
         "hash": "278765acf3e343d853f7ec6b17909f6fa2f5a69686af87e1832190feeab76978"
     },
     "Shop0106": {
-        "text": "",
+        "text": "Limited Sale",
         "hash": "6ae7032d97b73585f2d50c048e60e4cc19dc26db78b57fea32195a140210fd94"
     },
     "Shop0107": {
@@ -14884,7 +14900,7 @@
         "hash": "009fff8cff70ebe3066ef8fa133516179b05d1d9de8877e7224026624337f51f"
     },
     "Shop0110": {
-        "text": "",
+        "text": "Sales left today: <p=time,times>{0}</p>",
         "hash": "89179c673c22f67b8f392407d819ba7d775081586f2713cbe1ebb9e0bacca357"
     },
     "Shop0112": {
@@ -15200,7 +15216,7 @@
         "hash": "0a2a036d48e68ec0e3c03d3d7f4f17c919f95248c081ce75dc04a5d528af49d4"
     },
     "Shop137012": {
-        "text": "",
+        "text": "Limited sale items appeared <color=#ff911c>{0}</color> times!",
         "hash": "2a3f2ae1859492bc1caf9c1f90dfb35a3c8707ff0cae76559c8c0babced7a585"
     },
     "Shop497004": {
@@ -15744,8 +15760,8 @@
         "hash": "d4524d53c2e7bbd06719a450dceaa5439ca3c65283670b6ba48bba48f0914361"
     },
     "SingleMode0223": {
-        "text": "Your next goal is in <p=turn,turns>{0}</p>!\nI'm sure you can make it!",
-        "hash": "8da74f369ac2ab01a4d4511a5de37b64c413d4b7次の目標まで029e03aac4cf6fc553dfbf06"
+        "text": "",
+        "hash": "8da74f369ac2ab01a4d4511a5de37b64c413d4b7029e03aac4cf6fc553dfbf06"
     },
     "SingleMode0224": {
         "text": "Goals Completed",
@@ -17576,7 +17592,7 @@
         "hash": "45adcfd0d29fc7d706b60a495d8398f50fa42b6c35b8c26c76996aa5435a7194"
     },
     "SingleMode419003": {
-        "text": "",
+        "text": "Free",
         "hash": "ea5c6bf72c46a2ec45fe4ee9b5c299597bc18d79a9fc1c47c90a967422c399e5"
     },
     "SingleMode419004": {
@@ -21684,7 +21700,7 @@
         "hash": "3638214533cf9f864b7691bf6f6bc36f302eeab0c7490fd499e7ed99ecd22675"
     },
     "TeamBuilding408040": {
-        "text": "",
+        "text": "Free",
         "hash": "ea5c6bf72c46a2ec45fe4ee9b5c299597bc18d79a9fc1c47c90a967422c399e5"
     },
     "TeamBuilding408041": {
@@ -21696,7 +21712,7 @@
         "hash": "8c6c2d7130cd9890b38b72c7cb3e6fe3834ab0086f7693b17fd8974781ee3a9b"
     },
     "TeamBuilding408043": {
-        "text": "",
+        "text": "<color=#ff911c>{0}</color> left",
         "hash": "25ebfcf7b8f0eabaeb66933f6cde48ff97e32361ea85ca9f71eb56d5bbdebd4e"
     },
     "TeamBuilding408044": {
