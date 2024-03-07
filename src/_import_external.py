@@ -547,6 +547,9 @@ for (let i = 0; i < elements.length; i++) {
 }
 return out;
 """, fetch_skill_translations())
+    
+    driver.close()
+
     return data
 
 def apply_gametora_missions():
@@ -584,25 +587,27 @@ def apply_gametora_title_missions():
         print("Failed to scrape missions")
         return
     
+    # print(mission_data['1000157'])
+    
 
-    with util.MDBConnection() as (conn, cursor):
-        new_dict = {}
-        for key in mission_data:
-            cursor.execute(
-                """
-                SELECT id FROM mission_data WHERE item_id = ?;
-                """,
-                (key,)
-            )
-            rows = cursor.fetchall()
-            if not rows:
-                continue
-            for row in rows:
-                new_id = str(row[0])
-                if new_id.startswith("20"):
-                    continue
-                new_dict[new_id] = mission_data[key]
-        mission_data.update(new_dict)
+    # with util.MDBConnection() as (conn, cursor):
+    #     new_dict = {}
+    #     for key in mission_data:
+    #         cursor.execute(
+    #             """
+    #             SELECT id FROM mission_data WHERE item_id = ?;
+    #             """,
+    #             (key,)
+    #         )
+    #         rows = cursor.fetchall()
+    #         if not rows:
+    #             continue
+    #         for row in rows:
+    #             new_id = str(row[0])
+    #             if new_id.startswith("20"):
+    #                 continue
+    #             new_dict[new_id] = mission_data[key]
+    #     mission_data.update(new_dict)
 
 
     # Load local mission data
@@ -615,6 +620,7 @@ def apply_gametora_title_missions():
             for key in keys:
                 key = str(key[1])
                 if mission_data.get(key):
+                    print(mission_data[key])
                     entry['prev_text'] = entry['text']
                     entry['text'] = util.add_period(mission_data[key])
                     entry['new'] = False
@@ -635,13 +641,13 @@ def main():
     # import_external_story('race/02/0006', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
 
 
-    umapyoi_chara_ids = get_umapyoi_chara_ids()
-    apply_umapyoi_character_profiles(umapyoi_chara_ids)
-    apply_umapyoi_outfits(umapyoi_chara_ids)
-    apply_umapyoi_vas()
-    apply_umapyoi_supports()
+    # umapyoi_chara_ids = get_umapyoi_chara_ids()
+    # apply_umapyoi_character_profiles(umapyoi_chara_ids)
+    # apply_umapyoi_outfits(umapyoi_chara_ids)
+    # apply_umapyoi_vas()
+    # apply_umapyoi_supports()
 
-    apply_gametora_skills()
+    # apply_gametora_skills()
     apply_gametora_missions()
     apply_gametora_title_missions()
     pass
