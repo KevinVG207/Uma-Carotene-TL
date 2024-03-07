@@ -19,6 +19,11 @@
         "hash": "00d4ada698f69b93d40a2461119c89c03846d12f9fbbf46f713f977edb159d17",
         "processed": "<rbr>Complete a training run once."
     },
+    "100006": {
+        "text": "Clear all daily missions.",
+        "hash": "ffee6d1486c657fe4e915f058681fa87646f6015e5cb4808f52083e547cccd16",
+        "processed": "<rbr>Clear all daily missions."
+    },
     "100007": {
         "text": "Participate in any Daily Race 3 times.",
         "hash": "65f89a2a7026373bc5618194b926cdf98b3c42cdb7d106f0ef8ebd195c115f40",
@@ -4250,34 +4255,34 @@
         "processed": "<rbr>Raise the Awakening level of<br>any character once."
     },
     "320001": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 3 times.",
         "hash": "9f04b8b4902e070a8c0ee091ec39d288654e445872745e1857811ad93a574fe8",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 3 times."
     },
     "320002": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 5 times.",
         "hash": "19ec4599d2fa97a453240f7415525532aea1303b9b5f3933ccebe1249eb5a81e",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 5 times."
     },
     "320003": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 10 times.",
         "hash": "d89f9aa5f53df4c54a2832bef1525af8d29b02ba4c9bb6ac86339ec12e2fc0b0",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 10 times."
     },
     "320004": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 15 times.",
         "hash": "a68d123205fea8c4e90379ad9fe662804758a32fe70a77330f051ed3caedad61",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 15 times."
     },
     "320005": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 20 times.",
         "hash": "060402b95ff626fd8a57b96f169fc1bcc3bda9da21d486619697ceb4a503fbdf",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 20 times."
     },
     "320006": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 25 times.",
         "hash": "0a717ac112363ec9f5fce25616e3f36ba1d07999f197e69f8edc63c845795736",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 25 times."
     },
     "320007": {
         "text": "Raise the Awakening level of any character 30 times.",
@@ -7765,9 +7770,9 @@
         "processed": "<rbr>Create or join a Circle."
     },
     "330101": {
-        "text": "Clear all the individual rewards in the Top Umadol Project event.",
+        "text": "Look at your circle's circle card.",
         "hash": "6c00ee001d448b1ff890e765910135e0c202aa20dbc0950eecfa76b97fea664f",
-        "processed": "<rbr><sc=90>Clear all the individual rewards<br>in the Top Umadol Project event."
+        "processed": "<rbr>Look at your circle's circle<br>card."
     },
     "330200": {
         "text": "Win the URA Finals once during training.",
@@ -10234,20 +10239,790 @@
         "hash": "efeae450d756d0a43f44ed9f125b821beca30875ec713d96b0880f65fe74b0c3",
         "processed": "<rbr>Raise the affection rank of<br>Daitaku Helios to rank 12."
     },
+    "600101": {
+        "text": "Reach team rank D.",
+        "hash": "36fccd1f13af74df9424f4d35e875a9c259caf584f61f5673dd048f7bdb9cf0d",
+        "processed": "<rbr>Reach team rank D."
+    },
+    "600102": {
+        "text": "Reach team rank B.",
+        "hash": "bd123486f3f7dcf35646a493f27e8c66a4d1282bdc7f594bb8286566d049f539",
+        "processed": "<rbr>Reach team rank B."
+    },
+    "600103": {
+        "text": "Reach team rank A.",
+        "hash": "ef5099adbbcc891cda3a7bbc27d52a233e493451df0c637f6bfb002f0a6ecf28",
+        "processed": "<rbr>Reach team rank A."
+    },
+    "600104": {
+        "text": "Reach team rank S.",
+        "hash": "4a1c82b8e6cf9a90eb6f3cdedec8c6e54725b7c41cc28afbeac01912e48a7e57",
+        "processed": "<rbr>Reach team rank S."
+    },
+    "600105": {
+        "text": "Reach team rank SS.",
+        "hash": "1d81cec7ecd5e999d29fd3d49d6acff669ef93d94ba21e43604ae6336fe5edce",
+        "processed": "<rbr>Reach team rank SS."
+    },
+    "600201": {
+        "text": "Train a horsegirl to rank S 10 times.",
+        "hash": "b5083d907af8e858bdd761655df4c48e984b725406d80cadca070b48ddd35d34",
+        "processed": "<rbr>Train a horsegirl to rank S 10<br>times."
+    },
+    "600202": {
+        "text": "Train a horsegirl to rank S 50 times.",
+        "hash": "8f7eb1bc3512dd5a2b31e1e795c2a4d07715202a04d109e4b9709b238e94085a",
+        "processed": "<rbr>Train a horsegirl to rank S 50<br>times."
+    },
+    "600203": {
+        "text": "Train a horsegirl to rank S 200 times.",
+        "hash": "4f006da5d9a1829705ecff55dda4a7a241c703942c51c8ddc5c0920ec4b5da35",
+        "processed": "<rbr>Train a horsegirl to rank S<br>200 times."
+    },
+    "600204": {
+        "text": "Train a horsegirl to rank S 500 times.",
+        "hash": "97768268e070df54acb50e10ab9e1bd3cb56bb0b9f719809b6e5209f97e1eec0",
+        "processed": "<rbr>Train a horsegirl to rank S<br>500 times."
+    },
+    "600211": {
+        "text": "Complete a training run having won all races and succeeded at all objectives without using alarm clocks.",
+        "hash": "bbbe5e591eaac9fb0e470fc6c803d05a24ac1e153485502d3501cb96ff69650b",
+        "processed": "<rbr><sc=66>Complete a training run having won all races<br>and succeeded at all objectives without<br>using alarm clocks."
+    },
+    "600212": {
+        "text": "Complete a training run having triggered Friendship Training at least 60 times.",
+        "hash": "e44f7ae3ab5f133cd965853cf60f2c521e0071962547f5720db6fee68a09d4f6",
+        "processed": "<rbr><sc=73>Complete a training run having triggered<br>Friendship Training at least 60 times."
+    },
+    "600213": {
+        "text": "Complete a training run having participated in at least 35 races.",
+        "hash": "12450fe8e6dfc8797c7d39acb412a0b1585a2e8d25e705ac6ff661a51f48c99f",
+        "processed": "<rbr><sc=91>Complete a training run having<br>participated in at least 35 races."
+    },
+    "600214": {
+        "text": "Complete a training run having gotten a ★3 stat factor, a ★3 aptitude factor, and a ★3 unique skill factor.",
+        "hash": "4656acc1417f010624ef3b97a4a1ff351dbecab615a6516526be1add01c851cd",
+        "processed": "<rbr><sc=66>Complete a training run having gotten a ★3<br>stat factor, a ★3 aptitude factor, and a ★3<br>unique skill factor."
+    },
+    "600251": {
+        "text": "Complete 30 training runs with Runner aptitude S.",
+        "hash": "8e05e319174248446dca0ee13eb776d17baf76511466e74c1fba00d54c962559",
+        "processed": "<rbr>Complete 30 training runs<br>with Runner aptitude S."
+    },
+    "600252": {
+        "text": "Complete 30 training runs with Leader aptitude S.",
+        "hash": "6dbbf1da3a8d7c34382d66ac88300f48334b41e649dcd70480d9d935483ebc02",
+        "processed": "<rbr>Complete 30 training runs<br>with Leader aptitude S."
+    },
+    "600253": {
+        "text": "Complete 30 training runs with Betweener aptitude S.",
+        "hash": "f1902a30b265f348221f0a24d69bcb4d1738312ef35dca5f164e32cec9dab40c",
+        "processed": "<rbr>Complete 30 training runs<br>with Betweener aptitude S."
+    },
+    "600254": {
+        "text": "Complete 30 training runs with Chaser aptitude S.",
+        "hash": "e6716e41475de06eb096b668a0fbb3878d6818417c53d5360becc0142bbe285c",
+        "processed": "<rbr>Complete 30 training runs<br>with Chaser aptitude S."
+    },
+    "600255": {
+        "text": "Complete 30 training runs with Short-distance aptitude S.",
+        "hash": "9b179e86a8f6fd0119bcaaca675a72e8a77791bb1bd88cc7edd8135d7f57bd76",
+        "processed": "<rbr><sc=95>Complete 30 training runs with<br>Short-distance aptitude S."
+    },
+    "600256": {
+        "text": "Complete 30 training runs with Mile aptitude S.",
+        "hash": "0633eaadf1ba21230bb7fea16206e9a74c4e06a8e40099bb081c53dc7ad72c2e",
+        "processed": "<rbr>Complete 30 training runs<br>with Mile aptitude S."
+    },
+    "600257": {
+        "text": "Complete 30 training runs with Medium-distance aptitude S.",
+        "hash": "9ca342d28e0a5ff17cf20ea5423398652528f97d0f8cad9b56a6bcbf66bf690f",
+        "processed": "<rbr><sc=95>Complete 30 training runs with<br>Medium-distance aptitude S."
+    },
+    "600258": {
+        "text": "Complete 30 training runs with Long-distance aptitude S.",
+        "hash": "a7399363ff52ba7b28a64b23a9605ed25c62f52f12726497534dec1e34da4710",
+        "processed": "<rbr><sc=96>Complete 30 training runs<br>with Long-distance aptitude S."
+    },
+    "600259": {
+        "text": "Complete 30 training runs with Turf aptitude S.",
+        "hash": "e05c8127901401341b7f0d56f6739b339a7faf62bb5835bf301f3594e1250b23",
+        "processed": "<rbr>Complete 30 training runs<br>with Turf aptitude S."
+    },
+    "600260": {
+        "text": "Complete 30 training runs with Dirt aptitude S.",
+        "hash": "5b0a4c730a0fb5550dbe42988559f57645e51110c3acce6f243caae20f502f73",
+        "processed": "<rbr>Complete 30 training runs<br>with Dirt aptitude S."
+    },
+    "600301": {
+        "text": "Win 100 GI races.",
+        "hash": "c4c59796ba3e54a27bb90f83dd8e95fa651c5de5558066a0102f0e19f567c983",
+        "processed": "<rbr>Win 100 GI races."
+    },
+    "600302": {
+        "text": "Win 500 GI races.",
+        "hash": "1366170c396bdec4d97cdf85d26604cc2dd3048ffbb9bbb51314c1fecdbe380e",
+        "processed": "<rbr>Win 500 GI races."
+    },
+    "600303": {
+        "text": "Win 1000 GI races.",
+        "hash": "7173e66d059a408aed94e043aa1ccc459b24be4dfebbbeeba9d0aed434d731ee",
+        "processed": "<rbr>Win 1000 GI races."
+    },
+    "600304": {
+        "text": "Win 2000 GI races.",
+        "hash": "5570c5694ae81862bb5e852ca5edd250bc1d85613b0a9803e12cf6c7f274ce9f",
+        "processed": "<rbr>Win 2000 GI races."
+    },
+    "600401": {
+        "text": "Collect all 69 GIII trophies.",
+        "hash": "56fde04c06a0142c5da9b63a65aec3ca9513a1d67909c94025fbcd72dd3b8b30",
+        "processed": "<rbr>Collect all 69 GIII trophies."
+    },
+    "600402": {
+        "text": "Collect all 36 GII trophies.",
+        "hash": "3840ae0a2cc6b849da8b8c2ce5525709cb7c5f71dca2835bea1e0842d504da67",
+        "processed": "<rbr>Collect all 36 GII trophies."
+    },
+    "600403": {
+        "text": "Collect all 30 GI trophies.",
+        "hash": "66b4f1f9d75aeb8007bf1a31519487a9c603bd19d02b153b18eb54730b883c6c",
+        "processed": "<rbr>Collect all 30 GI trophies."
+    },
     "600404": {
         "text": "Win the URA Finals once during training.",
         "hash": "e6b4da94d8d77005bf393a7fb1d1f46d0bf8191d28da78d41ad72738f479335f",
         "processed": "<rbr>Win the URA Finals once<br>during training."
+    },
+    "600405": {
+        "text": "Win all eight major races in training.",
+        "hash": "cdf0181123c582f80aa53d8183c7b6670e5928c57e7f068c5021afc286df4219",
+        "processed": "<rbr>Win all eight major races in<br>training."
+    },
+    "600406": {
+        "text": "Win the Aoharu Hai.",
+        "hash": "68d6f07fa315e800c11e8880c55940c0bf98060969d9383f9044c7e2428bbf27",
+        "processed": "<rbr>Win the Aoharu Hai."
+    },
+    "600407": {
+        "text": "Raise team to S rank in the Aoharu Hai.",
+        "hash": "55d8479895a13c5153de3847fde8af86e0db39e52868c2521e6ca13cc979633d",
+        "processed": "<rbr>Raise team to S rank in the<br>Aoharu Hai."
+    },
+    "600408": {
+        "text": "Raise team HOP CHEERS to S rank in the Aoharu Hai.",
+        "hash": "71abb9247b17cea2005ee894395e06e637dcac1e0bb3d7f3f6eb6ddd56423cf7",
+        "processed": "<rbr>Raise team HOP CHEERS to S<br>rank in the Aoharu Hai."
+    },
+    "600409": {
+        "text": "Raise team Hare no Hi Runners to S rank in the Aoharu Hai.",
+        "hash": "ea4beb46f38d01451428bcef28271c69204b09f169893c812286055ab117f0db",
+        "processed": "<rbr><sc=95>Raise team Hare no Hi Runners<br>to S rank in the Aoharu Hai."
+    },
+    "600410": {
+        "text": "Raise team Carrot Pudding to S rank in the Aoharu Hai.",
+        "hash": "7c9c1777952f42c125c66a6f269bac96b2e72b923ea5c79a359d03ffa6ed8f7f",
+        "processed": "<rbr>Raise team Carrot Pudding to<br>S rank in the Aoharu Hai."
+    },
+    "600411": {
+        "text": "Raise team Blooms to S rank in the Aoharu Hai.",
+        "hash": "cd5165588c1e6857453ef093878c23ab58a94d8a966e693873a4291ca6defed0",
+        "processed": "<rbr>Raise team Blooms to S rank<br>in the Aoharu Hai."
+    },
+    "600413": {
+        "text": "Compete with those two in the URA Finals of the Aoharu Hai and win!.",
+        "hash": "f646f76ba03c5991658d474f0bc600bba7b47d97f4cb9478a0521d7224b3eec2",
+        "processed": "<rbr><sc=83>Compete with those two in the URA<br>Finals of the Aoharu Hai and win!."
+    },
+    "600414": {
+        "text": "Win the Twinkle Star Climax.",
+        "hash": "fdf69825057e496f4f87882c728621d84af3b8611a280698be7d82860de1f04e",
+        "processed": "<rbr>Win the Twinkle Star Climax."
+    },
+    "600415": {
+        "text": "Buy a total of 1000 items in the Special Shop.",
+        "hash": "a0c2a199b7d8ce865d1c4c808ae188a87f1640f81139da51df66a8a2d8da2479",
+        "processed": "<rbr>Buy a total of 1000 items in<br>the Special Shop."
+    },
+    "600416": {
+        "text": "Turn all Lives into a success in the Grand Live scenario.",
+        "hash": "42cada7b7213da23a4c97bf708ea9041b1db0699176479e551efbde958d984d5",
+        "processed": "<rbr>Turn all Lives into a success<br>in the Grand Live scenario."
+    },
+    "600417": {
+        "text": "Watch a special Grand Live.",
+        "hash": "8ac5f2199e5ea73f3f7784e9e920b8cfcb699385cfd4479ae2fe60a81c54066c",
+        "processed": "<rbr>Watch a special Grand Live."
+    },
+    "600418": {
+        "text": "Learn at total of 1200 live techniques.",
+        "hash": "d3f0c563d6ac689b0de2d8a90128befb5899c4676811cb1f5e47ba81cf48232e",
+        "processed": "<rbr>Learn at total of 1200 live<br>techniques."
+    },
+    "600419": {
+        "text": "Win the Grand Masters race.",
+        "hash": "966114bd13baabf4c6d4df74d86517243ef57bfa4c574a736a4a8bb85056d747",
+        "processed": "<rbr>Win the Grand Masters race."
+    },
+    "600420": {
+        "text": "Acquire a total of 50 Goddess' Wisdoms during training.",
+        "hash": "94136c42ac2aecc0a97ae8d61e556b34565985da7b56f9210179b89731af4f3c",
+        "processed": "<rbr><sc=97>Acquire a total of 50 Goddess'<br>Wisdoms during training."
+    },
+    "600421": {
+        "text": "Acquire Darley Arabian's Goddess Wisdom a total of 20 times during training.",
+        "hash": "6161e44fd2a84b86a0743fc56ade379404f93ad627ca603fb220547342d472b4",
+        "processed": "<rbr><sc=75>Acquire Darley Arabian's Goddess Wis-<br>dom a total of 20 times during training."
+    },
+    "600422": {
+        "text": "Acquire Godolphin Barb's Goddess Wisdom a total of 20 times during training.",
+        "hash": "1828d147588fe710e23bda7b89baa2e6699c95148e17ab148ab008911b80d6e0",
+        "processed": "<rbr><sc=74>Acquire Godolphin Barb's Goddess Wis-<br>dom a total of 20 times during training."
+    },
+    "600423": {
+        "text": "Acquire Byerley Turk's Goddess Wisdom a total of 20 times during training.",
+        "hash": "a70f047837a6097dd927927934b1d3de3807c3e94f87673cc13ef8b34fee3289",
+        "processed": "<rbr><sc=75>Acquire Byerley Turk's Goddess Wis-<br>dom a total of 20 times during training."
     },
     "600424": {
         "text": "Win the Prix de l'Arc de Triomphe once during training.",
         "hash": "e9facfc31d67d7c8edfef4373b58839c4c5898da6fc1d3d3bdcff8634d48b624",
         "processed": "<rbr>Win the Prix de l'Arc de Tri-<br>omphe once during training."
     },
+    "600425": {
+        "text": "Carry out a total of 50 SS Matches.",
+        "hash": "42b57b4cb46c9a035c12341cd58aa49ff5c05cfff0696aaf06b00ef1e7252f62",
+        "processed": "<rbr>Carry out a total of 50 SS<br>Matches."
+    },
+    "600426": {
+        "text": "Obtain a total of 50 Overseas Aptitudes.",
+        "hash": "a10c75fe63880b7fb5b5c46fed555aef1cef563c2d675193812b54fbc30a4056",
+        "processed": "<rbr>Obtain a total of 50 Overseas<br>Aptitudes."
+    },
+    "600427": {
+        "text": "Compete and win against the French legend in the Prix de l'Arc de Triomphe.",
+        "hash": "16df870aa3012c78d584b0962b20da60adfdf03111d33fc5a3bdd83bcd1cb4c4",
+        "processed": "<rbr><sc=74>Compete and win against the French<br>legend in the Prix de l'Arc de Triomphe."
+    },
+    "600428": {
+        "text": "Achieve overall victory in all of the U.A.F.'s tournaments.",
+        "hash": "ea71ac3d624710c5f642f1192b97be6a08736abc9091f973d256ce37754132a8",
+        "processed": "<rbr>Achieve overall victory in all<br>of the U.A.F.'s tournaments."
+    },
+    "600429": {
+        "text": "Reach a total Sphere genre level of 6000 or higher.",
+        "hash": "8148c3b8acfef10a620bbc76c26072f5438f68ba53656c52325aeabdfa26134f",
+        "processed": "<rbr>Reach a total Sphere genre<br>level of 6000 or higher."
+    },
+    "600430": {
+        "text": "Reach a total Fight genre level of 6000 or higher.",
+        "hash": "9c00090b2a8a9b7e3198a378d415a8b3ba27c17b19353eeca81b43ed965897a1",
+        "processed": "<rbr>Reach a total Fight genre<br>level of 6000 or higher."
+    },
+    "600431": {
+        "text": "Reach a total Free genre level of 6000 or higher.",
+        "hash": "4ee07845e1f3a39e2a0209d08e8cb833d4f5611ccf6bcf8f674bd39d18532ae2",
+        "processed": "<rbr>Reach a total Free genre<br>level of 6000 or higher."
+    },
+    "600501": {
+        "text": "Win races on the Sapporo Racetrack 200 times.",
+        "hash": "4278ef63f3ff45747be56044f9d9ca629d8d59c68573f641903c2439d271450e",
+        "processed": "<rbr>Win races on the Sapporo<br>Racetrack 200 times."
+    },
+    "600502": {
+        "text": "Win races on the Hakodate Racetrack 200 times.",
+        "hash": "89445723963df78fd0e0e23ddfedbabc810800ee9a1c8141ba43cb7c475c521e",
+        "processed": "<rbr>Win races on the Hakodate<br>Racetrack 200 times."
+    },
+    "600503": {
+        "text": "Win races on the Niigata Racetrack 200 times.",
+        "hash": "289139ef7fd30d4925c7ab7e2fd5547d09d6cc2ba09252fc6b010cd9aa708c51",
+        "processed": "<rbr>Win races on the Niigata<br>Racetrack 200 times."
+    },
+    "600504": {
+        "text": "Win races on the Fukushima Racetrack 200 times.",
+        "hash": "e9a2891cb00a13581f1f37b9135c8f07e9fedcc0f1d2837311449e996db7bcb0",
+        "processed": "<rbr>Win races on the Fukushima<br>Racetrack 200 times."
+    },
+    "600505": {
+        "text": "Win races on the Nakayama Racetrack 200 times.",
+        "hash": "c55b23cdae2b16929725fd552da5254f59a511c01124e8851e3531fa02a18ea3",
+        "processed": "<rbr>Win races on the Nakayama<br>Racetrack 200 times."
+    },
+    "600506": {
+        "text": "Win races on the Tokyo Racetrack 200 times.",
+        "hash": "d413bfa8bfa7ac70fa559a09dcc3449afc591565214b2c396a5c0bd78ce14a03",
+        "processed": "<rbr>Win races on the Tokyo<br>Racetrack 200 times."
+    },
+    "600507": {
+        "text": "Win races on the Chukyo Racetrack 200 times.",
+        "hash": "3edfdf93dddfaa952dc3c4ac4eda5ae1389f3011004ad37e677bfc4988184053",
+        "processed": "<rbr>Win races on the Chukyo<br>Racetrack 200 times."
+    },
+    "600508": {
+        "text": "Win races on the Kyoto Racetrack 200 times.",
+        "hash": "6e08123c721f8e378f25100fc1498d54ff0b375f86324159043a3dafd02d30e3",
+        "processed": "<rbr>Win races on the Kyoto<br>Racetrack 200 times."
+    },
+    "600509": {
+        "text": "Win races on the Hanshin Racetrack 200 times.",
+        "hash": "6bc8a70548fcdab927c9306b4fa0713a150a177b0f506467ef83045f3458e655",
+        "processed": "<rbr>Win races on the Hanshin<br>Racetrack 200 times."
+    },
+    "600510": {
+        "text": "Win races on the Kokura Racetrack 200 times.",
+        "hash": "933dafa94593fce22cf7976d3ae0a8c7ce353ce0182e38b54a995893dfc8b721",
+        "processed": "<rbr>Win races on the Kokura<br>Racetrack 200 times."
+    },
+    "600511": {
+        "text": "Win races on the Ooi Racetrack 200 times.",
+        "hash": "758c3b841da035fcf236b8d2b9a7e6dadf2a2e96d1f794e10bc49c5f4d8a9035",
+        "processed": "<rbr>Win races on the Ooi<br>Racetrack 200 times."
+    },
+    "600512": {
+        "text": "Win races on the Kawasaki Racetrack 200 times.",
+        "hash": "f617b49a87129a093857e091a92059af880aeb6d124a773ace93bed78c747d59",
+        "processed": "<rbr>Win races on the Kawasaki<br>Racetrack 200 times."
+    },
+    "600513": {
+        "text": "Win races on the Funabashi Racetrack 200 times.",
+        "hash": "bff508c033ee510d598502a790d105d475f4fa50de3b6718b16c4f24b6e29b64",
+        "processed": "<rbr>Win races on the Funabashi<br>Racetrack 200 times."
+    },
+    "600514": {
+        "text": "Win races on the Morioka Racetrack 200 times.",
+        "hash": "8df0127917ecf515691cf003afe597d4ce33f076293cba07acbecf72556171ac",
+        "processed": "<rbr>Win races on the Morioka<br>Racetrack 200 times."
+    },
+    "600520": {
+        "text": "Clear the training goal 1000 times in training.",
+        "hash": "4b1e1196b1a59590d8cac6b63f6b9af8fe8c62afad81d6edc85d37e1906f30ed",
+        "processed": "<rbr>Clear the training goal 1000<br>times in training."
+    },
+    "600521": {
+        "text": "Obtain a good condition 100 times in training.",
+        "hash": "9b63c962673e96f6b0f10d457fb0d91035793132902b56c3f421cc0490faaadd",
+        "processed": "<rbr>Obtain a good condition 100<br>times in training."
+    },
+    "600530": {
+        "text": "Win 100 daily races.",
+        "hash": "fbe45b33a5cf8956e646e7979fdfacc0f8682f451c04b9859ebbdb4ecdd330e3",
+        "processed": "<rbr>Win 100 daily races."
+    },
+    "600540": {
+        "text": "Win 1 legendary race.",
+        "hash": "8da1ab67a3619e01ff88eca2a28036a5d85ba9beddf9b02b6633da1674ce21fe",
+        "processed": "<rbr>Win 1 legendary race."
+    },
+    "600541": {
+        "text": "Win 100 legendary races.",
+        "hash": "41fd40fcda399978ad9b856d11c28a6d68333144f0d98141f94f7508fd007045",
+        "processed": "<rbr>Win 100 legendary races."
+    },
     "600550": {
         "text": "Participate in a Team Stadium match 100 times.",
         "hash": "a7a70a618a6f517991fc755a3836b5f23db661694bb88bfd7ff6ca81c36d3e6b",
         "processed": "<rbr>Participate in a Team<br>Stadium match 100 times."
+    },
+    "600551": {
+        "text": "Reach Class 6 at the team stadium.",
+        "hash": "69fac7f3963848987b101fe2536879e626ee4bdc8e85f7aa2ff88fc0f296de13",
+        "processed": "<rbr>Reach Class 6 at the team<br>stadium."
+    },
+    "600552": {
+        "text": "Earn a reward from winning in the team stadium 100 times.",
+        "hash": "0b911ba71a1f0a3d71b5235c010e70141b2d02795e346f0cfaf45c4142f54ae4",
+        "processed": "<rbr><sc=98>Earn a reward from winning in<br>the team stadium 100 times."
+    },
+    "600553": {
+        "text": "Get a score of 1000000 during a team stadium match once.",
+        "hash": "c49c0f3d7871d0f543ca83cc46282f984a63355e14bc9064b265e3ffb7b06484",
+        "processed": "<rbr><sc=96>Get a score of 1000000 during<br>a team stadium match once."
+    },
+    "600571": {
+        "text": "Place 1st through 3rd in one race of a Team Stadium match.",
+        "hash": "54b46a5e606991ba6c877a550bc2f6ecd6d5a311276907414e150c61632027ee",
+        "processed": "<rbr><sc=96>Place 1st through 3rd in one<br>race of a Team Stadium match."
+    },
+    "600572": {
+        "text": "Place 1st through 3rd in all races of a Team Stadium match.",
+        "hash": "c2d01007c81e8f65244914271458a838abe8595e49be610c6052e30083388e13",
+        "processed": "<rbr><sc=93>Place 1st through 3rd in all<br>races of a Team Stadium match."
+    },
+    "600573": {
+        "text": "Participate in a Team Stadium match with any three Mejiro characters on the same distance and have them win their race.",
+        "hash": "a73fe212a81af3bff1879c10e196c4ceffed1053af13e5d4ec8411a37ef5b3cc",
+        "processed": "<rbr><sc=66>Participate in a Team Stadium match with<br>any three Mejiro characters on the same dis-<br>tance and have them win their race."
+    },
+    "600574": {
+        "text": "Participate in a Team Stadium match with any three Mejiro characters on the same distance and have them win their race.",
+        "hash": "a73fe212a81af3bff1879c10e196c4ceffed1053af13e5d4ec8411a37ef5b3cc",
+        "processed": "<rbr><sc=66>Participate in a Team Stadium match with<br>any three Mejiro characters on the same dis-<br>tance and have them win their race."
+    },
+    "600575": {
+        "text": "Participate in a Team Stadium match with any three Mejiro characters on the same distance and have them win their race.",
+        "hash": "a73fe212a81af3bff1879c10e196c4ceffed1053af13e5d4ec8411a37ef5b3cc",
+        "processed": "<rbr><sc=66>Participate in a Team Stadium match with<br>any three Mejiro characters on the same dis-<br>tance and have them win their race."
+    },
+    "600576": {
+        "text": "Participate in a Team Stadium match with any three Mejiro characters on the same distance and have them win their race.",
+        "hash": "a73fe212a81af3bff1879c10e196c4ceffed1053af13e5d4ec8411a37ef5b3cc",
+        "processed": "<rbr><sc=66>Participate in a Team Stadium match with<br>any three Mejiro characters on the same dis-<br>tance and have them win their race."
+    },
+    "600580": {
+        "text": "Raise a horsegirl to ★5 10 times.",
+        "hash": "659a07e510d6fdf81bbe5545c6eeac47171d4b76f3fdacf4f96d4063e6aa9de3",
+        "processed": "<rbr>Raise a horsegirl to ★5 10<br>times."
+    },
+    "600601": {
+        "text": "Watch 'Umapyoi Densetsu'.",
+        "hash": "f8e04dfb79e5ee36b91d60fc14d320510c09d542b71a7d286afa8d5c2a431cf8",
+        "processed": "<rbr>Watch 'Umapyoi Densetsu'."
+    },
+    "600602": {
+        "text": "Watch 'Irodori Phantasia'.",
+        "hash": "22ddac080164ba96398ea7f369778192a965fe65c57d3ecabc102069040a545f",
+        "processed": "<rbr>Watch 'Irodori Phantasia'."
+    },
+    "600603": {
+        "text": "Watch 'Make debut!'.",
+        "hash": "ef57973484875ceea44c93e4c3e39de1b36975a806518b5d8596fb669ea9d831",
+        "processed": "<rbr>Watch 'Make debut!'."
+    },
+    "600604": {
+        "text": "Watch 'ENDLESS DREAM!!'.",
+        "hash": "e5eade51310b52536afcc391d8fc0c5fe70c03c8fbca2f01626dc33cae4cac6e",
+        "processed": "<rbr>Watch 'ENDLESS DREAM!!'."
+    },
+    "600605": {
+        "text": "Watch 'NEXT FRONTIER'.",
+        "hash": "bdf0fcab116fbcb4579ab3fe6773a98d6d3cc24e2710a156223e2807cf515cbd",
+        "processed": "<rbr>Watch 'NEXT FRONTIER'."
+    },
+    "600606": {
+        "text": "Watch 'UNLIMITED IMPACT'.",
+        "hash": "185a7d9b5f18eb3a90a180b10eb3877f79e26b43dc3a74e645a295b40e1cdffe",
+        "processed": "<rbr>Watch 'UNLIMITED IMPACT'."
+    },
+    "600607": {
+        "text": "Watch 'Special Record!'.",
+        "hash": "95c7a79dcf8a5e09a80890b7edcbc47889a3ed6489b3914dcd27d53e972489c2",
+        "processed": "<rbr>Watch 'Special Record!'."
+    },
+    "600608": {
+        "text": "Watch 'Hajimari no Signal'.",
+        "hash": "669d32873da9dded8df336a6bfb4c3225b23e509366219b57bf8c2913ff296b0",
+        "processed": "<rbr>Watch 'Hajimari no Signal'."
+    },
+    "600609": {
+        "text": "Watch 'Sasayaka na Inori wo'.",
+        "hash": "716208cbd0310296ace8605530a3855fed3852839a5e576e2ccee66e9f0cfb1f",
+        "processed": "<rbr>Watch 'Sasayaka na Inori<br>wo'."
+    },
+    "600610": {
+        "text": "Watch 'Honnou Speed'.",
+        "hash": "693354da5a6b1179edc1d1fdc85b262de7f4f11550a7db3edebcbcfb24baaa7e",
+        "processed": "<rbr>Watch 'Honnou Speed'."
+    },
+    "600611": {
+        "text": "Watch 'winning the soul'.",
+        "hash": "475fef0002f2156b02f87c0d1764c41a3b87a7447a9c75d40b908c69f2c54490",
+        "processed": "<rbr>Watch 'winning the soul'."
+    },
+    "600612": {
+        "text": "Watch 'Yume wo Kakeru!'.",
+        "hash": "d80607a3a51ffbcb08106e985962d944e10bbac4dff15b1ff41656636746ba1c",
+        "processed": "<rbr>Watch 'Yume wo Kakeru!'."
+    },
+    "600613": {
+        "text": "Watch 'Yume wo Kakeru! (special version)'.",
+        "hash": "18d2fb742c0bbcf08dbce1e289faec62e333f6a101b872413cc4d65da5295470",
+        "processed": "<rbr>Watch 'Yume wo Kakeru!<br>(special version)'."
+    },
+    "600614": {
+        "text": "Watch 'Namida hikatte ashita ni nare!'.",
+        "hash": "a7e9ec21a6919ec1a6994302ebb04a76e789cadc7c0dc7a35b0e04e89d6c49e0",
+        "processed": "<rbr>Watch 'Namida hikatte ashita<br>ni nare!'."
+    },
+    "600616": {
+        "text": "Watch 'BLAZE'.",
+        "hash": "2b13a79039e738d09bb6e3d6a5ddd6117bc790b4a78bd55706f0c08a35168468",
+        "processed": "<rbr>Watch 'BLAZE'."
+    },
+    "600617": {
+        "text": "Watch 'Never Looking Back'.",
+        "hash": "c4c08a3e4e7516249ca7fd5f43d90560a52439a4de43b9a4c8f3981c2fab57c9",
+        "processed": "<rbr>Watch 'Never Looking Back'."
+    },
+    "600618": {
+        "text": "Watch 'WINnin’ 5'.",
+        "hash": "e4fab6f4322e407011b726218bfc90e7a7f0b08dce2e754fd92b5628a7bb97d4",
+        "processed": "<rbr>Watch 'WINnin’ 5'."
+    },
+    "600619": {
+        "text": "Watch 'Pyoitto♪Hallelujah!'.",
+        "hash": "c57200d7dcc2638ce4bc392c2e2d5432599cc3e2216a1cf2b1f059e1be93f20d",
+        "processed": "<rbr>Watch 'Pyoitto♪Hallelujah!'."
+    },
+    "600620": {
+        "text": "Watch 'transforming'.",
+        "hash": "e50a8882d54b82b5d2aade666e415c8297e68321167839c625721b892a017f68",
+        "processed": "<rbr>Watch 'transforming'."
+    },
+    "600621": {
+        "text": "Watch 'Grow Up・Shine!'.",
+        "hash": "0776095acbf54aa7363814f3af8d91a4f40b7f51a3f36f2aa5aeb14e97e76309",
+        "processed": "<rbr>Watch 'Grow Up・Shine!'."
+    },
+    "600622": {
+        "text": "Watch 'BLOW my GALE'.",
+        "hash": "82eecf9e48bf36f53604d77cb3459401c82208b348a25aa443d723547272daeb",
+        "processed": "<rbr>Watch 'BLOW my GALE'."
+    },
+    "600623": {
+        "text": "Watch 'We are DREAMERS!!'.",
+        "hash": "3f49e38fc7f04cb15940ebd80d316077cb6534f4c3184032a9b0f8115f0c9ad0",
+        "processed": "<rbr>Watch 'We are DREAMERS!!'."
+    },
+    "600624": {
+        "text": "Watch 'Egao no Takaramono -Beyond The Future!-'.",
+        "hash": "c863682817806c8e8f3c08700717ffab360c2f3c15a067d7cbf8ce7d497a48ee",
+        "processed": "<rbr>Watch 'Egao no Takaramono<br>-Beyond The Future!-'."
+    },
+    "600625": {
+        "text": "Watch 'Gaze on Me!'.",
+        "hash": "7f8bb6c5f3e59470af994b5102552d44682ee3e1403d773d38b2836781fafeed",
+        "processed": "<rbr>Watch 'Gaze on Me!'."
+    },
+    "600626": {
+        "text": "Watch 'GIRLS' LEGEND U'.",
+        "hash": "1c9b90c7e6b54e1df895bb677db2b2994c2c9135379aa2960e6d8e2f989f7df0",
+        "processed": "<rbr>Watch 'GIRLS' LEGEND U'."
+    },
+    "600627": {
+        "text": "Watch 'Ms. Victoria'.",
+        "hash": "972d184eaa13dd3975632d5fff88cc0a3d9efd2cd737f0d6ca895cc490345e62",
+        "processed": "<rbr>Watch 'Ms. Victoria'."
+    },
+    "600628": {
+        "text": "Watch 'KIRARI MAGIC SHOW'.",
+        "hash": "03a39f4fe6ead30d64474aca52398b66a94deabb2d8d1a7accf1e7b89276c63a",
+        "processed": "<rbr>Watch 'KIRARI MAGIC<br>SHOW'."
+    },
+    "600629": {
+        "text": "Watch 'Overrunner!'.",
+        "hash": "42617a1fd00635efa92348fa565277255d6af966190b854b68b2a578911fa890",
+        "processed": "<rbr>Watch 'Overrunner!'."
+    },
+    "600630": {
+        "text": "Watch 'DRAMATIC JOURNEY'.",
+        "hash": "eb52403d2354a6d55a363f2c2f534e99fe94a65f58fa2d55a25ab267812586c5",
+        "processed": "<rbr>Watch 'DRAMATIC JOURNEY'."
+    },
+    "600631": {
+        "text": "Watch 'Everlasting BEATS'.",
+        "hash": "756660a87517f56febeffc281c9169fc43665a59adfb5869a51a67667a495445",
+        "processed": "<rbr>Watch 'Everlasting BEATS'."
+    },
+    "600632": {
+        "text": "Watch 'Glorious Moment!'.",
+        "hash": "6118d695099aefea2bc21c147264f399d4b80055e0b849b60b1646bdfdd44586",
+        "processed": "<rbr>Watch 'Glorious Moment!'."
+    },
+    "600633": {
+        "text": "Watch 'L'Arc de gloire'.",
+        "hash": "23677c9ad93c3c0007a42d4a722889b4ebd5739f91987124e288fe34cbec28c2",
+        "processed": "<rbr>Watch 'L'Arc de gloire'."
+    },
+    "600634": {
+        "text": "Watch 'Tracen Ondo'.",
+        "hash": "a47470a734e8e786aaf2fbfb30c168d10158b7c372a546581396d4843fdd82c1",
+        "processed": "<rbr>Watch 'Tracen Ondo'."
+    },
+    "600635": {
+        "text": "Watch 'Soshite Minna No'.",
+        "hash": "ef580c393c06e11af3ad51848432838b803d522c18d42684e5d7c31ddd519bf0",
+        "processed": "<rbr>Watch 'Soshite Minna No'."
+    },
+    "600636": {
+        "text": "Watch 'Hakunetsu My Soul'.",
+        "hash": "8c81f3f4fe88d683c71f3a47ebcae8820ad84f5231f27b92daa9f6d61b2af6d4",
+        "processed": "<rbr>Watch 'Hakunetsu My Soul'."
+    },
+    "600637": {
+        "text": "Watch 'U.M.A. NEW WORLD!!'.",
+        "hash": "f22396a44832d17ab21c60d6b1de96f886ba874573464b3874acc994b41c14a5",
+        "processed": "<rbr>Watch 'U.M.A. NEW<br>WORLD!!'."
+    },
+    "600690": {
+        "text": "Watch a total of 10 live concerts.",
+        "hash": "db053fb007d8310acf1d2b49f644aaf4d0f38116829d5f37aa28a1c22f1a6c31",
+        "processed": "<rbr>Watch a total of 10 live<br>concerts."
+    },
+    "600701": {
+        "text": "Achieve a cumulative total of 25 followers.",
+        "hash": "22bdf789324a193bdbe443d3f97b9449a946556f9cac0aa789448578495a6576",
+        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+    },
+    "600702": {
+        "text": "Achieve a cumulative total of 50 followers.",
+        "hash": "72ed4a1819597f13adcc8474ca68b47485bf028cbc291e641a6b2b21ffcd2d77",
+        "processed": "<rbr>Achieve a cumulative total of<br>50 followers."
+    },
+    "600703": {
+        "text": "Achieve a cumulative total of 100 followers.",
+        "hash": "0fa21e4660c048c57bc5605524cbfa2f3926a34deec4e798addd0d14086bee63",
+        "processed": "<rbr>Achieve a cumulative total of<br>100 followers."
+    },
+    "600704": {
+        "text": "Achieve a cumulative total of 200 followers.",
+        "hash": "1638cd4cc960aaee2c150d2b5fa14156af560dccf14f175a9b730ed036e51a6c",
+        "processed": "<rbr>Achieve a cumulative total of<br>200 followers."
+    },
+    "600705": {
+        "text": "Have other trainers use your horsegirl in training 100 times.",
+        "hash": "5643dfc1c8e4c4229a8486717e24f834637fe465bd8179e1f5d823e66711c156",
+        "processed": "<rbr><sc=95>Have other trainers use your<br>horsegirl in training 100 times."
+    },
+    "600706": {
+        "text": "Share a Hall of Fame Uma Musume in the circle chat.",
+        "hash": "5d4b4bacb04d9dfe2e4c3c0902c9812a319035cfeff8a1d18d12c29d72559493",
+        "processed": "<rbr>Share a Hall of Fame Uma<br>Musume in the circle chat."
+    },
+    "600707": {
+        "text": "Have other trainers use a Hall of Fame Uma Musume 10 times in training.",
+        "hash": "73d424f780d15ffc6c925f9c2d7401890463468b286760b32149865923404724",
+        "processed": "<rbr><sc=77>Have other trainers use a Hall of Fame<br>Uma Musume 10 times in training."
+    },
+    "600708": {
+        "text": "Have other trainers use a Hall of Fame Uma Musume 100 times in training.",
+        "hash": "0d6d85c6815bf875fd7e1ee176887981ed745ef7b5cb352d837dd9f5dc4d1507",
+        "processed": "<rbr><sc=77>Have other trainers use a Hall of Fame<br>Uma Musume 100 times in training."
+    },
+    "600709": {
+        "text": "Have other trainers use a Hall of Fame Uma Musume 500 times in training.",
+        "hash": "3103b0ec2d88d243a96e50f5fc94357f5fd08b8e8b092109dbb978808dde5e0a",
+        "processed": "<rbr><sc=77>Have other trainers use a Hall of Fame<br>Uma Musume 500 times in training."
+    },
+    "600801": {
+        "text": "Win the URA Finals by a large margin.",
+        "hash": "f880169fa7227e219b58ed403ded7985bdc4df292c026258b17170f2207a4a48",
+        "processed": "<rbr>Win the URA Finals by a large<br>margin."
+    },
+    "600802": {
+        "text": "Finish a training run with at least 1,000,000 fans.",
+        "hash": "01608246104a68eda8f6f6397f35fa7464f2bea9691077c211d33dbcbfaaf01e",
+        "processed": "<rbr>Finish a training run with at<br>least 1,000,000 fans."
+    },
+    "600803": {
+        "text": "Go on 30 walks by the river during training runs.",
+        "hash": "fb6b11399d9351529e407044a0a1779aa1531ef0d45a7c8d253da3e5db95829f",
+        "processed": "<rbr>Go on 30 walks by the river<br>during training runs."
+    },
+    "600804": {
+        "text": "Get 2nd or higher in a graded Short race using a girl with E or below Short aptitude.",
+        "hash": "8ea3738b47e3a54c021a95d0ea66a592efaf0f49791231b5671242b5a4104289",
+        "processed": "<rbr><sc=69>Get 2nd or higher in a graded Short race<br>using a girl with E or below Short aptitude."
+    },
+    "600805": {
+        "text": "Get 2nd or higher in a graded Mile race using a girl with E or below Mile aptitude.",
+        "hash": "dc708946d4cf8ef9b776d8f6a073e2033cefcdcaaf6d5a528f7a4134a4291f40",
+        "processed": "<rbr><sc=71>Get 2nd or higher in a graded Mile race<br>using a girl with E or below Mile aptitude."
+    },
+    "600806": {
+        "text": "Get 2nd or higher in a graded Medium race using a girl with E or below Medium aptitude.",
+        "hash": "3de693b3bdd07e470e80a2d099549e0bc3985ae97ef6afc698adee4a998fb9c7",
+        "processed": "<rbr><sc=66>Get 2nd or higher in a graded Medium race<br>using a girl with E or below Medium apti-<br>tude."
+    },
+    "600807": {
+        "text": "Get 2nd or higher in a graded Long race using a girl with E or below Long aptitude.",
+        "hash": "a907afc80b9453f19831cf2531e45f451e0e7fa8958277b4081ce963e29eff8c",
+        "processed": "<rbr><sc=69>Get 2nd or higher in a graded Long race<br>using a girl with E or below Long aptitude."
+    },
+    "600808": {
+        "text": "Get 2nd or higher in a graded Dirt race using a girl with E or below Dirt aptitude.",
+        "hash": "ea8b1e5871218ff70c13751823d16380cdae78be847438e1ab007cf08391c041",
+        "processed": "<rbr><sc=72>Get 2nd or higher in a graded Dirt race<br>using a girl with E or below Dirt aptitude."
+    },
+    "600809": {
+        "text": "Finish a training run with one of each track, distance and strategy aptitude at S.",
+        "hash": "84d57d812999d7da97141404e4dd1ed0a4b83b9a82c2c832f20e259a7232faa9",
+        "processed": "<rbr><sc=70>Finish a training run with one of each<br>track, distance and strategy aptitude at S."
+    },
+    "600901": {
+        "text": "Finish a training run having learned the Concentration, Groundwork, Fortune Favors the Fast and Runaway skills during training once.",
+        "hash": "9705467f84017c5f38195027aeac8bfcc033dfa964daa6fffd9689925b8bf8bd",
+        "processed": "<rbr><sc=65>Finish a training run having learned the Con-<br>centration, Groundwork, Fortune Favors the<br>Fast and Runaway skills during training once."
+    },
+    "600902": {
+        "text": "Finish a training run having learned the Speed Star, Now I'm Pumped! and Leader's Straights ◎ skills during training once.",
+        "hash": "d0bf4a01d5737291d20c31860dc2ab74b0fa452bef1a894dfa3b403e5f61843b",
+        "processed": "<rbr><sc=66>Finish a training run having learned the<br>Speed Star, Now I'm Pumped! and Leader's<br>Straights ◎ skills during training once."
+    },
+    "600903": {
+        "text": "Finish a training run having learned the Switch-up Pro, Heart and Soul and Betweener's Straights ◎ skills during training once.",
+        "hash": "ef8d24ea813ee110f8499b3aaf51525b7e24982b30a367fb3a48805ada95a097",
+        "processed": "<rbr><sc=66>Finish a training run having learned the<br>Switch-up Pro, Heart and Soul and Between-<br>er's Straights ◎ skills during training once."
+    },
+    "600904": {
+        "text": "Finish a training run having learned the Daring Attack, Now I'm Pumped! and Chaser's Straights ◎ skills during training once.",
+        "hash": "87799922133aec2bd057af4ee82d2eead70a032a29db2c0841f4f2a6a07015a0",
+        "processed": "<rbr><sc=66>Finish a training run having learned the Dar-<br>ing Attack, Now I'm Pumped! and Chaser's<br>Straights ◎ skills during training once."
+    },
+    "600905": {
+        "text": "Finish a training run having learned the Archline Professor and Curve Sommelier skills during training once.",
+        "hash": "34f297c2c462f6f73be1a6c8a474c70e9b8f30ee02ecf1fe3b37f95d1f7fc1d4",
+        "processed": "<rbr><sc=66>Finish a training run having learned the<br>Archline Professor and Curve Sommelier<br>skills during training once."
+    },
+    "600906": {
+        "text": "Finish a training run having learned the Gust of Wind and Like The Wind skills during training once.",
+        "hash": "1a2563b9883056104880f4155525b63c3bda3c6094cc48096b27d72b7030a44f",
+        "processed": "<rbr><sc=66>Finish a training run having learned the Gust<br>of Wind and Like The Wind skills during<br>training once."
+    },
+    "600907": {
+        "text": "Finish a training run having learned the Big Eater, Stamina Eater and Backup Belly skills during training once.",
+        "hash": "95864233c5bcd28e803874b6772f0abdb98f49adf47a9c809a5acec1a1f8240f",
+        "processed": "<rbr><sc=66>Finish a training run having learned the Big<br>Eater, Stamina Eater and Backup Belly skills<br>during training once."
+    },
+    "600908": {
+        "text": "Finish a training run having learned the Watching All Directions and Clairvoyance skills during training once.",
+        "hash": "6e6250c686ff3353b15e5f8d736f515992b841c9de7cbe29878cfaaf3572e4aa",
+        "processed": "<rbr><sc=66>Finish a training run having learned the<br>Watching All Directions and Clairvoyance<br>skills during training once."
+    },
+    "600909": {
+        "text": "Finish a training run having learned the Magician of the Lane, Shake It Out and Non-stop Girl skills during training once.",
+        "hash": "f23d76908a055f7c93b04ab3232cf4b04556bae958781dad6ac5c71ebf2dd432",
+        "processed": "<rbr><sc=66>Finish a training run having learned the<br>Magician of the Lane, Shake It Out and<br>Non-stop Girl skills during training once."
+    },
+    "601001": {
+        "text": "Raise the affection level of 1 character to 10.",
+        "hash": "7fd75d506d830bbb30d2beaee0ff965fdeb693fcb0492daae388cd0193cf0dc2",
+        "processed": "<rbr>Raise the affection level of 1<br>character to 10."
+    },
+    "601002": {
+        "text": "Raise the affection level of 3 characters to 10.",
+        "hash": "7f0150ca93321e07cada05732b8ae9132cab2dfb848f5686662c6102e6403f7c",
+        "processed": "<rbr>Raise the affection level of 3<br>characters to 10."
+    },
+    "601011": {
+        "text": "Reach trainer level 100.",
+        "hash": "9676889ab84cf1f7532831cbd58bd8f1738cbda83a204a819f35c63583a53e54",
+        "processed": "<rbr>Reach trainer level 100."
+    },
+    "601021": {
+        "text": "Clear all daily missions for 7 days in a row.",
+        "hash": "4df71f6d33ef5f0b8ca2e683c9163b56a06aee0b2fc878ddc36cc6a78482d011",
+        "processed": "<rbr>Clear all daily missions for 7<br>days in a row."
+    },
+    "601031": {
+        "text": "Collect a total of 100 trainer titles.",
+        "hash": "8473320b97d60aee3db45520dc98b6cca6f0a5268d543c61130ba2f896c92218",
+        "processed": "<rbr>Collect a total of 100 trainer<br>titles."
+    },
+    "601041": {
+        "text": "Buy a total of 100 items in Tazuna's limited shop.",
+        "hash": "88fbd26e567b8062e3073c7dd984afaff5d2f67803edb1b6516b6868387a98e1",
+        "processed": "<rbr>Buy a total of 100 items in<br>Tazuna's limited shop."
     },
     "601101": {
         "text": "Collect a total of 15 different characters.",
@@ -10268,6 +11043,2436 @@
         "text": "Collect a total of 250 different support cards.",
         "hash": "1bee8b6aa31e572c6939012a4f8796f0f741f02682a9c6cef18b1e5ae0f66cbf",
         "processed": "<rbr>Collect a total of 250<br>different support cards."
+    },
+    "601301": {
+        "text": "Earn a cumulative 1 million total money.",
+        "hash": "81f6b57087b86d23753fa1b0dcc90c3e9ce0db56211f232cdae962a6fda8a8a7",
+        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+    },
+    "601302": {
+        "text": "Earn a cumulative 10 million total money.",
+        "hash": "33f6b41213f4ae81d90becb21df6eeb708326c69a6ce0a98028f04d5408a9dd1",
+        "processed": "<rbr>Earn a cumulative 10 million<br>total money."
+    },
+    "601304": {
+        "text": "Win 10 or more stuffed toys in the Crane Game.",
+        "hash": "3b19ec17e69eb1b4773f15f977f0b1d3618bfb1f02705e92d11ca73e4b6d886f",
+        "processed": "<rbr>Win 10 or more stuffed toys<br>in the Crane Game."
+    },
+    "601305": {
+        "text": "Win a total of 300 stuffed toys in the Crane Game.",
+        "hash": "dd92baa4ded85f913778918d95149c2a7163f00d2380db6101f2a202d42f9c0d",
+        "processed": "<rbr>Win a total of 300 stuffed<br>toys in the Crane Game."
+    },
+    "601400": {
+        "text": "Watch a total of 100 story episodes.",
+        "hash": "f84874573e01cfe89d828d1b03ec7c4f5d97949fa4ea770d8de986f5d20bc713",
+        "processed": "<rbr>Watch a total of 100 story<br>episodes."
+    },
+    "601401": {
+        "text": "Watch all episodes of main story act 1, chapter 1.",
+        "hash": "7f5a2be7411249eff5346ccbb3a0a9b94e93d804c6f7a6e2910191200f7b9299",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    },
+    "601402": {
+        "text": "Watch all episodes of main story act 1, chapter 2.",
+        "hash": "d4c57bbd90b0275db0bb73c80d0f46d10e8f0ad8f5993b822bfe1ed157ec9b44",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 2."
+    },
+    "601403": {
+        "text": "Watch all episodes of main story act 1, chapter 3.",
+        "hash": "ca3a7dd7d13ced9316f3de12bd1b4ffa4dfd3016d0a78203e6cf44d6a17a1ff9",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 3."
+    },
+    "601404": {
+        "text": "Watch all episodes of main story act 1, chapter 4.",
+        "hash": "000696759cdf5bd4597ae8d33d61956e0ccd9fdf33b70991704d2f4e712df193",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 4."
+    },
+    "601405": {
+        "text": "Watch all episodes of main story act 1, chapter 5.",
+        "hash": "75fb3c5dd3ff489a3885419784fe0b30b53625bb3886623ac354221e77b50ef0",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 5."
+    },
+    "601406": {
+        "text": "Watch all episodes of main story act 1, chapter 6.",
+        "hash": "0c75cebf32bfaa75c6359dbe2ed09cf3e1f52270a30a4448421e79be15e1d37c",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 6."
+    },
+    "601407": {
+        "text": "Watch all episodes of main story act 1, chapter 7.",
+        "hash": "f887c2fbbdb6b119a792954171c1e0e6bb1bf101117cad9af7f6cae27b8e8505",
+        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 7."
+    },
+    "601408": {
+        "text": "Watch all episodes of all main story act 1 chapters.",
+        "hash": "1df6c6f39c76d732e22a9f7e8e99b2e78cf77b4e0abf0a9519d6ea6d49d8fbda",
+        "processed": "<rbr>Watch all episodes of all<br>main story act 1 chapters."
+    },
+    "601451": {
+        "text": "Win the episode 1R race of main story act 1, chapter 2.",
+        "hash": "41a8de19a9f716be37353236f16dad22e6274c4162832f9a389292c8a64f1f35",
+        "processed": "<rbr>Win the episode 1R race of<br>main story act 1, chapter 2."
+    },
+    "601452": {
+        "text": "Win the episode 3R race of main story act 1, chapter 3.",
+        "hash": "e329c4e1b962885782ae333a77107f99aaba45e6def91b257ce693db39f15f14",
+        "processed": "<rbr>Win the episode 3R race of<br>main story act 1, chapter 3."
+    },
+    "601453": {
+        "text": "Win the episode 3R race of main story act 1, chapter 4.",
+        "hash": "b1b40d975e5479fcc503789d752b16d05cb51ee08f901d0235dbf9824191f86c",
+        "processed": "<rbr>Win the episode 3R race of<br>main story act 1, chapter 4."
+    },
+    "601454": {
+        "text": "Win the episode 2R race of main story act 1, chapter 5.",
+        "hash": "175cfa264759ee3cc9d1bf87a3c816be97e76ff6dffe3a6d150bd16f6b45b084",
+        "processed": "<rbr>Win the episode 2R race of<br>main story act 1, chapter 5."
+    },
+    "601455": {
+        "text": "Win the episode 2R race of main story act 1, chapter 6.",
+        "hash": "72ad45bf044ee0813fed35831f667d7fe46b064f7e21cfa51ebfdae2f6254847",
+        "processed": "<rbr>Win the episode 2R race of<br>main story act 1, chapter 6."
+    },
+    "601456": {
+        "text": "Win the episode 7R race of main story act 1, chapter 7.",
+        "hash": "6cd55a18446bff7939e82bbf5fb7848c4bb01603de9e6188aef4566d2171ac27",
+        "processed": "<rbr>Win the episode 7R race of<br>main story act 1, chapter 7."
+    },
+    "601499": {
+        "text": "Win onsen tickets in the lottery, and then complete training.",
+        "hash": "865344ac188eca8a25ae4ea3381283f4d88ffd23bccf897f738864843701dab5",
+        "processed": "<rbr><sc=93>Win onsen tickets in the lottery,<br>and then complete training."
+    },
+    "601500": {
+        "text": "Spend a moment to feel an irreplaceable bond with 18 girls.",
+        "hash": "9b483895423ed7c7133a4b41296885d65066aa402a7348a28fb05e23646642c2",
+        "processed": "<rbr><sc=93>Spend a moment to feel an irre-<br>placeable bond with 18 girls."
+    },
+    "601501": {
+        "text": "Read chapter 4 of Special Week's story.",
+        "hash": "9085d005942f6b5b7b718285a24e5f51e639255753e343e5df075d47371aeea5",
+        "processed": "<rbr>Read chapter 4 of Special<br>Week's story."
+    },
+    "601502": {
+        "text": "Reach 10 million total fans for Special Week.",
+        "hash": "d5d10b22723c6dc874acaddbbaa23775d7182ec03ac162b3612a3f9821c7d8c2",
+        "processed": "<rbr>Reach 10 million total fans<br>for Special Week."
+    },
+    "601503": {
+        "text": "Reach 50 million total fans for Special Week.",
+        "hash": "6455b83fbf0959a8fd6bfbe22181433e6a5b928b07c9e2f1926a438689860919",
+        "processed": "<rbr>Reach 50 million total fans<br>for Special Week."
+    },
+    "601504": {
+        "text": "Reach 100 million total fans for Special Week.",
+        "hash": "8a471fc871dd223117ec230b5d16dfaaf35d7ff750937569d8b4cf2af1b9e8a2",
+        "processed": "<rbr>Reach 100 million total fans<br>for Special Week."
+    },
+    "601505": {
+        "text": "Win all G1, G2, and G3 trophies with Special Week.",
+        "hash": "61e78f3991e8203c357931f2fe48993e78825a30198831b469104c939953165c",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Special Week."
+    },
+    "601601": {
+        "text": "Read chapter 4 of Silence Suzuka's story.",
+        "hash": "3d59fe534e580c7ec1f08d55a2c1d483c2bd1c0b143201faeaea5d39cc86d93c",
+        "processed": "<rbr>Read chapter 4 of Silence<br>Suzuka's story."
+    },
+    "601602": {
+        "text": "Reach 10 million total fans for Silence Suzuka.",
+        "hash": "70089e0f731713cba0d761fef9eb8455e16c5fbd628939c851072b32e7140f5d",
+        "processed": "<rbr>Reach 10 million total fans<br>for Silence Suzuka."
+    },
+    "601603": {
+        "text": "Reach 50 million total fans for Silence Suzuka.",
+        "hash": "3bf68fc6067ff6886f8e52781323b3b4d8a3d4b52cc13ac6695a42e30497af97",
+        "processed": "<rbr>Reach 50 million total fans<br>for Silence Suzuka."
+    },
+    "601604": {
+        "text": "Reach 100 million total fans for Silence Suzuka.",
+        "hash": "e02f86e22190e8a3cc3f244ed5b0d91e75084a84caf344f68786c419533d6ce3",
+        "processed": "<rbr>Reach 100 million total fans<br>for Silence Suzuka."
+    },
+    "601605": {
+        "text": "Win all G1, G2, and G3 trophies with Silence Suzuka.",
+        "hash": "3dbaab88e82308f7d65ff90f3b161c019b8e5488804177eb2cc64896595a8bfb",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Silence Suzuka."
+    },
+    "601701": {
+        "text": "Read chapter 4 of Tokai Teio's story.",
+        "hash": "b2fdfca38ceadfd1f97d92fa215cb2d50121be0f0596bdc9e8333d1563db06de",
+        "processed": "<rbr>Read chapter 4 of Tokai<br>Teio's story."
+    },
+    "601702": {
+        "text": "Reach 10 million total fans for Tokai Teio.",
+        "hash": "fbbc98dfc04fac37d4ba33987230436677be26081f9e9718a84948e144936e45",
+        "processed": "<rbr>Reach 10 million total fans<br>for Tokai Teio."
+    },
+    "601703": {
+        "text": "Reach 50 million total fans for Tokai Teio.",
+        "hash": "7d37c3a220f5f8a4a965c67e03d780fbf4214ba2dd4791edda9666d6997d0d82",
+        "processed": "<rbr>Reach 50 million total fans<br>for Tokai Teio."
+    },
+    "601704": {
+        "text": "Reach 100 million total fans for Tokai Teio.",
+        "hash": "efe6b5e693c1211dfb1a9a7194865177e0a76b02ae08f3d816fa1bf4b793337d",
+        "processed": "<rbr>Reach 100 million total fans<br>for Tokai Teio."
+    },
+    "601705": {
+        "text": "Win all G1, G2, and G3 trophies with Tokai Teio.",
+        "hash": "a05dfdd759303eff38ddc5c1d647299a4c2c9e5ab70c1ab6aa5467548cf9671d",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Tokai Teio."
+    },
+    "601801": {
+        "text": "Read chapter 4 of Maruzensky's story.",
+        "hash": "d3a3e1e4b49f8039383a66843bd3350820bb18a1f35b643fc353077b36b50a6a",
+        "processed": "<rbr>Read chapter 4 of<br>Maruzensky's story."
+    },
+    "601802": {
+        "text": "Reach 10 million total fans for Maruzensky.",
+        "hash": "9460417a7963d3d2cfbe07170dad923dc8be54749252674ff6c1c63a0ecde5ea",
+        "processed": "<rbr>Reach 10 million total fans<br>for Maruzensky."
+    },
+    "601803": {
+        "text": "Reach 50 million total fans for Maruzensky.",
+        "hash": "3a05620d4210c483a34143917246c0b7f0c167472ce61fb088f16f5476ed5b02",
+        "processed": "<rbr>Reach 50 million total fans<br>for Maruzensky."
+    },
+    "601804": {
+        "text": "Reach 100 million total fans for Maruzensky.",
+        "hash": "de1296cbb43d2839cdffc072929a1ef71d9fdea44f5b83ecdf9b29bad150017d",
+        "processed": "<rbr>Reach 100 million total fans<br>for Maruzensky."
+    },
+    "601805": {
+        "text": "Win all G1, G2, and G3 trophies with Maruzensky.",
+        "hash": "1154318ab1583c444d6737595eb1126bb6579bd5499f164a74551d4d6c53efe2",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Maruzensky."
+    },
+    "601901": {
+        "text": "Read chapter 4 of Fuji Kiseki's story.",
+        "hash": "f7d97091057f8e3a01b358cca166100375e811ca310aad58ca9160198bda6955",
+        "processed": "<rbr>Read chapter 4 of Fuji<br>Kiseki's story."
+    },
+    "601902": {
+        "text": "Reach 10 million total fans for Fuji Kiseki.",
+        "hash": "65788fefea5a521678d6963ed14bb96517156bd125731b32c05b4b3f5f4ce767",
+        "processed": "<rbr>Reach 10 million total fans<br>for Fuji Kiseki."
+    },
+    "601903": {
+        "text": "Reach 50 million total fans for Fuji Kiseki.",
+        "hash": "3fe7b85f92299394dabc7d13c5808db42b55436ffcec461896e34bd09b386171",
+        "processed": "<rbr>Reach 50 million total fans<br>for Fuji Kiseki."
+    },
+    "601904": {
+        "text": "Reach 100 million total fans for Fuji Kiseki.",
+        "hash": "1b120de189d8d0893d7b0bca28330834b228516ace6bb3c1c669d7226fe4016c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Fuji Kiseki."
+    },
+    "601905": {
+        "text": "Win all G1, G2, and G3 trophies with Fuji Kiseki.",
+        "hash": "db4daa451fe3756ab795cfda493e15223c8dac74bdc961f8dfce5f2897ff17db",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Fuji Kiseki."
+    },
+    "602001": {
+        "text": "Read chapter 4 of Oguri Cap's story.",
+        "hash": "e39ccad75da6da4b42427c606460e99d0f8e916904cb6074e9eb7a826dbca279",
+        "processed": "<rbr>Read chapter 4 of Oguri<br>Cap's story."
+    },
+    "602002": {
+        "text": "Reach 10 million total fans for Oguri Cap.",
+        "hash": "ded253be04409d22612889d99855d77bfd1ce38174c7c5375b08224bf84fa688",
+        "processed": "<rbr>Reach 10 million total fans<br>for Oguri Cap."
+    },
+    "602003": {
+        "text": "Reach 50 million total fans for Oguri Cap.",
+        "hash": "f5a53678ff5edc1d7031252542222b55548235e03179f0f3afa7d685d79cec91",
+        "processed": "<rbr>Reach 50 million total fans<br>for Oguri Cap."
+    },
+    "602004": {
+        "text": "Reach 100 million total fans for Oguri Cap.",
+        "hash": "65959a0b8fbc6982fb9d00ccdbb7caa173b7a80aaccab6bf8ba62d4ce2baf78c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Oguri Cap."
+    },
+    "602005": {
+        "text": "Win all G1, G2, and G3 trophies with Oguri Cap.",
+        "hash": "86c452916f3def7c68d4ce0ece289f6da705690d7046135e8420b4a98e7d31f0",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Oguri Cap."
+    },
+    "602101": {
+        "text": "Read chapter 4 of Gold Ship's story.",
+        "hash": "1f413d6c0c6a29a268c172337fce325823d3f16bbce80795f2f78167ef5705a5",
+        "processed": "<rbr>Read chapter 4 of Gold<br>Ship's story."
+    },
+    "602102": {
+        "text": "Reach 10 million total fans for Gold Ship.",
+        "hash": "f5e88921fd5f5d8b35068b70132fdc2dbd30222c58db53ec28050ddceb0da6ad",
+        "processed": "<rbr>Reach 10 million total fans<br>for Gold Ship."
+    },
+    "602103": {
+        "text": "Reach 50 million total fans for Gold Ship.",
+        "hash": "16bb494c5cc54c0598501ef1d25d686ed903140502d07b85e2cc87dad2ff71ff",
+        "processed": "<rbr>Reach 50 million total fans<br>for Gold Ship."
+    },
+    "602104": {
+        "text": "Reach 100 million total fans for Gold Ship.",
+        "hash": "26613acdc52ea0b152e3fd7ca2389a5a0ba7e704d714fd56386012b28b599948",
+        "processed": "<rbr>Reach 100 million total fans<br>for Gold Ship."
+    },
+    "602105": {
+        "text": "Win all G1, G2, and G3 trophies with Gold Ship.",
+        "hash": "ccd5dbf5d98b9df3eb5b9e18da2b43790ced60e521ba0c904d61479007254cd9",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Gold Ship."
+    },
+    "602201": {
+        "text": "Read chapter 4 of Vodka's story.",
+        "hash": "924ee627d490afb8f12b0aa35b67ee2cffa9414d358e286be2dde116f0647134",
+        "processed": "<rbr>Read chapter 4 of Vodka's<br>story."
+    },
+    "602202": {
+        "text": "Reach 10 million total fans for Vodka.",
+        "hash": "21a33f58d16d04548b2d80de56dae1aed40b448e412b80dbc3c8b7e7839479fb",
+        "processed": "<rbr>Reach 10 million total fans<br>for Vodka."
+    },
+    "602203": {
+        "text": "Reach 50 million total fans for Vodka.",
+        "hash": "0485185bb1e2dd28976cfe6e8384377670b6b4d2e1b537509e7e2fdc65fd23ee",
+        "processed": "<rbr>Reach 50 million total fans<br>for Vodka."
+    },
+    "602204": {
+        "text": "Reach 100 million total fans for Vodka.",
+        "hash": "e747008a2105dc8e9d678d12f2bdc4dcb52665acb02e0c0a4e8e833b00f05c92",
+        "processed": "<rbr>Reach 100 million total fans<br>for Vodka."
+    },
+    "602205": {
+        "text": "Win all G1, G2, and G3 trophies with Vodka.",
+        "hash": "bce06eefa78d0dfdf7eb258398822b5c7817a7dc100fda2188a542a91b3b3479",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Vodka."
+    },
+    "602301": {
+        "text": "Read chapter 4 of Daiwa Scarlet's story.",
+        "hash": "32e70c718bf8cb839d32800151f2d24c8be26991c6229b12123ad9c69d4f296f",
+        "processed": "<rbr>Read chapter 4 of Daiwa<br>Scarlet's story."
+    },
+    "602302": {
+        "text": "Reach 10 million total fans for Daiwa Scarlet.",
+        "hash": "0c0f0a3f34cc510c710e032139cdb8677e78c5d3ac8f546ce6e5d0fc2c1550f5",
+        "processed": "<rbr>Reach 10 million total fans<br>for Daiwa Scarlet."
+    },
+    "602303": {
+        "text": "Reach 50 million total fans for Daiwa Scarlet.",
+        "hash": "c45eb31227a46611481b034dbd72c0061cc4390303ac7bf62ffc5793242db19c",
+        "processed": "<rbr>Reach 50 million total fans<br>for Daiwa Scarlet."
+    },
+    "602304": {
+        "text": "Reach 100 million total fans for Daiwa Scarlet.",
+        "hash": "1da21a29b774de2dcdf18e845a0cbd6f5417f2dd89853f36a3d6931b2f12a0bb",
+        "processed": "<rbr>Reach 100 million total fans<br>for Daiwa Scarlet."
+    },
+    "602305": {
+        "text": "Win all G1, G2, and G3 trophies with Daiwa Scarlet.",
+        "hash": "4ec1b527219ffd1edae6997b27f5ca311c79e124b371ae5cc7014cd72ece7434",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Daiwa Scarlet."
+    },
+    "602401": {
+        "text": "Read chapter 4 of Taiki Shuttle's story.",
+        "hash": "7da5482445987ae5c90a8d510a6f550d563701807e6537529397c10d3e7a6261",
+        "processed": "<rbr>Read chapter 4 of Taiki<br>Shuttle's story."
+    },
+    "602402": {
+        "text": "Reach 10 million total fans for Taiki Shuttle.",
+        "hash": "9b71f0dcc6e6ab7f0d63fe65b1c04a0900bc8314fda6d1219f8a3f7798a92f73",
+        "processed": "<rbr>Reach 10 million total fans<br>for Taiki Shuttle."
+    },
+    "602403": {
+        "text": "Reach 50 million total fans for Taiki Shuttle.",
+        "hash": "f818ce8a5b9bc2e07010d1be14454252925c06b0c1d882bd9a780f5a6a6b9f61",
+        "processed": "<rbr>Reach 50 million total fans<br>for Taiki Shuttle."
+    },
+    "602404": {
+        "text": "Reach 100 million total fans for Taiki Shuttle.",
+        "hash": "f9623a92a8484e67cee087d3c507c959a6d2859c705668a4dc1c2dd1597944e3",
+        "processed": "<rbr>Reach 100 million total fans<br>for Taiki Shuttle."
+    },
+    "602405": {
+        "text": "Win all G1, G2, and G3 trophies with Taiki Shuttle.",
+        "hash": "e18e7a4ee6b6977a2931dfb24043e8be0e4bf17425a9175ab6fc3a200cb02559",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Taiki Shuttle."
+    },
+    "602501": {
+        "text": "Read chapter 4 of Grass Wonder's story.",
+        "hash": "bc0a81b833c8cb977b4ecbab75daf551eb65f3c4e879ab5d2a6997afe4e6d065",
+        "processed": "<rbr>Read chapter 4 of Grass<br>Wonder's story."
+    },
+    "602502": {
+        "text": "Reach 10 million total fans for Grass Wonder.",
+        "hash": "4682e638437d1b22a502104da4700e576b1410802eb2674dc66163f5b3fb6735",
+        "processed": "<rbr>Reach 10 million total fans<br>for Grass Wonder."
+    },
+    "602503": {
+        "text": "Reach 50 million total fans for Grass Wonder.",
+        "hash": "ec2db3a2baef18e764fafceab236377105f4a5d9ab9628b6c3c8283457ef67f7",
+        "processed": "<rbr>Reach 50 million total fans<br>for Grass Wonder."
+    },
+    "602504": {
+        "text": "Reach 100 million total fans for Grass Wonder.",
+        "hash": "680a6e6010a6bfeeea0357ef8fdfc58ac9c3ba6f8844ef0ca5b79aff05406169",
+        "processed": "<rbr>Reach 100 million total fans<br>for Grass Wonder."
+    },
+    "602505": {
+        "text": "Win all G1, G2, and G3 trophies with Grass Wonder.",
+        "hash": "1cf419476f73f53cb9632b0974336df549cbaac09b216c966137b9c6e11b9737",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Grass Wonder."
+    },
+    "602601": {
+        "text": "Read chapter 4 of Hishi Amazon's story.",
+        "hash": "5617fa6d1ac86e214bd17fc45df59170e04e6fc7a3343c03063a87512700cd2f",
+        "processed": "<rbr>Read chapter 4 of Hishi<br>Amazon's story."
+    },
+    "602602": {
+        "text": "Reach 10 million total fans for Hishi Amazon.",
+        "hash": "e17ec78b63d8151b4c7cb8409bc6b98e59c21585a608e4fcef5167e043b4ca3f",
+        "processed": "<rbr>Reach 10 million total fans<br>for Hishi Amazon."
+    },
+    "602603": {
+        "text": "Reach 50 million total fans for Hishi Amazon.",
+        "hash": "ff98a5e4e73f1f48d464702c09f9023037d03cefae1ea58ece6775e9e8451e09",
+        "processed": "<rbr>Reach 50 million total fans<br>for Hishi Amazon."
+    },
+    "602604": {
+        "text": "Reach 100 million total fans for Hishi Amazon.",
+        "hash": "d4f3f4af13d7538ab5a716d7cfc3682b07d9c4ca19998fe0157d10a7b3169533",
+        "processed": "<rbr>Reach 100 million total fans<br>for Hishi Amazon."
+    },
+    "602605": {
+        "text": "Win all G1, G2, and G3 trophies with Hishi Amazon.",
+        "hash": "67cf94f9c97f7c91cb8b0d6043edc7198de0ac205add32884de36acf1801ca34",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Hishi Amazon."
+    },
+    "602701": {
+        "text": "Read chapter 4 of Mejiro McQueen's story.",
+        "hash": "c5a1856a16621e10b51c47ca624884f1e3cf0341a2114f250ee8183b246bde2d",
+        "processed": "<rbr>Read chapter 4 of Mejiro<br>McQueen's story."
+    },
+    "602702": {
+        "text": "Reach 10 million total fans for Mejiro McQueen.",
+        "hash": "32e3a6ab865d53f22dd341e9125e8a65ae3c9d7c4ab0af5f700088d4df18fb3d",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro McQueen."
+    },
+    "602703": {
+        "text": "Reach 50 million total fans for Mejiro McQueen.",
+        "hash": "8c0ff14f77273da2908918d4231e4e5034caef3660644e8486eb64cd5e62bbbd",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro McQueen."
+    },
+    "602704": {
+        "text": "Reach 100 million total fans for Mejiro McQueen.",
+        "hash": "62c3f04daad61533a4e54841c66d63381d26f2aef7c160374ccc3ca2c0d31540",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro McQueen."
+    },
+    "602705": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro McQueen.",
+        "hash": "c17de06d4c8f69d7cccef284b59e69e2747877ba4ab39ff6d179d80a0f84b7bd",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Mejiro McQueen."
+    },
+    "602801": {
+        "text": "Read chapter 4 of El Condor Pasa's story.",
+        "hash": "ac32dcfa7c1ba3e041a9f20e04b1b78c901c5f39bf533ee5e30aa17909f6adf8",
+        "processed": "<rbr>Read chapter 4 of El Condor<br>Pasa's story."
+    },
+    "602802": {
+        "text": "Reach 10 million total fans for El Condor Pasa.",
+        "hash": "b9d4fbf25c64de8bcc344530e83a5b5b4f83f78a4af2384a1ced7f08dd7ea180",
+        "processed": "<rbr>Reach 10 million total fans<br>for El Condor Pasa."
+    },
+    "602803": {
+        "text": "Reach 50 million total fans for El Condor Pasa.",
+        "hash": "ddb84e12a276255a56835adc7192ea12199e66000b516d862c278491593e092b",
+        "processed": "<rbr>Reach 50 million total fans<br>for El Condor Pasa."
+    },
+    "602804": {
+        "text": "Reach 100 million total fans for El Condor Pasa.",
+        "hash": "770263e3c6274cb2c992095e559efb60cf7ea482611b1b9798f7b85170ae671c",
+        "processed": "<rbr>Reach 100 million total fans<br>for El Condor Pasa."
+    },
+    "602805": {
+        "text": "Win all G1, G2, and G3 trophies with El Condor Pasa.",
+        "hash": "c6479d11a9168215274a3d202500c0f7f4c2b444f437c42e3acc8dd056e4b775",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with El Condor Pasa."
+    },
+    "602901": {
+        "text": "Read chapter 4 of T.M. Opera O's story.",
+        "hash": "6522b5d0d2574bab79383ce19d623916d447f2e187117560a75594d40de18679",
+        "processed": "<rbr>Read chapter 4 of T.M. Opera<br>O's story."
+    },
+    "602902": {
+        "text": "Reach 10 million total fans for T.M. Opera O.",
+        "hash": "1196a0d842f60321cd96d74b210b25f8af0678f940e39d4e933aac1a01ba59e1",
+        "processed": "<rbr>Reach 10 million total fans<br>for T.M. Opera O."
+    },
+    "602903": {
+        "text": "Reach 50 million total fans for T.M. Opera O.",
+        "hash": "e97a43bff488a925e9675c2049d8c778eb5c293866c69b22ff0316478110b174",
+        "processed": "<rbr>Reach 50 million total fans<br>for T.M. Opera O."
+    },
+    "602904": {
+        "text": "Reach 100 million total fans for T.M. Opera O.",
+        "hash": "ad9b5e01ed98eaf15f70b08b341253850c29f2b09d3f831b3ebba08392b749ed",
+        "processed": "<rbr>Reach 100 million total fans<br>for T.M. Opera O."
+    },
+    "602905": {
+        "text": "Win all G1, G2, and G3 trophies with TM Opera O.",
+        "hash": "0ea3525a0f131eb57b68676d60062c6d6d27c48e28329ca5b13471ef2fa368b0",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with TM Opera O."
+    },
+    "603001": {
+        "text": "Read chapter 4 of Symboli Rudolf's story.",
+        "hash": "1c793c9215548fbd3f60aea3dbbb568e7b5c26a01a09d5ac267c1ac3f59a90cd",
+        "processed": "<rbr>Read chapter 4 of Symboli<br>Rudolf's story."
+    },
+    "603002": {
+        "text": "Reach 10 million total fans for Symboli Rudolf.",
+        "hash": "f65e90e0346334238107620eb066329b6f563577f523dbf481b53c3143edd04e",
+        "processed": "<rbr>Reach 10 million total fans<br>for Symboli Rudolf."
+    },
+    "603003": {
+        "text": "Reach 50 million total fans for Symboli Rudolf.",
+        "hash": "a9fad3d300ec80e577be1e255ad93de995ba625768b81c2e1c6865fae4421b1c",
+        "processed": "<rbr>Reach 50 million total fans<br>for Symboli Rudolf."
+    },
+    "603004": {
+        "text": "Reach 100 million total fans for Symboli Rudolf.",
+        "hash": "b14595b104c43b2846f4ff755e06afb92cb66cd48856972b41c96ff67d16ab6f",
+        "processed": "<rbr>Reach 100 million total fans<br>for Symboli Rudolf."
+    },
+    "603005": {
+        "text": "Win all G1, G2, and G3 trophies with Symboli Rudolf.",
+        "hash": "d32c5fa4b0186a62855e067774d5917b6b507315b07735228d3e58c221ec1575",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Symboli Rudolf."
+    },
+    "603101": {
+        "text": "Read chapter 4 of Air Groove's story.",
+        "hash": "2ebb931151caa5acf24093d8f941963749cf1cdafd1f7049b465f078eebf5ca3",
+        "processed": "<rbr>Read chapter 4 of Air<br>Groove's story."
+    },
+    "603102": {
+        "text": "Reach 10 million total fans for Air Groove.",
+        "hash": "3a47384a408c38d955b71952c700f1ca5b1ebcebbbb9a8b5da59316f4927fbd0",
+        "processed": "<rbr>Reach 10 million total fans<br>for Air Groove."
+    },
+    "603103": {
+        "text": "Reach 50 million total fans for Air Groove.",
+        "hash": "137183cec43bb9ba9e6dba4b6f5ecc1545c247f1af87af9fc05e8c42b8ad384e",
+        "processed": "<rbr>Reach 50 million total fans<br>for Air Groove."
+    },
+    "603104": {
+        "text": "Reach 100 million total fans for Air Groove.",
+        "hash": "c3c798fc8c4d39d498d8c2f6f48ee0e36c87406bda835b5628c1dfba2f6cb974",
+        "processed": "<rbr>Reach 100 million total fans<br>for Air Groove."
+    },
+    "603105": {
+        "text": "Win all G1, G2, and G3 trophies with Air Groove.",
+        "hash": "42b6e2923a7f95f52546f08b79ddc206cbe5803f19ec09f348978a527bd5ace1",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Air Groove."
+    },
+    "603201": {
+        "text": "Read chapter 4 of Seiun Sky's story.",
+        "hash": "6d704e334592c09d9d7e742c5ffc4517ac5fed77738770de1c24ec789d371a3e",
+        "processed": "<rbr>Read chapter 4 of Seiun<br>Sky's story."
+    },
+    "603202": {
+        "text": "Reach 10 million total fans for Seiun Sky.",
+        "hash": "0e605d6cbda1b8630c92e776dea6c072c519755eb9d0ecabaf05ea4aac05f57a",
+        "processed": "<rbr>Reach 10 million total fans<br>for Seiun Sky."
+    },
+    "603203": {
+        "text": "Reach 50 million total fans for Seiun Sky.",
+        "hash": "7db9d3c02e3e632f18ce0aa1e2aa8893d01f3cdcbbe2afb8e51f49dea5cfc614",
+        "processed": "<rbr>Reach 50 million total fans<br>for Seiun Sky."
+    },
+    "603204": {
+        "text": "Reach 100 million total fans for Seiun Sky.",
+        "hash": "dda31dfaa6e0893e264de57aa40fb6c7ba044a4051d6c8da1bdade301d8f4625",
+        "processed": "<rbr>Reach 100 million total fans<br>for Seiun Sky."
+    },
+    "603205": {
+        "text": "Win all G1, G2, and G3 trophies with Seiun Sky.",
+        "hash": "7050cb9ac4dba20424b3c80cd0448a543ba6f264a6055f29355c1ef2e3c82840",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Seiun Sky."
+    },
+    "603301": {
+        "text": "Read chapter 4 of Mayano Top Gun's story.",
+        "hash": "223fd04d95efa8efdae8bc03eb795c109a43d47b114949ddfb51f8cbcf1508ca",
+        "processed": "<rbr>Read chapter 4 of Mayano<br>Top Gun's story."
+    },
+    "603302": {
+        "text": "Reach 10 million total fans for Mayano Top Gun.",
+        "hash": "9794232085e2d1af1dbc0733665264debb5eb0618bfb19b69d76d0e27a436b10",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mayano Top Gun."
+    },
+    "603303": {
+        "text": "Reach 50 million total fans for Mayano Top Gun.",
+        "hash": "416dff345df0361bd7cde6169297219c8393c875efeddf18df757dc3d62a3d4e",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mayano Top Gun."
+    },
+    "603304": {
+        "text": "Reach 100 million total fans for Mayano Top Gun.",
+        "hash": "fd00922f91ffa956d5c8e69a3d538f9d1b261c9b8fe6e79a45647ca78e16a22a",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mayano Top Gun."
+    },
+    "603305": {
+        "text": "Win all G1, G2, and G3 trophies with Mayano Top Gun.",
+        "hash": "6724573ed23276391658876888e32b58b00f1e78e18efbb7f51167c022a9d4d7",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Mayano Top Gun."
+    },
+    "603401": {
+        "text": "Read chapter 4 of Mejiro Ryan's story.",
+        "hash": "c64870fafe97d132a8e5335c19a4cdd15be263b5dfa6c6db1aee0e6c5bd83b3a",
+        "processed": "<rbr>Read chapter 4 of Mejiro<br>Ryan's story."
+    },
+    "603402": {
+        "text": "Reach 10 million total fans for Mejiro Ryan.",
+        "hash": "ee245f4b84d3f29d6006cb94ce8951a01ca9372b972bc2fe3d80406432bdeaa8",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro Ryan."
+    },
+    "603403": {
+        "text": "Reach 50 million total fans for Mejiro Ryan.",
+        "hash": "f5381828eae97109b566997f49d8a9cc311c9a7af7b03c9350c218a6eac902e0",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro Ryan."
+    },
+    "603404": {
+        "text": "Reach 100 million total fans for Mejiro Ryan.",
+        "hash": "c9fe582a8ff2e3ccbbb6c723995c368e710c8b91711803ac337f7c296b86c817",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro Ryan."
+    },
+    "603405": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro Ryan.",
+        "hash": "1fb343027686676ed6c82babea97f603f90b47493db6ffa1f8580d7cc60b9d12",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mejiro Ryan."
+    },
+    "603501": {
+        "text": "Read chapter 4 of Rice Shower's story.",
+        "hash": "032a9888152ea624b45f15ae4c9dcadada9e908317b0354714a520a5914edf44",
+        "processed": "<rbr>Read chapter 4 of Rice<br>Shower's story."
+    },
+    "603502": {
+        "text": "Reach 10 million total fans for Rice Shower.",
+        "hash": "6a83a5fb6a0dd8b2a584a37fbfe0c7ebb651400b3f8d474fb679351ca8cb0cb6",
+        "processed": "<rbr>Reach 10 million total fans<br>for Rice Shower."
+    },
+    "603503": {
+        "text": "Reach 50 million total fans for Rice Shower.",
+        "hash": "a94976992232d626fc59d11ee376b7f1860656819181d43ac065998fb27aafd0",
+        "processed": "<rbr>Reach 50 million total fans<br>for Rice Shower."
+    },
+    "603504": {
+        "text": "Reach 100 million total fans for Rice Shower.",
+        "hash": "700c811fd30b356c38bb985301e00a523b20269fbc2d45c76bc1421152ed25d1",
+        "processed": "<rbr>Reach 100 million total fans<br>for Rice Shower."
+    },
+    "603505": {
+        "text": "Win all G1, G2, and G3 trophies with Rice Shower.",
+        "hash": "83e9ce39ecbcad788c90ed877be35a7dd33eba0498f80d45752457ab00b7bbf0",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Rice Shower."
+    },
+    "603601": {
+        "text": "Read chapter 4 of Agnes Tachyon's story.",
+        "hash": "086245063894cd4826571354c08567d795f794b8eb1dae50af72d5d939aafd31",
+        "processed": "<rbr>Read chapter 4 of Agnes<br>Tachyon's story."
+    },
+    "603602": {
+        "text": "Reach 10 million total fans for Agnes Tachyon.",
+        "hash": "9826cc838d742f8c10e2f22297aff3c0d42dfb0269892656587c81ddf54845cc",
+        "processed": "<rbr>Reach 10 million total fans<br>for Agnes Tachyon."
+    },
+    "603603": {
+        "text": "Reach 50 million total fans for Agnes Tachyon.",
+        "hash": "3e458bf597f709c87304f5ff755520748d7cc516ca4b7e897d0f2346f96e4d74",
+        "processed": "<rbr>Reach 50 million total fans<br>for Agnes Tachyon."
+    },
+    "603604": {
+        "text": "Reach 100 million total fans for Agnes Tachyon.",
+        "hash": "2e1b037dc2e03569a4e5e6216dfcef53f6ff952866e35733536a1ad8474e74dc",
+        "processed": "<rbr>Reach 100 million total fans<br>for Agnes Tachyon."
+    },
+    "603605": {
+        "text": "Win all G1, G2, and G3 trophies with Agnes Tachyon.",
+        "hash": "b8347d45b27ba3853f7d3d073678681b7cf515ec3a5b8fb7948de6e5a7894651",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Agnes Tachyon."
+    },
+    "603701": {
+        "text": "Read chapter 4 of Winning Ticket's story.",
+        "hash": "11dd52aca32cf7d858c6d9d5a336b06791c6f8067852604287e604af4426aec5",
+        "processed": "<rbr>Read chapter 4 of Winning<br>Ticket's story."
+    },
+    "603702": {
+        "text": "Reach 10 million total fans for Winning Ticket.",
+        "hash": "ba92e2ee2f2b6b8ff585323a0ae87173f5056e403f0ed3950d9d45709ded22a4",
+        "processed": "<rbr>Reach 10 million total fans<br>for Winning Ticket."
+    },
+    "603703": {
+        "text": "Reach 50 million total fans for Winning Ticket.",
+        "hash": "142fee5e55be68cbeb6e8fc1434359d04b2e2edff494955cd91b451f8c8cdd8f",
+        "processed": "<rbr>Reach 50 million total fans<br>for Winning Ticket."
+    },
+    "603704": {
+        "text": "Reach 100 million total fans for Winning Ticket.",
+        "hash": "f9eab083adb4b61f2ac5ee5e9b49cf689d78330d9f4dafcd8ca6ddc9d61bff5a",
+        "processed": "<rbr>Reach 100 million total fans<br>for Winning Ticket."
+    },
+    "603705": {
+        "text": "Win all G1, G2, and G3 trophies with Winning Ticket.",
+        "hash": "ad10ae1f3a4a25fe1d83f02b09683e5eb60696921d367d9db1561d0fc12caaa0",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Winning Ticket."
+    },
+    "603801": {
+        "text": "Read chapter 4 of Gold City's story.",
+        "hash": "e2f735f09471e7c678ac872824588bacdabe0b60f5c9e65d33c78f53fd65aa7a",
+        "processed": "<rbr>Read chapter 4 of Gold City's<br>story."
+    },
+    "603802": {
+        "text": "Reach 10 million total fans for Gold City.",
+        "hash": "e1c7e2e0e38ea8b7176da288b5fbb5ef4d84f2d49db424464741624559334e08",
+        "processed": "<rbr>Reach 10 million total fans<br>for Gold City."
+    },
+    "603803": {
+        "text": "Reach 50 million total fans for Gold City.",
+        "hash": "b1008c9c7d07c2060bd6a108abc3c6fa1e9e8a1a2649eb589151af658ea778eb",
+        "processed": "<rbr>Reach 50 million total fans<br>for Gold City."
+    },
+    "603804": {
+        "text": "Reach 100 million total fans for Gold City.",
+        "hash": "cc3a3c70214ecfd8af82bacbde3a906855409da56fc4bee229b89f1ba5d16223",
+        "processed": "<rbr>Reach 100 million total fans<br>for Gold City."
+    },
+    "603805": {
+        "text": "Win all G1, G2, and G3 trophies with Gold City.",
+        "hash": "76ba99ad4323aa8ab92f04cf2aefc67ff9ae475a9c39553e42f6a07d97a8f70a",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Gold City."
+    },
+    "603901": {
+        "text": "Read chapter 4 of Sakura Bakushin O's story.",
+        "hash": "f8043636a3d452128aa146064bef67176dd759403b3d4735b09db5fb10379de6",
+        "processed": "<rbr>Read chapter 4 of Sakura<br>Bakushin O's story."
+    },
+    "603902": {
+        "text": "Reach 10 million total fans for Sakura Bakushin O.",
+        "hash": "ad028fda91ca28becc9f7322526417977322f142894ebb32a97b8fc61a5152f6",
+        "processed": "<rbr>Reach 10 million total fans<br>for Sakura Bakushin O."
+    },
+    "603903": {
+        "text": "Reach 50 million total fans for Sakura Bakushin O.",
+        "hash": "dae84a296c2e2f894b3a1571eed1bc30fae125d7b313f698939b2a287693d411",
+        "processed": "<rbr>Reach 50 million total fans<br>for Sakura Bakushin O."
+    },
+    "603904": {
+        "text": "Reach 100 million total fans for Sakura Bakushin O.",
+        "hash": "c4f698b120e928ea625870d9760963f820e75912d67920f8629d4c31f705d3a3",
+        "processed": "<rbr>Reach 100 million total fans<br>for Sakura Bakushin O."
+    },
+    "603905": {
+        "text": "Win all G1, G2, and G3 trophies with Sakura Bakushin O.",
+        "hash": "e8212ca0243dad55a9591792a5c3f044212b52dcea9e8b87f63ff683022df5f7",
+        "processed": "<rbr><sc=97>Win all G1, G2, and G3 tro-<br>phies with Sakura Bakushin O."
+    },
+    "604001": {
+        "text": "Read chapter 4 of Super Creek's story.",
+        "hash": "eca1d489bbf6b91e2ecc42a4a55c1ad1daf0cd2c6f7cb38d15e82593e19fd955",
+        "processed": "<rbr>Read chapter 4 of Super<br>Creek's story."
+    },
+    "604002": {
+        "text": "Reach 10 million total fans for Super Creek.",
+        "hash": "122558f560aa05082a398b5c93add74c8ecc159565cd9b4fd3179c9186a0fa1c",
+        "processed": "<rbr>Reach 10 million total fans<br>for Super Creek."
+    },
+    "604003": {
+        "text": "Reach 50 million total fans for Super Creek.",
+        "hash": "de2941ef12e31d17009f3d114f61810db9d002f2d8d45e0eb735496a984554ad",
+        "processed": "<rbr>Reach 50 million total fans<br>for Super Creek."
+    },
+    "604004": {
+        "text": "Reach 100 million total fans for Super Creek.",
+        "hash": "27c6f3c55424e85d679683ed09ced428a26b9d41867c90576de19390c21a74bc",
+        "processed": "<rbr>Reach 100 million total fans<br>for Super Creek."
+    },
+    "604005": {
+        "text": "Win all G1, G2, and G3 trophies with Super Creek.",
+        "hash": "9bf320f287784f39cb309b697d900437efa435940218895454909a55f2ba0370",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Super Creek."
+    },
+    "604101": {
+        "text": "Read chapter 4 of Haru Urara's story.",
+        "hash": "d2e4b31ed3c4e044a30a228d867359581f3d95ea5ed7774971a341d924f665c6",
+        "processed": "<rbr>Read chapter 4 of Haru<br>Urara's story."
+    },
+    "604102": {
+        "text": "Reach 10 million total fans for Haru Urara.",
+        "hash": "d6e02426c766d739c18a21ff6610f16a936bb3c7cc1e588a624686204213a6d2",
+        "processed": "<rbr>Reach 10 million total fans<br>for Haru Urara."
+    },
+    "604103": {
+        "text": "Reach 50 million total fans for Haru Urara.",
+        "hash": "46c11b75ac65793d3bfe683518c94a9f6e88cebdcbe80986c64e787016a590d0",
+        "processed": "<rbr>Reach 50 million total fans<br>for Haru Urara."
+    },
+    "604104": {
+        "text": "Reach 100 million total fans for Haru Urara.",
+        "hash": "98bfbba8c5c68e55b895b9a7fec31f57bc08a6414566809fa78e049d0176d8e3",
+        "processed": "<rbr>Reach 100 million total fans<br>for Haru Urara."
+    },
+    "604105": {
+        "text": "Win all G1, G2, and G3 trophies with Haru Urara.",
+        "hash": "27e5fc520581b3802bbb06f0227deaa559d5c687c7a9b0a8985dc1ccc59ac6bf",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Haru Urara."
+    },
+    "604201": {
+        "text": "Read chapter 4 of Matikanefukukitaru's story.",
+        "hash": "71165558356b8d6e5260fc54c6f9d24b720ce4f99c8bd86099c922e845ea7205",
+        "processed": "<rbr>Read chapter 4 of<br>Matikanefukukitaru's story."
+    },
+    "604202": {
+        "text": "Reach 10 million total fans for Matikanefukukitaru.",
+        "hash": "5423d7bc64d622b18dfec7d01419735a23c81d0a427c5b9ed42b4cee6fe8b66b",
+        "processed": "<rbr>Reach 10 million total fans<br>for Matikanefukukitaru."
+    },
+    "604203": {
+        "text": "Reach 50 million total fans for Matikanefukukitaru.",
+        "hash": "e32ee3593c42a4f8944f64a8aac793c421b800dda5c975494d731fd7b0d89538",
+        "processed": "<rbr>Reach 50 million total fans<br>for Matikanefukukitaru."
+    },
+    "604204": {
+        "text": "Reach 100 million total fans for Matikanefukukitaru.",
+        "hash": "28e95effe64b59c71ffcd65362f2c3ae791c5a67675825eee957c76aea4d3bf7",
+        "processed": "<rbr>Reach 100 million total fans<br>for Matikanefukukitaru."
+    },
+    "604205": {
+        "text": "Win all G1, G2, and G3 trophies with Matikanefukukitaru.",
+        "hash": "c9847aaa43b92c4f36b067ea65e403ee51650013e47130abde30b6661dd16d37",
+        "processed": "<rbr><sc=96>Win all G1, G2, and G3 tro-<br>phies with Matikanefukukitaru."
+    },
+    "604301": {
+        "text": "Read chapter 4 of Nice Nature's story.",
+        "hash": "7262105f5b5f0a0e28732ea6d7deff7c95e0b1acf8b44caf7c45646242f3a94d",
+        "processed": "<rbr>Read chapter 4 of Nice<br>Nature's story."
+    },
+    "604302": {
+        "text": "Reach 10 million total fans for Nice Nature.",
+        "hash": "0f09ac600611bff95dabf44a6fc46d62745e37a366941343fa5d90b888badd0e",
+        "processed": "<rbr>Reach 10 million total fans<br>for Nice Nature."
+    },
+    "604303": {
+        "text": "Reach 50 million total fans for Nice Nature.",
+        "hash": "3e72e2b495e86eecdc5c02958647167ee1ba811399903145f7ce0c44b57e81a9",
+        "processed": "<rbr>Reach 50 million total fans<br>for Nice Nature."
+    },
+    "604304": {
+        "text": "Reach 100 million total fans for Nice Nature.",
+        "hash": "cdb5b9fc1cbe656ecf552a3b19a6fc05d5e37be90169fb805ccc15152155eec8",
+        "processed": "<rbr>Reach 100 million total fans<br>for Nice Nature."
+    },
+    "604305": {
+        "text": "Win all G1, G2, and G3 trophies with Nice Nature.",
+        "hash": "dc3f166864807b9ddea7c372a8f466ba268fc67ccb4cd30887f18424cc43b03c",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Nice Nature."
+    },
+    "604401": {
+        "text": "Read chapter 4 of King Halo's story.",
+        "hash": "84c5dd49e85310cb60caa6f6e7f0ab5901533882a787b597a1488dcc4b267abd",
+        "processed": "<rbr>Read chapter 4 of King<br>Halo's story."
+    },
+    "604402": {
+        "text": "Reach 10 million total fans for King Halo.",
+        "hash": "916ec12cea581a647c6cb7b5ca8835995d859cd8e9386d82291282bdffe633fa",
+        "processed": "<rbr>Reach 10 million total fans<br>for King Halo."
+    },
+    "604403": {
+        "text": "Reach 50 million total fans for King Halo.",
+        "hash": "4f49683fde9203eb91dd2b4a4873ec633b4d18710074f8c2cda87ea21c37e2ff",
+        "processed": "<rbr>Reach 50 million total fans<br>for King Halo."
+    },
+    "604404": {
+        "text": "Reach 100 million total fans for King Halo.",
+        "hash": "fb168869398c01b3b695f214cf6de36e906e3fd648f16b5275172a8a15972733",
+        "processed": "<rbr>Reach 100 million total fans<br>for King Halo."
+    },
+    "604405": {
+        "text": "Win all G1, G2, and G3 trophies with King Halo.",
+        "hash": "e3dc7f6b684f02e26918019dd3d6e1041cce83d074e430e5790253b9d5a9a9fc",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with King Halo."
+    },
+    "604501": {
+        "text": "Read chapter 4 of Mihono Bourbon's story.",
+        "hash": "559a3823c9f01bcaaa48272b47245a280d724eda7319bdb886d4ff7bce349423",
+        "processed": "<rbr>Read chapter 4 of Mihono<br>Bourbon's story."
+    },
+    "604502": {
+        "text": "Reach 10 million total fans for Mihono Bourbon.",
+        "hash": "cee9a50cd185741a8aa4dfe8911ee6f8fc35046919a9b10d8b09a7be0100dd63",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mihono Bourbon."
+    },
+    "604503": {
+        "text": "Reach 50 million total fans for Mihono Bourbon.",
+        "hash": "5ae3e5dcd69cdf9b431cf9771cd139689d30949e18e858b984a3908b63db1a95",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mihono Bourbon."
+    },
+    "604504": {
+        "text": "Reach 100 million total fans for Mihono Bourbon.",
+        "hash": "ad5e158c06e004e8995294e7f3f371bdd1294f30e6c3648ca3fb4cbe468d1a43",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mihono Bourbon."
+    },
+    "604505": {
+        "text": "Win all G1, G2, and G3 trophies with Mihono Bourbon.",
+        "hash": "76ae9d15ff973b33858647cdca121621ad8f91b05ccff8991bf949db78443d8b",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Mihono Bourbon."
+    },
+    "604601": {
+        "text": "Read chapter 4 of Biwa Hayahide's story.",
+        "hash": "5171cff21043ed81b6c319056142bad6bf9f6e1917c4de59889d7719a723dc35",
+        "processed": "<rbr>Read chapter 4 of Biwa<br>Hayahide's story."
+    },
+    "604602": {
+        "text": "Reach 10 million total fans for Biwa Hayahide.",
+        "hash": "aae14cbcb13425f6385c982ed660c1dd9e34a0cdcc96f6065975883d4498b2cf",
+        "processed": "<rbr>Reach 10 million total fans<br>for Biwa Hayahide."
+    },
+    "604603": {
+        "text": "Reach 50 million total fans for Biwa Hayahide.",
+        "hash": "65ea2d2ab6b67536388dbde8830a6cb94d72184e6da0aa1db2d2f31684eed722",
+        "processed": "<rbr>Reach 50 million total fans<br>for Biwa Hayahide."
+    },
+    "604604": {
+        "text": "Reach 100 million total fans for Biwa Hayahide.",
+        "hash": "1d8e1ede759cfa4de368bbb699712ff8d89a1b25bd4d13759ab5d0ecfba202ed",
+        "processed": "<rbr>Reach 100 million total fans<br>for Biwa Hayahide."
+    },
+    "604605": {
+        "text": "Win all G1, G2, and G3 trophies with Biwa Hayahide.",
+        "hash": "ae09b7d9e04812bf3fddea63562eb1fb43c0c31ebf729775bf9e012cc3bf9ef0",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Biwa Hayahide."
+    },
+    "604701": {
+        "text": "Read chapter 4 of Curren Chan's story.",
+        "hash": "724ca7e9baffed2694d3379f5d3d4bc006b83d379c41b3859058e704796fddac",
+        "processed": "<rbr>Read chapter 4 of Curren<br>Chan's story."
+    },
+    "604702": {
+        "text": "Reach 10 million total fans for Curren Chan.",
+        "hash": "418f49cbd0129a6d119e828233bd46c48ba6ae445520f6da2c31d67404c551d9",
+        "processed": "<rbr>Reach 10 million total fans<br>for Curren Chan."
+    },
+    "604703": {
+        "text": "Reach 50 million total fans for Curren Chan.",
+        "hash": "2baa8129a67ef89eea30943ea788fe2c87db4cbe0eaffb9d34ddc419a364dc54",
+        "processed": "<rbr>Reach 50 million total fans<br>for Curren Chan."
+    },
+    "604704": {
+        "text": "Reach 100 million total fans for Curren Chan.",
+        "hash": "40cbd517d86c056fbf4df28e93ed8679974fd41c734901a99a6875f768443289",
+        "processed": "<rbr>Reach 100 million total fans<br>for Curren Chan."
+    },
+    "604705": {
+        "text": "Win all G1, G2, and G3 trophies with Curren Chan.",
+        "hash": "042edfe2dd246deac2b0c9e04994cc080f5fb7d40d4929d39eb421bc48215442",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Curren Chan."
+    },
+    "604801": {
+        "text": "Read chapter 4 of Narita Taishin's story.",
+        "hash": "0daf151a34193ec78a7ca0679fb49f56d39e6266839099403a27a7bad5312cd8",
+        "processed": "<rbr>Read chapter 4 of Narita<br>Taishin's story."
+    },
+    "604802": {
+        "text": "Reach 10 million total fans for Narita Taishin.",
+        "hash": "7fed40c40e2c6b25e3997fc980320e8ddbecb0f6ba6ca23a9d3811cab96bc946",
+        "processed": "<rbr>Reach 10 million total fans<br>for Narita Taishin."
+    },
+    "604803": {
+        "text": "Reach 50 million total fans for Narita Taishin.",
+        "hash": "68f6d5cb08984e713b5cb03889bcde10b9d55d9fe86c956af3787014c6162d49",
+        "processed": "<rbr>Reach 50 million total fans<br>for Narita Taishin."
+    },
+    "604804": {
+        "text": "Reach 100 million total fans for Narita Taishin.",
+        "hash": "08f1eb84a921ba6a02c5c55c80c19762cfbe2ea7e07e67d0073e55bd558dcc2c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Narita Taishin."
+    },
+    "604805": {
+        "text": "Win all G1, G2, and G3 trophies with Narita Taishin.",
+        "hash": "9c824d20ba1fb6cbd232fb8fce6fd8f2d14f2c9c8792c9f70090a7a7bc20a045",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Narita Taishin."
+    },
+    "604901": {
+        "text": "Read chapter 4 of Smart Falcon's story.",
+        "hash": "27d756b1982c47902af2fd77a9bd9020e1c2865c8ef09dcbd424c87f39cd24df",
+        "processed": "<rbr>Read chapter 4 of Smart<br>Falcon's story."
+    },
+    "604902": {
+        "text": "Reach 10 million total fans for Smart Falcon.",
+        "hash": "7aa5571be1fae0cf8ac7483180912cf0ca5f9b3da5c3af63998727b4ae127e0b",
+        "processed": "<rbr>Reach 10 million total fans<br>for Smart Falcon."
+    },
+    "604903": {
+        "text": "Reach 50 million total fans for Smart Falcon.",
+        "hash": "24049574dd5cdd02629481a16e57b34428d2485b01221411d97d2c93685fdd43",
+        "processed": "<rbr>Reach 50 million total fans<br>for Smart Falcon."
+    },
+    "604904": {
+        "text": "Reach 100 million total fans for Smart Falcon.",
+        "hash": "9e83d481beee953ee9685c4221f3962762b0a15c16d7cc5bf7923793af9afaa6",
+        "processed": "<rbr>Reach 100 million total fans<br>for Smart Falcon."
+    },
+    "604905": {
+        "text": "Win all G1, G2, and G3 trophies with Smart Falcon.",
+        "hash": "312e53060c2fad8069609b5018844688f36557e21eeeb50b477e4459e744ce3b",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Smart Falcon."
+    },
+    "605001": {
+        "text": "Read chapter 4 of Narita Brian's story.",
+        "hash": "bfdadb26b0d25dd5b89bfe897bfb63234509abe91d36994fafc5ff9501d2fc22",
+        "processed": "<rbr>Read chapter 4 of Narita<br>Brian's story."
+    },
+    "605002": {
+        "text": "Reach 10 million total fans for Narita Brian.",
+        "hash": "2cac7b9fc3d8564b8c48f0253a4c054bf5c68f4fa3553a06155dfeda679788d8",
+        "processed": "<rbr>Reach 10 million total fans<br>for Narita Brian."
+    },
+    "605003": {
+        "text": "Reach 50 million total fans for Narita Brian.",
+        "hash": "68f023bd63e854db329123859260b295c7ccb3bbc78be937e8c1d0e706dc45a6",
+        "processed": "<rbr>Reach 50 million total fans<br>for Narita Brian."
+    },
+    "605004": {
+        "text": "Reach 100 million total fans for Narita Brian.",
+        "hash": "7d9daaf51dbb022ba8bec57699d0af3eee579470a18272df6fa4d0c472466163",
+        "processed": "<rbr>Reach 100 million total fans<br>for Narita Brian."
+    },
+    "605005": {
+        "text": "Win all G1, G2, and G3 trophies with Narita Brian.",
+        "hash": "ee4c16e86cae0db03cd56f5bcd9eb52103f4699eca8fb99ba08928c6ccfe9642",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Narita Brian."
+    },
+    "605101": {
+        "text": "Read chapter 4 of Meisho Doto's story.",
+        "hash": "9acb8d6f45355710eba516f2344c72df396834ad631084e86dda3632d912b5c7",
+        "processed": "<rbr>Read chapter 4 of Meisho<br>Doto's story."
+    },
+    "605102": {
+        "text": "Reach 10 million total fans for Meisho Doto.",
+        "hash": "829d61448c898e806478bb0c679457d9045941def1f117ba3f057b8b93c3a27f",
+        "processed": "<rbr>Reach 10 million total fans<br>for Meisho Doto."
+    },
+    "605103": {
+        "text": "Reach 50 million total fans for Meisho Doto.",
+        "hash": "16e90e92b9b48c5f4f5e4a506d4384d2a91a38139f1d3bd921d56c0ad9393a71",
+        "processed": "<rbr>Reach 50 million total fans<br>for Meisho Doto."
+    },
+    "605104": {
+        "text": "Reach 100 million total fans for Meisho Doto.",
+        "hash": "3fae562ca7758abbec7926e0b4dd45f846c80cabbeb6fecd3ad1013c96055431",
+        "processed": "<rbr>Reach 100 million total fans<br>for Meisho Doto."
+    },
+    "605105": {
+        "text": "Win all G1, G2, and G3 trophies with Meisho Doto.",
+        "hash": "0c21d7d63969dfe8afad6ad464fa9964c255ece996ecd811b9434d63180687e3",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Meisho Doto."
+    },
+    "605201": {
+        "text": "Read chapter 4 of Eishin Flash's story.",
+        "hash": "2f0fdff25642af069e3d60cb277d38f9de6641d4b3cbb5e03f4ebac56e2f09e2",
+        "processed": "<rbr>Read chapter 4 of Eishin<br>Flash's story."
+    },
+    "605202": {
+        "text": "Reach 10 million total fans for Eishin Flash.",
+        "hash": "dac967b35c2419f89eba82db05d54613bfbad4e2f3120cd860387426bb15e75f",
+        "processed": "<rbr>Reach 10 million total fans<br>for Eishin Flash."
+    },
+    "605203": {
+        "text": "Reach 50 million total fans for Eishin Flash.",
+        "hash": "a76bc28c56e5fa198f800f62f1eb0f60b05afa607aaa0bf1e254312feadce2a0",
+        "processed": "<rbr>Reach 50 million total fans<br>for Eishin Flash."
+    },
+    "605204": {
+        "text": "Reach 100 million total fans for Eishin Flash.",
+        "hash": "8c3c75f4377b31032bd58c913aa9b2c18f186f6ef083af5052c9069aad4cc8fd",
+        "processed": "<rbr>Reach 100 million total fans<br>for Eishin Flash."
+    },
+    "605205": {
+        "text": "Win all G1, G2, and G3 trophies with Eishin Flash.",
+        "hash": "b4e605e9d4353d3ab582ae33f89d48a2fb70801db5e3daf9ba3b1bb683624d01",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Eishin Flash."
+    },
+    "605301": {
+        "text": "Read chapter 4 of Hishi Akebono's story.",
+        "hash": "db1dd9653e0d728b2e9d226b1b1859ca0ed01c796f5e55eb19e21b3b6c6e0a73",
+        "processed": "<rbr>Read chapter 4 of Hishi<br>Akebono's story."
+    },
+    "605302": {
+        "text": "Reach 10 million total fans for Hishi Akebono.",
+        "hash": "61e9e0da4f3a8d307d500525108ae6e39ed60f36a073f6a925a25915d6628c4c",
+        "processed": "<rbr>Reach 10 million total fans<br>for Hishi Akebono."
+    },
+    "605303": {
+        "text": "Reach 50 million total fans for Hishi Akebono.",
+        "hash": "a2e170154f098513c36ef9f54fa301da27ddc7c0f42396e3b43ec880e1287273",
+        "processed": "<rbr>Reach 50 million total fans<br>for Hishi Akebono."
+    },
+    "605304": {
+        "text": "Reach 100 million total fans for Hishi Akebono.",
+        "hash": "79db2399b275001e9ebe89660bbcb55a7e0c45debfe2529e9252a75f737a64cf",
+        "processed": "<rbr>Reach 100 million total fans<br>for Hishi Akebono."
+    },
+    "605305": {
+        "text": "Win all G1, G2, and G3 trophies with Hishi Akebono.",
+        "hash": "97a56775ca1889731fadca97f97ed91efacabf1f61e3cfa7841ff8c7eebb5988",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Hishi Akebono."
+    },
+    "605401": {
+        "text": "Read chapter 4 of Agnes Digital's story.",
+        "hash": "339ebda1137e56a4f4baca6f7bc367ef24c0138cf56e95a3b78107bd445e24b7",
+        "processed": "<rbr>Read chapter 4 of Agnes<br>Digital's story."
+    },
+    "605402": {
+        "text": "Reach 10 million total fans for Agnes Digital.",
+        "hash": "447fdfd1b833810a4b58482af6035933fcab690820bfa16867d5cf83458eca75",
+        "processed": "<rbr>Reach 10 million total fans<br>for Agnes Digital."
+    },
+    "605403": {
+        "text": "Reach 50 million total fans for Agnes Digital.",
+        "hash": "ae4bfab3006ade978843ec9c41ff813401e2a4b5bd0b957ecfa031756e067f09",
+        "processed": "<rbr>Reach 50 million total fans<br>for Agnes Digital."
+    },
+    "605404": {
+        "text": "Reach 100 million total fans for Agnes Digital.",
+        "hash": "573f69999af7907c7bc55a2de1339540e8dc79d212464b09bbbb3269b4bc96df",
+        "processed": "<rbr>Reach 100 million total fans<br>for Agnes Digital."
+    },
+    "605405": {
+        "text": "Win all G1, G2, and G3 trophies with Agnes Digital.",
+        "hash": "9f607a707c97fe031a47703998f8443514b9b08905e99c5939b656ca4c404dae",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Agnes Digital."
+    },
+    "605501": {
+        "text": "Read chapter 4 of Kawakami Princess' story.",
+        "hash": "64871fedeaef32af9371c06be601ecba14fabb27c9016d5a686324166203e900",
+        "processed": "<rbr>Read chapter 4 of Kawakami<br>Princess' story."
+    },
+    "605502": {
+        "text": "Reach 10 million total fans for Kawakami Princess.",
+        "hash": "541d90c05066962bf5145fa9f97073d5a1634ccb3aed9390d3357e52699509aa",
+        "processed": "<rbr>Reach 10 million total fans<br>for Kawakami Princess."
+    },
+    "605503": {
+        "text": "Reach 50 million total fans for Kawakami Princess.",
+        "hash": "a775e3bcb73feb330beeb9983529870fa4a8ab486b76bfa9ac60582b4d0cf3d6",
+        "processed": "<rbr>Reach 50 million total fans<br>for Kawakami Princess."
+    },
+    "605504": {
+        "text": "Reach 100 million total fans for Kawakami Princess.",
+        "hash": "6c2edbf9cea9be1eaa7c7405f317dc4986f014d9d756efdfc611593a5b71ee4a",
+        "processed": "<rbr>Reach 100 million total fans<br>for Kawakami Princess."
+    },
+    "605505": {
+        "text": "Win all G1, G2, and G3 trophies with Kawakami Princess.",
+        "hash": "c79c16b5ea602bc6e3a64d0cd8c315db0816f446d939a743dc6d9d9702247f31",
+        "processed": "<rbr><sc=97>Win all G1, G2, and G3 tro-<br>phies with Kawakami Princess."
+    },
+    "605601": {
+        "text": "Read chapter 4 of Manhattan Cafe's story.",
+        "hash": "b6f429af373c973c80eda0a10bc8a15e82d679bd4cd6ef1968388052240e632b",
+        "processed": "<rbr>Read chapter 4 of Manhattan<br>Cafe's story."
+    },
+    "605602": {
+        "text": "Reach 10 million total fans for Manhattan Cafe.",
+        "hash": "eadd46f3d09b7749b9ad1c0a7b86b74f1ce01752bcc708273a412e7ca573aa2f",
+        "processed": "<rbr>Reach 10 million total fans<br>for Manhattan Cafe."
+    },
+    "605603": {
+        "text": "Reach 50 million total fans for Manhattan Cafe.",
+        "hash": "c1ef10e708cd5c1c986a2dd48aa61581d9c28c85867c1aabd9339851995afcbc",
+        "processed": "<rbr>Reach 50 million total fans<br>for Manhattan Cafe."
+    },
+    "605604": {
+        "text": "Reach 100 million total fans for Manhattan Cafe.",
+        "hash": "761c4d6bb790d12e17350f255fc3017e20d29cb6cef4261d6e1684b31a9f6dff",
+        "processed": "<rbr>Reach 100 million total fans<br>for Manhattan Cafe."
+    },
+    "605605": {
+        "text": "Win all G1, G2, and G3 trophies with Manhattan Cafe.",
+        "hash": "022fa7b142b0f20d1742daed97271e3a3db5cd0a259a7b0a5d58e8c69a299709",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Manhattan Cafe."
+    },
+    "605701": {
+        "text": "Read chapter 4 of Tosen Jordan's story.",
+        "hash": "63a48d042d0b402070615cd301752133915c0544bfda512dcfc4cb9abd4beb0a",
+        "processed": "<rbr>Read chapter 4 of Tosen<br>Jordan's story."
+    },
+    "605702": {
+        "text": "Reach 10 million total fans for Tosen Jordan.",
+        "hash": "e456c4c376b07d37efc1265f4e96a1c14c79b7d44c4bb44e25ad94b87f0f62f2",
+        "processed": "<rbr>Reach 10 million total fans<br>for Tosen Jordan."
+    },
+    "605703": {
+        "text": "Reach 50 million total fans for Tosen Jordan.",
+        "hash": "3c79ef58c58a6ca285a06019f661f9f42c5e11dcc3497686ae7dc437f916464c",
+        "processed": "<rbr>Reach 50 million total fans<br>for Tosen Jordan."
+    },
+    "605704": {
+        "text": "Reach 100 million total fans for Tosen Jordan.",
+        "hash": "d1df03622a0d6c912dbd4a805e9199203af2f693c75114fc210ae01158a623fb",
+        "processed": "<rbr>Reach 100 million total fans<br>for Tosen Jordan."
+    },
+    "605705": {
+        "text": "Win all G1, G2, and G3 trophies with Tosen Jordan.",
+        "hash": "655ef551c6074cf3e657a9f5c41c4b2053ab0db4c6f12238b70bb3e63104867b",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Tosen Jordan."
+    },
+    "605801": {
+        "text": "Read chapter 4 of Mejiro Dober's story.",
+        "hash": "e1dee4d8d83c1067b0ca1298629ffa07b63a3350d05e9780e1e16d77a16543f8",
+        "processed": "<rbr>Read chapter 4 of Mejiro<br>Dober's story."
+    },
+    "605802": {
+        "text": "Reach 10 million total fans for Mejiro Dober.",
+        "hash": "98431ee1035c12c2cdf85507104f2b0ee06e0f1d9a6b2d1b7e2283d6a8ea9a36",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro Dober."
+    },
+    "605803": {
+        "text": "Reach 50 million total fans for Mejiro Dober.",
+        "hash": "0d73f9ad59a0ae68122805283899b84a6fe7156849b2a8dd106b6c3348f719ed",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro Dober."
+    },
+    "605804": {
+        "text": "Reach 100 million total fans for Mejiro Dober.",
+        "hash": "07b0ccc5ce6a7db5e453045f98d6ad9ec1611985e4f5374b40edac951fe3da07",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro Dober."
+    },
+    "605805": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro Dober.",
+        "hash": "ed36ef89f0686ed968618bccafbe1d8cdf25c58d42c07ad84aa0c75e1e8012fc",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mejiro Dober."
+    },
+    "605901": {
+        "text": "Read chapter 4 of Fine Motion's story.",
+        "hash": "261d6a2f18f1b6be901e0e43bfbda49d3b5c8c2aa6b7626f6b4dffdfe93b3bfa",
+        "processed": "<rbr>Read chapter 4 of Fine<br>Motion's story."
+    },
+    "605902": {
+        "text": "Reach 10 million total fans for Fine Motion.",
+        "hash": "b36c6b359727cb491fe3c9b5fe1105abf1682580e77604b559f6b2830921c650",
+        "processed": "<rbr>Reach 10 million total fans<br>for Fine Motion."
+    },
+    "605903": {
+        "text": "Reach 50 million total fans for Fine Motion.",
+        "hash": "72833cc6cd466eb2f9da421858e24056af3b6dc80cfcbd37a12593bac0a9c5f6",
+        "processed": "<rbr>Reach 50 million total fans<br>for Fine Motion."
+    },
+    "605904": {
+        "text": "Reach 100 million total fans for Fine Motion.",
+        "hash": "b92b37034b4e539b92642802f85cf6c239f3fe14b9657fa0aa88b963d6663f00",
+        "processed": "<rbr>Reach 100 million total fans<br>for Fine Motion."
+    },
+    "605905": {
+        "text": "Win all G1, G2, and G3 trophies with Fine Motion.",
+        "hash": "5a774e75c8201253e01d05b78ac25ddd008acbf49e8a1c43b111f43d16ee4f25",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Fine Motion."
+    },
+    "606001": {
+        "text": "Read chapter 4 of Tamamo Cross's story.",
+        "hash": "2ba2b10bd622e7e44ac058486e7e525ca926f9ace63480bd5e59ba88a5cc9483",
+        "processed": "<rbr>Read chapter 4 of Tamamo<br>Cross's story."
+    },
+    "606002": {
+        "text": "Reach 10 million total fans for Tamamo Cross.",
+        "hash": "bfcbef6015170f4b6321d25574c549d2570b0de845bbfaba19236e22e9e7dd7b",
+        "processed": "<rbr>Reach 10 million total fans<br>for Tamamo Cross."
+    },
+    "606003": {
+        "text": "Reach 50 million total fans for Tamamo Cross.",
+        "hash": "0dc2d806db664627970a6f9bb920a0571d24f298e5147d7f965a4de0db6857c8",
+        "processed": "<rbr>Reach 50 million total fans<br>for Tamamo Cross."
+    },
+    "606004": {
+        "text": "Reach 100 million total fans for Tamamo Cross.",
+        "hash": "ce60b45f2d2e06d20712c2177bc747ed7e653f26c80f188d36d386d3199acd1c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Tamamo Cross."
+    },
+    "606005": {
+        "text": "Win all G1, G2, and G3 trophies with Tamamo Cross.",
+        "hash": "d506dda5138a2874246d8a5ecf2ac90a28244a09e486c5768e38971e0308f2f1",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Tamamo Cross."
+    },
+    "606101": {
+        "text": "Read chapter 4 of Sakura Chiyono O's story.",
+        "hash": "d0a208728bcfd83e69f41c29edde471332d707e005328703dfe1ec93c6470d43",
+        "processed": "<rbr>Read chapter 4 of Sakura<br>Chiyono O's story."
+    },
+    "606102": {
+        "text": "Reach 10 million total fans for Sakura Chiyono O.",
+        "hash": "0d55414edc9034d7127f639c8c7aadc901c28c5c1a0139d46b8ecb84322c6da1",
+        "processed": "<rbr>Reach 10 million total fans<br>for Sakura Chiyono O."
+    },
+    "606103": {
+        "text": "Reach 50 million total fans for Sakura Chiyono O.",
+        "hash": "dc758ab50ea60fb018bb71022aae5a50f5cc34990907748f4ae6432ea8a0588b",
+        "processed": "<rbr>Reach 50 million total fans<br>for Sakura Chiyono O."
+    },
+    "606104": {
+        "text": "Reach 100 million total fans for Sakura Chiyono O.",
+        "hash": "8e748d766f15cb03fe0579c58d416c3b7736d135ed0a7822340687dbb2df627a",
+        "processed": "<rbr>Reach 100 million total fans<br>for Sakura Chiyono O."
+    },
+    "606105": {
+        "text": "Win all G1, G2, and G3 trophies with Sakura Chiyono O.",
+        "hash": "cec49eeb0d9d03f6b0f92dc2a8b2671060c4112cb5136b598a0d126b8369a8af",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Sakura Chiyono O."
+    },
+    "606201": {
+        "text": "Read chapter 4 of Mejiro Ardan's story.",
+        "hash": "da17de76653323cc07e6aa36af1f86fb68e069b7369db38df3b0fc0ffe161538",
+        "processed": "<rbr>Read chapter 4 of Mejiro<br>Ardan's story."
+    },
+    "606202": {
+        "text": "Reach 10 million total fans for Mejiro Ardan.",
+        "hash": "90679b51412749719bac8f4325e1427c9365592373977c1e791455f966a2967b",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro Ardan."
+    },
+    "606203": {
+        "text": "Reach 50 million total fans for Mejiro Ardan.",
+        "hash": "7117a09afe74df76752e1f56e5863224ca4a74570d43996fafbd5c06af88e2db",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro Ardan."
+    },
+    "606204": {
+        "text": "Reach 100 million total fans for Mejiro Ardan.",
+        "hash": "ffe899d0bc971b8d909d8d770e178adb919d42bb3a1c706c1fbd754f1abbe026",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro Ardan."
+    },
+    "606205": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro Ardan.",
+        "hash": "dfcc3644cca9979fc697ada0503572aad96e788dde23fde795e53c7d7710368d",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mejiro Ardan."
+    },
+    "606301": {
+        "text": "Read chapter 4 of Admire Vega's story.",
+        "hash": "cff296ff6ca9c6f087de293c02e52f5f5d1e788a77545864a951f5411e7a434d",
+        "processed": "<rbr>Read chapter 4 of Admire<br>Vega's story."
+    },
+    "606302": {
+        "text": "Reach 10 million total fans for Admire Vega.",
+        "hash": "df719146541359b98dc7cb2f36d08e8472fdd39f270dc0148bae6d2922c61994",
+        "processed": "<rbr>Reach 10 million total fans<br>for Admire Vega."
+    },
+    "606303": {
+        "text": "Reach 50 million total fans for Admire Vega.",
+        "hash": "464a8695b2ddc905df4f077afbf9f155601de5c142482de74a39342bbd536022",
+        "processed": "<rbr>Reach 50 million total fans<br>for Admire Vega."
+    },
+    "606304": {
+        "text": "Reach 100 million total fans for Admire Vega.",
+        "hash": "6ee4a11dc3396413dfa097b55553758d29d08619e533d9f9d84bc23918c5aff2",
+        "processed": "<rbr>Reach 100 million total fans<br>for Admire Vega."
+    },
+    "606305": {
+        "text": "Win all G1, G2, and G3 trophies with Admire Vega.",
+        "hash": "dde0c7a365ee57bdc7e55b5ab4581e1e98de66c8821f4abb2f7074274cf5afec",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Admire Vega."
+    },
+    "606401": {
+        "text": "Read chapter 4 of Kitasan Black's story.",
+        "hash": "ae66482c4d6756976456c093599a4ab939a50c5c7bd6f07204f4aebda9e38f85",
+        "processed": "<rbr>Read chapter 4 of Kitasan<br>Black's story."
+    },
+    "606402": {
+        "text": "Reach 10 million total fans for Kitasan Black.",
+        "hash": "e0483524ae923b9527f193b90e1db1be5eef8bceaaa9af99168bb895f3816558",
+        "processed": "<rbr>Reach 10 million total fans<br>for Kitasan Black."
+    },
+    "606403": {
+        "text": "Reach 50 million total fans for Kitasan Black.",
+        "hash": "af0024da289faa80cea91f696fb6299bb9451b3d047f8b663093b25e4b3ece1e",
+        "processed": "<rbr>Reach 50 million total fans<br>for Kitasan Black."
+    },
+    "606404": {
+        "text": "Reach 100 million total fans for Kitasan Black.",
+        "hash": "d7b3441048301cb9fd36e6c750409bcff43d575d3574e2ab57844140159c0808",
+        "processed": "<rbr>Reach 100 million total fans<br>for Kitasan Black."
+    },
+    "606405": {
+        "text": "Win all G1, G2, and G3 trophies with Kitasan Black.",
+        "hash": "480099834d1a6a6de9e948726a7ad23e473764f2076fc7694aff474d26c82748",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Kitasan Black."
+    },
+    "606501": {
+        "text": "Read chapter 4 of Matikanetannhauser's story.",
+        "hash": "8ac08e1d0f3513f235adc5e982219e79576c14389ec80ab0e15648d1ddaa2af1",
+        "processed": "<rbr>Read chapter 4 of<br>Matikanetannhauser's story."
+    },
+    "606502": {
+        "text": "Reach 10 million total fans for Matikanetannhauser.",
+        "hash": "01aeca72384d3d0ed477520455a68ca5e1568bd60207a4286db6def44b49709c",
+        "processed": "<rbr>Reach 10 million total fans<br>for Matikanetannhauser."
+    },
+    "606503": {
+        "text": "Reach 50 million total fans for Matikanetannhauser.",
+        "hash": "e14a9ebe07973810c7654b1d74d7448be20d52f0567dfb779ff545522d24c8bd",
+        "processed": "<rbr>Reach 50 million total fans<br>for Matikanetannhauser."
+    },
+    "606504": {
+        "text": "Reach 100 million total fans for Matikanetannhauser.",
+        "hash": "839e562f246dbc317cbff4072ca41618802f37742a4e52ca70c3745d92709a23",
+        "processed": "<rbr>Reach 100 million total fans<br>for Matikanetannhauser."
+    },
+    "606505": {
+        "text": "Win all G1, G2, and G3 trophies with Matikanetannhauser.",
+        "hash": "fb88d3fda6f6fa493b9743307120dc57a801f936a7d006df1b0a472b2044f211",
+        "processed": "<rbr><sc=94>Win all G1, G2, and G3 trophies<br>with Matikanetannhauser."
+    },
+    "606601": {
+        "text": "Read chapter 4 of Satono Diamond's story.",
+        "hash": "756e1a6c16b3da32757e93fb79da450d660c73039e008494f9af8cd700fc0686",
+        "processed": "<rbr>Read chapter 4 of Satono<br>Diamond's story."
+    },
+    "606602": {
+        "text": "Reach 10 million total fans for Satono Diamond.",
+        "hash": "8728ca271f01b029ac02c8e648a88dca061dbe9b8549549c9f15f45ea50f8fcc",
+        "processed": "<rbr>Reach 10 million total fans<br>for Satono Diamond."
+    },
+    "606603": {
+        "text": "Reach 50 million total fans for Satono Diamond.",
+        "hash": "3e925017e17afc63ed5aa5daecca34fc9ed06a558a1409d922c00130d2ba9cae",
+        "processed": "<rbr>Reach 50 million total fans<br>for Satono Diamond."
+    },
+    "606604": {
+        "text": "Reach 100 million total fans for Satono Diamond.",
+        "hash": "74d43f3b05d65a64d4e928c2631ec107a31a4ab9a7b871304b0fe1125f59b828",
+        "processed": "<rbr>Reach 100 million total fans<br>for Satono Diamond."
+    },
+    "606605": {
+        "text": "Win all G1, G2, and G3 trophies with Satono Diamond.",
+        "hash": "ffcc117e18c0e00089f50c30f346595a5a00d8e68df1d79d0179a53c4ed5c409",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Satono Diamond."
+    },
+    "606701": {
+        "text": "Read chapter 4 of Mejiro Bright's story.",
+        "hash": "b0ed19dc151ef9bab981ecd3667ca669a027a5471befe3eeccf1248189f60364",
+        "processed": "<rbr>Read chapter 4 of Mejiro<br>Bright's story."
+    },
+    "606702": {
+        "text": "Reach 10 million total fans for Mejiro Bright.",
+        "hash": "5fa063f373d53fbee054ecc092bd491ac67fe619212c352a50f49102d882f21a",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro Bright."
+    },
+    "606703": {
+        "text": "Reach 50 million total fans for Mejiro Bright.",
+        "hash": "8e75c7434402343615d5324e40702ab4400bd842cfd64912f1899d859935cefe",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro Bright."
+    },
+    "606704": {
+        "text": "Reach 100 million total fans for Mejiro Bright.",
+        "hash": "70207fd2c6976e2e6ef56658e6635bf0f5de4a6568b1556891fc90711d23ff0f",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro Bright."
+    },
+    "606705": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro Bright.",
+        "hash": "50c7886898c94c5c44a740425dfb88a336edad344149d51ac4fcdb14e0203b90",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mejiro Bright."
+    },
+    "606801": {
+        "text": "Read chapter 4 of Nishino Flower's story.",
+        "hash": "166d951ffc2df8b93dcd19c80574202914783621be1f8438511368a0c7692517",
+        "processed": "<rbr>Read chapter 4 of Nishino<br>Flower's story."
+    },
+    "606802": {
+        "text": "Reach 10 million total fans for Nishino Flower.",
+        "hash": "9faf3f46df3ab667377e69c3de8ed4ec9041ce207239c144923531c54e1f5036",
+        "processed": "<rbr>Reach 10 million total fans<br>for Nishino Flower."
+    },
+    "606803": {
+        "text": "Reach 50 million total fans for Nishino Flower.",
+        "hash": "d64dfc7e93b4003b34b50cf299d5a05013d522bfd17e60c098cece73263eab48",
+        "processed": "<rbr>Reach 50 million total fans<br>for Nishino Flower."
+    },
+    "606804": {
+        "text": "Reach 100 million total fans for Nishino Flower.",
+        "hash": "762012591eaee05cae0ad097c6bfaa7dd208545261f0428a4229e0002ff6d107",
+        "processed": "<rbr>Reach 100 million total fans<br>for Nishino Flower."
+    },
+    "606805": {
+        "text": "Win all G1, G2, and G3 trophies with Nishino Flower.",
+        "hash": "1a331e691c62e2908a30357246ce45ea8dd2befd47c5ee39aa782c03701842d6",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Nishino Flower."
+    },
+    "606901": {
+        "text": "Read chapter 4 of Yaeno Muteki's story.",
+        "hash": "625a7b88c4fa427feb479bfabacdc5dd29f9477bbfa2324c9cc6f953cb52fd7a",
+        "processed": "<rbr>Read chapter 4 of Yaeno<br>Muteki's story."
+    },
+    "606902": {
+        "text": "Reach 10 million total fans for Yaeno Muteki.",
+        "hash": "c8c1a596f14d7accac98390a29b8a1ec05b906da9aaf146cbd14f6a6fa6df570",
+        "processed": "<rbr>Reach 10 million total fans<br>for Yaeno Muteki."
+    },
+    "606903": {
+        "text": "Reach 50 million total fans for Yaeno Muteki.",
+        "hash": "253dda45b5eefeee7673d18b9efc6aebf049aecc8c91cd0b575df29fb568d4ac",
+        "processed": "<rbr>Reach 50 million total fans<br>for Yaeno Muteki."
+    },
+    "606904": {
+        "text": "Reach 100 million total fans for Yaeno Muteki.",
+        "hash": "e94343df6d2f12b54d85be20ab5011e784a78131cfcff5c3a977760be7afe10e",
+        "processed": "<rbr>Reach 100 million total fans<br>for Yaeno Muteki."
+    },
+    "606905": {
+        "text": "Win all G1, G2, and G3 trophies with Yaeno Muteki.",
+        "hash": "3a3c9942649b5dc69d9cc780790479d8edb5b5fd64734beac085a2702b48f987",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Yaeno Muteki."
+    },
+    "607001": {
+        "text": "Read chapter 4 of Ines Fujin's story.",
+        "hash": "296b44dd23dec2452a972435159f657884824975d6428afda2c26b8b7d2c4e3e",
+        "processed": "<rbr>Read chapter 4 of Ines<br>Fujin's story."
+    },
+    "607002": {
+        "text": "Reach 10 million total fans for Ines Fujin.",
+        "hash": "1453b76046d45c8bbbb6f05098ed47b8c1f808fd05268db9472e026aedaadc9b",
+        "processed": "<rbr>Reach 10 million total fans<br>for Ines Fujin."
+    },
+    "607003": {
+        "text": "Reach 50 million total fans for Ines Fujin.",
+        "hash": "7018091b041d1a88f9cd7833d7270f652c769cdf5592b8fcfb99e21e9d2bd7ce",
+        "processed": "<rbr>Reach 50 million total fans<br>for Ines Fujin."
+    },
+    "607004": {
+        "text": "Reach 100 million total fans for Ines Fujin.",
+        "hash": "8bb1ae7458db305cfecdf4f35d1fc6683cdead45ff7508066e182cbf4fc67b06",
+        "processed": "<rbr>Reach 100 million total fans<br>for Ines Fujin."
+    },
+    "607005": {
+        "text": "Win all G1, G2, and G3 trophies with Ines Fujin.",
+        "hash": "a606490398db8285bfa54d099636c19d07efb26fdf437454eaf9b5bf55a1309c",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Ines Fujin."
+    },
+    "607101": {
+        "text": "Read chapter 4 of Mejiro Palmer's story.",
+        "hash": "e5dceff9af74770478b4a9336736dc6844d22d9d10bd1cfd0e27bfdbbeef8330",
+        "processed": "<rbr>Read chapter 4 of Mejiro<br>Palmer's story."
+    },
+    "607102": {
+        "text": "Reach 10 million total fans for Mejiro Palmer.",
+        "hash": "751de179ab975f7c71eeb766fddbb3c51800c911d5ac9f30ea9be4710f573cc4",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro Palmer."
+    },
+    "607103": {
+        "text": "Reach 50 million total fans for Mejiro Palmer.",
+        "hash": "7a9fd83f4e96547bb5a4e2e9a175da771477f614cabe6afe52ae5d10dc8a2456",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro Palmer."
+    },
+    "607104": {
+        "text": "Reach 100 million total fans for Mejiro Palmer.",
+        "hash": "1af44c2d2f326b0e1018974cba0c366f40a5203dfa993e1ac87a3a6b9d292648",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro Palmer."
+    },
+    "607105": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro Palmer.",
+        "hash": "825ace9b724669a4ed07ec8c11c7be1d1de99aecc1d80b3421ff0b7eec7a2d20",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mejiro Palmer."
+    },
+    "607201": {
+        "text": "Read chapter 4 of Inari One's story.",
+        "hash": "c3bbcfcaff82407e323b273877c363de0394d3ed26c8cc749b2ee1fb5aea38f9",
+        "processed": "<rbr>Read chapter 4 of Inari One's<br>story."
+    },
+    "607202": {
+        "text": "Reach 10 million total fans for Inari One.",
+        "hash": "df1a547314cecc044bfb9e12644c8dab55201cd6e7fa7431d40b8398f562ba02",
+        "processed": "<rbr>Reach 10 million total fans<br>for Inari One."
+    },
+    "607203": {
+        "text": "Reach 50 million total fans for Inari One.",
+        "hash": "cc4f646e680a002d021e10734da4aacf933148931738f59c141d96137daaf89e",
+        "processed": "<rbr>Reach 50 million total fans<br>for Inari One."
+    },
+    "607204": {
+        "text": "Reach 100 million total fans for Inari One.",
+        "hash": "277e8408435cd9b50ac0a3e693f4ce7663e4900eb59e45bc073fd73af31ddcc6",
+        "processed": "<rbr>Reach 100 million total fans<br>for Inari One."
+    },
+    "607205": {
+        "text": "Win all G1, G2, and G3 trophies with Inari One.",
+        "hash": "f8784c66838f792c9a2f55330cffa3e885657fc121d9a0729459ee6fa501310f",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Inari One."
+    },
+    "607301": {
+        "text": "Read chapter 4 of Sweep Tosho's story.",
+        "hash": "89648b35702f2accccde46ce88f911005321efcef4daafb5ab163037b9066bfd",
+        "processed": "<rbr>Read chapter 4 of Sweep<br>Tosho's story."
+    },
+    "607302": {
+        "text": "Reach 10 million total fans for Sweep Tosho.",
+        "hash": "0c25f8f5df73c6c3e27f59f873e21c2acc99890c17446983ce7846f8df1b2e76",
+        "processed": "<rbr>Reach 10 million total fans<br>for Sweep Tosho."
+    },
+    "607303": {
+        "text": "Reach 50 million total fans for Sweep Tosho.",
+        "hash": "92be119cd8311a703eade961d8847ee34efd4c0f708d170955023c0964877f5d",
+        "processed": "<rbr>Reach 50 million total fans<br>for Sweep Tosho."
+    },
+    "607304": {
+        "text": "Reach 100 million total fans for Sweep Tosho.",
+        "hash": "2d6a1e77b52799ecd1e24f887d691ccd197a7f062518ef1869871c9fc4c013dd",
+        "processed": "<rbr>Reach 100 million total fans<br>for Sweep Tosho."
+    },
+    "607305": {
+        "text": "Win all G1, G2, and G3 trophies with Sweep Tosho.",
+        "hash": "ab03dac008de59e62b003e6e97c06ebf34772c61d1fc7ee88cfccd312186ca9b",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Sweep Tosho."
+    },
+    "607401": {
+        "text": "Read chapter 4 of Air Shakur's story.",
+        "hash": "4027720e0110858fef63af744e291563653a14e457d809b04e2aede185c2dca4",
+        "processed": "<rbr>Read chapter 4 of Air<br>Shakur's story."
+    },
+    "607402": {
+        "text": "Reach 10 million total fans for Air Shakur.",
+        "hash": "edeb5785651fc88cee18e292921432a7b7dcb60e665eee25a8d8c687991326a7",
+        "processed": "<rbr>Reach 10 million total fans<br>for Air Shakur."
+    },
+    "607403": {
+        "text": "Reach 50 million total fans for Air Shakur.",
+        "hash": "fe50f72da472e9c234f4f7538004320e395a2e50b6e4271088dae46dbdbdf621",
+        "processed": "<rbr>Reach 50 million total fans<br>for Air Shakur."
+    },
+    "607404": {
+        "text": "Reach 100 million total fans for Air Shakur.",
+        "hash": "05792c363a7859666843a8220f170ffae8c7c343c41e4930fe2915dfdf7e72d2",
+        "processed": "<rbr>Reach 100 million total fans<br>for Air Shakur."
+    },
+    "607405": {
+        "text": "Win all G1, G2, and G3 trophies with Air Shakur.",
+        "hash": "e10330778a9333911e6fbfdac773308237990611ac548e3d759362f5948dce9b",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Air Shakur."
+    },
+    "607501": {
+        "text": "Read chapter 4 of Bamboo Memory's story.",
+        "hash": "6075664390df186aa92b802f46e7b77ddcf3c72dc27936d98bc69d470c70338e",
+        "processed": "<rbr>Read chapter 4 of Bamboo<br>Memory's story."
+    },
+    "607502": {
+        "text": "Reach 10 million total fans for Bamboo Memory.",
+        "hash": "5ca41e3a330f998b3cab4d7f089ee122ab951a15a93e7910445766575b346c01",
+        "processed": "<rbr>Reach 10 million total fans<br>for Bamboo Memory."
+    },
+    "607503": {
+        "text": "Reach 50 million total fans for Bamboo Memory.",
+        "hash": "9eff4aa0b63c76769bdb4e0325bb44bdcfc83900f0c25b4187187597449684d5",
+        "processed": "<rbr>Reach 50 million total fans<br>for Bamboo Memory."
+    },
+    "607504": {
+        "text": "Reach 100 million total fans for Bamboo Memory.",
+        "hash": "603abe6ce1b4623845bd90cfd7e8bed482b92be6bee278cddbe3013c596594ab",
+        "processed": "<rbr>Reach 100 million total fans<br>for Bamboo Memory."
+    },
+    "607505": {
+        "text": "Win all G1, G2, and G3 trophies with Bamboo Memory.",
+        "hash": "926c158c37441fdbbaee2770ac2c952387b15fd815b126c6d539989a687b0da4",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Bamboo Memory."
+    },
+    "607601": {
+        "text": "Read chapter 4 of Copano Rickey's story.",
+        "hash": "e95d3cb1ed755e6e668b11f9ab6ae971564f620993bc1d6754c63096df42f7e3",
+        "processed": "<rbr>Read chapter 4 of Copano<br>Rickey's story."
+    },
+    "607602": {
+        "text": "Reach 10 million total fans for Copano Rickey.",
+        "hash": "2b46664ebfde8629eaffd17dab58d0f82a4078f1463b61b95015aab4967b9080",
+        "processed": "<rbr>Reach 10 million total fans<br>for Copano Rickey."
+    },
+    "607603": {
+        "text": "Reach 50 million total fans for Copano Rickey.",
+        "hash": "90f288faf7faef5c7b753e2b941d57798e87e919913c0a0550f7962dda81b79e",
+        "processed": "<rbr>Reach 50 million total fans<br>for Copano Rickey."
+    },
+    "607604": {
+        "text": "Reach 100 million total fans for Copano Rickey.",
+        "hash": "38d8a3d023b7ea54924742a6530c78c45374a5b6e9e1e10ec6a6990bc9b9cb7f",
+        "processed": "<rbr>Reach 100 million total fans<br>for Copano Rickey."
+    },
+    "607605": {
+        "text": "Win all G1, G2, and G3 trophies with Copano Rickey.",
+        "hash": "f9eb9a2a1e15df3c5f9fcd54967b04794db8070c6e689ea575300ff5927442eb",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Copano Rickey."
+    },
+    "607701": {
+        "text": "Read chapter 4 of Yukino Bijin's story.",
+        "hash": "b14a41aac7a7b062913ce707a8f88033ab03ba81d8cfd493e75beabaf17e8ae2",
+        "processed": "<rbr>Read chapter 4 of Yukino<br>Bijin's story."
+    },
+    "607702": {
+        "text": "Reach 10 million total fans for Yukino Bijin.",
+        "hash": "c92f472e1c8a6e4a151a496a261e904eebe9cbb142f1c555308ff79fb51c6817",
+        "processed": "<rbr>Reach 10 million total fans<br>for Yukino Bijin."
+    },
+    "607703": {
+        "text": "Reach 50 million total fans for Yukino Bijin.",
+        "hash": "576e2d34e6c23624b4f61dbbf672bb9674789efda3358ebc0e7f4406542dc7e6",
+        "processed": "<rbr>Reach 50 million total fans<br>for Yukino Bijin."
+    },
+    "607704": {
+        "text": "Reach 100 million total fans for Yukino Bijin.",
+        "hash": "3f357db9313d1bb4b28588adb60a8c9f7fd4d338ca03f277e48a6383ae3bfd18",
+        "processed": "<rbr>Reach 100 million total fans<br>for Yukino Bijin."
+    },
+    "607705": {
+        "text": "Win all G1, G2, and G3 trophies with Yukino Bijin.",
+        "hash": "2bc5d86dcf5e2b295f082f70caba77681e930ba9ab1595009f8ea6e154d93db1",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Yukino Bijin."
+    },
+    "607801": {
+        "text": "Read chapter 4 of Seeking the Pearl's story.",
+        "hash": "88e0fdf136fc9c1f7b361d4452041bd0bd00ab44c9b48afa50123b176a19027b",
+        "processed": "<rbr>Read chapter 4 of Seeking<br>the Pearl's story."
+    },
+    "607802": {
+        "text": "Reach 10 million total fans for Seeking the Pearl.",
+        "hash": "0f270141105b43211ffcd85bbadd7f24a289109edcd557281ea72f3b84403022",
+        "processed": "<rbr>Reach 10 million total fans<br>for Seeking the Pearl."
+    },
+    "607803": {
+        "text": "Reach 50 million total fans for Seeking the Pearl.",
+        "hash": "a65b9f590096038fe096fb8cb22432b8ad31e5327c701318a666e7a3e7a2a072",
+        "processed": "<rbr>Reach 50 million total fans<br>for Seeking the Pearl."
+    },
+    "607804": {
+        "text": "Reach 100 million total fans for Seeking the Pearl.",
+        "hash": "535d55dc671c7378909282f472e28055cde1de0a264ae74fb4d1a9ec875d8671",
+        "processed": "<rbr>Reach 100 million total fans<br>for Seeking the Pearl."
+    },
+    "607805": {
+        "text": "Win all G1, G2, and G3 trophies with Seeking the Pearl.",
+        "hash": "1f7309f52fb810a1036c0dc92108fb4f45480e3881aa9fbfc7a075eaaf56c613",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Seeking the Pearl."
+    },
+    "607901": {
+        "text": "Read chapter 4 of Aston Machan's story.",
+        "hash": "649ecb0673f1638c7ee9cc65c16a55149ba3b1087adc1f19615dd19e680cec7e",
+        "processed": "<rbr>Read chapter 4 of Aston<br>Machan's story."
+    },
+    "607902": {
+        "text": "Reach 10 million total fans for Aston Machan.",
+        "hash": "48920118d09cef50083caf4bccf6e75da431b60086b0509a8fd128438671cef5",
+        "processed": "<rbr>Reach 10 million total fans<br>for Aston Machan."
+    },
+    "607903": {
+        "text": "Reach 50 million total fans for Aston Machan.",
+        "hash": "63e68f2f719b5f49357c39ae1a5249d55a31de9f8443fd6a1c5707708db02647",
+        "processed": "<rbr>Reach 50 million total fans<br>for Aston Machan."
+    },
+    "607904": {
+        "text": "Reach 100 million total fans for Aston Machan.",
+        "hash": "86a52238f8c683a9759f7209d9f5218f284560f01dcf7ee15cd751acae806aef",
+        "processed": "<rbr>Reach 100 million total fans<br>for Aston Machan."
+    },
+    "607905": {
+        "text": "Win all G1, G2, and G3 trophies with Aston Machan.",
+        "hash": "ec474d1768c589fd42bee58aea7c1a5252c74fb30a73e437dec011490bb728a8",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Aston Machan."
+    },
+    "608001": {
+        "text": "Read chapter 4 of Yamanin Zephyr's story.",
+        "hash": "dc3f0dd92ada5e857604b58edbe11075c52df89a4ea5600f39b146fde34b909a",
+        "processed": "<rbr>Read chapter 4 of Yamanin<br>Zephyr's story."
+    },
+    "608002": {
+        "text": "Reach 10 million total fans for Yamanin Zephyr.",
+        "hash": "9c3c62e015b1bf9eee1a1ad141ad59b6b4d71c886748c50b9249d1facb9e3c97",
+        "processed": "<rbr>Reach 10 million total fans<br>for Yamanin Zephyr."
+    },
+    "608003": {
+        "text": "Reach 50 million total fans for Yamanin Zephyr.",
+        "hash": "1d5100a66f2eef8cb5044d6b3ef6256f922d5944ae1283e9b2a5e9ebe6073ba2",
+        "processed": "<rbr>Reach 50 million total fans<br>for Yamanin Zephyr."
+    },
+    "608004": {
+        "text": "Reach 100 million total fans for Yamanin Zephyr.",
+        "hash": "f49ceac38a016fc83c128a840d382cd41164becb5e1070eee1e3f33342390f87",
+        "processed": "<rbr>Reach 100 million total fans<br>for Yamanin Zephyr."
+    },
+    "608005": {
+        "text": "Win all G1, G2, and G3 trophies with Yamanin Zephyr.",
+        "hash": "1e0994f99b131eb8e96bf22c7a961385fc790d840aa3bfa180cf2ecc23a731ca",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Yamanin Zephyr."
+    },
+    "608101": {
+        "text": "Read chapter 4 of Nakayama Festa's story.",
+        "hash": "4d4b976e581aa7712904786fc3dfa800076abdb9f82cf540528bf947a0c079ac",
+        "processed": "<rbr>Read chapter 4 of Nakayama<br>Festa's story."
+    },
+    "608102": {
+        "text": "Reach 10 million total fans for Nakayama Festa.",
+        "hash": "078372d2a6f73ed4355c8208a939619495311282317eaff8239cedbae1850d2d",
+        "processed": "<rbr>Reach 10 million total fans<br>for Nakayama Festa."
+    },
+    "608103": {
+        "text": "Reach 50 million total fans for Nakayama Festa.",
+        "hash": "555d0d08401570bdd2e48bd6426b771fcf1545703c1e40fae0f1263ac8383a66",
+        "processed": "<rbr>Reach 50 million total fans<br>for Nakayama Festa."
+    },
+    "608104": {
+        "text": "Reach 100 million total fans for Nakayama Festa.",
+        "hash": "9e41288d7cbbd5200cbb0fd8877fecaba491c0aafc6a01cb3eaf510b1c5c5f10",
+        "processed": "<rbr>Reach 100 million total fans<br>for Nakayama Festa."
+    },
+    "608105": {
+        "text": "Win all G1, G2, and G3 trophies with Nakayama Festa.",
+        "hash": "3b7877f6ce8dba12df9a880d53b129f18df5a02706675712265629d4d89f9cb6",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Nakayama Festa."
+    },
+    "608201": {
+        "text": "Read chapter 4 of Wonder Acute's story.",
+        "hash": "98eecdde0a2c8cdecf43b52ce1a11d38ef0f1f0b64d2e04eff63dec30ee66b35",
+        "processed": "<rbr>Read chapter 4 of Wonder<br>Acute's story."
+    },
+    "608202": {
+        "text": "Reach 10 million total fans for Wonder Acute.",
+        "hash": "887d35678899d129abe670ee09dbdbfb1654aa09cbd076623044a9d79fc402f7",
+        "processed": "<rbr>Reach 10 million total fans<br>for Wonder Acute."
+    },
+    "608203": {
+        "text": "Reach 50 million total fans for Wonder Acute.",
+        "hash": "80fc524636bd2ab4dd07460108c7773aaa46063d88d1208db8cdabc29cdc5b7c",
+        "processed": "<rbr>Reach 50 million total fans<br>for Wonder Acute."
+    },
+    "608204": {
+        "text": "Reach 100 million total fans for Wonder Acute.",
+        "hash": "38ae5b01dff6c4684efdc3e3596c8187151712a4fbac638fd956d1cf3a180b94",
+        "processed": "<rbr>Reach 100 million total fans<br>for Wonder Acute."
+    },
+    "608205": {
+        "text": "Win all G1, G2, and G3 trophies with Wonder Acute.",
+        "hash": "7d1625ffdf3943f1bbe3bb62a6c24eea0ecc772d74db7f161391ddc844ce9780",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Wonder Acute."
+    },
+    "608301": {
+        "text": "Read chapter 4 of Zenno Rob Roy's story.",
+        "hash": "937680837f1f447de63a08e9592663300a175b912fb47d54812074aafbdf8392",
+        "processed": "<rbr>Read chapter 4 of Zenno Rob<br>Roy's story."
+    },
+    "608302": {
+        "text": "Reach 10 million total fans for Zenno Rob Roy.",
+        "hash": "0acb2483f47c05ec6f6ea39e8ce5fcf704574e44f61dc1a091df97dc7d537512",
+        "processed": "<rbr>Reach 10 million total fans<br>for Zenno Rob Roy."
+    },
+    "608303": {
+        "text": "Reach 50 million total fans for Zenno Rob Roy.",
+        "hash": "edb7f6dd43cadbd7ce73cbb3d042cf2b97f68b6e714fa3822abe246a55d632b8",
+        "processed": "<rbr>Reach 50 million total fans<br>for Zenno Rob Roy."
+    },
+    "608304": {
+        "text": "Reach 100 million total fans for Zenno Rob Roy.",
+        "hash": "d0721330140844d02eef8964cfc5e91082c78cd986c7ed763056fa84b203a007",
+        "processed": "<rbr>Reach 100 million total fans<br>for Zenno Rob Roy."
+    },
+    "608305": {
+        "text": "Win all G1, G2, and G3 trophies with Zenno Rob Roy.",
+        "hash": "27dc3d04586919a995d8fe2b99333778278489d211d5133cf1eb86dbf7fc266c",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Zenno Rob Roy."
+    },
+    "608401": {
+        "text": "Read chapter 4 of Hokko Tarumae's story.",
+        "hash": "98262a485f877ac931ef3e0244e16500176ce03c312fb664de0ad7117f3c2202",
+        "processed": "<rbr>Read chapter 4 of Hokko<br>Tarumae's story."
+    },
+    "608402": {
+        "text": "Reach 10 million total fans for Hokko Tarumae.",
+        "hash": "e3b9e805046ca6ef47e3745f4946910b2326d19e0f759e9560ac0f8e8e0f3d67",
+        "processed": "<rbr>Reach 10 million total fans<br>for Hokko Tarumae."
+    },
+    "608403": {
+        "text": "Reach 50 million total fans for Hokko Tarumae.",
+        "hash": "885ea48968868ec15a0f40e1f617ec6118b080cd21b8bc8e7b90ef6210f266b2",
+        "processed": "<rbr>Reach 50 million total fans<br>for Hokko Tarumae."
+    },
+    "608404": {
+        "text": "Reach 100 million total fans for Hokko Tarumae.",
+        "hash": "dc9ed5bc0749afab0fbbe651d6e3509c83a6b146f19e3e0f528c2637ae876429",
+        "processed": "<rbr>Reach 100 million total fans<br>for Hokko Tarumae."
+    },
+    "608405": {
+        "text": "Win all G1, G2, and G3 trophies with Hokko Tarumae.",
+        "hash": "23e924ad22801372c7d93ea295704014333b060ff86baffb2edfd1651ffbf02a",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Hokko Tarumae."
+    },
+    "608501": {
+        "text": "Read chapter 4 of Daitaku Helios's story.",
+        "hash": "f2dab1d2a69db0acc89944a780d4b356c137781f7ef9566280951f5d4d72c861",
+        "processed": "<rbr>Read chapter 4 of Daitaku<br>Helios's story."
+    },
+    "608502": {
+        "text": "Reach 10 million total fans for Daitaku Helios.",
+        "hash": "97d813764ed6ec0992b324df746373c0ab714b487c5fe17666c1d7383dba11af",
+        "processed": "<rbr>Reach 10 million total fans<br>for Daitaku Helios."
+    },
+    "608503": {
+        "text": "Reach 50 million total fans for Daitaku Helios.",
+        "hash": "ded10243e5022b40119ae6d8fd006fdd2f00989f82b0154cb0c8af261d2799de",
+        "processed": "<rbr>Reach 50 million total fans<br>for Daitaku Helios."
+    },
+    "608504": {
+        "text": "Reach 100 million total fans for Daitaku Helios.",
+        "hash": "07ace5736468e4808fa33b80fd2da8dffccb8f51a19fe9a2e98c113e80d53b42",
+        "processed": "<rbr>Reach 100 million total fans<br>for Daitaku Helios."
+    },
+    "608505": {
+        "text": "Win all G1, G2, and G3 trophies with Daitaku Helios.",
+        "hash": "8728a489d3028b0921787c47826125844c56850e22bd45885c3e8f32e21d6920",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Daitaku Helios."
+    },
+    "608601": {
+        "text": "Read chapter 4 of Shinko Windy's story.",
+        "hash": "d1f76b99b468ca75ea01e2b12a8fb92acbc12329e1e042cf96ea0b3e2d9f1387",
+        "processed": "<rbr>Read chapter 4 of Shinko<br>Windy's story."
+    },
+    "608602": {
+        "text": "Reach 10 million total fans for Shinko Windy.",
+        "hash": "f7472a00d085f03ce9da1122770aef1ec0c0d5b26ee9ca9a87fb84f5cce6cbf4",
+        "processed": "<rbr>Reach 10 million total fans<br>for Shinko Windy."
+    },
+    "608603": {
+        "text": "Reach 50 million total fans for Shinko Windy.",
+        "hash": "08de7a30702632497276e09b768ccfa69783c281f58190e5a1add926df422650",
+        "processed": "<rbr>Reach 50 million total fans<br>for Shinko Windy."
+    },
+    "608604": {
+        "text": "Reach 100 million total fans for Shinko Windy.",
+        "hash": "0fb4e8d6d98dd1bfe94e887cfaa58006af72c5626e30b1c13bab65112196a24c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Shinko Windy."
+    },
+    "608605": {
+        "text": "Win all G1, G2, and G3 trophies with Shinko Windy.",
+        "hash": "ce4bef006bad83594cef8277c7ced0cb4379a1d4d2af9f2028c7f096ba926912",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Shinko Windy."
+    },
+    "608701": {
+        "text": "Read chapter 4 of Mr. C.B.'s story.",
+        "hash": "9702904b34748ed7c5f57c8a48b60347ac412c5a7397dffacd666560bcb04e0c",
+        "processed": "<rbr>Read chapter 4 of Mr. C.B.'s<br>story."
+    },
+    "608702": {
+        "text": "Reach 10 million total fans for Mr. C.B.",
+        "hash": "fc9f14fd99238c7f891cc93dae8bbf4e87e6c4e70dc84059aeb9444ae7069897",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mr. C.B."
+    },
+    "608703": {
+        "text": "Reach 50 million total fans for Mr. C.B.",
+        "hash": "5e5b295d261499346a87ad405125a6b70ba0527993060bd27cad198a3204079a",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mr. C.B."
+    },
+    "608704": {
+        "text": "Reach 100 million total fans for Mr. C.B.",
+        "hash": "ac317fc45e165089f80151a60c3cdaa352446345f73595f44e52f48df9a64a3e",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mr. C.B."
+    },
+    "608705": {
+        "text": "Win all G1, G2, and G3 trophies with Mr. C.B.",
+        "hash": "8153b48e64b8215e67474b4e86e0feeba9ddd9f373be13679569782ec9fe8126",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mr. C.B."
+    },
+    "608801": {
+        "text": "Read chapter 4 of Twin Turbo's story.",
+        "hash": "e072027b12fd9094ba517085492cfc4cdc46890a83adf94aec44cd088f1d50ce",
+        "processed": "<rbr>Read chapter 4 of Twin<br>Turbo's story."
+    },
+    "608802": {
+        "text": "Reach 10 million total fans for Twin Turbo.",
+        "hash": "b5ac74f5dba841d80a93a7d15ace04929e4bf77ca8bf9bb5ad227adf70c4711e",
+        "processed": "<rbr>Reach 10 million total fans<br>for Twin Turbo."
+    },
+    "608803": {
+        "text": "Reach 50 million total fans for Twin Turbo.",
+        "hash": "71197e7af7daeaa4f80c8b5ea259703d9d3130dff8a215416a14ca7fd19163f6",
+        "processed": "<rbr>Reach 50 million total fans<br>for Twin Turbo."
+    },
+    "608804": {
+        "text": "Reach 100 million total fans for Twin Turbo.",
+        "hash": "bfc0d139565ae5d4a3563e9ca962707e7c4e9f85bc7a2cd8b4ec124de1b743c7",
+        "processed": "<rbr>Reach 100 million total fans<br>for Twin Turbo."
+    },
+    "608805": {
+        "text": "Win all G1, G2, and G3 trophies with Twin Turbo.",
+        "hash": "0d8efcc0fca252a96e9b9cb4969b270f8f8c9ebaff0dd02add9311c4e3376f4f",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Twin Turbo."
+    },
+    "608901": {
+        "text": "Watch episode 4 of Daiichi Ruby's story.",
+        "hash": "094861f1dc50b832ce898aeb70d74ed9ad13e2cde76d68ee0211fde0093026d4",
+        "processed": "<rbr>Watch episode 4 of Daiichi<br>Ruby's story."
+    },
+    "608902": {
+        "text": "Reach 10 million total fans for Daiichi Ruby.",
+        "hash": "0daa9a4d7d2294cad967f1e56d826066811ffc7a5c74ff1f2c511cec9a1c1412",
+        "processed": "<rbr>Reach 10 million total fans<br>for Daiichi Ruby."
+    },
+    "608903": {
+        "text": "Reach 50 million total fans for Daiichi Ruby.",
+        "hash": "d4c9c709dce32697ad3758cd099d86e0e34a5a1d59c3c39f600cbb31950e039f",
+        "processed": "<rbr>Reach 50 million total fans<br>for Daiichi Ruby."
+    },
+    "608904": {
+        "text": "Reach 100 million total fans for Daiichi Ruby.",
+        "hash": "91aafe4d9a9b99eab676533166c6f9d31f882fb659de9b7a66f3cecbca126b3c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Daiichi Ruby."
+    },
+    "608905": {
+        "text": "Win all G1, G2, and G3 trophies with Daiichi Ruby.",
+        "hash": "ec4a44e5203dd04c1c10bcf013d66662ca3f6271da6f4a4e244c30be53ed6bff",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Daiichi Ruby."
+    },
+    "609001": {
+        "text": "Watch episode 4 of Symboli Kris S's story.",
+        "hash": "a14fab6d68d8415d68cdab66b736e5e6953ab9979bd26105f2cd000032870d85",
+        "processed": "<rbr>Watch episode 4 of Symboli<br>Kris S's story."
+    },
+    "609002": {
+        "text": "Reach 10 million total fans for Symboli Kris S.",
+        "hash": "4289ed475177b8e88e93324b1588ee318df9ff8076b8331bc6829fa501283386",
+        "processed": "<rbr>Reach 10 million total fans<br>for Symboli Kris S."
+    },
+    "609003": {
+        "text": "Reach 50 million total fans for Symboli Kris S.",
+        "hash": "cdb3c645ddc0a4cf8034e5d3369858ee74bd443c35ae40b966d125472e19ed28",
+        "processed": "<rbr>Reach 50 million total fans<br>for Symboli Kris S."
+    },
+    "609004": {
+        "text": "Reach 100 million total fans for Symboli Kris S.",
+        "hash": "031c88ee39400773ac6db00793c0c4a2615fd23432b118fe807a437f6604ca42",
+        "processed": "<rbr>Reach 100 million total fans<br>for Symboli Kris S."
+    },
+    "609005": {
+        "text": "Win all G1, G2, and G3 trophies with Symboli Kris S.",
+        "hash": "641cad8bed121a8381733cbf687b8700de3940950b01920812fa140bab381994",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Symboli Kris S."
+    },
+    "609101": {
+        "text": "Watch episode 4 of Sakura Laurel's story.",
+        "hash": "5ca82d3f1a725ad6070c9789c9637df7ee091894f63028faefe74bc129f4b578",
+        "processed": "<rbr>Watch episode 4 of Sakura<br>Laurel's story."
+    },
+    "609102": {
+        "text": "Reach 10 million total fans for Sakura Laurel.",
+        "hash": "286b72b2c55ada2a3dd81592514bcbf48f8c09ae36594a1e276bf80315e3a84f",
+        "processed": "<rbr>Reach 10 million total fans<br>for Sakura Laurel."
+    },
+    "609103": {
+        "text": "Reach 50 million total fans for Sakura Laurel.",
+        "hash": "946a36afdb44b8d196893b84650efc379aab18c78701b1a92c7dfdfac5fd45f9",
+        "processed": "<rbr>Reach 50 million total fans<br>for Sakura Laurel."
+    },
+    "609104": {
+        "text": "Reach 100 million total fans for Sakura Laurel.",
+        "hash": "132b66c6767640bbdbae30617c1658bdbae0a1996bf9795733e350152b3d2aa8",
+        "processed": "<rbr>Reach 100 million total fans<br>for Sakura Laurel."
+    },
+    "609105": {
+        "text": "Win all G1, G2, and G3 trophies with Sakura Laurel.",
+        "hash": "122624fe415aa588d30a1c95f392f959f2ac0eb43a7c31aec570a5f90cb67021",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Sakura Laurel."
+    },
+    "609201": {
+        "text": "Watch episode 4 of Neo Universe's story.",
+        "hash": "df0c26ccd6ca3b4b42b93aafe52d710106d58993bc7f01e7ee75286cb9a1c503",
+        "processed": "<rbr>Watch episode 4 of Neo<br>Universe's story."
+    },
+    "609202": {
+        "text": "Reach 10 million total fans for Neo Universe.",
+        "hash": "b0c50fc1a741d0600d5443b28c7abe94620bfd1cfe807fdf183de1e15f8676fe",
+        "processed": "<rbr>Reach 10 million total fans<br>for Neo Universe."
+    },
+    "609203": {
+        "text": "Reach 50 million total fans for Neo Universe.",
+        "hash": "a74e1fba8fcc5c0d521e0fc8a884b68c2daa153c014784d5ccb0b88ded5b1304",
+        "processed": "<rbr>Reach 50 million total fans<br>for Neo Universe."
+    },
+    "609204": {
+        "text": "Reach 100 million total fans for Neo Universe.",
+        "hash": "dfd6252c2c33a19c75698c2075e398ad0bee0006abe972365797cd8b75b6b4cd",
+        "processed": "<rbr>Reach 100 million total fans<br>for Neo Universe."
+    },
+    "609205": {
+        "text": "Win all G1, G2, and G3 trophies with Neo Universe.",
+        "hash": "a01452bab53fb1e5320a1ee0fc238ad942c7a8f3309f86162a634d9f1b5b09df",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Neo Universe."
+    },
+    "609301": {
+        "text": "Watch episode 4 of Hishi Miracle's story.",
+        "hash": "e7eb6d23c757a6b3636b5584905e4534ee579dd77deec84e5d0cc864190d7f5d",
+        "processed": "<rbr>Watch episode 4 of Hishi<br>Miracle's story."
+    },
+    "609302": {
+        "text": "Reach 10 million total fans for Hishi Miracle.",
+        "hash": "e2bef1ddee06dc02a633e069da7a342990d34b9b7c76c27f4abd160dd1fd5949",
+        "processed": "<rbr>Reach 10 million total fans<br>for Hishi Miracle."
+    },
+    "609303": {
+        "text": "Reach 50 million total fans for Hishi Miracle.",
+        "hash": "45418c371d69f9d4b7f60e8b0e69a0a7148f39f38f9a2fd1d58a9f1de382a635",
+        "processed": "<rbr>Reach 50 million total fans<br>for Hishi Miracle."
+    },
+    "609304": {
+        "text": "Reach 100 million total fans for Hishi Miracle.",
+        "hash": "6eaee3aca291b896eb8201f4d44780a12eabb04892b144824bb0da178ee69afe",
+        "processed": "<rbr>Reach 100 million total fans<br>for Hishi Miracle."
+    },
+    "609305": {
+        "text": "Win all G1, G2, and G3 trophies with Hishi Miracle.",
+        "hash": "2b18730b30d347e6cb0fe33e6fca26a261259fe45ea972bc61dd9ec98b0c23f5",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Hishi Miracle."
+    },
+    "609401": {
+        "text": "Watch episode 4 of Tanino Gimlet's story.",
+        "hash": "4045a2788142edada806409f8a4d491149dc2355f5df1aeb113ca2e69566c823",
+        "processed": "<rbr>Watch episode 4 of Tanino<br>Gimlet's story."
+    },
+    "609402": {
+        "text": "Reach 10 million total fans for Tanino Gimlet.",
+        "hash": "c702a00afe70ca791c9c5bbac5c4d2815a3eaaf0fbf24b3c49a288c3a2b62bf1",
+        "processed": "<rbr>Reach 10 million total fans<br>for Tanino Gimlet."
+    },
+    "609403": {
+        "text": "Reach 50 million total fans for Tanino Gimlet.",
+        "hash": "4a4588dd75abf5cdbd3228ee601e18a619d4558fa3117ab580f0c95614540768",
+        "processed": "<rbr>Reach 50 million total fans<br>for Tanino Gimlet."
+    },
+    "609404": {
+        "text": "Reach 100 million total fans for Tanino Gimlet.",
+        "hash": "9436bc170c21011a890b980944a41a0b6a6810b24ff017602bffe86ea82326ae",
+        "processed": "<rbr>Reach 100 million total fans<br>for Tanino Gimlet."
+    },
+    "609405": {
+        "text": "Win all G1, G2, and G3 trophies with Tanino Gimlet.",
+        "hash": "db7b1751a6283998a953cc625dee45c1b97f6f4823397f75e47ba8b1001a1531",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Tanino Gimlet."
+    },
+    "609501": {
+        "text": "Watch episode 4 of Marvelous Sunday's story.",
+        "hash": "5a1a4a886cf9801eacfe3b478c513a5587bc7ccf20b2b55ef229a36ac8d603f4",
+        "processed": "<rbr>Watch episode 4 of<br>Marvelous Sunday's story."
+    },
+    "609502": {
+        "text": "Reach 10 million total fans for Marvelous Sunday.",
+        "hash": "23e45450dd9a2722ca85cbfab4a2a582f20dc407d1c322add46de6b8dd7e1d1e",
+        "processed": "<rbr>Reach 10 million total fans<br>for Marvelous Sunday."
+    },
+    "609503": {
+        "text": "Reach 50 million total fans for Marvelous Sunday.",
+        "hash": "8cdf75296c6215ec314e04ca343e99b73a235de1eb1f9da95822876e6ad3c0c2",
+        "processed": "<rbr>Reach 50 million total fans<br>for Marvelous Sunday."
+    },
+    "609504": {
+        "text": "Reach 100 million total fans for Marvelous Sunday.",
+        "hash": "2161fe19c889ced09e5b74b2bd2b723bb95ba758ec69a65c63a6861d698b2103",
+        "processed": "<rbr>Reach 100 million total fans<br>for Marvelous Sunday."
+    },
+    "609505": {
+        "text": "Win all G1, G2, and G3 trophies with Marvelous Sunday.",
+        "hash": "522b8cf8ef8291e4ce445bd1b0c4d300e351af77f92ce04f2b91c66410233da5",
+        "processed": "<rbr><sc=99>Win all G1, G2, and G3 tro-<br>phies with Marvelous Sunday."
+    },
+    "609601": {
+        "text": "Watch episode 4 of Katsuragi Ace's story.",
+        "hash": "f942fbfc6229845c3f264cc23aad80a6427fbd4db819ab2da5aa2ddd10c36ced",
+        "processed": "<rbr>Watch episode 4 of Katsuragi<br>Ace's story."
+    },
+    "609602": {
+        "text": "Reach 10 million total fans for Katsuragi Ace.",
+        "hash": "ce3370e7196dc90917df5fd6e89f3cd77d04638bb9128f9ddae72fe3beb3eb77",
+        "processed": "<rbr>Reach 10 million total fans<br>for Katsuragi Ace."
+    },
+    "609603": {
+        "text": "Reach 50 million total fans for Katsuragi Ace.",
+        "hash": "a95c33f3f76c0fe88e25810416ad575fe36ac9eba37ca43db00c19092dbf1d0b",
+        "processed": "<rbr>Reach 50 million total fans<br>for Katsuragi Ace."
+    },
+    "609604": {
+        "text": "Reach 100 million total fans for Katsuragi Ace.",
+        "hash": "63fb70b089f43634415ba6a31a1803ef0fb895e755ddfc5665c71ccd4311fe6d",
+        "processed": "<rbr>Reach 100 million total fans<br>for Katsuragi Ace."
+    },
+    "609605": {
+        "text": "Win all G1, G2, and G3 trophies with Katsuragi Ace.",
+        "hash": "5f1cdf1603da0ed58bf1f31ef4e0b40d7923c2e784810fd227ebd39de94d36b2",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Katsuragi Ace."
+    },
+    "609701": {
+        "text": "Watch episode 4 of Sirius Symboli's story.",
+        "hash": "f66331d7f29136e6f5abc1c4eff0c145891e896eabd00239e638b355118b6d32",
+        "processed": "<rbr>Watch episode 4 of Sirius<br>Symboli's story."
+    },
+    "609702": {
+        "text": "Reach 10 million total fans for Sirius Symboli.",
+        "hash": "372b3d3b38f07fe165e132cdd1fbe1998f8cbab49e5c083b60786a5ee1f28655",
+        "processed": "<rbr>Reach 10 million total fans<br>for Sirius Symboli."
+    },
+    "609703": {
+        "text": "Reach 50 million total fans for Sirius Symboli.",
+        "hash": "dd50ffefc2e843f9bc5be91c716beb4a4191e1adbe9957c143fa430adffaad96",
+        "processed": "<rbr>Reach 50 million total fans<br>for Sirius Symboli."
+    },
+    "609704": {
+        "text": "Reach 100 million total fans for Sirius Symboli.",
+        "hash": "c53bf99fe63e1effa3a0e2e57102ffd744c43a2ae8cc79db7a0ecda7ece8cc76",
+        "processed": "<rbr>Reach 100 million total fans<br>for Sirius Symboli."
+    },
+    "609705": {
+        "text": "Win all G1, G2, and G3 trophies with Sirius Symboli.",
+        "hash": "ad329dab931ae4cbe7e43cc81e93adbbfaddd8ade7f8ad3bc0d0cd81cd2a50ef",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Sirius Symboli."
+    },
+    "609801": {
+        "text": "Watch episode 4 of Narita Top Road's story.",
+        "hash": "707f83b54316befee440ec891d74b9f19de761e81d49ee0cb7d1bd5cf382aa03",
+        "processed": "<rbr>Watch episode 4 of Narita<br>Top Road's story."
+    },
+    "609802": {
+        "text": "Reach 10 million total fans for Narita Top Road.",
+        "hash": "d2ec772be3cb29f8e24aaf670cca000077a31c2152ec5bd486cb7d5c2c10db61",
+        "processed": "<rbr>Reach 10 million total fans<br>for Narita Top Road."
+    },
+    "609803": {
+        "text": "Reach 50 million total fans for Narita Top Road.",
+        "hash": "219e1ee224ce0c971f612199f9574b0e406752b2f2c629ca6988397bc264af87",
+        "processed": "<rbr>Reach 50 million total fans<br>for Narita Top Road."
+    },
+    "609804": {
+        "text": "Reach 100 million total fans for Narita Top Road.",
+        "hash": "4c1e1f3ca89c27e1cedddafd8f6dd301d1746a4bc539001af3b6a00400075bdc",
+        "processed": "<rbr>Reach 100 million total fans<br>for Narita Top Road."
+    },
+    "609805": {
+        "text": "Win all G1, G2, and G3 trophies with Narita Top Road.",
+        "hash": "31dd66c9e6f8df9afc0b7d59ef15d676f462cc643502658e1505b84c5ecaafab",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Narita Top Road."
+    },
+    "609901": {
+        "text": "Watch episode 4 of K.S.Miracle's story.",
+        "hash": "e56d1bf6e1bc7f34b5e51e74c9efdef46dab72966493e73f4b4124cf897d0ca8",
+        "processed": "<rbr>Watch episode 4 of<br>K.S.Miracle's story."
+    },
+    "609902": {
+        "text": "Reach 10 million total fans for K.S.Miracle.",
+        "hash": "a1dba1eecb1b247ccffae32336286a1c0ea2e90c35b8850d95abc1a6dc046011",
+        "processed": "<rbr>Reach 10 million total fans<br>for K.S.Miracle."
+    },
+    "609903": {
+        "text": "Reach 50 million total fans for K.S.Miracle.",
+        "hash": "ff8b1725d2ff7bb70e1cda1a1427987795378c5e8074d5f873ede167138bf2b3",
+        "processed": "<rbr>Reach 50 million total fans<br>for K.S.Miracle."
+    },
+    "609904": {
+        "text": "Reach 100 million total fans for K.S.Miracle.",
+        "hash": "f6c70f12033a77225fd37f58ee832e877d1192058631e1e84f67c327b1d00327",
+        "processed": "<rbr>Reach 100 million total fans<br>for K.S.Miracle."
+    },
+    "609905": {
+        "text": "Win all G1, G2, and G3 trophies with K.S.Miracle.",
+        "hash": "e972f00e945e23d88fa0102267ec661f70043f5042d6533da723a9b30a8b56cf",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with K.S.Miracle."
+    },
+    "610001": {
+        "text": "Watch episode 4 of Mejiro Ramonu's story.",
+        "hash": "38aa58db6f35aae61fe17ce4abcbe246469d53665685decbdb420cc30b1af98f",
+        "processed": "<rbr>Watch episode 4 of Mejiro<br>Ramonu's story."
+    },
+    "610002": {
+        "text": "Reach 10 million total fans for Mejiro Ramonu.",
+        "hash": "00188badda2254cb3808752cd1a9c4a1b42006f2694882ca8bb4fa34fdbee1f1",
+        "processed": "<rbr>Reach 10 million total fans<br>for Mejiro Ramonu."
+    },
+    "610003": {
+        "text": "Reach 50 million total fans for Mejiro Ramonu.",
+        "hash": "8f331a23c9e1622c17859af19ffc106e0cd47a4357f645683d78babaab6dcd15",
+        "processed": "<rbr>Reach 50 million total fans<br>for Mejiro Ramonu."
+    },
+    "610004": {
+        "text": "Reach 100 million total fans for Mejiro Ramonu.",
+        "hash": "6eb58ad3b1a34c9903ecc62cf8732140fbdb4b98ad370f6136f155cda00be347",
+        "processed": "<rbr>Reach 100 million total fans<br>for Mejiro Ramonu."
+    },
+    "610005": {
+        "text": "Win all G1, G2, and G3 trophies with Mejiro Ramonu.",
+        "hash": "3c0eb3c9b2587593192980a578a1eec5bc92a59e6023d562443131649750e84a",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Mejiro Ramonu."
+    },
+    "610101": {
+        "text": "Watch episode 4 of Tap Dance City's story.",
+        "hash": "d9deae50220fdcc2933835d6946b1f84ce3dbcac943b60325f412be378bc5c61",
+        "processed": "<rbr>Watch episode 4 of Tap<br>Dance City's story."
+    },
+    "610102": {
+        "text": "Reach 10 million total fans for Tap Dance City.",
+        "hash": "012fe4dd97d45355437f772682a52678299e4e882ee93b2108184bc42b438408",
+        "processed": "<rbr>Reach 10 million total fans<br>for Tap Dance City."
+    },
+    "610103": {
+        "text": "Reach 50 million total fans for Tap Dance City.",
+        "hash": "a77d9267788e9c98731d00e0474adbc2b93fdb2364f07707fdc89a4c2d1b18e7",
+        "processed": "<rbr>Reach 50 million total fans<br>for Tap Dance City."
+    },
+    "610104": {
+        "text": "Reach 100 million total fans for Tap Dance City.",
+        "hash": "aba6e5ff9d8b568ed947ca1d65be7b874b0c1f707d7353ffc72e178f84c33ffd",
+        "processed": "<rbr>Reach 100 million total fans<br>for Tap Dance City."
+    },
+    "610105": {
+        "text": "Win all G1, G2, and G3 trophies with Tap Dance City.",
+        "hash": "04526e4d9d6bcb485ed85e7efb34376d20e3503a7dbfde37126831a2f4434285",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Tap Dance City."
+    },
+    "610201": {
+        "text": "Watch episode 4 of Satono Crown's story.",
+        "hash": "5235a848100595548da48e230d0c59767c11c78ba8ef65f45a355b51f37aea84",
+        "processed": "<rbr>Watch episode 4 of Satono<br>Crown's story."
+    },
+    "610202": {
+        "text": "Reach 10 million total fans for Satono Crown.",
+        "hash": "8ab0654b088747bce4cccc6042135db04b13fb1bacbcce66e07c52c178f606af",
+        "processed": "<rbr>Reach 10 million total fans<br>for Satono Crown."
+    },
+    "610203": {
+        "text": "Reach 50 million total fans for Satono Crown.",
+        "hash": "b72b7339669cadbf8a462c1054a067fd1d6b4fe779dbed05127c11d38fd66726",
+        "processed": "<rbr>Reach 50 million total fans<br>for Satono Crown."
+    },
+    "610204": {
+        "text": "Reach 100 million total fans for Satono Crown.",
+        "hash": "e29f7a7baebb43e1283e88c51f958f714f181fde15b47f639954ee87e0a14abd",
+        "processed": "<rbr>Reach 100 million total fans<br>for Satono Crown."
+    },
+    "610205": {
+        "text": "Win all G1, G2, and G3 trophies with Satono Crown.",
+        "hash": "6dac2d790d5f3fd17d09d31d8edbcf2abae7753ad71318d9e50767e9ee0a68b8",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Satono Crown."
+    },
+    "610301": {
+        "text": "Watch episode 4 of Cheval Grand's story.",
+        "hash": "80cee2b1b9175b6ca766ed30e0fb5795909fa10190b56f73e29ded88ee95b736",
+        "processed": "<rbr>Watch episode 4 of Cheval<br>Grand's story."
+    },
+    "610302": {
+        "text": "Reach 10 million total fans for Cheval Grand.",
+        "hash": "9fa3ebb1694758a92fd0c1c8045f159534ce2f9b8bb088da0e6c62bd9ade057b",
+        "processed": "<rbr>Reach 10 million total fans<br>for Cheval Grand."
+    },
+    "610303": {
+        "text": "Reach 50 million total fans for Cheval Grand.",
+        "hash": "78b7ed4e97b6e70526c9feba15957a7cc86154c8bac68fa2b712ca023b59c596",
+        "processed": "<rbr>Reach 50 million total fans<br>for Cheval Grand."
+    },
+    "610304": {
+        "text": "Reach 100 million total fans for Cheval Grand.",
+        "hash": "708173a38551a167ae42c68f904fdb56c3c26253bac8f221690ffaf6eb5ad94c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Cheval Grand."
+    },
+    "610305": {
+        "text": "Win all G1, G2, and G3 trophies with Cheval Grand.",
+        "hash": "776b590ffed333d36ef06f7cf96f434a8c9c3add4107ce1690f09eb41e368004",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Cheval Grand."
+    },
+    "610401": {
+        "text": "Watch episode 4 of Vivlos's story.",
+        "hash": "edb41e1c839fc0b374437692d34263ae2db834d487b319507336f27ce2b97450",
+        "processed": "<rbr>Watch episode 4 of Vivlos's<br>story."
+    },
+    "610402": {
+        "text": "Reach 10 million total fans for Vivlos.",
+        "hash": "a0ac10b92d551efce47e9880443a6a4cf87823bbd3160ad3677fccaf3ddb1b82",
+        "processed": "<rbr>Reach 10 million total fans<br>for Vivlos."
+    },
+    "610403": {
+        "text": "Reach 50 million total fans for Vivlos.",
+        "hash": "c2ae0194e8e483fb688528ca02f3232e6e6635dba45e93c5df37192daa458652",
+        "processed": "<rbr>Reach 50 million total fans<br>for Vivlos."
+    },
+    "610404": {
+        "text": "Reach 100 million total fans for Vivlos.",
+        "hash": "be7e96f81994ab2461f5eb526f1275fbd8df726f3ca12d4873d9aea22f65e688",
+        "processed": "<rbr>Reach 100 million total fans<br>for Vivlos."
+    },
+    "610405": {
+        "text": "Win all G1, G2, and G3 trophies with Vivlos.",
+        "hash": "d48f485b93c08c941b635ce23cae6ed94d744315e01e39e605ff260bb5c37ec0",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Vivlos."
+    },
+    "610501": {
+        "text": "Watch episode 4 of Biko Pegasus's story.",
+        "hash": "8b36780677083d05e1aaa5f6b0a458bccec46cffe0a8c01c64dbd407d66b073c",
+        "processed": "<rbr>Watch episode 4 of Biko<br>Pegasus's story."
+    },
+    "610502": {
+        "text": "Reach 10 million total fans for Biko Pegasus.",
+        "hash": "22172a2d9d99ea1ee5e6cae1a33499b6d6d4d28a0c11979875ff561521295b17",
+        "processed": "<rbr>Reach 10 million total fans<br>for Biko Pegasus."
+    },
+    "610503": {
+        "text": "Reach 50 million total fans for Biko Pegasus.",
+        "hash": "693f2aadac65e3aeebad60a8d678232722954265db7dfaeb8ddc4ca13ed48080",
+        "processed": "<rbr>Reach 50 million total fans<br>for Biko Pegasus."
+    },
+    "610504": {
+        "text": "Reach 100 million total fans for Biko Pegasus.",
+        "hash": "b404ea61e931d1da00c02970297f0d229794cda41de0bddb78370b253a366f37",
+        "processed": "<rbr>Reach 100 million total fans<br>for Biko Pegasus."
+    },
+    "610505": {
+        "text": "Win all G1, G2, and G3 trophies with Biko Pegasus.",
+        "hash": "e92cf330632b63c2e33ccca6db5969842fb0a2f2f056e2ea290203cdd107096a",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Biko Pegasus."
+    },
+    "610601": {
+        "text": "Watch episode 4 of Duramente's story.",
+        "hash": "1fa8d23173a8248a5acdbd07e7a059dcdeeefbace7ed9d3ce9ea76d54bc461c5",
+        "processed": "<rbr>Watch episode 4 of<br>Duramente's story."
+    },
+    "610602": {
+        "text": "Reach 10 million total fans for Duramente.",
+        "hash": "ca200b5ec4e1f07486c4d0e8155b293403d3a874557589c4dc4b73876c1fbba8",
+        "processed": "<rbr>Reach 10 million total fans<br>for Duramente."
+    },
+    "610603": {
+        "text": "Reach 50 million total fans for Duramente.",
+        "hash": "fbb064afb6eede31892ae6e732fb9d2ac7cf305f0387021de7e3ccbb5e3c59f9",
+        "processed": "<rbr>Reach 50 million total fans<br>for Duramente."
+    },
+    "610604": {
+        "text": "Reach 100 million total fans for Duramente.",
+        "hash": "90a72dd301591d6979b1f0a2d6b8ea2afd64b4bc855f918f1ac507913c57c02f",
+        "processed": "<rbr>Reach 100 million total fans<br>for Duramente."
+    },
+    "610605": {
+        "text": "Win all G1, G2, and G3 trophies with Duramente.",
+        "hash": "77a64508c5411e5f6f66a629c0db48981fadc083cc32e86270d2570c64a21ca3",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Duramente."
+    },
+    "610701": {
+        "text": "Watch episode 4 of Ikuno Dictus's story.",
+        "hash": "1ae1021bdb4eda9896ca7cee9bd5680b1545bb4e75f5faef7faf1656c3f3bbed",
+        "processed": "<rbr>Watch episode 4 of Ikuno<br>Dictus's story."
+    },
+    "610702": {
+        "text": "Reach 10 million total fans for Ikuno Dictus.",
+        "hash": "a6a6d4591a108dd8de347e110c8da58ef78678c3883c822cc36fdd3a2ad48965",
+        "processed": "<rbr>Reach 10 million total fans<br>for Ikuno Dictus."
+    },
+    "610703": {
+        "text": "Reach 50 million total fans for Ikuno Dictus.",
+        "hash": "5dec3a7cf8d7771ecac9a3323c9123ec7d34be9decd9ba478e8c3a15cb6a697a",
+        "processed": "<rbr>Reach 50 million total fans<br>for Ikuno Dictus."
+    },
+    "610704": {
+        "text": "Reach 100 million total fans for Ikuno Dictus.",
+        "hash": "dc4099a3719c737428716724dc5138fbf0e999af12d9a0b54a4869de391e76de",
+        "processed": "<rbr>Reach 100 million total fans<br>for Ikuno Dictus."
+    },
+    "610705": {
+        "text": "Win all G1, G2, and G3 trophies with Ikuno Dictus.",
+        "hash": "4a5a2e68cc2d590aa2b296c4730ac7043a40b863cd949576946cceb16bd254d6",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Ikuno Dictus."
     },
     "900002": {
         "text": "Watch Sakura Bakushin O's worry counseling from the home menu once.",
@@ -15668,6 +18873,61 @@
         "text": "Clear all event missions.",
         "hash": "064b9d96b225d07c0eb0e2faca7fea190b22a3ead15ba7640a1ae0f34132a8a3",
         "processed": "<rbr>Clear all event missions."
+    },
+    "1001925": {
+        "text": "Complete a U.A.F. Ready GO! training run once.",
+        "hash": "9a7400fe5ce2a082c8f4eb8b8aa4f275aa196bd57404ad2435485d1ae79fa8a1",
+        "processed": "<rbr>Complete a U.A.F. Ready GO!<br>training run once."
+    },
+    "1001926": {
+        "text": "Complete a U.A.F. Ready GO! training run 3 times.",
+        "hash": "cbfbcfe060d3f0c85fd3b3ad379631a717444262d160af13ec9050c7bace6a68",
+        "processed": "<rbr>Complete a U.A.F. Ready GO!<br>training run 3 times."
+    },
+    "1001927": {
+        "text": "Complete a U.A.F. Ready GO! training run 5 times.",
+        "hash": "5f0901261c89ac4d8dabc8e2e048d808e40d79e1c7b91ef84ee611d69b7675b7",
+        "processed": "<rbr>Complete a U.A.F. Ready GO!<br>training run 5 times."
+    },
+    "1001928": {
+        "text": "Achieve overall victory in the U.A.F. Test Stage once.",
+        "hash": "423d1d872e744910a53a316232b0c1ec6f3ed503a4a17f7c7fe445fb2c01a2b2",
+        "processed": "<rbr>Achieve overall victory in the<br>U.A.F. Test Stage once."
+    },
+    "1001929": {
+        "text": "Achieve overall victory in the 1st U.A.F. Trial once.",
+        "hash": "7e05c54f91636d6134c5a017e40c60e1ba564d0e0a6e68b54d278638b3e0e647",
+        "processed": "<rbr>Achieve overall victory in the<br>1st U.A.F. Trial once."
+    },
+    "1001930": {
+        "text": "Achieve overall victory in the 2nd U.A.F. Trial once.",
+        "hash": "5b9f115a9e37d6e37b8de06eec7c7e70b65bf3dc7fdbb93f48c891778377b55e",
+        "processed": "<rbr>Achieve overall victory in the<br>2nd U.A.F. Trial once."
+    },
+    "1001931": {
+        "text": "Achieve overall victory in the 3rd U.A.F. Trial once.",
+        "hash": "8758fd05ceb8d4b5143b73f46034f3124c173fee72237c443235f81737e9f044",
+        "processed": "<rbr>Achieve overall victory in the<br>3rd U.A.F. Trial once."
+    },
+    "1001932": {
+        "text": "Achieve overall victory in the U.A.F. Showdown once.",
+        "hash": "eead6802cc8f008b5ee68ed0102de66d186255894767e27011e245720abbc658",
+        "processed": "<rbr>Achieve overall victory in the<br>U.A.F. Showdown once."
+    },
+    "1001933": {
+        "text": "Raise the cumulative level of the Sphere genre in the U.A.F. Ready GO! scenario to 500.",
+        "hash": "ab78241ceeae65440e9c86986c2ce02eaf36e45a12ebdc5f74ed6a0070f1e71e",
+        "processed": "<rbr><sc=66>Raise the cumulative level of the Sphere<br>genre in the U.A.F. Ready GO! scenario to<br>500."
+    },
+    "1001934": {
+        "text": "Raise the cumulative level of the Fight genre in the U.A.F. Ready GO! scenario to 500.",
+        "hash": "7d67566b6c01a861bebd5690e2e72f366e092b08060db7c8cce6bc0f4ec50254",
+        "processed": "<rbr><sc=66>Raise the cumulative level of the Fight genre<br>in the U.A.F. Ready GO! scenario to 500."
+    },
+    "1001935": {
+        "text": "Raise the cumulative level of the Free genre in the U.A.F. Ready GO! scenario to 500.",
+        "hash": "6ee8715546f6927579bf0ef38cfd904abb7f94234ac8ec6f7a0323ca94aaab8a",
+        "processed": "<rbr><sc=67>Raise the cumulative level of the Free genre<br>in the U.A.F. Ready GO! scenario to 500."
     },
     "2600001": {
         "text": "Do 2 training runs ('Chase Your Dreams!' story event).",
