@@ -2940,9 +2940,9 @@
         "processed": "<rbr>Participate in a Team<br>Stadium match 90 times."
     },
     "311016": {
-        "text": "Play in the team stadium 100 times.",
+        "text": "Participate in a Team Stadium match 100 times.",
         "hash": "a7a70a618a6f517991fc755a3836b5f23db661694bb88bfd7ff6ca81c36d3e6b",
-        "processed": "<rbr>Play in the team stadium 100<br>times."
+        "processed": "<rbr>Participate in a Team<br>Stadium match 100 times."
     },
     "311017": {
         "text": "Participate in a Team Stadium match 150 times.",
@@ -4255,34 +4255,34 @@
         "processed": "<rbr>Raise the Awakening level of<br>any character once."
     },
     "320001": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 3 times.",
         "hash": "9f04b8b4902e070a8c0ee091ec39d288654e445872745e1857811ad93a574fe8",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 3 times."
     },
     "320002": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 5 times.",
         "hash": "19ec4599d2fa97a453240f7415525532aea1303b9b5f3933ccebe1249eb5a81e",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 5 times."
     },
     "320003": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 10 times.",
         "hash": "d89f9aa5f53df4c54a2832bef1525af8d29b02ba4c9bb6ac86339ec12e2fc0b0",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 10 times."
     },
     "320004": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 15 times.",
         "hash": "a68d123205fea8c4e90379ad9fe662804758a32fe70a77330f051ed3caedad61",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 15 times."
     },
     "320005": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 20 times.",
         "hash": "060402b95ff626fd8a57b96f169fc1bcc3bda9da21d486619697ceb4a503fbdf",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 20 times."
     },
     "320006": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "text": "Raise the Awakening level of any character 25 times.",
         "hash": "0a717ac112363ec9f5fce25616e3f36ba1d07999f197e69f8edc63c845795736",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+        "processed": "<rbr>Raise the Awakening level of<br>any character 25 times."
     },
     "320007": {
         "text": "Raise the Awakening level of any character 30 times.",
@@ -7770,14 +7770,14 @@
         "processed": "<rbr>Create or join a Circle."
     },
     "330101": {
-        "text": "Clear all the individual rewards in the Top Umadol Project event.",
+        "text": "Look at your circle's circle card.",
         "hash": "6c00ee001d448b1ff890e765910135e0c202aa20dbc0950eecfa76b97fea664f",
-        "processed": "<rbr><sc=90>Clear all the individual rewards<br>in the Top Umadol Project event."
+        "processed": "<rbr>Look at your circle's circle<br>card."
     },
     "330200": {
-        "text": "Win the URA Finals in training.",
+        "text": "Win the URA Finals once during training.",
         "hash": "e6b4da94d8d77005bf393a7fb1d1f46d0bf8191d28da78d41ad72738f479335f",
-        "processed": "<rbr>Win the URA Finals in<br>training."
+        "processed": "<rbr>Win the URA Finals once<br>during training."
     },
     "330300": {
         "text": "Set your birthday in your profile.",
@@ -7873,11 +7873,6 @@
         "text": "Change the outfit of a character once.",
         "hash": "46f78532a89b0d142567e25f8b59c02feb57ff627207df1958e6c29fd06dfae3",
         "processed": "<rbr>Change the outfit of a<br>character once."
-    },
-    "331300": {
-        "text": "Finish a training run with an evolved skill.",
-        "hash": "f7523f09bf5e64d9feab1214624e957151e3e93c55e6effa10e49b37c73b48ad",
-        "processed": "<rbr>Finish a training run with an<br>evolved skill."
     },
     "331400": {
         "text": "Collect a total of 1 unique plushie.",
@@ -8455,9 +8450,9 @@
         "processed": "<rbr>Collect a total of 25 different<br>support cards."
     },
     "333004": {
-        "text": "Get 30 support cards.",
+        "text": "Collect a total of 30 different support cards.",
         "hash": "fe47fd9f716b77a1def46d6509dc1faa74e682e66fbe4159d9abf63ae92cf7c9",
-        "processed": "<rbr>Get 30 support cards."
+        "processed": "<rbr>Collect a total of 30 different<br>support cards."
     },
     "333005": {
         "text": "Collect a total of 35 different support cards.",
@@ -8675,9 +8670,9 @@
         "processed": "<rbr>Collect a total of 245<br>different support cards."
     },
     "333048": {
-        "text": "Get 250 support cards.",
+        "text": "Collect a total of 250 different support cards.",
         "hash": "1bee8b6aa31e572c6939012a4f8796f0f741f02682a9c6cef18b1e5ae0f66cbf",
-        "processed": "<rbr>Get 250 support cards."
+        "processed": "<rbr>Collect a total of 250<br>different support cards."
     },
     "333049": {
         "text": "Collect a total of 255 different support cards.",
@@ -8940,9 +8935,9 @@
         "processed": "<rbr>Collect a total of 10 different<br>characters."
     },
     "334002": {
-        "text": "Get 15 horsegirls.",
+        "text": "Collect a total of 15 different characters.",
         "hash": "98e1c60d5074bcb7e19c6287ca2d779d72950c5a7fefb4010e12fa16fc465966",
-        "processed": "<rbr>Get 15 horsegirls."
+        "processed": "<rbr>Collect a total of 15 different<br>characters."
     },
     "334003": {
         "text": "Collect a total of 20 different characters.",
@@ -9025,9 +9020,9 @@
         "processed": "<rbr>Collect a total of 95 different<br>characters."
     },
     "334019": {
-        "text": "Get 100 horsegirls.",
+        "text": "Collect a total of 100 different characters.",
         "hash": "e7fd72cb6fc7d46d37ebd2b40b681974b8b5774d6ff6273b6dbc6eee926bb67f",
-        "processed": "<rbr>Get 100 horsegirls."
+        "processed": "<rbr>Collect a total of 100<br>different characters."
     },
     "334020": {
         "text": "Collect a total of 105 different characters.",
@@ -10395,9 +10390,9 @@
         "processed": "<rbr>Collect all 30 GI trophies."
     },
     "600404": {
-        "text": "Win the URA Finals in training.",
+        "text": "Win the URA Finals once during training.",
         "hash": "e6b4da94d8d77005bf393a7fb1d1f46d0bf8191d28da78d41ad72738f479335f",
-        "processed": "<rbr>Win the URA Finals in<br>training."
+        "processed": "<rbr>Win the URA Finals once<br>during training."
     },
     "600405": {
         "text": "Win all eight major races in training.",
@@ -10490,9 +10485,9 @@
         "processed": "<rbr><sc=75>Acquire Byerley Turk's Goddess Wis-<br>dom a total of 20 times during training."
     },
     "600424": {
-        "text": "Win the Prix de l'Arc de Triomphe.",
+        "text": "Win the Prix de l'Arc de Triomphe once during training.",
         "hash": "e9facfc31d67d7c8edfef4373b58839c4c5898da6fc1d3d3bdcff8634d48b624",
-        "processed": "<rbr>Win the Prix de l'Arc de<br>Triomphe."
+        "processed": "<rbr>Win the Prix de l'Arc de Tri-<br>omphe once during training."
     },
     "600425": {
         "text": "Carry out a total of 50 SS Matches.",
@@ -10625,9 +10620,9 @@
         "processed": "<rbr>Win 100 legendary races."
     },
     "600550": {
-        "text": "Play in the team stadium 100 times.",
+        "text": "Participate in a Team Stadium match 100 times.",
         "hash": "a7a70a618a6f517991fc755a3836b5f23db661694bb88bfd7ff6ca81c36d3e6b",
-        "processed": "<rbr>Play in the team stadium 100<br>times."
+        "processed": "<rbr>Participate in a Team<br>Stadium match 100 times."
     },
     "600551": {
         "text": "Reach Class 6 at the team stadium.",
@@ -11030,24 +11025,24 @@
         "processed": "<rbr>Buy a total of 100 items in<br>Tazuna's limited shop."
     },
     "601101": {
-        "text": "Get 15 horsegirls.",
+        "text": "Collect a total of 15 different characters.",
         "hash": "98e1c60d5074bcb7e19c6287ca2d779d72950c5a7fefb4010e12fa16fc465966",
-        "processed": "<rbr>Get 15 horsegirls."
+        "processed": "<rbr>Collect a total of 15 different<br>characters."
     },
     "601102": {
-        "text": "Get 100 horsegirls.",
+        "text": "Collect a total of 100 different characters.",
         "hash": "e7fd72cb6fc7d46d37ebd2b40b681974b8b5774d6ff6273b6dbc6eee926bb67f",
-        "processed": "<rbr>Get 100 horsegirls."
+        "processed": "<rbr>Collect a total of 100<br>different characters."
     },
     "601201": {
-        "text": "Get 30 support cards.",
+        "text": "Collect a total of 30 different support cards.",
         "hash": "fe47fd9f716b77a1def46d6509dc1faa74e682e66fbe4159d9abf63ae92cf7c9",
-        "processed": "<rbr>Get 30 support cards."
+        "processed": "<rbr>Collect a total of 30 different<br>support cards."
     },
     "601202": {
-        "text": "Get 250 support cards.",
+        "text": "Collect a total of 250 different support cards.",
         "hash": "1bee8b6aa31e572c6939012a4f8796f0f741f02682a9c6cef18b1e5ae0f66cbf",
-        "processed": "<rbr>Get 250 support cards."
+        "processed": "<rbr>Collect a total of 250<br>different support cards."
     },
     "601301": {
         "text": "Earn a cumulative 1 million total money.",
@@ -13510,9 +13505,9 @@
         "processed": "<rbr>Raise the Awakening level of<br>any character once."
     },
     "1000005": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 1st day of this event.",
         "hash": "23be734aeed1545bf9795924899abef515a8b535746bfa062cf556ba6a8dfccc",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 1st<br>day of this event."
     },
     "1000006": {
         "text": "Complete a training run with Vodka while having 5000 fans once.",
@@ -13535,9 +13530,9 @@
         "processed": "<rbr>Raise the level of any<br>support card 10 times."
     },
     "1000010": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 2nd day of this event.",
         "hash": "c22efc45b4193cce6878c0c83f41dbf56c3d5ac31405f8dabc6061cebcceece8",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 2nd<br>day of this event."
     },
     "1000011": {
         "text": "Complete a training run with Gold Ship while having 5000 fans once.",
@@ -13560,9 +13555,9 @@
         "processed": "<rbr>Trigger Friendship Training<br>10 times during training."
     },
     "1000015": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 3rd day of this event.",
         "hash": "1cc4f90a869403ffd0ddbe68c2e025cd8ba2daaa5d81cb3f70040b93dcad6643",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 3rd<br>day of this event."
     },
     "1000016": {
         "text": "Complete a training run with Haru Urara while having 5000 fans once.",
@@ -13585,9 +13580,9 @@
         "processed": "<rbr>Go on outings 5 times during<br>training."
     },
     "1000020": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 4th day of this event.",
         "hash": "80f10b66e5d7b428c2dc95a13abcf688d0e9a9f31c290a1ae6564cfe56da31d6",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 4th<br>day of this event."
     },
     "1000021": {
         "text": "Complete a training run with Sakura Bakushin O while having 5000 fans once.",
@@ -13610,9 +13605,9 @@
         "processed": "<rbr>Complete a training run with<br>rank C or higher once."
     },
     "1000025": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 5th day of this event.",
         "hash": "c7803574961295587c4d41dcc37cbdf98449631aeda221626a2c1e256f561d0e",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 5th<br>day of this event."
     },
     "1000026": {
         "text": "Complete a training run with any character while having 20000 fans once.",
@@ -13635,9 +13630,9 @@
         "processed": "<rbr>Participate in the URA Finals<br>Qualifier once."
     },
     "1000030": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 6th day of this event.",
         "hash": "4abeea4909d0cdf347cb94c2a884d8f776d37bfc7185f14a12e0ab66d5a3a931",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 6th<br>day of this event."
     },
     "1000031": {
         "text": "Complete a training run with any character while having 50000 fans once.",
@@ -13660,9 +13655,9 @@
         "processed": "<rbr>Participate in the URA Finals<br>Final once."
     },
     "1000035": {
-        "text": "Win 100 GI races.",
+        "text": "Clear all missions of the 7th day of this event.",
         "hash": "15da0e14538f59335c0204a207ec5f168eda49f25d49b015e4fc473f2b2e3040",
-        "processed": "<rbr>Win 100 GI races."
+        "processed": "<rbr>Clear all missions of the 7th<br>day of this event."
     },
     "1000036": {
         "text": "Clear all event missions.",
@@ -13690,9 +13685,9 @@
         "processed": "<rbr>Participate in any Daily Race<br>3 times."
     },
     "1000041": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 1st day of this event.",
         "hash": "6b0b44cdea9463ff03c2a81c2a252e344322f83f2a240c632f863047c00149b0",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 1st<br>day of this event."
     },
     "1000042": {
         "text": "Reach a cumulative score of 200000 during Team Stadium matches.",
@@ -13715,9 +13710,9 @@
         "processed": "<rbr>Participate in a daily race at<br>Perfect motivation."
     },
     "1000046": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 2nd day of this event.",
         "hash": "cd7d23cc69bad9ff3e7fa5c69f936ffddc57cf9a08728ebf643b1ae492c19f8b",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 2nd<br>day of this event."
     },
     "1000047": {
         "text": "Gather a total of 1000 fans for any horsegirl in Team Stadium matches.",
@@ -13740,9 +13735,9 @@
         "processed": "<rbr>Participate in a daily race<br>with Sunny weather once."
     },
     "1000051": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 3rd day of this event.",
         "hash": "10b1c21a3ee94eb885d5333021a52f5b7f334a119006458bacfedddb09eec01b",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 3rd<br>day of this event."
     },
     "1000052": {
         "text": "Raise your Team Stadium team rank to E2.",
@@ -13765,9 +13760,9 @@
         "processed": "<rbr>Participate in a daily race<br>with Rainy weather once."
     },
     "1000056": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 4th day of this event.",
         "hash": "680ac33ae6aae6a6a539dddd83b80e89c051be1fb1602478215483ea60aeaaa1",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 4th<br>day of this event."
     },
     "1000057": {
         "text": "Reach a cumulative score of 500000 during Team Stadium matches.",
@@ -13790,9 +13785,9 @@
         "processed": "<rbr>Participate in a daily race at<br>an Inner starting gate block."
     },
     "1000061": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 5th day of this event.",
         "hash": "6493ae068e91ddb98355227457fcdf7e6e12b1dfd246ed487e4c7cd846413857",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 5th<br>day of this event."
     },
     "1000062": {
         "text": "Gather a total of 2000 fans for any horsegirl in Team Stadium matches.",
@@ -13815,9 +13810,9 @@
         "processed": "<rbr>Participate in a daily race at<br>an Outer starting gate block."
     },
     "1000066": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 6th day of this event.",
         "hash": "133673a9ffaa3bd0a6053181dbe2a44e80e2b960d403d6997912e6a7c79d8fa5",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 6th<br>day of this event."
     },
     "1000067": {
         "text": "Raise your Team Stadium team rank to E3.",
@@ -13840,9 +13835,9 @@
         "processed": "<rbr>Get a Winning Reward in the<br>Team Stadium 5 times."
     },
     "1000071": {
-        "text": "Earn a cumulative 1 million total money.",
+        "text": "Clear all missions of the 7th day of this event.",
         "hash": "f9d090fd0de1cfd288344057b18bf6101d6e377d3a86396efa9236c5bd408898",
-        "processed": "<rbr>Earn a cumulative 1 million<br>total money."
+        "processed": "<rbr>Clear all missions of the 7th<br>day of this event."
     },
     "1000072": {
         "text": "Clear all event missions.",
@@ -14270,9 +14265,9 @@
         "processed": "<rbr>Clear all event missions."
     },
     "1000157": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Win the Satsuki Sho once during training.",
         "hash": "8ec059df15a8bd9c2b1669f0cb44d753ea770369cafdeec7a96c7403afb802cb",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr>Win the Satsuki Sho once<br>during training."
     },
     "1000158": {
         "text": "Win the Kikka Sho once during training.",
@@ -14290,9 +14285,9 @@
         "processed": "<rbr>Win the Takarazuka Kinen 2<br>times during training."
     },
     "1000161": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Win the Tenno Sho (Spring) once during training.",
         "hash": "e9dd8df9f4a445daac5a18fa1a18cfb99daf534c2c5724a3c50fe7bc45775c3b",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr>Win the Tenno Sho (Spring)<br>once during training."
     },
     "1000162": {
         "text": "Participate in 3 G3 races during training.",
@@ -14300,9 +14295,9 @@
         "processed": "<rbr>Participate in 3 G3 races<br>during training."
     },
     "1000163": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Participate in 7 G2 races during training.",
         "hash": "de98e536131ec089be947d93e4d64f8b1ebbd8c57ae370f293a05580cc8352aa",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr>Participate in 7 G2 races<br>during training."
     },
     "1000164": {
         "text": "Participate in 16 G1 races during training.",
@@ -14320,9 +14315,9 @@
         "processed": "<rbr>Win any race 56 times during<br>training."
     },
     "1000167": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Win any race 128 times during training.",
         "hash": "40071949eb3efed8f9415ba96f38b0a4a34697cc4ed6d737103c28a53380114f",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr>Win any race 128 times<br>during training."
     },
     "1000168": {
         "text": "Win any race 168 times during training.",
@@ -14355,9 +14350,9 @@
         "processed": "<rbr>Trigger a positive condition 4<br>times during training."
     },
     "1000174": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Complete a training run with Gold Ship while having 5640 fans once.",
         "hash": "be4549f807cb2057c09c0a91306808d0676766138540d8476c5f9c8dbe123599",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr><sc=86>Complete a training run with Gold<br>Ship while having 5640 fans once."
     },
     "1000175": {
         "text": "Complete a training run with Gold Ship while having 56400 fans once.",
@@ -14370,9 +14365,9 @@
         "processed": "<rbr>Gather a total of 139776 fans<br>during the event period."
     },
     "1000177": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Gather a total of 564000 fans during the event period.",
         "hash": "df714b5dcdce885d01692c5db7bff4a20ed42da0d70b3369bcc506fc9cda999d",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr>Gather a total of 564000 fans<br>during the event period."
     },
     "1000178": {
         "text": "Gather a total of 5640000 fans during the event period.",
@@ -14400,9 +14395,9 @@
         "processed": "<rbr>Complete a training run once."
     },
     "1000183": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Complete a training run having won at least 13 races once.",
         "hash": "59b6c7134d76107033225a58d26f3df59b546f5c2557dde06b6440ea4019b203",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr><sc=96>Complete a training run having<br>won at least 13 races once."
     },
     "1000184": {
         "text": "Clear a training objective 27 times during training.",
@@ -14445,9 +14440,9 @@
         "processed": "<rbr>Win 3 Mile races during Team<br>Stadium matches."
     },
     "1000192": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Win 4 Medium-distance races during Team Stadium matches.",
         "hash": "8ccd8cd8e06c121074685851a3160733dca6f7ccc971faf98610a116131e6323",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr><sc=96>Win 4 Medium-distance races<br>during Team Stadium matches."
     },
     "1000193": {
         "text": "Win 6 Long-distance races during Team Stadium matches.",
@@ -14530,9 +14525,9 @@
         "processed": "<rbr>Win 1 races at the Hakodate<br>racetrack."
     },
     "1000209": {
-        "text": "Achieve a cumulative total of 25 followers.",
+        "text": "Clear 15 event missions.",
         "hash": "da3079c4a8157e1dbd3a796fa12c4c9d67110cdd9cf5cc6008e3289f09c707a7",
-        "processed": "<rbr>Achieve a cumulative total of<br>25 followers."
+        "processed": "<rbr>Clear 15 event missions."
     },
     "1000210": {
         "text": "Clear 30 event missions.",
@@ -18335,9 +18330,9 @@
         "processed": "<rbr><sc=70>Finish a training run while having a Short-<br>-distance aptitude of A or higher once."
     },
     "1001756": {
-        "text": "Read chapter 4 of El Condor Pasa's story.",
+        "text": "Win 5 G1 races during training.",
         "hash": "7f30d7df8fb7f104a3d4256f811b1aceac6e04f1b34ab3d2098be5b43b7f47d4",
-        "processed": "<rbr>Read chapter 4 of El Condor<br>Pasa's story."
+        "processed": "<rbr>Win 5 G1 races during<br>training."
     },
     "1001757": {
         "text": "Clear all event missions.",
@@ -18365,9 +18360,9 @@
         "processed": "<rbr><sc=84>Finish a training run while having a<br>Dirt aptitude of A or higher once."
     },
     "1001765": {
-        "text": "Watch episode 4 of Narita Top Road's story.",
+        "text": "Win 5 G1 races during training.",
         "hash": "41cba6ff7353e3a2c4a8570fa6ca7ce8d2d178e58728e3ba9c62e7ea49c6e7ed",
-        "processed": "<rbr>Watch episode 4 of Narita<br>Top Road's story."
+        "processed": "<rbr>Win 5 G1 races during<br>training."
     },
     "1001766": {
         "text": "Clear all event missions.",
@@ -18879,80 +18874,60 @@
         "hash": "064b9d96b225d07c0eb0e2faca7fea190b22a3ead15ba7640a1ae0f34132a8a3",
         "processed": "<rbr>Clear all event missions."
     },
-    "2000001": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001925": {
+        "text": "Complete a U.A.F. Ready GO! training run once.",
+        "hash": "9a7400fe5ce2a082c8f4eb8b8aa4f275aa196bd57404ad2435485d1ae79fa8a1",
+        "processed": "<rbr>Complete a U.A.F. Ready GO!<br>training run once."
     },
-    "2000004": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001926": {
+        "text": "Complete a U.A.F. Ready GO! training run 3 times.",
+        "hash": "cbfbcfe060d3f0c85fd3b3ad379631a717444262d160af13ec9050c7bace6a68",
+        "processed": "<rbr>Complete a U.A.F. Ready GO!<br>training run 3 times."
     },
-    "2000007": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001927": {
+        "text": "Complete a U.A.F. Ready GO! training run 5 times.",
+        "hash": "5f0901261c89ac4d8dabc8e2e048d808e40d79e1c7b91ef84ee611d69b7675b7",
+        "processed": "<rbr>Complete a U.A.F. Ready GO!<br>training run 5 times."
     },
-    "2000010": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001928": {
+        "text": "Achieve overall victory in the U.A.F. Test Stage once.",
+        "hash": "423d1d872e744910a53a316232b0c1ec6f3ed503a4a17f7c7fe445fb2c01a2b2",
+        "processed": "<rbr>Achieve overall victory in the<br>U.A.F. Test Stage once."
     },
-    "2000013": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001929": {
+        "text": "Achieve overall victory in the 1st U.A.F. Trial once.",
+        "hash": "7e05c54f91636d6134c5a017e40c60e1ba564d0e0a6e68b54d278638b3e0e647",
+        "processed": "<rbr>Achieve overall victory in the<br>1st U.A.F. Trial once."
     },
-    "2000016": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001930": {
+        "text": "Achieve overall victory in the 2nd U.A.F. Trial once.",
+        "hash": "5b9f115a9e37d6e37b8de06eec7c7e70b65bf3dc7fdbb93f48c891778377b55e",
+        "processed": "<rbr>Achieve overall victory in the<br>2nd U.A.F. Trial once."
     },
-    "2000019": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001931": {
+        "text": "Achieve overall victory in the 3rd U.A.F. Trial once.",
+        "hash": "8758fd05ceb8d4b5143b73f46034f3124c173fee72237c443235f81737e9f044",
+        "processed": "<rbr>Achieve overall victory in the<br>3rd U.A.F. Trial once."
     },
-    "2000022": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001932": {
+        "text": "Achieve overall victory in the U.A.F. Showdown once.",
+        "hash": "eead6802cc8f008b5ee68ed0102de66d186255894767e27011e245720abbc658",
+        "processed": "<rbr>Achieve overall victory in the<br>U.A.F. Showdown once."
     },
-    "2000025": {
-        "text": "Watch all episodes of main story act 1, chapter 1.",
-        "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
-        "processed": "<rbr>Watch all episodes of main<br>story act 1, chapter 1."
+    "1001933": {
+        "text": "Raise the cumulative level of the Sphere genre in the U.A.F. Ready GO! scenario to 500.",
+        "hash": "ab78241ceeae65440e9c86986c2ce02eaf36e45a12ebdc5f74ed6a0070f1e71e",
+        "processed": "<rbr><sc=66>Raise the cumulative level of the Sphere<br>genre in the U.A.F. Ready GO! scenario to<br>500."
     },
-    "2200009": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
-        "hash": "a508f3cfcbe4ea8bc6cc71e8e315e99699485d92de5ba221e204353a94cccd36",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+    "1001934": {
+        "text": "Raise the cumulative level of the Fight genre in the U.A.F. Ready GO! scenario to 500.",
+        "hash": "7d67566b6c01a861bebd5690e2e72f366e092b08060db7c8cce6bc0f4ec50254",
+        "processed": "<rbr><sc=66>Raise the cumulative level of the Fight genre<br>in the U.A.F. Ready GO! scenario to 500."
     },
-    "2200029": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
-        "hash": "b2234098a0fd4c0ce67fa42c574516279feeb414dce79996d1ce101f14c57b2d",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
-    },
-    "2200057": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
-        "hash": "a508f3cfcbe4ea8bc6cc71e8e315e99699485d92de5ba221e204353a94cccd36",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
-    },
-    "2200086": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
-        "hash": "a508f3cfcbe4ea8bc6cc71e8e315e99699485d92de5ba221e204353a94cccd36",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
-    },
-    "2200115": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
-        "hash": "a508f3cfcbe4ea8bc6cc71e8e315e99699485d92de5ba221e204353a94cccd36",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
-    },
-    "2200148": {
-        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
-        "hash": "a508f3cfcbe4ea8bc6cc71e8e315e99699485d92de5ba221e204353a94cccd36",
-        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+    "1001935": {
+        "text": "Raise the cumulative level of the Free genre in the U.A.F. Ready GO! scenario to 500.",
+        "hash": "6ee8715546f6927579bf0ef38cfd904abb7f94234ac8ec6f7a0323ca94aaab8a",
+        "processed": "<rbr><sc=67>Raise the cumulative level of the Free genre<br>in the U.A.F. Ready GO! scenario to 500."
     },
     "2600001": {
         "text": "Do 2 training runs ('Chase Your Dreams!' story event).",

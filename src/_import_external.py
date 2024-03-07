@@ -7,7 +7,6 @@ import json
 import datetime
 from selenium import webdriver
 import time
-import re
 
 MISSIONS_JSONS = [
     "66",
@@ -469,6 +468,7 @@ return out;
         "permanent"
     ]
     urls += [f"history-{year}" for year in range(start_year, current_year + 1)]
+    urls.append("https://gametora.com/umamusume/missions")
 
     out_dict = {}
 
@@ -528,10 +528,6 @@ let skill_dict = arguments[0];
 let out = {};
 let elements = document.querySelectorAll("[class^='titles_table_row_']");
 for (let i = 0; i < elements.length; i++) {
-    let src = elements[i].querySelector("img").src;
-    let segments = src.split("_");
-    let id = segments[segments.length - 1].split(".")[0];
-
     // Replace skill names
     let descr_element = elements[i].querySelector("[class^='titles_table_desc_']");
     let skill_elements = descr_element.querySelectorAll("[aria-expanded='false']");
@@ -543,11 +539,33 @@ for (let i = 0; i < elements.length; i++) {
     }
 
     let descr = descr_element.innerText;
-    out[id] = descr;
+
+    let name_ele = elements[i].querySelector("[class^='titles_table_name_']");
+    let name = name_ele.innerText;
+
+    out[name] = descr;
 }
 return out;
 """, fetch_skill_translations())
-    return data
+    
+    driver.close()
+
+    # Title names
+    path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", "65.json")
+    names_data = util.load_json(path)
+
+    out_dict = {}
+
+    for entry in names_data:
+        source = entry['source']
+        if source not in data:
+            print(f"Skipping {source} title, not found in GameTora")
+            continue
+        key = json.loads(entry['keys'])[0][1]
+        out_dict[key] = data[source]
+
+    return out_dict
+
 
 def apply_gametora_missions():
     print("Importing GameTora missions")
@@ -584,13 +602,15 @@ def apply_gametora_title_missions():
         print("Failed to scrape missions")
         return
     
+    # print(mission_data['1000157'])
+    
+    new_dict = {}
 
     with util.MDBConnection() as (conn, cursor):
-        new_dict = {}
         for key in mission_data:
             cursor.execute(
                 """
-                SELECT id FROM mission_data WHERE item_id = ?;
+                SELECT id FROM mission_data WHERE item_id = ? AND mission_type = 6;
                 """,
                 (key,)
             )
@@ -598,11 +618,8 @@ def apply_gametora_title_missions():
             if not rows:
                 continue
             for row in rows:
-                new_id = str(row[0])
-                if new_id.startswith("20"):
-                    continue
+                new_id = row[0]
                 new_dict[new_id] = mission_data[key]
-        mission_data.update(new_dict)
 
 
     # Load local mission data
@@ -611,14 +628,12 @@ def apply_gametora_title_missions():
         data = util.load_json(path)
 
         for entry in data:
-            keys = json.loads(entry['keys'])
-            for key in keys:
-                key = str(key[1])
-                if mission_data.get(key):
-                    entry['prev_text'] = entry['text']
-                    entry['text'] = util.add_period(mission_data[key])
-                    entry['new'] = False
-                    break
+            key = json.loads(entry['keys'])[0][1]
+            if new_dict.get(key):
+                # print(mission_data[key])
+                entry['prev_text'] = entry['text']
+                entry['text'] = util.add_period(new_dict[key])
+                entry['new'] = False
 
         util.save_json(path, data)
     
@@ -642,8 +657,8 @@ def main():
     apply_umapyoi_supports()
 
     apply_gametora_skills()
-    apply_gametora_missions()
     apply_gametora_title_missions()
+    apply_gametora_missions()
     pass
 
 if __name__ == "__main__":
