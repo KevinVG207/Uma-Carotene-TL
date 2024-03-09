@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtWidgets import QWidget
 import ui.widget_main as widget_main
 import ui.widget_mdb as widget_mdb
+import ui.widget_story as widget_story
 
 class Ui_widget_tabs(QWidget):
     def __init__(self, app, *args, **kwargs) -> None:
@@ -71,7 +72,7 @@ class Ui_widget_tabs(QWidget):
         self.tab_3 = QWidget()
         self.tab_3.setObjectName(u"tab_3")
         self.tabWidget.addTab(self.tab_3, "")
-        self.tab_4 = QWidget()
+        self.tab_4 = widget_story.Ui_story_editor(base_widget=self)
         self.tab_4.setObjectName(u"tab_4")
         self.tabWidget.addTab(self.tab_4, "")
         self.retranslateUi(self)
