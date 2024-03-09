@@ -24,6 +24,8 @@ from multiprocessing import Pool
 import re
 import hashlib
 
+DLL_NAMES = ['version.dll', 'umpdc.dll', 'xinput1_3.dll']
+
 hyphen_dict = pyphen.Pyphen(lang='en_US')
 
 relative_dir = os.path.abspath(os.getcwd())
@@ -91,15 +93,21 @@ TABLE_BACKUP_PREFIX = TABLE_PREFIX + "_bak_"
 
 DLL_BACKUP_SUFFIX = ".bak"
 
-class Connection():
+class Connection:
     DB_PATH = None
 
     def __init__(self):
-        self.conn = sqlite3.connect(self.DB_PATH)
+        if not self.DB_PATH or not os.path.exists(self.DB_PATH):
+            display_critical_message("No Database Found", "We couldn't find the game's database file.\n\nPlease make sure that you have finished the tutorial and the initial in-game download before running Carotene.\n\nIf you are still encoutering this issue please join our Discord server for direct help.")
+            raise GameDatabaseNotFoundException(f"Game database {self.DB_PATH} not found.")
+        else:
+            self.conn = sqlite3.connect(self.DB_PATH)
+
     def __enter__(self):
-        return self.conn, self.conn.cursor()
+            return self.conn, self.conn.cursor()
+
     def __exit__(self, type, value, traceback):
-        self.conn.close()
+            self.conn.close()
 
 class MDBConnection(Connection):
     DB_PATH = MDB_PATH
@@ -107,10 +115,20 @@ class MDBConnection(Connection):
 class MetaConnection(Connection):
     DB_PATH = META_PATH
 
+class GameDatabaseNotFoundException(Exception):
+    pass
 
 class NotEnoughSpaceException(Exception):
     pass
 
+def display_critical_message(title, text):
+    msg = QMessageBox()
+    msg.setIcon(QMessageBox.Critical)
+    msg.setText(text)
+    msg.setWindowTitle(title)
+    msg.setStandardButtons(QMessageBox.Ok)
+    msg.button(QMessageBox.Ok).setText("Ok")
+    msg.exec_()
 
 def load_json(path):
     if os.path.exists(path):
@@ -239,14 +257,25 @@ def strings_numeric_key(item):
     return item
 
 
-def fetch_latest_github_release(username, repo):
-    url = f'https://api.github.com/repos/{username}/{repo}/releases'
-    r = requests.get(url)
-    r.raise_for_status()
-    data = r.json()
+def fetch_latest_github_release(username, repo, prerelease=False):
+    url = f'https://umapyoi.net/api/v1/github/{username}/{repo}/releases'
+    try:
+        r = requests.get(url)
+        r.raise_for_status()
+        if not (200 <= r.status_code < 300):
+            raise Exception("Umapyoi.net API request failed")
+        data = r.json()
+    except:
+        # Fallback to github api
+        url = f'https://api.github.com/repos/{username}/{repo}/releases'
+        r = requests.get(url)
+        r.raise_for_status()
+        if not (200 <= r.status_code < 300):
+            raise Exception("Github API request failed")
+        data = r.json()
     cur_version = None
     for version in data:
-        if version['prerelease']:
+        if version['prerelease'] and not prerelease:
             continue
         cur_version = version
         break
@@ -258,20 +287,20 @@ def fetch_latest_github_release(username, repo):
 
 
 LATEST_DATA = None
-def get_latest_json():
+def get_latest_json(prerelease=False):
     global LATEST_DATA
 
     if not LATEST_DATA:
-        LATEST_DATA = fetch_latest_github_release('KevinVG207', 'Uma-Carotene-TL')
+        LATEST_DATA = fetch_latest_github_release('KevinVG207', 'Uma-Carotene-TL', prerelease)
 
     return LATEST_DATA
 
 LATEST_DLL_DATA = None
-def get_latest_dll_json():
+def get_latest_dll_json(prerelease=False):
     global LATEST_DLL_DATA
 
     if not LATEST_DLL_DATA:
-        LATEST_DLL_DATA = fetch_latest_github_release('KevinVG207', 'Uma-Carotenify')
+        LATEST_DLL_DATA = fetch_latest_github_release('KevinVG207', 'Uma-Carotenify', prerelease)
 
     return LATEST_DLL_DATA
 
@@ -290,10 +319,10 @@ def download_file(url, path, no_progress=False):
                 if progress_bar:
                     progress_bar.update(len(chunk))
 
-def download_latest(ignore_filesize=False):
+def download_latest(ignore_filesize=False, prerelease=False):
     print("Downloading latest translation files")
 
-    cur_version = get_latest_json()
+    cur_version = get_latest_json(prerelease)
     
     ver = cur_version['tag_name']
     
@@ -364,14 +393,14 @@ def get_game_folder():
     return path
 
 APPLICATION = None
-def run_widget(widget, *args, **kwargs):
+def run_widget(widget, main=False, *args, **kwargs):
     global APPLICATION
 
     if not APPLICATION:
         APPLICATION = QApplication([])
         APPLICATION.setWindowIcon(QIcon(get_asset('assets/icon.ico')))
     
-    if hasattr(widget, 'exec_'):
+    if hasattr(widget, 'exec_') and not main:
         widget.exec_(*args, **kwargs)
         return
     widget = widget(*args, **kwargs)
@@ -699,3 +728,24 @@ def check_enough_space(size):
         return False, "<br>".join(err_list)
     
     return True, None
+
+def running_from_game_folder():
+    return os.path.abspath(os.getcwd()) == os.path.abspath(get_game_folder())
+
+def send_umalauncher_signal(endpoint, data={}):
+    # Send signals to Uma Launcher about the state of the patcher.
+    ul_domain = "http://127.0.0.1:3150/"
+    url = ul_domain + endpoint
+    try:
+        requests.post(url, json=data, verify=False, timeout=1)
+    except:
+        pass
+
+def send_start_signal():
+    send_umalauncher_signal("patcher-start")
+
+def send_finish_signal():
+    send_umalauncher_signal("patcher-finish", {"success": True})
+
+def send_error_signal(error_string):
+    send_umalauncher_signal("patcher-finish", {"success": False, "error": error_string})
