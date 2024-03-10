@@ -7,7 +7,8 @@ import util
 import os
 import json
 import ui.common as common
-from bs4 import BeautifulSoup as bs
+import intermediate
+import _patch
 
 TOP_LEVEL = {
     "00": None,
@@ -29,6 +30,7 @@ TOP_LEVEL = {
 
 class Ui_story_editor(QWidget):
     root_dir = util.ASSETS_FOLDER_EDITING + "story"
+    font_size = 16
 
     def __init__(self, base_widget=None, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
@@ -37,9 +39,15 @@ class Ui_story_editor(QWidget):
 
         self.changed = False
 
+        self.cur_open_block = None
+
         self.marked_item = None
 
         self.block_changed = False
+
+        self.save_timeout = QTimer()
+        self.save_timeout.setSingleShot(True)
+        self.save_timeout.timeout.connect(self.handle_save_timeout)
 
         self.loaded_chapter = None
         self.loaded_path = None
@@ -59,9 +67,9 @@ class Ui_story_editor(QWidget):
         self.setFixedSize(self.size())
 
         self.bold_shortcut = QShortcut(QKeySequence("Ctrl+B"), self)
-        self.bold_shortcut.activated.connect(lambda: self.apply_formatting(self.format_bold))
+        self.bold_shortcut.activated.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=True))
         self.italic_shortcut = QShortcut(QKeySequence("Ctrl+I"), self)
-        self.italic_shortcut.activated.connect(lambda: self.apply_formatting(self.format_italic))
+        self.italic_shortcut.activated.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=False))
     
     def set_changed(self):
         self.changed = True
@@ -127,8 +135,9 @@ class Ui_story_editor(QWidget):
         # file_path = item.data(0, Qt.UserRole + 1)
         # self.load_chapter(file_path)
 
-    def on_tree_item_clicked(self, item, column):
+    def on_tree_item_clicked(self, item: QTreeWidgetItem, column):
         if item.data(0, Qt.UserRole):
+            item.setExpanded(not item.isExpanded())
             return
         
         # If it's a file, load it
@@ -168,13 +177,16 @@ class Ui_story_editor(QWidget):
             self.on_tree_item_clicked(prev_item, 0)
     
     def load_chapter(self, file_path, item):
+        self.cur_open_block = None
+        self.block_changed = False
+        self.box_items = []
+        self.cmb_textblock.clear()
+
         self.set_item_marked(item)
         self.loaded_chapter = util.load_json(file_path)
         self.loaded_path = file_path
 
         # Prepare the combobox
-        self.box_items = []
-        self.cmb_textblock.clear()
         for i, block in enumerate(self.loaded_chapter["data"]):
             if not block.get("source_name") and not block.get("source"):
                 continue
@@ -188,7 +200,7 @@ class Ui_story_editor(QWidget):
         if not self.box_items:
             return
 
-        self.store_block()
+        # self.store_block()
 
         current_index = self.cmb_textblock.currentIndex()
         if current_index < len(self.box_items) - 1:
@@ -198,7 +210,7 @@ class Ui_story_editor(QWidget):
         if not self.box_items:
             return
         
-        self.store_block()
+        # self.store_block()
 
         current_index = self.cmb_textblock.currentIndex()
         if current_index > 0:
@@ -208,9 +220,13 @@ class Ui_story_editor(QWidget):
         if not self.box_items:
             return
         
-        self.store_block()
+        if self.chkb_autosave.isChecked():
+            self.save_chapter()
+        else:
+            self.store_block()
 
         block_index = self.box_items[self.cmb_textblock.currentIndex()]
+        self.cur_open_block = block_index
 
         block = self.loaded_chapter["data"][block_index]
         source_name = block.get("source_name")
@@ -227,18 +243,25 @@ class Ui_story_editor(QWidget):
         if not self.box_items:
             return
         
+        if not self.cur_open_block:
+            return
+        
         if not self.block_changed:
             return
         self.block_changed = False
 
-        block_index = self.box_items[self.cmb_textblock.currentIndex()]
+        print("Storing block")
+
+        block_index = self.cur_open_block
 
         block = self.loaded_chapter["data"][block_index]
         block["name"] = self.get_text(self.txt_en_name)
         block["text"] = self.get_text(self.txt_en_text)
     
-    def on_block_changed(self, widget: QTextEdit):
+    def on_block_changed(self, widget: QPlainTextEdit):
         self.block_changed = True
+        self.save_timeout.start(500)
+        # print("Set save timeout")
     
     def save_chapter(self):
         if not self.loaded_chapter:
@@ -246,109 +269,25 @@ class Ui_story_editor(QWidget):
 
         self.store_block()
 
-        # TODO: After testing, should overwrite
-        new_path = self.loaded_path + ".new"
+        print("Saving chapter")
 
-        util.save_json(new_path, self.loaded_chapter)
-
-
-    def set_text(self, text: str, widget: QTextEdit):
-        text = text.replace("\n", "<br>")
-
-        # text = text.replace("<", "&lt;")
-        # text = text.replace(">", "&gt;")
-
-        # Only add specific tags
-        text = text.replace("&lt;b&gt;", "<b>")
-        text = text.replace("&lt;/b&gt;", "</b>")
-        text = text.replace("&lt;i&gt;", "<i>")
-        text = text.replace("&lt;/i&gt;", "</i>")
-        text = text.replace("&lt;br&gt;", "<br>")
-
-        text = text.replace("<b>", "<span style=\"font-weight: 600; color: #A00;\">")
-        text = text.replace("</b>", "</span>")
-
-        cur_cursor = widget.textCursor()
-        cur_pos = cur_cursor.position()
-        has_sel = False
-
-        if cur_cursor.hasSelection():
-            has_sel = True
-            sel_start = cur_cursor.selectionStart()
-            sel_end = cur_cursor.selectionEnd()
-
-        widget.setHtml(text)
-
-        new_cursor = widget.textCursor()
-
-        if has_sel:
-            new_cursor.setPosition(sel_start)
-            new_cursor.setPosition(sel_end, QTextCursor.KeepAnchor)
-
-        else:
-            new_cursor.setPosition(cur_pos)
-        
-        widget.setTextCursor(new_cursor)
+        util.save_json(self.loaded_path, self.loaded_chapter)
     
-
-    def get_text(self, widget: QTextEdit) -> str:
-        text = widget.toHtml()
-        print(text)
-
-        soup = bs(text, "html.parser")
-        p_tag = soup.find("p")
-
-        # Replace any spans with class fake-bold with <b> tags
-        for span in p_tag.find_all("span"):
-            if 'font-style:italic' in span.get("style", ""):
-                span.name = "i"
-                del span["style"]
-                del span["class"]
-
-            if 'font-weight:600' in span.get("style", ""):
-                span.name = "b"
-                del span["style"]
-                del span["class"]
-        
-        # Get the inner text and elements
-        text = p_tag.decode_contents()
-
-        text = text.replace("&lt;", "<")
-        text = text.replace("&gt;", ">")
-
-        text = text.replace("<br>", "\n")
-
-        return text
+    def handle_save_timeout(self):
+        print("Save timeout")
+        if self.chkb_autosave.isChecked():
+            self.save_chapter()
 
     
-    def set_fonts(self):
-        fnt = common.uma_font(16)
-        self.txt_source_name.setFont(fnt)
-        self.txt_en_name.setFont(fnt)
-        self.txt_source_text.setFont(fnt)
-        self.txt_en_text.setFont(fnt)
-    
-
-    def format_bold(self, text, sel_start, sel_end):
-        return self.format_text(text, sel_start, sel_end, bold=True)
-    
-    def format_italic(self, text, sel_start, sel_end):
-        return self.format_text(text, sel_start, sel_end, italic=True)
-
-    def format_text(self, text: str, sel_start, sel_end, bold=False, italic=False) -> str:
+    def str_to_char_data(self, text: str) -> list:
         in_tag = False
         tag_active = False
-        fill_value = None
-
-        if not bold and not italic:
-            raise ValueError("No formatting specified")
 
         text_chars = []
 
         cur_tags = []
         cur_tag = ""
 
-        i = 0
         for char in text:
             is_bold = False
             is_italic = False
@@ -382,19 +321,11 @@ class Ui_story_editor(QWidget):
             if "i" in cur_tags:
                 is_italic = True
 
-            if sel_start <= i < sel_end:
-                if bold:
-                    if fill_value is None:
-                        fill_value = not is_bold
-                    is_bold = fill_value
-                if italic:
-                    if fill_value is None:
-                        fill_value = not is_italic
-                    is_italic = fill_value
-
             text_chars.append((char, is_bold, is_italic))
-            i += 1
-
+        
+        return text_chars
+    
+    def char_data_to_str(self, char_data: list) -> str:
         # Reconstruct the text
         new_text = ""
         prev_bold = False
@@ -402,7 +333,7 @@ class Ui_story_editor(QWidget):
 
         tag_stack = []
 
-        for char, is_bold, is_italic in text_chars:
+        for char, is_bold, is_italic in char_data:
             if prev_bold and prev_italic:
                 if prev_bold != is_bold or prev_italic != is_italic:
                     for i in range(len(tag_stack)):
@@ -434,6 +365,235 @@ class Ui_story_editor(QWidget):
             new_text += "</i>"
         
         return new_text
+    
+    def _make_bold(self, char_format):
+        pen = QPen()
+        pen.setColor(QColor("#000"))
+        pen.setWidth(1)
+        char_format.setTextOutline(pen)
+        char_format.setFontWeight(QFont.Bold)
+        return char_format
+
+
+    def set_text(self, text: str, widget: QPlainTextEdit):
+        cursor = widget.textCursor()
+        widget.clear()
+
+        char_data = self.str_to_char_data(text)
+
+        cursor.setPosition(0)
+        widget.setTextCursor(cursor)
+
+        for char, is_bold, is_italic in char_data:
+            char_format = QTextCharFormat()
+            char_format.setFontWeight(QFont.Normal)
+
+            if is_bold:
+                self._make_bold(char_format)
+
+            char_format.setFontItalic(is_italic)
+            widget.setCurrentCharFormat(char_format)
+            widget.textCursor().insertText(char)
+
+
+    def get_text(self, widget: QPlainTextEdit) -> str:
+        text = widget.toPlainText()
+        cursor = widget.textCursor()
+
+        char_data = []
+
+        for i, char in enumerate(text):
+            cursor.setPosition(i+1)
+            fmt = cursor.charFormat()
+            is_bold = fmt.fontWeight() == QFont.Bold
+            is_italic = fmt.fontItalic()
+
+            char_data.append((char, is_bold, is_italic))
+        
+        return self.char_data_to_str(char_data)
+
+
+    
+    def set_fonts(self):
+        fnt = common.uma_font(self.font_size)
+        self.txt_source_name.setFont(fnt)
+        self.txt_en_name.setFont(fnt)
+        self.txt_source_text.setFont(fnt)
+        self.txt_en_text.setFont(fnt)
+    
+    def selection_toggle_format(self, widget: QPlainTextEdit, bold=True):
+        # if not widget.hasFocus():
+        #     return
+        if not widget.textCursor().hasSelection():
+            return
+        
+        cursor = widget.textCursor()
+        start = cursor.selectionStart()
+        end = cursor.selectionEnd()
+
+        cursor.setPosition(start + 1)
+        if bold:
+            value = not cursor.charFormat().fontWeight() == 75
+        else:
+            value = not cursor.charFormat().fontItalic()
+
+        text = widget.toPlainText()
+
+        prev_formats = []
+        for i in range(start, end):
+            cursor.setPosition(i+1)
+            char_format = cursor.charFormat()
+            prev_formats.append(char_format)
+
+        cursor.setPosition(start)
+        cursor.setPosition(end, QTextCursor.KeepAnchor)
+        cursor.deleteChar()
+
+        for i in range(start, end):
+            cursor.setPosition(i)
+            char_format = prev_formats[i - start]
+            if bold:
+                char_format.setFontWeight(QFont.Normal)
+                char_format.setTextOutline(QPen(0))
+                if value:
+                    self._make_bold(char_format)
+            else:
+                char_format.setFontItalic(False)
+                if value:
+                    char_format.setFontItalic(True)
+            cursor.setCharFormat(char_format)
+            cursor.insertText(text[i])
+        
+        cursor.setPosition(start)
+        cursor.setPosition(end, QTextCursor.KeepAnchor)
+        widget.setTextCursor(cursor)
+
+        # cursor = widget.textCursor()
+        # char_format = cursor.charFormat()
+        # self._make_bold(char_format)
+        # cursor.setCharFormat(char_format)
+
+
+    # def format_bold(self, widget, sel_start, sel_end):
+    #     return self.format_text(widget, sel_start, sel_end, bold=True)
+    
+    # def format_italic(self, widget, sel_start, sel_end):
+    #     return self.format_text(widget, sel_start, sel_end, italic=True)
+
+    # def format_text(self, widget: QPlainTextEdit, bold=False, italic=False) -> str:
+    #     if not widget.hasFocus():
+    #         return
+        
+    #     cursor = widget.textCursor()
+    #     for i in range(sel_start, sel_end):
+    #         cursor.setPosition(i)
+    #         cursor.movePosition(QTextCursor.Right, QTextCursor.KeepAnchor)
+    #         char_format = cursor.charFormat()
+    #         if bold:
+    #             char_format.setFontWeight(QFont.Bold)
+    #         if italic:
+    #             char_format.setFontItalic(True)
+    #         cursor.setCharFormat(char_format)
+
+
+    #     in_tag = False
+    #     tag_active = False
+    #     fill_value = None
+
+    #     if not bold and not italic:
+    #         raise ValueError("No formatting specified")
+
+    #     text_chars = []
+
+    #     cur_tags = []
+    #     cur_tag = ""
+
+    #     i = 0
+    #     for char in text:
+    #         is_bold = False
+    #         is_italic = False
+
+    #         if char == "<":
+    #             in_tag = True
+    #             tag_active = True
+    #             cur_tag = ""
+    #             continue
+
+    #         if in_tag and char == "/":
+    #             tag_active = False
+    #             continue
+
+    #         if in_tag and char == ">":
+    #             in_tag = False
+
+    #             if not tag_active:
+    #                 cur_tags.pop()
+    #             else:
+    #                 cur_tags.append(cur_tag)
+    #             continue
+
+    #         if in_tag:
+    #             cur_tag += char
+    #             continue
+
+    #         if "b" in cur_tags:
+    #             is_bold = True
+
+    #         if "i" in cur_tags:
+    #             is_italic = True
+
+    #         if sel_start <= i < sel_end:
+    #             if bold:
+    #                 if fill_value is None:
+    #                     fill_value = not is_bold
+    #                 is_bold = fill_value
+    #             if italic:
+    #                 if fill_value is None:
+    #                     fill_value = not is_italic
+    #                 is_italic = fill_value
+
+    #         text_chars.append((char, is_bold, is_italic))
+    #         i += 1
+
+    #     # Reconstruct the text
+    #     new_text = ""
+    #     prev_bold = False
+    #     prev_italic = False
+
+    #     tag_stack = []
+
+    #     for char, is_bold, is_italic in text_chars:
+    #         if prev_bold and prev_italic:
+    #             if prev_bold != is_bold or prev_italic != is_italic:
+    #                 for i in range(len(tag_stack)):
+    #                     new_text += tag_stack.pop()
+    #                 prev_bold = False
+    #                 prev_italic = False
+            
+    #         if prev_bold != is_bold:
+    #             if is_bold:
+    #                 new_text += "<b>"
+    #                 tag_stack.append("</b>")
+    #             else:
+    #                 new_text += tag_stack.pop()
+    #         if prev_italic != is_italic:
+    #             if is_italic:
+    #                 new_text += "<i>"
+    #                 tag_stack.append("</i>")
+    #             else:
+    #                 new_text += tag_stack.pop()
+            
+    #         new_text += char
+
+    #         prev_bold = is_bold
+    #         prev_italic = is_italic
+        
+    #     if prev_bold:
+    #         new_text += "</b>"
+    #     if prev_italic:
+    #         new_text += "</i>"
+        
+    #     return new_text
 
 
     
@@ -448,6 +608,23 @@ class Ui_story_editor(QWidget):
             formatted = format_func(self.get_text(self.txt_en_text), start, end)
             print(formatted)
             self.set_text(formatted, self.txt_en_text)
+
+
+    def autosave_toggled(self):
+        if self.chkb_autosave.isChecked():
+            self.save_chapter()
+
+    
+    def patch_chapter(self):
+        if not self.loaded_chapter:
+            return
+        
+        self.save_chapter()
+
+        # Patch the chapter
+
+
+
 
 
     def setupUi(self, story_editor):
@@ -517,44 +694,34 @@ class Ui_story_editor(QWidget):
         self.pushButton_10.setObjectName(u"pushButton_10")
         self.pushButton_10.setGeometry(QRect(10, 130, 191, 23))
         self.pushButton_10.setText(u"Goto next untranslated dialogue")
-        self.textEdit_3 = QTextEdit(self.groupBox)
+        self.textEdit_3 = QPlainTextEdit(self.groupBox)
         self.textEdit_3.setObjectName(u"textEdit_3")
         self.textEdit_3.setGeometry(QRect(10, 480, 191, 41))
-        self.textEdit_3.setHtml(u"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">EN goes here</p></body></html>")
-        self.textEdit_4 = QTextEdit(self.groupBox)
+        self.textEdit_4 = QPlainTextEdit(self.groupBox)
         self.textEdit_4.setObjectName(u"textEdit_4")
         self.textEdit_4.setEnabled(True)
         self.textEdit_4.setGeometry(QRect(10, 430, 191, 41))
-        self.textEdit_4.setHtml(u"<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
-"<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
-"p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
-"<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">JP goes here</p></body></html>")
         self.label_3 = QLabel(self.groupBox)
         self.label_3.setObjectName(u"label_3")
         self.label_3.setGeometry(QRect(10, 410, 71, 16))
         self.label_3.setText(u"Chapter title")
         
-        self.txt_source_name = QTextEdit(story_editor)
+        self.txt_source_name = QPlainTextEdit(story_editor)
         self.txt_source_name.setObjectName(u"txt_source_name")
         self.txt_source_name.setGeometry(QRect(270, 40, 401, 41))
         self.txt_source_name.setReadOnly(True)
         
-        self.txt_source_text = QTextEdit(story_editor)
+        self.txt_source_text = QPlainTextEdit(story_editor)
         self.txt_source_text.setObjectName(u"textEdit_5")
         self.txt_source_text.setGeometry(QRect(270, 90, 781, 121))
         self.txt_source_text.setReadOnly(True)
         
-        self.txt_en_text = QTextEdit(story_editor)
+        self.txt_en_text = QPlainTextEdit(story_editor)
         self.txt_en_text.setObjectName(u"textEdit_6")
         self.txt_en_text.setGeometry(QRect(270, 280, 781, 121))
         self.txt_en_text.textChanged.connect(lambda: self.on_block_changed(self.txt_en_text))
         
-        self.txt_en_name = QTextEdit(story_editor)
+        self.txt_en_name = QPlainTextEdit(story_editor)
         self.txt_en_name.setObjectName(u"txt_en_name")
         self.txt_en_name.setGeometry(QRect(270, 230, 401, 41))
         self.txt_en_name.textChanged.connect(lambda: self.on_block_changed(self.txt_en_name))
@@ -585,11 +752,13 @@ class Ui_story_editor(QWidget):
         self.label_2.setObjectName(u"label_2")
         self.label_2.setGeometry(QRect(270, 10, 81, 21))
         self.label_2.setText(u"Textblock")
-        self.checkBox = QCheckBox(story_editor)
-        self.checkBox.setObjectName(u"checkBox")
-        self.checkBox.setGeometry(QRect(960, 490, 81, 20))
-        self.checkBox.setText(u"Autosave")
-        self.checkBox.setChecked(True)
+        self.chkb_autosave = QCheckBox(story_editor)
+        self.chkb_autosave.setObjectName(u"chkb_autosave")
+        self.chkb_autosave.setGeometry(QRect(960, 490, 81, 20))
+        self.chkb_autosave.setText(u"Autosave")
+        self.chkb_autosave.setChecked(True)
+        self.chkb_autosave.stateChanged.connect(self.autosave_toggled)
+
         self.pushButton_7 = QPushButton(story_editor)
         self.pushButton_7.setObjectName(u"pushButton_7")
         self.pushButton_7.setGeometry(QRect(970, 220, 75, 23))
@@ -606,8 +775,23 @@ class Ui_story_editor(QWidget):
         self.pushButton_11.setEnabled(False)
         self.pushButton_11.setGeometry(QRect(874, 220, 91, 23))
         self.pushButton_11.setText(u"Show choices")
-        self.pushButton_12 = QPushButton(story_editor)
-        self.pushButton_12.setObjectName(u"pushButton_12")
-        self.pushButton_12.setGeometry(QRect(270, 510, 101, 23))
-        self.pushButton_12.setText(u"Discard changes")
+        self.btn_apply_chapter = QPushButton(story_editor)
+        self.btn_apply_chapter.setObjectName(u"btn_apply_chapter")
+        self.btn_apply_chapter.setGeometry(QRect(810, 510, 131, 23))
+        self.btn_apply_chapter.setText(u"Save && apply to game")
+        self.btn_apply_chapter.clicked.connect(self.patch_chapter)
+
+        self.btn_bold = QPushButton(story_editor)
+        self.btn_bold.setObjectName(u"btn_bold")
+        self.btn_bold.setGeometry(QRect(680, 250, 75, 23))
+        self.btn_bold.setText(u"Bold")
+        self.btn_bold.setStyleSheet("font-weight: bold;")
+        self.btn_bold.clicked.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=True))
+
+        self.btn_italic = QPushButton(story_editor)
+        self.btn_italic.setObjectName(u"btn_italic")
+        self.btn_italic.setGeometry(QRect(760, 250, 75, 23))
+        self.btn_italic.setText(u"Italic")
+        # self.btn_italic.setStyleSheet("font-style: italic;")
+        self.btn_italic.clicked.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=False))
 

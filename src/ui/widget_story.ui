@@ -423,6 +423,32 @@ p, li { white-space: pre-wrap; }
     <string notr="true">Discard changes</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="btn_bold">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>250</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Bold</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_italic">
+   <property name="geometry">
+    <rect>
+     <x>760</x>
+     <y>250</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string notr="true">Italic</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
