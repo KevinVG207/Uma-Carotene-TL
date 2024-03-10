@@ -12,6 +12,9 @@ import _patch
 import postprocess
 import shutil
 from settings import settings
+import ui.widget_story_utils as sutils
+import ui.widget_story_choices as story_choices
+import copy
 
 TOP_LEVEL = {
     "00": None,
@@ -86,6 +89,15 @@ class Ui_story_editor(QWidget):
         self.base_widget.set_unchanged(self)
         if self.marked_item.text(0).endswith("*"):
             self.marked_item.setText(0, self.marked_item.text(0)[:-1])
+        self.set_choices_unchanged()
+    
+    def set_choices_unchanged(self):
+        if self.btn_choices.text().endswith("*"):
+            self.btn_choices.setText(self.btn_choices.text()[:-1])
+    
+    def set_choices_changed(self):
+        if not self.btn_choices.text().endswith("*"):
+            self.btn_choices.setText(self.btn_choices.text() + "*")
 
     def fill_branch(self, parent, path):
         # Add files/paths to the tree
@@ -291,11 +303,22 @@ class Ui_story_editor(QWidget):
         en_text = block.get("text")
 
         self.ignore_updates = True
-        self.set_text(source_name, self.txt_source_name)
-        self.set_text(en_name, self.txt_en_name)
-        self.set_text(source_text, self.txt_source_text)
-        self.set_text(en_text, self.txt_en_text)
+        sutils.set_text(source_name, self.txt_source_name)
+        sutils.set_text(en_name, self.txt_en_name)
+        sutils.set_text(source_text, self.txt_source_text)
+        sutils.set_text(en_text, self.txt_en_text)
         self.ignore_updates = False
+
+        self.btn_choices.setEnabled(False)
+        # self.btn_choices.font().setBold(False)
+        btn_font = self.btn_choices.font()
+        btn_font.setBold(False)
+        self.btn_choices.setStyleSheet("")
+        if block.get("choices"):
+            self.btn_choices.setEnabled(True)
+            btn_font.setBold(True)
+            self.btn_choices.setStyleSheet("color: rgb(0, 100, 0);")
+        self.btn_choices.setFont(btn_font)
     
     def store_block(self):
         if not self.box_items:
@@ -313,8 +336,8 @@ class Ui_story_editor(QWidget):
         block_index = self.cur_open_block
 
         block = self.loaded_chapter["data"][block_index]
-        block["name"] = self.get_text(self.txt_en_name)
-        block["text"] = self.get_text(self.txt_en_text)
+        block["name"] = sutils.get_text(self.txt_en_name)
+        block["text"] = sutils.get_text(self.txt_en_text)
     
     def on_block_changed(self, widget: QPlainTextEdit):
         if self.ignore_updates:
@@ -340,144 +363,6 @@ class Ui_story_editor(QWidget):
         # print("Save timeout")
         if self.chkb_autosave.isChecked():
             self.save_chapter()
-
-    
-    def str_to_char_data(self, text: str) -> list:
-        in_tag = False
-        tag_active = False
-
-        text_chars = []
-
-        cur_tags = []
-        cur_tag = ""
-
-        for char in text:
-            is_bold = False
-            is_italic = False
-
-            if char == "<":
-                in_tag = True
-                tag_active = True
-                cur_tag = ""
-                continue
-
-            if in_tag and char == "/":
-                tag_active = False
-                continue
-
-            if in_tag and char == ">":
-                in_tag = False
-
-                if not tag_active:
-                    cur_tags.pop()
-                else:
-                    cur_tags.append(cur_tag)
-                continue
-
-            if in_tag:
-                cur_tag += char
-                continue
-
-            if "b" in cur_tags:
-                is_bold = True
-
-            if "i" in cur_tags:
-                is_italic = True
-
-            text_chars.append((char, is_bold, is_italic))
-        
-        return text_chars
-    
-    def char_data_to_str(self, char_data: list) -> str:
-        # Reconstruct the text
-        new_text = ""
-        prev_bold = False
-        prev_italic = False
-
-        tag_stack = []
-
-        for char, is_bold, is_italic in char_data:
-            if prev_bold and prev_italic:
-                if prev_bold != is_bold or prev_italic != is_italic:
-                    for i in range(len(tag_stack)):
-                        new_text += tag_stack.pop()
-                    prev_bold = False
-                    prev_italic = False
-            
-            if prev_bold != is_bold:
-                if is_bold:
-                    new_text += "<b>"
-                    tag_stack.append("</b>")
-                else:
-                    new_text += tag_stack.pop()
-            if prev_italic != is_italic:
-                if is_italic:
-                    new_text += "<i>"
-                    tag_stack.append("</i>")
-                else:
-                    new_text += tag_stack.pop()
-            
-            new_text += char
-
-            prev_bold = is_bold
-            prev_italic = is_italic
-        
-        if prev_bold:
-            new_text += "</b>"
-        if prev_italic:
-            new_text += "</i>"
-        
-        return new_text
-    
-    def _make_bold(self, char_format):
-        pen = QPen()
-        pen.setColor(QColor("#000"))
-        pen.setWidth(1)
-        char_format.setTextOutline(pen)
-        char_format.setFontWeight(QFont.Bold)
-        return char_format
-
-
-    def set_text(self, text: str, widget: QPlainTextEdit):
-        cursor = widget.textCursor()
-        widget.clear()
-
-        text = text.replace(" \n", "\n")
-        char_data = self.str_to_char_data(text)
-
-        cursor.setPosition(0)
-        widget.setTextCursor(cursor)
-
-        for char, is_bold, is_italic in char_data:
-            char_format = QTextCharFormat()
-            char_format.setFontWeight(QFont.Normal)
-
-            if is_bold:
-                self._make_bold(char_format)
-
-            char_format.setFontItalic(is_italic)
-            widget.setCurrentCharFormat(char_format)
-            widget.textCursor().insertText(char)
-
-
-    def get_text(self, widget: QPlainTextEdit) -> str:
-        text = widget.toPlainText()
-        cursor = widget.textCursor()
-
-        char_data = []
-
-        for i, char in enumerate(text):
-            cursor.setPosition(i+1)
-            fmt = cursor.charFormat()
-            is_bold = fmt.fontWeight() == QFont.Bold
-            is_italic = fmt.fontItalic()
-
-            char_data.append((char, is_bold, is_italic))
-        
-        text = self.char_data_to_str(char_data)
-        text = text.replace(" \n", "\n").replace("\n", " \n")
-        return text
-
 
     
     def set_fonts(self):
@@ -522,7 +407,7 @@ class Ui_story_editor(QWidget):
                 char_format.setFontWeight(QFont.Normal)
                 char_format.setTextOutline(QPen(0))
                 if value:
-                    self._make_bold(char_format)
+                    sutils._make_bold(char_format)
             else:
                 char_format.setFontItalic(False)
                 if value:
@@ -575,6 +460,36 @@ class Ui_story_editor(QWidget):
 
         self.btn_unpatch.setEnabled(True)
         QApplication.restoreOverrideCursor()
+
+
+    def choices_clicked(self):
+        if not self.loaded_chapter:
+            return
+        
+        if not self.cur_open_block:
+            return
+        
+        block = self.loaded_chapter["data"][self.cur_open_block]
+        if not block.get("choices"):
+            return
+        
+        choices = block["choices"]
+        prev_choices = copy.deepcopy(choices)
+        dialog = story_choices.story_choice_dialog(choices)
+        dialog.exec_()
+
+        changed = False
+        for i, choice in enumerate(choices):
+            if choice['text'] != prev_choices[i]['text']:
+                changed = True
+                break
+        
+        if changed:
+            self.set_changed()
+            self.save_timeout.start(500)
+            self.set_choices_changed()
+
+
 
 
 
@@ -714,10 +629,10 @@ class Ui_story_editor(QWidget):
         self.chkb_autosave.setChecked(settings.autosave_story_editor)
         self.chkb_autosave.stateChanged.connect(self.autosave_toggled)
 
-        self.pushButton_7 = QPushButton(story_editor)
-        self.pushButton_7.setObjectName(u"pushButton_7")
-        self.pushButton_7.setGeometry(QRect(970, 220, 75, 23))
-        self.pushButton_7.setText(u"Listen")
+        # self.pushButton_7 = QPushButton(story_editor)
+        # self.pushButton_7.setObjectName(u"pushButton_7")
+        # self.pushButton_7.setGeometry(QRect(970, 220, 75, 23))
+        # self.pushButton_7.setText(u"Listen")
 
         self.btn_save = QPushButton(story_editor)
         self.btn_save.setObjectName(u"pushButton_8")
@@ -725,11 +640,14 @@ class Ui_story_editor(QWidget):
         self.btn_save.setText(u"Save chapter")
         self.btn_save.clicked.connect(self.save_chapter)
 
-        self.pushButton_11 = QPushButton(story_editor)
-        self.pushButton_11.setObjectName(u"pushButton_11")
-        self.pushButton_11.setEnabled(False)
-        self.pushButton_11.setGeometry(QRect(874, 220, 91, 23))
-        self.pushButton_11.setText(u"Show choices")
+        self.btn_choices = QPushButton(story_editor)
+        self.btn_choices.setObjectName(u"pushButton_11")
+        self.btn_choices.setEnabled(False)
+        self.btn_choices.setGeometry(QRect(960, 220, 91, 23))
+        self.btn_choices.setText(u"Show choices")
+        self.btn_choices.setEnabled(False)
+        self.btn_choices.clicked.connect(self.choices_clicked)
+
         self.btn_apply_chapter = QPushButton(story_editor)
         self.btn_apply_chapter.setObjectName(u"btn_apply_chapter")
         self.btn_apply_chapter.setGeometry(QRect(810, 440, 131, 23))
