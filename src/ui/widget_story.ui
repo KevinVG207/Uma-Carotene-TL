@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>540</height>
+    <height>468</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -45,7 +45,7 @@
      <x>10</x>
      <y>40</y>
      <width>251</width>
-     <height>491</height>
+     <height>411</height>
     </rect>
    </property>
    <column>
@@ -90,7 +90,7 @@
      <x>1059</x>
      <y>0</y>
      <width>211</width>
-     <height>531</height>
+     <height>461</height>
     </rect>
    </property>
    <property name="title">
@@ -152,7 +152,7 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>480</y>
+      <y>410</y>
       <width>191</width>
       <height>41</height>
      </rect>
@@ -172,7 +172,7 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>430</y>
+      <y>360</y>
       <width>191</width>
       <height>41</height>
      </rect>
@@ -189,7 +189,7 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>410</y>
+      <y>340</y>
       <width>71</width>
       <height>16</height>
      </rect>
@@ -356,7 +356,7 @@ p, li { white-space: pre-wrap; }
    <property name="geometry">
     <rect>
      <x>960</x>
-     <y>490</y>
+     <y>420</y>
      <width>81</width>
      <height>20</height>
     </rect>
@@ -381,11 +381,11 @@ p, li { white-space: pre-wrap; }
     <string notr="true">Listen</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_8">
+  <widget class="QPushButton" name="btn_save_chapter">
    <property name="geometry">
     <rect>
      <x>954</x>
-     <y>510</y>
+     <y>440</y>
      <width>91</width>
      <height>23</height>
     </rect>
@@ -413,14 +413,14 @@ p, li { white-space: pre-wrap; }
   <widget class="QPushButton" name="pushButton_12">
    <property name="geometry">
     <rect>
-     <x>270</x>
-     <y>510</y>
-     <width>101</width>
+     <x>810</x>
+     <y>440</y>
+     <width>131</width>
      <height>23</height>
     </rect>
    </property>
    <property name="text">
-    <string notr="true">Discard changes</string>
+    <string notr="true">Save &amp;&amp; apply to game</string>
    </property>
   </widget>
   <widget class="QPushButton" name="btn_bold">
@@ -447,6 +447,19 @@ p, li { white-space: pre-wrap; }
    </property>
    <property name="text">
     <string notr="true">Italic</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_unpatch">
+   <property name="geometry">
+    <rect>
+     <x>700</x>
+     <y>440</y>
+     <width>101</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string notr="true">Unpatch chapter</string>
    </property>
   </widget>
  </widget>
