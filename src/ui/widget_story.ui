@@ -462,6 +462,25 @@ p, li { white-space: pre-wrap; }
     <string notr="true">Unpatch chapter</string>
    </property>
   </widget>
+  <widget class="QLabel" name="lbl_length_marker">
+   <property name="geometry">
+    <rect>
+     <x>1000</x>
+     <y>281</y>
+     <width>1</width>
+     <height>119</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string notr="true"/>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>

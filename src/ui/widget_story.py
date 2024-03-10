@@ -11,23 +11,24 @@ import intermediate
 import _patch
 import postprocess
 import shutil
+from settings import settings
 
 TOP_LEVEL = {
     "00": None,
     "01": "01 Tutorial",
     "02": "02 Main Story",
-    "04": "04 Chara Story",
+    "04": "04 Character Stories",
     "08": "08 Scenario Intro",
     "09": "09 Story Events",
     "10": "10 Anniversary",
     "11": None,
     "12": None,
     "13": None,
-    "40": "40 Scenario Training Event",
-    "50": "50 Uma Training Event",
-    "80": "80 R Support Event",
-    "82": "82 SR Support Event",
-    "83": "83 SSR Support Event",
+    "40": "40 Scenario Training Events",
+    "50": "50 Uma Training Events",
+    "80": "80 R Support Events",
+    "82": "82 SR Support Events",
+    "83": "83 SSR Support Events",
 }
 
 class Ui_story_editor(QWidget):
@@ -40,6 +41,7 @@ class Ui_story_editor(QWidget):
         self.base_widget = base_widget
 
         self.changed = False
+        self.ignore_updates = False
 
         self.cur_open_block = None
 
@@ -76,10 +78,14 @@ class Ui_story_editor(QWidget):
     def set_changed(self):
         self.changed = True
         self.base_widget.set_changed(self)
+        if not self.marked_item.text(0).endswith("*"):
+            self.marked_item.setText(0, self.marked_item.text(0) + "*")
     
     def set_unchanged(self):
         self.changed = False
         self.base_widget.set_unchanged(self)
+        if self.marked_item.text(0).endswith("*"):
+            self.marked_item.setText(0, self.marked_item.text(0)[:-1])
 
     def fill_branch(self, parent, path):
         # Add files/paths to the tree
@@ -151,16 +157,30 @@ class Ui_story_editor(QWidget):
             self.set_item_unmarked(self.marked_item)
         self.marked_item = item
 
+        while True:
+            font = item.font(0)
+            font.setBold(True)
+            item.setFont(0, font)
+            
+            if not item.parent():
+                break
+            item = item.parent()
+
         # item.setBackground(0, QtGui.QColor(230, 230, 230))
-        font = item.font(0)
-        font.setBold(True)
-        item.setFont(0, font)
+        # font = item.font(0)
+        # font.setBold(True)
+        # item.setFont(0, font)
 
     def set_item_unmarked(self, item: QTreeWidgetItem):
         # item.setBackground(0, QtGui.QColor(255, 255, 255))
-        font = item.font(0)
-        font.setBold(False)
-        item.setFont(0, font)
+        while True:
+            font = item.font(0)
+            font.setBold(False)
+            item.setFont(0, font)
+
+            if not item.parent():
+                break
+            item = item.parent()
 
     def next_chapter(self):
         if not self.marked_item:
@@ -168,6 +188,9 @@ class Ui_story_editor(QWidget):
 
         next_item = self.treeWidget.itemBelow(self.marked_item)
         if next_item:
+            if next_item.parent() != self.marked_item.parent():
+                return
+
             self.on_tree_item_clicked(next_item, 0)
     
     def prev_chapter(self):
@@ -176,9 +199,39 @@ class Ui_story_editor(QWidget):
 
         prev_item = self.treeWidget.itemAbove(self.marked_item)
         if prev_item:
+            if prev_item.parent() != self.marked_item.parent():
+                return
             self.on_tree_item_clicked(prev_item, 0)
+
+    def ask_close(self):
+        return self.ask_save()
+
+    def ask_save(self):
+        if self.changed:
+            msgbox = QMessageBox()
+            msgbox.setIcon(QMessageBox.Question)
+            msgbox.setText("You have unsaved story changes. Do you want to save first?")
+            msgbox.setWindowTitle("Story Changes")
+            msgbox.setStandardButtons(QMessageBox.Yes | QMessageBox.No | QMessageBox.Cancel)
+            msgbox.setDefaultButton(QMessageBox.Cancel)
+            ret = msgbox.exec()
+
+            if ret == QMessageBox.Cancel:
+                return False
+            
+            if ret == QMessageBox.Yes:
+                self.save_chapter()
+            
+            if ret == QMessageBox.No:
+                self.set_unchanged()
+        
+        return True
     
     def load_chapter(self, file_path, item):
+        if self.changed:
+            if not self.ask_save():
+                return
+
         self.cur_open_block = None
         self.block_changed = False
         self.box_items = []
@@ -195,6 +248,7 @@ class Ui_story_editor(QWidget):
             self.box_items.append(i)
             preview = block.get('source').replace("\n", "")[:10]
             self.cmb_textblock.addItem(f"{i:03} - {preview}")
+        
         
         self.cmb_textblock.setCurrentIndex(0)
     
@@ -236,10 +290,12 @@ class Ui_story_editor(QWidget):
         source_text = block.get("source")
         en_text = block.get("text")
 
+        self.ignore_updates = True
         self.set_text(source_name, self.txt_source_name)
         self.set_text(en_name, self.txt_en_name)
         self.set_text(source_text, self.txt_source_text)
         self.set_text(en_text, self.txt_en_text)
+        self.ignore_updates = False
     
     def store_block(self):
         if not self.box_items:
@@ -261,7 +317,11 @@ class Ui_story_editor(QWidget):
         block["text"] = self.get_text(self.txt_en_text)
     
     def on_block_changed(self, widget: QPlainTextEdit):
+        if self.ignore_updates:
+            return
+
         self.block_changed = True
+        self.set_changed()
         self.save_timeout.start(500)
         # print("Set save timeout")
     
@@ -274,6 +334,7 @@ class Ui_story_editor(QWidget):
         # print("Saving chapter")
 
         util.save_json(self.loaded_path, self.loaded_chapter)
+        self.set_unchanged()
     
     def handle_save_timeout(self):
         # print("Save timeout")
@@ -381,6 +442,7 @@ class Ui_story_editor(QWidget):
         cursor = widget.textCursor()
         widget.clear()
 
+        text = text.replace(" \n", "\n")
         char_data = self.str_to_char_data(text)
 
         cursor.setPosition(0)
@@ -412,7 +474,9 @@ class Ui_story_editor(QWidget):
 
             char_data.append((char, is_bold, is_italic))
         
-        return self.char_data_to_str(char_data)
+        text = self.char_data_to_str(char_data)
+        text = text.replace(" \n", "\n").replace("\n", " \n")
+        return text
 
 
     
@@ -474,6 +538,7 @@ class Ui_story_editor(QWidget):
     def autosave_toggled(self):
         if self.chkb_autosave.isChecked():
             self.save_chapter()
+        settings.autosave_story_editor = self.chkb_autosave.isChecked()
 
     
     def patch_chapter(self):
@@ -596,20 +661,24 @@ class Ui_story_editor(QWidget):
         self.txt_source_name.setObjectName(u"txt_source_name")
         self.txt_source_name.setGeometry(QRect(270, 40, 401, 41))
         self.txt_source_name.setReadOnly(True)
+        self.txt_source_name.setLineWrapMode(QPlainTextEdit.NoWrap)
         
         self.txt_source_text = QPlainTextEdit(story_editor)
         self.txt_source_text.setObjectName(u"textEdit_5")
         self.txt_source_text.setGeometry(QRect(270, 90, 781, 121))
         self.txt_source_text.setReadOnly(True)
+        self.txt_source_text.setLineWrapMode(QPlainTextEdit.NoWrap)
         
         self.txt_en_text = QPlainTextEdit(story_editor)
         self.txt_en_text.setObjectName(u"textEdit_6")
         self.txt_en_text.setGeometry(QRect(270, 280, 781, 121))
+        self.txt_en_text.setLineWrapMode(QPlainTextEdit.NoWrap)
         self.txt_en_text.textChanged.connect(lambda: self.on_block_changed(self.txt_en_text))
         
         self.txt_en_name = QPlainTextEdit(story_editor)
         self.txt_en_name.setObjectName(u"txt_en_name")
         self.txt_en_name.setGeometry(QRect(270, 230, 401, 41))
+        self.txt_en_name.setLineWrapMode(QPlainTextEdit.NoWrap)
         self.txt_en_name.textChanged.connect(lambda: self.on_block_changed(self.txt_en_name))
         
         self.cmb_textblock = QComboBox(story_editor)
@@ -642,7 +711,7 @@ class Ui_story_editor(QWidget):
         self.chkb_autosave.setObjectName(u"chkb_autosave")
         self.chkb_autosave.setGeometry(QRect(960, 420, 81, 20))
         self.chkb_autosave.setText(u"Autosave")
-        self.chkb_autosave.setChecked(True)
+        self.chkb_autosave.setChecked(settings.autosave_story_editor)
         self.chkb_autosave.stateChanged.connect(self.autosave_toggled)
 
         self.pushButton_7 = QPushButton(story_editor)
@@ -686,4 +755,10 @@ class Ui_story_editor(QWidget):
         self.btn_unpatch.setGeometry(QRect(700, 440, 101, 23))
         self.btn_unpatch.setText(u"Unpatch chapter")
         self.btn_unpatch.clicked.connect(self.unpatch_chapter)
+
+        self.lbl_length_marker = QLabel(story_editor)
+        self.lbl_length_marker.setObjectName(u"lbl_length_marker")
+        self.lbl_length_marker.setGeometry(QRect(1005, 281, 1, 119))
+        self.lbl_length_marker.setAutoFillBackground(False)
+        self.lbl_length_marker.setStyleSheet(u"background-color: rgb(255, 0, 0);")
 
