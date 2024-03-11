@@ -1,9 +1,6 @@
-from PyQt5 import QtGui
 from PyQt5.QtCore import *
-from PyQt5.QtCore import Qt
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
-from PyQt5.QtWidgets import QWidget
 import ui.common as common
 import ui.widget_story_utils as sutils
 

@@ -2,7 +2,6 @@ from PyQt5 import QtGui
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
-from PyQt5.QtWidgets import QWidget
 import util
 import os
 import json
@@ -14,6 +13,7 @@ import shutil
 from settings import settings
 import ui.widget_story_utils as sutils
 import ui.widget_story_choices as story_choices
+import ui.widget_story_speakers as story_speakers
 import copy
 
 TOP_LEVEL = {
@@ -37,6 +37,7 @@ TOP_LEVEL = {
 class Ui_story_editor(QWidget):
     root_dir = util.ASSETS_FOLDER_EDITING + "story"
     font_size = 16
+    timeout_ms = 500
 
     def __init__(self, base_widget=None, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
@@ -77,7 +78,7 @@ class Ui_story_editor(QWidget):
         self.bold_shortcut.activated.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=True))
         self.italic_shortcut = QShortcut(QKeySequence("Ctrl+I"), self)
         self.italic_shortcut.activated.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=False))
-    
+
     def set_changed(self):
         self.changed = True
         self.base_widget.set_changed(self)
@@ -253,6 +254,11 @@ class Ui_story_editor(QWidget):
         self.loaded_chapter = util.load_json(file_path)
         self.loaded_path = file_path
 
+        self.ignore_updates = True
+        self.txt_chapter_name_source.setPlainText(self.loaded_chapter.get("source_title"))
+        self.txt_chapter_name.setPlainText(self.loaded_chapter.get("title"))
+        self.ignore_updates = False
+
         # Prepare the combobox
         for i, block in enumerate(self.loaded_chapter["data"]):
             if not block.get("source_name") and not block.get("source"):
@@ -284,19 +290,8 @@ class Ui_story_editor(QWidget):
         if current_index > 0:
             self.cmb_textblock.setCurrentIndex(current_index - 1)
     
-    def load_block(self):
-        if not self.box_items:
-            return
-        
-        if self.chkb_autosave.isChecked():
-            self.save_chapter()
-        else:
-            self.store_block()
-
-        block_index = self.box_items[self.cmb_textblock.currentIndex()]
-        self.cur_open_block = block_index
-
-        block = self.loaded_chapter["data"][block_index]
+    def reload_block(self):
+        block = self.loaded_chapter["data"][self.cur_open_block]
         source_name = block.get("source_name")
         en_name = block.get("name")
         source_text = block.get("source")
@@ -319,6 +314,21 @@ class Ui_story_editor(QWidget):
             btn_font.setBold(True)
             self.btn_choices.setStyleSheet("color: rgb(0, 100, 0);")
         self.btn_choices.setFont(btn_font)
+
+    
+    def load_block(self):
+        if not self.box_items:
+            return
+        
+        if self.chkb_autosave.isChecked():
+            self.save_chapter()
+        else:
+            self.store_block()
+
+        block_index = self.box_items[self.cmb_textblock.currentIndex()]
+        self.cur_open_block = block_index
+
+        self.reload_block()
     
     def store_block(self):
         if not self.box_items:
@@ -345,7 +355,7 @@ class Ui_story_editor(QWidget):
 
         self.block_changed = True
         self.set_changed()
-        self.save_timeout.start(500)
+        self.set_timeout()
         # print("Set save timeout")
     
     def save_chapter(self):
@@ -355,6 +365,8 @@ class Ui_story_editor(QWidget):
         self.store_block()
 
         # print("Saving chapter")
+
+        self.loaded_chapter["title"] = sutils.get_text(self.txt_chapter_name)
 
         util.save_json(self.loaded_path, self.loaded_chapter)
         self.set_unchanged()
@@ -486,11 +498,82 @@ class Ui_story_editor(QWidget):
         
         if changed:
             self.set_changed()
-            self.save_timeout.start(500)
+            self.set_timeout()
             self.set_choices_changed()
 
+    def set_timeout(self):
+        self.save_timeout.start(self.timeout_ms)
+
+    def speaker_clicked(self, *args, **kwargs):
+        self.manage_speakers(focus_name=True)
+
+    def manage_speakers(self, focus_name=False, *args, **kwargs):
+        if not self.loaded_chapter:
+            return
+        
+        if not self.cur_open_block:
+            return
 
 
+        # Gather all distinct JP speaker names
+        speakers = {}
+
+        for i, block in enumerate(self.loaded_chapter["data"]):
+            source_name = block.get("source_name")
+            name = block.get("name")
+
+            # Filter non-names
+            if not source_name or source_name == 'モノローグ':
+                continue
+
+            if not speakers.get(source_name):
+                speakers[source_name] = {
+                    "source": source_name,
+                    "text": "",
+                    "block_idx": []
+                }
+            
+            if name and not speakers[source_name].get("text"):
+                speakers[source_name]["text"] = name
+            
+            speakers[source_name]["block_idx"].append(i)
+
+        speakers = list(speakers.values())
+        
+        if not speakers:
+            return
+        
+        before = copy.deepcopy(speakers)
+
+        if focus_name:
+            focus_name = self.loaded_chapter["data"][self.cur_open_block]["source_name"]
+        
+        dialog = story_speakers.Ui_story_speakers(speakers, focus_name)
+        dialog.exec_()
+
+        changed = False
+        for i, speaker in enumerate(speakers):
+            en_after = speaker["text"]
+            en_before = before[i]["text"]
+            if en_after != en_before:
+                changed = True
+                break
+        
+        if not changed:
+            return
+        
+        # Apply changes
+        for speaker_data in speakers:
+            text = speaker_data["text"]
+            block_idx = speaker_data["block_idx"]
+
+            for idx in block_idx:
+                block = self.loaded_chapter["data"][idx]
+                block["name"] = text
+
+        self.set_changed()
+        self.set_timeout()
+        self.reload_block()
 
 
     def setupUi(self, story_editor):
@@ -526,57 +609,51 @@ class Ui_story_editor(QWidget):
         self.fill_branch(self.treeWidget, self.root_dir)
 
 
-        # __qtreewidgetitem1 = QTreeWidgetItem(self.treeWidget)
-        # __qtreewidgetitem1.setText(0, u"01 - BLAH");
-        # __qtreewidgetitem2 = QTreeWidgetItem(__qtreewidgetitem1)
-        # __qtreewidgetitem2.setText(0, u"New Item");
-        # __qtreewidgetitem3 = QTreeWidgetItem(__qtreewidgetitem1)
-        # __qtreewidgetitem3.setText(0, u"New Item");
-        # __qtreewidgetitem4 = QTreeWidgetItem(self.treeWidget)
-        # __qtreewidgetitem4.setText(0, u"02 - BLAH");
-        # __qtreewidgetitem5 = QTreeWidgetItem(__qtreewidgetitem4)
-        # __qtreewidgetitem5.setText(0, u"New Item");
-        # __qtreewidgetitem6 = QTreeWidgetItem(__qtreewidgetitem4)
-        # __qtreewidgetitem6.setText(0, u"New Item");
         self.treeWidget.setObjectName(u"treeWidget")
         self.treeWidget.setGeometry(QRect(10, 40, 251, 411))
-        self.groupBox = QGroupBox(story_editor)
-        self.groupBox.setObjectName(u"groupBox")
-        self.groupBox.setGeometry(QRect(1059, 0, 211, 461))
-        self.groupBox.setTitle(u"Actions")
-        self.pushButton_5 = QPushButton(self.groupBox)
-        self.pushButton_5.setObjectName(u"pushButton_5")
-        self.pushButton_5.setGeometry(QRect(10, 20, 191, 23))
-        self.pushButton_5.setText(u"Auto-translate speakers")
-        self.pushButton_6 = QPushButton(self.groupBox)
-        self.pushButton_6.setObjectName(u"pushButton_6")
-        self.pushButton_6.setGeometry(QRect(10, 50, 191, 23))
-        self.pushButton_6.setText(u"Goto next untranslated speaker")
-        self.pushButton_9 = QPushButton(self.groupBox)
-        self.pushButton_9.setObjectName(u"pushButton_9")
-        self.pushButton_9.setGeometry(QRect(10, 90, 191, 23))
-        self.pushButton_9.setText(u"Goto next untranslated choices")
-        self.pushButton_10 = QPushButton(self.groupBox)
-        self.pushButton_10.setObjectName(u"pushButton_10")
-        self.pushButton_10.setGeometry(QRect(10, 130, 191, 23))
-        self.pushButton_10.setText(u"Goto next untranslated dialogue")
-        self.textEdit_3 = QPlainTextEdit(self.groupBox)
-        self.textEdit_3.setObjectName(u"textEdit_3")
-        self.textEdit_3.setGeometry(QRect(10, 410, 191, 41))
-        self.textEdit_4 = QPlainTextEdit(self.groupBox)
-        self.textEdit_4.setObjectName(u"textEdit_4")
-        self.textEdit_4.setEnabled(True)
-        self.textEdit_4.setGeometry(QRect(10, 360, 191, 41))
-        self.label_3 = QLabel(self.groupBox)
-        self.label_3.setObjectName(u"label_3")
-        self.label_3.setGeometry(QRect(10, 340, 71, 16))
-        self.label_3.setText(u"Chapter title")
+        self.grp_actions = QGroupBox(story_editor)
+        self.grp_actions.setObjectName(u"grp_actions")
+        self.grp_actions.setGeometry(QRect(1059, 0, 211, 461))
+        self.grp_actions.setTitle(u"Chapter Actions")
+        self.btn_speakers = QPushButton(self.grp_actions)
+        self.btn_speakers.setObjectName(u"btn_speakers")
+        self.btn_speakers.setGeometry(QRect(10, 20, 191, 23))
+        self.btn_speakers.setText(u"Manage speakers")
+        self.btn_speakers.clicked.connect(self.manage_speakers)
+        self.btn_goto_choices = QPushButton(self.grp_actions)
+        self.btn_goto_choices.setObjectName(u"btn_goto_choices")
+        self.btn_goto_choices.setGeometry(QRect(10, 50, 191, 23))
+        self.btn_goto_choices.setText(u"Goto next untranslated choices")
+        self.btn_goto_choices.setEnabled(False)
+        self.btn_goto_dialogue = QPushButton(self.grp_actions)
+        self.btn_goto_dialogue.setObjectName(u"btn_goto_dialogue")
+        self.btn_goto_dialogue.setGeometry(QRect(10, 80, 191, 23))
+        self.btn_goto_dialogue.setText(u"Goto next untranslated dialogue")
+        self.btn_goto_dialogue.setEnabled(False)
+
+
+        self.txt_chapter_name = QPlainTextEdit(self.grp_actions)
+        self.txt_chapter_name.setObjectName(u"textEdit_3")
+        self.txt_chapter_name.setGeometry(QRect(10, 410, 191, 41))
+        self.txt_chapter_name.setEnabled(True)
+        self.txt_chapter_name.setReadOnly(False)
+        self.txt_chapter_name.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_chapter_name.textChanged.connect(lambda: self.on_block_changed(self.txt_chapter_name))
+        self.txt_chapter_name_source = QPlainTextEdit(self.grp_actions)
+        self.txt_chapter_name_source.setObjectName(u"textEdit_4")
+        self.txt_chapter_name_source.setGeometry(QRect(10, 360, 191, 41))
+        self.txt_chapter_name_source.setReadOnly(True)
+        self.lbl_chapter_title = QLabel(self.grp_actions)
+        self.lbl_chapter_title.setObjectName(u"lbl_chapter_title")
+        self.lbl_chapter_title.setGeometry(QRect(10, 340, 71, 16))
+        self.lbl_chapter_title.setText(u"Chapter title")
         
         self.txt_source_name = QPlainTextEdit(story_editor)
         self.txt_source_name.setObjectName(u"txt_source_name")
         self.txt_source_name.setGeometry(QRect(270, 40, 401, 41))
         self.txt_source_name.setReadOnly(True)
         self.txt_source_name.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_source_name.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
         
         self.txt_source_text = QPlainTextEdit(story_editor)
         self.txt_source_text.setObjectName(u"textEdit_5")
@@ -594,7 +671,10 @@ class Ui_story_editor(QWidget):
         self.txt_en_name.setObjectName(u"txt_en_name")
         self.txt_en_name.setGeometry(QRect(270, 230, 401, 41))
         self.txt_en_name.setLineWrapMode(QPlainTextEdit.NoWrap)
-        self.txt_en_name.textChanged.connect(lambda: self.on_block_changed(self.txt_en_name))
+        self.txt_en_name.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.txt_en_name.setReadOnly(True)
+        self.txt_en_name.mouseReleaseEvent = self.speaker_clicked
+        # self.txt_en_name.textChanged.connect(lambda: self.on_block_changed(self.txt_en_name))
         
         self.cmb_textblock = QComboBox(story_editor)
         self.cmb_textblock.setObjectName(u"cmb_textblock")
@@ -608,7 +688,7 @@ class Ui_story_editor(QWidget):
         self.btn_prev_block.clicked.connect(self.prev_block)
 
         self.btn_next_block = QPushButton(story_editor)
-        self.btn_next_block.setObjectName(u"pushButton_4")
+        self.btn_next_block.setObjectName(u"btn_next_block")
         self.btn_next_block.setGeometry(QRect(630, 410, 75, 23))
         self.btn_next_block.setText(u"Next ->")
         self.btn_next_block.clicked.connect(self.next_block)
@@ -621,7 +701,7 @@ class Ui_story_editor(QWidget):
         self.label_2 = QLabel(story_editor)
         self.label_2.setObjectName(u"label_2")
         self.label_2.setGeometry(QRect(270, 10, 81, 21))
-        self.label_2.setText(u"Textblock")
+        self.label_2.setText(u"Text block")
         self.chkb_autosave = QCheckBox(story_editor)
         self.chkb_autosave.setObjectName(u"chkb_autosave")
         self.chkb_autosave.setGeometry(QRect(960, 420, 81, 20))
@@ -629,19 +709,15 @@ class Ui_story_editor(QWidget):
         self.chkb_autosave.setChecked(settings.autosave_story_editor)
         self.chkb_autosave.stateChanged.connect(self.autosave_toggled)
 
-        # self.pushButton_7 = QPushButton(story_editor)
-        # self.pushButton_7.setObjectName(u"pushButton_7")
-        # self.pushButton_7.setGeometry(QRect(970, 220, 75, 23))
-        # self.pushButton_7.setText(u"Listen")
 
         self.btn_save = QPushButton(story_editor)
-        self.btn_save.setObjectName(u"pushButton_8")
+        self.btn_save.setObjectName(u"btn_save")
         self.btn_save.setGeometry(QRect(954, 440, 91, 23))
         self.btn_save.setText(u"Save chapter")
         self.btn_save.clicked.connect(self.save_chapter)
 
         self.btn_choices = QPushButton(story_editor)
-        self.btn_choices.setObjectName(u"pushButton_11")
+        self.btn_choices.setObjectName(u"btn_choices")
         self.btn_choices.setEnabled(False)
         self.btn_choices.setGeometry(QRect(960, 220, 91, 23))
         self.btn_choices.setText(u"Show choices")

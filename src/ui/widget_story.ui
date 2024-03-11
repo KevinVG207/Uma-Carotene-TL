@@ -96,7 +96,7 @@
    <property name="title">
     <string notr="true">Actions</string>
    </property>
-   <widget class="QPushButton" name="pushButton_5">
+   <widget class="QPushButton" name="btn_speakers">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -106,10 +106,10 @@
      </rect>
     </property>
     <property name="text">
-     <string notr="true">Auto-translate speakers</string>
+     <string notr="true">Manage speakers</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_6">
+   <widget class="QPushButton" name="btn_goto_choices">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -119,27 +119,14 @@
      </rect>
     </property>
     <property name="text">
-     <string notr="true">Goto next untranslated speaker</string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="pushButton_9">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>90</y>
-      <width>191</width>
-      <height>23</height>
-     </rect>
-    </property>
-    <property name="text">
      <string notr="true">Goto next untranslated choices</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_10">
+   <widget class="QPushButton" name="btn_goto_dialogue">
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>130</y>
+      <y>80</y>
       <width>191</width>
       <height>23</height>
      </rect>
@@ -349,7 +336,7 @@ p, li { white-space: pre-wrap; }
     </rect>
    </property>
    <property name="text">
-    <string notr="true">Textblock</string>
+    <string notr="true">Text block</string>
    </property>
   </widget>
   <widget class="QCheckBox" name="checkBox">

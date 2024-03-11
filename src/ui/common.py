@@ -302,6 +302,13 @@ MDB_CAT_NAMES = {
 # GroupSelectGachaName = 327
 
 
+SPEAKER_AUTOFILL = {
+    "実況": "Commentator",
+    "男の子": "Boy",
+    "女の子": "Girl",
+}
+
+
 MDB_CAT_NAMES_LOADED = False
 def get_mdb_cat_names():
     global MDB_CAT_NAMES_LOADED
