@@ -16,6 +16,7 @@ class Ui_widget_tabs(QWidget):
         self.setupUi(self)
         self.tabWidget.currentChanged.connect(self.tab_changed)
         self.adjust_size()
+        self.raise_()
     
     def set_changed(self, widget: QWidget) -> None:
         # Add * to tab name

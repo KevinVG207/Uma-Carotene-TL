@@ -264,7 +264,7 @@ class Ui_story_editor(QWidget):
             if not block.get("source_name") and not block.get("source"):
                 continue
             self.box_items.append(i)
-            preview = block.get('source').replace("\n", "")[:10]
+            preview = block.get('source').replace("\n", "")[:20]
             self.cmb_textblock.addItem(f"{i:03} - {preview}")
         
         
