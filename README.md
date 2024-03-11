@@ -32,8 +32,8 @@ The following things need to be installed on your machine:
 4. Run `src/_update_local.py` to update the local copy of the translations. (Indexing stories may take a few minutes the first time.)
 5. Edit the local translations in the `editing` folder.
 6. Update the translation files with `src/_prepare_release.py`. This will place the translations in the `translations` folder. These will be used to patch the game and is what you should be pushing to the repository.
-7. Patch the game with `src/_import.py`.
-8. Unpatch the game with `src/_revert.py`.
+7. Patch the game with `src/_patch.py`.
+8. Unpatch the game with `src/_unpatch.py`.
 9. To patch most UI text, you will need to also install [Carotenify](https://github.com/KevinVG207/Uma-Carotenify).
 
 Most functionality will eventually be available through the GUI (high priority.) It is currently work in progress and can be run with `src/_gui.py`.
