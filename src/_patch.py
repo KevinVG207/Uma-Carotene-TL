@@ -247,6 +247,7 @@ def handle_backup(asset_hash):
             return None
 
         # Download the asset
+        # print(f"\nAsset {asset_hash} not found. Downloading.")
         util.download_asset(asset_hash, no_progress=True)
 
     if not os.path.exists(asset_path_bak):
@@ -343,6 +344,9 @@ def set_clip_length(root, clip_asset_path_id, length_diff):
 
 def _import_story(story_data):
     bundle_path = handle_backup(story_data['hash'])
+
+    if not bundle_path:
+        print(f"\nStory not found: {story_data['file_name']} {story_data['hash']} - Skipping")
 
     # print(f"Importing {os.path.basename(bundle_path)}")
 
