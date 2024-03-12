@@ -77,6 +77,7 @@ MDB_CAT_NAMES = {
         "169": "Profile Family",
         "170": "Character Names",
         "172": "Factor details",
+        "173": "NPC Job Title",
         "182": "Chara Names (katakana)",
         "189": "Story Event Titles",
         "191": "Story Event Chapters",
