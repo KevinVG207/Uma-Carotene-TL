@@ -349,7 +349,7 @@ class Ui_story_editor(QWidget):
         block["name"] = sutils.get_text(self.txt_en_name)
         block["text"] = sutils.get_text(self.txt_en_text)
     
-    def on_block_changed(self, widget: QPlainTextEdit):
+    def on_block_changed(self, widget: sutils.UmaPlainTextEdit):
         if self.ignore_updates:
             return
 
@@ -384,7 +384,7 @@ class Ui_story_editor(QWidget):
         self.txt_source_text.setFont(fnt)
         self.txt_en_text.setFont(fnt)
     
-    def selection_toggle_format(self, widget: QPlainTextEdit, bold=True):
+    def selection_toggle_format(self, widget: sutils.UmaPlainTextEdit, bold=True):
         # if not widget.hasFocus():
         #     return
         if not widget.textCursor().hasSelection():
@@ -632,14 +632,14 @@ class Ui_story_editor(QWidget):
         self.btn_goto_dialogue.setEnabled(False)
 
 
-        self.txt_chapter_name = QPlainTextEdit(self.grp_actions)
+        self.txt_chapter_name = sutils.UmaPlainTextEdit(self.grp_actions)
         self.txt_chapter_name.setObjectName(u"textEdit_3")
         self.txt_chapter_name.setGeometry(QRect(10, 410, 191, 41))
         self.txt_chapter_name.setEnabled(True)
         self.txt_chapter_name.setReadOnly(False)
-        self.txt_chapter_name.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_chapter_name.setLineWrapMode(sutils.UmaPlainTextEdit.NoWrap)
         self.txt_chapter_name.textChanged.connect(lambda: self.on_block_changed(self.txt_chapter_name))
-        self.txt_chapter_name_source = QPlainTextEdit(self.grp_actions)
+        self.txt_chapter_name_source = sutils.UmaPlainTextEdit(self.grp_actions)
         self.txt_chapter_name_source.setObjectName(u"textEdit_4")
         self.txt_chapter_name_source.setGeometry(QRect(10, 360, 191, 41))
         self.txt_chapter_name_source.setReadOnly(True)
@@ -648,29 +648,29 @@ class Ui_story_editor(QWidget):
         self.lbl_chapter_title.setGeometry(QRect(10, 340, 71, 16))
         self.lbl_chapter_title.setText(u"Chapter title")
         
-        self.txt_source_name = QPlainTextEdit(story_editor)
+        self.txt_source_name = sutils.UmaPlainTextEdit(story_editor)
         self.txt_source_name.setObjectName(u"txt_source_name")
         self.txt_source_name.setGeometry(QRect(270, 40, 401, 41))
         self.txt_source_name.setReadOnly(True)
-        self.txt_source_name.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_source_name.setLineWrapMode(sutils.UmaPlainTextEdit.NoWrap)
         self.txt_source_name.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
         
-        self.txt_source_text = QPlainTextEdit(story_editor)
+        self.txt_source_text = sutils.UmaPlainTextEdit(story_editor)
         self.txt_source_text.setObjectName(u"textEdit_5")
         self.txt_source_text.setGeometry(QRect(270, 90, 781, 121))
         self.txt_source_text.setReadOnly(True)
-        self.txt_source_text.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_source_text.setLineWrapMode(sutils.UmaPlainTextEdit.NoWrap)
         
-        self.txt_en_text = QPlainTextEdit(story_editor)
+        self.txt_en_text = sutils.UmaPlainTextEdit(story_editor)
         self.txt_en_text.setObjectName(u"textEdit_6")
         self.txt_en_text.setGeometry(QRect(270, 280, 781, 121))
-        self.txt_en_text.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_en_text.setLineWrapMode(sutils.UmaPlainTextEdit.NoWrap)
         self.txt_en_text.textChanged.connect(lambda: self.on_block_changed(self.txt_en_text))
         
-        self.txt_en_name = QPlainTextEdit(story_editor)
+        self.txt_en_name = sutils.UmaPlainTextEdit(story_editor)
         self.txt_en_name.setObjectName(u"txt_en_name")
         self.txt_en_name.setGeometry(QRect(270, 230, 401, 41))
-        self.txt_en_name.setLineWrapMode(QPlainTextEdit.NoWrap)
+        self.txt_en_name.setLineWrapMode(sutils.UmaPlainTextEdit.NoWrap)
         self.txt_en_name.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
         self.txt_en_name.setReadOnly(True)
         self.txt_en_name.mouseReleaseEvent = self.speaker_clicked

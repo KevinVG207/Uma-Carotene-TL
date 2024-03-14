@@ -1,6 +1,8 @@
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
+from PyQt5.QtGui import QMouseEvent
 from PyQt5.QtWidgets import *
+import time
 
 def str_to_char_data(text: str) -> list:
     in_tag = False
@@ -137,3 +139,69 @@ def get_text(widget: QPlainTextEdit) -> str:
     text = char_data_to_str(char_data)
     text = text.replace(" \n", "\n").replace("\n", " \n")
     return text
+
+class UmaPlainTextEdit(QPlainTextEdit):
+    click_count = 0
+    last_click = 0
+    click_cooldown = 0.3
+
+    def _check_for_triple_click(self, e: QMouseEvent) -> None:
+        # Triple click = select all.
+
+        is_left_click = e.button() == Qt.LeftButton
+
+        if not is_left_click:
+            return
+        
+        cur_time = time.time()
+        dtime = cur_time - self.last_click
+        if dtime < self.click_cooldown:
+            self.click_count += 1
+        else:
+            self.click_count = 1
+        
+        self.last_click = cur_time
+
+        if self.click_count == 3:
+            cursor = self.textCursor()
+
+            if cursor.hasSelection():
+                start = cursor.selectionStart()
+                end = cursor.selectionEnd()
+
+                text = self.toPlainText()
+
+                left_newline = text.rfind("\n", 0, start)
+                right_newline = text.find("\n", end)
+
+                if left_newline == -1:
+                    left_newline = 0
+                else:
+                    left_newline += 1
+
+                if right_newline == -1:
+                    right_newline = len(text)
+
+                cursor.setPosition(left_newline)
+                cursor.setPosition(right_newline, QTextCursor.KeepAnchor)
+                self.setTextCursor(cursor)
+                return True
+            self.click_count = 4
+
+        if self.click_count >= 4:
+            self.selectAll()
+            return True
+        return False
+
+
+    def mousePressEvent(self, e: QMouseEvent) -> None:
+        if self._check_for_triple_click(e):
+            return
+
+        return super().mousePressEvent(e)
+    
+    def mouseDoubleClickEvent(self, e: QMouseEvent) -> None:
+        if self._check_for_triple_click(e):
+            return
+
+        return super().mouseDoubleClickEvent(e)

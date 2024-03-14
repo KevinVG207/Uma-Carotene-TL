@@ -57,7 +57,7 @@ class story_choice_dialog(QDialog):
             grp_choice.setSizePolicy(sizePolicy1)
             verticalLayout_2 = QVBoxLayout(grp_choice)
             verticalLayout_2.setObjectName(f"verticalLayout_2_{i}")
-            txt_choice_source = QPlainTextEdit(grp_choice)
+            txt_choice_source = sutils.UmaPlainTextEdit(grp_choice)
             txt_choice_source.setObjectName(f"txt_choice_source_{i}")
             sizePolicy2 = QSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
             sizePolicy2.setHorizontalStretch(0)
@@ -72,7 +72,7 @@ class story_choice_dialog(QDialog):
 
             verticalLayout_2.addWidget(txt_choice_source)
 
-            txt_choice_en = QPlainTextEdit(grp_choice)
+            txt_choice_en = sutils.UmaPlainTextEdit(grp_choice)
             txt_choice_en.setObjectName(f"txt_choice_en_{i}")
             sizePolicy2.setHeightForWidth(txt_choice_en.sizePolicy().hasHeightForWidth())
             txt_choice_en.setSizePolicy(sizePolicy2)
