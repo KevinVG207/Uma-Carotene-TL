@@ -62,6 +62,7 @@ MDB_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamus
 META_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\meta")
 
 DATA_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\dat")
+CAROTENIFY_PATY = os.path.expandvars("%TEMP%\\carotenify")
 
 TMP_FOLDER = get_asset("tmp\\")
 
@@ -758,3 +759,20 @@ def send_finish_signal():
 
 def send_error_signal(error_string):
     send_umalauncher_signal("patcher-finish", {"success": False, "error": error_string})
+
+def write_carotenify_file(out_str, file_type):
+    timestamp = int(time.time() * 1000)
+    filename = f"{timestamp}.{file_type}"
+    path = os.path.join(CAROTENIFY_PATY, filename)
+    with open(path, "w", encoding='utf-8') as f:
+        f.write(out_str)
+
+def cleanup_carotenify_files():
+    os.makedirs(CAROTENIFY_PATY, exist_ok=True)
+    timestamp = int((time.time() - 60) * 1000)
+    files = glob.glob(f"{CAROTENIFY_PATY}\\*")
+    for file in files:
+        if int(os.path.basename(file).split('.')[0]) < timestamp:
+            os.remove(file)
+
+cleanup_carotenify_files()

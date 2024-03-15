@@ -574,6 +574,26 @@ class Ui_story_editor(QWidget):
         self.set_changed()
         self.set_timeout()
         self.reload_block()
+    
+    def goto_game(self):
+        if not self.loaded_chapter:
+            return
+        
+        if not self.cur_open_block:
+            return
+        
+        id_list = []
+        for block in self.loaded_chapter["data"][:self.cur_open_block + 1]:
+            block_id = block.get("block_id", None)
+            if block_id is not None:
+                id_list.append(str(block_id))
+
+        if not id_list:
+            return
+        
+        out_str = "\n".join(id_list)
+
+        util.write_carotenify_file(out_str, "gotoBlock")
 
 
     def setupUi(self, story_editor):
@@ -755,4 +775,10 @@ class Ui_story_editor(QWidget):
         self.lbl_length_marker.setGeometry(QRect(1005, 281, 1, 119))
         self.lbl_length_marker.setAutoFillBackground(False)
         self.lbl_length_marker.setStyleSheet(u"background-color: rgb(255, 0, 0);")
+
+        self.btn_goto_game = QPushButton(story_editor)
+        self.btn_goto_game.setObjectName(u"btn_goto_game")
+        self.btn_goto_game.setGeometry(QRect(710, 410, 75, 23))
+        self.btn_goto_game.setText(u"Goto (Game)")
+        self.btn_goto_game.clicked.connect(self.goto_game)
 
