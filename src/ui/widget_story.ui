@@ -481,6 +481,22 @@ p, li { white-space: pre-wrap; }
     <string notr="true">Goto (Game)</string>
    </property>
   </widget>
+  <widget class="QCheckBox" name="chkb_sync_game">
+   <property name="geometry">
+    <rect>
+     <x>790</x>
+     <y>410</y>
+     <width>81</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string notr="true">Sync game</string>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>

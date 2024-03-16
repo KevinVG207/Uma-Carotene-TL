@@ -38,6 +38,7 @@ class Ui_story_editor(QWidget):
     root_dir = util.ASSETS_FOLDER_EDITING + "story"
     font_size = 16
     timeout_ms = 500
+    sync_timeout_ms = 200
 
     def __init__(self, base_widget=None, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
@@ -56,6 +57,10 @@ class Ui_story_editor(QWidget):
         self.save_timeout = QTimer()
         self.save_timeout.setSingleShot(True)
         self.save_timeout.timeout.connect(self.handle_save_timeout)
+
+        self.sync_timeout = QTimer()
+        self.sync_timeout.setSingleShot(True)
+        self.sync_timeout.timeout.connect(self.handle_sync_timeout)
 
         self.loaded_chapter = None
         self.loaded_path = None
@@ -249,6 +254,7 @@ class Ui_story_editor(QWidget):
         self.block_changed = False
         self.box_items = []
         self.cmb_textblock.clear()
+        self.chkb_sync_game.setChecked(False)
 
         self.set_item_marked(item)
         self.loaded_chapter = util.load_json(file_path)
@@ -329,6 +335,10 @@ class Ui_story_editor(QWidget):
         self.cur_open_block = block_index
 
         self.reload_block()
+
+        # if self.chkb_sync_game.isChecked():
+        #     self.goto_game()
+        self.set_sync_timeout()
     
     def store_block(self):
         if not self.box_items:
@@ -375,6 +385,10 @@ class Ui_story_editor(QWidget):
         # print("Save timeout")
         if self.chkb_autosave.isChecked():
             self.save_chapter()
+    
+    def handle_sync_timeout(self):
+        if self.chkb_sync_game.isChecked():
+            self.goto_game()
 
     
     def set_fonts(self):
@@ -504,6 +518,9 @@ class Ui_story_editor(QWidget):
     def set_timeout(self):
         self.save_timeout.start(self.timeout_ms)
 
+    def set_sync_timeout(self):
+        self.sync_timeout.start(self.sync_timeout_ms)
+
     def speaker_clicked(self, *args, **kwargs):
         self.manage_speakers(focus_name=True)
 
@@ -594,6 +611,10 @@ class Ui_story_editor(QWidget):
         out_str = "\n".join(id_list)
 
         util.write_carotenify_file(out_str, "gotoBlock")
+
+    def handle_sync_change(self):
+        if self.chkb_sync_game.isChecked():
+            self.goto_game()
 
 
     def setupUi(self, story_editor):
@@ -782,3 +803,9 @@ class Ui_story_editor(QWidget):
         self.btn_goto_game.setText(u"Goto (Game)")
         self.btn_goto_game.clicked.connect(self.goto_game)
 
+        self.chkb_sync_game = QCheckBox(story_editor)
+        self.chkb_sync_game.setObjectName(u"chkb_sync_game")
+        self.chkb_sync_game.setGeometry(QRect(790, 410, 81, 20))
+        self.chkb_sync_game.setText(u"Auto-goto")
+        self.chkb_sync_game.setChecked(False)
+        self.chkb_sync_game.stateChanged.connect(self.handle_sync_change)
