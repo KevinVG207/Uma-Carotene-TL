@@ -9689,6 +9689,11 @@
         "hash": "b2ff7b78eb43312f1e736f0bca2c9ad4ab3db83fbfcac26a9de02f829c943ef9",
         "processed": "<rbr>Raise the affection rank of<br>Duramente to rank 1."
     },
+    "340093": {
+        "text": "Raise the affection rank of Transcend to rank 1.",
+        "hash": "4c99004528558366e8363625f972b973ab26452afb9655aa4611d9015d234e04",
+        "processed": "<rbr>Raise the affection rank of<br>Transcend to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -18940,29 +18945,79 @@
         "processed": "<rbr>Achieve overall victory in the<br>U.A.F. Showdown once."
     },
     "1001933": {
-        "text": "Raise the cumulative level of the Sphere genre in the U.A.F. Ready GO! scenario to 500.",
+        "text": "Level up the Sphere genre in the U.A.F. Ready GO! scenario up to a total level of 500.",
         "hash": "ab78241ceeae65440e9c86986c2ce02eaf36e45a12ebdc5f74ed6a0070f1e71e",
-        "processed": "<rbr><sc=66>Raise the cumulative level of the Sphere<br>genre in the U.A.F. Ready GO! scenario to<br>500."
+        "processed": "<rbr><sc=66>Level up the Sphere genre in the U.A.F.<br>Ready GO! scenario up to a total level of<br>500."
     },
     "1001934": {
-        "text": "Raise the cumulative level of the Fight genre in the U.A.F. Ready GO! scenario to 500.",
+        "text": "Level up the Fight genre in the U.A.F. Ready GO! scenario up to a total level of 500.",
         "hash": "7d67566b6c01a861bebd5690e2e72f366e092b08060db7c8cce6bc0f4ec50254",
-        "processed": "<rbr><sc=66>Raise the cumulative level of the Fight genre<br>in the U.A.F. Ready GO! scenario to 500."
+        "processed": "<rbr><sc=67>Level up the Fight genre in the U.A.F. Ready<br>GO! scenario up to a total level of 500."
     },
     "1001935": {
-        "text": "Raise the cumulative level of the Free genre in the U.A.F. Ready GO! scenario to 500.",
+        "text": "Level up the Free genre in the U.A.F. Ready GO! scenario up to a total level of 500.",
         "hash": "6ee8715546f6927579bf0ef38cfd904abb7f94234ac8ec6f7a0323ca94aaab8a",
-        "processed": "<rbr><sc=67>Raise the cumulative level of the Free genre<br>in the U.A.F. Ready GO! scenario to 500."
+        "processed": "<rbr><sc=68>Level up the Free genre in the U.A.F. Ready<br>GO! scenario up to a total level of 500."
     },
     "1001936": {
         "text": "Clear all event missions.",
         "hash": "1b0c000c627ced498212bddfd1fb67d7821e2b41caabd344db2942cbad606a86",
         "processed": "<rbr>Clear all event missions."
     },
+    "1001937": {
+        "text": "Achieve overall victory in all U.A.F. tournament stages once.",
+        "hash": "fc799b834b47b9dd46248e070f9c3dd2560538c2e99a7fad168dce6f403739fd",
+        "processed": "<rbr><sc=94>Achieve overall victory in all<br>U.A.F. tournament stages once."
+    },
+    "1001938": {
+        "text": "Consult with Sonon Elfie a total of 3 times during the U.A.F. Ready GO! scenario.",
+        "hash": "c0c8acf733c14d7b0b27dc6931681750079caa37b190ab7a1fd0b377a930ff65",
+        "processed": "<rbr><sc=70>Consult with Sonon Elfie a total of 3 times<br>during the U.A.F. Ready GO! scenario."
+    },
+    "1001939": {
+        "text": "Consult with Sonon Elfie a total of 6 times during the U.A.F. Ready GO! scenario.",
+        "hash": "3c815020f7b90e217edd65cbad6270755398f4e525bc295589dd123328600f07",
+        "processed": "<rbr><sc=70>Consult with Sonon Elfie a total of 6 times<br>during the U.A.F. Ready GO! scenario."
+    },
+    "1001940": {
+        "text": "Finish a training run having raised the level of the Sphere genre to 200 or higher once.",
+        "hash": "1a60ad5172c5934293661c34487b62db35c8a5d080647e3407be2e78ec231be3",
+        "processed": "<rbr><sc=68>Finish a training run having raised the level<br>of the Sphere genre to 200 or higher once."
+    },
+    "1001941": {
+        "text": "Finish a training run having raised the level of the Sphere genre to 300 or higher once.",
+        "hash": "cf30a8f6058dfdca8159d831974297cfa4a752f28d233b415cdbf65117dd5a99",
+        "processed": "<rbr><sc=68>Finish a training run having raised the level<br>of the Sphere genre to 300 or higher once."
+    },
+    "1001942": {
+        "text": "Finish a training run having raised the level of the Fight genre to 200 or higher once.",
+        "hash": "4399584aea3c4c714fe622a99a787a4d8b5b39ce3c27e7d79fb58c9c11bb1be3",
+        "processed": "<rbr><sc=68>Finish a training run having raised the level<br>of the Fight genre to 200 or higher once."
+    },
+    "1001943": {
+        "text": "Finish a training run having raised the level of the Fight genre to 300 or higher once.",
+        "hash": "415fbf0430f53fde0b7212b4f4673ee893d7ebbcf682e61371e915e9e0b2c200",
+        "processed": "<rbr><sc=68>Finish a training run having raised the level<br>of the Fight genre to 300 or higher once."
+    },
+    "1001944": {
+        "text": "Finish a training run having raised the level of the Free genre to 200 or higher once.",
+        "hash": "c14847159f22a084bb34062c7c6dca5a47709c8b5bec004c8251dee320a19a30",
+        "processed": "<rbr><sc=68>Finish a training run having raised the level<br>of the Free genre to 200 or higher once."
+    },
+    "1001945": {
+        "text": "Finish a training run having raised the level of the Free genre to 300 or higher once.",
+        "hash": "6f75c7c005cfda0679d2481211fbece94331ef78b4ab27bed63775dc29925aa5",
+        "processed": "<rbr><sc=68>Finish a training run having raised the level<br>of the Free genre to 300 or higher once."
+    },
     "1001946": {
         "text": "Participate in a daily legend race once.",
         "hash": "071b430b66ba6453075407285e6cad965fa329f13ec7330fbb16b40eef1b4b90",
         "processed": "<rbr>Participate in a daily legend<br>race once."
+    },
+    "1001947": {
+        "text": "Participate in a daily legend race 2 times.",
+        "hash": "6bfa8d510e3313bba9f3e02860fcb06abcbd8824adf1b514dbd40af7cbda28d1",
+        "processed": "<rbr>Participate in a daily legend<br>race 2 times."
     },
     "1001948": {
         "text": "Finish a training run having completed all training objectives once.",
