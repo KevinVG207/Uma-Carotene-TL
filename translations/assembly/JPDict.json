@@ -3640,7 +3640,7 @@
         "hash": "b259d2df08fa205517e750d00a1c9958cfa801026adcb09f3b0824cd5dca032f"
     },
     "Common0032": {
-        "text": "",
+        "text": "SFX",
         "hash": "84e3af894d83b540166bd5dddcc7c0971933ab251ea5028abac6dfa58e7302a8"
     },
     "Common0033": {
@@ -3652,7 +3652,7 @@
         "hash": "c8c8677a84ba3062cdf09f6632d114bd46855d5163cc9a530d10ac56eb9417b8"
     },
     "Common0035": {
-        "text": "",
+        "text": "<nb>Concert",
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Common0036": {
@@ -3696,7 +3696,7 @@
         "hash": "4c1374b3076d1cfb73f01213d14d312f8e3ba267e59f549f33a150989de657f1"
     },
     "Common0048": {
-        "text": "",
+        "text": "Reset to default",
         "hash": "531b56646d34285c902725221a91ea6adf1d8079db025777f2e14507ce6a3248"
     },
     "Common0050": {
@@ -4128,7 +4128,7 @@
         "hash": "0696f6a6301c786861635ef07d40649153b8c922e75f7491a9c0adc4bda5ba35"
     },
     "Common0170": {
-        "text": "",
+        "text": "Download",
         "hash": "b85d7a94ae5775cf4becd9a65f79e5844d45d854bb92a29c88db65d609e6ff91"
     },
     "Common0176": {
@@ -4292,7 +4292,7 @@
         "hash": "929da374ec5ad7970751f1efb841d08693b39558de6e5660b0fb50ab725bbb09"
     },
     "Common0261": {
-        "text": "",
+        "text": "Save",
         "hash": "a3030bf8f16dc63c6b277564c68f78a3be5abe5f2907c51826dee7184ff793fd"
     },
     "Common0263": {
@@ -4584,7 +4584,7 @@
         "hash": "16d265d3c1f1f30d79a4c93171a9238834aedbb8064c4131da8c4608804fedc5"
     },
     "CustomRace0204": {
-        "text": "",
+        "text": "General",
         "hash": "a37d92500512aa67af917e54004bca71aca32f64c63a2c8d93b8a713cc1b5184"
     },
     "CustomRace0243": {
@@ -7608,7 +7608,7 @@
         "hash": "2792b32ffe7cc72105b54827b6c253c9ff560a7b3dcc7f88fb274f87cfbe69da"
     },
     "LiveTheater0022": {
-        "text": "",
+        "text": "<nb>Screen Orientation",
         "hash": "ab29037db1df2f7e180f7efae4d5affe13c6055c8a45e024a98c69d5f56b787f"
     },
     "LiveTheater0023": {
@@ -7772,7 +7772,7 @@
         "hash": "6e2a819490f1140f0cdf5a17ab6d7e0dbfaa9b530106a402133c37378cddfd6e"
     },
     "LiveTheater4830012": {
-        "text": "",
+        "text": "Save",
         "hash": "becf8cf397e1c553676d6e1de577f658f10de58d61bae61cffd797752fa54a8c"
     },
     "LiveTheater4830013": {
@@ -7956,7 +7956,7 @@
         "hash": "eceaed5aad9ecf1ef3a1a20e28b957c5ec023c382bc50d640a7b9c5690362024"
     },
     "Menu0009": {
-        "text": "Options",
+        "text": "Settings",
         "hash": "5b717728bbead38118553940600d0a6e78f6bab6a330874a69809e291682e3f5"
     },
     "Menu0010": {
@@ -7976,7 +7976,7 @@
         "hash": "ee8b9863d094d7ebbf7c196c072618cea1702b35ca105efc70f939ab3664e247"
     },
     "Menu0017": {
-        "text": "",
+        "text": "Sound",
         "hash": "1fec10d7b07a66bfb985d8bd8d0d63176398fc095149ff3118bfc0b2af8aad35"
     },
     "Menu0020": {
@@ -7992,7 +7992,7 @@
         "hash": "8bf8b9780d342816a2342d0af74a9bedc13387be59e709d30522883236f13e30"
     },
     "Menu0027": {
-        "text": "",
+        "text": "Concerts",
         "hash": "8cc28d37ade57fb40951643cfaba1e363993221abc172f82a20d32dc46404dd1"
     },
     "Menu0029": {
@@ -8056,7 +8056,7 @@
         "hash": "5804971cb200979890d3284de6bfda4686739b01061d6538ed41695b0b189cbf"
     },
     "Menu0074": {
-        "text": "",
+        "text": "Commentary",
         "hash": "0c58bd1686dd3ebcd5b3ff0088da12cf8c75d7ee031ecdacf4fb65dc8bb78d5a"
     },
     "Menu0075": {
@@ -8092,11 +8092,11 @@
         "hash": "0a8e5bc8022a102924f4a9eea4bbaf0a61cca86f29c3d170fd04684166c1db6f"
     },
     "Menu0107": {
-        "text": "",
+        "text": "Top-up alert",
         "hash": "e5739d8aeb86399d91c462bdf642d5d317985d24fb86da84dcce53e1984b9c5f"
     },
     "Menu0120": {
-        "text": "",
+        "text": "Download voice data",
         "hash": "6b843b62425bee1c24e9fa097849a3def13f95af6df2771d16a9824f2fbf7ec2"
     },
     "Menu0121": {
@@ -8804,123 +8804,123 @@
         "hash": "6ff0bf6c63d6c83a5ae11940ec400f2f445a8cbf1ab5d75d8cab4e7d978fbcb5"
     },
     "Outgame0263": {
-        "text": "",
+        "text": "ON​",
         "hash": "629cc042f309551ced38a51a2e2039e06b91d0a4aa63a25564e1b5c489a229e0"
     },
     "Outgame0264": {
-        "text": "",
+        "text": "Confirmation Popup",
         "hash": "56e8ed2f4ade38be3033d0fdd55adaf214b5cc76f76e06abf5e669b7eee5fbb1"
     },
     "Outgame0265": {
-        "text": "",
+        "text": "When skipping a concert",
         "hash": "cb53257106be21c55917408acebf18e7558359c812cdb0aa805d6d097b16a897"
     },
     "Outgame0266": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before skipping a concert.",
         "hash": "55efa95db6f153e78af779059d04e2e341cbaee27c911ddbc79cf4bed735d952"
     },
     "Outgame0267": {
-        "text": "",
+        "text": "Playback Settings",
         "hash": "5e33059cacc9c22a5802baa233cb63b4d1264ee101961594bd1410a36cb754cb"
     },
     "Outgame0268": {
-        "text": "",
+        "text": "Display lyrics",
         "hash": "c36c9076478c93412012e649192afa8a25836ced5274c693241161681524e164"
     },
     "Outgame0269": {
-        "text": "",
+        "text": "Sound effects / cheering",
         "hash": "5c056bb560a60cc49bebde77ca2059cb91c52fbc0649ea763c042726f67306a7"
     },
     "Outgame0270": {
-        "text": "",
+        "text": "Volume",
         "hash": "94f574dee916f4b9e3dafa7e71d990f0a7aed8d16853606ef2c68a392eae723f"
     },
     "Outgame0271": {
-        "text": "",
+        "text": "<nb>Quality",
         "hash": "82c7ca70ec216c99edb6cbb5e914ff48155c6d35536331866fe48e00720f8371"
     },
     "Outgame0272": {
-        "text": "",
+        "text": "Render quality",
         "hash": "2ded75781cf0304d1d8ecd77db6dbf698493db1971a03ba9951379f2dc87eec1"
     },
     "Outgame0273": {
-        "text": "",
+        "text": "Standard",
         "hash": "d4b0862e91c888756c997e76f2c948be0ba03fe4fce69ad2f91a25afbf6fe786"
     },
     "Outgame0274": {
-        "text": "",
+        "text": "Low",
         "hash": "76cc05e1d0b558ba963643b92447ded8a7f548152ffaed84b5b24d7c641c433a"
     },
     "Outgame0275": {
-        "text": "",
+        "text": "\"Low\" increases performance and reduces heat and battery usage by simplifying the 3D rendering.",
         "hash": "f811741a1bb1b33a137fd3b96618c200be5a383f0382bec348fd08b9e50c0173"
     },
     "Outgame0276": {
-        "text": "",
+        "text": "Orientation\nduring concerts",
         "hash": "23e9da632a0006dfdae59e466b6af045b8eedb9da5cc87095540043b9f11b644"
     },
     "Outgame0277": {
-        "text": "",
+        "text": "Defaults",
         "hash": "817138da929dc5ca87db8752c8ef4d147d5f4beba9565ce2c80ef944ee16d935"
     },
     "Outgame0278": {
-        "text": "",
+        "text": "Skill cut-in during race",
         "hash": "84f6ef36af909eaa353072e9640ff15ba147214fc9165549de5904c593aca27a"
     },
     "Outgame0279": {
-        "text": "General",
+        "text": "Default",
         "hash": "34eeaf8fd6d353e12044dc772d31a7614b6076215aa7031a6f9d58141cf5a5c3"
     },
     "Outgame0280": {
-        "text": "",
+        "text": "Long ver.\nalways",
         "hash": "6ee2cfcf2509a3bc5e4d0f14817aafc8ecfd988d5562450a2828e2d06bef89fd"
     },
     "Outgame0281": {
-        "text": "",
+        "text": "Long ver.\nonce a day",
         "hash": "f41246c9af49c2cbd1b91912061d21f6098b0f98132254a43f63b29ffd926b27"
     },
     "Outgame0282": {
-        "text": "",
+        "text": "Selecting \"Long ver. once a day\" will display the long version cut-in for each character only once per day.",
         "hash": "3c2fd99d19ad7896a365ad9c8e3c801516b66ee91bef02dfae61280b28842880"
     },
     "Outgame0283": {
-        "text": "",
+        "text": "Announcer gender",
         "hash": "1b608640e98cf0ca0756c325960f75c75dcc6f0bbf90d5086c48b8facaf5b1c9"
     },
     "Outgame0284": {
-        "text": "",
+        "text": "Skip Settings",
         "hash": "0aca1c42a96307a2afff0f6e7e84c82b6c34dc13b3df38309eacb0fd89cbee33"
     },
     "Outgame0285": {
-        "text": "",
+        "text": "Skip unseen events",
         "hash": "3c00883a90c7591b70c6dd59089be3d1b1892ecd162ba50cf987bd01dad0dffd"
     },
     "Outgame0286": {
-        "text": "",
+        "text": "When OFF, previously unseen training events will not be skipped even when using the skip function during training.",
         "hash": "c3e8e44453311f72eb376504c864d5c01576f9b2537a87fa7f7e7c688a0391a4"
     },
     "Outgame0287": {
-        "text": "",
+        "text": "When resting",
         "hash": "9fcd3b8ecb7b5980a606f48e83e17469011f11f1747105e294c5efe74a302b9e"
     },
     "Outgame0288": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before resting during training.",
         "hash": "69668633ae2b644afc3978db488b3fc28f726773121169e3f2e7d608bc250817"
     },
     "Outgame0289": {
-        "text": "",
+        "text": "When going out",
         "hash": "23dd3dcd250d71c54b54831d0666693fc655c771759b2fc4fdfd7ae44b06a416"
     },
     "Outgame0290": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before going out during training.",
         "hash": "10234ebe8acf770dce5f8402cbc40c56f837591d9e05af53a1abda5b52f644cf"
     },
     "Outgame0291": {
-        "text": "",
+        "text": "When skipping a story",
         "hash": "89e6bfb65196fbe57416f11996ab0d8ffefb5a8ce90bd7c7f1037bba178341c8"
     },
     "Outgame0292": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup when skipping stories or the opening to a training scenario.",
         "hash": "9b31f437066dbc0d40efd17f18ae05acf37265b0b5d8fdde35fbc582ea482492"
     },
     "Outgame0293": {
@@ -8940,7 +8940,7 @@
         "hash": "88aaffa34dc0118b996c5f07e54f9c1f6073f7d19baaef8cdcf087cad5f009ec"
     },
     "Outgame0298": {
-        "text": "",
+        "text": "Top-up Notice",
         "hash": "73e3f5a276637b20e57cdecf5582d85c9dc956eeb5a2b5b2a7ca7acd4cd1b90a"
     },
     "Outgame0299": {
@@ -8948,19 +8948,19 @@
         "hash": "50db67978c290ebc8376fc5187046e801f0235cb4a9737d0c5118f79a8b7da8a"
     },
     "Outgame0300": {
-        "text": "",
+        "text": "Download Management",
         "hash": "cae803e7e3f733f51bfcf586f572af2ddd96ff543f0af0fdc5b4df992120edfb"
     },
     "Outgame0302": {
-        "text": "",
+        "text": "When OFF, new voices will not be downloaded when watching stories. This will save game size and data usage.",
         "hash": "f86a036d11f41aee03733c9892a8a4c8f26043bb2ac75f0266eef7813ba7bafb"
     },
     "Outgame0303": {
-        "text": "",
+        "text": "Download all game data at once, to save on data usage while playing. Will increase game size!",
         "hash": "bd6f6e6c3628fe8c5eea4dc196b3cd965b5084246cdc492b396c512726fecbcf"
     },
     "Outgame0304": {
-        "text": "",
+        "text": "Orientation\nduring stories",
         "hash": "6d25fabce89e9880f4efceed661feaff3b74ee0bbd4be0e04dc0784fe3f4435b"
     },
     "Outgame0305": {
@@ -8980,7 +8980,7 @@
         "hash": "d5a4128470a0870b39017f571fc12eaa58780dce0ccfc7ea4ae907e40b497c26"
     },
     "Outgame0310": {
-        "text": "",
+        "text": "<color=#ff911c>Goes into effect after next reload.</color>",
         "hash": "081ac60b3d998e53e00dcd5e8dafad00881a21cacdd60f4ce57bd4e77d7accc6"
     },
     "Outgame0311": {
@@ -9304,15 +9304,15 @@
         "hash": "c93854a548ceb95f116f6550fed8d5d04d8372ac55d9eaf1d8ec27b0d8df72de"
     },
     "Outgame0395": {
-        "text": "",
+        "text": "Recommended Race Function",
         "hash": "c3afcd766dab9f2303f61464da6636e05dcbc053ebe27538fa948190c98245f5"
     },
     "Outgame0396": {
-        "text": "",
+        "text": "Confirmation popup",
         "hash": "48fbb00fe30d3db8c4b08b415f63939cd16db78c183bd33189702c25d3282e1d"
     },
     "Outgame0397": {
-        "text": "",
+        "text": "When OFF, a race recommendation popup will not be displayed during training.",
         "hash": "d1ce796c2f2a5016be2d5b549bcbe3fdb727bbda7759c47853e61e67adf1e821"
     },
     "Outgame0398": {
@@ -9340,11 +9340,11 @@
         "hash": "254dcfb710f308fa491ec425a27ef5a6ca371f2073d0c50db20e104dbaa06532"
     },
     "Outgame0404": {
-        "text": "",
+        "text": "When going to the infirmary",
         "hash": "faba3c1dc8aa004333324901cce667c9ca9bc0e8ba0505cedced1daa51390374"
     },
     "Outgame0405": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before going to the infirmary during training.",
         "hash": "39f6010b14d3c314ea2e4f5747fc7af51655a653a24b3313aefaef49ea1aca1d"
     },
     "Outgame0406": {
@@ -9516,15 +9516,15 @@
         "hash": "5f451f337f70eb567736a22dc3b746eb891e6d2774d410b1ae5909ad2cd307bf"
     },
     "Outgame0451": {
-        "text": "",
+        "text": "Training Completion Settings",
         "hash": "39cf17645788f341dc70f2aeefb81114b924e479b342d7dc727d1a4bd610e9c0"
     },
     "Outgame0452": {
-        "text": "",
+        "text": "Nickname setting popup",
         "hash": "c2f527036f9a06924b2c263d78d58b40338969510e9b15e551531b03c9b6973d"
     },
     "Outgame0453": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup for setting a nickname after a training run.",
         "hash": "1e5eec46ed62737e052f11a73fc2b38fc65b3b71c15b3e46eca5c006078ba35a"
     },
     "Outgame0454": {
@@ -9600,7 +9600,7 @@
         "hash": "2cccf26af78f94a5ffa3ed3643e0cd13b782366a9641bbcf3dbbd79334870b43"
     },
     "Outgame0472": {
-        "text": "",
+        "text": "When ON, an alert popup will appear when topping up more than 100,000 DMM points in a month.",
         "hash": "7de79529dc96d191b60d733a45842d1fec9ca22b67bab53621b4279d02ef7154"
     },
     "Outgame0473": {
@@ -9648,15 +9648,15 @@
         "hash": "2b295d6e1c90174411e5df61afc76f5c552fd19a23c25ff68927da14a728a313"
     },
     "Outgame419001": {
-        "text": "",
+        "text": "Training Race Outfit Setting",
         "hash": "cd00165cb772ed9d69dd79179d3694b685e10bac89305408f311743cfc7dfd50"
     },
     "Outgame419002": {
-        "text": "",
+        "text": "Use gym clothes for G2 and below.",
         "hash": "611db360f8a6d17257babbc00f9f2b092e7ee485ef7cdb8765744013cdf6f976"
     },
     "Outgame419003": {
-        "text": "",
+        "text": "When ON, gym clothes will be used for G2 and below.",
         "hash": "e5ec558e9e0448db93dc1d3c348fedc97924657f66dc38920cc42375ccf6002e"
     },
     "Outgame424001": {
@@ -9816,7 +9816,7 @@
         "hash": "6bf56d7cddc4bf3bfb15224466ee8040baf1bba45f87e2e13e665a12d3019079"
     },
     "Outgame126001": {
-        "text": "",
+        "text": "Display opponents' skills",
         "hash": "e41046e47d85cae635db4a9b7d82ba9a24cb4dea539e5d247408b7f89c2f2b76"
     },
     "Outgame126002": {
@@ -9824,7 +9824,7 @@
         "hash": "8accd57e4ccf17b6a4832dfff1ea8a2ac18b25fad211d1998399d20c8359d8f9"
     },
     "Outgame126003": {
-        "text": "",
+        "text": "Orientation\nduring races",
         "hash": "f9af295f5a73c7cf37bd55caf405da55d32be3dd72473041a6d546db6f27d8c3"
     },
     "Outgame124001": {
@@ -9844,11 +9844,11 @@
         "hash": "f9ced3915863f11d9a682db76de90e52ec07c908f16f1459737ba825a2ba31f2"
     },
     "Outgame424008": {
-        "text": "",
+        "text": "Jukebox",
         "hash": "3338645ab7647f3256fca82af37260dde2a01d91feff8c599e1ffe2dee58054b"
     },
     "Outgame424009": {
-        "text": "",
+        "text": "Play requests by other Trainers",
         "hash": "f9bff8829f42effc263e7d269a3aa7042707f006e92a97c2931991a148737a8a"
     },
     "Outgame124005": {
@@ -9924,7 +9924,7 @@
         "hash": "816574a41938c0c886b827faa05a304168b286191a01d33a815e194aed845780"
     },
     "Outgame126004": {
-        "text": "",
+        "text": "When ON, popups will appear when opponents' Hall of Fame Umamusume activate their Rare Skills or Unique Skills.\nIn practice, the skills of Hall of Fame Umamusume and practice partners will be displayed.\nIn main story races, only relevant skills will be displayed.",
         "hash": "3ae434c4793ecab795dfba6043a0ec107b3823ff7791adfab9cc968b5495f09a"
     },
     "Outgame187001": {
@@ -9936,19 +9936,19 @@
         "hash": "37ddd38bfcaaeefaa62177ab0ff8cc42d768e48a2fd32ab89fe9e67c4e7108f7"
     },
     "Outgame187003": {
-        "text": "",
+        "text": "High quality 3D for races",
         "hash": "15990a900f1e9c640f4d845839cab124359b3be6bdac8e697d775b82771cae99"
     },
     "Outgame187004": {
-        "text": "",
+        "text": "When ON, higher quality turf, dirt, audience, weather effects etc. will be used for better immersion.",
         "hash": "6d9bebbc190bac3766c8633a6308ece6a689539f875a5c15c5681077ea3d68b4"
     },
     "Outgame187005": {
-        "text": "",
+        "text": "May cause performance issues on some devices.",
         "hash": "55ad68d35e9d76bd277bd5eb0b27a8d8cf0c04d6547b6fa7be731a6a89382da7"
     },
     "Outgame187006": {
-        "text": "",
+        "text": "Only available when quality\nis set to \"Standard\".",
         "hash": "081be41845f9598e2748f3655e2617483d49ca5b180b815e3c3170a5535b5433"
     },
     "Outgame187007": {
@@ -10016,11 +10016,11 @@
         "hash": "242fbd71496d120f45b8861141ad14f1117fb9ac924a9cd02e868d6ca6f50968"
     },
     "Outgame213001": {
-        "text": "",
+        "text": "Photo Button Display",
         "hash": "919f89a6638f3bdd522fee9f58a8aab77f7730119e325d2653d3deb5154ddc7d"
     },
     "Outgame213002": {
-        "text": "",
+        "text": "Display the photo button on screen",
         "hash": "8e8e57504bb7466158e0f3ae9b292a9ffed9d414d2ceb89d68c78ad3797f92c4"
     },
     "Outgame213003": {
@@ -10120,7 +10120,7 @@
         "hash": "5badbb57319f39e143557d76769a1aacc48fb1af9c83b7c3cef889d7517d2190"
     },
     "Outgame213035": {
-        "text": "",
+        "text": "<nb>Concert",
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Outgame213036": {
@@ -10352,11 +10352,11 @@
         "hash": "9226c86dabea627cbb581a3438aab0c36880f1ec74de8b7242e5b16d8e4689e2"
     },
     "Outgame213093": {
-        "text": "",
+        "text": "Display Save popup",
         "hash": "77a618d05ab3c64e338c2114b03f37e7909b617cf1c152d61586f88b616af4f7"
     },
     "Outgame213094": {
-        "text": "",
+        "text": "When OFF, there will be no confirmation popup when saving a photo.",
         "hash": "9143d505a375eec5c33b0d0cd2b8f9c0da21200c7f57715b2610fcf6f2d0c754"
     },
     "Outgame213095": {
@@ -10644,7 +10644,7 @@
         "hash": "bdacb8c89e640706aabb7cd8b9dad4299ea77c8f39428d34754aac9593914f66"
     },
     "Outgame408038": {
-        "text": "",
+        "text": "When ON, you can take screenshots on certain screens. For more details, see the Photos section of the Help Center.",
         "hash": "e32344011487e9aea2e88ddde84c9fa8c9ece27279e6996feb72440caa2189ac"
     },
     "Outgame408039": {
@@ -10952,19 +10952,19 @@
         "hash": "88adb64ab97ef4e864a7c8bc9aea2c2394f168321ed86fff422ff0b30c3971a0"
     },
     "Outgame467015": {
-        "text": "",
+        "text": "Fanfare sound",
         "hash": "32c78dcff24b91bbdd8d6f3c38c0393d4ce97333036c0e264586b772620ed531"
     },
     "Outgame467016": {
-        "text": "",
+        "text": "Game original ver.",
         "hash": "e34341a161e9dec69c728a717bf9fe871e3bf0d39087e6cec7ddea1231f3e7a1"
     },
     "Outgame467017": {
-        "text": "",
+        "text": "JRA/Local ver.",
         "hash": "d97ef3e9b36b792ff983835726bd8138b2384278d2454ef3e3f243668e3081e4"
     },
     "Outgame467018": {
-        "text": "",
+        "text": "Only applies to certain races.\nWhen choosing \"JRA/Local ver.\" for the first time, <color=#ff911c>return to the title screen to download the music.</color>",
         "hash": "3242982d1c63a764b570ec5fa00fabf983d2e8a16aa23fc2650b286922df8f8b"
     },
     "Outgame467019": {
@@ -11056,19 +11056,19 @@
         "hash": "82c6dde2e824b2ac57c3a966dc553632c5c5daf02bc23ff92e6f5b6ddd3e4a87"
     },
     "Outgame497005": {
-        "text": "",
+        "text": "Delete music data",
         "hash": "84cf65597de1869cb55684e11dccb3ec4b833c1e2410052c7eed49a32691761b"
     },
     "Outgame497006": {
-        "text": "",
+        "text": "Deletes Game Size Ver. data from your device.",
         "hash": "9d37e7421b9704310022e6038a1a97d4b8517eef5bd4e33833bb94d723e570e3"
     },
     "Outgame497007": {
-        "text": "",
+        "text": "Data Deletion",
         "hash": "1644f4ad600f45dc89334ca55d72e9f9ccbdf4fdc408fb28334707e9034b2e72"
     },
     "Outgame497008": {
-        "text": "",
+        "text": "Music data will be deleted from your device.\n({0:0.00}MB).",
         "hash": "f8542ea89d989343b1fc086332b079c2ea15c16bdd34f94cec414d82d9eb6faf"
     },
     "Outgame497009": {
@@ -17620,7 +17620,7 @@
         "hash": "f4fbbfd493b689a74fd39ea18ba3bf453c5267aeeeea6de88340679472561b89"
     },
     "SingleMode418070": {
-        "text": "",
+        "text": "Training Feature Settings",
         "hash": "6e3d0653129bc794563d282872cc9702edd76f1f88c3d9482a58ca895aa97ab6"
     },
     "SingleMode424001": {
@@ -17804,15 +17804,15 @@
         "hash": "ecd6c79ab05507a1e8c6f4a5f4bb63f9e69de127dc2db55a9ec319f1ce6634ca"
     },
     "SingleMode400119": {
-        "text": "",
+        "text": "Don't skip Main Scenario events",
         "hash": "076ae3a23cbfd25124a06fe4bc9f38d7f623e6a390d163fa28f1119056521e84"
     },
     "SingleMode400120": {
-        "text": "",
+        "text": "Don't skip Training Umamusume events",
         "hash": "9ecfdf575c568d207dd3b4cc271e8c53f87197477dc8d48dd3e2a38c7709b9b0"
     },
     "SingleMode400121": {
-        "text": "",
+        "text": "When ON, selected training events will not be skipped even when using the skip function during training.",
         "hash": "ea3e116759226c6e9fffcb3334a3d63b5e3c05d1b1e1d78267d08bb3081f9417"
     },
     "SingleMode419100": {
@@ -17992,19 +17992,19 @@
         "hash": "3dae809113a60bd1a7fbbe506bd691147993bcbb3ddff05bc863a0ffb79d6223"
     },
     "SingleMode423001": {
-        "text": "",
+        "text": "When ON, the speed of skips during training will be increased further.",
         "hash": "846f6cae14fe45466be480f788d4655aaffdce21498ecfe9b268c55f1c4d1082"
     },
     "SingleMode423002": {
-        "text": "",
+        "text": "Super Skip Settings",
         "hash": "04dae214d6c51b526000a6496595a3b40f269e585473ad758fd7de3e77612e8a"
     },
     "SingleMode423003": {
-        "text": "",
+        "text": "Super Skip",
         "hash": "40ba4feb3c8abad62b925f8ed0b90d158f71fb0c1d4653f9720a8b014ec83774"
     },
     "SingleMode425015": {
-        "text": "",
+        "text": "Training BGM",
         "hash": "ad209c4a4ed0967eceef01ebdfa9318bbb83e0b37f0347ecb624924e403896c2"
     },
     "SingleMode425016": {
@@ -18056,11 +18056,11 @@
         "hash": "20daa735cae566d19697db83764eee9b65c239a8e0441dac4f830f5493cd3d24"
     },
     "SingleMode539006": {
-        "text": "",
+        "text": "Skip the tutorial event",
         "hash": "8625a83af3f559528a2520e83a1e7690dc1264956a58cb585db90c44a6b5c5d0"
     },
     "SingleMode539007": {
-        "text": "",
+        "text": "When ON, the tutorial event will be skipped after it is seen once. <color=#ff911c>It will be shown once when playing a scenario for the first time.</color>",
         "hash": "80b14b9fb5dbebaf30a4587ffdf00bfc0601f978fef392aa16313d0b780a21de"
     },
     "SingleMode497008": {
@@ -18328,11 +18328,11 @@
         "hash": "d8218f23891e3ba3dd3beb584d8941de5c4bdfdb94713a1d1e2d875bc2000769"
     },
     "SingleModeScenarioArc0057": {
-        "text": "",
+        "text": "When doing an overseas race",
         "hash": "f27cca1b6476e5ecc5b1b882492a0f17b5af9c6103a10dae85725e6fb4f03d04"
     },
     "SingleModeScenarioArc0058": {
-        "text": "",
+        "text": "When OFF, you will not see a popup before an overseas race while an aptitude can still be upgraded.",
         "hash": "67a8f9c0058c2f3735388255a8b700d2ea4c1ad26fdcc585251450c82566eb1e"
     },
     "SingleModeScenarioArc0059": {
@@ -18956,11 +18956,11 @@
         "hash": "3ae809da2c22fc82b883fb645b9c555165b14db2d0783457b4c825b2773f9d96"
     },
     "SingleModeScenarioFree419080": {
-        "text": "",
+        "text": "When buying in the Special Shop",
         "hash": "1a91986bc98f4feab7170248d31ca9e9412f8da3f840d631c6c64ba4e00fca6f"
     },
     "SingleModeScenarioFree419081": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before buying items in the Special Shop.",
         "hash": "1d5a837353638ca959cce86334fd7f444c41c1151f02af99e629e07bc752aab7"
     },
     "SingleModeScenarioFree418001": {
@@ -18976,11 +18976,11 @@
         "hash": "14d770f2301be38e7c59bcaeaed146cffdb93ed3848ada23b4550fee7577096c"
     },
     "SingleModeScenarioFree418004": {
-        "text": "",
+        "text": "Special Shop auto-use",
         "hash": "713deeeb5ac10d08932323356d046d8fa10ae54b9e028480645444342e6052db"
     },
     "SingleModeScenarioFree418005": {
-        "text": "",
+        "text": "When ON, some items will be used automatically when bought from the Special Shop.",
         "hash": "788c059dc6fd31c4c00534af13fb921b582e4d2930cd760009bd42439e912da4"
     },
     "SingleModeScenarioFree418006": {
@@ -22728,11 +22728,11 @@
         "hash": "c0ed0afda8a3df5e5156fdf3c415bd996fd0fc94b54087fc78fe35e2f99ad487"
     },
     "Title0026": {
-        "text": "Download All Data",
+        "text": "Download all data",
         "hash": "e9024d608c24dd765d2b90fc7bf18e1988ffbe67bb2a3f739e9a96eb686aa23f"
     },
     "Title0027": {
-        "text": "",
+        "text": "No game data available to download.",
         "hash": "1fc9ce0796079766c684804e8abe58df639596cd687661316f171e2f417edf4e"
     },
     "Title0028": {
@@ -23596,7 +23596,7 @@
         "hash": "f6d3a16a475e4d1d2efa99e732c7d4154e5c661da4dc7d70d13c7e8039ebc581"
     },
     "TransferEvent0021": {
-        "text": "",
+        "text": "<nb>Training",
         "hash": "a4e73d3dc3970c0deb1b30ba6c787e28459a098db91d305415e2645b5a41c99d"
     },
     "TransferEvent0022": {
