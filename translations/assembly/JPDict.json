@@ -6024,7 +6024,7 @@
         "hash": "e75bd5a6b737dac2c7c03883652162f9e7a0ea85e0b88a6d56a02ca91ff1707f"
     },
     "Gallery511001": {
-        "text": "<mon>{0} <ords>{1}<orde>",
+        "text": "<mon>{0} {1}<ord={1}>",
         "hash": "d330a421ce9e83b06660086c19c903f70d9fdaa9ad3e805cad041d482ab6183a"
     },
     "Gallery511002": {
@@ -6896,7 +6896,7 @@
         "hash": "a3d6c4f6fb9bb9e528d0ee79715a395daefec3eb98f683dcd47d7202202f05a4"
     },
     "Heroes511141": {
-        "text": "<ords>{0}<orde>～<ords>{1}<orde>",
+        "text": "{0}<ord={0}>～{1}<ord={1}>",
         "hash": "494a1c2b3393ced834acf725ff1bf1e0c191e02eb4a724f8a2297b35f118efa0"
     },
     "Heroes511142": {
@@ -12632,7 +12632,7 @@
         "hash": "7f5ea983858ef801024bbfe4af68b08042919f4828bf0068f1bc4ec8c9ce9b57"
     },
     "Race0140": {
-        "text": "<ords>{0}<orde> fav.",
+        "text": "{0}<ord={0}> fav.",
         "hash": "dfe33acc0ecaa179d29c7e8953ed2ab0b9855e21268ec83c169bcd4e94b535a7"
     },
     "Race0148": {
@@ -16724,11 +16724,11 @@
         "hash": "16fd6eadfb8873e2729a24425ec8cf9e04ef2fa6bf5343b82bee0737dc95ec1e"
     },
     "SingleMode0469": {
-        "text": "Entered as <ords>{0}<orde> fav. and ",
+        "text": "Entered as {0}<ord={0}> fav. and ",
         "hash": "8782202c902dab627f3f308149efecd808eb0a95a52fadb8eb368894cfff3cbc"
     },
     "SingleMode0470": {
-        "text": "<color=#2E85E6>finished <ords>{0}<orde></color>",
+        "text": "<color=#2E85E6>finished {0}<ord={0}></color>",
         "hash": "f21019026f9e52646ba36d3224b45336454c01fc906ae5b000ebdcf8c41f5f4e"
     },
     "SingleMode0471": {
@@ -18616,11 +18616,11 @@
         "hash": "54ff8445f24b6cc95066955158cc8eb7d744e3d3bc32b297cccbf8826b5d9cfa"
     },
     "SingleModeScenarioFree425005": {
-        "text": "<ords>{0}<orde>",
+        "text": "{0}<ord={0}>",
         "hash": "cdfe2624a379714ff8885e9f3293c1654cb6a81f62573f0a9cb72a6b5d725df0"
     },
     "SingleModeScenarioFree425006": {
-        "text": "<ords>{0}<orde>〜",
+        "text": "{0}<ord={0}>〜",
         "hash": "d554e4c2503d0bfe9c81108002c58ec6ad601c483a449c0a5cc0eb105b1ce062"
     },
     "SingleModeScenarioFree425007": {
@@ -22328,7 +22328,7 @@
         "hash": "885cb6023e59cb6b4c8d9493b169841403bf0b2c83a4692363c4c6346a9bb94c"
     },
     "TeamStadium0021": {
-        "text": "{0:#,0}",
+        "text": "",
         "hash": "b302a7a97d048e3236ed2f8eb07f97fd735373fcfe9e93e26f4395855fdfd113"
     },
     "TeamStadium0023": {
