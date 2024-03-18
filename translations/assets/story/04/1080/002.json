@@ -12,12 +12,12 @@
             "clip_length": 45
         },
         {
-            "text": "This girl's particularly hard to please. \nTotal opposite of you, eh? Trainer-chan!",
+            "text": "This girl's particularly hard to please. \nTotal opposite of you, eh? Trainer-chan.",
             "name": "Transcend",
             "path_id": -3884505504028554345,
             "block_id": 1,
             "clip_length": 194,
-            "processed": "<story>This girl's particularly hard to please. \n<story>Total opposite of you, eh? Trainer-chan!"
+            "processed": "<story>This girl's particularly hard to please. \n<story>Total opposite of you, eh? Trainer-chan."
         },
         {
             "text": "We're watching videos of Umamusume running that \nTranscend filmed. She's adding extra info that you \ncan't grasp <i>just</i> from seeing them run.",
@@ -271,28 +271,28 @@
             "processed": "<story>Kuuuuh!"
         },
         {
-            "text": "... This was supposed to be a mere stroll at dusk. \nWhen I got to the vantage point, I noticed a girl \nI didn't recognize. Her body and voice are shivering.",
+            "text": "—This was supposed to be a mere stroll at dusk. \nWhen I got to the vantage point, I heard her shout \nlike I hadn't heard before. A chill went down my spine.",
             "name": "",
             "path_id": 7838643770512993010,
             "block_id": 29,
             "clip_length": 114,
-            "processed": "<story>... This was supposed to be a mere stroll at dusk. \n<story>When I got to the vantage point, I noticed a girl \n<story>I didn't recognize. Her body and voice are shivering."
+            "processed": "<story>—This was supposed to be a mere stroll at dusk. \n<story>When I got to the vantage point, I heard her shout \n<story>like I hadn't heard before. A chill went down my spine."
         },
         {
-            "text": "I couldn't help but feel worried. She looked like she ran \nalmost <i>too</i> much. She's covered in sweat and barely able \nto stand up straight.",
+            "text": "Worried sick, I looked for her. \nWhen I found her, she was covered in sweat \nand barely able to stand up straight.",
             "name": "",
             "path_id": -1593401458591617296,
             "block_id": 30,
             "clip_length": 99,
-            "processed": "<story>I couldn't help but feel worried. She looked like she ran \n<story>almost <i>too</i> much. She's covered in sweat and barely able \n<story>to stand up straight."
+            "processed": "<story>Worried sick, I looked for her. \n<story>When I found her, she was covered in sweat \n<story>and barely able to stand up straight."
         },
         {
-            "text": "Yeah, sorry about just now. Did I make you worried? \nThanks for keeping an eye out for me.",
+            "text": "Yeah, sorry about just now. Did I worry you? \nThanks for keeping an eye out for me.",
             "name": "Transcend",
             "path_id": 9081540797290808552,
             "block_id": 31,
             "clip_length": 195,
-            "processed": "<story>Yeah, sorry about just now. Did I make you worried? \n<story>Thanks for keeping an eye out for me."
+            "processed": "<story>Yeah, sorry about just now. Did I worry you? \n<story>Thanks for keeping an eye out for me."
         },
         {
             "text": "She's smiling at me as if nothing happened. \nAs if she had merely pulled my leg.",
@@ -303,7 +303,7 @@
             "processed": "<story>She's smiling at me as if nothing happened. \n<story>As if she had merely pulled my leg."
         },
         {
-            "text": "Hmm? You seem frustrated. What's the matter?",
+            "text": "Hmm? You seem worried. \nWhat's the matter?",
             "name": "Transcend",
             "path_id": -1873970904304215951,
             "block_id": 33,
@@ -314,46 +314,47 @@
                     "hash": "aad90bd8314a79dda6bcb67cd3997bb49048e92a48e6eb7ea556c3e96f6f22a4"
                 }
             ],
-            "processed": "<story>Hmm? You seem frustrated. What's the matter?"
+            "processed": "<story>Hmm? You seem worried. \n<story>What's the matter?"
         },
         {
-            "text": "Back then...? Ah... You heard me? \nActually, it's my bad for thinking out loud.",
+            "text": "Back then...? Ah... You heard me? \nActually, it's my bad for screaming.",
             "name": "Transcend",
             "path_id": -8943751464890479250,
             "block_id": 34,
             "clip_length": 261,
-            "processed": "<story>Back then...? Ah... You heard me? \n<story>Actually, it's my bad for thinking out loud."
+            "processed": "<story>Back then...? Ah... You heard me? \n<story>Actually, it's my bad for screaming."
         },
         {
-            "text": "I'm sooo embarrased. \nYou could've stayed silent you know, Trainer-chan.",
+            "text": "I'm sooo embarrased. You could've pretended \nyou didn't hear anything, Trainer-chan.",
             "name": "Transcend",
             "path_id": -2925064485867899039,
             "block_id": 35,
             "clip_length": 171,
-            "processed": "<story>I'm sooo embarrased. \n<story>You could've stayed silent you know, Trainer-chan."
+            "processed": "<story>I'm sooo embarrased. You could've pretended \n<story>you didn't hear anything, Trainer-chan."
         },
         {
-            "text": "It's not that I didn't want to hear it. Rather, I want \nto tell her that her actions have consequences.",
+            "text": "I think she wanted me to hear it on purpose. \nAs to make me understand how she feels about running.",
             "name": "",
             "path_id": -4629449101536753176,
             "block_id": 36,
             "clip_length": 110,
-            "processed": "<story>It's not that I didn't want to hear it. Rather, I want \n<story>to tell her that her actions have consequences."
+            "processed": "<story>I think she wanted me to hear it on purpose. \n<story>As to make me understand how she feels about running."
         },
         {
-            "text": "She probably already knows, anyway. \nStill, ",
+            "text": "... Perhaps so. \nI just wish she'd put it into words.",
             "name": "",
             "path_id": -6915744457392431489,
             "block_id": 37,
             "clip_length": 85,
-            "processed": "<story>She probably already knows, anyway. \n<story>Still, "
+            "processed": "<story>... Perhaps so. \n<story>I just wish she'd put it into words."
         },
         {
-            "text": "",
+            "text": "I wonder if this relates to why I wasn't able \nto make my choice...",
             "name": "",
             "path_id": -3526820183468871214,
             "block_id": 38,
-            "clip_length": 106
+            "clip_length": 106,
+            "processed": "<story>I wonder if this relates to why I wasn't able \n<story>to make my choice..."
         },
         {
             "text": "Trainer-chan?",
@@ -386,67 +387,76 @@
             "processed": "<story>I just want to have fun, y'know."
         },
         {
-            "text": "",
+            "text": "There's only so far you can stretch expectations. \nFor running, there are limits for example.",
             "name": "Transcend",
             "path_id": 2913576706795518802,
             "block_id": 42,
-            "clip_length": 219
+            "clip_length": 219,
+            "processed": "<story>There's only so far you can stretch expectations. \n<story>For running, there are limits for example."
         },
         {
-            "text": "",
+            "text": "But... I feel like I could break free from all that when I race. \nJust having rivals around lets me go further.",
             "name": "Transcend",
             "path_id": -4304765642564105343,
             "block_id": 43,
-            "clip_length": 331
+            "clip_length": 331,
+            "processed": "<story>But... I feel like I could break free from all that when I race. \n<story>Just having rivals around lets me go further."
         },
         {
-            "text": "",
+            "text": "Isn't that hella exciting?",
             "name": "Transcend",
             "path_id": 5189941546612433853,
             "block_id": 44,
-            "clip_length": 106
+            "clip_length": 106,
+            "processed": "<story>Isn't that hella exciting?"
         },
         {
-            "text": "",
+            "text": "Her words hit me hard. Hard enough to dislodge the words \nthat had been stuck at the back of my throat...",
             "name": "",
             "path_id": -2805651124781424705,
             "block_id": 45,
             "clip_length": 119,
             "choices": [
                 {
-                    "text": "",
-                    "hash": "76dbf5dd6ebe79c143476e3e3736d575698d59700a02dd42a31aacc9baaba523"
+                    "text": "Just setting expectations alone isn't enough.",
+                    "hash": "76dbf5dd6ebe79c143476e3e3736d575698d59700a02dd42a31aacc9baaba523",
+                    "processed": "<size=37>Just setting expectations alone isn't enough.</size>"
                 }
-            ]
+            ],
+            "processed": "<story>Her words hit me hard. Hard enough to dislodge the words \n<story>that had been stuck at the back of my throat..."
         },
         {
-            "text": "",
+            "text": "...!",
             "name": "Transcend",
             "path_id": 9060223009972277544,
             "block_id": 46,
-            "clip_length": 25
+            "clip_length": 25,
+            "processed": "<story>...!"
         },
         {
-            "text": "",
+            "text": "Exceeding all expectations, all imagination... \nWe both long for a race more thrilling than any other.",
             "name": "",
             "path_id": 3059882805143345634,
             "block_id": 47,
-            "clip_length": 103
+            "clip_length": 103,
+            "processed": "<story>Exceeding all expectations, all imagination... \n<story>We both long for a race more thrilling than any other."
         },
         {
-            "text": "",
+            "text": "Yes, exactly. \nThe best race, exceeding anything anyone \ncould ever imagine.",
             "name": "Transcend",
             "path_id": 8212858809771891499,
             "block_id": 48,
-            "clip_length": 300
+            "clip_length": 300,
+            "processed": "<story>Yes, exactly. \n<story>The best race, exceeding anything anyone \n<story>could ever imagine."
         },
         {
-            "text": "",
+            "text": "Isn't it thrilling?",
             "name": "Transcend",
             "path_id": 1226933307982817616,
             "block_id": 49,
-            "clip_length": 96
+            "clip_length": 96,
+            "processed": "<story>Isn't it thrilling?"
         }
     ],
-    "title": ""
+    "title": "Info: Recommended Umamusume"
 }
