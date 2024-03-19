@@ -399,7 +399,6 @@ def _import_story(story_data):
             no_tags_text = [c for c in re.sub(r'<[^>]*>', '', new_clip['text']) if c.isalnum() or c.isspace()]
             txt_len = len(no_tags_text) * 1.5
             new_clip_length = int(text_clip_data['WaitFrame'] + max(txt_len, text_clip_data['VoiceLength']))
-            print(new_clip['text'], int(txt_len), new_clip_length, org_clip_length)
         
         if new_clip_length > org_clip_length:
             text_clip_data['ClipLength'] = new_clip_length
