@@ -104,7 +104,7 @@ def set_text(text: str, widget: QPlainTextEdit):
     cursor = widget.textCursor()
     widget.clear()
 
-    text = text.replace(" \n", "\n")
+    text = text.replace("\r\n", "\n").replace(" \n", "\n")
     char_data = str_to_char_data(text)
 
     cursor.setPosition(0)
