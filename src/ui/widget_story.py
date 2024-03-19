@@ -32,6 +32,15 @@ TOP_LEVEL = {
     "80": "80 R Support Events",
     "82": "82 SR Support Events",
     "83": "83 SSR Support Events",
+    "00000": "home/Normal",
+    "00001": "home/Birthday",
+    "00002": "home/Special?",
+}
+
+HOME_SUB = {
+    "01": "Solo",
+    "02": "Duo",
+    "03": "Trio",
 }
 
 class Ui_story_editor(QWidget):
@@ -105,7 +114,7 @@ class Ui_story_editor(QWidget):
         if not self.btn_choices.text().endswith("*"):
             self.btn_choices.setText(self.btn_choices.text() + "*")
 
-    def fill_branch(self, parent, path):
+    def fill_branch(self, parent, path, home=False):
         # Add files/paths to the tree
         # First, delete any existing children
         if isinstance(parent, QTreeWidgetItem):
@@ -113,6 +122,8 @@ class Ui_story_editor(QWidget):
                 return
             parent.takeChildren()
             parent.setData(0, Qt.UserRole + 2, True)  # Loaded
+            if parent.data(0, Qt.UserRole + 3):
+                home = True
 
         for file_path in os.listdir(path):
             full_path = os.path.join(path, file_path)
@@ -128,22 +139,29 @@ class Ui_story_editor(QWidget):
 
             item_text = os.path.basename(full_path)
 
+            if home and item_text == "ui":
+                continue
+
             # Top Level
-            if len(segments) == 1 and TOP_LEVEL.get(segments[0]):
-                item_text = TOP_LEVEL.get(segments[0])
+            if len(segments) == 1 and TOP_LEVEL.get(item_text):
+                item_text = TOP_LEVEL.get(item_text)
+            
+            if home and len(segments) == 2 and HOME_SUB.get(segments[-1]):
+                item_text += " " + HOME_SUB.get(segments[-1])
             
             # Character stories
-            elif len(segments) == 2 and segments[0] in ["04", "50", "80"]:
+            elif (len(segments) == 2 and segments[0] in ["04", "50", "80"]) or (home and len(segments[-1]) == 4):
                 # Load character names
-                en_name = self.chara_name_dict.get(segments[1])
+                en_name = self.chara_name_dict.get(segments[-1])
                 if en_name:
-                    item_text = f"{segments[1]} {en_name}"
+                    item_text = f"{segments[-1]} {en_name}"
 
             item = QTreeWidgetItem(parent)
             item.setText(0, item_text)
             item.setData(0, Qt.UserRole, False)  # Not a directory
             item.setData(0, Qt.UserRole + 1, full_path)  # Store the file path
             item.setData(0, Qt.UserRole + 2, False)  # Not loaded
+            item.setData(0, Qt.UserRole + 3, home)  # Home
 
             if is_dir:
                 item.setData(0, Qt.UserRole, True)  # Directory
@@ -648,6 +666,7 @@ class Ui_story_editor(QWidget):
         self.treeWidget.itemClicked.connect(self.on_tree_item_clicked)
 
         self.fill_branch(self.treeWidget, self.root_dir)
+        self.fill_branch(self.treeWidget, util.ASSETS_FOLDER_EDITING + "home", home=True)
 
 
         self.treeWidget.setObjectName(u"treeWidget")

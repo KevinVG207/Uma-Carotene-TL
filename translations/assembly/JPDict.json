@@ -1732,11 +1732,11 @@
         "hash": "8ba79336456f9f8f863c18892cdc79442c09fdd126cea6a0bf39f633e2c83a2a"
     },
     "Character0008": {
-        "text": "",
+        "text": "Choose Umamusume",
         "hash": "10ab80d9b4e49ae94c0404bf682ee173921cb038ef616ce66f3c71b3a83f88a1"
     },
     "Character0009": {
-        "text": "",
+        "text": "Profile",
         "hash": "d9251b856c472b7aa03ce3b80d495c204fcf7fa2c0713856e929a54927771572"
     },
     "Character0013": {
@@ -1872,7 +1872,7 @@
         "hash": "9dda070431120bfee2949665f50175ddd3ec285ca8a5f4ccebc1c27f2bb77143"
     },
     "Character0077": {
-        "text": "In Use",
+        "text": "<nb>In Use",
         "hash": "242fbd71496d120f45b8861141ad14f1117fb9ac924a9cd02e868d6ca6f50968"
     },
     "Character0079": {
@@ -2540,19 +2540,19 @@
         "hash": "9d74e39d4b8ad0afc45fef283ce52f77fe99c90c1ccbd722c566ce9e0464ff8a"
     },
     "Circle0141": {
-        "text": "<force><p=year,years>{0}</p> ago",
+        "text": "<force>{0} <p=year,years,{0}> ago",
         "hash": "7b40ea13ef8c75f660dd070b68dc0c095ee2f4ed1c96c99c20415b33d96664fe"
     },
     "Circle0142": {
-        "text": "<force><p=day,days>{0}</p> ago",
+        "text": "<force>{0} <p=day,days,{0}> ago",
         "hash": "44af3e0e2e7d57f953d58176d5d8cd7d6171129b1e5fbfbb3591c1200c293d5e"
     },
     "Circle0143": {
-        "text": "<force><p=hour,hours>{0}</p> ago",
+        "text": "<force>{0} <p=hour,hours,{0}> ago",
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Circle0144": {
-        "text": "<force><p=min,mins>{0}</p> ago",
+        "text": "<force>{0} <p=min,mins,{0}> ago",
         "hash": "e738489e75091f0a145fe498e1b7833db59ab1562c25b5a4b57eea3289fa2bca"
     },
     "Circle0145": {
@@ -3640,11 +3640,11 @@
         "hash": "b259d2df08fa205517e750d00a1c9958cfa801026adcb09f3b0824cd5dca032f"
     },
     "Common0032": {
-        "text": "",
+        "text": "SFX",
         "hash": "84e3af894d83b540166bd5dddcc7c0971933ab251ea5028abac6dfa58e7302a8"
     },
     "Common0033": {
-        "text": "",
+        "text": "<nb>Voice",
         "hash": "b25ace0065ed7d840e4ebd61b1d4da80bde5894ab137a3aa9196a88610b1a7dd"
     },
     "Common0034": {
@@ -3652,7 +3652,7 @@
         "hash": "c8c8677a84ba3062cdf09f6632d114bd46855d5163cc9a530d10ac56eb9417b8"
     },
     "Common0035": {
-        "text": "",
+        "text": "<nb>Concert",
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Common0036": {
@@ -3696,7 +3696,7 @@
         "hash": "4c1374b3076d1cfb73f01213d14d312f8e3ba267e59f549f33a150989de657f1"
     },
     "Common0048": {
-        "text": "",
+        "text": "Reset to default",
         "hash": "531b56646d34285c902725221a91ea6adf1d8079db025777f2e14507ce6a3248"
     },
     "Common0050": {
@@ -3760,15 +3760,15 @@
         "hash": "2a3da8a22b9704228f1c1364ad232b72881fe6ceac8b1cdd1c94538d0674325e"
     },
     "Common0067": {
-        "text": "<nb><p=day,days>{0}</p> left",
+        "text": "<nb>{0} <p=day,days,{0}> left",
         "hash": "a5adbbb8c3e3c500b5035adb50968197b773bed2009bbb92328bc69b0cc1bf65"
     },
     "Common0068": {
-        "text": "<nb><p=hour,hours>{0}</p> left",
+        "text": "<nb>{0} <p=hour,hours,{0}> left",
         "hash": "bcda864d7401a42abe98069f11cf19a802891c822e89083c19f5060e610b82c1"
     },
     "Common0069": {
-        "text": "<nb><p=min,mins>{0}</p> left",
+        "text": "<nb>{0} <p=min,mins,{0}> left",
         "hash": "19f8d963793f9526d3f7717aebd682af1009ee8c7326b3278d219842b7e97a44"
     },
     "Common0070": {
@@ -4128,7 +4128,7 @@
         "hash": "0696f6a6301c786861635ef07d40649153b8c922e75f7491a9c0adc4bda5ba35"
     },
     "Common0170": {
-        "text": "",
+        "text": "Download",
         "hash": "b85d7a94ae5775cf4becd9a65f79e5844d45d854bb92a29c88db65d609e6ff91"
     },
     "Common0176": {
@@ -4200,7 +4200,7 @@
         "hash": "b14cd71dbeb8201b185334a377a8f91c97ff41b66adf18a7c492a70df43b7a81"
     },
     "Common0206": {
-        "text": "<p=hour,hours>{0}</p>",
+        "text": "{0} <p=hour,hours,{0}>",
         "hash": "2a48fe363ae0e8466c024852a491e48d0c6207884a0967316ebc607f734980d1"
     },
     "Common0208": {
@@ -4292,7 +4292,7 @@
         "hash": "929da374ec5ad7970751f1efb841d08693b39558de6e5660b0fb50ab725bbb09"
     },
     "Common0261": {
-        "text": "",
+        "text": "Save",
         "hash": "a3030bf8f16dc63c6b277564c68f78a3be5abe5f2907c51826dee7184ff793fd"
     },
     "Common0263": {
@@ -4444,15 +4444,15 @@
         "hash": "2b313a145dcb007a58c0880e00368b0dca1b7c5e65ae11d39ffdac10890a4386"
     },
     "Common0310": {
-        "text": "<p=min,mins>{0}</p>",
+        "text": "{0} <p=min,mins,{0}>",
         "hash": "c4797932a5b97ecca2ea7e8a09d755fc4ead7de55eb55d70acadbfb0e4eb505a"
     },
     "Common0311": {
-        "text": "<p=hour,hours>{0}</p>",
+        "text": "{0} <p=hour,hours,{0}>",
         "hash": "2a48fe363ae0e8466c024852a491e48d0c6207884a0967316ebc607f734980d1"
     },
     "Common0312": {
-        "text": "<p=day,days>{0}</p>",
+        "text": "{0} <p=day,days,{0}>",
         "hash": "550403ef3490f7c209183cea62de61e15794c84be75933ba678008a4f8a20dce"
     },
     "Common0313": {
@@ -4464,7 +4464,7 @@
         "hash": "e6e6a85f5d4b6c8bf0d0b5029dd2f7832dfe06ebee97323f378748451e4a404a"
     },
     "Common0315": {
-        "text": "<p=turn,turns>{0}</p>",
+        "text": "{0} <p=turn,turns,{0}>",
         "hash": "99ce69fd2e17c3858bbdadbe96f24c7cc12f3174e603823ce2c6d9b67387e4e9"
     },
     "Common419004": {
@@ -4564,7 +4564,7 @@
         "hash": "05d3230de1a59bab0c85f018d7ff6748fe5a2557a91aa95c92e4e9ffd236c363"
     },
     "CustomRace0100": {
-        "text": "",
+        "text": "<nb>Season",
         "hash": "666d0207575180f162f56aaa3b3099743b0e59c3608d0a493b78447117f4fcb0"
     },
     "CustomRace0101": {
@@ -4584,7 +4584,7 @@
         "hash": "16d265d3c1f1f30d79a4c93171a9238834aedbb8064c4131da8c4608804fedc5"
     },
     "CustomRace0204": {
-        "text": "",
+        "text": "General",
         "hash": "a37d92500512aa67af917e54004bca71aca32f64c63a2c8d93b8a713cc1b5184"
     },
     "CustomRace0243": {
@@ -4636,7 +4636,7 @@
         "hash": "2a1b4010c3be6516c4ea7c278b4123ad3a67b13deb8f292489e33e2b870691d0"
     },
     "Directory0014": {
-        "text": "",
+        "text": "No. of Training Runs",
         "hash": "b4393d824cee00c8f222d1ea19bbf3092629ef93e54179bdd22ee13b0fe31d47"
     },
     "Directory0015": {
@@ -5140,11 +5140,11 @@
         "hash": "4b2b661ffd6b881e0c333b570c2a634c60f518229828e17ab106a0bfb6db07c0"
     },
     "Friend0025": {
-        "text": "<force><p=hour,hours>{0}</p> ago",
+        "text": "<force>{0} <p=hour,hours,{0}> ago",
         "hash": "27e2809b8aad42245f0598c857ee6fd7f54cf4062e69a6922662d9f38165b8c1"
     },
     "Friend0026": {
-        "text": "<force><p=day,days>{0}</p> ago",
+        "text": "<force>{0} <p=day,days,{0}> ago",
         "hash": "44af3e0e2e7d57f953d58176d5d8cd7d6171129b1e5fbfbb3591c1200c293d5e"
     },
     "Friend0031": {
@@ -6024,7 +6024,7 @@
         "hash": "e75bd5a6b737dac2c7c03883652162f9e7a0ea85e0b88a6d56a02ca91ff1707f"
     },
     "Gallery511001": {
-        "text": "<mon>{0} <ords>{1}<orde>",
+        "text": "<mon>{0} {1}<ord={1}>",
         "hash": "d330a421ce9e83b06660086c19c903f70d9fdaa9ad3e805cad041d482ab6183a"
     },
     "Gallery511002": {
@@ -6148,39 +6148,39 @@
         "hash": "2bc4b979b307fc4588fc9dd26c89017c53c11471660d94a5b458695db4414787"
     },
     "Heroes408009": {
-        "text": "Starts in <p=day,days>{0}</p>",
+        "text": "Starts in {0} <p=day,days,{0}>",
         "hash": "ddec0953855bfd075381db4e3a18b58c8603e6a390ae650478aaeb3cdfa78d47"
     },
     "Heroes408010": {
-        "text": "Starts in <p=hour,hours>{0}</p>",
+        "text": "Starts in {0} <p=hour,hours,{0}>",
         "hash": "384d413cd8cf730a990aecd1fa359d9679f8537eba3d22fa276fc76084aed3a8"
     },
     "Heroes408011": {
-        "text": "Starts in <p=min,mins>{0}</p>",
+        "text": "Starts in {0} <p=min,mins,{0}>",
         "hash": "b89f36dcc389f30bf2f4c68883b13311725e0fa31ae00ba4ff65328db29b2b7d"
     },
     "Heroes408012": {
-        "text": "Main Stage ends in <p=day,days>{0}</p>",
+        "text": "Main Stage ends in {0} <p=day,days,{0}>",
         "hash": "14fbf99afd26e02ea39c7c99e19582e1d3e250060a97647735f684913340b147"
     },
     "Heroes408013": {
-        "text": "Main Stage ends in <p=hour,hours>{0}</p>",
+        "text": "Main Stage ends in {0} <p=hour,hours,{0}>",
         "hash": "b407e45d9bc982f05e64036e45b00f9d41fb3b1abc14db94613e9f278673f640"
     },
     "Heroes408014": {
-        "text": "Main Stage ends in <p=min,mins>{0}</p>",
+        "text": "Main Stage ends in {0} <p=min,mins,{0}>",
         "hash": "08fe4036158f2e32b2daa797770d4125e3460f5842398d9ff8d24da101206a37"
     },
     "Heroes408015": {
-        "text": "Rankings revealed in <p=day,days>{0}</p>",
+        "text": "Rankings revealed in {0} <p=day,days,{0}>",
         "hash": "117631fdd12976c9ab214d8505c979d5624e7b765957a6cdd5293bc11ce3b045"
     },
     "Heroes408016": {
-        "text": "Rankings revealed in <p=hour,hours>{0}</p>",
+        "text": "Rankings revealed in {0} <p=hour,hours,{0}>",
         "hash": "2ac313e565960701a4c7a22d161e008c30ad95a344aa9f526b78113c6d7ae9a8"
     },
     "Heroes408017": {
-        "text": "Rankings revealed in <p=min,mins>{0}</p>",
+        "text": "Rankings revealed in {0} <p=min,mins,{0}>",
         "hash": "4a069fa062d65bd8bb29b3a35cab04c1323bfed3145614e869247d728be2203b"
     },
     "Heroes408018": {
@@ -6612,43 +6612,43 @@
         "hash": "a73e6f1c7e46c0a5125b2ea64b12d29932a3fc746b788f2573fb2be9f14da386"
     },
     "Heroes511070": {
-        "text": "Rankings close in <p=day,days>{0}</p>",
+        "text": "Rankings close in {0} <p=day,days,{0}>",
         "hash": "66fe7bff2e0cabd577c669799c88e265d104e9f9eff46b810a1afda1b176d163"
     },
     "Heroes511071": {
-        "text": "Rankings close in <p=hour,hours>{0}</p>",
+        "text": "Rankings close in {0} <p=hour,hours,{0}>",
         "hash": "35ebcf2b48ff66c877c1a550728d12b0232c7d3ba97ff03d53effed7e4ec6641"
     },
     "Heroes511072": {
-        "text": "Picking starts in <p=day,days>{0}</p>",
+        "text": "Picking starts in {0} <p=day,days,{0}>",
         "hash": "6b8de4a7c129483fd48c90d10925af25530511baa89ef3cfda3a86bd0cbecb37"
     },
     "Heroes511073": {
-        "text": "Picking starts in <p=hour,hours>{0}</p>",
+        "text": "Picking starts in {0} <p=hour,hours,{0}>",
         "hash": "cb029b24e930dc1633ed7717be69e018708c157ada5283d3529a7f480cfefd95"
     },
     "Heroes511074": {
-        "text": "Entries close in <p=day,days>{0}</p>",
+        "text": "Entries close in {0} <p=day,days,{0}>",
         "hash": "d3975fb49aed536f0a6b53fb04cb363d13e2a81d7ec1d2804280ac6bdacdbc06"
     },
     "Heroes511075": {
-        "text": "Entries close in <p=hour,hours>{0}</p>",
+        "text": "Entries close in {0} <p=hour,hours,{0}>",
         "hash": "28e706e9320cda612b06ada010d084a8f7c07f0a794e7dd2ac410530ddb4369f"
     },
     "Heroes511076": {
-        "text": "Picking ends in <p=day,days>{0}</p>",
+        "text": "Picking ends in {0} <p=day,days,{0}>",
         "hash": "5c92552eb2a9d0fe02d1c85c2be46a7ed95f5d5b45e54942be352797ee85c3c4"
     },
     "Heroes511077": {
-        "text": "Picking ends in <p=hour,hours>{0}</p>",
+        "text": "Picking ends in {0} <p=hour,hours,{0}>",
         "hash": "a49b985d8da825a23c52f703abdbb7a00bde7f6221814df54202c14dbd1d6e0f"
     },
     "Heroes511078": {
-        "text": "<p=day,days>{0}</p> left",
+        "text": "{0} <p=day,days,{0}> left",
         "hash": "6afb39debd4dd1303fbff4afb45972ffe79526d8f4ade6c5a2fcec15e2621faf"
     },
     "Heroes511079": {
-        "text": "<p=hour,hours>{0}</p> left",
+        "text": "{0} <p=hour,hours,{0}> left",
         "hash": "9f81342e3d570a66f77a1b4a5de57c46f51c02d23500ded03dcea157f36f9b4b"
     },
     "Heroes511080": {
@@ -6864,15 +6864,15 @@
         "hash": "793cb9bdd7f1416e44f34d4a7d27cadd6d3bb72e8cb591dd208ed199055acc90"
     },
     "Heroes511133": {
-        "text": "Races start in <p=day,days>{0}</p>",
+        "text": "Races start in {0} <p=day,days,{0}>",
         "hash": "065e0a408bc536213727038755aeb35dbf88aa99177de6fb1a2f4fc3f253de80"
     },
     "Heroes511134": {
-        "text": "Races start in <p=hour,hours>{0}</p>",
+        "text": "Races start in {0} <p=hour,hours,{0}>",
         "hash": "36370ffdf0a09fd16651b169179b6e12d01adc24372d4d0765ac26e42fd6a3fc"
     },
     "Heroes511135": {
-        "text": "Races start in <p=min,mins>{0}</p>",
+        "text": "Races start in {0} <p=min,mins,{0}>",
         "hash": "f4fe0285769b9719a79d3581d61b1b18b4610d4ad6010ebfe953df7c92f8d89f"
     },
     "Heroes511136": {
@@ -6880,23 +6880,23 @@
         "hash": "4020c2e5cdba920e0993823666be8eb0f9a91a08ccf410683ef14da8f72fbb9b"
     },
     "Heroes511137": {
-        "text": "Rankings close in <p=min,mins>{0}</p>",
+        "text": "Rankings close in {0} <p=min,mins,{0}>",
         "hash": "f6483f286f360a2ba0b057fcf498ecdd033eb779e593476645e57081e2cc2f12"
     },
     "Heroes511138": {
-        "text": "Picking ends in <p=min,mins>{0}</p>",
+        "text": "Picking ends in {0} <p=min,mins,{0}>",
         "hash": "b4aea2d26fffb597ae88cfe17346c0e6acd2670e6d04adb72b3a0db889f0e9c0"
     },
     "Heroes511139": {
-        "text": "Entries close in <p=min,mins>{0}</p>",
+        "text": "Entries close in {0} <p=min,mins,{0}>",
         "hash": "10554c923d827ebe87eceb1e2ee255f9bd13163303bd1005d675569692b6776b"
     },
     "Heroes511140": {
-        "text": "<p=min,mins>{0}</p> left",
+        "text": "{0} <p=min,mins,{0}> left",
         "hash": "a3d6c4f6fb9bb9e528d0ee79715a395daefec3eb98f683dcd47d7202202f05a4"
     },
     "Heroes511141": {
-        "text": "<ords>{0}<orde>～<ords>{1}<orde>",
+        "text": "{0}<ord={0}>～{1}<ord={1}>",
         "hash": "494a1c2b3393ced834acf725ff1bf1e0c191e02eb4a724f8a2297b35f118efa0"
     },
     "Heroes511142": {
@@ -7128,15 +7128,15 @@
         "hash": "0f4ecf650b8dae6c3fc59c33b30dc3daff0ff55a805be08e631a645c545c6fed"
     },
     "Home0053": {
-        "text": "<nb><p=day,days>{1}</p> left",
+        "text": "<nb>{1} <p=day,days,{1}> left",
         "hash": "3dcefa527a2d405ff5b2070be34521c2735cf0656e02c5a3ae869067142882b7"
     },
     "Home0054": {
-        "text": "<nb><p=hour,hours>{1}</p> left",
+        "text": "<nb>{1} <p=hour,hours,{1}> left",
         "hash": "37f4abb578f9d68820e874347b54263530444e188f7d7e552d95c4b29d0f9e0b"
     },
     "Home0055": {
-        "text": "<nb><p=min,mins>{1}</p> left",
+        "text": "<nb>{1} <p=min,mins,{1}> left",
         "hash": "b74596ef82db2ec3bbf4054d8160146243bc4f5eb60836af67d304e94d6f7e28"
     },
     "Home0056": {
@@ -7608,7 +7608,7 @@
         "hash": "2792b32ffe7cc72105b54827b6c253c9ff560a7b3dcc7f88fb274f87cfbe69da"
     },
     "LiveTheater0022": {
-        "text": "",
+        "text": "<nb>Screen Orientation",
         "hash": "ab29037db1df2f7e180f7efae4d5affe13c6055c8a45e024a98c69d5f56b787f"
     },
     "LiveTheater0023": {
@@ -7772,7 +7772,7 @@
         "hash": "6e2a819490f1140f0cdf5a17ab6d7e0dbfaa9b530106a402133c37378cddfd6e"
     },
     "LiveTheater4830012": {
-        "text": "",
+        "text": "Save",
         "hash": "becf8cf397e1c553676d6e1de577f658f10de58d61bae61cffd797752fa54a8c"
     },
     "LiveTheater4830013": {
@@ -7944,7 +7944,7 @@
         "hash": "da7cde05a93eadf7843db4388087e0b65cd06e59a8f134ed1f98ff107cf8387d"
     },
     "Menu0003": {
-        "text": "",
+        "text": "Album",
         "hash": "84224c1aa68471fe8f562db3f2ed132ac7638bc26042c5d21d48720efa942a79"
     },
     "Menu0004": {
@@ -7956,7 +7956,7 @@
         "hash": "eceaed5aad9ecf1ef3a1a20e28b957c5ec023c382bc50d640a7b9c5690362024"
     },
     "Menu0009": {
-        "text": "Options",
+        "text": "Settings",
         "hash": "5b717728bbead38118553940600d0a6e78f6bab6a330874a69809e291682e3f5"
     },
     "Menu0010": {
@@ -7976,7 +7976,7 @@
         "hash": "ee8b9863d094d7ebbf7c196c072618cea1702b35ca105efc70f939ab3664e247"
     },
     "Menu0017": {
-        "text": "",
+        "text": "Sound",
         "hash": "1fec10d7b07a66bfb985d8bd8d0d63176398fc095149ff3118bfc0b2af8aad35"
     },
     "Menu0020": {
@@ -7992,7 +7992,7 @@
         "hash": "8bf8b9780d342816a2342d0af74a9bedc13387be59e709d30522883236f13e30"
     },
     "Menu0027": {
-        "text": "",
+        "text": "Concerts",
         "hash": "8cc28d37ade57fb40951643cfaba1e363993221abc172f82a20d32dc46404dd1"
     },
     "Menu0029": {
@@ -8056,7 +8056,7 @@
         "hash": "5804971cb200979890d3284de6bfda4686739b01061d6538ed41695b0b189cbf"
     },
     "Menu0074": {
-        "text": "",
+        "text": "Commentary",
         "hash": "0c58bd1686dd3ebcd5b3ff0088da12cf8c75d7ee031ecdacf4fb65dc8bb78d5a"
     },
     "Menu0075": {
@@ -8092,11 +8092,11 @@
         "hash": "0a8e5bc8022a102924f4a9eea4bbaf0a61cca86f29c3d170fd04684166c1db6f"
     },
     "Menu0107": {
-        "text": "",
+        "text": "Top-up alert",
         "hash": "e5739d8aeb86399d91c462bdf642d5d317985d24fb86da84dcce53e1984b9c5f"
     },
     "Menu0120": {
-        "text": "",
+        "text": "Download voice data",
         "hash": "6b843b62425bee1c24e9fa097849a3def13f95af6df2771d16a9824f2fbf7ec2"
     },
     "Menu0121": {
@@ -8592,15 +8592,15 @@
         "hash": "c933a49cc930c2dd0fd926dbe88839ea0b1047ea33f1c70f470afec778eeda3b"
     },
     "Outgame0181": {
-        "text": "",
+        "text": "<nb>Video",
         "hash": "a96270f15510101945f6ad12fc420ffad563804322a8b7cf1220b68748a18395"
     },
     "Outgame0185": {
-        "text": "",
+        "text": "Always Unlocked",
         "hash": "9dc38107027c8c36a754cd003b4fecd02ea6f5c73934933f1fdb863fa369d020"
     },
     "Outgame0193": {
-        "text": "",
+        "text": "Unlock at Affection rank {0}",
         "hash": "2a6fc9e44aa6e72f3a0aa728be7dc2addc0160cd06e1991398f192205e27ede8"
     },
     "Outgame0195": {
@@ -8804,123 +8804,123 @@
         "hash": "6ff0bf6c63d6c83a5ae11940ec400f2f445a8cbf1ab5d75d8cab4e7d978fbcb5"
     },
     "Outgame0263": {
-        "text": "",
+        "text": "ON​",
         "hash": "629cc042f309551ced38a51a2e2039e06b91d0a4aa63a25564e1b5c489a229e0"
     },
     "Outgame0264": {
-        "text": "",
+        "text": "Confirmation Popup",
         "hash": "56e8ed2f4ade38be3033d0fdd55adaf214b5cc76f76e06abf5e669b7eee5fbb1"
     },
     "Outgame0265": {
-        "text": "",
+        "text": "When skipping a concert",
         "hash": "cb53257106be21c55917408acebf18e7558359c812cdb0aa805d6d097b16a897"
     },
     "Outgame0266": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before skipping a concert.",
         "hash": "55efa95db6f153e78af779059d04e2e341cbaee27c911ddbc79cf4bed735d952"
     },
     "Outgame0267": {
-        "text": "",
+        "text": "Playback Settings",
         "hash": "5e33059cacc9c22a5802baa233cb63b4d1264ee101961594bd1410a36cb754cb"
     },
     "Outgame0268": {
-        "text": "",
+        "text": "Display lyrics",
         "hash": "c36c9076478c93412012e649192afa8a25836ced5274c693241161681524e164"
     },
     "Outgame0269": {
-        "text": "",
+        "text": "Sound effects / cheering",
         "hash": "5c056bb560a60cc49bebde77ca2059cb91c52fbc0649ea763c042726f67306a7"
     },
     "Outgame0270": {
-        "text": "",
+        "text": "Volume",
         "hash": "94f574dee916f4b9e3dafa7e71d990f0a7aed8d16853606ef2c68a392eae723f"
     },
     "Outgame0271": {
-        "text": "",
+        "text": "<nb>Quality",
         "hash": "82c7ca70ec216c99edb6cbb5e914ff48155c6d35536331866fe48e00720f8371"
     },
     "Outgame0272": {
-        "text": "",
+        "text": "Render quality",
         "hash": "2ded75781cf0304d1d8ecd77db6dbf698493db1971a03ba9951379f2dc87eec1"
     },
     "Outgame0273": {
-        "text": "",
+        "text": "Standard",
         "hash": "d4b0862e91c888756c997e76f2c948be0ba03fe4fce69ad2f91a25afbf6fe786"
     },
     "Outgame0274": {
-        "text": "",
+        "text": "Low",
         "hash": "76cc05e1d0b558ba963643b92447ded8a7f548152ffaed84b5b24d7c641c433a"
     },
     "Outgame0275": {
-        "text": "",
+        "text": "\"Low\" increases performance and reduces heat and battery usage by simplifying the 3D rendering.",
         "hash": "f811741a1bb1b33a137fd3b96618c200be5a383f0382bec348fd08b9e50c0173"
     },
     "Outgame0276": {
-        "text": "",
+        "text": "Orientation\nduring concerts",
         "hash": "23e9da632a0006dfdae59e466b6af045b8eedb9da5cc87095540043b9f11b644"
     },
     "Outgame0277": {
-        "text": "",
+        "text": "Defaults",
         "hash": "817138da929dc5ca87db8752c8ef4d147d5f4beba9565ce2c80ef944ee16d935"
     },
     "Outgame0278": {
-        "text": "",
+        "text": "Skill cut-in during race",
         "hash": "84f6ef36af909eaa353072e9640ff15ba147214fc9165549de5904c593aca27a"
     },
     "Outgame0279": {
-        "text": "General",
+        "text": "Default",
         "hash": "34eeaf8fd6d353e12044dc772d31a7614b6076215aa7031a6f9d58141cf5a5c3"
     },
     "Outgame0280": {
-        "text": "",
+        "text": "Long ver.\nalways",
         "hash": "6ee2cfcf2509a3bc5e4d0f14817aafc8ecfd988d5562450a2828e2d06bef89fd"
     },
     "Outgame0281": {
-        "text": "",
+        "text": "Long ver.\nonce a day",
         "hash": "f41246c9af49c2cbd1b91912061d21f6098b0f98132254a43f63b29ffd926b27"
     },
     "Outgame0282": {
-        "text": "",
+        "text": "Selecting \"Long ver. once a day\" will display the long version cut-in for each character only once per day.",
         "hash": "3c2fd99d19ad7896a365ad9c8e3c801516b66ee91bef02dfae61280b28842880"
     },
     "Outgame0283": {
-        "text": "",
+        "text": "Announcer gender",
         "hash": "1b608640e98cf0ca0756c325960f75c75dcc6f0bbf90d5086c48b8facaf5b1c9"
     },
     "Outgame0284": {
-        "text": "",
+        "text": "Skip Settings",
         "hash": "0aca1c42a96307a2afff0f6e7e84c82b6c34dc13b3df38309eacb0fd89cbee33"
     },
     "Outgame0285": {
-        "text": "",
+        "text": "Skip unseen events",
         "hash": "3c00883a90c7591b70c6dd59089be3d1b1892ecd162ba50cf987bd01dad0dffd"
     },
     "Outgame0286": {
-        "text": "",
+        "text": "When OFF, previously unseen training events will not be skipped even when using the skip function during training.",
         "hash": "c3e8e44453311f72eb376504c864d5c01576f9b2537a87fa7f7e7c688a0391a4"
     },
     "Outgame0287": {
-        "text": "",
+        "text": "When resting",
         "hash": "9fcd3b8ecb7b5980a606f48e83e17469011f11f1747105e294c5efe74a302b9e"
     },
     "Outgame0288": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before resting during training.",
         "hash": "69668633ae2b644afc3978db488b3fc28f726773121169e3f2e7d608bc250817"
     },
     "Outgame0289": {
-        "text": "",
+        "text": "When going out",
         "hash": "23dd3dcd250d71c54b54831d0666693fc655c771759b2fc4fdfd7ae44b06a416"
     },
     "Outgame0290": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before going out during training.",
         "hash": "10234ebe8acf770dce5f8402cbc40c56f837591d9e05af53a1abda5b52f644cf"
     },
     "Outgame0291": {
-        "text": "",
+        "text": "When skipping a story",
         "hash": "89e6bfb65196fbe57416f11996ab0d8ffefb5a8ce90bd7c7f1037bba178341c8"
     },
     "Outgame0292": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup when skipping stories or the opening to a training scenario.",
         "hash": "9b31f437066dbc0d40efd17f18ae05acf37265b0b5d8fdde35fbc582ea482492"
     },
     "Outgame0293": {
@@ -8940,7 +8940,7 @@
         "hash": "88aaffa34dc0118b996c5f07e54f9c1f6073f7d19baaef8cdcf087cad5f009ec"
     },
     "Outgame0298": {
-        "text": "",
+        "text": "Top-up Notice",
         "hash": "73e3f5a276637b20e57cdecf5582d85c9dc956eeb5a2b5b2a7ca7acd4cd1b90a"
     },
     "Outgame0299": {
@@ -8948,19 +8948,19 @@
         "hash": "50db67978c290ebc8376fc5187046e801f0235cb4a9737d0c5118f79a8b7da8a"
     },
     "Outgame0300": {
-        "text": "",
+        "text": "Download Management",
         "hash": "cae803e7e3f733f51bfcf586f572af2ddd96ff543f0af0fdc5b4df992120edfb"
     },
     "Outgame0302": {
-        "text": "",
+        "text": "When OFF, new voices will not be downloaded when watching stories. This will save game size and data usage.",
         "hash": "f86a036d11f41aee03733c9892a8a4c8f26043bb2ac75f0266eef7813ba7bafb"
     },
     "Outgame0303": {
-        "text": "",
+        "text": "Download all game data at once, to save on data usage while playing. Will increase game size!",
         "hash": "bd6f6e6c3628fe8c5eea4dc196b3cd965b5084246cdc492b396c512726fecbcf"
     },
     "Outgame0304": {
-        "text": "",
+        "text": "Orientation\nduring stories",
         "hash": "6d25fabce89e9880f4efceed661feaff3b74ee0bbd4be0e04dc0784fe3f4435b"
     },
     "Outgame0305": {
@@ -8968,7 +8968,7 @@
         "hash": "d8444a486521173033dc7ddebdbafdb0e01c0e05829ac49cd9bc6762d60f6b9d"
     },
     "Outgame0306": {
-        "text": "",
+        "text": "Minichara",
         "hash": "700a878cf40c092c454a9a3666f8fe9ebba5277f696c8f98481e4a78f4ee0824"
     },
     "Outgame0308": {
@@ -8980,7 +8980,7 @@
         "hash": "d5a4128470a0870b39017f571fc12eaa58780dce0ccfc7ea4ae907e40b497c26"
     },
     "Outgame0310": {
-        "text": "",
+        "text": "<color=#ff911c>Goes into effect after next reload.</color>",
         "hash": "081ac60b3d998e53e00dcd5e8dafad00881a21cacdd60f4ce57bd4e77d7accc6"
     },
     "Outgame0311": {
@@ -9164,15 +9164,15 @@
         "hash": "d3178d97792a4f7b1bc58ff8adc25b4eabf178c7f2f2783d7c704cb91875099b"
     },
     "Outgame0357": {
-        "text": "<p=day,days>{0}</p> left",
+        "text": "{0} <p=day,days,{0}> left",
         "hash": "6641fa9bc9c743558e0e8b0ccccb8c06d0274c87757d0914cee5a28417f3fb46"
     },
     "Outgame0358": {
-        "text": "<p=hour,hours>{0}</p> left",
+        "text": "{0} <p=hour,hours,{0}> left",
         "hash": "cdc5c669310afbf273b05ae2c0dad3da4f5ade0a553ad01ce836b1e51e91de2c"
     },
     "Outgame0359": {
-        "text": "<p=min,mins>{0}</p> left",
+        "text": "{0} <p=min,mins,{0}> left",
         "hash": "fb2b04f6e286fe0a88a0b89e86e523f5d74d1f60b99cd589e8c56b52eb4398ea"
     },
     "Outgame0363": {
@@ -9304,15 +9304,15 @@
         "hash": "c93854a548ceb95f116f6550fed8d5d04d8372ac55d9eaf1d8ec27b0d8df72de"
     },
     "Outgame0395": {
-        "text": "",
+        "text": "Recommended Race Function",
         "hash": "c3afcd766dab9f2303f61464da6636e05dcbc053ebe27538fa948190c98245f5"
     },
     "Outgame0396": {
-        "text": "",
+        "text": "Confirmation popup",
         "hash": "48fbb00fe30d3db8c4b08b415f63939cd16db78c183bd33189702c25d3282e1d"
     },
     "Outgame0397": {
-        "text": "",
+        "text": "When OFF, a race recommendation popup will not be displayed during training.",
         "hash": "d1ce796c2f2a5016be2d5b549bcbe3fdb727bbda7759c47853e61e67adf1e821"
     },
     "Outgame0398": {
@@ -9340,11 +9340,11 @@
         "hash": "254dcfb710f308fa491ec425a27ef5a6ca371f2073d0c50db20e104dbaa06532"
     },
     "Outgame0404": {
-        "text": "",
+        "text": "When going to the infirmary",
         "hash": "faba3c1dc8aa004333324901cce667c9ca9bc0e8ba0505cedced1daa51390374"
     },
     "Outgame0405": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before going to the infirmary during training.",
         "hash": "39f6010b14d3c314ea2e4f5747fc7af51655a653a24b3313aefaef49ea1aca1d"
     },
     "Outgame0406": {
@@ -9380,7 +9380,7 @@
         "hash": "f91d895a45645b5f9029f0dc8b24bbe05542c3a532c5fef4ea4d4cd7c9f4ffd8"
     },
     "Outgame0415": {
-        "text": "",
+        "text": "Choose Umamusume",
         "hash": "10ab80d9b4e49ae94c0404bf682ee173921cb038ef616ce66f3c71b3a83f88a1"
     },
     "Outgame0417": {
@@ -9516,15 +9516,15 @@
         "hash": "5f451f337f70eb567736a22dc3b746eb891e6d2774d410b1ae5909ad2cd307bf"
     },
     "Outgame0451": {
-        "text": "",
+        "text": "Training Completion Settings",
         "hash": "39cf17645788f341dc70f2aeefb81114b924e479b342d7dc727d1a4bd610e9c0"
     },
     "Outgame0452": {
-        "text": "",
+        "text": "Nickname setting popup",
         "hash": "c2f527036f9a06924b2c263d78d58b40338969510e9b15e551531b03c9b6973d"
     },
     "Outgame0453": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup for setting a nickname after a training run.",
         "hash": "1e5eec46ed62737e052f11a73fc2b38fc65b3b71c15b3e46eca5c006078ba35a"
     },
     "Outgame0454": {
@@ -9600,7 +9600,7 @@
         "hash": "2cccf26af78f94a5ffa3ed3643e0cd13b782366a9641bbcf3dbbd79334870b43"
     },
     "Outgame0472": {
-        "text": "",
+        "text": "When ON, an alert popup will appear when topping up more than 100,000 DMM points in a month.",
         "hash": "7de79529dc96d191b60d733a45842d1fec9ca22b67bab53621b4279d02ef7154"
     },
     "Outgame0473": {
@@ -9620,7 +9620,7 @@
         "hash": "bd5a8814a3635ecb4ebc9785cbc8223ae32444a5a07329a811526c29cd45f77c"
     },
     "Outgame0477": {
-        "text": "",
+        "text": "<nb>Obtain {0}\n{1} to unlock.",
         "hash": "d76f7d19d52633f89637dff20eaef164be94d3ac5194a6989c4817d11ac727a7"
     },
     "Outgame0496": {
@@ -9648,15 +9648,15 @@
         "hash": "2b295d6e1c90174411e5df61afc76f5c552fd19a23c25ff68927da14a728a313"
     },
     "Outgame419001": {
-        "text": "",
+        "text": "Training Race Outfit Setting",
         "hash": "cd00165cb772ed9d69dd79179d3694b685e10bac89305408f311743cfc7dfd50"
     },
     "Outgame419002": {
-        "text": "",
+        "text": "Use gym clothes for G2 and below.",
         "hash": "611db360f8a6d17257babbc00f9f2b092e7ee485ef7cdb8765744013cdf6f976"
     },
     "Outgame419003": {
-        "text": "",
+        "text": "When ON, gym clothes will be used for G2 and below.",
         "hash": "e5ec558e9e0448db93dc1d3c348fedc97924657f66dc38920cc42375ccf6002e"
     },
     "Outgame424001": {
@@ -9816,7 +9816,7 @@
         "hash": "6bf56d7cddc4bf3bfb15224466ee8040baf1bba45f87e2e13e665a12d3019079"
     },
     "Outgame126001": {
-        "text": "",
+        "text": "Display opponents' skills",
         "hash": "e41046e47d85cae635db4a9b7d82ba9a24cb4dea539e5d247408b7f89c2f2b76"
     },
     "Outgame126002": {
@@ -9824,7 +9824,7 @@
         "hash": "8accd57e4ccf17b6a4832dfff1ea8a2ac18b25fad211d1998399d20c8359d8f9"
     },
     "Outgame126003": {
-        "text": "",
+        "text": "Orientation\nduring races",
         "hash": "f9af295f5a73c7cf37bd55caf405da55d32be3dd72473041a6d546db6f27d8c3"
     },
     "Outgame124001": {
@@ -9844,11 +9844,11 @@
         "hash": "f9ced3915863f11d9a682db76de90e52ec07c908f16f1459737ba825a2ba31f2"
     },
     "Outgame424008": {
-        "text": "",
+        "text": "Jukebox",
         "hash": "3338645ab7647f3256fca82af37260dde2a01d91feff8c599e1ffe2dee58054b"
     },
     "Outgame424009": {
-        "text": "",
+        "text": "Play requests by other Trainers",
         "hash": "f9bff8829f42effc263e7d269a3aa7042707f006e92a97c2931991a148737a8a"
     },
     "Outgame124005": {
@@ -9924,8 +9924,8 @@
         "hash": "816574a41938c0c886b827faa05a304168b286191a01d33a815e194aed845780"
     },
     "Outgame126004": {
-        "text": "",
-        "hash": "84003bfed6b914268683a1cf2021495f2f311108b081d36199ed6d2fedc55dd8"
+        "text": "When ON, popups will appear when opponents' Hall of Fame Umamusume activate their Rare Skills or Unique Skills.\nIn practice, the skills of Hall of Fame Umamusume and practice partners will be displayed.\nIn main story races, only relevant skills will be displayed.",
+        "hash": "3ae434c4793ecab795dfba6043a0ec107b3823ff7791adfab9cc968b5495f09a"
     },
     "Outgame187001": {
         "text": "",
@@ -9936,19 +9936,19 @@
         "hash": "37ddd38bfcaaeefaa62177ab0ff8cc42d768e48a2fd32ab89fe9e67c4e7108f7"
     },
     "Outgame187003": {
-        "text": "",
+        "text": "High quality 3D for races",
         "hash": "15990a900f1e9c640f4d845839cab124359b3be6bdac8e697d775b82771cae99"
     },
     "Outgame187004": {
-        "text": "",
+        "text": "When ON, higher quality turf, dirt, audience, weather effects etc. will be used for better immersion.",
         "hash": "6d9bebbc190bac3766c8633a6308ece6a689539f875a5c15c5681077ea3d68b4"
     },
     "Outgame187005": {
-        "text": "",
+        "text": "May cause performance issues on some devices.",
         "hash": "55ad68d35e9d76bd277bd5eb0b27a8d8cf0c04d6547b6fa7be731a6a89382da7"
     },
     "Outgame187006": {
-        "text": "",
+        "text": "Only available when quality\nis set to \"Standard\".",
         "hash": "081be41845f9598e2748f3655e2617483d49ca5b180b815e3c3170a5535b5433"
     },
     "Outgame187007": {
@@ -10016,11 +10016,11 @@
         "hash": "242fbd71496d120f45b8861141ad14f1117fb9ac924a9cd02e868d6ca6f50968"
     },
     "Outgame213001": {
-        "text": "",
+        "text": "Photo Button Display",
         "hash": "919f89a6638f3bdd522fee9f58a8aab77f7730119e325d2653d3deb5154ddc7d"
     },
     "Outgame213002": {
-        "text": "",
+        "text": "Display the photo button on screen",
         "hash": "8e8e57504bb7466158e0f3ae9b292a9ffed9d414d2ceb89d68c78ad3797f92c4"
     },
     "Outgame213003": {
@@ -10120,7 +10120,7 @@
         "hash": "5badbb57319f39e143557d76769a1aacc48fb1af9c83b7c3cef889d7517d2190"
     },
     "Outgame213035": {
-        "text": "",
+        "text": "<nb>Concert",
         "hash": "eccfefff38f59e4efd1aed0a0eeb1dee91fc438fc005801a8ab5f79f006b12f7"
     },
     "Outgame213036": {
@@ -10352,11 +10352,11 @@
         "hash": "9226c86dabea627cbb581a3438aab0c36880f1ec74de8b7242e5b16d8e4689e2"
     },
     "Outgame213093": {
-        "text": "",
+        "text": "Display Save popup",
         "hash": "77a618d05ab3c64e338c2114b03f37e7909b617cf1c152d61586f88b616af4f7"
     },
     "Outgame213094": {
-        "text": "",
+        "text": "When OFF, there will be no confirmation popup when saving a photo.",
         "hash": "9143d505a375eec5c33b0d0cd2b8f9c0da21200c7f57715b2610fcf6f2d0c754"
     },
     "Outgame213095": {
@@ -10644,8 +10644,8 @@
         "hash": "bdacb8c89e640706aabb7cd8b9dad4299ea77c8f39428d34754aac9593914f66"
     },
     "Outgame408038": {
-        "text": "",
-        "hash": "cad54478f7cd2c5374a7c6dd3ff318523213359997a81944c3094072ccc8198e"
+        "text": "When ON, you can take screenshots on certain screens. For more details, see the Photos section of the Help Center.",
+        "hash": "e32344011487e9aea2e88ddde84c9fa8c9ece27279e6996feb72440caa2189ac"
     },
     "Outgame408039": {
         "text": "",
@@ -10736,7 +10736,7 @@
         "hash": "447fa3e7584a0974c95ef04e02fd246cf4abdaf72ecdb531dcb265c0a619a691"
     },
     "Outgame352001": {
-        "text": "",
+        "text": "Photo Studio",
         "hash": "74558bc916b62177252b41c73c938936cb95c3b0a1e897a36e7d50c82c290e63"
     },
     "Outgame352002": {
@@ -10748,43 +10748,43 @@
         "hash": "1e1be916c3d608dae93c61ddad52c5d524327a940235de07a4df2f5dcf874791"
     },
     "Outgame352004": {
-        "text": "",
+        "text": "Outings / Events",
         "hash": "937c61a1708689bb3ddbe41b1a4cb2ed43dc265c017879c95fad4bea85169e0d"
     },
     "Outgame352005": {
-        "text": "",
+        "text": "Choose Type",
         "hash": "25315d3075899469d1621676ae34e4ea71f524cc3d89410b716be45d92b38da4"
     },
     "Outgame352006": {
-        "text": "",
+        "text": "Start!",
         "hash": "72b173fb985a20498f154f9a8f0479c7be34663c2b3064675d15ce42e3a45364"
     },
     "Outgame352007": {
-        "text": "",
+        "text": "Training Type",
         "hash": "d278224bc677592af0e246d9213c90945fe16093008e0fc153e875a49c3fcc39"
     },
     "Outgame352008": {
-        "text": "",
+        "text": "Training Level",
         "hash": "f10458aafca0f460cf4fb14c625a19a9f817b7127566f014621f1b8b72f27e82"
     },
     "Outgame352009": {
-        "text": "",
+        "text": "Training Success/Fail",
         "hash": "25108fb4814debf581ff603c61de8f4247a360308c9959b8859b9c55248dbbb6"
     },
     "Outgame352010": {
-        "text": "",
-        "hash": "dac28f83f6294882852f4ef8d5c872347e691413168af7c7fa8b89561b329e8e"
+        "text": "Training Category",
+        "hash": "e8ca5742fb5ab3d7a9f104a21ecd484ed80251901ee25d70a0badc89c848d1c6"
     },
     "Outgame352011": {
-        "text": "",
+        "text": "Training Partner",
         "hash": "4018dea4e1294b89f83b36fce89d14ec6d67b62b3f81c8f49a1fe348b8538069"
     },
     "Outgame352012": {
-        "text": "",
+        "text": "Success",
         "hash": "053461ce86d265729d98285cb97f3b083d89546ced5ed9d8589ef641f0b227e3"
     },
     "Outgame352013": {
-        "text": "",
+        "text": "Failed",
         "hash": "37d266e0ab124f44141e5892ea39271b392d87f9d264e5d41f45f3289dc820a8"
     },
     "Outgame352014": {
@@ -10796,71 +10796,71 @@
         "hash": "aa33e7e857953ce77f018c3c6ca3b9f4ccb244f73239c79326884870d106ebfe"
     },
     "Outgame352016": {
-        "text": "",
+        "text": "Choose who you want to be the Training Partner.",
         "hash": "3c9b5fa7ae79b026f8d9528eeeb4243afa708da846e9ae76801873989fb901be"
     },
     "Outgame352017": {
-        "text": "",
+        "text": "Loop ON",
         "hash": "df9eac4b6b920adf63b3cc5872069ae75f25c84f80d59207dd321cd97b3fd235"
     },
     "Outgame352018": {
-        "text": "",
+        "text": "Loop OFF",
         "hash": "68530290d4d8c6422e955fa03a529a05fcaea4cec98af2ae545157bc5aa88199"
     },
     "Outgame352019": {
-        "text": "",
+        "text": "No Training Partner selected.",
         "hash": "dcd43b88fc76671b34f8ae6764ab216b6c4bce919ccffca566f60ae01449095c"
     },
     "Outgame352020": {
-        "text": "",
-        "hash": "6b509f586ffa56d2bf172c5d9ab88eca9221243c07d3af73fefb6a9b01c322b3"
+        "text": "You may choose Umamusume that you own \nas a Support Card.",
+        "hash": "158bf4455012e51499744c968bc359367d2f4472e9a2b73fa49072a198aac897"
     },
     "Outgame352021": {
-        "text": "",
+        "text": "<nb>Riverside",
         "hash": "34ec5455463fa1c518ade6a268841013e50ed4033c0eb79689ad7a3a151cf336"
     },
     "Outgame352022": {
-        "text": "",
+        "text": "Shrine",
         "hash": "5906373941ba7a4d2d139c6e9e8d8c9b8a290607b1613865032ae97b0494462c"
     },
     "Outgame352023": {
-        "text": "",
+        "text": "Karaoke",
         "hash": "9593b2c5a1b88a38483336ddae6603f17550b716d16e2b7c4a3821d0d326a233"
     },
     "Outgame352024": {
-        "text": "",
+        "text": "Beach",
         "hash": "0ac6d5192ec21d34f7d6e0b0246b06d5cbaa2600cfcbd48f2363d1e3d22e76a2"
     },
     "Outgame352025": {
-        "text": "",
+        "text": "Hot spring",
         "hash": "08f173fddcb7e5822fab5109fd215cebe140f0aa03b4c5e000b99882bdbd34eb"
     },
     "Outgame352026": {
-        "text": "",
+        "text": "Select Outing",
         "hash": "3d5bb6c73a3d3c672788f9419cc66ff8fcf84872050c34f258be6de941f8ebbd"
     },
     "Outgame352027": {
-        "text": "",
+        "text": "Can't choose season for [{0}].",
         "hash": "83254540ea641a716f732a3ccb9cc7cd34d48e53489b69e05498420ef41ed13f"
     },
     "Outgame352028": {
-        "text": "",
+        "text": "No training below Lv4 for [{0}].",
         "hash": "bb92cfb617ca54cba77203b1a7e8befa3869b8b37bb1c4b2c7e60bd53b6d0d4a"
     },
     "Outgame352029": {
-        "text": "",
+        "text": "Choose Umamusume",
         "hash": "77d2147558c3ecc07db552ce2afe56d0215bfd47f47f5b21faf0a448a47e083d"
     },
     "Outgame352030": {
-        "text": "",
+        "text": "Unlock with training\nevent [{0}].",
         "hash": "8cc3ad4db237a8e2b1b06c10d591c73dc80fb0005c3a45e36bcbdc35503bf6c8"
     },
     "Outgame352031": {
-        "text": "",
+        "text": "Training Details",
         "hash": "7ac97d5f6649ae862b89f56b7fdaf892da8356947f2b014fbfc6c3c407e97aea"
     },
     "Outgame352032": {
-        "text": "",
+        "text": "Unlock with training event [{0}].",
         "hash": "cebcbf7c0a18fbe2fcf6e4c30b9eeb15652b306606be9136fbc7f8f3fd229933"
     },
     "Outgame419100": {
@@ -10944,7 +10944,7 @@
         "hash": "62b2dfd1f5f5b37c06d7a0d46fad02900ce07b78f602825278702c0df39806ae"
     },
     "Outgame497003": {
-        "text": "",
+        "text": "Paris",
         "hash": "f09f91d6309af702ca098570d34f9fd72f03be7a9005eed230f9e7a6b134488c"
     },
     "Outgame352033": {
@@ -10952,19 +10952,19 @@
         "hash": "88adb64ab97ef4e864a7c8bc9aea2c2394f168321ed86fff422ff0b30c3971a0"
     },
     "Outgame467015": {
-        "text": "",
+        "text": "Fanfare sound",
         "hash": "32c78dcff24b91bbdd8d6f3c38c0393d4ce97333036c0e264586b772620ed531"
     },
     "Outgame467016": {
-        "text": "",
+        "text": "Game original ver.",
         "hash": "e34341a161e9dec69c728a717bf9fe871e3bf0d39087e6cec7ddea1231f3e7a1"
     },
     "Outgame467017": {
-        "text": "",
+        "text": "JRA/Local ver.",
         "hash": "d97ef3e9b36b792ff983835726bd8138b2384278d2454ef3e3f243668e3081e4"
     },
     "Outgame467018": {
-        "text": "",
+        "text": "Only applies to certain races.\nWhen choosing \"JRA/Local ver.\" for the first time, <color=#ff911c>return to the title screen to download the music.</color>",
         "hash": "3242982d1c63a764b570ec5fa00fabf983d2e8a16aa23fc2650b286922df8f8b"
     },
     "Outgame467019": {
@@ -11056,19 +11056,19 @@
         "hash": "82c6dde2e824b2ac57c3a966dc553632c5c5daf02bc23ff92e6f5b6ddd3e4a87"
     },
     "Outgame497005": {
-        "text": "",
+        "text": "Delete music data",
         "hash": "84cf65597de1869cb55684e11dccb3ec4b833c1e2410052c7eed49a32691761b"
     },
     "Outgame497006": {
-        "text": "",
+        "text": "Deletes Game Size Ver. data from your device.",
         "hash": "9d37e7421b9704310022e6038a1a97d4b8517eef5bd4e33833bb94d723e570e3"
     },
     "Outgame497007": {
-        "text": "",
+        "text": "Data Deletion",
         "hash": "1644f4ad600f45dc89334ca55d72e9f9ccbdf4fdc408fb28334707e9034b2e72"
     },
     "Outgame497008": {
-        "text": "",
+        "text": "Music data will be deleted from your device.\n({0:0.00}MB).",
         "hash": "f8542ea89d989343b1fc086332b079c2ea15c16bdd34f94cec414d82d9eb6faf"
     },
     "Outgame497009": {
@@ -11189,7 +11189,7 @@
     },
     "Outgame608030": {
         "text": "",
-        "hash": "435abf350045ba4ad678920c426f900cb03bf9c5fc7fc60c399b134fffdbf76f"
+        "hash": "856b44649abba57330d8c2d886006eba8c62713e804a5f7944a6b31535c45c54"
     },
     "Outgame608031": {
         "text": "",
@@ -11226,6 +11226,98 @@
     "Outgame608039": {
         "text": "",
         "hash": "5bea66b8ad2562471cefaedd4e4a9e5926543b70bde025bb479336075c087147"
+    },
+    "Outgame585003": {
+        "text": "U.A.F. Sport",
+        "hash": "d187e8fb0e95dba9323b06bf78adc282e7a9c6c6275e4a8e632bc940b8337508"
+    },
+    "OutGame585004": {
+        "text": "(Lv 40+)",
+        "hash": "a2949e1a90f707b91aa8f2a0a2970f74547176daca71e6374b5bc8601faaa823"
+    },
+    "OutGame585005": {
+        "text": "(Lv <40)",
+        "hash": "553bc0132ae67ba2669349d07c7e6cee7afca3222644df536ce62f37c6d0bc99"
+    },
+    "OutGame585006": {
+        "text": "This training does not include a Training Partner.",
+        "hash": "9d16ee352b92b78ef394fb73c8b168df2169a48cc9f05915b989080d15800bfc"
+    },
+    "Outgame585007": {
+        "text": "Machine Gun\nReceive",
+        "hash": "dfc893bde2e92db90e5e33bd71ab549420920eba64b28709a536d6b3147018f8"
+    },
+    "Outgame585008": {
+        "text": "Hell Swim\nShoot",
+        "hash": "a2f4623188df0b5eb663d99f3917956517611c4439f5d4e7d7b9d17a78d45a9f"
+    },
+    "Outgame585009": {
+        "text": "Mountain Dunk",
+        "hash": "1e1c5ed3bb53ab3c1bccc75b37b1ebcc93ca67fab6912313d5b6e02a7632b5d5"
+    },
+    "Outgame585010": {
+        "text": "Unlimited\nLifting",
+        "hash": "922f16766840ad35cee5368dd0fc299c62214406b59fa106e32f4db195a06ffc"
+    },
+    "Outgame585011": {
+        "text": "Snipe Ball",
+        "hash": "502a75d76086fac62705b13dfebfe80a82fe7b907ad0c9ff8f64e0cffa343028"
+    },
+    "Outgame585012": {
+        "text": "God-speed\nKarate",
+        "hash": "528c0d11674c4752ebad03496d5e66ca83207e255d53c217cb4f8896d6a01f2d"
+    },
+    "Outgame585013": {
+        "text": "Push the\nRock",
+        "hash": "5cff838609f8a12645f5119cfa63fd63940a1dd18bf59543aa835cb9e1bc88eb"
+    },
+    "Outgame585014": {
+        "text": "Harite Pile",
+        "hash": "89d9efb5046f1d024d04b5e4a9cd7c6243abb9021a40592993124ba451301b46"
+    },
+    "Outgame585015": {
+        "text": "Gigantic\nThrow",
+        "hash": "7a22d859569107b58e107342dfeec278e572d9829d1e7beae4994556030d2d03"
+    },
+    "Outgame585016": {
+        "text": "Sonic\nFencing",
+        "hash": "bd7a5c4e8362595f9c09764aee514d911f3cb5a4b4a1ec91d7a3f2d4737762a7"
+    },
+    "Outgame585017": {
+        "text": "Hyper Jump",
+        "hash": "f5d8da3bf4f6e2d28867ca4d2ead6c7f215c34c124f9c1bf46d9f29cda534d7f"
+    },
+    "Outgame585018": {
+        "text": "Hang Climb",
+        "hash": "de33e2a56bab9fc14f0e0f594f2f58cdf95117ce90e521395121f8852e94df50"
+    },
+    "Outgame585019": {
+        "text": "Dynamic\nHammer",
+        "hash": "87aeb70123e704a9d75c4b8a4552f2d3ff3edacbaee077483e1a02548fc975f1"
+    },
+    "Outgame585020": {
+        "text": "Like a\nSubmarine",
+        "hash": "e7428a1ddd17bebd577c2979fe26d4b157ac9826f2e0a53ddb7f729a312a50c3"
+    },
+    "Outgame585021": {
+        "text": "Acrobat\nArrow",
+        "hash": "8a20102d6f7b218d325454348f6f3ddd49353207e6920291be004c11af76dd0c"
+    },
+    "Outgame570030": {
+        "text": "",
+        "hash": "708f2fba0f7e3daca142c76800b583822bd2c9d9c4f76ca2211faac22c955eca"
+    },
+    "Outgame570031": {
+        "text": "",
+        "hash": "bbbddd3a8fcf09d438a826966607e3c7eab5d57e38178737447cbe731509acf7"
+    },
+    "Outgame570032": {
+        "text": "",
+        "hash": "9d197ca5898f034af1b6f7afdf1b9558911e7cd6ed87f009ccdb1b9fc59f0e28"
+    },
+    "Outgame570033": {
+        "text": "",
+        "hash": "d83ae4cbb2641c205d99bae12772b6bbc29c752f2769fd689e0fc0737c43d0f4"
     },
     "PracticeRace400101": {
         "text": "Practice",
@@ -11724,7 +11816,7 @@
         "hash": "cae2c3d90c47b81d0cc503a5ce7809d61e2358ec2f097074d940fa0e52a4a254"
     },
     "Present0020": {
-        "text": "<p=day,days>{0}</p> left",
+        "text": "{0} <p=day,days,{0}> left",
         "hash": "dcc922057c46092ebf0e4ef364c8cfe62ca5a1571bafedbc3a569238393f89da"
     },
     "Present0022": {
@@ -12076,7 +12168,7 @@
         "hash": "0fdaaf19f90cdbaba69f2ce5379bf2b442c90a1fe72ebe810f93bd20d8d5afc8"
     },
     "ProfileCard02493": {
-        "text": "",
+        "text": "Photo Library",
         "hash": "7f910dc76f58f78901f65e6574ee1d03bc7b16eb5146f0a3691829659b3b8ed0"
     },
     "ProfileCard024904": {
@@ -12540,7 +12632,7 @@
         "hash": "7f5ea983858ef801024bbfe4af68b08042919f4828bf0068f1bc4ec8c9ce9b57"
     },
     "Race0140": {
-        "text": "<ords>{0}<orde> fav.",
+        "text": "{0}<ord={0}> fav.",
         "hash": "dfe33acc0ecaa179d29c7e8953ed2ab0b9855e21268ec83c169bcd4e94b535a7"
     },
     "Race0148": {
@@ -13389,7 +13481,7 @@
     },
     "RatingRace600013": {
         "text": "",
-        "hash": "8f024a7b4dbe73182f9de751e2bffa5d2cb4333e9c071155a1b16b2eb2c15ece"
+        "hash": "3662105d580d725b12bd3d91524959cd51321bde29666ceab54e99fb4423e2d1"
     },
     "RatingRace600014": {
         "text": "",
@@ -13436,7 +13528,7 @@
         "hash": "56bc57fc1abf1ff3f0d05dd2c481a31c5e461ce58ca9f2d7f5d2b947f325ae4d"
     },
     "RatingRace600025": {
-        "text": "",
+        "text": "Free RP: {0} / {1}",
         "hash": "ec8fd6b8248cd6699bad396199256e49fd7bd3a3bd7ff3f4bb957b832e533c32"
     },
     "RatingRace600026": {
@@ -14900,7 +14992,7 @@
         "hash": "009fff8cff70ebe3066ef8fa133516179b05d1d9de8877e7224026624337f51f"
     },
     "Shop0110": {
-        "text": "Sales left today: <p=time,times>{0}</p>",
+        "text": "Items may be added {0} more <p=time,times,{0}> today.",
         "hash": "89179c673c22f67b8f392407d819ba7d775081586f2713cbe1ebb9e0bacca357"
     },
     "Shop0112": {
@@ -15012,19 +15104,19 @@
         "hash": "f114611cd61000bf57db19a6dab8057d9f8e236839a22c21b32c8458de91961a"
     },
     "Shop0145": {
-        "text": "<p=day,days>{0}</p> left",
+        "text": "{0} <p=day,days,{0}> left",
         "hash": "dcc922057c46092ebf0e4ef364c8cfe62ca5a1571bafedbc3a569238393f89da"
     },
     "Shop0146": {
-        "text": "<p=hour,hours>{0}</p> left",
+        "text": "{0} <p=hour,hours,{0}> left",
         "hash": "b77cf67f40357067c5a8f8aeddb76ae6ad3d2454df9bbc5d4715e9d2045bf60e"
     },
     "Shop0147": {
-        "text": "<p=min,mins>{0}</p> left",
+        "text": "{0} <p=min,mins,{0}> left",
         "hash": "c039b44dd814b331de9ad519088662735f0d388f6e77560b2e7269799470be90"
     },
     "Shop0148": {
-        "text": "<p=sec,secs>{0}</p> left",
+        "text": "{0} <p=sec,secs,{0}> left",
         "hash": "a7b8be80acf762ccb647fde833f93250de80e651f5e2d804cf4d98710bfc319c"
     },
     "Shop0149": {
@@ -15077,11 +15169,11 @@
     },
     "Shop0161": {
         "text": "",
-        "hash": "540bd76e3b18e301cdd3bd110896f16a672d7deed573c702f6fc7b9bc0ef496a"
+        "hash": "dcaf49a13f05e4798abe3d7ab1a2164d1200108c37f4144120a68a8a326f8b12"
     },
     "Shop0162": {
         "text": "",
-        "hash": "ba31cc542c23f261b8797b5c8c15e2fa492800e113045cc7c3a1dc6d6509528e"
+        "hash": "5f6c8e9cf4733b45011889e4583de4a00f65b50c14087b270874878a5f919270"
     },
     "Shop408001": {
         "text": "",
@@ -16632,11 +16724,11 @@
         "hash": "16fd6eadfb8873e2729a24425ec8cf9e04ef2fa6bf5343b82bee0737dc95ec1e"
     },
     "SingleMode0469": {
-        "text": "Entered as <ords>{0}<orde> fav. and ",
+        "text": "Entered as {0}<ord={0}> fav. and ",
         "hash": "8782202c902dab627f3f308149efecd808eb0a95a52fadb8eb368894cfff3cbc"
     },
     "SingleMode0470": {
-        "text": "<color=#2E85E6>finished <ords>{0}<orde></color>",
+        "text": "<color=#2E85E6>finished {0}<ord={0}></color>",
         "hash": "f21019026f9e52646ba36d3224b45336454c01fc906ae5b000ebdcf8c41f5f4e"
     },
     "SingleMode0471": {
@@ -17528,7 +17620,7 @@
         "hash": "f4fbbfd493b689a74fd39ea18ba3bf453c5267aeeeea6de88340679472561b89"
     },
     "SingleMode418070": {
-        "text": "",
+        "text": "Training Feature Settings",
         "hash": "6e3d0653129bc794563d282872cc9702edd76f1f88c3d9482a58ca895aa97ab6"
     },
     "SingleMode424001": {
@@ -17712,15 +17804,15 @@
         "hash": "ecd6c79ab05507a1e8c6f4a5f4bb63f9e69de127dc2db55a9ec319f1ce6634ca"
     },
     "SingleMode400119": {
-        "text": "",
+        "text": "Don't skip Main Scenario events",
         "hash": "076ae3a23cbfd25124a06fe4bc9f38d7f623e6a390d163fa28f1119056521e84"
     },
     "SingleMode400120": {
-        "text": "",
+        "text": "Don't skip Training Umamusume events",
         "hash": "9ecfdf575c568d207dd3b4cc271e8c53f87197477dc8d48dd3e2a38c7709b9b0"
     },
     "SingleMode400121": {
-        "text": "",
+        "text": "When ON, selected training events will not be skipped even when using the skip function during training.",
         "hash": "ea3e116759226c6e9fffcb3334a3d63b5e3c05d1b1e1d78267d08bb3081f9417"
     },
     "SingleMode419100": {
@@ -17900,19 +17992,19 @@
         "hash": "3dae809113a60bd1a7fbbe506bd691147993bcbb3ddff05bc863a0ffb79d6223"
     },
     "SingleMode423001": {
-        "text": "",
+        "text": "When ON, the speed of skips during training will be increased further.",
         "hash": "846f6cae14fe45466be480f788d4655aaffdce21498ecfe9b268c55f1c4d1082"
     },
     "SingleMode423002": {
-        "text": "",
+        "text": "Super Skip Settings",
         "hash": "04dae214d6c51b526000a6496595a3b40f269e585473ad758fd7de3e77612e8a"
     },
     "SingleMode423003": {
-        "text": "",
+        "text": "Super Skip",
         "hash": "40ba4feb3c8abad62b925f8ed0b90d158f71fb0c1d4653f9720a8b014ec83774"
     },
     "SingleMode425015": {
-        "text": "",
+        "text": "Training BGM",
         "hash": "ad209c4a4ed0967eceef01ebdfa9318bbb83e0b37f0347ecb624924e403896c2"
     },
     "SingleMode425016": {
@@ -17964,11 +18056,11 @@
         "hash": "20daa735cae566d19697db83764eee9b65c239a8e0441dac4f830f5493cd3d24"
     },
     "SingleMode539006": {
-        "text": "",
+        "text": "Skip the tutorial event",
         "hash": "8625a83af3f559528a2520e83a1e7690dc1264956a58cb585db90c44a6b5c5d0"
     },
     "SingleMode539007": {
-        "text": "",
+        "text": "When ON, the tutorial event will be skipped after it is seen once. <color=#ff911c>It will be shown once when playing a scenario for the first time.</color>",
         "hash": "80b14b9fb5dbebaf30a4587ffdf00bfc0601f978fef392aa16313d0b780a21de"
     },
     "SingleMode497008": {
@@ -18048,7 +18140,7 @@
         "hash": "c770ff07f3e6355b251034f21c046a865a8dd51468eb446c1cabfa63d3a8e4a0"
     },
     "SingleModeScenarioArc0008": {
-        "text": "<p=turn,turns>{0}</p> left",
+        "text": "{0} <p=turn,turns,{0}> left",
         "hash": "07813ca6c5c59874dce0c7e87d05e60a7751539ad3de1c256eb6ae503cfabddf"
     },
     "SingleModeScenarioArc0009": {
@@ -18236,11 +18328,11 @@
         "hash": "d8218f23891e3ba3dd3beb584d8941de5c4bdfdb94713a1d1e2d875bc2000769"
     },
     "SingleModeScenarioArc0057": {
-        "text": "",
+        "text": "When doing an overseas race",
         "hash": "f27cca1b6476e5ecc5b1b882492a0f17b5af9c6103a10dae85725e6fb4f03d04"
     },
     "SingleModeScenarioArc0058": {
-        "text": "",
+        "text": "When OFF, you will not see a popup before an overseas race while an aptitude can still be upgraded.",
         "hash": "67a8f9c0058c2f3735388255a8b700d2ea4c1ad26fdcc585251450c82566eb1e"
     },
     "SingleModeScenarioArc0059": {
@@ -18476,7 +18568,7 @@
         "hash": "d97e2cfd869b9c75cd5611fc882ca6b0a294182f221b13073ffa89b59999a7ae"
     },
     "SingleModeScenarioFree419010": {
-        "text": "<p=turn,turns>{0}</p> left",
+        "text": "{0} <p=turn,turns,{0}> left",
         "hash": "5370382d9453e40fb6a28a690e06365d993e21c538f51824772583c06b67e7cb"
     },
     "SingleModeScenarioFree419011": {
@@ -18524,11 +18616,11 @@
         "hash": "54ff8445f24b6cc95066955158cc8eb7d744e3d3bc32b297cccbf8826b5d9cfa"
     },
     "SingleModeScenarioFree425005": {
-        "text": "<ords>{0}<orde>",
+        "text": "{0}<ord={0}>",
         "hash": "cdfe2624a379714ff8885e9f3293c1654cb6a81f62573f0a9cb72a6b5d725df0"
     },
     "SingleModeScenarioFree425006": {
-        "text": "<ords>{0}<orde>〜",
+        "text": "{0}<ord={0}>〜",
         "hash": "d554e4c2503d0bfe9c81108002c58ec6ad601c483a449c0a5cc0eb105b1ce062"
     },
     "SingleModeScenarioFree425007": {
@@ -18636,7 +18728,7 @@
         "hash": "9c00e4cae968b0d6ea9b78ca27fc53ab659f7ce17654c10a962bd0137841e8a4"
     },
     "SingleModeScenarioFree419036": {
-        "text": "<p=partner,partners>{0}</p>",
+        "text": "{0} <p=partner,partners,{0}>",
         "hash": "1287b3ce96233ca0fa6efdd70feb06552ff227a9ff6e99e85544d6dffbc74e8e"
     },
     "SingleModeScenarioFree419037": {
@@ -18864,11 +18956,11 @@
         "hash": "3ae809da2c22fc82b883fb645b9c555165b14db2d0783457b4c825b2773f9d96"
     },
     "SingleModeScenarioFree419080": {
-        "text": "",
+        "text": "When buying in the Special Shop",
         "hash": "1a91986bc98f4feab7170248d31ca9e9412f8da3f840d631c6c64ba4e00fca6f"
     },
     "SingleModeScenarioFree419081": {
-        "text": "",
+        "text": "When OFF, you will not see a confirmation popup before buying items in the Special Shop.",
         "hash": "1d5a837353638ca959cce86334fd7f444c41c1151f02af99e629e07bc752aab7"
     },
     "SingleModeScenarioFree418001": {
@@ -18884,11 +18976,11 @@
         "hash": "14d770f2301be38e7c59bcaeaed146cffdb93ed3848ada23b4550fee7577096c"
     },
     "SingleModeScenarioFree418004": {
-        "text": "",
+        "text": "Special Shop auto-use",
         "hash": "713deeeb5ac10d08932323356d046d8fa10ae54b9e028480645444342e6052db"
     },
     "SingleModeScenarioFree418005": {
-        "text": "",
+        "text": "When ON, some items will be used automatically when bought from the Special Shop.",
         "hash": "788c059dc6fd31c4c00534af13fb921b582e4d2930cd760009bd42439e912da4"
     },
     "SingleModeScenarioFree418006": {
@@ -19072,7 +19164,7 @@
         "hash": "6101dff3564ea6ab8a6bf99c31b649ce3ae26c4260a1a03ffafff682c34ad0bf"
     },
     "SingleModeScenarioLive0015": {
-        "text": "<color=#FF911C><p=turn,turns>{0}</p></color> left",
+        "text": "<color=#FF911C>{0} <p=turn,turns,{0}></color> left",
         "hash": "b8042e2ba23e731ea35ae9cab82a6db4423051bad8ac6a7358e2d3386f1182f9"
     },
     "SingleModeScenarioLive0016": {
@@ -19837,7 +19929,7 @@
     },
     "SingleModeScenarioTeamRace0032": {
         "text": "",
-        "hash": "d9c04f49e1e4203d2c5ad76ab09a51ec8e40fa37f1c2bca8aeddf095066dd233"
+        "hash": "fb1a594d1cb56d0528180edeb5d069ca5a191e45494d3f4abcfae8ba3c243261"
     },
     "SingleModeScenarioTeamRace0033": {
         "text": "Not yet trained in this scenario.",
@@ -20440,7 +20532,7 @@
         "hash": "07d6933ac8d4aa577b15cb0093ae685fa6088ec906155aa969b6633099765d93"
     },
     "SingleModeScenarioVenus400110": {
-        "text": "<p=turn,turns>{0}</p>",
+        "text": "{0} <p=turn,turns,{0}>",
         "hash": "66cbe865bf01779af3ec9a25bd365a9e81b5a35adf6d939d90af181123f16ed1"
     },
     "SingleModeScenarioVenus425041": {
@@ -20797,7 +20889,7 @@
     },
     "Story1240003": {
         "text": "",
-        "hash": "eeb6dfa8ab07cc74504b22f70f6af27949bbaaacb658418624e97f5efb2d7e98"
+        "hash": "c627c09c14e58e44bc51622dac392958ec88244e414b508020634f53cfcd1e69"
     },
     "Story400100": {
         "text": "",
@@ -20868,8 +20960,8 @@
         "hash": "933b37ba8c066ec0611c60d0fd87028344462c30aa2f2ec444bf9267d4da67e2"
     },
     "Story1260006": {
-        "text": "<color=#ff9900>Main Story Act 1</color> ends here.",
-        "hash": "d00dc7ddd70ba8a48d227091eabfe143f2aaf8aa140035d9bcb1e2afc0c080f0"
+        "text": "",
+        "hash": "8b362e5cf388b62c87e044944a305b1df12973c8c9c00e2c25eeb3f268ad919f"
     },
     "Story1260007": {
         "text": "",
@@ -20878,6 +20970,14 @@
     "Story1260008": {
         "text": "",
         "hash": "9581750481947c41e4fbfe03022d0109418205295ef565f89414c64076667b3d"
+    },
+    "Story4080000": {
+        "text": "",
+        "hash": "1e503ce9d73fa95562d97c5703b4835ab98397285860ead0525e377d6efd2423"
+    },
+    "Story4080001": {
+        "text": "",
+        "hash": "7e8795f6d45f061c58eee94eb32712347ffd5537478e24283d94d2932a51e09b"
     },
     "Story4230001": {
         "text": "",
@@ -20893,7 +20993,7 @@
     },
     "Story488001": {
         "text": "",
-        "hash": "0a5355c50e773b0899a87c8096963d255d484d63cb7016eaa8858dcd87f2b1df"
+        "hash": "e1b0f304b3a5bd6f352cba9911b3f86768dfc817bf76b7d11a7760c204ccc962"
     },
     "Story467003": {
         "text": "",
@@ -20910,6 +21010,18 @@
     "Story511003": {
         "text": "",
         "hash": "fabfa5df26de122ea0889bd496ce507477178214b5634bd6453ebdf2918d21a2"
+    },
+    "Story194001": {
+        "text": "",
+        "hash": "63fecbaa6a832beea194be05fe7dbe907874bfffe1dcef12e5e036267f74f0fe"
+    },
+    "Story194002": {
+        "text": "",
+        "hash": "42def3eff47f5e7fe7818fa517a0614d5ef8aeacafad6363c98471121a8f5780"
+    },
+    "Story497001": {
+        "text": "",
+        "hash": "dc4f43534953c968bf62c40c8eb55a3389db868dab397d196e780638154d9d7b"
     },
     "StoryEvent0001": {
         "text": "",
@@ -21072,15 +21184,15 @@
         "hash": "fc34150298788699b4e217b3880f9c9521b85838b35251412ded3cb3fb0525a8"
     },
     "StoryEvent0041": {
-        "text": "Time left: <p=day,days>{0}</p>",
+        "text": "Time left: {0} <p=day,days,{0}>",
         "hash": "6afb39debd4dd1303fbff4afb45972ffe79526d8f4ade6c5a2fcec15e2621faf"
     },
     "StoryEvent0042": {
-        "text": "Time left: <p=hour,hours>{0}</p>",
+        "text": "Time left: {0} <p=hour,hours,{0}>",
         "hash": "9f81342e3d570a66f77a1b4a5de57c46f51c02d23500ded03dcea157f36f9b4b"
     },
     "StoryEvent0043": {
-        "text": "Time left: <p=min,mins>{0}</p>",
+        "text": "Time left: {0} <p=min,mins,{0}>",
         "hash": "a3d6c4f6fb9bb9e528d0ee79715a395daefec3eb98f683dcd47d7202202f05a4"
     },
     "StoryEvent0044": {
@@ -22216,7 +22328,7 @@
         "hash": "885cb6023e59cb6b4c8d9493b169841403bf0b2c83a4692363c4c6346a9bb94c"
     },
     "TeamStadium0021": {
-        "text": "{0:#,0}",
+        "text": "",
         "hash": "b302a7a97d048e3236ed2f8eb07f97fd735373fcfe9e93e26f4395855fdfd113"
     },
     "TeamStadium0023": {
@@ -22616,11 +22728,11 @@
         "hash": "c0ed0afda8a3df5e5156fdf3c415bd996fd0fc94b54087fc78fe35e2f99ad487"
     },
     "Title0026": {
-        "text": "Download All Data",
+        "text": "Download all data",
         "hash": "e9024d608c24dd765d2b90fc7bf18e1988ffbe67bb2a3f739e9a96eb686aa23f"
     },
     "Title0027": {
-        "text": "",
+        "text": "No game data available to download.",
         "hash": "1fc9ce0796079766c684804e8abe58df639596cd687661316f171e2f417edf4e"
     },
     "Title0028": {
@@ -22892,15 +23004,15 @@
         "hash": "259bc80b413a86d0211377526230bc768fc66c4c5fb1331b9b86edd7f80736bd"
     },
     "TrainingChallenge4180001": {
-        "text": "Time left: <p=day,days>{0}</p>",
+        "text": "Time left: {0} <p=day,days,{0}>",
         "hash": "bb91ded2daaada31927e6793bc5430145713717a96d4bf4ba9c2d701fe8fe855"
     },
     "TrainingChallenge4180002": {
-        "text": "Time left: <p=hour,hours>{0}</p>",
+        "text": "Time left: {0} <p=hour,hours,{0}>",
         "hash": "b20b1a43cebed3d59d835b28fe0a0f4d412990557c5be41bfab993e7f1f58550"
     },
     "TrainingChallenge4180003": {
-        "text": "Time left: <p=min,mins>{0}</p>",
+        "text": "Time left: {0} <p=min,mins,{0}>",
         "hash": "d729aa6783d020f597a078f1c45b7f9302c12969b28f45b694abb8a61d6ba2eb"
     },
     "TrainingChallenge4180004": {
@@ -23484,7 +23596,7 @@
         "hash": "f6d3a16a475e4d1d2efa99e732c7d4154e5c661da4dc7d70d13c7e8039ebc581"
     },
     "TransferEvent0021": {
-        "text": "",
+        "text": "<nb>Training",
         "hash": "a4e73d3dc3970c0deb1b30ba6c787e28459a098db91d305415e2645b5a41c99d"
     },
     "TransferEvent0022": {
@@ -23644,7 +23756,7 @@
         "hash": "dfe4144d991e4c434ade1a8562cd8f538cfe37fec25c070dd54d3b2f38606bed"
     },
     "UltimateRace0001": {
-        "text": "",
+        "text": "Masters Challenge",
         "hash": "757fc64da37ad64691e774cafae783e06910d4a1b2784d90b59bda9365ec4f50"
     },
     "UltimateRace0002": {
