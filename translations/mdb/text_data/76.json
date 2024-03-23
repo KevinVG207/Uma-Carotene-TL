@@ -736,6 +736,10 @@
         "hash": "75dd84e5b9ea6cb9fe2e93cb405967df6c6902fd96cc46ad4a84afb6e7be634e",
         "processed": "<sc=88>[Pure Eyes are to be Protected]"
     },
+    "20075": {
+        "text": "[Cheers!]",
+        "hash": "c5b81c4e1d09dc9df26d28c4717837f4e3056cdef03e5ea5ecf4e945db990bd2"
+    },
     "30001": {
         "text": "[Japan's Number 1 Stage]",
         "hash": "15e94e3d710f8f0491ed4cfe4fdda657fd889d232c6f5d26e0c822eb9699dc77"
@@ -1537,5 +1541,13 @@
         "text": "[My Brilliante Melody for You]",
         "hash": "0bdca2d4c8e6da1a83e07e8f5dac07716508f6d4fbcd795c02a98686bc176677",
         "processed": "<sc=93>[My Brilliante Melody for You]"
+    },
+    "30193": {
+        "text": "[Over the Ocean]",
+        "hash": "e8961135ed88007c168ff00aa996e02af7ab76f7d52f370ef6f1384f212b8cc2"
+    },
+    "30194": {
+        "text": "[Tiara Formed by Ley Lines]",
+        "hash": "ec1dee33b613899d27a73d2dbadcc8fb1a53ddfe0c3a6631f4655785156237bc"
     }
 }

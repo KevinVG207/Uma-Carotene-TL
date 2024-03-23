@@ -559,6 +559,11 @@
         "hash": "916acecaad38bf382f4ae6876817ad2d9ba36ba6bbf06ddc08c20aa38583105e",
         "processed": "<rbr><sc=80>If you're in the second half of the pack<br>halfway through the race, your speed will<br>increase; then, if you try to overtake some-<br>one during the Final Corner in the Final<br>Leg, you will get a slight speed boost."
     },
+    "101091": {
+        "text": "If you're in the middle of the pack on any corner during the first half of the race, your speed will slightly increase; bonus duration in Short and Mile races.",
+        "hash": "765f76fbf735ac2c58c8a059c7f22ca97fac74322eae73704315b85cb6783f3d",
+        "processed": "<rbr><sc=88>If you're in the middle of the pack on<br>any corner during the first half of the<br>race, your speed will slightly increase;<br>bonus duration in Short and Mile races."
+    },
     "110021": {
         "text": "If you're in the first place two-thirds through the race, you will get a speed boost; the effect will greatly increase if the two-thirds point is on the third corner and if you were leading by at least 3 lengths during the Middle Leg.",
         "hash": "4aa84dd75f7eb6d1ce3f40c2951d0a6bb763e5e377688d9b4711b377ef62bb6f",
@@ -6428,6 +6433,11 @@
         "text": "Chaser・Medium・If you're not in the front during the Final Corner in the Final Leg (or the Final Corner of the Nakayama Racecourse), your acceleration will increase; then, during the Last Straight, your speed will slightly increase.",
         "hash": "5e2a46e01f0783597828b201ddca7612b047776550e58d9b7c08dd570fa8d32f",
         "processed": "<rbr><sc=73>Chaser・Medium・If you're not in the front dur-<br>ing the Final Corner in the Final Leg (or the<br>Final Corner of the Nakayama Racecourse),<br>your acceleration will increase; then, during the<br>Last Straight, your speed will slightly increase."
+    },
+    "110901111": {
+        "text": "Mile・If you're in the first half of the pack during the second half of the Middle Leg, your speed will greatly increase.",
+        "hash": "49000d9d91258487a440a485892bd97420e78b67dabdc1aceb333e041ca7dbac",
+        "processed": "<rbr>Mile・If you're in the first half of<br>the pack during the second half of<br>the Middle Leg, your speed will<br>greatly increase."
     },
     "110901211": {
         "text": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase.",

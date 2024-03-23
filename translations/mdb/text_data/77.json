@@ -418,9 +418,17 @@
         "text": "Ryoka Tsurugi",
         "hash": "05e559037a85ad61936035e12c0c0b77740eeb720e39c57f2f6f098960378a0b"
     },
+    "10105": {
+        "text": "Cheval Grand",
+        "hash": "95f42094ffe843ee01296f8415fd986cb995fe601f1d920d7c4214d76c5305f1"
+    },
     "10113": {
         "text": "Gentildonna",
         "hash": "1f04beeeda776e367ce2e2f232b2d687ae536efa5cfd2ee4650aa062750cb32d"
+    },
+    "10114": {
+        "text": "Rhein Kraft",
+        "hash": "893557d7a83a2dc7918b7338d6ff1b0b8a2f65550ed11ab34b2dfd58ed39cc42"
     },
     "20001": {
         "text": "Fuji Kiseki",
@@ -1482,5 +1490,13 @@
     "30191": {
         "text": "Sounds of Earth",
         "hash": "98ad35b11a8b6f08ea2f3299ae3d2166d34f3567ec5847885cbcb57bbd7a6f46"
+    },
+    "30193": {
+        "text": "Cheval Grand",
+        "hash": "95f42094ffe843ee01296f8415fd986cb995fe601f1d920d7c4214d76c5305f1"
+    },
+    "30194": {
+        "text": "Rhein Kraft",
+        "hash": "893557d7a83a2dc7918b7338d6ff1b0b8a2f65550ed11ab34b2dfd58ed39cc42"
     }
 }
