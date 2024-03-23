@@ -411,9 +411,17 @@
         "text": "[Producer] Ryoka Tsurugi",
         "hash": "25b85ede6b32790feee1debb7beaa09d7ebd11f244fe69f687a906393816573e"
     },
+    "10105": {
+        "text": "[Tracen Academy] Cheval Grand",
+        "hash": "89853bc64ffc5380d9946e0db5cdacea3ac544af52960e96d5ab7a1519efdd75"
+    },
     "10113": {
         "text": "[Tracen Academy] Gentildonna",
         "hash": "9d1e1f5d5fa583120492713599601e3c3f8b31d1c724bc5472b80d63b1614c43"
+    },
+    "10114": {
+        "text": "[Tracen Academy] Rhein Kraft",
+        "hash": "d21372aafb37b2761c8032718e54da21e91da7ae75e15b983f9128ade354795b"
     },
     "20001": {
         "text": "[Good Grief, Welcome Back] Fuji Kiseki",
@@ -706,6 +714,10 @@
     "20074": {
         "text": "[Pure Eyes are to be Protected] Yaeno Muteki",
         "hash": "55ddc220aa25a11cebbe65fedf4d8773842ab2525f5409cd542381980224713d"
+    },
+    "20075": {
+        "text": "[Cheers!] Tap Dance City",
+        "hash": "923bf6f81f57ed2509231e243af9364127778469d6037a18c9d07fa6087070d7"
     },
     "30001": {
         "text": "[Japan's Number 1 Stage] Special Week",
@@ -1450,5 +1462,13 @@
     "30191": {
         "text": "[My Brilliante Melody for You] Sounds of Earth",
         "hash": "0fcd685149c259667559141df863ba68986dff16b18795e0ff5874e6b6c3f8ea"
+    },
+    "30193": {
+        "text": "[Over the Ocean] Cheval Grand",
+        "hash": "e642a2f0e0a3c2610793edc6f8c0d64c8933c20907c39a608f160a65252c6dce"
+    },
+    "30194": {
+        "text": "[Tiara Formed by Ley Lines] Rhein Kraft",
+        "hash": "5bbb8b20452531ad6403b9271b1f92ce2703b3dc7c81ac859b92e831b0c34706"
     }
 }

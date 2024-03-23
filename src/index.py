@@ -87,6 +87,32 @@ def create_write_path(file_name):
         raise NotImplementedError(f"Unknown asset type for {file_name}")
 
 
+def story_data_equal(data1, data2):
+    if len(data1) != len(data2):
+        return False
+
+    for i, clip in enumerate(data1):
+        clip2 = data2[i]
+
+        if clip['source'] != clip2['source']:
+            return False
+        
+        if clip.get('choices'):
+            if not clip2.get('choices'):
+                return False
+            
+            if len(clip['choices']) != len(clip2['choices']):
+                return False
+            
+            for j, choice in enumerate(clip['choices']):
+                choice2 = clip2['choices'][j]
+
+                if choice['source'] != choice2['source']:
+                    return False
+
+    return True
+
+
 def load_asset_data(row_metadata):
     row_data = row_metadata['row_data']
     new = row_metadata['new']
@@ -118,6 +144,9 @@ def load_asset_data(row_metadata):
     }
 
     if file_name.startswith("race/"):
+        if not tree.get('textData'):
+            return
+
         tl_item['type'] = 'race'
         for text in tree['textData']:
             clip_item = {
@@ -177,7 +206,16 @@ def load_asset_data(row_metadata):
 
     if not new:
         print(f"\nStory data {tl_item['file_name']} has changed. Creating backup and replacing.", flush=True)
-        os.rename(write_path, write_path + f".{round(time.time())}")
+        bak_path = write_path + f".{round(time.time())}"
+        os.rename(write_path, bak_path)
+
+        # Check if they are equal.
+        old_data = util.load_json(bak_path)
+        if story_data_equal(tl_item['data'], old_data['data']):
+            # Restore translations from the old file.
+            tl_item['data'] = old_data['data']
+            print(f"\nRestored translations from {bak_path}.", flush=True)
+
 
     with open(write_path, "w", encoding="utf-8") as f:
         f.write(util.json.dumps(tl_item, indent=4, ensure_ascii=False))
