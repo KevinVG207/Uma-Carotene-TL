@@ -213,7 +213,12 @@ def load_asset_data(row_metadata):
         old_data = util.load_json(bak_path)
         if story_data_equal(tl_item['data'], old_data['data']):
             # Restore translations from the old file.
+            for i, old_entry in enumerate(old_data['data']):
+                new_entry = tl_item['data'][i]
+                old_entry['path_id'] = new_entry['path_id']
+
             tl_item['data'] = old_data['data']
+            tl_item['title'] = old_data['title']
             print(f"\nRestored translations from {bak_path}.", flush=True)
 
 
