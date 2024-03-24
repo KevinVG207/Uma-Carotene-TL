@@ -571,13 +571,13 @@ def _import_xor(xor_data):
         f.write(new_bytes)
 
 
-def import_xor(xor_metadatas):
-    xor_datas = [a[0] for a in xor_metadatas]
+def import_movies(movie_metadatas):
+    movie_datas = [a[0] for a in movie_metadatas]
 
-    set_group_0(xor_datas)
+    set_group_0(movie_datas)
 
     with Pool() as pool:
-        _ = list(util.tqdm(pool.imap_unordered(_import_xor, xor_datas, chunksize=16), total=len(xor_datas), desc="XORing videos"))
+        _ = list(util.tqdm(pool.imap_unordered(_import_xor, movie_datas, chunksize=16), total=len(movie_datas), desc="Patching videos"))
 
     # print(f"Replacing {len(xor_datas)} xor files.")
     # for xor_data in xor_datas:
@@ -601,7 +601,7 @@ def import_assets():
     if pc("story"):
         import_stories(asset_dict.get('story', []))
     if pc("videos"):
-        import_xor(asset_dict.get('xor', []))
+        import_movies(asset_dict.get('movie', []))
 
 
 def _import_jpdict():

@@ -814,7 +814,10 @@ def index_flash():
     #     index_flash_text_from_assetbundle(metadata)
         
 
-def index_xor_file(file):
+def index_movie_file(file):
+    index_xor_file(file, "movie")
+
+def index_xor_file(file, filetype="xor"):
     file_name = file[0]
     hash = file[1]
 
@@ -844,7 +847,7 @@ def index_xor_file(file):
                     shutil.copy(org_path, org_path + f".{round(time.time())}")
 
     meta_data = {
-        "type": "xor",
+        "type": filetype,
         "version": version.VERSION,
         "file_name": file_name,
         "hash": hash
@@ -860,7 +863,7 @@ def index_xor_file(file):
 
 
 
-def index_xor():
+def index_movies():
     # Files that will use a diff file and xored with the original file.
     xor_files = []
 
@@ -874,7 +877,7 @@ def index_xor():
         return
     
     with Pool() as pool:
-        _ = list(tqdm.tqdm(pool.imap_unordered(index_xor_file, xor_files, chunksize=16), total=len(xor_files), desc="Extracting xor files"))
+        _ = list(tqdm.tqdm(pool.imap_unordered(index_movie_file, xor_files, chunksize=16), total=len(xor_files), desc="Extracting movie files"))
     
     # for file in xor_files:
     #     index_xor_file(file)
@@ -887,7 +890,7 @@ def index_assets():
     index_story()
     index_textures()
     index_flash()
-    index_xor()
+    index_movies()
 
 
 def index_jpdict():
@@ -1048,7 +1051,7 @@ def main():
     # _patch.clean_asset_backups()
     # index_story()
     # index_textures()
-    index_xor()
+    index_movies()
     pass
 
 if __name__ == "__main__":

@@ -597,7 +597,7 @@ def assets_from_intermediate():
     convert_stories()
     convert_textures()
     convert_flash()
-    convert_xor()
+    convert_movies()
 
 def jpdict_from_intermediate():
     print("=== CREATING JP DICT ===")
@@ -747,7 +747,7 @@ def _handle_one_xor(path):
     os.makedirs(os.path.dirname(out_meta_file), exist_ok=True)
 
     out_metadata = {
-        "type": "xor",
+        "type": metadata["type"],
         "hash": metadata['hash'],
         "file_name": metadata['file_name'],
     }
@@ -766,7 +766,7 @@ def _handle_one_xor(path):
     util.save_json(out_meta_file, out_metadata)
 
 
-def convert_xor():
+def convert_movies():
     print("=== CREATING DIFF FILES FOR XOR-ABLE ASSETS ===")
     xor_jsons = glob.glob(util.ASSETS_FOLDER_EDITING + "/movie/**/*.json", recursive=True)
 
@@ -796,7 +796,7 @@ def get_mdb_structure():
     return structure
 
 def main():
-    convert_xor()
+    convert_movies()
     pass
 
 if __name__ == "__main__":
