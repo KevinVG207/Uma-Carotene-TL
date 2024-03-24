@@ -812,6 +812,73 @@ def index_flash():
         _ = list(tqdm.tqdm(pool.imap_unordered(index_flash_text_from_assetbundle, all_textures, chunksize=16), total=len(all_textures), desc="Extracting flash"))
     # for metadata in util.tqdm(all_textures, desc="Extracting flash"):
     #     index_flash_text_from_assetbundle(metadata)
+        
+
+def index_xor_file(file):
+    file_name = file[0]
+    hash = file[1]
+
+    file_path = util.get_asset_path(hash)
+
+    if not os.path.exists(file_path):
+        print(f"\nUser has not downloaded xor file {file_name}. Downloading...")
+        util.download_asset(hash, no_progress=True)
+    
+    out_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name)
+    org_path = out_path + ".org"
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    meta_path = out_path + ".json"
+
+    if os.path.exists(meta_path):
+        with open(meta_path, "r", encoding="utf-8") as f:
+            meta_data = json.load(f)
+            if meta_data['hash'] == hash:
+                return
+            else:
+                print(f"\nXor file {file_name} has changed. Creating backup and replacing.", flush=True)
+                shutil.copy(meta_path, meta_path + f".{round(time.time())}")
+                if os.path.exists(out_path):
+                    shutil.copy(out_path, out_path + f".{round(time.time())}")
+                if os.path.exists(org_path):
+                    shutil.copy(org_path, org_path + f".{round(time.time())}")
+
+    meta_data = {
+        "type": "xor",
+        "version": version.VERSION,
+        "file_name": file_name,
+        "hash": hash
+    }
+
+    with open(meta_path, "w", encoding="utf-8") as f:
+        f.write(json.dumps(meta_data, indent=4, ensure_ascii=False)
+    )
+
+    shutil.copy(file_path, out_path)
+    shutil.copy(file_path, org_path)
+
+
+
+
+def index_xor():
+    # Files that will use a diff file and xored with the original file.
+    xor_files = []
+
+    with util.MetaConnection() as (_, cursor):
+        cursor.execute(
+            """SELECT n, h FROM a WHERE n like 'movie/m/%' ORDER BY n ASC;"""
+        )
+        xor_files += cursor.fetchall()
+    
+    if not xor_files:
+        return
+    
+    with Pool() as pool:
+        _ = list(tqdm.tqdm(pool.imap_unordered(index_xor_file, xor_files, chunksize=16), total=len(xor_files), desc="Extracting xor files"))
+    
+    # for file in xor_files:
+    #     index_xor_file(file)
+
 
 
 def index_assets():
@@ -820,6 +887,7 @@ def index_assets():
     index_story()
     index_textures()
     index_flash()
+    index_xor()
 
 
 def index_jpdict():
@@ -979,7 +1047,8 @@ def index_assembly():
 def main():
     # _patch.clean_asset_backups()
     # index_story()
-    index_textures()
+    # index_textures()
+    index_xor()
     pass
 
 if __name__ == "__main__":

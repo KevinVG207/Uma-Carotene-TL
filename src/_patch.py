@@ -86,10 +86,34 @@ def _set_value_in_table(key, value):
 def _get_version_from_table():
     return _get_value_from_table("version")
 
-def _is_meta_patched():
+def _is_meta_updated():
+    if not _is_meta_patched():
+        return False
+
+    cur_hashes = set()
+    bak_hashes = set()
+
     with util.MetaConnection() as (conn, cursor):
-        cursor.execute(f"SELECT name FROM sqlite_master WHERE type='table' AND name='{util.META_BACKUP_TABLE}';")
-        return bool(cursor.fetchone())
+        cursor.execute("SELECT h from a;")
+        cur_hashes = set([row[0] for row in cursor.fetchall()])
+
+    with util.MetaBackupConnection() as (conn, cursor):
+        cursor.execute("SELECT h from a;")
+        bak_hashes = set([row[0] for row in cursor.fetchall()])
+
+    if cur_hashes != bak_hashes:
+        return True
+
+    return False
+
+def _is_meta_patched():
+    bak_path = util.META_PATH + util.META_BACKUP_SUFFIX
+
+    if not os.path.exists(bak_path):
+        return False
+    
+    return True
+
 
 def get_current_patch_ver():
     # Load settings
@@ -107,6 +131,7 @@ def get_current_patch_ver():
     mdb_ver = _get_version_from_table()
 
     meta_is_patched = _is_meta_patched()
+    meta_is_updated = _is_meta_updated()
 
     if install_started:
         # The patcher was started, but not finished.
@@ -147,6 +172,10 @@ def get_current_patch_ver():
     
     if not meta_is_patched:
         # The meta DB is no longer patched.
+        return "partial", None
+    
+    if meta_is_updated:
+        # The meta DB has been updated.
         return "partial", None
     
     # The patch is installed.
@@ -211,17 +240,17 @@ def revert_meta_db():
 
     if not _is_meta_patched():
         return
+    
+    meta_is_updated = _is_meta_updated()
 
-    with util.MetaConnection() as (conn, cursor):
-        cursor.execute(f"DROP TABLE IF EXISTS a;")
-        cursor.execute(f"ALTER TABLE {util.META_BACKUP_TABLE} RENAME TO a;")
-        conn.commit()
+    if not meta_is_updated:
+        shutil.copy(util.META_PATH + util.META_BACKUP_SUFFIX, util.META_PATH)
+    
+    os.remove(util.META_PATH + util.META_BACKUP_SUFFIX)
 
 def backup_meta_db():
     print("Backing up meta DB")
-    with util.MetaConnection() as (conn, cursor):
-        cursor.execute(f"CREATE TABLE {util.META_BACKUP_TABLE} AS SELECT * FROM a;")
-        conn.commit()
+    shutil.copy(util.META_PATH, util.META_PATH + util.META_BACKUP_SUFFIX)
 
 
 def clean_asset_backups():
@@ -261,6 +290,15 @@ def create_new_image_from_path_id(asset_bundle, path_id, diff_path):
 
     return new_bytes, texture_read
 
+def set_group_0(metadatas):
+    # Change asset group so it doesn't get deleted.
+    with util.MetaConnection() as (conn, cursor):
+        # Change group to 0 if it's currently 1.
+        for metadata in metadatas:
+            asset_hash = metadata['hash']
+            cursor.execute("UPDATE a SET g = 0 WHERE h = ? AND g = 1;", (asset_hash,))
+        conn.commit()
+
 def handle_backup(asset_hash, force=False):
     asset_path = util.get_asset_path(asset_hash)
     asset_path_bak = asset_path + ".bak"
@@ -285,11 +323,6 @@ def handle_backup(asset_hash, force=False):
     elif force:
         shutil.copy(asset_path_bak, asset_path)
 
-    # Change asset group so it doesn't get deleted.
-    with util.MetaConnection() as (conn, cursor):
-        # Change group to 0 if it's currently 1.
-        cursor.execute("UPDATE a SET g = 0 WHERE h = ? AND g = 1;", (asset_hash,))
-    
     return asset_path
 
 def _import_texture(asset_metadata):
@@ -513,12 +546,49 @@ def import_stories(story_datas):
     # for story_data in story_datas:
     #     _import_story(story_data)
 
+
+def _import_xor(xor_data):
+    asset_path = handle_backup(xor_data['hash'], force=True)
+
+    if not asset_path:
+        return
+    
+    diff_path = os.path.join(util.ASSETS_FOLDER, xor_data['file_name'] + ".diff")
+
+    if not os.path.exists(diff_path):
+        print(f"Diff not found in TL files: {diff_path} - Skipping")
+        return
+
+    with open(diff_path, "rb") as f:
+        diff_bytes = f.read()
+
+    with open(asset_path, "rb") as f:
+        source_bytes = f.read()
+
+    new_bytes = util.apply_diff(source_bytes, diff_bytes)
+
+    with open(asset_path, "wb") as f:
+        f.write(new_bytes)
+
+
+def import_xor(xor_metadatas):
+    xor_datas = [a[0] for a in xor_metadatas]
+
+    set_group_0(xor_datas)
+
+    with Pool() as pool:
+        _ = list(util.tqdm(pool.imap_unordered(_import_xor, xor_datas, chunksize=16), total=len(xor_datas), desc="XORing videos"))
+
+    # print(f"Replacing {len(xor_datas)} xor files.")
+    # for xor_data in xor_datas:
+    #     _import_xor(xor_data)
+
 def import_assets():
     clean_asset_backups()
     revert_meta_db()
     backup_meta_db()
 
-    if not pc("flash") and not pc("textures") and not pc("story"):
+    if not pc("flash") and not pc("textures") and not pc("story") and not pc("videos"):
         print("Skipping assets.")
         return
 
@@ -530,6 +600,8 @@ def import_assets():
         import_textures(asset_dict.get('texture', []))
     if pc("story"):
         import_stories(asset_dict.get('story', []))
+    if pc("videos"):
+        import_xor(asset_dict.get('xor', []))
 
 
 def _import_jpdict():
@@ -871,4 +943,5 @@ def main(dl_latest=False, dll_name='version.dll', ignore_filesize=False):
 
 
 if __name__ == "__main__":
-    main(dl_latest=False)
+    import_assets()
+    # main(dl_latest=False)

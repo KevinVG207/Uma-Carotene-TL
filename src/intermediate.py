@@ -496,19 +496,6 @@ def _convert_texture(metadata):
 
 
 def convert_textures():
-
-    #1 Fetch all texture jsons
-    #2 Loop over textures in json
-    #3 Fix transparency
-    #4 Save diff
-
-    # For index.py
-    #5 Loop over each assetbundle
-    #6 Check if diffs exist that belong to the assetbundle
-    #7 If the hashes match, apply the diff to the texture in the assetbundle
-    #  If not, check if an org png exists, and apply to that and save a backup
-
-
     print("=== TEXTURES ===")
     json_list = glob.glob(util.ASSETS_FOLDER_EDITING + "\\**\\*.json", recursive=True)
 
@@ -610,6 +597,7 @@ def assets_from_intermediate():
     convert_stories()
     convert_textures()
     convert_flash()
+    convert_xor()
 
 def jpdict_from_intermediate():
     print("=== CREATING JP DICT ===")
@@ -740,6 +728,51 @@ def convert_flash():
         _handle_one_flash(path)
 
 
+def _handle_one_xor(path):
+    metadata = util.load_json(path)
+
+    edited_path = os.path.join(util.ASSETS_FOLDER_EDITING, metadata['file_name'])
+    org_path = edited_path + ".org"
+
+    if not os.path.exists(org_path) or not os.path.exists(edited_path):
+        print("Error: XOR file not found:", org_path, edited_path)
+        return
+
+    if filecmp.cmp(org_path, edited_path):
+        # Skip unchanged files
+        return
+    
+    diff_path = os.path.join(util.ASSETS_FOLDER, metadata['file_name'] + ".diff")
+    out_meta_file = os.path.join(util.ASSETS_FOLDER, metadata['file_name'] + ".json")
+    os.makedirs(os.path.dirname(out_meta_file), exist_ok=True)
+
+    out_metadata = {
+        "type": "xor",
+        "hash": metadata['hash'],
+        "file_name": metadata['file_name'],
+    }
+
+    with open(org_path, "rb") as f:
+        org_bytes = f.read()
+
+    with open(edited_path, "rb") as f:
+        edited_bytes = f.read()
+
+    diff = util.make_diff(edited_bytes, org_bytes)
+
+    with open(diff_path, "wb") as f:
+        f.write(diff)
+
+    util.save_json(out_meta_file, out_metadata)
+
+
+def convert_xor():
+    print("=== CREATING DIFF FILES FOR XOR-ABLE ASSETS ===")
+    xor_jsons = glob.glob(util.ASSETS_FOLDER_EDITING + "/movie/**/*.json", recursive=True)
+
+    for path in xor_jsons:
+        _handle_one_xor(path)
+
 
 def get_mdb_structure():
     jsons = glob.glob(util.MDB_FOLDER_EDITING + "/**/*.json", recursive=True)
@@ -763,7 +796,7 @@ def get_mdb_structure():
     return structure
 
 def main():
-    convert_stories()
+    convert_xor()
     pass
 
 if __name__ == "__main__":
