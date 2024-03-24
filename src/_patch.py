@@ -86,6 +86,11 @@ def _set_value_in_table(key, value):
 def _get_version_from_table():
     return _get_value_from_table("version")
 
+def _is_meta_patched():
+    with util.MetaConnection() as (conn, cursor):
+        cursor.execute(f"SELECT name FROM sqlite_master WHERE type='table' AND name='{util.META_BACKUP_TABLE}';")
+        return bool(cursor.fetchone())
+
 def get_current_patch_ver():
     # Load settings
     cur_patch_ver = settings.installed_version
@@ -100,6 +105,8 @@ def get_current_patch_ver():
         dll_path = os.path.join(util.get_game_folder(), dll_name)
 
     mdb_ver = _get_version_from_table()
+
+    meta_is_patched = _is_meta_patched()
 
     if install_started:
         # The patcher was started, but not finished.
@@ -136,6 +143,10 @@ def get_current_patch_ver():
     if cur_patch_ver != mdb_ver:
         # The mdb version does not match the installed patch version.
         # This should never happen, but we mark it as partial just in case.
+        return "partial", None
+    
+    if not meta_is_patched:
+        # The meta DB is no longer patched.
         return "partial", None
     
     # The patch is installed.
@@ -193,6 +204,24 @@ def import_mdb():
         conn.commit()
 
     print("Import complete.")
+
+
+def revert_meta_db():
+    print("Reverting meta DB")
+
+    if not _is_meta_patched():
+        return
+
+    with util.MetaConnection() as (conn, cursor):
+        cursor.execute(f"DROP TABLE IF EXISTS a;")
+        cursor.execute(f"ALTER TABLE {util.META_BACKUP_TABLE} RENAME TO a;")
+        conn.commit()
+
+def backup_meta_db():
+    print("Backing up meta DB")
+    with util.MetaConnection() as (conn, cursor):
+        cursor.execute(f"CREATE TABLE {util.META_BACKUP_TABLE} AS SELECT * FROM a;")
+        conn.commit()
 
 
 def clean_asset_backups():
@@ -255,6 +284,11 @@ def handle_backup(asset_hash, force=False):
         shutil.copy(asset_path, asset_path_bak)
     elif force:
         shutil.copy(asset_path_bak, asset_path)
+
+    # Change asset group so it doesn't get deleted.
+    with util.MetaConnection() as (conn, cursor):
+        # Change group to 0 if it's currently 1.
+        cursor.execute("UPDATE a SET g = 0 WHERE h = ? AND g = 1;", (asset_hash,))
     
     return asset_path
 
@@ -481,6 +515,8 @@ def import_stories(story_datas):
 
 def import_assets():
     clean_asset_backups()
+    revert_meta_db()
+    backup_meta_db()
 
     if not pc("flash") and not pc("textures") and not pc("story"):
         print("Skipping assets.")

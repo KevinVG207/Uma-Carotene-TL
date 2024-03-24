@@ -92,6 +92,8 @@ DIFF_FOLDER = TL_PREFIX + "diff\\"
 TABLE_PREFIX = '_carotene'
 TABLE_BACKUP_PREFIX = TABLE_PREFIX + "_bak_"
 
+META_BACKUP_TABLE = TABLE_BACKUP_PREFIX + "a"
+
 DLL_BACKUP_SUFFIX = ".bak"
 
 class Connection:
