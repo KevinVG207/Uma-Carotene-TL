@@ -60,6 +60,7 @@ TQDM_NCOLS = 65
 
 MDB_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\master\\master.mdb")
 META_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\meta")
+META_BACKUP_SUFFIX = ".carotene.bak"
 
 DATA_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\dat")
 CAROTENIFY_PATY = os.path.expandvars("%TEMP%\\carotenify")
@@ -92,6 +93,8 @@ DIFF_FOLDER = TL_PREFIX + "diff\\"
 TABLE_PREFIX = '_carotene'
 TABLE_BACKUP_PREFIX = TABLE_PREFIX + "_bak_"
 
+META_BACKUP_TABLE = TABLE_BACKUP_PREFIX + "a"
+
 DLL_BACKUP_SUFFIX = ".bak"
 
 class Connection:
@@ -115,6 +118,9 @@ class MDBConnection(Connection):
 
 class MetaConnection(Connection):
     DB_PATH = META_PATH
+
+class MetaBackupConnection(Connection):
+    DB_PATH = META_PATH + META_BACKUP_SUFFIX
 
 class GameDatabaseNotFoundException(Exception):
     pass
@@ -457,7 +463,11 @@ def download_asset(hash, no_progress=False):
 
     url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Windows/assetbundles/{0:.2}/{0}'.format(hash)
     
-    download_file(url, asset_path, no_progress=no_progress)
+    try:
+        download_file(url, asset_path, no_progress=no_progress)
+    except requests.exceptions.HTTPError:
+        url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Generic/{0:.2}/{0}'.format(hash)
+        download_file(url, asset_path, no_progress=no_progress)
 
     # Mark the asset as downloaded in the meta db
     with MetaConnection() as (conn, cursor):
