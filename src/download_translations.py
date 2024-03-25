@@ -1,7 +1,6 @@
 import json
 import os
 import time
-from multiprocessing import Pool
 import util
 import glob
 import hashlib
@@ -77,7 +76,7 @@ def main():
             table['files'] = {"character_system_text/" + file: metadata for file, metadata in table['files'].items()}
 
         pool_before = time.perf_counter()
-        with Pool(processes=min(os.cpu_count(), 16)) as pool:
+        with util.UmaPool() as pool:
             result = pool.map(util.download_json, [dl_base + file + ".json" for file in table['files'].keys()])
             file_jsons = {file: json for file, json in zip(table['files'].keys(), result)}
         pool_after = time.perf_counter()

@@ -1,6 +1,5 @@
 import requests
 import util
-from multiprocessing.pool import Pool
 import os
 import glob
 import json
@@ -68,7 +67,7 @@ def import_category(category, data):
 def apply_umapyoi_character_profiles(chara_ids):
     # Fetch all character data
     print("Fetching character data")
-    with Pool(5) as pool:
+    with util.UmaPool() as pool:
         chara_data = pool.map(fetch_chara_data, chara_ids)
 
     # Filter out characters with no data
@@ -211,7 +210,7 @@ def import_external_story(local_path, url_to_github_jsons, use_order=False, skip
     urls = [data['download_url'] for data in r.json()]
 
 
-    with Pool(5) as pool:
+    with util.UmaPool() as pool:
         story_data = pool.map(fetch_story_json, urls)
 
     if local_path.startswith("story/"):

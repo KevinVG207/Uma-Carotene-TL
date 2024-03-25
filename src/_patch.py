@@ -2,7 +2,6 @@ import util
 import os
 import glob
 import shutil
-from multiprocessing.pool import Pool
 import io
 import version
 import unity
@@ -361,7 +360,7 @@ def import_textures(texture_asset_metadatas):
     print(f"Replacing {len(texture_asset_metadatas)} textures.")
     texture_asset_metadatas = [a[0] for a in texture_asset_metadatas]
 
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(util.tqdm(pool.imap_unordered(_import_texture, texture_asset_metadatas, chunksize=16), total=len(texture_asset_metadatas), desc="Importing textures"))
 
 
@@ -539,7 +538,7 @@ def _import_story(story_data):
 def import_stories(story_datas):
     #TODO: Increase chunk size (maybe 16?) when more stories are added.
     story_datas = [a[0] for a in story_datas]
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(util.tqdm(pool.imap_unordered(_import_story, story_datas, chunksize=8), total=len(story_datas), desc="Importing stories"))
 
     # print(f"Replacing {len(story_datas)} stories.")
@@ -576,7 +575,7 @@ def import_movies(movie_metadatas):
 
     set_group_0(movie_datas)
 
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(util.tqdm(pool.imap_unordered(_import_xor, movie_datas, chunksize=16), total=len(movie_datas), desc="Patching videos"))
 
     # print(f"Replacing {len(xor_datas)} xor files.")

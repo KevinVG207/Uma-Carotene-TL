@@ -20,7 +20,7 @@ import time
 import glob
 import pyphen
 from functools import cache
-from multiprocessing import Pool
+from multiprocessing.pool import Pool
 import re
 import hashlib
 
@@ -47,6 +47,18 @@ def get_asset(asset_path):
     """Gets the absolute path of an asset relative to the unpack directory.
     """
     return os.path.join(unpack_dir, asset_path)
+
+
+class UmaPool(Pool):
+    def __init__(self, processes=None, *args, **kwargs):
+        # Limit processes to 12 maximum.
+        if not processes:
+            processes = os.cpu_count() or 1
+
+        if processes > 12:
+            processes = 12
+
+        super().__init__(processes, *args, **kwargs)
 
 
 APP_DIR = os.path.expandvars("%AppData%\\Uma-Carotene\\")
@@ -589,7 +601,7 @@ def get_assets_type_dict():
     jsons = glob.glob(ASSETS_FOLDER + "\\**\\*.json", recursive=True)
     jsons += glob.glob(FLASH_FOLDER + "\\**\\*.json", recursive=True)
 
-    with Pool() as pool:
+    with UmaPool() as pool:
         results = list(tqdm(pool.imap_unordered(get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for assets"))
 
     # asset_dict = {result[0]: result[1] for result in results if result[0]}
