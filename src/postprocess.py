@@ -1,7 +1,6 @@
 import math
 import util
 from tqdm import tqdm
-from multiprocessing import Pool
 from itertools import repeat
 import json
 
@@ -158,7 +157,7 @@ def fix_mdb():
         keys, values = zip(*data.items())
 
         if key in PP_FUNCS:
-            with Pool() as p:
+            with util.UmaPool() as p:
                 values = p.map(process_mdb, zip(values, keys, repeat(key)))
             
             data = dict(zip(keys, values))
@@ -223,7 +222,7 @@ def _fix_story(story_data):
 
 
 def fix_stories(story_datas):
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(util.tqdm(pool.imap_unordered(_fix_story, story_datas, chunksize=2), total=len(story_datas), desc="Postprocessing stories"))
     # for story_data in tqdm(story_datas, desc="Postprocessing stories"):
     #     _fix_story(story_data)

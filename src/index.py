@@ -4,7 +4,6 @@ import hashlib
 import unity
 import tqdm
 import time
-from multiprocessing import Pool
 from pathvalidate import sanitize_filename
 import glob
 import version
@@ -316,7 +315,7 @@ def update_story_intermediate(path_to_existing):
 
 def index_story(debug=False):
     print("=== EXPORTING STORY ===")
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         # First, apply all current translations to any existing intermediate files.
         existing_jsons = []
         existing_jsons += glob.glob(util.ASSETS_FOLDER + "story/**/*.json", recursive=True)
@@ -636,7 +635,7 @@ def index_textures():
     existing_jsons = []
     existing_jsons += glob.glob(util.ASSETS_FOLDER + "/**/*.json", recursive=True)
 
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         results = list(tqdm.tqdm(pool.imap_unordered(util.test_for_type, zip(existing_jsons, repeat("texture"))), total=len(existing_jsons), desc="Looking for translated textures"))
 
         results = [result[1] for result in results if result[0]]
@@ -694,7 +693,7 @@ def index_textures():
         raise ValueError("No textures found in meta DB.")
 
     
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(index_textures_from_assetbundle, all_textures, chunksize=6), total=len(all_textures), desc="Extracting textures"))
 
     # for metadata in all_textures:
@@ -808,7 +807,7 @@ def index_flash():
     if not all_textures:
         return
     
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(index_flash_text_from_assetbundle, all_textures, chunksize=16), total=len(all_textures), desc="Extracting flash"))
     # for metadata in util.tqdm(all_textures, desc="Extracting flash"):
     #     index_flash_text_from_assetbundle(metadata)
@@ -876,7 +875,7 @@ def index_movies():
     if not xor_files:
         return
     
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(index_movie_file, xor_files, chunksize=16), total=len(xor_files), desc="Extracting movie files"))
     
     # for file in xor_files:

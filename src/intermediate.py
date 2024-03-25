@@ -5,7 +5,6 @@ import util
 import hashlib
 import shutil
 import version
-from multiprocessing import Pool
 import tqdm
 from PIL import Image
 import numpy as np
@@ -358,7 +357,7 @@ def convert_stories():
     asset_jsons += glob.glob(util.ASSETS_FOLDER_EDITING + "home/**/*.json", recursive=True)
     asset_jsons += glob.glob(util.ASSETS_FOLDER_EDITING + "race/**/*.json", recursive=True)
 
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(process_asset, asset_jsons, chunksize=128), total=len(asset_jsons)))
 
 
@@ -499,7 +498,7 @@ def convert_textures():
     print("=== TEXTURES ===")
     json_list = glob.glob(util.ASSETS_FOLDER_EDITING + "\\**\\*.json", recursive=True)
 
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         results = list(tqdm.tqdm(pool.imap_unordered(util.test_for_type, zip(json_list, repeat("texture")), chunksize=128), total=len(json_list), desc="Looking for textures"))
 
         metadata_list = [result[1] for result in results if result[0]]
