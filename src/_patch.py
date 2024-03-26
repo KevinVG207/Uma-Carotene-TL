@@ -942,5 +942,4 @@ def main(dl_latest=False, dll_name='version.dll', ignore_filesize=False):
 
 
 if __name__ == "__main__":
-    import_assets()
-    # main(dl_latest=False)
+    main(dl_latest=False)
