@@ -293,6 +293,7 @@ class Ui_story_editor(QWidget):
         
         
         self.cmb_textblock.setCurrentIndex(0)
+        self.update_goto_buttons()
     
     def next_block(self):
         if not self.box_items:
@@ -376,6 +377,7 @@ class Ui_story_editor(QWidget):
         block = self.loaded_chapter["data"][block_index]
         block["name"] = sutils.get_text(self.txt_en_name)
         block["text"] = sutils.get_text(self.txt_en_text)
+        self.update_goto_buttons()
     
     def on_block_changed(self, widget: sutils.UmaPlainTextEdit):
         if self.ignore_updates:
@@ -529,6 +531,7 @@ class Ui_story_editor(QWidget):
                 break
         
         if changed:
+            self.block_changed = True
             self.set_changed()
             self.set_timeout()
             self.set_choices_changed()
@@ -633,6 +636,66 @@ class Ui_story_editor(QWidget):
     def handle_sync_change(self):
         if self.chkb_sync_game.isChecked():
             self.goto_game()
+    
+
+    def get_next_untranslated_block_index(self):
+        if not self.loaded_chapter:
+            return None
+
+        if not self.cur_open_block:
+            return None
+        
+        cur_index = self.cmb_textblock.currentIndex()
+        index_list = list(range(len(self.box_items)))
+        adjusted_list = index_list[cur_index + 1:] + index_list[:cur_index + 1]
+
+        for i in adjusted_list:
+            block_idx = self.box_items[i]
+            block = self.loaded_chapter["data"][block_idx]
+            if block.get("source") and not block.get("text"):
+                return i
+        
+        return None
+
+    def get_next_untranslated_choice_block_index(self):
+        if not self.loaded_chapter:
+            return None
+
+        if not self.cur_open_block:
+            return None
+        
+        cur_index = self.cmb_textblock.currentIndex()
+        index_list = list(range(len(self.box_items)))
+        adjusted_list = index_list[cur_index + 1:] + index_list[:cur_index + 1]
+
+        for i in adjusted_list:
+            block_idx = self.box_items[i]
+            block = self.loaded_chapter["data"][block_idx]
+            if block.get("choices"):
+                for choice in block["choices"]:
+                    if choice.get("source") and not choice.get("text"):
+                        return i
+                    
+        return None
+    
+    def goto_next_untranslated_block(self):
+        next_untranslated = self.get_next_untranslated_block_index()
+        if next_untranslated is not None:
+            self.cmb_textblock.setCurrentIndex(next_untranslated)
+    
+    def goto_next_untranslated_choice_block(self):
+        next_untranslated = self.get_next_untranslated_choice_block_index()
+        if next_untranslated is not None:
+            self.cmb_textblock.setCurrentIndex(next_untranslated)
+    
+    def update_goto_buttons(self):
+        next_untranslated = self.get_next_untranslated_block_index()
+        next_untranslated_choice = self.get_next_untranslated_choice_block_index()
+
+        print(next_untranslated, next_untranslated_choice)
+
+        self.btn_goto_choices.setEnabled(next_untranslated_choice is not None)
+        self.btn_goto_dialogue.setEnabled(next_untranslated is not None)
 
 
     def setupUi(self, story_editor):
@@ -685,11 +748,13 @@ class Ui_story_editor(QWidget):
         self.btn_goto_choices.setGeometry(QRect(10, 50, 191, 23))
         self.btn_goto_choices.setText(u"Goto next untranslated choices")
         self.btn_goto_choices.setEnabled(False)
+        self.btn_goto_choices.clicked.connect(self.goto_next_untranslated_choice_block)
         self.btn_goto_dialogue = QPushButton(self.grp_actions)
         self.btn_goto_dialogue.setObjectName(u"btn_goto_dialogue")
         self.btn_goto_dialogue.setGeometry(QRect(10, 80, 191, 23))
         self.btn_goto_dialogue.setText(u"Goto next untranslated dialogue")
         self.btn_goto_dialogue.setEnabled(False)
+        self.btn_goto_dialogue.clicked.connect(self.goto_next_untranslated_block)
 
 
         self.txt_chapter_name = sutils.UmaPlainTextEdit(self.grp_actions)

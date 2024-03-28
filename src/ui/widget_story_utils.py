@@ -137,7 +137,7 @@ def get_text(widget: QPlainTextEdit) -> str:
         char_data.append((char, is_bold, is_italic))
     
     text = char_data_to_str(char_data)
-    text = text.replace(" \n", "\n").replace("\n", " \n")
+    text = text.replace(" \n", "\n").replace("\n", " \n").rstrip()
     return text
 
 class UmaPlainTextEdit(QPlainTextEdit):
