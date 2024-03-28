@@ -20,7 +20,7 @@ import time
 import glob
 import pyphen
 from functools import cache
-from multiprocessing import Pool
+from multiprocessing.pool import Pool
 import re
 import hashlib
 
@@ -49,6 +49,18 @@ def get_asset(asset_path):
     return os.path.join(unpack_dir, asset_path)
 
 
+class UmaPool(Pool):
+    def __init__(self, processes=None, *args, **kwargs):
+        # Limit processes to 12 maximum.
+        if not processes:
+            processes = os.cpu_count() or 1
+
+        if processes > 12:
+            processes = 12
+
+        super().__init__(processes, *args, **kwargs)
+
+
 APP_DIR = os.path.expandvars("%AppData%\\Uma-Carotene\\")
 os.makedirs(APP_DIR, exist_ok=True)
 
@@ -60,6 +72,7 @@ TQDM_NCOLS = 65
 
 MDB_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\master\\master.mdb")
 META_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\meta")
+META_BACKUP_SUFFIX = ".carotene.bak"
 
 DATA_PATH = os.path.expandvars("%userprofile%\\appdata\\locallow\\Cygames\\umamusume\\dat")
 CAROTENIFY_PATY = os.path.expandvars("%TEMP%\\carotenify")
@@ -92,6 +105,8 @@ DIFF_FOLDER = TL_PREFIX + "diff\\"
 TABLE_PREFIX = '_carotene'
 TABLE_BACKUP_PREFIX = TABLE_PREFIX + "_bak_"
 
+META_BACKUP_TABLE = TABLE_BACKUP_PREFIX + "a"
+
 DLL_BACKUP_SUFFIX = ".bak"
 
 class Connection:
@@ -115,6 +130,9 @@ class MDBConnection(Connection):
 
 class MetaConnection(Connection):
     DB_PATH = META_PATH
+
+class MetaBackupConnection(Connection):
+    DB_PATH = META_PATH + META_BACKUP_SUFFIX
 
 class GameDatabaseNotFoundException(Exception):
     pass
@@ -457,7 +475,11 @@ def download_asset(hash, no_progress=False):
 
     url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Windows/assetbundles/{0:.2}/{0}'.format(hash)
     
-    download_file(url, asset_path, no_progress=no_progress)
+    try:
+        download_file(url, asset_path, no_progress=no_progress)
+    except requests.exceptions.HTTPError:
+        url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Generic/{0:.2}/{0}'.format(hash)
+        download_file(url, asset_path, no_progress=no_progress)
 
     # Mark the asset as downloaded in the meta db
     with MetaConnection() as (conn, cursor):
@@ -579,7 +601,7 @@ def get_assets_type_dict():
     jsons = glob.glob(ASSETS_FOLDER + "\\**\\*.json", recursive=True)
     jsons += glob.glob(FLASH_FOLDER + "\\**\\*.json", recursive=True)
 
-    with Pool() as pool:
+    with UmaPool() as pool:
         results = list(tqdm(pool.imap_unordered(get_asset_and_type, jsons, chunksize=128), total=len(jsons), desc="Looking for assets"))
 
     # asset_dict = {result[0]: result[1] for result in results if result[0]}

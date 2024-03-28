@@ -4,7 +4,6 @@ import hashlib
 import unity
 import tqdm
 import time
-from multiprocessing import Pool
 from pathvalidate import sanitize_filename
 import glob
 import version
@@ -87,6 +86,32 @@ def create_write_path(file_name):
         raise NotImplementedError(f"Unknown asset type for {file_name}")
 
 
+def story_data_equal(data1, data2):
+    if len(data1) != len(data2):
+        return False
+
+    for i, clip in enumerate(data1):
+        clip2 = data2[i]
+
+        if clip['source'] != clip2['source']:
+            return False
+        
+        if clip.get('choices'):
+            if not clip2.get('choices'):
+                return False
+            
+            if len(clip['choices']) != len(clip2['choices']):
+                return False
+            
+            for j, choice in enumerate(clip['choices']):
+                choice2 = clip2['choices'][j]
+
+                if choice['source'] != choice2['source']:
+                    return False
+
+    return True
+
+
 def load_asset_data(row_metadata):
     row_data = row_metadata['row_data']
     new = row_metadata['new']
@@ -118,6 +143,9 @@ def load_asset_data(row_metadata):
     }
 
     if file_name.startswith("race/"):
+        if not tree.get('textData'):
+            return
+
         tl_item['type'] = 'race'
         for text in tree['textData']:
             clip_item = {
@@ -177,7 +205,21 @@ def load_asset_data(row_metadata):
 
     if not new:
         print(f"\nStory data {tl_item['file_name']} has changed. Creating backup and replacing.", flush=True)
-        os.rename(write_path, write_path + f".{round(time.time())}")
+        bak_path = write_path + f".{round(time.time())}"
+        os.rename(write_path, bak_path)
+
+        # Check if they are equal.
+        old_data = util.load_json(bak_path)
+        if story_data_equal(tl_item['data'], old_data['data']):
+            # Restore translations from the old file.
+            for i, old_entry in enumerate(old_data['data']):
+                new_entry = tl_item['data'][i]
+                old_entry['path_id'] = new_entry['path_id']
+
+            tl_item['data'] = old_data['data']
+            tl_item['title'] = old_data['title']
+            print(f"\nRestored translations from {bak_path}.", flush=True)
+
 
     with open(write_path, "w", encoding="utf-8") as f:
         f.write(util.json.dumps(tl_item, indent=4, ensure_ascii=False))
@@ -273,7 +315,7 @@ def update_story_intermediate(path_to_existing):
 
 def index_story(debug=False):
     print("=== EXPORTING STORY ===")
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         # First, apply all current translations to any existing intermediate files.
         existing_jsons = []
         existing_jsons += glob.glob(util.ASSETS_FOLDER + "story/**/*.json", recursive=True)
@@ -593,7 +635,7 @@ def index_textures():
     existing_jsons = []
     existing_jsons += glob.glob(util.ASSETS_FOLDER + "/**/*.json", recursive=True)
 
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         results = list(tqdm.tqdm(pool.imap_unordered(util.test_for_type, zip(existing_jsons, repeat("texture"))), total=len(existing_jsons), desc="Looking for translated textures"))
 
         results = [result[1] for result in results if result[0]]
@@ -651,7 +693,7 @@ def index_textures():
         raise ValueError("No textures found in meta DB.")
 
     
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(index_textures_from_assetbundle, all_textures, chunksize=6), total=len(all_textures), desc="Extracting textures"))
 
     # for metadata in all_textures:
@@ -765,10 +807,80 @@ def index_flash():
     if not all_textures:
         return
     
-    with Pool() as pool:
+    with util.UmaPool() as pool:
         _ = list(tqdm.tqdm(pool.imap_unordered(index_flash_text_from_assetbundle, all_textures, chunksize=16), total=len(all_textures), desc="Extracting flash"))
     # for metadata in util.tqdm(all_textures, desc="Extracting flash"):
     #     index_flash_text_from_assetbundle(metadata)
+        
+
+def index_movie_file(file):
+    index_xor_file(file, "movie")
+
+def index_xor_file(file, filetype="xor"):
+    file_name = file[0]
+    hash = file[1]
+
+    file_path = util.get_asset_path(hash)
+
+    if not os.path.exists(file_path):
+        print(f"\nUser has not downloaded xor file {file_name}. Downloading...")
+        util.download_asset(hash, no_progress=True)
+    
+    out_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name)
+    org_path = out_path + ".org"
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    meta_path = out_path + ".json"
+
+    if os.path.exists(meta_path):
+        with open(meta_path, "r", encoding="utf-8") as f:
+            meta_data = json.load(f)
+            if meta_data['hash'] == hash:
+                return
+            else:
+                print(f"\nXor file {file_name} has changed. Creating backup and replacing.", flush=True)
+                shutil.copy(meta_path, meta_path + f".{round(time.time())}")
+                if os.path.exists(out_path):
+                    shutil.copy(out_path, out_path + f".{round(time.time())}")
+                if os.path.exists(org_path):
+                    shutil.copy(org_path, org_path + f".{round(time.time())}")
+
+    meta_data = {
+        "type": filetype,
+        "version": version.VERSION,
+        "file_name": file_name,
+        "hash": hash
+    }
+
+    with open(meta_path, "w", encoding="utf-8") as f:
+        f.write(json.dumps(meta_data, indent=4, ensure_ascii=False)
+    )
+
+    shutil.copy(file_path, out_path)
+    shutil.copy(file_path, org_path)
+
+
+
+
+def index_movies():
+    # Files that will use a diff file and xored with the original file.
+    xor_files = []
+
+    with util.MetaConnection() as (_, cursor):
+        cursor.execute(
+            """SELECT n, h FROM a WHERE n like 'movie/m/%' ORDER BY n ASC;"""
+        )
+        xor_files += cursor.fetchall()
+    
+    if not xor_files:
+        return
+    
+    with util.UmaPool() as pool:
+        _ = list(tqdm.tqdm(pool.imap_unordered(index_movie_file, xor_files, chunksize=16), total=len(xor_files), desc="Extracting movie files"))
+    
+    # for file in xor_files:
+    #     index_xor_file(file)
+
 
 
 def index_assets():
@@ -777,6 +889,7 @@ def index_assets():
     index_story()
     index_textures()
     index_flash()
+    index_movies()
 
 
 def index_jpdict():
@@ -936,7 +1049,8 @@ def index_assembly():
 def main():
     # _patch.clean_asset_backups()
     # index_story()
-    index_textures()
+    # index_textures()
+    index_movies()
     pass
 
 if __name__ == "__main__":

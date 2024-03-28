@@ -1796,7 +1796,7 @@
         "hash": "d8a4c8a847c53e803f2fff26f57b578356bf20e8bfaac19e8dfed8124c4de3a5"
     },
     "Character0050": {
-        "text": "",
+        "text": "<nb>Unique Effect",
         "hash": "4328f39a7b504408f38d338dab058e8ecaa5581e7bab28aa116ec09588536eab"
     },
     "Character0051": {
@@ -1824,7 +1824,7 @@
         "hash": "aecee28a21dce5489b6fb44c233608df7ea418d30d94b01352aea6161dd20dd0"
     },
     "Character0059": {
-        "text": "",
+        "text": "<nb><sc=80>Obtainable Skills",
         "hash": "628ca4d6e9e981cb701c8a9bf159a7afc7f707b9940e7c3a5df0b8146cf32386"
     },
     "Character0061": {
@@ -2060,7 +2060,7 @@
         "hash": "d860ae1ced6c7eac38177610d66a71b5d7f3f19edbb85fb50efa077f4db0d279"
     },
     "Character0331": {
-        "text": "<nb>Support Effects",
+        "text": "<nb><sc=80>Support Effects",
         "hash": "c23ba708df3267aedd6e1e21243f18fb024f030d441bbf9c898cd7d33a449b8a"
     },
     "Character0333": {
@@ -4056,7 +4056,7 @@
         "hash": "ec766a3f63014d4a8ef15742ebfdf8209342448fd9bb7ecfdf713e89770e5b80"
     },
     "Common0146": {
-        "text": "Inv",
+        "text": "Inv.",
         "hash": "ed643a807ff8b850908c6b695e9d18de79d106db147f9c839830212ba629899a"
     },
     "Common0147": {
@@ -4380,7 +4380,7 @@
         "hash": "7233dfd01f5d9a17019c48b1115064880c38ae94b245bd317ba1a10634621c89"
     },
     "Common0292": {
-        "text": "",
+        "text": "Story",
         "hash": "56c2f4b987e508f399cae2b39aad4b239407cbfece64addae556e143e3020bf2"
     },
     "Common0293": {
@@ -4420,7 +4420,7 @@
         "hash": "490e4279ba20bb8f9b473c185fd155159f72699dee2603ba51e536360e81d89f"
     },
     "Common0304": {
-        "text": "",
+        "text": "Toggle Max Lv.",
         "hash": "f8863c79c18e9e4e48af9209d0e203de34e02da451bb2f67f134864c21f53b65"
     },
     "Common0305": {
@@ -5224,11 +5224,11 @@
         "hash": "a738851350b935b9f95192e0bc805ce8e529de6b7419914263cb710bbb9a24af"
     },
     "Gacha0001": {
-        "text": "",
+        "text": "Required Trade Pts.",
         "hash": "2c6029995d3e407e9fbd35a0ddd1f4316bf3043ca88587533aef50610e76f981"
     },
     "Gacha0002": {
-        "text": "",
+        "text": "Required Trade Pts.",
         "hash": "46d4fa1e1f85c689144f27cc82d7190548aa48dfab912e50e2c5015261c703be"
     },
     "Gacha0003": {
@@ -5248,11 +5248,11 @@
         "hash": "6b328eb54d03d69cd4684fe5e7d079801b7e390723774072e9c00e72be92c095"
     },
     "Gacha0010": {
-        "text": "",
+        "text": "Gacha Info",
         "hash": "d42efd8cf48273fb599c665448bbd7a161f9d3d4be17e0ee1e6800db210c892f"
     },
     "Gacha0011": {
-        "text": "",
+        "text": " Trade ",
         "hash": "c0be6499c92ec64e88ccf3a935d5078bf17e1071a26a905dfc6542b51912464f"
     },
     "Gacha0012": {
@@ -5264,15 +5264,15 @@
         "hash": "2d35cbac78f3b62f614cc0b137d994b25bc9cc51fab93d5aa0e63794a6386cb4"
     },
     "Gacha0021": {
-        "text": "",
+        "text": "Pull Gacha!",
         "hash": "de6b6f0340160094f29b6a53e5c4259bb3355db4a3effec4da31494aa7eb7c9c"
     },
     "Gacha0022": {
-        "text": "",
+        "text": "Uma Trade Pts.",
         "hash": "e19c646ecda394798e60ca087f9615b03b2f626258015bf0882256732dceaac0"
     },
     "Gacha0023": {
-        "text": "",
+        "text": "Support Trade Pts.",
         "hash": "623a5814112382ce889aa9727b03175e0a0225ed4d6dcfd9a74dff950ff75a95"
     },
     "Gacha0026": {
@@ -5316,15 +5316,15 @@
         "hash": "0004e903d1868719311a4d192b000648e29a83a404600e381434af2998d09af4"
     },
     "Gacha0040": {
-        "text": "",
+        "text": "Trade Pts.",
         "hash": "89cf08e9fd87fc157f9583c27dc205164dbf7bbed06ee1a5c206cb38b519324c"
     },
     "Gacha0041": {
-        "text": "",
+        "text": "Trade Pts. Limit",
         "hash": "b11d04f725b78953f39bedf486eaa4f5b72f2dfb31e0f7cc9fdc7a2b915afe52"
     },
     "Gacha0042": {
-        "text": "",
+        "text": "Trade Lineup",
         "hash": "d5fa61e200bda9a015c215b3feb4cbb51954e09967ebf677a2be06abc795cd24"
     },
     "Gacha0043": {
@@ -5332,7 +5332,7 @@
         "hash": "5b55cc26fb4dc5c326b2e94040c0d082eb0217f30bb6508a16193e90c8621b68"
     },
     "Gacha0044": {
-        "text": "",
+        "text": "<nb>Gacha Results",
         "hash": "97aae68a6121b446d2d4cf0c86750b64acd6b99e877014e050017344067a9ff0"
     },
     "Gacha0045": {
@@ -5344,15 +5344,15 @@
         "hash": "6da3e5c03ac7e66cdc5f307308e136ff9a65b05fdd2022bd96fc27132b9d6373"
     },
     "Gacha0047": {
-        "text": "",
+        "text": "<nb>Confirm Gacha",
         "hash": "0a036f02598c971f7ca48b676cc7ea4586be3761ce61b3cdcbee1a34662aa687"
     },
     "Gacha0048": {
-        "text": "",
+        "text": "Uma Trade Pts.",
         "hash": "e19c646ecda394798e60ca087f9615b03b2f626258015bf0882256732dceaac0"
     },
     "Gacha0049": {
-        "text": "",
+        "text": "<force>Support Trade Pts.",
         "hash": "623a5814112382ce889aa9727b03175e0a0225ed4d6dcfd9a74dff950ff75a95"
     },
     "Gacha0050": {
@@ -5372,7 +5372,7 @@
         "hash": "436eedfda4604cadd26cd004759c3823e41dad5537155f9115594e457f0da14d"
     },
     "Gacha0054": {
-        "text": "",
+        "text": "Paid Jewels",
         "hash": "a5736c4865fb0ef9109100ec5866866a31106857871b1d11c0aee561c5048d73"
     },
     "Gacha0057": {
@@ -5440,15 +5440,15 @@
         "hash": "f69f6055897a3415031ca6cdd63019c84d3eaab57f0f4e20dc201ce77d622566"
     },
     "Gacha0076": {
-        "text": "",
+        "text": "<nb>If maxed out, you will obtain Goddess Statues.",
         "hash": "f0e169429c4fac329997448c5ce4027b359d5208d4afc4189cb63d72a2d9ecbc"
     },
     "Gacha0077": {
-        "text": "",
+        "text": "<nb>If maxed out, it will be placed in Storage.",
         "hash": "41c3c3ead3d470b6d8d1a289988e8815f8bb99ed9497a5564a993f080d239665"
     },
     "Gacha0078": {
-        "text": "",
+        "text": "<nb>Bonus!",
         "hash": "2117c1091b809407067dcd069dd0251ec08ed867bbdeba6e0a31489fc558fca7"
     },
     "Gacha0079": {
@@ -5464,11 +5464,11 @@
         "hash": "e28b2817b5de52d3490698974aebd27307169fd3badf34df22ad0158c4741b23"
     },
     "Gacha0082": {
-        "text": "",
+        "text": "Pulling {2}\n{3} <p=time,times,{3}> costs {1} {0}.",
         "hash": "54784501b421702e8a7ba5437bc79f6a23f9f512f9c3dfebac7dba40b61aafb8"
     },
     "Gacha0083": {
-        "text": "",
+        "text": "<atlas=PreIn sprite=utx_ico_notice_00/>Not enough {0}.",
         "hash": "b22c66bf6cf1e5b65c5a02e598b388610b3615495223adde340c25db145a709a"
     },
     "Gacha0084": {
@@ -5492,27 +5492,27 @@
         "hash": "ebd0a78f17f4fe4aeaadeef376ded7b4c15b0acce2ebee93774615dc0971a19c"
     },
     "Gacha0090": {
-        "text": "",
+        "text": "<nb>Limit",
         "hash": "1f63851fe3eecd99171d70470a49da9cda0ff46a38cc5a593c211481e0fd7cfe"
     },
     "Gacha0093": {
-        "text": "",
+        "text": "<nb>Umamusume Info",
         "hash": "ab8898491a7bf54f6fffcc04bc8bb880bd740ce4346268942abbf732e6bcfea6"
     },
     "Gacha0094": {
-        "text": "",
+        "text": "<nb>Banner Umamusume Info",
         "hash": "95f20236e2691d28dbc8ec4460b90cc9afd224f1b012108da5811593ab51708b"
     },
     "Gacha0095": {
-        "text": "",
+        "text": "Check the abilities of the Umamusume in this banner.",
         "hash": "5447d11dec779b71f4dff9657a98be48b6d90850b1e811e3be2aff3de7cb10c5"
     },
     "Gacha0096": {
-        "text": "",
+        "text": "<nb>Banner Support Card Info",
         "hash": "f23e651aebf0f592beda7b2c5e33540539230ee8744515d482937a13ade93a09"
     },
     "Gacha0097": {
-        "text": "",
+        "text": "Check the abilities of the support cards in this banner.",
         "hash": "f82f78b90a95ec3f9b510692c119a1270e1cdac467b366bc402fc477523e21f0"
     },
     "Gacha0098": {
@@ -5544,7 +5544,7 @@
         "hash": "f0eebd1f193f96099011ec0b5893ba6c646f4ced0eb6e8d1ac906880abf80e63"
     },
     "Gacha0105": {
-        "text": "",
+        "text": "(Paid: {0}   Free: {1})",
         "hash": "aa51e7ee66ae6a5b3aece962f857659163908cd5e0d8f29c96b233eefa621564"
     },
     "Gacha0106": {
@@ -5552,7 +5552,7 @@
         "hash": "8d81e7a7db31c4d8949d245cc5f5c68465f764478268675ef7b937cefa8d6941"
     },
     "Gacha0107": {
-        "text": "",
+        "text": "Free jewels will be used first.",
         "hash": "1add83c4d36e150a80118a703ecd646f512f9334525dbe391c04dce42bb1ece8"
     },
     "Gacha0108": {
@@ -5576,7 +5576,7 @@
         "hash": "a01f5776b1c241c9a96c2359e7ece33c42ee21e3e0c0edcddbd85fb8bf1cb0e6"
     },
     "Gacha0113": {
-        "text": "",
+        "text": "History",
         "hash": "037815c4cf209cfcc5f8d624b2beabec0b33bc9bfc7ed0f2d91d50ffa4284e47"
     },
     "Gacha0114": {
@@ -5584,7 +5584,7 @@
         "hash": "0984a771c41d32c7cf984d088ffd81b567a706213ed0e9f0521c2cf301cff08d"
     },
     "Gacha0115": {
-        "text": "",
+        "text": "Pulling {2}\n{3} <p=time,times,{3}> will use {1}\n{0}.",
         "hash": "a60098424560d9559f82314b298426df24a2972f079b2f9970ba4527b6de1dc9"
     },
     "Gacha124001": {
@@ -5624,11 +5624,11 @@
         "hash": "fa03bc66057138059136cc08721ed631baa3161f822593a3bb3f80d476a22343"
     },
     "Gacha497001": {
-        "text": "",
+        "text": "Banner ends {0}",
         "hash": "734287b58167f42f7153dfa56e07bf764dd46caafdd225f302066234f845e572"
     },
     "Gacha497002": {
-        "text": "",
+        "text": "<nb>Legal Disclosure",
         "hash": "a34017a57194a780862bbd333b46e0453c080b9b11f8fb32ac16fb62c64bbbaf"
     },
     "Gacha424001": {
@@ -5636,7 +5636,7 @@
         "hash": "f8a99164dc77372a2335ea2c7580572700546b58a6d863a222971da3f70d8018"
     },
     "Gacha424002": {
-        "text": "",
+        "text": "Pulling 10 at once does NOT guarantee an SR or higher!",
         "hash": "5debc4de68061e2c57194ac55f81ec229051ced7c704e13cede47e1c3132ebd0"
     },
     "Gacha424003": {
@@ -8564,7 +8564,7 @@
         "hash": "438e21c980b681704e450cba06de571c78bfe4d88d5facbb386b63dbad7686f6"
     },
     "Outgame0167": {
-        "text": "",
+        "text": "<nb><force>Support Card Info",
         "hash": "7b36f8933fb85bcf2cfb753e740edb295728214ad764c5321f8c03277801cb30"
     },
     "Outgame0168": {
@@ -9552,7 +9552,7 @@
         "hash": "6c168d33c556b003a1bb2e2ebc90be7414841a86b5108bed2a1c5ee02ef9a50a"
     },
     "Outgame0460": {
-        "text": "Training Event",
+        "text": "<nb><sc=80>Training Events",
         "hash": "ea4f9bfa301fd36a1a1b8d5d0dcf5f7343b041449b12281f79e56981ddb18c55"
     },
     "Outgame0461": {
@@ -11304,15 +11304,15 @@
         "hash": "8a20102d6f7b218d325454348f6f3ddd49353207e6920291be004c11af76dd0c"
     },
     "Outgame570030": {
-        "text": "",
+        "text": "High quality for\nMain Story event races",
         "hash": "708f2fba0f7e3daca142c76800b583822bd2c9d9c4f76ca2211faac22c955eca"
     },
     "Outgame570031": {
-        "text": "",
+        "text": "When ON, the quality of the turf etc. will be \nincreased during race scenes in the Main Story.",
         "hash": "bbbddd3a8fcf09d438a826966607e3c7eab5d57e38178737447cbe731509acf7"
     },
     "Outgame570032": {
-        "text": "",
+        "text": "Only applies from Main Story Act 2 onwards.",
         "hash": "9d197ca5898f034af1b6f7afdf1b9558911e7cd6ed87f009ccdb1b9fc59f0e28"
     },
     "Outgame570033": {
@@ -14816,7 +14816,7 @@
         "hash": "656afa4c98f9745e2f6481eca793578b25ce1bc357b9721a00981fabd35feb4a"
     },
     "Shop0054": {
-        "text": "",
+        "text": "Not enough {0} to Trade.",
         "hash": "f2ca1d36493dcc029947cf9f9a420401680c45ecf366aeac6b150cc0c8e20008"
     },
     "Shop0055": {
@@ -14960,7 +14960,7 @@
         "hash": "a99c725feffd3f7be92a6b3e7c8cd5f7fc74e6385177fee214385feb8d2a38fa"
     },
     "Shop0100": {
-        "text": "",
+        "text": "<nb>Buy now",
         "hash": "b702838d5253866a5ee31ee0f0e78b78b2fe5dc2e691f7e7b066a1bb74f967a9"
     },
     "Shop0101": {
@@ -15308,7 +15308,7 @@
         "hash": "0a2a036d48e68ec0e3c03d3d7f4f17c919f95248c081ce75dc04a5d528af49d4"
     },
     "Shop137012": {
-        "text": "Limited sale items appeared <color=#ff911c>{0}</color> times!",
+        "text": "Limited Shop items appeared <color=#ff911c>{0}</color> times!",
         "hash": "2a3f2ae1859492bc1caf9c1f90dfb35a3c8707ff0cae76559c8c0babced7a585"
     },
     "Shop497004": {
@@ -20880,7 +20880,7 @@
         "hash": "aff419d91dfcbd473dd389e008537bd06982092377cda9cc2ea1bd9d60f3812b"
     },
     "Story4180003": {
-        "text": "",
+        "text": "Stories",
         "hash": "3136ea400fc1c068384da4c6802a54ac1678ed93c3fc91fb0cf6754c1c41f906"
     },
     "Story1240001": {
@@ -20960,7 +20960,7 @@
         "hash": "933b37ba8c066ec0611c60d0fd87028344462c30aa2f2ec444bf9267d4da67e2"
     },
     "Story1260006": {
-        "text": "",
+        "text": "<color=#ff9900>Main Story Act {0}</color> ends here.",
         "hash": "8b362e5cf388b62c87e044944a305b1df12973c8c9c00e2c25eeb3f268ad919f"
     },
     "Story1260007": {
@@ -21368,7 +21368,7 @@
         "hash": "8462e0f48b9845ada6f090e1d49e3626af93eccb1198fbe0d2c3bcb56276346c"
     },
     "StoryEvent4180002": {
-        "text": "",
+        "text": "Extra Stories",
         "hash": "0c5eb70e3ecb7b3d806e6d62bc45db9b32a65c0b6931e20a83f3aff4cfd5eb3b"
     },
     "StoryEvent408001": {
@@ -21456,7 +21456,7 @@
         "hash": "9be2eb19c4bd697468df0b5986c47a453145773b480728a1348566ad2efb1737"
     },
     "StoryEvent4080001": {
-        "text": "",
+        "text": "Use\nBookmark",
         "hash": "b29822df9b64a1d9a6789c3ededd850f9edb6232f226a29e75d7b4e3feea1058"
     },
     "StoryEvent4080002": {
@@ -22328,7 +22328,7 @@
         "hash": "885cb6023e59cb6b4c8d9493b169841403bf0b2c83a4692363c4c6346a9bb94c"
     },
     "TeamStadium0021": {
-        "text": "",
+        "text": "{0:#,0}",
         "hash": "b302a7a97d048e3236ed2f8eb07f97fd735373fcfe9e93e26f4395855fdfd113"
     },
     "TeamStadium0023": {
