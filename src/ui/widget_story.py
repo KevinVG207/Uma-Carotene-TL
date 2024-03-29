@@ -692,8 +692,6 @@ class Ui_story_editor(QWidget):
         next_untranslated = self.get_next_untranslated_block_index()
         next_untranslated_choice = self.get_next_untranslated_choice_block_index()
 
-        print(next_untranslated, next_untranslated_choice)
-
         self.btn_goto_choices.setEnabled(next_untranslated_choice is not None)
         self.btn_goto_dialogue.setEnabled(next_untranslated is not None)
 
