@@ -1,20 +1,20 @@
 {
     "type": "story",
-    "row_index": 23652,
+    "row_index": 29807,
     "file_name": "story/data/04/1065/storytimeline_041065003",
-    "hash": "VANAZ7VT5RAZWCP3TKC67XB3G7DFYUOS",
+    "hash": "ZVTHJXCDKN3ZGGIIVS7FWT6AQOM26KCX",
     "data": [
         {
             "text": "",
             "name": "",
-            "path_id": 208099826789683204,
+            "path_id": -373805963165890466,
             "block_id": 0,
             "clip_length": 45
         },
         {
             "text": "We～～～～～i♪",
             "name": "Daitaku Helios",
-            "path_id": -6438277657474886352,
+            "path_id": 5547073195445040887,
             "block_id": 1,
             "clip_length": 81,
             "choices": [
@@ -28,7 +28,7 @@
         {
             "text": "Helios! You brought an unfamiliar face with ya today. \nFriend?",
             "name": "Young Woman",
-            "path_id": 2028198513497800752,
+            "path_id": 3472908419814059397,
             "block_id": 2,
             "clip_length": 151,
             "processed": "<story>Helios! You brought an unfamiliar face with ya today. \n<story>Friend?"
@@ -36,7 +36,7 @@
         {
             "text": "Yep! Name's Trai-pi. \nWe tight～☆",
             "name": "Daitaku Helios",
-            "path_id": 1214370736727612511,
+            "path_id": -7158538504339880443,
             "block_id": 3,
             "clip_length": 99,
             "choices": [
@@ -50,7 +50,7 @@
         {
             "text": "Ever since our eyes met! \nEven our breathing's in sync☆",
             "name": "Daitaku Helios",
-            "path_id": 8307040761404242598,
+            "path_id": -3180011629696358309,
             "block_id": 4,
             "clip_length": 128,
             "processed": "<story>Ever since our eyes met! \n<story>Even our breathing's in sync☆"
@@ -58,7 +58,7 @@
         {
             "text": "Oh! It's here, it's here～～!! \nI really like this song!! Let's dance!",
             "name": "Daitaku Helios",
-            "path_id": 524744138535754251,
+            "path_id": -879804473120598025,
             "block_id": 5,
             "clip_length": 151,
             "choices": [
@@ -72,7 +72,7 @@
         {
             "text": "Like this. Ride the rhythm～…… \nJust move with it! And flow!",
             "name": "Daitaku Helios",
-            "path_id": 2908617858047707912,
+            "path_id": -6196944829034139660,
             "block_id": 6,
             "clip_length": 243,
             "processed": "<story>Like this. Ride the rhythm～…… \n<story>Just move with it! And flow!"
@@ -80,7 +80,7 @@
         {
             "text": "Just dance like boom boom♪ is what I'm saying! If that's too \nhard, just match me! If you don't it'll be a real bummer～",
             "name": "Daitaku Helios",
-            "path_id": 7367348516153399432,
+            "path_id": 3295818404269900683,
             "block_id": 7,
             "clip_length": 223,
             "processed": "<story>Just dance like boom boom♪ is what I'm saying! If that's too \n<story>hard, just match me! If you don't it'll be a real bummer～"
@@ -88,7 +88,7 @@
         {
             "text": "If I ruin the mood, then there's a chance I \nwon't get to talk to her. Besides, when in Rome……",
             "name": "",
-            "path_id": -3183111175405111141,
+            "path_id": -1189241415814203485,
             "block_id": 8,
             "clip_length": 114,
             "choices": [
@@ -102,7 +102,7 @@
         {
             "text": "Hyuuu, that's the spirit～☆ Trai-pi livin' it up, lookin' good☆ \nTeam Heli-T is gonna tear it up!!",
             "name": "Daitaku Helios",
-            "path_id": -376360849113078717,
+            "path_id": -5120133036561962719,
             "block_id": 9,
             "clip_length": 246,
             "processed": "<story>Hyuuu, that's the spirit～☆ Trai-pi livin' it up, lookin' good☆ \n<story>Team Heli-T is gonna tear it up!!"
@@ -110,7 +110,7 @@
         {
             "text": "And so, I got caught up in Daitaku Helios' antics…… \nNo, maybe I was drawn in like a moth to the flame―",
             "name": "",
-            "path_id": -5680342050616622521,
+            "path_id": 538196090684464441,
             "block_id": 10,
             "clip_length": 108,
             "processed": "<story>And so, I got caught up in Daitaku Helios' antics…… \n<story>No, maybe I was drawn in like a moth to the flame―"
@@ -118,7 +118,7 @@
         {
             "text": "―So, about the next \"Fireside-chat Party\"! \nThe association chairman suggested a potluck picnic!",
             "name": "Shopper A",
-            "path_id": -3773654602412464863,
+            "path_id": -7449245818039395202,
             "block_id": 11,
             "clip_length": 239,
             "processed": "<story>―So, about the next \"Fireside-chat Party\"! \n<story>The association chairman suggested a potluck picnic!"
@@ -126,7 +126,7 @@
         {
             "text": "Sounds awesome～! When I cook I always end up burning everything! \nIf ya need something bitter, leave it to me!☆",
             "name": "Daitaku Helios",
-            "path_id": 2492211458108544723,
+            "path_id": 8058594867826849126,
             "block_id": 12,
             "clip_length": 202,
             "processed": "<story>Sounds awesome～! When I cook I always end up burning everything! \n<story>If ya need something bitter, leave it to me!☆"
@@ -134,7 +134,7 @@
         {
             "text": "Ufufuu, a little charring makes it spicy! ……or something! \nEver since Helios-chan started joining in, it's been more fun.",
             "name": "Shopper A",
-            "path_id": 2939076206761548851,
+            "path_id": -8393353724387615189,
             "block_id": 13,
             "clip_length": 286,
             "processed": "<story>Ufufuu, a little charring makes it spicy! ……or something! \n<story>Ever since Helios-chan started joining in, it's been more fun."
@@ -142,7 +142,7 @@
         {
             "text": "Cooperation between other associations has been \ngoing smoothly too. The picnic too, sounds like \nthere's going to be a lot of people!",
             "name": "Shopper B",
-            "path_id": 1626779221971407467,
+            "path_id": -974133452229825542,
             "block_id": 14,
             "clip_length": 228,
             "processed": "<story>Cooperation between other associations has been \n<story>going smoothly too. The picnic too, sounds like \n<story>there's going to be a lot of people!"
@@ -150,7 +150,7 @@
         {
             "text": "Hyuuu～♪ Instead of a park maybe we need a dome!? \nA Fireside-chat picnic in a dome sounds wild☆",
             "name": "Daitaku Helios",
-            "path_id": -8536321973615283231,
+            "path_id": -65667886236082305,
             "block_id": 15,
             "clip_length": 212,
             "processed": "<story>Hyuuu～♪ Instead of a park maybe we need a dome!? \n<story>A Fireside-chat picnic in a dome sounds wild☆"
@@ -158,7 +158,7 @@
         {
             "text": "True that☆",
             "name": "Everyone",
-            "path_id": -4281544130010510649,
+            "path_id": -1859783499332288575,
             "block_id": 16,
             "clip_length": 53,
             "processed": "<story>True that☆"
@@ -166,7 +166,7 @@
         {
             "text": "―And then, you line up some vinyl pools! \nDon't you wanna make a beach for Gramps and Granny!? Count me in!",
             "name": "Daitaku Helios",
-            "path_id": -8802129120877691261,
+            "path_id": -3261075019348820519,
             "block_id": 17,
             "clip_length": 206,
             "processed": "<story>―And then, you line up some vinyl pools! \n<story>Don't you wanna make a beach for Gramps and Granny!? Count me in!"
@@ -174,7 +174,7 @@
         {
             "text": "Fufu, that sounds fun. \nSeems like Summer will be coming for even an old man like me.",
             "name": "Old Man",
-            "path_id": -4130901588862071576,
+            "path_id": -5503442793360458043,
             "block_id": 18,
             "clip_length": 237,
             "processed": "<story>Fufu, that sounds fun. \n<story>Seems like Summer will be coming for even an old man like me."
@@ -182,7 +182,7 @@
         {
             "text": "Helios-chan, I wanna help too! \nI'll get the other kids from my school too～ ehehe♪",
             "name": "Small Child",
-            "path_id": -8268920429826711112,
+            "path_id": -7164057595147959556,
             "block_id": 19,
             "clip_length": 220,
             "processed": "<story>Helios-chan, I wanna help too! \n<story>I'll get the other kids from my school too～ ehehe♪"
@@ -190,7 +190,7 @@
         {
             "text": "＠×゛＆＃〇☆×％×☆×％×＆゛＃％〇％＊×＠゛＋☆＃",
             "name": "Silver Person？？",
-            "path_id": 5734294451832167019,
+            "path_id": 8206105273429386877,
             "block_id": 20,
             "clip_length": 110,
             "processed": "<story>＠×゛＆＃〇☆×％×☆×％×＆゛＃％〇％＊×＠゛＋☆＃"
@@ -198,7 +198,7 @@
         {
             "text": "We～i, everyone's welcome☆ \nThe entire world is my friend-!",
             "name": "Daitaku Helios",
-            "path_id": -9015658348904083955,
+            "path_id": -4483767274957875425,
             "block_id": 21,
             "clip_length": 191,
             "choices": [
@@ -213,7 +213,7 @@
         {
             "text": "The smiles just seemed to gather around Daitaku Helios. It must \nhave been because she, herself, was always smiling…… from the \nbottom of her heart―",
             "name": "",
-            "path_id": 3636142589789954252,
+            "path_id": -5356217829572414106,
             "block_id": 22,
             "clip_length": 114,
             "choices": [
@@ -227,7 +227,7 @@
         {
             "text": "Ah～ Good times, good times☆ \nToday was extra lit!",
             "name": "Daitaku Helios",
-            "path_id": 3144799532709688454,
+            "path_id": -4848642117466943772,
             "block_id": 23,
             "clip_length": 165,
             "processed": "<story>Ah～ Good times, good times☆ \n<story>Today was extra lit!"
@@ -235,7 +235,7 @@
         {
             "text": "After spending the day with her, I felt I understood her a little \nbetter. An endless well of brightness, a girl that drew everyone \nto her like the Sun. But, still……",
             "name": "",
-            "path_id": -1122428032697683637,
+            "path_id": -4238675680055694762,
             "block_id": 24,
             "clip_length": 118,
             "choices": [
@@ -249,7 +249,7 @@
         {
             "text": "A girl that enjoyed life this much, why would she choose Tracen \nAcademy…… there had to be a big reason for it hidden somewhere.",
             "name": "",
-            "path_id": -6126358462771615583,
+            "path_id": 7489175382336841073,
             "block_id": 25,
             "clip_length": 123,
             "choices": [
@@ -267,7 +267,7 @@
         {
             "text": "Alright, on to the last event! \nTime for a race～!",
             "name": "Daitaku Helios",
-            "path_id": 9119895708294452719,
+            "path_id": 239050442145287567,
             "block_id": 26,
             "clip_length": 117,
             "processed": "<story>Alright, on to the last event! \n<story>Time for a race～!"
@@ -275,7 +275,7 @@
         {
             "text": "―Yooooo. \nRight, let's get started～☆",
             "name": "Daitaku Helios",
-            "path_id": 6645143046637146256,
+            "path_id": 8544785144720933849,
             "block_id": 27,
             "clip_length": 117,
             "choices": [
@@ -289,7 +289,7 @@
         {
             "text": "The heck's that!? \nSounds rough～ hilarious!!",
             "name": "Daitaku Helios",
-            "path_id": -481675219451162280,
+            "path_id": 8385709657832317753,
             "block_id": 28,
             "clip_length": 113,
             "choices": [
@@ -309,7 +309,7 @@
         {
             "text": "Well, the day ain't over 'til I've run. \nGotta wrap it all up with the most fun thing of all, right!?",
             "name": "Daitaku Helios",
-            "path_id": 2365371162405158220,
+            "path_id": 2510126059466275689,
             "block_id": 29,
             "clip_length": 192,
             "choices": [
@@ -323,7 +323,7 @@
         {
             "text": "'Course! Today was an absolute blast though～, \nbut nothin' beats a race☆",
             "name": "Daitaku Helios",
-            "path_id": -8080564198693260939,
+            "path_id": 4899781634199360931,
             "block_id": 30,
             "clip_length": 170,
             "choices": [
@@ -337,7 +337,7 @@
         {
             "text": "'Cuz I can hit it with everything? And it really \ngets the blood pumpin'!? It's wicked how all those \nemotions clash!! And it feels great～☆",
             "name": "Daitaku Helios",
-            "path_id": -3690568143214720074,
+            "path_id": 7619289459610943002,
             "block_id": 31,
             "clip_length": 279,
             "processed": "<story>'Cuz I can hit it with everything? And it really \n<story>gets the blood pumpin'!? It's wicked how all those \n<story>emotions clash!! And it feels great～☆"
@@ -345,7 +345,7 @@
         {
             "text": "Wait…… that's wild! You don't know how awesome \nraces are? Eh, that has to be it, otherwise \nnormally you wouldn't ask that, right!?",
             "name": "Daitaku Helios",
-            "path_id": -3825511126074818912,
+            "path_id": -6592860054198834720,
             "block_id": 32,
             "clip_length": 240,
             "processed": "<story>Wait…… that's wild! You don't know how awesome \n<story>races are? Eh, that has to be it, otherwise \n<story>normally you wouldn't ask that, right!?"
@@ -353,7 +353,7 @@
         {
             "text": "Heeey, everyone's ready-. \nHelios, you need to Gate In too～.",
             "name": "Helios' Classmate A",
-            "path_id": -6488567304768549601,
+            "path_id": 6335443888950085033,
             "block_id": 33,
             "clip_length": 154,
             "processed": "<story>Heeey, everyone's ready-. \n<story>Helios, you need to Gate In too～."
@@ -361,7 +361,7 @@
         {
             "text": "……guess there's no helping it☆ Hey～! \nI'm gonna run carrying this person!",
             "name": "Daitaku Helios",
-            "path_id": -4315610930803777934,
+            "path_id": -3802044569784290187,
             "block_id": 34,
             "clip_length": 198,
             "choices": [
@@ -375,7 +375,7 @@
         {
             "text": "Haaaa～～～!?",
             "name": "Helios' Classmate A",
-            "path_id": -7884578443641791187,
+            "path_id": 4656077194276913387,
             "block_id": 35,
             "clip_length": 51,
             "processed": "<story>Haaaa～～～!?"
@@ -383,7 +383,7 @@
         {
             "text": "Hyuu～～～～!! \nBlast off――――!!",
             "name": "Daitaku Helios",
-            "path_id": -5327215607151521977,
+            "path_id": -5899539479762884958,
             "block_id": 36,
             "clip_length": 168,
             "choices": [
@@ -397,7 +397,7 @@
         {
             "text": "The race started with Daitaku Helios forcibly carrying me! \nShe ran at top speed right from the start―",
             "name": "",
-            "path_id": -7981119477401423921,
+            "path_id": 6480096309992603960,
             "block_id": 37,
             "clip_length": 116,
             "choices": [
@@ -411,7 +411,7 @@
         {
             "text": "Ahahaa!! It ain't scary! \nFeel it with your whole body! It's theeeeeee beeeeeeeest～～～～!!!!",
             "name": "Daitaku Helios",
-            "path_id": -2792739390843635475,
+            "path_id": -1735762205272013562,
             "block_id": 38,
             "clip_length": 273,
             "processed": "<story>Ahahaa!! It ain't scary! \n<story>Feel it with your whole body! It's theeeeeee beeeeeeeest～～～～!!!!"
@@ -419,7 +419,7 @@
         {
             "text": "Urged on by her words, I steeled myself and then opened my eyes. \nWhen I did…… the wind, breath, footsteps, the beating in my \nchest…… hit me all at once―",
             "name": "",
-            "path_id": -6507521842734284201,
+            "path_id": -7212323747819177079,
             "block_id": 39,
             "clip_length": 120,
             "choices": [
@@ -433,7 +433,7 @@
         {
             "text": "Weeeee～～～～～i!!!! \nWild, right!?",
             "name": "Daitaku Helios",
-            "path_id": 6688277481175100086,
+            "path_id": -3511128546530910426,
             "block_id": 40,
             "clip_length": 117,
             "processed": "<story>Weeeee～～～～～i!!!! \n<story>Wild, right!?"
@@ -441,7 +441,7 @@
         {
             "text": "Is there anything as awesome as this!? \nI love racing! I'm really down bad～～☆",
             "name": "Daitaku Helios",
-            "path_id": -8998777980137313376,
+            "path_id": 3992864719117973718,
             "block_id": 41,
             "clip_length": 235,
             "choices": [
@@ -455,7 +455,7 @@
         {
             "text": "It's not that she's indifferent to winning or losing. It's just \nthat, from the bottom of her heart, she just loves running…… and \nraces themselves. What a free spirit―",
             "name": "",
-            "path_id": -7642644978643645214,
+            "path_id": -3691081096425548688,
             "block_id": 42,
             "clip_length": 120,
             "choices": [
@@ -469,7 +469,7 @@
         {
             "text": "―And so, I'm last again!? \nAin't that too tragic!?",
             "name": "Daitaku Helios",
-            "path_id": 9102752581321908817,
+            "path_id": 2557625942759307952,
             "block_id": 43,
             "clip_length": 163,
             "choices": [
@@ -484,7 +484,7 @@
         {
             "text": "Ain't that the truth☆ But it was still lit!! \nSee, racing's the best, right!?",
             "name": "Daitaku Helios",
-            "path_id": -2745384809113966980,
+            "path_id": -7853081957203481882,
             "block_id": 44,
             "clip_length": 203,
             "choices": [
@@ -502,7 +502,7 @@
         {
             "text": "Honestly, for most of it I was clinging for dear \nlife, so I wouldn't call that fun but…… I now \nunderstood her feelings. And also my own……",
             "name": "",
-            "path_id": 6782490686693274324,
+            "path_id": -9057737210380762338,
             "block_id": 45,
             "clip_length": 124,
             "choices": [
@@ -516,7 +516,7 @@
         {
             "text": "For that girl who shone like the sun, and was as free as could \nbe, I wanted to cheer her on. Once you stripped away everything \nelse, only that simple feeling remained.",
             "name": "",
-            "path_id": -9055853880465289539,
+            "path_id": 5457331761435802443,
             "block_id": 46,
             "clip_length": 125,
             "processed": "<story>For that girl who shone like the sun, and was as free as could \n<story>be, I wanted to cheer her on. Once you stripped away everything \n<story>else, only that simple feeling remained."
@@ -524,7 +524,7 @@
         {
             "text": "―But that's exactly why it was such a waste. \"It's \nfun whether I win or lose,\" this stance was one \nthat…… didn't understand the joy of winning.",
             "name": "",
-            "path_id": 1363628896212713818,
+            "path_id": -2653955708694993778,
             "block_id": 47,
             "clip_length": 120,
             "choices": [
@@ -538,7 +538,7 @@
         {
             "text": "Hey, let's go again! \nThis time without carrying someone! Hey, sounds great, right!?",
             "name": "Daitaku Helios",
-            "path_id": 8499119685703315019,
+            "path_id": -8909587676220037778,
             "block_id": 48,
             "clip_length": 149,
             "processed": "<story>Hey, let's go again! \n<story>This time without carrying someone! Hey, sounds great, right!?"
@@ -546,7 +546,7 @@
         {
             "text": "Eh～!? No way! Besides, \nnormally it's not something you can do multiple days in a row!",
             "name": "Helios' Classmate A",
-            "path_id": 8824170959958860249,
+            "path_id": 3715423300283932199,
             "block_id": 49,
             "clip_length": 191,
             "processed": "<story>Eh～!? No way! Besides, \n<story>normally it's not something you can do multiple days in a row!"
@@ -554,7 +554,7 @@
         {
             "text": "Then, Trai-pi! I choose you! \nUse Parallel Running!",
             "name": "Daitaku Helios",
-            "path_id": 8470470386401604598,
+            "path_id": -8104230083005938954,
             "block_id": 50,
             "clip_length": 129,
             "choices": [
@@ -572,7 +572,7 @@
         {
             "text": "The race was awesome, right!? Then, this time use your own two \nfeet～ and battle it out with me～☆ Gate In, wei!",
             "name": "Daitaku Helios",
-            "path_id": 2016195159463272158,
+            "path_id": 1417911664768869243,
             "block_id": 51,
             "clip_length": 284,
             "processed": "<story>The race was awesome, right!? Then, this time use your own two \n<story>feet～ and battle it out with me～☆ Gate In, wei!"

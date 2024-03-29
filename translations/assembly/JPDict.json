@@ -8920,8 +8920,8 @@
         "hash": "89e6bfb65196fbe57416f11996ab0d8ffefb5a8ce90bd7c7f1037bba178341c8"
     },
     "Outgame0292": {
-        "text": "When OFF, you will not see a confirmation popup when skipping stories or the opening to a training scenario.",
-        "hash": "9b31f437066dbc0d40efd17f18ae05acf37265b0b5d8fdde35fbc582ea482492"
+        "text": "When OFF, you will not see a confirmation popup when skipping stories, cutscenes or movies.",
+        "hash": "f297692418ac5e9d130659bf402721f0414eefbd44afa634e910cc49ab3985ef"
     },
     "Outgame0293": {
         "text": "",
@@ -19636,8 +19636,8 @@
         "hash": "c18a91e23cf71a26b5bf384367384c94640a5883fdc7777a6fdba4952f3e162a"
     },
     "SingleModeScenarioSport508013": {
-        "text": "You can make new calls for advice!",
-        "hash": "bc80d4f0edcd4107f4cf20431642fabf9c03cad1d971554db80dd6eb9272050c"
+        "text": "You can make <color=#FF911C>3 new calls</color>\nuntil <color=#FF911C>{0}</color>!",
+        "hash": "cafb8c79f565ac265198b2f2d9ffb9e1e109565f7a3c371e68df9b9b251f8298"
     },
     "SingleModeScenarioSport508016": {
         "text": "{0} Level <color=#F16D27>increased by {1}</color>",
@@ -19802,6 +19802,10 @@
     "SingleModeScenarioSport508062": {
         "text": "",
         "hash": "a733edf8e00eade62a149cf0145f0b5bb625b60b5c736de24457026e4f1c0afb"
+    },
+    "SingleModeScenarioSport508063": {
+        "text": "Genre Info",
+        "hash": "ef49ff2051f3e2c79dfe0f03e001420e4560ad0c9dad621bfea9640440aad76a"
     },
     "SingleModeScenarioTeamRace0001": {
         "text": "",
@@ -21011,6 +21015,18 @@
         "text": "",
         "hash": "fabfa5df26de122ea0889bd496ce507477178214b5634bd6453ebdf2918d21a2"
     },
+    "Story511004": {
+        "text": "Movies",
+        "hash": "55d6dc39f91af6b2161cbf2b506ab29bee99e803a3345b13c8a60df36bc0de61"
+    },
+    "Story511005": {
+        "text": "Opening Movie",
+        "hash": "ad69da1832872d787aaf9c6a4805a815c1ac8047fd86d4e19c9398b1517d3a0d"
+    },
+    "Story511006": {
+        "text": "Watch Movie",
+        "hash": "2c83fdda787ac56e31a31638ca3cfa11f9aa4ac1460d2c0b6d2a7ff12df9f052"
+    },
     "Story194001": {
         "text": "",
         "hash": "63fecbaa6a832beea194be05fe7dbe907874bfffe1dcef12e5e036267f74f0fe"
@@ -21650,6 +21666,10 @@
     "StoryEvent124010": {
         "text": "",
         "hash": "512af6133f8f7d76754aefbc4e01462f68be55d2f7e27b369da9bb8f018579fa"
+    },
+    "StoryEvent511001": {
+        "text": "Movie",
+        "hash": "9b7639c21b148383beb3ad25af39ea3af4fba44ffd2346e700128dc66dfdbdd3"
     },
     "TeamBuilding408000": {
         "text": "",

@@ -11114,6 +11114,11 @@
         "hash": "1df6c6f39c76d732e22a9f7e8e99b2e78cf77b4e0abf0a9519d6ea6d49d8fbda",
         "processed": "<rbr>Watch all episodes of all<br>main story act 1 chapters."
     },
+    "601409": {
+        "text": "メインストーリー第2部前編第13話を見よう.",
+        "hash": "726104334f936c2fcc5434ce1c59f0cbea67f0b4b7b02ed92a90065cee22882c",
+        "processed": "<rbr><br>メインストーリー第2部前編第13話を見よう."
+    },
     "601451": {
         "text": "Win the episode 1R race of main story act 1, chapter 2.",
         "hash": "41a8de19a9f716be37353236f16dad22e6274c4162832f9a389292c8a64f1f35",
@@ -11143,6 +11148,11 @@
         "text": "Win the episode 7R race of main story act 1, chapter 7.",
         "hash": "6cd55a18446bff7939e82bbf5fb7848c4bb01603de9e6188aef4566d2171ac27",
         "processed": "<rbr>Win the episode 7R race of<br>main story act 1, chapter 7."
+    },
+    "601457": {
+        "text": "メインストーリー第2部前編第4Rでレースに勝利しよう.",
+        "hash": "2a158cb77800f2646af0f9bd2c33f77f1a64b9d8948b022230ad4619276e3597",
+        "processed": "<rbr><br>メインストーリー第2部前編第4Rでレースに勝利しよう."
     },
     "601499": {
         "text": "Win onsen tickets in the lottery, and then complete training.",
@@ -19127,6 +19137,96 @@
     "1001964": {
         "text": "Clear all event missions.",
         "hash": "5b69a554ec79a56be644bcf3b45e05d675656dfe599636dc6cef1f16475f2067",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1001965": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "61834293faa7818994fae78423dd5df4b1b6934d980d659d53ceb89e77db036b",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1001966": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "f84b4ab6ecc35575d2e299244a45535c2f7d4def9d2d749ab03e8aa694190477",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1001967": {
+        "text": "Get at least 3rd in the Tulip Sho once during training.",
+        "hash": "74fe9f925166857ccfe43af50208f128ee91e0fe94f283f3cf3557a7fa4244e6",
+        "processed": "<rbr>Get at least 3rd in the Tulip<br>Sho once during training."
+    },
+    "1001968": {
+        "text": "Get at least 3rd in the Fillies' Revue once during training.",
+        "hash": "373230fa3b8c80d29a985b0fa33a7013cfc6755f9028f48661507a9c0646ba3b",
+        "processed": "<rbr>Get at least 3rd in the Fillies'<br>Revue once during training."
+    },
+    "1001969": {
+        "text": "Win the Oka Sho once during training.",
+        "hash": "ce31147c1313663ef0b4ba351a6fbd2d33537429e62f84701be1189e7e9a4377",
+        "processed": "<rbr>Win the Oka Sho once during<br>training."
+    },
+    "1001970": {
+        "text": "Clear all event missions.",
+        "hash": "1911bd28d2cc9656799153d1ba120234c9a6b66fee1b1b48c0730cd0b3e6910c",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1001971": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "883ea713afaeeb8cf457841cae3ac80222aacbc451b4167c252eefdc07fd57b9",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1001972": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "6a209fb6ee54fca0569d1a92baccf9b0e0fa278956d83739858a9b4c108ffe13",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1001973": {
+        "text": "Get at least 3rd in the Yayoi Sho once during training.",
+        "hash": "bb1eb1c184d6a64be42fb4870dd13cb37fdda818c3924bc9a99d4644e125ad93",
+        "processed": "<rbr>Get at least 3rd in the Yayoi<br>Sho once during training."
+    },
+    "1001974": {
+        "text": "Get at least 3rd in the Spring Stakes once during training.",
+        "hash": "e569dee83c2cbe54a875d0b2846e3c9dd17b1f661c478d08cea25b6cd9181573",
+        "processed": "<rbr>Get at least 3rd in the Spring<br>Stakes once during training."
+    },
+    "1001975": {
+        "text": "Win the Satsuki Sho once during training.",
+        "hash": "1a9d37bbf40ccf035f0afe826af582fd2c18da3a1493013c36b719dd4a298560",
+        "processed": "<rbr>Win the Satsuki Sho once<br>during training."
+    },
+    "1001976": {
+        "text": "Clear all event missions.",
+        "hash": "cf8f3707f502e620047517eda1dc70c962c4b96f9ae1297b28aa95b29a32a64d",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1001977": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "39b170ef8e90bd27050d9278e7d840eb30fb542bfa2381e4ebcc83be54c53007",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1001978": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "fdfbc0edbf0d1d8365873e00d6171475273d5b90886f8c69df89b272d99020a6",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1001979": {
+        "text": "Win the Hanshin Daishoten once during training.",
+        "hash": "4acfc01779ae60b568530cbe40dc80a5b264b278782388a49776fb371cf53ff9",
+        "processed": "<rbr>Win the Hanshin Daishoten<br>once during training."
+    },
+    "1001980": {
+        "text": "Win the Nikkei Sho once during training.",
+        "hash": "e77d82de7c5cb865b053694593ef5b1a55fa2e89c89840041b6b2b82c9fac797",
+        "processed": "<rbr>Win the Nikkei Sho once<br>during training."
+    },
+    "1001981": {
+        "text": "Win the Tenno Sho (Spring) once during training.",
+        "hash": "f1f726e4bff91522d502f88e24624d80efc4032a6df1e3ff177283cd23adc9da",
+        "processed": "<rbr>Win the Tenno Sho (Spring)<br>once during training."
+    },
+    "1001982": {
+        "text": "Clear all event missions.",
+        "hash": "f559bea71fc6578ab0a042ca843fb54530c34fffb2e851ab5efcad62e522038e",
         "processed": "<rbr>Clear all event missions."
     },
     "2600001": {
