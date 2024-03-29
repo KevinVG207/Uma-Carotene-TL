@@ -6049,6 +6049,16 @@
         "hash": "bb9811e84c03422d9467e5bbbf5388bd9313e85448e870c16ba74a74051f7fdd",
         "processed": "<rbr>Mile・If you're in the first half of<br>the pack during the second half of<br>the Middle Leg, your speed will<br>increase."
     },
+    "106502111": {
+        "text": "Runner・At the start of the race, your acceleration will greatly increase.",
+        "hash": "88b0dd05402f60c07ea6afd9813afd67e441722a9a0416640278b7e3a750fa38",
+        "processed": "<rbr>Runner・At the start of the race,<br>your acceleration will greatly<br>increase."
+    },
+    "106502211": {
+        "text": "Mile・During the second half of the Opening Leg, if you're in the first half of the pack, your speed will greatly increase.",
+        "hash": "67f60811c64a43c9316e418854569073e603dc34ddf78dcc92b17f047c71733a",
+        "processed": "<rbr>Mile・During the second half of<br>the Opening Leg, if you're in the<br>first half of the pack, your speed<br>will greatly increase."
+    },
     "106601111": {
         "text": "Runner・During the first half of the Middle Leg, you will use extra stamina to increase speed tremendously.",
         "hash": "3002febd9210e796502b49fa367a1ff2b9ca7b62c25ebfd6f03224264d2001d9",
