@@ -34,12 +34,12 @@
             "processed": "<story>This one's so cool— Oh! \n<story>Those cupcakes just released today, right?"
         },
         {
-            "text": "I place the usual two teacups onto the table. \nTranscend the Umamusume nods excitedly.",
+            "text": "I place the usual teacups onto the table. Transcend, \nthe umamusume in front of me nods excitedly.",
             "name": "",
             "path_id": -1130877968697178392,
             "block_id": 3,
             "clip_length": 118,
-            "processed": "<story>I place the usual two teacups onto the table. \n<story>Transcend the Umamusume nods excitedly."
+            "processed": "<story>I place the usual teacups onto the table. Transcend, \n<story>the umamusume in front of me nods excitedly."
         },
         {
             "text": "Thanks for the tea! The cupcakes are... Raspberry and \nbanana... Which do you want?",
@@ -50,20 +50,20 @@
             "processed": "<story>Thanks for the tea! The cupcakes are... Raspberry and \n<story>banana... Which do you want?"
         },
         {
-            "text": "Actually, we can share halfsies. That way we can taste both. \nOh, right, about that new crowdfunder—",
+            "text": "Actually, we can share halfsies. That way we can try both. \nOh, right, about that new crowdfunder—",
             "name": "Transcend",
             "path_id": 4218071144721404740,
             "block_id": 5,
             "clip_length": 265,
-            "processed": "<story>Actually, we can share halfsies. That way we can taste both. \n<story>Oh, right, about that new crowdfunder—"
+            "processed": "<story>Actually, we can share halfsies. That way we can try both. \n<story>Oh, right, about that new crowdfunder—"
         },
         {
-            "text": "We chatted like comfy friends, and it's been like this \nfor a while. Right, it all started when we first met...",
+            "text": "We chatted like comfy friends, and it's been like this \nfor a while. Right, it all started with that first encounter...",
             "name": "",
             "path_id": 7171997800784320128,
             "block_id": 6,
             "clip_length": 108,
-            "processed": "<story>We chatted like comfy friends, and it's been like this \n<story>for a while. Right, it all started when we first met..."
+            "processed": "<story>We chatted like comfy friends, and it's been like this \n<story>for a while. Right, it all started with that first encounter..."
         },
         {
             "text": "It was a cold and snowy day. I decided to take a breather \nfrom work and spend some time on my hobbies.",
@@ -82,12 +82,12 @@
             "processed": "<story>I like to spend my time on things I've never seen \n<story>or experienced before."
         },
         {
-            "text": "One example is the filming of B movies. \nI was on my way to observe one, when...",
+            "text": "One such thing being the filming of a B movie. \nI was on my way to observe one, when...",
             "name": "",
             "path_id": 3295121058372089914,
             "block_id": 9,
             "clip_length": 73,
-            "processed": "<story>One example is the filming of B movies. \n<story>I was on my way to observe one, when..."
+            "processed": "<story>One such thing being the filming of a B movie. \n<story>I was on my way to observe one, when..."
         },
         {
             "text": "Ah, hi there. Can I stand here?",
@@ -98,12 +98,12 @@
             "processed": "<story>Ah, hi there. Can I stand here?"
         },
         {
-            "text": "Ah, they're starting. I wonder how it's gonna go... \nThis director's known to be a bit eccentric, \nso I'm looking forward to it.",
+            "text": "Oh, they're starting. I wonder how it's gonna go... \nThis director's known to be a bit eccentric, \nso I'm looking forward to it.",
             "name": "Transcend",
             "path_id": -4093281789614779358,
             "block_id": 11,
             "clip_length": 434,
-            "processed": "<story>Ah, they're starting. I wonder how it's gonna go... \n<story>This director's known to be a bit eccentric, \n<story>so I'm looking forward to it."
+            "processed": "<story>Oh, they're starting. I wonder how it's gonna go... \n<story>This director's known to be a bit eccentric, \n<story>so I'm looking forward to it."
         },
         {
             "text": "And when I went to a wacky gadget exhibition...",
@@ -160,12 +160,12 @@
             "processed": "<story>Hmm... I've got a proposal for you. \n<story>I'll provide you with information."
         },
         {
-            "text": "Yep. Things you can't grasp from simply looking, \nlike their personalities. Things only other \nUmamusume would know!",
+            "text": "Yep. Things you can't grasp from simply looking, \nlike their personalities. Things only other \numamusume would know!",
             "name": "Transcend",
             "path_id": 8058803487774628121,
             "block_id": 18,
             "clip_length": 237,
-            "processed": "<story>Yep. Things you can't grasp from simply looking, \n<story>like their personalities. Things only other \n<story>Umamusume would know!"
+            "processed": "<story>Yep. Things you can't grasp from simply looking, \n<story>like their personalities. Things only other \n<story>umamusume would know!"
         },
         {
             "text": "Oh and... My info doesn't come free, y'know? How abooout... \nSome nice tea and snacks. Whadda ya think?",
@@ -224,20 +224,20 @@
             "processed": "<story>But she's actually not scary at all, just a bit serious. \n<story>Also, although she may seem calm at first glance... \n<story>She gets intense when she's going all out!"
         },
         {
-            "text": "She sometimes shouts <i>\"Emotions are nothing!\"</i> while \nrunning. She came to Chuo from Funabashi, \nbut she seems to be a bit conflicted by it.",
+            "text": "She sometimes shouts <i>\"The emotions won't get to me!\"</i> \nwhile running. She came to Chuo from Funabashi, \nbut she seems to be a bit conflicted by it.",
             "name": "Transcend",
             "path_id": 5772612757990272486,
             "block_id": 26,
             "clip_length": 274,
-            "processed": "<story>She sometimes shouts <i>\"Emotions are nothing!\"</i> while \n<story>running. She came to Chuo from Funabashi, \n<story>but she seems to be a bit conflicted by it."
+            "processed": "<story>She sometimes shouts <i>\"The emotions won't get to me!\"</i> \n<story>while running. She came to Chuo from Funabashi, \n<story>but she seems to be a bit conflicted by it."
         },
         {
-            "text": "Next up: Espoir City. She seems extremely self-confident, \nlike she's in her rebellious phase... If you catch my drift.",
+            "text": "Next up: Espoir City. She seems a bit overly self-confident, \nlike she's in her rebellious phase... If you catch my drift.",
             "name": "Transcend",
             "path_id": 7920101198835084511,
             "block_id": 27,
             "clip_length": 209,
-            "processed": "<story>Next up: Espoir City. She seems extremely self-confident, \n<story>like she's in her rebellious phase... If you catch my drift."
+            "processed": "<story>Next up: Espoir City. She seems a bit overly self-confident, \n<story>like she's in her rebellious phase... If you catch my drift."
         },
         {
             "text": "But really, she's pure at heart under that veneer. \nAlso... I noticed when we went to the track together...",
@@ -256,31 +256,31 @@
             "processed": "<story>She gets startled by the intensity of the giant trackside \n<story>screens. She keeps tripping up. Looks like she's got \n<story>a delicate side, too. Cute, right?"
         },
         {
-            "text": "Lastly: Smart Falcon. \nShe's trying to become the top Umadol!",
+            "text": "Lastly: Smart Falcon. \nShe's trying to become the top Umadol.",
             "name": "Transcend",
             "path_id": -4888877579984313315,
             "block_id": 30,
             "clip_length": 194,
-            "processed": "<story>Lastly: Smart Falcon. \n<story>She's trying to become the top Umadol!"
+            "processed": "<story>Lastly: Smart Falcon. \n<story>She's trying to become the top Umadol."
         },
         {
-            "text": "Her fanservice game is on point. She's able to remember \nthe faces of all her fans. Crazy, right? You'll definitely \nend up a fan as well if you choose her.",
+            "text": "Her fanservice game is on point. She's able to remember \nthe faces of all her fans. Crazy, right? You'll certainly \nend up a fan as well, if you choose her.",
             "name": "Transcend",
             "path_id": 2265309680012246056,
             "block_id": 31,
             "clip_length": 266,
-            "processed": "<story>Her fanservice game is on point. She's able to remember \n<story>the faces of all her fans. Crazy, right? You'll definitely \n<story>end up a fan as well if you choose her."
+            "processed": "<story>Her fanservice game is on point. She's able to remember \n<story>the faces of all her fans. Crazy, right? You'll certainly \n<story>end up a fan as well, if you choose her."
         },
         {
-            "text": "Even though she's considered a dirt runner, she seems to be \ntrying to main turf training recently. I wonder if it'll work out...",
+            "text": "Even though she's considered a dirt runner, she's trying \nto main turf training recently. I wonder if it'll work out...",
             "name": "Transcend",
             "path_id": -2516425546734534275,
             "block_id": 32,
             "clip_length": 386,
-            "processed": "<story>Even though she's considered a dirt runner, she seems to be \n<story>trying to main turf training recently. I wonder if it'll work out..."
+            "processed": "<story>Even though she's considered a dirt runner, she's trying \n<story>to main turf training recently. I wonder if it'll work out..."
         },
         {
-            "text": "That's all. That cheerful trio sure is interesting. \nAlthough, I bet I won't ever get tired of you either!",
+            "text": "That's all. That cheerful trio sure is interesting. \nAlthough, I bet I won't ever get tired of <i>you</i> either!",
             "name": "Transcend",
             "path_id": -6833828766020894349,
             "block_id": 33,
@@ -291,15 +291,15 @@
                     "hash": "99afea5e4a6be915b04b70d3042ca0b138d626b8b144e2bdf05a4ad23bb9a3aa"
                 }
             ],
-            "processed": "<story>That's all. That cheerful trio sure is interesting. \n<story>Although, I bet I won't ever get tired of you either!"
+            "processed": "<story>That's all. That cheerful trio sure is interesting. \n<story>Although, I bet I won't ever get tired of <i>you</i> either!"
         },
         {
-            "text": "I bet you want to see them race in person, right? \nI'll come along in that case.",
+            "text": "I bet you want to see them race in person, right? \nI'll come along when you do.",
             "name": "Transcend",
             "path_id": 6681584199776273282,
             "block_id": 34,
             "clip_length": 254,
-            "processed": "<story>I bet you want to see them race in person, right? \n<story>I'll come along in that case."
+            "processed": "<story>I bet you want to see them race in person, right? \n<story>I'll come along when you do."
         },
         {
             "text": "And if you notice anything that stands out, \nbe sure to let me know as well, 'kay?",
@@ -324,12 +324,12 @@
             "processed": "<story>Haha! I'll just pay you back with more info! \n<story>I'll be the one to wait for the tea and snacks."
         },
         {
-            "text": "She smiles at me like the mischievous geek she is. \nI'd better bring out the best snacks next time.",
+            "text": "She smiles at me like the mischievous geek she is. \nI'd better bust out the bestest snacks next time.",
             "name": "",
             "path_id": 1547380946944322566,
             "block_id": 37,
             "clip_length": 105,
-            "processed": "<story>She smiles at me like the mischievous geek she is. \n<story>I'd better bring out the best snacks next time."
+            "processed": "<story>She smiles at me like the mischievous geek she is. \n<story>I'd better bust out the bestest snacks next time."
         }
     ],
     "title": "Info: Likeminded Umamusume"

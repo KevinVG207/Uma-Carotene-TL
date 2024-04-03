@@ -20,12 +20,12 @@
             "processed": "<story>This girl's particularly hard to please. \n<story>Total opposite of you, eh? Tray-chan."
         },
         {
-            "text": "We're watching videos of Umamusume running that \nTranscend filmed. She's adding extra info that you \ncan't grasp <i>just</i> from seeing them run.",
+            "text": "We're watching videos of some girls racing, that \nTranscend filmed. She's adding extra info that I \ncouldn't grasp <i>just</i> from seeing them run.",
             "name": "",
             "path_id": -4167142015694417766,
             "block_id": 2,
             "clip_length": 114,
-            "processed": "<story>We're watching videos of Umamusume running that \n<story>Transcend filmed. She's adding extra info that you \n<story>can't grasp <i>just</i> from seeing them run."
+            "processed": "<story>We're watching videos of some girls racing, that \n<story>Transcend filmed. She's adding extra info that I \n<story>couldn't grasp <i>just</i> from seeing them run."
         },
         {
             "text": "What do you think of their running styles? \nAnything caught you eye?",
@@ -98,12 +98,12 @@
             "processed": "<story>Transcend has shown me a lot of different girls, \n<story>but none of them made me think <i>\"This is the one!\"</i>"
         },
         {
-            "text": "Of course, they're all fantastic and a great display of skill in \nrunning. And yet... None of them have that \"something...\"",
+            "text": "Of course, they're all fantastic and show a great display of skill \nin running. Yet... None of them have that \"something...\"",
             "name": "",
             "path_id": 8270835153881794421,
             "block_id": 9,
             "clip_length": 106,
-            "processed": "<story>Of course, they're all fantastic and a great display of skill in \n<story>running. And yet... None of them have that \"something...\""
+            "processed": "<story>Of course, they're all fantastic and show a great display of skill \n<story>in running. Yet... None of them have that \"something...\""
         },
         {
             "text": "I don't get it. I guess it's a <i>me</i> problem then... \nI better find out what it is—",
@@ -145,9 +145,8 @@
             "clip_length": 121,
             "choices": [
                 {
-                    "text": "What's your strategy for running, Transcend?",
-                    "hash": "65a7207367d65ea9836b1ac6f5e32312a5aea3e87f640767bee4834b65541e0c",
-                    "processed": "<size=36>What's your strategy for running, Transcend?</size>"
+                    "text": "What's <i>your</i> strategy for running?",
+                    "hash": "65a7207367d65ea9836b1ac6f5e32312a5aea3e87f640767bee4834b65541e0c"
                 }
             ],
             "processed": "<story>Giving it your all and then falling off at the end would be painful. \n<story>—In the midst of watching these girls discuss their strategies, \n<story>a thought appeared in my mind."
@@ -161,12 +160,12 @@
             "processed": "<story>Wha... Me?"
         },
         {
-            "text": "Hmm... Well, I think you shouldn't just be running \nfor the sake of showing off... I guess?",
+            "text": "Hmm... Well, I think I shouldn't just be running \nfor the sake of showing off... I guess?",
             "name": "Transcend",
             "path_id": 4747398279910493930,
             "block_id": 16,
             "clip_length": 266,
-            "processed": "<story>Hmm... Well, I think you shouldn't just be running \n<story>for the sake of showing off... I guess?"
+            "processed": "<story>Hmm... Well, I think I shouldn't just be running \n<story>for the sake of showing off... I guess?"
         },
         {
             "text": "The point of racing is to beat the others. \nYou should be running to the point you might stumble.",
@@ -333,12 +332,12 @@
             "processed": "<story>I'm sooo embarrased. You could've pretended \n<story>you didn't hear anything, Tray-chan."
         },
         {
-            "text": "I think she wanted me to hear it on purpose. \nAs to make me understand how she feels about running.",
+            "text": "I think she wanted me to hear it on purpose. \nAs to make me understand how she feels.",
             "name": "",
             "path_id": -4629449101536753176,
             "block_id": 36,
             "clip_length": 110,
-            "processed": "<story>I think she wanted me to hear it on purpose. \n<story>As to make me understand how she feels about running."
+            "processed": "<story>I think she wanted me to hear it on purpose. \n<story>As to make me understand how she feels."
         },
         {
             "text": "... Perhaps so. \nI just wish she'd put it into words.",
@@ -349,12 +348,12 @@
             "processed": "<story>... Perhaps so. \n<story>I just wish she'd put it into words."
         },
         {
-            "text": "I wonder if this relates to why I wasn't able \nto make my choice...",
+            "text": "I wonder if this relates at all to why \nI wasn't able to make my choice...",
             "name": "",
             "path_id": -3526820183468871214,
             "block_id": 38,
             "clip_length": 106,
-            "processed": "<story>I wonder if this relates to why I wasn't able \n<story>to make my choice..."
+            "processed": "<story>I wonder if this relates at all to why \n<story>I wasn't able to make my choice..."
         },
         {
             "text": "Tray-chan?",
@@ -364,8 +363,9 @@
             "clip_length": 35,
             "choices": [
                 {
-                    "text": "",
-                    "hash": "588024140b56f5f479f8027bdfe1f9f992fcaef1bbebdee39270bd2874668dff"
+                    "text": "You want to... exceed all expectations?",
+                    "hash": "588024140b56f5f479f8027bdfe1f9f992fcaef1bbebdee39270bd2874668dff",
+                    "processed": "<size=42>You want to... exceed all expectations?</size>"
                 }
             ],
             "processed": "<story>Tray-chan?"
@@ -379,28 +379,28 @@
             "processed": "<story>......"
         },
         {
-            "text": "I just want to have fun, y'know.",
+            "text": "I just want to enjoy it, y'know.",
             "name": "Transcend",
             "path_id": -9200062819893898132,
             "block_id": 41,
             "clip_length": 152,
-            "processed": "<story>I just want to have fun, y'know."
+            "processed": "<story>I just want to enjoy it, y'know."
         },
         {
-            "text": "There's only so far you can stretch expectations. \nFor running, there are limits for example.",
+            "text": "There's only so far you can stretch expectations. \nFor especially for running, there are limits.",
             "name": "Transcend",
             "path_id": 2913576706795518802,
             "block_id": 42,
             "clip_length": 219,
-            "processed": "<story>There's only so far you can stretch expectations. \n<story>For running, there are limits for example."
+            "processed": "<story>There's only so far you can stretch expectations. \n<story>For especially for running, there are limits."
         },
         {
-            "text": "But... I feel like I could break free from all that when I race. \nJust having rivals around lets me go further.",
+            "text": "But... When I race, I feel like I could break free from all that. \nJust having rivals around lets me go further!",
             "name": "Transcend",
             "path_id": -4304765642564105343,
             "block_id": 43,
             "clip_length": 331,
-            "processed": "<story>But... I feel like I could break free from all that when I race. \n<story>Just having rivals around lets me go further."
+            "processed": "<story>But... When I race, I feel like I could break free from all that. \n<story>Just having rivals around lets me go further!"
         },
         {
             "text": "Isn't that hella exciting?",
