@@ -519,6 +519,10 @@ def get_font_data(ttfont):
 def _get_char_width(char, ttfont):
     t, s = get_font_data(ttfont)
     a = ord(char)
+
+    if a not in t:
+        return 0.0
+
     b = t[a]
     c = s[b]
     return c.width
@@ -760,6 +764,9 @@ def check_enough_space(size):
         return False, "<br>".join(err_list)
     
     return True, None
+
+def open_path_in_explorer(path):
+    os.startfile(path)
 
 def running_from_game_folder():
     return os.path.abspath(os.getcwd()) == os.path.abspath(get_game_folder())
