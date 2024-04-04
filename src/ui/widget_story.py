@@ -263,10 +263,17 @@ class Ui_story_editor(QWidget):
         
         return True
     
+    def expand_all_parents(self, item):
+        while item.parent():
+            item = item.parent()
+            item.setExpanded(True)
+    
     def load_chapter(self, file_path, item):
         if self.changed:
             if not self.ask_save():
                 return
+            
+        self.expand_all_parents(item)
 
         self.cur_open_block = None
         self.block_changed = False
@@ -695,6 +702,88 @@ class Ui_story_editor(QWidget):
         self.btn_goto_choices.setEnabled(next_untranslated_choice is not None)
         self.btn_goto_dialogue.setEnabled(next_untranslated is not None)
 
+    def recursive_find_all_child_stories(self, item, out_list):
+        self.on_tree_item_expanded(item)
+        for i in range(item.childCount()):
+            child = item.child(i)
+            if child.data(0, Qt.UserRole):
+                self.recursive_find_all_child_stories(child, out_list)
+            else:
+                out_list.append(child)
+
+    def context_goto_next_untranslated_block(self):
+        """Finds all children of the current item and goes to the next untranslated block"""
+        item = self.treeWidget.currentItem()
+
+        if not item:
+            return
+        
+        is_directory = item.data(0, Qt.UserRole)
+        if not is_directory:
+            return
+        
+        children = []
+        self.recursive_find_all_child_stories(item, children)
+
+        for child in children:
+            file_path = child.data(0, Qt.UserRole + 1)
+            if not file_path:
+                continue
+            chapter_data = util.load_json(file_path)
+            for i, block in enumerate(chapter_data["data"]):
+                if block.get("source") and not block.get("text"):
+                    self.load_chapter(file_path, child)
+                    index = self.box_items.index(i)
+                    self.cmb_textblock.setCurrentIndex(index)
+                    return
+    
+    def context_goto_next_untranslated_choice(self):
+        """Finds all children of the current item and goes to the next untranslated choice block"""
+        item = self.treeWidget.currentItem()
+
+        if not item:
+            return
+        
+        is_directory = item.data(0, Qt.UserRole)
+        if not is_directory:
+            return
+        
+        children = []
+        self.recursive_find_all_child_stories(item, children)
+
+        for child in children:
+            file_path = child.data(0, Qt.UserRole + 1)
+            if not file_path:
+                continue
+            chapter_data = util.load_json(file_path)
+            for i, block in enumerate(chapter_data["data"]):
+                if block.get("choices"):
+                    for choice in block["choices"]:
+                        if choice.get("source") and not choice.get("text"):
+                            self.load_chapter(file_path, child)
+                            index = self.box_items.index(i)
+                            self.cmb_textblock.setCurrentIndex(index)
+                            return
+
+    
+    def on_tree_context_menu(self, pos):
+        item = self.treeWidget.currentItem()
+        if not item:
+            return
+        
+        is_directory = item.data(0, Qt.UserRole)
+
+        menu = QMenu()
+        action = menu.addAction("Open in Explorer" if is_directory else "Edit file")
+        action.triggered.connect(lambda: util.open_path_in_explorer(item.data(0, Qt.UserRole + 1)))
+        menu.addSeparator()
+        action = menu.addAction("Goto next untranslated block")
+        action.triggered.connect(self.context_goto_next_untranslated_block)
+        action = menu.addAction("Goto next untranslated choice")
+        action.triggered.connect(self.context_goto_next_untranslated_choice)
+
+        menu.exec_(self.treeWidget.mapToGlobal(pos))
+
 
     def setupUi(self, story_editor):
         if not story_editor.objectName():
@@ -725,6 +814,8 @@ class Ui_story_editor(QWidget):
         # self.treeWidget.itemClicked.connect(self.on_tree_item_clicked)
         self.treeWidget.itemExpanded.connect(self.on_tree_item_expanded)
         self.treeWidget.itemClicked.connect(self.on_tree_item_clicked)
+        self.treeWidget.setContextMenuPolicy(Qt.CustomContextMenu)
+        self.treeWidget.customContextMenuRequested.connect(self.on_tree_context_menu)
 
         self.fill_branch(self.treeWidget, self.root_dir)
         self.fill_branch(self.treeWidget, util.ASSETS_FOLDER_EDITING + "home", home=True)
@@ -743,13 +834,13 @@ class Ui_story_editor(QWidget):
         self.btn_speakers.clicked.connect(self.manage_speakers)
         self.btn_goto_choices = QPushButton(self.grp_actions)
         self.btn_goto_choices.setObjectName(u"btn_goto_choices")
-        self.btn_goto_choices.setGeometry(QRect(10, 50, 191, 23))
-        self.btn_goto_choices.setText(u"Goto next untranslated choices")
+        self.btn_goto_choices.setGeometry(QRect(10, 80, 191, 23))
+        self.btn_goto_choices.setText(u"Goto next untranslated choice")
         self.btn_goto_choices.setEnabled(False)
         self.btn_goto_choices.clicked.connect(self.goto_next_untranslated_choice_block)
         self.btn_goto_dialogue = QPushButton(self.grp_actions)
         self.btn_goto_dialogue.setObjectName(u"btn_goto_dialogue")
-        self.btn_goto_dialogue.setGeometry(QRect(10, 80, 191, 23))
+        self.btn_goto_dialogue.setGeometry(QRect(10, 50, 191, 23))
         self.btn_goto_dialogue.setText(u"Goto next untranslated dialogue")
         self.btn_goto_dialogue.setEnabled(False)
         self.btn_goto_dialogue.clicked.connect(self.goto_next_untranslated_block)
