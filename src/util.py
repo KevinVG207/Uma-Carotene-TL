@@ -465,7 +465,7 @@ def download_asset(hash, no_progress=False):
     if os.path.exists(asset_path):
         return
     
-    print_str = f"Downloading missing asset {hash}"
+    print_str = f"Downloading asset {hash}"
     if no_progress:
         print_str = "\n" + print_str
     
