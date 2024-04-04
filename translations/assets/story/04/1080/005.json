@@ -17,15 +17,15 @@
             "path_id": 1440703052768000625,
             "block_id": 1,
             "clip_length": 97,
-            "processed": "<story>It's early afternoon. I'm working on my laptop \n<story>as usual and I can feel my hands starting to get tired."
+            "processed": "󠁿It's early afternoon. I'm working on my laptop \n󠁿as usual and I can feel my hands starting to get tired."
         },
         {
-            "text": "I read that high amounts of desk work increase \nfatigue. Thus, I decided to take a little break \nto rest my hands.",
+            "text": "I read somewhere that high amounts of desk work might \nincrease fatigue. Thus, I decided to take a little break \nto rest my hands.",
             "name": "",
             "path_id": 3621859586551486917,
             "block_id": 2,
             "clip_length": 112,
-            "processed": "<story>I read that high amounts of desk work increase \n<story>fatigue. Thus, I decided to take a little break \n<story>to rest my hands."
+            "processed": "󠁿I read somewhere that high amounts of desk work might \n󠁿increase fatigue. Thus, I decided to take a little break \n󠁿to rest my hands."
         },
         {
             "text": "Heya, Tray-chan! \nI came to hang out.",
@@ -33,15 +33,15 @@
             "path_id": 5469457145590998576,
             "block_id": 3,
             "clip_length": 111,
-            "processed": "<story>Heya, Tray-chan! \n<story>I came to hang out."
+            "processed": "󠁿Heya, Tray-chan! \n󠁿I came to hang out."
         },
         {
-            "text": "But damn, am I thirsty. I'm sure you've got <i>something</i> \nin your fridge here. ...Oh, isn't that <i>Physical X</i>, which \ngot popular online?",
+            "text": "But damn, am I thirsty. I'm sure you've got <i>something</i> \nin your fridge here. ...Oh, isn't that <i>Physical X</i>, which \nis popping off online right now?",
             "name": "Transcend",
             "path_id": 8878863648063133755,
             "block_id": 4,
             "clip_length": 362,
-            "processed": "<story>But damn, am I thirsty. I'm sure you've got <i>something</i> \n<story>in your fridge here. ...Oh, isn't that <i>Physical X</i>, which \n<story>got popular online?"
+            "processed": "󠁿But damn, am I thirsty. I'm sure you've got <i>something</i> \n󠁿in your fridge here. ...Oh, isn't that <i>Physical X</i>, which \n󠁿is popping off online right now?"
         },
         {
             "text": "Can I take one? —Thanks a bunch! \nYou're so generous, Tray-chan!",
@@ -55,7 +55,7 @@
                     "hash": "fbd9cbceb7c8684ff0d7ff2a7a17ccfac0405e872982bf486070fd5a47b55ace"
                 }
             ],
-            "processed": "<story>Can I take one? —Thanks a bunch! \n<story>You're so generous, Tray-chan!"
+            "processed": "󠁿Can I take one? —Thanks a bunch! \n󠁿You're so generous, Tray-chan!"
         },
         {
             "text": "Heheh, I <i>knew</i> you'd say that.",
@@ -63,7 +63,7 @@
             "path_id": 8486110692588498884,
             "block_id": 6,
             "clip_length": 80,
-            "processed": "<story>Heheh, I <i>knew</i> you'd say that."
+            "processed": "󠁿Heheh, I <i>knew</i> you'd say that."
         },
         {
             "text": "She still treats me casually like a good friend. \nIn fact, our relationship hasn't really changed \nat all since I became her trainer.",
@@ -71,7 +71,7 @@
             "path_id": 1760544202815227212,
             "block_id": 7,
             "clip_length": 118,
-            "processed": "<story>She still treats me casually like a good friend. \n<story>In fact, our relationship hasn't really changed \n<story>at all since I became her trainer."
+            "processed": "󠁿She still treats me casually like a good friend. \n󠁿In fact, our relationship hasn't really changed \n󠁿at all since I became her trainer."
         },
         {
             "text": "By the way, you went to the countryside last week \non your day off, right? How'd it go? \nDid you bring back any useful info?",
@@ -85,15 +85,15 @@
                     "hash": "bc3d2a5a3992b090ff0657f1cba7cf088c4b3c4ec255d58fc23ae11e09117ec1"
                 }
             ],
-            "processed": "<story>By the way, you went to the countryside last week \n<story>on your day off, right? How'd it go? \n<story>Did you bring back any useful info?"
+            "processed": "󠁿By the way, you went to the countryside last week \n󠁿on your day off, right? How'd it go? \n󠁿Did you bring back any useful info?"
         },
         {
-            "text": "Heh heh..! You thought I wouldn't figure it out? \nOf course I'd look into where you'd go on a day off.",
+            "text": "Heh heh..! You thought I wouldn't figure it out? \nOf course I'd look into where you'd go on your day off.",
             "name": "Transcend",
             "path_id": -996853232037326553,
             "block_id": 9,
             "clip_length": 279,
-            "processed": "<story>Heh heh..! You thought I wouldn't figure it out? \n<story>Of course I'd look into where you'd go on a day off."
+            "processed": "󠁿Heh heh..! You thought I wouldn't figure it out? \n󠁿Of course I'd look into where you'd go on your day off."
         },
         {
             "text": "You wanted to talk to some of the rural trainers out there. \nSpecifically those of runners and leaders, am I wrong?",
@@ -101,7 +101,7 @@
             "path_id": 2942750249710980500,
             "block_id": 10,
             "clip_length": 288,
-            "processed": "<story>You wanted to talk to some of the rural trainers out there. \n<story>Specifically those of runners and leaders, am I wrong?"
+            "processed": "󠁿You wanted to talk to some of the rural trainers out there. \n󠁿Specifically those of runners and leaders, am I wrong?"
         },
         {
             "text": "And? And? Did you learn anything useful? \nThings that would help me exceed all imagination, \nperhaps?",
@@ -109,7 +109,7 @@
             "path_id": -6930605475270163408,
             "block_id": 11,
             "clip_length": 300,
-            "processed": "<story>And? And? Did you learn anything useful? \n<story>Things that would help me exceed all imagination, \n<story>perhaps?"
+            "processed": "󠁿And? And? Did you learn anything useful? \n󠁿Things that would help me exceed all imagination, \n󠁿perhaps?"
         },
         {
             "text": "I went on a trip in secret, with the goal of gathering \ninformation that would help me bring out the best in her... \nBut of course, she found out anyway.",
@@ -127,7 +127,7 @@
                     "hash": "0a59901b9e737f49e21a925e21c7115989fb242d8b908ae8fbfef3399d942e49"
                 }
             ],
-            "processed": "<story>I went on a trip in secret, with the goal of gathering \n<story>information that would help me bring out the best in her... \n<story>But of course, she found out anyway."
+            "processed": "󠁿I went on a trip in secret, with the goal of gathering \n󠁿information that would help me bring out the best in her... \n󠁿But of course, she found out anyway."
         },
         {
             "text": "Of course I do. \nWho do you think I am?",
@@ -135,7 +135,7 @@
             "path_id": 6534380128099847303,
             "block_id": 13,
             "clip_length": 119,
-            "processed": "<story>Of course I do. \n<story>Who do you think I am?"
+            "processed": "󠁿Of course I do. \n󠁿Who do you think I am?"
         },
         {
             "text": "――Your nihilistic and dangerous database, right?",
@@ -143,15 +143,15 @@
             "path_id": 7194320295751540723,
             "block_id": 14,
             "clip_length": 108,
-            "processed": "<story>――Your nihilistic and dangerous database, right?"
+            "processed": "󠁿――Your nihilistic and dangerous database, right?"
         },
         {
-            "text": "Things you like, dislike or are indifferent to as well. \nYour hobbies, tastes, ways of thinking... \nI know it all to the tiniest detail!",
+            "text": "Things you like, dislike or are indifferent to. \nYour hobbies, tastes, ways of thinking... \nI know it all to the tiniest detail!",
             "name": "Transcend",
             "path_id": 7262244177292752710,
             "block_id": 15,
             "clip_length": 362,
-            "processed": "<story>Things you like, dislike or are indifferent to as well. \n<story>Your hobbies, tastes, ways of thinking... \n<story>I know it all to the tiniest detail!"
+            "processed": "󠁿Things you like, dislike or are indifferent to. \n󠁿Your hobbies, tastes, ways of thinking... \n󠁿I know it all to the tiniest detail!"
         },
         {
             "text": "Hehe, are you scared? \nBecause you should be...!",
@@ -169,7 +169,7 @@
                     "hash": "53aaa4798cf79825ac372ed94c097d3a13d63cb036f2cbd2d2b376c72c2580c0"
                 }
             ],
-            "processed": "<story>Hehe, are you scared? \n<story>Because you should be...!"
+            "processed": "󠁿Hehe, are you scared? \n󠁿Because you should be...!"
         },
         {
             "text": "Ahaha! I even know you've been having trouble \nwith something lately. So...",
@@ -177,7 +177,7 @@
             "path_id": 2962313882980736038,
             "block_id": 17,
             "clip_length": 254,
-            "processed": "<story>Ahaha! I even know you've been having trouble \n<story>with something lately. So..."
+            "processed": "󠁿Ahaha! I even know you've been having trouble \n󠁿with something lately. So..."
         },
         {
             "text": "Here. I got this for you!",
@@ -191,7 +191,7 @@
                     "hash": "2f42a6fe0137c26fa3dae2221f7c0c33d5e40536a8808ff3960546a1885c92e9"
                 }
             ],
-            "processed": "<story>Here. I got this for you!"
+            "processed": "󠁿Here. I got this for you!"
         },
         {
             "text": "Just take it, and open it!",
@@ -199,7 +199,7 @@
             "path_id": -3638659431358183226,
             "block_id": 19,
             "clip_length": 109,
-            "processed": "<story>Just take it, and open it!"
+            "processed": "󠁿Just take it, and open it!"
         },
         {
             "text": "I do as she says, and out comes what looks like... \nA wooden plank.",
@@ -207,7 +207,7 @@
             "path_id": 4959862648096923517,
             "block_id": 20,
             "clip_length": 98,
-            "processed": "<story>I do as she says, and out comes what looks like... \n<story>A wooden plank."
+            "processed": "󠁿I do as she says, and out comes what looks like... \n󠁿A wooden plank."
         },
         {
             "text": "That's a palm rest, y'know. You place it against \nyour keyboard to rest your wrists on.",
@@ -215,15 +215,15 @@
             "path_id": 3978601738399465259,
             "block_id": 21,
             "clip_length": 238,
-            "processed": "<story>That's a palm rest, y'know. You place it against \n<story>your keyboard to rest your wrists on."
+            "processed": "󠁿That's a palm rest, y'know. You place it against \n󠁿your keyboard to rest your wrists on."
         },
         {
-            "text": "I noticed you were doing lots of computer work \nrecently, so your hands must be tired. \nI'd know, I've been through this before.",
+            "text": "I noticed you were doing lots of computer work \nrecently, so your hands must be fatigued. \nI'd know, I've been through this before.",
             "name": "Transcend",
             "path_id": -2650277406085665207,
             "block_id": 22,
             "clip_length": 251,
-            "processed": "<story>I noticed you were doing lots of computer work \n<story>recently, so your hands must be tired. \n<story>I'd know, I've been through this before."
+            "processed": "󠁿I noticed you were doing lots of computer work \n󠁿recently, so your hands must be fatigued. \n󠁿I'd know, I've been through this before."
         },
         {
             "text": "And that's when I found this absolute lifesaver! \nIt really makes all the difference. Wanna try it right now?",
@@ -231,7 +231,7 @@
             "path_id": -4401834839073872274,
             "block_id": 23,
             "clip_length": 296,
-            "processed": "<story>And that's when I found this absolute lifesaver! \n<story>It really makes all the difference. Wanna try it right now?"
+            "processed": "󠁿And that's when I found this absolute lifesaver! \n󠁿It really makes all the difference. Wanna try it right now?"
         },
         {
             "text": "How did she even find out about this minor inconvenience \nI've been having... Honestly, her kindheartedness might \nbe too much for my heart to handle...!",
@@ -245,7 +245,7 @@
                     "hash": "21a30fa154593aa651d6a70038eecfe38b69afc5483b3299294f3cf057cfcf59"
                 }
             ],
-            "processed": "<story>How did she even find out about this minor inconvenience \n<story>I've been having... Honestly, her kindheartedness might \n<story>be too much for my heart to handle...!"
+            "processed": "󠁿How did she even find out about this minor inconvenience \n󠁿I've been having... Honestly, her kindheartedness might \n󠁿be too much for my heart to handle...!"
         },
         {
             "text": "Hehe... But there's a catch. \nDid I ever say you'd get this for free?",
@@ -253,7 +253,7 @@
             "path_id": -5607263150987900698,
             "block_id": 25,
             "clip_length": 184,
-            "processed": "<story>Hehe... But there's a catch. \n<story>Did I ever say you'd get this for free?"
+            "processed": "󠁿Hehe... But there's a catch. \n󠁿Did I ever say you'd get this for free?"
         },
         {
             "text": "You see, the <i>Future Watch</i> releases tomorrow. \nAnd... It's limited to 1 per person.",
@@ -261,7 +261,7 @@
             "path_id": 7293258253254781695,
             "block_id": 26,
             "clip_length": 236,
-            "processed": "<story>You see, the <i>Future Watch</i> releases tomorrow. \n<story>And... It's limited to 1 per person."
+            "processed": "󠁿You see, the <i>Future Watch</i> releases tomorrow. \n󠁿And... It's limited to 1 per person."
         },
         {
             "text": "But I reaaally want to get two of them..! \nOne to wear, and another to keep as a spare.",
@@ -269,10 +269,10 @@
             "path_id": 4876385850773821855,
             "block_id": 27,
             "clip_length": 216,
-            "processed": "<story>But I reaaally want to get two of them..! \n<story>One to wear, and another to keep as a spare."
+            "processed": "󠁿But I reaaally want to get two of them..! \n󠁿One to wear, and another to keep as a spare."
         },
         {
-            "text": "And I'd need to stand in the queue from 4 in the morning! \nIf only there was someone who could go there with me... \n*Nudge* *Wink*",
+            "text": "And I'd need to stand in the queue from 4 in the morning! \nIf only there was someone who could go there with me... \n*peek*",
             "name": "Transcend",
             "path_id": 8519390301627162111,
             "block_id": 28,
@@ -283,10 +283,10 @@
                     "hash": "c62676f30714896aff9f881c3f33a7aca493678a95e6e6eeae7eecce84542806"
                 }
             ],
-            "processed": "<story>And I'd need to stand in the queue from 4 in the morning! \n<story>If only there was someone who could go there with me... \n<story>*Nudge* *Wink*"
+            "processed": "󠁿And I'd need to stand in the queue from 4 in the morning! \n󠁿If only there was someone who could go there with me... \n󠁿*peek*"
         },
         {
-            "text": "Argh, what to do..? I wish there was someone (a very \nkind Trainer) who I could rely on in times like these... \n*Sniffle*",
+            "text": "Argh, what to do..? I wish there was someone (a very \nkind Trainer) who I could rely on in times like these... \n*sniffle*",
             "name": "Transcend",
             "path_id": 2459614849367532866,
             "block_id": 29,
@@ -297,7 +297,7 @@
                     "hash": "1ee2cb550958e5fc2a9983770ce7218c106368a970ceca5632c55ae45b303770"
                 }
             ],
-            "processed": "<story>Argh, what to do..? I wish there was someone (a very \n<story>kind Trainer) who I could rely on in times like these... \n<story>*Sniffle*"
+            "processed": "󠁿Argh, what to do..? I wish there was someone (a very \n󠁿kind Trainer) who I could rely on in times like these... \n󠁿*sniffle*"
         },
         {
             "text": "That's a promise! ... Heheh. \nYou must love me sooo much, Tray-chan!",
@@ -317,7 +317,7 @@
                     "processed": "<size=42>I get the feeling I'm being toyed with...</size>"
                 }
             ],
-            "processed": "<story>That's a promise! ... Heheh. \n<story>You must love me sooo much, Tray-chan!"
+            "processed": "󠁿That's a promise! ... Heheh. \n󠁿You must love me sooo much, Tray-chan!"
         },
         {
             "text": "Hmm? Really? \nI don't have <i>any</i> idea what you're talking about. Hehe..!",
@@ -325,7 +325,7 @@
             "path_id": 6871725477521869048,
             "block_id": 31,
             "clip_length": 229,
-            "processed": "<story>Hmm? Really? \n<story>I don't have <i>any</i> idea what you're talking about. Hehe..!"
+            "processed": "󠁿Hmm? Really? \n󠁿I don't have <i>any</i> idea what you're talking about. Hehe..!"
         },
         {
             "text": "...She says with a big smile on her face. She's always one \nstep ahead. Perhaps she knows me a little <i>too</i> well.",
@@ -333,7 +333,7 @@
             "path_id": 3096798199164459203,
             "block_id": 32,
             "clip_length": 119,
-            "processed": "<story>...She says with a big smile on her face. She's always one \n<story>step ahead. Perhaps she knows me a little <i>too</i> well."
+            "processed": "󠁿...She says with a big smile on her face. She's always one \n󠁿step ahead. Perhaps she knows me a little <i>too</i> well."
         }
     ],
     "title": "Info: The Perfect Gift"
