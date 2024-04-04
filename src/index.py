@@ -210,15 +210,25 @@ def load_asset_data(row_metadata):
 
         # Check if they are equal.
         old_data = util.load_json(bak_path)
-        if story_data_equal(tl_item['data'], old_data['data']):
-            # Restore translations from the old file.
-            for i, old_entry in enumerate(old_data['data']):
-                new_entry = tl_item['data'][i]
-                old_entry['path_id'] = new_entry['path_id']
+        # if story_data_equal(tl_item['data'], old_data['data']):
+        # Restore translations from the old file.
+        for i, old_entry in enumerate(old_data['data']):
+            new_entry = tl_item['data'][i]
+            old_entry['path_id'] = new_entry['path_id']
 
-            tl_item['data'] = old_data['data']
-            tl_item['title'] = old_data['title']
-            print(f"\nRestored translations from {bak_path}.", flush=True)
+            if new_entry['source'] != old_entry['source']:
+                old_entry['text'] = ""  # Reset translation if source has changed.
+            
+            if new_entry.get('choices'):
+                for j, old_choice in enumerate(old_entry['choices']):
+                    new_choice = new_entry['choices'][j]
+                    if new_choice['source'] != old_choice['source']:
+                        old_choice['text'] = ""  # Reset translation if source has changed.
+
+
+        tl_item['data'] = old_data['data']
+        tl_item['title'] = old_data['title']
+        print(f"\nRestored translations from {bak_path}.", flush=True)
 
 
     with open(write_path, "w", encoding="utf-8") as f:
@@ -375,8 +385,8 @@ def index_one_lyric(metadata):
     file_path = os.path.join(util.DATA_PATH, hash[:2], hash)
 
     if not os.path.exists(file_path):
-        print(f"\nUser has not downloaded lyrics {file_name}. Skipping.")
-        return
+        print(f"\nUser has not downloaded lyrics {file_name}. Downloading...")
+        util.download_asset(hash, no_progress=True)
 
     write_path = os.path.join(util.ASSETS_FOLDER_EDITING, "lyrics", file_name.split("/")[2][1:] + ".json")
     tl_path = os.path.join(util.ASSETS_FOLDER, "lyrics", file_name.split("/")[2][1:] + ".json")
@@ -474,8 +484,8 @@ def index_textures_from_assetbundle(metadata):
     file_path = os.path.join(util.DATA_PATH, hash[:2], hash)
 
     if not os.path.exists(file_path):
-        print(f"\nUser has not downloaded atlas {file_name}. Skipping.")
-        return
+        print(f"\nUser has not downloaded atlas {file_name}. Downloading...")
+        util.download_asset(hash, no_progress=True)
     
     meta_file_path = os.path.join(util.ASSETS_FOLDER_EDITING, file_name, os.path.basename(file_name) + ".json")
 
@@ -707,8 +717,8 @@ def index_flash_text_from_assetbundle(metadata):
     file_path = os.path.join(util.DATA_PATH, hash[:2], hash)
 
     if not os.path.exists(file_path):
-        print(f"\nUser has not downloaded flash {file_name}. Skipping.")
-        return
+        print(f"\nUser has not downloaded flash {file_name}. Downloading...")
+        util.download_asset(hash, no_progress=True)
 
     meta_file_path = os.path.join(util.FLASH_FOLDER_EDITING, file_name, os.path.basename(file_name) + ".json")
 
