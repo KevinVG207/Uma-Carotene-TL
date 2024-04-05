@@ -134,6 +134,11 @@ def get_text(widget: QPlainTextEdit) -> str:
         is_bold = fmt.fontWeight() == QFont.Bold
         is_italic = fmt.fontItalic()
 
+        # Reset formatting on newlines
+        if char == "\n":
+            is_bold = False
+            is_italic = False
+
         char_data.append((char, is_bold, is_italic))
     
     text = char_data_to_str(char_data)
