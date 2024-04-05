@@ -17,7 +17,7 @@
             "path_id": -8659400697325201745,
             "block_id": 1,
             "clip_length": 103,
-            "processed": "󠁿<i>The Selection Race is tomorrow…</i>"
+            "processed": "<story><i>The Selection Race is tomorrow…</i>"
         },
         {
             "text": "I'm sorry for making you wait… \nBut just wait… a little longer…",
@@ -25,7 +25,7 @@
             "path_id": 8701484455451379635,
             "block_id": 2,
             "clip_length": 290,
-            "processed": "󠁿I'm sorry for making you wait… \n󠁿But just wait… a little longer…"
+            "processed": "<story>I'm sorry for making you wait… \n<story>But just wait… a little longer…"
         },
         {
             "text": "I will definitely win tomorrow, then I will have my debut \nrace… Then I will dedicate many, many wins to you.",
@@ -33,7 +33,7 @@
             "path_id": -1299900970657512078,
             "block_id": 3,
             "clip_length": 376,
-            "processed": "󠁿I will definitely win tomorrow, then I will have my debut \n󠁿race… Then I will dedicate many, many wins to you."
+            "processed": "<story>I will definitely win tomorrow, then I will have my debut \n<story>race… Then I will dedicate many, many wins to you."
         },
         {
             "text": "Your big sister will do her best.",
@@ -41,7 +41,7 @@
             "path_id": 2493140032029379286,
             "block_id": 4,
             "clip_length": 99,
-            "processed": "󠁿Your big sister will do her best."
+            "processed": "<story>Your big sister will do her best."
         },
         {
             "text": "Was it you…?",
@@ -49,7 +49,7 @@
             "path_id": -3143392011779070544,
             "block_id": 5,
             "clip_length": 49,
-            "processed": "󠁿Was it you…?"
+            "processed": "<story>Was it you…?"
         },
         {
             "text": "Was it you that wanted to race so badly? Was it you that wanted \nto win so badly? Was it you that had so much fun? And… was it \nyou that felt so lonely…?",
@@ -57,7 +57,7 @@
             "path_id": -4234006742156458203,
             "block_id": 6,
             "clip_length": 302,
-            "processed": "󠁿Was it you that wanted to race so badly? Was it you that wanted \n󠁿to win so badly? Was it you that had so much fun? And… was it \n󠁿you that felt so lonely…?"
+            "processed": "<story>Was it you that wanted to race so badly? Was it you that wanted \n<story>to win so badly? Was it you that had so much fun? And… was it \n<story>you that felt so lonely…?"
         },
         {
             "text": "Was that all you? Hey…",
@@ -65,7 +65,7 @@
             "path_id": 6976619584942380744,
             "block_id": 7,
             "clip_length": 184,
-            "processed": "󠁿Was that all you? Hey…"
+            "processed": "<story>Was that all you? Hey…"
         },
         {
             "text": "The day of Admire Vega's Selection Race has finally \narrived. Many trainers were gathered in the audience, \ntheir eyes full of anticipation.",
@@ -73,7 +73,7 @@
             "path_id": -7484480676158840677,
             "block_id": 8,
             "clip_length": 120,
-            "processed": "󠁿The day of Admire Vega's Selection Race has finally \n󠁿arrived. Many trainers were gathered in the audience, \n󠁿their eyes full of anticipation."
+            "processed": "<story>The day of Admire Vega's Selection Race has finally \n<story>arrived. Many trainers were gathered in the audience, \n<story>their eyes full of anticipation."
         },
         {
             "text": "I'm also very excited to see Admire Vega's race…",
@@ -81,7 +81,7 @@
             "path_id": -3458109647479995349,
             "block_id": 9,
             "clip_length": 84,
-            "processed": "󠁿I'm also very excited to see Admire Vega's race…"
+            "processed": "<story>I'm also very excited to see Admire Vega's race…"
         },
         {
             "text": "………………",
@@ -89,7 +89,7 @@
             "path_id": 2242222534784231784,
             "block_id": 10,
             "clip_length": 165,
-            "processed": "󠁿………………"
+            "processed": "<story>………………"
         },
         {
             "text": "………………",
@@ -97,7 +97,7 @@
             "path_id": 4367148287527707484,
             "block_id": 11,
             "clip_length": 181,
-            "processed": "󠁿………………"
+            "processed": "<story>………………"
         },
         {
             "text": "I will definitely win.",
@@ -105,7 +105,7 @@
             "path_id": 366236514244569143,
             "block_id": 12,
             "clip_length": 164,
-            "processed": "󠁿I will definitely win."
+            "processed": "<story>I will definitely win."
         },
         {
             "text": "After last night, I couldn't help but worry about her.",
@@ -119,7 +119,7 @@
                     "hash": "0468d4847d2192f33b21c82c717590bb96b6c42d23fd0ccbab1d348d198cd574"
                 }
             ],
-            "processed": "󠁿After last night, I couldn't help but worry about her."
+            "processed": "<story>After last night, I couldn't help but worry about her."
         },
         {
             "text": "But despite these concerns, the race began without a hitch!",
@@ -127,7 +127,7 @@
             "path_id": 1703852825771331265,
             "block_id": 14,
             "clip_length": 78,
-            "processed": "󠁿But despite these concerns, the race began without a hitch!"
+            "processed": "<story>But despite these concerns, the race began without a hitch!"
         },
         {
             "text": "(Woooooh!!)",
@@ -135,7 +135,7 @@
             "path_id": 1661139283485655121,
             "block_id": 15,
             "clip_length": 59,
-            "processed": "󠁿(Woooooh!!)"
+            "processed": "<story>(Woooooh!!)"
         },
         {
             "text": "Hah, hahh, haa—",
@@ -143,7 +143,7 @@
             "path_id": -4284980126306330282,
             "block_id": 16,
             "clip_length": 85,
-            "processed": "󠁿Hah, hahh, haa—"
+            "processed": "<story>Hah, hahh, haa—"
         },
         {
             "text": "<i>I will win… I have to win.</i>",
@@ -151,7 +151,7 @@
             "path_id": 2467709439266249463,
             "block_id": 17,
             "clip_length": 134,
-            "processed": "󠁿<i>I will win… I have to win.</i>"
+            "processed": "<story><i>I will win… I have to win.</i>"
         },
         {
             "text": "That time, I later found out that it could have \nbeen me or her that ended up as the sacrifice.",
@@ -159,7 +159,7 @@
             "path_id": -129346318850265032,
             "block_id": 18,
             "clip_length": 266,
-            "processed": "󠁿That time, I later found out that it could have \n󠁿been me or her that ended up as the sacrifice."
+            "processed": "<story>That time, I later found out that it could have \n<story>been me or her that ended up as the sacrifice."
         },
         {
             "text": "I lived merely by pure chance. Or perhaps… \nMy life was simply a miracle left to me by my little sister.",
@@ -167,7 +167,7 @@
             "path_id": 1025655577889163190,
             "block_id": 19,
             "clip_length": 218,
-            "processed": "󠁿I lived merely by pure chance. Or perhaps… \n󠁿My life was simply a miracle left to me by my little sister."
+            "processed": "<story>I lived merely by pure chance. Or perhaps… \n<story>My life was simply a miracle left to me by my little sister."
         },
         {
             "text": "So!",
@@ -175,7 +175,7 @@
             "path_id": 8523570612618789432,
             "block_id": 20,
             "clip_length": 29,
-            "processed": "󠁿So!"
+            "processed": "<story>So!"
         },
         {
             "text": "They are finally rounding the fourth corner and entering \ninto the final straight! Number 9 is breaking out from \nthe group and taking a great lead. The favorite for \nthis race, Admire Vega, is in 5th place!",
@@ -183,7 +183,7 @@
             "path_id": -5708332967816320024,
             "block_id": 21,
             "clip_length": 222,
-            "processed": "󠁿They are finally rounding the fourth corner and entering \n󠁿into the final straight! Number 9 is breaking out from \n󠁿the group and taking a great lead. The favorite for \n󠁿this race, Admire Vega, is in 5th place!"
+            "processed": "<story>They are finally rounding the fourth corner and entering \n<story>into the final straight! Number 9 is breaking out from \n<story>the group and taking a great lead. The favorite for \n<story>this race, Admire Vega, is in 5th place!"
         },
         {
             "text": "Hahh, haa, guuuh…!",
@@ -191,7 +191,7 @@
             "path_id": -7872138566273912288,
             "block_id": 22,
             "clip_length": 94,
-            "processed": "󠁿Hahh, haa, guuuh…!"
+            "processed": "<story>Hahh, haa, guuuh…!"
         },
         {
             "text": "Admire Vega seems to be surrounded…! \nDid she not manage to get into a good position?",
@@ -199,7 +199,7 @@
             "path_id": 5341084416678666280,
             "block_id": 23,
             "clip_length": 161,
-            "processed": "󠁿Admire Vega seems to be surrounded…! \n󠁿Did she not manage to get into a good position?"
+            "processed": "<story>Admire Vega seems to be surrounded…! \n<story>Did she not manage to get into a good position?"
         },
         {
             "text": "<i>No… No! I won't be forgiven for doing \nanything other than winning!! But, I…!!</i>",
@@ -207,7 +207,7 @@
             "path_id": -1280642401901407666,
             "block_id": 24,
             "clip_length": 216,
-            "processed": "󠁿<i>No… No! I won't be forgiven for doing \n󠁿anything other than winning!! But, I…!!</i>"
+            "processed": "<story><i>No… No! I won't be forgiven for doing \n<story>anything other than winning!! But, I…!!</i>"
         },
         {
             "text": "You… really loved running, huh? \nYou really wanted to race, and to win, didn't you?",
@@ -215,7 +215,7 @@
             "path_id": -48192919270027700,
             "block_id": 25,
             "clip_length": 421,
-            "processed": "󠁿You… really loved running, huh? \n󠁿You really wanted to race, and to win, didn't you?"
+            "processed": "<story>You… really loved running, huh? \n<story>You really wanted to race, and to win, didn't you?"
         },
         {
             "text": "Then, if that's the case… I…",
@@ -223,7 +223,7 @@
             "path_id": 7176644290698617864,
             "block_id": 26,
             "clip_length": 213,
-            "processed": "󠁿Then, if that's the case… I…"
+            "processed": "<story>Then, if that's the case… I…"
         },
         {
             "text": "I'll grant you your wish.",
@@ -231,7 +231,7 @@
             "path_id": -2462084438795315427,
             "block_id": 27,
             "clip_length": 120,
-            "processed": "󠁿I'll grant you your wish."
+            "processed": "<story>I'll grant you your wish."
         },
         {
             "text": "Your big sister… will…!!",
@@ -239,7 +239,7 @@
             "path_id": -5112483813361429127,
             "block_id": 28,
             "clip_length": 109,
-            "processed": "󠁿Your big sister… will…!!"
+            "processed": "<story>Your big sister… will…!!"
         },
         {
             "text": "<i>I will continue running, I will continue winning! \nAnd I will continue to bring glory to her!</i>",
@@ -247,7 +247,7 @@
             "path_id": 8573532930967040227,
             "block_id": 29,
             "clip_length": 158,
-            "processed": "󠁿<i>I will continue running, I will continue winning! \n󠁿And I will continue to bring glory to her!</i>"
+            "processed": "<story><i>I will continue running, I will continue winning! \n<story>And I will continue to bring glory to her!</i>"
         },
         {
             "text": "<i>The only reason. The only \nreason that I am alive is for this!</i>",
@@ -255,7 +255,7 @@
             "path_id": -853659259302977405,
             "block_id": 30,
             "clip_length": 227,
-            "processed": "󠁿<i>The only reason. The only \n󠁿reason that I am alive is for this!</i>"
+            "processed": "<story><i>The only reason. The only \n<story>reason that I am alive is for this!</i>"
         },
         {
             "text": "…… Aaaaaaaaahh!!",
@@ -263,7 +263,7 @@
             "path_id": -3265694328489503431,
             "block_id": 31,
             "clip_length": 79,
-            "processed": "󠁿…… Aaaaaaaaahh!!"
+            "processed": "<story>…… Aaaaaaaaahh!!"
         },
         {
             "text": "Admire Vega is quickly and nimbly cutting through the pack and \npushing forward! 3rd place, 2nd place, and 1st place! What \nmagnificently explosive power!!",
@@ -271,7 +271,7 @@
             "path_id": 5489196093457486408,
             "block_id": 32,
             "clip_length": 280,
-            "processed": "󠁿Admire Vega is quickly and nimbly cutting through the pack and \n󠁿pushing forward! 3rd place, 2nd place, and 1st place! What \n󠁿magnificently explosive power!!"
+            "processed": "<story>Admire Vega is quickly and nimbly cutting through the pack and \n<story>pushing forward! 3rd place, 2nd place, and 1st place! What \n<story>magnificently explosive power!!"
         },
         {
             "text": "Eh? Wait, what was…",
@@ -285,7 +285,7 @@
                     "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
                 }
             ],
-            "processed": "󠁿Eh? Wait, what was…"
+            "processed": "<story>Eh? Wait, what was…"
         },
         {
             "text": "And goal!! The winner of this selection \nrace is Admire Vega! Admire Vega has won!",
@@ -293,7 +293,7 @@
             "path_id": 4438443045922531327,
             "block_id": 34,
             "clip_length": 191,
-            "processed": "󠁿And goal!! The winner of this selection \n󠁿race is Admire Vega! Admire Vega has won!"
+            "processed": "<story>And goal!! The winner of this selection \n<story>race is Admire Vega! Admire Vega has won!"
         },
         {
             "text": "That terrifying speed that she showed at the end of the final \nstraight. The onlookers were so moved by the force of it all that \nthey couldn't help but cheer.",
@@ -301,7 +301,7 @@
             "path_id": -6256779923634501394,
             "block_id": 35,
             "clip_length": 97,
-            "processed": "󠁿That terrifying speed that she showed at the end of the final \n󠁿straight. The onlookers were so moved by the force of it all that \n󠁿they couldn't help but cheer."
+            "processed": "<story>That terrifying speed that she showed at the end of the final \n<story>straight. The onlookers were so moved by the force of it all that \n<story>they couldn't help but cheer."
         },
         {
             "text": "Then came an unsettling sound.",
@@ -309,7 +309,7 @@
             "path_id": 1211756037537039039,
             "block_id": 36,
             "clip_length": 67,
-            "processed": "󠁿Then came an unsettling sound."
+            "processed": "<story>Then came an unsettling sound."
         },
         {
             "text": "Haah, haahh, haaaah—",
@@ -317,7 +317,7 @@
             "path_id": -3959057913684310615,
             "block_id": 37,
             "clip_length": 127,
-            "processed": "󠁿Haah, haahh, haaaah—"
+            "processed": "<story>Haah, haahh, haaaah—"
         },
         {
             "text": "This is an announcement regarding the most recent race. Due to \nher diagonal movement in the final straight, Admire Vega has been \nlowered to 4th place.",
@@ -325,7 +325,7 @@
             "path_id": 7455447390978915411,
             "block_id": 38,
             "clip_length": 262,
-            "processed": "󠁿This is an announcement regarding the most recent race. Due to \n󠁿her diagonal movement in the final straight, Admire Vega has been \n󠁿lowered to 4th place.",
+            "processed": "<story>This is an announcement regarding the most recent race. Due to \n<story>her diagonal movement in the final straight, Admire Vega has been \n<story>lowered to 4th place.",
             "name_processed": "<sc=95>Selection Race Official A"
         },
         {
@@ -334,7 +334,7 @@
             "path_id": 6646325554135789985,
             "block_id": 39,
             "clip_length": 124,
-            "processed": "󠁿Haa… gh……"
+            "processed": "<story>Haa… gh……"
         },
         {
             "text": "That day, no trainer reached out to \nAdmire Vega and she left the venue, alone.",
@@ -342,7 +342,7 @@
             "path_id": 7723384510459653036,
             "block_id": 40,
             "clip_length": 102,
-            "processed": "󠁿That day, no trainer reached out to \n󠁿Admire Vega and she left the venue, alone."
+            "processed": "<story>That day, no trainer reached out to \n<story>Admire Vega and she left the venue, alone."
         }
     ],
     "title": "Light, Consumed"

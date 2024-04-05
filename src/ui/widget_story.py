@@ -968,7 +968,7 @@ class Ui_story_editor(QWidget):
 
         self.lbl_length_marker = QLabel(story_editor)
         self.lbl_length_marker.setObjectName(u"lbl_length_marker")
-        self.lbl_length_marker.setGeometry(QRect(1025, 281, 1, 119))
+        self.lbl_length_marker.setGeometry(QRect(1005, 281, 1, 119))
         self.lbl_length_marker.setAutoFillBackground(False)
         self.lbl_length_marker.setStyleSheet(u"background-color: rgb(255, 0, 0);")
 
