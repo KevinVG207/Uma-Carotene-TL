@@ -17,7 +17,7 @@
             "path_id": 2454362897195183936,
             "block_id": 1,
             "clip_length": 103,
-            "processed": "󠁿The summer training camp has finally begun. \n󠁿As I stood with Curren Chan I felt the \n󠁿overwhelmingly harsh heat of the sun upon us…"
+            "processed": "<story>The summer training camp has finally begun. \n<story>As I stood with Curren Chan I felt the \n<story>overwhelmingly harsh heat of the sun upon us…"
         },
         {
             "text": "It's so hot… \nMy energy is draining away…",
@@ -25,7 +25,7 @@
             "path_id": 6547840203960154084,
             "block_id": 2,
             "clip_length": 155,
-            "processed": "󠁿It's so hot… \n󠁿My energy is draining away…"
+            "processed": "<story>It's so hot… \n<story>My energy is draining away…"
         },
         {
             "text": "I'm really bad with the heat… \nI'm gonna fall over and melt…",
@@ -40,7 +40,7 @@
                     "processed": "<size=35>Let's do our best, \nbut be sure to not overdo it.</size>"
                 }
             ],
-            "processed": "󠁿I'm really bad with the heat… \n󠁿I'm gonna fall over and melt…"
+            "processed": "<story>I'm really bad with the heat… \n<story>I'm gonna fall over and melt…"
         },
         {
             "text": "So… If I work hard, would \nyou take me on a date as a reward?",
@@ -54,7 +54,7 @@
                     "hash": "9ce12e7df174cebe84ef39ec934df71051d5b77591931c71cf28c7aead2edad7"
                 }
             ],
-            "processed": "󠁿So… If I work hard, would \n󠁿you take me on a date as a reward?"
+            "processed": "<story>So… If I work hard, would \n<story>you take me on a date as a reward?"
         },
         {
             "text": "There's a summer festival being held tonight. \nIf you promise to go with me, I think I'll be okay…",
@@ -62,7 +62,7 @@
             "path_id": 1464699024538157301,
             "block_id": 5,
             "clip_length": 272,
-            "processed": "󠁿There's a summer festival being held tonight. \n󠁿If you promise to go with me, I think I'll be okay…"
+            "processed": "<story>There's a summer festival being held tonight. \n<story>If you promise to go with me, I think I'll be okay…"
         },
         {
             "text": "<i>*glance*</i>",
@@ -80,7 +80,7 @@
                     "hash": "c2c4ae143448f00f5973e26c42f947099e0caaafecd79e407473b4b957542dbc"
                 }
             ],
-            "processed": "󠁿<i>*glance*</i>"
+            "processed": "<story><i>*glance*</i>"
         },
         {
             "text": "Yay☆ Alrighty then, I'm gonna work super hard♪",
@@ -88,7 +88,7 @@
             "path_id": -7199542239903341133,
             "block_id": 7,
             "clip_length": 122,
-            "processed": "󠁿Yay☆ Alrighty then, I'm gonna work super hard♪"
+            "processed": "<story>Yay☆ Alrighty then, I'm gonna work super hard♪"
         },
         {
             "text": "Ehehe, I'm so excited for the summer festival♪",
@@ -96,7 +96,7 @@
             "path_id": -3959550421248776299,
             "block_id": 8,
             "clip_length": 171,
-            "processed": "󠁿Ehehe, I'm so excited for the summer festival♪"
+            "processed": "<story>Ehehe, I'm so excited for the summer festival♪"
         },
         {
             "text": "As promised, she pushed through the blistering heat… \nOr rather, it seemed more like the heat wasn't having \nany effect on her as she trained. But a promise is a promise…",
@@ -104,7 +104,7 @@
             "path_id": 8288876173174961335,
             "block_id": 9,
             "clip_length": 115,
-            "processed": "󠁿As promised, she pushed through the blistering heat… \n󠁿Or rather, it seemed more like the heat wasn't having \n󠁿any effect on her as she trained. But a promise is a promise…"
+            "processed": "<story>As promised, she pushed through the blistering heat… \n<story>Or rather, it seemed more like the heat wasn't having \n<story>any effect on her as she trained. But a promise is a promise…"
         },
         {
             "text": "Onee-chan♪ Look, they're selling candy apples!",
@@ -112,7 +112,7 @@
             "path_id": 5518205396980491612,
             "block_id": 10,
             "clip_length": 110,
-            "processed": "󠁿Onee-chan♪ Look, they're selling candy apples!"
+            "processed": "<story>Onee-chan♪ Look, they're selling candy apples!"
         },
         {
             "text": "Onee-chan♪ Look, they're selling candy apples!",
@@ -120,7 +120,7 @@
             "path_id": 2768871165748970814,
             "block_id": 11,
             "clip_length": 110,
-            "processed": "󠁿Onee-chan♪ Look, they're selling candy apples!"
+            "processed": "<story>Onee-chan♪ Look, they're selling candy apples!"
         },
         {
             "text": "They're so red, round, and shiny! \nThey're so cute! I want one!",
@@ -138,7 +138,7 @@
                     "hash": "131e0a8ab3f4c70073eb445fa93933fdefde0c7238558899299ebeab604617bd"
                 }
             ],
-            "processed": "󠁿They're so red, round, and shiny! \n󠁿They're so cute! I want one!"
+            "processed": "<story>They're so red, round, and shiny! \n<story>They're so cute! I want one!"
         },
         {
             "text": "Yay! Thank you so much♪",
@@ -146,7 +146,7 @@
             "path_id": -1349297289271773405,
             "block_id": 13,
             "clip_length": 75,
-            "processed": "󠁿Yay! Thank you so much♪"
+            "processed": "<story>Yay! Thank you so much♪"
         },
         {
             "text": "Mister! I'd like a candy apple, please. \nAlso, may I take a picture with you in your stand?",
@@ -154,7 +154,7 @@
             "path_id": -2735464020414665460,
             "block_id": 14,
             "clip_length": 201,
-            "processed": "󠁿Mister! I'd like a candy apple, please. \n󠁿Also, may I take a picture with you in your stand?"
+            "processed": "<story>Mister! I'd like a candy apple, please. \n<story>Also, may I take a picture with you in your stand?"
         },
         {
             "text": "Oh, what a cute young lady! Of course, \nif a stall like mine is good enough that is!",
@@ -162,7 +162,7 @@
             "path_id": -2306177784950867075,
             "block_id": 15,
             "clip_length": 176,
-            "processed": "󠁿Oh, what a cute young lady! Of course, \n󠁿if a stall like mine is good enough that is!"
+            "processed": "<story>Oh, what a cute young lady! Of course, \n<story>if a stall like mine is good enough that is!"
         },
         {
             "text": "Yay, thank you so much. \nAll these candy apples as my backdrop…",
@@ -170,7 +170,7 @@
             "path_id": 8757587800914435690,
             "block_id": 16,
             "clip_length": 193,
-            "processed": "󠁿Yay, thank you so much. \n󠁿All these candy apples as my backdrop…"
+            "processed": "<story>Yay, thank you so much. \n<story>All these candy apples as my backdrop…"
         },
         {
             "text": "<i>*snap snap*</i>",
@@ -178,7 +178,7 @@
             "path_id": -818038525777243874,
             "block_id": 17,
             "clip_length": 58,
-            "processed": "󠁿<i>*snap snap*</i>"
+            "processed": "<story><i>*snap snap*</i>"
         },
         {
             "text": "Ah, what a nice picture! Alright, \nhere's another one on the house!",
@@ -186,7 +186,7 @@
             "path_id": 1822407881233217596,
             "block_id": 18,
             "clip_length": 174,
-            "processed": "󠁿Ah, what a nice picture! Alright, \n󠁿here's another one on the house!"
+            "processed": "<story>Ah, what a nice picture! Alright, \n<story>here's another one on the house!"
         },
         {
             "text": "Eh? Is that really okay?",
@@ -194,7 +194,7 @@
             "path_id": -5206560891450858544,
             "block_id": 19,
             "clip_length": 64,
-            "processed": "󠁿Eh? Is that really okay?"
+            "processed": "<story>Eh? Is that really okay?"
         },
         {
             "text": "Of course, your bright smile \nreminds me of home, young lady. Plus…",
@@ -202,7 +202,7 @@
             "path_id": -3912816713200272850,
             "block_id": 20,
             "clip_length": 143,
-            "processed": "󠁿Of course, your bright smile \n󠁿reminds me of home, young lady. Plus…"
+            "processed": "<story>Of course, your bright smile \n<story>reminds me of home, young lady. Plus…"
         },
         {
             "text": "Hey, isn't that girl super cute? \nLet's get ourselves some candy apples too!",
@@ -210,7 +210,7 @@
             "path_id": 5512086153309635071,
             "block_id": 21,
             "clip_length": 163,
-            "processed": "󠁿Hey, isn't that girl super cute? \n󠁿Let's get ourselves some candy apples too!"
+            "processed": "<story>Hey, isn't that girl super cute? \n<story>Let's get ourselves some candy apples too!"
         },
         {
             "text": "Yeah, I can't wait to try some! \nWe've gotta get some pics too!",
@@ -218,7 +218,7 @@
             "path_id": 339288990926020099,
             "block_id": 22,
             "clip_length": 110,
-            "processed": "󠁿Yeah, I can't wait to try some! \n󠁿We've gotta get some pics too!"
+            "processed": "<story>Yeah, I can't wait to try some! \n<story>We've gotta get some pics too!"
         },
         {
             "text": "Having you eat my candy apples is the \nbest publicity I could ever ask for, young lady!",
@@ -226,7 +226,7 @@
             "path_id": 3846644484422330775,
             "block_id": 23,
             "clip_length": 141,
-            "processed": "󠁿Having you eat my candy apples is the \n󠁿best publicity I could ever ask for, young lady!"
+            "processed": "<story>Having you eat my candy apples is the \n<story>best publicity I could ever ask for, young lady!"
         },
         {
             "text": "Heehee♪ Then, don't mind \nif I take you up on that offer!",
@@ -234,7 +234,7 @@
             "path_id": 4609417932868869409,
             "block_id": 24,
             "clip_length": 112,
-            "processed": "󠁿Heehee♪ Then, don't mind \n󠁿if I take you up on that offer!"
+            "processed": "<story>Heehee♪ Then, don't mind \n<story>if I take you up on that offer!"
         },
         {
             "text": "Onee-chan, I got this second candy apple for free! \nWould you like to eat it together with me? ♪",
@@ -242,7 +242,7 @@
             "path_id": -3130127438995660770,
             "block_id": 25,
             "clip_length": 153,
-            "processed": "󠁿Onee-chan, I got this second candy apple for free! \n󠁿Would you like to eat it together with me? ♪"
+            "processed": "<story>Onee-chan, I got this second candy apple for free! \n<story>Would you like to eat it together with me? ♪"
         },
         {
             "text": "Onee-chan, I got this second candy apple for free! \nWould you like to eat it together with me? ♪",
@@ -250,7 +250,7 @@
             "path_id": 7459072415075839408,
             "block_id": 26,
             "clip_length": 153,
-            "processed": "󠁿Onee-chan, I got this second candy apple for free! \n󠁿Would you like to eat it together with me? ♪"
+            "processed": "<story>Onee-chan, I got this second candy apple for free! \n<story>Would you like to eat it together with me? ♪"
         },
         {
             "text": "<UNTRANSLATED>",
@@ -258,7 +258,7 @@
             "path_id": -4818119507012496576,
             "block_id": 27,
             "clip_length": 58,
-            "processed": "󠁿<UNTRANSLATED>"
+            "processed": "<story><UNTRANSLATED>"
         },
         {
             "text": "\"#SummerFestival #SoHappy #ILoveFestivals #ILoveSummer\" Ehehe, I \nwonder if seeing my smile will make my followers happy too♪",
@@ -266,7 +266,7 @@
             "path_id": -7527140276293390574,
             "block_id": 28,
             "clip_length": 340,
-            "processed": "󠁿\"#SummerFestival #SoHappy #ILoveFestivals #ILoveSummer\" Ehehe, I \n󠁿wonder if seeing my smile will make my followers happy too♪"
+            "processed": "<story>\"#SummerFestival #SoHappy #ILoveFestivals #ILoveSummer\" Ehehe, I \n<story>wonder if seeing my smile will make my followers happy too♪"
         },
         {
             "text": "Thanks to all of this Curren Chan seemed to be \nin a great mood, happily enjoying the festival, until…",
@@ -274,7 +274,7 @@
             "path_id": -2132725092016768559,
             "block_id": 29,
             "clip_length": 91,
-            "processed": "󠁿Thanks to all of this Curren Chan seemed to be \n󠁿in a great mood, happily enjoying the festival, until…"
+            "processed": "<story>Thanks to all of this Curren Chan seemed to be \n<story>in a great mood, happily enjoying the festival, until…"
         },
         {
             "text": "Onee-chan! I want to…",
@@ -282,7 +282,7 @@
             "path_id": -333758029497782623,
             "block_id": 30,
             "clip_length": 101,
-            "processed": "󠁿Onee-chan! I want to…"
+            "processed": "<story>Onee-chan! I want to…"
         },
         {
             "text": "Onee-chan! I want to…",
@@ -290,7 +290,7 @@
             "path_id": 1247230214886179355,
             "block_id": 31,
             "clip_length": 101,
-            "processed": "󠁿Onee-chan! I want to…"
+            "processed": "<story>Onee-chan! I want to…"
         },
         {
             "text": "What's with all that noise…?",
@@ -298,7 +298,7 @@
             "path_id": 1868152826679203641,
             "block_id": 32,
             "clip_length": 93,
-            "processed": "󠁿What's with all that noise…?"
+            "processed": "<story>What's with all that noise…?"
         },
         {
             "text": "(Fyuuuuuu… BANG!)",
@@ -306,7 +306,7 @@
             "path_id": 305764334559696508,
             "block_id": 33,
             "clip_length": 64,
-            "processed": "󠁿(Fyuuuuuu… BANG!)"
+            "processed": "<story>(Fyuuuuuu… BANG!)"
         },
         {
             "text": "Kyaa…!?",
@@ -314,7 +314,7 @@
             "path_id": 2039726745880445009,
             "block_id": 34,
             "clip_length": 31,
-            "processed": "󠁿Kyaa…!?"
+            "processed": "<story>Kyaa…!?"
         },
         {
             "text": "Ah… Fireworks…? \nEhh, I didn't know they had those here…",
@@ -332,7 +332,7 @@
                     "hash": "79dd6364460ad2f7ade2caca85b820cfdc4b84c6240dc956ff249dd176b19d7a"
                 }
             ],
-            "processed": "󠁿Ah… Fireworks…? \n󠁿Ehh, I didn't know they had those here…"
+            "processed": "<story>Ah… Fireworks…? \n<story>Ehh, I didn't know they had those here…"
         },
         {
             "text": "Yeah… They are…",
@@ -340,7 +340,7 @@
             "path_id": 3264081819788485401,
             "block_id": 36,
             "clip_length": 98,
-            "processed": "󠁿Yeah… They are…"
+            "processed": "<story>Yeah… They are…"
         },
         {
             "text": "Amazing! The fireworks are like super beautiful! \nThey're hella chic!",
@@ -348,7 +348,7 @@
             "path_id": -5524207492750667309,
             "block_id": 37,
             "clip_length": 156,
-            "processed": "󠁿Amazing! The fireworks are like super beautiful! \n󠁿They're hella chic!"
+            "processed": "<story>Amazing! The fireworks are like super beautiful! \n<story>They're hella chic!"
         },
         {
             "text": "Wow, they really went all out this year, huh? Tamaya!!!!",
@@ -356,7 +356,7 @@
             "path_id": 4878117886116372917,
             "block_id": 38,
             "clip_length": 207,
-            "processed": "󠁿Wow, they really went all out this year, huh? Tamaya!!!!"
+            "processed": "<story>Wow, they really went all out this year, huh? Tamaya!!!!"
         },
         {
             "text": "Fireworks bursting throughout the night sky. \nI looked around and noticed that everyone at the \nfestival was looking up to the sky at them. However…",
@@ -364,7 +364,7 @@
             "path_id": -2060736093273103854,
             "block_id": 39,
             "clip_length": 105,
-            "processed": "󠁿Fireworks bursting throughout the night sky. \n󠁿I looked around and noticed that everyone at the \n󠁿festival was looking up to the sky at them. However…"
+            "processed": "<story>Fireworks bursting throughout the night sky. \n<story>I looked around and noticed that everyone at the \n<story>festival was looking up to the sky at them. However…"
         },
         {
             "text": "Under the light of the fireworks it seemed \nlike something was bothering Curren Chan.",
@@ -378,7 +378,7 @@
                     "hash": "0e1422ded9bbc88cdd411989193b9b00a51ab437c312472e637e4b229fddfd6a"
                 }
             ],
-            "processed": "󠁿Under the light of the fireworks it seemed \n󠁿like something was bothering Curren Chan."
+            "processed": "<story>Under the light of the fireworks it seemed \n<story>like something was bothering Curren Chan."
         },
         {
             "text": "Onee-chan, can we leave?",
@@ -386,7 +386,7 @@
             "path_id": 4308698126413489327,
             "block_id": 41,
             "clip_length": 100,
-            "processed": "󠁿Onee-chan, can we leave?"
+            "processed": "<story>Onee-chan, can we leave?"
         },
         {
             "text": "Onee-chan, can we leave?",
@@ -394,7 +394,7 @@
             "path_id": -76655965770040807,
             "block_id": 42,
             "clip_length": 100,
-            "processed": "󠁿Onee-chan, can we leave?"
+            "processed": "<story>Onee-chan, can we leave?"
         },
         {
             "text": "With her back to the fireworks, \nCurren Chan walked away absent-mindedly.",
@@ -402,7 +402,7 @@
             "path_id": 2373627701298273755,
             "block_id": 43,
             "clip_length": 80,
-            "processed": "󠁿With her back to the fireworks, \n󠁿Curren Chan walked away absent-mindedly."
+            "processed": "<story>With her back to the fireworks, \n<story>Curren Chan walked away absent-mindedly."
         },
         {
             "text": "Before I knew it, we were standing on the beach.",
@@ -410,7 +410,7 @@
             "path_id": 2824860013688505762,
             "block_id": 44,
             "clip_length": 68,
-            "processed": "󠁿Before I knew it, we were standing on the beach."
+            "processed": "<story>Before I knew it, we were standing on the beach."
         },
         {
             "text": "The thing is… I don't really like… fireworks…",
@@ -424,7 +424,7 @@
                     "hash": "70d75f777e27a8d02f7b0930ccd2e5c68883e2212cae2448bd70c796cf4e2d7e"
                 }
             ],
-            "processed": "󠁿The thing is… I don't really like… fireworks…"
+            "processed": "<story>The thing is… I don't really like… fireworks…"
         },
         {
             "text": "That was the last thing I expected her to say. \nShe usually never says anything negative, \nso to hear her say that she didn't like something…",
@@ -432,7 +432,7 @@
             "path_id": 4094430752676558915,
             "block_id": 46,
             "clip_length": 116,
-            "processed": "󠁿That was the last thing I expected her to say. \n󠁿She usually never says anything negative, \n󠁿so to hear her say that she didn't like something…"
+            "processed": "<story>That was the last thing I expected her to say. \n<story>She usually never says anything negative, \n<story>so to hear her say that she didn't like something…"
         },
         {
             "text": "You see, when fireworks go off everyone looks \nup and stares at them, right? They do that despite \nme being right here in front of them…",
@@ -440,7 +440,7 @@
             "path_id": -8207144892678166999,
             "block_id": 47,
             "clip_length": 220,
-            "processed": "󠁿You see, when fireworks go off everyone looks \n󠁿up and stares at them, right? They do that despite \n󠁿me being right here in front of them…"
+            "processed": "<story>You see, when fireworks go off everyone looks \n<story>up and stares at them, right? They do that despite \n<story>me being right here in front of them…"
         },
         {
             "text": "Fireworks explode so glamorously and in such a loud bang, causing \neveryone to obsessively stare at them. In other words, all of \ntheir attention is being stolen away from me.",
@@ -448,7 +448,7 @@
             "path_id": -6372071684245349519,
             "block_id": 48,
             "clip_length": 288,
-            "processed": "󠁿Fireworks explode so glamorously and in such a loud bang, causing \n󠁿everyone to obsessively stare at them. In other words, all of \n󠁿their attention is being stolen away from me."
+            "processed": "<story>Fireworks explode so glamorously and in such a loud bang, causing \n<story>everyone to obsessively stare at them. In other words, all of \n<story>their attention is being stolen away from me."
         },
         {
             "text": "When I was a kid, fireworks would make me so \nfrustrated that I'd end up crying. So that's why I decided…",
@@ -456,7 +456,7 @@
             "path_id": -3628501329591420584,
             "block_id": 49,
             "clip_length": 230,
-            "processed": "󠁿When I was a kid, fireworks would make me so \n󠁿frustrated that I'd end up crying. So that's why I decided…"
+            "processed": "<story>When I was a kid, fireworks would make me so \n<story>frustrated that I'd end up crying. So that's why I decided…"
         },
         {
             "text": "I decided that I would become \ncuter than any firework out there!!",
@@ -470,7 +470,7 @@
                     "hash": "998ae0176332896f2d591e274fd4002d4a01756c60644184f87208d9779af506"
                 }
             ],
-            "processed": "󠁿I decided that I would become \n󠁿cuter than any firework out there!!"
+            "processed": "<story>I decided that I would become \n<story>cuter than any firework out there!!"
         },
         {
             "text": "I won't continue to lose to fireworks. \nInstead, I'll bloom into a huge, beautiful flower myself!",
@@ -478,7 +478,7 @@
             "path_id": -626125524250993730,
             "block_id": 51,
             "clip_length": 181,
-            "processed": "󠁿I won't continue to lose to fireworks. \n󠁿Instead, I'll bloom into a huge, beautiful flower myself!"
+            "processed": "<story>I won't continue to lose to fireworks. \n<story>Instead, I'll bloom into a huge, beautiful flower myself!"
         },
         {
             "text": "Then I'll be able to steal back everyone's attention, forcing \nthem to obsess over me instead. I'm going to make everyone around \nthe world fall in love with me.",
@@ -486,7 +486,7 @@
             "path_id": 2134954435985358598,
             "block_id": 52,
             "clip_length": 247,
-            "processed": "󠁿Then I'll be able to steal back everyone's attention, forcing \n󠁿them to obsess over me instead. I'm going to make everyone around \n󠁿the world fall in love with me."
+            "processed": "<story>Then I'll be able to steal back everyone's attention, forcing \n<story>them to obsess over me instead. I'm going to make everyone around \n<story>the world fall in love with me."
         },
         {
             "text": "Her dream seems a bit grandiose, however, the way she spoke was \nfilled with undeniable confidence. She suddenly fell silent, \nstaring at me as if challenging me.",
@@ -494,7 +494,7 @@
             "path_id": -6336109885601037037,
             "block_id": 53,
             "clip_length": 124,
-            "processed": "󠁿Her dream seems a bit grandiose, however, the way she spoke was \n󠁿filled with undeniable confidence. She suddenly fell silent, \n󠁿staring at me as if challenging me."
+            "processed": "<story>Her dream seems a bit grandiose, however, the way she spoke was \n<story>filled with undeniable confidence. She suddenly fell silent, \n<story>staring at me as if challenging me."
         },
         {
             "text": "Hey, Onee-chan. I'm…",
@@ -502,7 +502,7 @@
             "path_id": -8972040351600326964,
             "block_id": 54,
             "clip_length": 120,
-            "processed": "󠁿Hey, Onee-chan. I'm…"
+            "processed": "<story>Hey, Onee-chan. I'm…"
         },
         {
             "text": "Hey, Onee-chan. I'm…",
@@ -510,7 +510,7 @@
             "path_id": -7340290454144737425,
             "block_id": 55,
             "clip_length": 120,
-            "processed": "󠁿Hey, Onee-chan. I'm…"
+            "processed": "<story>Hey, Onee-chan. I'm…"
         },
         {
             "text": "Her eyes shined so brightly that it made me forget the sounds \nof the fireworks as well as the faint moonlight falling upon us.",
@@ -525,7 +525,7 @@
                     "processed": "<size=42>You're already cuter than any firework.</size>"
                 }
             ],
-            "processed": "󠁿Her eyes shined so brightly that it made me forget the sounds \n󠁿of the fireworks as well as the faint moonlight falling upon us."
+            "processed": "<story>Her eyes shined so brightly that it made me forget the sounds \n<story>of the fireworks as well as the faint moonlight falling upon us."
         },
         {
             "text": "Hehe… Thank you, Onee-chan.",
@@ -533,7 +533,7 @@
             "path_id": -5336546432401064133,
             "block_id": 57,
             "clip_length": 98,
-            "processed": "󠁿Hehe… Thank you, Onee-chan."
+            "processed": "<story>Hehe… Thank you, Onee-chan."
         },
         {
             "text": "Hehe… Thank you, Onee-chan.",
@@ -541,7 +541,7 @@
             "path_id": -3559186147442611443,
             "block_id": 58,
             "clip_length": 98,
-            "processed": "󠁿Hehe… Thank you, Onee-chan."
+            "processed": "<story>Hehe… Thank you, Onee-chan."
         },
         {
             "text": "Hehe…♪",
@@ -555,7 +555,7 @@
                     "hash": "d6a4e79b56c212bb6e83b3632ed432fc67c2aff81a7fc3d2f1c77cf669cea254"
                 }
             ],
-            "processed": "󠁿Hehe…♪"
+            "processed": "<story>Hehe…♪"
         },
         {
             "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪",
@@ -569,7 +569,7 @@
                     "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
                 }
             ],
-            "processed": "󠁿You've finally done it… You finally called me \n󠁿\"cute\" from the bottom of your heart, Onee-chan♪"
+            "processed": "<story>You've finally done it… You finally called me \n<story>\"cute\" from the bottom of your heart, Onee-chan♪"
         },
         {
             "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪",
@@ -583,7 +583,7 @@
                     "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
                 }
             ],
-            "processed": "󠁿You've finally done it… You finally called me \n󠁿\"cute\" from the bottom of your heart, Onee-chan♪"
+            "processed": "<story>You've finally done it… You finally called me \n<story>\"cute\" from the bottom of your heart, Onee-chan♪"
         },
         {
             "text": "Onee-chan, you've been obsessing over me lately, huh? \nYou feel like you need to know, need to \nunderstand who the real Curren is, don't you…?",
@@ -591,7 +591,7 @@
             "path_id": -1418131631291267449,
             "block_id": 62,
             "clip_length": 242,
-            "processed": "󠁿Onee-chan, you've been obsessing over me lately, huh? \n󠁿You feel like you need to know, need to \n󠁿understand who the real Curren is, don't you…?"
+            "processed": "<story>Onee-chan, you've been obsessing over me lately, huh? \n<story>You feel like you need to know, need to \n<story>understand who the real Curren is, don't you…?"
         },
         {
             "text": "Onee-chan, you've been obsessing over me lately, huh? \nYou feel like you need to know, need to \nunderstand who the real Curren is, don't you…?",
@@ -599,7 +599,7 @@
             "path_id": 6832750614373484489,
             "block_id": 63,
             "clip_length": 242,
-            "processed": "󠁿Onee-chan, you've been obsessing over me lately, huh? \n󠁿You feel like you need to know, need to \n󠁿understand who the real Curren is, don't you…?"
+            "processed": "<story>Onee-chan, you've been obsessing over me lately, huh? \n<story>You feel like you need to know, need to \n<story>understand who the real Curren is, don't you…?"
         },
         {
             "text": "Hey… Would you mind… obsessing \nover me a little bit more tonight…?",
@@ -613,7 +613,7 @@
                     "hash": "b60ee97b7d1ac2b099f2616773effb948f0583ac58910ec97729ff42faebeba2"
                 }
             ],
-            "processed": "󠁿Hey… Would you mind… obsessing \n󠁿over me a little bit more tonight…?"
+            "processed": "<story>Hey… Would you mind… obsessing \n<story>over me a little bit more tonight…?"
         },
         {
             "text": "Nope, you won't be getting away from me! \nYou'll be staying with me until I've had my fill, right?",
@@ -621,7 +621,7 @@
             "path_id": -8139474504192812057,
             "block_id": 65,
             "clip_length": 157,
-            "processed": "󠁿Nope, you won't be getting away from me! \n󠁿You'll be staying with me until I've had my fill, right?"
+            "processed": "<story>Nope, you won't be getting away from me! \n<story>You'll be staying with me until I've had my fill, right?"
         },
         {
             "text": "Cause if you stay, you'll get to \nhave me all to yourself tonight… Teehee♪",
@@ -629,7 +629,7 @@
             "path_id": -8640503440139412460,
             "block_id": 66,
             "clip_length": 147,
-            "processed": "󠁿Cause if you stay, you'll get to \n󠁿have me all to yourself tonight… Teehee♪"
+            "processed": "<story>Cause if you stay, you'll get to \n<story>have me all to yourself tonight… Teehee♪"
         },
         {
             "text": "Perhaps Curren Chan was toying with me again. \nOr maybe she was simply trying to make me call her cute again.",
@@ -637,7 +637,7 @@
             "path_id": -6253766322158797073,
             "block_id": 67,
             "clip_length": 125,
-            "processed": "󠁿Perhaps Curren Chan was toying with me again. \n󠁿Or maybe she was simply trying to make me call her cute again."
+            "processed": "<story>Perhaps Curren Chan was toying with me again. \n<story>Or maybe she was simply trying to make me call her cute again."
         },
         {
             "text": "Well regardless, I was finally able to see a bit \nof what makes Curren Chan sparkle… I think…",
@@ -645,7 +645,7 @@
             "path_id": -5846794544367038691,
             "block_id": 68,
             "clip_length": 106,
-            "processed": "󠁿Well regardless, I was finally able to see a bit \n󠁿of what makes Curren Chan sparkle… I think…"
+            "processed": "<story>Well regardless, I was finally able to see a bit \n<story>of what makes Curren Chan sparkle… I think…"
         }
     ],
     "title": "The Inevitability of Cuteness"

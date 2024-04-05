@@ -17,7 +17,7 @@
             "path_id": -8762439817035734825,
             "block_id": 1,
             "clip_length": 103,
-            "processed": "󠁿<i>Running is my way of praying…</i>"
+            "processed": "<story><i>Running is my way of praying…</i>"
         },
         {
             "text": "Hah… hah… haa. \nEgh… gekh.",
@@ -25,7 +25,7 @@
             "path_id": 5579796940260220000,
             "block_id": 2,
             "clip_length": 173,
-            "processed": "󠁿Hah… hah… haa. \n󠁿Egh… gekh."
+            "processed": "<story>Hah… hah… haa. \n<story>Egh… gekh."
         },
         {
             "text": "<i>I'm struggling to breathe. That I know. \nWhen that happens, I should… take deep breaths.</i>",
@@ -33,7 +33,7 @@
             "path_id": 3960194414808398829,
             "block_id": 3,
             "clip_length": 358,
-            "processed": "󠁿<i>I'm struggling to breathe. That I know. \n󠁿When that happens, I should… take deep breaths.</i>"
+            "processed": "<story><i>I'm struggling to breathe. That I know. \n<story>When that happens, I should… take deep breaths.</i>"
         },
         {
             "text": "……",
@@ -41,7 +41,7 @@
             "path_id": -3496428211806896576,
             "block_id": 4,
             "clip_length": 173,
-            "processed": "󠁿……"
+            "processed": "<story>……"
         },
         {
             "text": "<i>Pollux, a gently twinkling red star.</i> <i>It \nis one of the twenty-one first-magnitude stars \nwhich makes up the Winter Hexagon.</i>",
@@ -49,7 +49,7 @@
             "path_id": 4845125810735402704,
             "block_id": 5,
             "clip_length": 374,
-            "processed": "󠁿<i>Pollux, a gently twinkling red star.</i> <i>It \n󠁿is one of the twenty-one first-magnitude stars \n󠁿which makes up the Winter Hexagon.</i>"
+            "processed": "<story><i>Pollux, a gently twinkling red star.</i> <i>It \n<story>is one of the twenty-one first-magnitude stars \n<story>which makes up the Winter Hexagon.</i>"
         },
         {
             "text": "<i>I'm sure you're looking up \nat it too tonight… over there…</i>",
@@ -57,7 +57,7 @@
             "path_id": 1488485256277900704,
             "block_id": 6,
             "clip_length": 232,
-            "processed": "󠁿<i>I'm sure you're looking up \n󠁿at it too tonight… over there…</i>"
+            "processed": "<story><i>I'm sure you're looking up \n<story>at it too tonight… over there…</i>"
         },
         {
             "text": "I have to go…",
@@ -65,7 +65,7 @@
             "path_id": 2897632963432093876,
             "block_id": 7,
             "clip_length": 307,
-            "processed": "󠁿I have to go…"
+            "processed": "<story>I have to go…"
         },
         {
             "text": "<i>I pray. Instead of clasping my hands together, I \npray by kicking at the earth below me.</i> <i>I pray \nthat the brilliant and wonderful things present \nat the end of this path that I follow…</i>",
@@ -73,7 +73,7 @@
             "path_id": -2734839294862529527,
             "block_id": 8,
             "clip_length": 525,
-            "processed": "󠁿<i>I pray. Instead of clasping my hands together, I \n󠁿pray by kicking at the earth below me.</i> <i>I pray \n󠁿that the brilliant and wonderful things present \n󠁿at the end of this path that I follow…</i>"
+            "processed": "<story><i>I pray. Instead of clasping my hands together, I \n<story>pray by kicking at the earth below me.</i> <i>I pray \n<story>that the brilliant and wonderful things present \n<story>at the end of this path that I follow…</i>"
         },
         {
             "text": "<i>will someday reach you…</i>",
@@ -81,7 +81,7 @@
             "path_id": -5337779423351680586,
             "block_id": 9,
             "clip_length": 116,
-            "processed": "󠁿<i>will someday reach you…</i>"
+            "processed": "<story><i>will someday reach you…</i>"
         },
         {
             "text": "The \"Selection Race\" would soon be upon us, a race where \ntrainers can assess the abilities of up-and-coming Uma Musume.",
@@ -89,7 +89,7 @@
             "path_id": 3940256619406767533,
             "block_id": 10,
             "clip_length": 98,
-            "processed": "󠁿The \"Selection Race\" would soon be upon us, a race where \n󠁿trainers can assess the abilities of up-and-coming Uma Musume."
+            "processed": "<story>The \"Selection Race\" would soon be upon us, a race where \n<story>trainers can assess the abilities of up-and-coming Uma Musume."
         },
         {
             "text": "When I arrived at the racecourse I noticed numerous other \ntrainers there looking to observe the Uma Musume there today.",
@@ -103,7 +103,7 @@
                     "hash": "f314267a56f8b3ca870d38e46dbdf2b0b9af509332cf4ae85f5d297c94cc32f5"
                 }
             ],
-            "processed": "󠁿When I arrived at the racecourse I noticed numerous other \n󠁿trainers there looking to observe the Uma Musume there today."
+            "processed": "<story>When I arrived at the racecourse I noticed numerous other \n<story>trainers there looking to observe the Uma Musume there today."
         },
         {
             "text": "Woah! Her ability in the final stretch is amazing!",
@@ -111,7 +111,7 @@
             "path_id": -5057309061715869217,
             "block_id": 12,
             "clip_length": 138,
-            "processed": "󠁿Woah! Her ability in the final stretch is amazing!"
+            "processed": "<story>Woah! Her ability in the final stretch is amazing!"
         },
         {
             "text": "She's also quite adept at determining when she needs to spurt in \nthe final stretch. Admire Vega, as I watch your race I only grow \nmore and more excited about you.",
@@ -125,7 +125,7 @@
                     "hash": "5de93533efdb2ad26961069c3ffeff2417484217e954c5cbb3d2e59e8ad843c7"
                 }
             ],
-            "processed": "󠁿She's also quite adept at determining when she needs to spurt in \n󠁿the final stretch. Admire Vega, as I watch your race I only grow \n󠁿more and more excited about you."
+            "processed": "<story>She's also quite adept at determining when she needs to spurt in \n<story>the final stretch. Admire Vega, as I watch your race I only grow \n<story>more and more excited about you."
         },
         {
             "text": "I heard the name of one of the racers that I had been \ninterested in, so I hastily looked over towards the race course.",
@@ -133,7 +133,7 @@
             "path_id": -4700153381248325798,
             "block_id": 14,
             "clip_length": 106,
-            "processed": "󠁿I heard the name of one of the racers that I had been \n󠁿interested in, so I hastily looked over towards the race course."
+            "processed": "<story>I heard the name of one of the racers that I had been \n<story>interested in, so I hastily looked over towards the race course."
         },
         {
             "text": "Thank you for running with me!",
@@ -141,7 +141,7 @@
             "path_id": 2477689344329500043,
             "block_id": 15,
             "clip_length": 338,
-            "processed": "󠁿Thank you for running with me!"
+            "processed": "<story>Thank you for running with me!"
         },
         {
             "text": "Thank you as well. \nAre you done…?",
@@ -149,7 +149,7 @@
             "path_id": 3360158860273005263,
             "block_id": 16,
             "clip_length": 91,
-            "processed": "󠁿Thank you as well. \n󠁿Are you done…?"
+            "processed": "<story>Thank you as well. \n<story>Are you done…?"
         },
         {
             "text": "Y-Yes, I have a dinner arrangement with Urara-san \nand her friends. Umm, err, well… if you \nwant, you can come too, Ayabe-san.",
@@ -157,7 +157,7 @@
             "path_id": 5551314615313721149,
             "block_id": 17,
             "clip_length": 417,
-            "processed": "󠁿Y-Yes, I have a dinner arrangement with Urara-san \n󠁿and her friends. Umm, err, well… if you \n󠁿want, you can come too, Ayabe-san."
+            "processed": "<story>Y-Yes, I have a dinner arrangement with Urara-san \n<story>and her friends. Umm, err, well… if you \n<story>want, you can come too, Ayabe-san."
         },
         {
             "text": "No. I'm going to… run a bit longer.",
@@ -165,7 +165,7 @@
             "path_id": -3913683515416309337,
             "block_id": 18,
             "clip_length": 144,
-            "processed": "󠁿No. I'm going to… run a bit longer."
+            "processed": "<story>No. I'm going to… run a bit longer."
         },
         {
             "text": "Ah! Umm… Please don't push yourself too hard…!",
@@ -173,7 +173,7 @@
             "path_id": -1310217401303073665,
             "block_id": 19,
             "clip_length": 252,
-            "processed": "󠁿Ah! Umm… Please don't push yourself too hard…!"
+            "processed": "<story>Ah! Umm… Please don't push yourself too hard…!"
         },
         {
             "text": "Hah, haa, haaa―!",
@@ -181,7 +181,7 @@
             "path_id": 4148778626637417310,
             "block_id": 20,
             "clip_length": 81,
-            "processed": "󠁿Hah, haa, haaa―!"
+            "processed": "<story>Hah, haa, haaa―!"
         },
         {
             "text": "As more and more of the girls finished up their training, she \ncontinues to train stoically and alone, indifferently rejecting \nthe invitations of her friends.",
@@ -189,7 +189,7 @@
             "path_id": -6784879612034502623,
             "block_id": 21,
             "clip_length": 118,
-            "processed": "󠁿As more and more of the girls finished up their training, she \n󠁿continues to train stoically and alone, indifferently rejecting \n󠁿the invitations of her friends."
+            "processed": "<story>As more and more of the girls finished up their training, she \n<story>continues to train stoically and alone, indifferently rejecting \n<story>the invitations of her friends."
         },
         {
             "text": "Haaaah…!!",
@@ -209,7 +209,7 @@
                     "processed": "<size=36>As reported, she's \ngot amazing acceleration!</i></size>"
                 }
             ],
-            "processed": "󠁿Haaaah…!!"
+            "processed": "<story>Haaaah…!!"
         },
         {
             "text": "I could sense the talent that her legs \npossessed and it sent a shiver down my spine.",
@@ -217,7 +217,7 @@
             "path_id": -5890465681574065586,
             "block_id": 23,
             "clip_length": 77,
-            "processed": "󠁿I could sense the talent that her legs \n󠁿possessed and it sent a shiver down my spine."
+            "processed": "<story>I could sense the talent that her legs \n<story>possessed and it sent a shiver down my spine."
         },
         {
             "text": "Admire Vega: an Uma Musume with \namazing ability and incredible potential…",
@@ -235,7 +235,7 @@
                     "hash": "91959bad9a2fa02fcea70d0631d3c05675a6ef8ae28fd700fcafb23531113f67"
                 }
             ],
-            "processed": "󠁿Admire Vega: an Uma Musume with \n󠁿amazing ability and incredible potential…"
+            "processed": "<story>Admire Vega: an Uma Musume with \n<story>amazing ability and incredible potential…"
         },
         {
             "text": "Afterwards, I went back to my office and began doing research on \nAdmire Vega. I was so absorbed in my research that before I knew \nit it was the dead of night.",
@@ -243,7 +243,7 @@
             "path_id": -8414777346191921115,
             "block_id": 25,
             "clip_length": 125,
-            "processed": "󠁿Afterwards, I went back to my office and began doing research on \n󠁿Admire Vega. I was so absorbed in my research that before I knew \n󠁿it it was the dead of night."
+            "processed": "<story>Afterwards, I went back to my office and began doing research on \n<story>Admire Vega. I was so absorbed in my research that before I knew \n<story>it it was the dead of night."
         },
         {
             "text": "Guess it's time I headed back to the trainer's dormitories. As I \nstepped outside I noticed something…",
@@ -258,7 +258,7 @@
                     "processed": "<size=37>Hmm? A shadowy figure \non the racecourse?</size>"
                 }
             ],
-            "processed": "󠁿Guess it's time I headed back to the trainer's dormitories. As I \n󠁿stepped outside I noticed something…"
+            "processed": "<story>Guess it's time I headed back to the trainer's dormitories. As I \n<story>stepped outside I noticed something…"
         },
         {
             "text": "―Feeh. \n…Haa, haah…!",
@@ -276,7 +276,7 @@
                     "hash": "ef54b2ee0f75527141a7062e37fbf643a7161e11f9512c43443467cab8493b67"
                 }
             ],
-            "processed": "󠁿―Feeh. \n󠁿…Haa, haah…!"
+            "processed": "<story>―Feeh. \n<story>…Haa, haah…!"
         },
         {
             "text": "Alone, she continued to train at the racecourse. \nAs one might expect, she looked completely exhausted.",
@@ -284,7 +284,7 @@
             "path_id": -1398851540067197788,
             "block_id": 28,
             "clip_length": 110,
-            "processed": "󠁿Alone, she continued to train at the racecourse. \n󠁿As one might expect, she looked completely exhausted."
+            "processed": "<story>Alone, she continued to train at the racecourse. \n<story>As one might expect, she looked completely exhausted."
         },
         {
             "text": "I can't… give up… now…!",
@@ -292,7 +292,7 @@
             "path_id": -3003038536094084949,
             "block_id": 29,
             "clip_length": 114,
-            "processed": "󠁿I can't… give up… now…!"
+            "processed": "<story>I can't… give up… now…!"
         },
         {
             "text": "Without slowing her pace she \ncontinued to move her legs. It was like…",
@@ -306,7 +306,7 @@
                     "hash": "70bec7ae54203760eadbca80df8f4a75da86ea74175eab3fea6f88ca1fb9b1d6"
                 }
             ],
-            "processed": "󠁿Without slowing her pace she \n󠁿continued to move her legs. It was like…"
+            "processed": "<story>Without slowing her pace she \n<story>continued to move her legs. It was like…"
         },
         {
             "text": "Haah haaah… Ugh…",
@@ -314,7 +314,7 @@
             "path_id": -1893987857388033984,
             "block_id": 31,
             "clip_length": 171,
-            "processed": "󠁿Haah haaah… Ugh…"
+            "processed": "<story>Haah haaah… Ugh…"
         },
         {
             "text": "…………………………",
@@ -322,7 +322,7 @@
             "path_id": -7211201824326696518,
             "block_id": 32,
             "clip_length": 181,
-            "processed": "󠁿…………………………"
+            "processed": "<story>…………………………"
         },
         {
             "text": "All of a sudden she stopped, looking completely exhausted. In the \nsilence, where the echoes of her footsteps finally stopped she \nstood there, her eyes filled with the reflection of the stars.",
@@ -330,7 +330,7 @@
             "path_id": 6963431110264113672,
             "block_id": 33,
             "clip_length": 120,
-            "processed": "󠁿All of a sudden she stopped, looking completely exhausted. In the \n󠁿silence, where the echoes of her footsteps finally stopped she \n󠁿stood there, her eyes filled with the reflection of the stars."
+            "processed": "<story>All of a sudden she stopped, looking completely exhausted. In the \n<story>silence, where the echoes of her footsteps finally stopped she \n<story>stood there, her eyes filled with the reflection of the stars."
         },
         {
             "text": "The stars. Not only the stars, but the sky filled with said \nstars… As if overwhelmed by the sheer beauty of what she saw, \nshe stood there entranced…",
@@ -348,7 +348,7 @@
                     "hash": "a3b6aec0ab277b1196c195651cbaeff471ad35d092e83db23f777f81a54f6b05"
                 }
             ],
-            "processed": "󠁿The stars. Not only the stars, but the sky filled with said \n󠁿stars… As if overwhelmed by the sheer beauty of what she saw, \n󠁿she stood there entranced…"
+            "processed": "<story>The stars. Not only the stars, but the sky filled with said \n<story>stars… As if overwhelmed by the sheer beauty of what she saw, \n<story>she stood there entranced…"
         },
         {
             "text": "Eh?",
@@ -362,7 +362,7 @@
                     "hash": "e24f9eadaac2feb97fd3fb883a57a6f1e8052f6d5cd578220ba73a635f879700"
                 }
             ],
-            "processed": "󠁿Eh?"
+            "processed": "<story>Eh?"
         },
         {
             "text": "Even I was unsure why I responded in that manner…",
@@ -370,7 +370,7 @@
             "path_id": -987892434270100983,
             "block_id": 36,
             "clip_length": 82,
-            "processed": "󠁿Even I was unsure why I responded in that manner…"
+            "processed": "<story>Even I was unsure why I responded in that manner…"
         },
         {
             "text": "I'm fine… I do this all of the time.",
@@ -384,7 +384,7 @@
                     "hash": "b0f027ee6ce52b55df7def37190d3cc36e9c872147aeabaee92de590b5f9c1e7"
                 }
             ],
-            "processed": "󠁿I'm fine… I do this all of the time."
+            "processed": "<story>I'm fine… I do this all of the time."
         },
         {
             "text": "Usually.",
@@ -402,7 +402,7 @@
                     "hash": "90f78a8aea20819d660055d663b85ea1531988ea836f191b0407968c21bf9903"
                 }
             ],
-            "processed": "󠁿Usually."
+            "processed": "<story>Usually."
         },
         {
             "text": "No. This is necessary for me to win…",
@@ -410,7 +410,7 @@
             "path_id": 4270292209367850256,
             "block_id": 39,
             "clip_length": 165,
-            "processed": "󠁿No. This is necessary for me to win…"
+            "processed": "<story>No. This is necessary for me to win…"
         },
         {
             "text": "I win. I run, then win more. That is all.",
@@ -418,7 +418,7 @@
             "path_id": -7913175260575035666,
             "block_id": 40,
             "clip_length": 289,
-            "processed": "󠁿I win. I run, then win more. That is all."
+            "processed": "<story>I win. I run, then win more. That is all."
         },
         {
             "text": "If you'd like to discuss being my trainer, \nwait until after the Selection Race. Bye.",
@@ -426,7 +426,7 @@
             "path_id": -7624010224565240592,
             "block_id": 41,
             "clip_length": 222,
-            "processed": "󠁿If you'd like to discuss being my trainer, \n󠁿wait until after the Selection Race. Bye."
+            "processed": "<story>If you'd like to discuss being my trainer, \n<story>wait until after the Selection Race. Bye."
         },
         {
             "text": "At that moment, the lights used for night training \nsuddenly went out. Drowned in the starlight, as \nif melting into the night, she walked away.",
@@ -434,7 +434,7 @@
             "path_id": 2584514856819074450,
             "block_id": 42,
             "clip_length": 120,
-            "processed": "󠁿At that moment, the lights used for night training \n󠁿suddenly went out. Drowned in the starlight, as \n󠁿if melting into the night, she walked away."
+            "processed": "<story>At that moment, the lights used for night training \n<story>suddenly went out. Drowned in the starlight, as \n<story>if melting into the night, she walked away."
         },
         {
             "text": "As if driving herself into the ground, the great resolve \nthat Admire Vega carried would stay with me forever.",
@@ -442,7 +442,7 @@
             "path_id": -4079556337711115648,
             "block_id": 43,
             "clip_length": 120,
-            "processed": "󠁿As if driving herself into the ground, the great resolve \n󠁿that Admire Vega carried would stay with me forever."
+            "processed": "<story>As if driving herself into the ground, the great resolve \n<story>that Admire Vega carried would stay with me forever."
         }
     ],
     "title": "Shining Nova"

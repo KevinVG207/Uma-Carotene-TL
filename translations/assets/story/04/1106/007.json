@@ -17,7 +17,7 @@
             "path_id": 2922366667244161621,
             "block_id": 1,
             "clip_length": 135,
-            "processed": "󠁿Ah, a poster about the festival. And they've got fireworks too."
+            "processed": "<story>Ah, a poster about the festival. And they've got fireworks too."
         },
         {
             "text": "There's a rumor that if you head in to the mountains from \nhere, you can also find a place to see fireflies.",
@@ -25,7 +25,7 @@
             "path_id": 2829071468362770367,
             "block_id": 2,
             "clip_length": 197,
-            "processed": "󠁿There's a rumor that if you head in to the mountains from \n󠁿here, you can also find a place to see fireflies."
+            "processed": "<story>There's a rumor that if you head in to the mountains from \n<story>here, you can also find a place to see fireflies."
         },
         {
             "text": "I want to go but…… we're at training camp, \nso I want to concentrate on that. Even if training's \nover, I don't want to lose focus.",
@@ -33,7 +33,7 @@
             "path_id": -8499285285388777193,
             "block_id": 3,
             "clip_length": 287,
-            "processed": "󠁿I want to go but…… we're at training camp, \n󠁿so I want to concentrate on that. Even if training's \n󠁿over, I don't want to lose focus."
+            "processed": "<story>I want to go but…… we're at training camp, \n<story>so I want to concentrate on that. Even if training's \n<story>over, I don't want to lose focus."
         },
         {
             "text": "Right. There's only a little time \nleft at camp…… yeah, let's do our best!",
@@ -41,7 +41,7 @@
             "path_id": -4272038964880161924,
             "block_id": 4,
             "clip_length": 189,
-            "processed": "󠁿Right. There's only a little time \n󠁿left at camp…… yeah, let's do our best!"
+            "processed": "<story>Right. There's only a little time \n<story>left at camp…… yeah, let's do our best!"
         },
         {
             "text": "…………",
@@ -49,7 +49,7 @@
             "path_id": 110380554372042581,
             "block_id": 5,
             "clip_length": 49,
-            "processed": "󠁿…………"
+            "processed": "<story>…………"
         },
         {
             "text": "――And that's what happened. I want to go and have some fun but, \neveryone's working hard so it didn't feel right to ask them……",
@@ -63,7 +63,7 @@
                     "hash": "79a96505d07dc94b73326ebcbe49b85bfabd73994ffffe7f42f442d6e6d053dd"
                 }
             ],
-            "processed": "󠁿――And that's what happened. I want to go and have some fun but, \n󠁿everyone's working hard so it didn't feel right to ask them……"
+            "processed": "<story>――And that's what happened. I want to go and have some fun but, \n<story>everyone's working hard so it didn't feel right to ask them……"
         },
         {
             "text": "But, Trainer-san, aren't you really busy? Like, \npreparing for training, and how you're always with me――",
@@ -71,7 +71,7 @@
             "path_id": 8698884980624999021,
             "block_id": 7,
             "clip_length": 278,
-            "processed": "󠁿But, Trainer-san, aren't you really busy? Like, \n󠁿preparing for training, and how you're always with me――"
+            "processed": "<story>But, Trainer-san, aren't you really busy? Like, \n<story>preparing for training, and how you're always with me――"
         },
         {
             "text": "She felt apologetic so Hishi Miracle spoke in a small \nvoice. I told her that she didn't need to hold back.",
@@ -86,7 +86,7 @@
                     "processed": "<size=36>To think you'd be trying to be considerate……</size>"
                 }
             ],
-            "processed": "󠁿She felt apologetic so Hishi Miracle spoke in a small \n󠁿voice. I told her that she didn't need to hold back."
+            "processed": "<story>She felt apologetic so Hishi Miracle spoke in a small \n<story>voice. I told her that she didn't need to hold back."
         },
         {
             "text": "Wai- what do you mean by that!? \nUsually, I'm a considerate girl though!?",
@@ -104,7 +104,7 @@
                     "hash": "a5b43fe85a5e22cd48b1183854e34dd18728ccf7408ebf4fb0281341b16f55b8"
                 }
             ],
-            "processed": "󠁿Wai- what do you mean by that!? \n󠁿Usually, I'm a considerate girl though!?"
+            "processed": "<story>Wai- what do you mean by that!? \n<story>Usually, I'm a considerate girl though!?"
         },
         {
             "text": "Haaa. Whatever~. In that case, I won't hold \nback. I'll have Trainer-san accompany me.",
@@ -118,7 +118,7 @@
                     "hash": "4f8e7c780ca3fba785884cac348aab996e3034a9e54531aef6d27a800b44888a"
                 }
             ],
-            "processed": "󠁿Haaa. Whatever~. In that case, I won't hold \n󠁿back. I'll have Trainer-san accompany me."
+            "processed": "<story>Haaa. Whatever~. In that case, I won't hold \n<story>back. I'll have Trainer-san accompany me."
         },
         {
             "text": "Ah, but.",
@@ -126,7 +126,7 @@
             "path_id": 2960245484637358706,
             "block_id": 11,
             "clip_length": 68,
-            "processed": "󠁿Ah, but."
+            "processed": "<story>Ah, but."
         },
         {
             "text": "Well…… since we have the chance, rather than the festival…… \njust for today, do you want to try something special?",
@@ -134,7 +134,7 @@
             "path_id": -3766051893196008708,
             "block_id": 12,
             "clip_length": 266,
-            "processed": "󠁿Well…… since we have the chance, rather than the festival…… \n󠁿just for today, do you want to try something special?"
+            "processed": "<story>Well…… since we have the chance, rather than the festival…… \n<story>just for today, do you want to try something special?"
         },
         {
             "text": "Hmmmm~, they don't seem to be here, huh…… I \nguess the fireflies were just a rumor after all.",
@@ -149,7 +149,7 @@
                     "processed": "<size=42>We probably shouldn't go much further</size>"
                 }
             ],
-            "processed": "󠁿Hmmmm~, they don't seem to be here, huh…… I \n󠁿guess the fireflies were just a rumor after all."
+            "processed": "<story>Hmmmm~, they don't seem to be here, huh…… I \n<story>guess the fireflies were just a rumor after all."
         },
         {
             "text": "You're right. Sorry about that. I didn't even \nreally know the location and brought you along.",
@@ -157,7 +157,7 @@
             "path_id": 8027283880198850185,
             "block_id": 14,
             "clip_length": 172,
-            "processed": "󠁿You're right. Sorry about that. I didn't even \n󠁿really know the location and brought you along."
+            "processed": "<story>You're right. Sorry about that. I didn't even \n<story>really know the location and brought you along."
         },
         {
             "text": "(I just wanted to show them scenery that was \nout of the ordinary…… Is this what happens \nwhen you do something you're not used to~?)",
@@ -165,7 +165,7 @@
             "path_id": 5644563995904561301,
             "block_id": 15,
             "clip_length": 230,
-            "processed": "󠁿(I just wanted to show them scenery that was \n󠁿out of the ordinary…… Is this what happens \n󠁿when you do something you're not used to~?)"
+            "processed": "<story>(I just wanted to show them scenery that was \n<story>out of the ordinary…… Is this what happens \n<story>when you do something you're not used to~?)"
         },
         {
             "text": "Haaa, that's unfortunate. I thought \nit'd be a good way to show my gratitude.",
@@ -179,7 +179,7 @@
                     "hash": "2616948ea4bd8acc43fed0ff4110ae0552a1f8ed93842d5854211569c3b7bdc4"
                 }
             ],
-            "processed": "󠁿Haaa, that's unfortunate. I thought \n󠁿it'd be a good way to show my gratitude."
+            "processed": "<story>Haaa, that's unfortunate. I thought \n<story>it'd be a good way to show my gratitude."
         },
         {
             "text": "Ah…… did I say that out loud?",
@@ -187,7 +187,7 @@
             "path_id": 5560249702512377031,
             "block_id": 17,
             "clip_length": 95,
-            "processed": "󠁿Ah…… did I say that out loud?"
+            "processed": "<story>Ah…… did I say that out loud?"
         },
         {
             "text": "Uhh~~~……well, you see. It's just something \nthat I've been thinking about for a while now.",
@@ -195,7 +195,7 @@
             "path_id": -2251711959811470052,
             "block_id": 18,
             "clip_length": 198,
-            "processed": "󠁿Uhh~~~……well, you see. It's just something \n󠁿that I've been thinking about for a while now."
+            "processed": "<story>Uhh~~~……well, you see. It's just something \n<story>that I've been thinking about for a while now."
         },
         {
             "text": "See, Trainer-san, when it comes to races…… you \nalways have really high expectations for me, right?",
@@ -203,7 +203,7 @@
             "path_id": 8306556596325000843,
             "block_id": 19,
             "clip_length": 225,
-            "processed": "󠁿See, Trainer-san, when it comes to races…… you \n󠁿always have really high expectations for me, right?"
+            "processed": "<story>See, Trainer-san, when it comes to races…… you \n<story>always have really high expectations for me, right?"
         },
         {
             "text": "And, I just want to live up to those expectations, you \nsee. At least, that's what I've been thinking anyways……",
@@ -211,7 +211,7 @@
             "path_id": 6192771325939381428,
             "block_id": 20,
             "clip_length": 223,
-            "processed": "󠁿And, I just want to live up to those expectations, you \n󠁿see. At least, that's what I've been thinking anyways……"
+            "processed": "<story>And, I just want to live up to those expectations, you \n<story>see. At least, that's what I've been thinking anyways……"
         },
         {
             "text": "But if it's just this, I really wonder if it \nmatches up to Trainer-san's passion. That's \nwhat I've been thinking and it made me worry.",
@@ -219,7 +219,7 @@
             "path_id": 8384619823027073195,
             "block_id": 21,
             "clip_length": 242,
-            "processed": "󠁿But if it's just this, I really wonder if it \n󠁿matches up to Trainer-san's passion. That's \n󠁿what I've been thinking and it made me worry."
+            "processed": "<story>But if it's just this, I really wonder if it \n<story>matches up to Trainer-san's passion. That's \n<story>what I've been thinking and it made me worry."
         },
         {
             "text": "At the very least, with this I could repay \nthat favor a little bit…… is what I had hoped, \nbut as you can see, things didn't work out.",
@@ -233,7 +233,7 @@
                     "hash": "3439047abf74b3d356f90eb35e3e49eeba8dacf2c7d17b44de75ca8e8fbe546b"
                 }
             ],
-            "processed": "󠁿At the very least, with this I could repay \n󠁿that favor a little bit…… is what I had hoped, \n󠁿but as you can see, things didn't work out."
+            "processed": "<story>At the very least, with this I could repay \n<story>that favor a little bit…… is what I had hoped, \n<story>but as you can see, things didn't work out."
         },
         {
             "text": "Ahaha. Since it's Trainer-san, I figured you'd say that. \nFor my part, I haven't been thinking too deeply about it.",
@@ -241,7 +241,7 @@
             "path_id": -1913258883524067406,
             "block_id": 23,
             "clip_length": 297,
-            "processed": "󠁿Ahaha. Since it's Trainer-san, I figured you'd say that. \n󠁿For my part, I haven't been thinking too deeply about it."
+            "processed": "<story>Ahaha. Since it's Trainer-san, I figured you'd say that. \n<story>For my part, I haven't been thinking too deeply about it."
         },
         {
             "text": "The next time there's an opportunity, let me repay \nthe favor. It's fine if you don't think too \ndeeply and just think of it as a simple thanks.",
@@ -249,7 +249,7 @@
             "path_id": 5611424672076659463,
             "block_id": 24,
             "clip_length": 225,
-            "processed": "󠁿The next time there's an opportunity, let me repay \n󠁿the favor. It's fine if you don't think too \n󠁿deeply and just think of it as a simple thanks."
+            "processed": "<story>The next time there's an opportunity, let me repay \n<story>the favor. It's fine if you don't think too \n<story>deeply and just think of it as a simple thanks."
         },
         {
             "text": "(……But well, it is a bit unfortunate though.)",
@@ -257,7 +257,7 @@
             "path_id": 338472784436387678,
             "block_id": 25,
             "clip_length": 148,
-            "processed": "󠁿(……But well, it is a bit unfortunate though.)"
+            "processed": "<story>(……But well, it is a bit unfortunate though.)"
         },
         {
             "text": "(With how vast the sky is, it kind of feels \nspecial after all. If it all ended with us \nseeing fireflies I would have felt better too)",
@@ -265,7 +265,7 @@
             "path_id": -1578112012597422714,
             "block_id": 26,
             "clip_length": 276,
-            "processed": "󠁿(With how vast the sky is, it kind of feels \n󠁿special after all. If it all ended with us \n󠁿seeing fireflies I would have felt better too)"
+            "processed": "<story>(With how vast the sky is, it kind of feels \n<story>special after all. If it all ended with us \n<story>seeing fireflies I would have felt better too)"
         },
         {
             "text": "She didn't seem to be that depressed. ……But, it probably \nwasn't wrong to think she was a little disappointed.",
@@ -273,7 +273,7 @@
             "path_id": 1865190416795923217,
             "block_id": 27,
             "clip_length": 97,
-            "processed": "󠁿She didn't seem to be that depressed. ……But, it probably \n󠁿wasn't wrong to think she was a little disappointed."
+            "processed": "<story>She didn't seem to be that depressed. ……But, it probably \n<story>wasn't wrong to think she was a little disappointed."
         },
         {
             "text": "She really didn't need to thank me. Just \nhearing that she was trying to respond \nto my expectations was more than enough.",
@@ -287,7 +287,7 @@
                     "hash": "d704048703820f2ac205ed86760b82ef2cffcfaaec5263d1d16fcdb6068fce87"
                 }
             ],
-            "processed": "󠁿She really didn't need to thank me. Just \n󠁿hearing that she was trying to respond \n󠁿to my expectations was more than enough."
+            "processed": "<story>She really didn't need to thank me. Just \n<story>hearing that she was trying to respond \n<story>to my expectations was more than enough."
         },
         {
             "text": "Eh?",
@@ -302,7 +302,7 @@
                     "processed": "<size=43>Add more training time? Or maybe――</size>"
                 }
             ],
-            "processed": "󠁿Eh?"
+            "processed": "<story>Eh?"
         },
         {
             "text": "No no no! \nI said if there was another opportunity, didn't I!?",
@@ -310,7 +310,7 @@
             "path_id": 6819284802915597606,
             "block_id": 30,
             "clip_length": 150,
-            "processed": "󠁿No no no! \n󠁿I said if there was another opportunity, didn't I!?"
+            "processed": "<story>No no no! \n<story>I said if there was another opportunity, didn't I!?"
         },
         {
             "text": "Besides, would that even count as a thank you!? \nI'd do that anyways, if I needed to.",
@@ -318,7 +318,7 @@
             "path_id": 7368076347199468786,
             "block_id": 31,
             "clip_length": 192,
-            "processed": "󠁿Besides, would that even count as a thank you!? \n󠁿I'd do that anyways, if I needed to."
+            "processed": "<story>Besides, would that even count as a thank you!? \n<story>I'd do that anyways, if I needed to."
         },
         {
             "text": "Hishi Miracle let out a small laugh. \nIt seems like she understood that I was just joking.",
@@ -326,7 +326,7 @@
             "path_id": 1749943422894513387,
             "block_id": 32,
             "clip_length": 111,
-            "processed": "󠁿Hishi Miracle let out a small laugh. \n󠁿It seems like she understood that I was just joking."
+            "processed": "<story>Hishi Miracle let out a small laugh. \n<story>It seems like she understood that I was just joking."
         },
         {
             "text": "――She really didn't need to match up to my passion. \nBut, if she wants to run, and starts to want to win……",
@@ -334,7 +334,7 @@
             "path_id": -1549679578424786585,
             "block_id": 33,
             "clip_length": 103,
-            "processed": "󠁿――She really didn't need to match up to my passion. \n󠁿But, if she wants to run, and starts to want to win……"
+            "processed": "<story>――She really didn't need to match up to my passion. \n<story>But, if she wants to run, and starts to want to win……"
         },
         {
             "text": "If she wants to do her best to match those expectations, \nthen naturally, I'll support her.",
@@ -349,7 +349,7 @@
                     "processed": "<size=43>Wanna run all the way back to school?</size>"
                 }
             ],
-            "processed": "󠁿If she wants to do her best to match those expectations, \n󠁿then naturally, I'll support her."
+            "processed": "<story>If she wants to do her best to match those expectations, \n<story>then naturally, I'll support her."
         },
         {
             "text": "Wouldn't that mean you'd be coming with me, Trainer-san? \nI think it'd be rough, even with a bicycle though.",
@@ -357,7 +357,7 @@
             "path_id": 151866603099233199,
             "block_id": 35,
             "clip_length": 208,
-            "processed": "󠁿Wouldn't that mean you'd be coming with me, Trainer-san? \n󠁿I think it'd be rough, even with a bicycle though."
+            "processed": "<story>Wouldn't that mean you'd be coming with me, Trainer-san? \n<story>I think it'd be rough, even with a bicycle though."
         },
         {
             "text": "Geez, you're real quick to start fooling around. I did \nthink we were having a serious conversation, you know~?",
@@ -371,7 +371,7 @@
                     "hash": "4a95de29bcc5b305eecbfb09016357dd490a7701ba831cf6b638936b8dccc917"
                 }
             ],
-            "processed": "󠁿Geez, you're real quick to start fooling around. I did \n󠁿think we were having a serious conversation, you know~?"
+            "processed": "<story>Geez, you're real quick to start fooling around. I did \n<story>think we were having a serious conversation, you know~?"
         },
         {
             "text": "Hmm……",
@@ -385,7 +385,7 @@
                     "hash": "f4ba78e09e1d137a5f817cced1787f72c11ddebc425543aa5868c268e72584b8"
                 }
             ],
-            "processed": "󠁿Hmm……"
+            "processed": "<story>Hmm……"
         },
         {
             "text": "I-I wouldn't say that……",
@@ -399,7 +399,7 @@
                     "hash": "33d53bf3238ed026c6a81a91e16eb796ef72e523fcb431349b12d0d07ff5f817"
                 }
             ],
-            "processed": "󠁿I-I wouldn't say that……"
+            "processed": "<story>I-I wouldn't say that……"
         },
         {
             "text": "C'mon! That's an exaggeration! \nI sleep at night just fine!!",
@@ -413,7 +413,7 @@
                     "hash": "f10710fb635e6dd0c9d956acaf6d2d5a7a080488f635776ef927d291ff000993"
                 }
             ],
-            "processed": "󠁿C'mon! That's an exaggeration! \n󠁿I sleep at night just fine!!"
+            "processed": "<story>C'mon! That's an exaggeration! \n<story>I sleep at night just fine!!"
         },
         {
             "text": "Haa. Trainer-san you're not worried about this \nat all……the difference in passion. Doesn't \nit make me look like an idiot for worrying about it?",
@@ -421,7 +421,7 @@
             "path_id": 8323989828576396667,
             "block_id": 40,
             "clip_length": 344,
-            "processed": "󠁿Haa. Trainer-san you're not worried about this \n󠁿at all……the difference in passion. Doesn't \n󠁿it make me look like an idiot for worrying about it?"
+            "processed": "<story>Haa. Trainer-san you're not worried about this \n<story>at all……the difference in passion. Doesn't \n<story>it make me look like an idiot for worrying about it?"
         },
         {
             "text": "After letting out a deep breath and relaxing, \nHishi Miracle turned to me with a smile. Even \nif there is a difference, it's not a bad thing.",
@@ -429,7 +429,7 @@
             "path_id": 1992800462581205728,
             "block_id": 41,
             "clip_length": 112,
-            "processed": "󠁿After letting out a deep breath and relaxing, \n󠁿Hishi Miracle turned to me with a smile. Even \n󠁿if there is a difference, it's not a bad thing."
+            "processed": "<story>After letting out a deep breath and relaxing, \n<story>Hishi Miracle turned to me with a smile. Even \n<story>if there is a difference, it's not a bad thing."
         },
         {
             "text": "Compared to other trainers and their Uma Musume, it \nreally was a little different. But, even then――",
@@ -447,7 +447,7 @@
                     "hash": "777bdb94b4c6d00407bcc69e26ffe12db9f405620550cab6c8c7c85515ba8b28"
                 }
             ],
-            "processed": "󠁿Compared to other trainers and their Uma Musume, it \n󠁿really was a little different. But, even then――"
+            "processed": "<story>Compared to other trainers and their Uma Musume, it \n<story>really was a little different. But, even then――"
         },
         {
             "text": "――――",
@@ -455,7 +455,7 @@
             "path_id": -6802597596240290300,
             "block_id": 43,
             "clip_length": 117,
-            "processed": "󠁿――――"
+            "processed": "<story>――――"
         },
         {
             "text": "We can just do our best together. We don't \nneed to be that concerned. It's fine, we \ncan still move forward together.",
@@ -463,7 +463,7 @@
             "path_id": 6169016917300138157,
             "block_id": 44,
             "clip_length": 114,
-            "processed": "󠁿We can just do our best together. We don't \n󠁿need to be that concerned. It's fine, we \n󠁿can still move forward together."
+            "processed": "<story>We can just do our best together. We don't \n<story>need to be that concerned. It's fine, we \n<story>can still move forward together."
         },
         {
             "text": "……That's…… yeah. You're right.",
@@ -477,7 +477,7 @@
                     "hash": "56072903ca58f9af276db7c017b4b5405d8a60e333744f13558de0d9a55e4785"
                 }
             ],
-            "processed": "󠁿……That's…… yeah. You're right."
+            "processed": "<story>……That's…… yeah. You're right."
         },
         {
             "text": "Eh? What's this all of a sudden? \nWai- Trainer-san! It's way too dark over there――",
@@ -485,7 +485,7 @@
             "path_id": -9015110709797122757,
             "block_id": 46,
             "clip_length": 201,
-            "processed": "󠁿Eh? What's this all of a sudden? \n󠁿Wai- Trainer-san! It's way too dark over there――"
+            "processed": "<story>Eh? What's this all of a sudden? \n<story>Wai- Trainer-san! It's way too dark over there――"
         },
         {
             "text": "We only proceeded a little bit further. \nBut when we did, while looking up through the trees――",
@@ -493,7 +493,7 @@
             "path_id": -1675775381274322735,
             "block_id": 47,
             "clip_length": 90,
-            "processed": "󠁿We only proceeded a little bit further. \n󠁿But when we did, while looking up through the trees――"
+            "processed": "<story>We only proceeded a little bit further. \n<story>But when we did, while looking up through the trees――"
         },
         {
             "text": "Oh…… the stars, amazing…… they seem so close…… \neven though all we did was move to a different spot.",
@@ -507,7 +507,7 @@
                     "hash": "790ff74c109ac5cf3cf489428a2ada1221fa25514507546d04bcaafa0a3dd34e"
                 }
             ],
-            "processed": "󠁿Oh…… the stars, amazing…… they seem so close…… \n󠁿even though all we did was move to a different spot."
+            "processed": "<story>Oh…… the stars, amazing…… they seem so close…… \n<story>even though all we did was move to a different spot."
         },
         {
             "text": "……If I was alone, I would have missed it. I wouldn't \nhave been able to see well, and I'd be a little \nworried…… I don't think I would have made it here.",
@@ -515,7 +515,7 @@
             "path_id": -4214007483000077900,
             "block_id": 49,
             "clip_length": 411,
-            "processed": "󠁿……If I was alone, I would have missed it. I wouldn't \n󠁿have been able to see well, and I'd be a little \n󠁿worried…… I don't think I would have made it here."
+            "processed": "<story>……If I was alone, I would have missed it. I wouldn't \n<story>have been able to see well, and I'd be a little \n<story>worried…… I don't think I would have made it here."
         },
         {
             "text": "I thought…… once again, just like normal, the \nday would end without seeing the fireflies \nor without anything special happening.",
@@ -523,7 +523,7 @@
             "path_id": -6656281733903104925,
             "block_id": 50,
             "clip_length": 267,
-            "processed": "󠁿I thought…… once again, just like normal, the \n󠁿day would end without seeing the fireflies \n󠁿or without anything special happening."
+            "processed": "<story>I thought…… once again, just like normal, the \n<story>day would end without seeing the fireflies \n<story>or without anything special happening."
         },
         {
             "text": "…… But…… because of Trainer-san, \nI was able to experience something a little special.",
@@ -531,7 +531,7 @@
             "path_id": -1473766088464304212,
             "block_id": 51,
             "clip_length": 266,
-            "processed": "󠁿…… But…… because of Trainer-san, \n󠁿I was able to experience something a little special."
+            "processed": "<story>…… But…… because of Trainer-san, \n<story>I was able to experience something a little special."
         },
         {
             "text": "……Could this mean that something similar could happen again?",
@@ -539,7 +539,7 @@
             "path_id": -5234393395329120480,
             "block_id": 52,
             "clip_length": 178,
-            "processed": "󠁿……Could this mean that something similar could happen again?"
+            "processed": "<story>……Could this mean that something similar could happen again?"
         },
         {
             "text": "……Let's try to keep things within reason, okay? \nI'm used to being 『Normal』, after all. ……Otherwise――",
@@ -547,7 +547,7 @@
             "path_id": 3691879301587544170,
             "block_id": 53,
             "clip_length": 316,
-            "processed": "󠁿……Let's try to keep things within reason, okay? \n󠁿I'm used to being 『Normal』, after all. ……Otherwise――"
+            "processed": "<story>……Let's try to keep things within reason, okay? \n<story>I'm used to being 『Normal』, after all. ……Otherwise――"
         },
         {
             "text": "――I might get so surprised that I end up crying.",
@@ -555,7 +555,7 @@
             "path_id": 8384727381315278538,
             "block_id": 54,
             "clip_length": 95,
-            "processed": "󠁿――I might get so surprised that I end up crying."
+            "processed": "<story>――I might get so surprised that I end up crying."
         },
         {
             "text": "She said keeping things within reason―― but, \nin those eyes was eagerness. In that case, \nI couldn't help but want to respond to that.",
@@ -563,7 +563,7 @@
             "path_id": 47226690277503693,
             "block_id": 55,
             "clip_length": 110,
-            "processed": "󠁿She said keeping things within reason―― but, \n󠁿in those eyes was eagerness. In that case, \n󠁿I couldn't help but want to respond to that."
+            "processed": "<story>She said keeping things within reason―― but, \n<story>in those eyes was eagerness. In that case, \n<story>I couldn't help but want to respond to that."
         }
     ],
     "title": "You're A Remarkable Person"

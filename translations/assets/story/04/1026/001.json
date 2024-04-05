@@ -17,7 +17,7 @@
             "path_id": -3183674846948780726,
             "block_id": 1,
             "clip_length": 90,
-            "processed": "󠁿It's been a few days since I've become \n󠁿a trainer at Tracen Academy."
+            "processed": "<story>It's been a few days since I've become \n<story>a trainer at Tracen Academy."
         },
         {
             "text": "An error occurred. No applicable buildings \nfound at the target coordinates.",
@@ -25,7 +25,7 @@
             "path_id": -110588895963452470,
             "block_id": 2,
             "clip_length": 135,
-            "processed": "󠁿An error occurred. No applicable buildings \n󠁿found at the target coordinates."
+            "processed": "<story>An error occurred. No applicable buildings \n<story>found at the target coordinates."
         },
         {
             "text": "I spot a lone horse girl standing motionless \nas I walk through the downtown area.",
@@ -33,7 +33,7 @@
             "path_id": 1570390305001737597,
             "block_id": 3,
             "clip_length": 91,
-            "processed": "󠁿I spot a lone horse girl standing motionless \n󠁿as I walk through the downtown area."
+            "processed": "<story>I spot a lone horse girl standing motionless \n<story>as I walk through the downtown area."
         },
         {
             "text": "My device's GPS function also displays an error. \nReturning error code 404.",
@@ -51,7 +51,7 @@
                     "hash": "13ed1c21d4144a8ab184cc71179955fe327dfcb1630f2729035109f7ca85f138"
                 }
             ],
-            "processed": "󠁿My device's GPS function also displays an error. \n󠁿Returning error code 404."
+            "processed": "<story>My device's GPS function also displays an error. \n<story>Returning error code 404."
         },
         {
             "text": "That badge identifies you as a trainer from Tracen Academy. \nNice to meet you. My name is Mihono Bourbon.",
@@ -59,7 +59,7 @@
             "path_id": 2018057287337414201,
             "block_id": 5,
             "clip_length": 257,
-            "processed": "󠁿That badge identifies you as a trainer from Tracen Academy. \n󠁿Nice to meet you. My name is Mihono Bourbon."
+            "processed": "<story>That badge identifies you as a trainer from Tracen Academy. \n<story>Nice to meet you. My name is Mihono Bourbon."
         },
         {
             "text": "I am currently returning error code 404. \nThe newly opened training supplies store could not be found.",
@@ -67,7 +67,7 @@
             "path_id": 1958785806600039231,
             "block_id": 6,
             "clip_length": 260,
-            "processed": "󠁿I am currently returning error code 404. \n󠁿The newly opened training supplies store could not be found."
+            "processed": "<story>I am currently returning error code 404. \n<story>The newly opened training supplies store could not be found."
         },
         {
             "text": "I was told to continue along this street for about \n100 meters, so I did. But I cannot find the store here.",
@@ -75,7 +75,7 @@
             "path_id": -1912633058097791492,
             "block_id": 7,
             "clip_length": 272,
-            "processed": "󠁿I was told to continue along this street for about \n󠁿100 meters, so I did. But I cannot find the store here."
+            "processed": "<story>I was told to continue along this street for about \n<story>100 meters, so I did. But I cannot find the store here."
         },
         {
             "text": "Furthermore, my device is now giving me an error \nmaking it impossible to use the navigation software.",
@@ -83,7 +83,7 @@
             "path_id": -7055502045278439621,
             "block_id": 8,
             "clip_length": 163,
-            "processed": "󠁿Furthermore, my device is now giving me an error \n󠁿making it impossible to use the navigation software."
+            "processed": "<story>Furthermore, my device is now giving me an error \n<story>making it impossible to use the navigation software."
         },
         {
             "text": "I'm not familiar with the store, but I should be able \nto look it up on my phone for her.",
@@ -97,7 +97,7 @@
                     "hash": "acbd8b52cefe84f81dff182289a13e578a989e952f1911ccda1d7d110f2a4533"
                 }
             ],
-            "processed": "󠁿I'm not familiar with the store, but I should be able \n󠁿to look it up on my phone for her."
+            "processed": "<story>I'm not familiar with the store, but I should be able \n<story>to look it up on my phone for her."
         },
         {
             "text": "Much obliged.",
@@ -105,7 +105,7 @@
             "path_id": -4825990850853831541,
             "block_id": 10,
             "clip_length": 38,
-            "processed": "󠁿Much obliged."
+            "processed": "<story>Much obliged."
         },
         {
             "text": "It didn't take long before I found it. \nIt says it's about 42 meters from here. \nIn fact, looking closely in the distance, I think I see it.",
@@ -125,7 +125,7 @@
                     "processed": "<size=42>It's just a little further along the street.</size>"
                 }
             ],
-            "processed": "󠁿It didn't take long before I found it. \n󠁿It says it's about 42 meters from here. \n󠁿In fact, looking closely in the distance, I think I see it."
+            "processed": "<story>It didn't take long before I found it. \n<story>It says it's about 42 meters from here. \n<story>In fact, looking closely in the distance, I think I see it."
         },
         {
             "text": "Excuse me but... How far is 'a little?'",
@@ -139,7 +139,7 @@
                     "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
                 }
             ],
-            "processed": "󠁿Excuse me but... How far is 'a little?'"
+            "processed": "<story>Excuse me but... How far is 'a little?'"
         },
         {
             "text": "I need you to tell me the exact distance of 'a little'.",
@@ -153,7 +153,7 @@
                     "hash": "3671f93a7ba22106cf4821ee55e86b665104211e673ab07fe38eb5a9ddab8a6b"
                 }
             ],
-            "processed": "󠁿I need you to tell me the exact distance of 'a little'."
+            "processed": "<story>I need you to tell me the exact distance of 'a little'."
         },
         {
             "text": "Forty...ish?",
@@ -167,7 +167,7 @@
                     "hash": "3f927311c42de071d03c961954e5dbf3f3e15040d3911d9d00d83f65c3c59db8"
                 }
             ],
-            "processed": "󠁿Forty...ish?"
+            "processed": "<story>Forty...ish?"
         },
         {
             "text": "Input parsed. Thank you very much. 42 meters ahead. \nConfirming the discrepancy in the distance.",
@@ -175,7 +175,7 @@
             "path_id": -4071105900480212778,
             "block_id": 15,
             "clip_length": 342,
-            "processed": "󠁿Input parsed. Thank you very much. 42 meters ahead. \n󠁿Confirming the discrepancy in the distance."
+            "processed": "<story>Input parsed. Thank you very much. 42 meters ahead. \n<story>Confirming the discrepancy in the distance."
         },
         {
             "text": "This was an unexpected lapse in my own research. \nI have logged the error and will work to prevent this issue \nfrom occurring again in the future.",
@@ -183,7 +183,7 @@
             "path_id": -2035923442729394254,
             "block_id": 16,
             "clip_length": 232,
-            "processed": "󠁿This was an unexpected lapse in my own research. \n󠁿I have logged the error and will work to prevent this issue \n󠁿from occurring again in the future."
+            "processed": "<story>This was an unexpected lapse in my own research. \n<story>I have logged the error and will work to prevent this issue \n<story>from occurring again in the future."
         },
         {
             "text": "I once again offer you my thanks for your help.",
@@ -191,7 +191,7 @@
             "path_id": 2586670384710024208,
             "block_id": 17,
             "clip_length": 142,
-            "processed": "󠁿I once again offer you my thanks for your help."
+            "processed": "<story>I once again offer you my thanks for your help."
         },
         {
             "text": "Commencing operation: Moving 42 meters ahead.",
@@ -205,7 +205,7 @@
                     "hash": "85895a32764e245828b25cf0f8313c11c24a8ce078537ea894b530269d972af2"
                 }
             ],
-            "processed": "󠁿Commencing operation: Moving 42 meters ahead."
+            "processed": "<story>Commencing operation: Moving 42 meters ahead."
         },
         {
             "text": "I kept her in sight just in case, and she did indeed reach \nthe store. She stopped right in front of it and entered the door.",
@@ -213,7 +213,7 @@
             "path_id": 3507438442849697590,
             "block_id": 19,
             "clip_length": 108,
-            "processed": "󠁿I kept her in sight just in case, and she did indeed reach \n󠁿the store. She stopped right in front of it and entered the door."
+            "processed": "<story>I kept her in sight just in case, and she did indeed reach \n<story>the store. She stopped right in front of it and entered the door."
         },
         {
             "text": "It is the day after I met that peculiar horse girl. \nI went to see a mock race, looking for horse girls \nwanting to be scouted.",
@@ -221,7 +221,7 @@
             "path_id": -8287288985063701993,
             "block_id": 20,
             "clip_length": 115,
-            "processed": "󠁿It is the day after I met that peculiar horse girl. \n󠁿I went to see a mock race, looking for horse girls \n󠁿wanting to be scouted."
+            "processed": "<story>It is the day after I met that peculiar horse girl. \n<story>I went to see a mock race, looking for horse girls \n<story>wanting to be scouted."
         },
         {
             "text": "Mihono Bourbon is participating in this race. Didn't she have \ngreat results even before she entered the academy?",
@@ -229,7 +229,7 @@
             "path_id": -5562102169179410348,
             "block_id": 21,
             "clip_length": 197,
-            "processed": "󠁿Mihono Bourbon is participating in this race. Didn't she have \n󠁿great results even before she entered the academy?"
+            "processed": "<story>Mihono Bourbon is participating in this race. Didn't she have \n<story>great results even before she entered the academy?"
         },
         {
             "text": "She's a bit like a cyborg though. I've seen her on the grounds \nin person, but her personality's a bit strange...",
@@ -237,7 +237,7 @@
             "path_id": 4263348161975641800,
             "block_id": 22,
             "clip_length": 210,
-            "processed": "󠁿She's a bit like a cyborg though. I've seen her on the grounds \n󠁿in person, but her personality's a bit strange..."
+            "processed": "<story>She's a bit like a cyborg though. I've seen her on the grounds \n<story>in person, but her personality's a bit strange..."
         },
         {
             "text": "The stands are chock-full of other trainers looking to scout. \nWe're all looking to snag horse girls who show potential.",
@@ -245,7 +245,7 @@
             "path_id": 5363147630467091618,
             "block_id": 23,
             "clip_length": 121,
-            "processed": "󠁿The stands are chock-full of other trainers looking to scout. \n󠁿We're all looking to snag horse girls who show potential."
+            "processed": "<story>The stands are chock-full of other trainers looking to scout. \n<story>We're all looking to snag horse girls who show potential."
         },
         {
             "text": "*clang*",
@@ -253,7 +253,7 @@
             "path_id": -7146205236400005031,
             "block_id": 24,
             "clip_length": 52,
-            "processed": "󠁿*clang*"
+            "processed": "<story>*clang*"
         },
         {
             "text": "With that sound, the gates open. \nThe horse girls, all wearing jerseys, fly out at once.",
@@ -261,7 +261,7 @@
             "path_id": -2236343124135897878,
             "block_id": 25,
             "clip_length": 95,
-            "processed": "󠁿With that sound, the gates open. \n󠁿The horse girls, all wearing jerseys, fly out at once."
+            "processed": "<story>With that sound, the gates open. \n<story>The horse girls, all wearing jerseys, fly out at once."
         },
         {
             "text": "The leader's going strong!",
@@ -269,7 +269,7 @@
             "path_id": 5075469339116393419,
             "block_id": 26,
             "clip_length": 99,
-            "processed": "󠁿The leader's going strong!"
+            "processed": "<story>The leader's going strong!"
         },
         {
             "text": "One horse girl managed to break away from the pack \nright away. It was Mihono Bourbon. \nShe leads with quite the distance.",
@@ -277,7 +277,7 @@
             "path_id": 5432854181793903029,
             "block_id": 27,
             "clip_length": 108,
-            "processed": "󠁿One horse girl managed to break away from the pack \n󠁿right away. It was Mihono Bourbon. \n󠁿She leads with quite the distance."
+            "processed": "<story>One horse girl managed to break away from the pack \n<story>right away. It was Mihono Bourbon. \n<story>She leads with quite the distance."
         },
         {
             "text": "*huff huff*",
@@ -285,7 +285,7 @@
             "path_id": 5681211253256653989,
             "block_id": 28,
             "clip_length": 71,
-            "processed": "󠁿*huff huff*"
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "The rumors were right, her speed is truly fascinating. \nThe short distance racers are about to face \nan incredibly talented newcomer!",
@@ -293,7 +293,7 @@
             "path_id": 8886349171418670700,
             "block_id": 29,
             "clip_length": 259,
-            "processed": "󠁿The rumors were right, her speed is truly fascinating. \n󠁿The short distance racers are about to face \n󠁿an incredibly talented newcomer!"
+            "processed": "<story>The rumors were right, her speed is truly fascinating. \n<story>The short distance racers are about to face \n<story>an incredibly talented newcomer!"
         },
         {
             "text": "She impresses everyone as she speeds down the \nhome stretch with a huge lead over the rest.",
@@ -301,7 +301,7 @@
             "path_id": -5497749331307927264,
             "block_id": 30,
             "clip_length": 91,
-            "processed": "󠁿She impresses everyone as she speeds down the \n󠁿home stretch with a huge lead over the rest."
+            "processed": "<story>She impresses everyone as she speeds down the \n<story>home stretch with a huge lead over the rest."
         },
         {
             "text": "*huff huff* Hngh!",
@@ -309,7 +309,7 @@
             "path_id": 2922795302645145689,
             "block_id": 31,
             "clip_length": 101,
-            "processed": "󠁿*huff huff* Hngh!"
+            "processed": "<story>*huff huff* Hngh!"
         },
         {
             "text": "She easily takes first place by a landslide.",
@@ -327,7 +327,7 @@
                     "hash": "6b72e3610e3b80bed59162bff6acf6337250b2bd32d4cc50263b0b2370282a07"
                 }
             ],
-            "processed": "󠁿She easily takes first place by a landslide."
+            "processed": "<story>She easily takes first place by a landslide."
         },
         {
             "text": "When I met her downtown the other day, I never \nimagined she'd be so fast. Her ability stole my heart.",
@@ -335,7 +335,7 @@
             "path_id": -5844390878438721362,
             "block_id": 33,
             "clip_length": 118,
-            "processed": "󠁿When I met her downtown the other day, I never \n󠁿imagined she'd be so fast. Her ability stole my heart."
+            "processed": "<story>When I met her downtown the other day, I never \n<story>imagined she'd be so fast. Her ability stole my heart."
         },
         {
             "text": "She looks very promising! \nI've got to get her before anyone else!",
@@ -353,7 +353,7 @@
                     "hash": "24444341c3d2b96b4fec5dedad52513f906fe62988b3a45d6107dfc2aff0bc20"
                 }
             ],
-            "processed": "󠁿She looks very promising! \n󠁿I've got to get her before anyone else!"
+            "processed": "<story>She looks very promising! \n<story>I've got to get her before anyone else!"
         },
         {
             "text": "It's no use. It seems she already has a trainer.",
@@ -367,7 +367,7 @@
                     "hash": "08a44ccf16cbc9319a5978d9d3d237692eff225899a32c46675b354077277d8d"
                 }
             ],
-            "processed": "󠁿It's no use. It seems she already has a trainer."
+            "processed": "<story>It's no use. It seems she already has a trainer."
         },
         {
             "text": "And indeed, when I finally reached her, \nshe was talking to another trainer.",
@@ -381,7 +381,7 @@
                     "hash": "83b6a692c7c7ad5e519b46434d4d647233a6397dfa41440ad16efa5ee041dc5c"
                 }
             ],
-            "processed": "󠁿And indeed, when I finally reached her, \n󠁿she was talking to another trainer."
+            "processed": "<story>And indeed, when I finally reached her, \n<story>she was talking to another trainer."
         },
         {
             "text": "He's a veteran trainer apparently. A real hotshot. \n<i>Maaan</i>, I can't believe I've been outdone like that.",
@@ -389,7 +389,7 @@
             "path_id": 9163781016131698720,
             "block_id": 37,
             "clip_length": 192,
-            "processed": "󠁿He's a veteran trainer apparently. A real hotshot. \n󠁿<i>Maaan</i>, I can't believe I've been outdone like that."
+            "processed": "<story>He's a veteran trainer apparently. A real hotshot. \n<story><i>Maaan</i>, I can't believe I've been outdone like that."
         },
         {
             "text": "He said he sees great promise in pursuing \nshort distance races with her.",
@@ -397,7 +397,7 @@
             "path_id": -3423378473899198508,
             "block_id": 38,
             "clip_length": 174,
-            "processed": "󠁿He said he sees great promise in pursuing \n󠁿short distance races with her."
+            "processed": "<story>He said he sees great promise in pursuing \n<story>short distance races with her."
         },
         {
             "text": "If she's already found a trainer, then that's it for me. \nI guess I'll just secretly cheer her on from the sidelines \nfrom now on.",
@@ -405,7 +405,7 @@
             "path_id": 274001593929473918,
             "block_id": 39,
             "clip_length": 107,
-            "processed": "󠁿If she's already found a trainer, then that's it for me. \n󠁿I guess I'll just secretly cheer her on from the sidelines \n󠁿from now on."
+            "processed": "<story>If she's already found a trainer, then that's it for me. \n<story>I guess I'll just secretly cheer her on from the sidelines \n<story>from now on."
         },
         {
             "text": "It's evening and time to head home. I take a stroll \naround the school grounds when suddenly...",
@@ -413,7 +413,7 @@
             "path_id": -5118680158689698928,
             "block_id": 40,
             "clip_length": 85,
-            "processed": "󠁿It's evening and time to head home. I take a stroll \n󠁿around the school grounds when suddenly..."
+            "processed": "<story>It's evening and time to head home. I take a stroll \n<story>around the school grounds when suddenly..."
         },
         {
             "text": "*huff huff*",
@@ -427,7 +427,7 @@
                     "hash": "b058a9405be73e7c721ef27f545502d34c2c28389465a57cd71fa0ab06a9a3bb"
                 }
             ],
-            "processed": "󠁿*huff huff*"
+            "processed": "<story>*huff huff*"
         },
         {
             "text": "I spot Mihono Bourbon, who I suspect \nis doing some training by herself.",
@@ -435,7 +435,7 @@
             "path_id": -447116203379110508,
             "block_id": 42,
             "clip_length": 77,
-            "processed": "󠁿I spot Mihono Bourbon, who I suspect \n󠁿is doing some training by herself."
+            "processed": "<story>I spot Mihono Bourbon, who I suspect \n<story>is doing some training by herself."
         },
         {
             "text": "*huff huff* 1800 meters reached. 1200 meters remaining. \nTime elapsed: 2:04. Severely behind target pace.",
@@ -443,7 +443,7 @@
             "path_id": 7130393128977985556,
             "block_id": 43,
             "clip_length": 266,
-            "processed": "󠁿*huff huff* 1800 meters reached. 1200 meters remaining. \n󠁿Time elapsed: 2:04. Severely behind target pace."
+            "processed": "<story>*huff huff* 1800 meters reached. 1200 meters remaining. \n<story>Time elapsed: 2:04. Severely behind target pace."
         },
         {
             "text": "Is she timing herself? And, wait... \nDid I hear that right?",
@@ -457,7 +457,7 @@
                     "hash": "52af89c60f9fff54717df542ad060d5247064a9cf971e0d8f588a24a1a31e282"
                 }
             ],
-            "processed": "󠁿Is she timing herself? And, wait... \n󠁿Did I hear that right?"
+            "processed": "<story>Is she timing herself? And, wait... \n<story>Did I hear that right?"
         },
         {
             "text": "Normally you shouldn't let a horse girl \nrun this distance right after her debut. \nHer body isn't ready for it yet.",
@@ -465,7 +465,7 @@
             "path_id": -599748735688382723,
             "block_id": 45,
             "clip_length": 112,
-            "processed": "󠁿Normally you shouldn't let a horse girl \n󠁿run this distance right after her debut. \n󠁿Her body isn't ready for it yet."
+            "processed": "<story>Normally you shouldn't let a horse girl \n<story>run this distance right after her debut. \n<story>Her body isn't ready for it yet."
         },
         {
             "text": "Hng!",
@@ -473,7 +473,7 @@
             "path_id": -3555763644314727133,
             "block_id": 46,
             "clip_length": 55,
-            "processed": "󠁿Hng!"
+            "processed": "<story>Hng!"
         },
         {
             "text": "*pant pant*",
@@ -481,7 +481,7 @@
             "path_id": -5091012673985860751,
             "block_id": 47,
             "clip_length": 94,
-            "processed": "󠁿*pant pant*"
+            "processed": "<story>*pant pant*"
         },
         {
             "text": "Ugh...",
@@ -495,7 +495,7 @@
                     "hash": "41fa91dd7af96b2b0550866e59d8cc9e203ae26c64b4cada1a9b2e1b8269397d"
                 }
             ],
-            "processed": "󠁿Ugh..."
+            "processed": "<story>Ugh..."
         },
         {
             "text": "She just fell over! \nI hurry towards her.",
@@ -503,7 +503,7 @@
             "path_id": 7642043380533049783,
             "block_id": 49,
             "clip_length": 78,
-            "processed": "󠁿She just fell over! \n󠁿I hurry towards her."
+            "processed": "<story>She just fell over! \n<story>I hurry towards her."
         }
     ],
     "title": "A Cyborg's Secret"

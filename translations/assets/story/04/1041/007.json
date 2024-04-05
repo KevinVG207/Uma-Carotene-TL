@@ -17,7 +17,7 @@
             "path_id": -8528163017014182743,
             "block_id": 1,
             "clip_length": 73,
-            "processed": "󠁿On the last day of summer camp, at the seaside guesthouse…"
+            "processed": "<story>On the last day of summer camp, at the seaside guesthouse…"
         },
         {
             "text": "Ooh, another sunny day! \nHow wonderful! I feel my energy rising!",
@@ -25,7 +25,7 @@
             "path_id": -8867145387543226171,
             "block_id": 2,
             "clip_length": 203,
-            "processed": "󠁿Ooh, another sunny day! \n󠁿How wonderful! I feel my energy rising!"
+            "processed": "<story>Ooh, another sunny day! \n<story>How wonderful! I feel my energy rising!"
         },
         {
             "text": "There's no time to waste! On to training!",
@@ -33,7 +33,7 @@
             "path_id": 8576860884201162101,
             "block_id": 3,
             "clip_length": 101,
-            "processed": "󠁿There's no time to waste! On to training!"
+            "processed": "<story>There's no time to waste! On to training!"
         },
         {
             "text": "As role model, I must spend my time wisely!! \nNot a single second squandered!",
@@ -41,7 +41,7 @@
             "path_id": 8224526531091708455,
             "block_id": 4,
             "clip_length": 210,
-            "processed": "󠁿As role model, I must spend my time wisely!! \n󠁿Not a single second squandered!"
+            "processed": "<story>As role model, I must spend my time wisely!! \n<story>Not a single second squandered!"
         },
         {
             "text": "—Anyway, I can't wait for evening～♪ \nIt's been so long since I went to a festival. \nD'you think they'll sell candy apples?",
@@ -49,7 +49,7 @@
             "path_id": -4902939973620536329,
             "block_id": 5,
             "clip_length": 228,
-            "processed": "󠁿—Anyway, I can't wait for evening～♪ \n󠁿It's been so long since I went to a festival. \n󠁿D'you think they'll sell candy apples?"
+            "processed": "<story>—Anyway, I can't wait for evening～♪ \n<story>It's been so long since I went to a festival. \n<story>D'you think they'll sell candy apples?"
         },
         {
             "text": "Why wouldn't they? But I'm more of a candy plum kinda girl. \nYou know, the bite sized ones? They're so cute!",
@@ -57,7 +57,7 @@
             "path_id": -3919526216605393291,
             "block_id": 6,
             "clip_length": 211,
-            "processed": "󠁿Why wouldn't they? But I'm more of a candy plum kinda girl. \n󠁿You know, the bite sized ones? They're so cute!"
+            "processed": "<story>Why wouldn't they? But I'm more of a candy plum kinda girl. \n<story>You know, the bite sized ones? They're so cute!"
         },
         {
             "text": "… Hmm, a festival? \nYou mean there's a festival tonight?!",
@@ -72,7 +72,7 @@
                     "processed": "<size=43>Guess we'll check it out after training.</size>"
                 }
             ],
-            "processed": "󠁿… Hmm, a festival? \n󠁿You mean there's a festival tonight?!"
+            "processed": "<story>… Hmm, a festival? \n<story>You mean there's a festival tonight?!"
         },
         {
             "text": "That's what I was just about to say! \nHeheh, it's great that we're on the same page!",
@@ -80,7 +80,7 @@
             "path_id": -8748895171420930408,
             "block_id": 8,
             "clip_length": 217,
-            "processed": "󠁿That's what I was just about to say! \n󠁿Heheh, it's great that we're on the same page!"
+            "processed": "<story>That's what I was just about to say! \n<story>Heheh, it's great that we're on the same page!"
         },
         {
             "text": "To the festival it is then! \nI feel like training even more now!",
@@ -88,7 +88,7 @@
             "path_id": -7058037731669652512,
             "block_id": 9,
             "clip_length": 214,
-            "processed": "󠁿To the festival it is then! \n󠁿I feel like training even more now!"
+            "processed": "<story>To the festival it is then! \n<story>I feel like training even more now!"
         },
         {
             "text": "After finishing our training at the beach, it was time \nto head to the festival, as promised. However—",
@@ -96,7 +96,7 @@
             "path_id": -2527713606979647484,
             "block_id": 10,
             "clip_length": 95,
-            "processed": "󠁿After finishing our training at the beach, it was time \n󠁿to head to the festival, as promised. However—"
+            "processed": "<story>After finishing our training at the beach, it was time \n<story>to head to the festival, as promised. However—"
         },
         {
             "text": "(chatter chatter… murmur murmur…)",
@@ -104,7 +104,7 @@
             "path_id": -452585978499501471,
             "block_id": 11,
             "clip_length": 63,
-            "processed": "󠁿(chatter chatter… murmur murmur…)"
+            "processed": "<story>(chatter chatter… murmur murmur…)"
         },
         {
             "text": "Hey… are these all people going to the festival? \nYikes.",
@@ -112,7 +112,7 @@
             "path_id": -8577609682487907358,
             "block_id": 12,
             "clip_length": 148,
-            "processed": "󠁿Hey… are these all people going to the festival? \n󠁿Yikes."
+            "processed": "<story>Hey… are these all people going to the festival? \n<story>Yikes."
         },
         {
             "text": "Geez… the festival's gonna be real crowded. \nWe gotta stay close.",
@@ -120,7 +120,7 @@
             "path_id": -5033757267279923453,
             "block_id": 13,
             "clip_length": 187,
-            "processed": "󠁿Geez… the festival's gonna be real crowded. \n󠁿We gotta stay close."
+            "processed": "<story>Geez… the festival's gonna be real crowded. \n<story>We gotta stay close."
         },
         {
             "text": "Indeed, the festival would likely be even more crowded. \nI'm suddenly getting worried about losing Sakura Bakushin O……",
@@ -128,7 +128,7 @@
             "path_id": -7398105291137022540,
             "block_id": 14,
             "clip_length": 103,
-            "processed": "󠁿Indeed, the festival would likely be even more crowded. \n󠁿I'm suddenly getting worried about losing Sakura Bakushin O……"
+            "processed": "<story>Indeed, the festival would likely be even more crowded. \n<story>I'm suddenly getting worried about losing Sakura Bakushin O……"
         },
         {
             "text": "Thank you for waiting, trainer! I'm ready to go! \nLet's head straight for the festival then!",
@@ -142,7 +142,7 @@
                     "hash": "3e773659cf52d9fe1939e778ece4b3bf6b64dff93483c3638774ef118496f948"
                 }
             ],
-            "processed": "󠁿Thank you for waiting, trainer! I'm ready to go! \n󠁿Let's head straight for the festival then!"
+            "processed": "<story>Thank you for waiting, trainer! I'm ready to go! \n<story>Let's head straight for the festival then!"
         },
         {
             "text": "Yessir, what do I promise?",
@@ -162,7 +162,7 @@
                     "processed": "<size=38>Be careful and don't get separated, alright?</size>"
                 }
             ],
-            "processed": "󠁿Yessir, what do I promise?"
+            "processed": "<story>Yessir, what do I promise?"
         },
         {
             "text": "But of course! \nAs class president, I was intending to do just that!",
@@ -182,7 +182,7 @@
                     "processed": "<size=34>Should we do get separated, check your phone.</size>"
                 }
             ],
-            "processed": "󠁿But of course! \n󠁿As class president, I was intending to do just that!"
+            "processed": "<story>But of course! \n<story>As class president, I was intending to do just that!"
         },
         {
             "text": "Ooh, \"keep in touch\", as they say!! \nVery well, know you can rely on the class president!!",
@@ -200,7 +200,7 @@
                     "hash": "fd3cfbdc2ed6bdb375a5f9111c01f7b3272e2e7702cd53a9d1a87289ba1489cd"
                 }
             ],
-            "processed": "󠁿Ooh, \"keep in touch\", as they say!! \n󠁿Very well, know you can rely on the class president!!"
+            "processed": "<story>Ooh, \"keep in touch\", as they say!! \n<story>Very well, know you can rely on the class president!!"
         },
         {
             "text": "Yessir, of course!! \nIt's securely in my bag!",
@@ -208,7 +208,7 @@
             "path_id": -9176012003893282720,
             "block_id": 19,
             "clip_length": 112,
-            "processed": "󠁿Yessir, of course!! \n󠁿It's securely in my bag!"
+            "processed": "<story>Yessir, of course!! \n<story>It's securely in my bag!"
         },
         {
             "text": "… Aaaah!? It's in my bag! \nI compleeetely forgot about it!",
@@ -216,7 +216,7 @@
             "path_id": 5193800831694618274,
             "block_id": 20,
             "clip_length": 194,
-            "processed": "󠁿… Aaaah!? It's in my bag! \n󠁿I compleeetely forgot about it!"
+            "processed": "<story>… Aaaah!? It's in my bag! \n<story>I compleeetely forgot about it!"
         },
         {
             "text": "But don't you worry! I'll go get it from my room right away!",
@@ -224,7 +224,7 @@
             "path_id": 3333164186955574456,
             "block_id": 21,
             "clip_length": 112,
-            "processed": "󠁿But don't you worry! I'll go get it from my room right away!"
+            "processed": "<story>But don't you worry! I'll go get it from my room right away!"
         },
         {
             "text": "Now I'm really worried……",
@@ -232,7 +232,7 @@
             "path_id": 1056780513254280872,
             "block_id": 22,
             "clip_length": 72,
-            "processed": "󠁿Now I'm really worried……"
+            "processed": "<story>Now I'm really worried……"
         },
         {
             "text": "Oooooh!! Look at all these stalls! \nFood! Bon dancing!",
@@ -240,7 +240,7 @@
             "path_id": 5398620336185907974,
             "block_id": 23,
             "clip_length": 164,
-            "processed": "󠁿Oooooh!! Look at all these stalls! \n󠁿Food! Bon dancing!"
+            "processed": "<story>Oooooh!! Look at all these stalls! \n<story>Food! Bon dancing!"
         },
         {
             "text": "I remember going to festivals with my parents when I was little… \nThey praised me for doing so well at the shooting game \nand scooping goldfish.",
@@ -248,7 +248,7 @@
             "path_id": -8277489384446926076,
             "block_id": 24,
             "clip_length": 282,
-            "processed": "󠁿I remember going to festivals with my parents when I was little… \n󠁿They praised me for doing so well at the shooting game \n󠁿and scooping goldfish."
+            "processed": "<story>I remember going to festivals with my parents when I was little… \n<story>They praised me for doing so well at the shooting game \n<story>and scooping goldfish."
         },
         {
             "text": "I'm starting to reeaaally look forward to this!!",
@@ -256,7 +256,7 @@
             "path_id": -6065681055008148130,
             "block_id": 25,
             "clip_length": 116,
-            "processed": "󠁿I'm starting to reeaaally look forward to this!!"
+            "processed": "<story>I'm starting to reeaaally look forward to this!!"
         },
         {
             "text": "No time like the present! Let's go check out all the stalls! \nReady? Gooo—",
@@ -274,7 +274,7 @@
                     "hash": "de19c65a865eae8be9eaddedb272555e42e4174e0ac9aa380235a381e33932ba"
                 }
             ],
-            "processed": "󠁿No time like the present! Let's go check out all the stalls! \n󠁿Ready? Gooo—"
+            "processed": "<story>No time like the present! Let's go check out all the stalls! \n<story>Ready? Gooo—"
         },
         {
             "text": "—Bakushiiiiiiin!!!!",
@@ -288,7 +288,7 @@
                     "hash": "781604abd61a87b90b2c26f8e4ccf9ac537428e845fa0139575f6f1ae3c214fb"
                 }
             ],
-            "processed": "󠁿—Bakushiiiiiiin!!!!"
+            "processed": "<story>—Bakushiiiiiiin!!!!"
         },
         {
             "text": "I quickly reached for her, but it was too late. \nSakura Bakushin O disappeared full speed into the crowd……",
@@ -296,7 +296,7 @@
             "path_id": -1369339137035159998,
             "block_id": 28,
             "clip_length": 107,
-            "processed": "󠁿I quickly reached for her, but it was too late. \n󠁿Sakura Bakushin O disappeared full speed into the crowd……"
+            "processed": "<story>I quickly reached for her, but it was too late. \n<story>Sakura Bakushin O disappeared full speed into the crowd……"
         },
         {
             "text": "The festival grounds were jam-packed and \nSakura Bakushin O was nowhere to be found.",
@@ -304,7 +304,7 @@
             "path_id": -6777404075103372790,
             "block_id": 29,
             "clip_length": 89,
-            "processed": "󠁿The festival grounds were jam-packed and \n󠁿Sakura Bakushin O was nowhere to be found."
+            "processed": "<story>The festival grounds were jam-packed and \n<story>Sakura Bakushin O was nowhere to be found."
         },
         {
             "text": "I kept getting \"No signal\" trying to call her and my \nonly option left was to request an announce—",
@@ -312,7 +312,7 @@
             "path_id": 1353503436072217169,
             "block_id": 30,
             "clip_length": 106,
-            "processed": "󠁿I kept getting \"No signal\" trying to call her and my \n󠁿only option left was to request an announce—"
+            "processed": "<story>I kept getting \"No signal\" trying to call her and my \n<story>only option left was to request an announce—"
         },
         {
             "text": "Traaaiiiineeeeeeer!!!",
@@ -320,7 +320,7 @@
             "path_id": -5920917533283132333,
             "block_id": 31,
             "clip_length": 91,
-            "processed": "󠁿Traaaiiiineeeeeeer!!!"
+            "processed": "<story>Traaaiiiineeeeeeer!!!"
         },
         {
             "text": "Can you hear meeee, traineeeer!!? \nI'm right here, Sakura Bakushin O is right here!!",
@@ -328,7 +328,7 @@
             "path_id": -422420466405575156,
             "block_id": 32,
             "clip_length": 285,
-            "processed": "󠁿Can you hear meeee, traineeeer!!? \n󠁿I'm right here, Sakura Bakushin O is right here!!"
+            "processed": "<story>Can you hear meeee, traineeeer!!? \n<story>I'm right here, Sakura Bakushin O is right here!!"
         },
         {
             "text": "I heard Sakura Bakushin O's voice coming from the crowd…",
@@ -336,7 +336,7 @@
             "path_id": 3975361662598122256,
             "block_id": 33,
             "clip_length": 73,
-            "processed": "󠁿I heard Sakura Bakushin O's voice coming from the crowd…"
+            "processed": "<story>I heard Sakura Bakushin O's voice coming from the crowd…"
         },
         {
             "text": "Can you hear me? \nTrainer I… the screen is all black?!",
@@ -344,7 +344,7 @@
             "path_id": -8839031385375781739,
             "block_id": 34,
             "clip_length": 171,
-            "processed": "󠁿Can you hear me? \n󠁿Trainer I… the screen is all black?!"
+            "processed": "<story>Can you hear me? \n<story>Trainer I… the screen is all black?!"
         },
         {
             "text": "Traaaiineeeer, where are youuuuu!!!?? \nMy phone's screen has gone black!!!",
@@ -352,7 +352,7 @@
             "path_id": 3707401408192174994,
             "block_id": 35,
             "clip_length": 271,
-            "processed": "󠁿Traaaiineeeer, where are youuuuu!!!?? \n󠁿My phone's screen has gone black!!!"
+            "processed": "<story>Traaaiineeeer, where are youuuuu!!!?? \n<story>My phone's screen has gone black!!!"
         },
         {
             "text": "Her phone screen is black, she says… \nAnd mine hasn't made a peep. So…",
@@ -370,7 +370,7 @@
                     "hash": "0f0b27464e14aa96178639d9d1fbb0f76ea6dfb39f4f8762c487f2b6f4038cf4"
                 }
             ],
-            "processed": "󠁿Her phone screen is black, she says… \n󠁿And mine hasn't made a peep. So…"
+            "processed": "<story>Her phone screen is black, she says… \n<story>And mine hasn't made a peep. So…"
         },
         {
             "text": "Howha!? Come to think of it, the power is…… hmmmhhmhm!? \nTrainer! How nice to hear you!",
@@ -378,7 +378,7 @@
             "path_id": 3658138232332431991,
             "block_id": 37,
             "clip_length": 214,
-            "processed": "󠁿Howha!? Come to think of it, the power is…… hmmmhhmhm!? \n󠁿Trainer! How nice to hear you!"
+            "processed": "<story>Howha!? Come to think of it, the power is…… hmmmhhmhm!? \n<story>Trainer! How nice to hear you!"
         },
         {
             "text": "I'm so grateful you came to me!! \nI was afraid I'd never see you again!",
@@ -396,7 +396,7 @@
                     "hash": "90323a400c36ac910220403bd2a7ac15706c189259a88f9a92453ccc430a4088"
                 }
             ],
-            "processed": "󠁿I'm so grateful you came to me!! \n󠁿I was afraid I'd never see you again!"
+            "processed": "<story>I'm so grateful you came to me!! \n<story>I was afraid I'd never see you again!"
         },
         {
             "text": "Naturally!!!",
@@ -404,7 +404,7 @@
             "path_id": -4253045546160945994,
             "block_id": 39,
             "clip_length": 50,
-            "processed": "󠁿Naturally!!!"
+            "processed": "<story>Naturally!!!"
         },
         {
             "text": "I'm Sakura Bakushin O, the trusty class president! \nI never fail to keep my promises!!",
@@ -412,7 +412,7 @@
             "path_id": 1148598796465564434,
             "block_id": 40,
             "clip_length": 208,
-            "processed": "󠁿I'm Sakura Bakushin O, the trusty class president! \n󠁿I never fail to keep my promises!!"
+            "processed": "<story>I'm Sakura Bakushin O, the trusty class president! \n<story>I never fail to keep my promises!!"
         },
         {
             "text": "And I know your words are always correct and righteous, trainer!!",
@@ -420,7 +420,7 @@
             "path_id": 9022211992426984355,
             "block_id": 41,
             "clip_length": 197,
-            "processed": "󠁿And I know your words are always correct and righteous, trainer!!"
+            "processed": "<story>And I know your words are always correct and righteous, trainer!!"
         },
         {
             "text": "Indeed, they are just like me!!",
@@ -434,7 +434,7 @@
                     "hash": "e46cdc04f582f3feba6c5a657610148fe5e242ac7b2e0aab67bf91951c576946"
                 }
             ],
-            "processed": "󠁿Indeed, they are just like me!!"
+            "processed": "<story>Indeed, they are just like me!!"
         },
         {
             "text": "Absolutely!",
@@ -442,7 +442,7 @@
             "path_id": -3932139257824272726,
             "block_id": 43,
             "clip_length": 41,
-            "processed": "󠁿Absolutely!"
+            "processed": "<story>Absolutely!"
         },
         {
             "text": "I was worried that some trouble would \nbefall us in such a large crowd!",
@@ -450,7 +450,7 @@
             "path_id": 8114059454879711847,
             "block_id": 44,
             "clip_length": 154,
-            "processed": "󠁿I was worried that some trouble would \n󠁿befall us in such a large crowd!"
+            "processed": "<story>I was worried that some trouble would \n<story>befall us in such a large crowd!"
         },
         {
             "text": "But! We're both safe and uninjured!",
@@ -458,7 +458,7 @@
             "path_id": 6938003002435484794,
             "block_id": 45,
             "clip_length": 92,
-            "processed": "󠁿But! We're both safe and uninjured!"
+            "processed": "<story>But! We're both safe and uninjured!"
         },
         {
             "text": "You've found me, and I was able to let myself be found!",
@@ -466,7 +466,7 @@
             "path_id": 5023366001969007936,
             "block_id": 46,
             "clip_length": 170,
-            "processed": "󠁿You've found me, and I was able to let myself be found!"
+            "processed": "<story>You've found me, and I was able to let myself be found!"
         },
         {
             "text": "Truly a win-win relationship!! \nOne in which we'll continue to give it our all! Bakushin!!",
@@ -474,7 +474,7 @@
             "path_id": 5114871011423214027,
             "block_id": 47,
             "clip_length": 184,
-            "processed": "󠁿Truly a win-win relationship!! \n󠁿One in which we'll continue to give it our all! Bakushin!!"
+            "processed": "<story>Truly a win-win relationship!! \n<story>One in which we'll continue to give it our all! Bakushin!!"
         },
         {
             "text": "What exactly was win-win about this…? \nAmidst the festival music, I left my questions be and found myself \nsimply shaking Sakura Bakushin O's hand under the starry night sky.",
@@ -482,7 +482,7 @@
             "path_id": 7722974555256054808,
             "block_id": 48,
             "clip_length": 119,
-            "processed": "󠁿What exactly was win-win about this…? \n󠁿Amidst the festival music, I left my questions be and found myself \n󠁿simply shaking Sakura Bakushin O's hand under the starry night sky."
+            "processed": "<story>What exactly was win-win about this…? \n<story>Amidst the festival music, I left my questions be and found myself \n<story>simply shaking Sakura Bakushin O's hand under the starry night sky."
         }
     ],
     "title": "Bakushin! Summer Festival!"

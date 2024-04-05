@@ -17,7 +17,7 @@
             "path_id": 305029753433026295,
             "block_id": 1,
             "clip_length": 95,
-            "processed": "󠁿――It's my day off, and I don't have any plans. \n󠁿I'm lying comfortably in bed, when my phone suddenly rings."
+            "processed": "<story>――It's my day off, and I don't have any plans. \n<story>I'm lying comfortably in bed, when my phone suddenly rings."
         },
         {
             "text": "\"Hey, Trainer! You in your room right now?\"",
@@ -25,7 +25,7 @@
             "path_id": -9004782963826499128,
             "block_id": 2,
             "clip_length": 100,
-            "processed": "󠁿\"Hey, Trainer! You in your room right now?\""
+            "processed": "<story>\"Hey, Trainer! You in your room right now?\""
         },
         {
             "text": "\"Huh? Man, you shouldn't leave your door unlocked! \nWell, it means you're here!\"",
@@ -39,7 +39,7 @@
                     "hash": "69af9b8182d2a2f33ca7672ba395edffcb6fc43cfba622a5ddf66c2e768b9194"
                 }
             ],
-            "processed": "󠁿\"Huh? Man, you shouldn't leave your door unlocked! \n󠁿Well, it means you're here!\""
+            "processed": "<story>\"Huh? Man, you shouldn't leave your door unlocked! \n<story>Well, it means you're here!\""
         },
         {
             "text": "<i>Good morning!</i> It's time to set sail, Trainer!\nOf course you're up for it, right?",
@@ -53,7 +53,7 @@
                     "hash": "ea2aeeddcb148e04f36612009cff752608e9ead185326490eaa1a0ca079cb13d"
                 }
             ],
-            "processed": "󠁿<i>Good morning!</i> It's time to set sail, Trainer!\n󠁿Of course you're up for it, right?"
+            "processed": "<story><i>Good morning!</i> It's time to set sail, Trainer!\n<story>Of course you're up for it, right?"
         },
         {
             "text": "Hehe...! You'll see when we get there! \nDon't worry! I brought my adventure map and compass!",
@@ -61,7 +61,7 @@
             "path_id": 9005112487523445145,
             "block_id": 5,
             "clip_length": 283,
-            "processed": "󠁿Hehe...! You'll see when we get there! \n󠁿Don't worry! I brought my adventure map and compass!"
+            "processed": "<story>Hehe...! You'll see when we get there! \n<story>Don't worry! I brought my adventure map and compass!"
         },
         {
             "text": "――And that's how I was dragged out of my room on my day off... \nTurns out she wanted to go sightseeing together around the area, \nfrom tourist attractions to mysterious places.",
@@ -69,7 +69,7 @@
             "path_id": -7210421243257703618,
             "block_id": 6,
             "clip_length": 119,
-            "processed": "󠁿――And that's how I was dragged out of my room on my day off... \n󠁿Turns out she wanted to go sightseeing together around the area, \n󠁿from tourist attractions to mysterious places."
+            "processed": "<story>――And that's how I was dragged out of my room on my day off... \n<story>Turns out she wanted to go sightseeing together around the area, \n<story>from tourist attractions to mysterious places."
         },
         {
             "text": "Anything that invokes her sense of adventure seemed to qualify. \nAnd so, our journey began...",
@@ -77,7 +77,7 @@
             "path_id": 3659538827924432663,
             "block_id": 7,
             "clip_length": 110,
-            "processed": "󠁿Anything that invokes her sense of adventure seemed to qualify. \n󠁿And so, our journey began..."
+            "processed": "<story>Anything that invokes her sense of adventure seemed to qualify. \n<story>And so, our journey began..."
         },
         {
             "text": "This is our first stop. \nWhat do you think, Trainer?",
@@ -91,7 +91,7 @@
                     "hash": "655a41f8af98a127acd3c5ce1aba583675cd5a36bbe00e11108cba99ff647ad6"
                 }
             ],
-            "processed": "󠁿This is our first stop. \n󠁿What do you think, Trainer?"
+            "processed": "<story>This is our first stop. \n<story>What do you think, Trainer?"
         },
         {
             "text": "That's what you'd think, right? But apparently, there's a legend \nthat if you can skip a stone across this river for more than 10 hops, \none of your wishes will come true!",
@@ -99,7 +99,7 @@
             "path_id": -7354899799734533162,
             "block_id": 9,
             "clip_length": 309,
-            "processed": "󠁿That's what you'd think, right? But apparently, there's a legend \n󠁿that if you can skip a stone across this river for more than 10 hops, \n󠁿one of your wishes will come true!"
+            "processed": "<story>That's what you'd think, right? But apparently, there's a legend \n<story>that if you can skip a stone across this river for more than 10 hops, \n<story>one of your wishes will come true!"
         },
         {
             "text": "Of course, I wish to be a <i>billionaire!</i> \nWhat about you, Trainer?",
@@ -113,7 +113,7 @@
                     "hash": "dc55b9f5cb345ceab15a31f8993750e9d8a3118964b266f2ad226b5e63edf06f"
                 }
             ],
-            "processed": "󠁿Of course, I wish to be a <i>billionaire!</i> \n󠁿What about you, Trainer?"
+            "processed": "<story>Of course, I wish to be a <i>billionaire!</i> \n<story>What about you, Trainer?"
         },
         {
             "text": "Hmm... Not bad, but we're already working on that one right now. \nDon't you have any other wishes?",
@@ -121,7 +121,7 @@
             "path_id": -6599356210508873168,
             "block_id": 11,
             "clip_length": 275,
-            "processed": "󠁿Hmm... Not bad, but we're already working on that one right now. \n󠁿Don't you have any other wishes?"
+            "processed": "<story>Hmm... Not bad, but we're already working on that one right now. \n<story>Don't you have any other wishes?"
         },
         {
             "text": "Legend goes that any wish, no matter how big or small, \nwill be granted! So go ahead and shout out your biggest wish!",
@@ -136,7 +136,7 @@
                     "processed": "<size=31>Then... I wish for a lifetime supply of A5 wagyu beef!</size>"
                 }
             ],
-            "processed": "󠁿Legend goes that any wish, no matter how big or small, \n󠁿will be granted! So go ahead and shout out your biggest wish!"
+            "processed": "<story>Legend goes that any wish, no matter how big or small, \n<story>will be granted! So go ahead and shout out your biggest wish!"
         },
         {
             "text": "Nahaha! That's a big wish, alright! Perfect! \nNow let's get to it!",
@@ -144,7 +144,7 @@
             "path_id": 5797041332269820909,
             "block_id": 13,
             "clip_length": 246,
-            "processed": "󠁿Nahaha! That's a big wish, alright! Perfect! \n󠁿Now let's get to it!"
+            "processed": "<story>Nahaha! That's a big wish, alright! Perfect! \n<story>Now let's get to it!"
         },
         {
             "text": "We ended up spending some time skipping stones together. \nA while later, she took me to...",
@@ -152,7 +152,7 @@
             "path_id": -7882636011288137222,
             "block_id": 14,
             "clip_length": 73,
-            "processed": "󠁿We ended up spending some time skipping stones together. \n󠁿A while later, she took me to..."
+            "processed": "<story>We ended up spending some time skipping stones together. \n<story>A while later, she took me to..."
         },
         {
             "text": "\"Topped with everything an Umamusume's heart desires: \n<b>Chomolungma Ramen</b>.\" Yep, I'll have that one!",
@@ -160,7 +160,7 @@
             "path_id": -553262424877338302,
             "block_id": 15,
             "clip_length": 204,
-            "processed": "󠁿\"Topped with everything an Umamusume's heart desires: \n󠁿<b>Chomolungma Ramen</b>.\" Yep, I'll have that one!"
+            "processed": "<story>\"Topped with everything an Umamusume's heart desires: \n<story><b>Chomolungma Ramen</b>.\" Yep, I'll have that one!"
         },
         {
             "text": "A Linear Electromagnetic Induction Accelerator Launched Coaster?! \nDunno what any of that means. Guess we'll have to ride it to find out!",
@@ -168,7 +168,7 @@
             "path_id": -8418329174166060919,
             "block_id": 16,
             "clip_length": 291,
-            "processed": "󠁿A Linear Electromagnetic Induction Accelerator Launched Coaster?! \n󠁿Dunno what any of that means. Guess we'll have to ride it to find out!"
+            "processed": "<story>A Linear Electromagnetic Induction Accelerator Launched Coaster?! \n<story>Dunno what any of that means. Guess we'll have to ride it to find out!"
         },
         {
             "text": "And so, our journey to anything and everything \nadventurous continued――",
@@ -176,7 +176,7 @@
             "path_id": -6659942721781721045,
             "block_id": 17,
             "clip_length": 78,
-            "processed": "󠁿And so, our journey to anything and everything \n󠁿adventurous continued――"
+            "processed": "<story>And so, our journey to anything and everything \n<story>adventurous continued――"
         },
         {
             "text": "We've arrived at the final destination of today's journey.",
@@ -184,7 +184,7 @@
             "path_id": -3381386075129627586,
             "block_id": 18,
             "clip_length": 171,
-            "processed": "󠁿We've arrived at the final destination of today's journey."
+            "processed": "<story>We've arrived at the final destination of today's journey."
         },
         {
             "text": "I heard this is the habitat of the well-known cryptid: \nThe <i>Manzanebbogefutamatagancho!</i>",
@@ -198,7 +198,7 @@
                     "hash": "bf940118eb697a6b67af3351d73a2351e21ba25e039204275af4e453a87c0919"
                 }
             ],
-            "processed": "󠁿I heard this is the habitat of the well-known cryptid: \n󠁿The <i>Manzanebbogefutamatagancho!</i>"
+            "processed": "<story>I heard this is the habitat of the well-known cryptid: \n<story>The <i>Manzanebbogefutamatagancho!</i>"
         },
         {
             "text": "Well, I don't know the details. \nBut... Apparently it looks like a slime, and can talk...",
@@ -212,7 +212,7 @@
                     "hash": "1bc3bed5fde34218011175362cc90217d3b5a60e906b0600a1034a1c6710d72a"
                 }
             ],
-            "processed": "󠁿Well, I don't know the details. \n󠁿But... Apparently it looks like a slime, and can talk..."
+            "processed": "<story>Well, I don't know the details. \n<story>But... Apparently it looks like a slime, and can talk..."
         },
         {
             "text": "Hey, don't say that! Sure, it might be a case of \nmistaken identity or a hoax...",
@@ -220,7 +220,7 @@
             "path_id": 2355292279328544045,
             "block_id": 21,
             "clip_length": 253,
-            "processed": "󠁿Hey, don't say that! Sure, it might be a case of \n󠁿mistaken identity or a hoax..."
+            "processed": "<story>Hey, don't say that! Sure, it might be a case of \n<story>mistaken identity or a hoax..."
         },
         {
             "text": "But I don't care if it's real or fake. \nI want to pursue my curiosity! I seek the smell of adventure!",
@@ -234,7 +234,7 @@
                     "hash": "5d812084f9be48194ca4cbb07f52c0f637f62aecc86de263d1ba1f40a7bdcfb6"
                 }
             ],
-            "processed": "󠁿But I don't care if it's real or fake. \n󠁿I want to pursue my curiosity! I seek the smell of adventure!"
+            "processed": "<story>But I don't care if it's real or fake. \n<story>I want to pursue my curiosity! I seek the smell of adventure!"
         },
         {
             "text": "As the captain of this ship, I'll assure you there'll be <i>no problems!</i> \nNow, let us lift the anchor of our curiosity!",
@@ -242,7 +242,7 @@
             "path_id": 7781841736713156657,
             "block_id": 23,
             "clip_length": 227,
-            "processed": "󠁿As the captain of this ship, I'll assure you there'll be <i>no problems!</i> \n󠁿Now, let us lift the anchor of our curiosity!"
+            "processed": "<story>As the captain of this ship, I'll assure you there'll be <i>no problems!</i> \n<story>Now, let us lift the anchor of our curiosity!"
         },
         {
             "text": "... Hmm? Wait a minute, Trainer!",
@@ -250,7 +250,7 @@
             "path_id": -5882001034331013413,
             "block_id": 24,
             "clip_length": 113,
-            "processed": "󠁿... Hmm? Wait a minute, Trainer!"
+            "processed": "<story>... Hmm? Wait a minute, Trainer!"
         },
         {
             "text": "That sound... You heard it too, right? \nCould it be... the <i>Manzanebbogefutamatagancho</i>?!",
@@ -258,7 +258,7 @@
             "path_id": 2891666162292795941,
             "block_id": 25,
             "clip_length": 247,
-            "processed": "󠁿That sound... You heard it too, right? \n󠁿Could it be... the <i>Manzanebbogefutamatagancho</i>?!"
+            "processed": "<story>That sound... You heard it too, right? \n<story>Could it be... the <i>Manzanebbogefutamatagancho</i>?!"
         },
         {
             "text": "Her eyes lit up, and she peered into the bushes. \nThen, her expression suddenly froze.",
@@ -266,7 +266,7 @@
             "path_id": 524730477979761526,
             "block_id": 26,
             "clip_length": 106,
-            "processed": "󠁿Her eyes lit up, and she peered into the bushes. \n󠁿Then, her expression suddenly froze."
+            "processed": "<story>Her eyes lit up, and she peered into the bushes. \n<story>Then, her expression suddenly froze."
         },
         {
             "text": "Uh-oh... This is... \nImma just... slowly back away...",
@@ -284,7 +284,7 @@
                     "hash": "fadbc5d0d897940ffcf2111dde60d5c2fa8162910ed987a226e91f1f64754fe9"
                 }
             ],
-            "processed": "󠁿Uh-oh... This is... \n󠁿Imma just... slowly back away..."
+            "processed": "<story>Uh-oh... This is... \n<story>Imma just... slowly back away..."
         },
         {
             "text": "Well, something that's a bit of a problem... \nListen... I need you to stay calm...",
@@ -292,7 +292,7 @@
             "path_id": -1040985614527509230,
             "block_id": 28,
             "clip_length": 226,
-            "processed": "󠁿Well, something that's a bit of a problem... \n󠁿Listen... I need you to stay calm..."
+            "processed": "<story>Well, something that's a bit of a problem... \n<story>Listen... I need you to stay calm..."
         },
         {
             "text": "It's a wild boar!!",
@@ -300,7 +300,7 @@
             "path_id": -1908692617127518119,
             "block_id": 29,
             "clip_length": 45,
-            "processed": "󠁿It's a wild boar!!"
+            "processed": "<story>It's a wild boar!!"
         },
         {
             "text": "<i>SQUEAL!</i>",
@@ -308,7 +308,7 @@
             "path_id": 3976825358125532986,
             "block_id": 30,
             "clip_length": 55,
-            "processed": "󠁿<i>SQUEAL!</i>"
+            "processed": "<story><i>SQUEAL!</i>"
         },
         {
             "text": "Ack...! Make a run for it, Trainer!",
@@ -316,7 +316,7 @@
             "path_id": 302262038122962099,
             "block_id": 31,
             "clip_length": 78,
-            "processed": "󠁿Ack...! Make a run for it, Trainer!"
+            "processed": "<story>Ack...! Make a run for it, Trainer!"
         },
         {
             "text": "<i>Shit!</i> It's faster than us on this rough terrain! \nWhat now...?!",
@@ -330,7 +330,7 @@
                     "hash": "5b94351d0895a5a2a70181be10326c56534cfd1c0a63e0a560255d9ced50643f"
                 }
             ],
-            "processed": "󠁿<i>Shit!</i> It's faster than us on this rough terrain! \n󠁿What now...?!"
+            "processed": "<story><i>Shit!</i> It's faster than us on this rough terrain! \n<story>What now...?!"
         },
         {
             "text": "Ah! You're right! That's a great idea!",
@@ -338,7 +338,7 @@
             "path_id": -3424315311549144611,
             "block_id": 33,
             "clip_length": 98,
-            "processed": "󠁿Ah! You're right! That's a great idea!"
+            "processed": "<story>Ah! You're right! That's a great idea!"
         },
         {
             "text": "She quickly leaps up to a tree branch and climbs up. \nAt least <i>she</i> is safe now...",
@@ -346,7 +346,7 @@
             "path_id": -6743479949916984010,
             "block_id": 34,
             "clip_length": 101,
-            "processed": "󠁿She quickly leaps up to a tree branch and climbs up. \n󠁿At least <i>she</i> is safe now..."
+            "processed": "<story>She quickly leaps up to a tree branch and climbs up. \n<story>At least <i>she</i> is safe now..."
         },
         {
             "text": "Me, on the other hand... I'm just a human, \nand my strength isn't really something to write home about...!",
@@ -354,7 +354,7 @@
             "path_id": -6204837029616071947,
             "block_id": 35,
             "clip_length": 76,
-            "processed": "󠁿Me, on the other hand... I'm just a human, \n󠁿and my strength isn't really something to write home about...!"
+            "processed": "<story>Me, on the other hand... I'm just a human, \n<story>and my strength isn't really something to write home about...!"
         },
         {
             "text": "<i>ROAR!!!</i>",
@@ -368,7 +368,7 @@
                     "hash": "1ffba09656154283d387e08895c8ea256d3b43e950b5da451e9f926b67ce818e"
                 }
             ],
-            "processed": "󠁿<i>ROAR!!!</i>"
+            "processed": "<story><i>ROAR!!!</i>"
         },
         {
             "text": "Grab on, Trainer!",
@@ -376,7 +376,7 @@
             "path_id": 2384061998071928832,
             "block_id": 37,
             "clip_length": 63,
-            "processed": "󠁿Grab on, Trainer!"
+            "processed": "<story>Grab on, Trainer!"
         },
         {
             "text": "I was pulled up by Tap Dance City, and the boar misses me by a hair. \nShe jumps from tree to tree, while holding onto me. \nIn the end, we manage to escape safely.",
@@ -384,7 +384,7 @@
             "path_id": -1677620924446328208,
             "block_id": 38,
             "clip_length": 111,
-            "processed": "󠁿I was pulled up by Tap Dance City, and the boar misses me by a hair. \n󠁿She jumps from tree to tree, while holding onto me. \n󠁿In the end, we manage to escape safely."
+            "processed": "<story>I was pulled up by Tap Dance City, and the boar misses me by a hair. \n<story>She jumps from tree to tree, while holding onto me. \n<story>In the end, we manage to escape safely."
         },
         {
             "text": "Phew! I think we're safe over here... \nAre you alright, Trainer?",
@@ -398,7 +398,7 @@
                     "hash": "4c71ad3a187ad5e655cfb98e334c32c44a5733c74eccd4721c7fa2eb7975a393"
                 }
             ],
-            "processed": "󠁿Phew! I think we're safe over here... \n󠁿Are you alright, Trainer?"
+            "processed": "<story>Phew! I think we're safe over here... \n<story>Are you alright, Trainer?"
         },
         {
             "text": "But damn, that was <i>very very exciting!</i> \nBut I'm glad we made it out there in one piece!",
@@ -406,7 +406,7 @@
             "path_id": -4239562685053508016,
             "block_id": 40,
             "clip_length": 305,
-            "processed": "󠁿But damn, that was <i>very very exciting!</i> \n󠁿But I'm glad we made it out there in one piece!"
+            "processed": "<story>But damn, that was <i>very very exciting!</i> \n<story>But I'm glad we made it out there in one piece!"
         },
         {
             "text": "You, who gave important advice in a time of crisis, \nand me, the captain who protected her crew... \nWe made it work with our combined strengths!",
@@ -424,7 +424,7 @@
                     "hash": "f27c133d72a8b8070414ee52784a09c645f406068447139383d275fec6b4b081"
                 }
             ],
-            "processed": "󠁿You, who gave important advice in a time of crisis, \n󠁿and me, the captain who protected her crew... \n󠁿We made it work with our combined strengths!"
+            "processed": "<story>You, who gave important advice in a time of crisis, \n<story>and me, the captain who protected her crew... \n<story>We made it work with our combined strengths!"
         },
         {
             "text": "Yeah, you're right. \nI'm not a fan of getting chased by wild boars either.",
@@ -432,7 +432,7 @@
             "path_id": 1115552129874984881,
             "block_id": 42,
             "clip_length": 190,
-            "processed": "󠁿Yeah, you're right. \n󠁿I'm not a fan of getting chased by wild boars either."
+            "processed": "<story>Yeah, you're right. \n<story>I'm not a fan of getting chased by wild boars either."
         },
         {
             "text": "Pfft. Ahahahaha!",
@@ -440,7 +440,7 @@
             "path_id": -5000808573481129160,
             "block_id": 43,
             "clip_length": 211,
-            "processed": "󠁿Pfft. Ahahahaha!"
+            "processed": "<story>Pfft. Ahahahaha!"
         },
         {
             "text": "But man, I sure had a lot of fun today! I really did! \nYou know, I realized it again today...",
@@ -448,7 +448,7 @@
             "path_id": -479014967542503025,
             "block_id": 44,
             "clip_length": 314,
-            "processed": "󠁿But man, I sure had a lot of fun today! I really did! \n󠁿You know, I realized it again today..."
+            "processed": "<story>But man, I sure had a lot of fun today! I really did! \n<story>You know, I realized it again today..."
         },
         {
             "text": "That you're the best crewmate I could ever ask for!",
@@ -456,7 +456,7 @@
             "path_id": -337457562203674973,
             "block_id": 45,
             "clip_length": 111,
-            "processed": "󠁿That you're the best crewmate I could ever ask for!"
+            "processed": "<story>That you're the best crewmate I could ever ask for!"
         }
     ],
     "title": ""

@@ -196,7 +196,7 @@ def _fix_story(story_data):
         # Add story tags
         if block.get('text'):
             tmp_text = block['text']
-            tmp_text = '󠁿' + tmp_text.replace("\n", "\n󠁿")
+            tmp_text = '<story>' + tmp_text.replace("\n", "\n<story>")
             block['processed'] = tmp_text
 
         # Process name
