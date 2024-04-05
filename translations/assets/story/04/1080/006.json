@@ -1,0 +1,540 @@
+{
+    "type": "story",
+    "row_index": 225032,
+    "file_name": "story/data/04/1080/storytimeline_041080006",
+    "hash": "75GZPXQAIEKPF2SJBKQDGL5G7XJ4OCBK",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -7530531687590129077,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "It's afternoon on a Saturday. I'm on my way \nback to the station after running an errand.",
+            "name": "",
+            "path_id": -3145031874254662522,
+            "block_id": 1,
+            "clip_length": 81,
+            "processed": "<story>It's afternoon on a Saturday. I'm on my way \n<story>back to the station after running an errand."
+        },
+        {
+            "text": "Oh, Tray-chan. \nNice coincidence. Yeah!",
+            "name": "Transcend",
+            "path_id": 485953709034236291,
+            "block_id": 2,
+            "clip_length": 160,
+            "processed": "<story>Oh, Tray-chan. \n<story>Nice coincidence. Yeah!"
+        },
+        {
+            "text": "I'm about to head to the cinema to see if there \nare any movies worth watching. Wanna join me?",
+            "name": "Transcend",
+            "path_id": -7758311531041728887,
+            "block_id": 3,
+            "clip_length": 253,
+            "choices": [
+                {
+                    "text": "Sounds good! I'm free this afternoon.",
+                    "hash": "efc1c6e5c9579e6fa3be3b93a9f097091bed163ce8fc2b96a380bf0b243f8078"
+                }
+            ],
+            "processed": "<story>I'm about to head to the cinema to see if there \n<story>are any movies worth watching. Wanna join me?"
+        },
+        {
+            "text": "I can't help but get excited when I'm at the cinema. \nI wonder if it's the smell of the butter and caramel?",
+            "name": "Transcend",
+            "path_id": 63054431536218200,
+            "block_id": 4,
+            "clip_length": 221,
+            "choices": [
+                {
+                    "text": "Haha, you may be right. So, which movie?",
+                    "hash": "9fb4ab91cb790082ce60b807bf2e24139ee1e24c6c91e1ebe89ad2dc13fa7e5f",
+                    "processed": "<size=39>Haha, you may be right. So, which movie?</size>"
+                }
+            ],
+            "processed": "<story>I can't help but get excited when I'm at the cinema. \n<story>I wonder if it's the smell of the butter and caramel?"
+        },
+        {
+            "text": "Well... How about <i>you</i> choose, Tray-chan? \nNo need to consider my tastes, I'm fine \nwith watching anything. Go on!",
+            "name": "Transcend",
+            "path_id": 1319072864181797341,
+            "block_id": 5,
+            "clip_length": 324,
+            "processed": "<story>Well... How about <i>you</i> choose, Tray-chan? \n<story>No need to consider my tastes, I'm fine \n<story>with watching anything. Go on!"
+        },
+        {
+            "text": "I take a look at the movies that are playing soon. \nThere's one that stands out...",
+            "name": "",
+            "path_id": -8165481948701869529,
+            "block_id": 6,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "R... \"Revolver and Underfloor Heating\"?",
+                    "hash": "ec2552f7c4da25bf54bba311c7dcda6a75c3916e99608a1baa9bacb450bd9954",
+                    "processed": "<size=41>R... \"Revolver and Underfloor Heating\"?</size>"
+                }
+            ],
+            "processed": "<story>I take a look at the movies that are playing soon. \n<story>There's one that stands out..."
+        },
+        {
+            "text": "Two completely unrelated words. \nThe trailer suggests it's an over-the-top action movie \nfull of explosions...",
+            "name": "",
+            "path_id": 4161485683392533398,
+            "block_id": 7,
+            "clip_length": 111,
+            "processed": "<story>Two completely unrelated words. \n<story>The trailer suggests it's an over-the-top action movie \n<story>full of explosions..."
+        },
+        {
+            "text": "Haha. I figured you'd choose that one. \nI spotted it as well.",
+            "name": "Transcend",
+            "path_id": -8491618735570456928,
+            "block_id": 8,
+            "clip_length": 256,
+            "processed": "<story>Haha. I figured you'd choose that one. \n<story>I spotted it as well."
+        },
+        {
+            "text": "I like that director. \nThey keep making unique movies.",
+            "name": "Transcend",
+            "path_id": 5499887530587334747,
+            "block_id": 9,
+            "clip_length": 129,
+            "processed": "<story>I like that director. \n<story>They keep making unique movies."
+        },
+        {
+            "text": "They keep coming up with interesting challenges for \nthemselves, and absolutely demolish every previous release \nwith their new ones. I love it!",
+            "name": "Transcend",
+            "path_id": -2141272154230299248,
+            "block_id": 10,
+            "clip_length": 261,
+            "choices": [
+                {
+                    "text": "Oh, it's by <i>them</i>? We gotta see that!",
+                    "hash": "f2b1d76b54411d8ec6541e67855dc99da9ac07c8400efb7c15bc7f2454178256"
+                }
+            ],
+            "processed": "<story>They keep coming up with interesting challenges for \n<story>themselves, and absolutely demolish every previous release \n<story>with their new ones. I love it!"
+        },
+        {
+            "text": "Sounds like you made your choice. \nLet's grab some tickets!",
+            "name": "Transcend",
+            "path_id": -1678951654877628238,
+            "block_id": 11,
+            "clip_length": 161,
+            "processed": "<story>Sounds like you made your choice. \n<story>Let's grab some tickets!"
+        },
+        {
+            "text": "Hm hmm. About the seats... What do you prefer? \nSmack-dab in the middle or more on the side?",
+            "name": "Transcend",
+            "path_id": 2945305446116980881,
+            "block_id": 12,
+            "clip_length": 291,
+            "choices": [
+                {
+                    "text": "I like to sit in the center if possible.",
+                    "hash": "e9396ecee8e2d971bb3bca7feb892dae1b7aa14d13324287afb3677df6dcfa49"
+                }
+            ],
+            "processed": "<story>Hm hmm. About the seats... What do you prefer? \n<story>Smack-dab in the middle or more on the side?"
+        },
+        {
+            "text": "Agreed. Sitting in the middle gives the best experience, \neven if it can be a little crowded. And to be honest, \nI already bought the tickets while you were thinking.",
+            "name": "Transcend",
+            "path_id": -7151536793107885816,
+            "block_id": 13,
+            "clip_length": 280,
+            "processed": "<story>Agreed. Sitting in the middle gives the best experience, \n<story>even if it can be a little crowded. And to be honest, \n<story>I already bought the tickets while you were thinking."
+        },
+        {
+            "text": "Ahaha, that's right! The cinema atmosphere really \nmakes you want to buy everything.",
+            "name": "Transcend",
+            "path_id": 1257737084583880692,
+            "block_id": 14,
+            "clip_length": 242,
+            "choices": [
+                {
+                    "text": "P-Please restrain a bit..!",
+                    "hash": "c9512b6ba1d862c7f25a569e7a58e5fc289bad3a38c89a1bae76bbf6488bf6da"
+                }
+            ],
+            "processed": "<story>Ahaha, that's right! The cinema atmosphere really \n<story>makes you want to buy everything."
+        },
+        {
+            "text": "There's still time until it starts. How about \nwe explore every nook and cranny of this place?",
+            "name": "Transcend",
+            "path_id": 8791487806510924112,
+            "block_id": 15,
+            "clip_length": 195,
+            "processed": "<story>There's still time until it starts. How about \n<story>we explore every nook and cranny of this place?"
+        },
+        {
+            "text": "Hey, let me guess if you want to buy popcorn or not. \n'Kay?",
+            "name": "Transcend",
+            "path_id": 8961407817475279933,
+            "block_id": 16,
+            "clip_length": 183,
+            "choices": [
+                {
+                    "text": "Sure. What do you think?",
+                    "hash": "0e6815fab5f4c5b6f650839c14f9098f796aeef45719a51904b9f6bcfb719917"
+                }
+            ],
+            "processed": "<story>Hey, let me guess if you want to buy popcorn or not. \n<story>'Kay?"
+        },
+        {
+            "text": "Hehe. My prediction: You'll buy. The movie has many \nexplosions, which means there'll be plenty of opportunities \nto munch on some popcorn.",
+            "name": "Transcend",
+            "path_id": 3225862895608062139,
+            "block_id": 17,
+            "clip_length": 342,
+            "choices": [
+                {
+                    "text": "... Damn, you got me!",
+                    "hash": "380d5d33c0cf1d5e374b790b9a89489c9e8c7ce14a61fa891a1e436208dc01ec"
+                }
+            ],
+            "processed": "<story>Hehe. My prediction: You'll buy. The movie has many \n<story>explosions, which means there'll be plenty of opportunities \n<story>to munch on some popcorn."
+        },
+        {
+            "text": "Heck yeah, my info was right! \nThat's +500 Tray-chan points for me!",
+            "name": "Transcend",
+            "path_id": -7674831949933419513,
+            "block_id": 18,
+            "clip_length": 205,
+            "processed": "<story>Heck yeah, my info was right! \n<story>That's +500 Tray-chan points for me!"
+        },
+        {
+            "text": "Don't you think waiting for the movie to start is the best \npart of going to the cinema? It's exciting to wonder \nwhat the movie might be like.",
+            "name": "Transcend",
+            "path_id": -2712129328436140347,
+            "block_id": 19,
+            "clip_length": 237,
+            "choices": [
+                {
+                    "text": "Exactly my thoughts!",
+                    "hash": "b68026094ce55e1bf75c3aafccc1fb440638c3cd58641f639bb1d5aeae418a1e"
+                }
+            ],
+            "processed": "<story>Don't you think waiting for the movie to start is the best \n<story>part of going to the cinema? It's exciting to wonder \n<story>what the movie might be like."
+        },
+        {
+            "text": "And so, after spending some time together, it was about \ntime for the movie to begin. I follow the visibly excited \nTranscend into the hall.",
+            "name": "",
+            "path_id": -6792002201463504460,
+            "block_id": 20,
+            "clip_length": 115,
+            "processed": "<story>And so, after spending some time together, it was about \n<story>time for the movie to begin. I follow the visibly excited \n<story>Transcend into the hall."
+        },
+        {
+            "text": "That movie exceeded my expectations! I couldn't \nhelp myself but speak my thoughts about this \nnonstop action masterpiece!",
+            "name": "",
+            "path_id": -4563513624493277707,
+            "block_id": 21,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "That was awesome!",
+                    "hash": "a69429dcca062624da04ca137b455f9c4956d8719a1d5ff6ea78454ac8f19c07"
+                },
+                {
+                    "text": "That was awesome!",
+                    "hash": "889f37c72b68b8f19e6c7308668b3a5b0d6bea91bcdde9acdff30b53cb33a433"
+                }
+            ],
+            "processed": "<story>That movie exceeded my expectations! I couldn't \n<story>help myself but speak my thoughts about this \n<story>nonstop action masterpiece!"
+        },
+        {
+            "text": "Oh, did the movie check all the boxes for you?",
+            "name": "Transcend",
+            "path_id": -2085918566871169161,
+            "block_id": 22,
+            "clip_length": 153,
+            "choices": [
+                {
+                    "text": "You bet! To start, the composition—",
+                    "hash": "fd48e5da5a6ac0ba8faa0bac2fa8aef228fa3274715493149e08803c1cc7b896"
+                },
+                {
+                    "text": "You bet! To start, the composition—",
+                    "hash": "a9604f1f7d01667763280937a485a78d9059fe10cfd48e097556e9e948cc8486"
+                }
+            ],
+            "processed": "<story>Oh, did the movie check all the boxes for you?"
+        },
+        {
+            "text": "Hmm, I get you. That director is very good at action movies. \nAnd? Any other points of interest?",
+            "name": "Transcend",
+            "path_id": 8032427197133984327,
+            "block_id": 23,
+            "clip_length": 304,
+            "choices": [
+                {
+                    "text": "Don't even get me started on the script—",
+                    "hash": "55255386d24ffeeb3210cc280e55abba06b70d554fe59bfffb8c4e9a9c5da367",
+                    "processed": "<size=40>Don't even get me started on the script—</size>"
+                }
+            ],
+            "processed": "<story>Hmm, I get you. That director is very good at action movies. \n<story>And? Any other points of interest?"
+        },
+        {
+            "text": "Ahaha. That sure was a surprise right at the end. \nAnd? Keep that trademark Tray-chan review going!",
+            "name": "Transcend",
+            "path_id": -1939900427969285252,
+            "block_id": 24,
+            "clip_length": 271,
+            "choices": [
+                {
+                    "text": "(Wait... Am I the only one talking here?)",
+                    "hash": "260f763ec349e67b6da4e4cd91cff3009b3e69b6ccc6cdc790eb959a6543b05c",
+                    "processed": "<size=41>(Wait... Am I the only one talking here?)</size>"
+                },
+                {
+                    "text": "(Wait... Am I the only one talking here?)",
+                    "hash": "393a46706be50fcb9288fd68d3a8fd960eff526497ca289a13a3e227ecf6e4e1",
+                    "processed": "<size=41>(Wait... Am I the only one talking here?)</size>"
+                }
+            ],
+            "processed": "<story>Ahaha. That sure was a surprise right at the end. \n<story>And? Keep that trademark Tray-chan review going!"
+        },
+        {
+            "text": "With that thought in the back of my head, a sense of unease \nwashed over me. Did I incorrectly assume she felt the same \nabout the movie as me? I'm honestly a bit startled...",
+            "name": "",
+            "path_id": 3000716892762706127,
+            "block_id": 25,
+            "clip_length": 120,
+            "processed": "<story>With that thought in the back of my head, a sense of unease \n<story>washed over me. Did I incorrectly assume she felt the same \n<story>about the movie as me? I'm honestly a bit startled..."
+        },
+        {
+            "text": "Oh, I'm out of coffee. \nWant another one as well?",
+            "name": "Transcend",
+            "path_id": -6076416928635892755,
+            "block_id": 26,
+            "clip_length": 148,
+            "choices": [
+                {
+                    "text": "Did you... Not like the movie?",
+                    "hash": "7135d8044f6a70cdf03f217471e3534c1985cc87b28c64e4d5b768ea8b557e45"
+                }
+            ],
+            "processed": "<story>Oh, I'm out of coffee. \n<story>Want another one as well?"
+        },
+        {
+            "text": "Huh?",
+            "name": "Transcend",
+            "path_id": -601443328581556193,
+            "block_id": 27,
+            "clip_length": 21,
+            "processed": "<story>Huh?"
+        },
+        {
+            "text": "Well... Um... \nAha, really?",
+            "name": "Transcend",
+            "path_id": -5859303592082328317,
+            "block_id": 28,
+            "clip_length": 182,
+            "choices": [
+                {
+                    "text": "Were you just playing along?",
+                    "hash": "92b78bb53f55d4722490b3861aca06a96871afc3adc827e505a0a322c0c5b49d"
+                }
+            ],
+            "processed": "<story>Well... Um... \n<story>Aha, really?"
+        },
+        {
+            "text": "...",
+            "name": "Transcend",
+            "path_id": 6094708583603611951,
+            "block_id": 29,
+            "clip_length": 42,
+            "processed": "<story>..."
+        },
+        {
+            "text": "Oh... Gosh. \nYou saw through me, huh?",
+            "name": "Transcend",
+            "path_id": -4735165648908189774,
+            "block_id": 30,
+            "clip_length": 174,
+            "processed": "<story>Oh... Gosh. \n<story>You saw through me, huh?"
+        },
+        {
+            "text": "Alright then, I'll tell you what I thought of it.",
+            "name": "Transcend",
+            "path_id": 2601800115642491582,
+            "block_id": 31,
+            "clip_length": 148,
+            "processed": "<story>Alright then, I'll tell you what I thought of it."
+        },
+        {
+            "text": "There wasn't the usual challenge in this one.",
+            "name": "Transcend",
+            "path_id": 258463519997102338,
+            "block_id": 32,
+            "clip_length": 111,
+            "processed": "<story>There wasn't the usual challenge in this one."
+        },
+        {
+            "text": "This director has always posed a special challenge for \nthemselves with every movie. Like not having the main \ncharacter speak, or filming the entire thing on a phone.",
+            "name": "Transcend",
+            "path_id": 8869704923984295015,
+            "block_id": 33,
+            "clip_length": 284,
+            "processed": "<story>This director has always posed a special challenge for \n<story>themselves with every movie. Like not having the main \n<story>character speak, or filming the entire thing on a phone."
+        },
+        {
+            "text": "For this one, they just took all the things that worked \npreviously and crammed them together. \nIt was a big turn-off for me.",
+            "name": "Transcend",
+            "path_id": -6538349920752721668,
+            "block_id": 34,
+            "clip_length": 326,
+            "processed": "<story>For this one, they just took all the things that worked \n<story>previously and crammed them together. \n<story>It was a big turn-off for me."
+        },
+        {
+            "text": "Now it finally makes sense to me. \nShe...",
+            "name": "",
+            "path_id": 3439723797783776669,
+            "block_id": 35,
+            "clip_length": 88,
+            "choices": [
+                {
+                    "text": "You couldn't get excited?",
+                    "hash": "f646f3f7320c99c459214bd02275852286061494cf9a1f4e7f7f865961909f46"
+                },
+                {
+                    "text": "You couldn't get excited?",
+                    "hash": "9bd358b5836c88cc6ef5cef751f80498ef7315c04f85bed34c7c3bdf2f25a3c3"
+                }
+            ],
+            "processed": "<story>Now it finally makes sense to me. \n<story>She..."
+        },
+        {
+            "text": "Yeah... That's basically it. But I did like that one scene. \nThat big gunpowder explosion of the skyscraper!",
+            "name": "Transcend",
+            "path_id": -4939431098906586820,
+            "block_id": 36,
+            "clip_length": 320,
+            "choices": [
+                {
+                    "text": "Surely that got you excited, right?",
+                    "hash": "791b67837c6cefe4fbdb7cc74cfe5d3d7aec5b5edd6fb2f7f06fcaadde05ebae"
+                },
+                {
+                    "text": "Surely that got you excited, right?",
+                    "hash": "bc88d4881935690fe660f415a538ced79f343a109eeb5a87ced2ae1a3c9a43e9"
+                }
+            ],
+            "processed": "<story>Yeah... That's basically it. But I did like that one scene. \n<story>That big gunpowder explosion of the skyscraper!"
+        },
+        {
+            "text": "Sure, it got me excited alright! \nBut like, not <i>excited</i> excited, if you get what I mean.",
+            "name": "Transcend",
+            "path_id": -7166459658866926037,
+            "block_id": 37,
+            "clip_length": 229,
+            "processed": "<story>Sure, it got me excited alright! \n<story>But like, not <i>excited</i> excited, if you get what I mean."
+        },
+        {
+            "text": "Like, it was funny. I laughed a ton! But like, \nI wanted to be excited by whatever challenge \nthe director gave themselves...",
+            "name": "Transcend",
+            "path_id": 94356793862553959,
+            "block_id": 38,
+            "clip_length": 247,
+            "choices": [
+                {
+                    "text": "And when the dead body started moving..?",
+                    "hash": "ab0b0e4ca0adc90bea480745ea65281d2ee97d45f2617fab498f58cd98a95f2f",
+                    "processed": "<size=38>And when the dead body started moving..?</size>"
+                }
+            ],
+            "processed": "<story>Like, it was funny. I laughed a ton! But like, \n<story>I wanted to be excited by whatever challenge \n<story>the director gave themselves..."
+        },
+        {
+            "text": "That was scary as heck! But not exciting... \nHey, are you bringing that up on purpose?!",
+            "name": "Transcend",
+            "path_id": -2666035890036993088,
+            "block_id": 39,
+            "clip_length": 252,
+            "processed": "<story>That was scary as heck! But not exciting... \n<story>Hey, are you bringing that up on purpose?!"
+        },
+        {
+            "text": "The thing about the photography... Oh, has the clock glitched \nout or is it really this late already? I've got so much more \nto talk about!",
+            "name": "Transcend",
+            "path_id": 2676349927747510845,
+            "block_id": 40,
+            "clip_length": 344,
+            "choices": [
+                {
+                    "text": "You were so into it, too!",
+                    "hash": "12b5b6ba2a96c4e57c14ac7855971ed188926b150c35591301b4155ae28251ae"
+                }
+            ],
+            "processed": "<story>The thing about the photography... Oh, has the clock glitched \n<story>out or is it really this late already? I've got so much more \n<story>to talk about!"
+        },
+        {
+            "text": "Haha. Let's call it a wrap and continue another time, 'kay? \nTime to say goodbye for now.",
+            "name": "Transcend",
+            "path_id": -637601891369404630,
+            "block_id": 41,
+            "clip_length": 247,
+            "processed": "<story>Haha. Let's call it a wrap and continue another time, 'kay? \n<story>Time to say goodbye for now."
+        },
+        {
+            "text": "......",
+            "name": "Transcend",
+            "path_id": -4481649386757723350,
+            "block_id": 42,
+            "clip_length": 29,
+            "processed": "<story>......"
+        },
+        {
+            "text": "(...I thought I saw through them.)",
+            "name": "Transcend",
+            "path_id": 6480096669110725499,
+            "block_id": 43,
+            "clip_length": 158,
+            "processed": "<story>(...I thought I saw through them.)"
+        },
+        {
+            "text": "(I thought it'd be better if I played along. Hiding my \ntrue feelings. Surely they wouldn't notice. But...)",
+            "name": "Transcend",
+            "path_id": -3604316191615631824,
+            "block_id": 44,
+            "clip_length": 365,
+            "processed": "<story>(I thought it'd be better if I played along. Hiding my \n<story>true feelings. Surely they wouldn't notice. But...)"
+        },
+        {
+            "text": "<i>\"Did you... Not like the movie?\"</i>",
+            "name": "",
+            "path_id": 1582345344391084947,
+            "block_id": 45,
+            "clip_length": 71,
+            "processed": "<story><i>\"Did you... Not like the movie?\"</i>"
+        },
+        {
+            "text": "(I miscalculated... \nThere's still a lot more to learn about them.)",
+            "name": "Transcend",
+            "path_id": 3583317212450739677,
+            "block_id": 46,
+            "clip_length": 238,
+            "processed": "<story>(I miscalculated... \n<story>There's still a lot more to learn about them.)"
+        },
+        {
+            "text": "... Hehe.",
+            "name": "Transcend",
+            "path_id": -5868369912940417862,
+            "block_id": 47,
+            "clip_length": 69,
+            "processed": "<story>... Hehe."
+        },
+        {
+            "text": "Oh man... That got me excited.",
+            "name": "Transcend",
+            "path_id": 4770335083368604971,
+            "block_id": 48,
+            "clip_length": 133,
+            "processed": "<story>Oh man... That got me excited."
+        }
+    ],
+    "title": "Info: Movie Case Study"
+}
