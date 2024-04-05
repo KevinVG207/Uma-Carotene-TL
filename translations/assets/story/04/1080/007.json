@@ -218,12 +218,12 @@
             "processed": "<story>Aha, I knew it. \n<story>Let's go somewhere else..!"
         },
         {
-            "text": "Whoa! That's some massive cotton candy! \nThat wasn't in my info...!",
+            "text": "Whoa! That's some massive cotton candy! \nThat wasn't in my info..!",
             "name": "Transcend",
             "path_id": -3589591643769726322,
             "block_id": 22,
             "clip_length": 158,
-            "processed": "<story>Whoa! That's some massive cotton candy! \n<story>That wasn't in my info...!"
+            "processed": "<story>Whoa! That's some massive cotton candy! \n<story>That wasn't in my info..!"
         },
         {
             "text": "Hey Tray-chan, want to make one \nat one of those spinning machines?",
@@ -490,12 +490,12 @@
             "processed": "<story>I told you before, right? \n<story>When you became my Trainer."
         },
         {
-            "text": "<i>I'll start with some advice. If you want to succeed \nin scouting her, she's gonna need some info about you, \nTray-chan.</i>",
+            "text": "<i>I'll start with some advice. If you want to succeed</i> \n<i>in scouting her, she's gonna need some info about </i>you<i>,</i> \n<i>Tray-chan.</i>",
             "name": "Transcend",
             "path_id": 964001490609131604,
             "block_id": 49,
             "clip_length": 252,
-            "processed": "<story><i>I'll start with some advice. If you want to succeed \n<story>in scouting her, she's gonna need some info about you, \n<story>Tray-chan.</i>"
+            "processed": "<story><i>I'll start with some advice. If you want to succeed</i> \n<story><i>in scouting her, she's gonna need some info about </i>you<i>,</i> \n<story><i>Tray-chan.</i>"
         },
         {
             "text": "Except... What you told me that day wasn't even close \nto enough..! I needed more time to get to know it all.",

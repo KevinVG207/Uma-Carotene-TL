@@ -176,12 +176,12 @@
             "processed": "<story>Oh and... My info doesn't come free, y'know? How abooout... \n<story>Some nice tea and snacks. Whadda ya think?"
         },
         {
-            "text": "Transcend has more information than could be explained<i> \njust</i> by her being an Umamusume herself... \nI wonder where she gets it all from.",
+            "text": "Transcend has more information than could be explained \n<i>just</i> by her being an umamusume herself... \nI wonder where she gets it all from.",
             "name": "",
             "path_id": -5230316091506174203,
             "block_id": 20,
             "clip_length": 119,
-            "processed": "<story>Transcend has more information than could be explained<i> \n<story>just</i> by her being an Umamusume herself... \n<story>I wonder where she gets it all from."
+            "processed": "<story>Transcend has more information than could be explained \n<story><i>just</i> by her being an umamusume herself... \n<story>I wonder where she gets it all from."
         },
         {
             "text": "I once asked her why she only wanted tea and snacks for \nall of this info, and she simply replied <i>\"Because it's fun!\"</i>",
@@ -240,12 +240,12 @@
             "processed": "<story>Next up: Espoir City. She seems a bit overly self-confident, \n<story>like she's in her rebellious phase... If you catch my drift."
         },
         {
-            "text": "But really, she's pure at heart under that veneer. \nAlso... I noticed when we went to the track together...",
+            "text": "But really, she's pure at heart under that veneer. \nAlso... I noticed when we went to a race course together...",
             "name": "Transcend",
             "path_id": -1716161930903067661,
             "block_id": 28,
             "clip_length": 275,
-            "processed": "<story>But really, she's pure at heart under that veneer. \n<story>Also... I noticed when we went to the track together..."
+            "processed": "<story>But really, she's pure at heart under that veneer. \n<story>Also... I noticed when we went to a race course together..."
         },
         {
             "text": "She gets startled by the intensity of the giant trackside \nscreens. She keeps tripping up. Looks like she's got \na delicate side, too. Cute, right?",
@@ -309,7 +309,7 @@
             "clip_length": 225,
             "choices": [
                 {
-                    "text": "You better pay me for that info...!",
+                    "text": "You better pay me for that info..!",
                     "hash": "76bc63b505385b8780717539756c4708dd3123386c4f1100e55016fd8ea62f12"
                 }
             ],

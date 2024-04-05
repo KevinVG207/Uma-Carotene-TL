@@ -321,12 +321,12 @@
             "processed": "<story>It was impossible <i>not</i> to notice."
         },
         {
-            "text": "Transcend. \nThe time we spent together... Comfortable like close friends.",
+            "text": "Transcend. \nThe time we spent together... \nRelaxed, like close friends.",
             "name": "",
             "path_id": -2701213816818701261,
             "block_id": 33,
             "clip_length": 101,
-            "processed": "<story>Transcend. \n<story>The time we spent together... Comfortable like close friends."
+            "processed": "<story>Transcend. \n<story>The time we spent together... \n<story>Relaxed, like close friends."
         },
         {
             "text": "She was merely there to help me with her info. \nScouting her wasn't on my mind for so long...",
@@ -415,12 +415,12 @@
             "processed": "<story>To answer the question, I tell her the girl seems calm \n<story>at first glance, but she has a keen eye for data \n<story>and can be a little cheeky."
         },
         {
-            "text": "...!",
+            "text": "..!",
             "name": "Transcend",
             "path_id": 6158205213292684905,
             "block_id": 44,
             "clip_length": 25,
-            "processed": "<story>...!"
+            "processed": "<story>..!"
         },
         {
             "text": "I think she's awfully kind and considerate on the inside. \nAt least, that's what she seems like to me.",
@@ -507,12 +507,12 @@
             "processed": "<story>I nodded as to say <i>\"of course\"</i>. \n<story>I haven't seen her eyes sparkle with this much joy before."
         },
         {
-            "text": "I'll start with some advice. If you want to succeed \nin scouting her, she's gonna need some info about you, \nTray-chan.",
+            "text": "I'll start with some advice. If you want to succeed \nin scouting her, she's gonna need some info about <i>you</i>, \nTray-chan.",
             "name": "Transcend",
             "path_id": 8734649389545951347,
             "block_id": 54,
             "clip_length": 252,
-            "processed": "<story>I'll start with some advice. If you want to succeed \n<story>in scouting her, she's gonna need some info about you, \n<story>Tray-chan."
+            "processed": "<story>I'll start with some advice. If you want to succeed \n<story>in scouting her, she's gonna need some info about <i>you</i>, \n<story>Tray-chan."
         },
         {
             "text": "She needs to know what kind of person you are. \nHow about it?",

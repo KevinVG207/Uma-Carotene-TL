@@ -220,12 +220,12 @@
             "processed": "<story>(Exceeding all imagination with bated breath. \n<story>Clashing with everything I've got, in a scene so dazzling...)"
         },
         {
-            "text": "(Not being sure who's going to win. \nThe thrill of a race where I put everything on the line...!)",
+            "text": "(Not being sure who's going to win. \nThe thrill of a race where I put everything on the line..!)",
             "name": "Transcend",
             "path_id": -4710861099651213656,
             "block_id": 27,
             "clip_length": 359,
-            "processed": "<story>(Not being sure who's going to win. \n<story>The thrill of a race where I put everything on the line...!)"
+            "processed": "<story>(Not being sure who's going to win. \n<story>The thrill of a race where I put everything on the line..!)"
         },
         {
             "text": "Hah...",
@@ -268,20 +268,20 @@
             "processed": "<story>(I was about to just accept anyone who'd just \n<story>give me freedom to let me run as I'd like...)"
         },
         {
-            "text": "Ha...!",
+            "text": "Ha..!",
             "name": "Transcend",
             "path_id": 3075883315490142598,
             "block_id": 33,
             "clip_length": 23,
-            "processed": "<story>Ha...!"
+            "processed": "<story>Ha..!"
         },
         {
-            "text": "(When I think about Tray-chan becoming my trainer... \nI feel like they'd actually fit me well.)",
+            "text": "(But when I think about Tray-chan becoming my trainer... \nI feel like they'd actually fit me well.)",
             "name": "Transcend",
             "path_id": -5414188851099133682,
             "block_id": 34,
             "clip_length": 222,
-            "processed": "<story>(When I think about Tray-chan becoming my trainer... \n<story>I feel like they'd actually fit me well.)"
+            "processed": "<story>(But when I think about Tray-chan becoming my trainer... \n<story>I feel like they'd actually fit me well.)"
         },
         {
             "text": "(What if I did something crazy and approached them \ninstead...? Would we be able to work together... \nTowards <i>the land of the unknown</i>?)",
@@ -308,12 +308,12 @@
             "processed": "<story>(Oh, what am I even doing. \n<story>I need to focus on my running.)"
         },
         {
-            "text": "Eh...! Haaaaa!!",
+            "text": "Eh..! Haaaaa!!",
             "name": "Transcend",
             "path_id": 3045749468554664411,
             "block_id": 38,
             "clip_length": 121,
-            "processed": "<story>Eh...! Haaaaa!!"
+            "processed": "<story>Eh..! Haaaaa!!"
         },
         {
             "text": "<i>That's</i> what the thrill of running must be.",
@@ -340,12 +340,12 @@
             "processed": "<story>Not to say she couldn't improve. \n<story>But for someone without a trainer... Damn."
         },
         {
-            "text": "Seeing her run drew me in. She's not running towards any \ngoal, but rather to something even further than that.",
+            "text": "Seeing her run drew me in. She's not running towards the \ngoal, but rather to something even further beyond.",
             "name": "",
             "path_id": -2467883100577170728,
             "block_id": 42,
             "clip_length": 111,
-            "processed": "<story>Seeing her run drew me in. She's not running towards any \n<story>goal, but rather to something even further than that."
+            "processed": "<story>Seeing her run drew me in. She's not running towards the \n<story>goal, but rather to something even further beyond."
         },
         {
             "text": "What would it take to guide her... \nFinding her weaknesses and helping her overcome them? \nNo, that's just not going to cut it.",
@@ -363,7 +363,7 @@
             "clip_length": 107,
             "choices": [
                 {
-                    "text": "Beyond all imagination...!",
+                    "text": "Beyond all imagination..!",
                     "hash": "2213ab0a9ddcc80f4227bad112ec7fa5dc1abd98ce243b2f97f30447f9ba57e1"
                 }
             ],
