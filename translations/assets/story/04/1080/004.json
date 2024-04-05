@@ -17,7 +17,7 @@
             "path_id": 1588799691527617897,
             "block_id": 1,
             "clip_length": 80,
-            "processed": "󠁿I've made up my mind. \n󠁿Today is the day I will scout Transcend."
+            "processed": "<story>I've made up my mind. \n<story>Today is the day I will scout Transcend."
         },
         {
             "text": "Tray-chan, Tray-chan! That pen you have... It's from \nthat crowdfunder! Now we match, heck yeah!",
@@ -25,7 +25,7 @@
             "path_id": 584008253441607200,
             "block_id": 2,
             "clip_length": 237,
-            "processed": "󠁿Tray-chan, Tray-chan! That pen you have... It's from \n󠁿that crowdfunder! Now we match, heck yeah!"
+            "processed": "<story>Tray-chan, Tray-chan! That pen you have... It's from \n<story>that crowdfunder! Now we match, heck yeah!"
         },
         {
             "text": "It's so useful, right? \nIt works on your phone too and it's so accurate.",
@@ -33,7 +33,7 @@
             "path_id": 2822826450910479681,
             "block_id": 3,
             "clip_length": 202,
-            "processed": "󠁿It's so useful, right? \n󠁿It works on your phone too and it's so accurate."
+            "processed": "<story>It's so useful, right? \n<story>It works on your phone too and it's so accurate."
         },
         {
             "text": "Ah, you brought hot chocolate today? And the snacks... \nOoh! I've seen these starting to blow up online. \nThey'll be sold out in no-time.",
@@ -41,7 +41,7 @@
             "path_id": 3260275553117662091,
             "block_id": 4,
             "clip_length": 346,
-            "processed": "󠁿Ah, you brought hot chocolate today? And the snacks... \n󠁿Ooh! I've seen these starting to blow up online. \n󠁿They'll be sold out in no-time."
+            "processed": "<story>Ah, you brought hot chocolate today? And the snacks... \n<story>Ooh! I've seen these starting to blow up online. \n<story>They'll be sold out in no-time."
         },
         {
             "text": "Our relation is still the same as it has been. \nI'm afraid I've grown too accustomed to this atmosphere. \nIt's making it hard for me to bring it up...",
@@ -49,7 +49,7 @@
             "path_id": -337492995923612967,
             "block_id": 5,
             "clip_length": 115,
-            "processed": "󠁿Our relation is still the same as it has been. \n󠁿I'm afraid I've grown too accustomed to this atmosphere. \n󠁿It's making it hard for me to bring it up..."
+            "processed": "<story>Our relation is still the same as it has been. \n<story>I'm afraid I've grown too accustomed to this atmosphere. \n<story>It's making it hard for me to bring it up..."
         },
         {
             "text": "I <i>know</i> this is supposed to be my job, and I shouldn't \nhave to worry about it so much...",
@@ -57,7 +57,7 @@
             "path_id": 855587509568379682,
             "block_id": 6,
             "clip_length": 103,
-            "processed": "󠁿I <i>know</i> this is supposed to be my job, and I shouldn't \n󠁿have to worry about it so much..."
+            "processed": "<story>I <i>know</i> this is supposed to be my job, and I shouldn't \n<story>have to worry about it so much..."
         },
         {
             "text": "I just think she might refuse...",
@@ -65,7 +65,7 @@
             "path_id": 8132409895508106769,
             "block_id": 7,
             "clip_length": 60,
-            "processed": "󠁿I just think she might refuse..."
+            "processed": "<story>I just think she might refuse..."
         },
         {
             "text": "It feels like she's just here to help me look for girls \nto scout. Not once has she tried to present herself \nto me as a potential...",
@@ -73,7 +73,7 @@
             "path_id": -8303072773152047429,
             "block_id": 8,
             "clip_length": 119,
-            "processed": "󠁿It feels like she's just here to help me look for girls \n󠁿to scout. Not once has she tried to present herself \n󠁿to me as a potential..."
+            "processed": "<story>It feels like she's just here to help me look for girls \n<story>to scout. Not once has she tried to present herself \n<story>to me as a potential..."
         },
         {
             "text": "You seem tired, Tray-chan... \nToo much research lately?",
@@ -81,7 +81,7 @@
             "path_id": -6470001930745796164,
             "block_id": 9,
             "clip_length": 144,
-            "processed": "󠁿You seem tired, Tray-chan... \n󠁿Too much research lately?"
+            "processed": "<story>You seem tired, Tray-chan... \n<story>Too much research lately?"
         },
         {
             "text": "Yes, yes... In that case... \nWhy don't I energize you with some info I got recently \nabout a girl with crazy potential!",
@@ -95,7 +95,7 @@
                     "hash": "f8e9b26fd84c4a68094f79433d43bcba604cfb9acfa2d7096e5000bdfc21357f"
                 }
             ],
-            "processed": "󠁿Yes, yes... In that case... \n󠁿Why don't I energize you with some info I got recently \n󠁿about a girl with crazy potential!"
+            "processed": "<story>Yes, yes... In that case... \n<story>Why don't I energize you with some info I got recently \n<story>about a girl with crazy potential!"
         },
         {
             "text": "I take a deep breath to clear my mind. \nEven though I fear getting rejected, the regret of \nnot scouting her might be worse...",
@@ -103,7 +103,7 @@
             "path_id": -8169076638433110376,
             "block_id": 11,
             "clip_length": 107,
-            "processed": "󠁿I take a deep breath to clear my mind. \n󠁿Even though I fear getting rejected, the regret of \n󠁿not scouting her might be worse..."
+            "processed": "<story>I take a deep breath to clear my mind. \n<story>Even though I fear getting rejected, the regret of \n<story>not scouting her might be worse..."
         },
         {
             "text": "Hmm? \nOr perhaps... You already found your pick?",
@@ -117,7 +117,7 @@
                     "hash": "5fb6ba5db293b220919f5b6a74831d967ccd564b1be0e4fa8b161ab6a01e7f97"
                 }
             ],
-            "processed": "󠁿Hmm? \n󠁿Or perhaps... You already found your pick?"
+            "processed": "<story>Hmm? \n<story>Or perhaps... You already found your pick?"
         },
         {
             "text": "Or are you still thinking about it? Look, how about \nyou just listen to me. My info won't disappoint.",
@@ -125,7 +125,7 @@
             "path_id": -8804037436460748736,
             "block_id": 13,
             "clip_length": 282,
-            "processed": "󠁿Or are you still thinking about it? Look, how about \n󠁿you just listen to me. My info won't disappoint."
+            "processed": "<story>Or are you still thinking about it? Look, how about \n<story>you just listen to me. My info won't disappoint."
         },
         {
             "text": "I was about to be ready to tell her and not regret it... \nBut without thinking, I went along with her sudden \npushy request and nodded in agreement.",
@@ -133,7 +133,7 @@
             "path_id": 6959166106109704883,
             "block_id": 14,
             "clip_length": 111,
-            "processed": "󠁿I was about to be ready to tell her and not regret it... \n󠁿But without thinking, I went along with her sudden \n󠁿pushy request and nodded in agreement."
+            "processed": "<story>I was about to be ready to tell her and not regret it... \n<story>But without thinking, I went along with her sudden \n<story>pushy request and nodded in agreement."
         },
         {
             "text": "Perfect. Now, about her... \nActually, it'd be better if you went to see in person.",
@@ -141,7 +141,7 @@
             "path_id": 2720104841422415472,
             "block_id": 15,
             "clip_length": 265,
-            "processed": "󠁿Perfect. Now, about her... \n󠁿Actually, it'd be better if you went to see in person."
+            "processed": "<story>Perfect. Now, about her... \n<story>Actually, it'd be better if you went to see in person."
         },
         {
             "text": "She told me to meet her in front of the dorms. \nWhen I arrived—",
@@ -149,7 +149,7 @@
             "path_id": 7980225010938938121,
             "block_id": 16,
             "clip_length": 98,
-            "processed": "󠁿She told me to meet her in front of the dorms. \n󠁿When I arrived—"
+            "processed": "<story>She told me to meet her in front of the dorms. \n<story>When I arrived—"
         },
         {
             "text": "Ah, there you are!",
@@ -163,7 +163,7 @@
                     "hash": "c8946552a78dca3596a2864904d42e34d6f66addb4d550e74796e27039bb9762"
                 }
             ],
-            "processed": "󠁿Ah, there you are!"
+            "processed": "<story>Ah, there you are!"
         },
         {
             "text": "Well, I'd stand out in the school's uniform. \nNow, come with me!",
@@ -171,7 +171,7 @@
             "path_id": 2785187407092447528,
             "block_id": 18,
             "clip_length": 163,
-            "processed": "󠁿Well, I'd stand out in the school's uniform. \n󠁿Now, come with me!"
+            "processed": "<story>Well, I'd stand out in the school's uniform. \n<story>Now, come with me!"
         },
         {
             "text": "She brought me to a vintage café. \n... This special umamusume is supposed to be here?",
@@ -179,7 +179,7 @@
             "path_id": -678871785717296275,
             "block_id": 19,
             "clip_length": 99,
-            "processed": "󠁿She brought me to a vintage café. \n󠁿... This special umamusume is supposed to be here?"
+            "processed": "<story>She brought me to a vintage café. \n<story>... This special umamusume is supposed to be here?"
         },
         {
             "text": "Great atmosphere, right? Did you know, \nthis place has a mystery menu at certain times of day?",
@@ -197,7 +197,7 @@
                     "hash": "c8af49e3eebe2f9016ce12d833023f9deca7c1dcb8458d879d37c26139d8a5eb"
                 }
             ],
-            "processed": "󠁿Great atmosphere, right? Did you know, \n󠁿this place has a mystery menu at certain times of day?"
+            "processed": "<story>Great atmosphere, right? Did you know, \n<story>this place has a mystery menu at certain times of day?"
         },
         {
             "text": "It doesn't taste bad, but the ingredients are secret. \nIf you wanna find out, we can try it together sometime.",
@@ -211,7 +211,7 @@
                     "hash": "0433972c1243b1f966c80458a698bfbbfa786c1eaac40477a1ab2e1c03c9ab04"
                 }
             ],
-            "processed": "󠁿It doesn't taste bad, but the ingredients are secret. \n󠁿If you wanna find out, we can try it together sometime."
+            "processed": "<story>It doesn't taste bad, but the ingredients are secret. \n<story>If you wanna find out, we can try it together sometime."
         },
         {
             "text": "I've been looking around, but there are no other \numamusume in the café. I tilt my head in confusion.",
@@ -219,7 +219,7 @@
             "path_id": -8615466320167642933,
             "block_id": 22,
             "clip_length": 103,
-            "processed": "󠁿I've been looking around, but there are no other \n󠁿umamusume in the café. I tilt my head in confusion."
+            "processed": "<story>I've been looking around, but there are no other \n<story>umamusume in the café. I tilt my head in confusion."
         },
         {
             "text": "Now, now. No need to rush. \nThe day's still young.",
@@ -227,7 +227,7 @@
             "path_id": -3705298346420330321,
             "block_id": 23,
             "clip_length": 113,
-            "processed": "󠁿Now, now. No need to rush. \n󠁿The day's still young."
+            "processed": "<story>Now, now. No need to rush. \n<story>The day's still young."
         },
         {
             "text": "Next, she took me to... an amusement park?! \nAnd still, no sign of any other umamusume.",
@@ -235,7 +235,7 @@
             "path_id": -8336794576588725547,
             "block_id": 24,
             "clip_length": 84,
-            "processed": "󠁿Next, she took me to... an amusement park?! \n󠁿And still, no sign of any other umamusume."
+            "processed": "<story>Next, she took me to... an amusement park?! \n<story>And still, no sign of any other umamusume."
         },
         {
             "text": "You may think this is yet another \nattraction at first glance.",
@@ -243,7 +243,7 @@
             "path_id": -5821327167931465325,
             "block_id": 25,
             "clip_length": 93,
-            "processed": "󠁿You may think this is yet another \n󠁿attraction at first glance."
+            "processed": "<story>You may think this is yet another \n<story>attraction at first glance."
         },
         {
             "text": "But actually, there's a secret store inside it! \nIt's invite-only, and you'll be able to find the world's first—",
@@ -257,7 +257,7 @@
                     "hash": "bb713e5329d082ec6447508b67ddc3626b8339dd7e5c27681cd9b6118dddde2e"
                 }
             ],
-            "processed": "󠁿But actually, there's a secret store inside it! \n󠁿It's invite-only, and you'll be able to find the world's first—"
+            "processed": "<story>But actually, there's a secret store inside it! \n<story>It's invite-only, and you'll be able to find the world's first—"
         },
         {
             "text": "Hmm?",
@@ -272,7 +272,7 @@
                     "processed": "<size=40>Is this part of the info you promised me?</size>"
                 }
             ],
-            "processed": "󠁿Hmm?"
+            "processed": "<story>Hmm?"
         },
         {
             "text": "Yep, that's right. \nInfo about her interests... Her favorite places to go...",
@@ -286,7 +286,7 @@
                     "hash": "56a2be923f6d8baf0ee3c0137429dac81436ddac73a98bb59fcd6c83beb959e5"
                 }
             ],
-            "processed": "󠁿Yep, that's right. \n󠁿Info about her interests... Her favorite places to go..."
+            "processed": "<story>Yep, that's right. \n<story>Info about her interests... Her favorite places to go..."
         },
         {
             "text": "...... \nNow, let's get a move on!",
@@ -294,7 +294,7 @@
             "path_id": 3941324681623733359,
             "block_id": 29,
             "clip_length": 111,
-            "processed": "󠁿...... \n󠁿Now, let's get a move on!"
+            "processed": "<story>...... \n<story>Now, let's get a move on!"
         },
         {
             "text": "She took me to several other places.",
@@ -302,7 +302,7 @@
             "path_id": 891932238080173932,
             "block_id": 30,
             "clip_length": 81,
-            "processed": "󠁿She took me to several other places."
+            "processed": "<story>She took me to several other places."
         },
         {
             "text": "All of them were interesting places. \nPlaces which all remind me of one girl in particular...",
@@ -310,7 +310,7 @@
             "path_id": 7871821303755266261,
             "block_id": 31,
             "clip_length": 99,
-            "processed": "󠁿All of them were interesting places. \n󠁿Places which all remind me of one girl in particular..."
+            "processed": "<story>All of them were interesting places. \n<story>Places which all remind me of one girl in particular..."
         },
         {
             "text": "It was impossible <i>not</i> to notice.",
@@ -318,7 +318,7 @@
             "path_id": -4651260010269412350,
             "block_id": 32,
             "clip_length": 64,
-            "processed": "󠁿It was impossible <i>not</i> to notice."
+            "processed": "<story>It was impossible <i>not</i> to notice."
         },
         {
             "text": "Transcend. \nThe time we spent together... Comfortable like close friends.",
@@ -326,7 +326,7 @@
             "path_id": -2701213816818701261,
             "block_id": 33,
             "clip_length": 101,
-            "processed": "󠁿Transcend. \n󠁿The time we spent together... Comfortable like close friends."
+            "processed": "<story>Transcend. \n<story>The time we spent together... Comfortable like close friends."
         },
         {
             "text": "She was merely there to help me with her info. \nScouting her wasn't on my mind for so long...",
@@ -334,7 +334,7 @@
             "path_id": 3055990508942319441,
             "block_id": 34,
             "clip_length": 110,
-            "processed": "󠁿She was merely there to help me with her info. \n󠁿Scouting her wasn't on my mind for so long..."
+            "processed": "<story>She was merely there to help me with her info. \n<story>Scouting her wasn't on my mind for so long..."
         },
         {
             "text": "But over time, her running, her way of thinking... \nI realized she might be the treasure I had been looking for.",
@@ -342,7 +342,7 @@
             "path_id": -5898062040624950807,
             "block_id": 35,
             "clip_length": 111,
-            "processed": "󠁿But over time, her running, her way of thinking... \n󠁿I realized she might be the treasure I had been looking for."
+            "processed": "<story>But over time, her running, her way of thinking... \n<story>I realized she might be the treasure I had been looking for."
         },
         {
             "text": "... She returned to me the courage that I had lost. \nI slap my cheeks to gather it.",
@@ -350,7 +350,7 @@
             "path_id": 1156686771680113930,
             "block_id": 36,
             "clip_length": 86,
-            "processed": "󠁿... She returned to me the courage that I had lost. \n󠁿I slap my cheeks to gather it."
+            "processed": "<story>... She returned to me the courage that I had lost. \n<story>I slap my cheeks to gather it."
         },
         {
             "text": "Did you know they found a new species of flower here? \nIt's not been announced publicly yet, but there's \na picture of it at the reception.",
@@ -358,7 +358,7 @@
             "path_id": 4509191402828343948,
             "block_id": 37,
             "clip_length": 291,
-            "processed": "󠁿Did you know they found a new species of flower here? \n󠁿It's not been announced publicly yet, but there's \n󠁿a picture of it at the reception."
+            "processed": "<story>Did you know they found a new species of flower here? \n<story>It's not been announced publicly yet, but there's \n<story>a picture of it at the reception."
         },
         {
             "text": "Ooh? I've never seen that flower before! \nIsn't it lovely? Gonna have to look that one up later.",
@@ -366,7 +366,7 @@
             "path_id": -1390812952437614382,
             "block_id": 38,
             "clip_length": 216,
-            "processed": "󠁿Ooh? I've never seen that flower before! \n󠁿Isn't it lovely? Gonna have to look that one up later."
+            "processed": "<story>Ooh? I've never seen that flower before! \n<story>Isn't it lovely? Gonna have to look that one up later."
         },
         {
             "text": "... So, Tray-chan. \nDid looking at the flowers help you relax?",
@@ -374,7 +374,7 @@
             "path_id": 4302020558493119154,
             "block_id": 39,
             "clip_length": 257,
-            "processed": "󠁿... So, Tray-chan. \n󠁿Did looking at the flowers help you relax?"
+            "processed": "<story>... So, Tray-chan. \n<story>Did looking at the flowers help you relax?"
         },
         {
             "text": "I guess she noticed how nervous I am... \nI cough to clear my throat, and lift my head.",
@@ -388,7 +388,7 @@
                     "hash": "83374ab54193e0d72e490c64d9b08026e21ea4e3fffd8ea89ba60d74cba85987"
                 }
             ],
-            "processed": "󠁿I guess she noticed how nervous I am... \n󠁿I cough to clear my throat, and lift my head."
+            "processed": "<story>I guess she noticed how nervous I am... \n<story>I cough to clear my throat, and lift my head."
         },
         {
             "text": "Oho? Who is it? \nI'm sure I'll have info on her.",
@@ -396,7 +396,7 @@
             "path_id": -5836581729722725373,
             "block_id": 41,
             "clip_length": 232,
-            "processed": "󠁿Oho? Who is it? \n󠁿I'm sure I'll have info on her."
+            "processed": "<story>Oho? Who is it? \n<story>I'm sure I'll have info on her."
         },
         {
             "text": "It comes at a price, of course!",
@@ -404,7 +404,7 @@
             "path_id": 5444512408262465789,
             "block_id": 42,
             "clip_length": 85,
-            "processed": "󠁿It comes at a price, of course!"
+            "processed": "<story>It comes at a price, of course!"
         },
         {
             "text": "To answer the question, I tell her the girl seems calm \nat first glance, but she has a keen eye for data \nand can be a little cheeky.",
@@ -412,7 +412,7 @@
             "path_id": -3998901951577209101,
             "block_id": 43,
             "clip_length": 119,
-            "processed": "󠁿To answer the question, I tell her the girl seems calm \n󠁿at first glance, but she has a keen eye for data \n󠁿and can be a little cheeky."
+            "processed": "<story>To answer the question, I tell her the girl seems calm \n<story>at first glance, but she has a keen eye for data \n<story>and can be a little cheeky."
         },
         {
             "text": "...!",
@@ -420,7 +420,7 @@
             "path_id": 6158205213292684905,
             "block_id": 44,
             "clip_length": 25,
-            "processed": "󠁿...!"
+            "processed": "<story>...!"
         },
         {
             "text": "I think she's awfully kind and considerate on the inside. \nAt least, that's what she seems like to me.",
@@ -428,7 +428,7 @@
             "path_id": -2505461535614303731,
             "block_id": 45,
             "clip_length": 111,
-            "processed": "󠁿I think she's awfully kind and considerate on the inside. \n󠁿At least, that's what she seems like to me."
+            "processed": "<story>I think she's awfully kind and considerate on the inside. \n<story>At least, that's what she seems like to me."
         },
         {
             "text": "Hey now, <i>I'm</i> supposed to be the one to give you \nthat kind of info. It must've rubbed off on you.",
@@ -436,7 +436,7 @@
             "path_id": 8424530128865704380,
             "block_id": 46,
             "clip_length": 249,
-            "processed": "󠁿Hey now, <i>I'm</i> supposed to be the one to give you \n󠁿that kind of info. It must've rubbed off on you."
+            "processed": "<story>Hey now, <i>I'm</i> supposed to be the one to give you \n<story>that kind of info. It must've rubbed off on you."
         },
         {
             "text": "With that witty remark, she averts her gaze. \nI try to step into it on purpose and try to continue \nour conversation.",
@@ -444,7 +444,7 @@
             "path_id": 7236236598331606134,
             "block_id": 47,
             "clip_length": 101,
-            "processed": "󠁿With that witty remark, she averts her gaze. \n󠁿I try to step into it on purpose and try to continue \n󠁿our conversation."
+            "processed": "<story>With that witty remark, she averts her gaze. \n<story>I try to step into it on purpose and try to continue \n<story>our conversation."
         },
         {
             "text": "If I were to scout her, we would be working together \nto reach the race of our dreams. An unknown world, \nthrilling beyond any expectations.",
@@ -452,7 +452,7 @@
             "path_id": -5057890198873812946,
             "block_id": 48,
             "clip_length": 110,
-            "processed": "󠁿If I were to scout her, we would be working together \n󠁿to reach the race of our dreams. An unknown world, \n󠁿thrilling beyond any expectations."
+            "processed": "<story>If I were to scout her, we would be working together \n<story>to reach the race of our dreams. An unknown world, \n<story>thrilling beyond any expectations."
         },
         {
             "text": "That which could never be contained by imagination... \nShe would make it possible to achieve.",
@@ -466,7 +466,7 @@
                     "hash": "aa2cadc1562da233043be3b0bd11b9add5498db7e2a4546962f0769aafbdf025"
                 }
             ],
-            "processed": "󠁿That which could never be contained by imagination... \n󠁿She would make it possible to achieve."
+            "processed": "<story>That which could never be contained by imagination... \n<story>She would make it possible to achieve."
         },
         {
             "text": "...... \nI might know... a thing or two about that girl.",
@@ -474,7 +474,7 @@
             "path_id": -5884966288731737296,
             "block_id": 50,
             "clip_length": 298,
-            "processed": "󠁿...... \n󠁿I might know... a thing or two about that girl."
+            "processed": "<story>...... \n<story>I might know... a thing or two about that girl."
         },
         {
             "text": "...She says with a sly grin. \nI return a grin of my own.",
@@ -488,7 +488,7 @@
                     "hash": "ad7140b30212952709052e670b06c24af749ab91f56c03e510aa6a250eac6a0e"
                 }
             ],
-            "processed": "󠁿...She says with a sly grin. \n󠁿I return a grin of my own."
+            "processed": "<story>...She says with a sly grin. \n<story>I return a grin of my own."
         },
         {
             "text": "Heh... Sure, but that girl might be a lot more of a handful \nthan all the others you've looked at. \nThink you can take her on?",
@@ -496,7 +496,7 @@
             "path_id": -7453343144340302477,
             "block_id": 52,
             "clip_length": 295,
-            "processed": "󠁿Heh... Sure, but that girl might be a lot more of a handful \n󠁿than all the others you've looked at. \n󠁿Think you can take her on?"
+            "processed": "<story>Heh... Sure, but that girl might be a lot more of a handful \n<story>than all the others you've looked at. \n<story>Think you can take her on?"
         },
         {
             "text": "I nodded as to say <i>\"of course\"</i>. \nI haven't seen her eyes sparkle with this much joy before.",
@@ -504,7 +504,7 @@
             "path_id": 7219259706704101513,
             "block_id": 53,
             "clip_length": 86,
-            "processed": "󠁿I nodded as to say <i>\"of course\"</i>. \n󠁿I haven't seen her eyes sparkle with this much joy before."
+            "processed": "<story>I nodded as to say <i>\"of course\"</i>. \n<story>I haven't seen her eyes sparkle with this much joy before."
         },
         {
             "text": "I'll start with some advice. If you want to succeed \nin scouting her, she's gonna need some info about you, \nTray-chan.",
@@ -512,7 +512,7 @@
             "path_id": 8734649389545951347,
             "block_id": 54,
             "clip_length": 252,
-            "processed": "󠁿I'll start with some advice. If you want to succeed \n󠁿in scouting her, she's gonna need some info about you, \n󠁿Tray-chan."
+            "processed": "<story>I'll start with some advice. If you want to succeed \n<story>in scouting her, she's gonna need some info about you, \n<story>Tray-chan."
         },
         {
             "text": "She needs to know what kind of person you are. \nHow about it?",
@@ -530,7 +530,7 @@
                     "hash": "4af5af0fb34f254c93e717a60f519567fb782eeefb78b775169946adc1b46a41"
                 }
             ],
-            "processed": "󠁿She needs to know what kind of person you are. \n󠁿How about it?"
+            "processed": "<story>She needs to know what kind of person you are. \n<story>How about it?"
         },
         {
             "text": "Yep, let's go back and get some tea and snacks! \nI'll help you out this time. That's only fair.",
@@ -538,7 +538,7 @@
             "path_id": 7421893867993956707,
             "block_id": 56,
             "clip_length": 296,
-            "processed": "󠁿Yep, let's go back and get some tea and snacks! \n󠁿I'll help you out this time. That's only fair."
+            "processed": "<story>Yep, let's go back and get some tea and snacks! \n<story>I'll help you out this time. That's only fair."
         },
         {
             "text": "Also, I think we'll need more time than normal today. \nDo you think you can handle it?",
@@ -546,7 +546,7 @@
             "path_id": -8055676518982276413,
             "block_id": 57,
             "clip_length": 233,
-            "processed": "󠁿Also, I think we'll need more time than normal today. \n󠁿Do you think you can handle it?"
+            "processed": "<story>Also, I think we'll need more time than normal today. \n<story>Do you think you can handle it?"
         },
         {
             "text": "I expect some invaluable info from you today!",
@@ -554,7 +554,7 @@
             "path_id": 8812073808302250897,
             "block_id": 58,
             "clip_length": 129,
-            "processed": "󠁿I expect some invaluable info from you today!"
+            "processed": "<story>I expect some invaluable info from you today!"
         }
     ],
     "title": "Info: Valuable Trade"
