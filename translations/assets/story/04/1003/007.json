@@ -1,0 +1,531 @@
+{
+    "type": "story",
+    "row_index": 254,
+    "file_name": "story/data/04/1003/storytimeline_041003007",
+    "hash": "TK32QYTF22IRD32T7CHB5RTYOFM6EUED",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3167006478549499978,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Summer, the sea, and training! \nBus, continue forward towards our lodging! Go, go, go!",
+            "name": "Tokai Teio",
+            "path_id": 2892303006428794777,
+            "block_id": 1,
+            "clip_length": 233,
+            "processed": "<story>Summer, the sea, and training! \n<story>Bus, continue forward towards our lodging! Go, go, go!"
+        },
+        {
+            "text": "Our summer training has finally come. \nThe bus moved forward, aiming for the sea.",
+            "name": "",
+            "path_id": -2723872521525053440,
+            "block_id": 2,
+            "clip_length": 91,
+            "choices": [
+                {
+                    "text": "You seem pretty excited, Teio.",
+                    "hash": "39d1c54e90ceb326e6b8d32353218380789c89218fc12514338d3d6794dd856f"
+                },
+                {
+                    "text": "You seem pretty excited, Teio.",
+                    "hash": "87b7d8685913991b5543988eab62f5e78496c9c8793d62c6af3159d1cd8e14ae"
+                }
+            ],
+            "processed": "<story>Our summer training has finally come. \n<story>The bus moved forward, aiming for the sea."
+        },
+        {
+            "text": "Of course I am! After all, this summer is my big chance♪ \nWith this training camp, I'll catch up to Prez in one go!",
+            "name": "Tokai Teio",
+            "path_id": 6237771094109620668,
+            "block_id": 3,
+            "clip_length": 302,
+            "processed": "<story>Of course I am! After all, this summer is my big chance♪ \n<story>With this training camp, I'll catch up to Prez in one go!"
+        },
+        {
+            "text": "And once I get strong, I'll surprise her! Then she'll \npraise me and pat me! Plus you'll be happy for me too!",
+            "name": "Tokai Teio",
+            "path_id": -8377158915757597201,
+            "block_id": 4,
+            "clip_length": 283,
+            "processed": "<story>And once I get strong, I'll surprise her! Then she'll \n<story>praise me and pat me! Plus you'll be happy for me too!"
+        },
+        {
+            "text": "So when we get there, \nI'm going to train as hard as I can! But before then♪",
+            "name": "Tokai Teio",
+            "path_id": -3305309374311264470,
+            "block_id": 5,
+            "clip_length": 222,
+            "processed": "<story>So when we get there, \n<story>I'm going to train as hard as I can! But before then♪"
+        },
+        {
+            "text": "Let's sing a song. Excuse me, Guide Lady, can I \nborrow the mic? I'll show you what everyone's \nfavorite Uma Musume can do♪",
+            "name": "Tokai Teio",
+            "path_id": 6456088872132869614,
+            "block_id": 6,
+            "clip_length": 310,
+            "processed": "<story>Let's sing a song. Excuse me, Guide Lady, can I \n<story>borrow the mic? I'll show you what everyone's \n<story>favorite Uma Musume can do♪"
+        },
+        {
+            "text": "With the momentum of karaoke behind her, \nTokai Teio's intensive summer training finally began.",
+            "name": "",
+            "path_id": 8282524407279437055,
+            "block_id": 7,
+            "clip_length": 97,
+            "processed": "<story>With the momentum of karaoke behind her, \n<story>Tokai Teio's intensive summer training finally began."
+        },
+        {
+            "text": "Dashing across the sand is so easy! \nI feel like I can keep going forever!",
+            "name": "Tokai Teio",
+            "path_id": 8283125005712645921,
+            "block_id": 8,
+            "clip_length": 200,
+            "processed": "<story>Dashing across the sand is so easy! \n<story>I feel like I can keep going forever!"
+        },
+        {
+            "text": "Trainer, how was my form? You were \nwatching, right? I'm counting on you, you know?",
+            "name": "Tokai Teio",
+            "path_id": 8855926234526904512,
+            "block_id": 9,
+            "clip_length": 208,
+            "processed": "<story>Trainer, how was my form? You were \n<story>watching, right? I'm counting on you, you know?"
+        },
+        {
+            "text": "Mountain slopes! They're so fun 'cause \nthey're uneven! Let's skip up them!",
+            "name": "Tokai Teio",
+            "path_id": -3606873016839264724,
+            "block_id": 10,
+            "clip_length": 252,
+            "processed": "<story>Mountain slopes! They're so fun 'cause \n<story>they're uneven! Let's skip up them!"
+        },
+        {
+            "text": "You're coming too, right, Trainer? \nTraining alone is just so boring! \nLet's get to the top and have dinner together!",
+            "name": "Tokai Teio",
+            "path_id": 3432807183764619789,
+            "block_id": 11,
+            "clip_length": 253,
+            "processed": "<story>You're coming too, right, Trainer? \n<story>Training alone is just so boring! \n<story>Let's get to the top and have dinner together!"
+        },
+        {
+            "text": "Now that we're done running, let's play with fireworks! \nLook, Trainer! It's a pinwheel firework! Look at it spin!",
+            "name": "Tokai Teio",
+            "path_id": -7765801543872302878,
+            "block_id": 12,
+            "clip_length": 255,
+            "processed": "<story>Now that we're done running, let's play with fireworks! \n<story>Look, Trainer! It's a pinwheel firework! Look at it spin!"
+        },
+        {
+            "text": "Ahahaha! I want to jump more! Just like this!",
+            "name": "Tokai Teio",
+            "path_id": 7780618696754529287,
+            "block_id": 13,
+            "clip_length": 262,
+            "processed": "<story>Ahahaha! I want to jump more! Just like this!"
+        },
+        {
+            "text": "I did my best to keep up with Tokai Teio's intensity, but…",
+            "name": "",
+            "path_id": -625621881920317015,
+            "block_id": 14,
+            "clip_length": 93,
+            "processed": "<story>I did my best to keep up with Tokai Teio's intensity, but…"
+        },
+        {
+            "text": "It's morning! Let's do our best today! \nWhoo! Let's run together, then do \nsome swimming, and then…",
+            "name": "Tokai Teio",
+            "path_id": 8444331348525140279,
+            "block_id": 15,
+            "clip_length": 301,
+            "processed": "<story>It's morning! Let's do our best today! \n<story>Whoo! Let's run together, then do \n<story>some swimming, and then…"
+        },
+        {
+            "text": "Huh? Trainer?! Trainer!!",
+            "name": "Tokai Teio",
+            "path_id": 5590707099160770730,
+            "block_id": 16,
+            "clip_length": 136,
+            "processed": "<story>Huh? Trainer?! Trainer!!"
+        },
+        {
+            "text": "As I opened my eyes, I noticed \nthat I was lying flat on a cold, wooden floor.",
+            "name": "",
+            "path_id": 1975828764386292333,
+            "block_id": 17,
+            "clip_length": 90,
+            "processed": "<story>As I opened my eyes, I noticed \n<story>that I was lying flat on a cold, wooden floor."
+        },
+        {
+            "text": "Oh, Trainer, are you awake? \nYou just suddenly fell. I was so surprised.",
+            "name": "Tokai Teio",
+            "path_id": 8497123621706756007,
+            "block_id": 18,
+            "clip_length": 251,
+            "choices": [
+                {
+                    "text": "How long have I been out?",
+                    "hash": "39c13bbcac910a0152e023425fc67a46b7557f82e4a907bc729122163b5e6351"
+                },
+                {
+                    "text": "How long have I been out?",
+                    "hash": "ccf84441f616318492ac161ac4d7e48d5ae8581a32b05fae959ce3cc364d3db8"
+                }
+            ],
+            "processed": "<story>Oh, Trainer, are you awake? \n<story>You just suddenly fell. I was so surprised."
+        },
+        {
+            "text": "About 30 minutes. But don't worry about my training! \nWe'll be fine as long as we just get back \ninto training. I'm so excited for more training♪",
+            "name": "Tokai Teio",
+            "path_id": -4625472149413096661,
+            "block_id": 19,
+            "clip_length": 284,
+            "processed": "<story>About 30 minutes. But don't worry about my training! \n<story>We'll be fine as long as we just get back \n<story>into training. I'm so excited for more training♪"
+        },
+        {
+            "text": "But why did you collapse? \nHave you not been getting enough sleep?",
+            "name": "Tokai Teio",
+            "path_id": 1472644091599297866,
+            "block_id": 20,
+            "clip_length": 134,
+            "processed": "<story>But why did you collapse? \n<story>Have you not been getting enough sleep?"
+        },
+        {
+            "text": "Oh, I think I get it! You were so excited that you couldn't \nsleep, huh? Hehe, I didn't get much sleep either. \nI was up all night gaming…",
+            "name": "Tokai Teio",
+            "path_id": 3058794846734815936,
+            "block_id": 21,
+            "clip_length": 314,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "b5999fb8c439aedc310fc22e9b23faada72dc7422a48e55a6526491f7b19cc31"
+                }
+            ],
+            "processed": "<story>Oh, I think I get it! You were so excited that you couldn't \n<story>sleep, huh? Hehe, I didn't get much sleep either. \n<story>I was up all night gaming…"
+        },
+        {
+            "text": "Hmm? Why are you so quiet? \nOh, I bet it's 'cause I got it right! \nAhaha! Staying in a new place is just so exciting!",
+            "name": "Tokai Teio",
+            "path_id": -3184948184221129141,
+            "block_id": 22,
+            "clip_length": 256,
+            "processed": "<story>Hmm? Why are you so quiet? \n<story>Oh, I bet it's 'cause I got it right! \n<story>Ahaha! Staying in a new place is just so exciting!"
+        },
+        {
+            "text": "Wait…? Trainer, were you always \nthat excitable? Something feels off… wait!",
+            "name": "Tokai Teio",
+            "path_id": -2921310380713374266,
+            "block_id": 23,
+            "clip_length": 283,
+            "processed": "<story>Wait…? Trainer, were you always \n<story>that excitable? Something feels off… wait!"
+        },
+        {
+            "text": "Did you collapse because of me?! \nWas it 'cause I dragged you along so much…?",
+            "name": "Tokai Teio",
+            "path_id": -2873656433027846485,
+            "block_id": 24,
+            "clip_length": 198,
+            "processed": "<story>Did you collapse because of me?! \n<story>Was it 'cause I dragged you along so much…?"
+        },
+        {
+            "text": "………",
+            "name": "Tokai Teio",
+            "path_id": 5667568240155825289,
+            "block_id": 25,
+            "clip_length": 49,
+            "processed": "<story>………"
+        },
+        {
+            "text": "I knew it… you're not as strong as I am. \nYet I still forced you to do so much training…",
+            "name": "Tokai Teio",
+            "path_id": 6855747236856905001,
+            "block_id": 26,
+            "clip_length": 284,
+            "choices": [
+                {
+                    "text": "Don't worry about it, let's go back to training…",
+                    "hash": "81b163e873a03c956a3caab9cd2f703e092f343e5e16e9bddba0059eccbee799",
+                    "processed": "<size=35>Don't worry about it, let's go back to training…</size>"
+                },
+                {
+                    "text": "Don't worry about it, let's go back to training…",
+                    "hash": "5b8e6359ac3191ba1eacfad4799d06269bf60198a358da563154d110a56f436a",
+                    "processed": "<size=35>Don't worry about it, let's go back to training…</size>"
+                }
+            ],
+            "processed": "<story>I knew it… you're not as strong as I am. \n<story>Yet I still forced you to do so much training…"
+        },
+        {
+            "text": "Trainer…",
+            "name": "Tokai Teio",
+            "path_id": 8508545381299384868,
+            "block_id": 27,
+            "clip_length": 41,
+            "processed": "<story>Trainer…"
+        },
+        {
+            "text": "There's no way I could let her take a day off. \nShe's way too self-conscious, \nshe'd be very upset if we were to do so.",
+            "name": "",
+            "path_id": 727625399467927829,
+            "block_id": 28,
+            "clip_length": 116,
+            "processed": "<story>There's no way I could let her take a day off. \n<story>She's way too self-conscious, \n<story>she'd be very upset if we were to do so."
+        },
+        {
+            "text": "So I need to bear with this…",
+            "name": "",
+            "path_id": 1163859128823435181,
+            "block_id": 29,
+            "clip_length": 69,
+            "processed": "<story>So I need to bear with this…"
+        },
+        {
+            "text": "Trainer, I'm going to take today off…",
+            "name": "Tokai Teio",
+            "path_id": -1830184425066257665,
+            "block_id": 30,
+            "clip_length": 140,
+            "choices": [
+                {
+                    "text": "Huh?",
+                    "hash": "70d75f777e27a8d02f7b0930ccd2e5c68883e2212cae2448bd70c796cf4e2d7e"
+                }
+            ],
+            "processed": "<story>Trainer, I'm going to take today off…"
+        },
+        {
+            "text": "Don't say \"huh\"! We're taking \ntoday off, got it?! No training, only rest!",
+            "name": "Tokai Teio",
+            "path_id": 5988903426411424388,
+            "block_id": 31,
+            "clip_length": 192,
+            "processed": "<story>Don't say \"huh\"! We're taking \n<story>today off, got it?! No training, only rest!"
+        },
+        {
+            "text": "You still look pale, so I'm not going to force you to \npush yourself. So it's decided. No more training today!",
+            "name": "Tokai Teio",
+            "path_id": -5199291215370121435,
+            "block_id": 32,
+            "clip_length": 239,
+            "choices": [
+                {
+                    "text": "But I need to help you catch up to the President…",
+                    "hash": "82c620bfee94e7aaed4a4fa707a0e4f98577532b0a40d8697b11fbee5d6a9e5e",
+                    "processed": "<size=33>But I need to help you catch up to the President…</size>"
+                }
+            ],
+            "processed": "<story>You still look pale, so I'm not going to force you to \n<story>push yourself. So it's decided. No more training today!"
+        },
+        {
+            "text": "Nngh… I may not be able to reach that goal \nas soon as I had thought, but that doesn't matter!",
+            "name": "Tokai Teio",
+            "path_id": -6695423505288332134,
+            "block_id": 33,
+            "clip_length": 224,
+            "processed": "<story>Nngh… I may not be able to reach that goal \n<story>as soon as I had thought, but that doesn't matter!"
+        },
+        {
+            "text": "Without you, I wouldn't be able to grow! \nPlus… it wouldn't be like me.",
+            "name": "Tokai Teio",
+            "path_id": -9197048939180062227,
+            "block_id": 34,
+            "clip_length": 214,
+            "processed": "<story>Without you, I wouldn't be able to grow! \n<story>Plus… it wouldn't be like me."
+        },
+        {
+            "text": "I'm not sure how to put it, but I don't like the \nidea of not having you. That being said, Prez \ndoes train alone…",
+            "name": "Tokai Teio",
+            "path_id": 7544384547765556235,
+            "block_id": 35,
+            "clip_length": 218,
+            "processed": "<story>I'm not sure how to put it, but I don't like the \n<story>idea of not having you. That being said, Prez \n<story>does train alone…"
+        },
+        {
+            "text": "I want to move forward with everyone.",
+            "name": "Tokai Teio",
+            "path_id": 7872414385212476957,
+            "block_id": 36,
+            "clip_length": 143,
+            "processed": "<story>I want to move forward with everyone."
+        },
+        {
+            "text": "With the sounds of the cicadas \nsurrounding us, Tokai Teio began her story.",
+            "name": "",
+            "path_id": -6085710551967317105,
+            "block_id": 37,
+            "clip_length": 127,
+            "processed": "<story>With the sounds of the cicadas \n<story>surrounding us, Tokai Teio began her story."
+        },
+        {
+            "text": "I want to have fun. Of course I want to win, but \nI want to win in a cool way! A way that I can be \nproud of, and that I can be praised for.",
+            "name": "Tokai Teio",
+            "path_id": 7038532212949316368,
+            "block_id": 38,
+            "clip_length": 288,
+            "processed": "<story>I want to have fun. Of course I want to win, but \n<story>I want to win in a cool way! A way that I can be \n<story>proud of, and that I can be praised for."
+        },
+        {
+            "text": "I want to continue to be able to celebrate my victories with you, \nlike we did at the arcade the other day. With you, and with \nmy friends. But more than that…",
+            "name": "Tokai Teio",
+            "path_id": 7399583320794832484,
+            "block_id": 39,
+            "clip_length": 343,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "d38d04707d3cb3f4f7426a3c058ff769a74f178866575703b259d6c5ead73704"
+                }
+            ],
+            "processed": "<story>I want to continue to be able to celebrate my victories with you, \n<story>like we did at the arcade the other day. With you, and with \n<story>my friends. But more than that…"
+        },
+        {
+            "text": "I know that bad things might happen before we \nmake it there. I may be unbeatable, but there \nare things that even I can't control.",
+            "name": "Tokai Teio",
+            "path_id": 1424474757387846425,
+            "block_id": 40,
+            "clip_length": 302,
+            "processed": "<story>I know that bad things might happen before we \n<story>make it there. I may be unbeatable, but there \n<story>are things that even I can't control."
+        },
+        {
+            "text": "Yeah, just like that one time. Remember how when \nI went overboard and hurt myself, you helped me \nout? Just like that.",
+            "name": "Tokai Teio",
+            "path_id": 3312978884309886278,
+            "block_id": 41,
+            "clip_length": 259,
+            "processed": "<story>Yeah, just like that one time. Remember how when \n<story>I went overboard and hurt myself, you helped me \n<story>out? Just like that."
+        },
+        {
+            "text": "Prez may be able to do things on her own, \nbut I have people that I can rely on.",
+            "name": "Tokai Teio",
+            "path_id": 3451907408074701669,
+            "block_id": 42,
+            "clip_length": 272,
+            "processed": "<story>Prez may be able to do things on her own, \n<story>but I have people that I can rely on."
+        },
+        {
+            "text": "So without you, I'd be in a real bad spot. \nI wouldn't know what to do. So…",
+            "name": "Tokai Teio",
+            "path_id": -5845992639237302460,
+            "block_id": 43,
+            "clip_length": 209,
+            "choices": [
+                {
+                    "text": "Teio…",
+                    "hash": "391e14d299efcc20f4efd9656b879181b1c19b7b4d2aae96ef2d7c82939d18d7"
+                }
+            ],
+            "processed": "<story>So without you, I'd be in a real bad spot. \n<story>I wouldn't know what to do. So…"
+        },
+        {
+            "text": "Let's take today off. Ahem! Changing the \nschedule based on the situation is super \nimportant, Trainer-kun.",
+            "name": "Tokai Teio",
+            "path_id": 8350087064570701114,
+            "block_id": 44,
+            "clip_length": 224,
+            "choices": [
+                {
+                    "text": "Wait, isn't that…",
+                    "hash": "9781883ba8850824eecd82c59cfd7192bb949855aa528e97e3f765914cfe7f9e"
+                },
+                {
+                    "text": "Wait, isn't that…",
+                    "hash": "3f8802cf1f2a83e96eb3b05644deea2eec972d3b3f16ea26d730364eed412bfe"
+                }
+            ],
+            "processed": "<story>Let's take today off. Ahem! Changing the \n<story>schedule based on the situation is super \n<story>important, Trainer-kun."
+        },
+        {
+            "text": "Ahaha, you remembered? This is payback♪ Now that \nyou've collapsed from overwork, it's my turn to \nteach you a lesson!",
+            "name": "Tokai Teio",
+            "path_id": 5762887651434494907,
+            "block_id": 45,
+            "clip_length": 278,
+            "processed": "<story>Ahaha, you remembered? This is payback♪ Now that \n<story>you've collapsed from overwork, it's my turn to \n<story>teach you a lesson!"
+        },
+        {
+            "text": "Ooh! Why don't I give you a massage?",
+            "name": "Tokai Teio",
+            "path_id": 1762968795126259877,
+            "block_id": 46,
+            "clip_length": 105,
+            "processed": "<story>Ooh! Why don't I give you a massage?"
+        },
+        {
+            "text": "Tickle tickle tickle tickle tickle tickle!",
+            "name": "Tokai Teio",
+            "path_id": -391119347452751935,
+            "block_id": 47,
+            "clip_length": 105,
+            "processed": "<story>Tickle tickle tickle tickle tickle tickle!"
+        },
+        {
+            "text": "The two of us played around, joking and laughing. Then…",
+            "name": "",
+            "path_id": -1546088275006070243,
+            "block_id": 48,
+            "clip_length": 80,
+            "processed": "<story>The two of us played around, joking and laughing. Then…"
+        },
+        {
+            "text": "Hey, Trainer. I'm fine with \ncalling off training today, but in exchange…",
+            "name": "Tokai Teio",
+            "path_id": 1558401379296036217,
+            "block_id": 49,
+            "clip_length": 165,
+            "processed": "<story>Hey, Trainer. I'm fine with \n<story>calling off training today, but in exchange…"
+        },
+        {
+            "text": "Why don't we go to the summer festival together tonight? \nI bet we'll have a lot of fun. So how about it?",
+            "name": "Tokai Teio",
+            "path_id": 699750485667804692,
+            "block_id": 50,
+            "clip_length": 193,
+            "choices": [
+                {
+                    "text": "Sure, why not?",
+                    "hash": "7a560b46f5c22a4f579d1487e710a98573551fd43b48c96bfd1f5bd6e9de0e40"
+                },
+                {
+                    "text": "Sure, why not?",
+                    "hash": "526fb3ffd96c042e3db22add6f3ef2aac1a1c06157890dc54bc983247a2f931a"
+                }
+            ],
+            "processed": "<story>Why don't we go to the summer festival together tonight? \n<story>I bet we'll have a lot of fun. So how about it?"
+        },
+        {
+            "text": "Yay! It's a promise! Let's have a lot of fun, \nand eat a whole bunch of food!",
+            "name": "Tokai Teio",
+            "path_id": -1996104113003180185,
+            "block_id": 51,
+            "clip_length": 238,
+            "processed": "<story>Yay! It's a promise! Let's have a lot of fun, \n<story>and eat a whole bunch of food!"
+        },
+        {
+            "text": "Woah, it's so shiny and sparkly♪ Hey, Trainer! \nLet's go and buy some masks! Which one should I get?",
+            "name": "Tokai Teio",
+            "path_id": 1856022015251029666,
+            "block_id": 52,
+            "clip_length": 286,
+            "processed": "<story>Woah, it's so shiny and sparkly♪ Hey, Trainer! \n<story>Let's go and buy some masks! Which one should I get?"
+        },
+        {
+            "text": "Mister, I gimme two! I'll have that one! \nYeah, the pink one please♪",
+            "name": "Tokai Teio",
+            "path_id": -4521877538900795289,
+            "block_id": 53,
+            "clip_length": 194,
+            "processed": "<story>Mister, I gimme two! I'll have that one! \n<story>Yeah, the pink one please♪"
+        },
+        {
+            "text": "The sound of her joyous voice resounded through the night. \nShe ran, played, and laughed throughout the night. And \nafterwards, she proceeded through the training, full speed ahead.",
+            "name": "",
+            "path_id": -2657908647034766021,
+            "block_id": 54,
+            "clip_length": 131,
+            "processed": "<story>The sound of her joyous voice resounded through the night. \n<story>She ran, played, and laughed throughout the night. And \n<story>afterwards, she proceeded through the training, full speed ahead."
+        }
+    ],
+    "title": "I'm not alone!"
+}
