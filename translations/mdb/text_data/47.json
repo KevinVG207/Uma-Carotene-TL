@@ -716,6 +716,10 @@
         "text": "Jingle All the Way",
         "hash": "9c77ed2e3c63e785edf6045958a5e87aac6d40234289adfb3c714a9afa9efbaa"
     },
+    "110651": {
+        "text": "It's Mashup Time!",
+        "hash": "f91b50af5b35f82762456423d412fd3d5798124d29ac097b675d58dd0a2961f0"
+    },
     "110671": {
         "text": "Arrow of Gold, Break up the Dark Clouds",
         "hash": "fdbf0ea817b8dc4ded596deed624111cb61decd4b8e4a8561fdcac345557dabb",
@@ -741,6 +745,10 @@
     "110831": {
         "text": "Immortal Work",
         "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
+    },
+    "110851": {
+        "text": "Sapphire Flame",
+        "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
     },
     "120011": {
         "text": "Dignified Dreamlike Brocade",
@@ -2958,6 +2966,14 @@
         "text": "Pioneer",
         "hash": "1e1e67daadd0521bd73c8df7841241a8356817d2caf31db764caa0ab91335aaf"
     },
+    "202961": {
+        "text": "Ardour",
+        "hash": "f2e57a8d3ae4ac7de5f2a39a8741354adc51a45989f59aa2978da5da350fc0d0"
+    },
+    "202962": {
+        "text": "Boiling Emotions",
+        "hash": "c076dca54c2874acacabe301a284514aaac5bfa83857373bee41c5927c5ab54f"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -3822,6 +3838,10 @@
         "text": "Jingle All the Way",
         "hash": "9c77ed2e3c63e785edf6045958a5e87aac6d40234289adfb3c714a9afa9efbaa"
     },
+    "910651": {
+        "text": "It's Mashup Time!",
+        "hash": "f91b50af5b35f82762456423d412fd3d5798124d29ac097b675d58dd0a2961f0"
+    },
     "910671": {
         "text": "Arrow of Gold, Break up the Dark Clouds",
         "hash": "fdbf0ea817b8dc4ded596deed624111cb61decd4b8e4a8561fdcac345557dabb",
@@ -3847,6 +3867,10 @@
     "910831": {
         "text": "Immortal Work",
         "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
+    },
+    "910851": {
+        "text": "Sapphire Flame",
+        "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
     },
     "920011": {
         "text": "Dignified Dreamlike Brocade",
@@ -4237,6 +4261,10 @@
         "text": "Unparalleled Bravery",
         "hash": "4382c253a31baea0ee78bd1040eea70156f78ef5e6f833997d02a3a802a157fd"
     },
+    "101402121": {
+        "text": "Condor Leap",
+        "hash": "ae2735e4f815f2eb10b7a1677cba024494f123d2bd668af0915ab484364b7f39"
+    },
     "101402211": {
         "text": "Rising Condor",
         "hash": "deed524a3893e3ca2c68373bd4d57d6b1f9e497c040c0dc0c3e216e2036686da"
@@ -4394,6 +4422,11 @@
         "text": "Morrígan's Spear",
         "hash": "c30c013b71e330b3d3a74ca18af0380e28ed95f8e000b9189fe8b56b7b74d704"
     },
+    "102202221": {
+        "text": "Ideal-Seeking Determination",
+        "hash": "a82d246c082aa386b0489929096cc3bc57894f0050673aa0a81621212ba601e9",
+        "processed": "<sc=86>Ideal-Seeking Determination"
+    },
     "102301111": {
         "text": "Exactly As Planned",
         "hash": "b3e0dd121bade1b45b4c100612b09eff361c3f3771a4485b5b428304f4e90e50"
@@ -4494,6 +4527,10 @@
         "text": "Seasoned Sledder's Swoop",
         "hash": "e2a5335c72ebccefbca598c8ad2201321c6788d4349b878f1a851fdfc5d5556a",
         "processed": "<sc=90>Seasoned Sledder's Swoop"
+    },
+    "102901221": {
+        "text": "Steadfast Determination",
+        "hash": "e876b009e502aba672a7180895188004ca124ccccffd2a6d6de150ab1692364f"
     },
     "102902111": {
         "text": "One More Push!",
@@ -4967,6 +5004,10 @@
         "hash": "26c1225a732f4dc07deef62efe28075a2b9dc6614529b580dd791a62195141b9",
         "processed": "<sc=75>I Want To Be More Adventurous!"
     },
+    "105902121": {
+        "text": "Step with Confidence",
+        "hash": "4ab3d91855cd9a24f010ba34dee055e00e82a520f2ea1aa5617ba700410fdcd4"
+    },
     "105902211": {
         "text": "First Step To Recovery",
         "hash": "cd792eb11679e4c43b2be03934ecacf91fdc07b7f3343884807df1086e5762ae"
@@ -5062,6 +5103,15 @@
     "106501211": {
         "text": "Just Do It!",
         "hash": "71eead6b3447eb59f23faa3f423d3f9c95765f02cdf1f7ac7fbc21f4a6ba0283"
+    },
+    "106502111": {
+        "text": "Ahead of the Trend☆",
+        "hash": "e45c48879aebb499e09c998267c084cf58d10dd578b5d0002f21e4f5993e171f"
+    },
+    "106502211": {
+        "text": "Emergence of the Mile☆God",
+        "hash": "f3964818ead2ce93778e163596adf5e282951537ad2007dd00bd09415306933e",
+        "processed": "<sc=87>Emergence of the Mile☆God"
     },
     "106601111": {
         "text": "Ten Million Percent Output!!",
@@ -5270,6 +5320,14 @@
         "text": "Pursuing Greater Brilliance",
         "hash": "53c3f40bfa8dc6f736bcc73410deb22a34718aee2d4561d35d901872f3684099",
         "processed": "<sc=91>Pursuing Greater Brilliance"
+    },
+    "108502111": {
+        "text": "Thunderclap",
+        "hash": "445482b21788e9f5fcce21f0abf13f3bd8e6bf090adefc2be257e68e7b303cd8"
+    },
+    "108502211": {
+        "text": "Until Only Ashes Remain",
+        "hash": "10c26c04298a073a680eabfeaaf187ca10902f02db44ed837d9befc04e313d30"
     },
     "108601111": {
         "text": "Pure Love",
