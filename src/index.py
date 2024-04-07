@@ -126,7 +126,7 @@ def load_asset_data(row_metadata):
         print(f"\nUser has not downloaded story data {file_name} ({hash}) or the hash has changed. Skipping.")
         return
 
-    root = unity.load_assetbundle(file_path, hash)
+    _, root = unity.load_assetbundle(file_path, hash)
 
     if not root:
         return
@@ -392,7 +392,7 @@ def index_one_lyric(metadata):
     tl_path = os.path.join(util.ASSETS_FOLDER, "lyrics", file_name.split("/")[2][1:] + ".json")
     os.makedirs(os.path.dirname(write_path), exist_ok=True)
     
-    root = unity.load_assetbundle(file_path, hash)
+    _, root = unity.load_assetbundle(file_path, hash)
 
     if not root:
         return
@@ -523,7 +523,7 @@ def index_textures_from_assetbundle(metadata):
                 os.remove(shortcut_out)
     
     try:
-        root = unity.load_assetbundle(file_path, hash)
+        _, root = unity.load_assetbundle(file_path, hash)
     except:
         print(f"\nError loading texture {file_name}. Skipping.")
         return
@@ -743,7 +743,7 @@ def index_flash_text_from_assetbundle(metadata):
             shutil.copy(meta_file_path, meta_file_path + f".{round(time.time())}")
 
     try:
-        root = unity.load_assetbundle(file_path, hash)
+        _, root = unity.load_assetbundle(file_path, hash)
     except:
         print(f"\nError loading flash {file_name}. Skipping.")
         return

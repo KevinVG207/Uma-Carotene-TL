@@ -24,11 +24,9 @@ def load_assetbundle(path, hash):
         except IndexError:
             root = None
 
-    return root
+    return asset, root
 
-def load_asset(path):
-    if not os.path.exists(path):
-        raise FileNotFoundError(f"Path {path} does not exist. Cannot load asset.")
-    asset = UnityPy.load(path)
 
-    return asset
+def load_asset_from_hash(hash):
+    path = util.get_asset_path(hash)
+    return load_assetbundle(path, hash)
