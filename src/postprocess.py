@@ -192,6 +192,10 @@ def fix_mdb():
 
 def _fix_story(story_data):
     json_data, path = story_data
+
+    if json_data['file_name'].startswith("home/"):
+        return
+
     for block in json_data['data']:
         # Add story tags
         if block.get('text'):
