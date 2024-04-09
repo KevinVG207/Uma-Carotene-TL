@@ -744,6 +744,10 @@
         "text": "[Cheers!]",
         "hash": "c5b81c4e1d09dc9df26d28c4717837f4e3056cdef03e5ea5ecf4e945db990bd2"
     },
+    "20076": {
+        "text": "[Roadside Feedback]",
+        "hash": "85fc994ffcd311f3b5cce9982ebce2492ffdda56db3520a4479be2617c7afcc5"
+    },
     "30001": {
         "text": "[Japan's Number 1 Stage]",
         "hash": "15e94e3d710f8f0491ed4cfe4fdda657fd889d232c6f5d26e0c822eb9699dc77"
@@ -1546,6 +1550,10 @@
         "hash": "0bdca2d4c8e6da1a83e07e8f5dac07716508f6d4fbcd795c02a98686bc176677",
         "processed": "<sc=93>[My Brilliante Melody for You]"
     },
+    "30192": {
+        "text": "[Treasured Révérence]",
+        "hash": "6f7e85f5ca88f744d1032ec6ef0193caad4193de24f189a11f38e86315fa4571"
+    },
     "30193": {
         "text": "[Over the Ocean]",
         "hash": "e8961135ed88007c168ff00aa996e02af7ab76f7d52f370ef6f1384f212b8cc2"
@@ -1565,5 +1573,9 @@
     "30197": {
         "text": "[Burning!!]",
         "hash": "b473d42efcf2cce0ba656bd2918fe7d7370f2b1623aa537307588e38f73662e4"
+    },
+    "30198": {
+        "text": "[To the V.E.R.2285 You]",
+        "hash": "7f37edbfc6f6d9875327671459d6740d43b981ca580214ea9a0c019b1c05d65c"
     }
 }
