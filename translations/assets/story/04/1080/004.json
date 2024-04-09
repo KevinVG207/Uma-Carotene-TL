@@ -1,20 +1,20 @@
 {
     "type": "story",
-    "row_index": 225030,
+    "row_index": 35749,
     "file_name": "story/data/04/1080/storytimeline_041080004",
-    "hash": "2SSRGGIEKKLQN4E3ADS2RYRNMNB54HUU",
+    "hash": "6B24BJXTMAGKHNB2UCF7XQV64KPX66M7",
     "data": [
         {
             "text": "",
             "name": "",
-            "path_id": -6056310260837618349,
+            "path_id": -7536590734972361696,
             "block_id": 0,
             "clip_length": 45
         },
         {
             "text": "I've made up my mind. \nToday is the day I will scout Transcend.",
             "name": "",
-            "path_id": 1588799691527617897,
+            "path_id": 17945897580883339,
             "block_id": 1,
             "clip_length": 80,
             "processed": "<story>I've made up my mind. \n<story>Today is the day I will scout Transcend."
@@ -22,7 +22,7 @@
         {
             "text": "Tray-chan, Tray-chan! That pen you have... It's from \nthat crowdfunder! Now we match, heck yeah!",
             "name": "Transcend",
-            "path_id": 584008253441607200,
+            "path_id": 5977166878868006712,
             "block_id": 2,
             "clip_length": 237,
             "processed": "<story>Tray-chan, Tray-chan! That pen you have... It's from \n<story>that crowdfunder! Now we match, heck yeah!"
@@ -30,7 +30,7 @@
         {
             "text": "It's so useful, right? \nIt works on your phone too and it's so accurate.",
             "name": "Transcend",
-            "path_id": 2822826450910479681,
+            "path_id": 3330982872544213961,
             "block_id": 3,
             "clip_length": 202,
             "processed": "<story>It's so useful, right? \n<story>It works on your phone too and it's so accurate."
@@ -38,7 +38,7 @@
         {
             "text": "Ah, you brought hot chocolate today? And the snacks... \nOoh! I've seen these starting to blow up online. \nThey'll be sold out in no-time.",
             "name": "Transcend",
-            "path_id": 3260275553117662091,
+            "path_id": -6756204636626841364,
             "block_id": 4,
             "clip_length": 346,
             "processed": "<story>Ah, you brought hot chocolate today? And the snacks... \n<story>Ooh! I've seen these starting to blow up online. \n<story>They'll be sold out in no-time."
@@ -46,7 +46,7 @@
         {
             "text": "Our relation is still the same as it has been. \nI'm afraid I've grown too accustomed to this atmosphere. \nIt's making it hard for me to bring it up...",
             "name": "",
-            "path_id": -337492995923612967,
+            "path_id": 379455326935162446,
             "block_id": 5,
             "clip_length": 115,
             "processed": "<story>Our relation is still the same as it has been. \n<story>I'm afraid I've grown too accustomed to this atmosphere. \n<story>It's making it hard for me to bring it up..."
@@ -54,7 +54,7 @@
         {
             "text": "I <i>know</i> this is supposed to be my job, and I shouldn't \nhave to worry about it so much...",
             "name": "",
-            "path_id": 855587509568379682,
+            "path_id": 4928924476848798583,
             "block_id": 6,
             "clip_length": 103,
             "processed": "<story>I <i>know</i> this is supposed to be my job, and I shouldn't \n<story>have to worry about it so much..."
@@ -62,7 +62,7 @@
         {
             "text": "I just think she might refuse...",
             "name": "",
-            "path_id": 8132409895508106769,
+            "path_id": -5202299554963930117,
             "block_id": 7,
             "clip_length": 60,
             "processed": "<story>I just think she might refuse..."
@@ -70,7 +70,7 @@
         {
             "text": "It feels like she's just here to help me look for girls \nto scout. Not once has she tried to present herself \nto me as a potential...",
             "name": "",
-            "path_id": -8303072773152047429,
+            "path_id": 5194238754088521286,
             "block_id": 8,
             "clip_length": 119,
             "processed": "<story>It feels like she's just here to help me look for girls \n<story>to scout. Not once has she tried to present herself \n<story>to me as a potential..."
@@ -78,7 +78,7 @@
         {
             "text": "You seem tired, Tray-chan... \nToo much research lately?",
             "name": "Transcend",
-            "path_id": -6470001930745796164,
+            "path_id": -3751236507469466149,
             "block_id": 9,
             "clip_length": 144,
             "processed": "<story>You seem tired, Tray-chan... \n<story>Too much research lately?"
@@ -86,7 +86,7 @@
         {
             "text": "Yes, yes... In that case... \nWhy don't I energize you with some info I got recently \nabout a girl with crazy potential!",
             "name": "Transcend",
-            "path_id": 6990752235055274533,
+            "path_id": 1077402691769078535,
             "block_id": 10,
             "clip_length": 268,
             "choices": [
@@ -100,7 +100,7 @@
         {
             "text": "I take a deep breath to clear my mind. \nEven though I fear getting rejected, the regret of \nnot scouting her might be worse...",
             "name": "",
-            "path_id": -8169076638433110376,
+            "path_id": -2417946042305263100,
             "block_id": 11,
             "clip_length": 107,
             "processed": "<story>I take a deep breath to clear my mind. \n<story>Even though I fear getting rejected, the regret of \n<story>not scouting her might be worse..."
@@ -108,7 +108,7 @@
         {
             "text": "Hmm? \nOr perhaps... You already found your pick?",
             "name": "Transcend",
-            "path_id": 3687574897373188570,
+            "path_id": 5095216548759840508,
             "block_id": 12,
             "clip_length": 143,
             "choices": [
@@ -122,7 +122,7 @@
         {
             "text": "Or are you still thinking about it? Look, how about \nyou just listen to me. My info won't disappoint.",
             "name": "Transcend",
-            "path_id": -8804037436460748736,
+            "path_id": 6892319595640148083,
             "block_id": 13,
             "clip_length": 282,
             "processed": "<story>Or are you still thinking about it? Look, how about \n<story>you just listen to me. My info won't disappoint."
@@ -130,7 +130,7 @@
         {
             "text": "I was about to be ready to tell her and not regret it... \nBut without thinking, I went along with her sudden \npushy request and nodded in agreement.",
             "name": "",
-            "path_id": 6959166106109704883,
+            "path_id": 2970329575948739137,
             "block_id": 14,
             "clip_length": 111,
             "processed": "<story>I was about to be ready to tell her and not regret it... \n<story>But without thinking, I went along with her sudden \n<story>pushy request and nodded in agreement."
@@ -138,7 +138,7 @@
         {
             "text": "Perfect. Now, about her... \nActually, it'd be better if you went to see in person.",
             "name": "Transcend",
-            "path_id": 2720104841422415472,
+            "path_id": 3211157464640802681,
             "block_id": 15,
             "clip_length": 265,
             "processed": "<story>Perfect. Now, about her... \n<story>Actually, it'd be better if you went to see in person."
@@ -146,7 +146,7 @@
         {
             "text": "She told me to meet her in front of the dorms. \nWhen I arrived—",
             "name": "",
-            "path_id": 7980225010938938121,
+            "path_id": 6946582601102521771,
             "block_id": 16,
             "clip_length": 98,
             "processed": "<story>She told me to meet her in front of the dorms. \n<story>When I arrived—"
@@ -154,7 +154,7 @@
         {
             "text": "Ah, there you are!",
             "name": "Transcend",
-            "path_id": -7499875105890356449,
+            "path_id": 2289469639365910482,
             "block_id": 17,
             "clip_length": 67,
             "choices": [
@@ -168,7 +168,7 @@
         {
             "text": "Well, I'd stand out in the school's uniform. \nNow, come with me!",
             "name": "Transcend",
-            "path_id": 2785187407092447528,
+            "path_id": -7512857404735738981,
             "block_id": 18,
             "clip_length": 163,
             "processed": "<story>Well, I'd stand out in the school's uniform. \n<story>Now, come with me!"
@@ -176,7 +176,7 @@
         {
             "text": "She brought me to a vintage café. \n... This special umamusume is supposed to be here?",
             "name": "",
-            "path_id": -678871785717296275,
+            "path_id": 8080025417096142725,
             "block_id": 19,
             "clip_length": 99,
             "processed": "<story>She brought me to a vintage café. \n<story>... This special umamusume is supposed to be here?"
@@ -184,7 +184,7 @@
         {
             "text": "Great atmosphere, right? Did you know, \nthis place has a mystery menu at certain times of day?",
             "name": "Transcend",
-            "path_id": 9071615555803391049,
+            "path_id": 4258326824004555248,
             "block_id": 20,
             "clip_length": 263,
             "choices": [
@@ -202,7 +202,7 @@
         {
             "text": "It doesn't taste bad, but the ingredients are secret. \nIf you wanna find out, we can try it together sometime.",
             "name": "Transcend",
-            "path_id": 8204147677343580718,
+            "path_id": 7125438752405137133,
             "block_id": 21,
             "clip_length": 255,
             "choices": [
@@ -216,7 +216,7 @@
         {
             "text": "I've been looking around, but there are no other \numamusume in the café. I tilt my head in confusion.",
             "name": "",
-            "path_id": -8615466320167642933,
+            "path_id": -429240611820901272,
             "block_id": 22,
             "clip_length": 103,
             "processed": "<story>I've been looking around, but there are no other \n<story>umamusume in the café. I tilt my head in confusion."
@@ -224,7 +224,7 @@
         {
             "text": "Now, now. No need to rush. \nThe day's still young.",
             "name": "Transcend",
-            "path_id": -3705298346420330321,
+            "path_id": -7167143307311878411,
             "block_id": 23,
             "clip_length": 113,
             "processed": "<story>Now, now. No need to rush. \n<story>The day's still young."
@@ -232,7 +232,7 @@
         {
             "text": "Next, she took me to... an amusement park?! \nAnd still, no sign of any other umamusume.",
             "name": "",
-            "path_id": -8336794576588725547,
+            "path_id": -6477221788150311068,
             "block_id": 24,
             "clip_length": 84,
             "processed": "<story>Next, she took me to... an amusement park?! \n<story>And still, no sign of any other umamusume."
@@ -240,7 +240,7 @@
         {
             "text": "You may think this is yet another \nattraction at first glance.",
             "name": "Transcend",
-            "path_id": -5821327167931465325,
+            "path_id": 7201845024789819387,
             "block_id": 25,
             "clip_length": 93,
             "processed": "<story>You may think this is yet another \n<story>attraction at first glance."
@@ -248,7 +248,7 @@
         {
             "text": "But actually, there's a secret store inside it! \nIt's invite-only, and you'll be able to find the world's first—",
             "name": "Transcend",
-            "path_id": -2237595992141076699,
+            "path_id": 3693267190779119873,
             "block_id": 26,
             "clip_length": 315,
             "choices": [
@@ -262,7 +262,7 @@
         {
             "text": "Hmm?",
             "name": "Transcend",
-            "path_id": -1360910230616313746,
+            "path_id": 8285502295649171904,
             "block_id": 27,
             "clip_length": 19,
             "choices": [
@@ -277,7 +277,7 @@
         {
             "text": "Yep, that's right. \nInfo about her interests... Her favorite places to go...",
             "name": "Transcend",
-            "path_id": -6728840102241277773,
+            "path_id": 760262291931880379,
             "block_id": 28,
             "clip_length": 238,
             "choices": [
@@ -291,7 +291,7 @@
         {
             "text": "...... \nNow, let's get a move on!",
             "name": "Transcend",
-            "path_id": 3941324681623733359,
+            "path_id": 1162140750481209219,
             "block_id": 29,
             "clip_length": 111,
             "processed": "<story>...... \n<story>Now, let's get a move on!"
@@ -299,7 +299,7 @@
         {
             "text": "She took me to several other places.",
             "name": "",
-            "path_id": 891932238080173932,
+            "path_id": -6290160584443170801,
             "block_id": 30,
             "clip_length": 81,
             "processed": "<story>She took me to several other places."
@@ -307,7 +307,7 @@
         {
             "text": "All of them were interesting places. \nPlaces which all remind me of one girl in particular...",
             "name": "",
-            "path_id": 7871821303755266261,
+            "path_id": 8824100279324820562,
             "block_id": 31,
             "clip_length": 99,
             "processed": "<story>All of them were interesting places. \n<story>Places which all remind me of one girl in particular..."
@@ -315,7 +315,7 @@
         {
             "text": "It was impossible <i>not</i> to notice.",
             "name": "",
-            "path_id": -4651260010269412350,
+            "path_id": 5085546223898867686,
             "block_id": 32,
             "clip_length": 64,
             "processed": "<story>It was impossible <i>not</i> to notice."
@@ -323,7 +323,7 @@
         {
             "text": "Transcend. \nThe time we spent together... \nRelaxed, like close friends.",
             "name": "",
-            "path_id": -2701213816818701261,
+            "path_id": -3072502346547237278,
             "block_id": 33,
             "clip_length": 101,
             "processed": "<story>Transcend. \n<story>The time we spent together... \n<story>Relaxed, like close friends."
@@ -331,7 +331,7 @@
         {
             "text": "She was merely there to help me with her info. \nScouting her wasn't on my mind for so long...",
             "name": "",
-            "path_id": 3055990508942319441,
+            "path_id": -193498836217566179,
             "block_id": 34,
             "clip_length": 110,
             "processed": "<story>She was merely there to help me with her info. \n<story>Scouting her wasn't on my mind for so long..."
@@ -339,7 +339,7 @@
         {
             "text": "But over time, her running, her way of thinking... \nI realized she might be the treasure I had been looking for.",
             "name": "",
-            "path_id": -5898062040624950807,
+            "path_id": -5428115734039281739,
             "block_id": 35,
             "clip_length": 111,
             "processed": "<story>But over time, her running, her way of thinking... \n<story>I realized she might be the treasure I had been looking for."
@@ -347,7 +347,7 @@
         {
             "text": "... She returned to me the courage that I had lost. \nI slap my cheeks to gather it.",
             "name": "",
-            "path_id": 1156686771680113930,
+            "path_id": -8644846791973885045,
             "block_id": 36,
             "clip_length": 86,
             "processed": "<story>... She returned to me the courage that I had lost. \n<story>I slap my cheeks to gather it."
@@ -355,7 +355,7 @@
         {
             "text": "Did you know they found a new species of flower here? \nIt's not been announced publicly yet, but there's \na picture of it at the reception.",
             "name": "Transcend",
-            "path_id": 4509191402828343948,
+            "path_id": 3377931815814104354,
             "block_id": 37,
             "clip_length": 291,
             "processed": "<story>Did you know they found a new species of flower here? \n<story>It's not been announced publicly yet, but there's \n<story>a picture of it at the reception."
@@ -363,7 +363,7 @@
         {
             "text": "Ooh? I've never seen that flower before! \nIsn't it lovely? Gonna have to look that one up later.",
             "name": "Transcend",
-            "path_id": -1390812952437614382,
+            "path_id": 3552517263752108496,
             "block_id": 38,
             "clip_length": 216,
             "processed": "<story>Ooh? I've never seen that flower before! \n<story>Isn't it lovely? Gonna have to look that one up later."
@@ -371,7 +371,7 @@
         {
             "text": "... So, Tray-chan. \nDid looking at the flowers help you relax?",
             "name": "Transcend",
-            "path_id": 4302020558493119154,
+            "path_id": -2715033281482209082,
             "block_id": 39,
             "clip_length": 257,
             "processed": "<story>... So, Tray-chan. \n<story>Did looking at the flowers help you relax?"
@@ -379,7 +379,7 @@
         {
             "text": "I guess she noticed how nervous I am... \nI cough to clear my throat, and lift my head.",
             "name": "",
-            "path_id": 651712641253867435,
+            "path_id": -5266794937825239691,
             "block_id": 40,
             "clip_length": 88,
             "choices": [
@@ -393,7 +393,7 @@
         {
             "text": "Oho? Who is it? \nI'm sure I'll have info on her.",
             "name": "Transcend",
-            "path_id": -5836581729722725373,
+            "path_id": -243243167286092645,
             "block_id": 41,
             "clip_length": 232,
             "processed": "<story>Oho? Who is it? \n<story>I'm sure I'll have info on her."
@@ -401,7 +401,7 @@
         {
             "text": "It comes at a price, of course!",
             "name": "Transcend",
-            "path_id": 5444512408262465789,
+            "path_id": -8710244785898356653,
             "block_id": 42,
             "clip_length": 85,
             "processed": "<story>It comes at a price, of course!"
@@ -409,7 +409,7 @@
         {
             "text": "To answer the question, I tell her the girl seems calm \nat first glance, but she has a keen eye for data \nand can be a little cheeky.",
             "name": "",
-            "path_id": -3998901951577209101,
+            "path_id": 6622313527648899612,
             "block_id": 43,
             "clip_length": 119,
             "processed": "<story>To answer the question, I tell her the girl seems calm \n<story>at first glance, but she has a keen eye for data \n<story>and can be a little cheeky."
@@ -417,7 +417,7 @@
         {
             "text": "..!",
             "name": "Transcend",
-            "path_id": 6158205213292684905,
+            "path_id": 7167540389805385963,
             "block_id": 44,
             "clip_length": 25,
             "processed": "<story>..!"
@@ -425,7 +425,7 @@
         {
             "text": "I think she's awfully kind and considerate on the inside. \nAt least, that's what she seems like to me.",
             "name": "",
-            "path_id": -2505461535614303731,
+            "path_id": -8306903433852032486,
             "block_id": 45,
             "clip_length": 111,
             "processed": "<story>I think she's awfully kind and considerate on the inside. \n<story>At least, that's what she seems like to me."
@@ -433,7 +433,7 @@
         {
             "text": "Hey now, <i>I'm</i> supposed to be the one to give you \nthat kind of info. It must've rubbed off on you.",
             "name": "Transcend",
-            "path_id": 8424530128865704380,
+            "path_id": 4280003325462561363,
             "block_id": 46,
             "clip_length": 249,
             "processed": "<story>Hey now, <i>I'm</i> supposed to be the one to give you \n<story>that kind of info. It must've rubbed off on you."
@@ -441,7 +441,7 @@
         {
             "text": "With that witty remark, she averts her gaze. \nI try to step into it on purpose and try to continue \nour conversation.",
             "name": "",
-            "path_id": 7236236598331606134,
+            "path_id": -5506073836684528895,
             "block_id": 47,
             "clip_length": 101,
             "processed": "<story>With that witty remark, she averts her gaze. \n<story>I try to step into it on purpose and try to continue \n<story>our conversation."
@@ -449,7 +449,7 @@
         {
             "text": "If I were to scout her, we would be working together \nto reach the race of our dreams. An unknown world, \nthrilling beyond any expectations.",
             "name": "",
-            "path_id": -5057890198873812946,
+            "path_id": -5729755927079798769,
             "block_id": 48,
             "clip_length": 110,
             "processed": "<story>If I were to scout her, we would be working together \n<story>to reach the race of our dreams. An unknown world, \n<story>thrilling beyond any expectations."
@@ -457,7 +457,7 @@
         {
             "text": "That which could never be contained by imagination... \nShe would make it possible to achieve.",
             "name": "",
-            "path_id": 5149027378056207766,
+            "path_id": -9205251002061581243,
             "block_id": 49,
             "clip_length": 111,
             "choices": [
@@ -471,7 +471,7 @@
         {
             "text": "...... \nI might know... a thing or two about that girl.",
             "name": "Transcend",
-            "path_id": -5884966288731737296,
+            "path_id": 4601446168154838019,
             "block_id": 50,
             "clip_length": 298,
             "processed": "<story>...... \n<story>I might know... a thing or two about that girl."
@@ -479,7 +479,7 @@
         {
             "text": "...She says with a sly grin. \nI return a grin of my own.",
             "name": "",
-            "path_id": -8429420792610936472,
+            "path_id": 6664912199165760625,
             "block_id": 51,
             "clip_length": 88,
             "choices": [
@@ -493,7 +493,7 @@
         {
             "text": "Heh... Sure, but that girl might be a lot more of a handful \nthan all the others you've looked at. \nThink you can take her on?",
             "name": "Transcend",
-            "path_id": -7453343144340302477,
+            "path_id": 5879393062638895744,
             "block_id": 52,
             "clip_length": 295,
             "processed": "<story>Heh... Sure, but that girl might be a lot more of a handful \n<story>than all the others you've looked at. \n<story>Think you can take her on?"
@@ -501,7 +501,7 @@
         {
             "text": "I nodded as to say <i>\"of course\"</i>. \nI haven't seen her eyes sparkle with this much joy before.",
             "name": "",
-            "path_id": 7219259706704101513,
+            "path_id": -7429219173872262552,
             "block_id": 53,
             "clip_length": 86,
             "processed": "<story>I nodded as to say <i>\"of course\"</i>. \n<story>I haven't seen her eyes sparkle with this much joy before."
@@ -509,7 +509,7 @@
         {
             "text": "I'll start with some advice. If you want to succeed \nin scouting her, she's gonna need some info about <i>you</i>, \nTray-chan.",
             "name": "Transcend",
-            "path_id": 8734649389545951347,
+            "path_id": 3654924172133229881,
             "block_id": 54,
             "clip_length": 252,
             "processed": "<story>I'll start with some advice. If you want to succeed \n<story>in scouting her, she's gonna need some info about <i>you</i>, \n<story>Tray-chan."
@@ -517,7 +517,7 @@
         {
             "text": "She needs to know what kind of person you are. \nHow about it?",
             "name": "Transcend",
-            "path_id": -5275713866236132025,
+            "path_id": 3454802264339944786,
             "block_id": 55,
             "clip_length": 189,
             "choices": [
@@ -535,7 +535,7 @@
         {
             "text": "Yep, let's go back and get some tea and snacks! \nI'll help you out this time. That's only fair.",
             "name": "Transcend",
-            "path_id": 7421893867993956707,
+            "path_id": -2317454635193805179,
             "block_id": 56,
             "clip_length": 296,
             "processed": "<story>Yep, let's go back and get some tea and snacks! \n<story>I'll help you out this time. That's only fair."
@@ -543,7 +543,7 @@
         {
             "text": "Also, I think we'll need more time than normal today. \nDo you think you can handle it?",
             "name": "Transcend",
-            "path_id": -8055676518982276413,
+            "path_id": -7843011039356560449,
             "block_id": 57,
             "clip_length": 233,
             "processed": "<story>Also, I think we'll need more time than normal today. \n<story>Do you think you can handle it?"
@@ -551,7 +551,7 @@
         {
             "text": "I expect some invaluable info from you today!",
             "name": "Transcend",
-            "path_id": 8812073808302250897,
+            "path_id": 5094802821638263589,
             "block_id": 58,
             "clip_length": 129,
             "processed": "<story>I expect some invaluable info from you today!"
