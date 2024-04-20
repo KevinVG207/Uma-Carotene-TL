@@ -534,6 +534,11 @@
         "hash": "3f4e365db1605a5871bf3645cdb2edf8f91917521d4382e43b621b0becd96013",
         "processed": "<rbr><sc=80>With 300 meters remaining in the race, if<br>you're in a good position, your speed will<br>increase; if it's a dirt race and you're close<br>to the lead, you will also immediately accel-<br>erate."
     },
+    "101021": {
+        "text": "If another girl has been right behind you or in front of you for at least 3 seconds during the first half of the race, your stamina will slightly recover; then, around halfway through the race, if you're on a straight, your speed will greatly increase.",
+        "hash": "5d3a8dab51e8ae9132b4c5b70f6bb559dec0a3a8bb4058efac3c86a2fd4a8931",
+        "processed": "<rbr><sc=69>If another girl has been right behind you or in<br>front of you for at least 3 seconds during the first<br>half of the race, your stamina will slightly recover;<br>then, around halfway through the race, if you're<br>on a straight, your speed will greatly increase."
+    },
     "101041": {
         "text": "If you're in the lead during the third corner, your speed will slightly increase and your stamina will slightly recover; bonus duration in Medium Tokyo races.",
         "hash": "96d81ad0c2cfe5c89afe56bca1eda155f1e35449ec917c81024593006bb1cb3d",
@@ -6463,6 +6468,11 @@
         "text": "During any Middle Leg straight, your speed will slightly increase and your stamina will recover.",
         "hash": "c8660a9563a1e1205c4b3fec3a20dd40ff9378133b4697a321777b4366768183",
         "processed": "<rbr>During any Middle Leg straight,<br>your speed will slightly increase<br>and your stamina will recover."
+    },
+    "110201211": {
+        "text": "Betweener・At a random point on the Final Corner, if you're not in the front, your speed will greatly increase, and you will slow down three closest girls both ahead and behind you.",
+        "hash": "861b3c164664a0da6fee4cf0cd0033295147d0386bf7b8f0a0d83775fd0c222f",
+        "processed": "<rbr><sc=80>Betweener・At a random point on the Final<br>Corner, if you're not in the front, your<br>speed will greatly increase, and you will<br>slow down three closest girls both ahead<br>and behind you."
     },
     "110401111": {
         "text": "Runner・At the start of the race, your acceleration will greatly increase.",
