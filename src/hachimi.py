@@ -18,7 +18,8 @@ def convert_tags(text):
         .replace("<a6>", "$(anchor 6)") \
         .replace("<a1>", "$(anchor 7)") \
         .replace("<a2>", "$(anchor 8)") \
-        .replace("<a3>", "$(anchor 9)")
+        .replace("<a3>", "$(anchor 9)") \
+        .replace("<force>", "")
 
 def convert_jpdict():
     in_path = os.path.join(util.ASSEMBLY_FOLDER, "JPDict.json")
