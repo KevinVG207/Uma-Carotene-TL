@@ -388,12 +388,12 @@
             "processed": "<story>Aah, that's quite unlike her.\n<story>Letting her thoughts spew out like that."
         },
         {
-            "text": "Good evening. My name is Agnes Tachyon. A friend of \nShakur-kun's... Though she very much wouldn't like it if I called \nmyself that to her face.",
+            "text": "Good evening. My name is Agnes Tachyon. A friend of \nShakur-kun's... Though she very much doesn't like for me to call \nmyself that.",
             "name": "Agnes Tachyon",
             "path_id": -6699386365709739370,
             "block_id": 42,
             "clip_length": 353,
-            "processed": "<story>Good evening. My name is Agnes Tachyon. A friend of \n<story>Shakur-kun's... Though she very much wouldn't like it if I called \n<story>myself that to her face."
+            "processed": "<story>Good evening. My name is Agnes Tachyon. A friend of \n<story>Shakur-kun's... Though she very much doesn't like for me to call \n<story>myself that."
         },
         {
             "text": "All the telltale signs of overwork. For a pragmatic, logical person \nlike her to struggle in such an illogical fashion... It's hard to truly \nempathize with what she's experiencing.",
@@ -442,7 +442,7 @@
             "processed": "<story>Ah, here's an a way to put it... Her \"god\" is denying her a future. \n<story>This god has made an absolute judgement, one she cannot hope \n<story>to overcome."
         },
         {
-            "text": "If this god's judgement were to be overcome, that would call Its \nomniscience into question. A terrifying notion in and of itself. \nThus the faithful cannot deny god's judgement, nor even curse it.",
+            "text": "If this god's judgement were to be overcome, its divinity would \nbe called into question. A terrifying notion in and of itself. Thus \nthe faithful cannot deny god's judgement, nor even curse it.",
             "name": "Agnes Tachyon",
             "path_id": -3605809762369987874,
             "block_id": 48,
@@ -454,7 +454,7 @@
                     "processed": "<size=31>Still... It looks like she's trying to change something.</size>"
                 }
             ],
-            "processed": "<story>If this god's judgement were to be overcome, that would call Its \n<story>omniscience into question. A terrifying notion in and of itself. \n<story>Thus the faithful cannot deny god's judgement, nor even curse it."
+            "processed": "<story>If this god's judgement were to be overcome, its divinity would \n<story>be called into question. A terrifying notion in and of itself. Thus \n<story>the faithful cannot deny god's judgement, nor even curse it."
         },
         {
             "text": "Fufu, and there's the rub. A most intruiging state of mind. \nIf you asked her, she'd call such efforts foolish. And yet, she \npersists.",

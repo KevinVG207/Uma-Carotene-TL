@@ -12,12 +12,12 @@
             "clip_length": 45
         },
         {
-            "text": "――You want to get to know Air Shakur better...?\nWhy bother asking me?",
+            "text": "――You want to get to know Air Shakur better...? \nWhy bother asking me?",
             "name": "Mid-Rank Trainer",
             "path_id": -7625349157447615807,
             "block_id": 1,
             "clip_length": 182,
-            "processed": "<story>――You want to get to know Air Shakur better...?\n<story>Why bother asking me?"
+            "processed": "<story>――You want to get to know Air Shakur better...? \n<story>Why bother asking me?"
         },
         {
             "text": "Word's gotten around about it, so I'm sure you heard, right? \nThat I shouldn't have bothered, with how inscrutable she was. \nWhat's the point of...",
@@ -450,7 +450,7 @@
             "processed": "<story>Having the privilege to witness to the victory she'd chased so \n<story>obsessively. For a trainer, there is no greater reward."
         },
         {
-            "text": "...I'm really not getting through to you here, huh? \nFrom where I stand, you can't offer me a thing.",
+            "text": "...I'm really not getting through to you here, huh? \nFrom where I stand, there's no merit in working with you.",
             "name": "Air Shakur",
             "path_id": 623023052600122526,
             "block_id": 38,
@@ -461,7 +461,7 @@
                     "hash": "7ad537ea1e71e9c0c829a73894569eee3160ab022a401101d8dbd5b83ed38cc6"
                 }
             ],
-            "processed": "<story>...I'm really not getting through to you here, huh? \n<story>From where I stand, you can't offer me a thing."
+            "processed": "<story>...I'm really not getting through to you here, huh? \n<story>From where I stand, there's no merit in working with you."
         },
         {
             "text": "...I just said I'm giving up. What's the point?",

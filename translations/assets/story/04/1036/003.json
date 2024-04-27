@@ -271,7 +271,7 @@
             "processed": "<story>...What?"
         },
         {
-            "text": "What exactly do you think would happen if I told you? \nWhen I say 'foundation', I mean objective stuff, like my abilities, \nor the conditions necessary to reach my goals. That kind of thing.",
+            "text": "What exactly do you think would happen if I told you? \nWhen I say 'foundation', I mean stuff like my abilities, or the \nconditions necessary to reach my goals. That kind of thing.",
             "name": "Air Shakur",
             "path_id": -9101377276698113257,
             "block_id": 26,
@@ -286,7 +286,7 @@
                     "hash": "16f23b0f5a5fdd1436e2d991cff1978281734ceb0efc5cf304493f2fde1ba7a4"
                 }
             ],
-            "processed": "<story>What exactly do you think would happen if I told you? \n<story>When I say 'foundation', I mean objective stuff, like my abilities, \n<story>or the conditions necessary to reach my goals. That kind of thing."
+            "processed": "<story>What exactly do you think would happen if I told you? \n<story>When I say 'foundation', I mean stuff like my abilities, or the \n<story>conditions necessary to reach my goals. That kind of thing."
         },
         {
             "text": "...How? How could you possibly... You really think you can put \nmore work in than I have?",
@@ -518,7 +518,7 @@
             "processed": "<story>...Ghh."
         },
         {
-            "text": "If wishing was all it took!\nI'd've done it already, dammit!",
+            "text": "If thinking and wishing was all it took! \nI'd've done it already, dammit!",
             "name": "Air Shakur",
             "path_id": -1573732212261380859,
             "block_id": 49,
@@ -529,7 +529,7 @@
                     "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
                 }
             ],
-            "processed": "<story>If wishing was all it took!\n<story>I'd've done it already, dammit!"
+            "processed": "<story>If thinking and wishing was all it took! \n<story>I'd've done it already, dammit!"
         },
         {
             "text": "Struggling and fighting, over and over... \nRunning the numbers <i>again, and again, and again, and again, </i> \n<i>and again!</i> Knowing it's all in vain!",
