@@ -1,0 +1,501 @@
+{
+    "type": "story",
+    "row_index": 15802,
+    "file_name": "story/data/04/1036/storytimeline_041036002",
+    "hash": "YJFT32F6H2GFNVP5MXJAMRU6PMJUBNL3",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 2827464829802109068,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――All right, Air Shakur.\nTry running they way I just laid out.",
+            "name": "Mid-Rank Trainer",
+            "path_id": 6047827388930749549,
+            "block_id": 1,
+            "clip_length": 133,
+            "processed": "<story>――All right, Air Shakur.\n<story>Try running they way I just laid out."
+        },
+        {
+            "text": "The day after I met Air Shakur, when I went to check out the \ncourse, there she was, getting instructions from another trainer.",
+            "name": "",
+            "path_id": 1070303815875644057,
+            "block_id": 2,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "(Wonder how she'll run.)",
+                    "hash": "b6aaf69ce565f90f3345beb83729efb7c5855546ea693264658ea82e0cacd918"
+                }
+            ],
+            "processed": "<story>The day after I met Air Shakur, when I went to check out the \n<story>course, there she was, getting instructions from another trainer."
+        },
+        {
+            "text": "...Well, here goes.",
+            "name": "Air Shakur",
+            "path_id": 2337589732226106920,
+            "block_id": 3,
+            "clip_length": 254,
+            "processed": "<story>...Well, here goes."
+        },
+        {
+            "text": "...Rrraahh!!",
+            "name": "Air Shakur",
+            "path_id": 3784384517556955774,
+            "block_id": 4,
+            "clip_length": 61,
+            "choices": [
+                {
+                    "text": "(Whoa... She's intense!)",
+                    "hash": "8ff3b6679c887aef3970d2d9615b29f7ed2023bd8c6a97ba4596e6a447b5dcb3"
+                }
+            ],
+            "processed": "<story>...Rrraahh!!"
+        },
+        {
+            "text": "Hyaa...!? T-that scared me...!\nLet's go run somewhere further away...",
+            "name": "Umamusume A",
+            "path_id": 7666858731862655681,
+            "block_id": 5,
+            "clip_length": 147,
+            "processed": "<story>Hyaa...!? T-that scared me...!\n<story>Let's go run somewhere further away..."
+        },
+        {
+            "text": "Air Shakur's running was wilder than I imagined. Wild, but not \nbarbaric. Her form seemed incredibly refined, as if she'd \neliminated all excess movements.",
+            "name": "",
+            "path_id": 5574498628392307941,
+            "block_id": 6,
+            "clip_length": 125,
+            "processed": "<story>Air Shakur's running was wilder than I imagined. Wild, but not \n<story>barbaric. Her form seemed incredibly refined, as if she'd \n<story>eliminated all excess movements."
+        },
+        {
+            "text": "Haa... Ha... HA! \nHAHAHA!!",
+            "name": "Air Shakur",
+            "path_id": -3301623700412859822,
+            "block_id": 7,
+            "clip_length": 154,
+            "choices": [
+                {
+                    "text": "(Wow...)",
+                    "hash": "8455c7bee4cc4c9077a80d7c7f2a41e046d065d2ce1376bdc686c8d294887bd9"
+                }
+            ],
+            "processed": "<story>Haa... Ha... HA! \n<story>HAHAHA!!"
+        },
+        {
+            "text": "She attacked the straight like the last leg of a real race, steadily \npushing forward... I was drawn in by her striking display of \nability, but...",
+            "name": "",
+            "path_id": -8029402989122469165,
+            "block_id": 8,
+            "clip_length": 123,
+            "processed": "<story>She attacked the straight like the last leg of a real race, steadily \n<story>pushing forward... I was drawn in by her striking display of \n<story>ability, but..."
+        },
+        {
+            "text": "Whoa, whoa...! Wait a second.\nThat wasn't even close to what I said!",
+            "name": "Mid-Rank Trainer",
+            "path_id": -2686151263337084572,
+            "block_id": 9,
+            "clip_length": 185,
+            "choices": [
+                {
+                    "text": "(...!?)",
+                    "hash": "c89151ccc11e54671bcf28180092e08c44ffeb827761efdc42c80d1ca07d1712"
+                }
+            ],
+            "processed": "<story>Whoa, whoa...! Wait a second.\n<story>That wasn't even close to what I said!"
+        },
+        {
+            "text": "My exact words were to “run like you're using a leader strategy”. \nWhy'd you hang back all the way till the fourth corner?",
+            "name": "Mid-Rank Trainer",
+            "path_id": -8500997704595051811,
+            "block_id": 10,
+            "clip_length": 208,
+            "processed": "<story>My exact words were to “run like you're using a leader strategy”. \n<story>Why'd you hang back all the way till the fourth corner?"
+        },
+        {
+            "text": "I'm trying to get a good picture of your strengths.\nBut I need you to work with me here!",
+            "name": "Mid-Rank Trainer",
+            "path_id": 4877703857033856418,
+            "block_id": 11,
+            "clip_length": 150,
+            "processed": "<story>I'm trying to get a good picture of your strengths.\n<story>But I need you to work with me here!"
+        },
+        {
+            "text": "Half-assed.",
+            "name": "Air Shakur",
+            "path_id": 8873786689322023993,
+            "block_id": 12,
+            "clip_length": 56,
+            "processed": "<story>Half-assed."
+        },
+        {
+            "text": "Huh?",
+            "name": "Mid-Rank Trainer",
+            "path_id": 9141585460761590296,
+            "block_id": 13,
+            "clip_length": 29,
+            "processed": "<story>Huh?"
+        },
+        {
+            "text": "If you want to know my strengths, how's collecting data on a \nleader strat gonna help? \nCites your sources. Break that logic down for me.",
+            "name": "Air Shakur",
+            "path_id": 445925682162588381,
+            "block_id": 14,
+            "clip_length": 281,
+            "processed": "<story>If you want to know my strengths, how's collecting data on a \n<story>leader strat gonna help? \n<story>Cites your sources. Break that logic down for me."
+        },
+        {
+            "text": "'Sides, when it comes to my own data, I've already got it all up \nhere, verified and validated. I'm just gonna ignore you if you're \ngonna tell me to do all these extraneous tests.",
+            "name": "Air Shakur",
+            "path_id": 7282128954950477237,
+            "block_id": 15,
+            "clip_length": 320,
+            "processed": "<story>'Sides, when it comes to my own data, I've already got it all up \n<story>here, verified and validated. I'm just gonna ignore you if you're \n<story>gonna tell me to do all these extraneous tests."
+        },
+        {
+            "text": "But your data isn't necessarily all correct, right?\nAs a trainer, my experience and insight are――",
+            "name": "Mid-Rank Trainer",
+            "path_id": 3744209724802767624,
+            "block_id": 16,
+            "clip_length": 275,
+            "processed": "<story>But your data isn't necessarily all correct, right?\n<story>As a trainer, my experience and insight are――"
+        },
+        {
+            "text": "Aah, just forget it. You're just like the rest, <i>too</i>. \nNo more supervised training. See ya.",
+            "name": "Air Shakur",
+            "path_id": 4023316066504288703,
+            "block_id": 17,
+            "clip_length": 293,
+            "processed": "<story>Aah, just forget it. You're just like the rest, <i>too</i>. \n<story>No more supervised training. See ya."
+        },
+        {
+            "text": "Huh!? What are you talking about?\nWe just started!",
+            "name": "Mid-Rank Trainer",
+            "path_id": 2143708106079042055,
+            "block_id": 18,
+            "clip_length": 152,
+            "processed": "<story>Huh!? What are you talking about?\n<story>We just started!"
+        },
+        {
+            "text": "No more means no more. If you really wanna waste any more of \nmy precious time... You know what I'mma do, don't you? <b><i>HUH!?</b></i>",
+            "name": "Air Shakur",
+            "path_id": -1689103725944672975,
+            "block_id": 19,
+            "clip_length": 342,
+            "processed": "<story>No more means no more. If you really wanna waste any more of \n<story>my precious time... You know what I'mma do, don't you? <b><i>HUH!?</b></i>"
+        },
+        {
+            "text": "Eek...! Wh-What's wrong with you? \nYou're beyond understanding!",
+            "name": "Mid-Rank Trainer",
+            "path_id": -450569828792067064,
+            "block_id": 20,
+            "clip_length": 166,
+            "processed": "<story>Eek...! Wh-What's wrong with you? \n<story>You're beyond understanding!"
+        },
+        {
+            "text": "...Hey, you see that just now? \nHow on earth are you supposed to train a girl like that?",
+            "name": "Trainer A",
+            "path_id": 347910087913784753,
+            "block_id": 21,
+            "clip_length": 196,
+            "processed": "<story>...Hey, you see that just now? \n<story>How on earth are you supposed to train a girl like that?"
+        },
+        {
+            "text": "No, no, there's no way...\nYou can't get through to someone like that――",
+            "name": "Trainer B",
+            "path_id": -6943487680759664913,
+            "block_id": 22,
+            "clip_length": 177,
+            "processed": "<story>No, no, there's no way...\n<story>You can't get through to someone like that――"
+        },
+        {
+            "text": "Hey. Shut up over there.\nY'know I can hea――",
+            "name": "Air Shakur",
+            "path_id": 5804109653355942419,
+            "block_id": 23,
+            "clip_length": 108,
+            "processed": "<story>Hey. Shut up over there.\n<story>Y'know I can hea――"
+        },
+        {
+            "text": "<i>Uwwehhh～!?</i>",
+            "name": "Meisho Doto",
+            "path_id": 6485721997659027229,
+            "block_id": 24,
+            "clip_length": 57,
+            "processed": "<story><i>Uwwehhh～!?</i>"
+        },
+        {
+            "text": "Owww, sorry.... Sorry for causing another scene...",
+            "name": "Meisho Doto",
+            "path_id": -4306727072767371315,
+            "block_id": 25,
+            "clip_length": 216,
+            "processed": "<story>Owww, sorry.... Sorry for causing another scene..."
+        },
+        {
+            "text": "Yet another spectacular fall.\nWhat happened this time?",
+            "name": "Air Shakur",
+            "path_id": -1362971913331708408,
+            "block_id": 26,
+            "clip_length": 172,
+            "processed": "<story>Yet another spectacular fall.\n<story>What happened this time?"
+        },
+        {
+            "text": "Ah... I... I was pushing myself too much... \nI haven't been improving my times lately... so I ran harder than I \nshould've.",
+            "name": "Meisho Doto",
+            "path_id": -6897563659277535074,
+            "block_id": 27,
+            "clip_length": 520,
+            "processed": "<story>Ah... I... I was pushing myself too much... \n<story>I haven't been improving my times lately... so I ran harder than I \n<story>should've."
+        },
+        {
+            "text": "...Looks like you hit a wall. \nDon't you think you oughtta take a step back and find a better \nway than just plain-old pushing yourself?",
+            "name": "Air Shakur",
+            "path_id": -4310109485753387017,
+            "block_id": 28,
+            "clip_length": 283,
+            "processed": "<story>...Looks like you hit a wall. \n<story>Don't you think you oughtta take a step back and find a better \n<story>way than just plain-old pushing yourself?"
+        },
+        {
+            "text": "I know you're working hard, but improvement won't just go on \nforever. Eventually you'll hit your limit. Gotta know when to cut \nyour losses to stay efficient.",
+            "name": "Air Shakur",
+            "path_id": 7865224442988196355,
+            "block_id": 29,
+            "clip_length": 318,
+            "processed": "<story>I know you're working hard, but improvement won't just go on \n<story>forever. Eventually you'll hit your limit. Gotta know when to cut \n<story>your losses to stay efficient."
+        },
+        {
+            "text": "Well... I'm not very smart, and slow to figure things out... \nWorking hard is the only thing I <i>can</i> do.",
+            "name": "Meisho Doto",
+            "path_id": 2590235784265757498,
+            "block_id": 30,
+            "clip_length": 412,
+            "processed": "<story>Well... I'm not very smart, and slow to figure things out... \n<story>Working hard is the only thing I <i>can</i> do."
+        },
+        {
+            "text": "If I keep trying hard, do my best and take my problem head-on... \nEven I can break through that wall, someday... Maybe... I think...",
+            "name": "Meisho Doto",
+            "path_id": -4555869194203681413,
+            "block_id": 31,
+            "clip_length": 412,
+            "processed": "<story>If I keep trying hard, do my best and take my problem head-on... \n<story>Even I can break through that wall, someday... Maybe... I think..."
+        },
+        {
+            "text": "...That so. You breaking that wall...\nI'd sure wanna see that happen.",
+            "name": "Air Shakur",
+            "path_id": -4311753863367150134,
+            "block_id": 32,
+            "clip_length": 265,
+            "processed": "<story>...That so. You breaking that wall...\n<story>I'd sure wanna see that happen."
+        },
+        {
+            "text": "...Someday, huh.",
+            "name": "Air Shakur",
+            "path_id": 1731732991451282144,
+            "block_id": 33,
+            "clip_length": 108,
+            "processed": "<story>...Someday, huh."
+        },
+        {
+            "text": "There's no point holding onto that hope...",
+            "name": "Air Shakur",
+            "path_id": 9057372452451608229,
+            "block_id": 34,
+            "clip_length": 103,
+            "choices": [
+                {
+                    "text": "（……！）",
+                    "hash": "198f175471c52d2483f9c8ba8e16674606413d2cc8913c423717012060a3d38f"
+                }
+            ],
+            "processed": "<story>There's no point holding onto that hope..."
+        },
+        {
+            "text": "Ha～... Looks like she's calmed down somehow...? \nShe was worse than usual today.",
+            "name": "Trainer B",
+            "path_id": 4225842905224913936,
+            "block_id": 35,
+            "clip_length": 271,
+            "choices": [
+                {
+                    "text": "(No point...?)",
+                    "hash": "cfe06d5a64eaf752d2a1cd3b18585b3ec0b1109c6f38e7c9ab1aa8260c37b472"
+                }
+            ],
+            "processed": "<story>Ha～... Looks like she's calmed down somehow...? \n<story>She was worse than usual today."
+        },
+        {
+            "text": "She probably didn't think anyone else heard her say it under her \nbreath―― But her whispered words kept ringing in my ear...",
+            "name": "",
+            "path_id": -5466816847596345905,
+            "block_id": 36,
+            "clip_length": 119,
+            "processed": "<story>She probably didn't think anyone else heard her say it under her \n<story>breath―― But her whispered words kept ringing in my ear..."
+        },
+        {
+            "text": "While I was thinking about the way she ran that morning, I just \nso happened to stop by the course...",
+            "name": "",
+            "path_id": 6339609067947268918,
+            "block_id": 37,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "(Shakur...?)",
+                    "hash": "427aa208627bfb2138a8d376690b251ed55f3aea58f9e8a41991a58df7d722fb"
+                }
+            ],
+            "processed": "<story>While I was thinking about the way she ran that morning, I just \n<story>so happened to stop by the course..."
+        },
+        {
+            "text": "Haa... Haa... Ha!",
+            "name": "Air Shakur",
+            "path_id": 614350141599360579,
+            "block_id": 38,
+            "clip_length": 134,
+            "processed": "<story>Haa... Haa... Ha!"
+        },
+        {
+            "text": "Damn it, I can't...!\nI can't, I can't, <i>I can't</i>...――",
+            "name": "Air Shakur",
+            "path_id": -4607670689649557614,
+            "block_id": 39,
+            "clip_length": 243,
+            "processed": "<story>Damn it, I can't...!\n<story>I can't, I can't, <i>I can't</i>...――"
+        },
+        {
+            "text": "I can't break through that “7cm”...<i>!</i> \nIt's only that much! But still,<i> I</i>...<i>!</i>",
+            "name": "Air Shakur",
+            "path_id": 2030884582602814395,
+            "block_id": 40,
+            "clip_length": 321,
+            "choices": [
+                {
+                    "text": "（7cm……？）",
+                    "hash": "1ca66019e57bccbc27a5c4d5bc75932991e01be7902fb3a97e921e816b1b44e4"
+                }
+            ],
+            "processed": "<story>I can't break through that “7cm”...<i>!</i> \n<story>It's only that much! But still,<i> I</i>...<i>!</i>"
+        },
+        {
+            "text": "Aah, that's quite unlike her.\nLetting her thoughts spew out like that.",
+            "name": "???",
+            "path_id": -7716839805908760999,
+            "block_id": 41,
+            "clip_length": 221,
+            "processed": "<story>Aah, that's quite unlike her.\n<story>Letting her thoughts spew out like that."
+        },
+        {
+            "text": "Good evening. My name is Agnes Tachyon. A friend of \nShakur-kun's... Though she very much wouldn't like it if I called \nmyself that to her face.",
+            "name": "Agnes Tachyon",
+            "path_id": -6699386365709739370,
+            "block_id": 42,
+            "clip_length": 353,
+            "processed": "<story>Good evening. My name is Agnes Tachyon. A friend of \n<story>Shakur-kun's... Though she very much wouldn't like it if I called \n<story>myself that to her face."
+        },
+        {
+            "text": "All the telltale signs of overwork. For a pragmatic, logical person \nlike her to struggle in such an illogical fashion... It's hard to truly \nempathize with what she's experiencing.",
+            "name": "Agnes Tachyon",
+            "path_id": 4218581336045018275,
+            "block_id": 43,
+            "clip_length": 348,
+            "choices": [
+                {
+                    "text": "What exactly is she struggling with?",
+                    "hash": "41e6676b9c595990204730554d378215addb085c29505f6e0a0456f9701eac13"
+                }
+            ],
+            "processed": "<story>All the telltale signs of overwork. For a pragmatic, logical person \n<story>like her to struggle in such an illogical fashion... It's hard to truly \n<story>empathize with what she's experiencing."
+        },
+        {
+            "text": "Are you able to navigate the world of zeroes and ones? If not, it \nmay very well be beyond your understanding.",
+            "name": "Agnes Tachyon",
+            "path_id": -1490088156566267107,
+            "block_id": 44,
+            "clip_length": 286,
+            "processed": "<story>Are you able to navigate the world of zeroes and ones? If not, it \n<story>may very well be beyond your understanding."
+        },
+        {
+            "text": "Shakur-kun is... a devotee of data, if you will. \nOne who believes collecting data and repeating simulations will \neventually elucidate a solution.",
+            "name": "Agnes Tachyon",
+            "path_id": -4955000901627545511,
+            "block_id": 45,
+            "clip_length": 372,
+            "processed": "<story>Shakur-kun is... a devotee of data, if you will. \n<story>One who believes collecting data and repeating simulations will \n<story>eventually elucidate a solution."
+        },
+        {
+            "text": "In her eyes, all the world can be divided between True or False. \nAny undefined parameters――'potential', for instance, may as \nwell not exist to her.",
+            "name": "Agnes Tachyon",
+            "path_id": 2443244919828517820,
+            "block_id": 46,
+            "clip_length": 375,
+            "processed": "<story>In her eyes, all the world can be divided between True or False. \n<story>Any undefined parameters――'potential', for instance, may as \n<story>well not exist to her."
+        },
+        {
+            "text": "Ah, here's an a way to put it... Her \"god\" is denying her a future. \nThis god has made an absolute judgement, one she cannot hope \nto overcome.",
+            "name": "Agnes Tachyon",
+            "path_id": 7238602273912854769,
+            "block_id": 47,
+            "clip_length": 382,
+            "processed": "<story>Ah, here's an a way to put it... Her \"god\" is denying her a future. \n<story>This god has made an absolute judgement, one she cannot hope \n<story>to overcome."
+        },
+        {
+            "text": "If this god's judgement were to be overcome, that would call Its \nomniscience into question. A terrifying notion in and of itself. \nThus the faithful cannot deny god's judgement, nor even curse it.",
+            "name": "Agnes Tachyon",
+            "path_id": -3605809762369987874,
+            "block_id": 48,
+            "clip_length": 379,
+            "choices": [
+                {
+                    "text": "Still... It looks like she's trying to change something.",
+                    "hash": "1b0cff429aa224778bd83424369f6f339efb7ee0a97ad189be91e0e4ffe44b1d",
+                    "processed": "<size=31>Still... It looks like she's trying to change something.</size>"
+                }
+            ],
+            "processed": "<story>If this god's judgement were to be overcome, that would call Its \n<story>omniscience into question. A terrifying notion in and of itself. \n<story>Thus the faithful cannot deny god's judgement, nor even curse it."
+        },
+        {
+            "text": "Fufu, and there's the rub. A most intruiging state of mind. \nIf you asked her, she'd call such efforts foolish. And yet, she \npersists.",
+            "name": "Agnes Tachyon",
+            "path_id": 3683637527725414140,
+            "block_id": 49,
+            "clip_length": 375,
+            "processed": "<story>Fufu, and there's the rub. A most intruiging state of mind. \n<story>If you asked her, she'd call such efforts foolish. And yet, she \n<story>persists."
+        },
+        {
+            "text": "The vision Shakur-kun crafted is indeed elegant in its refinement. \nBut I believe true potential lies in the very extraneities she so \ndeliberately excised.",
+            "name": "Agnes Tachyon",
+            "path_id": -3732165909598645048,
+            "block_id": 50,
+            "clip_length": 428,
+            "processed": "<story>The vision Shakur-kun crafted is indeed elegant in its refinement. \n<story>But I believe true potential lies in the very extraneities she so \n<story>deliberately excised."
+        },
+        {
+            "text": "Oh, it seems like she's about to wrap up training. \nYou know, for all the data collection she does, she doesn't care \nmuch for being the one observed.",
+            "name": "Agnes Tachyon",
+            "path_id": -7801197850337438236,
+            "block_id": 51,
+            "clip_length": 321,
+            "processed": "<story>Oh, it seems like she's about to wrap up training. \n<story>You know, for all the data collection she does, she doesn't care \n<story>much for being the one observed."
+        },
+        {
+            "text": "So I'll be on my way now. Now then, you, the trainer oh-so \ncuriously drawn to Shakur. What will <i>you</i> do?",
+            "name": "Agnes Tachyon",
+            "path_id": 2076124431336482524,
+            "block_id": 52,
+            "clip_length": 418,
+            "processed": "<story>So I'll be on my way now. Now then, you, the trainer oh-so \n<story>curiously drawn to Shakur. What will <i>you</i> do?"
+        },
+        {
+            "text": "...I have to go get her!",
+            "name": "",
+            "path_id": 1888782811122104620,
+            "block_id": 53,
+            "clip_length": 69,
+            "processed": "<story>...I have to go get her!"
+        }
+    ],
+    "title": "Sound from a Black Box"
+}

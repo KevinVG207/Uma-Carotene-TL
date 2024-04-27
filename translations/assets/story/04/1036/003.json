@@ -1,0 +1,601 @@
+{
+    "type": "story",
+    "row_index": 15803,
+    "file_name": "story/data/04/1036/storytimeline_041036003",
+    "hash": "2M4LHMCWAIKTVASCBQYZ3WTVHSWGOUN7",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -1798436033151862316,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "\"――Shakur-san is a really smart kid. \nBut she doesn't seem to understand the difference between \n'right' and 'true'...\"",
+            "name": "Elementary School Teacher",
+            "path_id": -3865106266291928336,
+            "block_id": 1,
+            "clip_length": 334,
+            "processed": "<story>\"――Shakur-san is a really smart kid. \n<story>But she doesn't seem to understand the difference between \n<story>'right' and 'true'...\"",
+            "name_processed": "<sc=85>Elementary School Teacher"
+        },
+        {
+            "text": "\"To be honest with you, even us teachers aren't sure how to \nhandle her. She's isolated from the rest of the class, even getting \ninto arguments with some of them.\"",
+            "name": "Elementary School Teacher",
+            "path_id": 1693657614350403921,
+            "block_id": 2,
+            "clip_length": 367,
+            "processed": "<story>\"To be honest with you, even us teachers aren't sure how to \n<story>handle her. She's isolated from the rest of the class, even getting \n<story>into arguments with some of them.\"",
+            "name_processed": "<sc=85>Elementary School Teacher"
+        },
+        {
+            "text": "\"We've tried our best to understand her, but... \nWe can't get anywhere if she doesn't work with us...\"",
+            "name": "Elementary School Teacher",
+            "path_id": 3342767264817046654,
+            "block_id": 3,
+            "clip_length": 346,
+            "processed": "<story>\"We've tried our best to understand her, but... \n<story>We can't get anywhere if she doesn't work with us...\"",
+            "name_processed": "<sc=85>Elementary School Teacher"
+        },
+        {
+            "text": "\"I'm sorry. She's always been like that... \nIt's just the way she is, so it's fine just to leave her be and not \nget her riled up...\"",
+            "name": "Shakur's Mother",
+            "path_id": 8724744674555878460,
+            "block_id": 4,
+            "clip_length": 386,
+            "processed": "<story>\"I'm sorry. She's always been like that... \n<story>It's just the way she is, so it's fine just to leave her be and not \n<story>get her riled up...\""
+        },
+        {
+            "text": "(――Ever since I was a kid, I was “something incomprehensible”. \nFor some reason, I was always the error to be corrected.)",
+            "name": "Air Shakur",
+            "path_id": -8110599353600562272,
+            "block_id": 5,
+            "clip_length": 356,
+            "processed": "<story>(――Ever since I was a kid, I was “something incomprehensible”. \n<story>For some reason, I was always the error to be corrected.)"
+        },
+        {
+            "text": "(Everything I heard was noise... We may have used the same \nlanguage, but we couldn't communicate with each other. So I just \ngave it up.)",
+            "name": "Air Shakur",
+            "path_id": -1063424925361791393,
+            "block_id": 6,
+            "clip_length": 426,
+            "processed": "<story>(Everything I heard was noise... We may have used the same \n<story>language, but we couldn't communicate with each other. So I just \n<story>gave it up.)"
+        },
+        {
+            "text": "(Then... I met my PC. It was like hearing someone else's voice for \nthe first time. Programming was the first language I could <i>really</i> \ncommunicate in.)",
+            "name": "Air Shakur",
+            "path_id": -842661587681145522,
+            "block_id": 7,
+            "clip_length": 438,
+            "processed": "<story>(Then... I met my PC. It was like hearing someone else's voice for \n<story>the first time. Programming was the first language I could <i>really</i> \n<story>communicate in.)"
+        },
+        {
+            "text": "(So long as I had my partner, I could filter out the noise. And I \nfound the optimal place to prove myself――I set my sights on \nTracen Academy.)",
+            "name": "Air Shakur",
+            "path_id": -7693618984254393077,
+            "block_id": 8,
+            "clip_length": 398,
+            "processed": "<story>(So long as I had my partner, I could filter out the noise. And I \n<story>found the optimal place to prove myself――I set my sights on \n<story>Tracen Academy.)"
+        },
+        {
+            "text": "(I finished my ultimate partner, 『Parcae』, right after enrolling. \nThe more data I fed in, the more accurate and precise its \nsolutions got.)",
+            "name": "Air Shakur",
+            "path_id": -1059390217644164692,
+            "block_id": 9,
+            "clip_length": 375,
+            "processed": "<story>(I finished my ultimate partner, 『Parcae』, right after enrolling. \n<story>The more data I fed in, the more accurate and precise its \n<story>solutions got.)"
+        },
+        {
+            "text": "\"I can't understand what Air Shakur thinks as she runs. She \ndoesn't listen to instruction, she's uncooperative, and completely \nconceited... but...\"",
+            "name": "",
+            "path_id": -4518710324640358558,
+            "block_id": 10,
+            "clip_length": 324,
+            "processed": "<story>\"I can't understand what Air Shakur thinks as she runs. She \n<story>doesn't listen to instruction, she's uncooperative, and completely \n<story>conceited... but...\""
+        },
+        {
+            "text": "\"I really don't want to run with Shakur-senpai... We're just too \ndifferent, like we're from different worlds. Honestly, that scares \nme, but...\"",
+            "name": "",
+            "path_id": 5007859798590161367,
+            "block_id": 11,
+            "clip_length": 348,
+            "processed": "<story>\"I really don't want to run with Shakur-senpai... We're just too \n<story>different, like we're from different worlds. Honestly, that scares \n<story>me, but...\""
+        },
+        {
+            "text": "\"――'She wins'<i>,</i> so she's amazing...\"",
+            "name": "",
+            "path_id": -1631824369188751822,
+            "block_id": 12,
+            "clip_length": 84,
+            "processed": "<story>\"――'She wins'<i>,</i> so she's amazing...\""
+        },
+        {
+            "text": "(...It felt damn good. Those assholes had no choice but to shut up \nin the face of my victory. No more noise. So what if I aimed even \nhigher...?)",
+            "name": "Air Shakur",
+            "path_id": 5440427871420844598,
+            "block_id": 13,
+            "clip_length": 460,
+            "processed": "<story>(...It felt damn good. Those assholes had no choice but to shut up \n<story>in the face of my victory. No more noise. So what if I aimed even \n<story>higher...?)"
+        },
+        {
+            "text": "(――what if I won, again, and again? If I took the title reserved \nfor the truly strong―― the Triple Crown―― for myself...!)",
+            "name": "Air Shakur",
+            "path_id": -966481189762201724,
+            "block_id": 14,
+            "clip_length": 475,
+            "processed": "<story>(――what if I won, again, and again? If I took the title reserved \n<story>for the truly strong―― the Triple Crown―― for myself...!)"
+        },
+        {
+            "text": "(Once I did, I'd be...\"                       \". Or so I thought.)",
+            "name": "Air Shakur",
+            "path_id": 5413666780949806227,
+            "block_id": 15,
+            "clip_length": 174,
+            "processed": "<story>(Once I did, I'd be...\"                       \". Or so I thought.)"
+        },
+        {
+            "text": "Chasing Shakur after she finished training, I found her standing \nin the plaza.",
+            "name": "",
+            "path_id": -2640261915911809341,
+            "block_id": 16,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "Shakur!",
+                    "hash": "3727b6fdeadfb719b47dffbaeb14792d251e92a024597985b41af1430b790b4f"
+                }
+            ],
+            "processed": "<story>Chasing Shakur after she finished training, I found her standing \n<story>in the plaza."
+        },
+        {
+            "text": "！ \nYou're... From that thing with the cop. \nThe hell do you want?",
+            "name": "Air Shakur",
+            "path_id": 8834044688784509076,
+            "block_id": 17,
+            "clip_length": 254,
+            "choices": [
+                {
+                    "text": "Your running today was awesome.",
+                    "hash": "8def6ed6e47cdcc61004782e4384f6bc6177f452f00e33892796115dce7d6126"
+                }
+            ],
+            "processed": "<story>！ \n<story>You're... From that thing with the cop. \n<story>The hell do you want?"
+        },
+        {
+            "text": "Hah？\r\n...Ah... Huh？",
+            "name": "Air Shakur",
+            "path_id": -7544120071228532284,
+            "block_id": 18,
+            "clip_length": 188,
+            "choices": [
+                {
+                    "text": "I could tell just how hard you've worked.",
+                    "hash": "cf6685f1001c9eb58bbc30b525b1ffe06520ad7d49cb7d14dce16c7a5cbf31ff",
+                    "processed": "<size=40>I could tell just how hard you've worked.</size>"
+                },
+                {
+                    "text": "I could tell just how hard you've worked.",
+                    "hash": "29160cc071cb6ad5d978cb8dad5a7d5fc715c43b97e5417c3bdc18d8ebe246a4",
+                    "processed": "<size=40>I could tell just how hard you've worked.</size>"
+                }
+            ],
+            "processed": "<story>Hah？\r\n<story>...Ah... Huh？"
+        },
+        {
+            "text": "...Ngh. \nThe hell? Don't just say stuff like that...",
+            "name": "Air Shakur",
+            "path_id": 8288011936123598959,
+            "block_id": 19,
+            "clip_length": 166,
+            "processed": "<story>...Ngh. \n<story>The hell? Don't just say stuff like that..."
+        },
+        {
+            "text": "Wait, did you really come out of your way just to say that? \nYeah, yeah, thanks for that. Now scram.",
+            "name": "Air Shakur",
+            "path_id": -1010627125457175983,
+            "block_id": 20,
+            "clip_length": 277,
+            "processed": "<story>Wait, did you really come out of your way just to say that? \n<story>Yeah, yeah, thanks for that. Now scram."
+        },
+        {
+            "text": "It wasn't just to say that. I called out to her because... \nSeeing her run made me want to get to know her better. \nRight, I came here to say――",
+            "name": "",
+            "path_id": -8675368553879165756,
+            "block_id": 21,
+            "clip_length": 125,
+            "choices": [
+                {
+                    "text": "I want to be your trainer!",
+                    "hash": "053fbc9fe6f3a3b49970467a4c087a797f1220c3508eb53dc4db651185f63b81"
+                },
+                {
+                    "text": "I want to be your trainer!",
+                    "hash": "da8495b7c4bd4e66ad83d6155cd723dceb247b241133fcd4d79bd7a99ce2633f"
+                }
+            ],
+            "processed": "<story>It wasn't just to say that. I called out to her because... \n<story>Seeing her run made me want to get to know her better. \n<story>Right, I came here to say――"
+        },
+        {
+            "text": "...\r\nHuh？",
+            "name": "Air Shakur",
+            "path_id": 7205534019325575065,
+            "block_id": 22,
+            "clip_length": 78,
+            "processed": "<story>...\r\n<story>Huh？"
+        },
+        {
+            "text": "It was probably too sudden to ask. But the instant the words left \nmy mouth, it dawned on me. That I was already considering this \noption from the moment we first met.",
+            "name": "",
+            "path_id": -3966629992575426524,
+            "block_id": 23,
+            "clip_length": 124,
+            "processed": "<story>It was probably too sudden to ask. But the instant the words left \n<story>my mouth, it dawned on me. That I was already considering this \n<story>option from the moment we first met."
+        },
+        {
+            "text": "...Completely illogical. Oh, wait, you saying you fell in love at \nfirst sight? Sorry, but no. Not gonna hear out that kind of \nunfounded BS.",
+            "name": "Air Shakur",
+            "path_id": 2489838185232223100,
+            "block_id": 24,
+            "clip_length": 400,
+            "choices": [
+                {
+                    "text": "Then give me a foundation.",
+                    "hash": "09f104e041a0b288341a8418b9874f1e7a9ac7b6553bc48fb4dfc98f4096603e"
+                },
+                {
+                    "text": "Then give me a foundation.",
+                    "hash": "bccca81cf80484cb31046348256e3639357df69818a26d20c92c2fc6b97f8efb"
+                }
+            ],
+            "processed": "<story>...Completely illogical. Oh, wait, you saying you fell in love at \n<story>first sight? Sorry, but no. Not gonna hear out that kind of \n<story>unfounded BS."
+        },
+        {
+            "text": "...What?",
+            "name": "Air Shakur",
+            "path_id": -6504385546012599142,
+            "block_id": 25,
+            "clip_length": 67,
+            "choices": [
+                {
+                    "text": "Tell me what you wish for. The reason you run.",
+                    "hash": "fb346203bf99501454bd994812d3406e9493fcd3c43580b7a28a4810efce1331",
+                    "processed": "<size=35>Tell me what you wish for. The reason you run.</size>"
+                },
+                {
+                    "text": "Tell me what you wish for. The reason you run.",
+                    "hash": "789def8dbb9382bc7881011d8c93631b9c138c5eb0b3eafe37f00e8edcac05e9",
+                    "processed": "<size=35>Tell me what you wish for. The reason you run.</size>"
+                }
+            ],
+            "processed": "<story>...What?"
+        },
+        {
+            "text": "What exactly do you think would happen if I told you? \nWhen I say 'foundation', I mean objective stuff, like my abilities, \nor the conditions necessary to reach my goals. That kind of thing.",
+            "name": "Air Shakur",
+            "path_id": -9101377276698113257,
+            "block_id": 26,
+            "clip_length": 282,
+            "choices": [
+                {
+                    "text": "If you tell me, I can help you.",
+                    "hash": "99eb39f123c91a3eb72b9871af3290b6f2fcb03b699808b14d07622c0549d46b"
+                },
+                {
+                    "text": "If you tell me, I can help you.",
+                    "hash": "16f23b0f5a5fdd1436e2d991cff1978281734ceb0efc5cf304493f2fde1ba7a4"
+                }
+            ],
+            "processed": "<story>What exactly do you think would happen if I told you? \n<story>When I say 'foundation', I mean objective stuff, like my abilities, \n<story>or the conditions necessary to reach my goals. That kind of thing."
+        },
+        {
+            "text": "...How? How could you possibly... You really think you can put \nmore work in than I have?",
+            "name": "Air Shakur",
+            "path_id": 5600669034128984413,
+            "block_id": 27,
+            "clip_length": 265,
+            "processed": "<story>...How? How could you possibly... You really think you can put \n<story>more work in than I have?"
+        },
+        {
+            "text": "From nutritional science to sports engineering, I know every \ntheory and every data point. Tell me, what kind of 'help' could \nyou possibly offer me?",
+            "name": "Air Shakur",
+            "path_id": -8677525156137727106,
+            "block_id": 28,
+            "clip_length": 404,
+            "choices": [
+                {
+                    "text": "……",
+                    "hash": "a7f878b8ced1a7957c560d573e30ddbbc1696e38c370513aacbbf4bff12e7f43"
+                }
+            ],
+            "processed": "<story>From nutritional science to sports engineering, I know every \n<story>theory and every data point. Tell me, what kind of 'help' could \n<story>you possibly offer me?"
+        },
+        {
+            "text": "And there it is. Can't answer, can you? \nJust admit it. You're really just offering help to feel good about \n<i>yourself</i>, aren't you?",
+            "name": "Air Shakur",
+            "path_id": -4019828659147245824,
+            "block_id": 29,
+            "clip_length": 283,
+            "processed": "<story>And there it is. Can't answer, can you? \n<story>Just admit it. You're really just offering help to feel good about \n<story><i>yourself</i>, aren't you?"
+        },
+        {
+            "text": "Getting high off the idea of helping someone... the idea of saving \nsomeone. \n...Even though there's nothing anyone can do to help me.",
+            "name": "Air Shakur",
+            "path_id": -8006176837678059754,
+            "block_id": 30,
+            "clip_length": 291,
+            "processed": "<story>Getting high off the idea of helping someone... the idea of saving \n<story>someone. \n<story>...Even though there's nothing anyone can do to help me."
+        },
+        {
+            "text": "She unambiguously rejected me―― But the reason I was seeking \nwas right there, between the lines... I had to press forward.",
+            "name": "",
+            "path_id": -4942972868059027254,
+            "block_id": 31,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "I haven't done anything yet.",
+                    "hash": "7a1e861069dbf534b868a6dabd14400e9836c7a83f90a5781dc83f8e7771d5de"
+                }
+            ],
+            "processed": "<story>She unambiguously rejected me―― But the reason I was seeking \n<story>was right there, between the lines... I had to press forward."
+        },
+        {
+            "text": "Huh?",
+            "name": "Air Shakur",
+            "path_id": 1321305402101912888,
+            "block_id": 32,
+            "clip_length": 35,
+            "choices": [
+                {
+                    "text": "So what makes you think there's nothing I can do?",
+                    "hash": "4a9f7ab7c6589717b87964b6f603b60913ce9227d612752c170f1cdcabe0640e",
+                    "processed": "<size=32>So what makes you think there's nothing I can do?</size>"
+                },
+                {
+                    "text": "So why do you think there's nothing I can do?",
+                    "hash": "50e1f04acce259c4280ef5f76fa52d5ca92737b97d265e951aa58db6d4d0a890",
+                    "processed": "<size=36>So why do you think there's nothing I can do?</size>"
+                }
+            ],
+            "processed": "<story>Huh?"
+        },
+        {
+            "text": "Nggh, get off my back.\r\nListen...!",
+            "name": "Air Shakur",
+            "path_id": -7055770748820420572,
+            "block_id": 33,
+            "clip_length": 122,
+            "processed": "<story>Nggh, get off my back.\r\n<story>Listen...!"
+        },
+        {
+            "text": "...Forget it. Follow me. \nI'll break it for you down numerically.",
+            "name": "Air Shakur",
+            "path_id": 8895853090810586542,
+            "block_id": 34,
+            "clip_length": 220,
+            "processed": "<story>...Forget it. Follow me. \n<story>I'll break it for you down numerically."
+        },
+        {
+            "text": "――This is the solution I...  \nThe solution『Parcae』found.",
+            "name": "Air Shakur",
+            "path_id": 5011454618703307667,
+            "block_id": 35,
+            "clip_length": 195,
+            "processed": "<story>――This is the solution I...  \n<story>The solution『Parcae』found."
+        },
+        {
+            "text": "She showed me the screen of that laptop she always carried \naround.",
+            "name": "",
+            "path_id": -3726573823878384280,
+            "block_id": 36,
+            "clip_length": 108,
+            "processed": "<story>She showed me the screen of that laptop she always carried \n<story>around."
+        },
+        {
+            "text": "It was lined with complex formula upon complex formula, \nsymbols upon symbols, leading to a single value to the right of \nthe final equal sign――",
+            "name": "",
+            "path_id": -6104320143272397070,
+            "block_id": 37,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "“−7”......",
+                    "hash": "c1a3f10fac61b6cd7d4345727da37cc5c761f2df39fa6349eb60774311e8b448"
+                }
+            ],
+            "processed": "<story>It was lined with complex formula upon complex formula, \n<story>symbols upon symbols, leading to a single value to the right of \n<story>the final equal sign――"
+        },
+        {
+            "text": "That number's always been there, ever since I first ran the code. \nThe answer doesn't change. What that value represents is...",
+            "name": "Air Shakur",
+            "path_id": 3210244692098878217,
+            "block_id": 38,
+            "clip_length": 327,
+            "processed": "<story>That number's always been there, ever since I first ran the code. \n<story>The answer doesn't change. What that value represents is..."
+        },
+        {
+            "text": "I'm going to lose the Japanese Derby by seven centimeters, \nand lose my shot at the Triple Crown. That's the solution.",
+            "name": "Air Shakur",
+            "path_id": 2914861054410584575,
+            "block_id": 39,
+            "clip_length": 343,
+            "choices": [
+                {
+                    "text": "……！",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story>I'm going to lose the Japanese Derby by seven centimeters, \n<story>and lose my shot at the Triple Crown. That's the solution."
+        },
+        {
+            "text": "The Triple Crown... Three G1 races one can only enter in her \nClassic year. The \"Satsuki Sho\", the \"Japanese Derby\", and \nthe \"Kikka Sho\".",
+            "name": "",
+            "path_id": 2121486303803315866,
+            "block_id": 40,
+            "clip_length": 121,
+            "processed": "<story>The Triple Crown... Three G1 races one can only enter in her \n<story>Classic year. The \"Satsuki Sho\", the \"Japanese Derby\", and \n<story>the \"Kikka Sho\"."
+        },
+        {
+            "text": "These races' winners are dubbed “Triple Crown Umamusume”, \ncarving their names into history. Countless challengers have tried \nand failed to join the few who could be counted on one hand.",
+            "name": "",
+            "path_id": 5805380461868228224,
+            "block_id": 41,
+            "clip_length": 120,
+            "processed": "<story>These races' winners are dubbed “Triple Crown Umamusume”, \n<story>carving their names into history. Countless challengers have tried \n<story>and failed to join the few who could be counted on one hand."
+        },
+        {
+            "text": "I will never take the Triple Crown. Time and again, I've rerun the \nnumbers, but never cracked a way to overcome this result.",
+            "name": "Air Shakur",
+            "path_id": -871826776960100467,
+            "block_id": 42,
+            "clip_length": 355,
+            "processed": "<story>I will never take the Triple Crown. Time and again, I've rerun the \n<story>numbers, but never cracked a way to overcome this result."
+        },
+        {
+            "text": "Don't even suggest there's something wrong with the program. \nIt's perfect. And because it's perfect... \nI know for a fact I'll never win.",
+            "name": "Air Shakur",
+            "path_id": 1081905611231439877,
+            "block_id": 43,
+            "clip_length": 438,
+            "processed": "<story>Don't even suggest there's something wrong with the program. \n<story>It's perfect. And because it's perfect... \n<story>I know for a fact I'll never win."
+        },
+        {
+            "text": "Got it now? Look how powerless you are to help.\nEven I can't do a damn thing about it.",
+            "name": "Air Shakur",
+            "path_id": -6700537890997767291,
+            "block_id": 44,
+            "clip_length": 263,
+            "processed": "<story>Got it now? Look how powerless you are to help.\n<story>Even I can't do a damn thing about it."
+        },
+        {
+            "text": "I couldn't hope to understand the depths of her despair. \nBut at the very least, I could understand why she was struggling \nso fiercly. It was simple―",
+            "name": "",
+            "path_id": -4967037793613536790,
+            "block_id": 45,
+            "clip_length": 124,
+            "choices": [
+                {
+                    "text": "You still want to win, don't you?",
+                    "hash": "b2232ef06607015004fa9f808864cbc10edc8384aadcccc27dced844955edf66"
+                },
+                {
+                    "text": "You still want to win, don't you?",
+                    "hash": "6e2e2249238b1b9a4bb58824323bb5b04cd2219647a0cbb56d914b918110c223"
+                }
+            ],
+            "processed": "<story>I couldn't hope to understand the depths of her despair. \n<story>But at the very least, I could understand why she was struggling \n<story>so fiercly. It was simple―"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Air Shakur",
+            "path_id": 375920289304406396,
+            "block_id": 46,
+            "clip_length": 46,
+            "processed": "<story>...Huh?"
+        },
+        {
+            "text": "I wanted to know her wish, and there it was― \nTo win. A simple wish shared by just about anyone...",
+            "name": "",
+            "path_id": -4415134551665664633,
+            "block_id": 47,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "If you hold on to that wish, you can change that result!",
+                    "hash": "ac2567a9a4e065681a2e10546e890c5040dab24de1dae84d8faf23389c541c99",
+                    "processed": "<size=30>If you hold on to that wish, you can change that result!</size>"
+                }
+            ],
+            "processed": "<story>I wanted to know her wish, and there it was― \n<story>To win. A simple wish shared by just about anyone..."
+        },
+        {
+            "text": "...Ghh.",
+            "name": "Air Shakur",
+            "path_id": -387795673471279914,
+            "block_id": 48,
+            "clip_length": 53,
+            "processed": "<story>...Ghh."
+        },
+        {
+            "text": "If wishing was all it took!\nI'd've done it already, dammit!",
+            "name": "Air Shakur",
+            "path_id": -1573732212261380859,
+            "block_id": 49,
+            "clip_length": 149,
+            "choices": [
+                {
+                    "text": "……！",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story>If wishing was all it took!\n<story>I'd've done it already, dammit!"
+        },
+        {
+            "text": "Struggling and fighting, over and over... \nRunning the numbers <i>again, and again, and again, and again, </i> \n<i>and again!</i> Knowing it's all in vain!",
+            "name": "Air Shakur",
+            "path_id": 6272937449904777129,
+            "block_id": 50,
+            "clip_length": 282,
+            "processed": "<story>Struggling and fighting, over and over... \n<story>Running the numbers <i>again, and again, and again, and again, </i> \n<story><i>and again!</i> Knowing it's all in vain!"
+        },
+        {
+            "text": "Running, running, running more! Hoping one day, <i>one day</i>... \nAll for nothing. And then a know-nothing like you...",
+            "name": "Air Shakur",
+            "path_id": -5304706595323586996,
+            "block_id": 51,
+            "clip_length": 566,
+            "processed": "<story>Running, running, running more! Hoping one day, <i>one day</i>... \n<story>All for nothing. And then a know-nothing like you..."
+        },
+        {
+            "text": "Just showing up out of nowhere, getting it twisted with that \nsavior complex!! <i>What the hell...  do you think you can do...?!</i>",
+            "name": "Air Shakur",
+            "path_id": 5795472383237393964,
+            "block_id": 52,
+            "clip_length": 254,
+            "processed": "<story>Just showing up out of nowhere, getting it twisted with that \n<story>savior complex!! <i>What the hell...  do you think you can do...?!</i>"
+        },
+        {
+            "text": "Her rage and sorrow were clear. Her hopeless outlook was seated \ndeep in her life's experience, I'm sure. I had no right to invalidate \nit. But――",
+            "name": "",
+            "path_id": 6673698752503542983,
+            "block_id": 53,
+            "clip_length": 183,
+            "choices": [
+                {
+                    "text": "(<i>I</i> haven't even tried to help her yet!)",
+                    "hash": "15befda32f9bc104c5dbe9d17fb363d7ebbec57eb57fa8fb84eda797b52dd77a"
+                },
+                {
+                    "text": "(<i>I</i> haven't even tried to help her yet!)",
+                    "hash": "459394282913fbd17d1153a374acb4c457332fc63dfac3903cbafc47e4c5fb77"
+                }
+            ],
+            "processed": "<story>Her rage and sorrow were clear. Her hopeless outlook was seated \n<story>deep in her life's experience, I'm sure. I had no right to invalidate \n<story>it. But――"
+        },
+        {
+            "text": "...Well, that's how it is. If you got it, don't try to get involved \nagain.",
+            "name": "Air Shakur",
+            "path_id": -6992686326588893640,
+            "block_id": 54,
+            "clip_length": 292,
+            "choices": [
+                {
+                    "text": "(...I have to get to know her better first.)",
+                    "hash": "06657a3364f9e4849b01df04de1e4e047dc9fdef43d96a63c6e94d78934089b4",
+                    "processed": "<size=41>(...I have to get to know her better first.)</size>"
+                }
+            ],
+            "processed": "<story>...Well, that's how it is. If you got it, don't try to get involved \n<story>again."
+        },
+        {
+            "text": "Though she rejected me, though I hadn't done anything for her, \nI still didn't want to back down.",
+            "name": "",
+            "path_id": -906344923230810093,
+            "block_id": 55,
+            "clip_length": 106,
+            "processed": "<story>Though she rejected me, though I hadn't done anything for her, \n<story>I still didn't want to back down."
+        }
+    ],
+    "title": "“Permission Denied”"
+}
