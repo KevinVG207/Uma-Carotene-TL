@@ -1,0 +1,500 @@
+{
+    "type": "story",
+    "row_index": 15807,
+    "file_name": "story/data/04/1036/storytimeline_041036007",
+    "hash": "B4HFZAWUDRYGUV36W4TWO675CKRK5EXR",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5897815582589576208,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Summer training camp season came around.",
+            "name": "",
+            "path_id": -2193551384285580010,
+            "block_id": 1,
+            "clip_length": 61,
+            "processed": "<story>Summer training camp season came around."
+        },
+        {
+            "text": "We had to train, of course, but there was plenty to do in the \ndowntime. Swimming on the beach, a fireworks show, the \nschool was even going to host a barbecue.",
+            "name": "",
+            "path_id": -833394925126249856,
+            "block_id": 2,
+            "clip_length": 120,
+            "processed": "<story>We had to train, of course, but there was plenty to do in the \n<story>downtime. Swimming on the beach, a fireworks show, the \n<story>school was even going to host a barbecue."
+        },
+        {
+            "text": "I'm gonna run, Take my time. \n...'Ey, what're you just standing there for?",
+            "name": "Air Shakur",
+            "path_id": -4831832247636349752,
+            "block_id": 3,
+            "clip_length": 238,
+            "processed": "<story>I'm gonna run, Take my time. \n<story>...'Ey, what're you just standing there for?"
+        },
+        {
+            "text": "...Tsk. Go do it in the shade. And hydrate while you're at it. \nIt'd be a pain in the ass to do a do-over.",
+            "name": "Air Shakur",
+            "path_id": 1765354567734382291,
+            "block_id": 4,
+            "clip_length": 273,
+            "processed": "<story>...Tsk. Go do it in the shade. And hydrate while you're at it. \n<story>It'd be a pain in the ass to do a do-over."
+        },
+        {
+            "text": "I felt like Air Shakur and I had gotten a bit closer than before. \nBut still, if you'd asked if she could depend on me when it really \ncounts...",
+            "name": "",
+            "path_id": -2676641482008183118,
+            "block_id": 5,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "(...I wouldn't know about that.)",
+                    "hash": "85df0f2cef5e771e9f53d6a22fab11d57291a35fa6d0d9b02818216d6015538e"
+                },
+                {
+                    "text": "(...I wouldn't know about that.)",
+                    "hash": "a84d12fcc8307b708764937636c8ad3103cbde5edf0709e484f03ad33414bac7"
+                }
+            ],
+            "processed": "<story>I felt like Air Shakur and I had gotten a bit closer than before. \n<story>But still, if you'd asked if she could depend on me when it really \n<story>counts..."
+        },
+        {
+            "text": "...Well, anyway, summer sure is a pretty eventful season. \nTime to take advantage of all the things to do and get closer to \nher!",
+            "name": "",
+            "path_id": 4604410075597304171,
+            "block_id": 6,
+            "clip_length": 107,
+            "processed": "<story>...Well, anyway, summer sure is a pretty eventful season. \n<story>Time to take advantage of all the things to do and get closer to \n<story>her!"
+        },
+        {
+            "text": "Well, that was the plan, but――",
+            "name": "",
+            "path_id": -7453806064118982364,
+            "block_id": 7,
+            "clip_length": 60,
+            "processed": "<story>Well, that was the plan, but――"
+        },
+        {
+            "text": "You wanna go to the beach? \nIt's hot as hell out there, why go if we're not gonna be training?",
+            "name": "Air Shakur",
+            "path_id": -7673037312198309044,
+            "block_id": 8,
+            "clip_length": 190,
+            "processed": "<story>You wanna go to the beach? \n<story>It's hot as hell out there, why go if we're not gonna be training?"
+        },
+        {
+            "text": "Fireworks? \nSounds tiring. Sounds annoying. Sound illogical. \nPass.",
+            "name": "Air Shakur",
+            "path_id": -3664662496463328841,
+            "block_id": 9,
+            "clip_length": 157,
+            "processed": "<story>Fireworks? \n<story>Sounds tiring. Sounds annoying. Sound illogical. \n<story>Pass."
+        },
+        {
+            "text": "Hell no.",
+            "name": "Air Shakur",
+            "path_id": 7519775848209940530,
+            "block_id": 10,
+            "clip_length": 51,
+            "choices": [
+                {
+                    "text": "I didn't even say anything...!",
+                    "hash": "5cec513d159eec8c38c82e408e6aa6b2bc7a2475312ea099e83dbc8568cffcc4"
+                }
+            ],
+            "processed": "<story>Hell no."
+        },
+        {
+            "text": "You were gonna ask about the barbecue, weren't you? Yeah, I \nfigured. So what next? 'Wanna go to the pool?' 'Wanna go \ncamping?' Don't get all excited just 'cuz it's summer, dumbass.",
+            "name": "Air Shakur",
+            "path_id": -8330821311284610096,
+            "block_id": 11,
+            "clip_length": 361,
+            "processed": "<story>You were gonna ask about the barbecue, weren't you? Yeah, I \n<story>figured. So what next? 'Wanna go to the pool?' 'Wanna go \n<story>camping?' Don't get all excited just 'cuz it's summer, dumbass."
+        },
+        {
+            "text": "I know you were lookin' forward to this, but it's not happening. \nThe only thing I ever planned to do is train.",
+            "name": "Air Shakur",
+            "path_id": -6952540944427434959,
+            "block_id": 12,
+            "clip_length": 197,
+            "processed": "<story>I know you were lookin' forward to this, but it's not happening. \n<story>The only thing I ever planned to do is train."
+        },
+        {
+            "text": "I don't need to play around or hoot and holler or whatever. \nThat's all noise to me. You oughtta know this already.",
+            "name": "Air Shakur",
+            "path_id": -974611958055783286,
+            "block_id": 13,
+            "clip_length": 166,
+            "processed": "<story>I don't need to play around or hoot and holler or whatever. \n<story>That's all noise to me. You oughtta know this already."
+        },
+        {
+            "text": "I did, in fact, already know Air Shakur didn't like noisy stuff. \nIt was probably better if I didn't invite her to loud, crowded \nevents like those.",
+            "name": "",
+            "path_id": 619671151624769609,
+            "block_id": 14,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "...But I'm still going to keep trying!",
+                    "hash": "e76e59b9ca355fce453004e0ae882ad14c8836c373927a25e14ac785cf952d17"
+                }
+            ],
+            "processed": "<story>I did, in fact, already know Air Shakur didn't like noisy stuff. \n<story>It was probably better if I didn't invite her to loud, crowded \n<story>events like those."
+        },
+        {
+            "text": "But there had to be something to do that she could enjoy, too. \nAs I was thinking it over―― I noticed a tiny speck of light \nflashing in the distance.",
+            "name": "",
+            "path_id": 215820757393945707,
+            "block_id": 15,
+            "clip_length": 121,
+            "choices": [
+                {
+                    "text": "...That's it!",
+                    "hash": "6a0b9a98ee21cf729cbbe5f61bb474d69aafb9aba4e3100606d07564fb60ea24"
+                }
+            ],
+            "processed": "<story>But there had to be something to do that she could enjoy, too. \n<story>As I was thinking it over―― I noticed a tiny speck of light \n<story>flashing in the distance."
+        },
+        {
+            "text": "Firefly watching was a classic summer activity, and you could do \nit without making a sound. Maybe she'd be up for that, even just \na little bit?",
+            "name": "",
+            "path_id": 1712994305665010186,
+            "block_id": 16,
+            "clip_length": 111,
+            "processed": "<story>Firefly watching was a classic summer activity, and you could do \n<story>it without making a sound. Maybe she'd be up for that, even just \n<story>a little bit?"
+        },
+        {
+            "text": "With that little speck's encouragement, I started searching, night \nafter night, for a river with fireflies to watch. But――",
+            "name": "",
+            "path_id": 6313775975098063926,
+            "block_id": 17,
+            "clip_length": 101,
+            "processed": "<story>With that little speck's encouragement, I started searching, night \n<story>after night, for a river with fireflies to watch. But――"
+        },
+        {
+            "text": "I couldn't find anything. It was even harder than I expected.",
+            "name": "",
+            "path_id": 6774611912185200726,
+            "block_id": 18,
+            "clip_length": 64,
+            "processed": "<story>I couldn't find anything. It was even harder than I expected."
+        },
+        {
+            "text": "That first tiny speck must've been a trick of the eye... I couldn't \nfind <i>one</i> firefly, much less a river full of them.",
+            "name": "",
+            "path_id": 6861494564302904088,
+            "block_id": 19,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "(Summer training's almost over...)",
+                    "hash": "9e025adf93fefff03a54b7647144f51c26914eefc78b07115c4888b453939e9d"
+                }
+            ],
+            "processed": "<story>That first tiny speck must've been a trick of the eye... I couldn't \n<story>find <i>one</i> firefly, much less a river full of them."
+        },
+        {
+            "text": "Maybe it just wasn't in the cards this year. \nI zoned out, thinking about giving up, when I felt a hand on my \nshoulder.",
+            "name": "",
+            "path_id": 1205842811454880708,
+            "block_id": 20,
+            "clip_length": 106,
+            "processed": "<story>Maybe it just wasn't in the cards this year. \n<story>I zoned out, thinking about giving up, when I felt a hand on my \n<story>shoulder."
+        },
+        {
+            "text": "Hey, you. Stop right there. Show me some ID. \n...We got a tip there's been someone creepin' around all night.",
+            "name": "???",
+            "path_id": 361926537286702072,
+            "block_id": 21,
+            "clip_length": 343,
+            "choices": [
+                {
+                    "text": "I-I'm not doing anyth――!",
+                    "hash": "10a6f269481bca021b925b5d8f9797dc99ce1b641b92207ca85c1754b497cb48"
+                }
+            ],
+            "processed": "<story>Hey, you. Stop right there. Show me some ID. \n<story>...We got a tip there's been someone creepin' around all night."
+        },
+        {
+            "text": "<i>Got youuu.</i>",
+            "name": "Air Shakur",
+            "path_id": -1161983195142808054,
+            "block_id": 22,
+            "clip_length": 50,
+            "processed": "<story><i>Got youuu.</i>"
+        },
+        {
+            "text": "Y'looked like you were tweaking all day.\nDid you really think I wouldn't catch on?",
+            "name": "Air Shakur",
+            "path_id": 6718182751075560493,
+            "block_id": 23,
+            "clip_length": 193,
+            "processed": "<story>Y'looked like you were tweaking all day.\n<story>Did you really think I wouldn't catch on?"
+        },
+        {
+            "text": "C'mon, tell me what you're up to.",
+            "name": "Air Shakur",
+            "path_id": -8938827527896620829,
+            "block_id": 24,
+            "clip_length": 82,
+            "processed": "<story>C'mon, tell me what you're up to."
+        },
+        {
+            "text": "All I could do now was fess up. \nI sheepishly admitted I'd been looking for fireflies, and why I was \ndoing it.",
+            "name": "",
+            "path_id": -1842628305042379663,
+            "block_id": 25,
+            "clip_length": 101,
+            "processed": "<story>All I could do now was fess up. \n<story>I sheepishly admitted I'd been looking for fireflies, and why I was \n<story>doing it."
+        },
+        {
+            "text": "...Firefly watching. \nFigured it'd be something like that. You really don't know how to \nquit.",
+            "name": "Air Shakur",
+            "path_id": -6691741419220014322,
+            "block_id": 26,
+            "clip_length": 276,
+            "processed": "<story>...Firefly watching. \n<story>Figured it'd be something like that. You really don't know how to \n<story>quit."
+        },
+        {
+            "text": "Didn't I tell you? You don't need to get along with me. \nBecause――",
+            "name": "Air Shakur",
+            "path_id": -662873547205251965,
+            "block_id": 27,
+            "clip_length": 198,
+            "choices": [
+                {
+                    "text": "Because you have 『Parcae』.",
+                    "hash": "01b1a46cfda008fb5eb98b19db26447b1144446e3fe9ef27bcc7cf02d51e8838"
+                },
+                {
+                    "text": "Because you have 『Parcae』.",
+                    "hash": "22e9791ae5bc529ca7e8c3ae13558bf41cb527c99d391582aec735d64b6fecbb"
+                }
+            ],
+            "processed": "<story>Didn't I tell you? You don't need to get along with me. \n<story>Because――"
+        },
+        {
+            "text": ".......",
+            "name": "Air Shakur",
+            "path_id": -3576862707074912535,
+            "block_id": 28,
+            "clip_length": 109,
+            "processed": "<story>......."
+        },
+        {
+            "text": "I just don't get you.",
+            "name": "Air Shakur",
+            "path_id": -2631711671205226979,
+            "block_id": 29,
+            "clip_length": 55,
+            "choices": [
+                {
+                    "text": "Huh?",
+                    "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
+                }
+            ],
+            "processed": "<story>I just don't get you."
+        },
+        {
+            "text": "I can't understand it. \nYou clearly know how it is, but you still won't give up.",
+            "name": "Air Shakur",
+            "path_id": -5888621378663672569,
+            "block_id": 30,
+            "clip_length": 203,
+            "processed": "<story>I can't understand it. \n<story>You clearly know how it is, but you still won't give up."
+        },
+        {
+            "text": "At first I thought you just felt sorry for me, or wanted to satisfy \nyour sense of self-superiority. But that can't be right.",
+            "name": "Air Shakur",
+            "path_id": -8685487149079177999,
+            "block_id": 31,
+            "clip_length": 274,
+            "processed": "<story>At first I thought you just felt sorry for me, or wanted to satisfy \n<story>your sense of self-superiority. But that can't be right."
+        },
+        {
+            "text": "...So what are you doing all this for? \nOut of a sense of duty? Think it's your creed? Is having one of \nthose the hot new tech?",
+            "name": "Air Shakur",
+            "path_id": 4598420636308663422,
+            "block_id": 32,
+            "clip_length": 282,
+            "processed": "<story>...So what are you doing all this for? \n<story>Out of a sense of duty? Think it's your creed? Is having one of \n<story>those the hot new tech?"
+        },
+        {
+            "text": "The answer was so simple, I surprised myself.",
+            "name": "",
+            "path_id": -1731167497417611321,
+            "block_id": 33,
+            "clip_length": 71,
+            "choices": [
+                {
+                    "text": "You're just important to me.",
+                    "hash": "8d53a1d4eefe6f0e5947088b0abdb64de533a49de6d0e024b25152337a10cc03"
+                },
+                {
+                    "text": "You're just important to me.",
+                    "hash": "e3301018cf302443900941de9f99624e82e5e14f4169f9661e07a79cef3b0284"
+                }
+            ],
+            "processed": "<story>The answer was so simple, I surprised myself."
+        },
+        {
+            "text": ".......Huh?",
+            "name": "Air Shakur",
+            "path_id": -1213277817742158377,
+            "block_id": 34,
+            "clip_length": 103,
+            "processed": "<story>.......Huh?"
+        },
+        {
+            "text": "Before we even met, she already had a partner that could do \nanything. With it, she could get by without needing a 『trainer』.",
+            "name": "",
+            "path_id": -3338036937804045716,
+            "block_id": 35,
+            "clip_length": 111,
+            "processed": "<story>Before we even met, she already had a partner that could do \n<story>anything. With it, she could get by without needing a 『trainer』."
+        },
+        {
+            "text": "But, even if she was content with not putting her trust in me, \nwhat if, somehow, there was a challenge she couldn't take on \nalone――",
+            "name": "",
+            "path_id": -5850421055442278258,
+            "block_id": 36,
+            "clip_length": 116,
+            "processed": "<story>But, even if she was content with not putting her trust in me, \n<story>what if, somehow, there was a challenge she couldn't take on \n<story>alone――"
+        },
+        {
+            "text": "If she kept shutting me out, I'd never be able to help her. \n...I explained those thoughts to her.",
+            "name": "",
+            "path_id": 5056460941884381080,
+            "block_id": 37,
+            "clip_length": 90,
+            "choices": [
+                {
+                    "text": "That's why I won't stop trying to get involved.",
+                    "hash": "80c260ec0d1a46ee8c81560f4a2e30c3a2550a48b56daef911369cd0b7d3dad8",
+                    "processed": "<size=36>That's why I won't stop trying to get involved.</size>"
+                }
+            ],
+            "processed": "<story>If she kept shutting me out, I'd never be able to help her. \n<story>...I explained those thoughts to her."
+        },
+        {
+            "text": ".........",
+            "name": "Air Shakur",
+            "path_id": -282194246847104337,
+            "block_id": 38,
+            "clip_length": 41,
+            "processed": "<story>........."
+        },
+        {
+            "text": "...Heh, so you've been inviting me out at every little oppurtunity, \njust 'cause you're worried about some 'what if'?",
+            "name": "Air Shakur",
+            "path_id": -6122836300389121641,
+            "block_id": 39,
+            "clip_length": 348,
+            "processed": "<story>...Heh, so you've been inviting me out at every little oppurtunity, \n<story>just 'cause you're worried about some 'what if'?"
+        },
+        {
+            "text": "First you worm your way into the net cafe, then you invite \nyourself to go shopping. ...And now here you are, scrounging \naround for fireflies night after night.",
+            "name": "Air Shakur",
+            "path_id": -5981438720437728732,
+            "block_id": 40,
+            "clip_length": 287,
+            "processed": "<story>First you worm your way into the net cafe, then you invite \n<story>yourself to go shopping. ...And now here you are, scrounging \n<story>around for fireflies night after night."
+        },
+        {
+            "text": "What was your plan if you actually pissed me off? \nForget shutting you out, I'd be cutting you off.",
+            "name": "Air Shakur",
+            "path_id": 7595323198749612422,
+            "block_id": 41,
+            "clip_length": 215,
+            "choices": [
+                {
+                    "text": "Because I knew you weren't really mad.",
+                    "hash": "8c3b4283906f3aaa4126aebe7949ab77ad8caae5354078feafd98438d0f1fa4f",
+                    "processed": "<size=42>Because I knew you weren't really mad.</size>"
+                }
+            ],
+            "processed": "<story>What was your plan if you actually pissed me off? \n<story>Forget shutting you out, I'd be cutting you off."
+        },
+        {
+            "text": "She's not the type to hold back. \nIf she really wanted to cut me off, she would've done it already.",
+            "name": "",
+            "path_id": 3242535539055672475,
+            "block_id": 42,
+            "clip_length": 95,
+            "processed": "<story>She's not the type to hold back. \n<story>If she really wanted to cut me off, she would've done it already."
+        },
+        {
+            "text": ".......",
+            "name": "Air Shakur",
+            "path_id": 148841955681749367,
+            "block_id": 43,
+            "clip_length": 102,
+            "processed": "<story>......."
+        },
+        {
+            "text": ".......You're irritating as hell.",
+            "name": "Air Shakur",
+            "path_id": 2145594497202060622,
+            "block_id": 44,
+            "clip_length": 173,
+            "choices": [
+                {
+                    "text": "!?",
+                    "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
+                }
+            ],
+            "processed": "<story>.......You're irritating as hell."
+        },
+        {
+            "text": "Don't run your mouth like you've figured it all out. And the hell \ndo you mean, 'what if'? Don't get all freaked out about something \nif it might not even happen.",
+            "name": "Air Shakur",
+            "path_id": -591008907200627138,
+            "block_id": 45,
+            "clip_length": 281,
+            "processed": "<story>Don't run your mouth like you've figured it all out. And the hell \n<story>do you mean, 'what if'? Don't get all freaked out about something \n<story>if it might not even happen."
+        },
+        {
+            "text": "...You're completely illogical. Always have been.",
+            "name": "Air Shakur",
+            "path_id": 6440144544409161064,
+            "block_id": 46,
+            "clip_length": 157,
+            "processed": "<story>...You're completely illogical. Always have been."
+        },
+        {
+            "text": ".......If you wanna find fireflies, you gotta look somewhere with \nmore shade. The dirt here's too hard, and there's not enough \ngrass. Bet you haven't looked upstream.",
+            "name": "Air Shakur",
+            "path_id": 9148057052979013698,
+            "block_id": 47,
+            "clip_length": 344,
+            "processed": "<story>.......If you wanna find fireflies, you gotta look somewhere with \n<story>more shade. The dirt here's too hard, and there's not enough \n<story>grass. Bet you haven't looked upstream."
+        },
+        {
+            "text": "She started walking in the complete opposite direction of the \ncampgrounds. Shrinking in the distance, with no signs of \nstopping――",
+            "name": "",
+            "path_id": 246343988215153408,
+            "block_id": 48,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "...Shakur?",
+                    "hash": "6fc0e8001140f8e70440d210a0b2c6c84058f042cad5fde01630a87b2cfc86a2"
+                }
+            ],
+            "processed": "<story>She started walking in the complete opposite direction of the \n<story>campgrounds. Shrinking in the distance, with no signs of \n<story>stopping――"
+        },
+        {
+            "text": "Aren't you going to come watch? \n...I don't hate fireflies.",
+            "name": "Air Shakur",
+            "path_id": 2907079655079918567,
+            "block_id": 49,
+            "clip_length": 172,
+            "processed": "<story>Aren't you going to come watch? \n<story>...I don't hate fireflies."
+        }
+    ],
+    "title": "“Change mode”"
+}
