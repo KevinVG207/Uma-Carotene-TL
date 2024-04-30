@@ -849,6 +849,11 @@
         "hash": "c491ebf27192f34b0c89a0167d3b49799882e847e52d3df0c17e6bc614482fef",
         "processed": "<rbr><sc=80>During the last straight of the Final Leg, if<br>there are other girls closely behind you<br>while you're in a good position, use extra<br>stamina to increase your speed and get a<br>slight speed boost."
     },
+    "110721": {
+        "text": "If someone was blocking you from the side around halfway through the race, then at a random point in the second half of the race, your speed will increase; it will increase greatly if you're currently running in the inner lane.",
+        "hash": "a4ed3bb36fb863063c55f054e3af9161b161d2247982ccd8adab3c54ebd11807",
+        "processed": "<rbr><sc=73>If someone was blocking you from the side<br>around halfway through the race, then at a ran-<br>dom point in the second half of the race, your<br>speed will increase; it will increase greatly if<br>you're currently running in the inner lane."
+    },
     "110741": {
         "text": "If you're in the middle of the pack during the Middle Leg, your stamina will greatly recover but your speed will slightly decrease; then, during the Final Leg, if your Stamina stat is at least 1200, you will get a slight speed boost.",
         "hash": "abf8c65e2b32a094c29e43ec9a2a6e918059135f91a770220296bdf17c0aa586",
@@ -888,6 +893,11 @@
         "text": "If you overtake someone from the middle of the pack during the Middle Leg, then on the third corner, your speed will increase; bonus duration if you're top 3 in popularity in a 2400 m race.",
         "hash": "c317fa71d65d34f2df443a52381cddedfd76d3cd1e6317488a3fc935ca93cb67",
         "processed": "<rbr><sc=80>If you overtake someone from the middle of<br>the pack during the Middle Leg, then on<br>the third corner, your speed will increase;<br>bonus duration if you're top 3 in popularity<br>in a 2400 m race."
+    },
+    "120451": {
+        "text": "If you're in a good position (but not leading) during any Middle Leg corner, your stamina will recover; in Medium and Long races, your speed will also slightly increase.",
+        "hash": "4b77205f9a044badc6f3e2f7b7397d49e592b55ed81853855bb69676695ae452",
+        "processed": "<rbr><sc=80>If you're in a good position (but not lead-<br>ing) during any Middle Leg corner, your<br>stamina will recover; in Medium and Long<br>races, your speed will also slightly<br>increase."
     },
     "120601": {
         "text": "If you're not in the front on the Final Corner during the Final Leg, your speed will greatly increase; in Middle distance races, you will receive a great instant speed boost instead.",
@@ -3564,6 +3574,11 @@
         "hash": "6ca1ccf0a0ab8a2929e5f47839b1e2fafaa26b40c9275d3a43abd0e3d3769435",
         "processed": "<rbr>Chaser・If you're in the second<br>half of the pack during the second<br>half of the Opening Leg, your<br>stamina will slightly recover."
     },
+    "202901": {
+        "text": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will increase.",
+        "hash": "cae99cd59602f62394dba1fc8328dd19c55764176a8981ef8fe94cd059b53ce8",
+        "processed": "<rbr>Chaser・If you're not in the front<br>during the second half of the<br>Middle Leg, your speed will<br>increase."
+    },
     "202902": {
         "text": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will slightly increase.",
         "hash": "afc454f53dec2349ec507a8a459142edcfa031f6a2059fbab5f80db2011b822c",
@@ -3608,6 +3623,11 @@
         "text": "Mile・If you're not in the front during the second half of the Middle Leg, your speed will slightly increase.",
         "hash": "c0896aa96154591b0b4855930dd966fd28b6ffcc59092289f427a9a2dae3d0c0",
         "processed": "<rbr>Mile・If you're not in the front<br>during the second half of the<br>Middle Leg, your speed will<br>slightly increase."
+    },
+    "202972": {
+        "text": "Chaser・Long・If you're not in the front during the first quarter of the Final Leg, your acceleration will slightly increase.",
+        "hash": "07f8b67fb5ab9357e69c7008799c3d52a22452f86411e0f4762d856a2db884be",
+        "processed": "<rbr>Chaser・Long・If you're not in the<br>front during the first quarter of<br>the Final Leg, your acceleration<br>will slightly increase."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -5254,6 +5274,11 @@
         "hash": "e7b99de82fd67f9a8fdc52f033d2c8fce7170f8bd871920ae2e730759865e928",
         "processed": "<rbr>Runner・If you're in the first half<br>of the pack during the Middle Leg,<br>your speed will increase and your<br>stamina will slightly recover."
     },
+    "102002121": {
+        "text": "Runner・If you're in the first half of the pack at a random point during the Middle Leg, your speed will greatly increase.",
+        "hash": "b4dd29034d29ca71fe5e1caa1b2ed80e5aacfeb39c5d528fdeacb0e1c03a3e0f",
+        "processed": "<rbr>Runner・If you're in the first half<br>of the pack at a random point<br>during the Middle Leg, your speed<br>will greatly increase."
+    },
     "102002211": {
         "text": "Runner・If you've been overtaken or are being blocked from the side during the early stages of the race, your speed will increase and your stamina will slightly recover.",
         "hash": "ffc32764324d5d5aa9ef3e49766cd6b595814a304489f00c4fcf97bf12ecb952",
@@ -5749,6 +5774,16 @@
         "hash": "0754669efc6c9aafbb84edf5b6caff6aacc7dcdb0e13e99009a45f8625bc21a1",
         "processed": "<rbr>Medium・During the Middle Leg, if<br>you've been blocked from the<br>front, drain some stamina from all<br>enemies ahead of you."
     },
+    "104503111": {
+        "text": "Leader・At a random point in the Middle Leg, your speed will greatly increase.",
+        "hash": "73216a590a759901fd0e365d9ff58ebc951ec267ef8e80151ccc630a32674bc4",
+        "processed": "<rbr>Leader・At a random point in the<br>Middle Leg, your speed will greatly<br>increase."
+    },
+    "104503211": {
+        "text": "Leader・Long・If you were within 15 meters from the lead around the end of the Middle Leg, then in the Final Leg, your acceleration will increase.",
+        "hash": "f555106fce72341839dd89293f4bf182c9ba55b3497170ecf8142bb9e6cb489b",
+        "processed": "<rbr><sc=95>Leader・Long・If you were within 15<br>meters from the lead around the end<br>of the Middle Leg, then in the Final<br>Leg, your acceleration will increase."
+    },
     "104601111": {
         "text": "At a random point during the Opening Leg, your lane movement speed will increase greatly.",
         "hash": "d77e86f853bad4f3676157b6fe7bd958d9a0a03d0cd28bdbe087c3abd2bae958",
@@ -6089,6 +6124,11 @@
         "hash": "a3c06bedec7ef221c9eeaa934995c5998d7b6ff0e917417ce4563ebe84d8d59e",
         "processed": "<rbr>Long・At a random point during<br>the Middle Leg, if you're in the<br>first place with a clear lead, your<br>speed will increase."
     },
+    "106401221": {
+        "text": "Long・If you're being blocked from the side during the Middle Leg, your speed will greatly increase.",
+        "hash": "6d306a9e57d5acf9602d6ac32a357e045423ff853026de30cf8a07e1de80c540",
+        "processed": "<rbr>Long・If you're being blocked from<br>the side during the Middle Leg,<br>your speed will greatly increase."
+    },
     "106402111": {
         "text": "Long・At a random point on a random straight, your speed will increase.",
         "hash": "9056ce74cb1ebd1a394d26a2950bd74db8cf2d3dbc3a67222d048a2b75b08cac",
@@ -6258,6 +6298,16 @@
         "text": "Medium・During the Final Corner, if you're about to overtake someone, you will get a speed boost.",
         "hash": "4e8b82a59b5e2167b4e0fbb02ec7c3637c6524b9f816cc0932bc887122b46959",
         "processed": "<rbr>Medium・During the Final Corner,<br>if you're about to overtake<br>someone, you will get a speed<br>boost."
+    },
+    "107202111": {
+        "text": "Leader/Betweener・If you're on the final corner in the Final Leg, you're not in the back of the pack, and there's at least 600 m remaining in the race, your acceleration will greatly increase; then, during the first half of the Last Spurt, your speed will slightly increase.",
+        "hash": "29fccd8b440cbf76d557d98121e93529e7190c548648adfb4d74c78cfefc006a",
+        "processed": "<rbr><sc=66>Leader/Betweener・If you're on the final corner in<br>the Final Leg, you're not in the back of the pack, and<br>there's at least 600 m remaining in the race, your<br>acceleration will greatly increase; then, during the<br>first half of the Last Spurt, your speed will slightly<br>increase."
+    },
+    "107202211": {
+        "text": "Leader/Betweener・If you try to overtake someone in the second half of the race, your speed will increase; it will increase greatly if you're currently running in the inner lane.",
+        "hash": "c5c0f44aefacade43fc3cd9695c022f925fbf4eecdd54715557af4c445ec5a32",
+        "processed": "<rbr><sc=80>Leader/Betweener・If you try to overtake<br>someone in the second half of the race,<br>your speed will increase; it will increase<br>greatly if you're currently running in the<br>inner lane."
     },
     "107401111": {
         "text": "If you're overtaken during the Middle Leg, your stamina will recover greatly.",
@@ -6498,6 +6548,11 @@
         "text": "Betweener・At a random point during the Middle Leg, if you're not in the front, your stamina will greatly recover.",
         "hash": "0f4137b515818a206e6e2619493f34d545796ad856e36618613fc73b668b7d44",
         "processed": "<rbr>Betweener・At a random point<br>during the Middle Leg, if you're<br>not in the front, your stamina will<br>greatly recover."
+    },
+    "110601121": {
+        "text": "Betweener・At a random point during the Middle Leg, if you're not in the front, your stamina will slightly recover and your speed will increase.",
+        "hash": "153dacfae1707bc8060e80332e4e6637d9312a845f3bee2063b331060239f576",
+        "processed": "<rbr><sc=94>Betweener・At a random point dur-<br>ing the Middle Leg, if you're not in<br>the front, your stamina will slightly<br>recover and your speed will increase."
     },
     "110601211": {
         "text": "Betweener・If you're in the middle of the pack at a random point during the Middle Leg, your speed will increase.",
