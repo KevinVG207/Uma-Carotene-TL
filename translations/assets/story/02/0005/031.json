@@ -44,12 +44,12 @@
             "processed": "<story>Hokkaido is sprawling too, but to think just one school would be \n<story>this big! I might get lost once… or maybe 5 times."
         },
         {
-            "text": "…Oh? If I recall, you're team <Sirius>'s trainer.",
+            "text": "…Oh? If I recall, you're team ＜Sirius＞'s trainer.",
             "name": "Silence Suzuka",
             "path_id": -2333901365247080670,
             "block_id": 5,
             "clip_length": 165,
-            "processed": "<story>…Oh? If I recall, you're team <Sirius>'s trainer."
+            "processed": "<story>…Oh? If I recall, you're team ＜Sirius＞'s trainer."
         },
         {
             "text": "Good afternoon. \nIt seems you already know me.",
@@ -76,12 +76,12 @@
             "processed": "<story>Yes, if you want to enter the Twinkle Series, \n<story>you're required to be a part of a team."
         },
         {
-            "text": "And this person here is someone who's trained \nseveral G1 Uma Musume. Team <Sirius>'s trainer.",
+            "text": "And this person here is someone who's trained \nseveral G1 Uma Musume. Team ＜Sirius＞'s trainer.",
             "name": "Silence Suzuka",
             "path_id": 4541296492543939378,
             "block_id": 9,
             "clip_length": 220,
-            "processed": "<story>And this person here is someone who's trained \n<story>several G1 Uma Musume. Team <Sirius>'s trainer."
+            "processed": "<story>And this person here is someone who's trained \n<story>several G1 Uma Musume. Team ＜Sirius＞'s trainer."
         },
         {
             "text": "Eh? So they're an important person…! \nGood afternoon, I'm Special Week!!",
@@ -211,12 +211,12 @@
             "processed": "<story>Oh, observing this race?"
         },
         {
-            "text": "<Sirius>'s Trainer-san. \nYes, Special Week-san is participating.",
+            "text": "＜Sirius＞'s Trainer-san. \nYes, Special Week-san is participating.",
             "name": "Silence Suzuka",
             "path_id": -1551632628133482588,
             "block_id": 25,
             "clip_length": 201,
-            "processed": "<story><Sirius>'s Trainer-san. \n<story>Yes, Special Week-san is participating."
+            "processed": "<story>＜Sirius＞'s Trainer-san. \n<story>Yes, Special Week-san is participating."
         },
         {
             "text": "I was surprised when I saw the race schedule. She just \ntransferred here but is already running in a Selection Race.",
@@ -433,20 +433,20 @@
             "processed": "<story>I really wanted to join Suzuka-san's team but, \n<story>I really screwed up during the Selection Race…"
         },
         {
-            "text": "But! But! Trainer-san spoke to me and told \nme <Sirius> was a great team so I joined!",
+            "text": "But! But! Trainer-san spoke to me and told \nme ＜Sirius＞ was a great team so I joined!",
             "name": "Special Week",
             "path_id": 6551651493538413205,
             "block_id": 52,
             "clip_length": 223,
-            "processed": "<story>But! But! Trainer-san spoke to me and told \n<story>me <Sirius> was a great team so I joined!"
+            "processed": "<story>But! But! Trainer-san spoke to me and told \n<story>me ＜Sirius＞ was a great team so I joined!"
         },
         {
-            "text": "Hooooou… So <Sirius> was just an after thought for you.",
+            "text": "Hooooou… So ＜Sirius＞ was just an after thought for you.",
             "name": "Gold Ship",
             "path_id": 4067190955809876672,
             "block_id": 53,
             "clip_length": 200,
-            "processed": "<story>Hooooou… So <Sirius> was just an after thought for you."
+            "processed": "<story>Hooooou… So ＜Sirius＞ was just an after thought for you."
         },
         {
             "text": "…eh?! N-no! You're wrong! It's true that I wanted to join the \nsame team as Suzuka-san though…",
