@@ -155,6 +155,9 @@ class DMMConfigNotFoundException(Exception):
     pass
 
 def display_critical_message(title, text):
+    if is_script:
+        print(f"{title}: {text}")
+        return
     msg = QMessageBox()
     msg.setIcon(QMessageBox.Critical)
     msg.setText(text)

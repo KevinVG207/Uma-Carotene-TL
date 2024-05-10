@@ -22484,6 +22484,71 @@
         "hash": "2289ff2c924c9cb6d374e3542cdead00524b8edccf005409d8972f6795c960bd",
         "processed": "<rbr>Clear all event missions."
     },
+    "1002000": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "3a64785653715c5241e1649271ce38589d540247ff8d3b3173836a745fbf4b1c",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002001": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "33ce73ae60e5475114f1f18109639777517c6bcdf5bfbcf1d14dd3dac93b11a0",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002002": {
+        "text": "Get at least 5th in the Oka Sho once during training.",
+        "hash": "d823c489a4b0b48d2455a45bc5984aea4a69ed60c647cf8cb6d0b7cc3b058d81",
+        "processed": "<rbr>Get at least 5th in the Oka<br>Sho once during training."
+    },
+    "1002003": {
+        "text": "Get at least 2nd in the Flora Stakes once during training.",
+        "hash": "6ca9270aa076f1a83669f6d9cee4e12ea887a981bd637ba2d61493f47078c8f0",
+        "processed": "<rbr>Get at least 2nd in the Flora<br>Stakes once during training."
+    },
+    "1002004": {
+        "text": "Win the Oaks once during training.",
+        "hash": "2c3afca9d35f2412fe21f44cdbd06c94e4642159d89a69445c68511c02ad0414",
+        "processed": "<rbr>Win the Oaks once during<br>training."
+    },
+    "1002005": {
+        "text": "Clear all event missions.",
+        "hash": "67c5c3d988980a988b316b4855a811a88f65257969dbe1c26b37a5ee775db896",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002006": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "580fb8020778f63297ad7c1395b6d9eae6541be09cfd93484a54ef4661b5820d",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002007": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "ce7357897c948fea70600aa018abc1bbf70325c3b529e7233e46ac735dab6071",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002008": {
+        "text": "Get at least 5th in the Satsuki Sho once during training.",
+        "hash": "9460d5267aca326fad6af8234452706929d11ad3de293f053058c70ccefb7e11",
+        "processed": "<rbr><sc=99>Get at least 5th in the Satsuki<br>Sho once during training."
+    },
+    "1002009": {
+        "text": "Get at least 2nd in the Aoba Sho once during training.",
+        "hash": "0c78ba2798357ed5f390ee7a684e22c441953d5f60fba08f13963fb7ab4c0d53",
+        "processed": "<rbr>Get at least 2nd in the Aoba<br>Sho once during training."
+    },
+    "1002010": {
+        "text": "Win the Kyoto Shimbun Hai once during training.",
+        "hash": "859255e943d6400378a9ce96ac0fa667051341d03033a03f1d789ea9d2607765",
+        "processed": "<rbr>Win the Kyoto Shimbun Hai<br>once during training."
+    },
+    "1002011": {
+        "text": "Win the Tokyo Yushun (Japan Derby) once during training.",
+        "hash": "bab00b5ae523c04e6ecf5f24d6431179fbcb64785c16a473218fb13004ee34b4",
+        "processed": "<rbr>Win the Tokyo Yushun (Japan<br>Derby) once during training."
+    },
+    "1002012": {
+        "text": "Clear all event missions.",
+        "hash": "7aa05d778c761405655da6ac4d58cee3e9d559bc2dcb0fd5a5a9ea2e8a276aaf",
+        "processed": "<rbr>Clear all event missions."
+    },
     "2600001": {
         "text": "Do 2 training runs ('Chase Your Dreams!' story event).",
         "hash": "818f3eb4558e55a206a039a530843c5a0ed1b12fd0fcbcc033f6111d4e095a21",
