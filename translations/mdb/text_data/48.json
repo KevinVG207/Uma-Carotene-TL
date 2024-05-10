@@ -889,6 +889,11 @@
         "hash": "2b1c57e0ac3c4bd48c495e4c28fc9aadd2b7e906f7bb266f239bbe1d1ad5ec4e",
         "processed": "<rbr>If you're in front in the second half<br>of the race, your speed will<br>increase; bonus duration depend-<br>ing on your remaining stamina."
     },
+    "120321": {
+        "text": "If you're in the first half of the pack during the Final Leg, your (target) speed will greatly increase; in Medium races, you will receive an (immediate) great speed boost instead.",
+        "hash": "2862bd0cb9da3cddb5cefc159a3381b01a1f8b7a0cff67ffb77e7c231718ff1c",
+        "processed": "<rbr><sc=80>If you're in the first half of the pack during<br>the Final Leg, your (target) speed will<br>greatly increase; in Medium races, you will<br>receive an (immediate) great speed boost<br>instead."
+    },
     "120351": {
         "text": "If you overtake someone from the middle of the pack during the Middle Leg, then on the third corner, your speed will increase; bonus duration if you're top 3 in popularity in a 2400 m race.",
         "hash": "c317fa71d65d34f2df443a52381cddedfd76d3cd1e6317488a3fc935ca93cb67",
@@ -3629,6 +3634,16 @@
         "hash": "07f8b67fb5ab9357e69c7008799c3d52a22452f86411e0f4762d856a2db884be",
         "processed": "<rbr>Chaser・Long・If you're not in the<br>front during the first quarter of<br>the Final Leg, your acceleration<br>will slightly increase."
     },
+    "202981": {
+        "text": "Leader・If you're in the first half of the pack during the second half of the Middle Leg, your speed will increase.",
+        "hash": "9cef3b58ffb6a5fbb29dbb3b35f81c2226ed50156c3998a69ce9a0b35cbff765",
+        "processed": "<rbr>Leader・If you're in the first half<br>of the pack during the second half<br>of the Middle Leg, your speed will<br>increase."
+    },
+    "202982": {
+        "text": "Leader・If you're in the first half of the pack during the second half of the Middle Leg, your speed will slightly increase.",
+        "hash": "1b2753ce9424fe735e90a2eb08150dae31873e75d47d0a2b03aaabe4708c2477",
+        "processed": "<rbr>Leader・If you're in the first half<br>of the pack during the second half<br>of the Middle Leg, your speed will<br>slightly increase."
+    },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
         "hash": "2b11f52be1772f83410a032e5b2f6964030c966486ead8045fff1b8a61f8cbf8",
@@ -5518,6 +5533,16 @@
         "text": "Leader・At a random point in the Middle Leg, your speed will increase; [bonus effect under investigation].",
         "hash": "f12eeec9e9ca680b178b837ade1baf9bd3264a5479b734253f67289e36f5303b",
         "processed": "<rbr>Leader・At a random point in the<br>Middle Leg, your speed will<br>increase; [bonus effect under<br>investigation]."
+    },
+    "103203111": {
+        "text": "Leader・If you're in the first half of the pack during the second half of the Middle Leg, your speed will greatly increase; in Medium races, it will increase tremendously.",
+        "hash": "28c81a201b9af88a2705cbb7029924703115073ad496bb10353e9fe80f8dc574",
+        "processed": "<rbr><sc=80>Leader・If you're in the first half of the<br>pack during the second half of the Middle<br>Leg, your speed will greatly increase; in<br>Medium races, it will increase tremendous-<br>ly."
+    },
+    "103203211": {
+        "text": "If there are at least three other girls near you after the first 5 seconds of the race, your speed will increase; in 2000 m races, you will also slightly increase the speed of all your teammates.",
+        "hash": "a666524fcc2ec59cc352b2977be9aba73a5bd067703ed3454bcc6cecbcb74103",
+        "processed": "<rbr><sc=80>If there are at least three other girls near<br>you after the first 5 seconds of the race,<br>your speed will increase; in 2000 m races,<br>you will also slightly increase the speed of<br>all your teammates."
     },
     "103301111": {
         "text": "Chaser・If there's another girl right in front of you (at least 10 seconds into the race), your speed will slightly increase and your stamina will recover.",

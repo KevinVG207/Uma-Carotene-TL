@@ -460,7 +460,7 @@ return out;
     urls = list(urls)
 
     current_year = datetime.datetime.now().year
-    start_year = 2021
+    start_year = current_year - 1
     urls += [
         "daily",
         "main",

@@ -738,6 +738,11 @@
         "text": "Danser le Présent",
         "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
     },
+    "110721": {
+        "text": "Decisive Blade of Blazing Fire",
+        "hash": "3553bed9d3fb1ea07a77bbd8e80de682c78719992aec6330d720354194d16306",
+        "processed": "<sc=83>Decisive Blade of Blazing Fire"
+    },
     "110741": {
         "text": "Illuminate You",
         "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
@@ -772,6 +777,11 @@
     "120351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "120451": {
+        "text": "Ninja Art: Seal of the Smiling Heart",
+        "hash": "fe8279235e0f173ff4911dc403e90e2bc7e1e3af94152886637c545ab746402d",
+        "processed": "<sc=70>Ninja Art: Seal of the Smiling Heart"
     },
     "120601": {
         "text": "Springy Festivities",
@@ -3864,6 +3874,11 @@
         "text": "Danser le Présent",
         "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
     },
+    "910721": {
+        "text": "Decisive Blade of Blazing Fire",
+        "hash": "3553bed9d3fb1ea07a77bbd8e80de682c78719992aec6330d720354194d16306",
+        "processed": "<sc=83>Decisive Blade of Blazing Fire"
+    },
     "910741": {
         "text": "Illuminate You",
         "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
@@ -3898,6 +3913,11 @@
     "920351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "920451": {
+        "text": "Ninja Art: Seal of the Smiling Heart",
+        "hash": "fe8279235e0f173ff4911dc403e90e2bc7e1e3af94152886637c545ab746402d",
+        "processed": "<sc=70>Ninja Art: Seal of the Smiling Heart"
     },
     "920601": {
         "text": "Springy Festivities",
@@ -4810,6 +4830,15 @@
         "hash": "7361d6131d60f2e5b47219f4644b2dad960c8fe6598fbf4cd6378138b30d9800",
         "processed": "<sc=92>Charming Mummy Whisper"
     },
+    "104503111": {
+        "text": "Run as the River Flows",
+        "hash": "260307562a667108b809e5f9eb1ab2b542aebc18cd72a8cb5952b21371d3f51a"
+    },
+    "104503211": {
+        "text": "Butterfly Transformation Jutsu",
+        "hash": "0a42e4beac9abdd2a35b5928f69cead38db843e1120c1e3703551e0d42ff66c5",
+        "processed": "<sc=80>Butterfly Transformation Jutsu"
+    },
     "104601111": {
         "text": "The Dazzling Umadol's Here★",
         "hash": "620f7c6b4124ec3da9bf8e8dd26b58a265be873ae770f419e21606a3df04891d",
@@ -5246,6 +5275,14 @@
         "text": "Ardent Desire for Victory",
         "hash": "4c47a683555e7105d0c04715f13bb1ba220292d627d1506db00d462bb5dc6fc3",
         "processed": "<sc=98>Ardent Desire for Victory"
+    },
+    "107202111": {
+        "text": "General's Swift Strike",
+        "hash": "33be386bd9c0c1c8ca6265666cf3cb0d9b43cc8ec6ce803267825b500aa22112"
+    },
+    "107202211": {
+        "text": "Peerless Pursuit",
+        "hash": "e426d0ac57c0291f658eb842f0fbd278d3fbbc91fff0f5c7c2e6563802b57c59"
     },
     "107401111": {
         "text": "Indomitable Dame",
