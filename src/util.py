@@ -55,8 +55,8 @@ class UmaPool(Pool):
         if not processes:
             processes = os.cpu_count() or 1
 
-        if processes > 12:
-            processes = 12
+        # if processes > 12:
+        #     processes = 12
 
         super().__init__(processes, *args, **kwargs)
 
