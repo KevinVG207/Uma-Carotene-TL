@@ -1,0 +1,876 @@
+{
+    "type": "story",
+    "row_index": 227042,
+    "file_name": "story/data/02/0201/storytimeline_020201031",
+    "hash": "ZSZVD2PYHSWVXHGAVLKPV3UX4TOVRDZF",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 804640035262723958,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "『It can't be anyone else but me』, you say…… \nbut, why do you think that about me……?",
+            "name": "<username>",
+            "path_id": 7301452421491181082,
+            "block_id": 1,
+            "clip_length": 105,
+            "processed": "<story>『It can't be anyone else but me』, you say…… \n<story>but, why do you think that about me……?"
+        },
+        {
+            "text": "『It can't be anyone else but me』, you say…… \nbut, why do you think that about me……?",
+            "name": "<username>",
+            "path_id": -7621688419877979919,
+            "block_id": 2,
+            "clip_length": 104,
+            "processed": "<story>『It can't be anyone else but me』, you say…… \n<story>but, why do you think that about me……?"
+        },
+        {
+            "text": "……The truth is, we already knew about you before we enrolled here.",
+            "name": "Cesario",
+            "path_id": -4730895866943993311,
+            "block_id": 3,
+            "clip_length": 194,
+            "processed": "<story>……The truth is, we already knew about you before we enrolled here."
+        },
+        {
+            "text": "……that you were following in the footsteps of your \n『Famous』 father by becoming the trainer of Team <Ascella>.",
+            "name": "Cesario",
+            "path_id": -7715212611205851851,
+            "block_id": 4,
+            "clip_length": 270,
+            "choices": [
+                {
+                    "text": "……!",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story>……that you were following in the footsteps of your \n<story>『Famous』 father by becoming the trainer of Team <Ascella>."
+        },
+        {
+            "text": "(Honestly――I wasn't surprised that they knew. \nAfter all, it was quite the news story at the time.)",
+            "name": "<username>",
+            "path_id": -4530711195222483071,
+            "block_id": 5,
+            "clip_length": 187,
+            "processed": "<story>(Honestly――I wasn't surprised that they knew. \n<story>After all, it was quite the news story at the time.)"
+        },
+        {
+            "text": "As someone who possessed a keen intuition in regards to \nUma Musume, able to guide them skillfully, my father became \n『Famous』 as someone who raised many strong Uma Musume.",
+            "name": "<username>",
+            "path_id": -3454100846826209071,
+            "block_id": 6,
+            "clip_length": 150,
+            "processed": "<story>As someone who possessed a keen intuition in regards to \n<story>Uma Musume, able to guide them skillfully, my father became \n<story>『Famous』 as someone who raised many strong Uma Musume."
+        },
+        {
+            "text": "He became a leading trainer at a young age. \nHe has now decided to retire and going forward…… \nI will be taking over his team, <Ascella>.",
+            "name": "<username>",
+            "path_id": -2009712181634224101,
+            "block_id": 7,
+            "clip_length": 155,
+            "processed": "<story>He became a leading trainer at a young age. \n<story>He has now decided to retire and going forward…… \n<story>I will be taking over his team, <Ascella>."
+        },
+        {
+            "text": "He became a leading trainer at a young age. \nHe has now decided to retire and going forward…… \nI will be taking over his team, <Ascella>.",
+            "name": "<username>",
+            "path_id": 1597900785871008582,
+            "block_id": 8,
+            "clip_length": 155,
+            "processed": "<story>He became a leading trainer at a young age. \n<story>He has now decided to retire and going forward…… \n<story>I will be taking over his team, <Ascella>."
+        },
+        {
+            "text": "Obviously, it attracted alot of attention. After that, I \nformed a contract with King Halo, whose mother was also \nfamous. It had earned us the nickname 『Second Generation Duo』.",
+            "name": "<username>",
+            "path_id": -8913125021074146311,
+            "block_id": 9,
+            "clip_length": 163,
+            "processed": "<story>Obviously, it attracted alot of attention. After that, I \n<story>formed a contract with King Halo, whose mother was also \n<story>famous. It had earned us the nickname 『Second Generation Duo』."
+        },
+        {
+            "text": "On remaining undefeated and winning your first \nmajor race, congratulations! After this, are your \nplans to enter the Classic Triple Crown rotation!?",
+            "name": "Reporter A",
+            "path_id": 872750864555182088,
+            "block_id": 10,
+            "clip_length": 270,
+            "processed": "<story>On remaining undefeated and winning your first \n<story>major race, congratulations! After this, are your \n<story>plans to enter the Classic Triple Crown rotation!?"
+        },
+        {
+            "text": "Yes, of course! The 『Satsuki Sho』『Japan Derby』 and 『Kikka Sho』, \nI will, without fail win the Triple Crown races――",
+            "name": "King Halo",
+            "path_id": -394366851292746784,
+            "block_id": 11,
+            "clip_length": 285,
+            "processed": "<story>Yes, of course! The 『Satsuki Sho』『Japan Derby』 and 『Kikka Sho』, \n<story>I will, without fail win the Triple Crown races――"
+        },
+        {
+            "text": "Without fail, I will show you results befitting of \nbeing called first rate. Please, look forward to it!",
+            "name": "King Halo",
+            "path_id": -8901949402750999671,
+            "block_id": 12,
+            "clip_length": 245,
+            "processed": "<story>Without fail, I will show you results befitting of \n<story>being called first rate. Please, look forward to it!"
+        },
+        {
+            "text": "For next year's Classic Triple Crown, Special Week, \nwho is being led by the New Age 『Genius』 trainer, \nhas also announced their participation!",
+            "name": "Reporter B",
+            "path_id": 1084042103997575562,
+            "block_id": 13,
+            "clip_length": 208,
+            "processed": "<story>For next year's Classic Triple Crown, Special Week, \n<story>who is being led by the New Age 『Genius』 trainer, \n<story>has also announced their participation!"
+        },
+        {
+            "text": "Many people seem to think that Team <Ascella> and the 『Genius』 \nteam are rivals, are you confident that you can win!?",
+            "name": "Reporter B",
+            "path_id": 6818514025180599821,
+            "block_id": 14,
+            "clip_length": 207,
+            "processed": "<story>Many people seem to think that Team <Ascella> and the 『Genius』 \n<story>team are rivals, are you confident that you can win!?"
+        },
+        {
+            "text": "This is not a battle between trainers, it is a battle between \nUma Musume, and I'd like you to keep that in mind, however――",
+            "name": "<username>",
+            "path_id": -1564745327004001595,
+            "block_id": 15,
+            "clip_length": 168,
+            "processed": "<story>This is not a battle between trainers, it is a battle between \n<story>Uma Musume, and I'd like you to keep that in mind, however――"
+        },
+        {
+            "text": "Of course I have confidence. ……that is a reflection of \nthe trust I put in King Halo, a first rate Uma Musume.",
+            "name": "<username>",
+            "path_id": -2035342886610510235,
+            "block_id": 16,
+            "clip_length": 161,
+            "processed": "<story>Of course I have confidence. ……that is a reflection of \n<story>the trust I put in King Halo, a first rate Uma Musume."
+        },
+        {
+            "text": "As expected……! We're looking forward to the continued \nsuccess of the 『Second Generation Duo』, following in \nthe footsteps of their renowned parents.",
+            "name": "Reporter B",
+            "path_id": -26266802511542532,
+            "block_id": 17,
+            "clip_length": 343,
+            "processed": "<story>As expected……! We're looking forward to the continued \n<story>success of the 『Second Generation Duo』, following in \n<story>the footsteps of their renowned parents."
+        },
+        {
+            "text": "But……",
+            "name": "<username>",
+            "path_id": -7941027049813283211,
+            "block_id": 18,
+            "clip_length": 81,
+            "processed": "<story>But……"
+        },
+        {
+            "text": "……it's finally the 『Japan Derby』 isn't it……?",
+            "name": "King Halo",
+            "path_id": -5027529486916303003,
+            "block_id": 19,
+            "clip_length": 247,
+            "choices": [
+                {
+                    "text": "Y-yeah……",
+                    "hash": "1c162e7386ad4b988470d9a39939e2d798bae460107e6177951b42e9c235c622"
+                },
+                {
+                    "text": "Y-yeah……",
+                    "hash": "d62d9cef11b52afba3a8566e4e9eb7f6ca3ed3434c68c4434e8b0e2ddda040eb"
+                }
+            ],
+            "processed": "<story>……it's finally the 『Japan Derby』 isn't it……?"
+        },
+        {
+            "text": "(Not good……King looks really uneasy……I wanted to give her some \nadvice so she could be more confident and positive……but……!)",
+            "name": "<username>",
+            "path_id": 4510409165188095255,
+            "block_id": 20,
+            "clip_length": 211,
+            "processed": "<story>(Not good……King looks really uneasy……I wanted to give her some \n<story>advice so she could be more confident and positive……but……!)"
+        },
+        {
+            "text": "(Not good……King looks really uneasy……I wanted to give her some \nadvice so she could be more confident and positive……but……!)",
+            "name": "<username>",
+            "path_id": -3323708560847434481,
+            "block_id": 21,
+            "clip_length": 213,
+            "processed": "<story>(Not good……King looks really uneasy……I wanted to give her some \n<story>advice so she could be more confident and positive……but……!)"
+        },
+        {
+            "text": "(Honestly……I'm not sure what to tell her! \nAt Satsuki, Seiun Sky got us good, so I want \nher to be cautious of the front but――)",
+            "name": "<username>",
+            "path_id": 786513950135127368,
+            "block_id": 22,
+            "clip_length": 301,
+            "processed": "<story>(Honestly……I'm not sure what to tell her! \n<story>At Satsuki, Seiun Sky got us good, so I want \n<story>her to be cautious of the front but――)"
+        },
+        {
+            "text": "(Honestly……I'm not sure what to tell her! \nAt Satsuki, Seiun Sky got us good, so I want \nher to be cautious of the front but――)",
+            "name": "<username>",
+            "path_id": 5657720660873093299,
+            "block_id": 23,
+            "clip_length": 301,
+            "processed": "<story>(Honestly……I'm not sure what to tell her! \n<story>At Satsuki, Seiun Sky got us good, so I want \n<story>her to be cautious of the front but――)"
+        },
+        {
+            "text": "(There's also Special Week from behind too! If she \nfocused too much on the front, she'd exhaust herself \nbefore the end and it would be all over……!)",
+            "name": "<username>",
+            "path_id": 1432573833952421915,
+            "block_id": 24,
+            "clip_length": 202,
+            "processed": "<story>(There's also Special Week from behind too! If she \n<story>focused too much on the front, she'd exhaust herself \n<story>before the end and it would be all over……!)"
+        },
+        {
+            "text": "(So then what should I do? What should I say? What position \nshould she take, who should she mark, how should she run……!?)",
+            "name": "<username>",
+            "path_id": -5897359589572427091,
+            "block_id": 25,
+            "clip_length": 204,
+            "processed": "<story>(So then what should I do? What should I say? What position \n<story>should she take, who should she mark, how should she run……!?)"
+        },
+        {
+            "text": "(So then what should I do? What should I say? What position \nshould she take, who should she mark, how should she run……!?)",
+            "name": "<username>",
+            "path_id": 2604701882997841318,
+            "block_id": 26,
+            "clip_length": 206,
+            "processed": "<story>(So then what should I do? What should I say? What position \n<story>should she take, who should she mark, how should she run……!?)"
+        },
+        {
+            "text": "(Damnit, damnit, damnit! Why can't I \nthink of anything!? Even though I'm……!)",
+            "name": "<username>",
+            "path_id": -6373829410811747298,
+            "block_id": 27,
+            "clip_length": 153,
+            "processed": "<story>(Damnit, damnit, damnit! Why can't I \n<story>think of anything!? Even though I'm……!)"
+        },
+        {
+            "text": "(Damnit, damnit, damnit! Why can't I \nthink of anything!? Even though I'm……!)",
+            "name": "<username>",
+            "path_id": 5228027002773914822,
+            "block_id": 28,
+            "clip_length": 151,
+            "processed": "<story>(Damnit, damnit, damnit! Why can't I \n<story>think of anything!? Even though I'm……!)"
+        },
+        {
+            "text": "W-wait……what's wrong? \nDon't make a face like that right before……Hey――!",
+            "name": "King Halo",
+            "path_id": -8286654729986941042,
+            "block_id": 29,
+            "clip_length": 304,
+            "processed": "<story>W-wait……what's wrong? \n<story>Don't make a face like that right before……Hey――!"
+        },
+        {
+            "text": "――Excuse me. \nKing Halo-san, it's time. Please make your way to the paddock.",
+            "name": "Race Official",
+            "path_id": 1675988706800676992,
+            "block_id": 30,
+            "clip_length": 147,
+            "choices": [
+                {
+                    "text": "!!",
+                    "hash": "41fa91dd7af96b2b0550866e59d8cc9e203ae26c64b4cada1a9b2e1b8269397d"
+                }
+            ],
+            "processed": "<story>――Excuse me. \n<story>King Halo-san, it's time. Please make your way to the paddock."
+        },
+        {
+            "text": "Ah…… \n……I need to get going……",
+            "name": "King Halo",
+            "path_id": -7925521362157280871,
+            "block_id": 31,
+            "clip_length": 367,
+            "processed": "<story>Ah…… \n<story>……I need to get going……"
+        },
+        {
+            "text": "(I'm out of time……! I wasn't……able to say anything……!!)",
+            "name": "<username>",
+            "path_id": 2569162290891991251,
+            "block_id": 32,
+            "clip_length": 110,
+            "processed": "<story>(I'm out of time……! I wasn't……able to say anything……!!)"
+        },
+        {
+            "text": "(I'm out of time……! I wasn't……able to say anything……!!)",
+            "name": "<username>",
+            "path_id": -1101313975676562928,
+            "block_id": 33,
+            "clip_length": 112,
+            "processed": "<story>(I'm out of time……! I wasn't……able to say anything……!!)"
+        },
+        {
+            "text": "Now, the 『Japan Derby』 finally――starts!! \n18 Uma Musume run for their dreams, for that crown!",
+            "name": "Live Announcer",
+            "path_id": -6427053807567353912,
+            "block_id": 34,
+            "clip_length": 282,
+            "processed": "<story>Now, the 『Japan Derby』 finally――starts!! \n<story>18 Uma Musume run for their dreams, for that crown!"
+        },
+        {
+            "text": "(I need to win, I need to win, I need to win! \nI need to win, I…… ……!?)",
+            "name": "King Halo",
+            "path_id": 1320129260432764396,
+            "block_id": 35,
+            "clip_length": 157,
+            "processed": "<story>(I need to win, I need to win, I need to win! \n<story>I need to win, I…… ……!?)"
+        },
+        {
+            "text": "Aaaaaaaaah!!",
+            "name": "King Halo",
+            "path_id": 7539341268825796315,
+            "block_id": 36,
+            "clip_length": 92,
+            "choices": [
+                {
+                    "text": "King!? Out front……!?",
+                    "hash": "8f7768011dd8c4d324eb9de98a87f2928641491b498e3131adcb4f0347f3f8c2"
+                }
+            ],
+            "processed": "<story>Aaaaaaaaah!!"
+        },
+        {
+            "text": "(Ah……eh……? Front? \nW-what am I doing here……?)",
+            "name": "King Halo",
+            "path_id": 2004695738952899412,
+            "block_id": 37,
+            "clip_length": 216,
+            "processed": "<story>(Ah……eh……? Front? \n<story>W-what am I doing here……?)"
+        },
+        {
+            "text": "(No way……my mind……just went blank……!?)",
+            "name": "King Halo",
+            "path_id": -8302182939069799313,
+            "block_id": 38,
+            "clip_length": 159,
+            "processed": "<story>(No way……my mind……just went blank……!?)"
+        },
+        {
+            "text": "……!! \nHaaa, haaa, haaa, haaa――!!",
+            "name": "King Halo",
+            "path_id": 2496131322627314176,
+            "block_id": 39,
+            "clip_length": 142,
+            "processed": "<story>……!! \n<story>Haaa, haaa, haaa, haaa――!!"
+        },
+        {
+            "text": "It's Special Week! It's Special Week! She pulls far \naway from them all, Special Week crosses the goal!!",
+            "name": "Live Announcer",
+            "path_id": 2040585097899173548,
+            "block_id": 40,
+            "clip_length": 194,
+            "processed": "<story>It's Special Week! It's Special Week! She pulls far \n<story>away from them all, Special Week crosses the goal!!"
+        },
+        {
+            "text": "The prestige of the 『Japan Derby』! \nIn this 『Japan Derby』, Special Week has claimed victory!!",
+            "name": "Live Announcer",
+            "path_id": -4892129073741740990,
+            "block_id": 41,
+            "clip_length": 246,
+            "processed": "<story>The prestige of the 『Japan Derby』! \n<story>In this 『Japan Derby』, Special Week has claimed victory!!"
+        },
+        {
+            "text": "――She was the second favorite, but King Halo was defeated \nback in to 14th place! It's the first time she's run as an \nescape since her debut, but the results were unfortunate!",
+            "name": "Live Announcer",
+            "path_id": 2690869624937447783,
+            "block_id": 42,
+            "clip_length": 319,
+            "processed": "<story>――She was the second favorite, but King Halo was defeated \n<story>back in to 14th place! It's the first time she's run as an \n<story>escape since her debut, but the results were unfortunate!"
+        },
+        {
+            "text": "Haa……Haaaa……~~~!!",
+            "name": "King Halo",
+            "path_id": 4605145232952046941,
+            "block_id": 43,
+            "clip_length": 229,
+            "processed": "<story>Haa……Haaaa……~~~!!"
+        },
+        {
+            "text": "Hey, hey, hey! What is the 『Second Generation Duo』 doing!? \nThey just got crushed by that 『Genius Trainer』's team!",
+            "name": "Spectator A",
+            "path_id": -8075826322425429603,
+            "block_id": 44,
+            "clip_length": 206,
+            "processed": "<story>Hey, hey, hey! What is the 『Second Generation Duo』 doing!? \n<story>They just got crushed by that 『Genius Trainer』's team!"
+        },
+        {
+            "text": "And……why did she run as an escape? Did she panic? \nOr was it her trainer's orders? Either way, it wasn't great.",
+            "name": "Spectator B",
+            "path_id": -4624239314401990767,
+            "block_id": 45,
+            "clip_length": 322,
+            "processed": "<story>And……why did she run as an escape? Did she panic? \n<story>Or was it her trainer's orders? Either way, it wasn't great."
+        },
+        {
+            "text": "In the end, second gen was just second rate, huh.",
+            "name": "Spectator A",
+            "path_id": 7223195377559925389,
+            "block_id": 46,
+            "clip_length": 148,
+            "processed": "<story>In the end, second gen was just second rate, huh."
+        },
+        {
+            "text": "(After that, we lost two more major races, \nincluding the 『Kikka Sho』. Her classic year \nended with us not living up to expectations――)",
+            "name": "<username>",
+            "path_id": 601104347732726493,
+            "block_id": 47,
+            "clip_length": 160,
+            "processed": "<story>(After that, we lost two more major races, \n<story>including the 『Kikka Sho』. Her classic year \n<story>ended with us not living up to expectations――)"
+        },
+        {
+            "text": "(After that, we lost two more major races, \nincluding the 『Kikka Sho』. Her classic year \nended with us not living up to expectations――)",
+            "name": "<username>",
+            "path_id": 8011984679665621251,
+            "block_id": 48,
+            "clip_length": 160,
+            "processed": "<story>(After that, we lost two more major races, \n<story>including the 『Kikka Sho』. Her classic year \n<story>ended with us not living up to expectations――)"
+        },
+        {
+            "text": "……Looks like there's no articles about Team <Ascella> \ntoday either. Well, even if there were, all the \nlatest articles have been disparaging us though.",
+            "name": "King Halo",
+            "path_id": 4093935598042896117,
+            "block_id": 49,
+            "clip_length": 314,
+            "processed": "<story>……Looks like there's no articles about Team <Ascella> \n<story>today either. Well, even if there were, all the \n<story>latest articles have been disparaging us though."
+        },
+        {
+            "text": "……I suppose that just means the world has finally \nlost interest in the Unreliable Second Gen Duo……",
+            "name": "King Halo",
+            "path_id": 5775216748414442485,
+            "block_id": 50,
+            "clip_length": 308,
+            "processed": "<story>……I suppose that just means the world has finally \n<story>lost interest in the Unreliable Second Gen Duo……"
+        },
+        {
+            "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)",
+            "name": "<username>",
+            "path_id": 2674479353453444903,
+            "block_id": 51,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "(……Even then――!)",
+                    "hash": "13cdacddf3cc7be06158c3936ca425df2d6d10de73b9e48f9519fa387c16304c"
+                }
+            ],
+            "processed": "<story>(I was pathetic. I just wanted to disappear. Due to my \n<story>incompetence, King's once-in-a-lifetime Classic year……)"
+        },
+        {
+            "text": "(I was pathetic. I just wanted to disappear. Due to my \nincompetence, King's once-in-a-lifetime Classic year……)",
+            "name": "<username>",
+            "path_id": 3356302307054441312,
+            "block_id": 52,
+            "clip_length": 210,
+            "choices": [
+                {
+                    "text": "(……Even then――!)",
+                    "hash": "13cdacddf3cc7be06158c3936ca425df2d6d10de73b9e48f9519fa387c16304c"
+                }
+            ],
+            "processed": "<story>(I was pathetic. I just wanted to disappear. Due to my \n<story>incompetence, King's once-in-a-lifetime Classic year……)"
+        },
+        {
+            "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)",
+            "name": "<username>",
+            "path_id": -3575322980656139002,
+            "block_id": 53,
+            "clip_length": 129,
+            "choices": [
+                {
+                    "text": "(Which means, there's still more to do!)",
+                    "hash": "44055c3cdf82d2eb0bb6384fbf3a7486c89b0c09bc17c36d6638d37e9e2c7ecf",
+                    "processed": "<size=42>(Which means, there's still more to do!)</size>"
+                },
+                {
+                    "text": "(Which means, there's still more to do!)",
+                    "hash": "0c5a6c95528584ce786bcc5d8eb0e43591689a3da091a8f15de8aecc7c3fac66",
+                    "processed": "<size=42>(Which means, there's still more to do!)</size>"
+                }
+            ],
+            "processed": "<story>(Don't just apologize. Don't let go. ……Don't run from it! \n<story>I am King Halo's trainer!)"
+        },
+        {
+            "text": "(Don't just apologize. Don't let go. ……Don't run from it! \nI am King Halo's trainer!)",
+            "name": "<username>",
+            "path_id": 6987682690034281242,
+            "block_id": 54,
+            "clip_length": 129,
+            "choices": [
+                {
+                    "text": "(Which means, there's still more to do!)",
+                    "hash": "44055c3cdf82d2eb0bb6384fbf3a7486c89b0c09bc17c36d6638d37e9e2c7ecf",
+                    "processed": "<size=42>(Which means, there's still more to do!)</size>"
+                },
+                {
+                    "text": "(Which means, there's still more to do!)",
+                    "hash": "0c5a6c95528584ce786bcc5d8eb0e43591689a3da091a8f15de8aecc7c3fac66",
+                    "processed": "<size=42>(Which means, there's still more to do!)</size>"
+                }
+            ],
+            "processed": "<story>(Don't just apologize. Don't let go. ……Don't run from it! \n<story>I am King Halo's trainer!)"
+        },
+        {
+            "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? \nI want to utilize your best weapon, your speed.",
+            "name": "<username>",
+            "path_id": -8778366232638057447,
+            "block_id": 55,
+            "clip_length": 150,
+            "processed": "<story>King. ……for your next race, how does the 『Yasuda Kinen』 sound? \n<story>I want to utilize your best weapon, your speed."
+        },
+        {
+            "text": "King. ……for your next race, how does the 『Yasuda Kinen』 sound? \nI want to utilize your best weapon, your speed.",
+            "name": "<username>",
+            "path_id": 8855941944647791299,
+            "block_id": 56,
+            "clip_length": 149,
+            "processed": "<story>King. ……for your next race, how does the 『Yasuda Kinen』 sound? \n<story>I want to utilize your best weapon, your speed."
+        },
+        {
+            "text": "By next…… You mean――",
+            "name": "King Halo",
+            "path_id": 8762355776251431521,
+            "block_id": 57,
+            "clip_length": 140,
+            "processed": "<story>By next…… You mean――"
+        },
+        {
+            "text": "I know it hurts. Honestly it must feel awful. \n……But you, even then, you aren't an Uma Musume \nwho will give up so easily, right?",
+            "name": "<username>",
+            "path_id": 3816947958794570061,
+            "block_id": 58,
+            "clip_length": 133,
+            "processed": "<story>I know it hurts. Honestly it must feel awful. \n<story>……But you, even then, you aren't an Uma Musume \n<story>who will give up so easily, right?"
+        },
+        {
+            "text": "I know it hurts. Honestly it must feel awful. \n……But you, even then, you aren't an Uma Musume \nwho will give up so easily, right?",
+            "name": "<username>",
+            "path_id": -6388275187500613727,
+            "block_id": 59,
+            "clip_length": 133,
+            "processed": "<story>I know it hurts. Honestly it must feel awful. \n<story>……But you, even then, you aren't an Uma Musume \n<story>who will give up so easily, right?"
+        },
+        {
+            "text": "Even if someone looks at you with disappointment, even if \nthey tell you it's impossible. Never, not until the day you \ncan hold your head up high as a 『First Rate Uma Musume』!",
+            "name": "<username>",
+            "path_id": -4435990505439436519,
+            "block_id": 60,
+            "clip_length": 195,
+            "processed": "<story>Even if someone looks at you with disappointment, even if \n<story>they tell you it's impossible. Never, not until the day you \n<story>can hold your head up high as a 『First Rate Uma Musume』!"
+        },
+        {
+            "text": "Even if someone looks at you with disappointment, even if \nthey tell you it's impossible. Never, not until the day you \ncan hold your head up high as a 『First Rate Uma Musume』!",
+            "name": "<username>",
+            "path_id": -2397059237198804579,
+            "block_id": 61,
+            "clip_length": 196,
+            "processed": "<story>Even if someone looks at you with disappointment, even if \n<story>they tell you it's impossible. Never, not until the day you \n<story>can hold your head up high as a 『First Rate Uma Musume』!"
+        },
+        {
+            "text": "……~~~, isn't that obvious!? \nThe thought of giving up, of it ending like this, I hate it!!",
+            "name": "King Halo",
+            "path_id": 5393027139881513468,
+            "block_id": 62,
+            "clip_length": 387,
+            "processed": "<story>……~~~, isn't that obvious!? \n<story>The thought of giving up, of it ending like this, I hate it!!"
+        },
+        {
+            "text": "So start preparing, Trainer! We're having a meeting \nabout the next race! Just for you――I'll give you the \nprivilege of supporting King's new path!",
+            "name": "King Halo",
+            "path_id": 540335783523424789,
+            "block_id": 63,
+            "clip_length": 376,
+            "processed": "<story>So start preparing, Trainer! We're having a meeting \n<story>about the next race! Just for you――I'll give you the \n<story>privilege of supporting King's new path!"
+        },
+        {
+            "text": "From then on, we continued on. Even when they \npointed and laughed at us, we kept running forward.",
+            "name": "<username>",
+            "path_id": -7690293027604454800,
+            "block_id": 64,
+            "clip_length": 178,
+            "processed": "<story>From then on, we continued on. Even when they \n<story>pointed and laughed at us, we kept running forward."
+        },
+        {
+            "text": "『Yasuda Kinen』『Takarazuka Kinen』『Tenno Sho (Autumn)』 \n『Mile CS』『Sprinter's S』『February S』……",
+            "name": "<username>",
+            "path_id": 846117614422332987,
+            "block_id": 65,
+            "clip_length": 320,
+            "processed": "<story>『Yasuda Kinen』『Takarazuka Kinen』『Tenno Sho (Autumn)』 \n<story>『Mile CS』『Sprinter's S』『February S』……"
+        },
+        {
+            "text": "We lost, tried again, and lost again. Just hanging \non desperately. On the grandest stage. G1 Races. \nEverything for the sake of winning there.",
+            "name": "<username>",
+            "path_id": 220579808882570733,
+            "block_id": 66,
+            "clip_length": 180,
+            "choices": [
+                {
+                    "text": "And then……finally――",
+                    "hash": "6d2d2e2f2d1d630eeb920f1feda797688e56ef0af1abcc1d0f2bbd8f7dcc7e9d"
+                }
+            ],
+            "processed": "<story>We lost, tried again, and lost again. Just hanging \n<story>on desperately. On the grandest stage. G1 Races. \n<story>Everything for the sake of winning there."
+        },
+        {
+            "text": "She comes flying from the outside, King Halo! \nIt's King Halo! King Halo breezes past them all!!",
+            "name": "Live Announcer",
+            "path_id": -5933034570095820783,
+            "block_id": 67,
+            "clip_length": 216,
+            "processed": "<story>She comes flying from the outside, King Halo! \n<story>It's King Halo! King Halo breezes past them all!!"
+        },
+        {
+            "text": "First place is King Halo! Overcoming 10 defeats, now, at the \n『Takamatsunomiya Kinen』 King Halo obtains her first G1 victory!!",
+            "name": "Live Announcer",
+            "path_id": -614334086393318387,
+            "block_id": 68,
+            "clip_length": 346,
+            "processed": "<story>First place is King Halo! Overcoming 10 defeats, now, at the \n<story>『Takamatsunomiya Kinen』 King Halo obtains her first G1 victory!!"
+        },
+        {
+            "text": "Uu……Uwaaaaaaaaaaah!!",
+            "name": "King Halo",
+            "path_id": -5673112911752002609,
+            "block_id": 69,
+            "clip_length": 264,
+            "processed": "<story>Uu……Uwaaaaaaaaaaah!!"
+        },
+        {
+            "text": "(King Halo lets out a yell. That brilliance is \njust proof that she's a first rate Uma Musume. \nThere was nobody who could doubt that now!)",
+            "name": "<username>",
+            "path_id": 5824648862025788549,
+            "block_id": 70,
+            "clip_length": 185,
+            "processed": "<story>(King Halo lets out a yell. That brilliance is \n<story>just proof that she's a first rate Uma Musume. \n<story>There was nobody who could doubt that now!)"
+        },
+        {
+            "text": "――……I'm thankful for the many words of congratulations. \nTo be honest, it hasn't been an easy road but……",
+            "name": "King Halo",
+            "path_id": -6022165153795161653,
+            "block_id": 71,
+            "clip_length": 371,
+            "processed": "<story>――……I'm thankful for the many words of congratulations. \n<story>To be honest, it hasn't been an easy road but……"
+        },
+        {
+            "text": "To be able to continue running, without giving up……! \nHas made……me incredibly happy……!",
+            "name": "King Halo",
+            "path_id": -7370279576943553390,
+            "block_id": 72,
+            "clip_length": 419,
+            "processed": "<story>To be able to continue running, without giving up……! \n<story>Has made……me incredibly happy……!"
+        },
+        {
+            "text": "(Afterwards……when we watched the broadcast, King \nand I both argued 『No, you were crying harder』)",
+            "name": "<username>",
+            "path_id": 19385794955658443,
+            "block_id": 73,
+            "clip_length": 150,
+            "processed": "<story>(Afterwards……when we watched the broadcast, King \n<story>and I both argued 『No, you were crying harder』)"
+        },
+        {
+            "text": "――……it was powerful, and moved me. \nDuring that press conference, both of you……looked so strong.",
+            "name": "Cesario",
+            "path_id": 4238442128836841568,
+            "block_id": 74,
+            "clip_length": 365,
+            "choices": [
+                {
+                    "text": "……Eh?",
+                    "hash": "076d55ecaae782f265d4bad557aed6693eae85176dad5da84f81388c7ed0394d"
+                }
+            ],
+            "processed": "<story>――……it was powerful, and moved me. \n<story>During that press conference, both of you……looked so strong."
+        },
+        {
+            "text": "Fufuu. ……Actually, both of us were watching \nthat press conference on the street billboards! \nAnd we happened to be next to each other!",
+            "name": "Rhein Kraft",
+            "path_id": -4750280592411460705,
+            "block_id": 75,
+            "clip_length": 285,
+            "choices": [
+                {
+                    "text": "Y-……You were!?",
+                    "hash": "e17069ba0c9c1ce8ee401af600f2bade90f1470e1cd646f1ce81c32941d948fa"
+                },
+                {
+                    "text": "Y-……You were!?",
+                    "hash": "d38d93857db41435fad7b2b54cd38bc50c12e3573f6fb111502c9553520d673d"
+                }
+            ],
+            "processed": "<story>Fufuu. ……Actually, both of us were watching \n<story>that press conference on the street billboards! \n<story>And we happened to be next to each other!"
+        },
+        {
+            "text": "That's where me and Cesario had both decided. That someday, \nwe'd definitely join King-san and Trainer-san's team.",
+            "name": "Rhein Kraft",
+            "path_id": 9050272231820978927,
+            "block_id": 76,
+            "clip_length": 308,
+            "processed": "<story>That's where me and Cesario had both decided. That someday, \n<story>we'd definitely join King-san and Trainer-san's team."
+        },
+        {
+            "text": "To never give up on your dream until the very \nend. No matter how painful, or frustrating, \nto keep running until you've taken hold of it.",
+            "name": "Rhein Kraft",
+            "path_id": 6056936737733420696,
+            "block_id": 77,
+            "clip_length": 275,
+            "processed": "<story>To never give up on your dream until the very \n<story>end. No matter how painful, or frustrating, \n<story>to keep running until you've taken hold of it."
+        },
+        {
+            "text": "To stay on that journey together. Working together \nto carve open a path. Seeing the two of you like \nthat……I admired you from the bottom of my heart.",
+            "name": "Cesario",
+            "path_id": 7658148807105684122,
+            "block_id": 78,
+            "clip_length": 376,
+            "processed": "<story>To stay on that journey together. Working together \n<story>to carve open a path. Seeing the two of you like \n<story>that……I admired you from the bottom of my heart."
+        },
+        {
+            "text": "……that's why Kraft and I chose Team <Ascella>. \nThere is no better team for us, is what we believe.",
+            "name": "Cesario",
+            "path_id": 3734924756276289570,
+            "block_id": 79,
+            "clip_length": 378,
+            "processed": "<story>……that's why Kraft and I chose Team <Ascella>. \n<story>There is no better team for us, is what we believe."
+        },
+        {
+            "text": "That if Trainer-san is with us, then we can keep going, \nnever giving up. Until we take hold of our dreams, no \nmatter how painful it is, we can keep running……!",
+            "name": "Rhein Kraft",
+            "path_id": -4615985099044762658,
+            "block_id": 80,
+            "clip_length": 327,
+            "choices": [
+                {
+                    "text": "Kraft…… Cesario……",
+                    "hash": "e15f0b287043c16c4e776546b6e17c57a1eaf42aa82922f4b8d0c110a4bcba9a"
+                }
+            ],
+            "processed": "<story>That if Trainer-san is with us, then we can keep going, \n<story>never giving up. Until we take hold of our dreams, no \n<story>matter how painful it is, we can keep running……!"
+        },
+        {
+            "text": "……geez, I was wondering what you were talking about. \nAnd you, you should be more proud of yourself too.",
+            "name": "King Halo",
+            "path_id": -6145103200319417808,
+            "block_id": 81,
+            "clip_length": 336,
+            "choices": [
+                {
+                    "text": "King――",
+                    "hash": "f2483456387c6f6a82d1ddef96a21331a2f4d5bb63cf0dffb614f0d1367afa65"
+                }
+            ],
+            "processed": "<story>……geez, I was wondering what you were talking about. \n<story>And you, you should be more proud of yourself too."
+        },
+        {
+            "text": "……even though we were thrown off the path we \nwere expected to take, that we had prepared for!",
+            "name": "King Halo",
+            "path_id": -2714460899902690288,
+            "block_id": 82,
+            "clip_length": 165,
+            "processed": "<story>……even though we were thrown off the path we \n<story>were expected to take, that we had prepared for!"
+        },
+        {
+            "text": "Even if we weren't able to leave the results expected of the \nchildren of a famous Uma Musume and a famous trainer.",
+            "name": "King Halo",
+            "path_id": 3399820195948835120,
+            "block_id": 83,
+            "clip_length": 205,
+            "processed": "<story>Even if we weren't able to leave the results expected of the \n<story>children of a famous Uma Musume and a famous trainer."
+        },
+        {
+            "text": "Even if we weren't able to leave the results expected of the \nchildren of a famous Uma Musume and a famous trainer.",
+            "name": "King Halo",
+            "path_id": -1785030371565257962,
+            "block_id": 84,
+            "clip_length": 205,
+            "processed": "<story>Even if we weren't able to leave the results expected of the \n<story>children of a famous Uma Musume and a famous trainer."
+        },
+        {
+            "text": "That we were able to do something so like us――that only \nwe could do, being able to obtain a first rate result. \nJust who else do you think this was thanks to?",
+            "name": "King Halo",
+            "path_id": 1429918211397136019,
+            "block_id": 85,
+            "clip_length": 333,
+            "processed": "<story>That we were able to do something so like us――that only \n<story>we could do, being able to obtain a first rate result. \n<story>Just who else do you think this was thanks to?"
+        },
+        {
+            "text": "The reason I was able to hold my head high and keep running…… \njust who was it that stuck by my side and made it possible?",
+            "name": "King Halo",
+            "path_id": 2530771305671437148,
+            "block_id": 86,
+            "clip_length": 269,
+            "choices": [
+                {
+                    "text": "……!",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story>The reason I was able to hold my head high and keep running…… \n<story>just who was it that stuck by my side and made it possible?"
+        },
+        {
+            "text": "――I'm pathetic. I gave King Halo a bitter smile, \nand turned back to Rhein Kraft and Cesario.",
+            "name": "",
+            "path_id": 461433548401285924,
+            "block_id": 87,
+            "clip_length": 168,
+            "processed": "<story>――I'm pathetic. I gave King Halo a bitter smile, \n<story>and turned back to Rhein Kraft and Cesario."
+        },
+        {
+            "text": "Kraft, Cesario. \n……I'm really thankful that you chose Team <Ascella>.",
+            "name": "<username>",
+            "path_id": 4387792019011334278,
+            "block_id": 88,
+            "clip_length": 95,
+            "processed": "<story>Kraft, Cesario. \n<story>……I'm really thankful that you chose Team <Ascella>."
+        },
+        {
+            "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――",
+            "name": "<username>",
+            "path_id": -1641254877625362671,
+            "block_id": 89,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "I'll support you until the end",
+                    "hash": "ea7ee5211d12c1bf7b0081315e36ac774593b25d748d665734062842f27dc5d0"
+                },
+                {
+                    "text": "I'll support you until the end",
+                    "hash": "1649bdc5e50e447434ddddcf76899b6f05eeb8e09870f1172cb6f2eb14e46c2f"
+                }
+            ],
+            "processed": "<story>I'm not as great as my dad. \n<story>I may only have inherited his stubbornness. But still――"
+        },
+        {
+            "text": "I'm not as great as my dad. \nI may only have inherited his stubbornness. But still――",
+            "name": "<username>",
+            "path_id": -7232065031842109148,
+            "block_id": 90,
+            "clip_length": 110,
+            "choices": [
+                {
+                    "text": "I'll support you until the end",
+                    "hash": "ea7ee5211d12c1bf7b0081315e36ac774593b25d748d665734062842f27dc5d0"
+                },
+                {
+                    "text": "I'll support you until the end",
+                    "hash": "1649bdc5e50e447434ddddcf76899b6f05eeb8e09870f1172cb6f2eb14e46c2f"
+                }
+            ],
+            "processed": "<story>I'm not as great as my dad. \n<story>I may only have inherited his stubbornness. But still――"
+        },
+        {
+            "text": "Trainer-san……!!",
+            "name": "Rhein Kraft",
+            "path_id": -6549696597007266960,
+            "block_id": 91,
+            "clip_length": 47,
+            "processed": "<story>Trainer-san……!!"
+        },
+        {
+            "text": "Thank you very much. \n……Once again, I'm looking forward to it!",
+            "name": "Cesario",
+            "path_id": 7569898091442423364,
+            "block_id": 92,
+            "clip_length": 218,
+            "processed": "<story>Thank you very much. \n<story>……Once again, I'm looking forward to it!"
+        }
+    ],
+    "title": "泥だらけの道、その先で"
+}

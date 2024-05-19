@@ -1,0 +1,550 @@
+{
+    "type": "story",
+    "row_index": 227041,
+    "file_name": "story/data/02/0201/storytimeline_020201021",
+    "hash": "KOOCFONOPL2QZSW6JTBQJLNCPDBRLOUU",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4666537887851519379,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "It's so frustrating~……!",
+            "name": "Rhein Kraft",
+            "path_id": 2564087944699270639,
+            "block_id": 1,
+            "clip_length": 93,
+            "processed": "<story>It's so frustrating~……!"
+        },
+        {
+            "text": "During the race, I messed up so many times! I couldn't run the \nway I wanted to at all……Aaaah, there's so much to reflect on……!",
+            "name": "Rhein Kraft",
+            "path_id": 6777324599637809573,
+            "block_id": 2,
+            "clip_length": 346,
+            "processed": "<story>During the race, I messed up so many times! I couldn't run the \n<story>way I wanted to at all……Aaaah, there's so much to reflect on……!"
+        },
+        {
+            "text": "I think placing 3rd in your first G1 is a fantastic result though…… \nBut I see, you aren't satisfied with this result.",
+            "name": "<username>",
+            "path_id": 6638767376353771063,
+            "block_id": 3,
+            "clip_length": 159,
+            "processed": "<story>I think placing 3rd in your first G1 is a fantastic result though…… \n<story>But I see, you aren't satisfied with this result."
+        },
+        {
+            "text": "I think placing 3rd in your first G1 is a fantastic result though…… \nBut I see, you aren't satisfied with this result.",
+            "name": "<username>",
+            "path_id": 1905602317163207006,
+            "block_id": 4,
+            "clip_length": 162,
+            "processed": "<story>I think placing 3rd in your first G1 is a fantastic result though…… \n<story>But I see, you aren't satisfied with this result."
+        },
+        {
+            "text": "Yes! I'm nowhere near satisfied with this……! \nI can't be satisfied with this result!",
+            "name": "Rhein Kraft",
+            "path_id": 3635093243880496278,
+            "block_id": 5,
+            "clip_length": 205,
+            "processed": "<story>Yes! I'm nowhere near satisfied with this……! \n<story>I can't be satisfied with this result!"
+        },
+        {
+            "text": "I want to be able to get even better results. \nSo I can become who I want to be……!",
+            "name": "Rhein Kraft",
+            "path_id": -1061490337118260921,
+            "block_id": 6,
+            "clip_length": 225,
+            "choices": [
+                {
+                    "text": "『Become who you want to be』?",
+                    "hash": "0ec6b0ac43b14eeea015a41540888cf55ccc3c9a609be469909f07caaed7501a"
+                }
+            ],
+            "processed": "<story>I want to be able to get even better results. \n<story>So I can become who I want to be……!"
+        },
+        {
+            "text": "Yeah. I guess it would be becoming \nan 『Uma Musume that everyone looks up to』――",
+            "name": "Rhein Kraft",
+            "path_id": 7231941175565879786,
+            "block_id": 7,
+            "clip_length": 191,
+            "processed": "<story>Yeah. I guess it would be becoming \n<story>an 『Uma Musume that everyone looks up to』――"
+        },
+        {
+            "text": "……I really admire them. \nMy senpais on the Triple Tiara route.",
+            "name": "Rhein Kraft",
+            "path_id": 1084099432742758157,
+            "block_id": 8,
+            "clip_length": 238,
+            "processed": "<story>……I really admire them. \n<story>My senpais on the Triple Tiara route."
+        },
+        {
+            "text": "Inspiration, courage, dreams…… \nSparkly things like that are what my senpais have given me.",
+            "name": "Rhein Kraft",
+            "path_id": -3999365190974948399,
+            "block_id": 9,
+            "clip_length": 295,
+            "processed": "<story>Inspiration, courage, dreams…… \n<story>Sparkly things like that are what my senpais have given me."
+        },
+        {
+            "text": "『I want to run like that. I want to be strong, \ndazzling, and move people's hearts, just like that!』 \n……Those are the inspirations they've given me.",
+            "name": "Rhein Kraft",
+            "path_id": -1671215878088409128,
+            "block_id": 10,
+            "clip_length": 360,
+            "processed": "<story>『I want to run like that. I want to be strong, \n<story>dazzling, and move people's hearts, just like that!』 \n<story>……Those are the inspirations they've given me."
+        },
+        {
+            "text": "I believe that's exactly what their senpais also gave to them…… \nand that's what I feel connects them all together.",
+            "name": "Rhein Kraft",
+            "path_id": -4399729498000502985,
+            "block_id": 11,
+            "clip_length": 353,
+            "processed": "<story>I believe that's exactly what their senpais also gave to them…… \n<story>and that's what I feel connects them all together."
+        },
+        {
+            "text": "That's why, with everything they've given me, \nI want to become part of that too. Next time, \nI want to be the one that inspires someone!",
+            "name": "Rhein Kraft",
+            "path_id": -3271990968170114999,
+            "block_id": 12,
+            "clip_length": 304,
+            "choices": [
+                {
+                    "text": "I see, so that's……your dream",
+                    "hash": "60b59839f61800c0446ed92c0555a59175b54102d8a28beae6e2f32d5292841f"
+                },
+                {
+                    "text": "I see, so that's……your dream",
+                    "hash": "73c9ccd63f9aafdedd9f49674b52f865c7199a035f2a6548545bdac88208c78a"
+                }
+            ],
+            "processed": "<story>That's why, with everything they've given me, \n<story>I want to become part of that too. Next time, \n<story>I want to be the one that inspires someone!"
+        },
+        {
+            "text": "……Having a lot to reflect on means that there's a \nlot of room to grow for next time. So you can become \nwho you want to be, let's work hard, Kraft!",
+            "name": "<username>",
+            "path_id": -4849171687966147470,
+            "block_id": 13,
+            "clip_length": 199,
+            "processed": "<story>……Having a lot to reflect on means that there's a \n<story>lot of room to grow for next time. So you can become \n<story>who you want to be, let's work hard, Kraft!"
+        },
+        {
+            "text": "Yeah! \n……Ah! But……!",
+            "name": "Rhein Kraft",
+            "path_id": -5145145754889443539,
+            "block_id": 14,
+            "clip_length": 160,
+            "processed": "<story>Yeah! \n<story>……Ah! But……!"
+        },
+        {
+            "text": "You can't just focus on me all the time though, right? \nSince next up, is Cesario's debut race……!",
+            "name": "Rhein Kraft",
+            "path_id": 7911739048271370812,
+            "block_id": 15,
+            "clip_length": 226,
+            "processed": "<story>You can't just focus on me all the time though, right? \n<story>Since next up, is Cesario's debut race……!"
+        },
+        {
+            "text": "We have a lot of preparations to do before the end of \nnext month, don't we? Cesario-san, are you prepared?",
+            "name": "King Halo",
+            "path_id": -6142730239952449985,
+            "block_id": 16,
+            "clip_length": 287,
+            "processed": "<story>We have a lot of preparations to do before the end of \n<story>next month, don't we? Cesario-san, are you prepared?"
+        },
+        {
+            "text": "Of course. ……Trainer, \nyou don't have to hold back one bit, I'm looking forward to it.",
+            "name": "Cesario",
+            "path_id": 2741074646712865485,
+            "block_id": 17,
+            "clip_length": 219,
+            "choices": [
+                {
+                    "text": "Right, I got it. We'll go for it!",
+                    "hash": "3a19bb97220cb60d88458f2cc0117da59f4106fb82a8cf25e23e73a7eb6ebd63"
+                },
+                {
+                    "text": "Right, I got it. We'll go for it!",
+                    "hash": "6d6342ab78217e60d8c27f94a848de7767a20299ca4eea23993c5f6433b4c479"
+                }
+            ],
+            "processed": "<story>Of course. ……Trainer, \n<story>you don't have to hold back one bit, I'm looking forward to it."
+        },
+        {
+            "text": "And so, December 25th, a Christmas debut, approached. \nCesario was――",
+            "name": "",
+            "path_id": -1923032792237054227,
+            "block_id": 18,
+            "clip_length": 104,
+            "processed": "<story>And so, December 25th, a Christmas debut, approached. \n<story>Cesario was――"
+        },
+        {
+            "text": "Huu, huuu……Haaaaaaaaa!!",
+            "name": "Cesario",
+            "path_id": 6046437169774245882,
+            "block_id": 19,
+            "clip_length": 104,
+            "processed": "<story>Huu, huuu……Haaaaaaaaa!!"
+        },
+        {
+            "text": "With 200m left, Cesario pulls away! \nNow the lead has changed to Cesario! It's Cesario!!",
+            "name": "Live Announcer",
+            "path_id": -5745976379881567161,
+            "block_id": 20,
+            "clip_length": 238,
+            "processed": "<story>With 200m left, Cesario pulls away! \n<story>Now the lead has changed to Cesario! It's Cesario!!"
+        },
+        {
+            "text": "Goal!! First place is Cesario, it's Cesario! \nShe marks her debut with a spectacular victory!!",
+            "name": "Live Announcer",
+            "path_id": -2980313125866496944,
+            "block_id": 21,
+            "clip_length": 240,
+            "processed": "<story>Goal!! First place is Cesario, it's Cesario! \n<story>She marks her debut with a spectacular victory!!"
+        },
+        {
+            "text": "Cesario! Good work in your debut. \nCongrats on 1st place! It was a really good run……!",
+            "name": "<username>",
+            "path_id": -4450791022145866997,
+            "block_id": 22,
+            "clip_length": 143,
+            "processed": "<story>Cesario! Good work in your debut. \n<story>Congrats on 1st place! It was a really good run……!"
+        },
+        {
+            "text": "esario! Good work in your debut. \nCongrats on 1st place! It was a really good run……!",
+            "name": "<username>",
+            "path_id": -8672396729063265133,
+            "block_id": 23,
+            "clip_length": 143,
+            "processed": "<story>esario! Good work in your debut. \n<story>Congrats on 1st place! It was a really good run……!"
+        },
+        {
+            "text": "Trainer……thank you very much for the words of praise. \n……However, all I've done is just finish my first race.",
+            "name": "Cesario",
+            "path_id": -8504362656267264615,
+            "block_id": 24,
+            "clip_length": 306,
+            "processed": "<story>Trainer……thank you very much for the words of praise. \n<story>……However, all I've done is just finish my first race."
+        },
+        {
+            "text": "I intend to continue doing my best without letting my guard down, \nso I'll leave it to you to keep up the strict guidance.",
+            "name": "Cesario",
+            "path_id": -7353030464933916419,
+            "block_id": 25,
+            "clip_length": 269,
+            "choices": [
+                {
+                    "text": "R-right……! Leave it to me!",
+                    "hash": "69eff2cecfe7bbd731fa73a1e7ffc61876a956afd386894e1452d5bd47243c45"
+                },
+                {
+                    "text": "R-right……! Leave it to me!",
+                    "hash": "91ff5a072079298e598b4374285dfdef45bdde268f127a472c0a46d952b99905"
+                }
+            ],
+            "processed": "<story>I intend to continue doing my best without letting my guard down, \n<story>so I'll leave it to you to keep up the strict guidance."
+        },
+        {
+            "text": "Even though she just won, without even a smile on her \nface, Cesario bowed her head. She was an Uma Musume \nwho embodied the concept of stoicism and fortitude……!",
+            "name": "",
+            "path_id": -5364009167309285140,
+            "block_id": 26,
+            "clip_length": 223,
+            "processed": "<story>Even though she just won, without even a smile on her \n<story>face, Cesario bowed her head. She was an Uma Musume \n<story>who embodied the concept of stoicism and fortitude……!"
+        },
+        {
+            "text": "Okay, well then! Merry Christmas♪ \nAh, I baked a cake so, is it fine if I start cutting it?",
+            "name": "Cesario",
+            "path_id": 781499079639632183,
+            "block_id": 27,
+            "clip_length": 285,
+            "processed": "<story>Okay, well then! Merry Christmas♪ \n<story>Ah, I baked a cake so, is it fine if I start cutting it?"
+        },
+        {
+            "text": "I was busy with preparation for my debut race so I \nleft it all to you, but I really wanted to do something……\nTruthfully, I really love making sweets!",
+            "name": "Cesario",
+            "path_id": -2656051535341494808,
+            "block_id": 28,
+            "clip_length": 289,
+            "processed": "<story>I was busy with preparation for my debut race so I \n<story>left it all to you, but I really wanted to do something……\n<story>Truthfully, I really love making sweets!"
+        },
+        {
+            "text": "Fufu, for this one~…… I even put some Santa-san candies on top \nof it……since it's an opportunity, King-san! Please have some♪",
+            "name": "Cesario",
+            "path_id": 8566444910816323636,
+            "block_id": 29,
+            "clip_length": 379,
+            "processed": "<story>Fufu, for this one~…… I even put some Santa-san candies on top \n<story>of it……since it's an opportunity, King-san! Please have some♪"
+        },
+        {
+            "text": "……Night time after her debut race. To coincide with that, \nTeam <Ascella> was holding a Christmas party, but――",
+            "name": "",
+            "path_id": -6932488939245893995,
+            "block_id": 30,
+            "clip_length": 174,
+            "processed": "<story>……Night time after her debut race. To coincide with that, \n<story>Team <Ascella> was holding a Christmas party, but――"
+        },
+        {
+            "text": "……Wait, wait. Wait just a minute――!",
+            "name": "King Halo",
+            "path_id": -4934875125269757279,
+            "block_id": 31,
+            "clip_length": 149,
+            "processed": "<story>……Wait, wait. Wait just a minute――!"
+        },
+        {
+            "text": "Who are you!?!?",
+            "name": "Teammates",
+            "path_id": 8764070820262665687,
+            "block_id": 32,
+            "clip_length": 48,
+            "processed": "<story>Who are you!?!?"
+        },
+        {
+            "text": "Ahaha! Oh come on, it's Cesario obviously~! \nYay, yay, Cesario's cake~! I've been looking forward to it~♪",
+            "name": "Rhein Kraft",
+            "path_id": 2484913896104622914,
+            "block_id": 33,
+            "clip_length": 323,
+            "processed": "<story>Ahaha! Oh come on, it's Cesario obviously~! \n<story>Yay, yay, Cesario's cake~! I've been looking forward to it~♪"
+        },
+        {
+            "text": "Be careful not to get cream on your nose again, Kraft. \nAh, Trainer too, do you have any favorite fruits?",
+            "name": "Cesario",
+            "path_id": 5933399677592397309,
+            "block_id": 34,
+            "clip_length": 270,
+            "choices": [
+                {
+                    "text": "S-strawberries maybe-……hold up!",
+                    "hash": "49eac04104b808cb17f7fc94887edc25ba64287367a6d4a2769c6552e4d78cbb"
+                }
+            ],
+            "processed": "<story>Be careful not to get cream on your nose again, Kraft. \n<story>Ah, Trainer too, do you have any favorite fruits?"
+        },
+        {
+            "text": "Really……are you really Cesario……!? How should I put it, \num, you have a completely different aura about you……!?",
+            "name": "<username>",
+            "path_id": 4766924679430692931,
+            "block_id": 35,
+            "clip_length": 173,
+            "processed": "<story>Really……are you really Cesario……!? How should I put it, \n<story>um, you have a completely different aura about you……!?"
+        },
+        {
+            "text": "Really……are you really Cesario……!? How should I put it, \num, you have a completely different aura about you……!?",
+            "name": "<username>",
+            "path_id": -8543094984667747386,
+            "block_id": 36,
+            "clip_length": 173,
+            "processed": "<story>Really……are you really Cesario……!? How should I put it, \n<story>um, you have a completely different aura about you……!?"
+        },
+        {
+            "text": "Ah……now that you mention it, ever since I joined \nthe team I've just been so focused the whole time…… \nI guess this is the first time I've really relaxed?",
+            "name": "Cesario",
+            "path_id": 7631134684726642809,
+            "block_id": 37,
+            "clip_length": 379,
+            "processed": "<story>Ah……now that you mention it, ever since I joined \n<story>the team I've just been so focused the whole time…… \n<story>I guess this is the first time I've really relaxed?"
+        },
+        {
+            "text": "Cesario is someone who has a really \ndrastic on-off switch, you see~!",
+            "name": "Rhein Kraft",
+            "path_id": 2140561720976594888,
+            "block_id": 38,
+            "clip_length": 171,
+            "choices": [
+                {
+                    "text": "I…………I see…………?",
+                    "hash": "ecf6a96a789a76c4ded1e2e71f1ea6237e7b83e76e38b95aa2949f86ab5fad20"
+                }
+            ],
+            "processed": "<story>Cesario is someone who has a really \n<story>drastic on-off switch, you see~!"
+        },
+        {
+            "text": "No, is this really the same dimension \nas a simple on-off switch……?",
+            "name": "King Halo",
+            "path_id": 251373043489288997,
+            "block_id": 39,
+            "clip_length": 156,
+            "processed": "<story>No, is this really the same dimension \n<story>as a simple on-off switch……?"
+        },
+        {
+            "text": "A party with the team, filled with unexpected surprises. \nAs the boisterous, joyful laughs continued, Christmas \nnight eventually started drawing to a close……",
+            "name": "",
+            "path_id": -6229722162050829781,
+            "block_id": 40,
+            "clip_length": 185,
+            "processed": "<story>A party with the team, filled with unexpected surprises. \n<story>As the boisterous, joyful laughs continued, Christmas \n<story>night eventually started drawing to a close……"
+        },
+        {
+            "text": "…………",
+            "name": "King Halo",
+            "path_id": 7966604703371198057,
+            "block_id": 41,
+            "clip_length": 200,
+            "processed": "<story>…………"
+        },
+        {
+            "text": "Fufu……King-san's laying on the sofa, out like a light~. \nShe didn't even wake up when Trainer-san moved her.",
+            "name": "Antenna-haired Uma Musume",
+            "path_id": 6739896833086786625,
+            "block_id": 42,
+            "clip_length": 289,
+            "processed": "<story>Fufu……King-san's laying on the sofa, out like a light~. \n<story>She didn't even wake up when Trainer-san moved her.",
+            "name_processed": "<sc=78>Antenna-haired Uma Musume"
+        },
+        {
+            "text": "All the way up until today, she was working really hard to plan \nthis party after all……She's a really good team leader, isn't she?",
+            "name": "Single Knot Uma Musume",
+            "path_id": -8064775390508560884,
+            "block_id": 43,
+            "clip_length": 271,
+            "processed": "<story>All the way up until today, she was working really hard to plan \n<story>this party after all……She's a really good team leader, isn't she?",
+            "name_processed": "<sc=91>Single Knot Uma Musume"
+        },
+        {
+            "text": "You're right. But, hopefully she doesn't catch a cold like this…… \nTrainer, do you have anything that can be used as a blanket?",
+            "name": "Cesario",
+            "path_id": 3019885242877311889,
+            "block_id": 44,
+            "clip_length": 346,
+            "processed": "<story>You're right. But, hopefully she doesn't catch a cold like this…… \n<story>Trainer, do you have anything that can be used as a blanket?"
+        },
+        {
+            "text": "Let's see……Ah, my coat is on that hangar over \nthere, so can you use that? Thanks, Cesario.",
+            "name": "<username>",
+            "path_id": 7170785813395650714,
+            "block_id": 45,
+            "clip_length": 190,
+            "processed": "<story>Let's see……Ah, my coat is on that hangar over \n<story>there, so can you use that? Thanks, Cesario."
+        },
+        {
+            "text": "Let's see……Ah, my coat is on that hangar over \nthere, so can you use that? Thanks, Cesario.",
+            "name": "<username>",
+            "path_id": 5872377116663076899,
+            "block_id": 46,
+            "clip_length": 189,
+            "processed": "<story>Let's see……Ah, my coat is on that hangar over \n<story>there, so can you use that? Thanks, Cesario."
+        },
+        {
+            "text": "No problem. ……Oh, huh? Excuse me, \nthese were under your coat, is this……?",
+            "name": "Cesario",
+            "path_id": -3927987280941188126,
+            "block_id": 47,
+            "clip_length": 315,
+            "choices": [
+                {
+                    "text": "Ah! That's……",
+                    "hash": "3531902240d09092006085b46404977760579715afda98ebfc2b1a5d7eb267f3"
+                }
+            ],
+            "processed": "<story>No problem. ……Oh, huh? Excuse me, \n<story>these were under your coat, is this……?"
+        },
+        {
+            "text": "I was planning on giving them out later……they're \npresents for everyone. It's nothing too fancy though.",
+            "name": "<username>",
+            "path_id": -99624626943969680,
+            "block_id": 48,
+            "clip_length": 150,
+            "processed": "<story>I was planning on giving them out later……they're \n<story>presents for everyone. It's nothing too fancy though."
+        },
+        {
+            "text": "I was planning on giving them out later……they're \npresents for everyone. It's nothing too fancy though.",
+            "name": "<username>",
+            "path_id": 4067350126816345779,
+            "block_id": 49,
+            "clip_length": 150,
+            "processed": "<story>I was planning on giving them out later……they're \n<story>presents for everyone. It's nothing too fancy though."
+        },
+        {
+            "text": "Eh, from Trainer-san!? Waaaaah-……!! \nThank you very much-!",
+            "name": "Rhein Kraft",
+            "path_id": -6833580203900757707,
+            "block_id": 50,
+            "clip_length": 204,
+            "processed": "<story>Eh, from Trainer-san!? Waaaaah-……!! \n<story>Thank you very much-!"
+        },
+        {
+            "text": "Trainer……I'm sorry, \nI probably should have prepared something too.",
+            "name": "Cesario",
+            "path_id": -2057401215579428270,
+            "block_id": 51,
+            "clip_length": 200,
+            "processed": "<story>Trainer……I'm sorry, \n<story>I probably should have prepared something too."
+        },
+        {
+            "text": "……can we just say that my debut win is your present \nfor now? Can you forgive me with that for now? Fufuu.",
+            "name": "Cesario",
+            "path_id": -1948047513141033216,
+            "block_id": 52,
+            "clip_length": 282,
+            "choices": [
+                {
+                    "text": "No, that's more than enough!",
+                    "hash": "dc86149e4f7b05f3521427eb237d71092d6b7f8df9befb2b0e43d6e2e3fb89bf"
+                }
+            ],
+            "processed": "<story>……can we just say that my debut win is your present \n<story>for now? Can you forgive me with that for now? Fufuu."
+        },
+        {
+            "text": "(……once more I can't help but think that Kraft and Cesario are both \nreally kind. Not only that, but they're both really talented……)",
+            "name": "<username>",
+            "path_id": -5196789725106469116,
+            "block_id": 53,
+            "clip_length": 191,
+            "processed": "<story>(……once more I can't help but think that Kraft and Cesario are both \n<story>really kind. Not only that, but they're both really talented……)"
+        },
+        {
+            "text": "(……once more I can't help but think that Kraft and Cesario are both \nreally kind. Not only that, but they're both really talented……)",
+            "name": "<username>",
+            "path_id": 7491980230170646536,
+            "block_id": 54,
+            "clip_length": 193,
+            "processed": "<story>(……once more I can't help but think that Kraft and Cesario are both \n<story>really kind. Not only that, but they're both really talented……)"
+        },
+        {
+            "text": "(But, when I remember that……I can't help but \nbe more curious. Why did these two choose a team \nlike <Ascella> which was already on the decline?)",
+            "name": "<username>",
+            "path_id": 117998246475183224,
+            "block_id": 55,
+            "clip_length": 190,
+            "processed": "<story>(But, when I remember that……I can't help but \n<story>be more curious. Why did these two choose a team \n<story>like <Ascella> which was already on the decline?)"
+        },
+        {
+            "text": "(But, when I remember that……I can't help but \nbe more curious. Why did these two choose a team \nlike <Ascella> which was already on the decline?)",
+            "name": "<username>",
+            "path_id": 728884601278429489,
+            "block_id": 56,
+            "clip_length": 189,
+            "processed": "<story>(But, when I remember that……I can't help but \n<story>be more curious. Why did these two choose a team \n<story>like <Ascella> which was already on the decline?)"
+        },
+        {
+            "text": "If there was some kind of meaning behind it, \nI should learn about it for the future. Thinking \nthat, I asked them after training one day.",
+            "name": "",
+            "path_id": 5303330115096339871,
+            "block_id": 57,
+            "clip_length": 200,
+            "processed": "<story>If there was some kind of meaning behind it, \n<story>I should learn about it for the future. Thinking \n<story>that, I asked them after training one day."
+        },
+        {
+            "text": "When I did, they both looked at each other and smiled, then――",
+            "name": "",
+            "path_id": 8643969764238011945,
+            "block_id": 58,
+            "clip_length": 101,
+            "processed": "<story>When I did, they both looked at each other and smiled, then――"
+        },
+        {
+            "text": "……we thought it couldn't be anyone else but you.",
+            "name": "Kraft & Cesario",
+            "path_id": 2269028671641109108,
+            "block_id": 59,
+            "clip_length": 183,
+            "processed": "<story>……we thought it couldn't be anyone else but you."
+        }
+    ],
+    "title": "第2話※タイトル記載"
+}

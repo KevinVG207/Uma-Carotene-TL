@@ -646,7 +646,8 @@ def main():
     # import_external_story('story/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
     # import_external_story('story/02/0006', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/', use_order=True, skip_first=True)
     # import_external_story('race/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
-    # import_external_story('race/02/0006', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
+    # import_external_story('story/02/0201', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
+    # import_external_story('race/02/0201', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
 
 
     umapyoi_chara_ids = get_umapyoi_chara_ids()
