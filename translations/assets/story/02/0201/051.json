@@ -1,0 +1,532 @@
+{
+    "type": "story",
+    "row_index": 227044,
+    "file_name": "story/data/02/0201/storytimeline_020201051",
+    "hash": "JAGHA4N7EQVW7URVGZUD7BLWW6CUJHP5",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 8105056509979175804,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "New Year's had passed. Cesario had \nchallenged the 『Kanchiku Sho』――and she had won!",
+            "name": "",
+            "path_id": 275625992672535735,
+            "block_id": 1,
+            "clip_length": 196,
+            "processed": "<story>New Year's had passed. Cesario had \n<story>challenged the 『Kanchiku Sho』――and she had won!"
+        },
+        {
+            "text": "(Alright……! She's won in a race with several \nTriple Crown participants, and it was even a \nmedium distance 2000m race. With this……!)",
+            "name": "<username>",
+            "path_id": -1885635891844006987,
+            "block_id": 2,
+            "clip_length": 140,
+            "processed": "<story>(Alright……! She's won in a race with several \n<story>Triple Crown participants, and it was even a \n<story>medium distance 2000m race. With this……!)"
+        },
+        {
+            "text": "Congratulations on winning the 『Kanchiku Sho』, \nCesario. As I thought, it seems like your strength \nis more towards slightly longer distances.",
+            "name": "<username>",
+            "path_id": 3022899644853421662,
+            "block_id": 3,
+            "clip_length": 108,
+            "processed": "<story>Congratulations on winning the 『Kanchiku Sho』, \n<story>Cesario. As I thought, it seems like your strength \n<story>is more towards slightly longer distances."
+        },
+        {
+            "text": "Congratulations on winning the 『Kanchiku Sho』, \nCesario. As I thought, it seems like your strength \nis more towards slightly longer distances.",
+            "name": "<username>",
+            "path_id": 7652964763870912053,
+            "block_id": 4,
+            "clip_length": 110,
+            "processed": "<story>Congratulations on winning the 『Kanchiku Sho』, \n<story>Cesario. As I thought, it seems like your strength \n<story>is more towards slightly longer distances."
+        },
+        {
+            "text": "I want you to enter another major race in preparation \nfor your main goal of the 『Oka Sho』. So let's \nhave you run in the 1800m 『Flower Cup』 next!",
+            "name": "<username>",
+            "path_id": 418014053327285130,
+            "block_id": 5,
+            "clip_length": 119,
+            "processed": "<story>I want you to enter another major race in preparation \n<story>for your main goal of the 『Oka Sho』. So let's \n<story>have you run in the 1800m 『Flower Cup』 next!"
+        },
+        {
+            "text": "And then Kraft. You can show more of your abilities in shorter \nraces. So let's have you run in the 1400m 『Fillies' Review』.",
+            "name": "<username>",
+            "path_id": 3936140292419293190,
+            "block_id": 6,
+            "clip_length": 125,
+            "choices": [
+                {
+                    "text": "Let's work to our next goals!",
+                    "hash": "7636bac2893a1b93333009380af03481986992841a40f8cc6332bd7ee4984d7e"
+                }
+            ],
+            "processed": "<story>And then Kraft. You can show more of your abilities in shorter \n<story>races. So let's have you run in the 1400m 『Fillies' Review』."
+        },
+        {
+            "text": "And then Kraft. You can show more of your abilities in shorter \nraces. So let's have you run in the 1400m 『Fillies' Review』.",
+            "name": "<username>",
+            "path_id": -3224751829984189094,
+            "block_id": 7,
+            "clip_length": 127,
+            "choices": [
+                {
+                    "text": "Let's work to our next goals!",
+                    "hash": "7636bac2893a1b93333009380af03481986992841a40f8cc6332bd7ee4984d7e"
+                }
+            ],
+            "processed": "<story>And then Kraft. You can show more of your abilities in shorter \n<story>races. So let's have you run in the 1400m 『Fillies' Review』."
+        },
+        {
+            "text": "Yes!!",
+            "name": "Kraft & Cesario",
+            "path_id": -7497202993888941729,
+            "block_id": 8,
+            "clip_length": 45,
+            "processed": "<story>Yes!!"
+        },
+        {
+            "text": "(After the Fillies' Review, the 『Oka Sho』 \nis the month after……And that's the first time…… \nI'll face Cesario in an official race)",
+            "name": "Rhein Kraft",
+            "path_id": 7507341657508064121,
+            "block_id": 9,
+            "clip_length": 349,
+            "processed": "<story>(After the Fillies' Review, the 『Oka Sho』 \n<story>is the month after……And that's the first time…… \n<story>I'll face Cesario in an official race)"
+        },
+        {
+            "text": "(The first time, with all my strength! That I'll \nbe able to battle against Cesario……! I'm looking \nforward to it……I don't think I can wait……!)",
+            "name": "Rhein Kraft",
+            "path_id": 3134590824561912989,
+            "block_id": 10,
+            "clip_length": 280,
+            "processed": "<story>(The first time, with all my strength! That I'll \n<story>be able to battle against Cesario……! I'm looking \n<story>forward to it……I don't think I can wait……!)"
+        },
+        {
+            "text": "Allllright! I need to put my all in to training―― \nWait, huh? ……Over there, that's……",
+            "name": "Rhein Kraft",
+            "path_id": -4630047411763706190,
+            "block_id": 11,
+            "clip_length": 265,
+            "processed": "<story>Allllright! I need to put my all in to training―― \n<story>Wait, huh? ……Over there, that's……"
+        },
+        {
+            "text": "Haa, haa, haa…… \nOkay……――Haaaaaaaaa!!",
+            "name": "Special Week",
+            "path_id": 2369885334174673833,
+            "block_id": 12,
+            "clip_length": 176,
+            "processed": "<story>Haa, haa, haa…… \n<story>Okay……――Haaaaaaaaa!!"
+        },
+        {
+            "text": "!! ――Aaaaaaahh!!",
+            "name": "Cesario",
+            "path_id": -4154313356841746900,
+            "block_id": 13,
+            "clip_length": 129,
+            "processed": "<story>!! ――Aaaaaaahh!!"
+        },
+        {
+            "text": "(Cesario!? Amazing……against Special Week-san……a senpai \nfrom the Golden Generation, she can keep up……!?)",
+            "name": "Rhein Kraft",
+            "path_id": -6354340485758179610,
+            "block_id": 14,
+            "clip_length": 268,
+            "processed": "<story>(Cesario!? Amazing……against Special Week-san……a senpai \n<story>from the Golden Generation, she can keep up……!?)"
+        },
+        {
+            "text": "Not yet, not yet……! \nYaaaaaaaaaーーーー!!",
+            "name": "Special Week",
+            "path_id": -4729051256813094403,
+            "block_id": 15,
+            "clip_length": 157,
+            "processed": "<story>Not yet, not yet……! \n<story>Yaaaaaaaaaーーーー!!"
+        },
+        {
+            "text": "(Spe-san……! How sharp……so that's the finishing strength of the \nUma Musume called the \"Supreme Command of Japan\"……! ……But――)",
+            "name": "Rhein Kraft",
+            "path_id": -1988372212665404619,
+            "block_id": 16,
+            "clip_length": 308,
+            "processed": "<story>(Spe-san……! How sharp……so that's the finishing strength of the \n<story>Uma Musume called the \"Supreme Command of Japan\"……! ……But――)"
+        },
+        {
+            "text": "Haa, haa, haa――! \nHaaaaaaaaaaa!!",
+            "name": "Cesario",
+            "path_id": -6845094735958266371,
+            "block_id": 17,
+            "clip_length": 185,
+            "processed": "<story>Haa, haa, haa――! \n<story>Haaaaaaaaaaa!!"
+        },
+        {
+            "text": "(Against that strength! Against that speed, \nshe's still hanging in……! She's evolving! \nBy chasing Spe-san and learning more and more――)",
+            "name": "Rhein Kraft",
+            "path_id": 2021605291398601779,
+            "block_id": 18,
+            "clip_length": 312,
+            "processed": "<story>(Against that strength! Against that speed, \n<story>she's still hanging in……! She's evolving! \n<story>By chasing Spe-san and learning more and more――)"
+        },
+        {
+            "text": "Can I……as a leader, can I out run that? \nAgainst……a finish like that――",
+            "name": "Rhein Kraft",
+            "path_id": 9177360261994824264,
+            "block_id": 19,
+            "clip_length": 251,
+            "processed": "<story>Can I……as a leader, can I out run that? \n<story>Against……a finish like that――"
+        },
+        {
+            "text": "(Not good! 『Looking forward to it』? Now's not the time to be \nthinking naively about that……I need to get more serious!)",
+            "name": "Rhein Kraft",
+            "path_id": 5826775005864327984,
+            "block_id": 20,
+            "clip_length": 278,
+            "processed": "<story>(Not good! 『Looking forward to it』? Now's not the time to be \n<story>thinking naively about that……I need to get more serious!)"
+        },
+        {
+            "text": "(Against a last spurt like that…… \nI need to do something to fight back……!)",
+            "name": "Rhein Kraft",
+            "path_id": 5998558477321347383,
+            "block_id": 21,
+            "clip_length": 149,
+            "processed": "<story>(Against a last spurt like that…… \n<story>I need to do something to fight back……!)"
+        },
+        {
+            "text": "……Then, I need to find an Uma Musume with overwhelming \nfinishing strength too――……that's right, in that case!!",
+            "name": "Rhein Kraft",
+            "path_id": -6417669072242530351,
+            "block_id": 22,
+            "clip_length": 326,
+            "processed": "<story>……Then, I need to find an Uma Musume with overwhelming \n<story>finishing strength too――……that's right, in that case!!"
+        },
+        {
+            "text": "Hmm, hmm, hmmmmm~……♪ So busy, so busy. \nLet's see, the next materials I need now are~……",
+            "name": "???",
+            "path_id": -6717049135081444875,
+            "block_id": 23,
+            "clip_length": 282,
+            "processed": "<story>Hmm, hmm, hmmmmm~……♪ So busy, so busy. \n<story>Let's see, the next materials I need now are~……"
+        },
+        {
+            "text": "Ah, I found you……! \nUm, excuse me!! ――Sweep Tosho-san!!",
+            "name": "Rhein Kraft",
+            "path_id": 5035165233282456587,
+            "block_id": 24,
+            "clip_length": 270,
+            "processed": "<story>Ah, I found you……! \n<story>Um, excuse me!! ――Sweep Tosho-san!!"
+        },
+        {
+            "text": "I know it's a bit sudden! W-will you……! \nWill you do some parallel running with me!?",
+            "name": "Rhein Kraft",
+            "path_id": -3058138371195686620,
+            "block_id": 25,
+            "clip_length": 220,
+            "processed": "<story>I know it's a bit sudden! W-will you……! \n<story>Will you do some parallel running with me!?"
+        },
+        {
+            "text": "Ha? What are you saying all of a sudden? No way!",
+            "name": "Sweep Tosho",
+            "path_id": 112420797965622572,
+            "block_id": 26,
+            "clip_length": 75,
+            "processed": "<story>Ha? What are you saying all of a sudden? No way!"
+        },
+        {
+            "text": "So quick!? U-um, can you think about it a little bit……? \nI really want to……I need to get stronger……!",
+            "name": "Rhein Kraft",
+            "path_id": -4249681775979124483,
+            "block_id": 27,
+            "clip_length": 280,
+            "processed": "<story>So quick!? U-um, can you think about it a little bit……? \n<story>I really want to……I need to get stronger……!"
+        },
+        {
+            "text": "No waaay. It sounds annoying. \nAnd, right now I'm really busy.",
+            "name": "Sweep Tosho",
+            "path_id": 9169135280643994094,
+            "block_id": 28,
+            "clip_length": 227,
+            "processed": "<story>No waaay. It sounds annoying. \n<story>And, right now I'm really busy."
+        },
+        {
+            "text": "Au……I-is that so? \nUuu……no……no even then, can you please reconsider?",
+            "name": "Rhein Kraft",
+            "path_id": 5146076498393369777,
+            "block_id": 29,
+            "clip_length": 330,
+            "processed": "<story>Au……I-is that so? \n<story>Uuu……no……no even then, can you please reconsider?"
+        },
+        {
+            "text": "Hey, are you even listening to me!? \nI said no way, didn't I!? Nooo waaay!!",
+            "name": "Sweep Tosho",
+            "path_id": 4794963115004695854,
+            "block_id": 30,
+            "clip_length": 214,
+            "processed": "<story>Hey, are you even listening to me!? \n<story>I said no way, didn't I!? Nooo waaay!!"
+        },
+        {
+            "text": "But, but! Can't you do something!? \nPlease, Sweep-saaaaa~~~n!!",
+            "name": "Rhein Kraft",
+            "path_id": -4842939864998329984,
+            "block_id": 31,
+            "clip_length": 160,
+            "processed": "<story>But, but! Can't you do something!? \n<story>Please, Sweep-saaaaa~~~n!!"
+        },
+        {
+            "text": "No means nooooo! You're so persistent! \nWhat's wrong with you～～～～!?",
+            "name": "Sweep Tosho",
+            "path_id": -3412775762608810608,
+            "block_id": 32,
+            "clip_length": 265,
+            "processed": "<story>No means nooooo! You're so persistent! \n<story>What's wrong with you～～～～!?"
+        },
+        {
+            "text": "――Now, put the small blue flowers here, and the bulbs \nin that box over there in to a bottle. Right now!",
+            "name": "Sweep Tosho",
+            "path_id": 738886922755637633,
+            "block_id": 33,
+            "clip_length": 257,
+            "processed": "<story>――Now, put the small blue flowers here, and the bulbs \n<story>in that box over there in to a bottle. Right now!"
+        },
+        {
+            "text": "Okay! ……Um, and so, \nafter I finish helping with this……!",
+            "name": "Rhein Kraft",
+            "path_id": -6839976272863484278,
+            "block_id": 34,
+            "clip_length": 210,
+            "processed": "<story>Okay! ……Um, and so, \n<story>after I finish helping with this……!"
+        },
+        {
+            "text": "I get it. All I have to do is run for you right!? Geez-…… \nyou're really stubborn, you know. Just saying no is more exhausting!",
+            "name": "Sweep Tosho",
+            "path_id": 8106321323686951825,
+            "block_id": 35,
+            "clip_length": 317,
+            "processed": "<story>I get it. All I have to do is run for you right!? Geez-…… \n<story>you're really stubborn, you know. Just saying no is more exhausting!"
+        },
+        {
+            "text": "Ahaha, actually, I get told that alot……sorry~. \nSo, these flowers……and bulbs……!",
+            "name": "Rhein Kraft",
+            "path_id": -2856611710198768202,
+            "block_id": 36,
+            "clip_length": 331,
+            "processed": "<story>Ahaha, actually, I get told that alot……sorry~. \n<story>So, these flowers……and bulbs……!"
+        },
+        {
+            "text": "Okay, all done! ……is all this, \npreparation for a new large-scale magic?",
+            "name": "Rhein Kraft",
+            "path_id": -6668801870511861244,
+            "block_id": 37,
+            "clip_length": 223,
+            "processed": "<story>Okay, all done! ……is all this, \n<story>preparation for a new large-scale magic?"
+        },
+        {
+            "text": "Hm? Well, it does kind of give off that feeling…… \nOh, so you, know about something like this?",
+            "name": "Sweep Tosho",
+            "path_id": 7764149078048991183,
+            "block_id": 38,
+            "clip_length": 264,
+            "processed": "<story>Hm? Well, it does kind of give off that feeling…… \n<story>Oh, so you, know about something like this?"
+        },
+        {
+            "text": "Of course……! Sweep Tosho-san. \n……you're an Uma Musume who's shown us what 『Race Magic』 is.",
+            "name": "Rhein Kraft",
+            "path_id": -1390629225073667538,
+            "block_id": 39,
+            "clip_length": 243,
+            "processed": "<story>Of course……! Sweep Tosho-san. \n<story>……you're an Uma Musume who's shown us what 『Race Magic』 is."
+        },
+        {
+            "text": "Last year……before challenging the Triple Tiara rotation, you \nsaid something like this: 『This boring world, I'll change it』.",
+            "name": "Rhein Kraft",
+            "path_id": -2163919412562433762,
+            "block_id": 40,
+            "clip_length": 325,
+            "processed": "<story>Last year……before challenging the Triple Tiara rotation, you \n<story>said something like this: 『This boring world, I'll change it』."
+        },
+        {
+            "text": "『Triple Crown Uma Musume are stronger than Triple \nTiara Uma Musume, is what you're saying~?]",
+            "name": "Sweep Tosho",
+            "path_id": 1275954095650919740,
+            "block_id": 41,
+            "clip_length": 380,
+            "processed": "<story>『Triple Crown Uma Musume are stronger than Triple \n<story>Tiara Uma Musume, is what you're saying~?]"
+        },
+        {
+            "text": "『When they compete together in Senior class races, \nthe Tiara girls have always lost. That's what it seems \nlike when you think about it rationally?』",
+            "name": "Sweep Tosho",
+            "path_id": -7284102312804937025,
+            "block_id": 42,
+            "clip_length": 326,
+            "processed": "<story>『When they compete together in Senior class races, \n<story>the Tiara girls have always lost. That's what it seems \n<story>like when you think about it rationally?』"
+        },
+        {
+            "text": "『What's with that, it's so booooooring! \nThat's something an idiot would conclude!』",
+            "name": "Sweep Tosho",
+            "path_id": -9085093132277022473,
+            "block_id": 43,
+            "clip_length": 191,
+            "processed": "<story>『What's with that, it's so booooooring! \n<story>That's something an idiot would conclude!』"
+        },
+        {
+            "text": "『In that case, I'll show all of you! First, I'll \nstart by competing in the Triple Tiara rotation――』",
+            "name": "Sweep Tosho",
+            "path_id": -824608166756417912,
+            "block_id": 44,
+            "clip_length": 243,
+            "processed": "<story>『In that case, I'll show all of you! First, I'll \n<story>start by competing in the Triple Tiara rotation――』"
+        },
+        {
+            "text": "『And then, in the Senior Class! And even in a \nGrand Prix, the Takarazuka Kinen! I'll compete \nagainst the Triple Crown girls, and win!』",
+            "name": "Sweep Tosho",
+            "path_id": 2231624280431833142,
+            "block_id": 45,
+            "clip_length": 338,
+            "processed": "<story>『And then, in the Senior Class! And even in a \n<story>Grand Prix, the Takarazuka Kinen! I'll compete \n<story>against the Triple Crown girls, and win!』"
+        },
+        {
+            "text": "『And then, for idiots like you, I'll even cast my \nmagic. Races aren't a boring place like that!』",
+            "name": "Sweep Tosho",
+            "path_id": 2653054525254062915,
+            "block_id": 46,
+            "clip_length": 266,
+            "processed": "<story>『And then, for idiots like you, I'll even cast my \n<story>magic. Races aren't a boring place like that!』"
+        },
+        {
+            "text": "『It doesn't matter if it's the Triple Crown or the Triple Tiara! \nStrong Uma Musume are strong! I'll show all of you!』",
+            "name": "Sweep Tosho",
+            "path_id": -7049437322237723009,
+            "block_id": 47,
+            "clip_length": 273,
+            "processed": "<story>『It doesn't matter if it's the Triple Crown or the Triple Tiara! \n<story>Strong Uma Musume are strong! I'll show all of you!』"
+        },
+        {
+            "text": "That press conference……I've watched it so many times. Again, \nand again……each and every time, it resonated in my heart.",
+            "name": "Rhein Kraft",
+            "path_id": -2992955424829503890,
+            "block_id": 48,
+            "clip_length": 323,
+            "processed": "<story>That press conference……I've watched it so many times. Again, \n<story>and again……each and every time, it resonated in my heart."
+        },
+        {
+            "text": "『Triple Crown or Triple Tiara, doesn't matter』 \n『A strong Uma Musume is strong』……! I believe \nthat too. I want to prove that too. That's why……!",
+            "name": "Rhein Kraft",
+            "path_id": -7444430427670333859,
+            "block_id": 49,
+            "clip_length": 359,
+            "processed": "<story>『Triple Crown or Triple Tiara, doesn't matter』 \n<story>『A strong Uma Musume is strong』……! I believe \n<story>that too. I want to prove that too. That's why……!"
+        },
+        {
+            "text": "Please! I need to continue evolving now. \nFor the 『Oka Sho』……so I can beat my rival……!",
+            "name": "Rhein Kraft",
+            "path_id": -8683660709542833672,
+            "block_id": 50,
+            "clip_length": 279,
+            "processed": "<story>Please! I need to continue evolving now. \n<story>For the 『Oka Sho』……so I can beat my rival……!"
+        },
+        {
+            "text": "Hmmm? ……so you're not just persistent, \nyou're a kind of interesting girl too.",
+            "name": "Sweep Tosho",
+            "path_id": 309711286898593485,
+            "block_id": 51,
+            "clip_length": 253,
+            "processed": "<story>Hmmm? ……so you're not just persistent, \n<story>you're a kind of interesting girl too."
+        },
+        {
+            "text": "So, you're saying that you've fallen under my spell? \n……In that case, having you stay weak would be troubling!",
+            "name": "Sweep Tosho",
+            "path_id": -9076197848067816985,
+            "block_id": 52,
+            "clip_length": 256,
+            "processed": "<story>So, you're saying that you've fallen under my spell? \n<story>……In that case, having you stay weak would be troubling!"
+        },
+        {
+            "text": "I guess it can't be helped. \nI suppose it's fine to start some parallel running!",
+            "name": "Sweep Tosho",
+            "path_id": -9025589008996818696,
+            "block_id": 53,
+            "clip_length": 168,
+            "processed": "<story>I guess it can't be helped. \n<story>I suppose it's fine to start some parallel running!"
+        },
+        {
+            "text": "Haaaaaaaaaa! \nYaaaaaーーーー!",
+            "name": "Kraft & Sweep",
+            "path_id": -6526673683720877868,
+            "block_id": 54,
+            "clip_length": 116,
+            "processed": "<story>Haaaaaaaaaa! \n<story>Yaaaaaーーーー!"
+        },
+        {
+            "text": "(Kuu……! No……she's going to pass me……!!)",
+            "name": "Rhein Kraft",
+            "path_id": 8600316421286868020,
+            "block_id": 55,
+            "clip_length": 176,
+            "processed": "<story>(Kuu……! No……she's going to pass me……!!)"
+        },
+        {
+            "text": "Fuuu……! Well what do you know? You're pretty good! Your start \nis on point, and you hung in there quite well at the end.",
+            "name": "Sweep Tosho",
+            "path_id": 2964156478805661798,
+            "block_id": 56,
+            "clip_length": 276,
+            "processed": "<story>Fuuu……! Well what do you know? You're pretty good! Your start \n<story>is on point, and you hung in there quite well at the end."
+        },
+        {
+            "text": "T-thank you very much. \nBut, in the end you were still able to pass me……",
+            "name": "Rhein Kraft",
+            "path_id": -8426640848168394609,
+            "block_id": 57,
+            "clip_length": 280,
+            "processed": "<story>T-thank you very much. \n<story>But, in the end you were still able to pass me……"
+        },
+        {
+            "text": "Mu. Now you've said it……Against Sweepy, that's expected! \nAnd besides, I debuted a year earlier than you!",
+            "name": "Sweep Tosho",
+            "path_id": 6482651699379344274,
+            "block_id": 58,
+            "clip_length": 344,
+            "processed": "<story>Mu. Now you've said it……Against Sweepy, that's expected! \n<story>And besides, I debuted a year earlier than you!"
+        },
+        {
+            "text": "That may be true but……! That won't be enough. If I can't \nkeep up with someone that's able to finish like you then……!",
+            "name": "Rhein Kraft",
+            "path_id": -4938897032952596518,
+            "block_id": 59,
+            "clip_length": 280,
+            "processed": "<story>That may be true but……! That won't be enough. If I can't \n<story>keep up with someone that's able to finish like you then……!"
+        },
+        {
+            "text": "Haaaaaa……!!",
+            "name": "Spe & Cesario",
+            "path_id": 376209525831184052,
+            "block_id": 60,
+            "clip_length": 93,
+            "processed": "<story>Haaaaaa……!!"
+        },
+        {
+            "text": "(Against that finish……against that sharpness! \nIf I stay like this……honestly, no matter how far \nin front I go, I don't think it'll be enough……!)",
+            "name": "Rhein Kraft",
+            "path_id": -2172985305235075558,
+            "block_id": 61,
+            "clip_length": 302,
+            "processed": "<story>(Against that finish……against that sharpness! \n<story>If I stay like this……honestly, no matter how far \n<story>in front I go, I don't think it'll be enough……!)"
+        },
+        {
+            "text": "(I can't imagine it!! \nI can't imagine winning against Cesario……!)",
+            "name": "Rhein Kraft",
+            "path_id": 253210644410658409,
+            "block_id": 62,
+            "clip_length": 143,
+            "processed": "<story>(I can't imagine it!! \n<story>I can't imagine winning against Cesario……!)"
+        },
+        {
+            "text": "Once more……please, Sweep-san. \nLike this, I don't think it'll be enough……!",
+            "name": "Rhein Kraft",
+            "path_id": 3079812974157011567,
+            "block_id": 63,
+            "clip_length": 303,
+            "processed": "<story>Once more……please, Sweep-san. \n<story>Like this, I don't think it'll be enough……!"
+        }
+    ],
+    "title": "第5話※タイトル記載"
+}
