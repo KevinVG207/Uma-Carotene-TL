@@ -3636,27 +3636,27 @@
         "hash": "a33cfb96a11a76ff7c4058e636fc960277dfc9a90d2cd5384aa9c87eb20a2635"
     },
     "2029701": {
-        "text": "Obtain [好機を捉えて] skill hint.",
+        "text": "Obtain [Seize the Chance] skill hint.",
         "hash": "27b3ce2f959d562b0a31751d8a7af9969f0026643914cd5750164dbd685a902b"
     },
     "2029702": {
-        "text": "Obtain [好機を捉えて] skill hint.",
+        "text": "Obtain [Seize the Chance] skill hint.",
         "hash": "27b3ce2f959d562b0a31751d8a7af9969f0026643914cd5750164dbd685a902b"
     },
     "2029703": {
-        "text": "Obtain [好機を捉えて] skill hint.",
+        "text": "Obtain [Seize the Chance] skill hint.",
         "hash": "27b3ce2f959d562b0a31751d8a7af9969f0026643914cd5750164dbd685a902b"
     },
     "2029801": {
-        "text": "Obtain [飛躍の予感] skill hint.",
+        "text": "Obtain [Leap Premonition] skill hint.",
         "hash": "9de4ec39869ecccfbbe490ea462602f8b7cee25fced4a457b1320448c14d4e52"
     },
     "2029802": {
-        "text": "Obtain [飛躍の予感] skill hint.",
+        "text": "Obtain [Leap Premonition] skill hint.",
         "hash": "9de4ec39869ecccfbbe490ea462602f8b7cee25fced4a457b1320448c14d4e52"
     },
     "2029803": {
-        "text": "Obtain [飛躍の予感] skill hint.",
+        "text": "Obtain [Leap Premonition] skill hint.",
         "hash": "9de4ec39869ecccfbbe490ea462602f8b7cee25fced4a457b1320448c14d4e52"
     },
     "2100101": {
@@ -5080,15 +5080,15 @@
         "hash": "1a1e7c0a2712a7dcb4c420face005ebe0eaa5c5db0345c71f21278a2a19d55eb"
     },
     "10320301": {
-        "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [超光速微粒子の可能性] skill hint.",
+        "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [Tachyon Potential] skill hint.",
         "hash": "8344a9856a43534987f296610bfcc49a0d6ad86553cd6c4f014740406cca3fa4"
     },
     "10320302": {
-        "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [超光速微粒子の可能性] skill hint.",
+        "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [Tachyon Potential] skill hint.",
         "hash": "8344a9856a43534987f296610bfcc49a0d6ad86553cd6c4f014740406cca3fa4"
     },
     "10320303": {
-        "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [超光速微粒子の可能性] skill hint.",
+        "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [Tachyon Potential] skill hint.",
         "hash": "8344a9856a43534987f296610bfcc49a0d6ad86553cd6c4f014740406cca3fa4"
     },
     "10330101": {
@@ -6039,6 +6039,18 @@
         "text": "Increases SPD Cap, POW Cap and WIS Cap.\\nObtain [Info: Acquired] skill hint.",
         "hash": "40c43bf6e8dae9e0e9321f0c99c6e0297b5c6159b3048b553ac62e97d5819ff5"
     },
+    "10820101": {
+        "text": "Increases SPD Cap and WIS Cap.\\nObtain [Shining Runway] skill hint.",
+        "hash": "f1d46e5567e5ed7af5bf3b7d3965b3ef2410c5363bc90d47a69f8a2062c3d693"
+    },
+    "10820102": {
+        "text": "Increases SPD Cap and WIS Cap.\\nObtain [Shining Runway] skill hint.",
+        "hash": "f1d46e5567e5ed7af5bf3b7d3965b3ef2410c5363bc90d47a69f8a2062c3d693"
+    },
+    "10820103": {
+        "text": "Increases SPD Cap and WIS Cap.\\nObtain [Shining Runway] skill hint.",
+        "hash": "f1d46e5567e5ed7af5bf3b7d3965b3ef2410c5363bc90d47a69f8a2062c3d693"
+    },
     "10830101": {
         "text": "Increases STA Cap and POW Cap.\\nObtain [Mission: Triumph] skill hint.",
         "hash": "91a5357fbb70204fb75168527637ef3ea28d29cfb294973405706a7f2bec5a1d"
@@ -6208,15 +6220,15 @@
         "hash": "87b31896a952bd98f137df50011b486dc7d63dff8bdf94c8cd38100f9585c8db"
     },
     "11020101": {
-        "text": "Increases STA Cap, POW Cap and GUT Cap.\\nObtain [ヴィヴァーチェ・ヴォラーレ] skill hint.",
+        "text": "Increases STA Cap, POW Cap and GUT Cap.\\nObtain [Vivace Volare] skill hint.",
         "hash": "295186453b5365e85b0bf76ec79bfd5e588ca3bf83991e52b59a72f9026e7962"
     },
     "11020102": {
-        "text": "Increases STA Cap, POW Cap and GUT Cap.\\nObtain [ヴィヴァーチェ・ヴォラーレ] skill hint.",
+        "text": "Increases STA Cap, POW Cap and GUT Cap.\\nObtain [Vivace Volare] skill hint.",
         "hash": "295186453b5365e85b0bf76ec79bfd5e588ca3bf83991e52b59a72f9026e7962"
     },
     "11020103": {
-        "text": "Increases STA Cap, POW Cap and GUT Cap.\\nObtain [ヴィヴァーチェ・ヴォラーレ] skill hint.",
+        "text": "Increases STA Cap, POW Cap and GUT Cap.\\nObtain [Vivace Volare] skill hint.",
         "hash": "295186453b5365e85b0bf76ec79bfd5e588ca3bf83991e52b59a72f9026e7962"
     },
     "11040101": {

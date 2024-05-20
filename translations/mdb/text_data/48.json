@@ -474,6 +474,11 @@
         "hash": "1f3d8bdbdc5dae131f451a2af485a6e60a08d3cfc0bd0857d7b015a8c62a7610",
         "processed": "<rbr><sc=73>If you stayed in the top 20% for the entire first<br>half of the race, and one of your opponents<br>uses an acceleration skill, your speed will<br>slightly increase; in dirt races on big racetracks<br>(non-NAR), you will also get a speed boost."
     },
+    "100821": {
+        "text": "If you're in a good position (but not leading) during the Final Corner, your speed will increase; bonus duration in Mile races.",
+        "hash": "45372b3bdeb98e377b2aea95b0ebb64e71c1fec4cfcef4265982916cb80a1a0e",
+        "processed": "<rbr>If you're in a good position (but<br>not leading) during the Final<br>Corner, your speed will increase;<br>bonus duration in Mile races."
+    },
     "100831": {
         "text": "If you're in the middle of the pack during any straight after the middle of the race, your speed will increase; bonus duration if you're running downhill.",
         "hash": "1ed332de2c4465d5790952a12bb7ba7638d4714d447a2cdc1532a127bd279037",
@@ -6398,6 +6403,16 @@
         "text": "Dirt・If you're in the first half of the pack during the second half of the Opening Leg, your speed will greatly increase.",
         "hash": "5ef9165808d8f4a1542db73402f4bc7af3f95e54bced39ce68a24b9a85ecc680",
         "processed": "<rbr>Dirt・If you're in the first half of<br>the pack during the second half of<br>the Opening Leg, your speed will<br>greatly increase."
+    },
+    "108201111": {
+        "text": "If you overtake someone during the Middle Leg, your speed will increase; the effect is slightly stronger if your base Wisdom is at least 1200.",
+        "hash": "512ed8b7021cfb29e517e730ada1173120c839c05b01843ee32236f1d820dbf4",
+        "processed": "<rbr><sc=94>If you overtake someone during the<br>Middle Leg, your speed will increase;<br>the effect is slightly stronger if your<br>base Wisdom is at least 1200."
+    },
+    "108201211": {
+        "text": "Mile・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will increase; then, when there's 200 m remaining, your speed will slightly increase.",
+        "hash": "fc70dfe8028b40f38e9898db10edc7216904fb2e1b559771226896a2c4416d67",
+        "processed": "<rbr><sc=80>Mile・If you're in the first half of the pack<br>during the first half of the Final Leg, your<br>acceleration will increase; then, when<br>there's 200 m remaining, your speed will<br>slightly increase."
     },
     "108301111": {
         "text": "Betweener・Long・Increase your acceleration by slightly using stamina during the second half of the Last Spurt, or recover instead of using stamina on the Nakayama Racetrack.",
