@@ -306,6 +306,11 @@ def update_story_intermediate(path_to_existing):
 
     if existing_data['hash'] != intermediate_data['hash']:
         return
+    
+    title = existing_data.get('title')
+    if title:
+        intermediate_data['title'] = title
+
     for i, line in enumerate(existing_data['data']):
         if existing_data['file_name'].startswith("race/"):
             intermediate_data['data'][i]['text'] = line
