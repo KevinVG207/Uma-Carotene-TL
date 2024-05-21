@@ -1,6 +1,6 @@
 {
     "type": "story",
-    "row_index": 426,
+    "row_index": 452,
     "file_name": "story/data/04/1019/storytimeline_041019006",
     "hash": "SWEL6HCVRO3Z5PYKR6TIZCSBITIWG6BL",
     "data": [
@@ -265,12 +265,20 @@
             "processed": "<story>To be honest, I was planning on doing this by myself like I \n<story>always do, but――"
         },
         {
+<<<<<<< HEAD
             "text": "Okily dokily, finished the itinerary for my pilgrimage ☆ \nMuhuhuuuu. Can't wait to tell Trainer-san all about it ~♪",
+=======
+            "text": "Okily dokily, finished the itinerary for my pilgrimage ☆ \nMuhuhuuuu. Can't wait to bring Trainer-san a souvenir~♪",
+>>>>>>> f7cf5dfa051105a6dd785d7bdad50f8e63813f88
             "name": "Agnes Digital",
             "path_id": 1562342076483544416,
             "block_id": 27,
             "clip_length": 256,
+<<<<<<< HEAD
             "processed": "<story>Okily dokily, finished the itinerary for my pilgrimage ☆ \n<story>Muhuhuuuu. Can't wait to tell Trainer-san all about it ~♪"
+=======
+            "processed": "<story>Okily dokily, finished the itinerary for my pilgrimage ☆ \n<story>Muhuhuuuu. Can't wait to bring Trainer-san a souvenir~♪"
+>>>>>>> f7cf5dfa051105a6dd785d7bdad50f8e63813f88
         },
         {
             "text": "Haha, no idea what you're talking about, but you're looking as \nchipper as ever!",
@@ -290,12 +298,20 @@
             "processed": "<story>Whoa! W... Was I saying all that out loud....!? \n<story>Sorry for botherin' ya, bud...!"
         },
         {
+<<<<<<< HEAD
             "text": "Actually, you mentioned telling your trainer about your trip... \nSo you're not going together with your them? On your, uh... \npilgrimage... thing?",
+=======
+            "text": "Actually, you mentioned a souvenir... So you're not going \ntogether with your trainer? On your, uh... pilgrimage... thing?",
+>>>>>>> f7cf5dfa051105a6dd785d7bdad50f8e63813f88
             "name": "Umamusume Classmate",
             "path_id": 156768129568724020,
             "block_id": 30,
             "clip_length": 226,
+<<<<<<< HEAD
             "processed": "<story>Actually, you mentioned telling your trainer about your trip... \n<story>So you're not going together with your them? On your, uh... \n<story>pilgrimage... thing?",
+=======
+            "processed": "<story>Actually, you mentioned a souvenir... So you're not going \n<story>together with your trainer? On your, uh... pilgrimage... thing?",
+>>>>>>> f7cf5dfa051105a6dd785d7bdad50f8e63813f88
             "name_processed": "<sc=99>Umamusume Classmate"
         },
         {

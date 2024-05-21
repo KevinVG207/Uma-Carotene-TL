@@ -1,6 +1,6 @@
 {
     "type": "story",
-    "row_index": 424,
+    "row_index": 450,
     "file_name": "story/data/04/1019/storytimeline_041019004",
     "hash": "XU5Z4OK5C2AL2HLGWZTTYATZIUO6KHCP",
     "data": [
@@ -560,5 +560,9 @@
             "processed": "<story>The Selection Races aren't done yet! \n<story>We've got to get our virtuous deeds for the day, don't we!? \n<story>――<i>Don't we!?</i>"
         }
     ],
+<<<<<<< HEAD
     "title": "Revelation - All-Rounder!"
+=======
+    "title": "Revelation - All-Rounder"
+>>>>>>> f7cf5dfa051105a6dd785d7bdad50f8e63813f88
 }
