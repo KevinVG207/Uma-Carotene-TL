@@ -1030,6 +1030,12 @@ def index_hashed(potential_hash_dict):
         existing_hash_set.add(cur_hash)
 
     for hashed_entry in new_hashed_data:
+        # if not hashed_entry:
+        #     continue
+
+        # if not hashed_entry.get('hash'):
+        #     continue
+
         if hashed_entry['hash'] in existing_hash_set:
             for existing_data in existing_hashed_data:
                 existing_hash = existing_data.get('hash') if existing_data.get('hash') else hashlib.sha256(existing_data['source'].encode("utf-8")).hexdigest()
@@ -1043,7 +1049,7 @@ def index_hashed(potential_hash_dict):
             "text": hashed_entry['text']
         }
 
-        if hashed_entry['hash'] in potential_hash_dict:
+        if potential_hash_dict and hashed_entry['hash'] in potential_hash_dict:
             tl_entry['source'] = potential_hash_dict[hashed_entry['hash']]
             del tl_entry['hash']
 

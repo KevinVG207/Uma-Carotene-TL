@@ -417,6 +417,10 @@
         "text": "Info: Acquired",
         "hash": "75812b40034bbd80f6b75c8122dfa9b85f85fd88235ff7678ffbcc252e2135c2"
     },
+    "100821": {
+        "text": "Shining Runway",
+        "hash": "ead5919d7708035f24ab498411cce15b736f71ebfd9684706b7fe27befbf3990"
+    },
     "100831": {
         "text": "Mission: Triumph",
         "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
@@ -465,6 +469,10 @@
     "101001": {
         "text": "Never Say Never",
         "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "101021": {
+        "text": "Vivace Volare",
+        "hash": "a09d0fedca25394de6e74a999ffb32284b7c83f001e0f222b30718895647c93a"
     },
     "101041": {
         "text": "Flag of Dawn: Katsuragi Ace",
@@ -738,6 +746,11 @@
         "text": "Danser le Présent",
         "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
     },
+    "110721": {
+        "text": "Decisive Blade of Blazing Fire",
+        "hash": "3553bed9d3fb1ea07a77bbd8e80de682c78719992aec6330d720354194d16306",
+        "processed": "<sc=83>Decisive Blade of Blazing Fire"
+    },
     "110741": {
         "text": "Illuminate You",
         "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
@@ -769,9 +782,18 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "120321": {
+        "text": "Tachyon Potential",
+        "hash": "15dc0386f39ed4f4f171ab7db22d8a478400bace18defd880c5500e0caa4e84e"
+    },
     "120351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "120451": {
+        "text": "Ninja Art: Seal of the Smiling Heart",
+        "hash": "fe8279235e0f173ff4911dc403e90e2bc7e1e3af94152886637c545ab746402d",
+        "processed": "<sc=70>Ninja Art: Seal of the Smiling Heart"
     },
     "120601": {
         "text": "Springy Festivities",
@@ -2942,6 +2964,10 @@
         "text": "Immovable Spirit",
         "hash": "dd9953cbac6e2346f4e866c3ddca4478318d74488fefda10c70ef92ac8540130"
     },
+    "202901": {
+        "text": "Soaring Stride",
+        "hash": "5541dae9b26aeb589acfb9474a8e635c6f722346bc283ecad1369b4396494305"
+    },
     "202902": {
         "text": "Sufficient Thrust",
         "hash": "a0b4ed17d0f5a896721651b6f855b8f75a800018120bccb3cc59f3d1eba43d27"
@@ -2977,6 +3003,18 @@
     "202962": {
         "text": "Boiling Emotions",
         "hash": "c076dca54c2874acacabe301a284514aaac5bfa83857373bee41c5927c5ab54f"
+    },
+    "202972": {
+        "text": "Seize the Chance",
+        "hash": "6cb4dfb8272b6b2e1411db3b3c1983008a47d3e2596dde4280d1312e95788fd6"
+    },
+    "202981": {
+        "text": "Gamma Ray Burst",
+        "hash": "cf1abbc9d9835f7776e0c1a6aa6076928e4cbc301b96abc3d1a1814b07426151"
+    },
+    "202982": {
+        "text": "Leap Premonition",
+        "hash": "9c620350f09802216d95a01878ead5aad3d735165091b857af7dfbfb6ce0e657"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -3543,6 +3581,10 @@
         "text": "Info: Acquired",
         "hash": "75812b40034bbd80f6b75c8122dfa9b85f85fd88235ff7678ffbcc252e2135c2"
     },
+    "900821": {
+        "text": "Shining Runway",
+        "hash": "ead5919d7708035f24ab498411cce15b736f71ebfd9684706b7fe27befbf3990"
+    },
     "900831": {
         "text": "Mission: Triumph",
         "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
@@ -3591,6 +3633,10 @@
     "901001": {
         "text": "Never Say Never",
         "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "901021": {
+        "text": "Vivace Volare",
+        "hash": "a09d0fedca25394de6e74a999ffb32284b7c83f001e0f222b30718895647c93a"
     },
     "901041": {
         "text": "Flag of Dawn: Katsuragi Ace",
@@ -3864,6 +3910,11 @@
         "text": "Danser le Présent",
         "hash": "4f7a856cd43807bfaa4c0489fd9d5a3009e6ed149cb096f625fb4d5e5008cd49"
     },
+    "910721": {
+        "text": "Decisive Blade of Blazing Fire",
+        "hash": "3553bed9d3fb1ea07a77bbd8e80de682c78719992aec6330d720354194d16306",
+        "processed": "<sc=83>Decisive Blade of Blazing Fire"
+    },
     "910741": {
         "text": "Illuminate You",
         "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
@@ -3895,9 +3946,18 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "920321": {
+        "text": "Tachyon Potential",
+        "hash": "15dc0386f39ed4f4f171ab7db22d8a478400bace18defd880c5500e0caa4e84e"
+    },
     "920351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "920451": {
+        "text": "Ninja Art: Seal of the Smiling Heart",
+        "hash": "fe8279235e0f173ff4911dc403e90e2bc7e1e3af94152886637c545ab746402d",
+        "processed": "<sc=70>Ninja Art: Seal of the Smiling Heart"
     },
     "920601": {
         "text": "Springy Festivities",
@@ -4388,6 +4448,10 @@
         "text": "Run~Away~♪",
         "hash": "e9df7bc33a0c33f0c7b99596437da10b89653a9b439bec72034a71b9b4341642"
     },
+    "102002121": {
+        "text": "Surprise~Successful~☆",
+        "hash": "da13938f762313e54d01cd0d080667438241d56207ca07b7a60f81bef047f8e5"
+    },
     "102002211": {
         "text": "Record Runner",
         "hash": "e710476f3e60095af6e76fb6469208ffaaad1a2a6f5b3ba9d462f79870c57284"
@@ -4596,6 +4660,14 @@
     "103202211": {
         "text": "Dazzling Luxon",
         "hash": "6f0ea64d4166574478d7b965cdf044bc175bb1cc27bb9d91cc0356e4fbeab875"
+    },
+    "103203111": {
+        "text": "FTL Particle",
+        "hash": "7300409fb8d634f56eb73d76555700877a5f50a32cbbcec5011c09f180804ece"
+    },
+    "103203211": {
+        "text": "Subject Observation",
+        "hash": "60c1c180383a25ba704c0e65be3b22c7f1d817814ef5bc672c60712a8c9aa526"
     },
     "103301111": {
         "text": "Silent Oath",
@@ -4809,6 +4881,15 @@
         "text": "Charming Mummy Whisper",
         "hash": "7361d6131d60f2e5b47219f4644b2dad960c8fe6598fbf4cd6378138b30d9800",
         "processed": "<sc=92>Charming Mummy Whisper"
+    },
+    "104503111": {
+        "text": "Run as the River Flows",
+        "hash": "260307562a667108b809e5f9eb1ab2b542aebc18cd72a8cb5952b21371d3f51a"
+    },
+    "104503211": {
+        "text": "Butterfly Transformation Jutsu",
+        "hash": "0a42e4beac9abdd2a35b5928f69cead38db843e1120c1e3703551e0d42ff66c5",
+        "processed": "<sc=80>Butterfly Transformation Jutsu"
     },
     "104601111": {
         "text": "The Dazzling Umadol's Here★",
@@ -5103,6 +5184,10 @@
         "text": "Godly Runner's Wisdom",
         "hash": "45e63e0c8b5ad7782f6efb19a519fc58c44c28a29ad50a6822b26e31e7bb3609"
     },
+    "106401221": {
+        "text": "Pump It Up",
+        "hash": "3f59feb44bfc9e9545435603ad1082ae88f2d74fd03b19db42305246bc87c4b4"
+    },
     "106402111": {
         "text": "North Wind Kick",
         "hash": "bbe919afd5c53db975064c8891b34430e7fcf10e50f9fb0f49173d567996b98b"
@@ -5247,6 +5332,14 @@
         "hash": "4c47a683555e7105d0c04715f13bb1ba220292d627d1506db00d462bb5dc6fc3",
         "processed": "<sc=98>Ardent Desire for Victory"
     },
+    "107202111": {
+        "text": "General's Swift Strike",
+        "hash": "33be386bd9c0c1c8ca6265666cf3cb0d9b43cc8ec6ce803267825b500aa22112"
+    },
+    "107202211": {
+        "text": "Peerless Pursuit",
+        "hash": "e426d0ac57c0291f658eb842f0fbd278d3fbbc91fff0f5c7c2e6563802b57c59"
+    },
     "107401111": {
         "text": "Indomitable Dame",
         "hash": "a7e8b4867fbda1e44b0df35b0e9195eb855177cdfcf93a54a8b68335536336d6"
@@ -5301,6 +5394,14 @@
     "108001211": {
         "text": "Seeking the Unknown",
         "hash": "30e2deae5ad3ab43cac95e4d691a5f0fc5f7faacdab4d7b577292ebd0f5b4d4e"
+    },
+    "108201111": {
+        "text": "With A Sparkling Heart!",
+        "hash": "3b48f9aea00549330c4f87ad4e9fdc74967b96398c6dbc612db0fa75f504d4eb"
+    },
+    "108201211": {
+        "text": "Enjoy the Flight",
+        "hash": "fd5fc9895c29fb8b753aa647d15c8d6459cdd5d9b809d72e0e9c9c3e906c68bd"
     },
     "108301111": {
         "text": "Ironclad",
@@ -5420,6 +5521,14 @@
         "text": "Goddess' Dust Bath",
         "hash": "acbacc43c28d00727a9a972950fe57a09d5d49a8a4b708074b191db2aead82e1"
     },
+    "110201111": {
+        "text": "Caesura",
+        "hash": "c05d22ab8c71cad7ab91ae94b8128eab4474de152f20e3c111f0c4e818d38e44"
+    },
+    "110201211": {
+        "text": "Trionfo",
+        "hash": "bc44cd45aab5e54151427d53e53aa302e1936e693adb878c3ddc9fbf0b7a5b37"
+    },
     "110401111": {
         "text": "Beat You to It!",
         "hash": "b9cd5266b931133917430818c7899823cc6e238f8c3438b50c0982b86eb6f9f3"
@@ -5442,6 +5551,10 @@
         "text": "Keep Calm, Don't Overthink",
         "hash": "450c7ef0dda3989809925e3e3495603fb1c3f7950412d34e08177ab84f7d3cfa",
         "processed": "<sc=89>Keep Calm, Don't Overthink"
+    },
+    "110601121": {
+        "text": "I'll Do What I Can~!",
+        "hash": "2d6cbb2694d3cb6b3d7724971d87ac97d22e90f743e9ddb0dad07f790381a1e1"
     },
     "110601211": {
         "text": "Collecting Little Joys",

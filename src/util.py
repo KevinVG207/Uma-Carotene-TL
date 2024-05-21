@@ -55,8 +55,8 @@ class UmaPool(Pool):
         if not processes:
             processes = os.cpu_count() or 1
 
-        if processes > 12:
-            processes = 12
+        # if processes > 12:
+        #     processes = 12
 
         super().__init__(processes, *args, **kwargs)
 
@@ -109,6 +109,17 @@ META_BACKUP_TABLE = TABLE_BACKUP_PREFIX + "a"
 
 DLL_BACKUP_SUFFIX = ".bak"
 
+DMM_CONFIG_PATH = os.path.expandvars("%AppData%\dmmgameplayer5\dmmgame.cnf")
+
+def version_to_string(version):
+    return "v" + ".".join(str(v) for v in version)
+
+def string_to_version(version_string):
+    if version_string.startswith("v"):
+        version_string = version_string[1:]
+    
+    return tuple(int(v) for v in version_string.split("."))
+
 class Connection:
     DB_PATH = None
 
@@ -140,13 +151,18 @@ class GameDatabaseNotFoundException(Exception):
 class NotEnoughSpaceException(Exception):
     pass
 
+class DMMConfigNotFoundException(Exception):
+    pass
+
 def display_critical_message(title, text):
+    if is_script:
+        print(f"{title}: {text}")
+        return
     msg = QMessageBox()
     msg.setIcon(QMessageBox.Critical)
     msg.setText(text)
     msg.setWindowTitle(title)
     msg.setStandardButtons(QMessageBox.Ok)
-    msg.button(QMessageBox.Ok).setText("Ok")
     msg.exec_()
 
 def load_json(path):
@@ -293,11 +309,19 @@ def fetch_latest_github_release(username, repo, prerelease=False):
             raise Exception("Github API request failed")
         data = r.json()
     cur_version = None
+    cur_version_no = None
     for version in data:
+        version_no = string_to_version(version['tag_name'])
         if version['prerelease'] and not prerelease:
             continue
-        cur_version = version
-        break
+        if not cur_version:
+            cur_version = version
+            cur_version_no = version_no
+
+        if version_no > cur_version_no:
+            cur_version = version
+            cur_version_no = version_no
+
 
     if not cur_version:
         raise Exception("No release found")
@@ -396,18 +420,28 @@ def tqdm(*args, **kwargs):
         kwargs['ncols'] = TQDM_NCOLS
     return _tqdm.tqdm(*args, **kwargs)
 
+def raise_dmm_config_not_found(reason):
+    display_critical_message("DMM Game Config Error", f"{reason}<br>Please make sure that all of the following are done:<ul><li>DMM Game Player is installed on this computer.</li><li>Umamusume: Pretty Derby is installed via DMM.</li><li>You have started the game via DMM at least once.</li></ul>Expected config file location:<br>{DMM_CONFIG_PATH}")
+    raise DMMConfigNotFoundException()
+
 def get_game_folder():
-    with open(os.path.expandvars("%AppData%\dmmgameplayer5\dmmgame.cnf"), "r", encoding='utf-8') as f:
+    if not os.path.exists(DMM_CONFIG_PATH):
+        raise_dmm_config_not_found("DMM config file not found.")
+
+    with open(DMM_CONFIG_PATH, "r", encoding='utf-8') as f:
         game_data = json.loads(f.read())
     
     if not game_data or not game_data.get('contents'):
-        return None
+        raise_dmm_config_not_found("DMM config file is empty.")
     
     path = None
     for game in game_data['contents']:
         if game.get('productId') == 'umamusume':
             path = game.get('detail', {}).get('path', None)
             break
+
+    if not path:
+        raise_dmm_config_not_found("Umamusume not found in DMM config.")
     
     return path
 
@@ -460,10 +494,13 @@ def redownload_mdb():
     download_lz4(url, mdb_path)
     print("=== Downloaded latest master.mdb. You may now apply the patch again. ===")
 
-def download_asset(hash, no_progress=False):
+def download_asset(hash, no_progress=False, force=False):
     asset_path = get_asset_path(hash)
     if os.path.exists(asset_path):
-        return
+        if force:
+            os.remove(asset_path)
+        else:
+            return
     
     print_str = f"Downloading asset {hash}"
     if no_progress:

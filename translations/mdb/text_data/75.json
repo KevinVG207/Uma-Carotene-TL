@@ -419,6 +419,14 @@
         "text": "[Tracen Academy] Neo Universe",
         "hash": "41a86edcae2dbefe7b59d967edcd81a71ae3ae241373360b69a9eac3522cf7b6"
     },
+    "10107": {
+        "text": "[Tracen Academy] Hishi Miracle",
+        "hash": "f53368ac1c69779965cca9236acf9ee4e25019e3d955e3000118d5feacdfcddc"
+    },
+    "10108": {
+        "text": "[Tracen Academy] Dantsu Flame",
+        "hash": "77b578da141c4e24a57d249802a4e74256c9af4099c988295dbb1182bf0c898c"
+    },
     "10113": {
         "text": "[Tracen Academy] Gentildonna",
         "hash": "9d1e1f5d5fa583120492713599601e3c3f8b31d1c724bc5472b80d63b1614c43"
@@ -426,6 +434,10 @@
     "10114": {
         "text": "[Tracen Academy] Rhein Kraft",
         "hash": "d21372aafb37b2761c8032718e54da21e91da7ae75e15b983f9128ade354795b"
+    },
+    "10117": {
+        "text": "[Tracen Academy] No Reason",
+        "hash": "c932e04b26393c43a96ee4c3fa2c1b64281ab058c180c801f273f9b040212f2d"
     },
     "20001": {
         "text": "[Good Grief, Welcome Back] Fuji Kiseki",
@@ -726,6 +738,10 @@
     "20076": {
         "text": "[Roadside Feedback] Air Shakur",
         "hash": "21070f225b63d8e94f33c070bbfc79c63babeb16a76951f43e7d701fa54285fe"
+    },
+    "20077": {
+        "text": "[In Shape with Lotion] Dantsu Flame",
+        "hash": "9b2943b6bdb5097a33d49c86f32ee9e19f0970220b46f6aab06c340f538f8a6b"
     },
     "30001": {
         "text": "[Japan's Number 1 Stage] Special Week",
@@ -1032,7 +1048,7 @@
         "hash": "798b513fb2ed9c16fa449427ae93896339bee71bac6ae16340309d775e1a923e"
     },
     "30081": {
-        "text": "[Accumulating Feelings] Team <Sirius>",
+        "text": "[Accumulating Feelings] Team ＜Sirius＞",
         "hash": "af7676adeaaf9baa5b40ac2fc726dbca23844d0b8c488a322121f4ce14dd2f36"
     },
     "30082": {
@@ -1498,5 +1514,25 @@
     "30198": {
         "text": "[To the V.E.R.2285 You] Neo Universe",
         "hash": "4fd07168cc689fb3d8daaed5a89b80fbf0961e727607421dbf55096876d829aa"
+    },
+    "30199": {
+        "text": "[Work a Miracle!] Hishi Miracle",
+        "hash": "fd5807ec0ddce7208c7c8e0b901c7f426f49aa9fcb5fe54fae422915925fa9b9"
+    },
+    "30200": {
+        "text": "[Fearless Warrior] No Reason",
+        "hash": "fa85537e1933f54c8b960c5d2c1544a6fea53682efc5e07d4a2f0a67ba9ba2d5"
+    },
+    "30201": {
+        "text": "[Take Them Down!] Narita Taishin",
+        "hash": "a82fa79470c542c2ba9084331ec2394b05fd5199daa95354801fc44390e91a6d"
+    },
+    "30202": {
+        "text": "[My Ride for Tomorrow] Vodka",
+        "hash": "686071273383e130c074ef1010a104682a91ae587ba27f5881aeff9a78533b56"
+    },
+    "30203": {
+        "text": "[Opening a new Era] Jungle Pocket",
+        "hash": "cfbe08eccfaa3f6834a6dfe34435f3ad7fcbd21e2b2168876b9172b1a88aa92d"
     }
 }

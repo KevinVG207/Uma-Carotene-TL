@@ -194,6 +194,15 @@ def _fix_story(story_data):
     json_data, path = story_data
 
     if json_data['file_name'].startswith("home/"):
+        # Process name.
+        for block in json_data['data']:
+            if block.get('name'):
+                if block.get('name_processed'):
+                    del block['name_processed']
+                proc_name = scale_to_width(block['name'], 10350)
+                if proc_name != block['name']:
+                    block['name_processed'] = proc_name
+        util.save_json(path, json_data)
         return
 
     for block in json_data['data']:
@@ -250,7 +259,7 @@ def do_postprocess():
 def main():
     # do_postprocess()
 
-    a = "Communication Log 7 - \"Synchroniz"
+    a = "012345678901234"
     b = util.get_text_width(a, FONT)
     print(b)
     # d = scale_to_box(a, 15800, 2)
