@@ -1,0 +1,359 @@
+{
+    "type": "story",
+    "row_index": 174906,
+    "file_name": "story/data/04/1076/storytimeline_041076005",
+    "hash": "AOHPMIFKDXR3VQWLIK64WHN2ZY55JSNI",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -5952873446247407131,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Sakura Laurel and I were heading to the \ncourse to start with her training when――",
+            "name": "",
+            "path_id": -7256499355850137248,
+            "block_id": 1,
+            "clip_length": 89,
+            "processed": "<story>Sakura Laurel and I were heading to the \n<story>course to start with her training when――"
+        },
+        {
+            "text": "In any case, I'm going to make the announcement……! \nAnd you can proceed with installing the machine!",
+            "name": "Student Council Uma Musume A",
+            "path_id": 4711924681680470511,
+            "block_id": 2,
+            "clip_length": 147,
+            "processed": "<story>In any case, I'm going to make the announcement……! \n<story>And you can proceed with installing the machine!",
+            "name_processed": "<sc=72>Student Council Uma Musume A"
+        },
+        {
+            "text": "You two, what's wrong? Did something happen?",
+            "name": "Sakura Laurel",
+            "path_id": 8927999169184243197,
+            "block_id": 3,
+            "clip_length": 101,
+            "processed": "<story>You two, what's wrong? Did something happen?"
+        },
+        {
+            "text": "I see, so a mistake was made with the order. \nAnd the machines were supposed to be unveiled today?",
+            "name": "Sakura Laurel",
+            "path_id": -113091634705495799,
+            "block_id": 4,
+            "clip_length": 254,
+            "processed": "<story>I see, so a mistake was made with the order. \n<story>And the machines were supposed to be unveiled today?"
+        },
+        {
+            "text": "Yes……we announced that 5 would be installed but only 1 made it…… \nEveryone came to see them, but how should I explain it……?",
+            "name": "Student Council Uma Musume B",
+            "path_id": -7318546736216754904,
+            "block_id": 5,
+            "clip_length": 270,
+            "processed": "<story>Yes……we announced that 5 would be installed but only 1 made it…… \n<story>Everyone came to see them, but how should I explain it……?",
+            "name_processed": "<sc=72>Student Council Uma Musume B"
+        },
+        {
+            "text": "Did you ask the President?",
+            "name": "Sakura Laurel",
+            "path_id": -4529079607795797985,
+            "block_id": 6,
+            "clip_length": 71,
+            "processed": "<story>Did you ask the President?"
+        },
+        {
+            "text": "The President and Vice President are dealing with another \nmatter today so I can't contact them. Today was supposed \nto be a special event too, and now it'll go to waste――!",
+            "name": "Student Council Uma Musume A",
+            "path_id": 6597015974335568811,
+            "block_id": 7,
+            "clip_length": 272,
+            "processed": "<story>The President and Vice President are dealing with another \n<story>matter today so I can't contact them. Today was supposed \n<story>to be a special event too, and now it'll go to waste――!",
+            "name_processed": "<sc=72>Student Council Uma Musume A"
+        },
+        {
+            "text": "Why's that? Even with just one machine it should be plenty of fun!",
+            "name": "Sakura Laurel",
+            "path_id": -7580951663730243413,
+            "block_id": 8,
+            "clip_length": 111,
+            "processed": "<story>Why's that? Even with just one machine it should be plenty of fun!"
+        },
+        {
+            "text": "……Huh?",
+            "name": "Both",
+            "path_id": -5881016416860470230,
+            "block_id": 9,
+            "clip_length": 66,
+            "choices": [
+                {
+                    "text": "H-How……?",
+                    "hash": "d885dd84918ec41169a9942ae93e5ccea10862347e71ae479a6548b912a74312"
+                }
+            ],
+            "processed": "<story>……Huh?"
+        },
+        {
+            "text": "Because, aren't there plenty of ways to make it more fun!? \nFor example, let's see――",
+            "name": "Sakura Laurel",
+            "path_id": 2625385547237857255,
+            "block_id": 10,
+            "clip_length": 209,
+            "processed": "<story>Because, aren't there plenty of ways to make it more fun!? \n<story>For example, let's see――"
+        },
+        {
+            "text": "How about turning it in to a record keeping event? \nHow does that sound?",
+            "name": "Sakura Laurel",
+            "path_id": -5417759285858443675,
+            "block_id": 11,
+            "clip_length": 92,
+            "processed": "<story>How about turning it in to a record keeping event? \n<story>How does that sound?"
+        },
+        {
+            "text": "Comparing your current numbers against others can help you get \na clear picture of your current situation and makes it easier \nto set goals! And it will let everyone try out the machine!",
+            "name": "Sakura Laurel",
+            "path_id": 970525613307422054,
+            "block_id": 12,
+            "clip_length": 305,
+            "processed": "<story>Comparing your current numbers against others can help you get \n<story>a clear picture of your current situation and makes it easier \n<story>to set goals! And it will let everyone try out the machine!"
+        },
+        {
+            "text": "With her positive attitude and flexible thinking……I couldn't \nhelp but agree. To help with her idea, right now I should――",
+            "name": "",
+            "path_id": 5393821358091322926,
+            "block_id": 13,
+            "clip_length": 112,
+            "processed": "<story>With her positive attitude and flexible thinking……I couldn't \n<story>help but agree. To help with her idea, right now I should――"
+        },
+        {
+            "text": "B-but will everyone agree with that……?",
+            "name": "Student Council Uma Musume B",
+            "path_id": 3433271079693332159,
+            "block_id": 14,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "I can help with that! Let's do it!",
+                    "hash": "19fa8427c3af3ad0b99706fc10c785765aa00841bd110b5eee4a8223d7f6c10c"
+                },
+                {
+                    "text": "I can help with that! Let's do it!",
+                    "hash": "1cdac58a7338c9f5058041ff2ed21f8acd10175e9a664711ddd898ce9389ce25"
+                }
+            ],
+            "processed": "<story>B-but will everyone agree with that……?",
+            "name_processed": "<sc=72>Student Council Uma Musume B"
+        },
+        {
+            "text": "――! Fufu, if Trainer-san is helping, \nthen there's nothing to worry about!",
+            "name": "Sakura Laurel",
+            "path_id": 530666344840145422,
+            "block_id": 15,
+            "clip_length": 220,
+            "processed": "<story>――! Fufu, if Trainer-san is helping, \n<story>then there's nothing to worry about!"
+        },
+        {
+            "text": "See? It'll be fine! \nLet's make this a great event!",
+            "name": "Sakura Laurel",
+            "path_id": 6315798814434529679,
+            "block_id": 16,
+            "clip_length": 160,
+            "processed": "<story>See? It'll be fine! \n<story>Let's make this a great event!"
+        },
+        {
+            "text": "Eeeh, there's only one machine!?",
+            "name": "Mid-rank Trainer A",
+            "path_id": -2512642965873908558,
+            "block_id": 17,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "That's why we're doing record keeping!",
+                    "hash": "924e7fb01d6d142c349e0271964cd13b808de45f5430246007bd18e8e9724018",
+                    "processed": "<size=42>That's why we're doing record keeping!</size>"
+                }
+            ],
+            "processed": "<story>Eeeh, there's only one machine!?"
+        },
+        {
+            "text": "I see……but, the girl I'm responsible for hasn't debuted yet, \nso to make her compete against already experienced girls is……",
+            "name": "Rookie Trainer A",
+            "path_id": -6371583301784800508,
+            "block_id": 18,
+            "clip_length": 223,
+            "choices": [
+                {
+                    "text": "We're going to divide it based on grade!",
+                    "hash": "a9404b128a9f2936771a500fb788b98a6bf3d1f976a3fea71171b49143510692",
+                    "processed": "<size=41>We're going to divide it based on grade!</size>"
+                }
+            ],
+            "processed": "<story>I see……but, the girl I'm responsible for hasn't debuted yet, \n<story>so to make her compete against already experienced girls is……"
+        },
+        {
+            "text": "I see…… \nIn that case, well……",
+            "name": "Trainers",
+            "path_id": -3689936911166023586,
+            "block_id": 19,
+            "clip_length": 63,
+            "processed": "<story>I see…… \n<story>In that case, well……"
+        },
+        {
+            "text": "I move about frantically trying to talk to everyone involved. \nI was desperate to make sure Sakura Laurel's idea worked out.",
+            "name": "",
+            "path_id": 5969414404012788133,
+            "block_id": 20,
+            "clip_length": 121,
+            "processed": "<story>I move about frantically trying to talk to everyone involved. \n<story>I was desperate to make sure Sakura Laurel's idea worked out."
+        },
+        {
+            "text": "――With all the preparations completed, \nthe training event began!",
+            "name": "",
+            "path_id": 2472200108317876387,
+            "block_id": 21,
+            "clip_length": 85,
+            "processed": "<story>――With all the preparations completed, \n<story>the training event began!"
+        },
+        {
+            "text": "――Well then, the record keeping for the new machine, the Tire \nFlip is beginning~! We'll start with the senior class girls! \nI'll count how many times you can do it in one minute!",
+            "name": "Sakura Laurel",
+            "path_id": 1789137482744552714,
+            "block_id": 22,
+            "clip_length": 345,
+            "processed": "<story>――Well then, the record keeping for the new machine, the Tire \n<story>Flip is beginning~! We'll start with the senior class girls! \n<story>I'll count how many times you can do it in one minute!"
+        },
+        {
+            "text": "Alright, I'll go first! \nI'll do it~~!!",
+            "name": "Senior Class Uma Musume",
+            "path_id": 6476326263869677143,
+            "block_id": 23,
+            "clip_length": 132,
+            "processed": "<story>Alright, I'll go first! \n<story>I'll do it~~!!",
+            "name_processed": "<sc=88>Senior Class Uma Musume"
+        },
+        {
+            "text": "Hmmph! ――Doriyaah! \nGuu-……aaah!!",
+            "name": "Senior Class Uma Musume",
+            "path_id": -3247416706683586160,
+            "block_id": 24,
+            "clip_length": 164,
+            "processed": "<story>Hmmph! ――Doriyaah! \n<story>Guu-……aaah!!",
+            "name_processed": "<sc=88>Senior Class Uma Musume"
+        },
+        {
+            "text": "――5, 4, 3, 2, 1, that's it! \nYour count is……Ooooh, 22 times!",
+            "name": "Sakura Laurel",
+            "path_id": -8465056419706748479,
+            "block_id": 25,
+            "clip_length": 341,
+            "processed": "<story>――5, 4, 3, 2, 1, that's it! \n<story>Your count is……Ooooh, 22 times!"
+        },
+        {
+            "text": "Amazing……it really did become 『Fun』…… \neveryone seems motivated……",
+            "name": "Student Council Uma Musume A",
+            "path_id": -2232053309977714576,
+            "block_id": 26,
+            "clip_length": 203,
+            "processed": "<story>Amazing……it really did become 『Fun』…… \n<story>everyone seems motivated……",
+            "name_processed": "<sc=72>Student Council Uma Musume A"
+        },
+        {
+            "text": "Um, I hope this event will be held again! \nIt's really interesting and invigorating!",
+            "name": "Senior Class Uma Musume",
+            "path_id": -2240636711257086039,
+            "block_id": 27,
+            "clip_length": 180,
+            "processed": "<story>Um, I hope this event will be held again! \n<story>It's really interesting and invigorating!",
+            "name_processed": "<sc=88>Senior Class Uma Musume"
+        },
+        {
+            "text": "O-……Okay! \nThe student council will consider it!",
+            "name": "Student Council Uma Musume B",
+            "path_id": 7691304543681528163,
+            "block_id": 28,
+            "clip_length": 128,
+            "processed": "<story>O-……Okay! \n<story>The student council will consider it!",
+            "name_processed": "<sc=72>Student Council Uma Musume B"
+        },
+        {
+            "text": "The event was a great success. Everyone seemed \nto be able to get valuable data, a few of the \ntrainers thanked me for this opportunity too.",
+            "name": "",
+            "path_id": 2204903971541884621,
+            "block_id": 29,
+            "clip_length": 124,
+            "choices": [
+                {
+                    "text": "(This was because of Laurel's positivity……)",
+                    "hash": "62304ffc1e7a1151b2634d1622c8c74609c20612294fe002a25c3ef0f7834cc0",
+                    "processed": "<size=38>(This was because of Laurel's positivity……)</size>"
+                },
+                {
+                    "text": "(This was because of Laurel's positivity……)",
+                    "hash": "4494e1623586b7554aa396cfd6aacf4dd53980dce31abdb49bdfa09f4b5bb742",
+                    "processed": "<size=38>(This was because of Laurel's positivity……)</size>"
+                }
+            ],
+            "processed": "<story>The event was a great success. Everyone seemed \n<story>to be able to get valuable data, a few of the \n<story>trainers thanked me for this opportunity too."
+        },
+        {
+            "text": "Looks like it'll all wrap up without issue, Trainer-san! \nThank you very much for helping arrange things……!",
+            "name": "Sakura Laurel",
+            "path_id": 924487286141854252,
+            "block_id": 30,
+            "clip_length": 220,
+            "processed": "<story>Looks like it'll all wrap up without issue, Trainer-san! \n<story>Thank you very much for helping arrange things……!"
+        },
+        {
+            "text": "And, I'm sorry! \nFor acting on my own and causing trouble for you.",
+            "name": "Sakura Laurel",
+            "path_id": -3371257994030699605,
+            "block_id": 31,
+            "clip_length": 230,
+            "choices": [
+                {
+                    "text": "No, I'm glad I could help you",
+                    "hash": "770f32caa4f1b6271367b3e7740c6102f5f55b44f266bbbb762ea6abdc1b2372"
+                },
+                {
+                    "text": "No, I'm glad I could help you",
+                    "hash": "04cc050503ea64268ad0cd1293458c56445eb73ff481e55ebc18dce065d3e35a"
+                }
+            ],
+            "processed": "<story>And, I'm sorry! \n<story>For acting on my own and causing trouble for you."
+        },
+        {
+            "text": "Of course! \nBecause Trainer-san worked so hard, everything went well!",
+            "name": "Sakura Laurel",
+            "path_id": 5488897786278122741,
+            "block_id": 32,
+            "clip_length": 163,
+            "choices": [
+                {
+                    "text": "It's because of your positive attitude",
+                    "hash": "7fb54a7913bfe38d8cc01ae4eb3bbd01d14ec726c19fde471b7c137c7c3c48d0"
+                },
+                {
+                    "text": "It's because of your positive attitude",
+                    "hash": "44aabeeee5294b10a70064f0d2f051b476102c089a989ebd28156a20ada7cf91"
+                }
+            ],
+            "processed": "<story>Of course! \n<story>Because Trainer-san worked so hard, everything went well!"
+        },
+        {
+            "text": "――……Fufu. \nThen, I guess that means it was both of us together♪",
+            "name": "Sakura Laurel",
+            "path_id": -1406490310907687256,
+            "block_id": 33,
+            "clip_length": 196,
+            "processed": "<story>――……Fufu. \n<story>Then, I guess that means it was both of us together♪"
+        },
+        {
+            "text": "After that, Sakura Laurel also participated―― \nmaking it a fulfilling training session.",
+            "name": "",
+            "path_id": 5091827602607839032,
+            "block_id": 34,
+            "clip_length": 105,
+            "processed": "<story>After that, Sakura Laurel also participated―― \n<story>making it a fulfilling training session."
+        }
+    ],
+    "title": "Blooming Waltz"
+}

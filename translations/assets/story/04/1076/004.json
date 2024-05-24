@@ -1,0 +1,444 @@
+{
+    "type": "story",
+    "row_index": 174905,
+    "file_name": "story/data/04/1076/storytimeline_041076004",
+    "hash": "HMEOKLERN6MZFJPAXO5M3GTNWADHGWVD",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8750449389181429230,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "My deam is――that \"rainbow\".",
+            "name": "Sakura Laurel",
+            "path_id": -5933255701351127986,
+            "block_id": 1,
+            "clip_length": 101,
+            "processed": "<story>My deam is――that \"rainbow\"."
+        },
+        {
+            "text": "Further beyond the strongest. To reach the end of \nthat rainbow. And what's at the end of that rainbow――",
+            "name": "Sakura Laurel",
+            "path_id": -616041109799242972,
+            "block_id": 2,
+            "clip_length": 243,
+            "processed": "<story>Further beyond the strongest. To reach the end of \n<story>that rainbow. And what's at the end of that rainbow――"
+        },
+        {
+            "text": "――France. The place my parents met. \nAnd the country my dad is currently active in.",
+            "name": "Sakura Laurel",
+            "path_id": 2548435986614711051,
+            "block_id": 3,
+            "clip_length": 227,
+            "processed": "<story>――France. The place my parents met. \n<story>And the country my dad is currently active in."
+        },
+        {
+            "text": "That's the place I want to reach the top at. \nRight, just like my dad.",
+            "name": "Sakura Laurel",
+            "path_id": -2375931250896919702,
+            "block_id": 4,
+            "clip_length": 177,
+            "processed": "<story>That's the place I want to reach the top at. \n<story>Right, just like my dad."
+        },
+        {
+            "text": "Dad. Why are you trying to make the top brand? \nIf you didn't have work, then we could spend more time together.",
+            "name": "Young Laurel",
+            "path_id": -980270099496425073,
+            "block_id": 5,
+            "clip_length": 330,
+            "processed": "<story>Dad. Why are you trying to make the top brand? \n<story>If you didn't have work, then we could spend more time together."
+        },
+        {
+            "text": "Laurel. Well, that's……because only those \nat the top can shine the brightest.",
+            "name": "Laurel's Father",
+            "path_id": -4759634584856759369,
+            "block_id": 6,
+            "clip_length": 279,
+            "processed": "<story>Laurel. Well, that's……because only those \n<story>at the top can shine the brightest."
+        },
+        {
+            "text": "To make everyone the happiest, proudest, and bring \nthe most joy, you can't be anything but the best.",
+            "name": "Laurel's Father",
+            "path_id": 5047550974992406118,
+            "block_id": 7,
+            "clip_length": 243,
+            "processed": "<story>To make everyone the happiest, proudest, and bring \n<story>the most joy, you can't be anything but the best."
+        },
+        {
+            "text": "There are many people in the world. What the one at the top is \nable to accomplish can determine just how happy everyone can become.",
+            "name": "Laurel's Father",
+            "path_id": -8582250031304975538,
+            "block_id": 8,
+            "clip_length": 296,
+            "processed": "<story>There are many people in the world. What the one at the top is \n<story>able to accomplish can determine just how happy everyone can become."
+        },
+        {
+            "text": "That's why I can't stop. I want to improve my designs and \noperate in more countries and build the greatest brand.",
+            "name": "Laurel's Father",
+            "path_id": -1778093023853005006,
+            "block_id": 9,
+            "clip_length": 251,
+            "processed": "<story>That's why I can't stop. I want to improve my designs and \n<story>operate in more countries and build the greatest brand."
+        },
+        {
+            "text": "Just like our brand's icon, the rainbow. \nHuge, and filled with colors.",
+            "name": "Laurel's Father",
+            "path_id": -3994285883059121387,
+            "block_id": 10,
+            "clip_length": 178,
+            "processed": "<story>Just like our brand's icon, the rainbow. \n<story>Huge, and filled with colors."
+        },
+        {
+            "text": "I am--an Uma Musume. And for Uma Musume, \nthe pinnacle of Uma Musume. There's the greatest race.",
+            "name": "Sakura Laurel",
+            "path_id": -5457319016611556401,
+            "block_id": 11,
+            "clip_length": 292,
+            "processed": "<story>I am--an Uma Musume. And for Uma Musume, \n<story>the pinnacle of Uma Musume. There's the greatest race."
+        },
+        {
+            "text": "And I want to win there. No, I don't want to just win, \nI want to win in the greatest way possible.",
+            "name": "Sakura Laurel",
+            "path_id": 9021020729376780090,
+            "block_id": 12,
+            "clip_length": 253,
+            "processed": "<story>And I want to win there. No, I don't want to just win, \n<story>I want to win in the greatest way possible."
+        },
+        {
+            "text": "That's my dream. And everyone's happiness. \nThe place my dad is aiming for, and that I am too――the sky.",
+            "name": "Sakura Laurel",
+            "path_id": -7169767262364600987,
+            "block_id": 13,
+            "clip_length": 337,
+            "choices": [
+                {
+                    "text": "Which……race is that?",
+                    "hash": "24be337dbc0ebaa2a7850996419cbb52b9cba8506e7eec0de8fbe284618685d9"
+                }
+            ],
+            "processed": "<story>That's my dream. And everyone's happiness. \n<story>The place my dad is aiming for, and that I am too――the sky."
+        },
+        {
+            "text": "One that everyone knows about and aspires to. \nHeld west of Paris along the Seine river. A race \ncourse said to be the most beautiful in the world……",
+            "name": "Sakura Laurel",
+            "path_id": 1582486658735042895,
+            "block_id": 14,
+            "clip_length": 323,
+            "processed": "<story>One that everyone knows about and aspires to. \n<story>Held west of Paris along the Seine river. A race \n<story>course said to be the most beautiful in the world……"
+        },
+        {
+            "text": "And in the entire history of Tracen Academy, \nnobody has won. What could truly be called the \ngreatest international G1. Its name is――",
+            "name": "Sakura Laurel",
+            "path_id": -6770772783857608733,
+            "block_id": 15,
+            "clip_length": 314,
+            "processed": "<story>And in the entire history of Tracen Academy, \n<story>nobody has won. What could truly be called the \n<story>greatest international G1. Its name is――"
+        },
+        {
+            "text": "The Prix de l'Arc de Triomphe.",
+            "name": "Sakura Laurel",
+            "path_id": -8594253988657956714,
+            "block_id": 16,
+            "clip_length": 118,
+            "processed": "<story>The Prix de l'Arc de Triomphe."
+        },
+        {
+            "text": "『Legs of Glass』…… \nThe impression of her being weak disappeared.",
+            "name": "",
+            "path_id": -8835504937642952825,
+            "block_id": 17,
+            "clip_length": 80,
+            "processed": "<story>『Legs of Glass』…… \n<story>The impression of her being weak disappeared."
+        },
+        {
+            "text": "This Uma Musume, Sakura Laurel, \nhad no intention of settling for a lesser dream……",
+            "name": "",
+            "path_id": -7611194592262411783,
+            "block_id": 18,
+            "clip_length": 98,
+            "processed": "<story>This Uma Musume, Sakura Laurel, \n<story>had no intention of settling for a lesser dream……"
+        },
+        {
+            "text": "She was aiming to 『Fulfill』 the biggest dream. With a strong desire \nto show 『I can fulfill it』. Straight-forwardly chasing after it.",
+            "name": "",
+            "path_id": 3517018432834709109,
+            "block_id": 19,
+            "clip_length": 108,
+            "processed": "<story>She was aiming to 『Fulfill』 the biggest dream. With a strong desire \n<story>to show 『I can fulfill it』. Straight-forwardly chasing after it."
+        },
+        {
+            "text": "……Seeing that desire drew me to her. \nAnd before I realized it――I said aloud.",
+            "name": "",
+            "path_id": -5924426674584774884,
+            "block_id": 20,
+            "clip_length": 94,
+            "choices": [
+                {
+                    "text": "I want to see that dream……together",
+                    "hash": "7b5f7d6f41d17b95231d50b76ef5fbe1cb5ff1bdc605c9e590ca2ecd8615c114"
+                }
+            ],
+            "processed": "<story>……Seeing that desire drew me to her. \n<story>And before I realized it――I said aloud."
+        },
+        {
+            "text": "……? Trainer-san?",
+            "name": "Sakura Laurel",
+            "path_id": -2254164044788499316,
+            "block_id": 21,
+            "clip_length": 79,
+            "choices": [
+                {
+                    "text": "I want to fulfill that dream together!",
+                    "hash": "6ee55734639cda0bb19125f2d93ff838d1ce3e65bc5d4b7bd4c964ca05e4eb54"
+                }
+            ],
+            "processed": "<story>……? Trainer-san?"
+        },
+        {
+            "text": "Ah……Thank you very much! But……",
+            "name": "Sakura Laurel",
+            "path_id": 7821181430742927305,
+            "block_id": 22,
+            "clip_length": 152,
+            "processed": "<story>Ah……Thank you very much! But……"
+        },
+        {
+            "text": "If you really feel that way, it'll be a while…… \nwould you be willing to wait several seasons for that?",
+            "name": "Sakura Laurel",
+            "path_id": 6484949179011641255,
+            "block_id": 23,
+            "clip_length": 247,
+            "choices": [
+                {
+                    "text": "Several seasons?",
+                    "hash": "2523e68dd37eb92c94c5bbf02fb0849ea738f2391bcd2fac65fcf2e5af41051a"
+                }
+            ],
+            "processed": "<story>If you really feel that way, it'll be a while…… \n<story>would you be willing to wait several seasons for that?"
+        },
+        {
+            "text": "Yes. My dream won't change. \nBut, as you've already seen……",
+            "name": "Sakura Laurel",
+            "path_id": -4100200308243670935,
+            "block_id": 24,
+            "clip_length": 174,
+            "processed": "<story>Yes. My dream won't change. \n<story>But, as you've already seen……"
+        },
+        {
+            "text": "……………………",
+            "name": "Narita Brian",
+            "path_id": -6699047353316184877,
+            "block_id": 25,
+            "clip_length": 95,
+            "processed": "<story>……………………"
+        },
+        {
+            "text": "How was it Brian? The match ended up as a victory for me but, \nwas there any other Uma Musume who caught your eye?",
+            "name": "Hishi Amazon",
+            "path_id": 8479872051502718310,
+            "block_id": 26,
+            "clip_length": 210,
+            "processed": "<story>How was it Brian? The match ended up as a victory for me but, \n<story>was there any other Uma Musume who caught your eye?"
+        },
+        {
+            "text": "……No. There was noone like that.",
+            "name": "Narita Brian",
+            "path_id": 3951242347494111581,
+            "block_id": 27,
+            "clip_length": 144,
+            "processed": "<story>……No. There was noone like that."
+        },
+        {
+            "text": "I can't really run! Well――",
+            "name": "Sakura Laurel",
+            "path_id": 7811817777826837016,
+            "block_id": 28,
+            "clip_length": 122,
+            "processed": "<story>I can't really run! Well――"
+        },
+        {
+            "text": "There isn't anyone like that. Well――",
+            "name": "Narita Brian",
+            "path_id": 3622178604845913972,
+            "block_id": 29,
+            "clip_length": 118,
+            "processed": "<story>There isn't anyone like that. Well――"
+        },
+        {
+            "text": "――At least, not yet! \n――At least, not yet.",
+            "name": "Laurel & Brian",
+            "path_id": 550612168987602117,
+            "block_id": 30,
+            "clip_length": 42,
+            "processed": "<story>――At least, not yet! \n<story>――At least, not yet."
+        },
+        {
+            "text": "Spring hadn't arrived yet. \nIt would be a while, but eventually Spring would arrive.",
+            "name": "",
+            "path_id": -5136431681750114080,
+            "block_id": 31,
+            "clip_length": 95,
+            "processed": "<story>Spring hadn't arrived yet. \n<story>It would be a while, but eventually Spring would arrive."
+        },
+        {
+            "text": "And time passed――",
+            "name": "",
+            "path_id": 1615883658691774278,
+            "block_id": 32,
+            "clip_length": 56,
+            "processed": "<story>And time passed――"
+        },
+        {
+            "text": "Have you heard, Bakushin O-san? \nLaurel-san turned down another offer from a famous trainer.",
+            "name": "Sakura Chiyono O",
+            "path_id": -6282449410841845430,
+            "block_id": 33,
+            "clip_length": 238,
+            "processed": "<story>Have you heard, Bakushin O-san? \n<story>Laurel-san turned down another offer from a famous trainer."
+        },
+        {
+            "text": "Oooh, is that so……!? But, I'm pretty sure her \ncondition has improved quite a lot since then.",
+            "name": "Sakura Bakushin O",
+            "path_id": 412458801513197735,
+            "block_id": 34,
+            "clip_length": 177,
+            "processed": "<story>Oooh, is that so……!? But, I'm pretty sure her \n<story>condition has improved quite a lot since then."
+        },
+        {
+            "text": "The second time I met that Uma Musume was―― \nUnder rows of cherry blossoms in full bloom.",
+            "name": "",
+            "path_id": 8896617286609482392,
+            "block_id": 35,
+            "clip_length": 107,
+            "processed": "<story>The second time I met that Uma Musume was―― \n<story>Under rows of cherry blossoms in full bloom."
+        },
+        {
+            "text": "……Hello, Trainer-san. \nWe're always under your care.",
+            "name": "Sakura Laurel",
+            "path_id": 8472987299783413354,
+            "block_id": 36,
+            "clip_length": 160,
+            "choices": [
+                {
+                    "text": "Do you have a trainer yet?",
+                    "hash": "9dd1ad6a9508f6429e8f8af38cba821590bb8ffd7ec8331f001b055981386bbf"
+                },
+                {
+                    "text": "Do you have a trainer yet?",
+                    "hash": "a7ecdcf7b78ff1fd9b5e6c2a9c6628dff4e20053f8eb6d67deca3366fc4502ed"
+                }
+            ],
+            "processed": "<story>……Hello, Trainer-san. \n<story>We're always under your care."
+        },
+        {
+            "text": "No, not yet. \nI was thinking of recruiting one right about now.",
+            "name": "Sakura Laurel",
+            "path_id": -5443344516217612604,
+            "block_id": 37,
+            "clip_length": 183,
+            "processed": "<story>No, not yet. \n<story>I was thinking of recruiting one right about now."
+        },
+        {
+            "text": "In that case――",
+            "name": "",
+            "path_id": 1932510424233338290,
+            "block_id": 38,
+            "clip_length": 55,
+            "choices": [
+                {
+                    "text": "Will you form a contract with me?",
+                    "hash": "a7a95d93ef4aef958f7671741bd892f6ae20a96cebfc8a6a8c78a162b5697b48"
+                },
+                {
+                    "text": "Will you form a contract with me?",
+                    "hash": "ee467fdc2e86cff041cc2b9d76bdb3e43ee9aeb76a2f1ae85abb938b8cd6825b"
+                }
+            ],
+            "processed": "<story>In that case――"
+        },
+        {
+            "text": "Contract……?",
+            "name": "Sakura Laurel",
+            "path_id": -5015988014749669369,
+            "block_id": 39,
+            "clip_length": 37,
+            "processed": "<story>Contract……?"
+        },
+        {
+            "text": "……Muuu, I refuse.",
+            "name": "Sakura Laurel",
+            "path_id": -249242338645718019,
+            "block_id": 40,
+            "clip_length": 140,
+            "choices": [
+                {
+                    "text": "……Eh?",
+                    "hash": "076d55ecaae782f265d4bad557aed6693eae85176dad5da84f81388c7ed0394d"
+                }
+            ],
+            "processed": "<story>……Muuu, I refuse."
+        },
+        {
+            "text": "Calling it a contract……don't you think that's kind of distant? \nIsn't there a more fitting thing for us?",
+            "name": "Sakura Laurel",
+            "path_id": -3049636856215884080,
+            "block_id": 41,
+            "clip_length": 258,
+            "processed": "<story>Calling it a contract……don't you think that's kind of distant? \n<story>Isn't there a more fitting thing for us?"
+        },
+        {
+            "text": "Just think back. \nOn that day, the words we exchanged.",
+            "name": "Sakura Laurel",
+            "path_id": 8895751860650365007,
+            "block_id": 42,
+            "clip_length": 175,
+            "processed": "<story>Just think back. \n<story>On that day, the words we exchanged."
+        },
+        {
+            "text": "……That's right. \nThose words from that day, once more…….",
+            "name": "",
+            "path_id": -4750923147709542864,
+            "block_id": 43,
+            "clip_length": 85,
+            "choices": [
+                {
+                    "text": "I want to fulfill that dream together!",
+                    "hash": "a9d14a94f4a4f2a79673de6c2c2ea72f3c9dc6747e771f015771e6ed56ac63e7"
+                },
+                {
+                    "text": "I want to fulfill that dream together!",
+                    "hash": "92180232918a5ed5aba94eb5ecddc6b9fcc4d83975b7e5619fb516a91a6afe9f"
+                }
+            ],
+            "processed": "<story>……That's right. \n<story>Those words from that day, once more……."
+        },
+        {
+            "text": "……Yes. I'm looking forward to it! \nI'm sorry for making you wait, Trainer-san♪",
+            "name": "Sakura Laurel",
+            "path_id": 920387467640357031,
+            "block_id": 44,
+            "clip_length": 273,
+            "processed": "<story>……Yes. I'm looking forward to it! \n<story>I'm sorry for making you wait, Trainer-san♪"
+        },
+        {
+            "text": "That day, under the cherry blossoms in full bloom, \nSakura Laurel and I didn't make a \"contract\"……",
+            "name": "",
+            "path_id": -5625006749272232310,
+            "block_id": 45,
+            "clip_length": 95,
+            "processed": "<story>That day, under the cherry blossoms in full bloom, \n<story>Sakura Laurel and I didn't make a \"contract\"……"
+        },
+        {
+            "text": "We vowed to make that dream come true, together.",
+            "name": "",
+            "path_id": -1388184835866798780,
+            "block_id": 46,
+            "clip_length": 93,
+            "processed": "<story>We vowed to make that dream come true, together."
+        }
+    ],
+    "title": "Rainbow Quest with You"
+}
