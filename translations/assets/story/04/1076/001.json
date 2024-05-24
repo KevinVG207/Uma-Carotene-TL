@@ -1,0 +1,378 @@
+{
+    "type": "story",
+    "row_index": 174902,
+    "file_name": "story/data/04/1076/storytimeline_041076001",
+    "hash": "U7GDJOC3JZS5WNIQT7ZODGKOIXJVJDET",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5444931622147247579,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "That was when I first met that Uma Musume――\nOn a cloudy day on that tree-lined street.",
+            "name": "",
+            "path_id": -4174201867365288888,
+            "block_id": 1,
+            "clip_length": 84,
+            "processed": "<story>That was when I first met that Uma Musume――\n<story>On a cloudy day on that tree-lined street."
+        },
+        {
+            "text": "Hmmmm, looks like today……I won't be able to see it.",
+            "name": "Sakura Laurel",
+            "path_id": 2383129052762375326,
+            "block_id": 2,
+            "clip_length": 157,
+            "processed": "<story>Hmmmm, looks like today……I won't be able to see it."
+        },
+        {
+            "text": "She seemed to be looking in to the sky, looking for something. \nShe almost felt ephemeral, but she still left an impression――",
+            "name": "",
+            "path_id": -6350199658749843577,
+            "block_id": 3,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "Excuse me……!",
+                    "hash": "44beeec03f28e4214436ad6c0b01daa00920fd38d5390161c16ddef3678891e2"
+                }
+            ],
+            "processed": "<story>She seemed to be looking in to the sky, looking for something. \n<story>She almost felt ephemeral, but she still left an impression――"
+        },
+        {
+            "text": "Yes!? Ah, I'm sorry! \nI was blocking the middle of the road, wasn't I?",
+            "name": "Sakura Laurel",
+            "path_id": -1713432437378139485,
+            "block_id": 4,
+            "clip_length": 176,
+            "processed": "<story>Yes!? Ah, I'm sorry! \n<story>I was blocking the middle of the road, wasn't I?"
+        },
+        {
+            "text": "Ah, that badge…… You're a trainer, aren't you!? \nWe're always in your care♪",
+            "name": "Sakura Laurel",
+            "path_id": 5955857797891379212,
+            "block_id": 5,
+            "clip_length": 217,
+            "processed": "<story>Ah, that badge…… You're a trainer, aren't you!? \n<story>We're always in your care♪"
+        },
+        {
+            "text": "In our care? Does that mean……?",
+            "name": "",
+            "path_id": 145351269775270341,
+            "block_id": 6,
+            "clip_length": 69,
+            "choices": [
+                {
+                    "text": "Do you already have a trainer?",
+                    "hash": "42d5cd9db5d97850254295be78d0d0d15a9fd565d5a68de42f2f1df4e9945c93"
+                },
+                {
+                    "text": "Do you already have a trainer?",
+                    "hash": "b0f916cae7cf0d59104adce71f9de96cc210fd4005f743f0f96876b1f216eace"
+                }
+            ],
+            "processed": "<story>In our care? Does that mean……?"
+        },
+        {
+            "text": "Well, I……don't have one yet. \nBecause――",
+            "name": "Sakura Laurel",
+            "path_id": -6107087554113757434,
+            "block_id": 7,
+            "clip_length": 162,
+            "processed": "<story>Well, I……don't have one yet. \n<story>Because――"
+        },
+        {
+            "text": "I can't really run!",
+            "name": "Sakura Laurel",
+            "path_id": -6910444110020138472,
+            "block_id": 8,
+            "clip_length": 77,
+            "processed": "<story>I can't really run!"
+        },
+        {
+            "text": "――An Uma Musume that can't run. I don't know \nthe reason, but she……was saying a rather negative \nthing with a bright smile on her face.",
+            "name": "",
+            "path_id": -2312533356674513009,
+            "block_id": 9,
+            "clip_length": 110,
+            "processed": "<story>――An Uma Musume that can't run. I don't know \n<story>the reason, but she……was saying a rather negative \n<story>thing with a bright smile on her face."
+        },
+        {
+            "text": "――Several days later. There was a Mock race being \nheld at Tracen Academy. And participating in it were……",
+            "name": "",
+            "path_id": -8071081493467234608,
+            "block_id": 10,
+            "clip_length": 94,
+            "processed": "<story>――Several days later. There was a Mock race being \n<story>held at Tracen Academy. And participating in it were……"
+        },
+        {
+            "text": "Ha, Brian! It's been a while since our last contest, huh? \nI've been waiting for this moment! It's a showdown!!",
+            "name": "Hishi Amazon",
+            "path_id": 697583152706472880,
+            "block_id": 11,
+            "clip_length": 253,
+            "processed": "<story>Ha, Brian! It's been a while since our last contest, huh? \n<story>I've been waiting for this moment! It's a showdown!!"
+        },
+        {
+            "text": "Hmmm, so you're aiming for me, Ama-san. See if you \ncan fulfill even a little of――this desire of mine.",
+            "name": "Narita Brian",
+            "path_id": -2352880528123601160,
+            "block_id": 12,
+            "clip_length": 202,
+            "processed": "<story>Hmmm, so you're aiming for me, Ama-san. See if you \n<story>can fulfill even a little of――this desire of mine."
+        },
+        {
+            "text": "――A clash between dragon and tiger. They had not debuted yet, \nbut they were considered part of the strongest class. The \nunparalleled \"Narita Brian\" and the dorm leader \"Hishi Amazon\".",
+            "name": "",
+            "path_id": -7741642224033213178,
+            "block_id": 13,
+            "clip_length": 121,
+            "processed": "<story>――A clash between dragon and tiger. They had not debuted yet, \n<story>but they were considered part of the strongest class. The \n<story>unparalleled \"Narita Brian\" and the dorm leader \"Hishi Amazon\"."
+        },
+        {
+            "text": "The raceground was crowded with a large number \nof spectators due to this outstanding matchup……",
+            "name": "",
+            "path_id": -9066542040338619648,
+            "block_id": 14,
+            "clip_length": 86,
+            "processed": "<story>The raceground was crowded with a large number \n<story>of spectators due to this outstanding matchup……"
+        },
+        {
+            "text": "Waah~, I wonder who will win? \nBrian-chan and Hishi Ama-chan are both really fast and strong!",
+            "name": "Sakura Laurel",
+            "path_id": -4050911163677954574,
+            "block_id": 15,
+            "clip_length": 241,
+            "processed": "<story>Waah~, I wonder who will win? \n<story>Brian-chan and Hishi Ama-chan are both really fast and strong!"
+        },
+        {
+            "text": "Ah! You're that trainer from before……! \nHey, which one do you think will win?",
+            "name": "Sakura Laurel",
+            "path_id": 2341325955813180690,
+            "block_id": 16,
+            "clip_length": 195,
+            "processed": "<story>Ah! You're that trainer from before……! \n<story>Hey, which one do you think will win?"
+        },
+        {
+            "text": "In the audience was that Uma Musume I met before on \nthat tree-lined street. The Uma Musume who \"can't run\".",
+            "name": "",
+            "path_id": 6634167538069787439,
+            "block_id": 17,
+            "clip_length": 90,
+            "processed": "<story>In the audience was that Uma Musume I met before on \n<story>that tree-lined street. The Uma Musume who \"can't run\"."
+        },
+        {
+            "text": "The excitement of the crowd reached its peak. The curtain \nrose on a fierce competition with many spectators.",
+            "name": "",
+            "path_id": -7247427939769551304,
+            "block_id": 18,
+            "clip_length": 91,
+            "processed": "<story>The excitement of the crowd reached its peak. The curtain \n<story>rose on a fierce competition with many spectators."
+        },
+        {
+            "text": "Huuu……!!",
+            "name": "Narita Brian",
+            "path_id": -438621337170239823,
+            "block_id": 19,
+            "clip_length": 22,
+            "processed": "<story>Huuu……!!"
+        },
+        {
+            "text": "Kuu――!? Just by putting in a little \neffort you can pull this far ahead!?",
+            "name": "Hishi Amazon",
+            "path_id": -3438938612772499810,
+            "block_id": 20,
+            "clip_length": 128,
+            "processed": "<story>Kuu――!? Just by putting in a little \n<story>effort you can pull this far ahead!?"
+        },
+        {
+            "text": "I won't lose! I won't let you beat me!! \nOooooooooooh!!",
+            "name": "Hishi Amazon",
+            "path_id": -388652962730883149,
+            "block_id": 21,
+            "clip_length": 212,
+            "processed": "<story>I won't lose! I won't let you beat me!! \n<story>Oooooooooooh!!"
+        },
+        {
+            "text": "Not enough……this isn't enough……to satisfy my desire……",
+            "name": "Narita Brian",
+            "path_id": 5551849433904733004,
+            "block_id": 22,
+            "clip_length": 120,
+            "processed": "<story>Not enough……this isn't enough……to satisfy my desire……"
+        },
+        {
+            "text": "More……I need more……! \nHaaa……!!",
+            "name": "Narita Brian",
+            "path_id": 4670237187333428968,
+            "block_id": 23,
+            "clip_length": 122,
+            "processed": "<story>More……I need more……! \n<story>Haaa……!!"
+        },
+        {
+            "text": "Brian-chan……is amazing……",
+            "name": "Sakura Laurel",
+            "path_id": -3603111405229672181,
+            "block_id": 24,
+            "clip_length": 99,
+            "processed": "<story>Brian-chan……is amazing……"
+        },
+        {
+            "text": "The result was Narita Brian's victory. Hishi \nAmazon desperately tried to hang on……but ultimately \nended somewhat behind in 2nd place.",
+            "name": "",
+            "path_id": -5370999720720955833,
+            "block_id": 25,
+            "clip_length": 106,
+            "processed": "<story>The result was Narita Brian's victory. Hishi \n<story>Amazon desperately tried to hang on……but ultimately \n<story>ended somewhat behind in 2nd place."
+        },
+        {
+            "text": "Ah, damnit!! To think you'd pull that far ahead!! \nHeh, trying to show that I'm not a worthy opponent, huh?",
+            "name": "Hishi Amazon",
+            "path_id": -9108084371325505975,
+            "block_id": 26,
+            "clip_length": 242,
+            "processed": "<story>Ah, damnit!! To think you'd pull that far ahead!! \n<story>Heh, trying to show that I'm not a worthy opponent, huh?"
+        },
+        {
+            "text": "――That's not the case. Right now, the only one that \ncan even slightly fulfill my desire is you, Ama-san.",
+            "name": "Narita Brian",
+            "path_id": 5485245519423972227,
+            "block_id": 27,
+            "clip_length": 284,
+            "processed": "<story>――That's not the case. Right now, the only one that \n<story>can even slightly fulfill my desire is you, Ama-san."
+        },
+        {
+            "text": "Haha, slightly, huh? I don't know whether to be happy or pissed. \nIs there nobody besides me that can fufill that desire?",
+            "name": "Hishi Amazon",
+            "path_id": 1442595872615571597,
+            "block_id": 28,
+            "clip_length": 306,
+            "processed": "<story>Haha, slightly, huh? I don't know whether to be happy or pissed. \n<story>Is there nobody besides me that can fufill that desire?"
+        },
+        {
+            "text": "……There isn't.",
+            "name": "Narita Brian",
+            "path_id": -3728936472228013320,
+            "block_id": 29,
+            "clip_length": 120,
+            "processed": "<story>……There isn't."
+        },
+        {
+            "text": "Certainly――she was overwhelming. Narita Brian walked \naway from the turf, but with a certain air of emptiness……",
+            "name": "",
+            "path_id": -396120553325024485,
+            "block_id": 30,
+            "clip_length": 122,
+            "processed": "<story>Certainly――she was overwhelming. Narita Brian walked \n<story>away from the turf, but with a certain air of emptiness……"
+        },
+        {
+            "text": "Congratulations, Brian-chan!",
+            "name": "Sakura Laurel",
+            "path_id": -6963667863579976434,
+            "block_id": 31,
+            "clip_length": 62,
+            "processed": "<story>Congratulations, Brian-chan!"
+        },
+        {
+            "text": "……Yeah.",
+            "name": "Narita Brian",
+            "path_id": -1450380219809674147,
+            "block_id": 32,
+            "clip_length": 56,
+            "processed": "<story>……Yeah."
+        },
+        {
+            "text": "She left after just a quick glance. I doubted she \neven recognized the Uma Musume who spoke to her.",
+            "name": "",
+            "path_id": -8384209293973231624,
+            "block_id": 33,
+            "clip_length": 103,
+            "processed": "<story>She left after just a quick glance. I doubted she \n<story>even recognized the Uma Musume who spoke to her."
+        },
+        {
+            "text": "She's amazing, isn't she!? Brian-chan. By just putting \nin a little effort, she's able to pull away that far……",
+            "name": "Sakura Laurel",
+            "path_id": 5029749084540447256,
+            "block_id": 34,
+            "clip_length": 233,
+            "processed": "<story>She's amazing, isn't she!? Brian-chan. By just putting \n<story>in a little effort, she's able to pull away that far……"
+        },
+        {
+            "text": "And from now on, to think she's going to get even \nstronger……she won't lose to anyone! Being able to \nrun like that, she's really amazing, isn't she?",
+            "name": "Sakura Laurel",
+            "path_id": 4112112372366554190,
+            "block_id": 35,
+            "clip_length": 343,
+            "processed": "<story>And from now on, to think she's going to get even \n<story>stronger……she won't lose to anyone! Being able to \n<story>run like that, she's really amazing, isn't she?"
+        },
+        {
+            "text": "That was the gaze of someone that was star-struck. \nIt was almost like she was……",
+            "name": "",
+            "path_id": -8063227636873541825,
+            "block_id": 36,
+            "clip_length": 72,
+            "choices": [
+                {
+                    "text": "You're……Narita Brian's fan?",
+                    "hash": "127b690ea7cbfc997b060e8004b646f5d7d482ba6465ceaf22d9907eb91ac8c6"
+                },
+                {
+                    "text": "You're……Narita Brian's fan?",
+                    "hash": "de5766d527ab949bc274235e82a54089b3012ab2fdf8c42255e8306774d14456"
+                }
+            ],
+            "processed": "<story>That was the gaze of someone that was star-struck. \n<story>It was almost like she was……"
+        },
+        {
+            "text": "I couldn't help but ask. Was this Uma Musume who \ncouldn't run entrusting her dreams to Narita Brian?",
+            "name": "",
+            "path_id": 8220487711088629393,
+            "block_id": 37,
+            "clip_length": 97,
+            "processed": "<story>I couldn't help but ask. Was this Uma Musume who \n<story>couldn't run entrusting her dreams to Narita Brian?"
+        },
+        {
+            "text": "Fan……? I wouldn't say I'm a fan. \nJust cheering for her feels kind of distant. I am――",
+            "name": "Sakura Laurel",
+            "path_id": -8644641864311440313,
+            "block_id": 38,
+            "clip_length": 262,
+            "processed": "<story>Fan……? I wouldn't say I'm a fan. \n<story>Just cheering for her feels kind of distant. I am――"
+        },
+        {
+            "text": "What was she going to say? \"Aspiration\" \"Goal\" \"Acquaintance\". \nSeveral words came to mind. but, the words she chose……",
+            "name": "",
+            "path_id": 5961351167947695505,
+            "block_id": 39,
+            "clip_length": 116,
+            "processed": "<story>What was she going to say? \"Aspiration\" \"Goal\" \"Acquaintance\". \n<story>Several words came to mind. but, the words she chose……"
+        },
+        {
+            "text": "I am――the Uma Musume who will win \nagainst that unbeatable Brian-chan!",
+            "name": "Sakura Laurel",
+            "path_id": -5798234876549538490,
+            "block_id": 40,
+            "clip_length": 145,
+            "processed": "<story>I am――the Uma Musume who will win \n<story>against that unbeatable Brian-chan!"
+        },
+        {
+            "text": "……Laurel. \nI'm Sakura Laurel♪",
+            "name": "Sakura Laurel",
+            "path_id": -394695435219044198,
+            "block_id": 41,
+            "clip_length": 136,
+            "processed": "<story>……Laurel. \n<story>I'm Sakura Laurel♪"
+        },
+        {
+            "text": "――With those words, a breeze blew past. \nAnd a single cherry blossom petal swirled around me.",
+            "name": "",
+            "path_id": -5693551827727770247,
+            "block_id": 42,
+            "clip_length": 102,
+            "processed": "<story>――With those words, a breeze blew past. \n<story>And a single cherry blossom petal swirled around me."
+        }
+    ],
+    "title": "A Lone Sakura Petal..."
+}

@@ -200,12 +200,19 @@ def fetch_story_json(url):
 
     return r.json()
 
-def import_external_story(local_path, url_to_github_jsons, use_order=False, skip_first=False):
+def import_external_story(local_path, url_to_github_jsons, use_order=False, skip_first=False, branch=None):
     # Download all jsons from github
     print("Downloading jsons from github")
 
-    r = requests.get(url_to_github_jsons + local_path)
+    if branch:
+        local_path += f"?ref={branch}"
+
+    url = f"{url_to_github_jsons}{local_path}"
+
+    r = requests.get(url)
     r.raise_for_status()
+
+    local_path = local_path.split("?")[0]
 
     urls = [data['download_url'] for data in r.json()]
 
@@ -646,7 +653,7 @@ def main():
     # import_external_story('story/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
     # import_external_story('story/02/0006', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/', use_order=True, skip_first=True)
     # import_external_story('race/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
-    # import_external_story('story/02/0201', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1076', 'https://api.github.com/repos/lotods/umamusu-translate/contents/translations/', branch="sakura-laurel")
     # import_external_story('race/02/0201', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
 
 
