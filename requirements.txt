@@ -21,11 +21,13 @@ Pillow==10.0.0
 py-flags==1.1.4
 pycparser==2.21
 pyfmodex==0.7.1
+pyhash @ git+https://github.com/flier/pyfasthash@d4aede268ad79bf65cef46e5f82f43f952403db7
 pyphen==0.14.0
 PyQt5==5.15.9
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.12.2
 PySocks==1.7.1
+pyspellchecker==0.8.1
 python-dateutil==2.8.2
 pytz==2023.3
 pywin32==306

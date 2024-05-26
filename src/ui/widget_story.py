@@ -412,6 +412,9 @@ class Ui_story_editor(QWidget):
         # print("Save timeout")
         if self.chkb_autosave.isChecked():
             self.save_chapter()
+        
+        # Run spellchecker
+        self.spellcheck()
     
     def handle_sync_timeout(self):
         if self.chkb_sync_game.isChecked():
@@ -643,6 +646,16 @@ class Ui_story_editor(QWidget):
     def handle_sync_change(self):
         if self.chkb_sync_game.isChecked():
             self.goto_game()
+
+    
+    def spellcheck(self):
+        if not self.loaded_chapter:
+            return
+        
+        if not self.cur_open_block:
+            return
+        
+        self.txt_en_text.spellcheck()
     
 
     def get_next_untranslated_block_index(self):

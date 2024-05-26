@@ -3,6 +3,19 @@ from PyQt5.QtGui import *
 from PyQt5.QtGui import QMouseEvent
 from PyQt5.QtWidgets import *
 import time
+from spellchecker import SpellChecker
+
+SPELL = SpellChecker()
+
+# def get_misspelled_words(text: str) -> list:
+#     words = text.split()
+#     return SPELL.unknown(words)
+
+def get_spelling_candidates(word: str) -> list:
+    candidates = list(SPELL.candidates(word))
+    if word[0].isupper():
+        candidates = [c.capitalize() for c in candidates]
+    return candidates
 
 def str_to_char_data(text: str) -> list:
     in_tag = False
@@ -149,6 +162,7 @@ class UmaPlainTextEdit(QPlainTextEdit):
     click_count = 0
     last_click = 0
     click_cooldown = 0.3
+    red_lines = []
 
     def _check_for_triple_click(self, e: QMouseEvent) -> None:
         # Triple click = select all.
@@ -210,3 +224,58 @@ class UmaPlainTextEdit(QPlainTextEdit):
             return
 
         return super().mouseDoubleClickEvent(e)
+
+    def paintEvent(self, e: QPaintEvent) -> None:
+        super().paintEvent(e)
+
+        painter = QPainter(self.viewport())
+        painter.setPen(QColor("#FF0000"))
+
+        for line in self.red_lines:
+            # painter.drawLine(line)
+            painter.drawRect(line)
+
+    def spellcheck(self) -> None:
+        text = self.toPlainText()
+        cursor = self.textCursor()
+        cursor.setPosition(0)
+        
+        in_word = False
+
+        word_start = 0
+        word_end = 0
+
+        self.red_lines = []
+
+
+        def make_line(word):
+            candidates = get_spelling_candidates(word)
+            if candidates:
+                if len(candidates) == 1 and candidates[0] == word:
+                    return
+                print(f"Word: {word}")
+                print(f"Candidates: {candidates}")
+                cursor.setPosition(word_start)
+                start_rect = self.cursorRect(cursor)
+                cursor.setPosition(word_end+1)
+                end_rect = self.cursorRect(cursor)
+                self.red_lines.append(QRect(start_rect.topLeft(), end_rect.bottomRight()))
+
+
+        for i, char in enumerate(text):
+            if char.isalpha() or char == "-":
+                if not in_word:
+                    in_word = True
+                    word_start = i
+                word_end = i
+            else:
+                if in_word:
+                    in_word = False
+                    word = text[word_start:word_end+1]
+                    make_line(word)
+        
+        if in_word:
+            word = text[word_start:word_end+1]
+            make_line(word)
+
+        self.viewport().update()
