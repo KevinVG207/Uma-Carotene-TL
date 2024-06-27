@@ -3659,6 +3659,78 @@
         "text": "Obtain [Leap Premonition] skill hint.",
         "hash": "9de4ec39869ecccfbbe490ea462602f8b7cee25fced4a457b1320448c14d4e52"
     },
+    "2029901": {
+        "text": "Obtain [直線コース○] skill hint.",
+        "hash": "2fab02f47362470f35590c02c77ace5be37e59a5bcfb190267d8bf7b738b6c23"
+    },
+    "2029902": {
+        "text": "Obtain [直線コース○] skill hint.",
+        "hash": "2fab02f47362470f35590c02c77ace5be37e59a5bcfb190267d8bf7b738b6c23"
+    },
+    "2029903": {
+        "text": "Obtain [直線コース○] skill hint.",
+        "hash": "2fab02f47362470f35590c02c77ace5be37e59a5bcfb190267d8bf7b738b6c23"
+    },
+    "2030001": {
+        "text": "Obtain [手練手管] skill hint.",
+        "hash": "0e636db4aade3070423e634eb053f719030d514d00284132cbc29e19c0b5980c"
+    },
+    "2030002": {
+        "text": "Obtain [手練手管] skill hint.",
+        "hash": "0e636db4aade3070423e634eb053f719030d514d00284132cbc29e19c0b5980c"
+    },
+    "2030003": {
+        "text": "Obtain [手練手管] skill hint.",
+        "hash": "0e636db4aade3070423e634eb053f719030d514d00284132cbc29e19c0b5980c"
+    },
+    "2030101": {
+        "text": "Obtain [瞬発力] skill hint.",
+        "hash": "7f75ad399c0d45ac3da338c2fc57e7b0c65f46c92e6a10355dd9dddbdecbb5c5"
+    },
+    "2030102": {
+        "text": "Obtain [瞬発力] skill hint.",
+        "hash": "7f75ad399c0d45ac3da338c2fc57e7b0c65f46c92e6a10355dd9dddbdecbb5c5"
+    },
+    "2030103": {
+        "text": "Obtain [瞬発力] skill hint.",
+        "hash": "7f75ad399c0d45ac3da338c2fc57e7b0c65f46c92e6a10355dd9dddbdecbb5c5"
+    },
+    "2030201": {
+        "text": "Obtain [風切り] skill hint.",
+        "hash": "625a3844540dde77127f3d349fb08e1a216915f40b2c517dab829c2aea941807"
+    },
+    "2030202": {
+        "text": "Obtain [風切り] skill hint.",
+        "hash": "625a3844540dde77127f3d349fb08e1a216915f40b2c517dab829c2aea941807"
+    },
+    "2030203": {
+        "text": "Obtain [風切り] skill hint.",
+        "hash": "625a3844540dde77127f3d349fb08e1a216915f40b2c517dab829c2aea941807"
+    },
+    "2030301": {
+        "text": "Obtain [素直な一歩] skill hint.",
+        "hash": "20fa316f9d3c33e87230693d16b2351ac23c3c90f67ecf9c871af96ce87b430d"
+    },
+    "2030302": {
+        "text": "Obtain [素直な一歩] skill hint.",
+        "hash": "20fa316f9d3c33e87230693d16b2351ac23c3c90f67ecf9c871af96ce87b430d"
+    },
+    "2030303": {
+        "text": "Obtain [素直な一歩] skill hint.",
+        "hash": "20fa316f9d3c33e87230693d16b2351ac23c3c90f67ecf9c871af96ce87b430d"
+    },
+    "2030401": {
+        "text": "Obtain [胸の高鳴り] skill hint.",
+        "hash": "f58a6121cc0deb4bd3c0f6cf128e680321a50ef878db730cfd8a6386bc9918b1"
+    },
+    "2030402": {
+        "text": "Obtain [胸の高鳴り] skill hint.",
+        "hash": "f58a6121cc0deb4bd3c0f6cf128e680321a50ef878db730cfd8a6386bc9918b1"
+    },
+    "2030403": {
+        "text": "Obtain [胸の高鳴り] skill hint.",
+        "hash": "f58a6121cc0deb4bd3c0f6cf128e680321a50ef878db730cfd8a6386bc9918b1"
+    },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
         "hash": "6623b38f8774d87129d1e5b37726a1d8d676804e81b2541e749eda64ef29ccce"
@@ -4019,6 +4091,18 @@
         "text": "Obtain [Burning Soul] skill hint.",
         "hash": "c9afb91ddc0aaad01b4fcbb1a69b25a0d09cb06a14e981ddb2660df0ddac541e"
     },
+    "2103201": {
+        "text": "Obtain [いつまでも健やかに] skill hint.",
+        "hash": "adc6089ae6f7a108b2d930f7f2523f5183edeaa3ee1e7d7f3efd60f40f5bfb54"
+    },
+    "2103202": {
+        "text": "Obtain [いつまでも健やかに] skill hint.",
+        "hash": "adc6089ae6f7a108b2d930f7f2523f5183edeaa3ee1e7d7f3efd60f40f5bfb54"
+    },
+    "2103203": {
+        "text": "Obtain [いつまでも健やかに] skill hint.",
+        "hash": "adc6089ae6f7a108b2d930f7f2523f5183edeaa3ee1e7d7f3efd60f40f5bfb54"
+    },
     "3000101": {
         "text": "Increases SPD and STA.",
         "hash": "2e9ac25b539f79b7e378f4138d9b640c195c9333ee9a6957c1d1141c1ae47200"
@@ -4250,6 +4334,70 @@
     "3101403": {
         "text": "Obtain [Athlete's Spirit] skill hint.",
         "hash": "326f544078e1bae4c014dc4874604dcdf9fc07fafa7baf9f950eb7272c1455c0"
+    },
+    "3101501": {
+        "text": "Increases SPD and Skill Points.",
+        "hash": "414cd67a5396d220313d19903c2e76dc27f738c8dadcf4aa459c34845435da5a"
+    },
+    "3101502": {
+        "text": "Increases SPD and Skill Points.",
+        "hash": "414cd67a5396d220313d19903c2e76dc27f738c8dadcf4aa459c34845435da5a"
+    },
+    "3101503": {
+        "text": "Increases SPD and Skill Points.",
+        "hash": "414cd67a5396d220313d19903c2e76dc27f738c8dadcf4aa459c34845435da5a"
+    },
+    "3101601": {
+        "text": "Increases STA and Skill Points.",
+        "hash": "31ac589238cb7e89a447c711738092f12caf43c5c58a30a4b7ef1ad83d405c2a"
+    },
+    "3101602": {
+        "text": "Increases STA and Skill Points.",
+        "hash": "31ac589238cb7e89a447c711738092f12caf43c5c58a30a4b7ef1ad83d405c2a"
+    },
+    "3101603": {
+        "text": "Increases STA and Skill Points.",
+        "hash": "31ac589238cb7e89a447c711738092f12caf43c5c58a30a4b7ef1ad83d405c2a"
+    },
+    "3101701": {
+        "text": "Increases POW and Skill Points.",
+        "hash": "8da6b9e61d906ad913a9c5e5173a06d931f67091692541d828dab0b8073abc45"
+    },
+    "3101702": {
+        "text": "Increases POW and Skill Points.",
+        "hash": "8da6b9e61d906ad913a9c5e5173a06d931f67091692541d828dab0b8073abc45"
+    },
+    "3101703": {
+        "text": "Increases POW and Skill Points.",
+        "hash": "8da6b9e61d906ad913a9c5e5173a06d931f67091692541d828dab0b8073abc45"
+    },
+    "3101801": {
+        "text": "Increases GUT and Skill Points.",
+        "hash": "b3298239d86405f2bc25a90240dac1be1883a5d811546cb1f7af14a9a5eef472"
+    },
+    "3101802": {
+        "text": "Increases GUT and Skill Points.",
+        "hash": "b3298239d86405f2bc25a90240dac1be1883a5d811546cb1f7af14a9a5eef472"
+    },
+    "3101803": {
+        "text": "Increases GUT and Skill Points.",
+        "hash": "b3298239d86405f2bc25a90240dac1be1883a5d811546cb1f7af14a9a5eef472"
+    },
+    "3101901": {
+        "text": "Increases WIS and Skill Points.",
+        "hash": "8e343a676f33a7d8e4641ab64751b0615ac8cd477182ff882d7d47ae699fe3d8"
+    },
+    "3101902": {
+        "text": "Increases WIS and Skill Points.",
+        "hash": "8e343a676f33a7d8e4641ab64751b0615ac8cd477182ff882d7d47ae699fe3d8"
+    },
+    "3101903": {
+        "text": "Increases WIS and Skill Points.",
+        "hash": "8e343a676f33a7d8e4641ab64751b0615ac8cd477182ff882d7d47ae699fe3d8"
+    },
+    "3102003": {
+        "text": "Obtain [食の極意] skill hint.",
+        "hash": "11b204ff3aa70c26afdbf3f19e162836dae30590f91cd88d3c9b9be75c33bc16"
     },
     "4000101": {
         "text": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
@@ -5343,6 +5491,18 @@
         "text": "Increases SPD Cap and POW Cap.\\nObtain [You're Mine ☆ Strelitzia] skill hint.",
         "hash": "49665f0628e73ddc65193925ba11857adbd420b61c66035c1933dac2c5f3095e"
     },
+    "10440201": {
+        "text": "Increases SPD Cap, POW Cap and GUT Cap.\\nObtain [とっておきmaterialize] skill hint.",
+        "hash": "0493c1ebb37edafa291b1095da4448c5f60b10100d1c9531de1cc4afe0025aeb"
+    },
+    "10440202": {
+        "text": "Increases SPD Cap, POW Cap and GUT Cap.\\nObtain [とっておきmaterialize] skill hint.",
+        "hash": "0493c1ebb37edafa291b1095da4448c5f60b10100d1c9531de1cc4afe0025aeb"
+    },
+    "10440203": {
+        "text": "Increases SPD Cap, POW Cap and GUT Cap.\\nObtain [とっておきmaterialize] skill hint.",
+        "hash": "0493c1ebb37edafa291b1095da4448c5f60b10100d1c9531de1cc4afe0025aeb"
+    },
     "10450101": {
         "text": "Increases STA Cap and WIS Cap.\\nObtain [Purity of Heart] skill hint.",
         "hash": "30c20ab66c8c6f8ebcbf162f3e19ba15ea6b8af8d5b452641eac2b467a6a7c2c"
@@ -5714,6 +5874,18 @@
     "10610203": {
         "text": "Increases SPD Cap, POW Cap and GUT Cap.\\nObtain [Roaring Tracen Cheerleading Squad] skill hint.",
         "hash": "b57dbc53a3b4f2505a2cb381f0f39cdf4915403f27ffd2386f8c2e565717c794"
+    },
+    "10610301": {
+        "text": "Increases POW Cap, GUT Cap and WIS Cap.\\nObtain [理想へのwinding road] skill hint.",
+        "hash": "85effc0f1fc498dca74a7d71d8bca8cd114692ca833302f4db3b1c007c820464"
+    },
+    "10610302": {
+        "text": "Increases POW Cap, GUT Cap and WIS Cap.\\nObtain [理想へのwinding road] skill hint.",
+        "hash": "85effc0f1fc498dca74a7d71d8bca8cd114692ca833302f4db3b1c007c820464"
+    },
+    "10610303": {
+        "text": "Increases POW Cap, GUT Cap and WIS Cap.\\nObtain [理想へのwinding road] skill hint.",
+        "hash": "85effc0f1fc498dca74a7d71d8bca8cd114692ca833302f4db3b1c007c820464"
     },
     "10620101": {
         "text": "Increases STA Cap and WIS Cap.\\nObtain [Bang, Bam, Mun] skill hint.",
@@ -6183,6 +6355,18 @@
         "text": "Increases SPD Cap and GUT Cap.\\nObtain [Blue Ray of Happiness] skill hint.",
         "hash": "a93d2408cf4f9cd2f2081acc901799bb9d38d29d492139c411f94d52dda03fec"
     },
+    "10940101": {
+        "text": "Increases SPD Cap, STA Cap and POW Cap.\\nObtain [Faith in the Feral] skill hint.",
+        "hash": "492354aac24599df16bf60cceda89b2353a85b3f21d3f71c12aba2b1f12f0cee"
+    },
+    "10940102": {
+        "text": "Increases SPD Cap, STA Cap and POW Cap.\\nObtain [Faith in the Feral] skill hint.",
+        "hash": "492354aac24599df16bf60cceda89b2353a85b3f21d3f71c12aba2b1f12f0cee"
+    },
+    "10940103": {
+        "text": "Increases SPD Cap, STA Cap and POW Cap.\\nObtain [Faith in the Feral] skill hint.",
+        "hash": "492354aac24599df16bf60cceda89b2353a85b3f21d3f71c12aba2b1f12f0cee"
+    },
     "10980101": {
         "text": "Increases POW Cap and WIS Cap.\\nObtain [Luck Comes to the Prepared] skill hint.",
         "hash": "b5547ce4e4996ea136b63731add2f6f95dbc28461fb95495891a1f31a4bf2fc4"
@@ -6302,5 +6486,17 @@
     "11090103": {
         "text": "Increases POW Cap and GUT Cap.\\nObtain [Connecting Dreams With the Future] skill hint.",
         "hash": "2173bec524288c3eaf302c2c998746e751b3d94e57c93b9d2faf90f7bd6cbfcc"
+    },
+    "11190101": {
+        "text": "Increases STA Cap, POW Cap and WIS Cap.\\nObtain [『それでは、よき旅を』] skill hint.",
+        "hash": "e1ec15ee5d85108e2de07fd4c4cdefbd1bed5197b4d1e0a5532f12c323ae974b"
+    },
+    "11190102": {
+        "text": "Increases STA Cap, POW Cap and WIS Cap.\\nObtain [『それでは、よき旅を』] skill hint.",
+        "hash": "e1ec15ee5d85108e2de07fd4c4cdefbd1bed5197b4d1e0a5532f12c323ae974b"
+    },
+    "11190103": {
+        "text": "Increases STA Cap, POW Cap and WIS Cap.\\nObtain [『それでは、よき旅を』] skill hint.",
+        "hash": "e1ec15ee5d85108e2de07fd4c4cdefbd1bed5197b4d1e0a5532f12c323ae974b"
     }
 }
