@@ -3704,6 +3704,54 @@
         "text": "Leap Premonition",
         "hash": "9c620350f09802216d95a01878ead5aad3d735165091b857af7dfbfb6ce0e657"
     },
+    "2029901": {
+        "text": "Straight Course ○",
+        "hash": "60db0c4706c0211c3564c95673bd176e711240994e41b18a4d7695adb5024c3b"
+    },
+    "2029902": {
+        "text": "Straight Course ○",
+        "hash": "60db0c4706c0211c3564c95673bd176e711240994e41b18a4d7695adb5024c3b"
+    },
+    "2029903": {
+        "text": "Straight Course ○",
+        "hash": "60db0c4706c0211c3564c95673bd176e711240994e41b18a4d7695adb5024c3b"
+    },
+    "2030001": {
+        "text": "Art of Coaxing",
+        "hash": "75c158020b88e658366d0fac15663fd631b883898c67ae3cc2d9f7c4e7d5bd04"
+    },
+    "2030002": {
+        "text": "Art of Coaxing",
+        "hash": "75c158020b88e658366d0fac15663fd631b883898c67ae3cc2d9f7c4e7d5bd04"
+    },
+    "2030003": {
+        "text": "Art of Coaxing",
+        "hash": "75c158020b88e658366d0fac15663fd631b883898c67ae3cc2d9f7c4e7d5bd04"
+    },
+    "2030301": {
+        "text": "An Honest Step",
+        "hash": "5e6dc119131b5b1fc2d9f1f6832000f7e926d85bfedee4afe251377a78adb389"
+    },
+    "2030302": {
+        "text": "An Honest Step",
+        "hash": "5e6dc119131b5b1fc2d9f1f6832000f7e926d85bfedee4afe251377a78adb389"
+    },
+    "2030303": {
+        "text": "An Honest Step",
+        "hash": "5e6dc119131b5b1fc2d9f1f6832000f7e926d85bfedee4afe251377a78adb389"
+    },
+    "2030401": {
+        "text": "Pounding Chest",
+        "hash": "4cf382b769016018e2d4d236baeab9f46ce88e04611707fbf883327edf2726c1"
+    },
+    "2030402": {
+        "text": "Pounding Chest",
+        "hash": "4cf382b769016018e2d4d236baeab9f46ce88e04611707fbf883327edf2726c1"
+    },
+    "2030403": {
+        "text": "Pounding Chest",
+        "hash": "4cf382b769016018e2d4d236baeab9f46ce88e04611707fbf883327edf2726c1"
+    },
     "2100101": {
         "text": "Aoharu Ignition・Speed",
         "hash": "07ae7e34d4e5c3d43127796610ea2bdcb890d59b4c0bc963d7181b6e7a29a664",
@@ -4121,6 +4169,18 @@
         "text": "Burning Soul",
         "hash": "a499497177969bbc024e35814e97a0e2efea88be97c7c2deb6c2abf8b448581e"
     },
+    "2103201": {
+        "text": "Forever Healthy",
+        "hash": "73f846f1eed628b787cb1ec843af9bb164428c7ae27a32d8b547c79d223a5dec"
+    },
+    "2103202": {
+        "text": "Forever Healthy",
+        "hash": "73f846f1eed628b787cb1ec843af9bb164428c7ae27a32d8b547c79d223a5dec"
+    },
+    "2103203": {
+        "text": "Forever Healthy",
+        "hash": "73f846f1eed628b787cb1ec843af9bb164428c7ae27a32d8b547c79d223a5dec"
+    },
     "3000101": {
         "text": "URA Scenario",
         "hash": "6ad57405cb201fc0e265902ac4fa5f90978eed4aec04f0d813aa44eb9a0159e4"
@@ -4364,6 +4424,10 @@
     "3101403": {
         "text": "Athlete's Spirit",
         "hash": "953cac9c0fe5a67c7ae294b18ac4da6024100bb520f5953a413115f6c74f602a"
+    },
+    "3102003": {
+        "text": "Essence of Food",
+        "hash": "7b725c290090e494c5a12962460cb03df39c3c551a652d07c5237fc8e84492ca"
     },
     "4000101": {
         "text": "Carnival Bonus",
@@ -5535,6 +5599,18 @@
         "hash": "5600f25ee81873fd4aced4202e6de1bc698b4101251581f90c32642a984874c1",
         "processed": "<sc=98>You're Mine ☆ Strelitzia"
     },
+    "10440201": {
+        "text": "Special Materialization",
+        "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
+    },
+    "10440202": {
+        "text": "Special Materialization",
+        "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
+    },
+    "10440203": {
+        "text": "Special Materialization",
+        "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
+    },
     "10450101": {
         "text": "Purity of Heart",
         "hash": "ece403ca4a09f35ddaf656d5dc9484c9c57e3a20507929e0191d7ff76e9d1a51"
@@ -5945,6 +6021,21 @@
         "text": "Roaring Tracen Cheerleading Squad",
         "hash": "64761e6ce56daf2d799a08efa8b6572608a5d6edbc1c5502d28a152f05844e28",
         "processed": "<sc=65>Roaring Tracen Cheerleading Squad"
+    },
+    "10610301": {
+        "text": "The Winding Road to Ideals",
+        "hash": "249cc3e0e70028196b20aa3c77b9473653ac03c6c4db261dae6ae2044d3fe412",
+        "processed": "<sc=86>The Winding Road to Ideals"
+    },
+    "10610302": {
+        "text": "The Winding Road to Ideals",
+        "hash": "249cc3e0e70028196b20aa3c77b9473653ac03c6c4db261dae6ae2044d3fe412",
+        "processed": "<sc=86>The Winding Road to Ideals"
+    },
+    "10610303": {
+        "text": "The Winding Road to Ideals",
+        "hash": "249cc3e0e70028196b20aa3c77b9473653ac03c6c4db261dae6ae2044d3fe412",
+        "processed": "<sc=86>The Winding Road to Ideals"
     },
     "10620101": {
         "text": "Bang, Bam, Mun",
@@ -6450,6 +6541,18 @@
         "text": "Blue Ray of Happiness",
         "hash": "914d9d21ed0d85c500960e1ae619a5bb71c511deeb3c0d30d3924cad54eee125"
     },
+    "10940101": {
+        "text": "Faith in the Feral",
+        "hash": "bcc16f1f2a8c5e2f6591dcc69b22fc3903030df9153eb7c0f281baacc181a424"
+    },
+    "10940102": {
+        "text": "Faith in the Feral",
+        "hash": "bcc16f1f2a8c5e2f6591dcc69b22fc3903030df9153eb7c0f281baacc181a424"
+    },
+    "10940103": {
+        "text": "Faith in the Feral",
+        "hash": "bcc16f1f2a8c5e2f6591dcc69b22fc3903030df9153eb7c0f281baacc181a424"
+    },
     "10980101": {
         "text": "Luck Comes to the Prepared",
         "hash": "719397157d186feb1b4bed4eff5774be7374717fd115f2295c5b5669f7baf074",
@@ -6581,5 +6684,17 @@
         "text": "Connecting Dreams With the Future",
         "hash": "5107d2613d53fc7a0cb2a7ad1b64edf0db396f32f724213f1d7a009de41d5f3a",
         "processed": "<sc=66>Connecting Dreams With the Future"
+    },
+    "11190101": {
+        "text": "«Bon Voyage»",
+        "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
+    },
+    "11190102": {
+        "text": "«Bon Voyage»",
+        "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
+    },
+    "11190103": {
+        "text": "«Bon Voyage»",
+        "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
     }
 }
