@@ -5,8 +5,8 @@ import unity
 import shutil
 
 def extract_texture(hash, write_path, size):
-    bundle = unity.load_asset_from_hash(hash)
-    for object in bundle.objects:
+    asset, root = unity.load_asset_from_hash(hash)
+    for object in asset.objects:
         if object.type.name == "Texture2D":
             tree = object.read()
             image = tree.image

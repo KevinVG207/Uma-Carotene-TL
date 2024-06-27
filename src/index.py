@@ -906,7 +906,7 @@ def index_movies():
 
 def index_assets():
     print("=== EXTRACTING ASSETS ===")
-    index_lyrics()
+    # index_lyrics()
     index_story()
     index_textures()
     index_flash()
