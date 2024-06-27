@@ -134,12 +134,12 @@
             "processed": "<story>But, she's like, smart, right? Not too long ago a teacher was \n<story>complaining, like, “she's intelligent and great at running, but that \n<story>attitude...”"
         },
         {
-            "text": "She pretty much only ever barely makes curfew. Guess you'd call \na delinquent, or something? She always looks so ticked off, too... \nWonder what goes on in her head.",
+            "text": "She pretty much only ever barely makes curfew. Guess you'd call \nher a delinquent, or something? She always looks so ticked off, \ntoo... Wonder what goes on in her head.",
             "name": "Umamusume B",
             "path_id": 511107811853034911,
             "block_id": 14,
             "clip_length": 360,
-            "processed": "<story>She pretty much only ever barely makes curfew. Guess you'd call \n<story>a delinquent, or something? She always looks so ticked off, too... \n<story>Wonder what goes on in her head."
+            "processed": "<story>She pretty much only ever barely makes curfew. Guess you'd call \n<story>her a delinquent, or something? She always looks so ticked off, \n<story>too... Wonder what goes on in her head."
         },
         {
             "text": "Air Shakur―― it seemed like the other girls were afraid of her. \nThat unique personality, especially that focus in her eyes, made \nher hard to forget.",
@@ -318,11 +318,11 @@
             "clip_length": 55,
             "choices": [
                 {
-                    "text": "You take things seriously, after all.",
+                    "text": "You take things seriously... I think.",
                     "hash": "5bd87f1d0403c39b87274381da59f355b212d1c5375d34b4b9d478a15ac6104b"
                 },
                 {
-                    "text": "You take things seriously, after all.",
+                    "text": "You take things seriously... I think.",
                     "hash": "360c9e29b44a9d68b467a6403a319346f98146fdc85b939d90e7544e88a3f8cd"
                 }
             ],
