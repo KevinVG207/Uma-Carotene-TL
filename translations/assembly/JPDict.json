@@ -5292,7 +5292,7 @@
         "hash": "623a5814112382ce889aa9727b03175e0a0225ed4d6dcfd9a74dff950ff75a95"
     },
     "Gacha0026": {
-        "text": "",
+        "text": "<sc=90><nb>Current",
         "hash": "f2b758e594bd88488a5367a218119e21b416a3bbd11b2ca1fe0bdfc1fc7910b5"
     },
     "Gacha0027": {
@@ -18596,7 +18596,7 @@
         "hash": "b081e2e94cf5e259ed195b657440fbb6966ec52000435dba6b373a4f07e1104f"
     },
     "SingleModeScenarioCook359004": {
-        "text": "",
+        "text": "You can now cook these dishes!",
         "hash": "c8d2abc93d7ccc1c1809b6866a3188d4329875deba6d0e36396f565267bb7726"
     },
     "SingleModeScenarioCook359005": {
@@ -18720,7 +18720,7 @@
         "hash": "d894d4292f1230538fa28426610fd3ff48c842f53faf7702fe618ed2f15209c9"
     },
     "SingleModeScenarioCook425002": {
-        "text": "",
+        "text": "Field",
         "hash": "ddbf48e2689e035ecb1e26db6821f51c7ac3eed0699cabc5eb8eab33ae910194"
     },
     "SingleModeScenarioCook425003": {
@@ -18768,7 +18768,7 @@
         "hash": "6a88897ae3bb2a20e60c12ea52a6ad603bd4ed99e77527e7e78bd3bcd77bddda"
     },
     "SingleModeScenarioCook425014": {
-        "text": "",
+        "text": "Field Pt",
         "hash": "a21ad696859e92f1f3e06106b57f2ec14217207dc6d28aa41bad9f4aa42f15a1"
     },
     "SingleModeScenarioCook425015": {
@@ -18860,7 +18860,7 @@
         "hash": "fbae6d956dd5db0b60fa641633f4a645db5536189cda07ecdc340a24ddeda5e2"
     },
     "SingleModeScenarioCook425039": {
-        "text": "",
+        "text": "Cooking Pt",
         "hash": "e2dc6a1766d74e8d72caaec4806da7958dec216b5cebfc2dbb3d52f60e47b6cf"
     },
     "SingleModeScenarioCook425040": {
@@ -18908,11 +18908,11 @@
         "hash": "1c772236dee4972331f33021902a289972b6cf9db4a8252e9b1c9bbff5ac3129"
     },
     "SingleModeScenarioCook425051": {
-        "text": "",
+        "text": "<nb>Vegetable Level Details",
         "hash": "39af20b9e0c55cff33c9c4a22759da9f7ea48184ca00c9736be7fff3add206d2"
     },
     "SingleModeScenarioCook425052": {
-        "text": "",
+        "text": "Lv Detail",
         "hash": "439ff9211d93fbb90c9de805b315e58a84a79e47954f8afb5e15d094400b4dd2"
     },
     "SingleModeScenarioCook425059": {
@@ -18996,7 +18996,7 @@
         "hash": "fa82f24a22e33137529b7fc4ea7b4e5c9e3d06723f2b9ac99fc351aaa0942046"
     },
     "SingleModeScenarioCook425080": {
-        "text": "",
+        "text": "<sc=90>{0} <p=turn,turns,{0}> left",
         "hash": "07813ca6c5c59874dce0c7e87d05e60a7751539ad3de1c256eb6ae503cfabddf"
     },
     "SingleModeScenarioCook425081": {
@@ -19092,15 +19092,15 @@
         "hash": "3ad980971545702788419adab78e1b31e68cf09a32b2c8d833e10ea61f36efa5"
     },
     "SingleModeScenarioCook425104": {
-        "text": "",
+        "text": "Harvest Stack",
         "hash": "ae67eb5163af7607b496ab9509bce074a7c7baa5dde75be228bf705048aad93a"
     },
     "SingleModeScenarioCook425105": {
-        "text": "",
+        "text": "  Turn {0}",
         "hash": "3e785ed82b3ccad5a2e420e2bdf414124bea6f3a065fa70a45fb7d00e19193d9"
     },
     "SingleModeScenarioCook425106": {
-        "text": "",
+        "text": "Harvest after turn",
         "hash": "6ce5bd228d4dfd4c1ee243ddf951957252b3e5bc5a33179a1715048e3fa6f328"
     },
     "SingleModeScenarioCook425107": {
@@ -19108,11 +19108,11 @@
         "hash": "a5c97079f364ff1783c26d6ec9bbb4c0eac9a44a1bd6f0367d2358f91a920cef"
     },
     "SingleModeScenarioCook425108": {
-        "text": "",
+        "text": "Multiplier",
         "hash": "990c0882923cf22b851e8f6c7ce6d091cc35984bee75ba3ae50727b84dad71ee"
     },
     "SingleModeScenarioCook425109": {
-        "text": "",
+        "text": "Expected:",
         "hash": "7b8969378bf2b6b8017089b1e6fec59c22f36159e1b60c981dc3feebd2753fff"
     },
     "SingleModeScenarioCook425110": {
@@ -19144,7 +19144,7 @@
         "hash": "4de95facfb1881f1c71118ec27d84e5894979a4e70f3bbb0767fdd827ba2b096"
     },
     "SingleModeScenarioCook585001": {
-        "text": "",
+        "text": "Cooking Gauge",
         "hash": "fcc724acff8d7b6f607496372f28d68ff72dc4eb03d37cb7722c5f9176262671"
     },
     "SingleModeScenarioCook585002": {
@@ -19216,7 +19216,7 @@
         "hash": "6cd0f17bed275628560db060aa9d4c187088a964f54895a9b35ace9cea25119f"
     },
     "SingleModeScenarioCook585019": {
-        "text": "",
+        "text": "Cooking",
         "hash": "fb9205e9cee2fe0f4a4ccdf0667ad01c8b2065bfc5736131bd892a72eea7c8a7"
     },
     "SingleModeScenarioCook585020": {
@@ -19236,7 +19236,7 @@
         "hash": "58de9a6476dbaac16add7543f5ba18db518f1b50b22161596da148aa88627660"
     },
     "SingleModeScenarioCook585024": {
-        "text": "",
+        "text": "Lv Detail",
         "hash": "439ff9211d93fbb90c9de805b315e58a84a79e47954f8afb5e15d094400b4dd2"
     },
     "SingleModeScenarioCook585025": {
@@ -19244,11 +19244,11 @@
         "hash": "d4e700c423682f2ed5f4876889dc20bc6eeb37cf6f0824591b42493da2668be5"
     },
     "SingleModeScenarioCook585026": {
-        "text": "",
+        "text": "Harvest Stack",
         "hash": "ae67eb5163af7607b496ab9509bce074a7c7baa5dde75be228bf705048aad93a"
     },
     "SingleModeScenarioCook585027": {
-        "text": "",
+        "text": "Level Up",
         "hash": "744e37a2e8f71f3d2932e06471bf15c9fe438d31e59d8864fa98a14c6745b80a"
     },
     "SingleModeScenarioCook585028": {
@@ -20664,7 +20664,7 @@
         "hash": "8e9fe36633a6d0db81611c9a1447c31d317c9b56b560c6f300c3cf4e9dcbe10d"
     },
     "SingleModeScenarioTeamRace0028": {
-        "text": "",
+        "text": "None",
         "hash": "e5c0826623d91dfda49773a0a9ac5f2ecf69745a06e1b544c4c57ec7ac0ff235"
     },
     "SingleModeScenarioTeamRace0029": {
@@ -20832,11 +20832,11 @@
         "hash": "27c80a7dc5b1c4f508c4e37490b999e10ecb54d94142acf65f629dbba8432149"
     },
     "SingleModeScenarioTeamRace0073": {
-        "text": "",
+        "text": "New Scenario",
         "hash": "aa7d238aff12a69de1dc8fa91ccd829da14f229c471c5901d7556f9d856f0b75"
     },
     "SingleModeScenarioTeamRace0074": {
-        "text": "",
+        "text": "A new scenario is now available!",
         "hash": "862592f042df5cf6cb602f871bed0b3ea3e41a6c48b223600e0af7c21c63a4cb"
     },
     "SingleModeScenarioTeamRace0075": {
