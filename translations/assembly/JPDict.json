@@ -18288,7 +18288,7 @@
         "hash": "ecc3a2174e119287a0c0b0ca44969f846a0a1359e923385965e94844478d6eba"
     },
     "SingleModeScenarioArc0033": {
-        "text": "Training Bonus {0}",
+        "text": "<nb>Training Bonus {0}",
         "hash": "ab1459f91c4611eec098897b6abdd7ed8cb913ee290f9e7d46bc8745d6dd43ba"
     },
     "SingleModeScenarioArc0034": {
@@ -18764,7 +18764,7 @@
         "hash": "24c3e5582b5aa8117ea8dfd39439c83019e98ac87cac3a623b6534e681e5295d"
     },
     "SingleModeScenarioCook425013": {
-        "text": "",
+        "text": "Choose a vegetable to level up",
         "hash": "6a88897ae3bb2a20e60c12ea52a6ad603bd4ed99e77527e7e78bd3bcd77bddda"
     },
     "SingleModeScenarioCook425014": {
@@ -18796,7 +18796,7 @@
         "hash": "994fb592edf02e53ebf8bf9cdb597cdb8e46a04428ae18936b29c3c543235fc5"
     },
     "SingleModeScenarioCook425021": {
-        "text": "",
+        "text": "Cannot go down any further",
         "hash": "70049140d785e12a86b96af08926758b1a679033bde268fa229c3c7e44597222"
     },
     "SingleModeScenarioCook425022": {
@@ -18864,7 +18864,7 @@
         "hash": "e2dc6a1766d74e8d72caaec4806da7958dec216b5cebfc2dbb3d52f60e47b6cf"
     },
     "SingleModeScenarioCook425040": {
-        "text": "Cooking Great Success Rate",
+        "text": "<nb>Cooking Great Success Rate",
         "hash": "fb47d9a356c229770f591949a811b68c8d66d1972e252644113795564dc81c87"
     },
     "SingleModeScenarioCook425041": {
@@ -19008,7 +19008,7 @@
         "hash": "77a154ee425cc58761f6414da39afa77f23b3ef1774f7756ecd8c34194a11f5b"
     },
     "SingleModeScenarioCook425083": {
-        "text": "Planting <color=#FF6D26>{0}</color> went\nexceedingly well!",
+        "text": "Planting <color=#FF6D26>{0}</color> went \nexceedingly well!",
         "hash": "bac59b0b1c0ab6e88d6a1e903a2bee5bf4558243b69980c335761903dcffa366"
     },
     "SingleModeScenarioCook425084": {
@@ -19016,7 +19016,7 @@
         "hash": "def298e84714d76905c5419b691dfd6f3f57f7a58cdced83be5adc05a87d8fad"
     },
     "SingleModeScenarioCook425085": {
-        "text": "Specialty Rate Up",
+        "text": "<nb>Specialty Rate Up",
         "hash": "182ded127b699d53221fe08a26acd3913cd0ef873150ed02cf823ea21d09df5c"
     },
     "SingleModeScenarioCook425086": {
@@ -19024,7 +19024,7 @@
         "hash": "3a3c9a5b76877f8698a70ccd56938c9d32db39945344678d45b4624a1fd29fa7"
     },
     "SingleModeScenarioCook425087": {
-        "text": "Cooking Pt Bonus",
+        "text": "<nb>Cooking Pt Bonus",
         "hash": "d427aef797649b584f8e4b53e7910ccac4d6a9dfa7c38cffb7f66aac10b214c4"
     },
     "SingleModeScenarioCook425088": {
@@ -19060,7 +19060,7 @@
         "hash": "a4c2d796f677a7c95eb9a4ee13587819f2b539b6b6e74eb273563ac428ed861b"
     },
     "SingleModeScenarioCook425096": {
-        "text": "Training Skill Pt Bonus",
+        "text": "<nb>Training Skill Pt Bonus",
         "hash": "35240766ba448b1b798adde32d5b27810a61661ce93adcc5c80c284b7123b14d"
     },
     "SingleModeScenarioCook425097": {
@@ -19192,7 +19192,7 @@
         "hash": "4c7203f769e43bca2f6dfba6d4f864ebd7a6ca05d1d2d4ccd3c75044e51c4309"
     },
     "SingleModeScenarioCook585013": {
-        "text": "",
+        "text": "<nb>Not enough vegetables          ",
         "hash": "57a289a0e0497a499ffebac22626592385d190435b038065f1b3a7537dfa85be"
     },
     "SingleModeScenarioCook585014": {
@@ -19204,7 +19204,7 @@
         "hash": "add23ddd8dd8f3e1433ddf8a026c8fb075f1b9f58608c841b763b4556b2dced7"
     },
     "SingleModeScenarioCook585016": {
-        "text": "Fan Bonus",
+        "text": "<nb>Fan Bonus",
         "hash": "c150fda21638a99f882960acefac10a45f66a068cb2226e87f3b7d4a7405e3ae"
     },
     "SingleModeScenarioCook585017": {
@@ -19216,7 +19216,7 @@
         "hash": "6cd0f17bed275628560db060aa9d4c187088a964f54895a9b35ace9cea25119f"
     },
     "SingleModeScenarioCook585019": {
-        "text": "Cooking",
+        "text": "Can Cook",
         "hash": "fb9205e9cee2fe0f4a4ccdf0667ad01c8b2065bfc5736131bd892a72eea7c8a7"
     },
     "SingleModeScenarioCook585020": {
