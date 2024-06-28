@@ -15720,7 +15720,7 @@
         "hash": "79b602a0353da29069c584ba4a0e72e012ee0d770a083623785ba9e6652a5ba8"
     },
     "SingleMode0155": {
-        "text": "",
+        "text": "<nb>Must participate in goal race",
         "hash": "a0e283f45a381df074d581fba28178d275d60c8f92a5ecb0ffb23d487c3175e8"
     },
     "SingleMode0158": {
@@ -15888,7 +15888,7 @@
         "hash": "d4524d53c2e7bbd06719a450dceaa5439ca3c65283670b6ba48bba48f0914361"
     },
     "SingleMode0223": {
-        "text": "",
+        "text": "{0} <p=turn,turns,{0}> until the next goal!\nYou can do it!",
         "hash": "8da74f369ac2ab01a4d4511a5de37b64c413d4b7029e03aac4cf6fc553dfbf06"
     },
     "SingleMode0224": {
@@ -16016,11 +16016,11 @@
         "hash": "fe79ff548fbc148065a6918ce6b767c703af6bfda87beb34414146f6ef11735b"
     },
     "SingleMode0256": {
-        "text": "",
+        "text": "Confirm Outing",
         "hash": "dd2d2f97bcfd6cf44160d123250298910b60a1e161585567e11e12621d28ab28"
     },
     "SingleMode0257": {
-        "text": "",
+        "text": "Are you sure you want to go out?",
         "hash": "5fd38313e8e7a320420a6e480c7769110d52f33e9643da8a9ecaa88cd00f1e20"
     },
     "SingleMode0258": {
@@ -16640,7 +16640,7 @@
         "hash": "32df8c5fa70e7813de3b302ac45454a9354db434aaef5ef275ccb5d84374309c"
     },
     "SingleMode0437": {
-        "text": "",
+        "text": "<nb>        This will end the turn",
         "hash": "9832cdd5ad8daa37abdce6be9b0c8ce45920a4c7d606d6731a201b85e9697e1e"
     },
     "SingleMode0438": {
@@ -18588,7 +18588,7 @@
         "hash": "31f1d0ecad5228b15f9604910d8002bfb41fb3a4a66c9b2a7f59753231dcc4a1"
     },
     "SingleModeScenarioCook359002": {
-        "text": "",
+        "text": "Cooking Details",
         "hash": "74646536393923fc2fb6217f49e03022694c780c6988fbe5d14670edf5b7b375"
     },
     "SingleModeScenarioCook359003": {
@@ -18596,7 +18596,7 @@
         "hash": "b081e2e94cf5e259ed195b657440fbb6966ec52000435dba6b373a4f07e1104f"
     },
     "SingleModeScenarioCook359004": {
-        "text": "<nb>You can now cook these dishes!",
+        "text": "<nb>New dishes are now available!",
         "hash": "c8d2abc93d7ccc1c1809b6866a3188d4329875deba6d0e36396f565267bb7726"
     },
     "SingleModeScenarioCook359005": {
@@ -18668,27 +18668,27 @@
         "hash": "8141c227a7ac053709a81917eadbac582c648f7130772f362d8126d8dbd325da"
     },
     "SingleModeScenarioCook359022": {
-        "text": "",
+        "text": "You received vegetables!",
         "hash": "68cb62a48a3eaeb9de05a3e623b47bb6ce9934ef7dc0228f0e7f0b46b1ad114f"
     },
     "SingleModeScenarioCook359023": {
-        "text": "",
+        "text": "You received vegetables!\nOne or more stocks are maxed",
         "hash": "e5ebb64b140b124c40001fc179f38e31772377cf7a3ebd8b04b80d7487048974"
     },
     "SingleModeScenarioCook359024": {
-        "text": "",
+        "text": "Field Points <color=#ff6d26>up {0}</color>",
         "hash": "d90319daf43a6c9c9bfc03d04e76c7581eb5c53151398386413aca8145f6abca"
     },
     "SingleModeScenarioCook359025": {
-        "text": "",
+        "text": "{0} <color=#ff6d26>up {1}</color>",
         "hash": "aee8a427e7c3158786ebd8bc3187997c924a17675c927d44d83e30bec3d901f0"
     },
     "SingleModeScenarioCook359026": {
-        "text": "",
+        "text": "{0} <color=#ff6d26>up {1}</color>",
         "hash": "912880dff5b50274e37bb676ab130b2cdcd565a07656bdcc29ec5b6bfa6aeee7"
     },
     "SingleModeScenarioCook359027": {
-        "text": "",
+        "text": "{0} is maxed out so could not increase",
         "hash": "2743bf5e4f360f8e7d98f57def24510894580f23d5e6367b33d9d92372ff9df6"
     },
     "SingleModeScenarioCook359028": {
@@ -18736,7 +18736,7 @@
         "hash": "da270b29197736bbc00b30a57c7026139e562cd64f4ce311e1579e73f18f817f"
     },
     "SingleModeScenarioCook425006": {
-        "text": "",
+        "text": "<nb>Visit Field",
         "hash": "8bbafbe550d2255cd21134f8de2972b1beef663420ba5614fd3c40a3d5597167"
     },
     "SingleModeScenarioCook425007": {
@@ -18748,7 +18748,7 @@
         "hash": "ff0b4479a1d4167a0241421213e53b01f3ccc0b36b7c932d71b5cf6cbd3f7765"
     },
     "SingleModeScenarioCook425009": {
-        "text": "",
+        "text": "Success!",
         "hash": "031db49aab738cff6cd95f7e81632f62bcd431a1301bf03e281bb83449420f62"
     },
     "SingleModeScenarioCook425010": {
@@ -18792,7 +18792,7 @@
         "hash": "a5b68b4893f45ef3a3e21cd1aedcdd99d23d2cdd9c8ccbf481a261d2e6f48e50"
     },
     "SingleModeScenarioCook425020": {
-        "text": "",
+        "text": "<nb>Not enough field points",
         "hash": "994fb592edf02e53ebf8bf9cdb597cdb8e46a04428ae18936b29c3c543235fc5"
     },
     "SingleModeScenarioCook425021": {
@@ -18800,7 +18800,7 @@
         "hash": "70049140d785e12a86b96af08926758b1a679033bde268fa229c3c7e44597222"
     },
     "SingleModeScenarioCook425022": {
-        "text": "",
+        "text": "Great success!",
         "hash": "cb4f4c9b63c18f480f69a72b5651a41e2961848e7b7c02ae96453b20063e4857"
     },
     "SingleModeScenarioCook425023": {
@@ -18860,7 +18860,7 @@
         "hash": "fbae6d956dd5db0b60fa641633f4a645db5536189cda07ecdc340a24ddeda5e2"
     },
     "SingleModeScenarioCook425039": {
-        "text": "Cooking Pt",
+        "text": "Cooking Pts",
         "hash": "e2dc6a1766d74e8d72caaec4806da7958dec216b5cebfc2dbb3d52f60e47b6cf"
     },
     "SingleModeScenarioCook425040": {
@@ -18932,7 +18932,7 @@
         "hash": "24a660360a5f3fde57e76e4fd6b4a3961a6d8c2f63d9d8aa8c735de1b3371ef6"
     },
     "SingleModeScenarioCook425064": {
-        "text": "Stats gained with {0} training <color=#ff6d26>increased by {1}%</color> for one turn",
+        "text": "{0} training stats <color=#ff6d26>increased by {1}%</color> for one turn",
         "hash": "7617ddc5b4a59001a78c1a837a4e5d373da3f70fc5a3d422142fbe3fb9ab9ca1"
     },
     "SingleModeScenarioCook425065": {
@@ -18972,23 +18972,23 @@
         "hash": "e9f03c216a6663765ea6551c5da0c5a73e12070be7396b1fa39fb18ced321472"
     },
     "SingleModeScenarioCook425074": {
-        "text": "",
+        "text": "She made a delicious {0}",
         "hash": "7a4a73fbc4a955bef4a1711d80e61af25692965f3e580991ccf96d5464cc651d"
     },
     "SingleModeScenarioCook425075": {
-        "text": "",
+        "text": "Cooking Pts <color=#ff6d26>up {0}</color>",
         "hash": "f9ed9dcddbf7829778e4061e9b234f05d12310db5932fdfb4fe321c5acf27b69"
     },
     "SingleModeScenarioCook425076": {
-        "text": "",
+        "text": "Cooking with {0} and \nothers brought some effects!",
         "hash": "de324c3c2c053f38ecf5927db921003d56f1ba99d750fa077b25e338a36e8856"
     },
     "SingleModeScenarioCook425077": {
-        "text": "",
+        "text": "{0} received bonus {1}",
         "hash": "f24273486b04355a4fd196bc50dbed413fbce1114eeb6e7b16fdc0610357e372"
     },
     "SingleModeScenarioCook425078": {
-        "text": "",
+        "text": ", ",
         "hash": "427566260604d16fb4a900e51400dd5dfac2ef749901179434735f0d0008d100"
     },
     "SingleModeScenarioCook425079": {
@@ -19004,11 +19004,11 @@
         "hash": "1cad1e01e546382f37e6d2400f4f96340cc24c548ceb140bc4be7f110635f61c"
     },
     "SingleModeScenarioCook425082": {
-        "text": "Planting succesful!\n<color=#FF6D26>{0}</color> seems to be growing especially well.",
+        "text": "Successfully planted <color=#FF6D26>{0}</color>!",
         "hash": "77a154ee425cc58761f6414da39afa77f23b3ef1774f7756ecd8c34194a11f5b"
     },
     "SingleModeScenarioCook425083": {
-        "text": "",
+        "text": "Planting <color=#FF6D26>{0}</color> went\nexceedingly well!",
         "hash": "bac59b0b1c0ab6e88d6a1e903a2bee5bf4558243b69980c335761903dcffa366"
     },
     "SingleModeScenarioCook425084": {
@@ -19032,7 +19032,7 @@
         "hash": "0fab8bbd12ed76558633ad4b277a70b2420881e51471872dc1e36b2fb682cc6a"
     },
     "SingleModeScenarioCook425089": {
-        "text": "More Cooking Points = more bonuses",
+        "text": "<nb>More Cooking Points gives more bonuses",
         "hash": "9b3094ce1cbd0ebb79584fe162d9bf3768baf4b7835cb7a533a8d20c6e700701"
     },
     "SingleModeScenarioCook425090": {
@@ -19040,7 +19040,7 @@
         "hash": "d8156bae0c4243d3742fc4e9774d8aceabe0410249d720c855f98afc88ff846c"
     },
     "SingleModeScenarioCook425091": {
-        "text": "Cooking Pt Goal",
+        "text": "Point Target",
         "hash": "4fbaa4b42b1412d14639e3206a8cf79f38a3b86147258f45bd9ec15c4378b3cb"
     },
     "SingleModeScenarioCook425092": {
@@ -19052,11 +19052,11 @@
         "hash": "ac3db25dff5878d901694697125fd7077856fd0dc7b5e3bb395b0f43fcc91639"
     },
     "SingleModeScenarioCook425094": {
-        "text": "Tasting Party:",
+        "text": "Tasting Party",
         "hash": "e841ef757295745ca874ad2a3d3e988f9e8ba1b706b9b833368ac0d98c0e4d5f"
     },
     "SingleModeScenarioCook425095": {
-        "text": "Food Festival:",
+        "text": "Food Festival",
         "hash": "a4c2d796f677a7c95eb9a4ee13587819f2b539b6b6e74eb273563ac428ed861b"
     },
     "SingleModeScenarioCook425096": {
@@ -19068,11 +19068,11 @@
         "hash": "5af380438b82e16605a00687f179e00c028f027b39df2989184002ae0f8b641a"
     },
     "SingleModeScenarioCook425098": {
-        "text": "",
+        "text": "<nb><sc=85>     After this, you won't be able to upgrade the field until September",
         "hash": "81adf54f99886cd80b1b8f232d75db9531cc2446a9f9707c222db3b4089d9fdb"
     },
     "SingleModeScenarioCook425099": {
-        "text": "",
+        "text": "Start Tasting!",
         "hash": "3f629cdba033e803712d3b63142c5560125abe7f713e90f49ad224b5419addc0"
     },
     "SingleModeScenarioCook425100": {
@@ -19084,11 +19084,11 @@
         "hash": "177b3b584ca0977588ce8716b59ea0f819621f73ae2b90efbdf7caa9765cd4c2"
     },
     "SingleModeScenarioCook425102": {
-        "text": "",
+        "text": "You harvested the field!",
         "hash": "357ca2556a49b6ed0273cc5b314ab1eecd9a244e61241d3bc614bf541d29435f"
     },
     "SingleModeScenarioCook425103": {
-        "text": "",
+        "text": "You harvested the field!\nOne or more stocks are maxed",
         "hash": "3ad980971545702788419adab78e1b31e68cf09a32b2c8d833e10ea61f36efa5"
     },
     "SingleModeScenarioCook425104": {
@@ -19124,11 +19124,11 @@
         "hash": "c8911acd8df5d5b0ab785631451770172d6802083808c62a9827c5bdde2ae8e9"
     },
     "SingleModeScenarioCook425112": {
-        "text": "List",
+        "text": "<nb>Cookbook",
         "hash": "65ec8a81e41bd0ad7e71b9202747aa9e90938ae17832b4c26d3de6e38a66d9fc"
     },
     "SingleModeScenarioCook425113": {
-        "text": "",
+        "text": "Unlock by making {0}",
         "hash": "f58b63c5dd1eb2510d3614eb65271cf72e9ea1e8457af0bd2942491600d77b3c"
     },
     "SingleModeScenarioCook425114": {
@@ -19140,7 +19140,7 @@
         "hash": "74958c47b9e08fcdecea4d6de46572789139763c38c40cdc58963d3e82bb9f92"
     },
     "SingleModeScenarioCook425116": {
-        "text": "",
+        "text": "Cookbook Entry",
         "hash": "4de95facfb1881f1c71118ec27d84e5894979a4e70f3bbb0767fdd827ba2b096"
     },
     "SingleModeScenarioCook585001": {
@@ -19152,7 +19152,7 @@
         "hash": "00c7029b35eb4fc543f69eb48ca4ded1f66447703de98cc43f65c0a5d1dcc2ff"
     },
     "SingleModeScenarioCook585003": {
-        "text": "",
+        "text": "<nb>Are you sure you want to make this dish?",
         "hash": "a9b5e28d3efd945806ad03d5a8071ecb19852ea2338b34aa82146af9f8ef3d09"
     },
     "SingleModeScenarioCook585004": {
@@ -19160,15 +19160,15 @@
         "hash": "7661b49a4e8ef975bc9c5d54bd76b96287071844d5bfdd9dd7af093a237c5a74"
     },
     "SingleModeScenarioCook585005": {
-        "text": "",
+        "text": "<nb>Change Dish",
         "hash": "20263b8af99ae8ba8e1adaee575e5d86c5d60306b0229a4ae32383f054f11d50"
     },
     "SingleModeScenarioCook585006": {
-        "text": "",
+        "text": "<nb><sc=85>Cutscene Skip: {0}",
         "hash": "c52cf5b47421cccbd0d9ae8248f98bfdf9e661d8b88f701de716d9e662baaf9f"
     },
     "SingleModeScenarioCook585007": {
-        "text": "",
+        "text": "<nb>Stocks after Cooking",
         "hash": "27c5228d99ed4ebd832bb2cb63702ba6308980887cdbc835042eca45915fce6c"
     },
     "SingleModeScenarioCook585008": {
@@ -19212,7 +19212,7 @@
         "hash": "a65a0af4493780a2a835c9a0794597ead61109d5664f048236cfb6e2e00e57cb"
     },
     "SingleModeScenarioCook585018": {
-        "text": "",
+        "text": "<nb>Selected Dish",
         "hash": "6cd0f17bed275628560db060aa9d4c187088a964f54895a9b35ace9cea25119f"
     },
     "SingleModeScenarioCook585019": {
@@ -19220,7 +19220,7 @@
         "hash": "fb9205e9cee2fe0f4a4ccdf0667ad01c8b2065bfc5736131bd892a72eea7c8a7"
     },
     "SingleModeScenarioCook585020": {
-        "text": "",
+        "text": "<color=#ff911c>New dishes</color> are now available",
         "hash": "c555540d47d9cb3f4eac9b29dd4f4c23cd8135f1752fcc5e0a56a1b8465be42e"
     },
     "SingleModeScenarioCook585021": {
@@ -19228,7 +19228,7 @@
         "hash": "43b0ab9547e412621ce33c5ceec208ea856371b85eb3723719407462a5386f4a"
     },
     "SingleModeScenarioCook585022": {
-        "text": "",
+        "text": "<color=#ff911c>Higher vegetable levels</color> now available",
         "hash": "a0c2bd3bba5a7e2a68a4c8ad8c27e6d57e355b6cfa3a0a156faa5d8bd0c8d0c9"
     },
     "SingleModeScenarioCook585023": {
@@ -19276,7 +19276,7 @@
         "hash": "abaee8dc0f69420b34cdcdaec0cac72954281b4cc2c4b04e8900d6d96500ae01"
     },
     "SingleModeScenarioCook585034": {
-        "text": "",
+        "text": "<nb>Cooking Pts",
         "hash": "7129ddfdfff84fac2c09095cfae987112db0463e47768147014f6cd48de5ed10"
     },
     "SingleModeScenarioFree418001": {
@@ -22428,7 +22428,7 @@
         "hash": "ba9caa286e3d64554d64f0f1ffc071ad3bcfe268e3bf0ad98a838094b520c751"
     },
     "TeamBuilding352003": {
-        "text": "",
+        "text": "Inv.",
         "hash": "6f5d0476a47d3b2fdb076e90139026e62ea9480ce6f24c3765ecb3bb3137103e"
     },
     "TeamBuilding352004": {
