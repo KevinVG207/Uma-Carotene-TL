@@ -16960,7 +16960,7 @@
         "hash": "3289c8c3542555eab652b1d502596f299243bc0b497badcbab16b7a192ac9cc6"
     },
     "SingleMode0528": {
-        "text": "",
+        "text": "URA Finals",
         "hash": "dd0c9bebfd9794b7194d5fb7b3e64264cef587ab0105ad38f8268743e9f109ac"
     },
     "SingleMode0529": {
@@ -18016,7 +18016,7 @@
         "hash": "e27204a2e40c54bd95e6c2b2059c889ec0e9d0365885c111cdd180358ab7577b"
     },
     "SingleMode425021": {
-        "text": "",
+        "text": "<nb>URA Finals",
         "hash": "926ddf57ee123cfebcf42a4ec32378f4d571d74e865bfd9215f6adcd446d2378"
     },
     "SingleMode497001": {
@@ -18644,7 +18644,7 @@
         "hash": "5c82ef6fedcd03879d46d57d7251bef7df91a6cd3f304161dce17533113c185a"
     },
     "SingleModeScenarioCook359016": {
-        "text": "",
+        "text": "The food was delicious!\nEveryone is <color=#FF6D26>greatly satisfied!</color>",
         "hash": "d36a1d388cef2e1cd0d8450ac594e7cbae3a4163017bf6303fed1e19d4df200e"
     },
     "SingleModeScenarioCook359017": {
@@ -18916,7 +18916,7 @@
         "hash": "439ff9211d93fbb90c9de805b315e58a84a79e47954f8afb5e15d094400b4dd2"
     },
     "SingleModeScenarioCook425059": {
-        "text": "",
+        "text": "You made cooking friends!",
         "hash": "9a798fa76323d885931b528b88bb4a139dbab020ca9a5f787e67c84d06c0d3ee"
     },
     "SingleModeScenarioCook425061": {
@@ -19104,7 +19104,7 @@
         "hash": "6ce5bd228d4dfd4c1ee243ddf951957252b3e5bc5a33179a1715048e3fa6f328"
     },
     "SingleModeScenarioCook425107": {
-        "text": "",
+        "text": "<sc=80><nb>Exceedingly Well",
         "hash": "a5c97079f364ff1783c26d6ec9bbb4c0eac9a44a1bd6f0367d2358f91a920cef"
     },
     "SingleModeScenarioCook425108": {
@@ -19132,11 +19132,11 @@
         "hash": "f58b63c5dd1eb2510d3614eb65271cf72e9ea1e8457af0bd2942491600d77b3c"
     },
     "SingleModeScenarioCook425114": {
-        "text": "",
+        "text": "<sc=80>Unlock by getting Great Success with {0}",
         "hash": "6410abb0c50bc066964b79e8f888f7d41cd84342cdf0681a7243d227d2931bc3"
     },
     "SingleModeScenarioCook425115": {
-        "text": "",
+        "text": "<sc=80>Unlock by getting Great Succes using {0}",
         "hash": "74958c47b9e08fcdecea4d6de46572789139763c38c40cdc58963d3e82bb9f92"
     },
     "SingleModeScenarioCook425116": {
@@ -19148,7 +19148,7 @@
         "hash": "fcc724acff8d7b6f607496372f28d68ff72dc4eb03d37cb7722c5f9176262671"
     },
     "SingleModeScenarioCook585002": {
-        "text": "{0} <p=pt,pts,{0}> until next Great Success",
+        "text": "<nb>{0} <p=pt,pts,{0}> until next guaranteed Great Success",
         "hash": "00c7029b35eb4fc543f69eb48ca4ded1f66447703de98cc43f65c0a5d1dcc2ff"
     },
     "SingleModeScenarioCook585003": {
