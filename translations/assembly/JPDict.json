@@ -15972,7 +15972,7 @@
         "hash": "12dd16593a75934d0b80bb958ea25ec7b5b3ca6971f3d392156111a33fdbf437"
     },
     "SingleMode0245": {
-        "text": "",
+        "text": "<nb>Confirm Training End",
         "hash": "1ce3374de0178ad3b55484b9f27ad247a336671de0d0558df3e3389b1cf70003"
     },
     "SingleMode0246": {
@@ -16236,15 +16236,15 @@
         "hash": "8f4e64f41681a99073e57afb9de4302bb4bef8cd61d3194e8110006f4725e931"
     },
     "SingleMode0329": {
-        "text": "",
+        "text": "Are you sure you want to\nfinish the training?",
         "hash": "04040af0ff18f9b68892c6f83d1c18670be45aee1ef16aeda14bc9e28fca6ade"
     },
     "SingleMode0330": {
-        "text": "",
+        "text": "Skill Pts.",
         "hash": "e576df87f4c8d85232ba1ac42f5d07c462690ec2121cf0f3abb16ed8766ba3f6"
     },
     "SingleMode0331": {
-        "text": "",
+        "text": "<nb>Remaining Skill Pts. will be lost.",
         "hash": "a1d2364bbada17287a97734330a07c2d210b35794e70300f9b07e3f4370e956d"
     },
     "SingleMode0332": {
@@ -18480,7 +18480,7 @@
         "hash": "a3812fde7668994a616975f9eadf14fee1ee40b788c023f7f0cd1f3539307e3b"
     },
     "SingleModeScenarioArc508005": {
-        "text": "Expect.",
+        "text": "<sc=85>Forecast",
         "hash": "5d4568af4be127b8d5d753f36ca1b0e2482b8a85d089cf30267966904936e79f"
     },
     "SingleModeScenarioArc508007": {
@@ -18712,7 +18712,7 @@
         "hash": "06eaf0365ad6143d7699851a56d2639cd13784be30e8d0c6205717f72c400e18"
     },
     "SingleModeScenarioCook419005": {
-        "text": "",
+        "text": "<sc=90>You can upgrade a vegetable on your field\nthat increases the effects of this dish!",
         "hash": "53a3ca901d95bb6a0fad6c9e328b07cca0f875d49f0d0c6f3944ca9f984520c5"
     },
     "SingleModeScenarioCook425001": {
@@ -18780,7 +18780,7 @@
         "hash": "6399f6a2dee0cabc34a0add7ce0be3b1294afbc06c25c53f6a305c7e44f89ca0"
     },
     "SingleModeScenarioCook425017": {
-        "text": "<nb>Are you sure you want to level up\nthe above vegetable(s)?",
+        "text": "<sc=90><nb>Are you sure you want to level up\nthe above vegetable(s)?",
         "hash": "09ad161884a894fef7987736c5986eb015ab2fa9322f11e75b51705c34af4a3e"
     },
     "SingleModeScenarioCook425018": {
@@ -19000,7 +19000,7 @@
         "hash": "07813ca6c5c59874dce0c7e87d05e60a7751539ad3de1c256eb6ae503cfabddf"
     },
     "SingleModeScenarioCook425081": {
-        "text": "",
+        "text": "<force>Finale!",
         "hash": "1cad1e01e546382f37e6d2400f4f96340cc24c548ceb140bc4be7f110635f61c"
     },
     "SingleModeScenarioCook425082": {
