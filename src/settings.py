@@ -3,6 +3,7 @@ import json
 import copy
 import os
 import argparse
+import sys
 
 default_settings = {
     'client_version': None,
@@ -17,7 +18,9 @@ default_settings = {
     'patch_customization': {},
     'patch_customization_enabled': False,
     'customization_changed': False,
-    'autosave_story_editor': True,
+    'dxgi_backup': False,
+    'cellar_downloaded': False,
+    'first_run': True,
 }
 
 class Settings:
@@ -25,6 +28,14 @@ class Settings:
 
     def __init__(self):
         self.args = self._parse_args()
+
+    @property
+    def first_run(self):
+        return self['first_run']
+    
+    @first_run.setter
+    def first_run(self, value):
+        self['first_run'] = value
 
     @property
     def client_version(self):
@@ -121,14 +132,22 @@ class Settings:
     @customization_changed.setter
     def customization_changed(self, value):
         self['customization_changed'] = value
-
-    @property
-    def autosave_story_editor(self):
-        return self['autosave_story_editor']
     
-    @autosave_story_editor.setter
-    def autosave_story_editor(self, value):
-        self['autosave_story_editor'] = value
+    @property
+    def dxgi_backup(self):
+        return self['dxgi_backup']
+
+    @dxgi_backup.setter
+    def dxgi_backup(self, value):
+        self['dxgi_backup'] = value
+    
+    @property
+    def cellar_downloaded(self):
+        return self['cellar_downloaded']
+
+    @cellar_downloaded.setter
+    def cellar_downloaded(self, value):
+        self['cellar_downloaded'] = value
     
     def _load(self):
         # print("Loading settings")
@@ -180,6 +199,11 @@ class Settings:
         p.add_argument('-c', '--customization', action='store_true', help="Show the customization widget")
 
         return p.parse_args()
+    
+    def has_args(self):
+        if len(sys.argv) > 1:
+            return True
+        return False
 
 settings = Settings()
 
