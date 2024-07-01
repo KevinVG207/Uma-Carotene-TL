@@ -21,6 +21,7 @@ default_settings = {
     'dxgi_backup': False,
     'cellar_downloaded': False,
     'first_run': True,
+    'autosave_story_editor': True
 }
 
 class Settings:
@@ -148,6 +149,14 @@ class Settings:
     @cellar_downloaded.setter
     def cellar_downloaded(self, value):
         self['cellar_downloaded'] = value
+    
+    @property
+    def autosave_story_editor(self):
+        return self['autosave_story_editor']
+    
+    @autosave_story_editor.setter
+    def autosave_story_editor(self, value):
+        self['autosave_story_editor'] = value
     
     def _load(self):
         # print("Loading settings")
