@@ -1,0 +1,544 @@
+{
+    "type": "story",
+    "row_index": 16865,
+    "file_name": "story/data/04/1058/storytimeline_041058004",
+    "hash": "ESD6KMKBU5MPDUNGQBH6ZLLGAFRV754J",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -3190456188451877280,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "From that day forward, Meisho Doto threw herself into practicing \non her own.",
+            "name": "",
+            "path_id": 9102001894758008195,
+            "block_id": 1,
+            "clip_length": 93,
+            "processed": "<story>From that day forward, Meisho Doto threw herself into practicing \n<story>on her own."
+        },
+        {
+            "text": "Huff, huff, huff...! \nO-one more time...!",
+            "name": "Meisho Doto",
+            "path_id": -4880106625534384474,
+            "block_id": 2,
+            "clip_length": 183,
+            "processed": "<story>Huff, huff, huff...! \n<story>O-one more time...!"
+        },
+        {
+            "text": "Huff, wheeze, hufff...! \nI-I'm tire... No, I can't! I'm only just starting!",
+            "name": "Meisho Doto",
+            "path_id": 8810024536121917458,
+            "block_id": 3,
+            "clip_length": 338,
+            "processed": "<story>Huff, wheeze, hufff...! \n<story>I-I'm tire... No, I can't! I'm only just starting!"
+        },
+        {
+            "text": "Taking things head-on, without giving up――",
+            "name": "",
+            "path_id": -2696561378494361071,
+            "block_id": 4,
+            "clip_length": 61,
+            "processed": "<story>Taking things head-on, without giving up――"
+        },
+        {
+            "text": "I'm going... to make it... the best race <i>everrrrrr～～!!!!</i>",
+            "name": "Meisho Doto",
+            "path_id": -118526754481824011,
+            "block_id": 5,
+            "clip_length": 243,
+            "processed": "<story>I'm going... to make it... the best race <i>everrrrrr～～!!!!</i>"
+        },
+        {
+            "text": "<i>――Uhyaaahhh!?</i>",
+            "name": "Meisho Doto",
+            "path_id": 1843838164424607431,
+            "block_id": 6,
+            "clip_length": 46,
+            "processed": "<story><i>――Uhyaaahhh!?</i>"
+        },
+        {
+            "text": "...Heh! Excellent work, Doto!",
+            "name": "T.M. Opera O",
+            "path_id": 2225910443124517951,
+            "block_id": 7,
+            "clip_length": 132,
+            "processed": "<story>...Heh! Excellent work, Doto!"
+        },
+        {
+            "text": "――And at long last, the day of the meet! \nThe seats were flooded with Umamusume, spectators and \ncompetitors alike.",
+            "name": "",
+            "path_id": -6190840520472210340,
+            "block_id": 8,
+            "clip_length": 108,
+            "processed": "<story>――And at long last, the day of the meet! \n<story>The seats were flooded with Umamusume, spectators and \n<story>competitors alike."
+        },
+        {
+            "text": "Did you hear? Doto's up against Opera O in the 1800 meter, \napparently! I think it was something like, <i>\"Myself and Doto, </i> \n<i>together in symphony\"</i>? Look, that's what the programme says!",
+            "name": "Classmate A",
+            "path_id": -1242430421184507647,
+            "block_id": 9,
+            "clip_length": 368,
+            "processed": "<story>Did you hear? Doto's up against Opera O in the 1800 meter, \n<story>apparently! I think it was something like, <i>\"Myself and Doto, </i> \n<story><i>together in symphony\"</i>? Look, that's what the programme says!"
+        },
+        {
+            "text": "A programme? Like, for a play? ......There's a lot to unpack \nthere. Anyway, if Doto's the challenger... then she's totally going \nto goof up.",
+            "name": "Classmate B",
+            "path_id": 6621871588565705295,
+            "block_id": 10,
+            "clip_length": 277,
+            "choices": [
+                {
+                    "text": "(G-give it your best, Meisho Doto...!)",
+                    "hash": "ae33e41b41e4dc5e47d0808721fe4f19cf455153fdcb9022a2e28f6015d34b0e"
+                }
+            ],
+            "processed": "<story>A programme? Like, for a play? ......There's a lot to unpack \n<story>there. Anyway, if Doto's the challenger... then she's totally going \n<story>to goof up."
+        },
+        {
+            "text": "Today, let us perform the ultimate symphony! \nI'll be counting on you, Doto!",
+            "name": "T.M. Opera O",
+            "path_id": 1502004547734151023,
+            "block_id": 11,
+            "clip_length": 176,
+            "processed": "<story>Today, let us perform the ultimate symphony! \n<story>I'll be counting on you, Doto!"
+        },
+        {
+            "text": "R-right...!",
+            "name": "Meisho Doto",
+            "path_id": -6971615548571633478,
+            "block_id": 12,
+            "clip_length": 70,
+            "processed": "<story>R-right...!"
+        },
+        {
+            "text": "<i>Pheww...</i> Huff....! \nLaces, check, bib, check, and my tummy doesn't hurt, check! \nI'm going to give it my best...!",
+            "name": "Meisho Doto",
+            "path_id": -7141795465588290186,
+            "block_id": 13,
+            "clip_length": 484,
+            "processed": "<story><i>Pheww...</i> Huff....! \n<story>Laces, check, bib, check, and my tummy doesn't hurt, check! \n<story>I'm going to give it my best...!"
+        },
+        {
+            "text": "Who will take first in the 1800 meter? \nThe Umamusume are all lined up at the gates―― and they're off!",
+            "name": "Commentator",
+            "path_id": 3101388197777725028,
+            "block_id": 14,
+            "clip_length": 245,
+            "processed": "<story>Who will take first in the 1800 meter? \n<story>The Umamusume are all lined up at the gates―― and they're off!"
+        },
+        {
+            "text": "――Already we're coming on the third corner. Slowly but \nsurely, the standout, T.M. Opera O is looking to break ahead of \nthe pack.",
+            "name": "Commentator",
+            "path_id": -632926365298349800,
+            "block_id": 15,
+            "clip_length": 208,
+            "processed": "<story>――Already we're coming on the third corner. Slowly but \n<story>surely, the standout, T.M. Opera O is looking to break ahead of \n<story>the pack."
+        },
+        {
+            "text": "(I can feel her coming up behind me...! \nShe's about to go on the offensive――)",
+            "name": "Meisho Doto",
+            "path_id": 6371779781293321651,
+            "block_id": 16,
+            "clip_length": 179,
+            "processed": "<story>(I can feel her coming up behind me...! \n<story>She's about to go on the offensive――)"
+        },
+        {
+            "text": "We're finally on the home stretch! \nFrom the outside, it's T.M. Opera O, T.M. Opera O is pushing \nfor the lead!",
+            "name": "Commentator",
+            "path_id": -7222295892510929644,
+            "block_id": 17,
+            "clip_length": 181,
+            "processed": "<story>We're finally on the home stretch! \n<story>From the outside, it's T.M. Opera O, T.M. Opera O is pushing \n<story>for the lead!"
+        },
+        {
+            "text": "(There she is...!)",
+            "name": "Meisho Doto",
+            "path_id": -6667502125189782958,
+            "block_id": 18,
+            "clip_length": 40,
+            "processed": "<story>(There she is...!)"
+        },
+        {
+            "text": "The ending of this story, like my Victory Road, is already set in \nstone...!",
+            "name": "T.M. Opera O",
+            "path_id": 8568531351435556868,
+            "block_id": 19,
+            "clip_length": 144,
+            "processed": "<story>The ending of this story, like my Victory Road, is already set in \n<story>stone...!"
+        },
+        {
+            "text": "<i>――Haaaaaahhhh!!</i>",
+            "name": "T.M. Opera O",
+            "path_id": 7191463970749750202,
+            "block_id": 20,
+            "clip_length": 71,
+            "processed": "<story><i>――Haaaaaahhhh!!</i>"
+        },
+        {
+            "text": "(S-she's getting further and further away...! \nOpera O-san really is a-amazi――)",
+            "name": "Meisho Doto",
+            "path_id": 2450812037320160337,
+            "block_id": 21,
+            "clip_length": 230,
+            "processed": "<story>(S-she's getting further and further away...! \n<story>Opera O-san really is a-amazi――)"
+        },
+        {
+            "text": "<i>――Fwehh!?</i>",
+            "name": "Meisho Doto",
+            "path_id": 3448503541502824305,
+            "block_id": 22,
+            "clip_length": 33,
+            "processed": "<story><i>――Fwehh!?</i>"
+        },
+        {
+            "text": "What's this, Meisho Doto's lost her balance――!? \nHas she tripped!?",
+            "name": "Commentator",
+            "path_id": 8075935118518660534,
+            "block_id": 23,
+            "clip_length": 158,
+            "processed": "<story>What's this, Meisho Doto's lost her balance――!? \n<story>Has she tripped!?"
+        },
+        {
+            "text": "(Why? Why now, too!? I really am just――)",
+            "name": "Meisho Doto",
+            "path_id": 2576739654321950780,
+            "block_id": 24,
+            "clip_length": 198,
+            "processed": "<story>(Why? Why now, too!? I really am just――)"
+        },
+        {
+            "text": "\"Not knowing when to give up is your strength.\"",
+            "name": "",
+            "path_id": 5128953580331246631,
+            "block_id": 25,
+            "clip_length": 64,
+            "processed": "<story>\"Not knowing when to give up is your strength.\""
+        },
+        {
+            "text": "\"Not knowing when to give up is your strength.\"",
+            "name": "",
+            "path_id": 4245995677535405781,
+            "block_id": 26,
+            "clip_length": 67,
+            "processed": "<story>\"Not knowing when to give up is your strength.\""
+        },
+        {
+            "text": "....Ngh.... Ra... ra...<i> raaaaaaaaagh!!!!</i>",
+            "name": "Meisho Doto",
+            "path_id": 4232788476063901946,
+            "block_id": 27,
+            "clip_length": 212,
+            "processed": "<story>....Ngh.... Ra... ra...<i> raaaaaaaaagh!!!!</i>"
+        },
+        {
+            "text": "No, she quickly regains her balance, and sets her sights on \nOpera O! 200 meters left―― Will Doto! Overtake Opera O?!",
+            "name": "Commentator",
+            "path_id": 1499707075561964056,
+            "block_id": 28,
+            "clip_length": 258,
+            "processed": "<story>No, she quickly regains her balance, and sets her sights on \n<story>Opera O! 200 meters left―― Will Doto! Overtake Opera O?!"
+        },
+        {
+            "text": "(I'll overtake her... I'll overtake her!)",
+            "name": "Meisho Doto",
+            "path_id": -6421962334263255575,
+            "block_id": 29,
+            "clip_length": 143,
+            "processed": "<story>(I'll overtake her... I'll overtake her!)"
+        },
+        {
+            "text": "<i>DAAAAAAHHHHHHーー!!!!!</i>",
+            "name": "Meisho Doto",
+            "path_id": -2157272190527437984,
+            "block_id": 30,
+            "clip_length": 101,
+            "choices": [
+                {
+                    "text": "......!",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story><i>DAAAAAAHHHHHHーー!!!!!</i>"
+        },
+        {
+            "text": "They're neck and neck! T.M. Opera O! Meisho Doto! \nAnd the winner is―― <i>T.M. Opera O!</i>",
+            "name": "Commentator",
+            "path_id": 4753238461109323662,
+            "block_id": 31,
+            "clip_length": 283,
+            "processed": "<story>They're neck and neck! T.M. Opera O! Meisho Doto! \n<story>And the winner is―― <i>T.M. Opera O!</i>"
+        },
+        {
+            "text": "Huff, huff... huffff! \nI knew it, I couldn't overtake her...",
+            "name": "Meisho Doto",
+            "path_id": 2419006716549049321,
+            "block_id": 32,
+            "clip_length": 290,
+            "processed": "<story>Huff, huff... huffff! \n<story>I knew it, I couldn't overtake her..."
+        },
+        {
+            "text": "(But... so many of the girls watching us are smiling... \nMaybe I'm... a little bit useful to Opera O-san now...)",
+            "name": "Meisho Doto",
+            "path_id": 5647321341278817637,
+            "block_id": 33,
+            "clip_length": 508,
+            "processed": "<story>(But... so many of the girls watching us are smiling... \n<story>Maybe I'm... a little bit useful to Opera O-san now...)"
+        },
+        {
+            "text": "<i>Ahh,</i> the applause echoes in my ear! The audience gazes upon \nme in admiration! \n<i>EXCELLENT!</i> Thank you, one and all, thank you!",
+            "name": "T.M. Opera O",
+            "path_id": -6357809059492367933,
+            "block_id": 34,
+            "clip_length": 309,
+            "processed": "<story><i>Ahh,</i> the applause echoes in my ear! The audience gazes upon \n<story>me in admiration! \n<story><i>EXCELLENT!</i> Thank you, one and all, thank you!"
+        },
+        {
+            "text": "However, I must bring attention to a person, without whom this \nshow would be incomplete! Indeed, even I must acknowledge the \npower of Meisho Doto and her indominable will!",
+            "name": "T.M. Opera O",
+            "path_id": -2068208424666015286,
+            "block_id": 35,
+            "clip_length": 376,
+            "processed": "<story>However, I must bring attention to a person, without whom this \n<story>show would be incomplete! Indeed, even I must acknowledge the \n<story>power of Meisho Doto and her indominable will!"
+        },
+        {
+            "text": "<i>Fwehhh!?</i>",
+            "name": "Meisho Doto",
+            "path_id": 6692148213981297196,
+            "block_id": 36,
+            "clip_length": 34,
+            "processed": "<story><i>Fwehhh!?</i>"
+        },
+        {
+            "text": "Even my prodigious genius could not deter her! \nGive her another round of applause for putting on such a \nwonderful show!",
+            "name": "T.M. Opera O",
+            "path_id": -6303028231436758297,
+            "block_id": 37,
+            "clip_length": 276,
+            "processed": "<story>Even my prodigious genius could not deter her! \n<story>Give her another round of applause for putting on such a \n<story>wonderful show!"
+        },
+        {
+            "text": "<i>(Whoooooooohh!)</i>",
+            "name": "",
+            "path_id": -8661745969822747201,
+            "block_id": 38,
+            "clip_length": 55,
+            "processed": "<story><i>(Whoooooooohh!)</i>"
+        },
+        {
+            "text": "W-waahhh! T-thank you very much!? \nWhyyy!?",
+            "name": "Meisho Doto",
+            "path_id": 2782937563644158287,
+            "block_id": 39,
+            "clip_length": 218,
+            "processed": "<story>W-waahhh! T-thank you very much!? \n<story>Whyyy!?"
+        },
+        {
+            "text": "Your tenacity made you more than worthy enough an opponent! \nI knew you'd be perfect, of course, but it bears repeating, I made \nthe right choice casting you!",
+            "name": "T.M. Opera O",
+            "path_id": 546660377053581252,
+            "block_id": 40,
+            "clip_length": 299,
+            "processed": "<story>Your tenacity made you more than worthy enough an opponent! \n<story>I knew you'd be perfect, of course, but it bears repeating, I made \n<story>the right choice casting you!"
+        },
+        {
+            "text": "Then, you didn't just pick me by coincidence...?",
+            "name": "Meisho Doto",
+            "path_id": 4812662182145432099,
+            "block_id": 41,
+            "clip_length": 118,
+            "processed": "<story>Then, you didn't just pick me by coincidence...?"
+        },
+        {
+            "text": "Hahaha! Come, now, what are you saying?! \nI'll be counting on you for the next one, Doto!",
+            "name": "T.M. Opera O",
+            "path_id": -3679408609878247328,
+            "block_id": 42,
+            "clip_length": 215,
+            "processed": "<story>Hahaha! Come, now, what are you saying?! \n<story>I'll be counting on you for the next one, Doto!"
+        },
+        {
+            "text": "............!",
+            "name": "Meisho Doto",
+            "path_id": -3271242881284069907,
+            "block_id": 43,
+            "clip_length": 65,
+            "processed": "<story>............!"
+        },
+        {
+            "text": "As she stood still in a daze, Meisho Doto was once again \nenveloped in the spectators' applause.",
+            "name": "",
+            "path_id": 2630815070396390720,
+            "block_id": 44,
+            "clip_length": 93,
+            "processed": "<story>As she stood still in a daze, Meisho Doto was once again \n<story>enveloped in the spectators' applause."
+        },
+        {
+            "text": "That was so tense! I really thought she was going to fall over! \nNice recovery! You go, Doto!",
+            "name": "Classmate A",
+            "path_id": -5271461099841306160,
+            "block_id": 45,
+            "clip_length": 233,
+            "processed": "<story>That was so tense! I really thought she was going to fall over! \n<story>Nice recovery! You go, Doto!"
+        },
+        {
+            "text": "No Umamusume in the audience would make fun of her again. \nUnable to contain my excitement, I hurried down to meet her.",
+            "name": "",
+            "path_id": -5219455364838958984,
+            "block_id": 46,
+            "clip_length": 112,
+            "processed": "<story>No Umamusume in the audience would make fun of her again. \n<story>Unable to contain my excitement, I hurried down to meet her."
+        },
+        {
+            "text": "You came to watch? Thank you so much... \nIt was tough, but I'm so happy I managed to give it a good run... \nEhehe...",
+            "name": "Meisho Doto",
+            "path_id": 1056058489401052939,
+            "block_id": 47,
+            "clip_length": 461,
+            "processed": "<story>You came to watch? Thank you so much... \n<story>It was tough, but I'm so happy I managed to give it a good run... \n<story>Ehehe..."
+        },
+        {
+            "text": "You know... \nI think this race is a big step forward for me～.",
+            "name": "Meisho Doto",
+            "path_id": -6620826143684009022,
+            "block_id": 48,
+            "clip_length": 291,
+            "processed": "<story>You know... \n<story>I think this race is a big step forward for me～."
+        },
+        {
+            "text": "She looked as if there was nothing worrying her ―― \nBut I knew the truth, that her knees were covered in scrapes \nand bandages.",
+            "name": "",
+            "path_id": 2399861905536082627,
+            "block_id": 49,
+            "clip_length": 97,
+            "processed": "<story>She looked as if there was nothing worrying her ―― \n<story>But I knew the truth, that her knees were covered in scrapes \n<story>and bandages."
+        },
+        {
+            "text": "I knew she'd mopped up her tears time and time again. \nI knew she'd fallen and picked herself up when others could not.",
+            "name": "",
+            "path_id": -3936263079405783047,
+            "block_id": 50,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "You're one strong Umamusume.",
+                    "hash": "7930b259b5321e9b4ddaaf20c737790042870285f1d27f6c5b3e31482c475331"
+                },
+                {
+                    "text": "You're one strong Umamusume.",
+                    "hash": "02a3d495a040c1e1dcd1400938d9c4b20f8e85aa76d28fbebe29651198f19be0"
+                }
+            ],
+            "processed": "<story>I knew she'd mopped up her tears time and time again. \n<story>I knew she'd fallen and picked herself up when others could not."
+        },
+        {
+            "text": "Huh...!? Wh-why'd you say that all of a sudden!?",
+            "name": "Meisho Doto",
+            "path_id": 153802427295371781,
+            "block_id": 51,
+            "clip_length": 144,
+            "processed": "<story>Huh...!? Wh-why'd you say that all of a sudden!?"
+        },
+        {
+            "text": "If she wants to change, then she can change, without a doubt. \nBecause Meisho Doto is an Umamusume who never gives up.",
+            "name": "",
+            "path_id": 6080092722333127711,
+            "block_id": 52,
+            "clip_length": 111,
+            "choices": [
+                {
+                    "text": "――I want to see how far you can go.",
+                    "hash": "e1cff37bf59c9e6c39f769e0e3f6141c7d65ff3723cfc2ffde6ab7a028e4f077"
+                },
+                {
+                    "text": "――I want to see how far you can go.",
+                    "hash": "1213a1ac20783973ea124066164bd99cf0ac966ed08b2f5990c7d2007d263a66"
+                }
+            ],
+            "processed": "<story>If she wants to change, then she can change, without a doubt. \n<story>Because Meisho Doto is an Umamusume who never gives up."
+        },
+        {
+            "text": "...! T-then, you mean...!",
+            "name": "Meisho Doto",
+            "path_id": -988029913869338799,
+            "block_id": 53,
+            "clip_length": 168,
+            "choices": [
+                {
+                    "text": "I'd like you to be my trainee.",
+                    "hash": "55d9720252f91d8d1b87708eb185fc269ef3680e7a5c7eccdfe33acc2669426f"
+                }
+            ],
+            "processed": "<story>...! T-then, you mean...!"
+        },
+        {
+            "text": "Hwu...! Y-y-y-y-you're really okay with me!? R-re-really!?",
+            "name": "Meisho Doto",
+            "path_id": -5533954098281147028,
+            "block_id": 54,
+            "clip_length": 259,
+            "choices": [
+                {
+                    "text": "Really!",
+                    "hash": "31afc9285ac4f4d03b454a4d37444e44cfee041a929e60ed6d78309db64b8fe9"
+                },
+                {
+                    "text": "Really!",
+                    "hash": "c0d1c493de2d2038af09aac4125c66a57fd46585361e7e9e1060e0a20caafb6b"
+                }
+            ],
+            "processed": "<story>Hwu...! Y-y-y-y-you're really okay with me!? R-re-really!?"
+        },
+        {
+            "text": "I.... I, I....! When I was running, I remembered what you told me...!",
+            "name": "Meisho Doto",
+            "path_id": 8360261904515170918,
+            "block_id": 55,
+            "clip_length": 334,
+            "processed": "<story>I.... I, I....! When I was running, I remembered what you told me...!"
+        },
+        {
+            "text": "\"Not knowing when to give up is your strength.\" \nThose words were like a little blessing to me... \nThat's why... umm...!",
+            "name": "Meisho Doto",
+            "path_id": 274602798225073523,
+            "block_id": 56,
+            "clip_length": 415,
+            "processed": "<story>\"Not knowing when to give up is your strength.\" \n<story>Those words were like a little blessing to me... \n<story>That's why... umm...!"
+        },
+        {
+            "text": "\"Not knowing when to give up is your strength.\" \nThose words were like a little blessing to me... \nThat's why... umm...!",
+            "name": "Meisho Doto",
+            "path_id": 7053540708774429551,
+            "block_id": 57,
+            "clip_length": 434,
+            "processed": "<story>\"Not knowing when to give up is your strength.\" \n<story>Those words were like a little blessing to me... \n<story>That's why... umm...!"
+        },
+        {
+            "text": "I- I think maybe I can change, if you're by my side! \nSo, basically, thank you for having me, Trainer-san!",
+            "name": "Meisho Doto",
+            "path_id": 4310280199308768683,
+            "block_id": 58,
+            "clip_length": 385,
+            "processed": "<story>I- I think maybe I can change, if you're by my side! \n<story>So, basically, thank you for having me, Trainer-san!"
+        },
+        {
+            "text": "(Bump!)",
+            "name": "",
+            "path_id": 4379827699222612630,
+            "block_id": 59,
+            "clip_length": 52,
+            "processed": "<story>(Bump!)"
+        },
+        {
+            "text": "Hwa!? Oh- oh no! I tripped! \nA-are you all right, <i>Trainer-saaaaan!?</i>",
+            "name": "Meisho Doto",
+            "path_id": -4917027054234508245,
+            "block_id": 60,
+            "clip_length": 263,
+            "processed": "<story>Hwa!? Oh- oh no! I tripped! \n<story>A-are you all right, <i>Trainer-saaaaan!?</i>"
+        }
+    ],
+    "title": "I'm sorry, but one day――"
+}

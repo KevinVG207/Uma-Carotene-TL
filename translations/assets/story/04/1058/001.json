@@ -1,0 +1,361 @@
+{
+    "type": "story",
+    "row_index": 16864,
+    "file_name": "story/data/04/1058/storytimeline_041058001",
+    "hash": "75IJHJQPTTITOS4X5GJV57BYUPZPXLSG",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 1958500849564031769,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "It had only been a few days since I first came to Tracen Academy. \nI was walking through the halls, on my way to the training \ngrounds to find an Umamusume to scout, when――",
+            "name": "",
+            "path_id": -1559880482238759541,
+            "block_id": 1,
+            "clip_length": 112,
+            "processed": "<story>It had only been a few days since I first came to Tracen Academy. \n<story>I was walking through the halls, on my way to the training \n<story>grounds to find an Umamusume to scout, when――"
+        },
+        {
+            "text": "<i>(NYOOM!)</i>",
+            "name": "",
+            "path_id": -2307128092259399899,
+            "block_id": 2,
+            "clip_length": 54,
+            "processed": "<story><i>(NYOOM!)</i>"
+        },
+        {
+            "text": "Look oooout!",
+            "name": "Meisho Doto",
+            "path_id": -6059300443658709249,
+            "block_id": 3,
+            "clip_length": 90,
+            "processed": "<story>Look oooout!"
+        },
+        {
+            "text": "A desk's leg flew right past me.",
+            "name": "",
+            "path_id": 281816332537696048,
+            "block_id": 4,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "!?",
+                    "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
+                }
+            ],
+            "processed": "<story>A desk's leg flew right past me."
+        },
+        {
+            "text": "A-Are you okaay.....? \n<i>Sorry, I'm sorry, so sorrryyyyyy...!</i>",
+            "name": "Meisho Doto",
+            "path_id": 7040203772666005138,
+            "block_id": 5,
+            "clip_length": 192,
+            "processed": "<story>A-Are you okaay.....? \n<story><i>Sorry, I'm sorry, so sorrryyyyyy...!</i>"
+        },
+        {
+            "text": "Thanks to her warning, I just barely managed to dodge it. \nBut, more importantly――",
+            "name": "",
+            "path_id": -3214846938515192944,
+            "block_id": 6,
+            "clip_length": 82,
+            "choices": [
+                {
+                    "text": "How'd it even go flying like that...?",
+                    "hash": "64d05fbe8fcf938e95c013df46a112b64f74c87a6f793d941f4aa90837c2344d"
+                }
+            ],
+            "processed": "<story>Thanks to her warning, I just barely managed to dodge it. \n<story>But, more importantly――"
+        },
+        {
+            "text": "――Oh, th-the leg! The desk...! \n<i>Right, w-w-what, what have I doooone...?!</i>",
+            "name": "Meisho Doto",
+            "path_id": 6247153616572501645,
+            "block_id": 7,
+            "clip_length": 333,
+            "processed": "<story>――Oh, th-the leg! The desk...! \n<story><i>Right, w-w-what, what have I doooone...?!</i>"
+        },
+        {
+            "text": "Wh-whwhwhwhwhwh- <i>what do I do....!?</i>",
+            "name": "Meisho Doto",
+            "path_id": -7894278090087546493,
+            "block_id": 8,
+            "clip_length": 131,
+            "processed": "<story>Wh-whwhwhwhwhwh- <i>what do I do....!?</i>"
+        },
+        {
+            "text": "She stood next to a desk with one of its legs snapped off. \nShe looked like she was on the verge of tears, so I let her explain \nthings, hoping it might calm her down――",
+            "name": "",
+            "path_id": -24457564354760908,
+            "block_id": 9,
+            "clip_length": 105,
+            "processed": "<story>She stood next to a desk with one of its legs snapped off. \n<story>She looked like she was on the verge of tears, so I let her explain \n<story>things, hoping it might calm her down――"
+        },
+        {
+            "text": "I... I'm clumsy, and dopey... I can't do anything right... \nSo I, er, um... Started looking for something helpful I could do...!",
+            "name": "Meisho Doto",
+            "path_id": -3027244995067112542,
+            "block_id": 10,
+            "clip_length": 564,
+            "processed": "<story>I... I'm clumsy, and dopey... I can't do anything right... \n<story>So I, er, um... Started looking for something helpful I could do...!"
+        },
+        {
+            "text": "I noticed Opera O-san's desk was making these clanky sounds... \nI got it in my head that I could maybe fix it without anyone \nnoticing, but...",
+            "name": "Meisho Doto",
+            "path_id": 6111211124937302555,
+            "block_id": 11,
+            "clip_length": 359,
+            "processed": "<story>I noticed Opera O-san's desk was making these clanky sounds... \n<story>I got it in my head that I could maybe fix it without anyone \n<story>noticing, but..."
+        },
+        {
+            "text": "Well, then, um... I used too much strength, and it broke...! \nI got spooked and the leg flew right out of my hand...!",
+            "name": "Meisho Doto",
+            "path_id": -6709977751883955397,
+            "block_id": 12,
+            "clip_length": 347,
+            "processed": "<story>Well, then, um... I used too much strength, and it broke...! \n<story>I got spooked and the leg flew right out of my hand...!"
+        },
+        {
+            "text": "I'm so sorry! Sorry for trying to fix it when I don't know how! \nSorry for bothering a trainer who was just passing <i>byyyyyy!</i>",
+            "name": "Meisho Doto",
+            "path_id": 7916836637391556036,
+            "block_id": 13,
+            "clip_length": 309,
+            "processed": "<story>I'm so sorry! Sorry for trying to fix it when I don't know how! \n<story>Sorry for bothering a trainer who was just passing <i>byyyyyy!</i>"
+        },
+        {
+            "text": "I have to do something before I make trouble for even more \npeople. Something, anything... That's it! Maybe glue will get it to \nstick!",
+            "name": "Meisho Doto",
+            "path_id": -6249923281756504539,
+            "block_id": 14,
+            "clip_length": 430,
+            "processed": "<story>I have to do something before I make trouble for even more \n<story>people. Something, anything... That's it! Maybe glue will get it to \n<story>stick!"
+        },
+        {
+            "text": "<i>It won't stiiiiiiick!!</i> \n<i>I-It's all gooey noowwww!!!!</i>",
+            "name": "Meisho Doto",
+            "path_id": 6000955562750377360,
+            "block_id": 15,
+            "clip_length": 204,
+            "processed": "<story><i>It won't stiiiiiiick!!</i> \n<story><i>I-It's all gooey noowwww!!!!</i>"
+        },
+        {
+            "text": "Oh, maybe...! \nIf I tie it up with a string, surely it'll...!",
+            "name": "Meisho Doto",
+            "path_id": 2736839626922348943,
+            "block_id": 16,
+            "clip_length": 261,
+            "processed": "<story>Oh, maybe...! \n<story>If I tie it up with a string, surely it'll...!"
+        },
+        {
+            "text": "<i>I can't tie it uuuup!!!!</i>",
+            "name": "Meisho Doto",
+            "path_id": -3753289562669650992,
+            "block_id": 17,
+            "clip_length": 110,
+            "processed": "<story><i>I can't tie it uuuup!!!!</i>"
+        },
+        {
+            "text": "<i>(SNAP!!)</i>",
+            "name": "",
+            "path_id": -6636226775356229095,
+            "block_id": 18,
+            "clip_length": 55,
+            "processed": "<story><i>(SNAP!!)</i>"
+        },
+        {
+            "text": "Hyah!? It broke!? \nAh, eh, wh, wh,<i> what do I dooo...!?</i>",
+            "name": "Meisho Doto",
+            "path_id": -9187348514091239692,
+            "block_id": 19,
+            "clip_length": 246,
+            "choices": [
+                {
+                    "text": "(I got caught up in supervising her for a while...)",
+                    "hash": "7d8616d53d5166a03cb6f512c8b149bedb217f428415a7d8fd3dec08ea1e247b",
+                    "processed": "<size=34>(I got caught up in supervising her for a while...)</size>"
+                }
+            ],
+            "processed": "<story>Hyah!? It broke!? \n<story>Ah, eh, wh, wh,<i> what do I dooo...!?</i>"
+        },
+        {
+            "text": "It'd already gotten pretty late. Right as I was about to suggest \nwe just talk to school staff to get the desk replaced――",
+            "name": "",
+            "path_id": 6506691300366351855,
+            "block_id": 20,
+            "clip_length": 124,
+            "processed": "<story>It'd already gotten pretty late. Right as I was about to suggest \n<story>we just talk to school staff to get the desk replaced――"
+        },
+        {
+            "text": "<i>HAAAHHH-HAHAHA!</i>",
+            "name": "T.M. Opera O",
+            "path_id": -4791173250601263247,
+            "block_id": 21,
+            "clip_length": 68,
+            "processed": "<story><i>HAAAHHH-HAHAHA!</i>"
+        },
+        {
+            "text": "I thought I heard a clamorous noise, and what do I find but such \n<i>tragedie! </i>To think a desk used by one as gorgeous as I would be \nso lamentably destroyed!",
+            "name": "T.M. Opera O",
+            "path_id": -2193286129849957610,
+            "block_id": 22,
+            "clip_length": 307,
+            "processed": "<story>I thought I heard a clamorous noise, and what do I find but such \n<story><i>tragedie! </i>To think a desk used by one as gorgeous as I would be \n<story>so lamentably destroyed!"
+        },
+        {
+            "text": "O-O-O-Opera, Opeope- <i>Opera O-san!?</i> \nI-I'm sorry, this is because, um, uh, I....",
+            "name": "Meisho Doto",
+            "path_id": 5488251795435466736,
+            "block_id": 23,
+            "clip_length": 342,
+            "processed": "<story>O-O-O-Opera, Opeope- <i>Opera O-san!?</i> \n<story>I-I'm sorry, this is because, um, uh, I...."
+        },
+        {
+            "text": "<i>EXCELLENT!</i>",
+            "name": "T.M. Opera O",
+            "path_id": 7161783489306573265,
+            "block_id": 24,
+            "clip_length": 53,
+            "processed": "<story><i>EXCELLENT!</i>"
+        },
+        {
+            "text": "...Huh?",
+            "name": "Meisho Doto",
+            "path_id": -4036130504323392547,
+            "block_id": 25,
+            "clip_length": 38,
+            "processed": "<story>...Huh?"
+        },
+        {
+            "text": "My desk laid to the ground, glistening and twinkling, two of its \nlegs shattered and splayed... And the moon, bathing it in light!",
+            "name": "T.M. Opera O",
+            "path_id": -1058409392437420180,
+            "block_id": 26,
+            "clip_length": 261,
+            "processed": "<story>My desk laid to the ground, glistening and twinkling, two of its \n<story>legs shattered and splayed... And the moon, bathing it in light!"
+        },
+        {
+            "text": "It's the perfect set for conveying sorrow! \nLook, Doto! Is it not beautiful? My form upon this stage?",
+            "name": "T.M. Opera O",
+            "path_id": -909555752862550277,
+            "block_id": 27,
+            "clip_length": 275,
+            "processed": "<story>It's the perfect set for conveying sorrow! \n<story>Look, Doto! Is it not beautiful? My form upon this stage?"
+        },
+        {
+            "text": "Y-yes...! You're very beautiful...!",
+            "name": "Meisho Doto",
+            "path_id": 5775587999156522417,
+            "block_id": 28,
+            "clip_length": 180,
+            "processed": "<story>Y-yes...! You're very beautiful...!"
+        },
+        {
+            "text": "Feel free to take pictures! \nYou there, prepare for me a wind befitting this moonlit stage!",
+            "name": "T.M. Opera O",
+            "path_id": -4730573922918048366,
+            "block_id": 29,
+            "clip_length": 264,
+            "choices": [
+                {
+                    "text": "What.",
+                    "hash": "80969d56b19202da3264bddc71a5ce375d45ed4833473d0eb22980dcdc6e9cc7"
+                }
+            ],
+            "processed": "<story>Feel free to take pictures! \n<story>You there, prepare for me a wind befitting this moonlit stage!"
+        },
+        {
+            "text": "So, somehow, we ended up doing an impromptu T.M. Opera O \nphoto shoot for a while.",
+            "name": "",
+            "path_id": 4712098540020602796,
+            "block_id": 30,
+            "clip_length": 98,
+            "processed": "<story>So, somehow, we ended up doing an impromptu T.M. Opera O \n<story>photo shoot for a while."
+        },
+        {
+            "text": "Mmmm... The photos turned out quite nicely! \nDestruction and creation... Hope and despair... \nAnd my beautiful self! <i>Bravo!</i>",
+            "name": "T.M. Opera O",
+            "path_id": -1935595227305214203,
+            "block_id": 31,
+            "clip_length": 341,
+            "processed": "<story>Mmmm... The photos turned out quite nicely! \n<story>Destruction and creation... Hope and despair... \n<story>And my beautiful self! <i>Bravo!</i>"
+        },
+        {
+            "text": "To think you were hiding such dramatic talent, Doto! \nI'm seeing you in a brand new light!",
+            "name": "T.M. Opera O",
+            "path_id": -6600759715493281566,
+            "block_id": 32,
+            "clip_length": 192,
+            "processed": "<story>To think you were hiding such dramatic talent, Doto! \n<story>I'm seeing you in a brand new light!"
+        },
+        {
+            "text": "Eh, n-no, I'm just... I'm not...!",
+            "name": "Meisho Doto",
+            "path_id": 9033247556700810246,
+            "block_id": 33,
+            "clip_length": 176,
+            "processed": "<story>Eh, n-no, I'm just... I'm not...!"
+        },
+        {
+            "text": "T.M. Opera O looked her up and down, then nodded with \nsatisfaction. Though I couldn't tell if she noticed Meisho Doto \nshrinking back...",
+            "name": "",
+            "path_id": 4563186733574288704,
+            "block_id": 34,
+            "clip_length": 124,
+            "processed": "<story>T.M. Opera O looked her up and down, then nodded with \n<story>satisfaction. Though I couldn't tell if she noticed Meisho Doto \n<story>shrinking back..."
+        },
+        {
+            "text": "――Mm. Just as I thought, my intuition never fails! \nLet me make you a very special <i>offer! </i>",
+            "name": "T.M. Opera O",
+            "path_id": -73576324113481151,
+            "block_id": 35,
+            "clip_length": 224,
+            "processed": "<story>――Mm. Just as I thought, my intuition never fails! \n<story>Let me make you a very special <i>offer! </i>"
+        },
+        {
+            "text": "In my upcoming Opera Show ―― The one they call the \n『Semiannual Race Meet』, you will put on a brand new play with \nme, a story of fierce competition!",
+            "name": "T.M. Opera O",
+            "path_id": 3370019064901022088,
+            "block_id": 36,
+            "clip_length": 314,
+            "processed": "<story>In my upcoming Opera Show ―― The one they call the \n<story>『Semiannual Race Meet』, you will put on a brand new play with \n<story>me, a story of fierce competition!"
+        },
+        {
+            "text": "...W... What...? \nYou, um.... want me to... a- act...?",
+            "name": "Meisho Doto",
+            "path_id": 8492032193703908315,
+            "block_id": 37,
+            "clip_length": 301,
+            "processed": "<story>...W... What...? \n<story>You, um.... want me to... a- act...?"
+        },
+        {
+            "text": "To put it simply... The one to play the role of my villain... \nWill be you, Doto!",
+            "name": "T.M. Opera O",
+            "path_id": 2418209355399615859,
+            "block_id": 38,
+            "clip_length": 174,
+            "processed": "<story>To put it simply... The one to play the role of my villain... \n<story>Will be you, Doto!"
+        },
+        {
+            "text": "...........",
+            "name": "Meisho Doto",
+            "path_id": -5423012764197977235,
+            "block_id": 39,
+            "clip_length": 58,
+            "processed": "<story>..........."
+        },
+        {
+            "text": "<i>WHAAAT?!!</i>",
+            "name": "Meisho Doto",
+            "path_id": -6457712772673743489,
+            "block_id": 40,
+            "clip_length": 54,
+            "processed": "<story><i>WHAAAT?!!</i>"
+        }
+    ],
+    "title": "Sorry for being clumsy"
+}
