@@ -1,0 +1,475 @@
+{
+    "type": "story",
+    "row_index": 16867,
+    "file_name": "story/data/04/1058/storytimeline_041058006",
+    "hash": "6SZIIAQ6CIZUUODUWH34GTGDYGSS6QCM",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -6616640776652792491,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I was taking a walk around town on my day off, when...",
+            "name": "",
+            "path_id": 8902888554816406245,
+            "block_id": 1,
+            "clip_length": 64,
+            "processed": "<story>I was taking a walk around town on my day off, when..."
+        },
+        {
+            "text": "<i>Uuuuuggh... Uuuuuuuuuggghhh........</i>",
+            "name": "Meisho Doto",
+            "path_id": 5597038827066538900,
+            "block_id": 2,
+            "clip_length": 293,
+            "processed": "<story><i>Uuuuuggh... Uuuuuuuuuggghhh........</i>"
+        },
+        {
+            "text": "...I saw a certain someone. \nThis time, the familiar shaking sight was accompanied by a faint \nmumble.",
+            "name": "",
+            "path_id": -596356929472044469,
+            "block_id": 3,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "Doto...",
+                    "hash": "0883e0e10154208e5657caa590226cf8e0e704cb58a847c7aca95a2013f6d27d"
+                }
+            ],
+            "processed": "<story>...I saw a certain someone. \n<story>This time, the familiar shaking sight was accompanied by a faint \n<story>mumble."
+        },
+        {
+            "text": "<i>Uhya!?</i> I'm sorry, so sorry! \nI'll get out of your way――",
+            "name": "Meisho Doto",
+            "path_id": 266300344149993903,
+            "block_id": 4,
+            "clip_length": 128,
+            "processed": "<story><i>Uhya!?</i> I'm sorry, so sorry! \n<story>I'll get out of your way――"
+        },
+        {
+            "text": "Wait, what? Trainer-san...? \nAhhhh, it's you... Hello...!",
+            "name": "Meisho Doto",
+            "path_id": -7098520015425696435,
+            "block_id": 5,
+            "clip_length": 346,
+            "choices": [
+                {
+                    "text": "What were you doing?",
+                    "hash": "8a2100bc3457db99444313546fbd5c54e976ac21a5b4c32318e7abac0e0967aa"
+                },
+                {
+                    "text": "What were you up to?",
+                    "hash": "3674ba64ff0bad195fd9b69289e8bd578b1cc0660f591f466f2ba8cbf3148690"
+                }
+            ],
+            "processed": "<story>Wait, what? Trainer-san...? \n<story>Ahhhh, it's you... Hello...!"
+        },
+        {
+            "text": "Uhhh, well... I came to buy clothes, but, um... \nGoing into a trendy store like that is too much for me to handle...",
+            "name": "Meisho Doto",
+            "path_id": 403468879712066004,
+            "block_id": 6,
+            "clip_length": 390,
+            "processed": "<story>Uhhh, well... I came to buy clothes, but, um... \n<story>Going into a trendy store like that is too much for me to handle..."
+        },
+        {
+            "text": "N-no, e-even regular clothes are way too good for me! \nI'm sorry! I'll just put on those trash bags over there and goooo!",
+            "name": "Meisho Doto",
+            "path_id": 3299204716439337416,
+            "block_id": 7,
+            "clip_length": 292,
+            "choices": [
+                {
+                    "text": "Don't!",
+                    "hash": "dd2d4f8a900139fe6144ebe005666c0b562d028fca4b33cfbe6f55f13ce7d6a5"
+                },
+                {
+                    "text": "Please don't!",
+                    "hash": "582f156eee2ff3d0a70a21c0a4f17a0d9c95f1a18740dc589d33af6f9cc7c878"
+                }
+            ],
+            "processed": "<story>N-no, e-even regular clothes are way too good for me! \n<story>I'm sorry! I'll just put on those trash bags over there and goooo!"
+        },
+        {
+            "text": "Huuh!? B-but I don't have anything... left to wear... \nTrash bags are all I have left...",
+            "name": "Meisho Doto",
+            "path_id": 4566535920546117732,
+            "block_id": 8,
+            "clip_length": 264,
+            "choices": [
+                {
+                    "text": "How'd that even happen...",
+                    "hash": "ded093a6f9264ac3f039fbdc3b863aaa2e86377c32b18a98212ccefa78a04491"
+                }
+            ],
+            "processed": "<story>Huuh!? B-but I don't have anything... left to wear... \n<story>Trash bags are all I have left..."
+        },
+        {
+            "text": "...Yesterday, I was sorting through the clothes I don't wear \nanymore. But it ended up with all my clothes getting torn to \nshreds...",
+            "name": "Meisho Doto",
+            "path_id": 6814921054500354353,
+            "block_id": 9,
+            "clip_length": 328,
+            "choices": [
+                {
+                    "text": "How'd THAT even happen...!?",
+                    "hash": "9ff7e2ea8cde042a6074c7dfebf4a37edfafc48cdb37be5a76651759a3d17b61"
+                }
+            ],
+            "processed": "<story>...Yesterday, I was sorting through the clothes I don't wear \n<story>anymore. But it ended up with all my clothes getting torn to \n<story>shreds..."
+        },
+        {
+            "text": "It's my fauullltt.... \nI opened the window all the way...",
+            "name": "Meisho Doto",
+            "path_id": -6771824547806755354,
+            "block_id": 10,
+            "clip_length": 190,
+            "processed": "<story>It's my fauullltt.... \n<story>I opened the window all the way..."
+        },
+        {
+            "text": "I- I just wanted some fresh air! I had no idea that'd happen to \nmy blouses and skirts... Uuugghhhh....",
+            "name": "Meisho Doto",
+            "path_id": 6644108919023750264,
+            "block_id": 11,
+            "clip_length": 309,
+            "processed": "<story>I- I just wanted some fresh air! I had no idea that'd happen to \n<story>my blouses and skirts... Uuugghhhh...."
+        },
+        {
+            "text": "...Best not to ask too many questions. Long story short, she \ncame to buy new clothes, but couldn't work up the courage to \ngo shopping alone. In that case――",
+            "name": "",
+            "path_id": 8996397286689994593,
+            "block_id": 12,
+            "clip_length": 120,
+            "choices": [
+                {
+                    "text": "I'll go in with you.",
+                    "hash": "1153727c69c4e99a6b08368b2857d9c148148faca5d3e331c2fc318a291872c8"
+                },
+                {
+                    "text": "I'll go in with you.",
+                    "hash": "b7f6e6fa94c9c8b2bc8285fecaa6ffe03b0a652dfbef36267402fd03e53e6dfb"
+                }
+            ],
+            "processed": "<story>...Best not to ask too many questions. Long story short, she \n<story>came to buy new clothes, but couldn't work up the courage to \n<story>go shopping alone. In that case――"
+        },
+        {
+            "text": "Huuuhhh!? \nNo, it's okay!",
+            "name": "Meisho Doto",
+            "path_id": 4489829874045311539,
+            "block_id": 13,
+            "clip_length": 117,
+            "processed": "<story>Huuuhhh!? \n<story>No, it's okay!"
+        },
+        {
+            "text": "I got shot straight down...",
+            "name": "",
+            "path_id": 1829180484861294763,
+            "block_id": 14,
+            "clip_length": 68,
+            "processed": "<story>I got shot straight down..."
+        },
+        {
+            "text": "Oh!? Ah, uh, well, it's not because I don't want to go in with \nyou...!",
+            "name": "Meisho Doto",
+            "path_id": 5289465012026243717,
+            "block_id": 15,
+            "clip_length": 190,
+            "processed": "<story>Oh!? Ah, uh, well, it's not because I don't want to go in with \n<story>you...!"
+        },
+        {
+            "text": "I-it's fine! Don't worry! \n<i>I- I, I...</i>",
+            "name": "Meisho Doto",
+            "path_id": 8752965678589389742,
+            "block_id": 16,
+            "clip_length": 210,
+            "processed": "<story>I-it's fine! Don't worry! \n<story><i>I- I, I...</i>"
+        },
+        {
+            "text": "<i>I'll put on the trash baaaaaaaaaag!!!!</i>",
+            "name": "Meisho Doto",
+            "path_id": 8240417524665410776,
+            "block_id": 17,
+            "clip_length": 146,
+            "choices": [
+                {
+                    "text": "DOTO!?",
+                    "hash": "7dec0a8e0e7bd1c08b33b0b6f42be38f7e39f8325e6a6f77b9379e382b13f5d8"
+                }
+            ],
+            "processed": "<story><i>I'll put on the trash baaaaaaaaaag!!!!</i>"
+        },
+        {
+            "text": "She ran off, but slower than normal. Maybe it's hard to run in \nthat long skirt. Betting on the new possibility of catching up to \nher, I took off!",
+            "name": "",
+            "path_id": 31844898872104739,
+            "block_id": 18,
+            "clip_length": 124,
+            "processed": "<story>She ran off, but slower than normal. Maybe it's hard to run in \n<story>that long skirt. Betting on the new possibility of catching up to \n<story>her, I took off!"
+        },
+        {
+            "text": "――Huff... huff... huff... \nWh-why...!?",
+            "name": "Meisho Doto",
+            "path_id": 4707313228422216724,
+            "block_id": 19,
+            "clip_length": 172,
+            "processed": "<story>――Huff... huff... huff... \n<story>Wh-why...!?"
+        },
+        {
+            "text": "Why are you chasing meeeee!?",
+            "name": "Meisho Doto",
+            "path_id": -2860710701785927758,
+            "block_id": 20,
+            "clip_length": 127,
+            "processed": "<story>Why are you chasing meeeee!?"
+        },
+        {
+            "text": "And, finally――",
+            "name": "",
+            "path_id": -7372981752560915656,
+            "block_id": 21,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "DOTO!!",
+                    "hash": "14aa3ed4cfffcee55bdc304979c561e229a56f09f6d1b1d23c70c0af736196cb"
+                }
+            ],
+            "processed": "<story>And, finally――"
+        },
+        {
+            "text": "<i>Hwwaaaaaaa!?</i> \nY-you actually caught up to me....!",
+            "name": "Meisho Doto",
+            "path_id": 4190344165411131026,
+            "block_id": 22,
+            "clip_length": 179,
+            "choices": [
+                {
+                    "text": "Why'd you run!?",
+                    "hash": "8b83e256b8845361d5b5607391ed65123b1c0b111e65c23783b069bf461b8c17"
+                },
+                {
+                    "text": "Why'd you run!?",
+                    "hash": "dba6d07653ee2cb3e6cbf2de05d9951f5a04c3a4e1bf405a0559bd1d4428bb40"
+                }
+            ],
+            "processed": "<story><i>Hwwaaaaaaa!?</i> \n<story>Y-you actually caught up to me....!"
+        },
+        {
+            "text": "Eek! \nI'm sorry, so sorry!",
+            "name": "Meisho Doto",
+            "path_id": -1739512365126153586,
+            "block_id": 23,
+            "clip_length": 84,
+            "processed": "<story>Eek! \n<story>I'm sorry, so sorry!"
+        },
+        {
+            "text": "B-but... I- I just can't do it! \nTo-today's your precious day off!",
+            "name": "Meisho Doto",
+            "path_id": 2332118925689623454,
+            "block_id": 24,
+            "clip_length": 334,
+            "processed": "<story>B-but... I- I just can't do it! \n<story>To-today's your precious day off!"
+        },
+        {
+            "text": "I don't... I don't want to cause trouble for you even when you're \nsupposed to be on break!",
+            "name": "Meisho Doto",
+            "path_id": 107728887864909611,
+            "block_id": 25,
+            "clip_length": 270,
+            "choices": [
+                {
+                    "text": "Wha...",
+                    "hash": "017a0ab6fc8a7ce8a952a1efd51003f42406f3a6746654b1b33ae3dd5c0c0310"
+                }
+            ],
+            "processed": "<story>I don't... I don't want to cause trouble for you even when you're \n<story>supposed to be on break!"
+        },
+        {
+            "text": "I already goof up so much every day, and I'm always dragging \nyou into things...",
+            "name": "Meisho Doto",
+            "path_id": -4614238308747651672,
+            "block_id": 26,
+            "clip_length": 241,
+            "processed": "<story>I already goof up so much every day, and I'm always dragging \n<story>you into things..."
+        },
+        {
+            "text": "I don't want to cause any more trouble than I already am...! \nIf you keep dealing with me, you'll get worn out for sure...",
+            "name": "Meisho Doto",
+            "path_id": 2918717231444184006,
+            "block_id": 27,
+            "clip_length": 348,
+            "processed": "<story>I don't want to cause any more trouble than I already am...! \n<story>If you keep dealing with me, you'll get worn out for sure..."
+        },
+        {
+            "text": "Her self-deprecation was plain to see, but I could tell she was \nworried about me in her own clumsy way.",
+            "name": "",
+            "path_id": 5878235560200116260,
+            "block_id": 28,
+            "clip_length": 99,
+            "processed": "<story>Her self-deprecation was plain to see, but I could tell she was \n<story>worried about me in her own clumsy way."
+        },
+        {
+            "text": "That's why I ran... <i>so why'd you chase meeee!?</i> \nIt's only going to make things worse for you, you know!?",
+            "name": "Meisho Doto",
+            "path_id": 6020354825568808853,
+            "block_id": 29,
+            "clip_length": 321,
+            "choices": [
+                {
+                    "text": "I want you to trouble me!",
+                    "hash": "820a6e8b29cf8bc9cbe0c805f4ecbe8e7a8aadaa0f29f60c6f8e207331937fa3"
+                }
+            ],
+            "processed": "<story>That's why I ran... <i>so why'd you chase meeee!?</i> \n<story>It's only going to make things worse for you, you know!?"
+        },
+        {
+            "text": "Eek!? Th-that's―― \n<i>Hhhwwwaaaahh!?</i>",
+            "name": "Meisho Doto",
+            "path_id": -6292835997178470850,
+            "block_id": 30,
+            "clip_length": 186,
+            "processed": "<story>Eek!? Th-that's―― \n<story><i>Hhhwwwaaaahh!?</i>"
+        },
+        {
+            "text": "Oh!? Are you, maybe, um... like <i>that</i>, you know? \nDo you, uh, enj――",
+            "name": "Meisho Doto",
+            "path_id": 3078896506330651882,
+            "block_id": 31,
+            "clip_length": 280,
+            "choices": [
+                {
+                    "text": "<b>No.</b> Not like that.",
+                    "hash": "007cf1846aaa85af7637e3008019b51c08f0a0cc7e075c0e8425d8c769c43729"
+                }
+            ],
+            "processed": "<story>Oh!? Are you, maybe, um... like <i>that</i>, you know? \n<story>Do you, uh, enj――"
+        },
+        {
+            "text": "I told her that, as her trainer, I wanted her to be able to trouble \nme without worry. That I wanted her to count on me more.",
+            "name": "",
+            "path_id": -7330261177742075723,
+            "block_id": 32,
+            "clip_length": 110,
+            "processed": "<story>I told her that, as her trainer, I wanted her to be able to trouble \n<story>me without worry. That I wanted her to count on me more."
+        },
+        {
+            "text": "E-ehhhhhh!? Count on you... \nBut, if I did, it'd make you fall apart...",
+            "name": "Meisho Doto",
+            "path_id": 1050129581945013833,
+            "block_id": 33,
+            "clip_length": 472,
+            "processed": "<story>E-ehhhhhh!? Count on you... \n<story>But, if I did, it'd make you fall apart..."
+        },
+        {
+            "text": "If you take my hand, I'll fall and drag you down... \nYou'll get beaten and bruised, I just know it...",
+            "name": "Meisho Doto",
+            "path_id": 5918346319850809251,
+            "block_id": 34,
+            "clip_length": 284,
+            "choices": [
+                {
+                    "text": "Then we'll stand back up together, as many times as it takes.",
+                    "hash": "91dd7e50e9ca03dae2fa36974e4240e7ebc26b700f311091c2625038418d75f2",
+                    "processed": "<size=27>Then we'll stand back up together, as many times as it takes.</size>"
+                }
+            ],
+            "processed": "<story>If you take my hand, I'll fall and drag you down... \n<story>You'll get beaten and bruised, I just know it..."
+        },
+        {
+            "text": "<i>......!</i>",
+            "name": "Meisho Doto",
+            "path_id": -2532709260915729382,
+            "block_id": 35,
+            "clip_length": 48,
+            "choices": [
+                {
+                    "text": "So don't worry about me.",
+                    "hash": "d8cdcb538b0084c1adc01c03f0ec97d7b2fda6e5407b83fbc456415c56e82f9f"
+                }
+            ],
+            "processed": "<story><i>......!</i>"
+        },
+        {
+            "text": "...Er, um....? \nThank you, very much...<b>?</b>",
+            "name": "Meisho Doto",
+            "path_id": -7095862984245811052,
+            "block_id": 36,
+            "clip_length": 255,
+            "processed": "<story>...Er, um....? \n<story>Thank you, very much...<b>?</b>"
+        },
+        {
+            "text": "Sounded like she tacked a question mark at the end there... \nBut I said what I wanted to say. She'll have to take it from here. \nThough, in the meantime――",
+            "name": "",
+            "path_id": -3142021111479427520,
+            "block_id": 37,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "Let's go buy those clothes.",
+                    "hash": "9c5ea2896af13c5d59a8770be1afaa949d98c81586de5fe3119bc995598f9afa"
+                }
+            ],
+            "processed": "<story>Sounded like she tacked a question mark at the end there... \n<story>But I said what I wanted to say. She'll have to take it from here. \n<story>Though, in the meantime――"
+        },
+        {
+            "text": "Oh...!!! \nT-that's right...!",
+            "name": "Meisho Doto",
+            "path_id": -6783564241374470216,
+            "block_id": 38,
+            "clip_length": 111,
+            "processed": "<story>Oh...!!! \n<story>T-that's right...!"
+        },
+        {
+            "text": "Ummm, well... I'm looking... forward to... it<b>??</b>",
+            "name": "Meisho Doto",
+            "path_id": 3429890744024717418,
+            "block_id": 39,
+            "clip_length": 293,
+            "processed": "<story>Ummm, well... I'm looking... forward to... it<b>??</b>"
+        },
+        {
+            "text": "Still tacking on those question marks. \nThe two of us headed back downtown, but――",
+            "name": "",
+            "path_id": -5498374311587875111,
+            "block_id": 40,
+            "clip_length": 95,
+            "processed": "<story>Still tacking on those question marks. \n<story>The two of us headed back downtown, but――"
+        },
+        {
+            "text": "I'm very sorry, but we're closed for the day...",
+            "name": "Store Employee",
+            "path_id": -6280511555691595025,
+            "block_id": 41,
+            "clip_length": 125,
+            "processed": "<story>I'm very sorry, but we're closed for the day..."
+        },
+        {
+            "text": "<i>Whaaaaaa!?</i> \nI-it's my fault for running away... I'm so sorry...",
+            "name": "Meisho Doto",
+            "path_id": -1875940031360359076,
+            "block_id": 42,
+            "clip_length": 231,
+            "processed": "<story><i>Whaaaaaa!?</i> \n<story>I-it's my fault for running away... I'm so sorry..."
+        },
+        {
+            "text": "Uugghhh... I was right... I'm... \nI'm not even good enough to wear clothes...",
+            "name": "Meisho Doto",
+            "path_id": -6968427363327962242,
+            "block_id": 43,
+            "clip_length": 379,
+            "processed": "<story>Uugghhh... I was right... I'm... \n<story>I'm not even good enough to wear clothes..."
+        },
+        {
+            "text": "As I consoled her, her head hanging low, I thought to myself. \nThat eventually, the day will come where she'll ask me for \nhelp of her own accord.",
+            "name": "",
+            "path_id": 4912082960600818477,
+            "block_id": 44,
+            "clip_length": 112,
+            "processed": "<story>As I consoled her, her head hanging low, I thought to myself. \n<story>That eventually, the day will come where she'll ask me for \n<story>help of her own accord."
+        }
+    ],
+    "title": "What do you mean I can cause trouble?"
+}
