@@ -3684,27 +3684,27 @@
         "hash": "0e636db4aade3070423e634eb053f719030d514d00284132cbc29e19c0b5980c"
     },
     "2030101": {
-        "text": "Obtain [瞬発力] skill hint.",
+        "text": "Obtain [Explosive Force] skill hint.",
         "hash": "7f75ad399c0d45ac3da338c2fc57e7b0c65f46c92e6a10355dd9dddbdecbb5c5"
     },
     "2030102": {
-        "text": "Obtain [瞬発力] skill hint.",
+        "text": "Obtain [Explosive Force] skill hint.",
         "hash": "7f75ad399c0d45ac3da338c2fc57e7b0c65f46c92e6a10355dd9dddbdecbb5c5"
     },
     "2030103": {
-        "text": "Obtain [瞬発力] skill hint.",
+        "text": "Obtain [Explosive Force] skill hint.",
         "hash": "7f75ad399c0d45ac3da338c2fc57e7b0c65f46c92e6a10355dd9dddbdecbb5c5"
     },
     "2030201": {
-        "text": "Obtain [風切り] skill hint.",
+        "text": "Obtain [Wind Vane] skill hint.",
         "hash": "625a3844540dde77127f3d349fb08e1a216915f40b2c517dab829c2aea941807"
     },
     "2030202": {
-        "text": "Obtain [風切り] skill hint.",
+        "text": "Obtain [Wind Vane] skill hint.",
         "hash": "625a3844540dde77127f3d349fb08e1a216915f40b2c517dab829c2aea941807"
     },
     "2030203": {
-        "text": "Obtain [風切り] skill hint.",
+        "text": "Obtain [Wind Vane] skill hint.",
         "hash": "625a3844540dde77127f3d349fb08e1a216915f40b2c517dab829c2aea941807"
     },
     "2030301": {
@@ -3730,6 +3730,18 @@
     "2030403": {
         "text": "Obtain [Pounding Chest] skill hint.",
         "hash": "f58a6121cc0deb4bd3c0f6cf128e680321a50ef878db730cfd8a6386bc9918b1"
+    },
+    "2030501": {
+        "text": "Obtain [揺るがぬ信念] skill hint.",
+        "hash": "1e2eb875ff1c2c6e6cb5f4afb18f2c20eb782a427634b719cb586d2d6b4daa52"
+    },
+    "2030502": {
+        "text": "Obtain [揺るがぬ信念] skill hint.",
+        "hash": "1e2eb875ff1c2c6e6cb5f4afb18f2c20eb782a427634b719cb586d2d6b4daa52"
+    },
+    "2030503": {
+        "text": "Obtain [揺るがぬ信念] skill hint.",
+        "hash": "1e2eb875ff1c2c6e6cb5f4afb18f2c20eb782a427634b719cb586d2d6b4daa52"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
@@ -5178,6 +5190,18 @@
     "10300203": {
         "text": "Increases STA Cap and POW Cap.\\nObtain [Drain for Rose] skill hint.",
         "hash": "abda963eb85c1595e0cb42402eb79f2b092c5e833c08d5c47156649250233954"
+    },
+    "10300301": {
+        "text": "Increases STA Cap and GUT Cap.\\nObtain [あおぞらクッキング♪] skill hint.",
+        "hash": "2597dbb360daadd6d55bafe2bc2776e785600925cbb2ed6c4a04198b9b2dbee6"
+    },
+    "10300302": {
+        "text": "Increases STA Cap and GUT Cap.\\nObtain [あおぞらクッキング♪] skill hint.",
+        "hash": "2597dbb360daadd6d55bafe2bc2776e785600925cbb2ed6c4a04198b9b2dbee6"
+    },
+    "10300303": {
+        "text": "Increases STA Cap and GUT Cap.\\nObtain [あおぞらクッキング♪] skill hint.",
+        "hash": "2597dbb360daadd6d55bafe2bc2776e785600925cbb2ed6c4a04198b9b2dbee6"
     },
     "10310101": {
         "text": "Increases SPD Cap and GUT Cap.\\nObtain [Charge Complete! Full Speed Ahead!] skill hint.",

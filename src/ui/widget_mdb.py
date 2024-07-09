@@ -74,7 +74,7 @@ class Ui_widget_mdb(QWidget):
 
             palette = cur_grp_box.palette()
             palette.setColor(QPalette.Background, COLORS[None])
-            if entry['new']:
+            if entry['new'] and not entry['edited']:
                 # cur_grp_box.setStyleSheet("background-color: rgba(0, 255, 0, 127);")
                 palette.setColor(QPalette.Background, COLORS['new'])
 

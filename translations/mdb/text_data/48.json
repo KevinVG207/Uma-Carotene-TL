@@ -909,6 +909,11 @@
         "hash": "2b1c57e0ac3c4bd48c495e4c28fc9aadd2b7e906f7bb266f239bbe1d1ad5ec4e",
         "processed": "<rbr>If you're in front in the second half<br>of the race, your speed will<br>increase; bonus duration depend-<br>ing on your remaining stamina."
     },
+    "120301": {
+        "text": "If you're in the front during the Final Corner, your speed will increase; it will increase tremendously in Long races in Kyoto.",
+        "hash": "bf9a6b2e6d4e19582331486338804bbb4a8408b424dd1c8c7884cd4ae109ebae",
+        "processed": "<rbr>If you're in the front during the<br>Final Corner, your speed will<br>increase; it will increase tremen-<br>dously in Long races in Kyoto."
+    },
     "120321": {
         "text": "If you're in the first half of the pack during the Final Leg, your (target) speed will greatly increase; in Medium races, you will receive an (immediate) great speed boost instead.",
         "hash": "2862bd0cb9da3cddb5cefc159a3381b01a1f8b7a0cff67ffb77e7c231718ff1c",
@@ -2625,9 +2630,14 @@
         "processed": "<rbr>Slightly restore stamina when the<br>remaining distance is 777m."
     },
     "201581": {
-        "text": "Become slightly better at uphills.",
+        "text": "At a random point on a random uphill, your acceleration will slightly increase.",
         "hash": "97938808f0e84f6b47dedd2b9c1aad8a91a8194f0f9d01de5474d82548b6ad28",
-        "processed": "<rbr>Become slightly better at uphills."
+        "processed": "<rbr>At a random point on a random<br>uphill, your acceleration will<br>slightly increase."
+    },
+    "201582": {
+        "text": "At a random point on a random uphill, your acceleration will increase.",
+        "hash": "c39c1183d14a44cc6410680e53dca25ddde41e0558ce30c25381ffd58a9bafa1",
+        "processed": "<rbr>At a random point on a random<br>uphill, your acceleration will<br>increase."
     },
     "201591": {
         "text": "If there are at least three other girls near you after the first 5 seconds of the race, your speed will slightly increase.",
@@ -3748,6 +3758,16 @@
         "text": "Short/Mile・During the first half of the Final Leg, your speed will slightly increase.",
         "hash": "ec40c45cd2d87a8f6ff3304e748ca0ed9db3b8fe23196afe8f2fa4582e51fda6",
         "processed": "<rbr>Short/Mile・During the first half of<br>the Final Leg, your speed will<br>slightly increase."
+    },
+    "203051": {
+        "text": "Medium・If you're in the first half of the pack during the second half of the Middle Leg, your speed will increase.",
+        "hash": "f375704454b5a8c74c03c4277d04218f0dba34cc75faa4209fdedcfa0c7424eb",
+        "processed": "<rbr>Medium・If you're in the first half<br>of the pack during the second half<br>of the Middle Leg, your speed will<br>increase."
+    },
+    "203052": {
+        "text": "Medium・If you're in the first half of the pack during the second half of the Middle Leg, your speed will slightly increase.",
+        "hash": "f85787fb75ea3cf226a2ac8f7e9f60cccc6626b26863ba88ab1d5a18ab027596",
+        "processed": "<rbr>Medium・If you're in the first half<br>of the pack during the second half<br>of the Middle Leg, your speed will<br>slightly increase."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -5648,6 +5668,16 @@
         "text": "During the Middle Leg, if you're in the first half of the pack, you will tire out girls that are behind you and distracted, and your speed will increase.",
         "hash": "a70a0eaaf953d619ccf33448cdbfeba50c26a523ce8f214da9bc37e4431cb42f",
         "processed": "<rbr><sc=93>During the Middle Leg, if you're in<br>the first half of the pack, you will tire<br>out girls that are behind you and dis-<br>tracted, and your speed will increase."
+    },
+    "103003111": {
+        "text": "Leader・On a random uphill in the second half of the race, your acceleration will increase.",
+        "hash": "ae42f5903357471642368d6e3569b9fa5c8371751f6db0e6e06810944523fbbf",
+        "processed": "<rbr>Leader・On a random uphill in the<br>second half of the race, your<br>acceleration will increase."
+    },
+    "103003211": {
+        "text": "In Kyoto, your Speed, Stamina, and Wisdom stats are increased by 80.",
+        "hash": "02079a9b639e8a14f8934260775294283c2a1261cd0baea71df96189a4a361b2",
+        "processed": "<rbr>In Kyoto, your Speed, Stamina,<br>and Wisdom stats are increased by<br>80."
     },
     "103101111": {
         "text": "Runner・On uphills, your speed will slightly increase and your stamina will recover.",
