@@ -768,6 +768,11 @@
         "text": "[In Shape with Lotion]",
         "hash": "e127625ddab415100e4c1f34031dedbb694e5852af53181c74826428c0c6bd3f"
     },
+    "20078": {
+        "text": "[May this Charm bring Prosperity!]",
+        "hash": "519c870ee2d5ac38d48b60392aac6efdd2a5d04031de30da588a3028f697905b",
+        "processed": "<sc=80>[May this Charm bring Prosperity!]"
+    },
     "30001": {
         "text": "[Japan's Number 1 Stage]",
         "hash": "15e94e3d710f8f0491ed4cfe4fdda657fd889d232c6f5d26e0c822eb9699dc77"
@@ -1640,5 +1645,9 @@
         "text": "[The Strawberry Field at Dawn]",
         "hash": "15caef1a9caf21ec3a3a3e4635c9748e68985378b612b7a3f6d70443e5fd7aa3",
         "processed": "<sc=89>[The Strawberry Field at Dawn]"
+    },
+    "30209": {
+        "text": "[And the Curtains Rise]",
+        "hash": "8c7b3ac4b3ea29a230257293cd71e82a2ab855cae5691554fea370dc60376f5e"
     }
 }
