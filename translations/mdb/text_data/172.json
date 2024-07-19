@@ -3732,16 +3732,40 @@
         "hash": "f58a6121cc0deb4bd3c0f6cf128e680321a50ef878db730cfd8a6386bc9918b1"
     },
     "2030501": {
-        "text": "Obtain [揺るがぬ信念] skill hint.",
+        "text": "Obtain [Unshakeable Faith] skill hint.",
         "hash": "1e2eb875ff1c2c6e6cb5f4afb18f2c20eb782a427634b719cb586d2d6b4daa52"
     },
     "2030502": {
-        "text": "Obtain [揺るがぬ信念] skill hint.",
+        "text": "Obtain [Unshakeable Faith] skill hint.",
         "hash": "1e2eb875ff1c2c6e6cb5f4afb18f2c20eb782a427634b719cb586d2d6b4daa52"
     },
     "2030503": {
-        "text": "Obtain [揺るがぬ信念] skill hint.",
+        "text": "Obtain [Unshakeable Faith] skill hint.",
         "hash": "1e2eb875ff1c2c6e6cb5f4afb18f2c20eb782a427634b719cb586d2d6b4daa52"
+    },
+    "2030601": {
+        "text": "Obtain [無二] skill hint.",
+        "hash": "cd0d899688a0564a59bf9f53ba585f0ea96de71f43dda73ed4a847ff6064d676"
+    },
+    "2030602": {
+        "text": "Obtain [無二] skill hint.",
+        "hash": "cd0d899688a0564a59bf9f53ba585f0ea96de71f43dda73ed4a847ff6064d676"
+    },
+    "2030603": {
+        "text": "Obtain [無二] skill hint.",
+        "hash": "cd0d899688a0564a59bf9f53ba585f0ea96de71f43dda73ed4a847ff6064d676"
+    },
+    "2030701": {
+        "text": "Obtain [無三] skill hint.",
+        "hash": "48814b83295354f639d27b7f2a9c0e15fafa951016363447f664e58d00f153cf"
+    },
+    "2030702": {
+        "text": "Obtain [無三] skill hint.",
+        "hash": "48814b83295354f639d27b7f2a9c0e15fafa951016363447f664e58d00f153cf"
+    },
+    "2030703": {
+        "text": "Obtain [無三] skill hint.",
+        "hash": "48814b83295354f639d27b7f2a9c0e15fafa951016363447f664e58d00f153cf"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
@@ -5192,15 +5216,15 @@
         "hash": "abda963eb85c1595e0cb42402eb79f2b092c5e833c08d5c47156649250233954"
     },
     "10300301": {
-        "text": "Increases STA Cap and GUT Cap.\\nObtain [あおぞらクッキング♪] skill hint.",
+        "text": "Increases STA Cap and GUT Cap.\\nObtain [Clear Sky Cooking♪] skill hint.",
         "hash": "2597dbb360daadd6d55bafe2bc2776e785600925cbb2ed6c4a04198b9b2dbee6"
     },
     "10300302": {
-        "text": "Increases STA Cap and GUT Cap.\\nObtain [あおぞらクッキング♪] skill hint.",
+        "text": "Increases STA Cap and GUT Cap.\\nObtain [Clear Sky Cooking♪] skill hint.",
         "hash": "2597dbb360daadd6d55bafe2bc2776e785600925cbb2ed6c4a04198b9b2dbee6"
     },
     "10300303": {
-        "text": "Increases STA Cap and GUT Cap.\\nObtain [あおぞらクッキング♪] skill hint.",
+        "text": "Increases STA Cap and GUT Cap.\\nObtain [Clear Sky Cooking♪] skill hint.",
         "hash": "2597dbb360daadd6d55bafe2bc2776e785600925cbb2ed6c4a04198b9b2dbee6"
     },
     "10310101": {
@@ -6522,5 +6546,17 @@
     "11190103": {
         "text": "Increases STA Cap, POW Cap and WIS Cap.\\nObtain [«Bon Voyage»] skill hint.",
         "hash": "e1ec15ee5d85108e2de07fd4c4cdefbd1bed5197b4d1e0a5532f12c323ae974b"
+    },
+    "11200101": {
+        "text": "Increases SPD Cap and POW Cap.\\nObtain [無二無三なる一条の路] skill hint.",
+        "hash": "fa4d4ec0b4171a7aef223ef733e4f9fb8e69003a5dfcd68760babe10fd02906d"
+    },
+    "11200102": {
+        "text": "Increases SPD Cap and POW Cap.\\nObtain [無二無三なる一条の路] skill hint.",
+        "hash": "fa4d4ec0b4171a7aef223ef733e4f9fb8e69003a5dfcd68760babe10fd02906d"
+    },
+    "11200103": {
+        "text": "Increases SPD Cap and POW Cap.\\nObtain [無二無三なる一条の路] skill hint.",
+        "hash": "fa4d4ec0b4171a7aef223ef733e4f9fb8e69003a5dfcd68760babe10fd02906d"
     }
 }

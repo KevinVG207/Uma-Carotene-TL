@@ -794,6 +794,10 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "120301": {
+        "text": "Clear Sky Cooking♪",
+        "hash": "0b78c6eb49b1cb9b663d03ee149deba0dd97e51b87f4f6de15c670cc91d2ffd3"
+    },
     "120321": {
         "text": "Tachyon Potential",
         "hash": "15dc0386f39ed4f4f171ab7db22d8a478400bace18defd880c5500e0caa4e84e"
@@ -2187,6 +2191,10 @@
         "text": "Mountain Climber",
         "hash": "246e8517671ffd6156f58d29b6de26a081c136ad223cab524c21346903887ac2"
     },
+    "201582": {
+        "text": "Ultimate Hill Climber",
+        "hash": "4f624c2dae60d3006497c539d193a83e3dbe8b405a1fedd0bc21ad6dadcec58c"
+    },
     "201591": {
         "text": "Big Fan",
         "hash": "db49518c7973cc24768e9d2664a9fd52cc49f0645a165c273859ce184911d005"
@@ -3096,6 +3104,14 @@
     "203042": {
         "text": "Pounding Chest",
         "hash": "4cf382b769016018e2d4d236baeab9f46ce88e04611707fbf883327edf2726c1"
+    },
+    "203051": {
+        "text": "Unwavering Ambition",
+        "hash": "8674cc570d9ddc9f61c40b54c447f72b97e63547da4ca90984ac327c900d36af"
+    },
+    "203052": {
+        "text": "Unshakeable Faith",
+        "hash": "a8c5505066ed8ef498b3c2c179499efe9cf173320a3f0b4dca3a13a6509ef9e4"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -4075,6 +4091,10 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "920301": {
+        "text": "Clear Sky Cooking♪",
+        "hash": "0b78c6eb49b1cb9b663d03ee149deba0dd97e51b87f4f6de15c670cc91d2ffd3"
+    },
     "920321": {
         "text": "Tachyon Potential",
         "hash": "15dc0386f39ed4f4f171ab7db22d8a478400bace18defd880c5500e0caa4e84e"
@@ -4766,6 +4786,14 @@
     "103002211": {
         "text": "Trick & Treat",
         "hash": "a7b78bc8904fb5c33843ed44f71d56b719a9f2d6754eeca7654f1b59934c8f97"
+    },
+    "103003111": {
+        "text": "Summit Meal",
+        "hash": "07086abb24b681c1e4173ac9b37163a83ffccf67633327a1c7e12faf4094c03c"
+    },
+    "103003211": {
+        "text": "Yodo's Blessing",
+        "hash": "e73cec63f280323f3a324a7e8911ba7757a1e6ea962e5abf94d3518662287cd8"
     },
     "103101111": {
         "text": "Wild Onee-chan",
