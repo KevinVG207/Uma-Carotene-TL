@@ -7,37 +7,27 @@
             "mc_txt_num_turn00": {
                 "txt_num_turn00": {
                     "_positionOffset": {
-                        "x": -7.0,
-                        "y": -2.0,
+                        "x": 0.02500000037252903,
+                        "y": -3.0,
                         "z": 0.0
-                    },
-                    "_scale": {
-                        "x": 0.95,
-                        "y": 0.95,
-                        "z": 1.0
                     },
                     "hash": "8c1f1046219ddd216a023f792356ddf127fce372a72ec9b4cdac989ee5b0b455"
                 }
             },
             "mc_image_clr_txt_turn_base_turn00": {
                 "clr_txt_turn_base_turn00": {
-                    "_text": "Turn(s)",
-                    "_positionOffset": {
-                        "x": 2.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    },
-                    "_scale": {
-                        "x": 0.8,
-                        "y": 0.8,
-                        "z": 1.0
-                    },
+                    "_text": "Left",
                     "hash": "aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7"
                 }
             },
             "mc_image_clr_txt_turn_base_remaining00": {
                 "clr_txt_turn_base_remaining00": {
-                    "_text": "Left:",
+                    "_text": "Turns",
+                    "_positionOffset": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
                     "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
                 }
             },
@@ -61,7 +51,7 @@
             "mc_image_txt_num_turn01": {
                 "clr_num_turn01": {
                     "_positionOffset": {
-                        "x": -6.0,
+                        "x": 8.0,
                         "y": -0.02500000037252903,
                         "z": 0.0
                     },
@@ -70,18 +60,13 @@
             },
             "mc_image_clr_txt_turn_base_turn01": {
                 "clr_txt_turn_base_turn00": {
-                    "_text": "Turn(s)",
-                    "_positionOffset": {
-                        "x": -1.0,
-                        "y": 0.0,
-                        "z": 0.0
-                    },
+                    "_text": "Left",
                     "hash": "aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7"
                 }
             },
             "mc_image_clr_txt_turn_base_remaining01": {
                 "clr_txt_turn_base_remaining01": {
-                    "_text": "Concert after:",
+                    "_text": "Concert Start",
                     "hash": "0bf3ea418690a732469ec781feb9d253a6ae85842dc99005613242e3841b53e2"
                 }
             }
