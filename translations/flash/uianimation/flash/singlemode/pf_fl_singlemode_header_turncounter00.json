@@ -12,13 +12,18 @@
             },
             "mc_image_clr_txt_turn_base_turn00": {
                 "clr_txt_turn_base_turn00": {
-                    "_text": "Turn(s)",
+                    "_text": "Left",
                     "hash": "aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7"
                 }
             },
             "mc_image_clr_txt_turn_base_remaining00": {
                 "clr_txt_turn_base_remaining00": {
-                    "_text": "Left:",
+                    "_text": "Turns",
+                    "_positionOffset": {
+                        "x": -4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
                     "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
                 }
             }
