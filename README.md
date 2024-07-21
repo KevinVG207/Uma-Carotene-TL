@@ -30,7 +30,7 @@ The following things need to be installed on your machine:
 2. Install the required packages using `pip install -r requirements.txt`.
 3. Place the path to the game installation folder (which has `umamusume.exe`) in `src/_config.json`.
 4. Run `src/_update_local.py` to update the local copy of the translations. (Indexing stories may take a few minutes the first time.)
-5. Edit the local translations in the `editing` folder.
+5. Edit the local translations in the `editing` folder either manually or by running `src/_gui.py`, which is is a visual editor for MDB text and stories.
 6. Update the translation files with `src/_prepare_release.py`. This will place the translations in the `translations` folder. These will be used to patch the game and is what you should be pushing to the repository.
 7. Patch the game with `src/_patch.py`.
 8. Unpatch the game with `src/_unpatch.py`.
