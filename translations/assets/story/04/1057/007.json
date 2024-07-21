@@ -1,0 +1,458 @@
+{
+    "type": "story",
+    "row_index": 29481,
+    "file_name": "story/data/04/1057/storytimeline_041057007",
+    "hash": "BWDXWIVCVKWYEJBGQGZOZUOGTIADFQNG",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 705946526077998778,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Summer training camp. It's an important time \nto further refine Mr. C.B.'s running skills.",
+            "name": "",
+            "path_id": -9137553510572093618,
+            "block_id": 1,
+            "clip_length": 93,
+            "processed": "<story>Summer training camp. It's an important time \n<story>to further refine Mr. C.B.'s running skills."
+        },
+        {
+            "text": "Hah, hah...!",
+            "name": "Mr. C.B.",
+            "path_id": 3407277306062741389,
+            "block_id": 2,
+            "clip_length": 83,
+            "choices": [
+                {
+                    "text": "Good work, have a drink!",
+                    "hash": "6e8a9512867388071147540c50a0c2cec40753835ca1651abd8d147dad077e9d"
+                }
+            ],
+            "processed": "<story>Hah, hah...!"
+        },
+        {
+            "text": "Hm, thanks...! \nHaha, it's a bit harsh on the throat!",
+            "name": "Mr. C.B.",
+            "path_id": -2222509660110520247,
+            "block_id": 3,
+            "clip_length": 198,
+            "processed": "<story>Hm, thanks...! \n<story>Haha, it's a bit harsh on the throat!"
+        },
+        {
+            "text": "So, what's the next menu? \nI want to strengthen my upper body too.",
+            "name": "Mr. C.B.",
+            "path_id": -6652676059324667101,
+            "block_id": 4,
+            "clip_length": 155,
+            "choices": [
+                {
+                    "text": "I thought so, so I made a strength menu.",
+                    "hash": "bdf4f690d53d1c25a18556ca142294f154556ad07b02907b978ee20418ae826c",
+                    "processed": "<size=40>I thought so, so I made a strength menu.</size>"
+                }
+            ],
+            "processed": "<story>So, what's the next menu? \n<story>I want to strengthen my upper body too."
+        },
+        {
+            "text": "As expected! Let's get started right away!",
+            "name": "Mr. C.B.",
+            "path_id": -8255158437519696212,
+            "block_id": 5,
+            "clip_length": 100,
+            "processed": "<story>As expected! Let's get started right away!"
+        },
+        {
+            "text": "During training, we work together as a team, but \nonce that's over, we spend our free time however we like.",
+            "name": "",
+            "path_id": 7229342825544357892,
+            "block_id": 6,
+            "clip_length": 110,
+            "processed": "<story>During training, we work together as a team, but \n<story>once that's over, we spend our free time however we like."
+        },
+        {
+            "text": "～♪ \nOh, there it is.",
+            "name": "Mr. C.B.",
+            "path_id": 5205586227014252693,
+            "block_id": 7,
+            "clip_length": 161,
+            "choices": [
+                {
+                    "text": "What's that?",
+                    "hash": "1b8102716267e3b20f6d96db59aa75ddcd862a404d14cea0ea35284874cbfb5c"
+                }
+            ],
+            "processed": "<story>～♪ \n<story>Oh, there it is."
+        },
+        {
+            "text": "Sea glass. \nYou can find quite a bit if you look.",
+            "name": "Mr. C.B.",
+            "path_id": 3184745204668700421,
+            "block_id": 8,
+            "clip_length": 108,
+            "processed": "<story>Sea glass. \n<story>You can find quite a bit if you look."
+        },
+        {
+            "text": "Oh, I found a nice driftwood. \nHeh, where did you come from?",
+            "name": "Mr. C.B.",
+            "path_id": 2177641446856418539,
+            "block_id": 9,
+            "clip_length": 215,
+            "choices": [
+                {
+                    "text": "Do you like driftwood?",
+                    "hash": "1c9eed0624e1113dddb82e8828ca6a1fb2f25b6c3549beffd3f05f5e2395b2f2"
+                },
+                {
+                    "text": "",
+                    "hash": "536beba02c199e3351ed3d9cc0262aa1521ffe3154a53ef33dade379626e0f2a"
+                }
+            ],
+            "processed": "<story>Oh, I found a nice driftwood. \n<story>Heh, where did you come from?"
+        },
+        {
+            "text": "Yeah. Because it's wonderful, isn't it? \nTo have crossed the sea and come this far.",
+            "name": "Mr. C.B.",
+            "path_id": -7783389648696745831,
+            "block_id": 10,
+            "clip_length": 214,
+            "processed": "<story>Yeah. Because it's wonderful, isn't it? \n<story>To have crossed the sea and come this far."
+        },
+        {
+            "text": "Hey, hurry up and get ready!",
+            "name": "Umamusume A",
+            "path_id": -1307358350591412895,
+            "block_id": 11,
+            "clip_length": 88,
+            "processed": "<story>Hey, hurry up and get ready!"
+        },
+        {
+            "text": "I'm skipping lunch to enjoy the festival~! \nLet's aim for a complete conquest of the food stalls ♪",
+            "name": "Umamusume B",
+            "path_id": -5079593961420373599,
+            "block_id": 12,
+            "clip_length": 262,
+            "processed": "<story>I'm skipping lunch to enjoy the festival~! \n<story>Let's aim for a complete conquest of the food stalls ♪"
+        },
+        {
+            "text": "Don't forget about the fireworks after that too!",
+            "name": "Umamusume A",
+            "path_id": 3779604208662735577,
+            "block_id": 13,
+            "clip_length": 93,
+            "processed": "<story>Don't forget about the fireworks after that too!"
+        },
+        {
+            "text": "The Umamusume head towards the dormitory in a hurry. \nApparently, there will be a fireworks display at the festival tonight.",
+            "name": "",
+            "path_id": -6993787540715773475,
+            "block_id": 14,
+            "clip_length": 98,
+            "processed": "<story>The Umamusume head towards the dormitory in a hurry. \n<story>Apparently, there will be a fireworks display at the festival tonight."
+        },
+        {
+            "text": "Mr. C.B. also seems to be interested, but...",
+            "name": "",
+            "path_id": -2213196931381732218,
+            "block_id": 15,
+            "clip_length": 94,
+            "processed": "<story>Mr. C.B. also seems to be interested, but..."
+        },
+        {
+            "text": "That glass bottle also seems to be from abroad. \nLet's take a look over there too.",
+            "name": "Mr. C.B.",
+            "path_id": 6732689762549272241,
+            "block_id": 16,
+            "clip_length": 154,
+            "processed": "<story>That glass bottle also seems to be from abroad. \n<story>Let's take a look over there too."
+        },
+        {
+            "text": "Yeah, I found a lot. \nYou guys look beautiful in the sunset.",
+            "name": "Mr. C.B.",
+            "path_id": 668361259945751852,
+            "block_id": 17,
+            "clip_length": 230,
+            "processed": "<story>Yeah, I found a lot. \n<story>You guys look beautiful in the sunset."
+        },
+        {
+            "text": "The sun is beginning to set, \nand faint sounds of festival music can be heard in the distance.",
+            "name": "",
+            "path_id": 2848527964363413531,
+            "block_id": 18,
+            "clip_length": 84,
+            "choices": [
+                {
+                    "text": "It seems there's a festival going on.",
+                    "hash": "c9ee4b68c33ce3c54dbbd02b3b0d10f56e05accd356a4555ba27abd345d3be91"
+                }
+            ],
+            "processed": "<story>The sun is beginning to set, \n<story>and faint sounds of festival music can be heard in the distance."
+        },
+        {
+            "text": "I'll pass. \nI want to watch the sunset here.",
+            "name": "Mr. C.B.",
+            "path_id": -7013134738707500477,
+            "block_id": 19,
+            "clip_length": 158,
+            "processed": "<story>I'll pass. \n<story>I want to watch the sunset here."
+        },
+        {
+            "text": "I had a feeling that would be the case based on \nhow she didn't react to the Umamusume's conversation.",
+            "name": "",
+            "path_id": -1869974077982546182,
+            "block_id": 20,
+            "clip_length": 88,
+            "processed": "<story>I had a feeling that would be the case based on \n<story>how she didn't react to the Umamusume's conversation."
+        },
+        {
+            "text": ".......",
+            "name": "Mr. C.B.",
+            "path_id": 8072119063407997361,
+            "block_id": 21,
+            "clip_length": 55,
+            "processed": "<story>......."
+        },
+        {
+            "text": "....I'll let her do as she pleases. \nHer best condition is to be free to move.",
+            "name": "",
+            "path_id": -4402567870035067737,
+            "block_id": 22,
+            "clip_length": 105,
+            "processed": "<story>....I'll let her do as she pleases. \n<story>Her best condition is to be free to move."
+        },
+        {
+            "text": "Night――as I was working, the sounds of \nfireworks began to ring out in the distance.",
+            "name": "",
+            "path_id": -1921612423800516173,
+            "block_id": 23,
+            "clip_length": 80,
+            "processed": "<story>Night――as I was working, the sounds of \n<story>fireworks began to ring out in the distance."
+        },
+        {
+            "text": "Even though I wasn't that interested myself, \nwhen I actually heard the sounds, I wanted to see it――",
+            "name": "",
+            "path_id": -2075753448632019771,
+            "block_id": 24,
+            "clip_length": 107,
+            "choices": [
+                {
+                    "text": "(I wonder if I should go see the fireworks)",
+                    "hash": "a530c31d7462d384771475e9c9d10c584996de98d4396dbda281e51d1e6ffedc",
+                    "processed": "<size=39>(I wonder if I should go see the fireworks)</size>"
+                }
+            ],
+            "processed": "<story>Even though I wasn't that interested myself, \n<story>when I actually heard the sounds, I wanted to see it――"
+        },
+        {
+            "text": "Stopping the work I was doing, \nI go outside to watch the fireworks.",
+            "name": "",
+            "path_id": 9153039352319744190,
+            "block_id": 25,
+            "clip_length": 75,
+            "processed": "<story>Stopping the work I was doing, \n<story>I go outside to watch the fireworks."
+        },
+        {
+            "text": "Suddenly, the image of Mr. C.B. appears in my mind. \nIs this what it means to follow my own feelings honestly――?",
+            "name": "",
+            "path_id": -4480837195729993840,
+            "block_id": 26,
+            "clip_length": 107,
+            "processed": "<story>Suddenly, the image of Mr. C.B. appears in my mind. \n<story>Is this what it means to follow my own feelings honestly――?"
+        },
+        {
+            "text": "(Thud)",
+            "name": "",
+            "path_id": 4726810562158928856,
+            "block_id": 27,
+            "clip_length": 51,
+            "processed": "<story>(Thud)"
+        },
+        {
+            "text": "――Ah.",
+            "name": "Mr. C.B.",
+            "path_id": -9152432700582620914,
+            "block_id": 28,
+            "clip_length": 21,
+            "choices": [
+                {
+                    "text": "Ah....",
+                    "hash": "aa86a42e01ef3613c250b228dab02950ba21a8f76ace3e4b1594cc23cf7343a7"
+                }
+            ],
+            "processed": "<story>――Ah."
+        },
+        {
+            "text": "As I noticed the sound of a backpack being put down, \nI saw Mr. C.B. right outside the entrance.",
+            "name": "",
+            "path_id": -5806229344219884072,
+            "block_id": 29,
+            "clip_length": 102,
+            "processed": "<story>As I noticed the sound of a backpack being put down, \n<story>I saw Mr. C.B. right outside the entrance."
+        },
+        {
+            "text": "Could it be that you were trying to go see the fireworks?",
+            "name": "Mr. C.B.",
+            "path_id": 8853889381160294250,
+            "block_id": 30,
+            "clip_length": 98,
+            "choices": [
+                {
+                    "text": "Oh, yeah... what about that backpack?",
+                    "hash": "de8b1b47bbbf5785a07bf461677a2523c324c10e3d989561cbb1ddbb8c190388",
+                    "processed": "<size=43>Oh, yeah... what about that backpack?</size>"
+                }
+            ],
+            "processed": "<story>Could it be that you were trying to go see the fireworks?"
+        },
+        {
+            "text": "Camping gear. Like mugs and lanterns.",
+            "name": "Mr. C.B.",
+            "path_id": -1185547661115156475,
+            "block_id": 31,
+            "clip_length": 130,
+            "processed": "<story>Camping gear. Like mugs and lanterns."
+        },
+        {
+            "text": "...I'm thinking I might as well go see the fireworks after all.",
+            "name": "Mr. C.B.",
+            "path_id": 5503688873976108810,
+            "block_id": 32,
+            "clip_length": 148,
+            "processed": "<story>...I'm thinking I might as well go see the fireworks after all."
+        },
+        {
+            "text": "What a pleasant coincidence. \nYou coming? I have a special seat for you.",
+            "name": "Mr. C.B.",
+            "path_id": -677396598928770027,
+            "block_id": 33,
+            "clip_length": 140,
+            "processed": "<story>What a pleasant coincidence. \n<story>You coming? I have a special seat for you."
+        },
+        {
+            "text": "You can see it well, right? It's a bit far away, \nbut thanks to that, there's nothing blocking the view.",
+            "name": "Mr. C.B.",
+            "path_id": -5015821011680282269,
+            "block_id": 34,
+            "clip_length": 205,
+            "choices": [
+                {
+                    "text": "Glad you found this place.",
+                    "hash": "0a67934870b637fca069791a16bd2bdc1024545f6aacd337d000f3d3bf7854d5"
+                },
+                {
+                    "text": "",
+                    "hash": "10f153108b0ae62bbd846f8b522765a3cf0b86c58a3d3ef304daab853dc36e10"
+                }
+            ],
+            "processed": "<story>You can see it well, right? It's a bit far away, \n<story>but thanks to that, there's nothing blocking the view."
+        },
+        {
+            "text": "I was watching the sunset, and I could see them preparing fireworks. \nI thought it would be nice to watch them here.",
+            "name": "Mr. C.B.",
+            "path_id": 1738866359497342552,
+            "block_id": 35,
+            "clip_length": 235,
+            "processed": "<story>I was watching the sunset, and I could see them preparing fireworks. \n<story>I thought it would be nice to watch them here."
+        },
+        {
+            "text": "I thought it would be fun to go get some camping gear. \nWhen I left the entrance, you came.",
+            "name": "Mr. C.B.",
+            "path_id": -3083901945874250869,
+            "block_id": 36,
+            "clip_length": 185,
+            "processed": "<story>I thought it would be fun to go get some camping gear. \n<story>When I left the entrance, you came."
+        },
+        {
+            "text": "...Heh, what a coincidence. \nYou had a surprised look on your face.",
+            "name": "Mr. C.B.",
+            "path_id": -1352490602334037765,
+            "block_id": 37,
+            "clip_length": 233,
+            "choices": [
+                {
+                    "text": "I didn't imagine this.",
+                    "hash": "da79528c629e7a2e6d0015339bfebe44e5bbc2755c76fbcac5ea9de4c9242436"
+                }
+            ],
+            "processed": "<story>...Heh, what a coincidence. \n<story>You had a surprised look on your face."
+        },
+        {
+            "text": "Yeah. \nYeah... this is kind of nice. This kind of thing.",
+            "name": "Mr. C.B.",
+            "path_id": 332313038104070930,
+            "block_id": 38,
+            "clip_length": 230,
+            "processed": "<story>Yeah. \n<story>Yeah... this is kind of nice. This kind of thing."
+        },
+        {
+            "text": "It's not a promise, but just by chance. \nIt's like we're meeting at the same place.",
+            "name": "Mr. C.B.",
+            "path_id": -1689408890440396250,
+            "block_id": 39,
+            "clip_length": 211,
+            "choices": [
+                {
+                    "text": "I'm happy that it will continue from now on.",
+                    "hash": "0400e13d089a8633a857895b8e388c68e9845313fd8f98959498033bb52cd919",
+                    "processed": "<size=38>I'm happy that it will continue from now on.</size>"
+                },
+                {
+                    "text": "",
+                    "hash": "20c6192698760d4ce01f0b87688933955bfd245eb971c6eb7e39565cf68fd6c5"
+                }
+            ],
+            "processed": "<story>It's not a promise, but just by chance. \n<story>It's like we're meeting at the same place."
+        },
+        {
+            "text": "Haha, of course.",
+            "name": "Mr. C.B.",
+            "path_id": 9008756682894112734,
+            "block_id": 40,
+            "clip_length": 73,
+            "processed": "<story>Haha, of course."
+        },
+        {
+            "text": "It's like I, who wanted to live freely, \nand you, who dreamed of that, met.",
+            "name": "Mr. C.B.",
+            "path_id": 5118055836279121319,
+            "block_id": 41,
+            "clip_length": 148,
+            "processed": "<story>It's like I, who wanted to live freely, \n<story>and you, who dreamed of that, met."
+        },
+        {
+            "text": "Even the goddess of fate will \nbe surprised in the future, I'm sure.",
+            "name": "Mr. C.B.",
+            "path_id": -6413654063993504155,
+            "block_id": 42,
+            "clip_length": 165,
+            "processed": "<story>Even the goddess of fate will \n<story>be surprised in the future, I'm sure."
+        },
+        {
+            "text": "Mr. C.B. runs as she pleases. And as her trainer, \nI continue to dream of her.",
+            "name": "",
+            "path_id": 6295520875307433000,
+            "block_id": 43,
+            "clip_length": 110,
+            "processed": "<story>Mr. C.B. runs as she pleases. And as her trainer, \n<story>I continue to dream of her."
+        },
+        {
+            "text": "The two of us just so happened to be in the same place \nat the same time, as if we had run \ninto a close friend while traveling――",
+            "name": "",
+            "path_id": -5194584890725197716,
+            "block_id": 44,
+            "clip_length": 97,
+            "processed": "<story>The two of us just so happened to be in the same place \n<story>at the same time, as if we had run \n<story>into a close friend while traveling――"
+        },
+        {
+            "text": "It was like meeting someone you liked as a child \nby chance on the street. I felt an indescribable joy.",
+            "name": "",
+            "path_id": 3623088762860280606,
+            "block_id": 45,
+            "clip_length": 114,
+            "processed": "<story>It was like meeting someone you liked as a child \n<story>by chance on the street. I felt an indescribable joy."
+        }
+    ],
+    "title": "On the stage of chance, a shared performance"
+}
