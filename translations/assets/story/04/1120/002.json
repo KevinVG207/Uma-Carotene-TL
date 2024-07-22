@@ -1,0 +1,623 @@
+{
+    "type": "story",
+    "row_index": 242627,
+    "file_name": "story/data/04/1120/storytimeline_041120002",
+    "hash": "QO6RVXCDJGAATQJE4TEAJW4NI4GXN2EA",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 5009605784058339252,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "This is the end, give up!",
+            "name": "Calstone Light O",
+            "path_id": -917414022064342422,
+            "block_id": 1,
+            "clip_length": 71,
+            "processed": "<story>This is the end, give up!"
+        },
+        {
+            "text": "What!? You caught up to a motorcycle!? \nNot a scooter, a real 250cc...",
+            "name": "Snatch theft",
+            "path_id": 7477127432401128342,
+            "block_id": 2,
+            "clip_length": 200,
+            "processed": "<story>What!? You caught up to a motorcycle!? \n<story>Not a scooter, a real 250cc..."
+        },
+        {
+            "text": "She stands defiantly in front of the mugger. \nThe battle of top speed between the motorcycle and \nCalstone Light O ended in the latter's victory.",
+            "name": "",
+            "path_id": -4038721364997068299,
+            "block_id": 3,
+            "clip_length": 110,
+            "processed": "<story>She stands defiantly in front of the mugger. \n<story>The battle of top speed between the motorcycle and \n<story>Calstone Light O ended in the latter's victory."
+        },
+        {
+            "text": "Snatching is a crime! If you take a bag, the other person \nwill be in trouble. Apologize!",
+            "name": "Calstone Light O",
+            "path_id": 8036565623018615383,
+            "block_id": 4,
+            "clip_length": 211,
+            "processed": "<story>Snatching is a crime! If you take a bag, the other person \n<story>will be in trouble. Apologize!"
+        },
+        {
+            "text": "While enduring a barrage of blunt lectures... \nthe snatcher was stunned, unable to accept the fact \nthat he had simply been caught up to.",
+            "name": "",
+            "path_id": -3933103547598994936,
+            "block_id": 5,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "Thanks. That was amazing, Light O...",
+                    "hash": "5b8719cdbf85058c8f2cc0ad58fdacddaaf1954606221f823799b7031ea0c9c3"
+                },
+                {
+                    "text": "",
+                    "hash": "e6fea0a266108b4abf70ce05c9b5aa757c4c49c97b07ee898776102aab752555"
+                }
+            ],
+            "processed": "<story>While enduring a barrage of blunt lectures... \n<story>the snatcher was stunned, unable to accept the fact \n<story>that he had simply been caught up to."
+        },
+        {
+            "text": "――No, it's nothing. \nI'm really glad.",
+            "name": "Calstone Light O",
+            "path_id": -8723098562753123946,
+            "block_id": 6,
+            "clip_length": 141,
+            "processed": "<story>――No, it's nothing. \n<story>I'm really glad."
+        },
+        {
+            "text": "I was also amazed by that speed. \nThe vivid running style was still burned into my eyes.",
+            "name": "",
+            "path_id": -7763794269359056964,
+            "block_id": 7,
+            "clip_length": 98,
+            "processed": "<story>I was also amazed by that speed. \n<story>The vivid running style was still burned into my eyes."
+        },
+        {
+            "text": "――That night, in the gym.",
+            "name": "",
+            "path_id": -5201445033083323117,
+            "block_id": 8,
+            "clip_length": 60,
+            "processed": "<story>――That night, in the gym."
+        },
+        {
+            "text": "I turned on the VR device \"VR Umalator\". There was something \nI absolutely wanted to try in this full-scale simulator.",
+            "name": "",
+            "path_id": 5195175130214909496,
+            "block_id": 9,
+            "clip_length": 114,
+            "choices": [
+                {
+                    "text": "How fast was she going at that time?",
+                    "hash": "688bfb654dd3532761ed248b549a90a9d0637e82def76fac58632bda01ba5fd9"
+                },
+                {
+                    "text": "",
+                    "hash": "5890342c907945663179deb1dfa8355f224aeb909219186a6902d8010b671b75"
+                }
+            ],
+            "processed": "<story>I turned on the VR device \"VR Umalator\". There was something \n<story>I absolutely wanted to try in this full-scale simulator."
+        },
+        {
+            "text": "She seemed to be going faster than the maximum speed an \nUmamusume could reach. Just how fast? I decided to \ntry it.",
+            "name": "",
+            "path_id": -8801824242940673579,
+            "block_id": 10,
+            "clip_length": 121,
+            "processed": "<story>She seemed to be going faster than the maximum speed an \n<story>Umamusume could reach. Just how fast? I decided to \n<story>try it."
+        },
+        {
+            "text": "First, I entered a rough estimate of the observed speed. \nAnd then, I decided to let it compete with various opponents.",
+            "name": "",
+            "path_id": 4640387804274043259,
+            "block_id": 11,
+            "clip_length": 103,
+            "processed": "<story>First, I entered a rough estimate of the observed speed. \n<story>And then, I decided to let it compete with various opponents."
+        },
+        {
+            "text": "Haaaaaaaa!!",
+            "name": "Calstone Light O",
+            "path_id": 1253315142573804096,
+            "block_id": 12,
+            "clip_length": 108,
+            "processed": "<story>Haaaaaaaa!!"
+        },
+        {
+            "text": "This is it. The speed when she caught the mugger was just like this. \nThe opponent to be raced against is――",
+            "name": "",
+            "path_id": -8441533142814389214,
+            "block_id": 13,
+            "clip_length": 102,
+            "processed": "<story>This is it. The speed when she caught the mugger was just like this. \n<story>The opponent to be raced against is――"
+        },
+        {
+            "text": "VS Elephant!",
+            "name": "",
+            "path_id": 4257003089840375964,
+            "block_id": 14,
+            "clip_length": 60,
+            "processed": "<story>VS Elephant!"
+        },
+        {
+            "text": "Hm, an elephant? I can't beat it in terms of nose length, \nbut in running! Haaaaa!!",
+            "name": "Calstone Light O",
+            "path_id": 5337956228005587789,
+            "block_id": 15,
+            "clip_length": 270,
+            "processed": "<story>Hm, an elephant? I can't beat it in terms of nose length, \n<story>but in running! Haaaaa!!"
+        },
+        {
+            "text": "Calstone Light O \nWIN!",
+            "name": "",
+            "path_id": -6134212336975789780,
+            "block_id": 16,
+            "clip_length": 72,
+            "choices": [
+                {
+                    "text": "An elephant is no good after all...",
+                    "hash": "3cef1482f7271adc8926690f8c0eadc2283fa5dc89d13b8ee7c4b685d08e446d"
+                },
+                {
+                    "text": "",
+                    "hash": "41feb60ce66c1050a8dec959e52b18ece05c86eb7404b201e18a7e669d61df5e"
+                }
+            ],
+            "processed": "<story>Calstone Light O \n<story>WIN!"
+        },
+        {
+            "text": "A normal human can win against most animals around here. \nThe next rival is――",
+            "name": "",
+            "path_id": 6699091165490744145,
+            "block_id": 17,
+            "clip_length": 85,
+            "processed": "<story>A normal human can win against most animals around here. \n<story>The next rival is――"
+        },
+        {
+            "text": "VS Deer!",
+            "name": "",
+            "path_id": -6025200324240964537,
+            "block_id": 18,
+            "clip_length": 55,
+            "processed": "<story>VS Deer!"
+        },
+        {
+            "text": "This time, the opponent is a deer. \nThe speed of a deer should be able to beat \nsome of the Umamusume, but...",
+            "name": "",
+            "path_id": 8176184089929952986,
+            "block_id": 19,
+            "clip_length": 90,
+            "processed": "<story>This time, the opponent is a deer. \n<story>The speed of a deer should be able to beat \n<story>some of the Umamusume, but..."
+        },
+        {
+            "text": "Just stay still and eat some deer crackers! \nHaaaaa!",
+            "name": "Calstone Light O",
+            "path_id": -1312981838452933501,
+            "block_id": 20,
+            "clip_length": 147,
+            "processed": "<story>Just stay still and eat some deer crackers! \n<story>Haaaaa!"
+        },
+        {
+            "text": "Calstone Light O \nWIN!",
+            "name": "",
+            "path_id": 3373016059255152291,
+            "block_id": 21,
+            "clip_length": 72,
+            "choices": [
+                {
+                    "text": "What a surprise! Even a deer...!",
+                    "hash": "b47570ee72ec04fdeb62511c43181f3a5316b3e1f46d8abc56d8beaff7a1d48f"
+                },
+                {
+                    "text": "",
+                    "hash": "ff757c03e39bc425acf5ca86d040a07892eb587c8576f09a5bb74bbbfbe112dc"
+                }
+            ],
+            "processed": "<story>Calstone Light O \n<story>WIN!"
+        },
+        {
+            "text": "It finished way too quickly. As expected, she's in a different league \nfrom normal Umamusume. In this situation, I should――",
+            "name": "",
+            "path_id": 150989819958043393,
+            "block_id": 22,
+            "clip_length": 95,
+            "processed": "<story>It finished way too quickly. As expected, she's in a different league \n<story>from normal Umamusume. In this situation, I should――"
+        },
+        {
+            "text": "VS Pronghorn!",
+            "name": "",
+            "path_id": 3064512687259009398,
+            "block_id": 23,
+            "clip_length": 61,
+            "processed": "<story>VS Pronghorn!"
+        },
+        {
+            "text": "Pronghorn. I decided to boldly deploy this ultra-strong \nenemy that boasts the second-fastest speed in the animal kingdom.",
+            "name": "",
+            "path_id": 3180804706254017738,
+            "block_id": 24,
+            "clip_length": 105,
+            "processed": "<story>Pronghorn. I decided to boldly deploy this ultra-strong \n<story>enemy that boasts the second-fastest speed in the animal kingdom."
+        },
+        {
+            "text": "Wh-what!? This speed is...!? \nI found it, my worthy opponent! Haaaaa!!",
+            "name": "Calstone Light O",
+            "path_id": 8946822821888846744,
+            "block_id": 25,
+            "clip_length": 232,
+            "processed": "<story>Wh-what!? This speed is...!? \n<story>I found it, my worthy opponent! Haaaaa!!"
+        },
+        {
+            "text": "After a while of competing...",
+            "name": "",
+            "path_id": 7831282366366864612,
+            "block_id": 26,
+            "clip_length": 68,
+            "processed": "<story>After a while of competing..."
+        },
+        {
+            "text": "Ghhhh...!",
+            "name": "Calstone Light O",
+            "path_id": 1303660836285671071,
+            "block_id": 27,
+            "clip_length": 84,
+            "processed": "<story>Ghhhh...!"
+        },
+        {
+            "text": "Pronghorn \nWIN!",
+            "name": "",
+            "path_id": -5718782779179395464,
+            "block_id": 28,
+            "clip_length": 63,
+            "processed": "<story>Pronghorn \n<story>WIN!"
+        },
+        {
+            "text": "The pronghorn won. But it was close! \nThe maximum speed of Calstone Light O is the third-highest \namong land animals!",
+            "name": "",
+            "path_id": -4576799380594543490,
+            "block_id": 29,
+            "clip_length": 112,
+            "processed": "<story>The pronghorn won. But it was close! \n<story>The maximum speed of Calstone Light O is the third-highest \n<story>among land animals!"
+        },
+        {
+            "text": "And when I look at the estimated speed――",
+            "name": "",
+            "path_id": 1542167373566583814,
+            "block_id": 30,
+            "clip_length": 63,
+            "choices": [
+                {
+                    "text": "Estimated speed... 75km!?",
+                    "hash": "8d75b6ebf348c5f141b58fe495f33695a3c7f1b3a96fa90de0e35811939c884d"
+                }
+            ],
+            "processed": "<story>And when I look at the estimated speed――"
+        },
+        {
+            "text": "She had an astonishing value... \nNo other Umamusume could match this speed.",
+            "name": "",
+            "path_id": -3641042082712987336,
+            "block_id": 31,
+            "clip_length": 101,
+            "choices": [
+                {
+                    "text": "I want to see this running in a race...!",
+                    "hash": "2d634de9b4a8e5603136ec8214f256aa4aab4788c96ffddabc8d83996e24026b"
+                }
+            ],
+            "processed": "<story>She had an astonishing value... \n<story>No other Umamusume could match this speed."
+        },
+        {
+            "text": "The excitement wouldn't stop. \nThe feelings of a trainer on the run were no longer controllable.",
+            "name": "",
+            "path_id": 9125537589341774037,
+            "block_id": 32,
+            "clip_length": 101,
+            "processed": "<story>The excitement wouldn't stop. \n<story>The feelings of a trainer on the run were no longer controllable."
+        },
+        {
+            "text": "...Huh? The trainer from the other day. \nThe selection race... you say?",
+            "name": "Believe",
+            "path_id": -7560743228124298791,
+            "block_id": 33,
+            "clip_length": 233,
+            "choices": [
+                {
+                    "text": "Ah, I really wanted to see Light O's run.",
+                    "hash": "fd7c743423a41294aa469555ee1a771682403841cc1f1bcaafbafaa7eccc8e1a",
+                    "processed": "<size=41>Ah, I really wanted to see Light O's run.</size>"
+                },
+                {
+                    "text": "",
+                    "hash": "7f0b16ad26f79047d779ce30ea3265f559654058fa4b7b7dbdb3fa1d5cf36c4b"
+                }
+            ],
+            "processed": "<story>...Huh? The trainer from the other day. \n<story>The selection race... you say?"
+        },
+        {
+            "text": "I see... It seems she'll be able to give it her all today. \nHer opponent is that Umamusume, after all.",
+            "name": "Believe",
+            "path_id": -7355407041011144995,
+            "block_id": 34,
+            "clip_length": 244,
+            "processed": "<story>I see... It seems she'll be able to give it her all today. \n<story>Her opponent is that Umamusume, after all."
+        },
+        {
+            "text": "Then, shall we have a serious match? \nLight O-san, are you prepared to stand on the battlefield?",
+            "name": "Durandal",
+            "path_id": -2295477338224356504,
+            "block_id": 35,
+            "clip_length": 226,
+            "processed": "<story>Then, shall we have a serious match? \n<story>Light O-san, are you prepared to stand on the battlefield?"
+        },
+        {
+            "text": "If you run without pride――then slash and discard. \nBecome a tarnish to the \"Holy Sword\".",
+            "name": "Durandal",
+            "path_id": 3847609630627829249,
+            "block_id": 36,
+            "clip_length": 228,
+            "processed": "<story>If you run without pride――then slash and discard. \n<story>Become a tarnish to the \"Holy Sword\"."
+        },
+        {
+            "text": "Durandal... \nTo think we would clash in this important match.",
+            "name": "Calstone Light O",
+            "path_id": 5506652994512140864,
+            "block_id": 37,
+            "clip_length": 126,
+            "processed": "<story>Durandal... \n<story>To think we would clash in this important match."
+        },
+        {
+            "text": "――Durandal. A short-distance prodigy who \nacts like a knight from the Middle Ages.",
+            "name": "",
+            "path_id": 5178093741712862073,
+            "block_id": 38,
+            "clip_length": 90,
+            "processed": "<story>――Durandal. A short-distance prodigy who \n<story>acts like a knight from the Middle Ages."
+        },
+        {
+            "text": "Those legs are particularly sharp, like the \nholy sword of the hero Roland. She's a formidable \nopponent at a level no one can match...",
+            "name": "",
+            "path_id": -9037539290179533378,
+            "block_id": 39,
+            "clip_length": 102,
+            "processed": "<story>Those legs are particularly sharp, like the \n<story>holy sword of the hero Roland. She's a formidable \n<story>opponent at a level no one can match..."
+        },
+        {
+            "text": "Haaaaa!!",
+            "name": "Calstone Light O",
+            "path_id": -1912104528208632640,
+            "block_id": 40,
+            "clip_length": 49,
+            "processed": "<story>Haaaaa!!"
+        },
+        {
+            "text": "!? This start...!!",
+            "name": "Durandal",
+            "path_id": -3866495752486379765,
+            "block_id": 41,
+            "clip_length": 81,
+            "processed": "<story>!? This start...!!"
+        },
+        {
+            "text": "Oooohhhhhhh!!",
+            "name": "Calstone Light O",
+            "path_id": -9008024172259660503,
+            "block_id": 42,
+            "clip_length": 145,
+            "processed": "<story>Oooohhhhhhh!!"
+        },
+        {
+            "text": "From a sudden acceleration to the maximum speed. \nThat run... was truly a miracle.",
+            "name": "",
+            "path_id": -6767526641011158201,
+            "block_id": 43,
+            "clip_length": 82,
+            "choices": [
+                {
+                    "text": "To think there's an Umamusume who can run like this...",
+                    "hash": "9bf3efbd9b32ffa9af10af3f0a50f893b7e6caececf11b81b9805d754836a105",
+                    "processed": "<size=29>To think there's an Umamusume who can run like this...</size>"
+                }
+            ],
+            "processed": "<story>From a sudden acceleration to the maximum speed. \n<story>That run... was truly a miracle."
+        },
+        {
+            "text": "It was a repeat of that day. \nThe flash of light, even surpassing the motorcycle. But――",
+            "name": "",
+            "path_id": -803105798722634618,
+            "block_id": 44,
+            "clip_length": 91,
+            "processed": "<story>It was a repeat of that day. \n<story>The flash of light, even surpassing the motorcycle. But――"
+        },
+        {
+            "text": "Tch, a corner... And a left turn which I'm not good at... \nAt this speed...!",
+            "name": "Calstone Light O",
+            "path_id": 2992068143692477729,
+            "block_id": 45,
+            "clip_length": 185,
+            "processed": "<story>Tch, a corner... And a left turn which I'm not good at... \n<story>At this speed...!"
+        },
+        {
+            "text": "A gap! The fourth sword, Dionysius' Thunder Spear! \nYaaaaaaaa!!",
+            "name": "Durandal",
+            "path_id": 4815483866951764483,
+            "block_id": 46,
+            "clip_length": 243,
+            "processed": "<story>A gap! The fourth sword, Dionysius' Thunder Spear! \n<story>Yaaaaaaaa!!"
+        },
+        {
+            "text": "Ghh... More. I can do more! \nMoreeee!!",
+            "name": "Calstone Light O",
+            "path_id": -1126518709348121765,
+            "block_id": 47,
+            "clip_length": 225,
+            "processed": "<story>Ghh... More. I can do more! \n<story>Moreeee!!"
+        },
+        {
+            "text": "Calstone Light O holds on to her limits. \nBut that's where the match ends.",
+            "name": "",
+            "path_id": 3723130606801833943,
+            "block_id": 48,
+            "clip_length": 89,
+            "processed": "<story>Calstone Light O holds on to her limits. \n<story>But that's where the match ends."
+        },
+        {
+            "text": "My deepest apologies for the firece battle. \nHowever, nothing can cut through my \"Holy Sword\".",
+            "name": "Durandal",
+            "path_id": -3225724326037745529,
+            "block_id": 49,
+            "clip_length": 256,
+            "processed": "<story>My deepest apologies for the firece battle. \n<story>However, nothing can cut through my \"Holy Sword\"."
+        },
+        {
+            "text": "Tch, how pathetic.... \nLike this...",
+            "name": "Calstone Light O",
+            "path_id": 2940114392782077034,
+            "block_id": 50,
+            "clip_length": 127,
+            "processed": "<story>Tch, how pathetic.... \n<story>Like this..."
+        },
+        {
+            "text": "Even if she was defeated, it's not like there's no possibily \nof winning. Her strength alone may be the limit, but...",
+            "name": "",
+            "path_id": 9169274182921975341,
+            "block_id": 51,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "If only she had a trainer...!",
+                    "hash": "c01f8352cc89c8a7835d2d0e5bf6c153aca9bd6689137be8d900af4ec6bce8d9"
+                }
+            ],
+            "processed": "<story>Even if she was defeated, it's not like there's no possibily \n<story>of winning. Her strength alone may be the limit, but..."
+        },
+        {
+            "text": "There's still a lot of room for improvement in both \nrace tactics and cornering. If I could give her some advice...",
+            "name": "",
+            "path_id": -2888871203639049691,
+            "block_id": 52,
+            "clip_length": 106,
+            "processed": "<story>There's still a lot of room for improvement in both \n<story>race tactics and cornering. If I could give her some advice..."
+        },
+        {
+            "text": "Ah, how frustrating! So frustrating! \nTo end up like this.",
+            "name": "Calstone Light O",
+            "path_id": -7529725473917721524,
+            "block_id": 53,
+            "clip_length": 202,
+            "processed": "<story>Ah, how frustrating! So frustrating! \n<story>To end up like this."
+        },
+        {
+            "text": "I should have been able to reach a higher top speed!! \nAnd yet, I... why...!?",
+            "name": "Calstone Light O",
+            "path_id": -1118937513056203245,
+            "block_id": 54,
+            "clip_length": 172,
+            "choices": [
+                {
+                    "text": "Light O! Depending on how, you can do more!",
+                    "hash": "fe49ab2e8441763de7769cd7d1c5b9263a9f84117b7a23c1a8a95ae5b8063347",
+                    "processed": "<size=36>Light O! Depending on how, you can do more!</size>"
+                },
+                {
+                    "text": "",
+                    "hash": "ea60c8dd27c84fbda39be0028e33674ace29fddeefdb60f661b1fb70c0f7cfc2"
+                }
+            ],
+            "processed": "<story>I should have been able to reach a higher top speed!! \n<story>And yet, I... why...!?"
+        },
+        {
+            "text": "――? \nYou're... the trainer from the other day.",
+            "name": "Calstone Light O",
+            "path_id": -187748168554901703,
+            "block_id": 55,
+            "clip_length": 147,
+            "processed": "<story>――? \n<story>You're... the trainer from the other day."
+        },
+        {
+            "text": "Calstone Light O may be an oddball, but her \npassion for racing is genuine.",
+            "name": "",
+            "path_id": 8290389793257756735,
+            "block_id": 56,
+            "clip_length": 98,
+            "processed": "<story>Calstone Light O may be an oddball, but her \n<story>passion for racing is genuine."
+        },
+        {
+            "text": "If she really wants to win against Durandal, I want \nto lend her my power no matter what.",
+            "name": "",
+            "path_id": -5454765731045550106,
+            "block_id": 57,
+            "clip_length": 97,
+            "choices": [
+                {
+                    "text": "Next time, let's beat Durandal!",
+                    "hash": "fb17ba6cdcf4be009f8a4a8e3c36f60f7384be38ef0f194c1032042625b4d6e0"
+                }
+            ],
+            "processed": "<story>If she really wants to win against Durandal, I want \n<story>to lend her my power no matter what."
+        },
+        {
+            "text": "Eh, beat Durandal...?",
+            "name": "Calstone Light O",
+            "path_id": 2169918810825624381,
+            "block_id": 58,
+            "clip_length": 60,
+            "processed": "<story>Eh, beat Durandal...?"
+        },
+        {
+            "text": "What are you saying?",
+            "name": "Calstone Light O",
+            "path_id": -3674991019702826325,
+            "block_id": 59,
+            "clip_length": 71,
+            "choices": [
+                {
+                    "text": "W-Wait, you are frustrated that you couldn't win, right?",
+                    "hash": "c81a28c8f8a1a28c081eee5f7ea5ddad821e1504715bded1348ff97e2d05b8d6",
+                    "processed": "<size=29>W-Wait, you are frustrated that you couldn't win, right?</size>"
+                },
+                {
+                    "text": "",
+                    "hash": "4766642abb2ea670fde77dfaa9b37c10509be01feb5b109798c7d8b7bfb3c4f4"
+                }
+            ],
+            "processed": "<story>What are you saying?"
+        },
+        {
+            "text": "I don't care about the outcome. \nMore importantly, what I regret is...",
+            "name": "Calstone Light O",
+            "path_id": -5881852119725181378,
+            "block_id": 60,
+            "clip_length": 127,
+            "processed": "<story>I don't care about the outcome. \n<story>More importantly, what I regret is..."
+        },
+        {
+            "text": "The fact that I couldn't reach my top speed! \nI could have done more! I could have flown even higher! \nTo the point of floating in the air!!",
+            "name": "Calstone Light O",
+            "path_id": -4574712030000156770,
+            "block_id": 61,
+            "clip_length": 226,
+            "choices": [
+                {
+                    "text": "That's it!? Not that you lost the race!?",
+                    "hash": "6a343b950f8a0709f89b88af647e4f61b00dccea45b18415eda483f65464d07b",
+                    "processed": "<size=43>That's it!? Not that you lost the race!?</size>"
+                }
+            ],
+            "processed": "<story>The fact that I couldn't reach my top speed! \n<story>I could have done more! I could have flown even higher! \n<story>To the point of floating in the air!!"
+        },
+        {
+            "text": "What she regretted wasn't her defeat, but her lack of speed... \nThe way Calstone Light O was so particular seemed to be \ncompletely different from normal Umamusume.",
+            "name": "",
+            "path_id": -5393916289504401632,
+            "block_id": 62,
+            "clip_length": 116,
+            "processed": "<story>What she regretted wasn't her defeat, but her lack of speed... \n<story>The way Calstone Light O was so particular seemed to be \n<story>completely different from normal Umamusume."
+        }
+    ],
+    "title": "Defeat! Pronghorn is the rival"
+}
