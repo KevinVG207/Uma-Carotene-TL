@@ -509,6 +509,10 @@
         "text": "«Bon Voyage»",
         "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
     },
+    "101201": {
+        "text": "Path of Singular Focus",
+        "hash": "762753b98813e3395726fdf6ee8b83d0456014ffd9f278438debf179671d0b44"
+    },
     "110011": {
         "text": "Wayakawa ♪ Marine Dive",
         "hash": "48139151053bf80fd65e4bc4e2d3a978cff7f466e63b7b866b8eb7bb5bc4aa2b",
@@ -1909,6 +1913,10 @@
         "text": "Runner's Straights ○",
         "hash": "87686d939b0a8bb246438b7f02b1e215f159849c940d398302ee1d0132506c3e"
     },
+    "201243": {
+        "text": "Gale Flash",
+        "hash": "968af5cc62f49afac59c6c92be3f820753037450f0ca4608acc240e507ce5cd2"
+    },
     "201251": {
         "text": "Runner's Corners ◎",
         "hash": "fb5031997b9d91b45fb645f759ebf44f14eb005dcf7a2a455f7c64a69e461721"
@@ -3113,6 +3121,14 @@
         "text": "Unshakeable Faith",
         "hash": "a8c5505066ed8ef498b3c2c179499efe9cf173320a3f0b4dca3a13a6509ef9e4"
     },
+    "203061": {
+        "text": "No Second Thoughts",
+        "hash": "93a6daed8b4c944b78d56751dc0ef7251da58d6f11ba99a909de288f6394129c"
+    },
+    "203071": {
+        "text": "No Third Chances",
+        "hash": "60a1d0ac57077cec7a052a92505135dd38db3fbe74de362ddbf84e936efac67e"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -3805,6 +3821,10 @@
     "901191": {
         "text": "«Bon Voyage»",
         "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
+    },
+    "901201": {
+        "text": "Path of Singular Focus",
+        "hash": "762753b98813e3395726fdf6ee8b83d0456014ffd9f278438debf179671d0b44"
     },
     "910011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -4925,6 +4945,10 @@
         "text": "Black Flash",
         "hash": "913f85f188d718ecde24228143416618a7b65afe88ab95042a6d0b66ffd1e180"
     },
+    "103703111": {
+        "text": "Ritter von Fuchu",
+        "hash": "954889f0b7384dfe750119acdf3c19d894338733836bd0a19b03704d064cffec"
+    },
     "103801111": {
         "text": "#Cute Perturbation♪",
         "hash": "dcdf1ee913ab5389a7e3c9468e4c00b286d79c415d95a978f62719f279488114"
@@ -5799,5 +5823,13 @@
     "111901211": {
         "text": "Trance",
         "hash": "fb5a3ea9cbc2aa4cabef3389846bf0b259aa8e5a6ae6c779036e651650c794d2"
+    },
+    "112001111": {
+        "text": "Flash Dash!",
+        "hash": "0e2b67d3fc99087ad2ba4c499e34507ca764d838c950b982a419010bde1aa1f1"
+    },
+    "112001211": {
+        "text": "Gale Rush!",
+        "hash": "de5cbcf0ba375658558afc17ba4e191ef146ff08b745158f0a9cdf1fe3d29c88"
     }
 }

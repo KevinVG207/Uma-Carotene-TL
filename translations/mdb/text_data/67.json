@@ -12774,6 +12774,11 @@
         "hash": "321dec861c126d1fd18981bdaf8a2d657cb74c9fc66e8e95412cc8b96fc4c95c",
         "processed": "<rbr>Raise the affection rank of<br>Dream Journey to rank 1."
     },
+    "340099": {
+        "text": "Raise the affection rank of Calstone Light O to rank 1.",
+        "hash": "0d5faf1186be8c518f29d3cc96659ed089a963483ffb1cdae5e8432dcce80a69",
+        "processed": "<rbr>Raise the affection rank of<br>Calstone Light O to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -13094,6 +13099,11 @@
         "hash": "dcc50c2fd6bb78972170ea90649c97b2440cc659a7d7e92fccc30afaeeadafd9",
         "processed": "<rbr>Raise the affection rank of<br>Seeking the Pearl to rank 11."
     },
+    "341064": {
+        "text": "Raise the affection rank of Aston Machan to rank 11.",
+        "hash": "a34d47434d24d8a1d03a8df985d329241a67635542db1dbea3fe7dfe26d3af62",
+        "processed": "<rbr>Raise the affection rank of<br>Aston Machan to rank 11."
+    },
     "341065": {
         "text": "Raise the affection rank of Yamanin Zephyr to rank 11.",
         "hash": "bc212da2308a03560b179a4e23e98033c8e562ef11235eb65f0a44d7bc28c630",
@@ -13108,6 +13118,11 @@
         "text": "Raise the affection rank of Daitaku Helios to rank 11.",
         "hash": "3c42235397753b58568396616018a3b49fd1c45474c5c47c3bc1f053ffabcf29",
         "processed": "<rbr>Raise the affection rank of<br>Daitaku Helios to rank 11."
+    },
+    "341073": {
+        "text": "Raise the affection rank of Twin Turbo to rank 11.",
+        "hash": "c585bc6faf8b06260b5e3867dd5faf52f0b5d3a6a99848c91cd33f03b3acd872",
+        "processed": "<rbr>Raise the affection rank of<br>Twin Turbo to rank 11."
     },
     "341081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 11.",
@@ -13434,6 +13449,11 @@
         "hash": "5c38cf3b032ffe221542b883f8b604a4a664d8315afc7f01fd2cf4eceb3d782d",
         "processed": "<rbr>Raise the affection rank of<br>Seeking the Pearl to rank 12."
     },
+    "342064": {
+        "text": "Raise the affection rank of Aston Machan to rank 12.",
+        "hash": "fa9b0ea38d6c476cfa9e46a84d31d253d54e803d7f3a6949d2fa5be66c69b8c6",
+        "processed": "<rbr>Raise the affection rank of<br>Aston Machan to rank 12."
+    },
     "342065": {
         "text": "Raise the affection rank of Yamanin Zephyr to rank 12.",
         "hash": "44773b2185f2839604804090af04038202609c0419c4aff51c43a61895321da9",
@@ -13448,6 +13468,11 @@
         "text": "Raise the affection rank of Daitaku Helios to rank 12.",
         "hash": "efeae450d756d0a43f44ed9f125b821beca30875ec713d96b0880f65fe74b0c3",
         "processed": "<rbr>Raise the affection rank of<br>Daitaku Helios to rank 12."
+    },
+    "342073": {
+        "text": "Raise the affection rank of Twin Turbo to rank 12.",
+        "hash": "18506bebffc8322ac894174c67f9ac64f239dd457084b07e824e0e94b2b17ff2",
+        "processed": "<rbr>Raise the affection rank of<br>Twin Turbo to rank 12."
     },
     "342081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 12.",
@@ -16883,6 +16908,31 @@
         "text": "Win all G1, G2, and G3 trophies with Dream Journey.",
         "hash": "c1c4a94eede3802ae82dafd5cf62395516806f45f8a02ed50fd342faa6296f68",
         "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Dream Journey."
+    },
+    "611401": {
+        "text": "Watch episode 4 of Calstone Light O's story.",
+        "hash": "7b26062270f9399c542613226efe782e71f1edcb6a3599b9a931c41746d5b0cd",
+        "processed": "<rbr>Watch episode 4 of Calstone<br>Light O's story."
+    },
+    "611402": {
+        "text": "Reach 10 million total fans for Calstone Light O.",
+        "hash": "2e3005b6ce7f4bc96a201ef992e01a8a80a9b0c0f0c713f390765981858c8772",
+        "processed": "<rbr>Reach 10 million total fans<br>for Calstone Light O."
+    },
+    "611403": {
+        "text": "Reach 50 million total fans for Calstone Light O.",
+        "hash": "48a43c529a3ad23bc31c968dce05d8de15d862076f3fe40bcb6796bf2d38a72a",
+        "processed": "<rbr>Reach 50 million total fans<br>for Calstone Light O."
+    },
+    "611404": {
+        "text": "Reach 100 million total fans for Calstone Light O.",
+        "hash": "1ddfbfebbcc3c7fa97f4f9be99ae948ca6fa9d5c9678ac7ff3dc0f230ac07356",
+        "processed": "<rbr>Reach 100 million total fans<br>for Calstone Light O."
+    },
+    "611405": {
+        "text": "Win all G1, G2, and G3 trophies with Calstone Light O.",
+        "hash": "36eb4c88a6305ec5eef55423b32deb77f4e58da10f55fc45eee180c871572413",
+        "processed": "<rbr>Win all G1, G2, and G3 tro-<br>phies with Calstone Light O."
     },
     "900002": {
         "text": "Watch Sakura Bakushin O's worry counseling from the home menu once.",
@@ -23443,6 +23493,26 @@
         "text": "Do 10 training runs ('#summer #besties' story event).",
         "hash": "bef4e0f70b616aae8335b270edf1ccef6e15dc44afdc83f537263641c34897ca",
         "processed": "<rbr>Do 10 training runs ('#sum-<br>mer #besties' story event)."
+    },
+    "2600117": {
+        "text": "Do 2 training runs ('Summer’s Sunlight Fades to Blue' story event).",
+        "hash": "07567de85c0ff9404fd11192dcef50f5a5926ca1767be3ee690e2d8e48a7389c",
+        "processed": "<rbr><sc=83>Do 2 training runs ('Summer’s Sun-<br>light Fades to Blue' story event)."
+    },
+    "2600118": {
+        "text": "Do 4 training runs ('Summer’s Sunlight Fades to Blue' story event).",
+        "hash": "1b26e8c2efc3265606a2131bfe28c98dacc615d460bdde9c78d68ba0600eaaf4",
+        "processed": "<rbr><sc=83>Do 4 training runs ('Summer’s Sun-<br>light Fades to Blue' story event)."
+    },
+    "2600119": {
+        "text": "Do 7 training runs ('Summer’s Sunlight Fades to Blue' story event).",
+        "hash": "23231b9d85650cc4e0479e1c1bb2cd3f3348b0763f4c73c77a5302b0bf72da64",
+        "processed": "<rbr><sc=83>Do 7 training runs ('Summer’s Sun-<br>light Fades to Blue' story event)."
+    },
+    "2600120": {
+        "text": "Do 10 training runs ('Summer’s Sunlight Fades to Blue' story event).",
+        "hash": "848f357e2cdb60530a0f8bb902e7ed0f153f430141f4b07903b38979b35537d6",
+        "processed": "<rbr><sc=81>Do 10 training runs ('Summer’s<br>Sunlight Fades to Blue' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",

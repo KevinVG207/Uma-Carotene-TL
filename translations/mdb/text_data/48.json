@@ -584,6 +584,11 @@
         "hash": "5af6fec78c7bc46aed78e70448a7ea3920b30524bf6d9c02420515b61f8a6e83",
         "processed": "<rbr><sc=78>If you're in the back of the pack 2/3 through<br>the race, your will get a speed boost; then,<br>if it's a Medium or Long distance race in<br>Nakayama or Hanshin and you're on any<br>straight, you will get a great speed boost."
     },
+    "101201": {
+        "text": "If you're in the first half of the pack during at the fourth furlong, your speed will increase; it will increase tremendously if you've also activated the 無二 and 無三 skills.",
+        "hash": "286fca2833a4f514be5def2dbdafb196c4a1067062414cd04bb7d055f4b91965",
+        "processed": "<rbr><sc=80>If you're in the first half of the pack during<br>at the fourth furlong, your speed will<br>increase; it will increase tremendously if<br>you've also activated the 無二 and 無三<br>skills."
+    },
     "110021": {
         "text": "If you're in the first place two-thirds through the race, you will get a speed boost; the effect will greatly increase if the two-thirds point is on the third corner and if you were leading by at least 3 lengths during the Middle Leg.",
         "hash": "4aa84dd75f7eb6d1ce3f40c2951d0a6bb763e5e377688d9b4711b377ef62bb6f",
@@ -889,6 +894,11 @@
         "hash": "22afd5605433421c565dfc682ce3fc553c28a52d4550c27af4b27aa83abda392",
         "processed": "<rbr><sc=89>If you're in the middle of the pack half-<br>way through the race, your speed will<br>slightly increase; the effect is stronger<br>and lasts longer in Mile races."
     },
+    "110991": {
+        "text": "Halfway through the race, your speed will slightly increase; the effect is stronger on Dirt races where the halfway point is not on the 3rd corner.",
+        "hash": "fbb9d27b15cc033136213f2b02b92ff768ac4d02014682a37a2996bf74c810e4",
+        "processed": "<rbr><sc=92>Halfway through the race, your speed<br>will slightly increase; the effect is<br>stronger on Dirt races where the half-<br>way point is not on the 3rd corner."
+    },
     "120011": {
         "text": "If you activate any skill on the Final Corner, your speed will increase; the effect is stronger in Nakayama.",
         "hash": "9acb15e76cf0b0afb86288f4222916476544d82a367269ca86dfb471e605f194",
@@ -923,6 +933,11 @@
         "text": "If you overtake someone from the middle of the pack during the Middle Leg, then on the third corner, your speed will increase; bonus duration if you're top 3 in popularity in a 2400 m race.",
         "hash": "c317fa71d65d34f2df443a52381cddedfd76d3cd1e6317488a3fc935ca93cb67",
         "processed": "<rbr><sc=80>If you overtake someone from the middle of<br>the pack during the Middle Leg, then on<br>the third corner, your speed will increase;<br>bonus duration if you're top 3 in popularity<br>in a 2400 m race."
+    },
+    "120371": {
+        "text": "Medium・If you're in the middle of the pack during the Final Corner, your speed will increase; in Tokyo races, it will increase greatly.",
+        "hash": "d7ff9db039c1f6533d8127d4062b91a0fa7c1528ff9f853524d6ed4ff32c6b1f",
+        "processed": "<rbr>Medium・If you're in the middle of<br>the pack during the Final Corner,<br>your speed will increase; in Tokyo<br>races, it will increase greatly."
     },
     "120451": {
         "text": "If you're in a good position (but not leading) during any Middle Leg corner, your stamina will recover; in Medium and Long races, your speed will also slightly increase.",
@@ -998,6 +1013,11 @@
         "text": "In Tokyo, your Stamina stat is decreased by 40.",
         "hash": "0385e24f906826f8914f3db742d51902e536be88d05b561c73b8fa5e8842a186",
         "processed": "<rbr>In Tokyo, your Stamina stat is<br>decreased by 40."
+    },
+    "200034": {
+        "text": "In Tokyo, your Speed, Stamina, and Wisdom stats are increased by 60.",
+        "hash": "dab54a5a316a099ef8395d14dca3b3a08af6b5945de3276f2ccc0477f1e3443e",
+        "processed": "<rbr>In Tokyo, your Speed, Stamina,<br>and Wisdom stats are increased by<br>60."
     },
     "200041": {
         "text": "In Nakayama, your Stamina stat is increased by 60.",
@@ -2283,6 +2303,11 @@
         "text": "Runner・Slightly increases speed on straights.",
         "hash": "4ff95e7421cdc0f12d98d33a23f9f887bb6e97c1181453a5a0117ef502cd7220",
         "processed": "<rbr>Runner・Slightly increases speed<br>on straights."
+    },
+    "201243": {
+        "text": "Runner・At a random point on a random straight, your speed will increase.",
+        "hash": "9cdd200f8a1280daaa3ea9ea6f2d7846d9d978c16ff68a322b7589cea935a15b",
+        "processed": "<rbr>Runner・At a random point on a<br>random straight, your speed will<br>increase."
     },
     "201251": {
         "text": "Runner・Lightly increases speed on corners.",
@@ -3579,6 +3604,11 @@
         "hash": "c1a0da07371da43323d9e330a242813938298eab4211c9ddbe191f81446ffd46",
         "processed": "<rbr><sc=80>Dirt・If you activate any other skill during<br>the Middle Leg, your speed will marginally<br>increase; then, if you activate any other<br>skill during the Final Leg or beyond, you<br>will get a marginal speed boost."
     },
+    "202841": {
+        "text": "Dirt・At a random point during the Middle Leg, if you're in the first half of the pack, your speed will increase and your stamina will recover.",
+        "hash": "9aa50808fd11db635dd8a239f56f8ad3aaef8b0e569a64aba2c758bba5f6d6a1",
+        "processed": "<rbr><sc=95>Dirt・At a random point during the<br>Middle Leg, if you're in the first half<br>of the pack, your speed will increase<br>and your stamina will recover."
+    },
     "202842": {
         "text": "Dirt・At a random point during the Middle Leg, if you're in the first half of the pack, your stamina will slightly recover.",
         "hash": "51f42608f95f2e6a26979f0e3ad1da4d83da805420608450a3a3494ed3e5c6a4",
@@ -3768,6 +3798,46 @@
         "text": "Medium・If you're in the first half of the pack during the second half of the Middle Leg, your speed will slightly increase.",
         "hash": "f85787fb75ea3cf226a2ac8f7e9f60cccc6626b26863ba88ab1d5a18ab027596",
         "processed": "<rbr>Medium・If you're in the first half<br>of the pack during the second half<br>of the Middle Leg, your speed will<br>slightly increase."
+    },
+    "203061": {
+        "text": "Short・If there's no one in front of you at the second furlong, your speed will marginally increase; the effect is stronger if you're not on a corner.",
+        "hash": "60043a0cc92a5f02ae483aef58e26c8cd94c03f663bd0ebad9f972156a903835",
+        "processed": "<rbr><sc=91>Short・If there's no one in front of<br>you at the second furlong, your speed<br>will marginally increase; the effect is<br>stronger if you're not on a corner."
+    },
+    "203071": {
+        "text": "Short・If there's no one in front of you at the third furlong, your speed will marginally increase; the effect is stronger if you're not on a corner.",
+        "hash": "ea57c70c5360630d1c700873a972fa77e44b46889437cf2a738ac5f838194d53",
+        "processed": "<rbr><sc=96>Short・If there's no one in front of<br>you at the third furlong, your speed<br>will marginally increase; the effect<br>is stronger if you're not on a corner."
+    },
+    "203081": {
+        "text": "Leader・Dirt・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will increase.",
+        "hash": "228e82d401e63b5a78239bb6b74a7228c21aa3b11e2bc14152b1c63b86db49d2",
+        "processed": "<rbr>Leader・Dirt・If you're in the first<br>half of the pack during the first<br>half of the Final Leg, your<br>acceleration will increase."
+    },
+    "203082": {
+        "text": "Leader・Dirt・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will slightly increase.",
+        "hash": "8e7999f66651ff96d8b122e4e982393053f2871732920d335515bd234cd33aaa",
+        "processed": "<rbr>Leader・Dirt・If you're in the first<br>half of the pack during the first<br>half of the Final Leg, your<br>acceleration will slightly increase."
+    },
+    "203092": {
+        "text": "Dirt・At a random point on a random straight, your speed will slightly increase.",
+        "hash": "20a94dfb68c2093f04b1627f8b37d8d3409d54aead58a44c9d78940c51056a58",
+        "processed": "<rbr>Dirt・At a random point on a<br>random straight, your speed will<br>slightly increase."
+    },
+    "203093": {
+        "text": "Dirt・At a random point on a random straight, your speed will slightly increase.",
+        "hash": "3a1283a5f799f04baadf64df0ff41ee45bd417805001c7da294cb15500732eae",
+        "processed": "<rbr>Dirt・At a random point on a<br>random straight, your speed will<br>slightly increase."
+    },
+    "203102": {
+        "text": "Dirt・At a random point on a random corner, your speed will slightly increase.",
+        "hash": "9fff1e0a3b3f11f1d2c419b69807a8c367471143349846541faa44643231c00b",
+        "processed": "<rbr>Dirt・At a random point on a<br>random corner, your speed will<br>slightly increase."
+    },
+    "203103": {
+        "text": "Dirt・At a random point on a random corner, your speed will slightly increase.",
+        "hash": "2535bcfad0b81bed61afeb9ebbba3ef24ca9d5daf202fb268bf1793c2b65e943",
+        "processed": "<rbr>Dirt・At a random point on a<br>random corner, your speed will<br>slightly increase."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -5434,6 +5504,11 @@
         "hash": "acd7bec2993680dc02507843c8642637525bac8d13e3a922e41c4854a8fddbdf",
         "processed": "<rbr>If you overtake someone during<br>the Middle Leg, your speed will<br>increase and your stamina recover<br>slightly."
     },
+    "101902121": {
+        "text": "Dirt・If you overtake someone during the Middle Leg, your speed will increase.",
+        "hash": "4b3f7c2a4c7612f5bdcddc4a49583b2b31e30874b1efa714afffdf3983791584",
+        "processed": "<rbr>Dirt・If you overtake someone<br>during the Middle Leg, your speed<br>will increase."
+    },
     "101902211": {
         "text": "Dirt・At a random point during the Middle Leg, if you're in the second half of the pack, your speed will increase and your stamina recover slightly.",
         "hash": "d0e3d7b94d69f3ed9ac0303c4a0fd9ca0f84bc8f9b22775de9ef236c33de4f40",
@@ -5839,6 +5914,16 @@
         "hash": "518ed2df956e52729d68dc123b3c61546a1009d223080cac0547a44aed6fafd6",
         "processed": "<rbr>Medium・At a random point on a<br>random straight, your speed will<br>greatly increase."
     },
+    "103703111": {
+        "text": "In Tokyo, your Speed, Stamina, and Wisdom stats are increased by 80.",
+        "hash": "9e60051bc06e3fcb4dbefce78a20ba2bdd57ec962265e4c4f30a193cbb52ae0d",
+        "processed": "<rbr>In Tokyo, your Speed, Stamina,<br>and Wisdom stats are increased by<br>80."
+    },
+    "103703211": {
+        "text": "Betweener・At a random point during the Middle Leg, use a little extra stamina to greatly increase your speed; in Tokyo races, you will recover a little stamina instead of using it.",
+        "hash": "d26eadd170371a6db964ae3640197e63e8668bae9bbf6f27d52854e922eeb9c1",
+        "processed": "<rbr><sc=80>Betweener・At a random point during the<br>Middle Leg, use a little extra stamina to<br>greatly increase your speed; in Tokyo<br>races, you will recover a little stamina<br>instead of using it."
+    },
     "103801111": {
         "text": "Leader・At a random point during the Final Leg, if you're in the first half of the pack, your speed will slightly increase and you'll lower FoV of all enemies behind you.",
         "hash": "e311719580afac724adec87c509f99648f5716ad5a7ead9a35b2677d95a0da5a",
@@ -6024,6 +6109,11 @@
         "hash": "2fdd3a8dbc84415619855484048fd4c8c2a1c94a40a93e33f4c3d0e1b4a02e5e",
         "processed": "<rbr><sc=90>Dirt・During the Middle Leg, if you've<br>been blocked from the side for at least<br>2 seconds, your speed will increase<br>and your stamina will slightly recover."
     },
+    "104602121": {
+        "text": "Dirt・During the Middle Leg, if you've been blocked from the side for at least 2 seconds, your speed will greatly increase.",
+        "hash": "832c53e2a128d9c1cff8155e405046ea248740a32608c5dc7a7a42abeb870000",
+        "processed": "<rbr>Dirt・During the Middle Leg, if<br>you've been blocked from the side<br>for at least 2 seconds, your speed<br>will greatly increase."
+    },
     "104602211": {
         "text": "Dirt・At a random point during the Final Leg, if you're in the first half of the pack, your acceleration will greatly increase.",
         "hash": "3161a5dc6a7f6ac0cf409baefa711b1be2b91d5df35745b03050dd05b6c00688",
@@ -6128,6 +6218,11 @@
         "text": "At a random point during the Opening Leg, your speed will slightly increase and your lane movement speed will increase.",
         "hash": "51a631364743d0e2e340ba7e30663b36f7f471067e2428d763edc846d1e422f8",
         "processed": "<rbr>At a random point during the<br>Opening Leg, your speed will<br>slightly increase and your lane<br>movement speed will increase."
+    },
+    "105202121": {
+        "text": "At a random point during the Final Leg, your acceleration and lane movement speed will increase.",
+        "hash": "1e133f0d8a5df07c4da542b003e3217aa8a6cfa4eca8e2a98bd66c33a1b8bf01",
+        "processed": "<rbr>At a random point during the Final<br>Leg, your acceleration and lane<br>movement speed will increase."
     },
     "105202211": {
         "text": "Betweener・If you're about to overtake someone, your speed will slightly increase and your acceleration will increase.",
@@ -6769,10 +6864,30 @@
         "hash": "cc56b0809b2604794c9e15ed4a827b8298cf53c9531a209bf668f393cc4f7262",
         "processed": "<rbr><sc=91>Leader・If you're in the first half of<br>the pack during the second half of the<br>Opening Leg, your speed will increase<br>and your stamina will recover."
     },
+    "109901211": {
+        "text": "Dirt・During the Middle Leg, if you've been blocked from the side for at least 2 seconds, your speed will greatly increase.",
+        "hash": "832c53e2a128d9c1cff8155e405046ea248740a32608c5dc7a7a42abeb870000",
+        "processed": "<rbr>Dirt・During the Middle Leg, if<br>you've been blocked from the side<br>for at least 2 seconds, your speed<br>will greatly increase."
+    },
+    "109902111": {
+        "text": "Dirt・Leader・If you activate any other skill during the Middle Leg, your speed will greatly increase; then, if you activate any other skill during the Final Leg or beyond, your acceleration will increase.",
+        "hash": "a0340f95fe40117321ab95de783bbedf191a0c638aca2a5a60590b68357e298b",
+        "processed": "<rbr><sc=80>Dirt・Leader・If you activate any other skill<br>during the Middle Leg, your speed will<br>greatly increase; then, if you activate any<br>other skill during the Final Leg or beyond,<br>your acceleration will increase."
+    },
+    "109902211": {
+        "text": "Leader・Dirt・During the first half of the Final Leg (first quarter in races of 1800 m or more), your acceleration will increase.",
+        "hash": "13455feac3e89df1f7ba47d9c973112377ab9d0afbd3898466ad35a2b74e43c5",
+        "processed": "<rbr>Leader・Dirt・During the first half<br>of the Final Leg (first quarter in<br>races of 1800 m or more), your<br>acceleration will increase."
+    },
     "110001111": {
         "text": "Mile・If you have any targets to overtake, your speed will increase.",
         "hash": "fab69961c13070028eb91be96d4cc62f53bac042ae14e57481c4b29b924e543c",
         "processed": "<rbr>Mile・If you have any targets to<br>overtake, your speed will increase."
+    },
+    "110001121": {
+        "text": "Dirt・If you're about to overtake someone, your speed will greatly increase and your stamina will slightly recover.",
+        "hash": "357d1cfd797bf3208db9f2e7c6472bf544440b1ff671bf490713801117a553bb",
+        "processed": "<rbr>Dirt・If you're about to overtake<br>someone, your speed will greatly<br>increase and your stamina will<br>slightly recover."
     },
     "110001211": {
         "text": "Dirt・If you've been following another girl for at least 3 seconds, your speed will increase.",
@@ -6863,5 +6978,15 @@
         "text": "Chaser・If you're trying to overtake someone during any Final Leg corner, you will get a speed boost; the effect is stronger if your Wisdom is at least 1200 and the race is in Nakayama.",
         "hash": "c835224658964a3f8878b1b9dc8e3fc87d4557efc4d179e26fe4416f360b95b1",
         "processed": "<rbr><sc=80>Chaser・If you're trying to overtake some-<br>one during any Final Leg corner, you will<br>get a speed boost; the effect is stronger if<br>your Wisdom is at least 1200 and the race<br>is in Nakayama."
+    },
+    "112001111": {
+        "text": "Runner・Short・At the start of the race, your acceleration will slightly increase; then, at a random point on a random straight, your speed will increase.",
+        "hash": "c39f21354d69d54841bb59938789f38cdbc60ad38c54bc2eee8db794e21fe4e5",
+        "processed": "<rbr><sc=87>Runner・Short・At the start of the race,<br>your acceleration will slightly increase;<br>then, at a random point on a random<br>straight, your speed will increase."
+    },
+    "112001211": {
+        "text": "Runner・Short・At the start of the race, your acceleration will slightly increase; then, at a random point on a random straight, your speed will increase.",
+        "hash": "c39f21354d69d54841bb59938789f38cdbc60ad38c54bc2eee8db794e21fe4e5",
+        "processed": "<rbr><sc=87>Runner・Short・At the start of the race,<br>your acceleration will slightly increase;<br>then, at a random point on a random<br>straight, your speed will increase."
     }
 }
