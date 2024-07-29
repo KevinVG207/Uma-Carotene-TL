@@ -3767,6 +3767,42 @@
         "text": "Obtain [無三] skill hint.",
         "hash": "48814b83295354f639d27b7f2a9c0e15fafa951016363447f664e58d00f153cf"
     },
+    "2030801": {
+        "text": "Obtain [力の限り] skill hint.",
+        "hash": "dca985e21814da74c318ce0fc82c60a3cc195a74dffc34c8f9ab09317ec14eba"
+    },
+    "2030802": {
+        "text": "Obtain [力の限り] skill hint.",
+        "hash": "dca985e21814da74c318ce0fc82c60a3cc195a74dffc34c8f9ab09317ec14eba"
+    },
+    "2030803": {
+        "text": "Obtain [力の限り] skill hint.",
+        "hash": "dca985e21814da74c318ce0fc82c60a3cc195a74dffc34c8f9ab09317ec14eba"
+    },
+    "2030901": {
+        "text": "Obtain [ダート直線◎] skill hint.",
+        "hash": "5ccf8476fdea9701caf312649035749e268c0b047518796ab7f8f02b715fc3de"
+    },
+    "2030902": {
+        "text": "Obtain [ダート直線◎] skill hint.",
+        "hash": "5ccf8476fdea9701caf312649035749e268c0b047518796ab7f8f02b715fc3de"
+    },
+    "2030903": {
+        "text": "Obtain [ダート直線◎] skill hint.",
+        "hash": "5ccf8476fdea9701caf312649035749e268c0b047518796ab7f8f02b715fc3de"
+    },
+    "2031001": {
+        "text": "Obtain [ダートコーナー◎] skill hint.",
+        "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
+    },
+    "2031002": {
+        "text": "Obtain [ダートコーナー◎] skill hint.",
+        "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
+    },
+    "2031003": {
+        "text": "Obtain [ダートコーナー◎] skill hint.",
+        "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
+    },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
         "hash": "6623b38f8774d87129d1e5b37726a1d8d676804e81b2541e749eda64ef29ccce"
@@ -5407,6 +5443,18 @@
         "text": "Increases STA Cap, POW Cap and WIS Cap.\\nObtain [Guten Appetit♪] skill hint.",
         "hash": "c49e4f9fcaf1ab76ce034dd0e98b39c817aa8b5e52d7aaa17ec9e97fe9021eb5"
     },
+    "10370301": {
+        "text": "Increases STA Cap, GUT Cap and WIS Cap.\\nObtain [潮風のGeschenk] skill hint.",
+        "hash": "4fba453139dd05c2701c6609eca9c550065f6a243e90b756aaca3b95be14b33d"
+    },
+    "10370302": {
+        "text": "Increases STA Cap, GUT Cap and WIS Cap.\\nObtain [潮風のGeschenk] skill hint.",
+        "hash": "4fba453139dd05c2701c6609eca9c550065f6a243e90b756aaca3b95be14b33d"
+    },
+    "10370303": {
+        "text": "Increases STA Cap, GUT Cap and WIS Cap.\\nObtain [潮風のGeschenk] skill hint.",
+        "hash": "4fba453139dd05c2701c6609eca9c550065f6a243e90b756aaca3b95be14b33d"
+    },
     "10380101": {
         "text": "Increases SPD Cap and POW Cap.\\nObtain [#LookatCurren] skill hint.",
         "hash": "27097b11d44e7c8f67d4575817f1fe15e3d1ae72526ebb63588674e9e46d22c8"
@@ -6438,6 +6486,18 @@
     "10990103": {
         "text": "Increases SPD Cap, STA Cap and WIS Cap.\\nObtain [Shine ☆ Tomakomai] skill hint.",
         "hash": "a55b157d26f64aa04058232ba1c9716955a5f495eb026adb09c1fe838c72dffe"
+    },
+    "10990201": {
+        "text": "Increases SPD Cap, STA Cap and WIS Cap.\\nObtain [とびだせ☆ポッピングシェル] skill hint.",
+        "hash": "e14c626c837d29071006c3860966ec2a2ea081695e276aaf08d65fcbbd19d80b"
+    },
+    "10990202": {
+        "text": "Increases SPD Cap, STA Cap and WIS Cap.\\nObtain [とびだせ☆ポッピングシェル] skill hint.",
+        "hash": "e14c626c837d29071006c3860966ec2a2ea081695e276aaf08d65fcbbd19d80b"
+    },
+    "10990203": {
+        "text": "Increases SPD Cap, STA Cap and WIS Cap.\\nObtain [とびだせ☆ポッピングシェル] skill hint.",
+        "hash": "e14c626c837d29071006c3860966ec2a2ea081695e276aaf08d65fcbbd19d80b"
     },
     "11000101": {
         "text": "Increases GUT Cap and WIS Cap.\\nObtain [Never Say Never] skill hint.",
