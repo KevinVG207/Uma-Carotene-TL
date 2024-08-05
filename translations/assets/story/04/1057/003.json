@@ -1,0 +1,568 @@
+{
+    "type": "story",
+    "row_index": 30699,
+    "file_name": "story/data/04/1057/storytimeline_041057003",
+    "hash": "WDZA5K4QXMAYABZIOG3VNMOXILVRMNFE",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 1155051972976263648,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "When I found Mr. C.B. in town, she was ill. She insisted it wasn't \nserious, so I decided to take her to her house for now.",
+            "name": "",
+            "path_id": -6784208166277883463,
+            "block_id": 1,
+            "clip_length": 124,
+            "processed": "<story>When I found Mr. C.B. in town, she was ill. She insisted it wasn't \n<story>serious, so I decided to take her to her house for now."
+        },
+        {
+            "text": "Haha, sorry for making you take me home. \nAhh... I'm glad you did...",
+            "name": "Mr. C.B.",
+            "path_id": 4138818842517372433,
+            "block_id": 2,
+            "clip_length": 257,
+            "choices": [
+                {
+                    "text": "Should I take you to the hospital?",
+                    "hash": "5af892a5f2123c0f06e6eebaef04cfe52e4940aec07e7c291c265111d60e085e"
+                }
+            ],
+            "processed": "<story>Haha, sorry for making you take me home. \n<story>Ahh... I'm glad you did..."
+        },
+        {
+            "text": "No, I'm fine. \nThis kind of thing usually heals with some rest... cough.",
+            "name": "Mr. C.B.",
+            "path_id": 627043537080221998,
+            "block_id": 3,
+            "clip_length": 238,
+            "processed": "<story>No, I'm fine. \n<story>This kind of thing usually heals with some rest... cough."
+        },
+        {
+            "text": "...I was a bit worried, but it probably wouldn't \nbe good to stay too long. As I was about to leave――",
+            "name": "",
+            "path_id": 2380808853902933766,
+            "block_id": 4,
+            "clip_length": 99,
+            "processed": "<story>...I was a bit worried, but it probably wouldn't \n<story>be good to stay too long. As I was about to leave――"
+        },
+        {
+            "text": "Wait.",
+            "name": "Mr. C.B.",
+            "path_id": 3174311179930644069,
+            "block_id": 5,
+            "clip_length": 43,
+            "processed": "<story>Wait."
+        },
+        {
+            "text": "I live alone. There's nothing in the house right now... \nSorry, but could you buy some water for me...?",
+            "name": "Mr. C.B.",
+            "path_id": 5140629766216503824,
+            "block_id": 6,
+            "clip_length": 318,
+            "processed": "<story>I live alone. There's nothing in the house right now... \n<story>Sorry, but could you buy some water for me...?"
+        },
+        {
+            "text": "Upon closer inspection, there was not only no water but not a \nsingle piece of food, so I bought a few things and cooked them... \nBefore I knew it, I was taking care of her.",
+            "name": "",
+            "path_id": 4744187678664295169,
+            "block_id": 7,
+            "clip_length": 123,
+            "processed": "<story>Upon closer inspection, there was not only no water but not a \n<story>single piece of food, so I bought a few things and cooked them... \n<story>Before I knew it, I was taking care of her."
+        },
+        {
+            "text": "Ahh~..., the noodles are so delicious...! \n...Thanks for the meal... I'm really grateful.",
+            "name": "Mr. C.B.",
+            "path_id": -9221682705832793767,
+            "block_id": 8,
+            "clip_length": 324,
+            "choices": [
+                {
+                    "text": "That's good.",
+                    "hash": "962d119af45145932096c3d15870d4d62a3bfafdb35791d344c3f9cdb5537d12"
+                }
+            ],
+            "processed": "<story>Ahh~..., the noodles are so delicious...! \n<story>...Thanks for the meal... I'm really grateful."
+        },
+        {
+            "text": "I prepared ready-made meals, regular medicines and nutritional \ndrinks on the table. With this much, she shouldn't have any \ninconvenience even if she stays in bed for a few days.",
+            "name": "",
+            "path_id": -6346286001828999483,
+            "block_id": 9,
+            "clip_length": 111,
+            "processed": "<story>I prepared ready-made meals, regular medicines and nutritional \n<story>drinks on the table. With this much, she shouldn't have any \n<story>inconvenience even if she stays in bed for a few days."
+        },
+        {
+            "text": "...And I felt a look from Mr. C.B..",
+            "name": "",
+            "path_id": 3314735547249098459,
+            "block_id": 10,
+            "clip_length": 72,
+            "choices": [
+                {
+                    "text": "",
+                    "hash": "d6a4e79b56c212bb6e83b3632ed432fc67c2aff81a7fc3d2f1c77cf669cea254"
+                }
+            ],
+            "processed": "<story>...And I felt a look from Mr. C.B.."
+        },
+        {
+            "text": "I'm sorry. \nI turned so many scouts.",
+            "name": "Mr. C.B.",
+            "path_id": -1576903454833608718,
+            "block_id": 11,
+            "clip_length": 137,
+            "processed": "<story>I'm sorry. \n<story>I turned so many scouts."
+        },
+        {
+            "text": "I'm sure you're an excellent and kind trainer. I can tell by \nlooking at you. It's not your fault. It's just...",
+            "name": "Mr. C.B.",
+            "path_id": 9072865936770732281,
+            "block_id": 12,
+            "clip_length": 262,
+            "choices": [
+                {
+                    "text": "...just?",
+                    "hash": "10b44c3483a205b3ea6273117881ca95501da040ec2af390a7445dc5cdbe0de0"
+                }
+            ],
+            "processed": "<story>I'm sure you're an excellent and kind trainer. I can tell by \n<story>looking at you. It's not your fault. It's just..."
+        },
+        {
+            "text": "...A long time ago.",
+            "name": "Mr. C.B.",
+            "path_id": -2356061740218498605,
+            "block_id": 13,
+            "clip_length": 93,
+            "processed": "<story>...A long time ago."
+        },
+        {
+            "text": "――I used to belong to a famous club team in the past. \nThere, I received training from various famous trainers.",
+            "name": "Mr. C.B.",
+            "path_id": 3265092201047360352,
+            "block_id": 14,
+            "clip_length": 278,
+            "processed": "<story>――I used to belong to a famous club team in the past. \n<story>There, I received training from various famous trainers."
+        },
+        {
+            "text": "\"Your power is only effective if you can escape.\" \n\"Let's learn to run in all sorts of way so we can deal with anything.\"",
+            "name": "Mr. C.B.",
+            "path_id": -1371410921346747932,
+            "block_id": 15,
+            "clip_length": 222,
+            "processed": "<story>\"Your power is only effective if you can escape.\" \n<story>\"Let's learn to run in all sorts of way so we can deal with anything.\""
+        },
+        {
+            "text": "\"Then you can win a G1, win the URA Award, \nand even become a Triple Crown Umamusume.\" \nI got a lot of words like that. But――",
+            "name": "Mr. C.B.",
+            "path_id": 5105484841870378700,
+            "block_id": 16,
+            "clip_length": 376,
+            "processed": "<story>\"Then you can win a G1, win the URA Award, \n<story>and even become a Triple Crown Umamusume.\" \n<story>I got a lot of words like that. But――"
+        },
+        {
+            "text": "...~~~!!",
+            "name": "Mr. C.B.",
+            "path_id": 4324821189512865552,
+            "block_id": 17,
+            "clip_length": 64,
+            "processed": "<story>...~~~!!"
+        },
+        {
+            "text": "I couldn't be interested in winning a G1 \nor becoming a Triple Crown Umamusume.",
+            "name": "Mr. C.B.",
+            "path_id": -577335014763153143,
+            "block_id": 18,
+            "clip_length": 156,
+            "processed": "<story>I couldn't be interested in winning a G1 \n<story>or becoming a Triple Crown Umamusume."
+        },
+        {
+            "text": "I know what \"Trainers\" want more than anything. \nA big track record, a unique source of pride.",
+            "name": "Mr. C.B.",
+            "path_id": 4406496917624994899,
+            "block_id": 19,
+            "clip_length": 294,
+            "processed": "<story>I know what \"Trainers\" want more than anything. \n<story>A big track record, a unique source of pride."
+        },
+        {
+            "text": "But, no matter what. What kind of honor do I get if I win a race? \nHow many times do I have to win to be amazing?",
+            "name": "Mr. C.B.",
+            "path_id": -4475352810548198425,
+            "block_id": 20,
+            "clip_length": 366,
+            "processed": "<story>But, no matter what. What kind of honor do I get if I win a race? \n<story>How many times do I have to win to be amazing?"
+        },
+        {
+            "text": "I couldn't genuienly be interested in that. \nSo――",
+            "name": "Mr. C.B.",
+            "path_id": 441353065169182251,
+            "block_id": 21,
+            "clip_length": 176,
+            "processed": "<story>I couldn't genuienly be interested in that. \n<story>So――"
+        },
+        {
+            "text": "Why can't you listen to what I say?",
+            "name": "Trainer",
+            "path_id": -7442415711809478264,
+            "block_id": 22,
+            "clip_length": 69,
+            "processed": "<story>Why can't you listen to what I say?"
+        },
+        {
+            "text": ".......",
+            "name": "Mr. C.B.",
+            "path_id": -1215052276857852133,
+            "block_id": 23,
+            "clip_length": 134,
+            "processed": "<story>......."
+        },
+        {
+            "text": "...I had a disagreement with my trainers. \nI decided to quit.",
+            "name": "Mr. C.B.",
+            "path_id": -5485914465416054334,
+            "block_id": 24,
+            "clip_length": 149,
+            "processed": "<story>...I had a disagreement with my trainers. \n<story>I decided to quit."
+        },
+        {
+            "text": "...I still don't really understand it. \nI also want to run for the sake of the future \nof Umamusume like Rudolf.",
+            "name": "Mr. C.B.",
+            "path_id": 8859722663182772964,
+            "block_id": 25,
+            "clip_length": 243,
+            "processed": "<story>...I still don't really understand it. \n<story>I also want to run for the sake of the future \n<story>of Umamusume like Rudolf."
+        },
+        {
+            "text": "I understand that it's wonderful to want to see someone's smile, \nwanting to make something exciting...",
+            "name": "Mr. C.B.",
+            "path_id": 3033751111023748142,
+            "block_id": 26,
+            "clip_length": 264,
+            "processed": "<story>I understand that it's wonderful to want to see someone's smile, \n<story>wanting to make something exciting..."
+        },
+        {
+            "text": "But for me, that place is not like that. \nIt's just something for running, nothing more.",
+            "name": "Mr. C.B.",
+            "path_id": -6325463208084240452,
+            "block_id": 27,
+            "clip_length": 314,
+            "processed": "<story>But for me, that place is not like that. \n<story>It's just something for running, nothing more."
+        },
+        {
+            "text": "...That's the greatest happiness.",
+            "name": "Mr. C.B.",
+            "path_id": 2780801937512968475,
+            "block_id": 28,
+            "clip_length": 190,
+            "choices": [
+                {
+                    "text": "(I see...)",
+                    "hash": "693dd0240207aa3a4b10e365d524631277d7964adee33bebbba850e0b7b0f9d4"
+                }
+            ],
+            "processed": "<story>...That's the greatest happiness."
+        },
+        {
+            "text": "She lives to run. Her fundamental values \nare greatly out of sync with society.",
+            "name": "",
+            "path_id": 5718003889615979817,
+            "block_id": 29,
+            "clip_length": 94,
+            "processed": "<story>She lives to run. Her fundamental values \n<story>are greatly out of sync with society."
+        },
+        {
+            "text": "...However, it's not necessary to have the same dream in the \nfirst place. For starters, many Umamusume form contracts with \ntrainers for the sake of their debut.",
+            "name": "",
+            "path_id": 6764658447874559090,
+            "block_id": 30,
+            "clip_length": 124,
+            "processed": "<story>...However, it's not necessary to have the same dream in the \n<story>first place. For starters, many Umamusume form contracts with \n<story>trainers for the sake of their debut."
+        },
+        {
+            "text": "It seems like a problem that should be easily resolved \nif we both make compromises, but――",
+            "name": "",
+            "path_id": -2865435823690820136,
+            "block_id": 31,
+            "clip_length": 88,
+            "choices": [
+                {
+                    "text": "(She can't. That's why she's worried.)",
+                    "hash": "edee8de3cbe2664da54417218a05579a868b604d9293973e767cacb467b7cbad"
+                }
+            ],
+            "processed": "<story>It seems like a problem that should be easily resolved \n<story>if we both make compromises, but――"
+        },
+        {
+            "text": "If she can't accept that, she can't move forward. \nShe can't lie no matter what. Despite her free-spirited atmosphere, \nshe seemed to be quite clumsy in character.",
+            "name": "",
+            "path_id": 3208371745820575300,
+            "block_id": 32,
+            "clip_length": 121,
+            "processed": "<story>If she can't accept that, she can't move forward. \n<story>She can't lie no matter what. Despite her free-spirited atmosphere, \n<story>she seemed to be quite clumsy in character."
+        },
+        {
+            "text": "As I thought back on Mr. C.B.'s story... \nI suddenly realized something.",
+            "name": "",
+            "path_id": 1087881672290781965,
+            "block_id": 33,
+            "clip_length": 99,
+            "processed": "<story>As I thought back on Mr. C.B.'s story... \n<story>I suddenly realized something."
+        },
+        {
+            "text": "She can't aim for the \"G1 victory\" or \"Triple Crown Umamusume\" \nthat the trainer desires. If the trainer can adapt to her values, \nthen――",
+            "name": "",
+            "path_id": 6260017320400396010,
+            "block_id": 34,
+            "clip_length": 127,
+            "processed": "<story>She can't aim for the \"G1 victory\" or \"Triple Crown Umamusume\" \n<story>that the trainer desires. If the trainer can adapt to her values, \n<story>then――"
+        },
+        {
+            "text": "Wouldn't it be better if I could love racing \nas much as she does?",
+            "name": "",
+            "path_id": 140660377053083034,
+            "block_id": 35,
+            "clip_length": 94,
+            "processed": "<story>Wouldn't it be better if I could love racing \n<story>as much as she does?"
+        },
+        {
+            "text": "You want to know what I see during a race?",
+            "name": "Mr. C.B.",
+            "path_id": 553887739965316676,
+            "block_id": 36,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "I want to know what kind of charm you feel.",
+                    "hash": "b560c2ed7748a4d1b34d76f5211b51806a78bffb42b36b5d2445750b63044173",
+                    "processed": "<size=38>I want to know what kind of charm you feel.</size>"
+                },
+                {
+                    "text": "",
+                    "hash": "1847b08f273e373a1945fe046fbe24b8fd8040c93d0965c7f028618a3d353418"
+                }
+            ],
+            "processed": "<story>You want to know what I see during a race?"
+        },
+        {
+            "text": "Huh, why?",
+            "name": "Mr. C.B.",
+            "path_id": 5805340875473742575,
+            "block_id": 37,
+            "clip_length": 63,
+            "processed": "<story>Huh, why?"
+        },
+        {
+            "text": "I tried to summarize and explain why――",
+            "name": "",
+            "path_id": -8442973702711118008,
+            "block_id": 38,
+            "clip_length": 67,
+            "processed": "<story>I tried to summarize and explain why――"
+        },
+        {
+            "text": ".... \nYou want to get closer to me? You?",
+            "name": "Mr. C.B.",
+            "path_id": 359776566992531644,
+            "block_id": 39,
+            "clip_length": 224,
+            "choices": [
+                {
+                    "text": "...Didn't like it?",
+                    "hash": "07ef2e6d0af1af2976b00d63ff3b200a42c435a44241cca9fa1dd4276044a4da"
+                }
+            ],
+            "processed": "<story>.... \n<story>You want to get closer to me? You?"
+        },
+        {
+            "text": "...Hmm, no. I was just a little surprised.",
+            "name": "Mr. C.B.",
+            "path_id": -814583603343779605,
+            "block_id": 40,
+            "clip_length": 154,
+            "processed": "<story>...Hmm, no. I was just a little surprised."
+        },
+        {
+            "text": "But... it's nice. Yeah, not bad. Not bad at all. \nLet's give it a try!",
+            "name": "Mr. C.B.",
+            "path_id": 2172338253717614794,
+            "block_id": 41,
+            "clip_length": 261,
+            "processed": "<story>But... it's nice. Yeah, not bad. Not bad at all. \n<story>Let's give it a try!"
+        },
+        {
+            "text": "Then... well, close your eyes.",
+            "name": "Mr. C.B.",
+            "path_id": -7082620646322492203,
+            "block_id": 42,
+            "clip_length": 127,
+            "processed": "<story>Then... well, close your eyes."
+        },
+        {
+            "text": "Imagine you are inside a narrow gate, \nbeyond it, the turf is lush and green.",
+            "name": "Mr. C.B.",
+            "path_id": -3268278040570835755,
+            "block_id": 43,
+            "clip_length": 243,
+            "processed": "<story>Imagine you are inside a narrow gate, \n<story>beyond it, the turf is lush and green."
+        },
+        {
+            "text": "Lined up next to you, nearly 10 selected Umamusume in total. \nRudolf and Ace... they're all kids who look like they'll \ngive an interesting race.",
+            "name": "Mr. C.B.",
+            "path_id": 135075538945502261,
+            "block_id": 44,
+            "clip_length": 329,
+            "processed": "<story>Lined up next to you, nearly 10 selected Umamusume in total. \n<story>Rudolf and Ace... they're all kids who look like they'll \n<story>give an interesting race."
+        },
+        {
+            "text": "The fanfare resounds and the gate opens. \nFrom that narrow, dark place, you leap onto the green turf!",
+            "name": "Mr. C.B.",
+            "path_id": 3366301475147938779,
+            "block_id": 45,
+            "clip_length": 227,
+            "processed": "<story>The fanfare resounds and the gate opens. \n<story>From that narrow, dark place, you leap onto the green turf!"
+        },
+        {
+            "text": "The grass is soft today. The cold air passes through your body. \nThe kids next to you are positioning themselves \none after another, moving forward.",
+            "name": "Mr. C.B.",
+            "path_id": 9117787529531520389,
+            "block_id": 46,
+            "clip_length": 298,
+            "processed": "<story>The grass is soft today. The cold air passes through your body. \n<story>The kids next to you are positioning themselves \n<story>one after another, moving forward."
+        },
+        {
+            "text": "You're not in the mood for that. \nThat's right... go to the back and watch the race from there.",
+            "name": "Mr. C.B.",
+            "path_id": 2729530657433763775,
+            "block_id": 47,
+            "clip_length": 276,
+            "processed": "<story>You're not in the mood for that. \n<story>That's right... go to the back and watch the race from there."
+        },
+        {
+            "text": "...The third corner and the hill are coming! \nSpeed up as fast as your bouncing heart can, climb up and down―― \nthe final corner!",
+            "name": "Mr. C.B.",
+            "path_id": 5201033042463144740,
+            "block_id": 48,
+            "clip_length": 254,
+            "processed": "<story>...The third corner and the hill are coming! \n<story>Speed up as fast as your bouncing heart can, climb up and down―― \n<story>the final corner!"
+        },
+        {
+            "text": "The others around you accelerate all at once, don't miss the heat, \ncatch the lead! Push your legs in with all your might once more, \nshort breaths, inhale and exhale――",
+            "name": "Mr. C.B.",
+            "path_id": -3229240187757416846,
+            "block_id": 49,
+            "clip_length": 387,
+            "processed": "<story>The others around you accelerate all at once, don't miss the heat, \n<story>catch the lead! Push your legs in with all your might once more, \n<story>short breaths, inhale and exhale――"
+        },
+        {
+            "text": "Run!",
+            "name": "Mr. C.B.",
+            "path_id": 2510453982757951490,
+            "block_id": 50,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "!",
+                    "hash": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d"
+                }
+            ],
+            "processed": "<story>Run!"
+        },
+        {
+            "text": "Faster than the wind, faster than the light, throw away \neverything and move forward! No one can stop you, \nno one can tie you down...!",
+            "name": "Mr. C.B.",
+            "path_id": 8410393362207059025,
+            "block_id": 51,
+            "clip_length": 315,
+            "processed": "<story>Faster than the wind, faster than the light, throw away \n<story>everything and move forward! No one can stop you, \n<story>no one can tie you down...!"
+        },
+        {
+            "text": "――When I opened my eyes, \nshe was peering at me with an excited look.",
+            "name": "",
+            "path_id": 7270035278345543080,
+            "block_id": 52,
+            "clip_length": 88,
+            "processed": "<story>――When I opened my eyes, \n<story>she was peering at me with an excited look."
+        },
+        {
+            "text": "Hehe, now I feel like going for a run. \nSo... how was it? How did it go?",
+            "name": "Mr. C.B.",
+            "path_id": -490395292241460656,
+            "block_id": 53,
+            "clip_length": 265,
+            "processed": "<story>Hehe, now I feel like going for a run. \n<story>So... how was it? How did it go?"
+        },
+        {
+            "text": "I could understand what kind of thing it was. \nJust imagining it, it felt like my heart was fluttering a little. \nBut――",
+            "name": "",
+            "path_id": 7965123606499380169,
+            "block_id": 54,
+            "clip_length": 103,
+            "processed": "<story>I could understand what kind of thing it was. \n<story>Just imagining it, it felt like my heart was fluttering a little. \n<story>But――"
+        },
+        {
+            "text": "...? Hm?",
+            "name": "Mr. C.B.",
+            "path_id": -748077594883230025,
+            "block_id": 55,
+            "clip_length": 80,
+            "choices": [
+                {
+                    "text": "(I feel like I've lost to the heat of the explanation...)",
+                    "hash": "44ceda3b98407972607ab848c7299b0ffdb0113de2f6d682b1ae64a0e6a9874e",
+                    "processed": "<size=32>(I feel like I've lost to the heat of the explanation...)</size>"
+                }
+            ],
+            "processed": "<story>...? Hm?"
+        },
+        {
+            "text": "The way she spoke was kind, passionate, \nand overflowing with love. It was probably \nfar from what I felt.",
+            "name": "",
+            "path_id": 3043899913690291900,
+            "block_id": 56,
+            "clip_length": 105,
+            "processed": "<story>The way she spoke was kind, passionate, \n<story>and overflowing with love. It was probably \n<story>far from what I felt."
+        },
+        {
+            "text": "I thought that if I could love racing as much as her, but... \nIt might have been an overly presumptuous suggestion.",
+            "name": "",
+            "path_id": 2411565565612478354,
+            "block_id": 57,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "Maybe I didn't really understood it.",
+                    "hash": "b60be4402d56e7adf530ccca3797fb4bc6718c036cbc211bc7742e7a5d6ec8d7"
+                }
+            ],
+            "processed": "<story>I thought that if I could love racing as much as her, but... \n<story>It might have been an overly presumptuous suggestion."
+        },
+        {
+            "text": "...Ahaha, I see, so that's how it is. ...I knew it.",
+            "name": "Mr. C.B.",
+            "path_id": -4231434807686806967,
+            "block_id": 58,
+            "clip_length": 226,
+            "processed": "<story>...Ahaha, I see, so that's how it is. ...I knew it."
+        },
+        {
+            "text": "But if you'd told me you understood, \nyou might have made a contract! \nYou, how should I say it――",
+            "name": "Mr. C.B.",
+            "path_id": 8148060838282287367,
+            "block_id": 59,
+            "clip_length": 249,
+            "processed": "<story>But if you'd told me you understood, \n<story>you might have made a contract! \n<story>You, how should I say it――"
+        },
+        {
+            "text": "You're so honest. ...Hehe.",
+            "name": "Mr. C.B.",
+            "path_id": 7954687568925957334,
+            "block_id": 60,
+            "clip_length": 120,
+            "processed": "<story>You're so honest. ...Hehe."
+        }
+    ],
+    "title": "When I close my eyes I see everything"
+}

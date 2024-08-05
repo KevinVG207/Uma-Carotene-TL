@@ -1,0 +1,506 @@
+{
+    "type": "story",
+    "row_index": 29480,
+    "file_name": "story/data/04/1057/storytimeline_041057006",
+    "hash": "F4K73EXUCQMGX5MPZ3AUPVFFHFX7L3ND",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 8345633088525901110,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Day off――I had a lot of free time on my hands for once, \nso I was about to head out to the station when...",
+            "name": "",
+            "path_id": 5939678904829245990,
+            "block_id": 1,
+            "clip_length": 97,
+            "processed": "<story>Day off――I had a lot of free time on my hands for once, \n<story>so I was about to head out to the station when..."
+        },
+        {
+            "text": "Oh, you're going out too?",
+            "name": "???",
+            "path_id": 3137320409827159103,
+            "block_id": 2,
+            "clip_length": 77,
+            "processed": "<story>Oh, you're going out too?"
+        },
+        {
+            "text": "Yo!",
+            "name": "Mr. C.B.",
+            "path_id": 8645481891516314693,
+            "block_id": 3,
+            "clip_length": 41,
+            "choices": [
+                {
+                    "text": "Whoa!?",
+                    "hash": "8952914a39065efaab5189fd71c9e500f44e7a534378aaff7edd6d48382c6fd4"
+                }
+            ],
+            "processed": "<story>Yo!"
+        },
+        {
+            "text": "Suddenly, Mr. C.B. fell from the tree...!",
+            "name": "",
+            "path_id": 642712709112773156,
+            "block_id": 4,
+            "clip_length": 77,
+            "processed": "<story>Suddenly, Mr. C.B. fell from the tree...!"
+        },
+        {
+            "text": "It's a beautiful day, a perfect day to go out. \nWhere are you going?",
+            "name": "Mr. C.B.",
+            "path_id": -4748726243265179288,
+            "block_id": 5,
+            "clip_length": 160,
+            "choices": [
+                {
+                    "text": "I was thinking the station... and you?",
+                    "hash": "9d3f6bd47e196e024317d41cc0a322721e50a5198a13b5bbaf4b24a124f5cfcf"
+                },
+                {
+                    "text": "",
+                    "hash": "6afb025d0919745c24d1ecd95adf1a85b4d3aa68957a5f72417ef93268bccb7b"
+                }
+            ],
+            "processed": "<story>It's a beautiful day, a perfect day to go out. \n<story>Where are you going?"
+        },
+        {
+            "text": "Me? I'm――",
+            "name": "Mr. C.B.",
+            "path_id": -9044705527194793839,
+            "block_id": 6,
+            "clip_length": 78,
+            "processed": "<story>Me? I'm――"
+        },
+        {
+            "text": "At that moment, I suddenly remembered what happened before.",
+            "name": "",
+            "path_id": -2869762826655584585,
+            "block_id": 7,
+            "clip_length": 72,
+            "processed": "<story>At that moment, I suddenly remembered what happened before."
+        },
+        {
+            "text": "Mr. C.B. searched for a place to get in the mood for singing lessons. \nEVerywhere she went, I felt like I got a glimpse of her sensibility――",
+            "name": "",
+            "path_id": 7153322707864785538,
+            "block_id": 8,
+            "clip_length": 115,
+            "processed": "<story>Mr. C.B. searched for a place to get in the mood for singing lessons. \n<story>EVerywhere she went, I felt like I got a glimpse of her sensibility――"
+        },
+        {
+            "text": "Maybe today I can understand her thoughts \nthat I couldn't at the time!",
+            "name": "",
+            "path_id": -7227745171342864453,
+            "block_id": 9,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "I'll try guessing where you're going!",
+                    "hash": "ad427e4e407239ed4481438f8b16599bf462c48fe3e21119709521e37f8ac8df"
+                }
+            ],
+            "processed": "<story>Maybe today I can understand her thoughts \n<story>that I couldn't at the time!"
+        },
+        {
+            "text": "Eh...?",
+            "name": "Mr. C.B.",
+            "path_id": -8243775907155978157,
+            "block_id": 10,
+            "clip_length": 38,
+            "processed": "<story>Eh...?"
+        },
+        {
+            "text": "...Hahaha! That's funny! \nYeah, try guessing then!",
+            "name": "Mr. C.B.",
+            "path_id": -7176099185759221214,
+            "block_id": 11,
+            "clip_length": 168,
+            "choices": [
+                {
+                    "text": "Alright, got it!",
+                    "hash": "fb1c41585eedd9997199c61ad9b31f88e8b3bb3805f993dace20b2a748ede323"
+                },
+                {
+                    "text": "",
+                    "hash": "5c2f1331bca1ac901f92b224321d822b50cbbbff9a18dcdb5685302a13a884a4"
+                }
+            ],
+            "processed": "<story>...Hahaha! That's funny! \n<story>Yeah, try guessing then!"
+        },
+        {
+            "text": "Thus, we decided to play a quiz game \nto guess Mr. C.B.'s destination...!",
+            "name": "",
+            "path_id": 3524473502844850437,
+            "block_id": 12,
+            "clip_length": 90,
+            "processed": "<story>Thus, we decided to play a quiz game \n<story>to guess Mr. C.B.'s destination...!"
+        },
+        {
+            "text": "Ahaha! Oh no! \nI went the wrong way!",
+            "name": "Mr. C.B.",
+            "path_id": 6036908859275294809,
+            "block_id": 13,
+            "clip_length": 168,
+            "processed": "<story>Ahaha! Oh no! \n<story>I went the wrong way!"
+        },
+        {
+            "text": "I'll have to learn how to drive from \nMaruzensky next time. But it was fun!",
+            "name": "Mr. C.B.",
+            "path_id": -465279321022788432,
+            "block_id": 14,
+            "clip_length": 171,
+            "processed": "<story>I'll have to learn how to drive from \n<story>Maruzensky next time. But it was fun!"
+        },
+        {
+            "text": "I got unexpected souvenirs and even snacks! \nI haven't had a sour-flavored snack candy in a long time!",
+            "name": "Mr. C.B.",
+            "path_id": 1421513723585628290,
+            "block_id": 15,
+            "clip_length": 231,
+            "choices": [
+                {
+                    "text": "I'm glad!",
+                    "hash": "1f74ae9dc9e8e89076036aca54c9878b5439bebbf652022330a46cd2ced7cb10"
+                },
+                {
+                    "text": "",
+                    "hash": "95cec10107fa61f7957794a9253c307a19803a2ed7f73f013d5b180251cec474"
+                }
+            ],
+            "processed": "<story>I got unexpected souvenirs and even snacks! \n<story>I haven't had a sour-flavored snack candy in a long time!"
+        },
+        {
+            "text": "A game center where you can enjoy an extraordinary experience. \nShe seems to be enjoying herself wholeheartedly. \nIn other words, this is the place to be――!",
+            "name": "",
+            "path_id": -4054867688755235142,
+            "block_id": 16,
+            "clip_length": 102,
+            "processed": "<story>A game center where you can enjoy an extraordinary experience. \n<story>She seems to be enjoying herself wholeheartedly. \n<story>In other words, this is the place to be――!"
+        },
+        {
+            "text": "Just too bad it's not here. \nBut the idea's not bad, right?",
+            "name": "Mr. C.B.",
+            "path_id": -8680985062283954204,
+            "block_id": 17,
+            "clip_length": 170,
+            "processed": "<story>Just too bad it's not here. \n<story>But the idea's not bad, right?"
+        },
+        {
+            "text": "Here's a hint! I was bored, \nso I thought I'd have some fun.",
+            "name": "Mr. C.B.",
+            "path_id": -6864919541227435956,
+            "block_id": 18,
+            "clip_length": 193,
+            "choices": [
+                {
+                    "text": "A place to have fun...!",
+                    "hash": "7f9ae203c02d51aabefb6528997a3e3090cbb88bd0c36ad54ed93c6c4bd99b5e"
+                }
+            ],
+            "processed": "<story>Here's a hint! I was bored, \n<story>so I thought I'd have some fun."
+        },
+        {
+            "text": "Phew, that was a lot of walking! \nThe giant maze was quite fun!",
+            "name": "Mr. C.B.",
+            "path_id": 3213062285228388228,
+            "block_id": 19,
+            "clip_length": 208,
+            "choices": [
+                {
+                    "text": "I can't believe we had to walk through it all...",
+                    "hash": "79efe24e10073fb5c79198388272ae1ec889b3f214253fa2925adac27776adbf",
+                    "processed": "<size=36>I can't believe we had to walk through it all...</size>"
+                }
+            ],
+            "processed": "<story>Phew, that was a lot of walking! \n<story>The giant maze was quite fun!"
+        },
+        {
+            "text": "You're curious about the paths you didn't choose, right? \nThanks to that, I saw all the figures at the dead end!",
+            "name": "Mr. C.B.",
+            "path_id": -3484102919245629658,
+            "block_id": 20,
+            "clip_length": 241,
+            "processed": "<story>You're curious about the paths you didn't choose, right? \n<story>Thanks to that, I saw all the figures at the dead end!"
+        },
+        {
+            "text": "Hey, let's go free-falling next time. It's a plunge from the top! \nIt's a view you can only experience if you become a hawk!",
+            "name": "Mr. C.B.",
+            "path_id": -5495927154793533123,
+            "block_id": 21,
+            "clip_length": 252,
+            "processed": "<story>Hey, let's go free-falling next time. It's a plunge from the top! \n<story>It's a view you can only experience if you become a hawk!"
+        },
+        {
+            "text": "She seemed to be enjoying the amusement park. \nI was feeling the impact of her joy, but――",
+            "name": "",
+            "path_id": 8918846010680631686,
+            "block_id": 22,
+            "clip_length": 95,
+            "choices": [
+                {
+                    "text": "Is this the place?",
+                    "hash": "0c3dffc070e7d5c5dd7609ce196ca32b10d668c3e2e2e2c3c15d5e93c533a921"
+                }
+            ],
+            "processed": "<story>She seemed to be enjoying the amusement park. \n<story>I was feeling the impact of her joy, but――"
+        },
+        {
+            "text": "Hm? No, you missed!",
+            "name": "Mr. C.B.",
+            "path_id": 1477770420986565920,
+            "block_id": 23,
+            "clip_length": 82,
+            "processed": "<story>Hm? No, you missed!"
+        },
+        {
+            "text": "Now, what shall we do? \nWhere will you take us next? Ahaha!",
+            "name": "Mr. C.B.",
+            "path_id": -7842805302853908781,
+            "block_id": 24,
+            "clip_length": 243,
+            "choices": [
+                {
+                    "text": "Tch...",
+                    "hash": "466102bf261271f30f02eee05c052330fd696ec7e10aab1c9d77afdf36e656c8"
+                }
+            ],
+            "processed": "<story>Now, what shall we do? \n<story>Where will you take us next? Ahaha!"
+        },
+        {
+            "text": "Well, one more hint! \nIt's not too far away.",
+            "name": "Mr. C.B.",
+            "path_id": -686868704714894370,
+            "block_id": 25,
+            "clip_length": 177,
+            "choices": [
+                {
+                    "text": "In that case...!",
+                    "hash": "9a81430a2efad264659fb5f9f589f3d2f2b2ea80113dd0ee66ebbddfbac434f4"
+                }
+            ],
+            "processed": "<story>Well, one more hint! \n<story>It's not too far away."
+        },
+        {
+            "text": "Thanks for the meal~!",
+            "name": "Mr. C.B.",
+            "path_id": 1597882116089000454,
+            "block_id": 26,
+            "clip_length": 103,
+            "processed": "<story>Thanks for the meal~!"
+        },
+        {
+            "text": "I knew it, the croquettes here are delicious. \nI sometimes buy them and eat them at home with some yuzu koshō.",
+            "name": "Mr. C.B.",
+            "path_id": -5605832909040679568,
+            "block_id": 27,
+            "clip_length": 223,
+            "choices": [
+                {
+                    "text": "Not with the sauce?",
+                    "hash": "aa7aa8a3c5d8fededf43734b1b8a1d16b750ef49966b35af471aea217b541ea2"
+                }
+            ],
+            "processed": "<story>I knew it, the croquettes here are delicious. \n<story>I sometimes buy them and eat them at home with some yuzu koshō."
+        },
+        {
+            "text": "Yeah, it's a bit tangy but refreshing... also... \nYou have croquette batter all over your mouth! Ahaha!",
+            "name": "Mr. C.B.",
+            "path_id": -3477957857575052246,
+            "block_id": 28,
+            "clip_length": 285,
+            "processed": "<story>Yeah, it's a bit tangy but refreshing... also... \n<story>You have croquette batter all over your mouth! Ahaha!"
+        },
+        {
+            "text": "Wiping my mouth hurriedly, I confirmed it by looking at her \nenjoying herself. It's close to the academy, where you can enjoy \nshopping, eating and socializing with people.",
+            "name": "",
+            "path_id": -8478840755716874547,
+            "block_id": 29,
+            "clip_length": 112,
+            "choices": [
+                {
+                    "text": "Is this the right place?",
+                    "hash": "1bd379fc5852195c352dbc578d51da85a49550bcb5b42486e17b4d901199f5cd"
+                }
+            ],
+            "processed": "<story>Wiping my mouth hurriedly, I confirmed it by looking at her \n<story>enjoying herself. It's close to the academy, where you can enjoy \n<story>shopping, eating and socializing with people."
+        },
+        {
+            "text": "...It's not.",
+            "name": "Mr. C.B.",
+            "path_id": 3843626707751457271,
+            "block_id": 30,
+            "clip_length": 61,
+            "processed": "<story>...It's not."
+        },
+        {
+            "text": "I missed. In the end, I couldn't take her \nto the place she wanted.",
+            "name": "",
+            "path_id": 2394359549897708452,
+            "block_id": 31,
+            "clip_length": 91,
+            "processed": "<story>I missed. In the end, I couldn't take her \n<story>to the place she wanted."
+        },
+        {
+            "text": "Don't be so gloomy. \nIt was fun, you know?",
+            "name": "Mr. C.B.",
+            "path_id": -7359895177073403782,
+            "block_id": 32,
+            "clip_length": 153,
+            "choices": [
+                {
+                    "text": "But, you wanted to go somewhere right?",
+                    "hash": "7e77797ccba8544caccad6081e30b53ad7564def3152ccef03de7c6ba8ddca1c",
+                    "processed": "<size=40>But, you wanted to go somewhere right?</size>"
+                },
+                {
+                    "text": "",
+                    "hash": "69726b30bc3d44b36534dd456b917eede6b775002ab74a134e0bde6d04e80dd4"
+                }
+            ],
+            "processed": "<story>Don't be so gloomy. \n<story>It was fun, you know?"
+        },
+        {
+            "text": "Ahaha... I guess I would feel bad \nif that was bothering you.",
+            "name": "Mr. C.B.",
+            "path_id": 8010595257484241383,
+            "block_id": 33,
+            "clip_length": 181,
+            "processed": "<story>Ahaha... I guess I would feel bad \n<story>if that was bothering you."
+        },
+        {
+            "text": "...Well, let me take you to the right place.",
+            "name": "Mr. C.B.",
+            "path_id": -1599980276746370123,
+            "block_id": 34,
+            "clip_length": 120,
+            "processed": "<story>...Well, let me take you to the right place."
+        },
+        {
+            "text": "I followed Mr. C.B. back to the school gate \nwhere we first met.",
+            "name": "",
+            "path_id": -1103558675892948035,
+            "block_id": 35,
+            "clip_length": 88,
+            "processed": "<story>I followed Mr. C.B. back to the school gate \n<story>where we first met."
+        },
+        {
+            "text": "This is the right answer.",
+            "name": "Mr. C.B.",
+            "path_id": 55156337468813292,
+            "block_id": 36,
+            "clip_length": 65,
+            "choices": [
+                {
+                    "text": "...What do you mean?",
+                    "hash": "607172d0c52e7400d69a5b58b7074525c6a946423a8aa0cfc150dc1d4e66c459"
+                }
+            ],
+            "processed": "<story>This is the right answer."
+        },
+        {
+            "text": "I didn't have a specific place in mind. \nI just came out aimlessly.",
+            "name": "Mr. C.B.",
+            "path_id": 2192809535804827581,
+            "block_id": 37,
+            "clip_length": 195,
+            "processed": "<story>I didn't have a specific place in mind. \n<story>I just came out aimlessly."
+        },
+        {
+            "text": "I was looking from the top of the tree and wondering \nwhere could I find something interesting.",
+            "name": "Mr. C.B.",
+            "path_id": 7136080337355391511,
+            "block_id": 38,
+            "clip_length": 219,
+            "processed": "<story>I was looking from the top of the tree and wondering \n<story>where could I find something interesting."
+        },
+        {
+            "text": "Then you came.",
+            "name": "Mr. C.B.",
+            "path_id": -1542304669064304235,
+            "block_id": 39,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Then, there was no right answer...?",
+                    "hash": "73d07399dbcc9e887b6e6ab0e86b6688830a9f28d082438cd88c1a97e15ab740"
+                }
+            ],
+            "processed": "<story>Then you came."
+        },
+        {
+            "text": "No, you were \"right\". \nYou started saying interesting things.",
+            "name": "Mr. C.B.",
+            "path_id": -6865325557667431099,
+            "block_id": 40,
+            "clip_length": 207,
+            "processed": "<story>No, you were \"right\". \n<story>You started saying interesting things."
+        },
+        {
+            "text": "It's been fun following you as you thought hard, \nI had a great time playing with you where we went!",
+            "name": "Mr. C.B.",
+            "path_id": 9074709449893077169,
+            "block_id": 41,
+            "clip_length": 213,
+            "processed": "<story>It's been fun following you as you thought hard, \n<story>I had a great time playing with you where we went!"
+        },
+        {
+            "text": "I wanted to have a fun time and you fulfilled my desire.",
+            "name": "Mr. C.B.",
+            "path_id": -5561656470492109086,
+            "block_id": 42,
+            "clip_length": 157,
+            "processed": "<story>I wanted to have a fun time and you fulfilled my desire."
+        },
+        {
+            "text": "So, the place where I met you is the right place!",
+            "name": "Mr. C.B.",
+            "path_id": -7957152743157071369,
+            "block_id": 43,
+            "clip_length": 167,
+            "processed": "<story>So, the place where I met you is the right place!"
+        },
+        {
+            "text": "...Convinced now?",
+            "name": "Mr. C.B.",
+            "path_id": 7602642279118368173,
+            "block_id": 44,
+            "clip_length": 32,
+            "choices": [
+                {
+                    "text": "That was kind of unfair...!",
+                    "hash": "c1f0c5666fa19273c6217ddb5089e32de8a880579520799dbc99bfe59b283ff1"
+                }
+            ],
+            "processed": "<story>...Convinced now?"
+        },
+        {
+            "text": "Ahaha! Actually, I think so as well! \nBut, you know, let's do this again next time, \na quiz to guess where are we going!",
+            "name": "Mr. C.B.",
+            "path_id": -380095932963306555,
+            "block_id": 45,
+            "clip_length": 234,
+            "processed": "<story>Ahaha! Actually, I think so as well! \n<story>But, you know, let's do this again next time, \n<story>a quiz to guess where are we going!"
+        },
+        {
+            "text": "I was both exhausted but relieved, that I was able \nto properly entertain Mr. C.B.",
+            "name": "",
+            "path_id": 6847387856528876714,
+            "block_id": 46,
+            "clip_length": 101,
+            "processed": "<story>I was both exhausted but relieved, that I was able \n<story>to properly entertain Mr. C.B."
+        },
+        {
+            "text": "She is a free spirit, and yet she isn't so easy to deal with.",
+            "name": "",
+            "path_id": -5381454716774879761,
+            "block_id": 47,
+            "clip_length": 98,
+            "processed": "<story>She is a free spirit, and yet she isn't so easy to deal with."
+        }
+    ],
+    "title": "Impossible, if I may put it that way"
+}

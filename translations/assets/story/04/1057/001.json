@@ -1,0 +1,442 @@
+{
+    "type": "story",
+    "row_index": 29477,
+    "file_name": "story/data/04/1057/storytimeline_041057001",
+    "hash": "SHW3TJSMD6FRRQ44RE3OCH6SLM6BUXEJ",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 804530933488332319,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――There used to be an Umamusume called a myth.",
+            "name": "",
+            "path_id": 17852042562855716,
+            "block_id": 1,
+            "clip_length": 71,
+            "processed": "<story>――There used to be an Umamusume called a myth."
+        },
+        {
+            "text": "15 wins out of 19 races, she is the the second Umamusume in history \nto win the Classic Triple Crown. She left a great deal of enthusiasm \nfor the turf――",
+            "name": "",
+            "path_id": -795967687007255698,
+            "block_id": 2,
+            "clip_length": 103,
+            "processed": "<story>15 wins out of 19 races, she is the the second Umamusume in history \n<story>to win the Classic Triple Crown. She left a great deal of enthusiasm \n<story>for the turf――"
+        },
+        {
+            "text": "Since then, no other Umamusume has been claimed to have \nsurpassed her... The world was filled with hopes for the next myth.",
+            "name": "",
+            "path_id": -7419152506942000227,
+            "block_id": 3,
+            "clip_length": 108,
+            "processed": "<story>Since then, no other Umamusume has been claimed to have \n<story>surpassed her... The world was filled with hopes for the next myth."
+        },
+        {
+            "text": "As if to break the somewhat deadlocked atmosphere, there was \nan Umamusume running single-mindedly in the rain.",
+            "name": "",
+            "path_id": 9218728159865486546,
+            "block_id": 4,
+            "clip_length": 105,
+            "processed": "<story>As if to break the somewhat deadlocked atmosphere, there was \n<story>an Umamusume running single-mindedly in the rain."
+        },
+        {
+            "text": "Haa, haa, haaa...!",
+            "name": "???",
+            "path_id": -2882575489725123659,
+            "block_id": 5,
+            "clip_length": 127,
+            "processed": "<story>Haa, haa, haaa...!"
+        },
+        {
+            "text": "She runs across the turf at a speed rarely seen before. \nThe speed does not slow down, on the contrary, it gradually \naccelerates――",
+            "name": "",
+            "path_id": 8139965955372754139,
+            "block_id": 6,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "(What's with that speed...)",
+                    "hash": "a525334f9689ebe863622a8cb3482803a6cccf51b9e9cb7aa9ede88243de1cf2"
+                },
+                {
+                    "text": "",
+                    "hash": "ab18acd9294bbe55f9dd174a2584f2ac404dab460d6db9d013d01f0862637f4c"
+                }
+            ],
+            "processed": "<story>She runs across the turf at a speed rarely seen before. \n<story>The speed does not slow down, on the contrary, it gradually \n<story>accelerates――"
+        },
+        {
+            "text": "Haaaa...!",
+            "name": "???",
+            "path_id": -8164925360108841716,
+            "block_id": 7,
+            "clip_length": 83,
+            "processed": "<story>Haaaa...!"
+        },
+        {
+            "text": "She ran the corner, 200 meters before the finish line. \nShe took a big step, lowered herself down, and took off like a spring.",
+            "name": "",
+            "path_id": -8039667071256282647,
+            "block_id": 8,
+            "clip_length": 112,
+            "processed": "<story>She ran the corner, 200 meters before the finish line. \n<story>She took a big step, lowered herself down, and took off like a spring."
+        },
+        {
+            "text": "The eye-widening speed accelerates further, further, further. \nCommon sense is left behind.",
+            "name": "",
+            "path_id": 2661808866500023288,
+            "block_id": 9,
+            "clip_length": 98,
+            "processed": "<story>The eye-widening speed accelerates further, further, further. \n<story>Common sense is left behind."
+        },
+        {
+            "text": "Shaking the earth and splashing the rain, the Umamusume \nruns like the wind. She was so vivid that I found myself \nforgetting to breathe――",
+            "name": "",
+            "path_id": 4693139817829051867,
+            "block_id": 10,
+            "clip_length": 116,
+            "processed": "<story>Shaking the earth and splashing the rain, the Umamusume \n<story>runs like the wind. She was so vivid that I found myself \n<story>forgetting to breathe――"
+        },
+        {
+            "text": "...Haa, haaaa.... phewー! \nAhー! As expected, it's not enough without somebody else.",
+            "name": "???",
+            "path_id": -101130907728051801,
+            "block_id": 11,
+            "clip_length": 382,
+            "processed": "<story>...Haa, haaaa.... phewー! \n<story>Ahー! As expected, it's not enough without somebody else."
+        },
+        {
+            "text": "But who comes to the field on a day like this?",
+            "name": "???",
+            "path_id": 6837650387247078413,
+            "block_id": 12,
+            "clip_length": 168,
+            "processed": "<story>But who comes to the field on a day like this?"
+        },
+        {
+            "text": "...Too much of such a shock, my heart was beating fast, \nmy legs trembled and I couldn't leave.",
+            "name": "",
+            "path_id": 3469515229599752484,
+            "block_id": 13,
+            "clip_length": 91,
+            "processed": "<story>...Too much of such a shock, my heart was beating fast, \n<story>my legs trembled and I couldn't leave."
+        },
+        {
+            "text": "If we were to run the Twinkle Series together, we would be able \nto see a view that cannot be seen anywhere else. Such confidence \nis growing.",
+            "name": "",
+            "path_id": -5775549465018265087,
+            "block_id": 14,
+            "clip_length": 124,
+            "choices": [
+                {
+                    "text": "(I have to go scouting right now!)",
+                    "hash": "4034cafebdc0d4eedaed1c2662ce5ab79d7b18bc31ad1bfda6f51e0bf5077189"
+                }
+            ],
+            "processed": "<story>If we were to run the Twinkle Series together, we would be able \n<story>to see a view that cannot be seen anywhere else. Such confidence \n<story>is growing."
+        },
+        {
+            "text": "Hey! You, you!",
+            "name": "???",
+            "path_id": -3637048399368605079,
+            "block_id": 15,
+            "clip_length": 74,
+            "choices": [
+                {
+                    "text": "!?",
+                    "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
+                }
+            ],
+            "processed": "<story>Hey! You, you!"
+        },
+        {
+            "text": "Are you free right now? \nI'll take you for a run with me――",
+            "name": "???",
+            "path_id": 3948469746747200632,
+            "block_id": 16,
+            "clip_length": 91,
+            "processed": "<story>Are you free right now? \n<story>I'll take you for a run with me――"
+        },
+        {
+            "text": "Huh? You're a trainer.",
+            "name": "???",
+            "path_id": -422297449458104471,
+            "block_id": 17,
+            "clip_length": 106,
+            "processed": "<story>Huh? You're a trainer."
+        },
+        {
+            "text": "Sorry, sorry, I couldn't see well because of the rain. \nI made a mistake, see you later!",
+            "name": "???",
+            "path_id": 8698244591437981856,
+            "block_id": 18,
+            "clip_length": 159,
+            "choices": [
+                {
+                    "text": "Well, wait!",
+                    "hash": "fa10311d4a98d0ebf42cd02b190a6f9188f7b129270e59c3fae60279e5f205f6"
+                },
+                {
+                    "text": "",
+                    "hash": "ffb5366808fda3b338a83d1655093e88c95fdd6df401730f75982bfb4a613677"
+                }
+            ],
+            "processed": "<story>Sorry, sorry, I couldn't see well because of the rain. \n<story>I made a mistake, see you later!"
+        },
+        {
+            "text": "Hm?",
+            "name": "???",
+            "path_id": 8870919512686361664,
+            "block_id": 19,
+            "clip_length": 34,
+            "choices": [
+                {
+                    "text": "C-could you become my assigned Umamusume?",
+                    "hash": "bb8fdfb1e51110b597367018bfae87b11a75c7291a0cab028c1d6f4e9016ed76",
+                    "processed": "<size=34>C-could you become my assigned Umamusume?</size>"
+                }
+            ],
+            "processed": "<story>Hm?"
+        },
+        {
+            "text": "I feel like I was in too much of a hurry, but timing is important \nfor everything. I used all the words I had to convey the emotion \nI just felt.",
+            "name": "",
+            "path_id": -3629556212726067553,
+            "block_id": 20,
+            "clip_length": 118,
+            "processed": "<story>I feel like I was in too much of a hurry, but timing is important \n<story>for everything. I used all the words I had to convey the emotion \n<story>I just felt."
+        },
+        {
+            "text": "The speed was so fast that I couldn't help but stop and watch, \nthinking that I would be able to see a view that couldn't be seen \nanywhere else.",
+            "name": "",
+            "path_id": 8466055587802796139,
+            "block_id": 21,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "You could――",
+                    "hash": "315e51fcc8ed9d0f0386cfcc2028cc82e14ec037608ef462416e4ea20d26ab9c"
+                },
+                {
+                    "text": "",
+                    "hash": "8d8f3542cb6e44eacdbb5b3989237b6bf543d3faec07ff821150c78f986b989d"
+                }
+            ],
+            "processed": "<story>The speed was so fast that I couldn't help but stop and watch, \n<story>thinking that I would be able to see a view that couldn't be seen \n<story>anywhere else."
+        },
+        {
+            "text": "After all this talk, I realized that I hadn't said anything convincible. \nI had to come up with an example――",
+            "name": "",
+            "path_id": 4207530540138987159,
+            "block_id": 22,
+            "clip_length": 115,
+            "choices": [
+                {
+                    "text": "The Classic Triple Crown is not just a dream!",
+                    "hash": "0fa91a9e554e0cf8d19d82261b141b7aa2f0f24a336232c1e1a24357ab64b840",
+                    "processed": "<size=37>The Classic Triple Crown is not just a dream!</size>"
+                }
+            ],
+            "processed": "<story>After all this talk, I realized that I hadn't said anything convincible. \n<story>I had to come up with an example――"
+        },
+        {
+            "text": "......",
+            "name": "???",
+            "path_id": 3324274537683482572,
+            "block_id": 23,
+            "clip_length": 72,
+            "processed": "<story>......"
+        },
+        {
+            "text": "...I see, thank you. But, I'm sorry.",
+            "name": "???",
+            "path_id": -5011426927198972117,
+            "block_id": 24,
+            "clip_length": 140,
+            "processed": "<story>...I see, thank you. But, I'm sorry."
+        },
+        {
+            "text": "It failed.",
+            "name": "",
+            "path_id": -5497235471424204398,
+            "block_id": 25,
+            "clip_length": 51,
+            "processed": "<story>It failed."
+        },
+        {
+            "text": "That's Mr. C.B., isn't it!",
+            "name": "Rookie Trainer A",
+            "path_id": 3551228786026395475,
+            "block_id": 26,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "Mr, C.B....",
+                    "hash": "1a9ee111f2090a7e742febd128e49ee590dc250089fad30de1ed04ac281334f2"
+                }
+            ],
+            "processed": "<story>That's Mr. C.B., isn't it!"
+        },
+        {
+            "text": "Rumor has it that her mother was a famous Umamusume and her \nfather was her trainer! I heard a rumor about her daughter \nbefore she entered the school.",
+            "name": "Rookie Trainer A",
+            "path_id": 5477823683659991196,
+            "block_id": 27,
+            "clip_length": 252,
+            "choices": [
+                {
+                    "text": "So that's how it is.",
+                    "hash": "2acbd55b3ce5782adce5c44fbcd528d798c00798cc63aa006f85283781f02d8c"
+                },
+                {
+                    "text": "",
+                    "hash": "6fb31234232bd1d1fda356ea1c32b1ab2f62f4fcb44563960172123c895eb950"
+                }
+            ],
+            "processed": "<story>Rumor has it that her mother was a famous Umamusume and her \n<story>father was her trainer! I heard a rumor about her daughter \n<story>before she entered the school."
+        },
+        {
+            "text": "When I saw her in person, she was very talented, and she also had \nan unconventional running style. So, I think she may be the next \nUmamusume to win the Triple Crown――",
+            "name": "Rookie Trainer A",
+            "path_id": 4686160096261740909,
+            "block_id": 28,
+            "clip_length": 309,
+            "processed": "<story>When I saw her in person, she was very talented, and she also had \n<story>an unconventional running style. So, I think she may be the next \n<story>Umamusume to win the Triple Crown――"
+        },
+        {
+            "text": "No, I think they can be more than a myth! \nThere is no end to the number of trainers who are looking \nto scout her.",
+            "name": "Rookie Trainer A",
+            "path_id": 8507084600924438340,
+            "block_id": 29,
+            "clip_length": 228,
+            "processed": "<story>No, I think they can be more than a myth! \n<story>There is no end to the number of trainers who are looking \n<story>to scout her."
+        },
+        {
+            "text": "...But, it seems she has turned down hundreds of trainers so far. \nI don't really know what kind of trainer she wants.",
+            "name": "Rookie Trainer A",
+            "path_id": -7495885567409816416,
+            "block_id": 30,
+            "clip_length": 335,
+            "choices": [
+                {
+                    "text": "...I see...",
+                    "hash": "3bab98c617eab1a1695174df426d50fceae3b7258fea7d4b5c09fb09aaa34a86"
+                }
+            ],
+            "processed": "<story>...But, it seems she has turned down hundreds of trainers so far. \n<story>I don't really know what kind of trainer she wants."
+        },
+        {
+            "text": "It seems she was more popular than I had imagined. \nAs my shoulders slumped, my colleague dropped \nher voice meaningfully.",
+            "name": "",
+            "path_id": -677970571947964188,
+            "block_id": 31,
+            "clip_length": 123,
+            "processed": "<story>It seems she was more popular than I had imagined. \n<story>As my shoulders slumped, my colleague dropped \n<story>her voice meaningfully."
+        },
+        {
+            "text": "This is just a guess, but... the fact they're turning everyone down \nmeans that you weren't turned down because of you.",
+            "name": "Rookie Trainer A",
+            "path_id": -2358927772104874287,
+            "block_id": 32,
+            "clip_length": 260,
+            "processed": "<story>This is just a guess, but... the fact they're turning everyone down \n<story>means that you weren't turned down because of you."
+        },
+        {
+            "text": "I'm sure it's still too early to give up. If you've been rejected once, \nnow's your chance to show how enthusiastic you are... right?",
+            "name": "Rookie Trainer A",
+            "path_id": 8997625357331012971,
+            "block_id": 33,
+            "clip_length": 258,
+            "choices": [
+                {
+                    "text": "I see...!",
+                    "hash": "fec2cfbdc7dd2ffafe770bf44915021018bd6054c8c8a6f22c9bfe4b7e6914ca"
+                }
+            ],
+            "processed": "<story>I'm sure it's still too early to give up. If you've been rejected once, \n<story>now's your chance to show how enthusiastic you are... right?"
+        },
+        {
+            "text": "And so――",
+            "name": "",
+            "path_id": 437122178271550332,
+            "block_id": 34,
+            "clip_length": 56,
+            "processed": "<story>And so――"
+        },
+        {
+            "text": "What? A present? Heh, thank you!",
+            "name": "Mr. C.B.",
+            "path_id": -4638899684939101851,
+            "block_id": 35,
+            "clip_length": 125,
+            "processed": "<story>What? A present? Heh, thank you!"
+        },
+        {
+            "text": "Let's see... is this a... training plan? I see, you have put \ntogether a plan specifically for me!",
+            "name": "Mr. C.B.",
+            "path_id": -1493413583247650648,
+            "block_id": 36,
+            "clip_length": 341,
+            "processed": "<story>Let's see... is this a... training plan? I see, you have put \n<story>together a plan specifically for me!"
+        },
+        {
+            "text": "Is that a horse shoe? Wow, custom made! \nHey, it seems like it puts less strain on your toes. \nThank goodness for that.",
+            "name": "Mr. C.B.",
+            "path_id": 520731094394589341,
+            "block_id": 37,
+            "clip_length": 351,
+            "processed": "<story>Is that a horse shoe? Wow, custom made! \n<story>Hey, it seems like it puts less strain on your toes. \n<story>Thank goodness for that."
+        },
+        {
+            "text": "I talked to her instructor and also scoured the mock race \nresults to give her the gift I had prepared.",
+            "name": "",
+            "path_id": 860642366723244425,
+            "block_id": 38,
+            "clip_length": 103,
+            "processed": "<story>I talked to her instructor and also scoured the mock race \n<story>results to give her the gift I had prepared."
+        },
+        {
+            "text": "But... I'm sorry, I cannot accept this.",
+            "name": "Mr. C.B.",
+            "path_id": 1974775382632904777,
+            "block_id": 39,
+            "clip_length": 129,
+            "choices": [
+                {
+                    "text": "...!",
+                    "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
+                }
+            ],
+            "processed": "<story>But... I'm sorry, I cannot accept this."
+        },
+        {
+            "text": "If I take it, you'll get your hopes up. \nI'm not good at that, sorry.",
+            "name": "Mr. C.B.",
+            "path_id": 693253483812831555,
+            "block_id": 40,
+            "clip_length": 177,
+            "processed": "<story>If I take it, you'll get your hopes up. \n<story>I'm not good at that, sorry."
+        },
+        {
+            "text": "So, I'll just take your feelings. Thank you!",
+            "name": "Mr. C.B.",
+            "path_id": -4767141737889626040,
+            "block_id": 41,
+            "clip_length": 123,
+            "processed": "<story>So, I'll just take your feelings. Thank you!"
+        },
+        {
+            "text": "She quickly turned me down, and sank for a second time.",
+            "name": "",
+            "path_id": -3519263856384837513,
+            "block_id": 42,
+            "clip_length": 76,
+            "processed": "<story>She quickly turned me down, and sank for a second time."
+        }
+    ],
+    "title": "Who the hell are you?"
+}
