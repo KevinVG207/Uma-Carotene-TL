@@ -2,6 +2,8 @@ BLACK, DARKGRAY, GRAY = ((0,0,0), (63,63,63), (127,127,127))
 LIGHTGRAY, WHITE = ((191,191,191), (255,255,255))
 BLUE, GREEN, RED = ((0, 0, 255), (0, 255, 0), (255, 0, 0))
 
+# Gradient implementation from https://stackoverflow.com/questions/32530345/pil-generating-vertical-gradient-image
+# By user martineau
 
 class Point(object):
     def __init__(self, x, y):

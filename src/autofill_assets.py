@@ -11,12 +11,12 @@ GACHA_NAME_IMG_SIZE = (2048, 512)
 GACHA_NAME_SHEER_FACTOR = 0.2
 GACHA_NAME_COLORS = (
     (
-        ((148,166,189)),
-        ((170,199,218))
+        ((148,166,189),),
+        ((170,199,218),)
     ),
     (
-        ((189,138,8)),
-        ((236,178,8))
+        ((189,138,8),),
+        ((236,178,8),)
     ),
     (
         ((198,77,214),(181,89,214),(107,109,222),(33,142,222),(33,186,148),(57,207,82),(181,215,90)),
@@ -24,9 +24,6 @@ GACHA_NAME_COLORS = (
     ),
 )
 
-# Shearing use the transform() method with an affine transformation matrix. The matrix is represented as a tuple (a, b, c, d, e, f). For horizontal shearing, set b and e to the shear factor:
-# sheared_image = image.transform((image.width + 100, image.height), Image.AFFINE, (1, 0.2, -100, 0, 1, 0))
-# Apply horizontal shearing with a shear factor of 0.2
 
 def generate_gacha_name_img(name: str, rarity: int=1):
     palette1 = GACHA_NAME_COLORS[rarity - 1][0]
@@ -43,10 +40,6 @@ def generate_gacha_name_img(name: str, rarity: int=1):
         font = ImageFont.truetype(FONT_PATH, math.floor(GACHA_NAME_FONT_SIZE * GACHA_NAME_MAX_WIDTH / text_width))
         text_bbox = font.getbbox(name)
         text_width = text_bbox[2] - text_bbox[0]
-    
-    # Create the image.
-    # print("Start image")
-    # img = Image.new("RGBA", GACHA_NAME_IMG_SIZE, (255, 255, 255, 0))
 
     # Draw the text.
     print("Draw text")
@@ -57,8 +50,6 @@ def generate_gacha_name_img(name: str, rarity: int=1):
     draw.text(midpoint, name, font=font, fill=(255, 255, 255, 255), anchor=anchor)
 
     # Squeeze the text vertically to 90% of the original height.
-    # Keep it centered.
-    # TODO: This should be done at the very end, after combining all the layers.
     print("Squeeze text")
     text_layer = text_layer.resize((GACHA_NAME_IMG_SIZE[0], math.floor(GACHA_NAME_IMG_SIZE[1] * 0.9)), Image.Resampling.BICUBIC)
     new_layer = Image.new("RGBA", GACHA_NAME_IMG_SIZE, (255, 255, 255, 0))
@@ -115,23 +106,17 @@ def generate_gacha_name_img(name: str, rarity: int=1):
 
     # Combine the layers.
     print("Combine images")
-    # img.paste(mask2_bg, (0, 0), mask2_bg)
-    # img.paste(mask1_bg, (0, 0), mask1_bg)
-    # img.paste(text_layer, (0, 0), text_layer)
     tmp = Image.new("RGBA", GACHA_NAME_IMG_SIZE, (255, 255, 255, 0))
     tmp = Image.alpha_composite(tmp, mask2_bg)
     tmp = Image.alpha_composite(tmp, mask1_bg)
     tmp = Image.alpha_composite(tmp, text_layer)
     tmp.save("gacha_name.png")
 
-    # Save the image.
-    # print("Save final image")
-    # img.save("gacha_name.png")
 
 def main():
-    # generate_gacha_name_img("Special Week", GACHA_NAME_R1_PALETTE1, GACHA_NAME_R1_PALETTE2)
-    # enerate_gacha_name_img("Special Week", GACHA_NAME_R2_PALETTE1, GACHA_NAME_R2_PALETTE2)
-    generate_gacha_name_img("Special Week", GACHA_NAME_R3_PALETTE1, GACHA_NAME_R3_PALETTE2)
+    # generate_gacha_name_img("Special Week", 1)
+    # generate_gacha_name_img("Special Week", 2)
+    generate_gacha_name_img("Matikane Tannhäuser", 3)
 
 if __name__ == "__main__":
     main()
