@@ -8,6 +8,7 @@ import json
 import os
 from tqdm import tqdm
 from multiprocessing import Pool
+import filecmp
 
 FONT_PATH = util.MDB_FOLDER_EDITING + "\\font\\dynamic01.otf"
 GACHA_NAME_FONT_SIZE = 180
@@ -182,7 +183,8 @@ def generate_gacha_name_images():
         asset_basename = os.path.basename(asset_path).replace(".json", "")
         new_names[asset_basename] = name
         if asset_basename in existing_names and existing_names[asset_basename] == name:
-            continue
+            if not filecmp.cmp(asset_path.replace(".json", ".png"), asset_path.replace(".json", ".org.png")):
+                continue
         filtered_data.append(name_data)
     
     # Generate the images.
@@ -203,6 +205,8 @@ def pool_generate_gacha_name_image(name_data):
     img = generate_gacha_name_img(name, rarity)
     img.save(asset_path.replace(".json", ".png"))
 
+def run():
+    generate_gacha_name_images()
 
 def main():
     # generate_gacha_name_img("Special Week", 1)
