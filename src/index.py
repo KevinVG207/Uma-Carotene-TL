@@ -662,50 +662,25 @@ def index_textures():
 
     all_textures = []
 
+    texture_patterns = [
+        'atlas/%_tex',
+        'uianimation/flash/%',
+        'home/ui/texture/%',
+        'sourceresources/flash/%',
+        'chara/chr____/petit/%007_',
+        'outgame/comic/tex_%',
+        'race/racetitle/%',
+        'gacha/%'
+    ]
+
     with util.MetaConnection() as (_, cursor):
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'atlas/%_tex' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'uianimation/flash/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'home/ui/texture/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'sourceresources/flash/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        # Character "Train" buttons
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'chara/chr____/petit/%007_' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        # Comics
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'outgame/comic/tex_%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'race/racetitle/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
+        for pattern in texture_patterns:
+            cursor.execute(
+                """SELECT n, h FROM a WHERE n like ? ORDER BY n ASC;""",
+                (pattern,)
+            )
+            rows = cursor.fetchall()
+            all_textures += rows
 
     if not all_textures:
         raise ValueError("No textures found in meta DB.")

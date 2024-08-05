@@ -1,6 +1,7 @@
 import intermediate
 # import _fill_duplicates
 import autofill_mdb
+import autofill_assets
 import _unpatch
 import postprocess
 
