@@ -133,8 +133,8 @@ class Ui_gacha_comment(QWidget):
                 continue
             tl_data[key] = comment
         
-        os.makedirs(os.path.dirname(util.GACHA_COMMENT_TL_PATH), exist_ok=True)
-        util.save_json(util.GACHA_COMMENT_TL_PATH, tl_data)
+        os.makedirs(os.path.dirname(util.GACHA_COMMENT_TL_PATH_EDITING), exist_ok=True)
+        util.save_json(util.GACHA_COMMENT_TL_PATH_EDITING, tl_data)
         self.set_unchanged()
     
     def ask_close(self):
