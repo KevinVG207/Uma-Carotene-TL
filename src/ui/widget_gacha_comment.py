@@ -164,7 +164,7 @@ class Ui_gacha_comment(QWidget):
 def load_process_image(meta):
     texture_name = meta['file_name'].rsplit("/",1)[1]
     support_id = texture_name.rsplit("_",1)[1]
-    file_path = util.ASSETS_FOLDER_EDITING + meta['file_name'] + "/" + texture_name + ".png"
+    file_path = util.ASSETS_FOLDER_EDITING + meta['file_name'] + "/" + texture_name + ".org.png"
 
     image = Image.open(file_path)
     image = image.split()[3]  # Get alpha channel only
