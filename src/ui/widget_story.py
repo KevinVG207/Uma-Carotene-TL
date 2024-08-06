@@ -51,6 +51,7 @@ class Ui_story_editor(QWidget):
 
     def __init__(self, base_widget=None, *args, **kwargs) -> None:
         super().__init__(*args, **kwargs)
+        print("Setting up story editor widget")
 
         self.base_widget = base_widget
 

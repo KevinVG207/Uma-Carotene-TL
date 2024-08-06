@@ -877,6 +877,22 @@ def index_movies():
     # for file in xor_files:
     #     index_xor_file(file)
 
+def index_gacha_comment():
+    new = {}
+    old = {}
+
+    new_path = util.GACHA_COMMENT_TL_PATH
+    old_path = util.GACHA_COMMENT_TL_PATH_EDITING
+
+    if os.path.exists(new_path):
+        new = util.load_json(new_path)
+    if os.path.exists(old_path):
+        old = util.load_json(old_path)
+    
+    old.update(new)
+
+    util.save_json(old_path, old)
+
 
 
 def index_assets():
@@ -886,6 +902,7 @@ def index_assets():
     index_textures()
     index_flash()
     index_movies()
+    index_gacha_comment()
 
 
 def index_jpdict():

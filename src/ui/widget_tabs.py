@@ -6,6 +6,7 @@ from PyQt5.QtWidgets import QWidget
 import ui.widget_main as widget_main
 import ui.widget_mdb as widget_mdb
 import ui.widget_story as widget_story
+import ui.widget_gacha_comment as widget_gacha_comment
 
 class Ui_widget_tabs(QWidget):
     def __init__(self, app, *args, **kwargs) -> None:
@@ -70,14 +71,19 @@ class Ui_widget_tabs(QWidget):
         self.tab_2 = widget_mdb.Ui_widget_mdb(base_widget=self)
         self.tab_2.setObjectName(u"tab_2")
         self.tabWidget.addTab(self.tab_2, "")
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_2), "MDB")
         self.tab_3 = QWidget()
         self.tab_3.setObjectName(u"tab_3")
         self.tabWidget.addTab(self.tab_3, "")
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_3), "Assembly")
         self.tab_4 = widget_story.Ui_story_editor(base_widget=self)
         self.tab_4.setObjectName(u"tab_4")
         self.tabWidget.addTab(self.tab_4, "")
-        self.retranslateUi(self)
-
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_4), "Story")
+        self.tab_5 = widget_gacha_comment.Ui_gacha_comment(base_widget=self)
+        self.tab_5.setObjectName(u"tab_5")
+        self.tabWidget.addTab(self.tab_5, "")
+        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_5), "Gacha Comment")
 
     def refresh_widgets(self, func):
         if not self.ask_widgets_close():
@@ -119,7 +125,7 @@ class Ui_widget_tabs(QWidget):
         # Disable resizing
         widget_tabs.setFixedSize(widget_tabs.size())
 
-        widget_tabs.setWindowTitle(u"Carotene")
+        widget_tabs.setWindowTitle(u"Carotene TL Editor")
         self.verticalLayout = QVBoxLayout(widget_tabs)
         self.verticalLayout.setObjectName(u"verticalLayout")
         self.tabWidget = QTabWidget(widget_tabs)
@@ -138,19 +144,6 @@ class Ui_widget_tabs(QWidget):
 
         self.create_tabs()
 
-
-        self.retranslateUi(widget_tabs)
-
         self.tabWidget.setCurrentIndex(0)
 
-
-        QMetaObject.connectSlotsByName(widget_tabs)
-    # setupUi
-
-    def retranslateUi(self, widget_tabs):
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_2), QCoreApplication.translate("widget_tabs", u"MDB", None))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_3), QCoreApplication.translate("widget_tabs", u"Assembly", None))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_4), QCoreApplication.translate("widget_tabs", u"Story", None))
-        pass
-    # retranslateUi
 
