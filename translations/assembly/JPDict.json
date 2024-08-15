@@ -4523,6 +4523,14 @@
         "text": "",
         "hash": "1cebe7736e29804de089f0cc3c99b9865d863bb69d512a712e4be9cb000568f7"
     },
+    "Common570002": {
+        "text": "",
+        "hash": "bb6283460eb7feceba9044f33a2f13a84646ffc51021f232aa80657af0d169d9"
+    },
+    "Common570003": {
+        "text": "",
+        "hash": "9d1d4951498eb6ae2a21d13ddea06c0be8fe62f3e8b6e950ef76cc22cdab919d"
+    },
     "CustomRace0003": {
         "text": "Race List",
         "hash": "b7b93399e82b9ce9718e0717fc5ca34b8018cffd3d84f84aa14114cb2fd6dd79"
@@ -11119,6 +11127,18 @@
         "text": "",
         "hash": "d83ae4cbb2641c205d99bae12772b6bbc29c752f2769fd689e0fc0737c43d0f4"
     },
+    "Outgame570034": {
+        "text": "",
+        "hash": "50df9669d9d8578c3051a44e669f2119668c964ebf06b85b79cf50336a10529b"
+    },
+    "Outgame570035": {
+        "text": "",
+        "hash": "b29b5c55b994d985b808c3d275f923bbff674bc4a939c865055212ffa209dbb5"
+    },
+    "Outgame570036": {
+        "text": "",
+        "hash": "6da96dc0cdfc68a185f0531c72ffb58b4b3ef9266dd5606ef67a44ecf151fb24"
+    },
     "Outgame585001": {
         "text": "",
         "hash": "fd2677674db3d35ada5858fdc4eb9d0b06235e89cfdfd1be2d35c9586a60e3fe"
@@ -13414,6 +13434,10 @@
     "Race9511003": {
         "text": "Keep the lead",
         "hash": "09b7200b78aeb22ea03868d34c3666b51d3bfe92f035f0e1b5e7084062f4edbf"
+    },
+    "Race9570001": {
+        "text": "",
+        "hash": "6c10aa06122819dd2efa39985b9efb344473d07f7594079ea3babb88ea2bf40d"
     },
     "RatingRace408001": {
         "text": "Short Race",
@@ -18712,8 +18736,8 @@
         "hash": "7da5273723b4aca99535d993051df8a8b09af5f4835e62e88bed68406bd517bd"
     },
     "SingleModeScenarioCook419004": {
-        "text": "You can upgrade a vegetable that will\nincrease the effects of this dish!\n\nAre you sure you want to cook?",
-        "hash": "06eaf0365ad6143d7699851a56d2639cd13784be30e8d0c6205717f72c400e18"
+        "text": "",
+        "hash": "5b74b0bb44b456ec904369b7d48e47b2911e3b70849f49a2b7ca8b004ff0a12b"
     },
     "SingleModeScenarioCook419005": {
         "text": "<sc=90>You can upgrade a vegetable on your field\nthat increases the effects of this dish!",
@@ -18752,8 +18776,8 @@
         "hash": "ff0b4479a1d4167a0241421213e53b01f3ccc0b36b7c932d71b5cf6cbd3f7765"
     },
     "SingleModeScenarioCook425009": {
-        "text": "Success!",
-        "hash": "031db49aab738cff6cd95f7e81632f62bcd431a1301bf03e281bb83449420f62"
+        "text": "",
+        "hash": "2d3d6016f41e2947e89b239cb9cc65bd85bae784651a492280cad29c32509775"
     },
     "SingleModeScenarioCook425010": {
         "text": "",
@@ -18804,8 +18828,8 @@
         "hash": "70049140d785e12a86b96af08926758b1a679033bde268fa229c3c7e44597222"
     },
     "SingleModeScenarioCook425022": {
-        "text": "Great success!",
-        "hash": "cb4f4c9b63c18f480f69a72b5651a41e2961848e7b7c02ae96453b20063e4857"
+        "text": "",
+        "hash": "f8bcabd8416afff58e375dda1debdb182de3a988be06f4e438d4b9ee2ad71146"
     },
     "SingleModeScenarioCook425023": {
         "text": "",
@@ -18976,20 +19000,20 @@
         "hash": "e9f03c216a6663765ea6551c5da0c5a73e12070be7396b1fa39fb18ced321472"
     },
     "SingleModeScenarioCook425074": {
-        "text": "She made a delicious {0}",
-        "hash": "7a4a73fbc4a955bef4a1711d80e61af25692965f3e580991ccf96d5464cc651d"
+        "text": "",
+        "hash": "ade384d08ad04e65970db96f6f2334fa34305204b83d36616fa5da387497e98f"
     },
     "SingleModeScenarioCook425075": {
         "text": "Cooking Pts <color=#ff6d26>up {0}</color>",
         "hash": "f9ed9dcddbf7829778e4061e9b234f05d12310db5932fdfb4fe321c5acf27b69"
     },
     "SingleModeScenarioCook425076": {
-        "text": "Cooking with {0} and \nothers brought some effects!",
-        "hash": "de324c3c2c053f38ecf5927db921003d56f1ba99d750fa077b25e338a36e8856"
+        "text": "",
+        "hash": "9e7c723a825a7f21a04c23ea0f0bc41c518542370e80b2749ed7384488509ab0"
     },
     "SingleModeScenarioCook425077": {
-        "text": "{0} received bonus {1}",
-        "hash": "f24273486b04355a4fd196bc50dbed413fbce1114eeb6e7b16fdc0610357e372"
+        "text": "",
+        "hash": "dd10c2df574b591347f348d3191755a589c68858b74f79efdb74863c82534e6d"
     },
     "SingleModeScenarioCook425078": {
         "text": ", ",
