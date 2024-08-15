@@ -779,6 +779,10 @@
         "text": "Sapphire Flame",
         "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
     },
+    "110991": {
+        "text": "Popping☆Clams",
+        "hash": "faa507fd49a6f7080df942b7cbb855e54654894e5f7dd0000aa6dbf426e0f769"
+    },
     "120011": {
         "text": "Dignified Dreamlike Brocade",
         "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f",
@@ -809,6 +813,11 @@
     "120351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "120371": {
+        "text": "Geschenk of the Salty Sea Breeze",
+        "hash": "c1dcfa372f4b5a5d07d3bce6e1f638d2f70509f9d3b365e18918140783a95cee",
+        "processed": "<sc=73>Geschenk of the Salty Sea Breeze"
     },
     "120451": {
         "text": "Ninja Art: Seal of the Smiling Heart",
@@ -872,6 +881,10 @@
     "200033": {
         "text": "Tokyo Racetrack ×",
         "hash": "b74fbed8ad9c7c9d6d1ee7b3053cd05dd8db8b40319ce770ea36b629bf04e42f"
+    },
+    "200034": {
+        "text": "Child of Fuchu",
+        "hash": "0842c88fe9b8bbfe635948f499b51275dd2a22c14aecae70a86e67a0a8b9da0e"
     },
     "200041": {
         "text": "Nakayama Racetrack ◎",
@@ -3129,6 +3142,30 @@
         "text": "No Third Chances",
         "hash": "60a1d0ac57077cec7a052a92505135dd38db3fbe74de362ddbf84e936efac67e"
     },
+    "203081": {
+        "text": "Stamp on the Ground",
+        "hash": "b605e0bd21d97103dcee228c54a2c8171af2aa3d7c1c881d3f6221be5250d723"
+    },
+    "203082": {
+        "text": "With All My Might",
+        "hash": "9be53eca17f9f801d699ad9ed231fb92f7bf80aef019eeb608dac75111ce885d"
+    },
+    "203092": {
+        "text": "Dirt Straights ◎",
+        "hash": "c7d89e001fb546183875504edc32a9fa7644d4aef6644e70e0726d93f79e8885"
+    },
+    "203093": {
+        "text": "Dirt Straights ○",
+        "hash": "96a63442913a1a4c5421705cf57ba56da8d517fb73c254c02ed8f887a1ed9aa4"
+    },
+    "203102": {
+        "text": "Dirt Corners ◎",
+        "hash": "6dee7e24db47574a018c5c428a4ebce953931fbb3cead224c7bd8d95590bbd24"
+    },
+    "203103": {
+        "text": "Dirt Corners ○",
+        "hash": "ad45e25e59b704b07b33b9c935dd7f851022097ddd3f0c650efc7f4641ad8086"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -4092,6 +4129,10 @@
         "text": "Sapphire Flame",
         "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
     },
+    "910991": {
+        "text": "Popping☆Clams",
+        "hash": "faa507fd49a6f7080df942b7cbb855e54654894e5f7dd0000aa6dbf426e0f769"
+    },
     "920011": {
         "text": "Dignified Dreamlike Brocade",
         "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f",
@@ -4122,6 +4163,11 @@
     "920351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "920371": {
+        "text": "Geschenk of the Salty Sea Breeze",
+        "hash": "c1dcfa372f4b5a5d07d3bce6e1f638d2f70509f9d3b365e18918140783a95cee",
+        "processed": "<sc=73>Geschenk of the Salty Sea Breeze"
     },
     "920451": {
         "text": "Ninja Art: Seal of the Smiling Heart",
@@ -4602,6 +4648,10 @@
         "hash": "d3ce8abb825d320876c75173c6451540d27a50fee894722277af3852ccf34179",
         "processed": "<sc=90>Super Express Submission!"
     },
+    "101902121": {
+        "text": "Now I'm Hyped!!",
+        "hash": "b4da4f2a74709577c0de1cf83b9f40f8ec93a092c6af3ea64a58ab92e01a135d"
+    },
     "101902211": {
         "text": "Revived For Moe!",
         "hash": "b6197739e69b3af42ba0b80fe7c07d12bcf8d3a88a25f6def6c5f4fa7641bf05"
@@ -4812,7 +4862,7 @@
         "hash": "07086abb24b681c1e4173ac9b37163a83ffccf67633327a1c7e12faf4094c03c"
     },
     "103003211": {
-        "text": "Yodo's Blessing",
+        "text": "Blessing of Yodo",
         "hash": "e73cec63f280323f3a324a7e8911ba7757a1e6ea962e5abf94d3518662287cd8"
     },
     "103101111": {
@@ -4948,6 +4998,10 @@
     "103703111": {
         "text": "Ritter von Fuchu",
         "hash": "954889f0b7384dfe750119acdf3c19d894338733836bd0a19b03704d064cffec"
+    },
+    "103703211": {
+        "text": "Flash Torrent",
+        "hash": "9074f2e2f2eb5dcab993d46248a579021e055752edf0099c29481c040bfd85f4"
     },
     "103801111": {
         "text": "#Cute Perturbation♪",
@@ -5108,6 +5162,10 @@
         "hash": "661dec07ecf831150e14d304cb8d296c3ddd9c7ba0b6fccda9dca4c2ee78b9b2",
         "processed": "<sc=77>Trending Towards Your Dreams!"
     },
+    "104602121": {
+        "text": "To the Ultimate Stage!",
+        "hash": "d455fc9874305beae0d6dc26e346208504325df5a9d7c334538257ba39404345"
+    },
     "104602211": {
         "text": "Absolute Center!",
         "hash": "549fba1348c637f53ae04dc98e38956f0d68f7eb3f7e435d8acb0fb60792bd32"
@@ -5197,6 +5255,10 @@
     "105202111": {
         "text": "Look At Me, Look!",
         "hash": "96cfb42bfdaee521e51c175cf063dc78b45e31e54df29b27ec505bdfe169ac68"
+    },
+    "105202121": {
+        "text": "I Really Wanna Win!",
+        "hash": "b1083b97f884bedc340191fc9ffaa495fd862056aee43908e7c4ba70ce3695f0"
     },
     "105202211": {
         "text": "Trying My Best!",
@@ -5744,9 +5806,22 @@
         "hash": "48f808686bd968387d6ff5fca7f10db256a855c925ae88fb575df7a70711167b",
         "processed": "<sc=78>Tourism Ambassador's Prestige"
     },
+    "109902111": {
+        "text": "Hometown Medley",
+        "hash": "ec1d602b502a02ead71d7098dea102f7f076bd96364739db5d8ae9e329e73c0a"
+    },
+    "109902211": {
+        "text": "Plunge into the Northern Sea",
+        "hash": "f34c9fefd4ced794f1b14703e53eb7a8cccf6e01cfbcffbb2c5708ad26260c2b",
+        "processed": "<sc=84>Plunge into the Northern Sea"
+    },
     "110001111": {
         "text": "Refueled Fighting Spirit",
         "hash": "c9a87fe067ec37c69bba80aeb96d904821e99f9bc85108cbd3c56085f43266df"
+    },
+    "110001121": {
+        "text": "Veiled Grit",
+        "hash": "e4cb01b0e620dde0e3cb61bc316594cc660cd8d0fd8e8ac20ee386a38e70142a"
     },
     "110001211": {
         "text": "Goddess' Dust Bath",

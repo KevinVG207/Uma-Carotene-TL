@@ -593,6 +593,10 @@
         "text": "[nail on Turf]",
         "hash": "e358ffa7ab510298df3c0a13eaccf977a8f96e8a55454f9bae7f931a6a29304a"
     },
+    "20036": {
+        "text": "[Here's your Salvation♪]",
+        "hash": "76774d7d5082c3b84f9bca54619d417cb1b4e943ecb518d914b323409032037c"
+    },
     "20037": {
         "text": "[GRMA Ramen♪]",
         "hash": "7fcf3dba77256cda099dc4829c5bc668accf4b7b5239376f66000de45990e952"
@@ -1659,5 +1663,10 @@
         "text": "[That Summer's Cut-off Line]",
         "hash": "8aa311e74d0e9059767f4e3a32fcce4f73bc30891f0a7c43a99b756623c99314",
         "processed": "<sc=95>[That Summer's Cut-off Line]"
+    },
+    "30214": {
+        "text": "[Full of History and Good Food]",
+        "hash": "b7a10d1e39098ace2e9f889a19ea13d852763543ba8a01bedf2e0140ea7c45c4",
+        "processed": "<sc=88>[Full of History and Good Food]"
     }
 }

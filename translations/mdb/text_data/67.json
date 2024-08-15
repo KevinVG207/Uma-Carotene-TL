@@ -13765,29 +13765,29 @@
         "processed": "<rbr>Reach a total Free genre<br>level of 6000 or higher."
     },
     "600433": {
-        "text": "大豊食祭を大満足以上の状態で終了しよう.",
+        "text": "Finish a training run having achieved Super Satisfaction at the Great Food Festival.",
         "hash": "e6800e07cc07cc6c7e8f173db4b0e19bd75e9b27efcaae56a73c05315924662b",
-        "processed": "<rbr><br>大豊食祭を大満足以上の状態で終了しよう."
+        "processed": "<rbr><sc=68>Finish a training run having achieved Super<br>Satisfaction at the Great Food Festival."
     },
     "600434": {
-        "text": "畑で野菜Lvを累計100回Lvアップしよう.",
+        "text": "Level up your fields a total of 100 times.",
         "hash": "57206a574c087984f958342793b9662f71b302307a4d8451ecdf49d1cbfbbe0a",
-        "processed": "<rbr><br>畑で野菜Lvを累計100回Lvアップしよう."
+        "processed": "<rbr>Level up your fields a total of<br>100 times."
     },
     "600435": {
-        "text": "野菜を累計150000個収穫しよう.",
+        "text": "Harvest a total of 150,000 vegetables.",
         "hash": "03da0aa5e79e797a605a2b03a5c328e6036de539c29b40b6d1ffa7d66201bd9a",
-        "processed": "<rbr>野菜を累計150000個収穫しよう."
+        "processed": "<rbr>Harvest a total of 150,000<br>vegetables."
     },
     "600436": {
-        "text": "すべての試食会と大豊食祭を最高の評価で終了しよう.",
+        "text": "Achieve Super Satisfaction in all Tasting Parties and the Great Food Festival.",
         "hash": "d042c37ef4431c489bea88f196d38402387df5a6d6558ca1b4b432fa809b00ed",
-        "processed": "<rbr><br>すべての試食会と大豊食祭を最高の評価で終了しよう."
+        "processed": "<rbr><sc=74>Achieve Super Satisfaction in all Tast-<br>ing Parties and the Great Food Festival."
     },
     "600437": {
-        "text": "料理を累計100回作ろう.",
+        "text": "Cook dishes a total of 100 times.",
         "hash": "70ff6d9422ae0002877a631d4e38302897060dd16a1c90f7f1279a193eac6073",
-        "processed": "<rbr>料理を累計100回作ろう."
+        "processed": "<rbr>Cook dishes a total of 100<br>times."
     },
     "600501": {
         "text": "Win races on the Sapporo Racetrack 200 times.",
@@ -13900,9 +13900,9 @@
         "processed": "<rbr><sc=98>Earn a reward from winning in<br>the team stadium 100 times."
     },
     "600553": {
-        "text": "Get a score of 1000000 during a team stadium match once.",
+        "text": "Get a score of 1,000,000 during a team stadium match once.",
         "hash": "c49c0f3d7871d0f543ca83cc46282f984a63355e14bc9064b265e3ffb7b06484",
-        "processed": "<rbr><sc=96>Get a score of 1000000 during<br>a team stadium match once."
+        "processed": "<rbr><sc=93>Get a score of 1,000,000 dur-<br>ing a team stadium match once."
     },
     "600571": {
         "text": "Place 1st through 3rd in one race of a Team Stadium match.",
@@ -14120,14 +14120,14 @@
         "processed": "<rbr>Watch 'U.M.A. NEW<br>WORLD!!'."
     },
     "600638": {
-        "text": "Ready!! Steady!! Derby!!を見よう.",
+        "text": "Watch 'Ready!! Steady!! Derby!!'.",
         "hash": "5193be9b7e522a61b7fa95623916e5f880d8202a2730319ce7dfd360272c1e53",
-        "processed": "<rbr>Ready!! Steady!!<br>Derby!!を見よう."
+        "processed": "<rbr>Watch 'Ready!! Steady!!<br>Derby!!'."
     },
     "600639": {
-        "text": "ウマすぎ！グルメパレードを見よう.",
+        "text": "Watch 'Umasugi! Gourmet Parade'.",
         "hash": "bb057e6291582073f7e759ea48cb7e144f0c95c37e56ac294d61802c29249d64",
-        "processed": "<rbr><br>ウマすぎ！グルメパレードを見よう."
+        "processed": "<rbr>Watch 'Umasugi! Gourmet<br>Parade'."
     },
     "600690": {
         "text": "Watch a total of 10 live concerts.",
@@ -22919,6 +22919,21 @@
         "hash": "72a6b30d383ff09917d1f23c83a71b44b6d1e82f722c27b5b912919a5f71ac7b",
         "processed": "<rbr>Clear all event missions."
     },
+    "1002042": {
+        "text": "Gather a total of 500000 fans during the event period.",
+        "hash": "a6a80769ff777a946fadf693310ca23de186e6c255af2d4de5fa389ce5e0746f",
+        "processed": "<rbr>Gather a total of 500000 fans<br>during the event period."
+    },
+    "1002043": {
+        "text": "Gather a total of 1000000 fans during the event period.",
+        "hash": "4d3c631962a719fc599b59cd864bf518fd2766221a2d5d9a6450c88bca41521b",
+        "processed": "<rbr>Gather a total of 1000000<br>fans during the event period."
+    },
+    "1002044": {
+        "text": "Gather a total of 2000000 fans during the event period.",
+        "hash": "9efefdf9056a89dffbc805f8c7a1a2590f994e07d3ac07741f6a5faf6af84193",
+        "processed": "<rbr>Gather a total of 2000000<br>fans during the event period."
+    },
     "1002045": {
         "text": "Participate in any Daily Race 6 times.",
         "hash": "13390c6f677a73fc7cd8886245ea56f306e506490719fe55911d5270873fd32b",
@@ -22943,6 +22958,16 @@
         "text": "Reach a cumulative score of 2000000 during Team Stadium matches.",
         "hash": "d9ca1cf09b56f7a9078ebd4c1fb0ce7068a479d1900215d2a8cf08dad404403d",
         "processed": "<rbr><sc=78>Reach a cumulative score of 2000000<br>during Team Stadium matches."
+    },
+    "1002050": {
+        "text": "Reach a cumulative score of 3000000 during Team Stadium matches.",
+        "hash": "967973484deee4d8786e44590be3dbcab111eca5e8125471ca00e7e50ba5ca12",
+        "processed": "<rbr><sc=78>Reach a cumulative score of 3000000<br>during Team Stadium matches."
+    },
+    "1002051": {
+        "text": "Reach a cumulative score of 5000000 during Team Stadium matches.",
+        "hash": "94cb69ff725a0101c72338975024c8ee8550585dc48501635030e98a25a8e5fe",
+        "processed": "<rbr><sc=78>Reach a cumulative score of 5000000<br>during Team Stadium matches."
     },
     "1002052": {
         "text": "Reach a cumulative score of 7000000 during Team Stadium matches.",
