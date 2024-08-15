@@ -552,15 +552,15 @@
         "hash": "e3dbed233d8a0d68e4b2944e77466252c7a032dcf89ea4f1994d35880b9db92a"
     },
     "1003201": {
-        "text": "Increases SPD.\\nObtain [Funabashi Racetrack ◎] skill hint.",
+        "text": "Increases SPD.\\nObtain [Funabashi Racetrack ○] skill hint.",
         "hash": "eba97fa7304f350755312895d8e658e57e08533dfad84308421adacfcd7b5e99"
     },
     "1003202": {
-        "text": "Increases SPD.\\nObtain [Funabashi Racetrack ◎] skill hint.",
+        "text": "Increases SPD.\\nObtain [Funabashi Racetrack ○] skill hint.",
         "hash": "eba97fa7304f350755312895d8e658e57e08533dfad84308421adacfcd7b5e99"
     },
     "1003203": {
-        "text": "Increases SPD.\\nObtain [Funabashi Racetrack ◎] skill hint.",
+        "text": "Increases SPD.\\nObtain [Funabashi Racetrack ○] skill hint.",
         "hash": "eba97fa7304f350755312895d8e658e57e08533dfad84308421adacfcd7b5e99"
     },
     "1003301": {
@@ -3780,28 +3780,40 @@
         "hash": "dca985e21814da74c318ce0fc82c60a3cc195a74dffc34c8f9ab09317ec14eba"
     },
     "2030901": {
-        "text": "Obtain [ダート直線◎] skill hint.",
+        "text": "Obtain [ダート直線○] skill hint.",
         "hash": "5ccf8476fdea9701caf312649035749e268c0b047518796ab7f8f02b715fc3de"
     },
     "2030902": {
-        "text": "Obtain [ダート直線◎] skill hint.",
+        "text": "Obtain [ダート直線○] skill hint.",
         "hash": "5ccf8476fdea9701caf312649035749e268c0b047518796ab7f8f02b715fc3de"
     },
     "2030903": {
-        "text": "Obtain [ダート直線◎] skill hint.",
+        "text": "Obtain [ダート直線○] skill hint.",
         "hash": "5ccf8476fdea9701caf312649035749e268c0b047518796ab7f8f02b715fc3de"
     },
     "2031001": {
-        "text": "Obtain [ダートコーナー◎] skill hint.",
+        "text": "Obtain [ダートコーナー○] skill hint.",
         "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
     },
     "2031002": {
-        "text": "Obtain [ダートコーナー◎] skill hint.",
+        "text": "Obtain [ダートコーナー○] skill hint.",
         "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
     },
     "2031003": {
-        "text": "Obtain [ダートコーナー◎] skill hint.",
+        "text": "Obtain [ダートコーナー○] skill hint.",
         "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
+    },
+    "2031101": {
+        "text": "Obtain [正面突破] skill hint.",
+        "hash": "71871a719ab0f7eb9767e1ef812d6bded961923cf83d99ae533a0c64894acec7"
+    },
+    "2031102": {
+        "text": "Obtain [正面突破] skill hint.",
+        "hash": "71871a719ab0f7eb9767e1ef812d6bded961923cf83d99ae533a0c64894acec7"
+    },
+    "2031103": {
+        "text": "Obtain [正面突破] skill hint.",
+        "hash": "71871a719ab0f7eb9767e1ef812d6bded961923cf83d99ae533a0c64894acec7"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
