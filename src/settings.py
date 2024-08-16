@@ -21,7 +21,8 @@ default_settings = {
     'dxgi_backup': False,
     'cellar_downloaded': False,
     'first_run': True,
-    'autosave_story_editor': True
+    'autosave_story_editor': True,
+    'cj_orig_name': None,
 }
 
 class Settings:
@@ -157,6 +158,14 @@ class Settings:
     @autosave_story_editor.setter
     def autosave_story_editor(self, value):
         self['autosave_story_editor'] = value
+
+    @property
+    def cj_orig_name(self):
+        return self['cj_orig_name']
+    
+    @cj_orig_name.setter
+    def cj_orig_name(self, value):
+        self['cj_orig_name'] = value
     
     def _load(self):
         # print("Loading settings")
@@ -202,8 +211,8 @@ class Settings:
     def _parse_args(self):
         p = argparse.ArgumentParser()
         p.add_argument('-U', '--update', action='store_true', help="Auto-update the patcher")
-        p.add_argument('-p', '--patch', help="Auto-install the patch if needed with DLL name as argument")
-        p.add_argument('-f', '--force', help="Force install the patch even if there's no update. DLL name as argument")
+        p.add_argument('-p', '--patch', action='store_true', help="Auto-install the patch if needed with DLL name as argument")
+        p.add_argument('-f', '--force', action='store_true', help="Force install the patch even if there's no update. DLL name as argument")
         p.add_argument('-u', '--unpatch', action='store_true', help="Uninstall the patch")
         p.add_argument('-c', '--customization', action='store_true', help="Show the customization widget")
 
