@@ -33,7 +33,9 @@ def convert_tags(text: str) -> str:
                 .replace("<mon>8", "$(month 8)")\
                 .replace("<mon>9", "$(month 9)")\
                 .replace("<mon>{0}", "$(month {0})")\
-                .replace("<mon>{1}", "$(month {1})")
+                .replace("<mon>{1}", "$(month {1})")\
+                .replace("{0}<ord={0}>", "$(ordinal {0})")\
+                .replace("{1}<ord={1}>", "$(ordinal {1})")
 
     regex = re.compile(r"<sc=(\d+)>")
     text = regex.sub(r"$(scale \1)", text)
