@@ -19,7 +19,21 @@ def convert_tags(text: str) -> str:
                 .replace("<nho>", "$(ho 0)")\
                 .replace("<nvo>", "$(vo 0)")\
                 .replace("<rbr>", "")\
-                .replace("<br>", "")
+                .replace("<br>", "")\
+                .replace("<mon>10", "$(month 10)")\
+                .replace("<mon>11", "$(month 11)")\
+                .replace("<mon>12", "$(month 12)")\
+                .replace("<mon>1", "$(month 1)")\
+                .replace("<mon>2", "$(month 2)")\
+                .replace("<mon>3", "$(month 3)")\
+                .replace("<mon>4", "$(month 4)")\
+                .replace("<mon>5", "$(month 5)")\
+                .replace("<mon>6", "$(month 6)")\
+                .replace("<mon>7", "$(month 7)")\
+                .replace("<mon>8", "$(month 8)")\
+                .replace("<mon>9", "$(month 9)")\
+                .replace("<mon>{0}", "$(month {0})")\
+                .replace("<mon>{1}", "$(month {1})")
 
     regex = re.compile(r"<sc=(\d+)>")
     text = regex.sub(r"$(scale \1)", text)
