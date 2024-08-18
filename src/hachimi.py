@@ -45,6 +45,7 @@ def convert_tags(text: str) -> str:
 
     return text
 
+
 def convert_jpdict():
     print("JPDict")
     jpdict_path = util.ASSEMBLY_FOLDER + "jpdict.json"
@@ -62,6 +63,7 @@ def convert_jpdict():
         out_dict = util.load_json(out_path)
     out_dict.update(in_dict)
     util.save_json(out_path, out_dict)
+
 
 def convert_hashed():
     print("Hashed")
@@ -92,10 +94,12 @@ def convert_hashed():
 
     util.save_json(out_path, out_dict)
 
+
 def convert_assembly():
     print("==Assembly==")
     convert_jpdict()
     convert_hashed()
+
 
 def convert_mdb_nested(json_folder: str, out_path: str):
     new_dict = {}
@@ -131,6 +135,7 @@ def convert_mdb_nested(json_folder: str, out_path: str):
     
     util.save_json(out_path, out_dict)
 
+
 def convert_mdb_single(json_path: str, out_path: str):
     new_dict = {}
     data_path = json_path
@@ -153,26 +158,35 @@ def convert_mdb_single(json_path: str, out_path: str):
 
     out_dict.update(new_dict)
 
+    dict_keys = [int(key) for key in out_dict.keys()]
+    dict_keys.sort()
+    out_dict = {str(key): out_dict[str(key)] for key in dict_keys}
+
     util.save_json(out_path, out_dict)
+
 
 def convert_text_data():
     print("text_data")
     convert_mdb_nested(os.path.join(util.MDB_FOLDER, "text_data"), os.path.join(HACHIMI_ROOT, "text_data_dict.json"))
 
+
 def convert_character_system_text():
     print("character_system_text")
     convert_mdb_nested(os.path.join(util.MDB_FOLDER, "character_system_text"), os.path.join(HACHIMI_ROOT, "character_system_text_dict.json"))
+
 
 def convert_race_jikkyo():
     print("jikkyo")
     convert_mdb_single(os.path.join(util.MDB_FOLDER, "race_jikkyo_message.json"), os.path.join(HACHIMI_ROOT, "race_jikkyo_message_dict.json"))
     convert_mdb_single(os.path.join(util.MDB_FOLDER, "race_jikkyo_comment.json"), os.path.join(HACHIMI_ROOT, "race_jikkyo_comment_dict.json"))
 
+
 def convert_mdb():
     print("==MDB==")
     convert_text_data()
     convert_character_system_text()
     convert_race_jikkyo()
+
 
 def convert_flash(flash_metadata: list):
     print("Flash")
@@ -377,7 +391,6 @@ def convert_textures(texture_metadata: list):
             convert_texture_texture2d(meta)
 
 
-
 def convert_stories(story_data: list):
     print("Stories")
     for data in story_data:
@@ -407,6 +420,7 @@ def convert_stories(story_data: list):
         out_dict = {"text_block_list": out_block_list}
         util.save_json(out_path, out_dict)
 
+
 def convert_movies(movie_metadata: list):
     print("Movies not yet implemented, skipping")
     # for meta in movie_metadata:
@@ -421,12 +435,14 @@ def convert_assets():
     convert_stories(asset_dict.get('story', []))
     convert_movies(asset_dict.get('movie', []))
 
+
 def copy_data():
     print("==Copying data==")
     from_folder = HACHIMI_ROOT
     to_folder = os.path.join(util.get_game_folder(), "hachimi", "localized_data")
 
     shutil.copytree(from_folder, to_folder, dirs_exist_ok=True)
+
 
 def convert():
     print("Starting conversion to Hachimi")
@@ -436,6 +452,7 @@ def convert():
 
     copy_data()
     print("Done")
+
 
 def main():
     convert()
