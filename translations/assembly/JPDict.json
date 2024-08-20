@@ -7536,11 +7536,11 @@
         "hash": "3f9a7c2826776a2aa0a21ca503d9e65b40a9b6776a152378a80f68e291d1582c"
     },
     "Jikkyo0026": {
-        "text": "",
+        "text": "leads with $(plural {0} '$ length' '$ lengths')!",
         "hash": "c0259e75b6f94f87fab07abeec9727ef671b0a829414c11156060d19a68f40ea"
     },
     "Jikkyo0027": {
-        "text": "",
+        "text": "is leading by $(plural {0} '$ length' '$ lengths').",
         "hash": "c1dc93712b1b39e07af237917dadae5d9b626ee619747e0c54a42367f2bcf860"
     },
     "Live0001": {
