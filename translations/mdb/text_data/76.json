@@ -379,6 +379,10 @@
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
+    "10096": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
     "10097": {
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
@@ -440,6 +444,10 @@
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
     "10117": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
+    "10118": {
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
@@ -776,6 +784,11 @@
         "text": "[May this Charm bring Prosperity!]",
         "hash": "519c870ee2d5ac38d48b60392aac6efdd2a5d04031de30da588a3028f697905b",
         "processed": "<sc=80>[May this Charm bring Prosperity!]"
+    },
+    "20079": {
+        "text": "[Good Marvelous to Everyone☆]",
+        "hash": "d40deb1f82788958670ca52bafdac9c086a7ffc0567fd4f14c0d9dbdc0b44979",
+        "processed": "<sc=86>[Good Marvelous to Everyone☆]"
     },
     "30001": {
         "text": "[Japan's Number 1 Stage]",
@@ -1659,14 +1672,35 @@
         "hash": "9cba32edd26b7f2daa9efed6bbcf1793c47c0fc0fd388af841be01e2ae5ee108",
         "processed": "<sc=81>[Candid Shot Between The Waves]"
     },
+    "30211": {
+        "text": "[Lucky☆Summertime]",
+        "hash": "ac64ece44638f4b591b20a070156a889b01676a8395ad1afce509dbfbdace4de"
+    },
     "30212": {
         "text": "[That Summer's Cut-off Line]",
         "hash": "8aa311e74d0e9059767f4e3a32fcce4f73bc30891f0a7c43a99b756623c99314",
         "processed": "<sc=95>[That Summer's Cut-off Line]"
     },
+    "30213": {
+        "text": "[The Slapdash Grand Prix has Begun]",
+        "hash": "13ccb9ae36ecc8f64ec9353fdecae2e4e648584b891a3225bb48de0b98cad97d",
+        "processed": "<sc=74>[The Slapdash Grand Prix has Begun]"
+    },
     "30214": {
         "text": "[Full of History and Good Food]",
         "hash": "b7a10d1e39098ace2e9f889a19ea13d852763543ba8a01bedf2e0140ea7c45c4",
         "processed": "<sc=88>[Full of History and Good Food]"
+    },
+    "30215": {
+        "text": "[Devilish Whispers]",
+        "hash": "f94b6b042991f60fce6604144827f5d379110750de1e1f3cd691625ecafeed00"
+    },
+    "30216": {
+        "text": "[With Love to Our School]",
+        "hash": "cda506215c8543e94d10576c2bd960dbc842b45704adb14a76b509c76163feb7"
+    },
+    "30221": {
+        "text": "[Fun and Food Every Day]",
+        "hash": "4222c8bc11b11539ba70d955bb87fcd99082589ead8eb0cb9182b07d6a574b36"
     }
 }
