@@ -136,7 +136,7 @@ def convert_mdb_nested(json_folder: str, out_path: str):
     util.save_json(out_path, out_dict)
 
 
-def convert_mdb_single(json_path: str, out_path: str, wrap: int = 0):
+def convert_mdb_single(json_path: str, out_path: str):
     new_dict = {}
     data_path = json_path
 
@@ -146,26 +146,8 @@ def convert_mdb_single(json_path: str, out_path: str, wrap: int = 0):
 
     data = util.load_json(data_path)
 
-    # TODO: Temporary wrap handling. Remove before production.
-    def _wrap(text: str) -> str:
-        if wrap and text:
-            wrap_list = []
-            segments = text.split(" ")
-            line = ""
-
-            for segment in segments:
-                if len(line) + len(segment) > wrap:
-                    wrap_list.append(line.strip())
-                    line = ""
-                line += segment + " "
-
-            wrap_list.append(line.strip())
-
-            return "\\n".join(wrap_list)
-        return text
-
     for key, entry in data.items():
-        text = _wrap(convert_tags(entry["text"]))
+        text = convert_tags(entry["text"])
         if not text:
             continue
         new_dict[key] = text
@@ -197,8 +179,8 @@ def convert_race_jikkyo():
     print("jikkyo")
     
     # TODO: Remove wrap because it should be handled by Hachimi.
-    convert_mdb_single(os.path.join(util.MDB_FOLDER, "race_jikkyo_message.json"), os.path.join(HACHIMI_ROOT, "race_jikkyo_message_dict.json"), wrap=35)
-    convert_mdb_single(os.path.join(util.MDB_FOLDER, "race_jikkyo_comment.json"), os.path.join(HACHIMI_ROOT, "race_jikkyo_comment_dict.json"), wrap=35)
+    convert_mdb_single(os.path.join(util.MDB_FOLDER, "race_jikkyo_message.json"), os.path.join(HACHIMI_ROOT, "race_jikkyo_message_dict.json"))
+    convert_mdb_single(os.path.join(util.MDB_FOLDER, "race_jikkyo_comment.json"), os.path.join(HACHIMI_ROOT, "race_jikkyo_comment_dict.json"))
 
 
 def convert_mdb():
