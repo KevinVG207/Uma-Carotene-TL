@@ -607,6 +607,66 @@
         "text": "Jungle Pocket #2",
         "hash": "2119cbf9d87dbef91bbb84b2c8a90fcf80bcb953acd8b9116da52a41b6b186bd"
     },
+    "153": {
+        "text": "Furioso #1",
+        "hash": "3bfcf6587c358c8e9f30069a256c2e93894361bfbf971d556b7696beab79d6a6"
+    },
+    "154": {
+        "text": "Transcend #1",
+        "hash": "3371f6d5e82baa13b498c6f2b224b2f9691aaef4774bfa8d9117969163a2a412"
+    },
+    "155": {
+        "text": "Espoir City #1",
+        "hash": "a1b57138ec38d09a71498b370279b49edf1e522e96e97894d1d2b33a2c2edb07"
+    },
+    "156": {
+        "text": "Dantsu Flame #1",
+        "hash": "6c4c180797aae95d424112c01af7151245f079b36bc145c92c4dae7e8a76718d"
+    },
+    "157": {
+        "text": "Believe #1",
+        "hash": "fc41e20f09bb68a828014fc964f8da3c55692fe639241540e61e24e39587f010"
+    },
+    "158": {
+        "text": "No Reason #1",
+        "hash": "f9c9b1194dd156f02d350bbb2d35de743c2e4bf883471d22d1f74945e7f86e98"
+    },
+    "159": {
+        "text": "Still in Love #1",
+        "hash": "ec26a4c5c8ba0e0919acd2867c1ddf2a1df343bb6788fa1264cd578b819518ea"
+    },
+    "160": {
+        "text": "Rhein Kraft #1",
+        "hash": "7b403edc8ca791a52b354cee17516d97052bebe10d8ddf274dcd292c728b7663"
+    },
+    "161": {
+        "text": "Cesario #1",
+        "hash": "8aa43538e4c8e1a2976824df9c67d74e5e640dbc27f5f25f9556c75de7d5cf70"
+    },
+    "162": {
+        "text": "Air Messiah #1",
+        "hash": "264cdd6790046aeb4ab6e233af6a7cc676c74e1c577c5f202a56196c79c1f687"
+    },
+    "163": {
+        "text": "Daring Heart #1",
+        "hash": "0e4ec5245d13fc33f790e3c0fc6bd3cdd6eabf763238cf58df6cad0a7672f5b4"
+    },
+    "164": {
+        "text": "Buena Vista #1",
+        "hash": "36e0e5c13c67cb8a7b1a3301a4e325af3ad309d70d574a7f40f6a691cc63550c"
+    },
+    "165": {
+        "text": "Dream Journey #1",
+        "hash": "d22e67bc3f7ceb0024a2dd1f576e6529fdf7472a80b4688403c66e88c6699418"
+    },
+    "166": {
+        "text": "Calstone Light O #1",
+        "hash": "a67c406ca86a3033319006ec5551c5f32d62af3697c60232c8269b12e9bdd8fa"
+    },
+    "167": {
+        "text": "Durandal #1",
+        "hash": "b901ecf8f1a54508cd3909433064987a4901c15770944a775f917d8e1edb2a0f"
+    },
     "8001": {
         "text": "Tazuna's Advice",
         "hash": "57176d3e385e94f82b6472e0a84e054487849d6cb2caa6d445c5b85f46c7f619"
@@ -1826,5 +1886,105 @@
     "9216": {
         "text": "Daring Heart Secret #1",
         "hash": "0110b2ed104f9448c121e3beb642fdb58080d008d87973dfbe4a301c821a8e92"
+    },
+    "9217": {
+        "text": "Sounds of Earth Secret #2",
+        "hash": "bccbe8858211e64a9fd10c9c081d2b3d7f6aed08965498139af8336fd596de23"
+    },
+    "9218": {
+        "text": "Verxina Secret #2",
+        "hash": "3cd91975dfd00bf5774ab253339a057506d8e84d04e014bc388606d66d868fa0"
+    },
+    "9219": {
+        "text": "Vivlos Secret #2",
+        "hash": "a334fa107b7002cffa3980f44b96fc7c52e3a8bb63e11d17ea68644fc579cfa8"
+    },
+    "9220": {
+        "text": "Duramente Secret #2",
+        "hash": "9b8c2167efc2c8dfef9a2c7126344d3f1932a0fb1330e5bd77199bb473ad7398"
+    },
+    "9221": {
+        "text": "Royce and Royce Secret #2",
+        "hash": "448156c796576ea742c68b84055f9aff070351a63578f20010b5059d0ff3c105"
+    },
+    "9222": {
+        "text": "North Flight Secret #2",
+        "hash": "7c36d877e6be9a2a25ee644cd8746394006f2380cbe9ae81ec5c6ca6eb1203f4"
+    },
+    "9223": {
+        "text": "Orfevre Secret #2",
+        "hash": "20754c4edb2dc3740496f18a695183dbe57d56826c8c23e9aaddac4c0b94b427"
+    },
+    "9224": {
+        "text": "Gentildonna Secret #2",
+        "hash": "4829441b6ff27eab031360140d09941773b9790f06d61a82610a18f1ca7545f6"
+    },
+    "9225": {
+        "text": "Win Variation Secret #2",
+        "hash": "cb899cf8a384ad2ab1a6471b98d5209d7e82ffdea8bc0f7188f98dc4a01da18e"
+    },
+    "9226": {
+        "text": "Rhein Kraft Secret #2",
+        "hash": "e0a290fc42f4b5b80312654be917113093f67d7ac7a2cdb0abacd1d8f86793a1"
+    },
+    "9227": {
+        "text": "Cesario Secret #2",
+        "hash": "1c4d3b02c30dffd424038eb4e3fdc0593fb0cf177d6c6c7df9c6df05012bf625"
+    },
+    "9228": {
+        "text": "Air Messiah Secret #2",
+        "hash": "b503cf3b9cb7b2ab7f5d275e350df2f07f4ae5756029bf7fd2605dd3b2eb9874"
+    },
+    "9229": {
+        "text": "Daring Heart Secret #2",
+        "hash": "eb42c42b3ea90bfd839b85b028f6adf93feb7a73595467617265da567cc8ac3c"
+    },
+    "9230": {
+        "text": "Furioso Secret #1",
+        "hash": "bcddf3f85fe6179e27444baf289a2b42f76e7e823d921660c7a915699669e850"
+    },
+    "9231": {
+        "text": "Transcend Secret #1",
+        "hash": "7f7f473a254ccdb2ea18762e810261e742b5931375e81482cf5fe0fb265e146d"
+    },
+    "9232": {
+        "text": "Espoir City Secret #1",
+        "hash": "2bfb3f60651ad62dd782772c57eb9374bb6aae3138d5a52f01d5065ee4da09aa"
+    },
+    "9233": {
+        "text": "Dantsu Flame Secret #1",
+        "hash": "9e58994ed13839dffee2aa6e465c0330cf35017d68634a9f5ccc3d5958ab5eac"
+    },
+    "9234": {
+        "text": "Believe Secret #1",
+        "hash": "a85325d09cc5a6c676a3d08fd8d4af4867ca3f54ecb2c7fdf64a857a5f910512"
+    },
+    "9235": {
+        "text": "No Reason Secret #1",
+        "hash": "05da678232911db88ac4aff1d11454733782d0352b0b187716fab9c2eaf16cd9"
+    },
+    "9236": {
+        "text": "Still in Love Secret #1",
+        "hash": "4cb9c425cf5432c1c2912cb8dc63a00e377237349445aa9c475c9a62c14af1a1"
+    },
+    "9237": {
+        "text": "Beauty Anshinzawa Secret #1",
+        "hash": "7682061c05623a93d0ff1dc99456d9070508519ebf4eb8ef9d7c48acc38e20d5"
+    },
+    "9238": {
+        "text": "Buena Vista Secret #1",
+        "hash": "eeb3bd55d74f25bb00cfe4a2f17fac1d4de3a657a181ced90cfbbad7c612ac40"
+    },
+    "9239": {
+        "text": "Dream Journey Secret #1",
+        "hash": "0b1a6a0e151e9260d4998e48aefefccb3dff4f10fe663b08c2e765946f1fac61"
+    },
+    "9240": {
+        "text": "Calstone Light O Secret #1",
+        "hash": "2fe59cede6a181d4eb90be31d1cfba2af57cfc0913022e743c7f598391d593af"
+    },
+    "9241": {
+        "text": "Durandal Secret #1",
+        "hash": "015a13f10bddd0125e3a06cd01021aa29cf788afc2f10c438aa58bea96590b9c"
     }
 }

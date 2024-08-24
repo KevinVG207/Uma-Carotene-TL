@@ -386,6 +386,10 @@
         "text": "Tap Dance City",
         "hash": "6b731385ca05d4dab06731e5bce7b53f946a57db0875b0cf8469c3905206420b"
     },
+    "10096": {
+        "text": "Still in Love",
+        "hash": "0c55ed1b9db230b7ccdf2db4f46002d31cbe2a5902f47c48e122e1b62d188a05"
+    },
     "10097": {
         "text": "Verxina",
         "hash": "f81c77e9265e5a76156369e63218b9376416b04435128ad743e0fc54fbdd7e4a"
@@ -449,6 +453,10 @@
     "10117": {
         "text": "No Reason",
         "hash": "2b190d147ad99dc4e836e26f811831855379721adb4f98f8be5c9528af4775db"
+    },
+    "10118": {
+        "text": "Buena Vista",
+        "hash": "b3dc7ce61693c1d287bc97b7ed63f314e61ef63dfdfc393500f9d27765fe61d7"
     },
     "20001": {
         "text": "Fuji Kiseki",
@@ -767,6 +775,11 @@
         "text": "Matikanefukukitaru",
         "hash": "c9d370db82aa00c8720d9e5cb2a08ea8c3f71d7859310ff8268c6f330f7ca143",
         "processed": "<sc=93>Matikanefukukitaru"
+    },
+    "20079": {
+        "text": "Marvelous Sunday",
+        "hash": "e743a048c5b558776d9b7129fee1cb448c6c0cead8482c5e70f45ab375f20649",
+        "processed": "<sc=97>Marvelous Sunday"
     },
     "30001": {
         "text": "Special Week",
@@ -1612,8 +1625,24 @@
         "text": "Wonder Acute",
         "hash": "f77dacea0c5a95cd016a09b3e462d7e7213241286b2bab3db79462a5b636a7ab"
     },
+    "30213": {
+        "text": "Tokai Teio",
+        "hash": "cce69bda94b68a29a5601694b4baae2ae846d3529673acffb441796427d86a60"
+    },
     "30214": {
         "text": "Fine Motion",
         "hash": "b0c64d43e71980dce14e2db0e9c726e26b44c2e02ad853e04fc6754966f409ba"
+    },
+    "30215": {
+        "text": "Still in Love",
+        "hash": "0c55ed1b9db230b7ccdf2db4f46002d31cbe2a5902f47c48e122e1b62d188a05"
+    },
+    "30216": {
+        "text": "Buena Vista",
+        "hash": "b3dc7ce61693c1d287bc97b7ed63f314e61ef63dfdfc393500f9d27765fe61d7"
+    },
+    "30221": {
+        "text": "Satono Diamond",
+        "hash": "df44392967c14862f9405a0e19c82198fb8acc47d806641176b5be6ee689e122"
     }
 }

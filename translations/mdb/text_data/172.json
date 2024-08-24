@@ -3804,16 +3804,64 @@
         "hash": "713f837b4f102acce4453eb5965b60d7f5e12dacf8c6308b954ab29b8fd20de2"
     },
     "2031101": {
-        "text": "Obtain [正面突破] skill hint.",
+        "text": "Obtain [Frontal Breakthrough] skill hint.",
         "hash": "71871a719ab0f7eb9767e1ef812d6bded961923cf83d99ae533a0c64894acec7"
     },
     "2031102": {
-        "text": "Obtain [正面突破] skill hint.",
+        "text": "Obtain [Frontal Breakthrough] skill hint.",
         "hash": "71871a719ab0f7eb9767e1ef812d6bded961923cf83d99ae533a0c64894acec7"
     },
     "2031103": {
-        "text": "Obtain [正面突破] skill hint.",
+        "text": "Obtain [Frontal Breakthrough] skill hint.",
         "hash": "71871a719ab0f7eb9767e1ef812d6bded961923cf83d99ae533a0c64894acec7"
+    },
+    "2031201": {
+        "text": "Obtain [さらなる高みへ] skill hint.",
+        "hash": "489cbd4f19e6ec7527a5dc9ad558ae418144a09448e815954ca55801403e1903"
+    },
+    "2031202": {
+        "text": "Obtain [さらなる高みへ] skill hint.",
+        "hash": "489cbd4f19e6ec7527a5dc9ad558ae418144a09448e815954ca55801403e1903"
+    },
+    "2031203": {
+        "text": "Obtain [さらなる高みへ] skill hint.",
+        "hash": "489cbd4f19e6ec7527a5dc9ad558ae418144a09448e815954ca55801403e1903"
+    },
+    "2031301": {
+        "text": "Obtain [決定打] skill hint.",
+        "hash": "18eef5d49f36a0cc4a5ed01a600567b7e6d39941d47d527bd705b073463aef53"
+    },
+    "2031302": {
+        "text": "Obtain [決定打] skill hint.",
+        "hash": "18eef5d49f36a0cc4a5ed01a600567b7e6d39941d47d527bd705b073463aef53"
+    },
+    "2031303": {
+        "text": "Obtain [決定打] skill hint.",
+        "hash": "18eef5d49f36a0cc4a5ed01a600567b7e6d39941d47d527bd705b073463aef53"
+    },
+    "2031401": {
+        "text": "Obtain [克己心] skill hint.",
+        "hash": "f9fbdc9be976289568594ee2b02442301e68c6ff30f7e8daa4303f03c76775e3"
+    },
+    "2031402": {
+        "text": "Obtain [克己心] skill hint.",
+        "hash": "f9fbdc9be976289568594ee2b02442301e68c6ff30f7e8daa4303f03c76775e3"
+    },
+    "2031403": {
+        "text": "Obtain [克己心] skill hint.",
+        "hash": "f9fbdc9be976289568594ee2b02442301e68c6ff30f7e8daa4303f03c76775e3"
+    },
+    "2031501": {
+        "text": "Obtain [むきだしの情熱] skill hint.",
+        "hash": "c1f885d9ce1ffbbd9906c7fbb2ff55e99c3d2efd4394ca6a8c8c34d72fdd0bbd"
+    },
+    "2031502": {
+        "text": "Obtain [むきだしの情熱] skill hint.",
+        "hash": "c1f885d9ce1ffbbd9906c7fbb2ff55e99c3d2efd4394ca6a8c8c34d72fdd0bbd"
+    },
+    "2031503": {
+        "text": "Obtain [むきだしの情熱] skill hint.",
+        "hash": "c1f885d9ce1ffbbd9906c7fbb2ff55e99c3d2efd4394ca6a8c8c34d72fdd0bbd"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
@@ -6606,6 +6654,18 @@
     "11090103": {
         "text": "Increases POW Cap and GUT Cap.\\nObtain [Connecting Dreams With the Future] skill hint.",
         "hash": "2173bec524288c3eaf302c2c998746e751b3d94e57c93b9d2faf90f7bd6cbfcc"
+    },
+    "11160101": {
+        "text": "Increases SPD Cap, STA Cap and POW Cap.\\nObtain [烈華の洗礼] skill hint.",
+        "hash": "3e31fe626e18bb82af2acc73f8a51d6f395b49c69c9544e792f514f6531e1d4f"
+    },
+    "11160102": {
+        "text": "Increases SPD Cap, STA Cap and POW Cap.\\nObtain [烈華の洗礼] skill hint.",
+        "hash": "3e31fe626e18bb82af2acc73f8a51d6f395b49c69c9544e792f514f6531e1d4f"
+    },
+    "11160103": {
+        "text": "Increases SPD Cap, STA Cap and POW Cap.\\nObtain [烈華の洗礼] skill hint.",
+        "hash": "3e31fe626e18bb82af2acc73f8a51d6f395b49c69c9544e792f514f6531e1d4f"
     },
     "11190101": {
         "text": "Increases STA Cap, POW Cap and WIS Cap.\\nObtain [«Bon Voyage»] skill hint.",
