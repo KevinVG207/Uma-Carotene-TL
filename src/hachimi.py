@@ -6,6 +6,9 @@ import glob
 import unity
 from UnityPy.enums import ClassIDType
 import fnv
+from PIL import Image
+from tqdm import tqdm
+from multiprocessing import Pool
 
 HACHIMI_ROOT = "tl-en\\localized_data\\"
 
@@ -20,6 +23,7 @@ def convert_tags(text: str) -> str:
                 .replace("<nvo>", "$(vo 0)")\
                 .replace("<rbr>", "")\
                 .replace("<br>", "")\
+                .replace("<fit>", "")\
                 .replace("<mon>10", "$(month 10)")\
                 .replace("<mon>11", "$(month 11)")\
                 .replace("<mon>12", "$(month 12)")\
@@ -190,6 +194,57 @@ def convert_mdb():
     convert_race_jikkyo()
 
 
+def make_png_diff(new_path: str, out_path: str) -> bool:
+    source_path = new_path.replace(".png", ".org.png")
+
+    if not os.path.exists("tools\\png_diff.py"):
+        raise FileNotFoundError("tools\\png_diff.py does not exist")
+    
+    if not os.path.exists(source_path):
+        raise FileNotFoundError(f"Source path {source_path} does not exist")
+    
+    if not os.path.exists(new_path):
+        raise FileNotFoundError(f"New path {new_path} does not exist")
+    
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+    # Crude way to skip unchanged files
+    if os.path.exists(out_path):
+        diff_time = os.path.getmtime(out_path)
+        new_time = os.path.getmtime(new_path)
+
+        # If the new file was not modified after the diff file was generated, skip
+        if diff_time > new_time:
+            return False
+
+    old_img = Image.open(source_path)
+    new_img = Image.open(new_path)
+    width = old_img.width
+    height = old_img.height
+    if width != new_img.width or height != new_img.height:
+        print("[Error] Image size mismatch")
+
+    old_pixels = old_img.load()
+    new_pixels = new_img.load()
+
+    out_img = Image.new("RGBA", (width, height), None)
+    out_pixels = out_img.load()
+    for x in range(width):
+        for y in range(height):
+            old_pixel = old_pixels[x,y]
+            new_pixel = new_pixels[x,y]
+            if old_pixel != new_pixel:
+                if new_pixel[3] == 0 and old_pixel[3] != 0:
+                    new_pixel = (255, 0, 255, 255)
+                elif new_pixel == (255, 0, 255, 255):
+                    new_pixel = (255, 0, 255, 254)
+                out_pixels[x,y] = new_pixel
+
+    out_img.save(out_path, "PNG", compress_level=9)
+
+    return True
+
+
 def convert_flash(flash_metadata: list):
     print("Flash")
 
@@ -280,13 +335,17 @@ def convert_texture_atlas(meta: dict):
 
         # There should only be 1 texture here! If there are more, it will be overwritten!
         atlas_name = meta['file_name'].split("/")[1]
-        out_file = os.path.join(HACHIMI_ROOT, "assets", "atlas", atlas_name, atlas_name + ".png")
+        out_file = os.path.join(HACHIMI_ROOT, "assets", "atlas", atlas_name, atlas_name + ".diff.png")
         out_folder = os.path.dirname(out_file)
         os.makedirs(out_folder, exist_ok=True)
 
-        shutil.copy(png_path, out_file)
 
-        out_json_path = out_file[:-4] + ".json"
+        replaced = make_png_diff(png_path, out_file)
+        if not replaced:
+            return
+        # shutil.copy(png_path, out_file)
+
+        out_json_path = out_file[:-9] + ".json"
         new_json = {
             "windows": {"bundle_name": get_atlas_bundle_hash(meta['file_name'])}
         }
@@ -343,10 +402,12 @@ def convert_texture_flash(meta: dict):
             print(f"File {texture_path} does not exist. Source: {meta['file_name']}")
             continue
 
-        out_path = os.path.join(HACHIMI_ROOT, "assets", "an_texture_sets", meshparam_name, texture_name + ".png")
+        out_path = os.path.join(HACHIMI_ROOT, "assets", "an_texture_sets", meshparam_name, texture_name + ".diff.png")
         out_folder = os.path.dirname(out_path)
         os.makedirs(out_folder, exist_ok=True)
-        shutil.copy(texture_path, out_path)
+
+        make_png_diff(texture_path, out_path)
+        # shutil.copy(texture_path, out_path)
 
 
 def convert_texture_texture2d(meta: dict):
@@ -363,34 +424,40 @@ def convert_texture_texture2d(meta: dict):
             continue
 
         # There should only be 1 texture here! If there are more, it will be overwritten!
-        out_file = os.path.join(HACHIMI_ROOT, "assets", "textures", meta['file_name'] + ".png")
+        out_file = os.path.join(HACHIMI_ROOT, "assets", "textures", meta['file_name'] + ".diff.png")
         out_folder = os.path.dirname(out_file)
         os.makedirs(out_folder, exist_ok=True)
 
-        shutil.copy(png_path, out_file)
+        make_png_diff(png_path, out_file)
+        # shutil.copy(png_path, out_file)
 
+def _convert_texture(meta):
+    meta = meta[0]
+
+    folder = os.path.join(util.ASSETS_FOLDER_EDITING, meta['file_name'])
+    if not os.path.exists(folder):
+        print(f"Folder {folder} does not exist")
+        return
+
+    if meta['file_name'].startswith("atlas/"):
+        # Atlas
+        convert_texture_atlas(meta)
+
+    elif meta['file_name'].startswith(("uianimation/flash/", "sourceresources/flash/")):
+        # Flash
+        convert_texture_flash(meta)
+    else:
+        # Texture2D
+        convert_texture_texture2d(meta)
 
 def convert_textures(texture_metadata: list):
     print("Textures")
+
+    with Pool() as p:
+        list(tqdm(p.imap_unordered(_convert_texture, texture_metadata, chunksize=16), total=len(texture_metadata)))
     
-    for meta in texture_metadata:
-        meta = meta[0]
-
-        folder = os.path.join(util.ASSETS_FOLDER_EDITING, meta['file_name'])
-        if not os.path.exists(folder):
-            print(f"Folder {folder} does not exist")
-            continue
-
-        if meta['file_name'].startswith("atlas/"):
-            # Atlas
-            convert_texture_atlas(meta)
-
-        elif meta['file_name'].startswith(("uianimation/flash/", "sourceresources/flash/")):
-            # Flash
-            convert_texture_flash(meta)
-        else:
-            # Texture2D
-            convert_texture_texture2d(meta)
+    # for meta in texture_metadata:
+    #     _convert_texture(meta)
 
 
 def convert_stories(story_data: list):
