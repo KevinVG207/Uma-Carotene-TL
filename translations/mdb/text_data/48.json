@@ -300,9 +300,9 @@
         "processed": "<rbr><sc=84>With 200 meters remaining in the race,<br>your speed will increase if you're within<br>10 meters from the first place; it will<br>increase greatly if you're within 5 meters."
     },
     "100431": {
-        "text": "When directly competing for position on the Final Straight in a Showdown, your speed will increase; on dirt tracks, your acceleration will increase too.",
+        "text": "When directly competing for position on the Final Straight in a Showdown (追い比べ), your speed will increase; on dirt tracks, your acceleration will increase too.",
         "hash": "6d558892d4d84046a495408e866e62c315f5f044cb1eb25e52065726385b6677",
-        "processed": "<rbr><sc=88>When directly competing for position<br>on the Final Straight in a Showdown,<br>your speed will increase; on dirt tracks,<br>your acceleration will increase too."
+        "processed": "<rbr><sc=82>When directly competing for position on<br>the Final Straight in a Showdown<br>(追い比べ), your speed will increase; on dirt<br>tracks, your acceleration will increase too."
     },
     "100441": {
         "text": "If you stay in the second half of the pack for the entire race without panicking, you will speed up on the Final Corner or beyond when there's 300 m remaining in the race.",
@@ -578,6 +578,11 @@
         "text": "If you're in the middle of the pack on any corner during the first half of the race, your speed will slightly increase; bonus duration in Short and Mile races.",
         "hash": "765f76fbf735ac2c58c8a059c7f22ca97fac74322eae73704315b85cb6783f3d",
         "processed": "<rbr><sc=88>If you're in the middle of the pack on<br>any corner during the first half of the<br>race, your speed will slightly increase;<br>bonus duration in Short and Mile races."
+    },
+    "101161": {
+        "text": "If you're in the first half of the pack on any corner during the first half of the race, your speed will slightly increase; then, if you're near the front during the Last Straight, your speed will greatly increase.",
+        "hash": "182c39f4f7aad4bebb418de8a4fbe22d8a925c0852ec3c7d111472aaa9b58775",
+        "processed": "<rbr><sc=80>If you're in the first half of the pack on any<br>corner during the first half of the race, your<br>speed will slightly increase; then, if you're<br>near the front during the Last Straight,<br>your speed will greatly increase."
     },
     "101191": {
         "text": "If you're in the back of the pack 2/3 through the race, your will get a speed boost; then, if it's a Medium or Long distance race in Nakayama or Hanshin and you're on any straight, you will get a great speed boost.",
@@ -3839,6 +3844,51 @@
         "hash": "2535bcfad0b81bed61afeb9ebbba3ef24ca9d5daf202fb268bf1793c2b65e943",
         "processed": "<rbr>Dirt・At a random point on a<br>random corner, your speed will<br>slightly increase."
     },
+    "203111": {
+        "text": "Medium・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will increase.",
+        "hash": "000d47442bcb3071986cb05e7b81021003548d3881f70c6c7cbd794a4178da2c",
+        "processed": "<rbr>Medium・If you're in the first half<br>of the pack during the first half of<br>the Final Leg, your acceleration<br>will increase."
+    },
+    "203112": {
+        "text": "Medium・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will slightly increase.",
+        "hash": "3532ce9bf0b8659812652ee7850e2064eac7ddc40fcbce8f16be5cac9734d4d7",
+        "processed": "<rbr>Medium・If you're in the first half<br>of the pack during the first half of<br>the Final Leg, your acceleration<br>will slightly increase."
+    },
+    "203121": {
+        "text": "Leader・Medium・If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase.",
+        "hash": "65b597db51c63bfcdd9edb5213fd3b0c47d89fc5adbd9281b7654ad09202d459",
+        "processed": "<rbr>Leader・Medium・If you're in the<br>first half of the pack at a random<br>point during the Middle Leg, your<br>speed will increase."
+    },
+    "203122": {
+        "text": "Leader・Medium・If you're in the first half of the pack at a random point during the Middle Leg, your speed will slightly increase.",
+        "hash": "545cc2b0e672ab515c059bac3310396ded3d56f2d01db6ea692fe36267f1386f",
+        "processed": "<rbr>Leader・Medium・If you're in the<br>first half of the pack at a random<br>point during the Middle Leg, your<br>speed will slightly increase."
+    },
+    "203132": {
+        "text": "Leader・If you're leading or at most 2.5 m from the lead during the Final Straight, your speed will slightly increase.",
+        "hash": "ea2573e8bb93b630ef1006ed5d02567b3e076c2d868aea9c0085ee67924a0e2a",
+        "processed": "<rbr>Leader・If you're leading or at<br>most 2.5 m from the lead during<br>the Final Straight, your speed will<br>slightly increase."
+    },
+    "203141": {
+        "text": "Medium・At a random point during the Middle Leg, your speed will slightly increase and your stamina will slightly recover.",
+        "hash": "dde85373a2b4b9e615b75ad1201e1371522c1dd241657b334ce5138490e5e6bc",
+        "processed": "<rbr>Medium・At a random point during<br>the Middle Leg, your speed will<br>slightly increase and your stamina<br>will slightly recover."
+    },
+    "203142": {
+        "text": "Medium・At a random point during the Middle Leg, your speed will marginally increase and your stamina will marginally recover.",
+        "hash": "1a11d7aa97499ae895cfb1ac4b8fde7f8dc6a3a0dba74c0b38cec8df7f4cba66",
+        "processed": "<rbr>Medium・At a random point during<br>the Middle Leg, your speed will<br>marginally increase and your<br>stamina will marginally recover."
+    },
+    "203151": {
+        "text": "Betweener/Chaser・If you directly competed for position on the Final Straight in a Showdown (追い比べ), then during the last 200 m of the race, you will get a speed boost.",
+        "hash": "197ccb15f35c364a69bc14045cac614c0121a49220503ffc77457b919bc57100",
+        "processed": "<rbr><sc=80>Betweener/Chaser・If you directly com-<br>peted for position on the Final Straight in a<br>Showdown (追い比べ), then during the last<br>200 m of the race, you will get a speed<br>boost."
+    },
+    "203152": {
+        "text": "Betweener/Chaser・If you directly competed for position on the Final Straight in a Showdown (追い比べ), then during the last 200 m of the race, you will get a slight speed boost.",
+        "hash": "94b65f47c21b907e7d32c648f3d2b6bc387bc14c3df0e68eff50dc1c0cd12cd0",
+        "processed": "<rbr><sc=80>Betweener/Chaser・If you directly com-<br>peted for position on the Final Straight in a<br>Showdown (追い比べ), then during the last<br>200 m of the race, you will get a slight<br>speed boost."
+    },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
         "hash": "2b11f52be1772f83410a032e5b2f6964030c966486ead8045fff1b8a61f8cbf8",
@@ -3935,9 +3985,9 @@
         "processed": "<rbr>If you try to overtake someone<br>during the Last Spurt, your speed<br>will increase a little."
     },
     "210121": {
-        "text": "If you participate in a Showdown, your acceleration will increase a little.",
+        "text": "When directly competing for position on the Final Straight in a Showdown (追い比べ), your acceleration will increase a little.",
         "hash": "d01c713d8a0972ae0eae302dcdc4157ff104285c1c365c4d535f7270b328420d",
-        "processed": "<rbr>If you participate in a Showdown,<br>your acceleration will increase a<br>little."
+        "processed": "<rbr>When directly competing for<br>position on the Final Straight in a<br>Showdown (追い比べ), your<br>acceleration will increase a little."
     },
     "210131": {
         "text": "If you activate at least 2 skills in the second half of the race, your speed will increase a little.",
@@ -6968,6 +7018,21 @@
         "text": "Leader・During the first half of the Final Leg, if you're in the first half of the pack, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase.",
         "hash": "2dddfccf03a7b4eb2f3e92876a4d0920f703b0fe07792bbbef5bffd922eb343f",
         "processed": "<rbr><sc=80>Leader・During the first half of the Final<br>Leg, if you're in the first half of the pack,<br>your acceleration will increase; then, when<br>there's 200 m remaining in the race, your<br>speed will slightly increase."
+    },
+    "111601111": {
+        "text": "Leader・In races of at least 2000 m, at a random point during the first quarter of the Final Leg, your acceleration and lane movement speed will increase; if there's another girl right in front of you, the skill will trigger at the start of the Final Leg instead.",
+        "hash": "6b16c47ce4dc35df87d902449aba6b4adf9dd135d93105401363dc96ca88664d",
+        "processed": "<rbr><sc=66>Leader・In races of at least 2000 m, at a random<br>point during the first quarter of the Final Leg, your<br>acceleration and lane movement speed will increase;<br>if there's another girl right in front of you, the skill<br>will trigger at the start of the Final Leg instead."
+    },
+    "111601211": {
+        "text": "Leader・Medium・At a random point during the Middle Leg, your speed will greatly increase.",
+        "hash": "0c255fe15fbac1436b978c5dd4d65c313d0abe11079bf3baa30f1318540595af",
+        "processed": "<rbr>Leader・Medium・At a random<br>point during the Middle Leg, your<br>speed will greatly increase."
+    },
+    "111601221": {
+        "text": "Leader・In races between 2400 and 2500 m long, at a random point during the second half of the Middle Leg, your speed will greatly increase; if you have at least 1200 base Power, your speed will increase tremendously instead.",
+        "hash": "e4f0d6db9d8ec2b9340af5e5a0a36f9badf785c806f1f483b8e7906df9239fc4",
+        "processed": "<rbr><sc=73>Leader・In races between 2400 and 2500 m<br>long, at a random point during the second half<br>of the Middle Leg, your speed will greatly<br>increase; if you have at least 1200 base Power,<br>your speed will increase tremendously instead."
     },
     "111901111": {
         "text": "Your Speed and Power stats are increased by 80 on clockwise tracks.",
