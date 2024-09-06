@@ -66,6 +66,11 @@ def convert_jpdict():
     if os.path.exists(out_path):
         out_dict = util.load_json(out_path)
     out_dict.update(in_dict)
+
+    dict_keys = [key for key in out_dict.keys()]
+    dict_keys.sort()
+    out_dict = {key: out_dict[key] for key in dict_keys}
+
     util.save_json(out_path, out_dict)
 
 
@@ -197,8 +202,6 @@ def convert_mdb():
 def make_png_diff(new_path: str, out_path: str) -> bool:
     source_path = new_path.replace(".png", ".org.png")
 
-    if not os.path.exists("tools\\png_diff.py"):
-        raise FileNotFoundError("tools\\png_diff.py does not exist")
     
     if not os.path.exists(source_path):
         raise FileNotFoundError(f"Source path {source_path} does not exist")
@@ -536,9 +539,10 @@ def convert():
 
 
 def main():
-    convert()
-    # convert_assets()
-    # copy_data()
+    # convert()
+    convert_assembly()
+    convert_mdb()
+    copy_data()
 
 if __name__ == "__main__":
     main()

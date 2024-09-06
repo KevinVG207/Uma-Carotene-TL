@@ -219,11 +219,11 @@ def autofill_factor_descriptions():
             skill_name_dict[key[-1]] = name
 
     type_descr = {
-        1: "SPD",
-        2: "STA",
-        3: "POW",
-        4: "GUT",
-        5: "WIS",
+        1: "Speed",
+        2: "Stamina",
+        3: "Power",
+        4: "Guts",
+        5: "Wit",
         6: "Skill Points",
         11: "Turf Aptitude",
         12: "Dirt Aptitude",
@@ -235,11 +235,11 @@ def autofill_factor_descriptions():
         32: "Mile Aptitude",
         33: "Medium Aptitude",
         34: "Long Aptitude",
-        61: "SPD Cap",
-        62: "STA Cap",
-        63: "POW Cap",
-        64: "GUT Cap",
-        65: "WIS Cap",
+        61: "Speed Cap",
+        62: "Stamina Cap",
+        63: "Power Cap",
+        64: "Guts Cap",
+        65: "Wit Cap",
     }
 
 
