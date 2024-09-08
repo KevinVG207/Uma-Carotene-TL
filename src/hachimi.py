@@ -220,8 +220,8 @@ def make_png_diff(new_path: str, out_path: str) -> bool:
         if diff_time > new_time:
             return False
 
-    old_img = Image.open(source_path)
-    new_img = Image.open(new_path)
+    old_img = Image.open(source_path).convert("RGBA")
+    new_img = Image.open(new_path).convert("RGBA")
     width = old_img.width
     height = old_img.height
     if width != new_img.width or height != new_img.height:
@@ -540,9 +540,10 @@ def convert():
 
 def main():
     # convert()
-    convert_assembly()
-    convert_mdb()
-    copy_data()
+    # convert_assembly()
+    # convert_mdb()
+    convert_assets()
+    # copy_data()
 
 if __name__ == "__main__":
     main()
