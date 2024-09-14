@@ -1716,7 +1716,7 @@
         "hash": "4eb705dc1eae3b7f24a3a4ffa666bfeb62d6408b64cc7dcf5bfe4a09c9c7fe7c"
     },
     "Champions497006": {
-        "text": "",
+        "text": "Final round ends in ",
         "hash": "788be28b8e2ff72755afafa29f094df894867b77c387662d2517425ba6564398"
     },
     "Champions497007": {
@@ -13740,7 +13740,7 @@
         "hash": "99ac119d39ae75b079ada70bcdd52ecb6d4a9858dc6582dae22c8ff011c1ac38"
     },
     "Race497002": {
-        "text": "Time left: ",
+        "text": "Event ends in ",
         "hash": "6cb3758de1d1d6b8521474802f6dab4373539462f5773371376ae87a9976d62c"
     },
     "Race508001": {
@@ -15908,7 +15908,7 @@
         "hash": "bc30238ae718342277bb5f578093423884c71fdad429e91a172e60cc997ec80c"
     },
     "SingleMode0045": {
-        "text": "<nb><ho>Are you sure you want to buy \nthe above skills?",
+        "text": "<nb><ho>Are you sure you want to learn \nthe above skills?",
         "hash": "771fe1732593588aa498c51b2b3c8af6f0bb128faf514d03615c98e1886aa4a3"
     },
     "SingleMode0046": {
@@ -16280,7 +16280,7 @@
         "hash": "3d93736cea2fcc5288a43524aba386582c60015044803167d721870fe36edfe4"
     },
     "SingleMode0214": {
-        "text": "Buy Skill(s)",
+        "text": "Learn Skill(s)",
         "hash": "b54f6c15a24157cb7d351456ed91282167bbd8a9dfcde0fa2dd0d2adc3b505f5"
     },
     "SingleMode0215": {
@@ -22568,15 +22568,15 @@
         "hash": "fc34150298788699b4e217b3880f9c9521b85838b35251412ded3cb3fb0525a8"
     },
     "StoryEvent0041": {
-        "text": "Time left: $(plural {0} '$ day' '$ days')",
+        "text": "Event ends in $(plural {0} '$ day' '$ days')",
         "hash": "6afb39debd4dd1303fbff4afb45972ffe79526d8f4ade6c5a2fcec15e2621faf"
     },
     "StoryEvent0042": {
-        "text": "Time left: $(plural {0} '$ hour' '$ hours')",
+        "text": "Event ends in $(plural {0} '$ hour' '$ hours')",
         "hash": "9f81342e3d570a66f77a1b4a5de57c46f51c02d23500ded03dcea157f36f9b4b"
     },
     "StoryEvent0043": {
-        "text": "Time left: $(plural {0} '$ min' '$ mins')",
+        "text": "Event ends in $(plural {0} '$ min' '$ mins')",
         "hash": "a3d6c4f6fb9bb9e528d0ee79715a395daefec3eb98f683dcd47d7202202f05a4"
     },
     "StoryEvent0044": {
@@ -24404,15 +24404,15 @@
         "hash": "259bc80b413a86d0211377526230bc768fc66c4c5fb1331b9b86edd7f80736bd"
     },
     "TrainingChallenge4180001": {
-        "text": "Time left: $(plural {0} '$ day' '$ days')",
+        "text": "Event ends in $(plural {0} '$ day' '$ days')",
         "hash": "bb91ded2daaada31927e6793bc5430145713717a96d4bf4ba9c2d701fe8fe855"
     },
     "TrainingChallenge4180002": {
-        "text": "Time left: $(plural {0} '$ hour' '$ hours')",
+        "text": "Event ends in $(plural {0} '$ hour' '$ hours')",
         "hash": "b20b1a43cebed3d59d835b28fe0a0f4d412990557c5be41bfab993e7f1f58550"
     },
     "TrainingChallenge4180003": {
-        "text": "Time left: $(plural {0} '$ min' '$ mins')",
+        "text": "Event ends in $(plural {0} '$ min' '$ mins')",
         "hash": "d729aa6783d020f597a078f1c45b7f9302c12969b28f45b694abb8a61d6ba2eb"
     },
     "TrainingChallenge4180004": {
@@ -25032,7 +25032,7 @@
         "hash": "6a7ae8bf0326cc26386ed68acbdeac17ecd249912b19c3e0c4c847b8941d5e87"
     },
     "TransferEvent0030": {
-        "text": "Time left: ",
+        "text": "Recr. ends in ",
         "hash": "4bf3f1e1d1439721031e95f92a2afcc1c6a2aa999ba1c3024bc0d1489f8e5607"
     },
     "TransferEvent0031": {
