@@ -1,0 +1,304 @@
+{
+    "type": "story",
+    "row_index": 252377,
+    "file_name": "story/data/09/0038/storytimeline_090038008",
+    "hash": "Z55XC5JOEOKXFUXDIQRHK6S5TZUEKUAR",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 3882418179929460157,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "<i>Hey,</i> Kris S! Have you tried the dango? \nI've already had five! \nThey're so darn chewy, I just can't stooop!",
+            "name": "Taiki Shuttle",
+            "path_id": -1384127467857768935,
+            "block_id": 1,
+            "clip_length": 365,
+            "processed": "<story><i>Hey,</i> Kris S! Have you tried the dango? \n<story>I've already had five! \n<story>They're so darn chewy, I just can't stooop!"
+        },
+        {
+            "text": "You eatin' your fill, Rob Roy? \nYou need to eat a whole lot and recharge~!",
+            "name": "Taiki Shuttle",
+            "path_id": -4783727642538036151,
+            "block_id": 2,
+            "clip_length": 190,
+            "processed": "<story>You eatin' your fill, Rob Roy? \n<story>You need to eat a whole lot and recharge~!"
+        },
+        {
+            "text": "Y-yes! I've had some of the dango. \nIt's cute how they look like little bunnies.",
+            "name": "Zenno Rob Roy",
+            "path_id": -2587095131215313725,
+            "block_id": 3,
+            "clip_length": 251,
+            "processed": "<story>Y-yes! I've had some of the dango. \n<story>It's cute how they look like little bunnies."
+        },
+        {
+            "text": "<i>Very good! </i>You made a nice <i>hustle</i> training and filled your belly... \nSo we got you one last thing, for a job well done!",
+            "name": "Taiki Shuttle",
+            "path_id": -6473696962401523436,
+            "block_id": 4,
+            "clip_length": 357,
+            "processed": "<story><i>Very good! </i>You made a nice <i>hustle</i> training and filled your belly... \n<story>So we got you one last thing, for a job well done!"
+        },
+        {
+            "text": "It's a present from both of us! \nA hammer for your shoes!!",
+            "name": "Taiki Shuttle",
+            "path_id": 7187294597088459096,
+            "block_id": 5,
+            "clip_length": 188,
+            "processed": "<story>It's a present from both of us! \n<story>A hammer for your shoes!!"
+        },
+        {
+            "text": "And―― another gift. \n――Records of our recent training.",
+            "name": "Symboli Kris S",
+            "path_id": 103667161161247207,
+            "block_id": 6,
+            "clip_length": 187,
+            "processed": "<story>And―― another gift. \n<story>――Records of our recent training."
+        },
+        {
+            "text": "You worked super, DUPER hard, and made a <i>big</i> jump in such a \nshort time!",
+            "name": "Taiki Shuttle",
+            "path_id": -2423471968031964233,
+            "block_id": 7,
+            "clip_length": 253,
+            "processed": "<story>You worked super, DUPER hard, and made a <i>big</i> jump in such a \n<story>short time!"
+        },
+        {
+            "text": "You're fit as a fiddle for the fall season! \nI just know you're gonna win it all!",
+            "name": "Taiki Shuttle",
+            "path_id": 6561982756394633215,
+            "block_id": 8,
+            "clip_length": 281,
+            "processed": "<story>You're fit as a fiddle for the fall season! \n<story>I just know you're gonna win it all!"
+        },
+        {
+            "text": "――Take this to heart ―― and move forward. \nYou can―― do it.",
+            "name": "Symboli Kris S",
+            "path_id": 2382006091078691311,
+            "block_id": 9,
+            "clip_length": 228,
+            "processed": "<story>――Take this to heart ―― and move forward. \n<story>You can―― do it."
+        },
+        {
+            "text": "...Of course!! \nThank you. I won't let you down...!",
+            "name": "Zenno Rob Roy",
+            "path_id": 7085427045649508128,
+            "block_id": 10,
+            "clip_length": 259,
+            "processed": "<story>...Of course!! \n<story>Thank you. I won't let you down...!"
+        },
+        {
+            "text": "Last mission... \nNeo Universe will \"transfer\"...",
+            "name": "Neo Universe",
+            "path_id": -1633399623238767584,
+            "block_id": 11,
+            "clip_length": 227,
+            "processed": "<story>Last mission... \n<story>Neo Universe will \"transfer\"..."
+        },
+        {
+            "text": "Having a good time, Universe?",
+            "name": "Fuji Kiseki",
+            "path_id": -1206609029817905943,
+            "block_id": 12,
+            "clip_length": 86,
+            "processed": "<story>Having a good time, Universe?"
+        },
+        {
+            "text": "You've done a lot leading up to now. \nSo let me give you a reward.",
+            "name": "Fuji Kiseki",
+            "path_id": -8593766564818089353,
+            "block_id": 13,
+            "clip_length": 232,
+            "processed": "<story>You've done a lot leading up to now. \n<story>So let me give you a reward."
+        },
+        {
+            "text": "One... \nTwo... \nThree.",
+            "name": "Fuji Kiseki",
+            "path_id": -5545134221213696510,
+            "block_id": 14,
+            "clip_length": 103,
+            "processed": "<story>One... \n<story>Two... \n<story>Three."
+        },
+        {
+            "text": "...A 『shoe care tool』?",
+            "name": "Neo Universe",
+            "path_id": 2803656574432570281,
+            "block_id": 15,
+            "clip_length": 99,
+            "processed": "<story>...A 『shoe care tool』?"
+        },
+        {
+            "text": "You've gotten to learn a lot about it firsthand. \nThe joy of \"telling\" someone your feelings.",
+            "name": "Fuji Kiseki",
+            "path_id": -7132065887623698234,
+            "block_id": 16,
+            "clip_length": 274,
+            "processed": "<story>You've gotten to learn a lot about it firsthand. \n<story>The joy of \"telling\" someone your feelings."
+        },
+        {
+            "text": "――Always remember that joy.",
+            "name": "Fuji Kiseki",
+            "path_id": -8012623079405581859,
+            "block_id": 17,
+            "clip_length": 106,
+            "processed": "<story>――Always remember that joy."
+        },
+        {
+            "text": "You're a girl who can \"tell\" and \"connect\". \nThis is proof. \n...Take good care of it.",
+            "name": "Fuji Kiseki",
+            "path_id": 4705730924246136137,
+            "block_id": 18,
+            "clip_length": 362,
+            "processed": "<story>You're a girl who can \"tell\" and \"connect\". \n<story>This is proof. \n<story>...Take good care of it."
+        },
+        {
+            "text": "...Affirmative. Fuji Kiseki repaired the \"terminated\" connection. \nOur \"space sign\". So...――",
+            "name": "Neo Universe",
+            "path_id": -7065671827157133694,
+            "block_id": 19,
+            "clip_length": 487,
+            "processed": "<story>...Affirmative. Fuji Kiseki repaired the \"terminated\" connection. \n<story>Our \"space sign\". So...――"
+        },
+        {
+            "text": "\"Mutev.\"... \n『Thank you』, Fuji Kiseki.",
+            "name": "Neo Universe",
+            "path_id": 4844056995647303686,
+            "block_id": 20,
+            "clip_length": 227,
+            "processed": "<story>\"Mutev.\"... \n<story>『Thank you』, Fuji Kiseki."
+        },
+        {
+            "text": "――\"Downlink\", \"downlink\". \n\"GRSS\"... The [*sky*] will 『connect』 too――",
+            "name": "Neo Universe",
+            "path_id": -6970609256975057477,
+            "block_id": 21,
+            "clip_length": 374,
+            "processed": "<story>――\"Downlink\", \"downlink\". \n<story>\"GRSS\"... The [*sky*] will 『connect』 too――"
+        },
+        {
+            "text": "――Uni-san!",
+            "name": "Zenno Rob Roy",
+            "path_id": -1284505317865990994,
+            "block_id": 22,
+            "clip_length": 40,
+            "processed": "<story>――Uni-san!"
+        },
+        {
+            "text": "So this is where you were! \n...What are you doing?",
+            "name": "Zenno Rob Roy",
+            "path_id": 5112224144820635408,
+            "block_id": 23,
+            "clip_length": 142,
+            "processed": "<story>So this is where you were! \n<story>...What are you doing?"
+        },
+        {
+            "text": "『Watching』 the [*sky*]. \nThe same [*world*] as Zenno Rob Roy. And――",
+            "name": "Neo Universe",
+            "path_id": 8356521198141281537,
+            "block_id": 24,
+            "clip_length": 399,
+            "processed": "<story>『Watching』 the [*sky*]. \n<story>The same [*world*] as Zenno Rob Roy. And――"
+        },
+        {
+            "text": "Last mission. \nNeo Universe wanted to『give』this 『shoe care tool』.",
+            "name": "Neo Universe",
+            "path_id": 1254059778097176302,
+            "block_id": 25,
+            "clip_length": 370,
+            "processed": "<story>Last mission. \n<story>Neo Universe wanted to『give』this 『shoe care tool』."
+        },
+        {
+            "text": "Ah... For me...? \n――Thank you so much. I'll use it with care.",
+            "name": "Zenno Rob Roy",
+            "path_id": -5692443890899383815,
+            "block_id": 26,
+            "clip_length": 277,
+            "processed": "<story>Ah... For me...? \n<story>――Thank you so much. I'll use it with care."
+        },
+        {
+            "text": "Zenno Rob Roy. Look.",
+            "name": "Neo Universe",
+            "path_id": -2200177525842013497,
+            "block_id": 27,
+            "clip_length": 98,
+            "processed": "<story>Zenno Rob Roy. Look."
+        },
+        {
+            "text": "The sky... The moon is beautiful tonight. \nIt's as if it's completely full.",
+            "name": "Zenno Rob Roy",
+            "path_id": -3100719123710279775,
+            "block_id": 28,
+            "clip_length": 288,
+            "processed": "<story>The sky... The moon is beautiful tonight. \n<story>It's as if it's completely full."
+        },
+        {
+            "text": "Mmhm. This \"observation\" of the [*sky*]... is \"shared\". \nBecause Zenno Rob Roy \"tried\".",
+            "name": "Neo Universe",
+            "path_id": 8416589863960037188,
+            "block_id": 29,
+            "clip_length": 532,
+            "processed": "<story>Mmhm. This \"observation\" of the [*sky*]... is \"shared\". \n<story>Because Zenno Rob Roy \"tried\"."
+        },
+        {
+            "text": "Ah...",
+            "name": "Zenno Rob Roy",
+            "path_id": 1916754994060321775,
+            "block_id": 30,
+            "clip_length": 33,
+            "processed": "<story>Ah..."
+        },
+        {
+            "text": "(――The world I've never known. The world as Uni-san sees it. \nThe world I've always wanted to see. \nAm I, however slightly... sharing it with her?)",
+            "name": "Zenno Rob Roy",
+            "path_id": -1161605669577350797,
+            "block_id": 31,
+            "clip_length": 564,
+            "processed": "<story>(――The world I've never known. The world as Uni-san sees it. \n<story>The world I've always wanted to see. \n<story>Am I, however slightly... sharing it with her?)"
+        },
+        {
+            "text": "Uni-san... \nI've always wanted to see this sky.",
+            "name": "Zenno Rob Roy",
+            "path_id": 4512962331341177447,
+            "block_id": 32,
+            "clip_length": 209,
+            "processed": "<story>Uni-san... \n<story>I've always wanted to see this sky."
+        },
+        {
+            "text": "<i>Sphira.</i> \nWe overcame a \"distance\" of \"4.2 light years\", and『connected』.",
+            "name": "Neo Universe",
+            "path_id": 6497320626108288653,
+            "block_id": 33,
+            "clip_length": 422,
+            "processed": "<story><i>Sphira.</i> \n<story>We overcame a \"distance\" of \"4.2 light years\", and『connected』."
+        },
+        {
+            "text": "――Yes. I'm <i>sphira</i> too.",
+            "name": "Zenno Rob Roy",
+            "path_id": 110774983515643864,
+            "block_id": 34,
+            "clip_length": 164,
+            "processed": "<story>――Yes. I'm <i>sphira</i> too."
+        },
+        {
+            "text": "Boop boop. \nBoop beep boop boop. \nBeep boop beep beep.",
+            "name": "Neo Universe",
+            "path_id": -1247499776065697984,
+            "block_id": 35,
+            "clip_length": 416,
+            "processed": "<story>Boop boop. \n<story>Boop beep boop boop. \n<story>Beep boop beep beep."
+        },
+        {
+            "text": "『I』『L』『Y』 \n――\"Transmission\" complete.",
+            "name": "Neo Universe",
+            "path_id": -5845572514706422472,
+            "block_id": 36,
+            "clip_length": 290,
+            "processed": "<story>『I』『L』『Y』 \n<story>――\"Transmission\" complete."
+        }
+    ],
+    "title": "Because 『ILY』"
+}
