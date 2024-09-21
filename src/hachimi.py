@@ -12,6 +12,10 @@ from multiprocessing import Pool
 
 HACHIMI_ROOT = "tl-en\\localized_data\\"
 
+DIFF_SKIP = (
+    "gacha/"
+)
+
 def convert_tags(text: str) -> str:
     if "<p=" in text:
         return ""
@@ -198,8 +202,7 @@ def convert_mdb():
     convert_character_system_text()
     convert_race_jikkyo()
 
-
-def make_png_diff(new_path: str, out_path: str) -> bool:
+def make_png_diff(new_path: str, out_path: str, file_name: str) -> bool:
     source_path = new_path.replace(".png", ".org.png")
 
     
@@ -208,6 +211,12 @@ def make_png_diff(new_path: str, out_path: str) -> bool:
     
     if not os.path.exists(new_path):
         raise FileNotFoundError(f"New path {new_path} does not exist")
+    
+    if file_name.startswith(DIFF_SKIP):
+        if os.path.exists(out_path):
+            os.remove(out_path)
+        shutil.copy(new_path, out_path.replace(".diff.png", ".png"))
+        return True
     
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
@@ -343,7 +352,7 @@ def convert_texture_atlas(meta: dict):
         os.makedirs(out_folder, exist_ok=True)
 
 
-        replaced = make_png_diff(png_path, out_file)
+        replaced = make_png_diff(png_path, out_file, meta['file_name'])
         if not replaced:
             return
         # shutil.copy(png_path, out_file)
@@ -409,7 +418,7 @@ def convert_texture_flash(meta: dict):
         out_folder = os.path.dirname(out_path)
         os.makedirs(out_folder, exist_ok=True)
 
-        make_png_diff(texture_path, out_path)
+        make_png_diff(texture_path, out_path, meta['file_name'])
         # shutil.copy(texture_path, out_path)
 
 
@@ -431,7 +440,7 @@ def convert_texture_texture2d(meta: dict):
         out_folder = os.path.dirname(out_file)
         os.makedirs(out_folder, exist_ok=True)
 
-        make_png_diff(png_path, out_file)
+        make_png_diff(png_path, out_file, meta['file_name'])
         # shutil.copy(png_path, out_file)
 
 def _convert_texture(meta):
@@ -539,10 +548,10 @@ def convert():
 
 
 def main():
-    # convert()
+    convert()
     # convert_assembly()
     # convert_mdb()
-    convert_assets()
+    # convert_assets()
     # copy_data()
 
 if __name__ == "__main__":
