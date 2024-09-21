@@ -14,6 +14,7 @@ HACHIMI_ROOT = "tl-en\\localized_data\\"
 
 DIFF_SKIP = (
     "gacha/"
+    "atlas/raceorder/"
 )
 
 def convert_tags(text: str) -> str:
