@@ -442,6 +442,10 @@
         "text": "Director Akikawa",
         "hash": "4a0c82c519bbbaf1e91c9d5e965a8640643b4ad1cf107eebabc5262cb9af6adb"
     },
+    "10110": {
+        "text": "Espoir City",
+        "hash": "c9374483e4d7a4cb6bd25e1eda6032665890458ed845eb63cc3b940ca53b3166"
+    },
     "10113": {
         "text": "Gentildonna",
         "hash": "1f04beeeda776e367ce2e2f232b2d687ae536efa5cfd2ee4650aa062750cb32d"
@@ -449,6 +453,10 @@
     "10114": {
         "text": "Rhein Kraft",
         "hash": "893557d7a83a2dc7918b7338d6ff1b0b8a2f65550ed11ab34b2dfd58ed39cc42"
+    },
+    "10115": {
+        "text": "Cesario",
+        "hash": "c625297b8b915b8250e68b67b2249676a3a7c4ef8e13c5c61e5e1cae279952ff"
     },
     "10117": {
         "text": "No Reason",
@@ -1645,6 +1653,10 @@
         "text": "Buena Vista",
         "hash": "b3dc7ce61693c1d287bc97b7ed63f314e61ef63dfdfc393500f9d27765fe61d7"
     },
+    "30217": {
+        "text": "Cesario",
+        "hash": "c625297b8b915b8250e68b67b2249676a3a7c4ef8e13c5c61e5e1cae279952ff"
+    },
     "30218": {
         "text": "Taiki Shuttle",
         "hash": "6590bde7fef1440f56fd05975dafa2a3fdfc6face5992d87fc6b7605ac54e0f8"
@@ -1660,5 +1672,9 @@
     "30221": {
         "text": "Satono Diamond",
         "hash": "df44392967c14862f9405a0e19c82198fb8acc47d806641176b5be6ee689e122"
+    },
+    "30222": {
+        "text": "Espoir City",
+        "hash": "c9374483e4d7a4cb6bd25e1eda6032665890458ed845eb63cc3b940ca53b3166"
     }
 }
