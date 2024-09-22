@@ -2729,10 +2729,20 @@
         "hash": "3b5a79ec62cc113fd80e796bf5494f8feeb40677dddccd13a695e8c7476846aa",
         "processed": "<rbr>Slightly recover stamina if many<br>skills activate during the Final Leg."
     },
+    "201631": {
+        "text": "Your Speed stat is increased by 40 if there are at least 4 other girls with the Sympathy skill in the race.",
+        "hash": "636e4d2562d73127c75546d41ad949f50b7178d0424cf6eaa45c04db8371efe6",
+        "processed": "<rbr>Your Speed stat is increased by 40<br>if there are at least 4 other girls<br>with the Sympathy skill in the<br>race."
+    },
     "201632": {
         "text": "Turf・If there's at least one girl with the Sympathy skill in the race, your Speed stat is increased by 60, and the Sympathy skills of everyone in the race activate.",
         "hash": "7383a8882912fa7b4c2e6929eaf36686201d823be3df97c988511720e606a2ff",
         "processed": "<rbr><sc=84>Turf・If there's at least one girl with the<br>Sympathy skill in the race, your Speed<br>stat is increased by 60, and the Sympa-<br>thy skills of everyone in the race activate."
+    },
+    "201641": {
+        "text": "Your Speed stat is increased by 40 if there are no other girls with the Lone Wolf skill in the race.",
+        "hash": "d8a2388d6fd89d5b866c865dbb2294bdb59f1fb36caf54cb4ed7cf5763e637ef",
+        "processed": "<rbr>Your Speed stat is increased by 40<br>if there are no other girls with the<br>Lone Wolf skill in the race."
     },
     "201651": {
         "text": "If another girl has been right in front of you for at least three seconds, your speed will slightly increase.",
@@ -6244,11 +6254,6 @@
         "hash": "5c678bb54c6cc5b724ec1db36100bcdc8232f85816e5ef98d8fa2a22056c7c25",
         "processed": "<rbr>Leader・At a random point during<br>the Middle Leg, if you're in the<br>first half of the pack, your stamina<br>will greatly recover."
     },
-    "104701121": {
-        "text": "Leader・If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase and your stamina will slightly recover.",
-        "hash": "f4ba31dcfd86ce7e7b2cf9b1fe5eeb1435ddd93a66e196cf14d0c72774c89ecd",
-        "processed": "<rbr><sc=92>Leader・If you're in the first half of<br>the pack at a random point during the<br>Middle Leg, your speed will increase<br>and your stamina will slightly recover."
-    },
     "104701211": {
         "text": "Medium/Long・At a random point on any corner, your speed will greatly increase.",
         "hash": "23acaa4d31ef32038a2b917a2bfa7f5f093108864f76eb8d044dcb05c0280bdc",
@@ -6373,11 +6378,6 @@
         "text": "Mile・If you're in the second half of the pack during the Final Corner, your speed and acceleration will increase.",
         "hash": "3faecdeb3147a4ad2c9d059993f034946690bdc2e9c91911c8a953126e9b65e8",
         "processed": "<rbr>Mile・If you're in the second half<br>of the pack during the Final<br>Corner, your speed and<br>acceleration will increase."
-    },
-    "105302111": {
-        "text": "Betweener・During the first half of the Final Leg, if you're not in the front, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase.",
-        "hash": "e12e055fad083b5a9a4970d38477d3105b15d4b13f7df7a195a2722ae9385ee8",
-        "processed": "<rbr><sc=80>Betweener・During the first half of the<br>Final Leg, if you're not in the front, your<br>acceleration will increase; then, when<br>there's 200 m remaining in the race, your<br>speed will slightly increase."
     },
     "105302211": {
         "text": "Short・At a random point during the Final Leg, your acceleration will increase; then, when there's 200 m remaining in the race, your speed will slightly increase.",
