@@ -499,7 +499,10 @@ def convert_stories(story_data: list):
             
             out_block_list.append(block_dict)
         
-        out_dict = {"text_block_list": out_block_list}
+        out_dict = {
+            "no_wrap": True,
+            "text_block_list": out_block_list
+        }
         util.save_json(out_path, out_dict)
 
 
@@ -544,8 +547,8 @@ def convert():
     convert_mdb()
     convert_assets()
 
-    copy_data()
-    print("Done")
+    # copy_data()
+    # print("Done")
 
 
 def main():
