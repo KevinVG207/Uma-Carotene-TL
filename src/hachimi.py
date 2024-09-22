@@ -13,7 +13,7 @@ from multiprocessing import Pool
 HACHIMI_ROOT = "tl-en\\localized_data\\"
 
 DIFF_SKIP = (
-    "gacha/"
+    "gacha/",
     "atlas/raceorder/"
 )
 
