@@ -10629,6 +10629,11 @@
         "hash": "d471e1bba034284a8a3398ef10abf00691b194d6f2aa82a0d0e66e6e5570d39b",
         "processed": "<rbr>Watch up to episode 1 of<br>main story act 2, chapter 21."
     },
+    "330422": {
+        "text": "Watch up to episode 1 of main story act 2, chapter 22.",
+        "hash": "c95ea8c6ebd50856bff51dd2b128399e299095c6bbfe5f9659b4a243ee595857",
+        "processed": "<rbr>Watch up to episode 1 of<br>main story act 2, chapter 22."
+    },
     "330500": {
         "text": "Customize your home screen.",
         "hash": "a226886d00d0524859b4a6860802e31b720ea53c8fe9d4a51bf9f2806d058f13",
@@ -11383,6 +11388,26 @@
         "text": "Raise the total fan count of 400 characters to 1000000 fans.",
         "hash": "52611a68d62da40718ed05c6b0adc394f3636e3cc5de45973fdf907952e63651",
         "processed": "<rbr><sc=93>Raise the total fan count of 400<br>characters to 1000000 fans."
+    },
+    "331700": {
+        "text": "Complete a National Tour once.",
+        "hash": "ca8ba8a26f087b181eda5c5ec6f4d246d99c1b9f4b6870f41d04c3c6271f106f",
+        "processed": "<rbr>Complete a National Tour<br>once."
+    },
+    "331701": {
+        "text": "Complete a National Tour 10 times.",
+        "hash": "aff0ef41379108a4e4761fc8476acbfce0293b49de80c9342c432d115a0509f6",
+        "processed": "<rbr>Complete a National Tour 10<br>times."
+    },
+    "331702": {
+        "text": "Complete a National Tour 30 times.",
+        "hash": "640708123779302d28e571aa216defeee338fc1935c2723bf9273a7344f5d1cb",
+        "processed": "<rbr>Complete a National Tour 30<br>times."
+    },
+    "331703": {
+        "text": "Complete a National Tour 50 times.",
+        "hash": "2fce1dd03ed4b0d5fdff9eb6c49c72c44ff89e3648d201f81bf78d934541f8df",
+        "processed": "<rbr>Complete a National Tour 50<br>times."
     },
     "333000": {
         "text": "Collect a total of 10 different support cards.",
@@ -12779,6 +12804,21 @@
         "hash": "0d5faf1186be8c518f29d3cc96659ed089a963483ffb1cdae5e8432dcce80a69",
         "processed": "<rbr>Raise the affection rank of<br>Calstone Light O to rank 1."
     },
+    "340100": {
+        "text": "Raise the affection rank of Gentildonna to rank 1.",
+        "hash": "4324f6017f9af727c18e3b3d67ddb351a90f6e2d2e61fd837df525aee84772f8",
+        "processed": "<rbr>Raise the affection rank of<br>Gentildonna to rank 1."
+    },
+    "340101": {
+        "text": "Raise the affection rank of Cesario to rank 1.",
+        "hash": "66bd86a2cd3bc694bca63cc13dc4ce6c5d59f1394822e8765f7b5c53c783287f",
+        "processed": "<rbr>Raise the affection rank of<br>Cesario to rank 1."
+    },
+    "340102": {
+        "text": "Raise the affection rank of Durandal to rank 1.",
+        "hash": "16b0be477cf4475ebb3920f62fcc59fb13aa0c64d2d5e29f797f7c307dcdff10",
+        "processed": "<rbr>Raise the affection rank of<br>Durandal to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -13114,15 +13154,45 @@
         "hash": "792258f600eb277f5ba9a8ed162eb94028526479e4fa42f9763efcf308520794",
         "processed": "<rbr>Raise the affection rank of<br>Nakayama Festa to rank 11."
     },
+    "341067": {
+        "text": "Raise the affection rank of Wonder Acute to rank 11.",
+        "hash": "b369d4b14c0aac93c9772153c44587d09891f3bbf18f3e1192345331e3769d7d",
+        "processed": "<rbr>Raise the affection rank of<br>Wonder Acute to rank 11."
+    },
+    "341068": {
+        "text": "Raise the affection rank of Zenno Rob Roy to rank 11.",
+        "hash": "6c3ce961a825a449b4a19537a42a60bef04afa8df5f448bebe4cdb5f369a63f6",
+        "processed": "<rbr>Raise the affection rank of<br>Zenno Rob Roy to rank 11."
+    },
+    "341069": {
+        "text": "Raise the affection rank of Hokko Tarumae to rank 11.",
+        "hash": "8cb554f60128f7c666d64850622836e3931d4c223864b4a71aa0dffbe8486edb",
+        "processed": "<rbr>Raise the affection rank of<br>Hokko Tarumae to rank 11."
+    },
     "341070": {
         "text": "Raise the affection rank of Daitaku Helios to rank 11.",
         "hash": "3c42235397753b58568396616018a3b49fd1c45474c5c47c3bc1f053ffabcf29",
         "processed": "<rbr>Raise the affection rank of<br>Daitaku Helios to rank 11."
     },
+    "341071": {
+        "text": "Raise the affection rank of Shinko Windy to rank 11.",
+        "hash": "ad21eb2dc614e9a950569934e3ca84bdb98dec7a8b6d2b13395330decddf520d",
+        "processed": "<rbr>Raise the affection rank of<br>Shinko Windy to rank 11."
+    },
     "341073": {
         "text": "Raise the affection rank of Twin Turbo to rank 11.",
         "hash": "c585bc6faf8b06260b5e3867dd5faf52f0b5d3a6a99848c91cd33f03b3acd872",
         "processed": "<rbr>Raise the affection rank of<br>Twin Turbo to rank 11."
+    },
+    "341074": {
+        "text": "Raise the affection rank of Daiichi Ruby to rank 11.",
+        "hash": "91051c10363cd8326d70f7457cf1da80ee5fec5788b28604ee56283488fa227a",
+        "processed": "<rbr>Raise the affection rank of<br>Daiichi Ruby to rank 11."
+    },
+    "341075": {
+        "text": "Raise the affection rank of Symboli Kris S to rank 11.",
+        "hash": "5138cbd65e4d7124bab6f2166cb51dced8d4514c4ef44eb948fcf0794049b9df",
+        "processed": "<rbr>Raise the affection rank of<br>Symboli Kris S to rank 11."
     },
     "341081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 11.",
@@ -13464,15 +13534,45 @@
         "hash": "80131b81f5a3719f2ebd1d27342a31f259d5c8a5773218e2894a01a8be917a18",
         "processed": "<rbr>Raise the affection rank of<br>Nakayama Festa to rank 12."
     },
+    "342067": {
+        "text": "Raise the affection rank of Wonder Acute to rank 12.",
+        "hash": "21a473791f14b0ffe3182e0adabf74497f0e6bd46ab9f400ae89055c818023b1",
+        "processed": "<rbr>Raise the affection rank of<br>Wonder Acute to rank 12."
+    },
+    "342068": {
+        "text": "Raise the affection rank of Zenno Rob Roy to rank 12.",
+        "hash": "237ef052c346f5ef621af8d9e213e5846feacd395ffdb973db0b236497fb533e",
+        "processed": "<rbr>Raise the affection rank of<br>Zenno Rob Roy to rank 12."
+    },
+    "342069": {
+        "text": "Raise the affection rank of Hokko Tarumae to rank 12.",
+        "hash": "d51c08af0e731ffd93bfd0e5b23da5241cb08caeb80c87eccb04eb641011c491",
+        "processed": "<rbr>Raise the affection rank of<br>Hokko Tarumae to rank 12."
+    },
     "342070": {
         "text": "Raise the affection rank of Daitaku Helios to rank 12.",
         "hash": "efeae450d756d0a43f44ed9f125b821beca30875ec713d96b0880f65fe74b0c3",
         "processed": "<rbr>Raise the affection rank of<br>Daitaku Helios to rank 12."
     },
+    "342071": {
+        "text": "Raise the affection rank of Shinko Windy to rank 12.",
+        "hash": "87e1cf7e2f1af700a80504b6eb6eaf95c2dc48a10ba52b3835fc72f5f2725482",
+        "processed": "<rbr>Raise the affection rank of<br>Shinko Windy to rank 12."
+    },
     "342073": {
         "text": "Raise the affection rank of Twin Turbo to rank 12.",
         "hash": "18506bebffc8322ac894174c67f9ac64f239dd457084b07e824e0e94b2b17ff2",
         "processed": "<rbr>Raise the affection rank of<br>Twin Turbo to rank 12."
+    },
+    "342074": {
+        "text": "Raise the affection rank of Daiichi Ruby to rank 12.",
+        "hash": "4cf2f0193b11939df76340f2681e24cd7b7812afef8a74387851b1faea0b0b33",
+        "processed": "<rbr>Raise the affection rank of<br>Daiichi Ruby to rank 12."
+    },
+    "342075": {
+        "text": "Raise the affection rank of Symboli Kris S to rank 12.",
+        "hash": "53b4b158cacf10dd42ca52af4ab89b3c7cf5f13c2f9ca52f5a53f7707693dd5e",
+        "processed": "<rbr>Raise the affection rank of<br>Symboli Kris S to rank 12."
     },
     "342081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 12.",
@@ -14344,6 +14444,11 @@
         "hash": "dd92baa4ded85f913778918d95149c2a7163f00d2380db6101f2a202d42f9c0d",
         "processed": "<rbr>Win a total of 300 stuffed<br>toys in the Crane Game."
     },
+    "601306": {
+        "text": "全国興行を100回完了しよう.",
+        "hash": "2452ffe8da36eeb952c3a5bb0b30c2ed844bec30b770272dc3f72be29835118c",
+        "processed": "<rbr>全国興行を100回完了しよう."
+    },
     "601400": {
         "text": "Watch a total of 100 story episodes.",
         "hash": "f84874573e01cfe89d828d1b03ec7c4f5d97949fa4ea770d8de986f5d20bc713",
@@ -14394,6 +14499,11 @@
         "hash": "726104334f936c2fcc5434ce1c59f0cbea67f0b4b7b02ed92a90065cee22882c",
         "processed": "<rbr>Watch episode 13 of main<br>story act 2, chapter 1."
     },
+    "601410": {
+        "text": "メインストーリー第2部中編第13話を見よう.",
+        "hash": "771f511d1866ccf8891e2f2daab21944c9d57cd63bb0cefbef46b4e669f03228",
+        "processed": "<rbr><br>メインストーリー第2部中編第13話を見よう."
+    },
     "601451": {
         "text": "Win the episode 1R race of main story act 1, chapter 2.",
         "hash": "41a8de19a9f716be37353236f16dad22e6274c4162832f9a389292c8a64f1f35",
@@ -14428,6 +14538,11 @@
         "text": "Win the episode 4R race of main story act 2, chapter 1.",
         "hash": "2a158cb77800f2646af0f9bd2c33f77f1a64b9d8948b022230ad4619276e3597",
         "processed": "<rbr>Win the episode 4R race of<br>main story act 2, chapter 1."
+    },
+    "601458": {
+        "text": "メインストーリー第2部中編第4Rでレースに勝利しよう.",
+        "hash": "44bbee794dd33ff3224fac5e56a2be41b7e670e97edc63a80a54e47322ac0511",
+        "processed": "<rbr><br>メインストーリー第2部中編第4Rでレースに勝利しよう."
     },
     "601499": {
         "text": "Win onsen tickets in the lottery, and then complete training.",
@@ -16963,6 +17078,56 @@
         "text": "Win all G1, G2, and G3 trophies with Gentildonna.",
         "hash": "7824efbe32d337d32aacbf251a3f5a7939222eb78ba9c5cb434469abd844dad7",
         "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Gentildonna."
+    },
+    "611601": {
+        "text": "Watch episode 4 of Cesario's story.",
+        "hash": "ccb17293b3514a4c97101b374d00b2474f530bc35fe30e017ae28c9f08edf688",
+        "processed": "<rbr>Watch episode 4 of Cesario's<br>story."
+    },
+    "611602": {
+        "text": "Reach 10 million total fans for Cesario.",
+        "hash": "435cfdffeb3496907296d91b7e4faa805c805b359e52e7c29c7c8d7a02569ba7",
+        "processed": "<rbr>Reach 10 million total fans<br>for Cesario."
+    },
+    "611603": {
+        "text": "Reach 50 million total fans for Cesario.",
+        "hash": "c1304b79de00b95af502e1bea69c304cdbff5b4df1c58bb4b2f6cfccfcfb6907",
+        "processed": "<rbr>Reach 50 million total fans<br>for Cesario."
+    },
+    "611604": {
+        "text": "Reach 100 million total fans for Cesario.",
+        "hash": "929aa2536330823ccfe48a5ce71351f5b45eaa26e554bc481a445678056c8b6f",
+        "processed": "<rbr>Reach 100 million total fans<br>for Cesario."
+    },
+    "611605": {
+        "text": "Win all G1, G2, and G3 trophies with Cesario.",
+        "hash": "0a1934596467870b4608f8864391839449547d07ce478a204da21542b7333d83",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Cesario."
+    },
+    "611701": {
+        "text": "Watch episode 4 of Durandal's story.",
+        "hash": "d47d547f0c8c06b56ea687b361af72a9a31253b538e190e4efca4cd3e2a33eb1",
+        "processed": "<rbr>Watch episode 4 of<br>Durandal's story."
+    },
+    "611702": {
+        "text": "Reach 10 million total fans for Durandal.",
+        "hash": "7814815063c755a2a5a2e19b49f218e285bf3ec13fff9c76bb35fd53e9f262d2",
+        "processed": "<rbr>Reach 10 million total fans<br>for Durandal."
+    },
+    "611703": {
+        "text": "Reach 50 million total fans for Durandal.",
+        "hash": "ea4019512cb07922c3bce13fc5468cca05b533239edf0cd8ccecb7f251d368f0",
+        "processed": "<rbr>Reach 50 million total fans<br>for Durandal."
+    },
+    "611704": {
+        "text": "Reach 100 million total fans for Durandal.",
+        "hash": "46af8e43e1cc64844632b16ad9ce9648b96c1fd0cb32f6ce54e68af148479f2c",
+        "processed": "<rbr>Reach 100 million total fans<br>for Durandal."
+    },
+    "611705": {
+        "text": "Win all G1, G2, and G3 trophies with Durandal.",
+        "hash": "6e15ab7c15193d44dc93540bccb698e3b60491bcf7901d2151f4415164a29d9a",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Durandal."
     },
     "900002": {
         "text": "Watch Sakura Bakushin O's worry counseling from the home menu once.",
@@ -23034,10 +23199,190 @@
         "hash": "6cf06cbc770224ecaf38306b5f0b6f8384581748bef941c908801577426fed71",
         "processed": "<rbr>Complete a training run 5<br>times."
     },
+    "1002059": {
+        "text": "Complete a training run with a horsegirl for whom you've unlocked Awakening level 3 or higher once.",
+        "hash": "3ba5029a05baaeb17bba8719c19d494ce566a5205370213355e7956d862b166a",
+        "processed": "<rbr><sc=66>Complete a training run with a horsegirl for<br>whom you've unlocked Awakening level 3 or<br>higher once."
+    },
+    "1002060": {
+        "text": "Finish a training run with a character whose skill hints you have raised through hint books once.",
+        "hash": "93c13576e2098b67656029abf7763ff655e25e6f07c934a4461d62c7f18c0b8e",
+        "processed": "<rbr><sc=66>Finish a training run with a character whose<br>skill hints you have raised through hint<br>books once."
+    },
     "1002061": {
         "text": "Complete a training run having learned at least 12 skills once.",
         "hash": "c48514085988f1f98326505b47fcb8524da3362a69fd12f9ff49b1a30ec19cb7",
         "processed": "<rbr><sc=96>Complete a training run having<br>learned at least 12 skills once."
+    },
+    "1002062": {
+        "text": "Complete a training run with rank UG or higher once.",
+        "hash": "0efa408e4b8fb75bcb8afba17819bb494953d43207671a354640d15b37696093",
+        "processed": "<rbr>Complete a training run with<br>rank UG or higher once."
+    },
+    "1002063": {
+        "text": "Complete a training run with rank UG1 or higher once.",
+        "hash": "11620b7ccbd459d08a377e7fcf26954661149732be27de35a952303c5fec7fce",
+        "processed": "<rbr>Complete a training run with<br>rank UG1 or higher once."
+    },
+    "1002064": {
+        "text": "Complete a training run having learned at least 1 scenario skill once.",
+        "hash": "f9e3fd08aa26883ab483442286423e73b93e07bb51293bb800a210f64e59a96c",
+        "processed": "<rbr><sc=79>Complete a training run having<br>learned at least 1 scenario skill once."
+    },
+    "1002065": {
+        "text": "Finish a run having raised Speed to a value of 1200 or higher.",
+        "hash": "1eda328771962e4da4cc155a576973c4cf66fe0e39174b171473bb39824880ef",
+        "processed": "<rbr><sc=90>Finish a run having raised Speed<br>to a value of 1200 or higher."
+    },
+    "1002066": {
+        "text": "Get the Triple Tiara nickname once in training.",
+        "hash": "03b0b63a192fd0fab2a4edce27d31329e6484ace2daf7a9cdc4c3820f2b93e05",
+        "processed": "<rbr>Get the Triple Tiara nickname<br>once in training."
+    },
+    "1002067": {
+        "text": "Clear all event missions.",
+        "hash": "1b0c000c627ced498212bddfd1fb67d7821e2b41caabd344db2942cbad606a86",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002068": {
+        "text": "Complete a training run with rank UG5 or higher once.",
+        "hash": "85352a564d952e5bcea463e0517cec7887dc91d695b376a17e1e3ec8a7ba6a69",
+        "processed": "<rbr>Complete a training run with<br>rank UG5 or higher once."
+    },
+    "1002069": {
+        "text": "Complete a training run having raised a horsegirl's unique skill level to 4 or higher once.",
+        "hash": "c863efd4ea5406eaf4489c2828748e3d2d41afce2b8fdcfd78f55d61c4faf794",
+        "processed": "<rbr><sc=66>Complete a training run having raised a<br>horsegirl's unique skill level to 4 or higher<br>once."
+    },
+    "1002070": {
+        "text": "Complete a training run having learned at least 15 skills once.",
+        "hash": "5c40f5c709d11c3a8f252ba7bb8e7cf2218d53ff677082296136a6356536695d",
+        "processed": "<rbr><sc=96>Complete a training run having<br>learned at least 15 skills once."
+    },
+    "1002071": {
+        "text": "Complete a training run having learned at least 5 rare skills once.",
+        "hash": "5221d5fe2986b4d31503e96b4becb7587dddbc1c7337078115b10801cc10c08a",
+        "processed": "<rbr><sc=87>Complete a training run having<br>learned at least 5 rare skills once."
+    },
+    "1002072": {
+        "text": "Complete a National Tour once.",
+        "hash": "baf7fa93cfaafc2b6ff9e691efc2d4a0d18832dc482d85636b7c0b01fabeaff1",
+        "processed": "<rbr>Complete a National Tour<br>once."
+    },
+    "1002073": {
+        "text": "Complete a National Tour 2 times.",
+        "hash": "9345b970c0e23af7fbc9e192953a3483291e5ff71f31441a46473628c29b8c70",
+        "processed": "<rbr>Complete a National Tour 2<br>times."
+    },
+    "1002074": {
+        "text": "Complete a National Tour 4 times.",
+        "hash": "83e4392a200d40c5d22e25e5be50ace8a2720a1af21090f1e22bfedd99bc24c8",
+        "processed": "<rbr>Complete a National Tour 4<br>times."
+    },
+    "1002075": {
+        "text": "Complete a National Tour 7 times.",
+        "hash": "037937bb10de17d5beddfbd27e2337b8d2470937d7ae1fd758f8202f4474897d",
+        "processed": "<rbr>Complete a National Tour 7<br>times."
+    },
+    "1002076": {
+        "text": "Complete a National Tour 10 times.",
+        "hash": "bdfa7f68e2e7d6d90b55a38862b9e487c3530c5b74fed45c2c596108008b49d1",
+        "processed": "<rbr>Complete a National Tour 10<br>times."
+    },
+    "1002077": {
+        "text": "Participate in a daily legend race once.",
+        "hash": "071b430b66ba6453075407285e6cad965fa329f13ec7330fbb16b40eef1b4b90",
+        "processed": "<rbr>Participate in a daily legend<br>race once."
+    },
+    "1002078": {
+        "text": "Participate in a daily legend race 2 times.",
+        "hash": "6bfa8d510e3313bba9f3e02860fcb06abcbd8824adf1b514dbd40af7cbda28d1",
+        "processed": "<rbr>Participate in a daily legend<br>race 2 times."
+    },
+    "1002079": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "66bf06b9c130effffb26af9570847c7cf07915c05d8c31d9e455616e3a1090b6",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002080": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "de2f4278b1f01c7195f0ee71d2ffd9518b99b3fc8a2d1ea96013c55073c7043a",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002081": {
+        "text": "Win the Keeneland Cup once during training.",
+        "hash": "f1b8ff042044d13a340cbda3508c57510ecaf8f90fe73410e87c8d9bf9d3f805",
+        "processed": "<rbr>Win the Keeneland Cup once<br>during training."
+    },
+    "1002082": {
+        "text": "Win the Centaur Stakes once during training.",
+        "hash": "455b9f7c20c366b25f999af991ee4f0bc751a0774373775e9dd2921157d7202c",
+        "processed": "<rbr>Win the Centaur Stakes once<br>during training."
+    },
+    "1002083": {
+        "text": "Win the Sprinters Stakes once during training.",
+        "hash": "fd3f49f83f5bce2f2a77490fb5381fe6547c2bc03719de41d26606702d3e63e3",
+        "processed": "<rbr>Win the Sprinters Stakes<br>once during training."
+    },
+    "1002084": {
+        "text": "Clear all event missions.",
+        "hash": "9a5732e0e08be7ce0c4ca22b634e44406918e6ce101eb38d4adb1920d0f335e4",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002085": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "fbc142840bfe6db986e3baceae7bc996253e7c51b363c848577353bd7ad07777",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002086": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "2b22bdb0bde135b225235e0c3acff1a06f00c41b52e4c20d4a20cb9977fb0d1a",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002087": {
+        "text": "Win the Kanto Oaks once during training.",
+        "hash": "2ef5b568aa67e2ab356caff78935f2614623f1e7395f084fcae6ef84767773b9",
+        "processed": "<rbr>Win the Kanto Oaks once<br>during training."
+    },
+    "1002088": {
+        "text": "Win the Unicorn Stakes once during training.",
+        "hash": "02a8e6f13bc6b7a82ab22df02007f9af51836ea4ad396b4d3d9c30c8a4b5bb1b",
+        "processed": "<rbr>Win the Unicorn Stakes once<br>during training."
+    },
+    "1002089": {
+        "text": "Win the Japan Dirt Derby once during training.",
+        "hash": "82b9c75ca61816ae61cd411d1e989fb2ae61cd91be54ca0fe6d7087d8b8e61c8",
+        "processed": "<rbr>Win the Japan Dirt Derby<br>once during training."
+    },
+    "1002091": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "23c694aea2ac1ad1f4b485b35b81b94edba5ae6e0ad2e872aee207c18466dd48",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002092": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "edac3320f51ba8639096384e64bc272851c07561cc832770b3f34990acc69792",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002093": {
+        "text": "Get at least 3rd in the Shion Stakes once during training.",
+        "hash": "ca9ab5bbbab9983b659aaacfb4787ce6e894f5d72cc095cb30630015568a513b",
+        "processed": "<rbr>Get at least 3rd in the Shion<br>Stakes once during training."
+    },
+    "1002094": {
+        "text": "Get at least 3rd in the Rose Stakes once during training.",
+        "hash": "98edfba176f67b58837360658be4c993d65d66e02e413619194071e6e0509a4a",
+        "processed": "<rbr>Get at least 3rd in the Rose<br>Stakes once during training."
+    },
+    "1002095": {
+        "text": "Win the Shuuka Sho once during training.",
+        "hash": "2cd52aabd33e302d22df11132875b053fb2ed20e187c9d12b16596d4f4a4c91d",
+        "processed": "<rbr>Win the Shuuka Sho once<br>during training."
+    },
+    "1002096": {
+        "text": "Clear all event missions.",
+        "hash": "9e257f1f520dcce2da1837a40dd9e44529ec50e5de250383177ba8d65acdd19f",
+        "processed": "<rbr>Clear all event missions."
     },
     "2600001": {
         "text": "Do 2 training runs ('Chase Your Dreams!' story event).",

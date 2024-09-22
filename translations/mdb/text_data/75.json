@@ -224,7 +224,7 @@
         "hash": "1d70137d1771364dad96bee96423bc099f26ec3b620358f3de980d1934d07849"
     },
     "10057": {
-        "text": "[Tracen Academy] Matikane Tannhäuser",
+        "text": "[Tracen Academy] Matikanetannhauser",
         "hash": "e6a4fa5415cbe85e20710874c879844f020fb521e9097cbb9d90181f2aa9248b"
     },
     "10058": {
@@ -435,6 +435,10 @@
         "text": "[Tracen Academy] Director Akikawa",
         "hash": "1907d875af2d18138f88ba4f15f89078cf6309af4e3be49e4df831d57df31e81"
     },
+    "10110": {
+        "text": "[Tracen Academy] Espoir City",
+        "hash": "23dc87e8d5713d004ca0bc69619c4c4b2d38e9516b19b06b9c3da6de2c395cf6"
+    },
     "10113": {
         "text": "[Tracen Academy] Gentildonna",
         "hash": "9d1e1f5d5fa583120492713599601e3c3f8b31d1c724bc5472b80d63b1614c43"
@@ -442,6 +446,10 @@
     "10114": {
         "text": "[Tracen Academy] Rhein Kraft",
         "hash": "d21372aafb37b2761c8032718e54da21e91da7ae75e15b983f9128ade354795b"
+    },
+    "10115": {
+        "text": "[Tracen Academy] Cesario",
+        "hash": "593b2fd688c8dc1ffc9b72a82dce374d3b04513afb8a8b867c222040a847fbdd"
     },
     "10117": {
         "text": "[Tracen Academy] No Reason",
@@ -724,7 +732,7 @@
         "hash": "4b87548d81a3594d26692cc248a4fb5f402b8158741f7134a113f1e908956586"
     },
     "20069": {
-        "text": "[Fleeing From Evil?!] Matikane Tannhäuser",
+        "text": "[Fleeing From Evil?!] Matikanetannhauser",
         "hash": "0bd3012a5356187697122dc6a6ab2617f18219d553f6ad2854c808bdc37b65fd"
     },
     "20070": {
@@ -766,6 +774,10 @@
     "20079": {
         "text": "[Good Marvelous to Everyone☆] Marvelous Sunday",
         "hash": "d2abdb2f9b6c35906f3046809f46c3bbe7e65bfc85823fdbc2e2a90898dec832"
+    },
+    "20080": {
+        "text": "[Hanagoromo for You] Sakura Laurel",
+        "hash": "97d8af13de177014ac432abb72aa25387d746c978f870215ea28983dcb6a23cb"
     },
     "30001": {
         "text": "[Japan's Number 1 Stage] Special Week",
@@ -884,7 +896,7 @@
         "hash": "c326fefa6229fc56ab37ff1077bef4ee0b07b02f52f977e47ecc97ac6d4ecdc4"
     },
     "30030": {
-        "text": "[Just keep going.] Matikane Tannhäuser",
+        "text": "[Just keep going.] Matikanetannhauser",
         "hash": "c83eed6af41cb9620bdda8e1e5571a4db30dcfaf8b3033f4e992c81454c5db34"
     },
     "30031": {
@@ -1160,7 +1172,7 @@
         "hash": "ddfb25472c3c9233108e2ad0c4f0ea42e23f9cb525407c8f6f1aa9bdb772ba81"
     },
     "30103": {
-        "text": "[Matikane​☆​Adventure] Matikane Tannhäuser",
+        "text": "[Matikane​☆​Adventure] Matikanetannhauser",
         "hash": "3291322367c04e30c7976a4de115ce05dad9b6cf1583dc2e7dd8eff6a6a00ac2"
     },
     "30104": {
@@ -1611,8 +1623,28 @@
         "text": "[With Love to Our School] Buena Vista",
         "hash": "241ac32c5f271964eec08005e975f4dd1d6e31cd2d1bdf36ceb1f2ad68ac2970"
     },
+    "30217": {
+        "text": "[Mother Sea of Love] Cesario",
+        "hash": "e42de9ef6d2261852bc85028358f9ab22559719450e5c8936288241b407d8d70"
+    },
+    "30218": {
+        "text": "[Sunshine Under the Moon] Taiki Shuttle",
+        "hash": "6510164b022b7a6a7ecd5701f43d0589265b9febc5c33854a10462e51afaa40b"
+    },
+    "30219": {
+        "text": "[Something troubling you, Pony-chan?] Fuji Kiseki",
+        "hash": "e60b8c88222bf085eab6ca911ea1cdc2d7584a1fff0ac2b3da4e2c2864c254c6"
+    },
+    "30220": {
+        "text": "[Rewarding Job] Symboli Kris S",
+        "hash": "ac0d76434767f2127fc1c011038d14852d88c25bdfab0cdd3de004b7d0d85bf7"
+    },
     "30221": {
         "text": "[Fun and Food Every Day] Satono Diamond",
         "hash": "e85fab39b25fa629bc1cfdcc58f281cbc243856cbf94f3477fa6aa547d24fb60"
+    },
+    "30222": {
+        "text": "[KNOCK 'EM DOWN!] Espoir City",
+        "hash": "37027585fc06d4bc5d48e2223ed873c009e013a4a7a2c1fea2eda97d08665327"
     }
 }

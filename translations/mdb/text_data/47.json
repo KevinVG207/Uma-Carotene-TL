@@ -505,6 +505,14 @@
         "hash": "5107d2613d53fc7a0cb2a7ad1b64edf0db396f32f724213f1d7a009de41d5f3a",
         "processed": "<sc=69>Connecting Dreams With the Future"
     },
+    "101101": {
+        "text": "Guiding Sea",
+        "hash": "a7b6b337675efdf6544a4956c8b5e44b8308c3dd9055e389bc22dcffb5cf14ce"
+    },
+    "101161": {
+        "text": "Rose Conquest",
+        "hash": "7d047c0f86a0b29a50b7b3fe82e7529779a06f600a357f95b8d47370d9c6e227"
+    },
     "101191": {
         "text": "«Bon Voyage»",
         "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
@@ -512,6 +520,10 @@
     "101201": {
         "text": "Path of Singular Focus",
         "hash": "762753b98813e3395726fdf6ee8b83d0456014ffd9f278438debf179671d0b44"
+    },
+    "101211": {
+        "text": "Lame de Vent",
+        "hash": "32db526647f0aa0d608dcfd8da488c01210e6f1a5b95dbd5698944033715be8c"
     },
     "110011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -688,6 +700,11 @@
         "text": "α-star*",
         "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
     },
+    "110471": {
+        "text": "Close Encounters of the Literary Kind",
+        "hash": "431fa5a75d8276307f87ad02eb6fbad165218f7addeeb97a1b828ba95b501c45",
+        "processed": "<sc=65>Close Encounters of the Literary Kind"
+    },
     "110481": {
         "text": "GALmem. forever♪",
         "hash": "3e6b87a3542d70e8a984d768ff7ffc75404954535588e27f6294d2b5927717c3"
@@ -782,6 +799,10 @@
     "110991": {
         "text": "Popping☆Clams",
         "hash": "faa507fd49a6f7080df942b7cbb855e54654894e5f7dd0000aa6dbf426e0f769"
+    },
+    "111051": {
+        "text": "Encounter With U",
+        "hash": "bcb6305e5a68f707b3c84097fbb35acb9062f1f7116a8029a06c3bf3d124fa0e"
     },
     "120011": {
         "text": "Dignified Dreamlike Brocade",
@@ -1986,6 +2007,10 @@
         "text": "Leader's Straights ○",
         "hash": "09f9fd0faecd1559f3422308898f2106b9c47eefe69eec4190270aa4a934e0c6"
     },
+    "201313": {
+        "text": "Valiant Flash",
+        "hash": "53dd432400396bd64538383abce0a38a8a637ee5ec58202a198bc2167999c0e6"
+    },
     "201321": {
         "text": "Leader's Corners ◎",
         "hash": "f97ea259e448820af7d3aabedc0bf68df991e18218edfae243501966b4242651"
@@ -2247,6 +2272,10 @@
     "201631": {
         "text": "Sympathy",
         "hash": "ac1d1b18c11e7278eac433561baa107cc092e4cbd7d0be828904ff2bbc42e9c4"
+    },
+    "201632": {
+        "text": "Connection",
+        "hash": "7c4fc9c9a989f88b43854e8a0ffef74f7d4a9fdb6446962a717d0d6d11941812"
     },
     "201641": {
         "text": "Lone Wolf",
@@ -3178,6 +3207,60 @@
         "text": "Frontal Breakthrough",
         "hash": "fc5571375e89066a7f9bd0b0aeb3d259ddd3c5b3982022f2a03cbbeff604240d"
     },
+    "203121": {
+        "text": "Proof of Strength",
+        "hash": "18d679b7abf963c770ddc653451319ce619fccab14df55dbff21be2265c4e102"
+    },
+    "203122": {
+        "text": "To Greater Heights",
+        "hash": "8b0c5bac579764192ef6af69d6f5ff0c391c52ceaf3fb66db47d2fb8e9a35cda"
+    },
+    "203132": {
+        "text": "Decisive Blow",
+        "hash": "fbad4c052eed955c1cde9a8e172a93a445b384c7c2b3ea60912aba1857d28848"
+    },
+    "203141": {
+        "text": "Sharp-Witted Composure",
+        "hash": "b009792b5bd06f37d05a047140b5f901f97e595fc238e0bd98e51da6d5ba3c0d",
+        "processed": "<sc=98>Sharp-Witted Composure"
+    },
+    "203142": {
+        "text": "Self-Restraint",
+        "hash": "5aa3241ba7e25ebac8554a665da8b4e47cd23d5dd655d1ceb1c86e81fe04b0e0"
+    },
+    "203151": {
+        "text": "Pure Instincts",
+        "hash": "ebf24b2ec104b6cf722e12c18e0df7a188c8d2669016dbfa5e5bbac529abc6d7"
+    },
+    "203152": {
+        "text": "Bare Passion",
+        "hash": "5460d7f6c8746659f27d03e4db0c6fcefe47bba1d26cc64cf29fe810d3dfad6a"
+    },
+    "203161": {
+        "text": "Peerless Boldness",
+        "hash": "e558886684d0575e823f98d606dd1ecbe844bf99e9d681692a3971fa54c45efd"
+    },
+    "203162": {
+        "text": "Fearless Advance",
+        "hash": "c41813306321a0257ed03b1556a5c58a1cc33036d0897ef6d6848654a62738fd"
+    },
+    "203171": {
+        "text": "Tension and Release",
+        "hash": "e75b3216b42093fe3a8fd0479e53ed46c7865a4a666dcea588bdba8a966942cc"
+    },
+    "203172": {
+        "text": "Switch Over Pro",
+        "hash": "9b5dea81231e6b0bc1020dc49b852c06c94b28ffeb2508570b5155a1f2092196"
+    },
+    "203181": {
+        "text": "Embracing Virtue and Vice",
+        "hash": "088258e05a3d632901e780074db9d05f4b89f1f5a875bfaa724eda7b1e85ecdc",
+        "processed": "<sc=93>Embracing Virtue and Vice"
+    },
+    "203182": {
+        "text": "Contradicting Emotions",
+        "hash": "7c41087bfb18b815c477316d7b33a216579eafe5f60169faadfb0a7e6f90bf00"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -3867,6 +3950,14 @@
         "hash": "5107d2613d53fc7a0cb2a7ad1b64edf0db396f32f724213f1d7a009de41d5f3a",
         "processed": "<sc=69>Connecting Dreams With the Future"
     },
+    "901101": {
+        "text": "Guiding Sea",
+        "hash": "a7b6b337675efdf6544a4956c8b5e44b8308c3dd9055e389bc22dcffb5cf14ce"
+    },
+    "901161": {
+        "text": "Rose Conquest",
+        "hash": "7d047c0f86a0b29a50b7b3fe82e7529779a06f600a357f95b8d47370d9c6e227"
+    },
     "901191": {
         "text": "«Bon Voyage»",
         "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
@@ -3874,6 +3965,10 @@
     "901201": {
         "text": "Path of Singular Focus",
         "hash": "762753b98813e3395726fdf6ee8b83d0456014ffd9f278438debf179671d0b44"
+    },
+    "901211": {
+        "text": "Lame de Vent",
+        "hash": "32db526647f0aa0d608dcfd8da488c01210e6f1a5b95dbd5698944033715be8c"
     },
     "910011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -4050,6 +4145,11 @@
         "text": "α-star*",
         "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
     },
+    "910471": {
+        "text": "Close Encounters of the Literary Kind",
+        "hash": "431fa5a75d8276307f87ad02eb6fbad165218f7addeeb97a1b828ba95b501c45",
+        "processed": "<sc=65>Close Encounters of the Literary Kind"
+    },
     "910481": {
         "text": "GALmem. forever♪",
         "hash": "3e6b87a3542d70e8a984d768ff7ffc75404954535588e27f6294d2b5927717c3"
@@ -4144,6 +4244,10 @@
     "910991": {
         "text": "Popping☆Clams",
         "hash": "faa507fd49a6f7080df942b7cbb855e54654894e5f7dd0000aa6dbf426e0f769"
+    },
+    "911051": {
+        "text": "Encounter With U",
+        "hash": "bcb6305e5a68f707b3c84097fbb35acb9062f1f7116a8029a06c3bf3d124fa0e"
     },
     "920011": {
         "text": "Dignified Dreamlike Brocade",
@@ -4374,6 +4478,10 @@
     "100501211": {
         "text": "Entertainer",
         "hash": "c9e6848a11e9f6449835935418f17993326939c01270909ac1a43a2bd1cabead"
+    },
+    "100501221": {
+        "text": "For a Sparkling Miracle",
+        "hash": "84272008de483e5f5b64f28e3ec794b8142c220ff0190d952384b74141e3b231"
     },
     "100502111": {
         "text": "Stunning Trick",
@@ -5060,6 +5168,11 @@
         "text": "Star of the Runway",
         "hash": "b21dbb24b4e7194e0e2b0a71f3f68b0acf44409fd0cb2d18cec272a7f328246c"
     },
+    "104001221": {
+        "text": "To the Finale's Forefront",
+        "hash": "d6a77a0dbcab3fb868ed8374772493c73735f3d9df7522356f01e6cdeca3797b",
+        "processed": "<sc=99>To the Finale's Forefront"
+    },
     "104002111": {
         "text": "Vivid Battle Formation",
         "hash": "b1e73b2faedbf3ba20cc7862a83199b83684feab41e915ca6dc6374c4326cb6d"
@@ -5194,6 +5307,15 @@
         "text": "Shining Sword",
         "hash": "802f03b2664fc4e4a4f13579a151771caf4daec687b5378d99bf700b4f0877a0"
     },
+    "104702111": {
+        "text": "Heroic Radiance",
+        "hash": "f5340ceafd469e8d4da782b6958124f50c531d1f01b9614683f866308f28e61d"
+    },
+    "104702211": {
+        "text": "The Stormforged Hero Advances",
+        "hash": "3e0c6d1783f5bb2506b8518892210cb688da1de207d83a222a420fb9111087c7",
+        "processed": "<sc=76>The Stormforged Hero Advances"
+    },
     "104801111": {
         "text": "Get Those Vibes Up!",
         "hash": "ae0d9477c42f416f42a71dfe0794cfbfe1bbbb89e5cd3521c33391144bd09e84"
@@ -5279,6 +5401,11 @@
     "105301111": {
         "text": "Gateway To Discipline",
         "hash": "5aabe8a50eed080f4ef2d8f4603c6e3ab6ee55812e24ab9944943d3ce58d93bd"
+    },
+    "105301121": {
+        "text": "Dragon and Tiger's Battle",
+        "hash": "a77d07890b644d8e30bc9ab9c9701e9f8090428519c58ed0c4a69ddff8dfe7b5",
+        "processed": "<sc=96>Dragon and Tiger's Battle"
     },
     "105301211": {
         "text": "Osu! I'm Fired Up!",
@@ -5865,6 +5992,14 @@
         "hash": "5e96c41420d4655cdb3ca5b66b3e81153a039de214ea91bab088ebf58c30673a",
         "processed": "<sc=96>Crossing the Sea of Stars"
     },
+    "110502111": {
+        "text": "Luminous Spectrum",
+        "hash": "9395d91b73a1b1aad7d1223588b18b85b7deb11ba5030912401184f682acdbfd"
+    },
+    "110502211": {
+        "text": "METI Resonance",
+        "hash": "d79dc35473192947c0e0746c45a1f5766a44bb44d439882db7add4caf66e7020"
+    },
     "110601111": {
         "text": "Keep Calm, Don't Overthink",
         "hash": "450c7ef0dda3989809925e3e3495603fb1c3f7950412d34e08177ab84f7d3cfa",
@@ -5903,9 +6038,26 @@
         "hash": "2ba9b80f01e9814e1c612a8fea1d8aff7195331dd7c4e627214b7718a3c747de",
         "processed": "<sc=99>There's No Way I'll Lose!"
     },
+    "111001111": {
+        "text": "Be as Bedrock",
+        "hash": "23a2ec3c9c4956e18714733082712333593a678d2bcd2bbbf704f1399396dee1"
+    },
+    "111001211": {
+        "text": "Beautiful Transformation",
+        "hash": "ec40dadfe748960d8cf916d253a7b7294cc11252678c4d56b6b1e154b9568a84",
+        "processed": "<sc=99>Beautiful Transformation"
+    },
+    "111601111": {
+        "text": "Step Aside",
+        "hash": "a5e89cfdf8efe6fd0eb1531970e545ad9d37b426f74e9803ae395e951c668f4d"
+    },
     "111601211": {
         "text": "Power Am I",
         "hash": "71c3475d43d619fda989d04d162eab3a7af4f57d3afbafdefc2122665234cf22"
+    },
+    "111601221": {
+        "text": "A Lady's Domain",
+        "hash": "c70f513768de5745c942444beed31b0d6a5ef6498db82a53910ff94b33cb068c"
     },
     "111901111": {
         "text": "Starboard Till the End",

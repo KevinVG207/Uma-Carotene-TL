@@ -90,7 +90,7 @@ def apply_umapyoi_character_profiles(chara_ids):
 
 
 def fetch_outfits(chara_id):
-    print(f"Fetching outfits of {chara_id}", flush=True)
+    # print(f"Fetching outfits of {chara_id}", flush=True)
     out = []
     r = requests.get(f"https://umapyoi.net/api/v1/outfit/character/{chara_id}")
     

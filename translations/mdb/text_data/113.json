@@ -504,11 +504,11 @@
         "hash": "98078eb3c5bc377d56e1408e20cf9f3cac4413e2e300229c45a213e361ade375"
     },
     "106201": {
-        "text": "Matikane Tannhäuser Piece",
+        "text": "Matikanetannhauser Piece",
         "hash": "20623f077ec1abc71ec5c27ceff19bc62fb9440188518d622b74205bc5f1ae60"
     },
     "106202": {
-        "text": "Matikane Tannhäuser Piece",
+        "text": "Matikanetannhauser Piece",
         "hash": "20623f077ec1abc71ec5c27ceff19bc62fb9440188518d622b74205bc5f1ae60"
     },
     "106301": {
@@ -711,6 +711,10 @@
         "text": "Rhein Kraft Piece",
         "hash": "66772b2601ebe4a6ea7dfa4d88f2755571ab1edd8da282b81fe45071668872e4"
     },
+    "111001": {
+        "text": "Cesario Piece",
+        "hash": "8d3c67d20647b76a61499996d8a0dafedbaef33e6d832e71188be5e8afd78ad6"
+    },
     "111601": {
         "text": "Gentildonna Piece",
         "hash": "99756969e6b6842258418272cbb708284bc4816be2cf9074634721d986fd583b"
@@ -722,5 +726,9 @@
     "112001": {
         "text": "Calstone Light O Piece",
         "hash": "b064eaaf0c72f2495c7e856cfc4d30906119f4c437b1fd756027e9918b88f48e"
+    },
+    "112101": {
+        "text": "Durandal Piece",
+        "hash": "93b7093006b4fbeefa13635d4694539470f4fd6b6ed2437284820958303b51be"
     }
 }

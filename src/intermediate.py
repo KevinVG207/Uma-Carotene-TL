@@ -218,7 +218,8 @@ def mdb_from_intermediate():
         table_name = path_segments.pop(0)
 
         if table_name not in index:
-            raise ValueError(f"Table name {table_name} not found in index.json")
+            print(f"Table name {table_name} not found in index.json")
+            continue
 
         for item_data in tl_dict:
             if not item_data['text']:

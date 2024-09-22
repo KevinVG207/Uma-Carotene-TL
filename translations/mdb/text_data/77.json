@@ -227,9 +227,9 @@
         "hash": "df44392967c14862f9405a0e19c82198fb8acc47d806641176b5be6ee689e122"
     },
     "10057": {
-        "text": "Matikane Tannhäuser",
+        "text": "Matikanetannhauser",
         "hash": "3241044efc29d0eb769938e3043a127983b2b3416a5ac989ba0245464c582033",
-        "processed": "<sc=83>Matikane Tannhäuser"
+        "processed": "<sc=87>Matikanetannhauser"
     },
     "10058": {
         "text": "Yaeno Muteki",
@@ -442,6 +442,10 @@
         "text": "Director Akikawa",
         "hash": "4a0c82c519bbbaf1e91c9d5e965a8640643b4ad1cf107eebabc5262cb9af6adb"
     },
+    "10110": {
+        "text": "Espoir City",
+        "hash": "c9374483e4d7a4cb6bd25e1eda6032665890458ed845eb63cc3b940ca53b3166"
+    },
     "10113": {
         "text": "Gentildonna",
         "hash": "1f04beeeda776e367ce2e2f232b2d687ae536efa5cfd2ee4650aa062750cb32d"
@@ -449,6 +453,10 @@
     "10114": {
         "text": "Rhein Kraft",
         "hash": "893557d7a83a2dc7918b7338d6ff1b0b8a2f65550ed11ab34b2dfd58ed39cc42"
+    },
+    "10115": {
+        "text": "Cesario",
+        "hash": "c625297b8b915b8250e68b67b2249676a3a7c4ef8e13c5c61e5e1cae279952ff"
     },
     "10117": {
         "text": "No Reason",
@@ -735,9 +743,9 @@
         "hash": "4aefb4c3b9ebe9339c7441c837bddf20d93ca7b8e47f170db5090dd5c6e6b50c"
     },
     "20069": {
-        "text": "Matikane Tannhäuser",
+        "text": "Matikanetannhauser",
         "hash": "3241044efc29d0eb769938e3043a127983b2b3416a5ac989ba0245464c582033",
-        "processed": "<sc=83>Matikane Tannhäuser"
+        "processed": "<sc=87>Matikanetannhauser"
     },
     "20070": {
         "text": "Verxina",
@@ -780,6 +788,10 @@
         "text": "Marvelous Sunday",
         "hash": "e743a048c5b558776d9b7129fee1cb448c6c0cead8482c5e70f45ab375f20649",
         "processed": "<sc=97>Marvelous Sunday"
+    },
+    "20080": {
+        "text": "Sakura Laurel",
+        "hash": "4888653c5d3de939cec197ed1c1212c6991cb418a4d969b163d94d4823a5a5f5"
     },
     "30001": {
         "text": "Special Week",
@@ -899,9 +911,9 @@
         "hash": "df44392967c14862f9405a0e19c82198fb8acc47d806641176b5be6ee689e122"
     },
     "30030": {
-        "text": "Matikane Tannhäuser",
+        "text": "Matikanetannhauser",
         "hash": "3241044efc29d0eb769938e3043a127983b2b3416a5ac989ba0245464c582033",
-        "processed": "<sc=83>Matikane Tannhäuser"
+        "processed": "<sc=87>Matikanetannhauser"
     },
     "30031": {
         "text": "Yukino Bijin",
@@ -1184,9 +1196,9 @@
         "hash": "e2e1afa80f5b9617a2db5f8484a30df314f8e128c57bd3763c57b693fdcae660"
     },
     "30103": {
-        "text": "Matikane Tannhäuser",
+        "text": "Matikanetannhauser",
         "hash": "3241044efc29d0eb769938e3043a127983b2b3416a5ac989ba0245464c582033",
-        "processed": "<sc=83>Matikane Tannhäuser"
+        "processed": "<sc=87>Matikanetannhauser"
     },
     "30104": {
         "text": "Zenno Rob Roy",
@@ -1641,6 +1653,10 @@
         "text": "Buena Vista",
         "hash": "b3dc7ce61693c1d287bc97b7ed63f314e61ef63dfdfc393500f9d27765fe61d7"
     },
+    "30217": {
+        "text": "Cesario",
+        "hash": "c625297b8b915b8250e68b67b2249676a3a7c4ef8e13c5c61e5e1cae279952ff"
+    },
     "30218": {
         "text": "Taiki Shuttle",
         "hash": "6590bde7fef1440f56fd05975dafa2a3fdfc6face5992d87fc6b7605ac54e0f8"
@@ -1656,5 +1672,9 @@
     "30221": {
         "text": "Satono Diamond",
         "hash": "df44392967c14862f9405a0e19c82198fb8acc47d806641176b5be6ee689e122"
+    },
+    "30222": {
+        "text": "Espoir City",
+        "hash": "c9374483e4d7a4cb6bd25e1eda6032665890458ed845eb63cc3b940ca53b3166"
     }
 }
