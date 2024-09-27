@@ -3289,6 +3289,21 @@
         "hash": "b2ad503a9a8f5424996c2ae3ffa21e1bb6db9254662f19349451f18831968c04",
         "processed": "<rbr>Clear all event limited<br>missions."
     },
+    "310136": {
+        "text": "Clear all event limited missions.",
+        "hash": "b2ad503a9a8f5424996c2ae3ffa21e1bb6db9254662f19349451f18831968c04",
+        "processed": "<rbr>Clear all event limited<br>missions."
+    },
+    "310137": {
+        "text": "Clear all event limited missions.",
+        "hash": "b2ad503a9a8f5424996c2ae3ffa21e1bb6db9254662f19349451f18831968c04",
+        "processed": "<rbr>Clear all event limited<br>missions."
+    },
+    "310138": {
+        "text": "Clear all event limited missions.",
+        "hash": "b2ad503a9a8f5424996c2ae3ffa21e1bb6db9254662f19349451f18831968c04",
+        "processed": "<rbr>Clear all event limited<br>missions."
+    },
     "320001": {
         "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
         "hash": "96e87bfb833398b5d021fb753aab4905d9657b9e67bcd1ea18fcdcb59b376c43",
@@ -3315,6 +3330,11 @@
         "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
     },
     "320006": {
+        "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
+        "hash": "96e87bfb833398b5d021fb753aab4905d9657b9e67bcd1ea18fcdcb59b376c43",
+        "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
+    },
+    "320007": {
         "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
         "hash": "96e87bfb833398b5d021fb753aab4905d9657b9e67bcd1ea18fcdcb59b376c43",
         "processed": "<rbr><sc=95>Receive Excellent grades in the<br>Trainer's Proficiency Exam."
@@ -4103,5 +4123,10 @@
         "text": "マスターズチャレンジの皐月賞を制覇しよう.",
         "hash": "31d70bb38ace5aa6df23cf260dea151b56bedf06c87c93873857f6c8267b3b3f",
         "processed": "<rbr><br>マスターズチャレンジの皐月賞を制覇しよう."
+    },
+    "720012": {
+        "text": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
+        "hash": "148166061c65cae4c359f962abb99c2c5058da8605c46f82ab5c76cf15388bfb",
+        "processed": "<rbr><br>マスターズチャレンジの天皇賞（春）を制覇しよう."
     }
 }

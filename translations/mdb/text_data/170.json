@@ -248,9 +248,9 @@
         "hash": "2906feb5eca5b319b960d935a138a37993089b63d1a79571c8d53a78bdca63d7"
     },
     "1062": {
-        "text": "Matikane Tannhäuser",
+        "text": "Matikanetannhauser",
         "hash": "3241044efc29d0eb769938e3043a127983b2b3416a5ac989ba0245464c582033",
-        "processed": "<sc=83>Matikane Tannhäuser"
+        "processed": "<sc=87>Matikanetannhauser"
     },
     "1063": {
         "text": "Ikuno Dictus",
@@ -381,6 +381,10 @@
         "text": "Jungle Pocket",
         "hash": "b94ce1da2e5fcbf4726f2f0ab02e74a5b13349e532aa008b0afb3f6b5bc3233c"
     },
+    "1095": {
+        "text": "Believe",
+        "hash": "9be5502af27f5f4f766acf9b82b97554bf6746108137b61603c731c5f4b5be61"
+    },
     "1096": {
         "text": "No Reason",
         "hash": "2b190d147ad99dc4e836e26f811831855379721adb4f98f8be5c9528af4775db"
@@ -445,6 +449,14 @@
         "text": "Daring Heart",
         "hash": "b66a7421d3f2c28bda0306afe9c959ec6fe63c2a2bb450fc1eec3c05663ff43e"
     },
+    "1113": {
+        "text": "Fusaichi Pandora",
+        "hash": "907d53f727824fdefa0779b2d640a18e030f9038541eb3dd0496295a38ba9ab1"
+    },
+    "1114": {
+        "text": "Buena Vista",
+        "hash": "b3dc7ce61693c1d287bc97b7ed63f314e61ef63dfdfc393500f9d27765fe61d7"
+    },
     "1115": {
         "text": "Orfevre",
         "hash": "e296c3a7472b063b9ace120da43ae76d2dcc0b9afbcc91eb220175423c499b79"
@@ -456,6 +468,18 @@
     "1117": {
         "text": "Win Variation",
         "hash": "c53e55f11998d9bc4cf4d04951ae9ec19991a729e2b008a368b20c77f139114b"
+    },
+    "1119": {
+        "text": "Dream Journey",
+        "hash": "90657870e743f476ab2cfa0eed0597cd199ab0a22d627c06561f0e691a415b3e"
+    },
+    "1120": {
+        "text": "Calstone Light O",
+        "hash": "d91e00d578439cd18a276d465bff4aaf299513040ca0f84fe6b7ac36f71248ad"
+    },
+    "1121": {
+        "text": "Durandal",
+        "hash": "732db651ca9824d6d41a624154ab5bef0686deaebc79b123286a39d9ac6fb243"
     },
     "2001": {
         "text": "Happy Meek",
@@ -490,8 +514,8 @@
         "hash": "587a34c4aea0364dd59f808d3adf41f75ef6a9330a57edf52122a35f40a6b575"
     },
     "9002": {
-        "text": "Yayoi Akikawa",
-        "hash": "c82403326dbe7abe6409ff375d9856c6ee1d77aeffd347c96ba71e434e9d309d"
+        "text": "Director Akikawa",
+        "hash": "4a0c82c519bbbaf1e91c9d5e965a8640643b4ad1cf107eebabc5262cb9af6adb"
     },
     "9003": {
         "text": "Etsuko Otonashi",
@@ -509,6 +533,11 @@
     "9006": {
         "text": "Riko Kashimoto",
         "hash": "e8db75b9c5072f4c5833588a415f74ef38e8773097bc422175dd025d27cbaedb"
+    },
+    "9007": {
+        "text": "Beauty Anshinzawa",
+        "hash": "293edd8ae7dbb8d0f0907440b15f77911c472678ee3902cd33c2e43ba4e65ee9",
+        "processed": "<sc=92>Beauty Anshinzawa"
     },
     "9008": {
         "text": "Light Hello",

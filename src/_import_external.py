@@ -6,6 +6,7 @@ import json
 import datetime
 from selenium import webdriver
 import time
+from multiprocessing import Pool
 
 MISSIONS_JSONS = [
     "66",
@@ -89,6 +90,7 @@ def apply_umapyoi_character_profiles(chara_ids):
 
 
 def fetch_outfits(chara_id):
+    # print(f"Fetching outfits of {chara_id}", flush=True)
     out = []
     r = requests.get(f"https://umapyoi.net/api/v1/outfit/character/{chara_id}")
     
@@ -110,11 +112,16 @@ def fetch_outfits(chara_id):
 
 def apply_umapyoi_outfits(chara_ids):
     # Fetch outfits
+    print("Fetching outfit data")
     outfit_data = []
 
-    for chara_id in chara_ids:
-        outfit_data.append(fetch_outfits(chara_id))
+    with Pool() as pool:
+        outfit_data = list(pool.imap_unordered(fetch_outfits, chara_ids))
+
+    # for chara_id in chara_ids:
+    #     outfit_data.append(fetch_outfits(chara_id))
     
+    print("Applying outfit data")
     proper_outfit_list = []
     for outfit_list in outfit_data:
         if not outfit_list:
@@ -200,12 +207,19 @@ def fetch_story_json(url):
 
     return r.json()
 
-def import_external_story(local_path, url_to_github_jsons, use_order=False, skip_first=False):
+def import_external_story(local_path, url_to_github_jsons, use_order=False, skip_first=False, branch=None):
     # Download all jsons from github
     print("Downloading jsons from github")
 
-    r = requests.get(url_to_github_jsons + local_path)
+    if branch:
+        local_path += f"?ref={branch}"
+
+    url = f"{url_to_github_jsons}{local_path}"
+
+    r = requests.get(url)
     r.raise_for_status()
+
+    local_path = local_path.split("?")[0]
 
     urls = [data['download_url'] for data in r.json()]
 
@@ -646,7 +660,8 @@ def main():
     # import_external_story('story/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
     # import_external_story('story/02/0006', 'http://localhost:8000/repos/KevinVG207/umamusu-translate/contents/translations/', use_order=True, skip_first=True)
     # import_external_story('race/02/0005', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
-    # import_external_story('race/02/0006', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
+    # import_external_story('story/04/1076', 'https://api.github.com/repos/lotods/umamusu-translate/contents/translations/', branch="sakura-laurel")
+    # import_external_story('race/02/0201', 'https://api.github.com/repos/noccu/umamusu-translate/contents/translations/')
 
 
     umapyoi_chara_ids = get_umapyoi_chara_ids()

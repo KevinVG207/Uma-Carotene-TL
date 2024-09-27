@@ -1,0 +1,560 @@
+{
+    "type": "story",
+    "row_index": 174908,
+    "file_name": "story/data/04/1076/storytimeline_041076007",
+    "hash": "DBAMACOW3CPB5GZUJUK7O4324C2ETZRW",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4889877076148500893,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "――10th one finished! \nHuu-……Trainer-san, how's my time……?",
+            "name": "Sakura Laurel",
+            "path_id": -5810295982786647919,
+            "block_id": 1,
+            "clip_length": 205,
+            "choices": [
+                {
+                    "text": "It's getting better. Looking good.",
+                    "hash": "62086c0c915e1f1d275c901f53eec9db3e00e816a3c64c580a08dd12c5a2d809"
+                },
+                {
+                    "text": "It's getting better. Looking good.",
+                    "hash": "6aa587e93d33184045b97f6c8235ff04c9b54d93199b87af078f833a7b616345"
+                }
+            ],
+            "processed": "<story>――10th one finished! \n<story>Huu-……Trainer-san, how's my time……?"
+        },
+        {
+            "text": "Fufu, maybe it's because Trainer-san \nis standing at the goal? Just kidding.",
+            "name": "Sakura Laurel",
+            "path_id": 3288351369517975863,
+            "block_id": 2,
+            "clip_length": 158,
+            "processed": "<story>Fufu, maybe it's because Trainer-san \n<story>is standing at the goal? Just kidding."
+        },
+        {
+            "text": "Anyways! With this, we're done for today, right!? \nAnd so……after this, are you free?",
+            "name": "Sakura Laurel",
+            "path_id": -3260342140737616042,
+            "block_id": 3,
+            "clip_length": 297,
+            "processed": "<story>Anyways! With this, we're done for today, right!? \n<story>And so……after this, are you free?"
+        },
+        {
+            "text": "You see, I'm part of the committee for the Test of Courage event! \nAnd, today I'm going to be making the final checks on the course.",
+            "name": "Sakura Laurel",
+            "path_id": -1205152527386774947,
+            "block_id": 4,
+            "clip_length": 272,
+            "processed": "<story>You see, I'm part of the committee for the Test of Courage event! \n<story>And, today I'm going to be making the final checks on the course."
+        },
+        {
+            "text": "Trainer-san, could you do a trial run of the course? \nAnd if you could tell me your thoughts, I'd be really glad!",
+            "name": "Sakura Laurel",
+            "path_id": 8140354772185370316,
+            "block_id": 5,
+            "clip_length": 246,
+            "processed": "<story>Trainer-san, could you do a trial run of the course? \n<story>And if you could tell me your thoughts, I'd be really glad!"
+        },
+        {
+            "text": "So I'd be previewing the Test of Courage…… \nSince she was so hard working and positive, \nthis might be a good opportunity to help her out.",
+            "name": "",
+            "path_id": 7606592704009678663,
+            "block_id": 6,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "If you're fine with me, sure!",
+                    "hash": "2f5a8f1e52ac8c09c0c47ce9a6c21d70c293190ab3e56343f4f0880e6669ff19"
+                },
+                {
+                    "text": "If you're fine with me, sure!",
+                    "hash": "80e35682902e23ebc01fd8755b09a5164afbbef360e308ee11382f51ddb4fdb3"
+                }
+            ],
+            "processed": "<story>So I'd be previewing the Test of Courage…… \n<story>Since she was so hard working and positive, \n<story>this might be a good opportunity to help her out."
+        },
+        {
+            "text": "――And so, we made our way to the starting point of the Test \nof Courage. A student was already there to act as a guide.",
+            "name": "",
+            "path_id": -4007693139454336372,
+            "block_id": 7,
+            "clip_length": 105,
+            "processed": "<story>――And so, we made our way to the starting point of the Test \n<story>of Courage. A student was already there to act as a guide."
+        },
+        {
+            "text": "Just go straight down this path. Place this candle-shaped light \nat the shrine near the goal to clear the test. Good luck out there!",
+            "name": "Guide-role Uma Musume",
+            "path_id": 5446518384414192219,
+            "block_id": 8,
+            "clip_length": 269,
+            "processed": "<story>Just go straight down this path. Place this candle-shaped light \n<story>at the shrine near the goal to clear the test. Good luck out there!",
+            "name_processed": "<sc=94>Guide-role Uma Musume"
+        },
+        {
+            "text": "There was an eerie sound of dripping water coming \nfrom somewhere……it sent a chill down my spine……",
+            "name": "",
+            "path_id": -1314724506823929955,
+            "block_id": 9,
+            "clip_length": 95,
+            "processed": "<story>There was an eerie sound of dripping water coming \n<story>from somewhere……it sent a chill down my spine……"
+        },
+        {
+            "text": "(Drip)",
+            "name": "",
+            "path_id": -49360466831889962,
+            "block_id": 10,
+            "clip_length": 54,
+            "choices": [
+                {
+                    "text": "Hiii!?",
+                    "hash": "b6f40260987cd9681e570691d64d0c308bd156ba4fe83c72052668c988115e12"
+                }
+            ],
+            "processed": "<story>(Drip)"
+        },
+        {
+            "text": "Suddenly, something cold fell on my back! Water maybe……? \nAt least, I really hope it's just water……!",
+            "name": "",
+            "path_id": -3561750765676766913,
+            "block_id": 11,
+            "clip_length": 107,
+            "processed": "<story>Suddenly, something cold fell on my back! Water maybe……? \n<story>At least, I really hope it's just water……!"
+        },
+        {
+            "text": "The visibility was poor and it made me hesitate \nto move forward……I could feel my heartbeat getting \nlouder. But, I need to keep moving――",
+            "name": "",
+            "path_id": -6039278981938023238,
+            "block_id": 12,
+            "clip_length": 98,
+            "processed": "<story>The visibility was poor and it made me hesitate \n<story>to move forward……I could feel my heartbeat getting \n<story>louder. But, I need to keep moving――"
+        },
+        {
+            "text": "(Tap……tap……――click, click……step, step, step――)",
+            "name": "",
+            "path_id": 2825541593534094535,
+            "block_id": 13,
+            "clip_length": 77,
+            "choices": [
+                {
+                    "text": "(What's that……? It's coming from behind……)",
+                    "hash": "ca4afb99a8a6a5046278b37f93b8788ae227ae462ab8b424e361da404a3c716a",
+                    "processed": "<size=36>(What's that……? It's coming from behind……)</size>"
+                }
+            ],
+            "processed": "<story>(Tap……tap……――click, click……step, step, step――)"
+        },
+        {
+            "text": "Ah……Aaah, Aaaaaaaahhh~~~……!",
+            "name": "???",
+            "path_id": -2074416213993428009,
+            "block_id": 14,
+            "clip_length": 134,
+            "choices": [
+                {
+                    "text": "UWAAAAAAAAAAAAHHH!?",
+                    "hash": "d4d170c6a20de17f25adfa9db6ecaddc791d093db91867ca8700f0a5ceee46ec"
+                },
+                {
+                    "text": "IYAAAAAAAAAAAAHHH!?",
+                    "hash": "e2b5dfccad7ba25939aeeae55eadb0bf0dd7c8627be9e46ada94bce307499066"
+                }
+            ],
+            "processed": "<story>Ah……Aaah, Aaaaaaaahhh~~~……!"
+        },
+        {
+            "text": "(Step step step step step! ――Pull!)",
+            "name": "",
+            "path_id": 7668114344651505961,
+            "block_id": 15,
+            "clip_length": 64,
+            "processed": "<story>(Step step step step step! ――Pull!)"
+        },
+        {
+            "text": "――――Ahaa, did I scare you?",
+            "name": "???",
+            "path_id": 7248179066582467665,
+            "block_id": 16,
+            "clip_length": 84,
+            "processed": "<story>――――Ahaa, did I scare you?"
+        },
+        {
+            "text": "It's me, Trainer-san!",
+            "name": "Sakura Laurel",
+            "path_id": 7582360752175725886,
+            "block_id": 17,
+            "clip_length": 76,
+            "choices": [
+                {
+                    "text": "……!! Y-y-y-y-y-you scared me……",
+                    "hash": "402a917737733ecc67f30c1b0708051ab274eb34692c4fa793ce6cec92b3f612"
+                }
+            ],
+            "processed": "<story>It's me, Trainer-san!"
+        },
+        {
+            "text": "Oh dear……the goal is right ahead though―― \n……shall we go together?",
+            "name": "Sakura Laurel",
+            "path_id": 474757678382220856,
+            "block_id": 18,
+            "clip_length": 245,
+            "processed": "<story>Oh dear……the goal is right ahead though―― \n<story>……shall we go together?"
+        },
+        {
+            "text": "I was struggling to get my heartbeat under control…… \nbut Sakura Laurel led me and we soon arrived at the shrine.",
+            "name": "",
+            "path_id": -8670351233854029525,
+            "block_id": 19,
+            "clip_length": 136,
+            "processed": "<story>I was struggling to get my heartbeat under control…… \n<story>but Sakura Laurel led me and we soon arrived at the shrine."
+        },
+        {
+            "text": "Okay, here's the goal! \nGood job out there! So, how was it?",
+            "name": "Sakura Laurel",
+            "path_id": 4776614743493470525,
+            "block_id": 20,
+            "clip_length": 217,
+            "choices": [
+                {
+                    "text": "It was super terrifying……!",
+                    "hash": "a9041801b60e5710f04c4f941e8921f07bcbe3c65ed06e4a343b625903dbbc78"
+                }
+            ],
+            "processed": "<story>Okay, here's the goal! \n<story>Good job out there! So, how was it?"
+        },
+        {
+            "text": "Each of the scares was timed perfectly, but Sakura \nLaurel's role as the ghost was the most terrifying――",
+            "name": "",
+            "path_id": -8550855354563393217,
+            "block_id": 21,
+            "clip_length": 123,
+            "choices": [
+                {
+                    "text": "……wait, huh? Laurel?",
+                    "hash": "eea4eb019987582eb91ae1b4ad49018b3be0afabfeb816e023285ac535b014e4"
+                }
+            ],
+            "processed": "<story>Each of the scares was timed perfectly, but Sakura \n<story>Laurel's role as the ghost was the most terrifying――"
+        },
+        {
+            "text": "While I was giving my thoughts, she had suddenly disappeared. \n……Was she trying to scare me again?",
+            "name": "",
+            "path_id": -8601908837924439482,
+            "block_id": 22,
+            "clip_length": 105,
+            "choices": [
+                {
+                    "text": "Laurel, you won't get me again――",
+                    "hash": "69464c248004b2e7e4de6ae8dd59ee5af8054a5a1f0f1537314d39b6fa41c0d0"
+                }
+            ],
+            "processed": "<story>While I was giving my thoughts, she had suddenly disappeared. \n<story>……Was she trying to scare me again?"
+        },
+        {
+            "text": "(――Grip!)",
+            "name": "",
+            "path_id": 3783186168127535289,
+            "block_id": 23,
+            "clip_length": 55,
+            "choices": [
+                {
+                    "text": "Hiee!?",
+                    "hash": "1c74405deccdeb0ace6cce47ad357ca005f73755ca52859c637e57f5ceaafac5"
+                }
+            ],
+            "processed": "<story>(――Grip!)"
+        },
+        {
+            "text": "Something grabbed my arm and pulled \nme with a tremendous force――",
+            "name": "",
+            "path_id": -7229132098263807873,
+            "block_id": 24,
+            "clip_length": 88,
+            "processed": "<story>Something grabbed my arm and pulled \n<story>me with a tremendous force――"
+        },
+        {
+            "text": "(Rustle rustle rustle――!)",
+            "name": "",
+            "path_id": -2871202498403763728,
+            "block_id": 25,
+            "clip_length": 60,
+            "choices": [
+                {
+                    "text": "WaahーーーーWhat what what!?",
+                    "hash": "c575981d611556f27abc79e201cdc355ab1ef43addb947bc2d43d517f394562a"
+                }
+            ],
+            "processed": "<story>(Rustle rustle rustle――!)"
+        },
+        {
+            "text": "Weren't we supposed to already be at the goal!? \nI was being dragged through the dark, confused \nand scared with no idea what was happening――",
+            "name": "",
+            "path_id": -6108552380065783393,
+            "block_id": 26,
+            "clip_length": 107,
+            "processed": "<story>Weren't we supposed to already be at the goal!? \n<story>I was being dragged through the dark, confused \n<story>and scared with no idea what was happening――"
+        },
+        {
+            "text": "Fufuu♪",
+            "name": "???",
+            "path_id": 5507720802780277358,
+            "block_id": 27,
+            "clip_length": 34,
+            "processed": "<story>Fufuu♪"
+        },
+        {
+            "text": "――Suddenly I could see again.",
+            "name": "",
+            "path_id": -3826966360783731625,
+            "block_id": 28,
+            "clip_length": 60,
+            "processed": "<story>――Suddenly I could see again."
+        },
+        {
+            "text": "Tadaa! \nIt's beautiful isn't it, Trainer-san!?",
+            "name": "???",
+            "path_id": -3269777549350391290,
+            "block_id": 29,
+            "clip_length": 134,
+            "processed": "<story>Tadaa! \n<story>It's beautiful isn't it, Trainer-san!?"
+        },
+        {
+            "text": "Did I scare you? \nMy surprise was a big success then, huh♪",
+            "name": "Sakura Laurel",
+            "path_id": -3685991074483909507,
+            "block_id": 30,
+            "clip_length": 162,
+            "choices": [
+                {
+                    "text": "This is……?",
+                    "hash": "5dd0b395949f15ddad546707ce32d4f2c515dde84809045f3f827c8519581b19"
+                }
+            ],
+            "processed": "<story>Did I scare you? \n<story>My surprise was a big success then, huh♪"
+        },
+        {
+            "text": "My gratitude towards Trainer-san!",
+            "name": "Sakura Laurel",
+            "path_id": 2225826949468780559,
+            "block_id": 31,
+            "clip_length": 63,
+            "processed": "<story>My gratitude towards Trainer-san!"
+        },
+        {
+            "text": "It's a special scenery that I found―― \nand I wanted to show it to Trainer-san first.",
+            "name": "Sakura Laurel",
+            "path_id": 1214024263652696782,
+            "block_id": 32,
+            "clip_length": 276,
+            "processed": "<story>It's a special scenery that I found―― \n<story>and I wanted to show it to Trainer-san first."
+        },
+        {
+            "text": "Do you like it?",
+            "name": "Sakura Laurel",
+            "path_id": -3383855832076805492,
+            "block_id": 33,
+            "clip_length": 58,
+            "choices": [
+                {
+                    "text": "I-it's amazing……but――",
+                    "hash": "5aa0d841810347c3e7ed07844afed66fac5e14eb3c1b1e585ae6c883dd22cd0a"
+                }
+            ],
+            "processed": "<story>Do you like it?"
+        },
+        {
+            "text": "I couldn't think of why she was that grateful. \nToday, all I did was help with her Test of Courage――",
+            "name": "",
+            "path_id": 260819291097139677,
+            "block_id": 34,
+            "clip_length": 110,
+            "processed": "<story>I couldn't think of why she was that grateful. \n<story>Today, all I did was help with her Test of Courage――"
+        },
+        {
+            "text": "Fufuu, you were scared through and through, huh♪",
+            "name": "Sakura Laurel",
+            "path_id": -637770490378471935,
+            "block_id": 35,
+            "clip_length": 113,
+            "processed": "<story>Fufuu, you were scared through and through, huh♪"
+        },
+        {
+            "text": "――But because you're like that, you're really helping me.",
+            "name": "Sakura Laurel",
+            "path_id": 419001901615794582,
+            "block_id": 36,
+            "clip_length": 125,
+            "choices": [
+                {
+                    "text": "Eh?",
+                    "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
+                }
+            ],
+            "processed": "<story>――But because you're like that, you're really helping me."
+        },
+        {
+            "text": "Like earlier, when we went out together――",
+            "name": "Sakura Laurel",
+            "path_id": 7966134929526223511,
+            "block_id": 37,
+            "clip_length": 90,
+            "processed": "<story>Like earlier, when we went out together――"
+        },
+        {
+            "text": "Trainer-san, you were really interested in all the things \nI loved. You were having fun just listening to me talk――",
+            "name": "Sakura Laurel",
+            "path_id": -6671458103768804397,
+            "block_id": 38,
+            "clip_length": 286,
+            "processed": "<story>Trainer-san, you were really interested in all the things \n<story>I loved. You were having fun just listening to me talk――"
+        },
+        {
+            "text": "And when you said French cuisine was like magic―― \nI was surprised. Because……I believe that too!",
+            "name": "Sakura Laurel",
+            "path_id": 6147469031033884889,
+            "block_id": 39,
+            "clip_length": 306,
+            "processed": "<story>And when you said French cuisine was like magic―― \n<story>I was surprised. Because……I believe that too!"
+        },
+        {
+            "text": "Today was like that too. The Test of Courage course that \nI made, you challenged it head-on, and got scared by it――",
+            "name": "Sakura Laurel",
+            "path_id": -7620178304500871689,
+            "block_id": 40,
+            "clip_length": 242,
+            "processed": "<story>Today was like that too. The Test of Courage course that \n<story>I made, you challenged it head-on, and got scared by it――"
+        },
+        {
+            "text": "The Test of Courage will be a great success! \nI'm convinced of that.",
+            "name": "Sakura Laurel",
+            "path_id": -2347974685302927780,
+            "block_id": 41,
+            "clip_length": 152,
+            "choices": [
+                {
+                    "text": "Laurel……",
+                    "hash": "755be07a64f8fb6192fd29eb16f49e415b970180c51ee1a35a7e87da1d6522ff"
+                }
+            ],
+            "processed": "<story>The Test of Courage will be a great success! \n<story>I'm convinced of that."
+        },
+        {
+            "text": "And also――do you remember? \nWhen there was some trouble with the gym equipment?",
+            "name": "Sakura Laurel",
+            "path_id": -1511108637147706222,
+            "block_id": 42,
+            "clip_length": 188,
+            "processed": "<story>And also――do you remember? \n<story>When there was some trouble with the gym equipment?"
+        },
+        {
+            "text": "At that time, you said it right? \nMy positivity is what made sure everything went so well.",
+            "name": "Sakura Laurel",
+            "path_id": -916597925088743819,
+            "block_id": 43,
+            "clip_length": 244,
+            "processed": "<story>At that time, you said it right? \n<story>My positivity is what made sure everything went so well."
+        },
+        {
+            "text": "But, the reason I can keep running with that positivity――",
+            "name": "Sakura Laurel",
+            "path_id": 3122950480316403079,
+            "block_id": 44,
+            "clip_length": 131,
+            "processed": "<story>But, the reason I can keep running with that positivity――"
+        },
+        {
+            "text": "『I can help with that! Let's do it!』",
+            "name": "",
+            "path_id": 8201767222004806755,
+            "block_id": 45,
+            "clip_length": 72,
+            "processed": "<story>『I can help with that! Let's do it!』"
+        },
+        {
+            "text": "『I can help with that! Let's do it!』",
+            "name": "",
+            "path_id": 4231410488338797220,
+            "block_id": 46,
+            "clip_length": 72,
+            "processed": "<story>『I can help with that! Let's do it!』"
+        },
+        {
+            "text": "Is because……Trainer-san is always there, \nworking hard to support me.",
+            "name": "Sakura Laurel",
+            "path_id": -658570350584621095,
+            "block_id": 47,
+            "clip_length": 247,
+            "processed": "<story>Is because……Trainer-san is always there, \n<story>working hard to support me."
+        },
+        {
+            "text": "That's why……I can keep running forward. \nBecause Trainer-san is with me.",
+            "name": "Sakura Laurel",
+            "path_id": 7301209324113907634,
+            "block_id": 48,
+            "clip_length": 345,
+            "processed": "<story>That's why……I can keep running forward. \n<story>Because Trainer-san is with me."
+        },
+        {
+            "text": "……and that part of you reminds me of my dad.",
+            "name": "Sakura Laurel",
+            "path_id": 938848742200907295,
+            "block_id": 49,
+            "clip_length": 148,
+            "processed": "<story>……and that part of you reminds me of my dad."
+        },
+        {
+            "text": "With a giggle, she turned to look up at the sky. As she said, \nthis was special, there was a spectacular view of the sky.",
+            "name": "",
+            "path_id": 5422978286027640708,
+            "block_id": 50,
+            "clip_length": 108,
+            "processed": "<story>With a giggle, she turned to look up at the sky. As she said, \n<story>this was special, there was a spectacular view of the sky."
+        },
+        {
+            "text": "The night sky was lit up by the brilliant stars. \nBut to me, there was something that shined brighter――",
+            "name": "",
+            "path_id": 7061691627911871239,
+            "block_id": 51,
+            "clip_length": 101,
+            "processed": "<story>The night sky was lit up by the brilliant stars. \n<story>But to me, there was something that shined brighter――"
+        },
+        {
+            "text": "――I can still keep getting stronger.",
+            "name": "Sakura Laurel",
+            "path_id": 8562548018913765771,
+            "block_id": 52,
+            "clip_length": 131,
+            "processed": "<story>――I can still keep getting stronger."
+        },
+        {
+            "text": "Sakura Laurel declared that silently, but with conviction. \nThere was true belief reflected in those eyes.",
+            "name": "",
+            "path_id": 1669009361781697814,
+            "block_id": 53,
+            "clip_length": 94,
+            "processed": "<story>Sakura Laurel declared that silently, but with conviction. \n<story>There was true belief reflected in those eyes."
+        },
+        {
+            "text": "――Because I have you.",
+            "name": "Sakura Laurel",
+            "path_id": -1455671545061486642,
+            "block_id": 54,
+            "clip_length": 88,
+            "processed": "<story>――Because I have you."
+        },
+        {
+            "text": "She was radiant――Brighter, stronger, and more \ndazzling than anyone……――As a trainer, I wanted \nto continue to support a girl that brilliant.",
+            "name": "",
+            "path_id": -4637382178862500437,
+            "block_id": 55,
+            "clip_length": 119,
+            "processed": "<story>She was radiant――Brighter, stronger, and more \n<story>dazzling than anyone……――As a trainer, I wanted \n<story>to continue to support a girl that brilliant."
+        }
+    ],
+    "title": "Stronger with You"
+}

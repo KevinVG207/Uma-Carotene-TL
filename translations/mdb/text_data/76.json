@@ -379,6 +379,10 @@
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
+    "10096": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
     "10097": {
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
@@ -427,6 +431,14 @@
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
+    "10109": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
+    "10110": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
     "10113": {
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
@@ -435,7 +447,15 @@
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
+    "10115": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
     "10117": {
+        "text": "[Tracen Academy]",
+        "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
+    },
+    "10118": {
         "text": "[Tracen Academy]",
         "hash": "c24ccdc0b7af88fdb15395dbe836dfd4601d2b67ca392641f800a418c9b22f39"
     },
@@ -588,6 +608,10 @@
     "20035": {
         "text": "[nail on Turf]",
         "hash": "e358ffa7ab510298df3c0a13eaccf977a8f96e8a55454f9bae7f931a6a29304a"
+    },
+    "20036": {
+        "text": "[Here's your Salvation♪]",
+        "hash": "76774d7d5082c3b84f9bca54619d417cb1b4e943ecb518d914b323409032037c"
     },
     "20037": {
         "text": "[GRMA Ramen♪]",
@@ -763,6 +787,20 @@
     "20077": {
         "text": "[In Shape with Lotion]",
         "hash": "e127625ddab415100e4c1f34031dedbb694e5852af53181c74826428c0c6bd3f"
+    },
+    "20078": {
+        "text": "[May this Charm bring Prosperity!]",
+        "hash": "519c870ee2d5ac38d48b60392aac6efdd2a5d04031de30da588a3028f697905b",
+        "processed": "<sc=80>[May this Charm bring Prosperity!]"
+    },
+    "20079": {
+        "text": "[Good Marvelous to Everyone☆]",
+        "hash": "d40deb1f82788958670ca52bafdac9c086a7ffc0567fd4f14c0d9dbdc0b44979",
+        "processed": "<sc=86>[Good Marvelous to Everyone☆]"
+    },
+    "20080": {
+        "text": "[Hanagoromo for You]",
+        "hash": "5d4726a815b7ccab3507649c1728060924ac407f14f4f919743f0e08a9e448c2"
     },
     "30001": {
         "text": "[Japan's Number 1 Stage]",
@@ -1609,5 +1647,93 @@
     "30202": {
         "text": "[My Ride for Tomorrow]",
         "hash": "ca7e72a400780c986e30f056fb3bc773664bfab6b6b03bc117009cc7e20066e3"
+    },
+    "30203": {
+        "text": "[Opening a new Era]",
+        "hash": "b2cf50aa4fe56e24b373ec9665bfc4c141576c6072ea484a9aba5d5087c0dbfc"
+    },
+    "30204": {
+        "text": "[Dozing in the Scent of Happiness]",
+        "hash": "51af66b8d440907d9c197bbf7fc2643578bf3cfd26844961f8bcab26b35767a3",
+        "processed": "<sc=80>[Dozing in the Scent of Happiness]"
+    },
+    "30205": {
+        "text": "[Azure Coronation]",
+        "hash": "dd439ee9499c5264b6558665f3c655b713801bde667b0a130d3c846567417bc1"
+    },
+    "30206": {
+        "text": "[Dream of Alstroemeria]",
+        "hash": "2f66a38bc1365757ac65454ef5398a7910447921d410154c13e0ca4e5504a4f6"
+    },
+    "30207": {
+        "text": "[Cultivate! Giant Carrot of Dreams!]",
+        "hash": "4de9c0dc06c9cc322f4fffc1fa8d35eccfceb3127765549c13f762f302dbc238",
+        "processed": "<sc=78>[Cultivate! Giant Carrot of Dreams!]"
+    },
+    "30208": {
+        "text": "[The Strawberry Field at Dawn]",
+        "hash": "15caef1a9caf21ec3a3a3e4635c9748e68985378b612b7a3f6d70443e5fd7aa3",
+        "processed": "<sc=89>[The Strawberry Field at Dawn]"
+    },
+    "30209": {
+        "text": "[And the Curtains Rise]",
+        "hash": "8c7b3ac4b3ea29a230257293cd71e82a2ab855cae5691554fea370dc60376f5e"
+    },
+    "30210": {
+        "text": "[Candid Shot Between The Waves]",
+        "hash": "9cba32edd26b7f2daa9efed6bbcf1793c47c0fc0fd388af841be01e2ae5ee108",
+        "processed": "<sc=81>[Candid Shot Between The Waves]"
+    },
+    "30211": {
+        "text": "[Lucky☆Summertime]",
+        "hash": "ac64ece44638f4b591b20a070156a889b01676a8395ad1afce509dbfbdace4de"
+    },
+    "30212": {
+        "text": "[That Summer's Cut-off Line]",
+        "hash": "8aa311e74d0e9059767f4e3a32fcce4f73bc30891f0a7c43a99b756623c99314",
+        "processed": "<sc=95>[That Summer's Cut-off Line]"
+    },
+    "30213": {
+        "text": "[The Slapdash Grand Prix has Begun]",
+        "hash": "13ccb9ae36ecc8f64ec9353fdecae2e4e648584b891a3225bb48de0b98cad97d",
+        "processed": "<sc=74>[The Slapdash Grand Prix has Begun]"
+    },
+    "30214": {
+        "text": "[Full of History and Good Food]",
+        "hash": "b7a10d1e39098ace2e9f889a19ea13d852763543ba8a01bedf2e0140ea7c45c4",
+        "processed": "<sc=88>[Full of History and Good Food]"
+    },
+    "30215": {
+        "text": "[Devilish Whispers]",
+        "hash": "f94b6b042991f60fce6604144827f5d379110750de1e1f3cd691625ecafeed00"
+    },
+    "30216": {
+        "text": "[With Love to Our School]",
+        "hash": "cda506215c8543e94d10576c2bd960dbc842b45704adb14a76b509c76163feb7"
+    },
+    "30217": {
+        "text": "[Mother Sea of Love]",
+        "hash": "c1c6a4b4b81266eef6a84c9eb62fb4c20ed7758e722335164a96786fff5773c6"
+    },
+    "30218": {
+        "text": "[Sunshine Under the Moon]",
+        "hash": "ea2782540cd8685d1f6dac23d1ef33e2a569aa062e83c30002d4e4eea05fbfc2"
+    },
+    "30219": {
+        "text": "[Something troubling you, Pony-chan?]",
+        "hash": "2f7f238fe973f6f464e02609614435c8a20a7b4862064002eb5c2a1a0d16275a",
+        "processed": "<sc=70>[Something troubling you, Pony-chan?]"
+    },
+    "30220": {
+        "text": "[Rewarding Job]",
+        "hash": "7581817d80e42756864f5f139dc9972053d116b2ac70c847966c740fac757cf9"
+    },
+    "30221": {
+        "text": "[Fun and Food Every Day]",
+        "hash": "4222c8bc11b11539ba70d955bb87fcd99082589ead8eb0cb9182b07d6a574b36"
+    },
+    "30222": {
+        "text": "[KNOCK 'EM DOWN!]",
+        "hash": "01d5a1a5de3e8bb98fa54d6cd6827f80f8021c50913cf127eb520bb092e6d5ef"
     }
 }

@@ -24,8 +24,6 @@ from multiprocessing.pool import Pool
 import re
 import hashlib
 
-DLL_NAMES = ['version.dll', 'umpdc.dll', 'xinput1_3.dll']
-
 hyphen_dict = pyphen.Pyphen(lang='en_US')
 
 relative_dir = os.path.abspath(os.getcwd())
@@ -102,6 +100,9 @@ ASSEMBLY_FOLDER_EDITING = INTERMEDIATE_PREFIX + "assembly\\"
 
 DIFF_FOLDER = TL_PREFIX + "diff\\"
 
+GACHA_COMMENT_TL_PATH = ASSETS_FOLDER + "\\gacha\\comment\\translations.json"
+GACHA_COMMENT_TL_PATH_EDITING = ASSETS_FOLDER_EDITING + "\\gacha\\comment\\translations.json"
+
 TABLE_PREFIX = '_carotene'
 TABLE_BACKUP_PREFIX = TABLE_PREFIX + "_bak_"
 
@@ -110,6 +111,8 @@ META_BACKUP_TABLE = TABLE_BACKUP_PREFIX + "a"
 DLL_BACKUP_SUFFIX = ".bak"
 
 DMM_CONFIG_PATH = os.path.expandvars("%AppData%\dmmgameplayer5\dmmgame.cnf")
+
+CELLAR_URL = "https://github.com/Hachimi-Hachimi/Cellar/releases/latest/download/dxgi.dll"
 
 def version_to_string(version):
     return "v" + ".".join(str(v) for v in version)
@@ -173,6 +176,9 @@ def load_json(path):
 
 
 def save_json(path, data):
+    dir_path = os.path.dirname(path)
+    if dir_path:
+        os.makedirs(dir_path, exist_ok=True)
     with open(path, "w", encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 

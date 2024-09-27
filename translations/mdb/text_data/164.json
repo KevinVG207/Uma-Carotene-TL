@@ -20,7 +20,7 @@
         "hash": "8f04ce801c6564f8f68b285c2a12f9c4a3248a17515115a1e6494a602cca92b6"
     },
     "1006": {
-        "text": "Eating food",
+        "text": "Eating delicious food",
         "hash": "1bb7619b2af480249e950b75d1ad71d8576b0557f43a20c95fb257f3b6da9b11"
     },
     "1007": {
@@ -28,11 +28,11 @@
         "hash": "7637fd88379bbb5791373ef7d8a0a1f1c4c9c3440b646f433b05691a5fd8c49a"
     },
     "1008": {
-        "text": "Riding air-motorcycles",
+        "text": "Acting like she's riding a motorcycle",
         "hash": "a027b553df582644da24ceed68791d7b7bae3a7c8d98e6a7ee6f49578782cb8b"
     },
     "1009": {
-        "text": "Studying and housework",
+        "text": "Studying, Housework",
         "hash": "30e07f1c1aa4490255f361cacd5cf99434e3318a46dbfb267f970ceef7c62420"
     },
     "1010": {
@@ -100,7 +100,7 @@
         "hash": "e388d11b143e4dba5d63e982a47b72e3004db4f2f8cc5f08b7b919cf282164d1"
     },
     "1026": {
-        "text": "Staring",
+        "text": "Staredowns",
         "hash": "c78a080251dafb3995271c38a716fae87f22c56547a955c74450edd946070521"
     },
     "1027": {
@@ -108,7 +108,7 @@
         "hash": "737ab872e63a71c21c1367375f77c1613318a4b9f8bd96e1e77d7e36b180eb0a"
     },
     "1028": {
-        "text": "Baking and sumo wrestling",
+        "text": "Baking, sumo wrestling",
         "hash": "23576e520609a796806318678e90b0b11e46cc32e850ce2da3cb5d99152955e1"
     },
     "1029": {
@@ -128,11 +128,11 @@
         "hash": "94223a0894ad098d3902dc18e2632b7e07f766319a293cb48a6a0e3221e30ab5"
     },
     "1033": {
-        "text": "Reading, cold weather",
+        "text": "Reading out loud, cold weather",
         "hash": "98b9b109f8d7da719bb0a81c733cfa4eaeaa9ff0eb903593747f384fc9f7971c"
     },
     "1034": {
-        "text": "Target Shooting, Mold Cutting, Goldfish Scooping",
+        "text": "Target phooting, die cutting, goldfish scooping",
         "hash": "5a03cc63ba241369e85ed23c4dbbeaab61886171c8fd727992320a236be24e4a"
     },
     "1035": {
@@ -164,7 +164,7 @@
         "hash": "a4f018316f635c405344aeaf57b9077e16e2ed93a1293aa154f6c45928d98521"
     },
     "1042": {
-        "text": "Pantomime, Presentations",
+        "text": "Pantomime, presentations",
         "hash": "1ce112f434c8e5054ce5cfe60257006bafde006970b88a6b7d2b7eb731dd2b84"
     },
     "1043": {
@@ -228,7 +228,7 @@
         "hash": "28282c5109868e48c9293b897aaacdf8ec87e35e6abe5e7557f9a948371fc1f5"
     },
     "1058": {
-        "text": "Never giving up, Enka",
+        "text": "Never giving up, enka",
         "hash": "0e048554ea01b49468dc25beacf151df607325a84082d6fd4924254b6890d1f1"
     },
     "1059": {
@@ -244,7 +244,7 @@
         "hash": "8c5898e42a32691458c84ee64fb7a61046627620d6f2178029c796745a0016d6"
     },
     "1062": {
-        "text": "Tug-of-war, Love advice (her own words)",
+        "text": "Tug-of-war, love advice (her own words)",
         "hash": "3deb7f1847f04799802b4a202824999d5efc3950ea5b6b3c56e2fad8dbc44bf3"
     },
     "1063": {
@@ -300,12 +300,16 @@
         "hash": "50e867c42c43905a85b14027ae2a9fdb88f1f646c48599167008356545d5b287"
     },
     "1078": {
-        "text": "Tonguing, flying kites, song & dance improv",
+        "text": "Tonguing (wind instruments), flying kites, song & dance improv",
         "hash": "2b07e9839088a1f627ea38b7bb2e15f1af6b9b42679cc316836d7b77b25d9b2a"
     },
     "1080": {
         "text": "Video editing, holding chopsticks, string figures",
         "hash": "16610a09826f2a8db94e5a2956029426c21038bf4949e9a6116617bad296898f"
+    },
+    "1082": {
+        "text": "Outfit coordination, Yoga, Memory (card game)",
+        "hash": "425f2d38ba0a6ddcb906416c2bab6d83e5b0b7812bc7977a8ecd050ebf1d18c1"
     },
     "1083": {
         "text": "Making protein drinks",
@@ -342,6 +346,10 @@
     "1093": {
         "text": "Guiding the way, transcribing music by ear",
         "hash": "2b685632734fe6c2239810884e806f81f5e2d0af74c99b3236ba3eac20791cee"
+    },
+    "1094": {
+        "text": "Huddling, climbing trees, the first karaoke song.",
+        "hash": "e07fcaddec53d1cc95acc3f6d9240e4adf3fa325c4c7e79a83055400b1851ce1"
     },
     "1098": {
         "text": "Cleaning, decluttering, plant care",
@@ -382,5 +390,25 @@
     "1109": {
         "text": "Making things by hand, rock climbing",
         "hash": "15af9781bdfb3cc43047ac70ddef965cdaec281ab1a8747ae256878fbedb916f"
+    },
+    "1110": {
+        "text": "Singing, weighing by feel, disguising",
+        "hash": "d50d0e04dd9d70e4849ff44bd8c66353d21124949fa204d554b5dcafec9635a5"
+    },
+    "1116": {
+        "text": "Diving, horseshoeing, mascara",
+        "hash": "a2f044a8418a7f2946a90c429f24e06e0ac0c5ee7e71065f314f9b3264f90555"
+    },
+    "1119": {
+        "text": "Mental support, packing",
+        "hash": "3996667eac3d710b876150c8e04f0b03e1a6ce09d64f08b990ff03516282a8fa"
+    },
+    "1120": {
+        "text": "Cleaning floors, racing duels while dizzy.",
+        "hash": "a142b5672b86cbb7a022cdad0becd115e9a0051819d846bc1178e3f9c0b20342"
+    },
+    "1121": {
+        "text": "Mowing grass, writing in-depth reviews of romance shows.",
+        "hash": "4e85cd9e6ab63571122e2360de70871d93ffe1834da9bbb04052f510cc45f299"
     }
 }

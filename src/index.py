@@ -306,6 +306,11 @@ def update_story_intermediate(path_to_existing):
 
     if existing_data['hash'] != intermediate_data['hash']:
         return
+    
+    title = existing_data.get('title')
+    if title:
+        intermediate_data['title'] = title
+
     for i, line in enumerate(existing_data['data']):
         if existing_data['file_name'].startswith("race/"):
             intermediate_data['data'][i]['text'] = line
@@ -657,50 +662,25 @@ def index_textures():
 
     all_textures = []
 
+    texture_patterns = [
+        'atlas/%_tex',
+        'uianimation/flash/%',
+        'home/ui/texture/%',
+        'sourceresources/flash/%',
+        'chara/chr____/petit/%007_',
+        'outgame/comic/tex_%',
+        'race/racetitle/%',
+        'gacha/%'
+    ]
+
     with util.MetaConnection() as (_, cursor):
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'atlas/%_tex' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'uianimation/flash/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'home/ui/texture/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'sourceresources/flash/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        # Character "Train" buttons
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'chara/chr____/petit/%007_' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        # Comics
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'outgame/comic/tex_%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
-
-        cursor.execute(
-            """SELECT n, h FROM a WHERE n like 'race/racetitle/%' ORDER BY n ASC;"""
-        )
-        rows = cursor.fetchall()
-        all_textures += rows
+        for pattern in texture_patterns:
+            cursor.execute(
+                """SELECT n, h FROM a WHERE n like ? ORDER BY n ASC;""",
+                (pattern,)
+            )
+            rows = cursor.fetchall()
+            all_textures += rows
 
     if not all_textures:
         raise ValueError("No textures found in meta DB.")
@@ -897,15 +877,32 @@ def index_movies():
     # for file in xor_files:
     #     index_xor_file(file)
 
+def index_gacha_comment():
+    new = {}
+    old = {}
+
+    new_path = util.GACHA_COMMENT_TL_PATH
+    old_path = util.GACHA_COMMENT_TL_PATH_EDITING
+
+    if os.path.exists(new_path):
+        new = util.load_json(new_path)
+    if os.path.exists(old_path):
+        old = util.load_json(old_path)
+    
+    old.update(new)
+
+    util.save_json(old_path, old)
+
 
 
 def index_assets():
     print("=== EXTRACTING ASSETS ===")
-    index_lyrics()
+    # index_lyrics()
     index_story()
     index_textures()
     index_flash()
     index_movies()
+    index_gacha_comment()
 
 
 def index_jpdict():

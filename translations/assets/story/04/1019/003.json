@@ -1,0 +1,514 @@
+{
+    "type": "story",
+    "row_index": 449,
+    "file_name": "story/data/04/1019/storytimeline_041019003",
+    "hash": "NWJA4VD2O45KU3THIKIEPGY2WZGSJB3Q",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -4497586823315812330,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "A while later. I wanted to hear Agnes Digital out some more, so \nI went to look for her.",
+            "name": "",
+            "path_id": 8665508776447745324,
+            "block_id": 1,
+            "clip_length": 95,
+            "processed": "<story>A while later. I wanted to hear Agnes Digital out some more, so \n<story>I went to look for her."
+        },
+        {
+            "text": "...You there. What are you up to, looking all shifty? \nAre you perhaps, perish the thought, stalking Umamusume, in \nbroad daylight?",
+            "name": "Agnes Tachyon",
+            "path_id": -3766760461880649093,
+            "block_id": 2,
+            "clip_length": 269,
+            "processed": "<story>...You there. What are you up to, looking all shifty? \n<story>Are you perhaps, perish the thought, stalking Umamusume, in \n<story>broad daylight?"
+        },
+        {
+            "text": "Ahahaha! I kid, I kid. That'd make you a dead ringer for the \n\"Umamusume-chan-loving trainer\" Digital-kun's been talking \nabout.",
+            "name": "Agnes Tachyon",
+            "path_id": -5907067888554655041,
+            "block_id": 3,
+            "clip_length": 289,
+            "choices": [
+                {
+                    "text": "You know Agnes Digital?",
+                    "hash": "ffa5bb97acf42d3ffff8bd482adb21568f55d6626dd660c527d54c6772dc75ed"
+                },
+                {
+                    "text": "You know Agnes Digital?",
+                    "hash": "1ee85c506cceceb148dbcfa3c4a7ab41fc0b80efe672695876c21244e1133111"
+                }
+            ],
+            "processed": "<story>Ahahaha! I kid, I kid. That'd make you a dead ringer for the \n<story>\"Umamusume-chan-loving trainer\" Digital-kun's been talking \n<story>about."
+        },
+        {
+            "text": "Oh, dear, it really <i>is</i> you? \nWell, well...",
+            "name": "Agnes Tachyon",
+            "path_id": 7242789000807472847,
+            "block_id": 4,
+            "clip_length": 175,
+            "processed": "<story>Oh, dear, it really <i>is</i> you? \n<story>Well, well..."
+        },
+        {
+            "text": "If you're looking for Digital-kun, she's out right now. En route to \nthe train station, by the look of it. I'd wager she's on the hunt for \nmore Umamusume merch, as usual――",
+            "name": "Agnes Tachyon",
+            "path_id": -6345664521234926025,
+            "block_id": 5,
+            "clip_length": 248,
+            "choices": [
+                {
+                    "text": "Thanks!",
+                    "hash": "b16704380c93fa87f1402b6f473235988cfc56270bba01d1ed134288d0f24bdd"
+                }
+            ],
+            "processed": "<story>If you're looking for Digital-kun, she's out right now. En route to \n<story>the train station, by the look of it. I'd wager she's on the hunt for \n<story>more Umamusume merch, as usual――"
+        },
+        {
+            "text": "...Hmm, a trainer seeking out Digital-kun, eh? \nWill she able to keep someone like that at arm's length? \nFufu, how fascinating.",
+            "name": "Agnes Tachyon",
+            "path_id": 7888233695567462540,
+            "block_id": 6,
+            "clip_length": 426,
+            "processed": "<story>...Hmm, a trainer seeking out Digital-kun, eh? \n<story>Will she able to keep someone like that at arm's length? \n<story>Fufu, how fascinating."
+        },
+        {
+            "text": "Following Agnes Tachyon's advice, I kept looking for Digital. And \nthen――",
+            "name": "",
+            "path_id": -3141843969777728570,
+            "block_id": 7,
+            "clip_length": 91,
+            "processed": "<story>Following Agnes Tachyon's advice, I kept looking for Digital. And \n<story>then――"
+        },
+        {
+            "text": "Ahh~...",
+            "name": "Agnes Digital",
+            "path_id": 1307264907663138491,
+            "block_id": 8,
+            "clip_length": 129,
+            "processed": "<story>Ahh~..."
+        },
+        {
+            "text": "Oh, legs gliding upon verdant grass, full of elegance and grace... \nOh, legs pushing with force upon the earth, full of vim and vigor...",
+            "name": "Agnes Digital",
+            "path_id": -7979807481341025658,
+            "block_id": 9,
+            "clip_length": 420,
+            "processed": "<story>Oh, legs gliding upon verdant grass, full of elegance and grace... \n<story>Oh, legs pushing with force upon the earth, full of vim and vigor..."
+        },
+        {
+            "text": "Which prints do I buy? ――A foolish question! \nI'm getting both, obviously!",
+            "name": "Agnes Digital",
+            "path_id": -8575208670886115869,
+            "block_id": 10,
+            "clip_length": 190,
+            "processed": "<story>Which prints do I buy? ――A foolish question! \n<story>I'm getting both, obviously!"
+        },
+        {
+            "text": "Ahhh, thou who art in heaven, hallowed be thy name! \nFor granting me life in a world blessed with so many goddesses!",
+            "name": "Agnes Digital",
+            "path_id": 884377655132639893,
+            "block_id": 11,
+            "clip_length": 216,
+            "processed": "<story>Ahhh, thou who art in heaven, hallowed be thy name! \n<story>For granting me life in a world blessed with so many goddesses!"
+        },
+        {
+            "text": "Yes―― I, Digitan, devote my youth to <i>you</i>, Umamusume-chans! \nI was wrong to even <i>think</i> about running with them!",
+            "name": "Agnes Digital",
+            "path_id": 3272564059828357978,
+            "block_id": 12,
+            "clip_length": 293,
+            "choices": [
+                {
+                    "text": "What....!?",
+                    "hash": "c4cef3181aec2f9521439bb5f32a4524ae765cd8d1323acb13f635886adb6756"
+                }
+            ],
+            "processed": "<story>Yes―― I, Digitan, devote my youth to <i>you</i>, Umamusume-chans! \n<story>I was wrong to even <i>think</i> about running with them!"
+        },
+        {
+            "text": "Uh, whaddya want...? Whom...?",
+            "name": "Agnes Digital",
+            "path_id": -1879691741789046178,
+            "block_id": 13,
+            "clip_length": 79,
+            "processed": "<story>Uh, whaddya want...? Whom...?"
+        },
+        {
+            "text": "Bwah...!? I- Th...!? \n<i>Sori, but, did, yoo, purhaps, here, every, thing, eye, sed...?</i>",
+            "name": "Agnes Digital",
+            "path_id": -8304499603765735910,
+            "block_id": 14,
+            "clip_length": 276,
+            "choices": [
+                {
+                    "text": "....Yep.",
+                    "hash": "710c7a1c9b8e7ae39a60b79b83dcfa6b6943a64acb984210672b2345bd7a9ad2"
+                }
+            ],
+            "processed": "<story>Bwah...!? I- Th...!? \n<story><i>Sori, but, did, yoo, purhaps, here, every, thing, eye, sed...?</i>"
+        },
+        {
+            "text": "<i>Óh</i>......",
+            "name": "Agnes Digital",
+            "path_id": -7787502613451388555,
+            "block_id": 15,
+            "clip_length": 37,
+            "processed": "<story><i>Óh</i>......"
+        },
+        {
+            "text": "Well, you already overhead all <i>that</i>――",
+            "name": "Agnes Digital",
+            "path_id": 6738225185372946242,
+            "block_id": 16,
+            "clip_length": 122,
+            "processed": "<story>Well, you already overhead all <i>that</i>――"
+        },
+        {
+            "text": "But this is seriously the biggest of the biggest of big questions! \nJust think about it! Who am I!? That's RIGHT――!",
+            "name": "Agnes Digital",
+            "path_id": -858432746057714223,
+            "block_id": 17,
+            "clip_length": 262,
+            "processed": "<story>But this is seriously the biggest of the biggest of big questions! \n<story>Just think about it! Who am I!? That's RIGHT――!"
+        },
+        {
+            "text": "――I am AGNES DIGITAL! The Umamusume who loves \nUmamusume-chans more than any other!",
+            "name": "Agnes Digital",
+            "path_id": 1198787727302302885,
+            "block_id": 18,
+            "clip_length": 176,
+            "processed": "<story>――I am AGNES DIGITAL! The Umamusume who loves \n<story>Umamusume-chans more than any other!"
+        },
+        {
+            "text": "Do you really think I can just <i>choose </i>between turf \nUmamusume-chans and dirt Umamusume-chans?",
+            "name": "Agnes Digital",
+            "path_id": -5724728588251359030,
+            "block_id": 19,
+            "clip_length": 227,
+            "processed": "<story>Do you really think I can just <i>choose </i>between turf \n<story>Umamusume-chans and dirt Umamusume-chans?"
+        },
+        {
+            "text": "No way, no way, no freaking way!! It's just as impossible as \nplaying the mandolin without a pick!!",
+            "name": "Agnes Digital",
+            "path_id": -2064805574119304161,
+            "block_id": 20,
+            "clip_length": 224,
+            "choices": [
+                {
+                    "text": "And that's why you won't run yourself?",
+                    "hash": "4a8d1c73c38de05259ad916e0c3a0f165632d585b58f30b49af13db302343e8f",
+                    "processed": "<size=42>And that's why you won't run yourself?</size>"
+                }
+            ],
+            "processed": "<story>No way, no way, no freaking way!! It's just as impossible as \n<story>playing the mandolin without a pick!!"
+        },
+        {
+            "text": "<i>Exaaactly</i>. The perfect place for me is quietly revering my faves \nbehind the monitor...",
+            "name": "Agnes Digital",
+            "path_id": 61270533116478470,
+            "block_id": 21,
+            "clip_length": 281,
+            "processed": "<story><i>Exaaactly</i>. The perfect place for me is quietly revering my faves \n<story>behind the monitor..."
+        },
+        {
+            "text": "Ahh... On that fateful day of my childhood, watching those \nUmamusume-chans on TV, just how moved I was... \nHow could I ever forget...",
+            "name": "Agnes Digital",
+            "path_id": 5775355887079151567,
+            "block_id": 22,
+            "clip_length": 302,
+            "processed": "<story>Ahh... On that fateful day of my childhood, watching those \n<story>Umamusume-chans on TV, just how moved I was... \n<story>How could I ever forget..."
+        },
+        {
+            "text": "Seeing the Umamusume-chans clash, each with her own feelings \nin tow... It wasn't just their brilliance that moved me...",
+            "name": "Agnes Digital",
+            "path_id": -1665627804801144815,
+            "block_id": 23,
+            "clip_length": 270,
+            "processed": "<story>Seeing the Umamusume-chans clash, each with her own feelings \n<story>in tow... It wasn't just their brilliance that moved me..."
+        },
+        {
+            "text": "It was their \"will\"...! \nTheir will made me think they were just so precious.",
+            "name": "Agnes Digital",
+            "path_id": -398858045247469400,
+            "block_id": 24,
+            "clip_length": 143,
+            "processed": "<story>It was their \"will\"...! \n<story>Their will made me think they were just so precious."
+        },
+        {
+            "text": "I was blessed enough to be born an Umamusume, too. \n――And an Umamusume <i>has</i> to run!",
+            "name": "Agnes Digital",
+            "path_id": -715278886822038373,
+            "block_id": 25,
+            "clip_length": 189,
+            "processed": "<story>I was blessed enough to be born an Umamusume, too. \n<story>――And an Umamusume <i>has</i> to run!"
+        },
+        {
+            "text": "The race is the ultimate stage for Umamusume-chans to shine! \nAnd I wanted to see every last one of them shine as bright as \nthey can! I wanted to support them with everything I had!",
+            "name": "Agnes Digital",
+            "path_id": 4416793756742015592,
+            "block_id": 26,
+            "clip_length": 290,
+            "processed": "<story>The race is the ultimate stage for Umamusume-chans to shine! \n<story>And I wanted to see every last one of them shine as bright as \n<story>they can! I wanted to support them with everything I had!"
+        },
+        {
+            "text": "Even though choosing would force me to miss some of them. \nEven then...! \n...I steeled my will, I guess.",
+            "name": "Agnes Digital",
+            "path_id": -1744816649591806179,
+            "block_id": 27,
+            "clip_length": 334,
+            "processed": "<story>Even though choosing would force me to miss some of them. \n<story>Even then...! \n<story>...I steeled my will, I guess."
+        },
+        {
+            "text": "I enrolled at Tracen Academy. \nBut when I took just one step on school grounds――",
+            "name": "Agnes Digital",
+            "path_id": -6357195648291793035,
+            "block_id": 28,
+            "clip_length": 246,
+            "processed": "<story>I enrolled at Tracen Academy. \n<story>But when I took just one step on school grounds――"
+        },
+        {
+            "text": "Hee hee hee, hoo hoo hoo... \nAhh, the air is brimming with Umamusume-chans' lovely \nlaughter...",
+            "name": "Agnes Digital",
+            "path_id": 628203522747529302,
+            "block_id": 29,
+            "clip_length": 243,
+            "processed": "<story>Hee hee hee, hoo hoo hoo... \n<story>Ahh, the air is brimming with Umamusume-chans' lovely \n<story>laughter..."
+        },
+        {
+            "text": "My faves are here, flesh and blood! They're real... They're 3D... \nTheir breathing, their heartbeats, their footsteps, I can hear them \nall up close!",
+            "name": "Agnes Digital",
+            "path_id": -8027567568761031989,
+            "block_id": 30,
+            "clip_length": 326,
+            "processed": "<story>My faves are here, flesh and blood! They're real... They're 3D... \n<story>Their breathing, their heartbeats, their footsteps, I can hear them \n<story>all up close!"
+        },
+        {
+            "text": "Ahhh, these aren't just pictures on a screen! \nThey're the real Umamusume-chans of Tracen Academy... \n...When that realization hit me――",
+            "name": "Agnes Digital",
+            "path_id": 4350407359786981129,
+            "block_id": 31,
+            "clip_length": 290,
+            "processed": "<story>Ahhh, these aren't just pictures on a screen! \n<story>They're the real Umamusume-chans of Tracen Academy... \n<story>...When that realization hit me――"
+        },
+        {
+            "text": "<i>――Oh, it blew my freaking mind!!!</i>",
+            "name": "Agnes Digital",
+            "path_id": -8863506665174999937,
+            "block_id": 32,
+            "clip_length": 109,
+            "processed": "<story><i>――Oh, it blew my freaking mind!!!</i>"
+        },
+        {
+            "text": "\"I steeled my will\"!? Are you <i>kidding</i>? My flimsy will wasn't \nworth squat!!",
+            "name": "Agnes Digital",
+            "path_id": 2304373749759874202,
+            "block_id": 33,
+            "clip_length": 145,
+            "processed": "<story>\"I steeled my will\"!? Are you <i>kidding</i>? My flimsy will wasn't \n<story>worth squat!!"
+        },
+        {
+            "text": "Not when I got to see all my beloved Umamusume-chans in IRL \nHD...!! And to top it all off, I find out I've got the goods for <i>both </i> \ntrack types?",
+            "name": "Agnes Digital",
+            "path_id": -3805796159446409185,
+            "block_id": 34,
+            "clip_length": 300,
+            "processed": "<story>Not when I got to see all my beloved Umamusume-chans in IRL \n<story>HD...!! And to top it all off, I find out I've got the goods for <i>both </i> \n<story>track types?"
+        },
+        {
+            "text": "There's just no way!! How the heck am I supposed to choose \nbetween turf and dirt?!!!!",
+            "name": "Agnes Digital",
+            "path_id": 1129258574282662472,
+            "block_id": 35,
+            "clip_length": 137,
+            "processed": "<story>There's just no way!! How the heck am I supposed to choose \n<story>between turf and dirt?!!!!"
+        },
+        {
+            "text": "...Nay, the truest choice is not to choose at all!!! \n<i>That</i> is the way of the fan!!!",
+            "name": "Agnes Digital",
+            "path_id": 6139220591743320100,
+            "block_id": 36,
+            "clip_length": 185,
+            "processed": "<story>...Nay, the truest choice is not to choose at all!!! \n<story><i>That</i> is the way of the fan!!!"
+        },
+        {
+            "text": "So I'm <i>not</i> going to choose!! \nI'm not going to run on EITHER track!!!!",
+            "name": "Agnes Digital",
+            "path_id": -2322151735929220854,
+            "block_id": 37,
+            "clip_length": 170,
+            "processed": "<story>So I'm <i>not</i> going to choose!! \n<story>I'm not going to run on EITHER track!!!!"
+        },
+        {
+            "text": "She put it all out in the open. \nYou could say she had nothing to hide. But――",
+            "name": "",
+            "path_id": 7023702412026178243,
+            "block_id": 38,
+            "clip_length": 90,
+            "processed": "<story>She put it all out in the open. \n<story>You could say she had nothing to hide. But――"
+        },
+        {
+            "text": "So, what about you? Do you think you've got time to waste on \nlittle old me? Shouldn't you go give your attention to those other \nUmamusume-chans?",
+            "name": "Agnes Digital",
+            "path_id": 4521116054159498048,
+            "block_id": 39,
+            "clip_length": 256,
+            "choices": [
+                {
+                    "text": "(There's another way of looking at this...)",
+                    "hash": "fc907f4a7a5c3168c284bad2e05af65ee5a0898fa5665e4ae1a05956981d1fde",
+                    "processed": "<size=40>(There's another way of looking at this...)</size>"
+                }
+            ],
+            "processed": "<story>So, what about you? Do you think you've got time to waste on \n<story>little old me? Shouldn't you go give your attention to those other \n<story>Umamusume-chans?"
+        },
+        {
+            "text": "Fu fu fu. Don't have a comeback, now do you? \nWell, then, I'll be off――",
+            "name": "Agnes Digital",
+            "path_id": 4878736076844571714,
+            "block_id": 40,
+            "clip_length": 248,
+            "choices": [
+                {
+                    "text": "――You've got a stronger will than anyone else!",
+                    "hash": "c5d41eb9267e465695dabaa367b815971a0b672e0d8538ba7da4ecc7b184034d",
+                    "processed": "<size=34>――You've got a stronger will than anyone else!</size>"
+                },
+                {
+                    "text": "――You've got a stronger will than anyone else!",
+                    "hash": "73a390277c34564022d3ef860bd7a072824203589e9d84eb457abbdd407ecc43",
+                    "processed": "<size=34>――You've got a stronger will than anyone else!</size>"
+                }
+            ],
+            "processed": "<story>Fu fu fu. Don't have a comeback, now do you? \n<story>Well, then, I'll be off――"
+        },
+        {
+            "text": "......What?",
+            "name": "Agnes Digital",
+            "path_id": 1672476796231088840,
+            "block_id": 41,
+            "clip_length": 29,
+            "processed": "<story>......What?"
+        },
+        {
+            "text": "...Uh, were you, perchance, not listening to what I said? \nI didn't even have the will to make that choice, you know?",
+            "name": "Agnes Digital",
+            "path_id": -6473995852083928769,
+            "block_id": 42,
+            "clip_length": 257,
+            "choices": [
+                {
+                    "text": "No, you had the will to <i>not</i> make that choice!",
+                    "hash": "74bf02a69f311fd0cdab0ac806b08d41d1e7690c82362c5b25fefb0d938ec3ec",
+                    "processed": "<size=37>No, you had the will to <i>not</i> make that choice!</size>"
+                },
+                {
+                    "text": "No, you had the will to <i>not</i> make that choice!",
+                    "hash": "056993fa366f0bb7363c4288bda0849dee420f61b695199d8c8be9d93de9675e",
+                    "processed": "<size=37>No, you had the will to <i>not</i> make that choice!</size>"
+                }
+            ],
+            "processed": "<story>...Uh, were you, perchance, not listening to what I said? \n<story>I didn't even have the will to make that choice, you know?"
+        },
+        {
+            "text": "Bwuh...?",
+            "name": "Agnes Digital",
+            "path_id": 4268893166815573073,
+            "block_id": 43,
+            "clip_length": 34,
+            "processed": "<story>Bwuh...?"
+        },
+        {
+            "text": "I remembered―― Despite her small size, she showed tremendous \nstrength on the dirt track.",
+            "name": "",
+            "path_id": -2579547997760862781,
+            "block_id": 44,
+            "clip_length": 101,
+            "processed": "<story>I remembered―― Despite her small size, she showed tremendous \n<story>strength on the dirt track."
+        },
+        {
+            "text": "And she ran nimbly across the turf, with just as much skill as she \ndid on dirt.",
+            "name": "",
+            "path_id": 8699587171049120680,
+            "block_id": 45,
+            "clip_length": 91,
+            "processed": "<story>And she ran nimbly across the turf, with just as much skill as she \n<story>did on dirt."
+        },
+        {
+            "text": "She couldn't choose between them, so she gave it her all on \nboth. So why not use that to her advantage!?――",
+            "name": "",
+            "path_id": -8211928421154809649,
+            "block_id": 46,
+            "clip_length": 108,
+            "processed": "<story>She couldn't choose between them, so she gave it her all on \n<story>both. So why not use that to her advantage!?――"
+        },
+        {
+            "text": "Ummmm... \nI, um, beg your pardon, but I understand not what you are saying \nhere...",
+            "name": "Agnes Digital",
+            "path_id": 8745828060177713531,
+            "block_id": 47,
+            "clip_length": 177,
+            "processed": "<story>Ummmm... \n<story>I, um, beg your pardon, but I understand not what you are saying \n<story>here..."
+        },
+        {
+            "text": "I explained my idea to her right away. \nThen――",
+            "name": "",
+            "path_id": 1716374097795383112,
+            "block_id": 48,
+            "clip_length": 85,
+            "processed": "<story>I explained my idea to her right away. \n<story>Then――"
+        },
+        {
+            "text": "............",
+            "name": "Agnes Digital",
+            "path_id": -1079396650091392149,
+            "block_id": 49,
+            "clip_length": 138,
+            "processed": "<story>............"
+        },
+        {
+            "text": "<i>BWGHAAAAAAAAAAAAAAHHH!!!!!!!???</i>",
+            "name": "Agnes Digital",
+            "path_id": 7716455962087208596,
+            "block_id": 50,
+            "clip_length": 95,
+            "processed": "<story><i>BWGHAAAAAAAAAAAAAAHHH!!!!!!!???</i>"
+        },
+        {
+            "text": "――A few days later. \nWord started to get around about a certain something.",
+            "name": "",
+            "path_id": 4063136992735731334,
+            "block_id": 51,
+            "clip_length": 82,
+            "processed": "<story>――A few days later. \n<story>Word started to get around about a certain something."
+        },
+        {
+            "text": "Hey, d'you hear? The thing with Digital...!",
+            "name": "Vodka",
+            "path_id": 7177161005175245195,
+            "block_id": 52,
+            "clip_length": 104,
+            "processed": "<story>Hey, d'you hear? The thing with Digital...!"
+        },
+        {
+            "text": "I heard! But I still can't believe it. \nIt really came out of nowhere...",
+            "name": "Daiwa Scarlet",
+            "path_id": -4714048842736478960,
+            "block_id": 53,
+            "clip_length": 202,
+            "processed": "<story>I heard! But I still can't believe it. \n<story>It really came out of nowhere..."
+        },
+        {
+            "text": "I can't believe she registered for the both the turf <i>and</i> dirt \nSelection Races...!",
+            "name": "Daiwa Scarlet",
+            "path_id": -509603691616603577,
+            "block_id": 54,
+            "clip_length": 164,
+            "processed": "<story>I can't believe she registered for the both the turf <i>and</i> dirt \n<story>Selection Races...!"
+        }
+    ],
+    "title": "There's no ranking pweciousness!"
+}

@@ -1,0 +1,556 @@
+{
+    "type": "story",
+    "row_index": 174903,
+    "file_name": "story/data/04/1076/storytimeline_041076002",
+    "hash": "XD6R5ZABX2S24YPTJJTPBJRE3WRXR6O2",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8174836204540503890,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "I am――the Uma Musume who will win against that \nunbeatable Brian-chan! ……Laurel. I'm Sakura Laurel♪",
+            "name": "Sakura Laurel",
+            "path_id": -2009793012830883861,
+            "block_id": 1,
+            "clip_length": 270,
+            "processed": "<story>I am――the Uma Musume who will win against that \n<story>unbeatable Brian-chan! ……Laurel. I'm Sakura Laurel♪"
+        },
+        {
+            "text": "The Uma Musume that can't run, Sakura Laurel, just declared \nthat she would win against Narita Brian. However……",
+            "name": "",
+            "path_id": -6355004487048724910,
+            "block_id": 2,
+            "clip_length": 99,
+            "processed": "<story>The Uma Musume that can't run, Sakura Laurel, just declared \n<story>that she would win against Narita Brian. However……"
+        },
+        {
+            "text": "If you can't run, then you can't win. \nThat part concerned me……",
+            "name": "",
+            "path_id": -3745197539167910436,
+            "block_id": 3,
+            "clip_length": 84,
+            "choices": [
+                {
+                    "text": "I want to know. Why can't you run?",
+                    "hash": "6fe59b3e7fedb50f6237d59ac4e7120ee775f59e223b9b787af9db15e8c08a22"
+                },
+                {
+                    "text": "I want to know. Why can't you run?",
+                    "hash": "01fcb7b930a4d0b6310cd2d767be635b4428a51cec5efb79bcad2b7eeb691ee6"
+                }
+            ],
+            "processed": "<story>If you can't run, then you can't win. \n<story>That part concerned me……"
+        },
+        {
+            "text": "Ah, um……well, about that…… \nOf course, I don't mean that I can't run at all……",
+            "name": "Sakura Laurel",
+            "path_id": -5536760175502109834,
+            "block_id": 4,
+            "clip_length": 221,
+            "processed": "<story>Ah, um……well, about that…… \n<story>Of course, I don't mean that I can't run at all……"
+        },
+        {
+            "text": "……right, if it's just a little, maybe it should be fine. \nIn which case, we can head to the course now……",
+            "name": "Sakura Laurel",
+            "path_id": 6612444859544246843,
+            "block_id": 5,
+            "clip_length": 248,
+            "processed": "<story>……right, if it's just a little, maybe it should be fine. \n<story>In which case, we can head to the course now……"
+        },
+        {
+            "text": "Wait just a minute!",
+            "name": "2 Uma Musume",
+            "path_id": 4225182275401843406,
+            "block_id": 6,
+            "clip_length": 52,
+            "processed": "<story>Wait just a minute!"
+        },
+        {
+            "text": "When Sakura Laurel was about to head to the course, \ntwo Uma Musume came rushing towards her.",
+            "name": "",
+            "path_id": 2140493642865738554,
+            "block_id": 7,
+            "clip_length": 97,
+            "processed": "<story>When Sakura Laurel was about to head to the course, \n<story>two Uma Musume came rushing towards her."
+        },
+        {
+            "text": "Laurel-san, please don't push yourself~! \nSuddenly running without any kind of warm-up is reckless~.",
+            "name": "Sakura Chiyono O",
+            "path_id": 6540296629894459882,
+            "block_id": 8,
+            "clip_length": 230,
+            "processed": "<story>Laurel-san, please don't push yourself~! \n<story>Suddenly running without any kind of warm-up is reckless~."
+        },
+        {
+            "text": "Indeed! I can't just let that pass! \nAfter all, I'm a class rep!",
+            "name": "Sakura Bakushin O",
+            "path_id": -1167491641448415913,
+            "block_id": 9,
+            "clip_length": 205,
+            "choices": [
+                {
+                    "text": "You are……",
+                    "hash": "c5bee7f68785165e33dfa6032d47976ad1231c9d3ba84a017e97d8e1e42e2291"
+                },
+                {
+                    "text": "You are……",
+                    "hash": "da1e336b097fc05dec01b72df2ae7968efde2ccb150220ebd84681777f0f7d62"
+                }
+            ],
+            "processed": "<story>Indeed! I can't just let that pass! \n<story>After all, I'm a class rep!"
+        },
+        {
+            "text": "Hello, nice to meet you! I'm Sakura Bakushin O! \nThe class rep that always goes full throttle, Bakushin!",
+            "name": "Sakura Bakushin O",
+            "path_id": -393071173641013220,
+            "block_id": 10,
+            "clip_length": 219,
+            "processed": "<story>Hello, nice to meet you! I'm Sakura Bakushin O! \n<story>The class rep that always goes full throttle, Bakushin!"
+        },
+        {
+            "text": "I'm Sakura Chiyono O. I've always been in Laurel-san's \ncare since I was young. Together with Laurel-san, we're――",
+            "name": "Sakura Chiyono O",
+            "path_id": -5978837925627864440,
+            "block_id": 11,
+            "clip_length": 299,
+            "processed": "<story>I'm Sakura Chiyono O. I've always been in Laurel-san's \n<story>care since I was young. Together with Laurel-san, we're――"
+        },
+        {
+            "text": "Uma Musume from the 『Victory Club』!",
+            "name": "Both",
+            "path_id": 3420827387469927237,
+            "block_id": 12,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "Victory……Club!?",
+                    "hash": "ddaa27d546d82119e32b3bb735cfa2383663811862ce25b3bf50b9e347d32b9b"
+                }
+            ],
+            "processed": "<story>Uma Musume from the 『Victory Club』!"
+        },
+        {
+            "text": "Right! It's a long story, but……",
+            "name": "Sakura Bakushin O",
+            "path_id": 6299068262854453770,
+            "block_id": 13,
+            "clip_length": 105,
+            "processed": "<story>Right! It's a long story, but……"
+        },
+        {
+            "text": "But before that! Laurel-san, please take more \ncare of yourself. After all, um, your legs……",
+            "name": "Sakura Chiyono O",
+            "path_id": -7269394515556453675,
+            "block_id": 14,
+            "clip_length": 295,
+            "processed": "<story>But before that! Laurel-san, please take more \n<story>care of yourself. After all, um, your legs……"
+        },
+        {
+            "text": "Fufuu, thank you for worrying about me, Chiyo-chan. \nYou're right, ever since I was little, my legs……",
+            "name": "Sakura Laurel",
+            "path_id": -8328512260257269655,
+            "block_id": 15,
+            "clip_length": 248,
+            "processed": "<story>Fufuu, thank you for worrying about me, Chiyo-chan. \n<story>You're right, ever since I was little, my legs……"
+        },
+        {
+            "text": "Have been called 『Legs of Glass』.",
+            "name": "Sakura Laurel",
+            "path_id": -8391206271106253195,
+            "block_id": 16,
+            "clip_length": 86,
+            "choices": [
+                {
+                    "text": "『Legs of Glass』……?",
+                    "hash": "c705fa46748b4b46202935a880be02030135045aaad4f05ef46ad864d2bff59e"
+                }
+            ],
+            "processed": "<story>Have been called 『Legs of Glass』."
+        },
+        {
+            "text": "Ah, in regards to that, let me explain.",
+            "name": "Sakura Bakushin O",
+            "path_id": 153252784379096394,
+            "block_id": 17,
+            "clip_length": 125,
+            "processed": "<story>Ah, in regards to that, let me explain."
+        },
+        {
+            "text": "After that, Sakura Bakushin O began \ntelling me about their younger days.",
+            "name": "",
+            "path_id": 5492852496676310691,
+            "block_id": 18,
+            "clip_length": 85,
+            "processed": "<story>After that, Sakura Bakushin O began \n<story>telling me about their younger days."
+        },
+        {
+            "text": "The 『Victory Club』 that we are a part of is a place for \nlittle Uma Musume to gather. It's a famous training club.",
+            "name": "Sakura Bakushin O",
+            "path_id": 3842023377610292544,
+            "block_id": 19,
+            "clip_length": 208,
+            "processed": "<story>The 『Victory Club』 that we are a part of is a place for \n<story>little Uma Musume to gather. It's a famous training club."
+        },
+        {
+            "text": "The club's policies are 『Always carry strong feelings!』 \nand 『Be positive, and full of energy!』. Due to that……",
+            "name": "Sakura Bakushin O",
+            "path_id": 6896282859424503820,
+            "block_id": 20,
+            "clip_length": 280,
+            "processed": "<story>The club's policies are 『Always carry strong feelings!』 \n<story>and 『Be positive, and full of energy!』. Due to that……"
+        },
+        {
+            "text": "Ah! Everyone, make way, make way! \nYou are in the presence of the king of Yamato!",
+            "name": "Young Uma Musume A",
+            "path_id": 7607114311256024489,
+            "block_id": 21,
+            "clip_length": 273,
+            "processed": "<story>Ah! Everyone, make way, make way! \n<story>You are in the presence of the king of Yamato!"
+        },
+        {
+            "text": "No way, no way! Because I'm the king of the world. \nWhen I run, of course, I'm the best in the world~!",
+            "name": "Young Uma Musume B",
+            "path_id": -6726400597571670865,
+            "block_id": 22,
+            "clip_length": 251,
+            "processed": "<story>No way, no way! Because I'm the king of the world. \n<story>When I run, of course, I'm the best in the world~!"
+        },
+        {
+            "text": "It was a gathering place for Uma Musume with the name O, \nand the attitude of O. And among those girls, Laurel-san was……",
+            "name": "Sakura Bakushin O",
+            "path_id": 2721893220362122202,
+            "block_id": 23,
+            "clip_length": 231,
+            "processed": "<story>It was a gathering place for Uma Musume with the name O, \n<story>and the attitude of O. And among those girls, Laurel-san was……"
+        },
+        {
+            "text": "Um, I'm sorry. \nI can't run very well yet. But……",
+            "name": "Young Laurel",
+            "path_id": 2652544342177055310,
+            "block_id": 24,
+            "clip_length": 217,
+            "processed": "<story>Um, I'm sorry. \n<story>I can't run very well yet. But……"
+        },
+        {
+            "text": "So I'm not a bother, I'll do my best! \nAnd I'll help out with anything I can♪",
+            "name": "Young Laurel",
+            "path_id": -1433461795953529404,
+            "block_id": 25,
+            "clip_length": 213,
+            "processed": "<story>So I'm not a bother, I'll do my best! \n<story>And I'll help out with anything I can♪"
+        },
+        {
+            "text": "Compared to the other girls, she was more reserved \nbut still positive. She was also very caring and was \nalways there to help when anyone got in trouble.",
+            "name": "Sakura Bakushin O",
+            "path_id": 7192299076875163803,
+            "block_id": 26,
+            "clip_length": 292,
+            "processed": "<story>Compared to the other girls, she was more reserved \n<story>but still positive. She was also very caring and was \n<story>always there to help when anyone got in trouble."
+        },
+        {
+            "text": "Laurel-san was like everyone's big sister. \nShe can keep track of so many things at the same time.",
+            "name": "Sakura Chiyono O",
+            "path_id": 2069404571538172387,
+            "block_id": 27,
+            "clip_length": 241,
+            "processed": "<story>Laurel-san was like everyone's big sister. \n<story>She can keep track of so many things at the same time."
+        },
+        {
+            "text": "It's because……since the beginning, my legs \nhave been weak♪ Often, I'd have to keep calm, \notherwise I couldn't properly cover for you.",
+            "name": "Sakura Laurel",
+            "path_id": -9053276021209676857,
+            "block_id": 28,
+            "clip_length": 261,
+            "choices": [
+                {
+                    "text": "Then, by 『Legs of Glass』 you mean……",
+                    "hash": "e211adefb824def4dbd22688dd74131118e20a92f0cdbef2f479e3a50aa256e9",
+                    "processed": "<size=41>Then, by 『Legs of Glass』 you mean……</size>"
+                },
+                {
+                    "text": "Then, by 『Legs of Glass』 you mean……",
+                    "hash": "d40816eb4edc897c58d553ac27d1d94bf4cba0f403d6be35f5a9ef2589d07f30",
+                    "processed": "<size=41>Then, by 『Legs of Glass』 you mean……</size>"
+                }
+            ],
+            "processed": "<story>It's because……since the beginning, my legs \n<story>have been weak♪ Often, I'd have to keep calm, \n<story>otherwise I couldn't properly cover for you."
+        },
+        {
+            "text": "Yes. Ever since I was young, my legs haven't \nbeen very sturdy so I couldn't run very much.",
+            "name": "Sakura Laurel",
+            "path_id": 2750473100002365862,
+            "block_id": 29,
+            "clip_length": 214,
+            "choices": [
+                {
+                    "text": "So that's how it was……",
+                    "hash": "b4638787ae2dc8dc68e70ecdd29187a637d7c1fe8e3fb51dd2baa4e82b0bc114"
+                },
+                {
+                    "text": "So that's how it was……",
+                    "hash": "3f9552098a2eb699ebcca7732e9d9cea20baf4009341ca589a84dab05a1f7b73"
+                }
+            ],
+            "processed": "<story>Yes. Ever since I was young, my legs haven't \n<story>been very sturdy so I couldn't run very much."
+        },
+        {
+            "text": "An Uma Musume but she couldn't run…… \nI wonder how stressful that was.",
+            "name": "",
+            "path_id": -4203478886718019065,
+            "block_id": 30,
+            "clip_length": 107,
+            "processed": "<story>An Uma Musume but she couldn't run…… \n<story>I wonder how stressful that was."
+        },
+        {
+            "text": "An Uma Musume with 『Legs of Glass』, Sakura Laurel. \nBut then, why did she……",
+            "name": "",
+            "path_id": -7627311827734217561,
+            "block_id": 31,
+            "clip_length": 88,
+            "choices": [
+                {
+                    "text": "Then why did you come to Tracen?",
+                    "hash": "c4c6919431c6cb5ad40c8cbd53b6bed5806b9ca6cb7fc7deba966ee21769b639"
+                }
+            ],
+            "processed": "<story>An Uma Musume with 『Legs of Glass』, Sakura Laurel. \n<story>But then, why did she……"
+        },
+        {
+            "text": "Well, that's because-",
+            "name": "Sakura Laurel",
+            "path_id": -6613751627000048759,
+            "block_id": 32,
+            "clip_length": 73,
+            "processed": "<story>Well, that's because-"
+        },
+        {
+            "text": "Ah, wait a minute. Maybe calling it 『Legs of Glass』 \nis causing a misunderstanding. In that case……",
+            "name": "Sakura Chiyono O",
+            "path_id": -5703422010484936429,
+            "block_id": 33,
+            "clip_length": 281,
+            "processed": "<story>Ah, wait a minute. Maybe calling it 『Legs of Glass』 \n<story>is causing a misunderstanding. In that case……"
+        },
+        {
+            "text": "I can show you some footage from a mock race. \nI've got a video of the three of us running together \nwhen Laurel-san was in good condition.",
+            "name": "Sakura Chiyono O",
+            "path_id": 5057175032873821502,
+            "block_id": 34,
+            "clip_length": 244,
+            "processed": "<story>I can show you some footage from a mock race. \n<story>I've got a video of the three of us running together \n<story>when Laurel-san was in good condition."
+        },
+        {
+            "text": "Saying that, Sakura Chiyono O showed me the \nvideo on her smartphone. And what I saw was……",
+            "name": "",
+            "path_id": -1193240806515435387,
+            "block_id": 35,
+            "clip_length": 95,
+            "processed": "<story>Saying that, Sakura Chiyono O showed me the \n<story>video on her smartphone. And what I saw was……"
+        },
+        {
+            "text": "Fortune favors the fast!! Oriyaaaaaaaa!! \nJust Bakushin, Bakushin!",
+            "name": "Sakura Bakushin O",
+            "path_id": -8699970394656291272,
+            "block_id": 36,
+            "clip_length": 225,
+            "processed": "<story>Fortune favors the fast!! Oriyaaaaaaaa!! \n<story>Just Bakushin, Bakushin!"
+        },
+        {
+            "text": "Kuuuuuu, Bakushin O-san, you're fast……! \nBut……if I just keep up with you until the end~……",
+            "name": "Sakura Chiyono O",
+            "path_id": -7690136759139640406,
+            "block_id": 37,
+            "clip_length": 280,
+            "processed": "<story>Kuuuuuu, Bakushin O-san, you're fast……! \n<story>But……if I just keep up with you until the end~……"
+        },
+        {
+            "text": "(Baku-chan……Chiyo-chan……they're both amazing…… \nCompared to them, the amount of training I do is nothing……)",
+            "name": "Sakura Laurel",
+            "path_id": 3800136772612219540,
+            "block_id": 38,
+            "clip_length": 292,
+            "processed": "<story>(Baku-chan……Chiyo-chan……they're both amazing…… \n<story>Compared to them, the amount of training I do is nothing……)"
+        },
+        {
+            "text": "(But, even then……I'm happy! This is fun……! \nI can run as much as I want……in this moment……!)",
+            "name": "Sakura Laurel",
+            "path_id": -7544778582431875432,
+            "block_id": 39,
+            "clip_length": 313,
+            "processed": "<story>(But, even then……I'm happy! This is fun……! \n<story>I can run as much as I want……in this moment……!)"
+        },
+        {
+            "text": "(Right……I will bloom! \nDon't think about what comes after――only now!!)",
+            "name": "Sakura Laurel",
+            "path_id": 3083859015753278831,
+            "block_id": 40,
+            "clip_length": 222,
+            "processed": "<story>(Right……I will bloom! \n<story>Don't think about what comes after――only now!!)"
+        },
+        {
+            "text": "Haaaaaaa!!",
+            "name": "Sakura Laurel",
+            "path_id": -8117305211057172858,
+            "block_id": 41,
+            "clip_length": 75,
+            "processed": "<story>Haaaaaaa!!"
+        },
+        {
+            "text": "Eeeeh, Laurel-san……!? \nIn just a moment, you've come this far……!?",
+            "name": "Sakura Chiyono O",
+            "path_id": -6214209439965375597,
+            "block_id": 42,
+            "clip_length": 160,
+            "processed": "<story>Eeeeh, Laurel-san……!? \n<story>In just a moment, you've come this far……!?"
+        },
+        {
+            "text": "Yaaaaaaaaaaaaaaa!!",
+            "name": "Sakura Laurel",
+            "path_id": 6418336020424951581,
+            "block_id": 43,
+            "clip_length": 79,
+            "processed": "<story>Yaaaaaaaaaaaaaaa!!"
+        },
+        {
+            "text": "Chowa-!? Don't tell me……!? \nEven against this full stamina Bakushin……!?",
+            "name": "Sakura Bakushin O",
+            "path_id": -4549263867392880649,
+            "block_id": 44,
+            "clip_length": 175,
+            "processed": "<story>Chowa-!? Don't tell me……!? \n<story>Even against this full stamina Bakushin……!?"
+        },
+        {
+            "text": "The speed and form of her run was――stunning. It was \na running style that emphasized slamming her feet in \nto the ground to push forward. She was almost like――",
+            "name": "",
+            "path_id": -8333314755995417885,
+            "block_id": 45,
+            "clip_length": 120,
+            "processed": "<story>The speed and form of her run was――stunning. It was \n<story>a running style that emphasized slamming her feet in \n<story>to the ground to push forward. She was almost like――"
+        },
+        {
+            "text": "――A cherry blossom petal dancing through the air. \nEven though it seemed like she was flying, it was \nobvious that a huge burden was placed on her weakened legs.",
+            "name": "",
+            "path_id": 7994057109349452515,
+            "block_id": 46,
+            "clip_length": 121,
+            "processed": "<story>――A cherry blossom petal dancing through the air. \n<story>Even though it seemed like she was flying, it was \n<story>obvious that a huge burden was placed on her weakened legs."
+        },
+        {
+            "text": "That's right. My form is a little unusual, and while \nI can't run much, just a little is fine♪ And also……",
+            "name": "Sakura Laurel",
+            "path_id": -7707918718996296426,
+            "block_id": 47,
+            "clip_length": 287,
+            "processed": "<story>That's right. My form is a little unusual, and while \n<story>I can't run much, just a little is fine♪ And also……"
+        },
+        {
+            "text": "I have a――\"dream\" I want to fulfill.",
+            "name": "Sakura Laurel",
+            "path_id": -6147411472483674807,
+            "block_id": 48,
+            "clip_length": 106,
+            "choices": [
+                {
+                    "text": "……A dream?",
+                    "hash": "9acccb2f0640a98f04122bdaa7e5f4b9ace983df567d3584aee65f1f9413421d"
+                }
+            ],
+            "processed": "<story>I have a――\"dream\" I want to fulfill."
+        },
+        {
+            "text": "……Yes. I'm looking for someone that wants to see \nthat \"dream\" together with me. For that reason……",
+            "name": "Sakura Laurel",
+            "path_id": 5072339194512417015,
+            "block_id": 49,
+            "clip_length": 232,
+            "processed": "<story>……Yes. I'm looking for someone that wants to see \n<story>that \"dream\" together with me. For that reason……"
+        },
+        {
+            "text": "I'm thinking of entering a Selection race soon. \nAfter all, with my legs being the way they are, \nthere might be only one chance to run at full strength……",
+            "name": "Sakura Laurel",
+            "path_id": 4543849189623519924,
+            "block_id": 50,
+            "clip_length": 273,
+            "processed": "<story>I'm thinking of entering a Selection race soon. \n<story>After all, with my legs being the way they are, \n<story>there might be only one chance to run at full strength……"
+        },
+        {
+            "text": "But, I intend to put everything in to that one chance!",
+            "name": "Sakura Laurel",
+            "path_id": 5099121643444312658,
+            "block_id": 51,
+            "clip_length": 119,
+            "processed": "<story>But, I intend to put everything in to that one chance!"
+        },
+        {
+            "text": "Ooooh, a Selection race! \nSo you've finally resolved yourself, Laurel-san!",
+            "name": "Sakura Bakushin O",
+            "path_id": -8882397521249461681,
+            "block_id": 52,
+            "clip_length": 187,
+            "processed": "<story>Ooooh, a Selection race! \n<story>So you've finally resolved yourself, Laurel-san!"
+        },
+        {
+            "text": "Uuuu……I want to cheer for you but, I can't help but worry~. \nAt least, don't push yourself too hard……",
+            "name": "Sakura Chiyono O",
+            "path_id": 882433446475819211,
+            "block_id": 53,
+            "clip_length": 290,
+            "processed": "<story>Uuuu……I want to cheer for you but, I can't help but worry~. \n<story>At least, don't push yourself too hard……"
+        },
+        {
+            "text": "Yeah! I don't plan on being reckless. \nI just want to do my best to show what I can do right now.",
+            "name": "Sakura Laurel",
+            "path_id": -5485876438579316271,
+            "block_id": 54,
+            "clip_length": 230,
+            "processed": "<story>Yeah! I don't plan on being reckless. \n<story>I just want to do my best to show what I can do right now."
+        },
+        {
+            "text": "That's why, if you're up for it, why don't \nyou come watch, Trainer-san? ――My run, that is.",
+            "name": "Sakura Laurel",
+            "path_id": 1905119661983927073,
+            "block_id": 55,
+            "clip_length": 211,
+            "processed": "<story>That's why, if you're up for it, why don't \n<story>you come watch, Trainer-san? ――My run, that is."
+        },
+        {
+            "text": "To see if I can really perform in the Twinkle Series, \nand whether I'm an Uma Musume that can fulfill that dream……!",
+            "name": "Sakura Laurel",
+            "path_id": 8846976827108843748,
+            "block_id": 56,
+            "clip_length": 211,
+            "choices": [
+                {
+                    "text": "Yeah……of course!",
+                    "hash": "424fd8ed16011e43886f2d2f68a115086f7436f08970ebc4089af68a0d78adf1"
+                },
+                {
+                    "text": "Yeah……of course!",
+                    "hash": "91c55fb70b9a07bf899139244cc673b1e50226d3be88eba66bd9e26b7ee09c32"
+                }
+            ],
+            "processed": "<story>To see if I can really perform in the Twinkle Series, \n<story>and whether I'm an Uma Musume that can fulfill that dream……!"
+        },
+        {
+            "text": "My expectations were rising. \nAnd at the same time――so were my worries.",
+            "name": "",
+            "path_id": -1537668954778953019,
+            "block_id": 57,
+            "clip_length": 72,
+            "processed": "<story>My expectations were rising. \n<story>And at the same time――so were my worries."
+        },
+        {
+            "text": "Even with those Legs of Glass, would Sakura Laurel really be able \nto run to the end in the Selection race and shine brightly?",
+            "name": "",
+            "path_id": 6929812166560739041,
+            "block_id": 58,
+            "clip_length": 108,
+            "processed": "<story>Even with those Legs of Glass, would Sakura Laurel really be able \n<story>to run to the end in the Selection race and shine brightly?"
+        }
+    ],
+    "title": "Legs of Fragile Glass..."
+}

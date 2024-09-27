@@ -1,0 +1,492 @@
+{
+    "type": "story",
+    "row_index": 227051,
+    "file_name": "story/data/02/0201/storytimeline_020201121",
+    "hash": "R34MHNFH7KMVDGJV72UPPFSXC6OUKSBF",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": -8498412720814729443,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Trainer-san. ……sorry for taking so long. \nAbout my next race――",
+            "name": "Rhein Kraft",
+            "path_id": -6754964207785181408,
+            "block_id": 1,
+            "clip_length": 218,
+            "processed": "<story>Trainer-san. ……sorry for taking so long. \n<story>About my next race――"
+        },
+        {
+            "text": "My goal is to take first place in the 『NHK Mile Cup』! \nI look forward to your guidance!!",
+            "name": "Rhein Kraft",
+            "path_id": 2707978612956477906,
+            "block_id": 2,
+            "clip_length": 190,
+            "choices": [
+                {
+                    "text": "Kraft……! I see, you decided!",
+                    "hash": "04b7b05bb4d5acf5fb6022efe962e38b9a2d583f0a32ca1fc811276c0105968b"
+                },
+                {
+                    "text": "Kraft……! I see, you decided!",
+                    "hash": "ff972e0df23365a7d8352d9559121c6734e581f97c70f5d447e12e3113b90393"
+                }
+            ],
+            "processed": "<story>My goal is to take first place in the 『NHK Mile Cup』! \n<story>I look forward to your guidance!!"
+        },
+        {
+            "text": "Yes. I thought there was something that I could show them, \nthat these legs could leave behind.",
+            "name": "Rhein Kraft",
+            "path_id": 6750055166379757619,
+            "block_id": 3,
+            "clip_length": 345,
+            "processed": "<story>Yes. I thought there was something that I could show them, \n<story>that these legs could leave behind."
+        },
+        {
+            "text": "Since Trainer-san and everyone else believes in my speed…… \nI will definitely win the title of 『Generation's Fastest』!",
+            "name": "Rhein Kraft",
+            "path_id": -6049578857178219989,
+            "block_id": 4,
+            "clip_length": 283,
+            "processed": "<story>Since Trainer-san and everyone else believes in my speed…… \n<story>I will definitely win the title of 『Generation's Fastest』!"
+        },
+        {
+            "text": "Yeah. ……『Strong Uma Musume are Strong』. \nYou'll prove that in your own way, in a way that only you can!",
+            "name": "<username>",
+            "path_id": -6582352043479498677,
+            "block_id": 5,
+            "clip_length": 157,
+            "processed": "<story>Yeah. ……『Strong Uma Musume are Strong』. \n<story>You'll prove that in your own way, in a way that only you can!"
+        },
+        {
+            "text": "Yeah. ……『Strong Uma Musume are Strong』. \nYou'll prove that in your own way, in a way that only you can!",
+            "name": "<username>",
+            "path_id": 8556195351297875339,
+            "block_id": 6,
+            "clip_length": 160,
+            "processed": "<story>Yeah. ……『Strong Uma Musume are Strong』. \n<story>You'll prove that in your own way, in a way that only you can!"
+        },
+        {
+            "text": "……I see. So you've decided too. \n……Alright, now that we've decided that, time's running out!",
+            "name": "King Halo",
+            "path_id": -9126309677638442494,
+            "block_id": 7,
+            "clip_length": 276,
+            "processed": "<story>……I see. So you've decided too. \n<story>……Alright, now that we've decided that, time's running out!"
+        },
+        {
+            "text": "Something that nobody has achieved before. Obtaining the \nunorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. \nWe need to make sure to train and prepare properly!",
+            "name": "King Halo",
+            "path_id": 3006055727584800571,
+            "block_id": 8,
+            "clip_length": 306,
+            "choices": [
+                {
+                    "text": "Right!",
+                    "hash": "0293de3ecebe42ed5cc08e161e9e25cef0927812ce7e2346fd2f2536e396af75"
+                },
+                {
+                    "text": "Right!",
+                    "hash": "f890c09326d2a8e33bff4483b4a0803125da80d4ddf93c6ef67db712a9d13e80"
+                }
+            ],
+            "processed": "<story>Something that nobody has achieved before. Obtaining the \n<story>unorthodox double crown of the 『Oka Sho』 and 『NHK Mile C』. \n<story>We need to make sure to train and prepare properly!"
+        },
+        {
+            "text": "And with that said――!",
+            "name": "",
+            "path_id": 1109210140530563696,
+            "block_id": 9,
+            "clip_length": 51,
+            "processed": "<story>And with that said――!"
+        },
+        {
+            "text": "Uwaah~, so we're doing training camp here, huh!? \nUfufu, being completely surrounded by the forest \nlike this, I'll be able to sleep reeeeally well~.",
+            "name": "Antenna-haired Uma Musume",
+            "path_id": -8439895147132247718,
+            "block_id": 10,
+            "clip_length": 358,
+            "processed": "<story>Uwaah~, so we're doing training camp here, huh!? \n<story>Ufufu, being completely surrounded by the forest \n<story>like this, I'll be able to sleep reeeeally well~.",
+            "name_processed": "<sc=78>Antenna-haired Uma Musume"
+        },
+        {
+            "text": "Idiot! You're an idiot! We're here for training camp, \nyou know!? Especially for those two in the Classic \nclass! They need to really train up after all!",
+            "name": "Single Knot Uma Musume",
+            "path_id": 8564322958790682041,
+            "block_id": 11,
+            "clip_length": 303,
+            "processed": "<story>Idiot! You're an idiot! We're here for training camp, \n<story>you know!? Especially for those two in the Classic \n<story>class! They need to really train up after all!",
+            "name_processed": "<sc=91>Single Knot Uma Musume"
+        },
+        {
+            "text": "Trainer-san, King-san, thank you for the wonderful \nsuggestion! I'm going to put my luggage away and \nget changed, okay? Let's get started soon!",
+            "name": "Rhein Kraft",
+            "path_id": 936296638126322378,
+            "block_id": 12,
+            "clip_length": 293,
+            "processed": "<story>Trainer-san, King-san, thank you for the wonderful \n<story>suggestion! I'm going to put my luggage away and \n<story>get changed, okay? Let's get started soon!"
+        },
+        {
+            "text": "And so, surrounded by forests, mountains, \nand nature, the days of intense training began……!",
+            "name": "",
+            "path_id": 7761399073023007710,
+            "block_id": 13,
+            "clip_length": 173,
+            "processed": "<story>And so, surrounded by forests, mountains, \n<story>and nature, the days of intense training began……!"
+        },
+        {
+            "text": "Kraft! There's a steep hill nearby. It might be a good \nplace to work on dashing. Want to go check it out later?",
+            "name": "<username>",
+            "path_id": 6747247564772040515,
+            "block_id": 14,
+            "clip_length": 162,
+            "processed": "<story>Kraft! There's a steep hill nearby. It might be a good \n<story>place to work on dashing. Want to go check it out later?"
+        },
+        {
+            "text": "Kraft! There's a steep hill nearby. It might be a good \nplace to work on dashing. Want to go check it out later?",
+            "name": "<username>",
+            "path_id": -9092239980745968588,
+            "block_id": 15,
+            "clip_length": 160,
+            "processed": "<story>Kraft! There's a steep hill nearby. It might be a good \n<story>place to work on dashing. Want to go check it out later?"
+        },
+        {
+            "text": "Waaah……! Thank you very much! \nPlease add it to the menu!",
+            "name": "Rhein Kraft",
+            "path_id": -2621918794527684041,
+            "block_id": 16,
+            "clip_length": 166,
+            "processed": "<story>Waaah……! Thank you very much! \n<story>Please add it to the menu!"
+        },
+        {
+            "text": "And, Cesario. In preparation for the 『Oaks』 \nwe're going to focusing on stamina training.",
+            "name": "<username>",
+            "path_id": 7335101163239348454,
+            "block_id": 17,
+            "clip_length": 174,
+            "processed": "<story>And, Cesario. In preparation for the 『Oaks』 \n<story>we're going to focusing on stamina training."
+        },
+        {
+            "text": "And, Cesario. In preparation for the 『Oaks』 \nwe're going to focusing on stamina training.",
+            "name": "<username>",
+            "path_id": 1553363583632033082,
+            "block_id": 18,
+            "clip_length": 176,
+            "processed": "<story>And, Cesario. In preparation for the 『Oaks』 \n<story>we're going to focusing on stamina training."
+        },
+        {
+            "text": "I understand. \nBy all means, thank you for your consideration.",
+            "name": "Cesario",
+            "path_id": -4984553058381187001,
+            "block_id": 19,
+            "clip_length": 165,
+            "processed": "<story>I understand. \n<story>By all means, thank you for your consideration."
+        },
+        {
+            "text": "Uhii-, the classic crew has it rough……!! \nBut, seeing them work so hard nearby, gets me motivated!",
+            "name": "Single Knot Uma Musume",
+            "path_id": 3785418655221640633,
+            "block_id": 20,
+            "clip_length": 312,
+            "processed": "<story>Uhii-, the classic crew has it rough……!! \n<story>But, seeing them work so hard nearby, gets me motivated!",
+            "name_processed": "<sc=91>Single Knot Uma Musume"
+        },
+        {
+            "text": "Well, I guess it makes you think you should work hard too…… \nNnnnnnaa~~, I guess we should do another lap, huh!?",
+            "name": "Antenna-haired Uma Musume",
+            "path_id": 4391016463635889122,
+            "block_id": 21,
+            "clip_length": 367,
+            "processed": "<story>Well, I guess it makes you think you should work hard too…… \n<story>Nnnnnnaa~~, I guess we should do another lap, huh!?",
+            "name_processed": "<sc=78>Antenna-haired Uma Musume"
+        },
+        {
+            "text": "Fufuu……isn't this fine? \nLooks like this training camp will be worthwhile!",
+            "name": "King Halo",
+            "path_id": 4846720796514632932,
+            "block_id": 22,
+            "clip_length": 178,
+            "processed": "<story>Fufuu……isn't this fine? \n<story>Looks like this training camp will be worthwhile!"
+        },
+        {
+            "text": "We worked hard from early in the morning until sunset. \nThe Classic class was working hard to prepare for this \nonce-in-a-lifetime event, so they wouldn't have any regrets.",
+            "name": "",
+            "path_id": -691454503898643831,
+            "block_id": 23,
+            "clip_length": 223,
+            "processed": "<story>We worked hard from early in the morning until sunset. \n<story>The Classic class was working hard to prepare for this \n<story>once-in-a-lifetime event, so they wouldn't have any regrets."
+        },
+        {
+            "text": "And then, after all that hard training――",
+            "name": "",
+            "path_id": -5485029085305246967,
+            "block_id": 24,
+            "clip_length": 94,
+            "processed": "<story>And then, after all that hard training――"
+        },
+        {
+            "text": "Fuuuu……the fire for this grill has also been lit. It's ready to \nbe used so go ahead and arrange the vegetables as you like.",
+            "name": "Cesario",
+            "path_id": -2676358903399981318,
+            "block_id": 25,
+            "clip_length": 354,
+            "processed": "<story>Fuuuu……the fire for this grill has also been lit. It's ready to \n<story>be used so go ahead and arrange the vegetables as you like."
+        },
+        {
+            "text": "Amazing~……You really are reliable and \nefficient when your switch is on, Cesario……!",
+            "name": "Single Knot Uma Musume",
+            "path_id": -5842238259883275826,
+            "block_id": 26,
+            "clip_length": 251,
+            "processed": "<story>Amazing~……You really are reliable and \n<story>efficient when your switch is on, Cesario……!",
+            "name_processed": "<sc=91>Single Knot Uma Musume"
+        },
+        {
+            "text": "Yeah, yeah……but, Cesario, are you properly eating too? \nYou don't have to keep looking after all of us you know~.",
+            "name": "Antenna-haired Uma Musume",
+            "path_id": -7441837606496737704,
+            "block_id": 27,
+            "clip_length": 303,
+            "processed": "<story>Yeah, yeah……but, Cesario, are you properly eating too? \n<story>You don't have to keep looking after all of us you know~.",
+            "name_processed": "<sc=78>Antenna-haired Uma Musume"
+        },
+        {
+            "text": "They're right, Cesario-san. \nNutrition is quite important for building up your body after all!",
+            "name": "King Halo",
+            "path_id": -2544239647168936070,
+            "block_id": 28,
+            "clip_length": 183,
+            "processed": "<story>They're right, Cesario-san. \n<story>Nutrition is quite important for building up your body after all!"
+        },
+        {
+            "text": "That's right! That big carrot wrapped in foil that we \ngrilled is almost ready isn't it? I'll go get it!",
+            "name": "Rhein Kraft",
+            "path_id": -623832880262182785,
+            "block_id": 29,
+            "clip_length": 296,
+            "processed": "<story>That's right! That big carrot wrapped in foil that we \n<story>grilled is almost ready isn't it? I'll go get it!"
+        },
+        {
+            "text": "Fufu, thank you. But, I'll go cut it, so do you want to \nsplit it? Kraft, you'd probably burn yourself after all.",
+            "name": "Cesario",
+            "path_id": -7428347897046676645,
+            "block_id": 30,
+            "clip_length": 326,
+            "processed": "<story>Fufu, thank you. But, I'll go cut it, so do you want to \n<story>split it? Kraft, you'd probably burn yourself after all."
+        },
+        {
+            "text": "Ehh!? Aren't you treating me too much like a kid!? C'mon-……!",
+            "name": "Rhein Kraft",
+            "path_id": -515229847278926080,
+            "block_id": 31,
+            "clip_length": 182,
+            "processed": "<story>Ehh!? Aren't you treating me too much like a kid!? C'mon-……!"
+        },
+        {
+            "text": "Heeey, everyone! I bought a bunch of apples for dessert. \nThink it's about time I started peeling them?",
+            "name": "<username>",
+            "path_id": -7658654204772031083,
+            "block_id": 32,
+            "clip_length": 175,
+            "processed": "<story>Heeey, everyone! I bought a bunch of apples for dessert. \n<story>Think it's about time I started peeling them?"
+        },
+        {
+            "text": "Heeey, everyone! I bought a bunch of apples for dessert. \nThink it's about time I started peeling them?",
+            "name": "<username>",
+            "path_id": -6010364331093208868,
+            "block_id": 33,
+            "clip_length": 175,
+            "processed": "<story>Heeey, everyone! I bought a bunch of apples for dessert. \n<story>Think it's about time I started peeling them?"
+        },
+        {
+            "text": "Oh, how thoughtful!",
+            "name": "King Halo",
+            "path_id": 4907930601781029531,
+            "block_id": 34,
+            "clip_length": 80,
+            "processed": "<story>Oh, how thoughtful!"
+        },
+        {
+            "text": "Trainer……are you gonna be okay? \nIt'd be bad if you cut yourself, should I peel them instead?",
+            "name": "Cesario",
+            "path_id": 6126877530509220605,
+            "block_id": 35,
+            "clip_length": 236,
+            "choices": [
+                {
+                    "text": "Huh? Now I'm treated like a kid too!?",
+                    "hash": "b897e877bc3bf2f290fe1eb2fad7c17290134318daefae95619204a1f0e2184e"
+                },
+                {
+                    "text": "Huh? Now I'm treated like a kid too!?",
+                    "hash": "cb85e6190da45ffc01bb567497cda8c8a56121447ffbd1c840f6fca5eb1dfbc5"
+                }
+            ],
+            "processed": "<story>Trainer……are you gonna be okay? \n<story>It'd be bad if you cut yourself, should I peel them instead?"
+        },
+        {
+            "text": "Ahahaha! \nTrainer-san, you're just like me now, huh?",
+            "name": "Rhein Kraft",
+            "path_id": -8646967020895968172,
+            "block_id": 36,
+            "clip_length": 194,
+            "processed": "<story>Ahahaha! \n<story>Trainer-san, you're just like me now, huh?"
+        },
+        {
+            "text": "The team's cheerful laughter filled the air. \nAfter exhausting themselves with intense training, \nit was time to replenish those lost nutrients――",
+            "name": "",
+            "path_id": 7949059804102018468,
+            "block_id": 37,
+            "clip_length": 181,
+            "processed": "<story>The team's cheerful laughter filled the air. \n<story>After exhausting themselves with intense training, \n<story>it was time to replenish those lost nutrients――"
+        },
+        {
+            "text": "And then tomorrow, they'd resume their intense \ntraining, aiming for victory. And that's how \nthey spent the rest of training camp――",
+            "name": "",
+            "path_id": 126913051808002251,
+            "block_id": 38,
+            "clip_length": 197,
+            "processed": "<story>And then tomorrow, they'd resume their intense \n<story>training, aiming for victory. And that's how \n<story>they spent the rest of training camp――"
+        },
+        {
+            "text": "Haaa, I'm exhausted today too~……! \nI guess the training camp is coming to an end soon, huh?",
+            "name": "Rhein Kraft",
+            "path_id": 4402872488153893907,
+            "block_id": 39,
+            "clip_length": 228,
+            "processed": "<story>Haaa, I'm exhausted today too~……! \n<story>I guess the training camp is coming to an end soon, huh?"
+        },
+        {
+            "text": "Yeah……but I do feel like I've made good progress towards the \n『Oaks』. It feels like my stamina has improved quite a lot.",
+            "name": "Cesario",
+            "path_id": -2280067799210818372,
+            "block_id": 40,
+            "clip_length": 329,
+            "processed": "<story>Yeah……but I do feel like I've made good progress towards the \n<story>『Oaks』. It feels like my stamina has improved quite a lot."
+        },
+        {
+            "text": "Me too! Since I've been working on improving my \ndash strength, I feel like my starts are getting \nmuch smoother and I'm able to pull ahead easier.",
+            "name": "Rhein Kraft",
+            "path_id": -3501659257358051661,
+            "block_id": 41,
+            "clip_length": 271,
+            "processed": "<story>Me too! Since I've been working on improving my \n<story>dash strength, I feel like my starts are getting \n<story>much smoother and I'm able to pull ahead easier."
+        },
+        {
+            "text": "Yeah――It's good. I feel the difference. I think I'm \nall set, in regards to winning at the 『NHK Mile C』!",
+            "name": "Rhein Kraft",
+            "path_id": -1495940765747152236,
+            "block_id": 42,
+            "clip_length": 322,
+            "processed": "<story>Yeah――It's good. I feel the difference. I think I'm \n<story>all set, in regards to winning at the 『NHK Mile C』!"
+        },
+        {
+            "text": "……I wonder if there's anyone watching me. If I'll be able to…… \nleave something behind. ……I want to leave something behind.",
+            "name": "Rhein Kraft",
+            "path_id": -7377789216579775821,
+            "block_id": 43,
+            "clip_length": 431,
+            "processed": "<story>……I wonder if there's anyone watching me. If I'll be able to…… \n<story>leave something behind. ……I want to leave something behind."
+        },
+        {
+            "text": "――Hey, you know how they say 『It kind of feels like fate』?",
+            "name": "Rhein Kraft",
+            "path_id": 4262167048156851941,
+            "block_id": 44,
+            "clip_length": 173,
+            "processed": "<story>――Hey, you know how they say 『It kind of feels like fate』?"
+        },
+        {
+            "text": "Yeah……do you think it's something unique to Uma Musume? \nBut, I know what you mean. I can't really put it in \nwords though……kind of like how I feel with Spe-san.",
+            "name": "Cesario",
+            "path_id": -6876879263936394620,
+            "block_id": 45,
+            "clip_length": 555,
+            "processed": "<story>Yeah……do you think it's something unique to Uma Musume? \n<story>But, I know what you mean. I can't really put it in \n<story>words though……kind of like how I feel with Spe-san."
+        },
+        {
+            "text": "Right! Kind of like some mysterious force pulling \non you……or leading you. Like when you're with \nthem, you feel this warm light in your chest.",
+            "name": "Rhein Kraft",
+            "path_id": -172198074245334865,
+            "block_id": 46,
+            "clip_length": 387,
+            "processed": "<story>Right! Kind of like some mysterious force pulling \n<story>on you……or leading you. Like when you're with \n<story>them, you feel this warm light in your chest."
+        },
+        {
+            "text": "To become that 『Something』 for someone. That's what I want too.",
+            "name": "Rhein Kraft",
+            "path_id": -2792729385762824103,
+            "block_id": 47,
+            "clip_length": 234,
+            "processed": "<story>To become that 『Something』 for someone. That's what I want too."
+        },
+        {
+            "text": "To have someone feel that kind of fate with \nyou……huh. You're right, that dream you've \nalways been talking about is a bit like that.",
+            "name": "Cesario",
+            "path_id": 2584875798861969373,
+            "block_id": 48,
+            "clip_length": 367,
+            "processed": "<story>To have someone feel that kind of fate with \n<story>you……huh. You're right, that dream you've \n<story>always been talking about is a bit like that."
+        },
+        {
+            "text": "Yeah! If my running can make someone feel some kind of fate……\nif my aspiration becomes that link for someone, it would be nice.",
+            "name": "Rhein Kraft",
+            "path_id": 3775621778336686760,
+            "block_id": 49,
+            "clip_length": 359,
+            "processed": "<story>Yeah! If my running can make someone feel some kind of fate……\n<story>if my aspiration becomes that link for someone, it would be nice."
+        },
+        {
+            "text": "……Cesario. \nI'm going to win the 『NHK Mile C』",
+            "name": "Rhein Kraft",
+            "path_id": -3684506764562788248,
+            "block_id": 50,
+            "clip_length": 262,
+            "processed": "<story>……Cesario. \n<story>I'm going to win the 『NHK Mile C』"
+        },
+        {
+            "text": "……Yeah. \nSomeone will definitely be watching you.",
+            "name": "Cesario",
+            "path_id": 5817258288425370427,
+            "block_id": 51,
+            "clip_length": 292,
+            "processed": "<story>……Yeah. \n<story>Someone will definitely be watching you."
+        },
+        {
+            "text": "……Alright, we have an early morning tomorrow so we should get to \nbed. Let's get a good rest and work hard again tomorrow, Kraft.",
+            "name": "Cesario",
+            "path_id": -5226435850041958547,
+            "block_id": 52,
+            "clip_length": 313,
+            "processed": "<story>……Alright, we have an early morning tomorrow so we should get to \n<story>bed. Let's get a good rest and work hard again tomorrow, Kraft."
+        },
+        {
+            "text": "Yeah. Good night, Cesario!",
+            "name": "Rhein Kraft",
+            "path_id": 6219688273211262698,
+            "block_id": 53,
+            "clip_length": 131,
+            "processed": "<story>Yeah. Good night, Cesario!"
+        },
+        {
+            "text": "(I'll keep doing my best, and run. So I can leave something \nbehind. ……I'll definitely leave something behind)",
+            "name": "Rhein Kraft",
+            "path_id": 3666854427670275555,
+            "block_id": 54,
+            "clip_length": 366,
+            "processed": "<story>(I'll keep doing my best, and run. So I can leave something \n<story>behind. ……I'll definitely leave something behind)"
+        },
+        {
+            "text": "(My heritage, without a doubt)",
+            "name": "Rhein Kraft",
+            "path_id": -166045138111944729,
+            "block_id": 55,
+            "clip_length": 215,
+            "processed": "<story>(My heritage, without a doubt)"
+        }
+    ],
+    "title": "第12話※タイトル記載"
+}

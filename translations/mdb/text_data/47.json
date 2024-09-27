@@ -417,6 +417,10 @@
         "text": "Info: Acquired",
         "hash": "75812b40034bbd80f6b75c8122dfa9b85f85fd88235ff7678ffbcc252e2135c2"
     },
+    "100821": {
+        "text": "Shining Runway",
+        "hash": "ead5919d7708035f24ab498411cce15b736f71ebfd9684706b7fe27befbf3990"
+    },
     "100831": {
         "text": "Mission: Triumph",
         "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
@@ -453,6 +457,10 @@
         "text": "Blue Ray of Happiness",
         "hash": "914d9d21ed0d85c500960e1ae619a5bb71c511deeb3c0d30d3924cad54eee125"
     },
+    "100941": {
+        "text": "Faith in the Feral",
+        "hash": "bcc16f1f2a8c5e2f6591dcc69b22fc3903030df9153eb7c0f281baacc181a424"
+    },
     "100981": {
         "text": "Luck Comes to the Prepared",
         "hash": "719397157d186feb1b4bed4eff5774be7374717fd115f2295c5b5669f7baf074",
@@ -465,6 +473,10 @@
     "101001": {
         "text": "Never Say Never",
         "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "101021": {
+        "text": "Vivace Volare",
+        "hash": "a09d0fedca25394de6e74a999ffb32284b7c83f001e0f222b30718895647c93a"
     },
     "101041": {
         "text": "Flag of Dawn: Katsuragi Ace",
@@ -492,6 +504,26 @@
         "text": "Connecting Dreams With the Future",
         "hash": "5107d2613d53fc7a0cb2a7ad1b64edf0db396f32f724213f1d7a009de41d5f3a",
         "processed": "<sc=69>Connecting Dreams With the Future"
+    },
+    "101101": {
+        "text": "Guiding Sea",
+        "hash": "a7b6b337675efdf6544a4956c8b5e44b8308c3dd9055e389bc22dcffb5cf14ce"
+    },
+    "101161": {
+        "text": "Rose Conquest",
+        "hash": "7d047c0f86a0b29a50b7b3fe82e7529779a06f600a357f95b8d47370d9c6e227"
+    },
+    "101191": {
+        "text": "«Bon Voyage»",
+        "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
+    },
+    "101201": {
+        "text": "Path of Singular Focus",
+        "hash": "762753b98813e3395726fdf6ee8b83d0456014ffd9f278438debf179671d0b44"
+    },
+    "101211": {
+        "text": "Lame de Vent",
+        "hash": "32db526647f0aa0d608dcfd8da488c01210e6f1a5b95dbd5698944033715be8c"
     },
     "110011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -655,6 +687,10 @@
         "text": "Cherry☆Scramble",
         "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
     },
+    "110441": {
+        "text": "Special Materialization",
+        "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
+    },
     "110451": {
         "text": "Round and Round, Mummy Trick♡",
         "hash": "37ff500ce49f42dde941dc7e23182c0b53c3ea971652f3a3e6ecec02f2031ed8",
@@ -663,6 +699,11 @@
     "110461": {
         "text": "α-star*",
         "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
+    },
+    "110471": {
+        "text": "Close Encounters of the Literary Kind",
+        "hash": "431fa5a75d8276307f87ad02eb6fbad165218f7addeeb97a1b828ba95b501c45",
+        "processed": "<sc=65>Close Encounters of the Literary Kind"
     },
     "110481": {
         "text": "GALmem. forever♪",
@@ -755,6 +796,14 @@
         "text": "Sapphire Flame",
         "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
     },
+    "110991": {
+        "text": "Popping☆Clams",
+        "hash": "faa507fd49a6f7080df942b7cbb855e54654894e5f7dd0000aa6dbf426e0f769"
+    },
+    "111051": {
+        "text": "Encounter With U",
+        "hash": "bcb6305e5a68f707b3c84097fbb35acb9062f1f7116a8029a06c3bf3d124fa0e"
+    },
     "120011": {
         "text": "Dignified Dreamlike Brocade",
         "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f",
@@ -774,9 +823,22 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "120301": {
+        "text": "Clear Sky Cooking♪",
+        "hash": "0b78c6eb49b1cb9b663d03ee149deba0dd97e51b87f4f6de15c670cc91d2ffd3"
+    },
+    "120321": {
+        "text": "Tachyon Potential",
+        "hash": "15dc0386f39ed4f4f171ab7db22d8a478400bace18defd880c5500e0caa4e84e"
+    },
     "120351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "120371": {
+        "text": "Geschenk of the Salty Sea Breeze",
+        "hash": "c1dcfa372f4b5a5d07d3bce6e1f638d2f70509f9d3b365e18918140783a95cee",
+        "processed": "<sc=73>Geschenk of the Salty Sea Breeze"
     },
     "120451": {
         "text": "Ninja Art: Seal of the Smiling Heart",
@@ -786,6 +848,11 @@
     "120601": {
         "text": "Springy Festivities",
         "hash": "02e6fb57d6c8aeaed74b643bbf26ebf09828f62b6f368ceda503834c7252cf3a"
+    },
+    "120611": {
+        "text": "The Winding Road to Ideals",
+        "hash": "249cc3e0e70028196b20aa3c77b9473653ac03c6c4db261dae6ae2044d3fe412",
+        "processed": "<sc=90>The Winding Road to Ideals"
     },
     "120671": {
         "text": "Ponte de Diamant",
@@ -835,6 +902,10 @@
     "200033": {
         "text": "Tokyo Racetrack ×",
         "hash": "b74fbed8ad9c7c9d6d1ee7b3053cd05dd8db8b40319ce770ea36b629bf04e42f"
+    },
+    "200034": {
+        "text": "Child of Fuchu",
+        "hash": "0842c88fe9b8bbfe635948f499b51275dd2a22c14aecae70a86e67a0a8b9da0e"
     },
     "200041": {
         "text": "Nakayama Racetrack ◎",
@@ -1680,6 +1751,10 @@
         "text": "Mile Straights ○",
         "hash": "bf530a09c74fa0c06830cc2165e3d85fcac5f2ee62d6fc3705cda33c2caec311"
     },
+    "201033": {
+        "text": "Cyclone Flash",
+        "hash": "09cc1e302bfe7a82438e47fcaca73f4f45d66ffdadc8ad4c443bc9e1d88d21f3"
+    },
     "201041": {
         "text": "Mile Corners ◎",
         "hash": "80168b15526c508164a7b75bd2fa8aedda829024527e9a33244568ce7852992d"
@@ -1872,6 +1947,10 @@
         "text": "Runner's Straights ○",
         "hash": "87686d939b0a8bb246438b7f02b1e215f159849c940d398302ee1d0132506c3e"
     },
+    "201243": {
+        "text": "Gale Flash",
+        "hash": "968af5cc62f49afac59c6c92be3f820753037450f0ca4608acc240e507ce5cd2"
+    },
     "201251": {
         "text": "Runner's Corners ◎",
         "hash": "fb5031997b9d91b45fb645f759ebf44f14eb005dcf7a2a455f7c64a69e461721"
@@ -1927,6 +2006,10 @@
     "201312": {
         "text": "Leader's Straights ○",
         "hash": "09f9fd0faecd1559f3422308898f2106b9c47eefe69eec4190270aa4a934e0c6"
+    },
+    "201313": {
+        "text": "Valiant Flash",
+        "hash": "53dd432400396bd64538383abce0a38a8a637ee5ec58202a198bc2167999c0e6"
     },
     "201321": {
         "text": "Leader's Corners ◎",
@@ -2154,6 +2237,10 @@
         "text": "Mountain Climber",
         "hash": "246e8517671ffd6156f58d29b6de26a081c136ad223cab524c21346903887ac2"
     },
+    "201582": {
+        "text": "Ultimate Hill Climber",
+        "hash": "4f624c2dae60d3006497c539d193a83e3dbe8b405a1fedd0bc21ad6dadcec58c"
+    },
     "201591": {
         "text": "Big Fan",
         "hash": "db49518c7973cc24768e9d2664a9fd52cc49f0645a165c273859ce184911d005"
@@ -2185,6 +2272,10 @@
     "201631": {
         "text": "Sympathy",
         "hash": "ac1d1b18c11e7278eac433561baa107cc092e4cbd7d0be828904ff2bbc42e9c4"
+    },
+    "201632": {
+        "text": "Connection",
+        "hash": "7c4fc9c9a989f88b43854e8a0ffef74f7d4a9fdb6446962a717d0d6d11941812"
     },
     "201641": {
         "text": "Lone Wolf",
@@ -2880,6 +2971,10 @@
         "text": "Honing In",
         "hash": "183db81c9365d290faba33441cf2a188996e2042d1ea0c94357c2f206c4a9fc3"
     },
+    "202791": {
+        "text": "Exquisite Timing",
+        "hash": "d702afbfd45afa71e0736beca72f3314fb996174d13823de807640c741aa68a4"
+    },
     "202792": {
         "text": "Middle Leg Adept",
         "hash": "36263f8195138121b538edf043437ee26a52d06887141b4d239bbf11d615a52b"
@@ -2915,6 +3010,10 @@
     "202832": {
         "text": "Backup Planning",
         "hash": "67b7d2f5b0a2a3585e511ddc359f0d1ebe36143e0ba54bb8a40ada9387bbf433"
+    },
+    "202841": {
+        "text": "Sand Virtuoso",
+        "hash": "1d2992cd905a206d7741695914a6a28de962d8b4bc91a5fa534ef8adb57bd3b2"
     },
     "202842": {
         "text": "Dust Off",
@@ -2952,6 +3051,10 @@
         "text": "Immovable Spirit",
         "hash": "dd9953cbac6e2346f4e866c3ddca4478318d74488fefda10c70ef92ac8540130"
     },
+    "202901": {
+        "text": "Soaring Stride",
+        "hash": "5541dae9b26aeb589acfb9474a8e635c6f722346bc283ecad1369b4396494305"
+    },
     "202902": {
         "text": "Sufficient Thrust",
         "hash": "a0b4ed17d0f5a896721651b6f855b8f75a800018120bccb3cc59f3d1eba43d27"
@@ -2959,6 +3062,10 @@
     "202912": {
         "text": "Cleave",
         "hash": "4376dcf8bbb7a479a1a3da218934936b2aca044066e3abf3c671eb25c0e84d75"
+    },
+    "202921": {
+        "text": "Undivided Focus",
+        "hash": "9592604e950b7b3007eb744668d1ec996f2302985dea180b48663d535b3fcf06"
     },
     "202922": {
         "text": "No Reluctance",
@@ -2987,6 +3094,172 @@
     "202962": {
         "text": "Boiling Emotions",
         "hash": "c076dca54c2874acacabe301a284514aaac5bfa83857373bee41c5927c5ab54f"
+    },
+    "202972": {
+        "text": "Seize the Chance",
+        "hash": "6cb4dfb8272b6b2e1411db3b3c1983008a47d3e2596dde4280d1312e95788fd6"
+    },
+    "202981": {
+        "text": "Gamma Ray Burst",
+        "hash": "cf1abbc9d9835f7776e0c1a6aa6076928e4cbc301b96abc3d1a1814b07426151"
+    },
+    "202982": {
+        "text": "Leap Premonition",
+        "hash": "9c620350f09802216d95a01878ead5aad3d735165091b857af7dfbfb6ce0e657"
+    },
+    "202991": {
+        "text": "Straight Course ◎",
+        "hash": "4175b709bc582318e8bedc8e5a494007033a4d20065cb869f13f1076b126e54a"
+    },
+    "202992": {
+        "text": "Straight Course ○",
+        "hash": "60db0c4706c0211c3564c95673bd176e711240994e41b18a4d7695adb5024c3b"
+    },
+    "202993": {
+        "text": "Straight Course ×",
+        "hash": "a663c1e2e22dd6a888029f5a319b867d5529608d4471fd18ec9fd46bb4594d0b"
+    },
+    "203001": {
+        "text": "Manipulation",
+        "hash": "91e7eb26b539218d474f9561253ff883f8fe2824dd6afd9c30c6723a984b1605"
+    },
+    "203002": {
+        "text": "Art of Coaxing",
+        "hash": "75c158020b88e658366d0fac15663fd631b883898c67ae3cc2d9f7c4e7d5bd04"
+    },
+    "203011": {
+        "text": "Lightning Blitz",
+        "hash": "2bc6b065143ca8898e741e07724cc3a83d30259adc73c091409383904b44f55a"
+    },
+    "203012": {
+        "text": "Explosive Force",
+        "hash": "af02ef8224f4abee42f936d94de6119ff7ef7d499a49b95759edb132f52335d7"
+    },
+    "203021": {
+        "text": "Wind Rider",
+        "hash": "3b5005f3b1e74ecc067f776dc96538c70ccb68406b1424b43830766995a93a30"
+    },
+    "203022": {
+        "text": "Wind Vane",
+        "hash": "3d11557c907c21d542582ea50a1ccf6d8f89946fcd2673191a3d9b06d718fc72"
+    },
+    "203031": {
+        "text": "Frontal Attack",
+        "hash": "94e7ebb82a1007072557017334e3074c05035c80ac7d68ab6e607aaf7371cebb"
+    },
+    "203032": {
+        "text": "An Honest Step",
+        "hash": "5e6dc119131b5b1fc2d9f1f6832000f7e926d85bfedee4afe251377a78adb389"
+    },
+    "203041": {
+        "text": "Fluttering Heart",
+        "hash": "955458779e1aca6f40d86ea40a855b4bc8df86676b7f7e78a7821ffaffe36a1c"
+    },
+    "203042": {
+        "text": "Pounding Chest",
+        "hash": "4cf382b769016018e2d4d236baeab9f46ce88e04611707fbf883327edf2726c1"
+    },
+    "203051": {
+        "text": "Unwavering Ambition",
+        "hash": "8674cc570d9ddc9f61c40b54c447f72b97e63547da4ca90984ac327c900d36af"
+    },
+    "203052": {
+        "text": "Unshakeable Faith",
+        "hash": "a8c5505066ed8ef498b3c2c179499efe9cf173320a3f0b4dca3a13a6509ef9e4"
+    },
+    "203061": {
+        "text": "No Second Thoughts",
+        "hash": "93a6daed8b4c944b78d56751dc0ef7251da58d6f11ba99a909de288f6394129c"
+    },
+    "203071": {
+        "text": "No Third Chances",
+        "hash": "60a1d0ac57077cec7a052a92505135dd38db3fbe74de362ddbf84e936efac67e"
+    },
+    "203081": {
+        "text": "Stamp on the Ground",
+        "hash": "b605e0bd21d97103dcee228c54a2c8171af2aa3d7c1c881d3f6221be5250d723"
+    },
+    "203082": {
+        "text": "With All My Might",
+        "hash": "9be53eca17f9f801d699ad9ed231fb92f7bf80aef019eeb608dac75111ce885d"
+    },
+    "203092": {
+        "text": "Dirt Straights ◎",
+        "hash": "c7d89e001fb546183875504edc32a9fa7644d4aef6644e70e0726d93f79e8885"
+    },
+    "203093": {
+        "text": "Dirt Straights ○",
+        "hash": "96a63442913a1a4c5421705cf57ba56da8d517fb73c254c02ed8f887a1ed9aa4"
+    },
+    "203102": {
+        "text": "Dirt Corners ◎",
+        "hash": "6dee7e24db47574a018c5c428a4ebce953931fbb3cead224c7bd8d95590bbd24"
+    },
+    "203103": {
+        "text": "Dirt Corners ○",
+        "hash": "ad45e25e59b704b07b33b9c935dd7f851022097ddd3f0c650efc7f4641ad8086"
+    },
+    "203111": {
+        "text": "Just Rule",
+        "hash": "0cf3666764d707fdf2ecd0959e24443176fda5fcc8d23286b80bba93a9432f03"
+    },
+    "203112": {
+        "text": "Frontal Breakthrough",
+        "hash": "fc5571375e89066a7f9bd0b0aeb3d259ddd3c5b3982022f2a03cbbeff604240d"
+    },
+    "203121": {
+        "text": "Proof of Strength",
+        "hash": "18d679b7abf963c770ddc653451319ce619fccab14df55dbff21be2265c4e102"
+    },
+    "203122": {
+        "text": "To Greater Heights",
+        "hash": "8b0c5bac579764192ef6af69d6f5ff0c391c52ceaf3fb66db47d2fb8e9a35cda"
+    },
+    "203132": {
+        "text": "Decisive Blow",
+        "hash": "fbad4c052eed955c1cde9a8e172a93a445b384c7c2b3ea60912aba1857d28848"
+    },
+    "203141": {
+        "text": "Sharp-Witted Composure",
+        "hash": "b009792b5bd06f37d05a047140b5f901f97e595fc238e0bd98e51da6d5ba3c0d",
+        "processed": "<sc=98>Sharp-Witted Composure"
+    },
+    "203142": {
+        "text": "Self-Restraint",
+        "hash": "5aa3241ba7e25ebac8554a665da8b4e47cd23d5dd655d1ceb1c86e81fe04b0e0"
+    },
+    "203151": {
+        "text": "Pure Instincts",
+        "hash": "ebf24b2ec104b6cf722e12c18e0df7a188c8d2669016dbfa5e5bbac529abc6d7"
+    },
+    "203152": {
+        "text": "Bare Passion",
+        "hash": "5460d7f6c8746659f27d03e4db0c6fcefe47bba1d26cc64cf29fe810d3dfad6a"
+    },
+    "203161": {
+        "text": "Peerless Boldness",
+        "hash": "e558886684d0575e823f98d606dd1ecbe844bf99e9d681692a3971fa54c45efd"
+    },
+    "203162": {
+        "text": "Fearless Advance",
+        "hash": "c41813306321a0257ed03b1556a5c58a1cc33036d0897ef6d6848654a62738fd"
+    },
+    "203171": {
+        "text": "Tension and Release",
+        "hash": "e75b3216b42093fe3a8fd0479e53ed46c7865a4a666dcea588bdba8a966942cc"
+    },
+    "203172": {
+        "text": "Switch Over Pro",
+        "hash": "9b5dea81231e6b0bc1020dc49b852c06c94b28ffeb2508570b5155a1f2092196"
+    },
+    "203181": {
+        "text": "Embracing Virtue and Vice",
+        "hash": "088258e05a3d632901e780074db9d05f4b89f1f5a875bfaa724eda7b1e85ecdc",
+        "processed": "<sc=93>Embracing Virtue and Vice"
+    },
+    "203182": {
+        "text": "Contradicting Emotions",
+        "hash": "7c41087bfb18b815c477316d7b33a216579eafe5f60169faadfb0a7e6f90bf00"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -3130,6 +3403,18 @@
         "text": "Athlete's Spirit",
         "hash": "953cac9c0fe5a67c7ae294b18ac4da6024100bb520f5953a413115f6c74f602a"
     },
+    "210321": {
+        "text": "The Races We Run",
+        "hash": "fe1c54398adcc31188efba01e2d6a8ff5a42f11a0d4aa3216ad3d996d6577fa2"
+    },
+    "210322": {
+        "text": "Forever Healthy",
+        "hash": "73f846f1eed628b787cb1ec843af9bb164428c7ae27a32d8b547c79d223a5dec"
+    },
+    "210331": {
+        "text": "Essence of Food",
+        "hash": "7b725c290090e494c5a12962460cb03df39c3c551a652d07c5237fc8e84492ca"
+    },
     "300011": {
         "text": "Unquenched Thirst",
         "hash": "6490c193306e82873d603063ad95d306ad318f5f3871e3669fb686a700ab34fc"
@@ -3216,6 +3501,30 @@
     "407071": {
         "text": "Connecting Elation",
         "hash": "630202ef819a976913d6e5f6d493e6fc86344e0de4447eea155dd9abf8dd23f4"
+    },
+    "408011": {
+        "text": "Respect! Uma Mania!",
+        "hash": "7ea9fae29b8c7e2e96f4efddcc08cd586e60bb9ead7e55061faa6882137d8f3f"
+    },
+    "408021": {
+        "text": "Here You Go!",
+        "hash": "c670f4b51c86230f70315fbb9e35f48a8421af46a9bd51f25763a9c70d19cda0"
+    },
+    "408031": {
+        "text": "Mid-Meal Seasoning!",
+        "hash": "734e0ea688c2c20bcf8f5b0cbb32b3209b16d27c9856e316b75529a387afad24"
+    },
+    "408041": {
+        "text": "Three-Star Cornering",
+        "hash": "181936806c323f4fd6a2d7d9239ed8d9602dd1ac8b669879df775260ad9c074a"
+    },
+    "408051": {
+        "text": "Cultivation Sprint!",
+        "hash": "8a48e3f34c533634d9fa71215396dd83199acad2f7f4daf200ec0f12d0ad527d"
+    },
+    "408061": {
+        "text": "Curve Grand Chef",
+        "hash": "6266036cff137aaee9ba41e3141b7d86822cd57ada8ef740957d666699705e59"
     },
     "900011": {
         "text": "Shooting Star",
@@ -3553,6 +3862,10 @@
         "text": "Info: Acquired",
         "hash": "75812b40034bbd80f6b75c8122dfa9b85f85fd88235ff7678ffbcc252e2135c2"
     },
+    "900821": {
+        "text": "Shining Runway",
+        "hash": "ead5919d7708035f24ab498411cce15b736f71ebfd9684706b7fe27befbf3990"
+    },
     "900831": {
         "text": "Mission: Triumph",
         "hash": "c1310d88e6230f6539409dfc6561585b52b90791560126651fe926eed6423d55"
@@ -3589,6 +3902,10 @@
         "text": "Blue Ray of Happiness",
         "hash": "914d9d21ed0d85c500960e1ae619a5bb71c511deeb3c0d30d3924cad54eee125"
     },
+    "900941": {
+        "text": "Faith in the Feral",
+        "hash": "bcc16f1f2a8c5e2f6591dcc69b22fc3903030df9153eb7c0f281baacc181a424"
+    },
     "900981": {
         "text": "Luck Comes to the Prepared",
         "hash": "719397157d186feb1b4bed4eff5774be7374717fd115f2295c5b5669f7baf074",
@@ -3601,6 +3918,10 @@
     "901001": {
         "text": "Never Say Never",
         "hash": "a8a290ddf180f4c288b495c77ca311763ca5c834dc54a0358353d2b7ac43f4d2"
+    },
+    "901021": {
+        "text": "Vivace Volare",
+        "hash": "a09d0fedca25394de6e74a999ffb32284b7c83f001e0f222b30718895647c93a"
     },
     "901041": {
         "text": "Flag of Dawn: Katsuragi Ace",
@@ -3628,6 +3949,26 @@
         "text": "Connecting Dreams With the Future",
         "hash": "5107d2613d53fc7a0cb2a7ad1b64edf0db396f32f724213f1d7a009de41d5f3a",
         "processed": "<sc=69>Connecting Dreams With the Future"
+    },
+    "901101": {
+        "text": "Guiding Sea",
+        "hash": "a7b6b337675efdf6544a4956c8b5e44b8308c3dd9055e389bc22dcffb5cf14ce"
+    },
+    "901161": {
+        "text": "Rose Conquest",
+        "hash": "7d047c0f86a0b29a50b7b3fe82e7529779a06f600a357f95b8d47370d9c6e227"
+    },
+    "901191": {
+        "text": "«Bon Voyage»",
+        "hash": "5157bd4e84eac8ae5b748fed470d646d9957dadef0dfde8b9aeee661fe16e785"
+    },
+    "901201": {
+        "text": "Path of Singular Focus",
+        "hash": "762753b98813e3395726fdf6ee8b83d0456014ffd9f278438debf179671d0b44"
+    },
+    "901211": {
+        "text": "Lame de Vent",
+        "hash": "32db526647f0aa0d608dcfd8da488c01210e6f1a5b95dbd5698944033715be8c"
     },
     "910011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -3791,6 +4132,10 @@
         "text": "Cherry☆Scramble",
         "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
     },
+    "910441": {
+        "text": "Special Materialization",
+        "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
+    },
     "910451": {
         "text": "Round and Round, Mummy Trick♡",
         "hash": "37ff500ce49f42dde941dc7e23182c0b53c3ea971652f3a3e6ecec02f2031ed8",
@@ -3799,6 +4144,11 @@
     "910461": {
         "text": "α-star*",
         "hash": "3935a99ba38fd0904115c2edd495403a56d9a25f2c8ae3eafa62ea114d5010c1"
+    },
+    "910471": {
+        "text": "Close Encounters of the Literary Kind",
+        "hash": "431fa5a75d8276307f87ad02eb6fbad165218f7addeeb97a1b828ba95b501c45",
+        "processed": "<sc=65>Close Encounters of the Literary Kind"
     },
     "910481": {
         "text": "GALmem. forever♪",
@@ -3891,6 +4241,14 @@
         "text": "Sapphire Flame",
         "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
     },
+    "910991": {
+        "text": "Popping☆Clams",
+        "hash": "faa507fd49a6f7080df942b7cbb855e54654894e5f7dd0000aa6dbf426e0f769"
+    },
+    "911051": {
+        "text": "Encounter With U",
+        "hash": "bcb6305e5a68f707b3c84097fbb35acb9062f1f7116a8029a06c3bf3d124fa0e"
+    },
     "920011": {
         "text": "Dignified Dreamlike Brocade",
         "hash": "ac2cde9fa89355e2eda631df59140804f0b7c44edaab3fd7aac8db2bf511f98f",
@@ -3910,9 +4268,22 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "920301": {
+        "text": "Clear Sky Cooking♪",
+        "hash": "0b78c6eb49b1cb9b663d03ee149deba0dd97e51b87f4f6de15c670cc91d2ffd3"
+    },
+    "920321": {
+        "text": "Tachyon Potential",
+        "hash": "15dc0386f39ed4f4f171ab7db22d8a478400bace18defd880c5500e0caa4e84e"
+    },
     "920351": {
         "text": "GO! Full-send",
         "hash": "9dacbabd992e421ae09e5cea23115f92d0ed81e103e46d410e6335f6c1d2135b"
+    },
+    "920371": {
+        "text": "Geschenk of the Salty Sea Breeze",
+        "hash": "c1dcfa372f4b5a5d07d3bce6e1f638d2f70509f9d3b365e18918140783a95cee",
+        "processed": "<sc=73>Geschenk of the Salty Sea Breeze"
     },
     "920451": {
         "text": "Ninja Art: Seal of the Smiling Heart",
@@ -3922,6 +4293,11 @@
     "920601": {
         "text": "Springy Festivities",
         "hash": "02e6fb57d6c8aeaed74b643bbf26ebf09828f62b6f368ceda503834c7252cf3a"
+    },
+    "920611": {
+        "text": "The Winding Road to Ideals",
+        "hash": "249cc3e0e70028196b20aa3c77b9473653ac03c6c4db261dae6ae2044d3fe412",
+        "processed": "<sc=90>The Winding Road to Ideals"
     },
     "920671": {
         "text": "Ponte de Diamant",
@@ -4102,6 +4478,10 @@
     "100501211": {
         "text": "Entertainer",
         "hash": "c9e6848a11e9f6449835935418f17993326939c01270909ac1a43a2bd1cabead"
+    },
+    "100501221": {
+        "text": "For a Sparkling Miracle",
+        "hash": "84272008de483e5f5b64f28e3ec794b8142c220ff0190d952384b74141e3b231"
     },
     "100502111": {
         "text": "Stunning Trick",
@@ -4388,6 +4768,10 @@
         "hash": "d3ce8abb825d320876c75173c6451540d27a50fee894722277af3852ccf34179",
         "processed": "<sc=90>Super Express Submission!"
     },
+    "101902121": {
+        "text": "Now I'm Hyped!!",
+        "hash": "b4da4f2a74709577c0de1cf83b9f40f8ec93a092c6af3ea64a58ab92e01a135d"
+    },
     "101902211": {
         "text": "Revived For Moe!",
         "hash": "b6197739e69b3af42ba0b80fe7c07d12bcf8d3a88a25f6def6c5f4fa7641bf05"
@@ -4407,6 +4791,10 @@
     "102002111": {
         "text": "Run~Away~♪",
         "hash": "e9df7bc33a0c33f0c7b99596437da10b89653a9b439bec72034a71b9b4341642"
+    },
+    "102002121": {
+        "text": "Surprise~Successful~☆",
+        "hash": "da13938f762313e54d01cd0d080667438241d56207ca07b7a60f81bef047f8e5"
     },
     "102002211": {
         "text": "Record Runner",
@@ -4547,6 +4935,10 @@
         "text": "Bono-style Gluttony",
         "hash": "a9d5c1bc553be59bbdc25e96c4b34f6a8f571e04964b026ddffea516cbf649d1"
     },
+    "102801221": {
+        "text": "Hakkeyoi!",
+        "hash": "4cadeee9e0c2302cf2229816decdf4c3562782091497c2ff3068ba4d0018aace"
+    },
     "102901111": {
         "text": "Admired City Girl",
         "hash": "0765a39cd76039ca6d6eb226f2d940f6cb92bea885b03f2388e530aabbdc9e63"
@@ -4585,6 +4977,14 @@
         "text": "Trick & Treat",
         "hash": "a7b78bc8904fb5c33843ed44f71d56b719a9f2d6754eeca7654f1b59934c8f97"
     },
+    "103003111": {
+        "text": "Summit Meal",
+        "hash": "07086abb24b681c1e4173ac9b37163a83ffccf67633327a1c7e12faf4094c03c"
+    },
+    "103003211": {
+        "text": "Blessing of Yodo",
+        "hash": "e73cec63f280323f3a324a7e8911ba7757a1e6ea962e5abf94d3518662287cd8"
+    },
     "103101111": {
         "text": "Wild Onee-chan",
         "hash": "40ebbc9c0a76c2b7c80d86b73552ec833c30d067ce2297455adaa74c82b540e6"
@@ -4616,6 +5016,14 @@
     "103202211": {
         "text": "Dazzling Luxon",
         "hash": "6f0ea64d4166574478d7b965cdf044bc175bb1cc27bb9d91cc0356e4fbeab875"
+    },
+    "103203111": {
+        "text": "FTL Particle",
+        "hash": "7300409fb8d634f56eb73d76555700877a5f50a32cbbcec5011c09f180804ece"
+    },
+    "103203211": {
+        "text": "Subject Observation",
+        "hash": "60c1c180383a25ba704c0e65be3b22c7f1d817814ef5bc672c60712a8c9aa526"
     },
     "103301111": {
         "text": "Silent Oath",
@@ -4707,6 +5115,14 @@
         "text": "Black Flash",
         "hash": "913f85f188d718ecde24228143416618a7b65afe88ab95042a6d0b66ffd1e180"
     },
+    "103703111": {
+        "text": "Ritter von Fuchu",
+        "hash": "954889f0b7384dfe750119acdf3c19d894338733836bd0a19b03704d064cffec"
+    },
+    "103703211": {
+        "text": "Flash Torrent",
+        "hash": "9074f2e2f2eb5dcab993d46248a579021e055752edf0099c29481c040bfd85f4"
+    },
     "103801111": {
         "text": "#Cute Perturbation♪",
         "hash": "dcdf1ee913ab5389a7e3c9468e4c00b286d79c415d95a978f62719f279488114"
@@ -4751,6 +5167,11 @@
     "104001211": {
         "text": "Star of the Runway",
         "hash": "b21dbb24b4e7194e0e2b0a71f3f68b0acf44409fd0cb2d18cec272a7f328246c"
+    },
+    "104001221": {
+        "text": "To the Finale's Forefront",
+        "hash": "d6a77a0dbcab3fb868ed8374772493c73735f3d9df7522356f01e6cdeca3797b",
+        "processed": "<sc=99>To the Finale's Forefront"
     },
     "104002111": {
         "text": "Vivid Battle Formation",
@@ -4813,6 +5234,14 @@
         "text": "Salvia☆Splendens",
         "hash": "6a631afd3aed58638acca2d0fd7bc05cb4e27298e571a58fe279a81da14cec32"
     },
+    "104402111": {
+        "text": "Sylphid Magia",
+        "hash": "3148536d72cd2121f2dc9af787531079465a61de564bbe20ab61f7780b0e9229"
+    },
+    "104402211": {
+        "text": "Emergency Magic Boost",
+        "hash": "153eb5434fa7f03e3958dacf71b91234197ebfe0fb47834d0c0fa8d9edfbbf41"
+    },
     "104501111": {
         "text": "Sweet Bewitching",
         "hash": "2dae3e3aca210a63300f43a9c76b68a92ceab5249313143d7f585396beedfca4"
@@ -4858,6 +5287,10 @@
         "hash": "661dec07ecf831150e14d304cb8d296c3ddd9c7ba0b6fccda9dca4c2ee78b9b2",
         "processed": "<sc=77>Trending Towards Your Dreams!"
     },
+    "104602121": {
+        "text": "To the Ultimate Stage!",
+        "hash": "d455fc9874305beae0d6dc26e346208504325df5a9d7c334538257ba39404345"
+    },
     "104602211": {
         "text": "Absolute Center!",
         "hash": "549fba1348c637f53ae04dc98e38956f0d68f7eb3f7e435d8acb0fb60792bd32"
@@ -4873,6 +5306,15 @@
     "104701211": {
         "text": "Shining Sword",
         "hash": "802f03b2664fc4e4a4f13579a151771caf4daec687b5378d99bf700b4f0877a0"
+    },
+    "104702111": {
+        "text": "Heroic Radiance",
+        "hash": "f5340ceafd469e8d4da782b6958124f50c531d1f01b9614683f866308f28e61d"
+    },
+    "104702211": {
+        "text": "The Stormforged Hero Advances",
+        "hash": "3e0c6d1783f5bb2506b8518892210cb688da1de207d83a222a420fb9111087c7",
+        "processed": "<sc=76>The Stormforged Hero Advances"
     },
     "104801111": {
         "text": "Get Those Vibes Up!",
@@ -4948,6 +5390,10 @@
         "text": "Look At Me, Look!",
         "hash": "96cfb42bfdaee521e51c175cf063dc78b45e31e54df29b27ec505bdfe169ac68"
     },
+    "105202121": {
+        "text": "I Really Wanna Win!",
+        "hash": "b1083b97f884bedc340191fc9ffaa495fd862056aee43908e7c4ba70ce3695f0"
+    },
     "105202211": {
         "text": "Trying My Best!",
         "hash": "1a8b6b5e3bf633b0c56518011903bedf32f7ef475f8cec97b16bc6d2f8adf59a"
@@ -4955,6 +5401,11 @@
     "105301111": {
         "text": "Gateway To Discipline",
         "hash": "5aabe8a50eed080f4ef2d8f4603c6e3ab6ee55812e24ab9944943d3ce58d93bd"
+    },
+    "105301121": {
+        "text": "Dragon and Tiger's Battle",
+        "hash": "a77d07890b644d8e30bc9ab9c9701e9f8090428519c58ed0c4a69ddff8dfe7b5",
+        "processed": "<sc=96>Dragon and Tiger's Battle"
     },
     "105301211": {
         "text": "Osu! I'm Fired Up!",
@@ -5100,6 +5551,14 @@
         "hash": "ee3beffcbf086a5a1b655391918b39df97e04a3a4c92724ea3191786530a7a9f",
         "processed": "<sc=67>As Spring Blooms, the Sakura Dance"
     },
+    "106103111": {
+        "text": "Unobstructable",
+        "hash": "833542f34f790e001701706431e4b847c7c3ea404a19f2b7c6520ee2008adf39"
+    },
+    "106103211": {
+        "text": "Proof of Indomitability",
+        "hash": "bc453e313cf6cd21e66444bc684b145a65989dc3543cc9b555a251d83d42abb9"
+    },
     "106201111": {
         "text": "Going My Way",
         "hash": "08f5c4e4c57ab86b4d952602e701d94d96d8d437c00bf660903f64a58dadef0d"
@@ -5116,6 +5575,10 @@
         "text": "Big Comeback",
         "hash": "85b5a1e60277cf14c2b7dec918f030181ca59586bfe15468d2cb42510844295f"
     },
+    "106202221": {
+        "text": "Oopsy-Doopsy",
+        "hash": "c4091ff5a8db066cd1579610bdd3cef22601ab185b3fa5c18fba694b952377eb"
+    },
     "106301111": {
         "text": "Thorough Planning",
         "hash": "89f8e23b345a87e09f0104cb140f364066f27624178f3ee44d4f03b2b5c89935"
@@ -5131,6 +5594,10 @@
     "106401211": {
         "text": "Godly Runner's Wisdom",
         "hash": "45e63e0c8b5ad7782f6efb19a519fc58c44c28a29ad50a6822b26e31e7bb3609"
+    },
+    "106401221": {
+        "text": "Pump It Up",
+        "hash": "3f59feb44bfc9e9545435603ad1082ae88f2d74fd03b19db42305246bc87c4b4"
     },
     "106402111": {
         "text": "North Wind Kick",
@@ -5225,6 +5692,10 @@
         "hash": "8b1bf0dac179104dd0f4150de371a0b9d9ae8ab2014259a698872103b3989da2",
         "processed": "<sc=83>Pretty Blossoms, Pretty Year!"
     },
+    "106901121": {
+        "text": "Rather Run than Worry!",
+        "hash": "372a383f47b841c8b60af92eccc96f9511ded5f5c1e96a4a8615cf1f16e3bfea"
+    },
     "106901211": {
         "text": "In Ninefold Bloom",
         "hash": "bbf09b3c0199d64a8f8ac8db9e8b1df6a6bfa92da4e872ba5bbd1987db4a44dd"
@@ -5245,6 +5716,10 @@
         "text": "Brightest Star's Arabesque",
         "hash": "0841a99a2aa6fa3886dc3adfd9cf3d840564e8177df61b98079720c535b666ce",
         "processed": "<sc=91>Brightest Star's Arabesque"
+    },
+    "107001221": {
+        "text": "Reminiscent Träumerei",
+        "hash": "ee8e35e5cfd9a4a1994fd47b38d6137a34cff7391bbdb20839c350da7df68e73"
     },
     "107101111": {
         "text": "Eternal Brilliance",
@@ -5339,6 +5814,14 @@
         "text": "Seeking the Unknown",
         "hash": "30e2deae5ad3ab43cac95e4d691a5f0fc5f7faacdab4d7b577292ebd0f5b4d4e"
     },
+    "108201111": {
+        "text": "With A Sparkling Heart!",
+        "hash": "3b48f9aea00549330c4f87ad4e9fdc74967b96398c6dbc612db0fa75f504d4eb"
+    },
+    "108201211": {
+        "text": "Enjoy the Flight",
+        "hash": "fd5fc9895c29fb8b753aa647d15c8d6459cdd5d9b809d72e0e9c9c3e906c68bd"
+    },
     "108301111": {
         "text": "Ironclad",
         "hash": "5155b7814ce38febcc2df6d4f2579127cbbe172ba8ed65bcfc38da986d248648"
@@ -5431,6 +5914,19 @@
         "text": "Spark of Life",
         "hash": "6ef369d1c7c39b0cd046b999ceb974c1ab3001b7e6c329e6dbc2a9adae257e43"
     },
+    "109401111": {
+        "text": "Fangs of Ferocity",
+        "hash": "42412451d9cee8de61e84eeeff5d9b30556bd156272f54f3d38038c75ae65071"
+    },
+    "109401211": {
+        "text": "Demon of Tokyo",
+        "hash": "4553397a9f2e0337278353fd0072e1a2b7b446cd479cf4aed9a76af2ffee7e69"
+    },
+    "109401221": {
+        "text": "Unparalleled Bomber Runner",
+        "hash": "4494863f66213fe4668d2923721c490b1c8130735a25c4f14d515b5bbd0545cd",
+        "processed": "<sc=85>Unparalleled Bomber Runner"
+    },
     "109801111": {
         "text": "Copano-style Rising Fortunes!",
         "hash": "f780ad4fa0e82356bd4d83988c4ade08293a44982bcf81fcea1f79c7797eff09",
@@ -5449,13 +5945,34 @@
         "hash": "48f808686bd968387d6ff5fca7f10db256a855c925ae88fb575df7a70711167b",
         "processed": "<sc=78>Tourism Ambassador's Prestige"
     },
+    "109902111": {
+        "text": "Hometown Medley",
+        "hash": "ec1d602b502a02ead71d7098dea102f7f076bd96364739db5d8ae9e329e73c0a"
+    },
+    "109902211": {
+        "text": "Plunge into the Northern Sea",
+        "hash": "f34c9fefd4ced794f1b14703e53eb7a8cccf6e01cfbcffbb2c5708ad26260c2b",
+        "processed": "<sc=84>Plunge into the Northern Sea"
+    },
     "110001111": {
         "text": "Refueled Fighting Spirit",
         "hash": "c9a87fe067ec37c69bba80aeb96d904821e99f9bc85108cbd3c56085f43266df"
     },
+    "110001121": {
+        "text": "Veiled Grit",
+        "hash": "e4cb01b0e620dde0e3cb61bc316594cc660cd8d0fd8e8ac20ee386a38e70142a"
+    },
     "110001211": {
         "text": "Goddess' Dust Bath",
         "hash": "acbacc43c28d00727a9a972950fe57a09d5d49a8a4b708074b191db2aead82e1"
+    },
+    "110201111": {
+        "text": "Caesura",
+        "hash": "c05d22ab8c71cad7ab91ae94b8128eab4474de152f20e3c111f0c4e818d38e44"
+    },
+    "110201211": {
+        "text": "Trionfo",
+        "hash": "bc44cd45aab5e54151427d53e53aa302e1936e693adb878c3ddc9fbf0b7a5b37"
     },
     "110401111": {
         "text": "Beat You to It!",
@@ -5475,10 +5992,22 @@
         "hash": "5e96c41420d4655cdb3ca5b66b3e81153a039de214ea91bab088ebf58c30673a",
         "processed": "<sc=96>Crossing the Sea of Stars"
     },
+    "110502111": {
+        "text": "Luminous Spectrum",
+        "hash": "9395d91b73a1b1aad7d1223588b18b85b7deb11ba5030912401184f682acdbfd"
+    },
+    "110502211": {
+        "text": "METI Resonance",
+        "hash": "d79dc35473192947c0e0746c45a1f5766a44bb44d439882db7add4caf66e7020"
+    },
     "110601111": {
         "text": "Keep Calm, Don't Overthink",
         "hash": "450c7ef0dda3989809925e3e3495603fb1c3f7950412d34e08177ab84f7d3cfa",
         "processed": "<sc=89>Keep Calm, Don't Overthink"
+    },
+    "110601121": {
+        "text": "I'll Do What I Can~!",
+        "hash": "2d6cbb2694d3cb6b3d7724971d87ac97d22e90f743e9ddb0dad07f790381a1e1"
     },
     "110601211": {
         "text": "Collecting Little Joys",
@@ -5508,5 +6037,42 @@
         "text": "There's No Way I'll Lose!",
         "hash": "2ba9b80f01e9814e1c612a8fea1d8aff7195331dd7c4e627214b7718a3c747de",
         "processed": "<sc=99>There's No Way I'll Lose!"
+    },
+    "111001111": {
+        "text": "Be as Bedrock",
+        "hash": "23a2ec3c9c4956e18714733082712333593a678d2bcd2bbbf704f1399396dee1"
+    },
+    "111001211": {
+        "text": "Beautiful Transformation",
+        "hash": "ec40dadfe748960d8cf916d253a7b7294cc11252678c4d56b6b1e154b9568a84",
+        "processed": "<sc=99>Beautiful Transformation"
+    },
+    "111601111": {
+        "text": "Step Aside",
+        "hash": "a5e89cfdf8efe6fd0eb1531970e545ad9d37b426f74e9803ae395e951c668f4d"
+    },
+    "111601211": {
+        "text": "Power Am I",
+        "hash": "71c3475d43d619fda989d04d162eab3a7af4f57d3afbafdefc2122665234cf22"
+    },
+    "111601221": {
+        "text": "A Lady's Domain",
+        "hash": "c70f513768de5745c942444beed31b0d6a5ef6498db82a53910ff94b33cb068c"
+    },
+    "111901111": {
+        "text": "Starboard Till the End",
+        "hash": "3c885e5cc9f43c93aea963d7bd5277b7fa1fff5baa98fc425b61f0c67e3d54f0"
+    },
+    "111901211": {
+        "text": "Trance",
+        "hash": "fb5a3ea9cbc2aa4cabef3389846bf0b259aa8e5a6ae6c779036e651650c794d2"
+    },
+    "112001111": {
+        "text": "Flash Dash!",
+        "hash": "0e2b67d3fc99087ad2ba4c499e34507ca764d838c950b982a419010bde1aa1f1"
+    },
+    "112001211": {
+        "text": "Gale Rush!",
+        "hash": "de5cbcf0ba375658558afc17ba4e191ef146ff08b745158f0a9cdf1fe3d29c88"
     }
 }

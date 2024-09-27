@@ -224,7 +224,7 @@
         "hash": "1d70137d1771364dad96bee96423bc099f26ec3b620358f3de980d1934d07849"
     },
     "10057": {
-        "text": "[Tracen Academy] Matikane Tannhäuser",
+        "text": "[Tracen Academy] Matikanetannhauser",
         "hash": "e6a4fa5415cbe85e20710874c879844f020fb521e9097cbb9d90181f2aa9248b"
     },
     "10058": {
@@ -379,6 +379,10 @@
         "text": "[Tracen Academy] Tap Dance City",
         "hash": "c72672e4690c0ebfdcffa36bc6aa2fde9232cca49a68b36669bb1ea5715d4b58"
     },
+    "10096": {
+        "text": "[Tracen Academy] Still in Love",
+        "hash": "24209aa62b4f8dc3aa7e3bd88613c578527719843b5134496c6484027f2a8f86"
+    },
     "10097": {
         "text": "[Tracen Academy] Verxina",
         "hash": "2fbfcca5521b9fefa106f48ecf7c6e80f4de07a42b5e4e71da69c3cdfb05b476"
@@ -427,6 +431,14 @@
         "text": "[Tracen Academy] Dantsu Flame",
         "hash": "77b578da141c4e24a57d249802a4e74256c9af4099c988295dbb1182bf0c898c"
     },
+    "10109": {
+        "text": "[Tracen Academy] Director Akikawa",
+        "hash": "1907d875af2d18138f88ba4f15f89078cf6309af4e3be49e4df831d57df31e81"
+    },
+    "10110": {
+        "text": "[Tracen Academy] Espoir City",
+        "hash": "23dc87e8d5713d004ca0bc69619c4c4b2d38e9516b19b06b9c3da6de2c395cf6"
+    },
     "10113": {
         "text": "[Tracen Academy] Gentildonna",
         "hash": "9d1e1f5d5fa583120492713599601e3c3f8b31d1c724bc5472b80d63b1614c43"
@@ -435,9 +447,17 @@
         "text": "[Tracen Academy] Rhein Kraft",
         "hash": "d21372aafb37b2761c8032718e54da21e91da7ae75e15b983f9128ade354795b"
     },
+    "10115": {
+        "text": "[Tracen Academy] Cesario",
+        "hash": "593b2fd688c8dc1ffc9b72a82dce374d3b04513afb8a8b867c222040a847fbdd"
+    },
     "10117": {
         "text": "[Tracen Academy] No Reason",
         "hash": "c932e04b26393c43a96ee4c3fa2c1b64281ab058c180c801f273f9b040212f2d"
+    },
+    "10118": {
+        "text": "[Tracen Academy] Buena Vista",
+        "hash": "583ce713c413f1b8464b0ff87f1ce837c2fd78fe30f6ae8edefa031dff145e62"
     },
     "20001": {
         "text": "[Good Grief, Welcome Back] Fuji Kiseki",
@@ -579,6 +599,10 @@
         "text": "[nail on Turf] Tosen Jordan",
         "hash": "7b85724cff3b335b8186420363fbe107cdaf14010a3e816db6a899697f54d458"
     },
+    "20036": {
+        "text": "[Here's your Salvation♪] Mejiro Palmer",
+        "hash": "f32bd57eb716069deecbfacd3cf6e22442e66519afd42f0542f22a60eb39a94b"
+    },
     "20037": {
         "text": "[GRMA Ramen♪] Fine Motion",
         "hash": "b89739ab1c4ed3a71b7790ce8f82f4aacc1be7d7b2125ac79c8b90e08d012431"
@@ -708,7 +732,7 @@
         "hash": "4b87548d81a3594d26692cc248a4fb5f402b8158741f7134a113f1e908956586"
     },
     "20069": {
-        "text": "[Fleeing From Evil?!] Matikane Tannhäuser",
+        "text": "[Fleeing From Evil?!] Matikanetannhauser",
         "hash": "0bd3012a5356187697122dc6a6ab2617f18219d553f6ad2854c808bdc37b65fd"
     },
     "20070": {
@@ -742,6 +766,18 @@
     "20077": {
         "text": "[In Shape with Lotion] Dantsu Flame",
         "hash": "9b2943b6bdb5097a33d49c86f32ee9e19f0970220b46f6aab06c340f538f8a6b"
+    },
+    "20078": {
+        "text": "[May this Charm bring Prosperity!] Matikanefukukitaru",
+        "hash": "f3350c2205b917b508d466b1f6db3d0ac8943c8b231ed508487eb7cfe9e4c3b6"
+    },
+    "20079": {
+        "text": "[Good Marvelous to Everyone☆] Marvelous Sunday",
+        "hash": "d2abdb2f9b6c35906f3046809f46c3bbe7e65bfc85823fdbc2e2a90898dec832"
+    },
+    "20080": {
+        "text": "[Hanagoromo for You] Sakura Laurel",
+        "hash": "97d8af13de177014ac432abb72aa25387d746c978f870215ea28983dcb6a23cb"
     },
     "30001": {
         "text": "[Japan's Number 1 Stage] Special Week",
@@ -860,7 +896,7 @@
         "hash": "c326fefa6229fc56ab37ff1077bef4ee0b07b02f52f977e47ecc97ac6d4ecdc4"
     },
     "30030": {
-        "text": "[Just keep going.] Matikane Tannhäuser",
+        "text": "[Just keep going.] Matikanetannhauser",
         "hash": "c83eed6af41cb9620bdda8e1e5571a4db30dcfaf8b3033f4e992c81454c5db34"
     },
     "30031": {
@@ -1048,7 +1084,7 @@
         "hash": "798b513fb2ed9c16fa449427ae93896339bee71bac6ae16340309d775e1a923e"
     },
     "30081": {
-        "text": "[Accumulating Feelings] Team ＜Sirius＞",
+        "text": "[Accumulating Feelings] Team Sirius",
         "hash": "af7676adeaaf9baa5b40ac2fc726dbca23844d0b8c488a322121f4ce14dd2f36"
     },
     "30082": {
@@ -1136,7 +1172,7 @@
         "hash": "ddfb25472c3c9233108e2ad0c4f0ea42e23f9cb525407c8f6f1aa9bdb772ba81"
     },
     "30103": {
-        "text": "[Matikane​☆​Adventure] Matikane Tannhäuser",
+        "text": "[Matikane​☆​Adventure] Matikanetannhauser",
         "hash": "3291322367c04e30c7976a4de115ce05dad9b6cf1583dc2e7dd8eff6a6a00ac2"
     },
     "30104": {
@@ -1530,5 +1566,85 @@
     "30202": {
         "text": "[My Ride for Tomorrow] Vodka",
         "hash": "686071273383e130c074ef1010a104682a91ae587ba27f5881aeff9a78533b56"
+    },
+    "30203": {
+        "text": "[Opening a new Era] Jungle Pocket",
+        "hash": "cfbe08eccfaa3f6834a6dfe34435f3ad7fcbd21e2b2168876b9172b1a88aa92d"
+    },
+    "30204": {
+        "text": "[Dozing in the Scent of Happiness] Seiun Sky",
+        "hash": "1ae98ae48e1fed5184cf3dfd5a945584ca6e83a1d685a27a730498ac00095591"
+    },
+    "30205": {
+        "text": "[Azure Coronation] Verxina",
+        "hash": "cb2ba8c3ca68d356631fd35b89101d4c39a4771ff93db5ca19c4bc1b2ec92821"
+    },
+    "30206": {
+        "text": "[Dream of Alstroemeria] Vivlos",
+        "hash": "1c714821632fa7a759ea9c79f020cbf65da472ea3eaea20027b1316a94aeb1f3"
+    },
+    "30207": {
+        "text": "[Cultivate! Giant Carrot of Dreams!] Director Akikawa",
+        "hash": "769cf478778bfd5fcc054a8d32ff9ca48eb47465f095475671036b7b8fa4f72e"
+    },
+    "30208": {
+        "text": "[The Strawberry Field at Dawn] Nishino Flower",
+        "hash": "ffd998fe1bca7228ad148ccf31d1adb8f217ef0e5ff778deeee7b5675fe1053d"
+    },
+    "30209": {
+        "text": "[And the Curtains Rise] Dantsu Flame",
+        "hash": "a7ad4fa88c3a6d8bf032c7269bf97badf7af9123b89ac036af3cda9950846379"
+    },
+    "30210": {
+        "text": "[Candid Shot Between The Waves] Smart Falcon",
+        "hash": "a582d6564217ca9bf7d6841d52574f4e94933bca940a1ed29d96965e52ceb7bf"
+    },
+    "30211": {
+        "text": "[Lucky☆Summertime] Copano Rickey",
+        "hash": "7c07968ab0e19c2dbd7db303bbfa9606c3b92a1ce05626f034af35d46ca180db"
+    },
+    "30212": {
+        "text": "[That Summer's Cut-off Line] Wonder Acute",
+        "hash": "ea1c933d8732910db7955ee94efed639831c6f961580d9b37dc660df9736482f"
+    },
+    "30213": {
+        "text": "[The Slapdash Grand Prix has Begun] Tokai Teio",
+        "hash": "14a1a8f3f8b29f9ab4682838243355c6f3afb68f747860a6ccfbd0c5d23d3a95"
+    },
+    "30214": {
+        "text": "[Full of History and Good Food] Fine Motion",
+        "hash": "9758ba0276bfec248b3641c542426f38daaab2b71c9342c7ac56a70cf6bb3dba"
+    },
+    "30215": {
+        "text": "[Devilish Whispers] Still in Love",
+        "hash": "c30366fccda1ab964c439105998eda9814dca64bc6ef35441fa9a4ef0cf68390"
+    },
+    "30216": {
+        "text": "[With Love to Our School] Buena Vista",
+        "hash": "241ac32c5f271964eec08005e975f4dd1d6e31cd2d1bdf36ceb1f2ad68ac2970"
+    },
+    "30217": {
+        "text": "[Mother Sea of Love] Cesario",
+        "hash": "e42de9ef6d2261852bc85028358f9ab22559719450e5c8936288241b407d8d70"
+    },
+    "30218": {
+        "text": "[Sunshine Under the Moon] Taiki Shuttle",
+        "hash": "6510164b022b7a6a7ecd5701f43d0589265b9febc5c33854a10462e51afaa40b"
+    },
+    "30219": {
+        "text": "[Something troubling you, Pony-chan?] Fuji Kiseki",
+        "hash": "e60b8c88222bf085eab6ca911ea1cdc2d7584a1fff0ac2b3da4e2c2864c254c6"
+    },
+    "30220": {
+        "text": "[Rewarding Job] Symboli Kris S",
+        "hash": "ac0d76434767f2127fc1c011038d14852d88c25bdfab0cdd3de004b7d0d85bf7"
+    },
+    "30221": {
+        "text": "[Fun and Food Every Day] Satono Diamond",
+        "hash": "e85fab39b25fa629bc1cfdcc58f281cbc243856cbf94f3477fa6aa547d24fb60"
+    },
+    "30222": {
+        "text": "[KNOCK 'EM DOWN!] Espoir City",
+        "hash": "37027585fc06d4bc5d48e2223ed873c009e013a4a7a2c1fea2eda97d08665327"
     }
 }

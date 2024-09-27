@@ -1,6 +1,6 @@
 {
     "1001": {
-        "text": "Touch-and-go ticket gates at the train station",
+        "text": "Touch-and-go ticket gates",
         "hash": "6b0ecb872ba0d620797034f8dd0c4d51d26bdc2eb9fc7f9d9ecbab80a30a7168"
     },
     "1002": {
@@ -68,7 +68,7 @@
         "hash": "3681063d471def1a177532dcd8082261fc5a88a6629bdfa9d1cdefa335dfab46"
     },
     "1018": {
-        "text": "Sudden movements and flashing lights",
+        "text": "Flashing lights and sudden movements",
         "hash": "71093f0ddaf450b40033d1c0729c949333ff024a40165d69638010b999e33b5c"
     },
     "1019": {
@@ -76,7 +76,7 @@
         "hash": "40dc51c27ebe440c14926a685d13823b02c8c1aa2e9eda3f43893b58819a27b7"
     },
     "1020": {
-        "text": "Small, cramped places (the gate, the gate!)",
+        "text": "Small, cramped places (The gate, the gate!)",
         "hash": "3008276391141099326659835acfd37a6b2e4b068adb22fb5589ab6450a01678"
     },
     "1021": {
@@ -116,11 +116,11 @@
         "hash": "cbfecea181c084956852afbe633a463ecd8daca48caa7db1dc56e9418f058c49"
     },
     "1030": {
-        "text": "Other's Misfortune, Ghosts",
+        "text": "Other's misfortune, ghosts",
         "hash": "2b7b13677c929bbf307c00e64d9e1a079d6d6066dbf1badef6e15ffb756cdd34"
     },
     "1031": {
-        "text": "Luxury, Favors (she can't refuse them)",
+        "text": "Luxury, favors (she can't refuse them)",
         "hash": "f5b67772d36567ab54374fb6d8808003249f8217c2f9ae9fa3141ef4c7556327"
     },
     "1032": {
@@ -212,7 +212,7 @@
         "hash": "8a14a374be599362d35cc9daeebca983326bfa8b3a1c8a6b65eec6052cff7b8c"
     },
     "1054": {
-        "text": "Eating too much without realizing it.",
+        "text": "Eating too much without realizing it",
         "hash": "d5005db1d43f9cb71742f93f173c6bca3e683d86c4aa94d810780745355a4c10"
     },
     "1055": {
@@ -228,7 +228,7 @@
         "hash": "ee0181c796341a5f914fec98542b1ee2ce85169cbccd68694a7f465c3f29ede3"
     },
     "1058": {
-        "text": "Talking fast",
+        "text": "Tongue twisters",
         "hash": "373fbbd9394274b4ae379a0b004ed162f1955c2acf11d96794e7a886c7df5a1b"
     },
     "1059": {
@@ -244,7 +244,7 @@
         "hash": "25d76cc2d324c107d03458f96b025013ba1ea1900a811400c4616a0a2d8e5924"
     },
     "1062": {
-        "text": "Real spiders, Tomato juice",
+        "text": "Spiders (only real ones), tomato juice",
         "hash": "eb36f1a2ad0ca09f1e0434e5981afa28f7db5bae45ced0167270b8b66d0d9192"
     },
     "1063": {
@@ -300,12 +300,16 @@
         "hash": "a83416cbdf3169b9c63f1e01f745ddb4f5a1b9fa37cde72ae9b1528858a6c041"
     },
     "1078": {
-        "text": "Airco",
+        "text": "Air conditioning",
         "hash": "238c41e1b9322f27573afc46a5926ffd15d29e8e96aee3eb564bfbc15f619f5d"
     },
     "1080": {
         "text": "Clichés, bubble gum",
         "hash": "9d0481cb6fa2162435880f21a24b36e28eae91e7ef2845e4fd01b7241113d5e9"
+    },
+    "1082": {
+        "text": "Foot massages",
+        "hash": "644fa271ee5025e072b14d7cd95368f9a9cd7ff530c619235de7caebaaa370df"
     },
     "1083": {
         "text": "Being barefoot",
@@ -342,6 +346,10 @@
     "1093": {
         "text": "Deep flavors, sirens",
         "hash": "7d9f4331e479d84ab501f519d5c6509924f14bf7f56c3420fa5b059f88799cf6"
+    },
+    "1094": {
+        "text": "Sad stories, mints",
+        "hash": "26bc81fd2187169e891e12ee048cc4a60d7f6d63c62de449f7347b5fbab9c9e3"
     },
     "1098": {
         "text": "Dusty places",
@@ -382,5 +390,25 @@
     "1109": {
         "text": "Bugs (especially flies), acting",
         "hash": "741a41ffb1d4418a4e506b3157a5e690f170504510ce6618ed80069b0d01f3cf"
+    },
+    "1110": {
+        "text": "Tragic love stories, winter mornings",
+        "hash": "3ce04b7caa37839494efe4b755a4b8e1579dda6aef8f1c57c34a89ca1b607c9a"
+    },
+    "1116": {
+        "text": "Leopard prints, tapioca",
+        "hash": "3201c94a9186ab2a0cfc408cf4e17d8598305782d6f02d3585f00fdf32bb4c5b"
+    },
+    "1119": {
+        "text": "Flies",
+        "hash": "5661e56e46ff039d0662846422dab967050111efb668e4775710d14668b315e0"
+    },
+    "1120": {
+        "text": "Quadratic functions, diving.",
+        "hash": "24ab026c9116795303ef3c76756c7ab72ccd47806b84bbc333da9ce56eabc1c4"
+    },
+    "1121": {
+        "text": "Staring contests, traveling alone, capitulation",
+        "hash": "3dd273964c20c5f0322f5c73fed218a6810a998f79deb1ff7505921f677d52f3"
     }
 }

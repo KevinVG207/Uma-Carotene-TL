@@ -28,7 +28,7 @@
         "hash": "b615e019e7be9c243938dbefffc4d1abb0155e91a31593dc3e3c84aa772518c7"
     },
     {
-        "text": "<nb><size=38>List/Unlock</size>",
+        "text": "<nb><sc=90>List/Unlock",
         "hash": "38b532567dae25894ba0bdc569f8f248b29c57ba10a233517976fc3b49b4ef28"
     },
     {
@@ -148,7 +148,7 @@
         "hash": "91c42eaf6fde4c440e3ccdb82f832699bbbf53c0409d1581e60e644454f0add2"
     },
     {
-        "text": "<nb>Suspended",
+        "text": "Suspended",
         "hash": "3570862a2f7269899e704286cf18b76fb23c14c284b18ceedb74628d7f384b42"
     },
     {
@@ -290,5 +290,21 @@
     {
         "text": "Character Story Ch. 1",
         "hash": "aa44120c1deda3f70fbdd8e8c93b04fc42d449a627e08873989870c505f1cfab"
+    },
+    {
+        "text": "Filter",
+        "hash": "90b10e7b23febc877e0af083d82d1e26692f26560a8f60eb46dce04decf5bd1a"
+    },
+    {
+        "text": "Stock",
+        "hash": "3c018f474a12bab83a1f95d759c28cb6272f515dad4c6211b56311a2ed5b5721"
+    },
+    {
+        "text": "Multiplier",
+        "hash": "990c0882923cf22b851e8f6c7ce6d091cc35984bee75ba3ae50727b84dad71ee"
+    },
+    {
+        "text": "Great Satisfaction",
+        "hash": "0fab8bbd12ed76558633ad4b277a70b2420881e51471872dc1e36b2fb682cc6a"
     }
 ]

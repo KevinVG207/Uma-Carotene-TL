@@ -12,12 +12,12 @@
             "clip_length": 45
         },
         {
-            "text": "――All right, Air Shakur.\nTry running they way I just laid out.",
+            "text": "――All right, Air Shakur.\nTry running the way I just laid out.",
             "name": "Mid-Rank Trainer",
             "path_id": 6047827388930749549,
             "block_id": 1,
             "clip_length": 133,
-            "processed": "<story>――All right, Air Shakur.\n<story>Try running they way I just laid out."
+            "processed": "<story>――All right, Air Shakur.\n<story>Try running the way I just laid out."
         },
         {
             "text": "The day after I met Air Shakur, when I went to check out the \ncourse, there she was, getting instructions from another trainer.",
@@ -180,12 +180,12 @@
             "processed": "<story>Huh!? What are you talking about?\n<story>We just started!"
         },
         {
-            "text": "No more means no more. If you really wanna waste any more of \nmy precious time... You know what I'mma do, don't you? <b><i>HUH!?</b></i>",
+            "text": "No more means no more. If you really wanna waste any more of \nmy precious time... You know what I'mma do, don't you? <b>HUH!?</b>",
             "name": "Air Shakur",
             "path_id": -1689103725944672975,
             "block_id": 19,
             "clip_length": 342,
-            "processed": "<story>No more means no more. If you really wanna waste any more of \n<story>my precious time... You know what I'mma do, don't you? <b><i>HUH!?</b></i>"
+            "processed": "<story>No more means no more. If you really wanna waste any more of \n<story>my precious time... You know what I'mma do, don't you? <b>HUH!?</b>"
         },
         {
             "text": "Eek...! Wh-What's wrong with you? \nYou're beyond understanding!",

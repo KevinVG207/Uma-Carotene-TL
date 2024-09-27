@@ -255,6 +255,10 @@
         "text": "Rice Shower Piece",
         "hash": "52e64490d6baa6007551de0403fe03217fcff1d38cbb13979309269772c604c8"
     },
+    "103003": {
+        "text": "Rice Shower Piece",
+        "hash": "52e64490d6baa6007551de0403fe03217fcff1d38cbb13979309269772c604c8"
+    },
     "103101": {
         "text": "Ines Fujin Piece",
         "hash": "f07ab534915b160e1ca0f96f0f8f3eed2fc83f299cd6808884d356d79bdeaef1"
@@ -315,6 +319,10 @@
         "text": "Eishin Flash Piece",
         "hash": "418cd62735f5e5aaedb1f0909261bbea081c635c096b1b74f360490c0fef6dd7"
     },
+    "103703": {
+        "text": "Eishin Flash Piece",
+        "hash": "418cd62735f5e5aaedb1f0909261bbea081c635c096b1b74f360490c0fef6dd7"
+    },
     "103801": {
         "text": "Curren Chan Piece",
         "hash": "46851a25f60311976608e47da3bbd4cf12f19919d248cca7d28c371b404bad32"
@@ -359,6 +367,10 @@
         "text": "Sweep Tosho Piece",
         "hash": "da588cf26a0815c7cb7013c91b497a6a62145f115189877ce6e106765e9aaba6"
     },
+    "104402": {
+        "text": "Sweep Tosho Piece",
+        "hash": "da588cf26a0815c7cb7013c91b497a6a62145f115189877ce6e106765e9aaba6"
+    },
     "104501": {
         "text": "Super Creek Piece",
         "hash": "1f7197b596d7f6e7f6c0dbac2b691a091c4cb73b11e38b5f09a906b4675ae77c"
@@ -380,6 +392,10 @@
         "hash": "4aa317011ab0f148316a74329db208218f1c93b3e20658c008fe5949e012fd56"
     },
     "104701": {
+        "text": "Zenno Rob Roy Piece",
+        "hash": "c4dbd3cac2f518a127c023098b23fc0486e311b93ceb3b6ea02b19d9f9a50ff9"
+    },
+    "104702": {
         "text": "Zenno Rob Roy Piece",
         "hash": "c4dbd3cac2f518a127c023098b23fc0486e311b93ceb3b6ea02b19d9f9a50ff9"
     },
@@ -483,12 +499,16 @@
         "text": "King Halo Piece",
         "hash": "98078eb3c5bc377d56e1408e20cf9f3cac4413e2e300229c45a213e361ade375"
     },
+    "106103": {
+        "text": "King Halo Piece",
+        "hash": "98078eb3c5bc377d56e1408e20cf9f3cac4413e2e300229c45a213e361ade375"
+    },
     "106201": {
-        "text": "Matikane Tannhäuser Piece",
+        "text": "Matikanetannhauser Piece",
         "hash": "20623f077ec1abc71ec5c27ceff19bc62fb9440188518d622b74205bc5f1ae60"
     },
     "106202": {
-        "text": "Matikane Tannhäuser Piece",
+        "text": "Matikanetannhauser Piece",
         "hash": "20623f077ec1abc71ec5c27ceff19bc62fb9440188518d622b74205bc5f1ae60"
     },
     "106301": {
@@ -591,6 +611,10 @@
         "text": "Transcend Piece",
         "hash": "b71136ae44fb7179b6f4b125120efb30d69ff247344f711e61ffdc15d872a7ac"
     },
+    "108201": {
+        "text": "North Flight Piece",
+        "hash": "dd2c6ae800dad9dc25bb35e3232aa9a91a62336b787463784523f223eda1d69a"
+    },
     "108301": {
         "text": "Symboli Kris S Piece",
         "hash": "bfc5702226aa788abfcf762896ebbeb32d264dd9474852f0e32ad0941319a52b"
@@ -635,11 +659,19 @@
         "text": "K.S. Miracle Piece",
         "hash": "3a2d6e2c3143bba0ea1e57f3ad7decfd95fb40621f4a762b91ca99d3ca00b0f7"
     },
+    "109401": {
+        "text": "Jungle Pocket Piece",
+        "hash": "198559ae85dd79f3328e6e4c1ccb74bc761906d8e80267fe115ad67e044d6776"
+    },
     "109801": {
         "text": "Copano Rickey Piece",
         "hash": "2e7272288ecdb62aced61446fb22ed116a2b96c1e52c2935d428a553fb3c1c00"
     },
     "109901": {
+        "text": "Hokko Tarumae Piece",
+        "hash": "c036e9556d9f84eb62f575d4cadf58e8a37a985d787302b5c9f9cdb774db922e"
+    },
+    "109902": {
         "text": "Hokko Tarumae Piece",
         "hash": "c036e9556d9f84eb62f575d4cadf58e8a37a985d787302b5c9f9cdb774db922e"
     },
@@ -659,6 +691,10 @@
         "text": "Neo Universe Piece",
         "hash": "35e301502bd330f488e12433c894934b94732bc81dcf1c54133d780671e42390"
     },
+    "110502": {
+        "text": "Neo Universe Piece",
+        "hash": "35e301502bd330f488e12433c894934b94732bc81dcf1c54133d780671e42390"
+    },
     "110601": {
         "text": "Hishi Miracle Piece",
         "hash": "31c3edc5cbe27caa302c97f21ff4a887113885447d53c6eb619938645719b48e"
@@ -674,5 +710,25 @@
     "110901": {
         "text": "Rhein Kraft Piece",
         "hash": "66772b2601ebe4a6ea7dfa4d88f2755571ab1edd8da282b81fe45071668872e4"
+    },
+    "111001": {
+        "text": "Cesario Piece",
+        "hash": "8d3c67d20647b76a61499996d8a0dafedbaef33e6d832e71188be5e8afd78ad6"
+    },
+    "111601": {
+        "text": "Gentildonna Piece",
+        "hash": "99756969e6b6842258418272cbb708284bc4816be2cf9074634721d986fd583b"
+    },
+    "111901": {
+        "text": "Dream Journey Piece",
+        "hash": "fbda56b6b52e1019a34610d3f8438e774d18af32e54f7c35f4c43a1690562ce6"
+    },
+    "112001": {
+        "text": "Calstone Light O Piece",
+        "hash": "b064eaaf0c72f2495c7e856cfc4d30906119f4c437b1fd756027e9918b88f48e"
+    },
+    "112101": {
+        "text": "Durandal Piece",
+        "hash": "93b7093006b4fbeefa13635d4694539470f4fd6b6ed2437284820958303b51be"
     }
 }

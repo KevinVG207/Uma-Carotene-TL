@@ -3,6 +3,7 @@ import json
 import copy
 import os
 import argparse
+import sys
 
 default_settings = {
     'client_version': None,
@@ -17,7 +18,11 @@ default_settings = {
     'patch_customization': {},
     'patch_customization_enabled': False,
     'customization_changed': False,
+    'dxgi_backup': False,
+    'cellar_downloaded': False,
+    'first_run': True,
     'autosave_story_editor': True,
+    'cj_orig_name': None,
 }
 
 class Settings:
@@ -25,6 +30,14 @@ class Settings:
 
     def __init__(self):
         self.args = self._parse_args()
+
+    @property
+    def first_run(self):
+        return self['first_run']
+    
+    @first_run.setter
+    def first_run(self, value):
+        self['first_run'] = value
 
     @property
     def client_version(self):
@@ -121,7 +134,23 @@ class Settings:
     @customization_changed.setter
     def customization_changed(self, value):
         self['customization_changed'] = value
+    
+    @property
+    def dxgi_backup(self):
+        return self['dxgi_backup']
 
+    @dxgi_backup.setter
+    def dxgi_backup(self, value):
+        self['dxgi_backup'] = value
+    
+    @property
+    def cellar_downloaded(self):
+        return self['cellar_downloaded']
+
+    @cellar_downloaded.setter
+    def cellar_downloaded(self, value):
+        self['cellar_downloaded'] = value
+    
     @property
     def autosave_story_editor(self):
         return self['autosave_story_editor']
@@ -129,6 +158,14 @@ class Settings:
     @autosave_story_editor.setter
     def autosave_story_editor(self, value):
         self['autosave_story_editor'] = value
+
+    @property
+    def cj_orig_name(self):
+        return self['cj_orig_name']
+    
+    @cj_orig_name.setter
+    def cj_orig_name(self, value):
+        self['cj_orig_name'] = value
     
     def _load(self):
         # print("Loading settings")
@@ -174,12 +211,17 @@ class Settings:
     def _parse_args(self):
         p = argparse.ArgumentParser()
         p.add_argument('-U', '--update', action='store_true', help="Auto-update the patcher")
-        p.add_argument('-p', '--patch', help="Auto-install the patch if needed with DLL name as argument")
-        p.add_argument('-f', '--force', help="Force install the patch even if there's no update. DLL name as argument")
+        p.add_argument('-p', '--patch', action='store_true', help="Auto-install the patch if needed with DLL name as argument")
+        p.add_argument('-f', '--force', action='store_true', help="Force install the patch even if there's no update. DLL name as argument")
         p.add_argument('-u', '--unpatch', action='store_true', help="Uninstall the patch")
         p.add_argument('-c', '--customization', action='store_true', help="Show the customization widget")
 
         return p.parse_args()
+    
+    def has_args(self):
+        if len(sys.argv) > 1:
+            return True
+        return False
 
 settings = Settings()
 

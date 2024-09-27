@@ -115,6 +115,14 @@
         "text": "Tenno Sho (Autumn)",
         "hash": "d03321a9f5f9e85624529f6c81f8a47abd1a3dbb58d1a0a21af299e00ad19572"
     },
+    "103101": {
+        "text": "Japan C",
+        "hash": "8df37e13ee6453263fb854e5d9a8150ed108cf661b0b6b8536430ed5616fcdd5"
+    },
+    "103201": {
+        "text": "Sprinters S",
+        "hash": "5871ca828f62544409b46106b814ac41aed5274074a5d0b49cf2bc32eb8c67f8"
+    },
     "110101": {
         "text": "Teio Sho",
         "hash": "5c11210b8a640c8809cadeb43cffcd0db1646a6a8a2c8a016fa0aa6237232574"
@@ -5007,6 +5015,38 @@
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
     },
+    "650061": {
+        "text": "Scout Race Medium Distance",
+        "hash": "5fa076fd0ec2932c568ba778beeca6dd934288f239bb40be4709f54f5b68eda9"
+    },
+    "650062": {
+        "text": "Scout Race Mile",
+        "hash": "fefbcdfd213791919253e4f0d596f30049bef57b37c61805e1f041ae58a151a8"
+    },
+    "650063": {
+        "text": "Scout Race Dirt",
+        "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
+    },
+    "650064": {
+        "text": "Scout Race Short Distance",
+        "hash": "3c9947b926918a119b197789dae52311bf1547540500292d6a6394ec9963441c"
+    },
+    "650065": {
+        "text": "Scout Race Mile",
+        "hash": "fefbcdfd213791919253e4f0d596f30049bef57b37c61805e1f041ae58a151a8"
+    },
+    "650066": {
+        "text": "Scout Race Medium Distance",
+        "hash": "5fa076fd0ec2932c568ba778beeca6dd934288f239bb40be4709f54f5b68eda9"
+    },
+    "650067": {
+        "text": "Scout Race Long Distance",
+        "hash": "78d53fdc6821e3827d6ce430a649662ba82c13a741e4428531e3b86b0a451b87"
+    },
+    "650068": {
+        "text": "Scout Race Dirt",
+        "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
+    },
     "690001": {
         "text": "Regular Race - Week 1 - Short",
         "hash": "fa1570d3fa1fb7e92462e37e0e60a8782d06366ea40c1cdd1b3a717c8af745e9"
@@ -5202,6 +5242,10 @@
     "702501": {
         "text": "Team Practice",
         "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c"
+    },
+    "702701": {
+        "text": "Practice Match",
+        "hash": "2c0224a8105e0c068532ebb89a769361776b02501fc8a1e8e75d3fee7d18b9ca"
     },
     "800001": {
         "text": "February S",
@@ -8150,5 +8194,13 @@
     "1201702": {
         "text": "Japan Derby (HARD)",
         "hash": "ce04bb3b572946439ecb1d95bd988b4a1da7d55274d2e5e642945664af26a3fe"
+    },
+    "1201901": {
+        "text": "Takarazuka Kinen (HARD)",
+        "hash": "2f613257cc97237d044bbc2611e6813e2714be912bc806d3e313466c376a7c5e"
+    },
+    "1201902": {
+        "text": "Takarazuka Kinen (HARD)",
+        "hash": "2f613257cc97237d044bbc2611e6813e2714be912bc806d3e313466c376a7c5e"
     }
 }

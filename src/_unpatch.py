@@ -74,6 +74,18 @@ def revert_assembly(dl_latest=False):
     else:
         os.remove(translations_path)
 
+    if settings.cellar_downloaded:
+        settings.cellar_downloaded = False
+        dxgi_path = os.path.join(game_folder, "dxgi.dll")
+        if settings.dxgi_backup:
+            print("Restoring previous dxgi.dll")
+            dxgi_bak_path = dxgi_path + util.DLL_BACKUP_SUFFIX
+            shutil.move(dxgi_bak_path, dxgi_path)
+            settings.dxgi_backup = False
+        else:
+            print("Removing Cellar")
+            os.remove(dxgi_path)
+
     if dl_latest:
         dll_name = settings.dll_name
         if dll_name:
@@ -89,6 +101,8 @@ def revert_assembly(dl_latest=False):
             if os.path.exists(bak_path):
                 print(f"Restoring previous {dll_name}")
                 shutil.move(bak_path, dll_path)
+            
+            _patch.remove_from_cellar_txt(dll_path, game_folder)
         
         tlg_config_bak = settings.tlg_config_bak
         if tlg_config_bak:
@@ -108,6 +122,17 @@ def revert_assembly(dl_latest=False):
                 shutil.move(tlg_new_path, tlg_orig_path)
 
             settings.tlg_orig_name = None
+        
+        cj_orig_name = settings.cj_orig_name
+        if cj_orig_name:
+            cj_orig_path = os.path.join(game_folder, cj_orig_name)
+            cj_bak_path = cj_orig_path + util.DLL_BACKUP_SUFFIX
+
+            if os.path.exists(cj_bak_path):
+                print(f"Reverting CarrotJuicer to {cj_orig_path}")
+                shutil.move(cj_bak_path, cj_orig_path)
+
+            settings.cj_orig_name = None
 
     else:
         print(f"Keeping dll")

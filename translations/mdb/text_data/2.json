@@ -1,0 +1,490 @@
+{
+    "101": {
+        "text": "Maintenance",
+        "hash": "383fbc5153535f205daec73e3e625fe44d688a98b734fb74b441afb493ce0b22"
+    },
+    "201": {
+        "text": "Session Error",
+        "hash": "64d31a05c065b5cf6ac3117e7b05af0f9a7b5aa6be403a3f4fc679e79352e05c"
+    },
+    "204": {
+        "text": "New App Version",
+        "hash": "659c6768082f7cea5e3e78c0cf35bbd072546ff406c08b8b79876c9086381116"
+    },
+    "207": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "214": {
+        "text": "New Data",
+        "hash": "00ce9b6e5c04b7021183e75adbaf01b8d2bb5b09f7da92140c786d60782974cc"
+    },
+    "217": {
+        "text": "Session Mismatch",
+        "hash": "ff43fc6236b1f669c5c0832b24a71a6a6131527a05e77b8587c02849eae608db"
+    },
+    "218": {
+        "text": "Session Mismatch",
+        "hash": "ff43fc6236b1f669c5c0832b24a71a6a6131527a05e77b8587c02849eae608db"
+    },
+    "303": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "304": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "306": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "308": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "309": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "310": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "311": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "312": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "329": {
+        "text": "Purchase Alert",
+        "hash": "e5739d8aeb86399d91c462bdf642d5d317985d24fb86da84dcce53e1984b9c5f"
+    },
+    "331": {
+        "text": "Code Error",
+        "hash": "6e9788ee26e5206f39d523b96bc44c1d380b8d12b7975706140a5818524a9fdf"
+    },
+    "332": {
+        "text": "Code Error",
+        "hash": "6e9788ee26e5206f39d523b96bc44c1d380b8d12b7975706140a5818524a9fdf"
+    },
+    "334": {
+        "text": "Code Error",
+        "hash": "6e9788ee26e5206f39d523b96bc44c1d380b8d12b7975706140a5818524a9fdf"
+    },
+    "335": {
+        "text": "Code Error",
+        "hash": "6e9788ee26e5206f39d523b96bc44c1d380b8d12b7975706140a5818524a9fdf"
+    },
+    "336": {
+        "text": "Network Error",
+        "hash": "c19451c61acc1d58635f9765836a2032e5641c53adbc4d2cd0e1e2305ca0c387"
+    },
+    "337": {
+        "text": "Warning",
+        "hash": "a8b7a4480407ac8afc27e1bb8a2a1384003aaf3b3b16407d5fade778ec2c8d39"
+    },
+    "338": {
+        "text": "About Purchase Limit",
+        "hash": "28d484c4444233de122ef5d3c8573dca35acf619c0c016701bc8082fc8fe8aa4"
+    },
+    "339": {
+        "text": "Purchase Error",
+        "hash": "d6d298ddd8926ce51dd9e025296e1633b94f908d92187f869cdff5911ef5a054"
+    },
+    "706": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "803": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "805": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "806": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "807": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "808": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "809": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "810": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "901": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "902": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "903": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "904": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "905": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "906": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "907": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "908": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "909": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "910": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "911": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "912": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "913": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "914": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "915": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "916": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "917": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "918": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "919": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "920": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "921": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "922": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "923": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "924": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "925": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "926": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "927": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "928": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "929": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "930": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "931": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "932": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "933": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "934": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "935": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "936": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "937": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "938": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "939": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "940": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "941": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "942": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "943": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "944": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "945": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "946": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "947": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "948": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "949": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "950": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "951": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "952": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "953": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "954": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "955": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "956": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "957": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "958": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "959": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "960": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "961": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "965": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "967": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "970": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "971": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "973": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "974": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "990": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "991": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "1056": {
+        "text": "Error",
+        "hash": "8f2ead9ae16c762c50d1525daae0bf331022afe433df7845b8f6779134886010"
+    },
+    "1451": {
+        "text": "Follow Limit Reached",
+        "hash": "583a3d3fcf665a5f18c5bc77f57b54a74da53edc9f9616f668f9147032fcc2ef"
+    },
+    "1452": {
+        "text": "Other's Follow Limit Reached",
+        "hash": "07f768c4de20f225c2dafeafc829911f67b696ea0ee32071bc4e2e614fa810fa"
+    },
+    "1453": {
+        "text": "Inheritance Error",
+        "hash": "ca657eda0e94439c8e81897a3c0ee3d6dd8c2f527418aa69e54a26b9340c9363"
+    },
+    "1501": {
+        "text": "Mission Rewards Expired",
+        "hash": "f65136d111a740986b74484d5a54a37dcd78bca6f8bad2df59e8b296e11463cf"
+    },
+    "1503": {
+        "text": "Next Day",
+        "hash": "311ec04dc823f0e90c5b402c7fa8c1de8c4ed3bd7214aded1a986595d9ea4982"
+    },
+    "1552": {
+        "text": "Presents Expired",
+        "hash": "0bfc8b7b0e83fc944612e60cccbd9619de4cb872aa96c15dd204b5df1b0908af"
+    },
+    "1601": {
+        "text": "Item Exchange Expired",
+        "hash": "559535f10bae4671b89dc866f7d4c719e7427d703ab87ec258de1205257dd984"
+    },
+    "1602": {
+        "text": "Item Exchange Expired",
+        "hash": "559535f10bae4671b89dc866f7d4c719e7427d703ab87ec258de1205257dd984"
+    },
+    "1603": {
+        "text": "Shop Updated",
+        "hash": "2d1842004405c553231c1233b71d39322f76bf20f89e49517f2b3448cafd766f"
+    },
+    "1604": {
+        "text": "Shop Updated",
+        "hash": "2d1842004405c553231c1233b71d39322f76bf20f89e49517f2b3448cafd766f"
+    },
+    "1701": {
+        "text": "Campaign Expired",
+        "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
+    },
+    "1807": {
+        "text": "Campaign Expired",
+        "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
+    },
+    "1809": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "1810": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "1812": {
+        "text": "Function Maintenance",
+        "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
+    },
+    "2508": {
+        "text": "Campaign Expired",
+        "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
+    },
+    "2509": {
+        "text": "Campaign Expired",
+        "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
+    },
+    "2513": {
+        "text": "Inheritance Error",
+        "hash": "ca657eda0e94439c8e81897a3c0ee3d6dd8c2f527418aa69e54a26b9340c9363"
+    },
+    "9401": {
+        "text": "Campaign Expired",
+        "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
+    },
+    "100001": {
+        "text": "Event Error",
+        "hash": "679e3aac9f462c5d1f09bd979910cc7da621183bfe621cc7951a735aa2a9353a"
+    }
+}
