@@ -180,7 +180,7 @@
             "processed": "<story>I still wanted to ride in the ferris wheel... \n<story>Would you... join me?"
         },
         {
-            "text": "...So guilty, I could almost vomit! \nOf course, I can't decline her request \nif it makes her happy.",
+            "text": "...So guilty, I might throw up! \nOf course, I can't decline her request \nif it makes her happy.",
             "name": "",
             "path_id": 6898985067693472826,
             "block_id": 22,
@@ -191,322 +191,362 @@
                     "hash": "8ba30f0cd36769752aac5dbc1f1081d01e34d371dd40751cd766865ff9ff12b5"
                 }
             ],
-            "processed": "<story>...So guilty, I could almost vomit! \n<story>Of course, I can't decline her request \n<story>if it makes her happy."
+            "processed": "<story>...So guilty, I might throw up! \n<story>Of course, I can't decline her request \n<story>if it makes her happy."
         },
         {
-            "text": "Ehehe... Hooray.",
+            "text": "Ehehe... Hooray!",
             "name": "Rice Shower",
             "path_id": -3823533931265268352,
             "block_id": 23,
             "clip_length": 73,
-            "processed": "<story>Ehehe... Hooray."
+            "processed": "<story>Ehehe... Hooray!"
         },
         {
-            "text": "",
+            "text": "As our little gondola rises further, more and more of our \nfield of view gets taken up by the cityscape, \nclad orange by the setting sun.",
             "name": "",
             "path_id": 6745538604057808473,
             "block_id": 24,
-            "clip_length": 102
+            "clip_length": 102,
+            "processed": "<story>As our little gondola rises further, more and more of our \n<story>field of view gets taken up by the cityscape, \n<story>clad orange by the setting sun."
         },
         {
-            "text": "",
+            "text": ".......",
             "name": "Rice Shower",
             "path_id": -6517250314825730080,
             "block_id": 25,
-            "clip_length": 58
+            "clip_length": 58,
+            "processed": "<story>......."
         },
         {
-            "text": "",
+            "text": "But... Rice Shower has been acting fiddly the entire time.",
             "name": "",
             "path_id": 3538405319953030808,
             "block_id": 26,
             "clip_length": 94,
             "choices": [
                 {
-                    "text": "",
+                    "text": "Are you okay?",
                     "hash": "8ee3966980fc7c30967890600dd7fc5729fefa3108f5c64d6db9e75bd43bc588"
                 }
-            ]
+            ],
+            "processed": "<story>But... Rice Shower has been acting fiddly the entire time."
         },
         {
-            "text": "",
+            "text": "Ah... Yes. I just...",
             "name": "Rice Shower",
             "path_id": 134286913709736367,
             "block_id": 27,
-            "clip_length": 124
+            "clip_length": 124,
+            "processed": "<story>Ah... Yes. I just..."
         },
         {
-            "text": "",
+            "text": "I just can't thank you enough, Trainer... \nI never thought I could make it this far...",
             "name": "Rice Shower",
             "path_id": -4618076582843641823,
             "block_id": 28,
-            "clip_length": 251
+            "clip_length": 251,
+            "processed": "<story>I just can't thank you enough, Trainer... \n<story>I never thought I could make it this far..."
         },
         {
-            "text": "",
+            "text": "Second place at the derby... \nI never ever imagined it.",
             "name": "Rice Shower",
             "path_id": 7359356507325279460,
             "block_id": 29,
             "clip_length": 153,
             "choices": [
                 {
-                    "text": "",
+                    "text": "It's because you worked so hard.",
                     "hash": "e39b64a701f4cd5b769175f76ae5f381482f20ca63e203822aca52ca9fa84360"
                 },
                 {
-                    "text": "",
+                    "text": "It's because you worked so hard.",
                     "hash": "e39b64a701f4cd5b769175f76ae5f381482f20ca63e203822aca52ca9fa84360"
                 }
-            ]
+            ],
+            "processed": "<story>Second place at the derby... \n<story>I never ever imagined it."
         },
         {
-            "text": "",
+            "text": "Eheheh...",
             "name": "Rice Shower",
             "path_id": -658334198940710473,
             "block_id": 30,
-            "clip_length": 48
+            "clip_length": 48,
+            "processed": "<story>Eheheh..."
         },
         {
-            "text": "",
+            "text": "But, even though I'm happy to even get second place... \nI really want to get first...",
             "name": "Rice Shower",
             "path_id": 521391631675492840,
             "block_id": 31,
-            "clip_length": 305
+            "clip_length": 305,
+            "processed": "<story>But, even though I'm happy to even get second place... \n<story>I really want to get first..."
         },
         {
-            "text": "",
+            "text": "I... I want to defeat Mihono Bourbon.",
             "name": "Rice Shower",
             "path_id": -5966639205690515473,
             "block_id": 32,
-            "clip_length": 178
+            "clip_length": 178,
+            "processed": "<story>I... I want to defeat Mihono Bourbon."
         },
         {
-            "text": "",
+            "text": "She wants to win.",
             "name": "",
             "path_id": 5512987210548709340,
             "block_id": 33,
-            "clip_length": 55
+            "clip_length": 55,
+            "processed": "<story>She wants to win."
         },
         {
-            "text": "",
+            "text": "Getting closer and closer to the undefeated Bourbon \nhas further grown her desire to win...",
             "name": "",
             "path_id": -4006194038035089231,
             "block_id": 34,
-            "clip_length": 111
+            "clip_length": 111,
+            "processed": "<story>Getting closer and closer to the undefeated Bourbon \n<story>has further grown her desire to win..."
         },
         {
-            "text": "",
+            "text": "I just wanted to thank you... It's because of you \nthat I now have a desire to win...",
             "name": "Rice Shower",
             "path_id": 3731543667113350743,
             "block_id": 35,
-            "clip_length": 294
+            "clip_length": 294,
+            "processed": "<story>I just wanted to thank you... It's because of you \n<story>that I now have a desire to win..."
         },
         {
-            "text": "",
+            "text": "Ahh...! Now that I've said it, I'm a bit embarrassed...",
             "name": "Rice Shower",
             "path_id": -3669577448828666340,
             "block_id": 36,
-            "clip_length": 201
+            "clip_length": 201,
+            "processed": "<story>Ahh...! Now that I've said it, I'm a bit embarrassed..."
         },
         {
-            "text": "",
+            "text": "I'm glad you've found your confidence. \nLet's beat Bourbon together next time. Together.",
             "name": "<username>",
             "path_id": 3725686540109543330,
             "block_id": 37,
-            "clip_length": 102
+            "clip_length": 102,
+            "processed": "<story>I'm glad you've found your confidence. \n<story>Let's beat Bourbon together next time. Together."
         },
         {
-            "text": "",
+            "text": "I'm glad you've found your confidence. \nLet's beat Bourbon together next time. Together.",
             "name": "<username>",
             "path_id": 6299818708239736565,
             "block_id": 38,
-            "clip_length": 101
+            "clip_length": 101,
+            "processed": "<story>I'm glad you've found your confidence. \n<story>Let's beat Bourbon together next time. Together."
         },
         {
-            "text": "",
+            "text": "Together... \nYes! We will do this together!",
             "name": "Rice Shower",
             "path_id": 7248098730465634122,
             "block_id": 39,
-            "clip_length": 136
+            "clip_length": 136,
+            "processed": "<story>Together... \n<story>Yes! We will do this together!"
         },
         {
-            "text": "",
+            "text": "Whoo, what a day that was! \nAnd you, Rice. Had fun today?",
             "name": "Gold Ship",
             "path_id": 1746803370382645300,
             "block_id": 40,
-            "clip_length": 169
+            "clip_length": 169,
+            "processed": "<story>Whoo, what a day that was! \n<story>And you, Rice. Had fun today?"
         },
         {
-            "text": "",
+            "text": "Absolutely. This place felt like a utopia, even!",
             "name": "Rice Shower",
             "path_id": 5541752185040752290,
             "block_id": 41,
-            "clip_length": 129
+            "clip_length": 129,
+            "processed": "<story>Absolutely. This place felt like a utopia, even!"
         },
         {
-            "text": "",
+            "text": "Thank you for my reward, Trainer! \nI'll work just as hard next time!",
             "name": "Rice Shower",
             "path_id": 5244448269712785998,
             "block_id": 42,
             "clip_length": 182,
             "choices": [
                 {
-                    "text": "",
+                    "text": "And I'll make you work even harder!",
                     "hash": "d991c104b42660129a42a8338111fc0958e81a704402c04f6ace47fe2673fe2b"
                 },
                 {
-                    "text": "",
+                    "text": "And I'll make you work even harder!",
                     "hash": "03fa8ed4e820837338774f07846f3358566e05c14194ce410236ea83a0d7e325"
                 }
-            ]
+            ],
+            "processed": "<story>Thank you for my reward, Trainer! \n<story>I'll work just as hard next time!"
         },
         {
-            "text": "",
+            "text": "One needs only look at Rice's smile to see \ntoday was a splendid success.",
             "name": "Mejiro McQueen",
             "path_id": 7266032429058101253,
             "block_id": 43,
-            "clip_length": 168
+            "clip_length": 168,
+            "processed": "<story>One needs only look at Rice's smile to see \n<story>today was a splendid success."
         },
         {
-            "text": "",
+            "text": "But next time, you shall take her to a <i>real</i> reward, no?",
             "name": "Mejiro McQueen",
             "path_id": -8024486605984104934,
             "block_id": 44,
-            "clip_length": 172
+            "clip_length": 172,
+            "processed": "<story>But next time, you shall take her to a <i>real</i> reward, no?"
         },
         {
-            "text": "",
+            "text": "O-Okay....",
             "name": "<username>",
             "path_id": 8153796543260642181,
             "block_id": 45,
-            "clip_length": 54
+            "clip_length": 54,
+            "processed": "<story>O-Okay...."
         },
         {
-            "text": "",
+            "text": "The next day, and Rice Shower is back to \ntraining towards the goal she decided on.",
             "name": "",
             "path_id": 9218794907050708237,
             "block_id": 46,
-            "clip_length": 88
+            "clip_length": 88,
+            "processed": "<story>The next day, and Rice Shower is back to \n<story>training towards the goal she decided on."
         },
         {
-            "text": "",
+            "text": "*huff* *huff*",
             "name": "Mejiro McQueen",
             "path_id": 1483865375360120185,
             "block_id": 47,
-            "clip_length": 81
+            "clip_length": 81,
+            "processed": "<story>*huff* *huff*"
         },
         {
-            "text": "",
+            "text": "Follow... follow...",
             "name": "Rice Shower",
             "path_id": -5761463267200977781,
             "block_id": 48,
-            "clip_length": 65
+            "clip_length": 65,
+            "processed": "<story>Follow... follow..."
         },
         {
-            "text": "",
+            "text": "Lookie there! She's hot on her heels!",
             "name": "Gold Ship",
             "path_id": -932779796155812630,
             "block_id": 49,
-            "clip_length": 90
+            "clip_length": 90,
+            "processed": "<story>Lookie there! She's hot on her heels!"
         },
         {
-            "text": "",
+            "text": "Rice is keeping up, no matter how much \nMcQueen increases her pace.",
             "name": "Horsegirl with Straight-cut Bangs",
             "path_id": 8975318212051666340,
             "block_id": 50,
             "clip_length": 116,
+            "processed": "<story>Rice is keeping up, no matter how much \n<story>McQueen increases her pace.",
             "name_processed": "<sc=69>Horsegirl with Straight-cut Bangs"
         },
         {
-            "text": "",
+            "text": "Once you set your mind to something, it becomes easier \nto give it your all. Be it studying or running.",
             "name": "<username>",
             "path_id": 5854015716317468245,
             "block_id": 51,
-            "clip_length": 99
+            "clip_length": 99,
+            "processed": "<story>Once you set your mind to something, it becomes easier \n<story>to give it your all. Be it studying or running."
         },
         {
-            "text": "",
+            "text": "Once you set your mind to something, it becomes easier \nto give it your all. Be it studying or running.",
             "name": "<username>",
             "path_id": -853936559314896003,
             "block_id": 52,
-            "clip_length": 99
+            "clip_length": 99,
+            "processed": "<story>Once you set your mind to something, it becomes easier \n<story>to give it your all. Be it studying or running."
         },
         {
-            "text": "",
+            "text": "Rice is a great example of that.",
             "name": "<username>",
             "path_id": 3097359384254949510,
             "block_id": 53,
-            "clip_length": 73
+            "clip_length": 73,
+            "processed": "<story>Rice is a great example of that."
         },
         {
-            "text": "",
+            "text": "Rice is a great example of that.",
             "name": "<username>",
             "path_id": 3222004795757971202,
             "block_id": 54,
-            "clip_length": 72
+            "clip_length": 72,
+            "processed": "<story>Rice is a great example of that."
         },
         {
-            "text": "",
+            "text": "So what's Rice's <i>goal</i> then? \nMcQueen? Or Mihono Bourbon even?",
             "name": "Gold Ship",
             "path_id": 6199970092089567044,
             "block_id": 55,
-            "clip_length": 182
+            "clip_length": 182,
+            "processed": "<story>So what's Rice's <i>goal</i> then? \n<story>McQueen? Or Mihono Bourbon even?"
         },
         {
-            "text": "",
+            "text": "Both, and beyond. She will pursue everything \nto her fullest as long as she sets her mind to it.",
             "name": "<username>",
             "path_id": -1698100304809354739,
             "block_id": 56,
-            "clip_length": 101
+            "clip_length": 101,
+            "processed": "<story>Both, and beyond. She will pursue everything \n<story>to her fullest as long as she sets her mind to it."
         },
         {
-            "text": "",
+            "text": "Both, and beyond. She will pursue everything \nto her fullest as long as she sets her mind to it.",
             "name": "<username>",
             "path_id": -2757364486513130769,
             "block_id": 57,
-            "clip_length": 102
+            "clip_length": 102,
+            "processed": "<story>Both, and beyond. She will pursue everything \n<story>to her fullest as long as she sets her mind to it."
         },
         {
-            "text": "",
+            "text": "Hmm... Righto.",
             "name": "Gold Ship",
             "path_id": 438048698998314635,
             "block_id": 58,
-            "clip_length": 110
+            "clip_length": 110,
+            "processed": "<story>Hmm... Righto."
         },
         {
-            "text": "",
+            "text": "With the way she's improving, her next rematch with \nMihono Bourbon is looking to be an exciting one.",
             "name": "",
             "path_id": 1114798870496774847,
             "block_id": 59,
-            "clip_length": 106
+            "clip_length": 106,
+            "processed": "<story>With the way she's improving, her next rematch with \n<story>Mihono Bourbon is looking to be an exciting one."
         },
         {
-            "text": "",
+            "text": "And as a bonus, this is also a great way for Mejiro McQueen \nto practice for the Takarazuka Kinen.",
             "name": "",
             "path_id": -5323093884743447684,
             "block_id": 60,
-            "clip_length": 111
+            "clip_length": 111,
+            "processed": "<story>And as a bonus, this is also a great way for Mejiro McQueen \n<story>to practice for the Takarazuka Kinen."
         },
         {
-            "text": "",
+            "text": "And so, Rice Shower was the catalyst that raised \nthe spirit of the entire team. \nUntil...",
             "name": "",
             "path_id": -8385661637720745438,
             "block_id": 61,
-            "clip_length": 95
+            "clip_length": 95,
+            "processed": "<story>And so, Rice Shower was the catalyst that raised \n<story>the spirit of the entire team. \n<story>Until..."
         },
         {
-            "text": "",
+            "text": "McQueen?!",
             "name": "Rice Shower",
             "path_id": 8192919091049010186,
             "block_id": 62,
-            "clip_length": 51
+            "clip_length": 51,
+            "processed": "<story>McQueen?!"
         },
         {
-            "text": "",
+            "text": "Rice Shower's shriek sounded through \nthe entire training grounds.",
             "name": "",
             "path_id": -5961932165179938961,
             "block_id": 63,
-            "clip_length": 82
+            "clip_length": 82,
+            "processed": "<story>Rice Shower's shriek sounded through \n<story>the entire training grounds."
         }
     ],
     "title": ""
