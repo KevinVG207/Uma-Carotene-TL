@@ -687,6 +687,10 @@
         "text": "Cherry☆Scramble",
         "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
     },
+    "110421": {
+        "text": "Oh!bento-magic☆",
+        "hash": "39378a7ad8b72a0b9b48f2459becc97fc9ec8434d69dab715f2951d994f50ec2"
+    },
     "110441": {
         "text": "Special Materialization",
         "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
@@ -822,6 +826,10 @@
         "text": "The Sea Glitters, but You're Dazzling",
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
+    },
+    "120241": {
+        "text": "HOP STEP♪LOCK ON!",
+        "hash": "9be2dd4a6e6b71e0af2ae505f2a6f97ab000c02e6d4f2ddfd4675e3a263dba8d"
     },
     "120301": {
         "text": "Clear Sky Cooking♪",
@@ -3474,6 +3482,14 @@
         "text": "Dauntlessness",
         "hash": "73dc66c0b2722cba00c52a1b07e61f34a3040f99af8ca9526e399afb79eeaeb4"
     },
+    "300151": {
+        "text": "Oppressive Cage",
+        "hash": "2a35e6cee484f6c01964c5ecd3a06e3683408f0e7ccb0e2cf10e96feef0d6812"
+    },
+    "300161": {
+        "text": "Binding Fog",
+        "hash": "4a25f74130519ab887886bc743c03b35976279c4dca4fa58b3d48e81d0ac21ae"
+    },
     "407011": {
         "text": "Sparkling Contest",
         "hash": "3e8d597a6cf6bc6e15043b743c355db8ee5285893d46b1a330e70316fc5abd18"
@@ -4132,6 +4148,10 @@
         "text": "Cherry☆Scramble",
         "hash": "5496ef72d4a6246d1687080694493ec58be89029d12ccbbdba59222d44fe9ed4"
     },
+    "910421": {
+        "text": "Oh!bento-magic☆",
+        "hash": "39378a7ad8b72a0b9b48f2459becc97fc9ec8434d69dab715f2951d994f50ec2"
+    },
     "910441": {
         "text": "Special Materialization",
         "hash": "618596ccc6eb439f3e377cb39d1aade734457aa1ef78090ef51b93987a6176c0"
@@ -4268,6 +4288,10 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "920241": {
+        "text": "HOP STEP♪LOCK ON!",
+        "hash": "9be2dd4a6e6b71e0af2ae505f2a6f97ab000c02e6d4f2ddfd4675e3a263dba8d"
+    },
     "920301": {
         "text": "Clear Sky Cooking♪",
         "hash": "0b78c6eb49b1cb9b663d03ee149deba0dd97e51b87f4f6de15c670cc91d2ffd3"
@@ -4329,6 +4353,10 @@
         "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
     },
     "1000016": {
+        "text": "Carnival Bonus",
+        "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
+    },
+    "1000017": {
         "text": "Carnival Bonus",
         "hash": "788977e872e91ca41df6225fc514d762e78623bf01ba07bb5f0a88472eaeac5f"
     },
@@ -6074,5 +6102,13 @@
     "112001211": {
         "text": "Gale Rush!",
         "hash": "de5cbcf0ba375658558afc17ba4e191ef146ff08b745158f0a9cdf1fe3d29c88"
+    },
+    "112101111": {
+        "text": "Faithful Veillantif",
+        "hash": "db37eee5c2e10f3be69c54df5fe9234ab28387c7e5b9538411220255dd78beaa"
+    },
+    "112101211": {
+        "text": "Olifant's Roar",
+        "hash": "60d6fc0b96e24362dd832e73d7b108a3c3c3c3fd1fee19896b6ccc9f2ed37361"
     }
 }

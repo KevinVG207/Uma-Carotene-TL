@@ -204,7 +204,7 @@ def get_img_data_dict():
     for key, img in img_data.items():
         chara_name = chara_names.get(int(key[:4]), "???")
         outfit_name = outfit_names.get(int(key), "[???]")
-        name = f"{chara_name} {outfit_name}"
+        name = f"{key} {chara_name} {outfit_name}"
         data_dict[key] = {
             'image': img,
             'name': name,
