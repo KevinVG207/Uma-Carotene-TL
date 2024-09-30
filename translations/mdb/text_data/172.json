@@ -3899,6 +3899,54 @@
         "text": "Obtain [Contradicting Emotions] skill hint.",
         "hash": "efe49b274bde405621b0e9c7368f514afbea6c8b4b37b9d8eb158114503a8a7d"
     },
+    "2032001": {
+        "text": "Obtain [目にも留まらず] skill hint.",
+        "hash": "2310fee0c38a9c5b513ae4c1575d8f15702c7d151fc6667e1659ff1602682df2"
+    },
+    "2032002": {
+        "text": "Obtain [目にも留まらず] skill hint.",
+        "hash": "2310fee0c38a9c5b513ae4c1575d8f15702c7d151fc6667e1659ff1602682df2"
+    },
+    "2032003": {
+        "text": "Obtain [目にも留まらず] skill hint.",
+        "hash": "2310fee0c38a9c5b513ae4c1575d8f15702c7d151fc6667e1659ff1602682df2"
+    },
+    "2032101": {
+        "text": "Obtain [気の向くままに] skill hint.",
+        "hash": "7e87b174dec37fc6e3a73f16d3187348247ff46add74056a8442027e4ec106da"
+    },
+    "2032102": {
+        "text": "Obtain [気の向くままに] skill hint.",
+        "hash": "7e87b174dec37fc6e3a73f16d3187348247ff46add74056a8442027e4ec106da"
+    },
+    "2032103": {
+        "text": "Obtain [気の向くままに] skill hint.",
+        "hash": "7e87b174dec37fc6e3a73f16d3187348247ff46add74056a8442027e4ec106da"
+    },
+    "2032201": {
+        "text": "Obtain [アグレッシブ] skill hint.",
+        "hash": "9f02f2824ecb9ac37c50a8906a7c14d366f40027df941a49b3fa99d6120f2e52"
+    },
+    "2032202": {
+        "text": "Obtain [アグレッシブ] skill hint.",
+        "hash": "9f02f2824ecb9ac37c50a8906a7c14d366f40027df941a49b3fa99d6120f2e52"
+    },
+    "2032203": {
+        "text": "Obtain [アグレッシブ] skill hint.",
+        "hash": "9f02f2824ecb9ac37c50a8906a7c14d366f40027df941a49b3fa99d6120f2e52"
+    },
+    "2032301": {
+        "text": "Obtain [逸る足取り] skill hint.",
+        "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
+    },
+    "2032302": {
+        "text": "Obtain [逸る足取り] skill hint.",
+        "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
+    },
+    "2032303": {
+        "text": "Obtain [逸る足取り] skill hint.",
+        "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
+    },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
         "hash": "6623b38f8774d87129d1e5b37726a1d8d676804e81b2541e749eda64ef29ccce"
@@ -4591,6 +4639,10 @@
         "text": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
         "hash": "6727cfc702c56dec710251651bb00bf1817b660154565358465d5e7f8b6d0a0a"
     },
+    "4000107": {
+        "text": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
+        "hash": "6727cfc702c56dec710251651bb00bf1817b660154565358465d5e7f8b6d0a0a"
+    },
     "10010101": {
         "text": "Increases Stamina Cap and Wit Cap.\\nObtain [Shooting Star] skill hint.",
         "hash": "73b8f66489ab75d536890dd8da1ef00f64d143a35b80c38806cfdb435daa10ef"
@@ -5215,6 +5267,18 @@
         "text": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [Flowery ☆ Maneuver] skill hint.",
         "hash": "3d5482d9b8ea94560f10519402f923fa4a906d52758e5cd80ddd098f33419527"
     },
+    "10240301": {
+        "text": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
+        "hash": "70539f437322c2ff681e0b91554474edb206f0ef404b02efdcefe1eba2e0a065"
+    },
+    "10240302": {
+        "text": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
+        "hash": "70539f437322c2ff681e0b91554474edb206f0ef404b02efdcefe1eba2e0a065"
+    },
+    "10240303": {
+        "text": "Increases Speed Cap, Stamina Cap and Wit Cap.\\nObtain [HOP STEP♪LOCK ON!] skill hint.",
+        "hash": "70539f437322c2ff681e0b91554474edb206f0ef404b02efdcefe1eba2e0a065"
+    },
     "10250101": {
         "text": "Increases Stamina Cap.\\nObtain [Chasing After You] skill hint.",
         "hash": "70965ef2106690ef81050f134b9a94254ad16db687e043c129df5ca4dca6a31a"
@@ -5658,6 +5722,18 @@
     "10420103": {
         "text": "Increases Speed Cap and Wit Cap.\\nObtain [『I'm Possible』] skill hint.",
         "hash": "6c258ddf3428667d5abcd2086fdd446de27a16670b90f5193f4a8f96f5e566f9"
+    },
+    "10420201": {
+        "text": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
+        "hash": "9582bbf2011a7a150c2032c07f191b2386ef47199c7a484c0b7673f4f917482f"
+    },
+    "10420202": {
+        "text": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
+        "hash": "9582bbf2011a7a150c2032c07f191b2386ef47199c7a484c0b7673f4f917482f"
+    },
+    "10420203": {
+        "text": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Oh!bento-magic☆] skill hint.",
+        "hash": "9582bbf2011a7a150c2032c07f191b2386ef47199c7a484c0b7673f4f917482f"
     },
     "10430101": {
         "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Ding Dong Boo] skill hint.",

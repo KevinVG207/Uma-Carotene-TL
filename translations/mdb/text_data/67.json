@@ -13194,10 +13194,20 @@
         "hash": "5138cbd65e4d7124bab6f2166cb51dced8d4514c4ef44eb948fcf0794049b9df",
         "processed": "<rbr>Raise the affection rank of<br>Symboli Kris S to rank 11."
     },
+    "341076": {
+        "text": "Raise the affection rank of Sakura Laurel to rank 11.",
+        "hash": "8c33c4736388d49c61d627c39c4b128541b4ab35e580fbfcd7c0671690de9d29",
+        "processed": "<rbr>Raise the affection rank of<br>Sakura Laurel to rank 11."
+    },
     "341081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 11.",
         "hash": "2134564612bcc6c6810d2fb0f8aea4acccaecdf18e99cc125620604354f1bd59",
         "processed": "<rbr>Raise the affection rank of<br>Katsuragi Ace to rank 11."
+    },
+    "341082": {
+        "text": "Raise the affection rank of Sirius Symboli to rank 11.",
+        "hash": "17da2c4b19858e0829141ff13da89f186b2e3d307d4b54b601b3607523f7bb41",
+        "processed": "<rbr>Raise the affection rank of<br>Sirius Symboli to rank 11."
     },
     "342000": {
         "text": "Raise the affection rank of Special Week to rank 12.",
@@ -13574,10 +13584,20 @@
         "hash": "53b4b158cacf10dd42ca52af4ab89b3c7cf5f13c2f9ca52f5a53f7707693dd5e",
         "processed": "<rbr>Raise the affection rank of<br>Symboli Kris S to rank 12."
     },
+    "342076": {
+        "text": "Raise the affection rank of Sakura Laurel to rank 12.",
+        "hash": "fdf1c09af017c489d3c95e54894c9709b1a0fe875d2cec15e93214095b224629",
+        "processed": "<rbr>Raise the affection rank of<br>Sakura Laurel to rank 12."
+    },
     "342081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 12.",
         "hash": "f23d368f714aeaefa90ee1ef9f1f1f971cfaf27d3465ddf3df07fd5e78927f05",
         "processed": "<rbr>Raise the affection rank of<br>Katsuragi Ace to rank 12."
+    },
+    "342082": {
+        "text": "Raise the affection rank of Sirius Symboli to rank 12.",
+        "hash": "85a8a0f37d5afcf43d6c7871ac573b56f4949106835e3e23fcb4d9e3462d2b47",
+        "processed": "<rbr>Raise the affection rank of<br>Sirius Symboli to rank 12."
     },
     "600101": {
         "text": "Reach team rank D.",
@@ -23354,6 +23374,11 @@
         "hash": "82b9c75ca61816ae61cd411d1e989fb2ae61cd91be54ca0fe6d7087d8b8e61c8",
         "processed": "<rbr>Win the Japan Dirt Derby<br>once during training."
     },
+    "1002090": {
+        "text": "Clear all event missions.",
+        "hash": "048346180454011ccf7a13c76fc188af7ef108002c9fe2a4d6491de4336b8638",
+        "processed": "<rbr>Clear all event missions."
+    },
     "1002091": {
         "text": "Finish a training run having completed all training objectives once.",
         "hash": "23c694aea2ac1ad1f4b485b35b81b94edba5ae6e0ad2e872aee207c18466dd48",
@@ -23382,6 +23407,61 @@
     "1002096": {
         "text": "Clear all event missions.",
         "hash": "9e257f1f520dcce2da1837a40dd9e44529ec50e5de250383177ba8d65acdd19f",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002097": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "0348de970e9800f77fb02efe80f3fd3b878ec9dfa818bd84001f7aa4a390d7ca",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002098": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "725fbfa6f383b1276fc916ab0ad6b9e2ca028d613c28a304d78b9ea09a44f5c1",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002099": {
+        "text": "Win the Cluster Cup once during training.",
+        "hash": "ee18201e43824d77353621c497437293fb99204fa55181176bc14989332b59ed",
+        "processed": "<rbr>Win the Cluster Cup once<br>during training."
+    },
+    "1002100": {
+        "text": "Win the Mile Championship Nambu Hai once during training.",
+        "hash": "de377a546178ad426f7137275ab11c406965931e09ec8b7bb7926b28a2dad824",
+        "processed": "<rbr><sc=91>Win the Mile Championship<br>Nambu Hai once during training."
+    },
+    "1002101": {
+        "text": "Clear all event missions.",
+        "hash": "1cea5b14a3f86ff0a8856d33c3a473475abf6e0c2d1fb3b9bc7f276bda61be2c",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002102": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "c3f56d728cc6174d9204c0654d410c021eca2335d551b7945cc5962b31b6c738",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002103": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "3a8d86f15a02b7434c755a335a52c51d6b1accca165069afb9c2ecdd3fbf7cc6",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002104": {
+        "text": "Get at least 3rd in the St. Lite Kinen once during training.",
+        "hash": "da149e4cab65ce87ba154612cffc9c91172939bb8ebd00162757daf3c80cba6b",
+        "processed": "<rbr><sc=99>Get at least 3rd in the St. Lite<br>Kinen once during training."
+    },
+    "1002105": {
+        "text": "Get at least 3rd in the Kobe Shimbun Hai once during training.",
+        "hash": "0f78f55c38ab3222aae3882c808d666c2c94512d12d9e0e4f6cfb011cb0c6fb5",
+        "processed": "<rbr><sc=86>Get at least 3rd in the Kobe Shim-<br>bun Hai once during training."
+    },
+    "1002106": {
+        "text": "Win the Kikka Sho once during training.",
+        "hash": "00d49dd405b9f88530516e6c491b367438f2011e1b7349278b572f05a70f0c41",
+        "processed": "<rbr>Win the Kikka Sho once<br>during training."
+    },
+    "1002107": {
+        "text": "Clear all event missions.",
+        "hash": "0db97c49090e4d8c925c6488e7e9ac431af3430b0784e00fd145e8d5ef0c5cfe",
         "processed": "<rbr>Clear all event missions."
     },
     "2600001": {
@@ -23983,6 +24063,26 @@
         "text": "Do 10 training runs ('Summer’s Sunlight Fades to Blue' story event).",
         "hash": "848f357e2cdb60530a0f8bb902e7ed0f153f430141f4b07903b38979b35537d6",
         "processed": "<rbr><sc=81>Do 10 training runs ('Summer’s<br>Sunlight Fades to Blue' story event)."
+    },
+    "2600121": {
+        "text": "Do 2 training runs ('A Patchwork's Farewell' story event).",
+        "hash": "0cb2bea6f07d77f9872135e6352ba6ccb34760365e40c3a2f02226a0304c8bc1",
+        "processed": "<rbr>Do 2 training runs ('A Patch-<br>work's Farewell' story event)."
+    },
+    "2600122": {
+        "text": "Do 4 training runs ('A Patchwork's Farewell' story event).",
+        "hash": "65c932b62257e76a831943f26972cdd80421c6275f32fa52ff58ca7c2e3b564e",
+        "processed": "<rbr>Do 4 training runs ('A Patch-<br>work's Farewell' story event)."
+    },
+    "2600123": {
+        "text": "Do 7 training runs ('A Patchwork's Farewell' story event).",
+        "hash": "1de507a7d9dd58d5f84d40ca5d5bfb3ab6db68d9ea9b9afdcf0792b10f932d87",
+        "processed": "<rbr>Do 7 training runs ('A Patch-<br>work's Farewell' story event)."
+    },
+    "2600124": {
+        "text": "Do 10 training runs ('A Patchwork's Farewell' story event).",
+        "hash": "19c92190c81df65bdd3fe2e99530de90d3da04156d8e1f58c6f70edc3cc6873a",
+        "processed": "<rbr><sc=98>Do 10 training runs ('A Patch-<br>work's Farewell' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",
