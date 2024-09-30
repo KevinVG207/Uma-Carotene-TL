@@ -1,0 +1,326 @@
+{
+    "type": "story",
+    "row_index": 21587,
+    "file_name": "story/data/04/1057/storytimeline_041057005",
+    "hash": "NBBPYBE2ACMGI6QD4AZ6TZMGQAVYIIH5",
+    "data": [
+        {
+            "text": "",
+            "name": "",
+            "path_id": 1937498021141576171,
+            "block_id": 0,
+            "clip_length": 45
+        },
+        {
+            "text": "Walking around the campus, I saw a familiar figure. \n...I thought she was supposed to be in class right now...",
+            "name": "",
+            "path_id": -8965256317829812734,
+            "block_id": 1,
+            "clip_length": 123,
+            "processed": "<story>Walking around the campus, I saw a familiar figure. \n<story>...I thought she was supposed to be in class right now..."
+        },
+        {
+            "text": "Hey, it's you. \nWhat a coincidence.",
+            "name": "Mr. C.B.",
+            "path_id": 9085715755039176446,
+            "block_id": 2,
+            "clip_length": 81,
+            "choices": [
+                {
+                    "text": "What are you up to...?",
+                    "hash": "08a70480578f03e0b2ae3b33c8b93a0ffebfdd39b6394ce3a1176cc1e50b25a1"
+                },
+                {
+                    "text": "",
+                    "hash": "59478aa66d0b1765a6ecd620cb1d6b8b4220895df4254191a81633f459287dbc"
+                }
+            ],
+            "processed": "<story>Hey, it's you. \n<story>What a coincidence."
+        },
+        {
+            "text": "Singing lessons. \nBut I didn't feel comfortable in the classroom.",
+            "name": "Mr. C.B.",
+            "path_id": -3286504874907104797,
+            "block_id": 3,
+            "clip_length": 189,
+            "processed": "<story>Singing lessons. \n<story>But I didn't feel comfortable in the classroom."
+        },
+        {
+            "text": "I'm looking for a nice place to have lessons, \nwith the teacher's permission.",
+            "name": "Mr. C.B.",
+            "path_id": -2234914195652713057,
+            "block_id": 4,
+            "clip_length": 143,
+            "processed": "<story>I'm looking for a nice place to have lessons, \n<story>with the teacher's permission."
+        },
+        {
+            "text": "Mr. C.B. is always honest with herself. \nWhat kind of place makes her feel good...?",
+            "name": "",
+            "path_id": -5263952065763629027,
+            "block_id": 5,
+            "clip_length": 108,
+            "choices": [
+                {
+                    "text": "Can I follow you to find a place?",
+                    "hash": "f758e05fa55f4bce088fbfb7403e9ac3ad785a9b97654f5cce6fcae55a8c2807"
+                }
+            ],
+            "processed": "<story>Mr. C.B. is always honest with herself. \n<story>What kind of place makes her feel good...?"
+        },
+        {
+            "text": "I don't mind, but... \nyou have weird interests, don't you?",
+            "name": "Mr. C.B.",
+            "path_id": 973957151334816278,
+            "block_id": 6,
+            "clip_length": 108,
+            "processed": "<story>I don't mind, but... \n<story>you have weird interests, don't you?"
+        },
+        {
+            "text": "Running through the wind~♪ \nCan't stop now♪",
+            "name": "Mr. C.B.",
+            "path_id": -1998992518575644077,
+            "block_id": 7,
+            "clip_length": 199,
+            "choices": [
+                {
+                    "text": "I can hear your voice echoing a lot.",
+                    "hash": "0f5520c913b1d5935a614dceaf650afa8f227ae013e7e3e9573a4dd950d95f52"
+                },
+                {
+                    "text": "",
+                    "hash": "42fded507dfc4eba45ea86f71da4c7dc5297f8f8f8b812f806046220457d9c5a"
+                }
+            ],
+            "processed": "<story>Running through the wind~♪ \n<story>Can't stop now♪"
+        },
+        {
+            "text": "Yeah, it's nice to sing in a big space, but...",
+            "name": "Mr. C.B.",
+            "path_id": -838831918277401454,
+            "block_id": 8,
+            "clip_length": 177,
+            "processed": "<story>Yeah, it's nice to sing in a big space, but..."
+        },
+        {
+            "text": "Hmm, I don't think this is the place!",
+            "name": "Mr. C.B.",
+            "path_id": -135491244336598009,
+            "block_id": 9,
+            "clip_length": 75,
+            "processed": "<story>Hmm, I don't think this is the place!"
+        },
+        {
+            "text": "...Hm, I guess not here either. \nI don't feel any different than singing in the classroom.",
+            "name": "Mr. C.B.",
+            "path_id": 3100448961456805993,
+            "block_id": 10,
+            "clip_length": 257,
+            "choices": [
+                {
+                    "text": "A real stage is no good?",
+                    "hash": "5ebff197b7a2a4fcc8b11d9f730663fa3f300886467ddb5f25edb415255933b7"
+                }
+            ],
+            "processed": "<story>...Hm, I guess not here either. \n<story>I don't feel any different than singing in the classroom."
+        },
+        {
+            "text": "I'm embarrassed when people ask me that. \nBecause I don't really know the answer myself.",
+            "name": "Mr. C.B.",
+            "path_id": -5653608415255209568,
+            "block_id": 11,
+            "clip_length": 145,
+            "processed": "<story>I'm embarrassed when people ask me that. \n<story>Because I don't really know the answer myself."
+        },
+        {
+            "text": "It just needs to be more... hm! \nWell, never mind. Let's move on!",
+            "name": "Mr. C.B.",
+            "path_id": -6929763601850534877,
+            "block_id": 12,
+            "clip_length": 230,
+            "processed": "<story>It just needs to be more... hm! \n<story>Well, never mind. Let's move on!"
+        },
+        {
+            "text": "Is it so uncertain what she is looking for...? \nI couldn't imagine what was going on in her head, \nso I could only follow along.",
+            "name": "",
+            "path_id": -6910157918796130947,
+            "block_id": 13,
+            "clip_length": 119,
+            "processed": "<story>Is it so uncertain what she is looking for...? \n<story>I couldn't imagine what was going on in her head, \n<story>so I could only follow along."
+        },
+        {
+            "text": "Hmmm~, the wind feels good.",
+            "name": "Mr. C.B.",
+            "path_id": 1113140763457225395,
+            "block_id": 14,
+            "clip_length": 131,
+            "processed": "<story>Hmmm~, the wind feels good."
+        },
+        {
+            "text": "And... yeah, this view!",
+            "name": "Mr. C.B.",
+            "path_id": -3733090449355519855,
+            "block_id": 15,
+            "clip_length": 134,
+            "processed": "<story>And... yeah, this view!"
+        },
+        {
+            "text": "...The urge to run at the speed of lightー...",
+            "name": "Mr. C.B.",
+            "path_id": -454784467746405574,
+            "block_id": 16,
+            "clip_length": 237,
+            "processed": "<story>...The urge to run at the speed of lightー..."
+        },
+        {
+            "text": "I'm prepared to sacrifice anything \nto achieve the strength I desire!",
+            "name": "Mr. C.B.",
+            "path_id": -6373269262508814202,
+            "block_id": 17,
+            "clip_length": 243,
+            "processed": "<story>I'm prepared to sacrifice anything \n<story>to achieve the strength I desire!"
+        },
+        {
+            "text": "Yeah, great! It's here!",
+            "name": "Mr. C.B.",
+            "path_id": 1785874881775438013,
+            "block_id": 18,
+            "clip_length": 87,
+            "processed": "<story>Yeah, great! It's here!"
+        },
+        {
+            "text": "The rooftop... The blue sky is open and airy. \nBut surrounded by a wire fence, it doesn't feel like a stage――",
+            "name": "",
+            "path_id": -5117699642768521394,
+            "block_id": 19,
+            "clip_length": 106,
+            "processed": "<story>The rooftop... The blue sky is open and airy. \n<story>But surrounded by a wire fence, it doesn't feel like a stage――"
+        },
+        {
+            "text": "You should look over there too. \nYou can see far out into the distance on this broad stage.",
+            "name": "Mr. C.B.",
+            "path_id": 5966238114699354639,
+            "block_id": 20,
+            "clip_length": 178,
+            "processed": "<story>You should look over there too. \n<story>You can see far out into the distance on this broad stage."
+        },
+        {
+            "text": "Then there are the sky-blue reflections of the buildings. \nEach one looks like a spectator waving a penlight!",
+            "name": "Mr. C.B.",
+            "path_id": -7426743195856587702,
+            "block_id": 21,
+            "clip_length": 181,
+            "processed": "<story>Then there are the sky-blue reflections of the buildings. \n<story>Each one looks like a spectator waving a penlight!"
+        },
+        {
+            "text": "And with the spotlight of the sun! \nHey, this is the best stage!",
+            "name": "Mr. C.B.",
+            "path_id": -3648098913177643269,
+            "block_id": 22,
+            "clip_length": 216,
+            "processed": "<story>And with the spotlight of the sun! \n<story>Hey, this is the best stage!"
+        },
+        {
+            "text": "With her words, I felt as if a stage appeared before my eyes. \nThe way she sang spontaneously in the midst of it seemed to \nconfirm her words.",
+            "name": "",
+            "path_id": -7703440388506773879,
+            "block_id": 23,
+            "clip_length": 118,
+            "choices": [
+                {
+                    "text": "Indeed, it's a stage.",
+                    "hash": "8dad96970e4d845c46d19f493d41ae8d8fd61f65c7495e92d9785a52396a0b48"
+                },
+                {
+                    "text": "",
+                    "hash": "68380ad13e8f71efefc78f0cbe6c9209a92b91ccbe5af79a79948342e8cc4d47"
+                }
+            ],
+            "processed": "<story>With her words, I felt as if a stage appeared before my eyes. \n<story>The way she sang spontaneously in the midst of it seemed to \n<story>confirm her words."
+        },
+        {
+            "text": "Heh, right? \n...Yeah, okay. Will I be able to respond now?",
+            "name": "Mr. C.B.",
+            "path_id": -853022236250385542,
+            "block_id": 24,
+            "clip_length": 250,
+            "choices": [
+                {
+                    "text": "Respond?",
+                    "hash": "3d7fcded34f063312ebc31dbf766b72bc2f412ce542d17152fcf0dd70e49d5f4"
+                }
+            ],
+            "processed": "<story>Heh, right? \n<story>...Yeah, okay. Will I be able to respond now?"
+        },
+        {
+            "text": "I'm serious about how I feel, you know.",
+            "name": "Mr. C.B.",
+            "path_id": -227401476464786660,
+            "block_id": 25,
+            "clip_length": 83,
+            "processed": "<story>I'm serious about how I feel, you know."
+        },
+        {
+            "text": "My coach is the kind of person who takes singing seriously. \nI have to respond to their feelings with mine.",
+            "name": "Mr. C.B.",
+            "path_id": -7773148610796294231,
+            "block_id": 26,
+            "clip_length": 232,
+            "processed": "<story>My coach is the kind of person who takes singing seriously. \n<story>I have to respond to their feelings with mine."
+        },
+        {
+            "text": "Of course, I could sing in the classroom, but... \nAnyway, I didn't like it. It was insincere.",
+            "name": "Mr. C.B.",
+            "path_id": 114360974322603026,
+            "block_id": 27,
+            "clip_length": 276,
+            "processed": "<story>Of course, I could sing in the classroom, but... \n<story>Anyway, I didn't like it. It was insincere."
+        },
+        {
+            "text": "Now I can finally go back――",
+            "name": "Mr. C.B.",
+            "path_id": -4822340040388050468,
+            "block_id": 28,
+            "clip_length": 71,
+            "processed": "<story>Now I can finally go back――"
+        },
+        {
+            "text": "Heyー! Who are those students on the roof during class!?",
+            "name": "Teacher",
+            "path_id": 5342469113620313504,
+            "block_id": 29,
+            "clip_length": 122,
+            "processed": "<story>Heyー! Who are those students on the roof during class!?"
+        },
+        {
+            "text": "Oh, it's the school counselor... \nSorry! Explain it to him!",
+            "name": "Mr. C.B.",
+            "path_id": 511168531012084958,
+            "block_id": 30,
+            "clip_length": 176,
+            "choices": [
+                {
+                    "text": "E-ehh!?",
+                    "hash": "c90b9c2a1e4e7dd643694d78e79e4a16f6fac40b07d87b4d6ee34b68c13c58f7"
+                }
+            ],
+            "processed": "<story>Oh, it's the school counselor... \n<story>Sorry! Explain it to him!"
+        },
+        {
+            "text": "With her tounge slightly out, \nMr. C.B. slid easily past the school counselor.",
+            "name": "",
+            "path_id": -5416464234184430377,
+            "block_id": 31,
+            "clip_length": 99,
+            "processed": "<story>With her tounge slightly out, \n<story>Mr. C.B. slid easily past the school counselor."
+        },
+        {
+            "text": "Mr. C.B. was being honest with herself \nin order to perform at her best. \nI think that's truly like her.",
+            "name": "",
+            "path_id": 3180844584585671305,
+            "block_id": 32,
+            "clip_length": 120,
+            "processed": "<story>Mr. C.B. was being honest with herself \n<story>in order to perform at her best. \n<story>I think that's truly like her."
+        }
+    ],
+    "title": "Clear skies, silence and a director"
+}
