@@ -1,4 +1,28 @@
 {
+    "80000001": {
+        "text": "Prologue",
+        "hash": "6bd711a0c587f0c078d13f61396e0634340adf4afbcabad0ac20aea8f2b2a191"
+    },
+    "400000090": {
+        "text": "Ending",
+        "hash": "a7dc35f155c0ace9196d6202ebf7c943d470ad2f6bc2c064140f3d405cc56c54"
+    },
+    "400006001": {
+        "text": "Project L'Arc",
+        "hash": "16aa887a34d55f51d63efafc88e9a22b940f388427c43f2698c60bb56d71b2e0"
+    },
+    "400006044": {
+        "text": "Architect of Glory",
+        "hash": "a025ee8ed6ca372eddcebfea381e1d991e189065fe6a2dee63fff773ba841d84"
+    },
+    "400006401": {
+        "text": "Project L'Arc",
+        "hash": "16aa887a34d55f51d63efafc88e9a22b940f388427c43f2698c60bb56d71b2e0"
+    },
+    "400006442": {
+        "text": "Architect of Glory",
+        "hash": "a025ee8ed6ca372eddcebfea381e1d991e189065fe6a2dee63fff773ba841d84"
+    },
     "501001900": {
         "text": "About",
         "hash": "463919d1c7fa9a4a3610ff326bc191968de08445404332ae8240b78899ad2897"
@@ -279,6 +303,10 @@
         "text": "About",
         "hash": "463919d1c7fa9a4a3610ff326bc191968de08445404332ae8240b78899ad2897"
     },
+    "501071524": {
+        "text": "Glass Legs",
+        "hash": "529bfdbe1e9421d585d3e3b07e0f8302289a3f5a035d6f71ce4b5e00e48d6259"
+    },
     "501071900": {
         "text": "About",
         "hash": "463919d1c7fa9a4a3610ff326bc191968de08445404332ae8240b78899ad2897"
@@ -410,5 +438,9 @@
     "501121900": {
         "text": "About",
         "hash": "463919d1c7fa9a4a3610ff326bc191968de08445404332ae8240b78899ad2897"
+    },
+    "830017003": {
+        "text": "This Is My 'Umadol' Way ☆",
+        "hash": "1dab2d5c3fdc99530c24866844fe18c5b505709761b6e6ae4bff51f2af6b992f"
     }
 }

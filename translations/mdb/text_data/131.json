@@ -1,0 +1,1006 @@
+{
+    "1": {
+        "text": "Enter a race with rainy weather ≥4 times \\nWin 3 of them",
+        "hash": "f33dd9e62b0c04dccbf075f1baf711f41267b51e5e70f7d751b1f408cd1ab900"
+    },
+    "2": {
+        "text": "Enter a race with cloudy weather ≥4 times \\nWin 3 of them",
+        "hash": "db0c7f2c2d396bdad5092afacbfaebac1687deeba3235948c8f4a667cdfd2fca"
+    },
+    "3": {
+        "text": "Enter a race with snowy weather ≥3 times \\nWin 2 of them",
+        "hash": "5a5dabdc260c64b1d4c4a1ba6acd50a2a926e36177d7c30380bca137243a205d"
+    },
+    "4": {
+        "text": "<size=22>Enter a GI race at least once and without winning any single GI race \\nComplete the training with ≥C rank</size>",
+        "hash": "11b287761fcd6e3bd9e993c0775255ab74177535a0e6ccccf934442287d74c8f"
+    },
+    "5": {
+        "text": "Earn a total of ≥550000 fans",
+        "hash": "1ef0b93d337142ed7f219f6bbe2792397e264be1ad5c5823bfd10673c9383313"
+    },
+    "6": {
+        "text": "<size=22>Enter ≥10 races and every race has to be dirt \\nComplete the training</size>",
+        "hash": "959bde522f842d6bc465550faf15598aeb4a7429a2e81acb49546f7e63222ba1"
+    },
+    "7": {
+        "text": "<size=22>Enter ≥10 races and every race has to be turf \\nComplete the training</size>",
+        "hash": "ab510db061b17d323348dbe0133ce5884f477682aea2b38fe9ed65883929c4e6"
+    },
+    "8": {
+        "text": "Win a panicked (掛かり) race 3 times",
+        "hash": "ca68e98b562aa0c653842a038f0c0e6e650c678babe438e30077071dc6a9f0a3"
+    },
+    "9": {
+        "text": "Inherit memories from parents with \\nno graded wins and win a GI race",
+        "hash": "dff392f3539691e28fc9e1ac3f07ed017e9ce001e9de0a8a1631b3a26c4d7eb2"
+    },
+    "10": {
+        "text": "Win a GI or GII race 6 times as a runner \\nor leader with difference of ≥3 lengths",
+        "hash": "e529bc6e21e59a63f0e13d76b6e8b09af689fb05c419dc154a994e10d32d044d"
+    },
+    "12": {
+        "text": "The Kyoto Kinpai, Nakayama Kinpai, and Kinko Sho \\nWin ≥2 of them",
+        "hash": "f7d97caade37c2893a747b0e7e623225780d2c96b450b7b469481781d8161cfe"
+    },
+    "13": {
+        "text": "Reach power training level 5",
+        "hash": "d63bbdb0ddbb56224973517b133423167ae5f866d7b5d4f9b3632ad1954f9953"
+    },
+    "14": {
+        "text": "Train stamina 35 times",
+        "hash": "08d58d73bc81f3ca8d71aae439cf12d6ac126ac25ceb52f2dfaa08c9fc9c4993"
+    },
+    "15": {
+        "text": "Reach guts training level 5",
+        "hash": "c00cf8eb438b3c5d9838eaeaf8a4c54b3bbfcbbd781e9a36bd8b1c53b34b27ae"
+    },
+    "16": {
+        "text": "Reach wisdom training level 4",
+        "hash": "6fe712d7052b658b5ea7ef7fd40c0f786f50857175b7d424d94857465725f77f"
+    },
+    "17": {
+        "text": "Win a race after 5 losses in a row",
+        "hash": "0e603a3087a6484d4a39b42b08edf9f62a537b7c91ca205df6ac420a390d88d3"
+    },
+    "18": {
+        "text": "Win the Make Debut with difference of ≥7 lengths",
+        "hash": "ecea852b2d16d8c556ff19361d859ba44ff1598a315cb9595e402f9fa3ddba5c"
+    },
+    "19": {
+        "text": "Win the Make Debut without any single training",
+        "hash": "70c492e07dce5640ce018ead54ec840a227284ff27091890815d9f2325c7ff11"
+    },
+    "20": {
+        "text": "<size=22>Enter at least 10 races and complete training \\nwithout failing a single training session </size>",
+        "hash": "9f13c2af74a80cdde6128f6de05d5b7b673c10d45184615d727fec74f1dfccd3"
+    },
+    "21": {
+        "text": "Win 6 races as a runner \\nReach ≥600 speed",
+        "hash": "473e4ebc1695473b4324e0fc86f14830457b5fc817cf755e15356dbf2da011c0"
+    },
+    "22": {
+        "text": "Win a GI race once as a betweener or chaser \\nReach ≥500 power and guts",
+        "hash": "0dc9252851a3caa2426819ee741fb041e0ba7e7a375c13b6a85f02ce7cc5930e"
+    },
+    "23": {
+        "text": "Win a graded race each in 10 central race courses",
+        "hash": "e48bdaf7a2d6683775ee2f92cd3ebaa87ea8735d426e27ed2074dc746016cfcb"
+    },
+    "24": {
+        "text": "Win Japan Derby",
+        "hash": "66ecfcf17574080b5a1ade5e366c5c75bab822d05af2d3a953cc908ceb1e049c"
+    },
+    "25": {
+        "text": "Win Oaks",
+        "hash": "f8127e9685d5a361442634d36909adc6b03325853e6f86439a9880b906450c02"
+    },
+    "26": {
+        "text": "The Satsuki Sho, Japan Derby and Kikka Sho \\nWin ≥2 of them",
+        "hash": "c30c02923b4a410bdd83d9249c7908c2e374b28107318f5c3d725bdbbf19dbf3"
+    },
+    "27": {
+        "text": "The Oka Sho, Oaks and Shuka Sho \\nWin ≥2 of them",
+        "hash": "4be2af946e4e29e5c61d3a91949feb162e6c459128c7acfbf1a025111adb0cf9"
+    },
+    "28": {
+        "text": "Win the Oosaka Hai, Tenno Sho (Spring), and Takarazuka Kinen",
+        "hash": "38007d6f5c2a62dc67a0a1cf49c64c487711cf39bba13812ccb4299442b35c3e"
+    },
+    "29": {
+        "text": "Win the Tenno Sho (Autumn), Japan Cup, and Arima Kinen",
+        "hash": "c1d5c27ca8eaae829975b9d5d1cd91afd3b5e7a31074778b1557fe592a05d52b"
+    },
+    "30": {
+        "text": "Win the Tenno Sho (Spring) and Tenno Sho (Autumn)",
+        "hash": "7a28cc8a627ed70771a0f397ea7434bc99719fb2781be99cd8ad59e372c9d463"
+    },
+    "31": {
+        "text": "Win a turf race 15 times",
+        "hash": "25a0dd36fa9bf0a8cc81aca21ce91119618937c1b39c25f5de573c466f2bf8cb"
+    },
+    "32": {
+        "text": "Enter 20 races",
+        "hash": "b3e5753122fc413fa1edb369c58add6d0587d69692db6370501fbb7af957deac"
+    },
+    "33": {
+        "text": "Win a dirt race 10 times",
+        "hash": "ef1e57258a26139cec85c60ae993702ccc20aa7944d894373b1f91aa51473082"
+    },
+    "34": {
+        "text": "Win 5 consecutive graded races with no \\nlosses in races lower than Open (OP)",
+        "hash": "bdec731157236df428333086c9ee54050b6f834cdce7df716498aafb54513687"
+    },
+    "35": {
+        "text": "Win a GI race for the first time in 3rd year",
+        "hash": "dc7d8d4d288a02d36fefff18ae6ae4972b3003ab05fc52798f1c806816126d2f"
+    },
+    "36": {
+        "text": "Finish 3rd place in a GI race 3 times",
+        "hash": "4d21d4ea6cf6c57c87cf3f2e1f2b03f9fae9fb0266ff56b42096ddec09512186"
+    },
+    "37": {
+        "text": "Finish 2rd place in a GI race 3 times",
+        "hash": "b46cac555deb30e2411e7cb4066200dc04b667fc6ce23f916005e03f5aed8f68"
+    },
+    "38": {
+        "text": "Learn ≥15 skills",
+        "hash": "35e69b915ea20cf86181190708a2fa8baea4b1852a2cab875edf9964884f9c82"
+    },
+    "39": {
+        "text": "Enter a turf race ≥15 times \\nReach ≥800 speed",
+        "hash": "c464508b7fd4a05b33b69bcfc93408c4f98f643c942cf0f60505de39b2c8bc6f"
+    },
+    "40": {
+        "text": "Win a GI race without having won any other graded races",
+        "hash": "ee2ee47b364162961f32cdff8c46bbbd8dde2eab19090e22e17a49a511cefc9f"
+    },
+    "41": {
+        "text": "Win a turf and dirt GI race each at least once",
+        "hash": "137391264ed26ca73b64d071bd82c5eae3adbcbaf40483a6814223061535355e"
+    },
+    "42": {
+        "text": "<size=22>Enter ≥10 races \\nFinish ≤3rd in every single race \\nComplete the training</size>",
+        "hash": "a848a4a73d77d5e34ca74dad87c2b29c0b0fd9d0d979a00ea2880594f9052e9e"
+    },
+    "43": {
+        "text": "<size=22>Inherit memories from parents who won the Oaks \\nWin the Oaks and Tenno Sho (Autumn) \\nEarn a total of ≥320000 fans</size>",
+        "hash": "183019134dba872de207d22494a6fabba0f5763b0e33ee59f37a537960212c8e"
+    },
+    "44": {
+        "text": "<size=22>Win the Hanshin JF, be in Perfect Condition for all races and \\nwin all without having Overweight, Rough Skin or Lazy Habit \\nRaise the level of all trainings to 3+</size>",
+        "hash": "a719701c2fa210d0b452ddf210a214ef3177b75a6f462ea9bd8a0cd7d7038690"
+    },
+    "45": {
+        "text": "Enter ≥23 graded races and of those, win Kikka Sho and \\nTenno Sho (spring) being at least 2nd favourite. \\nComplete training with at least 320000 fans.",
+        "hash": "9953a98d01eb671cb0456150495eee628192c8ada964673e9c955069744ea912"
+    },
+    "46": {
+        "text": "<size=22>Win the Japan Derby and Autumn Tenno Sho and finish \\nthe training while under the Sharp status</size>",
+        "hash": "e8014615ec89bcf34c1b41644b61c89da5ae4aa4286a4e465423e3c42fe866ab"
+    },
+    "47": {
+        "text": "<size=22>Win the Yayoi Sho, Satsuki Sho, Japan Derby and Kikka Sho as favourite \\nWin the Arima Kinen in 2nd year Earn a total of ≥240000 fans</size>",
+        "hash": "e272fdbd3662b3072a964f48f4bb88daca4f448262d0ccfa08631bc44ca1e0e3"
+    },
+    "48": {
+        "text": "<size=22>Inherit memories from parents with ≥S rank Win the Hopeful Stakes, Yayoi \\nSho, and Satsuki Sho while having zero losses Reach ≥1200 speed</size>",
+        "hash": "be1208cdab3bf7fdf3d9e2a7f0ae3a1cf4ab7d485fd79d86ce640f35be8415ce"
+    },
+    "49": {
+        "text": "Win a GI race 7 times",
+        "hash": "275819edadbe3c5dd7624db0e2e805ec4a803427226dbb09ffba2681880b0659"
+    },
+    "50": {
+        "text": "Win the Takamatsunomiya Kinen, Sprinters Stakes, \\nYasuda Kinen, and Mile Championship",
+        "hash": "7546a98ad73771c7208d9fc8b55d98409ddcfdbd4dd2b8844f411e899c0dd15a"
+    },
+    "51": {
+        "text": "Win 5 consecutive races, including 3 GIs while undefeated since debut",
+        "hash": "4411dbd79d01771f703275a4765c5ea68d78fb428842d9b1e6d4bb92de8a713d"
+    },
+    "52": {
+        "text": "Win Satsuki Sho, Japan Derby, Kikka Sho",
+        "hash": "dd16986001a5e5ebf1b6119c6ada9545bcd6f0b88de2f2ea9ced928a31ad80e6"
+    },
+    "54": {
+        "text": "Win a GI race ≥7 times with a 85% winning rate \\nEarn a total of ≥320000 fans and complete the training",
+        "hash": "5140b157c05d4f2701415af9b33cf0bbc05bb8568ab182a2a40fdf8b3e9feb75"
+    },
+    "55": {
+        "text": "Win a GI race 7 times in a row",
+        "hash": "ae419134818a5eb4bfadca6cab357a29100ab0f0f02a59fc6e4d8a9583565bf9"
+    },
+    "56": {
+        "text": "Win a GI race with Bad mood",
+        "hash": "d76144aa7542a6baab7bf31b537dfd6cae3b257cad59f9aaaad7d680d34464dd"
+    },
+    "57": {
+        "text": "Win ≥7 graded races of 1400m or less \\nReach ≥1200 speed and power",
+        "hash": "c29c676c648ff8651c8a2b30a55c3ead8dfd6abc4b685c1df474519d67df93f3"
+    },
+    "58": {
+        "text": "Win a graded race of 2400m or higher ≥7 times \\nReach ≥1200 stamina",
+        "hash": "3f862164c6009b265405d91e71a8d34eb4b8e8fa300fbf00cc2b9a7a8b950f6f"
+    },
+    "59": {
+        "text": "Win a GI race of 2400m or higher 4 times",
+        "hash": "c68e8628296c831430ccce49bc49ccdfe710d07a4864bab8703af19f41ec86ea"
+    },
+    "60": {
+        "text": "Win a GI race of mile 3 times with difference of ≥5 lengths",
+        "hash": "713b37b41eba2132b53c8964fbabe852cc899375691f512f606a0ba511966a3b"
+    },
+    "61": {
+        "text": "<size=22>Enter 12 races while winning every single race \\nComplete the training</size>",
+        "hash": "09e8ba843c481edd47026ec3ab13c82924d6908806477d42750ce895fe35161b"
+    },
+    "62": {
+        "text": "Win a graded race once being the ≤6th popular",
+        "hash": "ce13acb7482ddc7fab4c07262fa9793f791014524ab4180b208674d281de427a"
+    },
+    "63": {
+        "text": "<size=22>Win a GI race ≥5 times and win the URA Finals \\nEarn a total of ≥320000 fans</size>",
+        "hash": "08ef42cb8d9eb59dcaec106966669dd561b2c39d58277a0fa19b33d46b9f0167"
+    },
+    "64": {
+        "text": "Learn ≥20 skills",
+        "hash": "dd7130dfd4325b5c86baa0d219b647c9e7b609e4ea05b718642ee53e0da084b6"
+    },
+    "65": {
+        "text": "Activate ≥13 skills in a single race",
+        "hash": "82ded22066854c39d96411a917712c0d16a4a2d52c9f97c6d85f8b6f51a60df2"
+    },
+    "66": {
+        "text": "<size=22>Win the Japan Derby being the favourite with difference of ≥5 lengths \\nWin the Tenno Sho (Spring), Tenno Sho (Autumn), and Japan Cup</size>",
+        "hash": "130f4feab548d260a9d3b366b7f01e061e213c4edf7c786da14e6eebfafe4d18"
+    },
+    "67": {
+        "text": "<size=22>Win ≥6 consecutive graded races as runner and favourite \\nAmong those, win the Takarazuka Kinen while keeping the lead \\nfrom 200m past the start to finish</size>",
+        "hash": "bf31ac6d6b7a3346d7a626329299d24e798c9c7355f9ebdf6cefca879610b9d8"
+    },
+    "68": {
+        "text": "<size=22>Finish ≤2nd in every race \\nWin the Japan Cup in 2nd year as a leader \\nEarn a total of ≥320000 fans and complete the training</size>",
+        "hash": "560942a5ac3556a30d3c5d6e43f60001570d6530502a489556f83b4db921e9ee"
+    },
+    "69": {
+        "text": "Win ≥8 consecutive races with an average difference of ≥7 lengths",
+        "hash": "d5ec20dbf4781662fa826fa68a5b4c0f9316e1d30c52e7fb2af57a653abe59c2"
+    },
+    "70": {
+        "text": "Win a GI race each as a runner, leader, betweener, and chaser",
+        "hash": "361bf32cfe5c7d575b24e9214fc7eaa2bce92caa3c15c3b4f03a12bab1d6eccc"
+    },
+    "71": {
+        "text": "<size=22>Win ≥11 races of 1400m or lower \\nWin the Sprinters Stakes (Senior) as favourite \\nwith a difference of ≥4 lengths</size>",
+        "hash": "3e85e627cf09a4930438159f7b2456d29ded76e99effc55943b8772ea7b2efca"
+    },
+    "72": {
+        "text": "<size=22>Win the Kikka Sho with difference of ≥5 lengths Win a graded race of \\n2400m or higher 6 times including the Tenno Sho (Spring)</size>",
+        "hash": "6bc68ae0e068293bab2191a5625aa7bdc24d2aa8e2e787ca04a9108113d60db4"
+    },
+    "73": {
+        "text": "Win the Asahi Hai Futurity Stakes, Arima Kinen (Classic + Senior), and \\nTakarazuka Kinen (Senior) with at most good condition",
+        "hash": "8bbb102dd0c6655050cb05729da67f5858f05672bf00750f5ec6a476bce88498"
+    },
+    "74": {
+        "text": "Win a GI race ≥7 times including the Japan Derby, Yasuda \\nKinen, Japan Cup, Tenno Sho (Autumn), and Victoria Mile",
+        "hash": "0178da4ba23f97e90c7427f5baa124bbd2cec6bfaef26e5f8fced0ca4d71dcbf"
+    },
+    "75": {
+        "text": "Inherit from a parent who won Satsuki Sho. \\nFinish no lower than 2nd in 10 graded races, including \\nOka Sho, Shuuka Sho, and Queen Elizabeth Cup.",
+        "hash": "ddf750b79470731803ab1fd59c6255d7054e1556054f96ab45623ed4fc46603c"
+    },
+    "76": {
+        "text": "<size=22>Inherit memories from parents who won GI race ≥7 times. Win a GI race ≥4 \\ntimes being the favourite Win the Satsuki Sho, Japan Derby, and Arima \\nKinen in 3rd year while having zero losses</size>",
+        "hash": "c08cba71755b84d9ddf090b1624eb491d846eefaa3b471abfb0b2e80cd1ff982"
+    },
+    "77": {
+        "text": "Win a GI race ≥6 times including the Satsuki Sho, Kikka Sho, and \\nTakarazuka Kinen Earn a total of ≥480000 fans",
+        "hash": "db160e2fa2a7b08cd927613419c04db5118444df9f854fef22dc03d51e0862e7"
+    },
+    "78": {
+        "text": "Win the Satsuki Sho, Japan Derby, and Kikka Sho while having zero losses \\nWin the Japan Cup, Tenno Sho (Spring) and Arima Kinen twice",
+        "hash": "d7785fa8d25a33213f8a5ee1f3ea2dc12407000533ca5528aa46fb1b9aed8250"
+    },
+    "79": {
+        "text": "Enter a GI or GII ≥15 times with perfect condition \\nWin a GII or higher race ≥3 times in a row including the Kikka Sho",
+        "hash": "73f1af3e17619cf87fd362c866b1d59d38e9260cb2a5da37a2f16cbdc3a2c3b0"
+    },
+    "80": {
+        "text": "Win the Debut with a difference of ≥8 lengths \\nWin the Asahi Hai FS, Japan Derby, Kikka Sho as favourite",
+        "hash": "5af14f48c2a852f274c11340895ac9e7c7ae1d826401081d0e66fd461bee3ba7"
+    },
+    "81": {
+        "text": "Finish 3rd in a GI race 3 times and earn a total of ≥320000 fans",
+        "hash": "414a5d1635efa75d6831917b15341ce612c2da2de2d8c900e801dcd3d7143feb"
+    },
+    "82": {
+        "text": "<size=22>Win a GI race against a Mejiro at least once \\nWin the Kikka Sho, Takarazuka Kinen, and Arima Kinen \\nEarn a total of ≥240000 fans</size>",
+        "hash": "1cfa25020b35faec5363b323ea73a2046d557849e3f52892aac1b9415a5614d6"
+    },
+    "83": {
+        "text": "Win a graded race ≥5 times including the Unicorn Stakes, \\nand Yasuda Kinen with one of them in rainy weather. \\nWin the Mile Championship with difference of ≥5 lengths",
+        "hash": "83c5629ca328b6050a6c30000617fc12fd5a5d8df5f914af0404c061603a746b"
+    },
+    "84": {
+        "text": "Enter a GI race ≥6 times being the favourite \\nWin the Mile Championship, Yasuda Kinen, and Arima Kinen \\nEarn a total of ≥240000 fans",
+        "hash": "54b2627df32231e57772625841ed9ef6205382e54536e342154307e45b995d4e"
+    },
+    "85": {
+        "text": "As a chaser and favorite, win ≥6 consecutive graded races, \\novertaking ≥5 other girls on the last straight for ≥2 of them",
+        "hash": "0e3cc234d7b898d6442615104a634836fea79a2d010309e75e762a6819bf4f34"
+    },
+    "86": {
+        "text": "Win ≥8 consecutive graded races including the Tenno Sho (Spring), \\nTakarazuka Kinen, Tenno Sho (Autumn), Japan Cup, and Arima Kinen",
+        "hash": "c48f4fd6ed2f0458aca7ceb5c6827c695d42883223d4fa978dcfd737e3c3399d"
+    },
+    "87": {
+        "text": "Win the Asahi Hai Futurity Stakes, Satsuki Sho, and Japan Derby \\nas a runner and favourite while having zero losses \\nReach ≥1200 stamina",
+        "hash": "c2636962763d4d2db185d9ab3af6665ff9c53911578600e77d58e8876d744c78"
+    },
+    "88": {
+        "text": "Win a dirt graded race ≥9 times in a row as a runner including \\nthe JBC Classic, Teio Sho, and Tokyo Daishoten",
+        "hash": "9eaab5f17489740d228739426cfb441a362122747062921ce4699a04947eb875"
+    },
+    "89": {
+        "text": "Win a race of 1200m ≥9 times including the Sprinters Stakes \\nand Takamatsunomiya Kinen \\nEarn a total of ≥240000 fans",
+        "hash": "e33aa6376acbf1b96f851c98003903e1ca54df4b95a7b802ec64a31ca9697d2b"
+    },
+    "90": {
+        "text": "Win a turf and dirt GI race 3 times each",
+        "hash": "53b1cde4e493248b7ced802c96954a7ef50cbcadffb81daeb4757c89a855865d"
+    },
+    "91": {
+        "text": "Win the Oka Sho, NHK Mile Cup, Victoria Mile, Mile Championship, \\nand Yasuda Kinen being the favourite",
+        "hash": "3dcac08e357900e8c6b1c6f194f6f9ec3ab69e1e93ca6fe3d804c943b3bfd1ca"
+    },
+    "92": {
+        "text": "Enter the Debut Race",
+        "hash": "a6819b09e79e0be6ca636e991409acbf3fea83d36660cf59cdda28a9b7f348ab"
+    },
+    "97": {
+        "text": "Spend a moment experiencing irreplaceable bonds",
+        "hash": "de6d4ce2c250fc636000e8c024339edb2071b9e35c6f60aadf31ef81c853b02e"
+    },
+    "98": {
+        "text": "Win the URA Finals Final",
+        "hash": "437c1ea7bef9df45239767cf3ccd6950aacc08fdd98b544bf661938e01cd4ce9"
+    },
+    "99": {
+        "text": "Win Oka Sho, Oaks, Shuuka Sho",
+        "hash": "681a42beb37aaf4cd10cc1351fee066f247245dbbf6610466392ff3d639ffb02"
+    },
+    "100": {
+        "text": "Win the Ibis Summer Dash, Lumiere Autumn Dash, and Idaten Stakes",
+        "hash": "91389fc492c7b4e8095e4ae78bbf35f9b6ef6bb66fe2c6818f67487c7b045383"
+    },
+    "101": {
+        "text": "Win the Shinzan Kinen, Kyodo Tsushin Hai, \\nYayoi Sho, and St. Lite Kinen",
+        "hash": "f8b3345a58c438a5e2192e3fd64265fcb8b7f8bab9f732cb694da2db7bd9c9f2"
+    },
+    "102": {
+        "text": "Win the Aoba Sho and Japan Derby",
+        "hash": "a676c7b288c97619014ff7f07daa1b9484e914b7ee47d90bf5255c7d6ab8a0b3"
+    },
+    "103": {
+        "text": "Reach ≥1200 speed",
+        "hash": "0149e466160ace33f30e65406af6e1fbc03843f109fca55771f7566f330e3a0c"
+    },
+    "104": {
+        "text": "Win the Hopeful Stakes once and Arima Kinen twice",
+        "hash": "d884615e3c8cd72a15fa8ebb3abd841af3de691fd0623a92d0c9e51ae19544b7"
+    },
+    "105": {
+        "text": "<size=22>Win the Hanshin Juvenile Fillies or Asahi Hai Futurity Stakes \\nWin the Oosaka Hai, Oka Sho, and Takarazuka Kinen</size>",
+        "hash": "0ceb28707426b016960f486dc080b056c86a21d1e0453700fc6f76202a1d7918"
+    },
+    "106": {
+        "text": "Win the NHK Mile Cup and Japan Derby",
+        "hash": "8741f6da2b95acbe707cd3b3c42bcf2f186e1522a4884adcee8b7dbf92b6b765"
+    },
+    "107": {
+        "text": "Reach ≥1000 power and guts",
+        "hash": "1acc53b1632474a77b3504019dbe98e2c44059974ccb95e43a7fa41d20179598"
+    },
+    "108": {
+        "text": "Clear all objectives and complete the training \\nwhile winning every single race",
+        "hash": "9b21dbb7e29979879a071225704fdfe7f554bb33471f421c6552fee178e3aaa7"
+    },
+    "109": {
+        "text": "Win the Yasuda Kinen in 2nd year",
+        "hash": "3c7855085000febb5ed2dcedb5e141dd51d877b4471087bcf9ededa4e5592162"
+    },
+    "110": {
+        "text": "Win the Takarazuka Kinen in 2nd year",
+        "hash": "ea8e4e0702a15a94b22033bcb2010bb7abc61188d8a33f287d563cbf815318d8"
+    },
+    "112": {
+        "text": "Win a GI race of short and long distance each once",
+        "hash": "538af4af89918203b83d9f291acf0c8ede40d000fd47a36de600f3a1e4bb1ff7"
+    },
+    "113": {
+        "text": "Earn a total of ≥500000 fans",
+        "hash": "b9df959ab6cbeea6689341beae069493eb8a3ac2620031810ed6f8d7d4ba9b26"
+    },
+    "114": {
+        "text": "Win a GI race 10 times",
+        "hash": "12f334e2e19bf5c92eab4a515b1401f75ddb418386e37954fca9ffb98b5a1adb"
+    },
+    "115": {
+        "text": "Complete a training run with all training levels at ≥3",
+        "hash": "2606d247b5c41e83550d234af709e8ffbc8bc565401a50b53dac70e82d30dfad"
+    },
+    "116": {
+        "text": "Win a graded Short, Mile, Medium, Long, and Dirt race",
+        "hash": "10bb7c5d82a35c5466cd03b8eb11bba88236173a4bb008dd660a4907131bae48"
+    },
+    "117": {
+        "text": "Win a GI race 5 times with Down mood",
+        "hash": "ebd5874738b2766b0b186b297295ea90d449f6ab8c76530d344d56811664bd57"
+    },
+    "118": {
+        "text": "Win a race held in Ooi race course 4 times",
+        "hash": "5f88563330a416c1928f38c31958030fdd429b7e8249a0017fe73f3a75f75b31"
+    },
+    "119": {
+        "text": "Win a graded race once each as \\nrunner, leader, betweener, and chaser",
+        "hash": "de941f9f99e06793ed0066efbc3c1068efcdedf6e19f8047e4d14be295e09f18"
+    },
+    "120": {
+        "text": "Inherit memories from parents who won the Japan Derby \\nWin the Japan Derby",
+        "hash": "d32c8e71741ce735f38a54cf0e7ccce81ca7ca52bcb8ba7e29585c00d2060162"
+    },
+    "121": {
+        "text": "Inherit memories from parents who won the Kikka Sho \\nWin the Kikka Sho",
+        "hash": "24142f091ca7cf64482cb0a89bd7193d500e023c18c8e02ab23d8c622d3344e2"
+    },
+    "122": {
+        "text": "Inherit memories from parents who won the Satsuki Sho \\nWin the Satsuki Sho",
+        "hash": "fdf02879a43213779b54b71bd505a16fbfc00e8ba4ca4c43a61df787064d35b8"
+    },
+    "123": {
+        "text": "Inherit memories from parents who won the Oka Sho \\nWin the Oka Sho",
+        "hash": "7c0b3c3b50e3fde89225c09daa5ac8f98b3c7c1b8704175437723b104f957ed6"
+    },
+    "124": {
+        "text": "Inherit memories from parents who won the Oaks \\nWin the Oaks",
+        "hash": "328a7301345b8bd45878839b26111fb799da6a3d4f88c783c34c9845070f8aa5"
+    },
+    "125": {
+        "text": "Inherit memories from parents with ≥A short distance aptitude \\nWin a GI race of 3000m or higher once",
+        "hash": "c79e70ca87e8ada8c0426892b8fd70601d8b2cf71dbbbc9bd99d1c81e983da60"
+    },
+    "126": {
+        "text": "Inherit memories from grandparents who won a GI race \\n≥11 times in total Win against Special Week, Seiun Sky, \\nGrass Wonder, and El Condor Pasa 3 times each",
+        "hash": "0e91b00307951baba13067c5b3e2a5eaf736dffd94f8c2b6eafbf0427e4bdbc5"
+    },
+    "127": {
+        "text": "<size=22>Win the Kikka Sho and Tenno Sho (Spring) \\nReach ≥1200 stamina \\nEarn a total of ≥320000 fans</size>",
+        "hash": "fe430bfb9449836cc4e6a8ccae925b622a9281dbf7458835f89572ad0721a8da"
+    },
+    "128": {
+        "text": "Win a graded race once",
+        "hash": "27fd100ac2072206bcf159cc435a29d76da2af4efecb8530e4dc153efbd67b69"
+    },
+    "129": {
+        "text": "Win a GII race once",
+        "hash": "f6461cd4085da3bf311dc6045b064ab5f89947db7e698e39089cde9c8e18e6b3"
+    },
+    "130": {
+        "text": "Win a GI race once",
+        "hash": "a1fd8523c4a6b7971816aa553fdb62031a4bda8e831d02c65699efe559ef4248"
+    },
+    "131": {
+        "text": "Enter 10 races with a 80% winning rate",
+        "hash": "b70db565ea8923f8b23a999a8ab8be5938a1dc27ce3dee84b5429d83b3de2e91"
+    },
+    "132": {
+        "text": "<size=22>Enter 10 races with perfect condition in every single race \\nComplete the training</size>",
+        "hash": "1bf68c9f8e967360d01151130ea3c23278a2a603aaf73ff3a8f3f1f3b54dc93e"
+    },
+    "133": {
+        "text": "Win a graded race 2 times with difference of large margin",
+        "hash": "fd21e38c6fea58631e977f23e56d882350a154b65b43881c7144ccf73e6fe43a"
+    },
+    "135": {
+        "text": "Inherit memories from parents with ≥1200 speed \\nReach ≥1200 speed",
+        "hash": "efe744aff1fd0a4aa52225f15b1c6dadccde26e221d8b91aff8a447023b86658"
+    },
+    "136": {
+        "text": "Inherit memories from parents with ≥1200 stamina \\nReach ≥1200 stamina",
+        "hash": "863a48e70ace2e911e722e1217c77072ce0bc27222a11bae8692903169473da1"
+    },
+    "137": {
+        "text": "Inherit memories from parents with ≥1200 power \\nReach ≥1200 power",
+        "hash": "cd708ecce6151d9c460bf79ef561cd53dc08262848efacd141517cd5495297dc"
+    },
+    "140": {
+        "text": "Inherit memories from parents who won \\nthe Arima Kinen and Takarazuka Kinen \\nWin the 2 of them",
+        "hash": "7ffccb2181d0483cf55625f1c386441c4ab431d681711f49e7cb1985351db095"
+    },
+    "141": {
+        "text": "Inherit memories from one parent with ≥1200 wisdom \\nand the other parent with ≤400 wisdom",
+        "hash": "2ab8cf1ed863913354d12efdbf21e3a625fb7931e033c91b4a562bbf632c8f7e"
+    },
+    "142": {
+        "text": "Inherit memories from parents who won the Classic Triple Crown \\nWin the Triple Tiara and complete the training",
+        "hash": "2b2eaa180f5265b69e945315e8f4c34ede155188f99191417ddedad1b14389ce"
+    },
+    "143": {
+        "text": "<size=22>Inherit memories from parents who won every single race \\nEnter 10 races and complete the training while winning every single race</size>",
+        "hash": "64b215fd7682a5b7d5a9850287c91b69762a4c61a2cbe5bbc935091a25c992cf"
+    },
+    "145": {
+        "text": "Inherit memories from parents who won \\nSatsuki Sho, Japan Derby, and Kikka Sho \\nWin the 3 of them",
+        "hash": "d0545f0f69e6b9945d1fd38c6a093e0127c55afb1dbefa2775d9a4cf491448dd"
+    },
+    "146": {
+        "text": "<size=22>Inherit memories from parents who won every single \\nrace including the Satsuki Sho, Japan Derby, Kikka Sho \\nWin the 3 of them while having zero losses</size>",
+        "hash": "8a0a658cf4b5e581e7bf6852f2b45972b62a039eef3398795a28655be2955eba"
+    },
+    "147": {
+        "text": "<size=22>Inherit memories from parents with ≤C rank \\nComplete the training with ≥A rank</size>",
+        "hash": "3e188d07e9aa854df485801263fe65cb083a0fd8a791e72a8c81518a9c7e9019"
+    },
+    "148": {
+        "text": "Inherit memories from parents who won \\nOka Sho, Oaks, and Shuka Sho \\nWin the 3 of them",
+        "hash": "109584db221d459fab44f9b15f766e46554e1b871a01fb2e133c63f063cda45b"
+    },
+    "149": {
+        "text": "Inherit memories from parents who won every single race \\nincluding Oka Sho, Oaks, and Shuka Sho \\nWin the 3 of them while having zero losses",
+        "hash": "9ded82d037ab07ac141d65822c3ed08b459cdc53a610c5bd869a25d7884a9411"
+    },
+    "150": {
+        "text": "Inherit memories from parents with ≥460000 fans \\nEarn a total of ≥480000 fans",
+        "hash": "b9b19482ce4b8b150bf061cc57b702ca5ab826de1a8e1e629b2f6dd2725f0f71"
+    },
+    "151": {
+        "text": "<size=22>Finish ≤2nd in every single race \\nWin the Kikka Sho, Tenno Sho (Spring), and Takarazuka Kinen \\nClear all objectives and complete the training</size>",
+        "hash": "aff64b09e4488333ef52c2c8ca14365e99282e1a22f04f2d842ed36c98192b95"
+    },
+    "152": {
+        "text": "Complete a training having had at least 3 Aoharu special training \\nsessions at once ※ Aoharu limited",
+        "hash": "d6e7c5a207fd59329d93b66d5fc038018591616fab3254417f066d65e0fa4234"
+    },
+    "153": {
+        "text": "Complete a training with 50 or more Aoharu special training sessions \\n※ Aoharu limited",
+        "hash": "f2bb26362d9e316b087d784214012ff44ce6da92b74809c794cf1760f755647b"
+    },
+    "154": {
+        "text": "Receive the team title \"Legend\" \\n※ Aoharu limited",
+        "hash": "ce7826055e153d4ad83f7c5744b5f55bd0075eef0da057fda75d537d7b616a8f"
+    },
+    "155": {
+        "text": "Complete a training with 65 or more Aoharu special training sessions \\n※ Aoharu limited",
+        "hash": "7af5cc87b1a353a230f32ecdb8647ed70e5e33b2360af5be0492049f3cc99225"
+    },
+    "160": {
+        "text": "Win the Satsuki Sho as a chaser by breaking \\nthrough ≥4 people in the last straight \\nWin the Tenno Sho (Spring) as a chaser Reach ≥1200 guts",
+        "hash": "6e24968c284bfe7f1796c4df9f0be91b697adf28b232ac903a9111c7734429c0"
+    },
+    "161": {
+        "text": "Win the Satsuki Sho, Japan Derby, and Kikka Sho with \\ndifference of ≥3 1/2 lengths, ≥5 lengths, and ≥7 lengths \\nand win the Arima Kinen twice",
+        "hash": "837b1b128c76b4989229b9c6c610183031da9c5a379f73244f76d2c10ca9edf9"
+    },
+    "162": {
+        "text": "Compete with those two in the URA Finals and win the championship \\n※ Aoharu limited",
+        "hash": "15aa2e21d9c18327a4fcff977769f981c7df5724e54b3e819494872939ffb4ed"
+    },
+    "163": {
+        "text": "Make 10 Aoharu Spirits explode \\n※ Aoharu limited",
+        "hash": "34ebd891d6ddca52debae81fcc0ee68e35f536e1ac54fa380c0760761fa8fe20"
+    },
+    "164": {
+        "text": "<size=22>As a runner, win the Satsuki Sho, Kikka Sho, Arima Kinen (2nd year), and \\nTenno Sho (Spring). In the Kikka Sho, stay in the 1st position from the \\n200m line until the goal</size>",
+        "hash": "95fd91118e5dd83b95c5ad03668068d321062153cce0c567e2a763b2d782b554"
+    },
+    "165": {
+        "text": "Achieve 9 or more consecutive wins in graded races including \\nSpring Tenno Sho, Takarazuka Kinen and Arima Kinen",
+        "hash": "aef7dae1c2c533dc3a0466e4366db98cdca17f1e0bfa56cf5722d6ef2c476407"
+    },
+    "166": {
+        "text": "Win Yasuda Kinen and Mile CS \\nWin Sprinters S twice in a row \\nReach ≥1200 power",
+        "hash": "a46209026f7fecd3823b952bb1644e8fc5ff6824e7a2b473603cad19305e2a17"
+    },
+    "167": {
+        "text": "Win Japan Dirt Derby, Mile CS, February S, Yasuda Kinen, \\nTenno Sho (Autumn), Arima Kinen (Senior Grade)",
+        "hash": "fe5143e5d805c95a1f166603e9cb0a44b8f8a8a15fb463c319c312d248b6d276"
+    },
+    "168": {
+        "text": "<size=22>Inherit the feelings of a parent who won the Takamatsunomiya \\nKinen, and win the Oaks, Shuuka Sho, and Queen Elizabeth \\nCup undefeated during training.</size>",
+        "hash": "e202cd652f5fe6a7d228c8dc52b6b67189d2989641477b5e625989b7f2dbdcb0"
+    },
+    "169": {
+        "text": "As betweener, win the Kikka Sho, Classic & Senior Arima \\nKinen, and Tenno Sho (Spring) with ≥1200 stamina",
+        "hash": "2c8c2d8537be72200e7b39af7148ec44cdaeaa415737a2c04b19864fcafc7097"
+    },
+    "170": {
+        "text": "Win the Japan C, Tenno Sho (Spring), win Tenno Sho \\n(Autumn) twice in succession with max motivation, \\nand triumph over Gold Ship at least 3 times.",
+        "hash": "db72073e1d786075d2266ef8a4decb34880d4dc85314fedce7a2f8dbe92e8a69"
+    },
+    "171": {
+        "text": "Win Hanshin JF, Oka Sho, Oaks, and Shuuka Sho as \\nbetweener and most popular girl. Win Queen Elizabeth \\nCup twice in succession. Attain 240000 fans",
+        "hash": "691188217802f70a3300b8bc52cc0619e7c8900c9d030f2fd818e406cd101041"
+    },
+    "172": {
+        "text": "Win Shuuka Sho (with at least 3 1/2 lengths), Queen Elizabeth Cup, \\nand Arima Kinen (classic) undefeated and as favourite.",
+        "hash": "7448e30b76dcd17e40bd649f22c8b3dcdeede7eeb31a42500650e5b9b599074b"
+    },
+    "173": {
+        "text": "Win 8 graded races including Spring Tenno Sho, \\nAutumn Tenno Sho (senior) and Takarazuka Kinen (senior) \\nObtain 240000 fans.",
+        "hash": "15497d580291b17ae5603dbf504c412a4fa9b1d99c5d366d6fb26160fd9ecf6b"
+    },
+    "174": {
+        "text": "Inherit from a parent with ≥1200 speed who won Asahi Hai FS, and win \\nAsahi Hai FS, Satsuki Sho, Japan Derby, Japan C.",
+        "hash": "c5380582148cc538a448227fe657f874561b94508fee5d8ef626ddc7658c7529"
+    },
+    "175": {
+        "text": "Win the Japan Derby, and Fall Tenno Sho twice successively, \\nenter every race in top condition, and finish training \\nwithout a single failed session.",
+        "hash": "09d81be54eb5402de1c447eb0bfdbbe7c0131940c13acd03c3a355e9446344f3"
+    },
+    "176": {
+        "text": "As favourite, win Satsuki Sho, Japan Derby, Takarazuka Kinen, and \\ndefeat TM Opera O, Narita Top Road, Meishodoto 3 times each.",
+        "hash": "810b0154a200891e67534b0a997631734803201756a6d7cd2082728c2d0f971b"
+    },
+    "177": {
+        "text": "Enter at least 12 G1 races. Win at least 4 graded races \\nof ≥2500m, including Kikka Sho and Arima Kinen (senior)",
+        "hash": "d81e420634270e1aa3559919ca3deaec40074b33ccda7b6d86e9fe23ac9e4550"
+    },
+    "178": {
+        "text": "Win at least 7 G1 races including Kikka Sho, \\nSpring & Fall (senior) Tenno Sho, Takarazuka Kinen, \\nArima Kinen (senior), and have at least 480k fans",
+        "hash": "6717c38a51cc052671d3a0907a7e9183b31958a93a0a8b249ab9481f17d19671"
+    },
+    "179": {
+        "text": "Inherit from an ≥S rank parent and win Kikka Sho, Tenno Sho (spring), \\nJapan C (senior), and twice consecutively Arima Kinen",
+        "hash": "89591957c4d2eeb2397b789c8816c146efb45102bdd8a291aa83a67cc3bb2d0e"
+    },
+    "180": {
+        "text": "Complete training with a total of 1000 Result \\nPts or more. ※Make a new track! limited",
+        "hash": "3c94ed2cdcb08dbe806710b2e70ed46152de4ea46ec337daef5d8625c4bdae01"
+    },
+    "181": {
+        "text": "Complete training after exchanging at least 20 items \\nin the scenario shop ※Make a new track! limited",
+        "hash": "f7c9c663935f0a86424f51dd597e63f1e86f70953be174892ad0afde983dfc7a"
+    },
+    "182": {
+        "text": "Complete training after finishing first in all three races \\nof the Twinkle Star Climax ※Make a new track! limited",
+        "hash": "dc5860392f07913912a89daa5652323ac5af02622de2d23fca741c1a28a25a19"
+    },
+    "183": {
+        "text": "Win at least 20 G1 races ※Make a new track! limited",
+        "hash": "d481f1953446f78fd1ee2934e08fc80832b7b55f07ff1afa1ee34ac3fe8ef3d5"
+    },
+    "184": {
+        "text": "Complete training after earning at least 1000 \\ncampaign shop coins ※Make a new track! limited",
+        "hash": "6faba81395805fdd43d32972f27e95b5582fd1f39797b12b7e4762a7cf8f3dd6"
+    },
+    "185": {
+        "text": "Win at least 15 G1 races ※Make a new track! limited",
+        "hash": "51c96771e18fbd35a4e46bc23166a0e9c0781f3268bc8a4ab33a76642a5d7756"
+    },
+    "186": {
+        "text": "Inherit from a Mejiro and win 4 ≥G2 3000m+ races including \\nTenno Sho (spring), accumulating at least 240000 fans",
+        "hash": "5e1502d7184b8b6e26976a60cb3e7e5c06e39be2be73866a3d7aa33ab57f0b11"
+    },
+    "187": {
+        "text": "Obtain Spring Champion and Autumn Champion titles while having \\neither Charismatic Horsegirl or Heroine Horsegirl \\n※Make a new track! limited",
+        "hash": "a3985fe7e9bc178ba656b79573b883211d4344f62ea9937f6ae5d9516dbe38eb"
+    },
+    "188": {
+        "text": "Win NHK Mile Cup, Oka Sho, Yasuda Kinen, Victoria Mile CS, \\nand either of Hanshin JF or Asahi Hai FS \\n※Make a new track! limited",
+        "hash": "863e27d2d965081405839f112294a31d5c92202f9752970d1ac34609784caf61"
+    },
+    "189": {
+        "text": "Win NHK Mile Cup, Yasuda Kinen, Mile Championship \\n※Make a new track! limited",
+        "hash": "82354183b39b42c22bdfe8728f0392f764ccf0cc3015c3cbf3ec66c125c2da29"
+    },
+    "190": {
+        "text": "Obtain Charismatic Horsegirl and win 2 of Tenno Sho \\n(spring), Takarazuka Kinen, Japan C, Tenno Sho (fall), \\nOsaka Hai, Arima Kinen ※Make a new track! limited",
+        "hash": "cdd2f0b040d572175aacbf224fe426553b78f5dc7305787cbe0f1788a5b2619d"
+    },
+    "191": {
+        "text": "Obtain Charismatic Horsegirl and win either Japan C (classic) \\nor Arima Kinen (classic) ※Make a new track! limited",
+        "hash": "fd581647326f1a01a2fed2bd2357d91cd3efb40f8c2ba4e7b6085560af4feb33"
+    },
+    "192": {
+        "text": "Win Satsuki Sho, Japan Derby, and Kikka Sho \\n※Make a new track! limited",
+        "hash": "4c5f668b3a50fb40143b200fe9cabbbac64427f7f0ecd99408bc19b188d3e085"
+    },
+    "193": {
+        "text": "Win Takamatsunomiya Kinen and Sprinters S \\n※Make a new track! limited",
+        "hash": "4e91ddba68ba58ec707305cfb33668556a8a6af6dbcf414dcd6d49e72e16fc2e"
+    },
+    "194": {
+        "text": "Win 9 Dirt G1 races \\n※Make a new track! limited",
+        "hash": "9f7f463cd717f501fd7785ea04b2f34ebdd828b3e3b4553f216a4c3a512e6dfc"
+    },
+    "195": {
+        "text": "Win 5 Dirt G1 races \\n※Make a new track! limited",
+        "hash": "594b401c0a1d19a594ca462abe0e288f08113dc28d0b0e1438a299591535d666"
+    },
+    "196": {
+        "text": "Win 4 Dirt G1 races \\n※Make a new track! limited",
+        "hash": "f052d868817f4fb4ea13ecbcddda3e8be26489319314d8bf97c90e0a5beae5ca"
+    },
+    "197": {
+        "text": "Win 3 Dirt G1 races \\n※Make a new track! limited",
+        "hash": "b6c5ea3862775ed846fe911c440332e99a17f48f4c6519f043a3217825a3f607"
+    },
+    "198": {
+        "text": "Obtain Heroine Horsegirl. Win Victoria Mile, Hanshin JF. \\nWin Queen Elizabeth Cup twice consecutively \\n※Make a new track! limited",
+        "hash": "ee0797bce523471fc7b17a5301da5ba299a7b76b5b2c7d57fae98b2a4d542567"
+    },
+    "199": {
+        "text": "Obtain Heroine Horsegirl. \\nWin Queen Elizabeth Cup (classic) \\n※Make a new track! limited",
+        "hash": "9451b58e92aa8951997156ac1070b34ac7e474becdd89717e277a38332f3f828"
+    },
+    "200": {
+        "text": "Win Oka Sho, Oaks, Shuuka Sho \\n※Make a new track! limited",
+        "hash": "663b622ad76c5ca7c59563755ea6e24a9a310c8881f2d801dc6d4d7b8ae66424"
+    },
+    "201": {
+        "text": "Win Takamatsunomiya Kinen, Sprinters S, Yasuda Kinen, \\nMile Championship ※Make a new track! limited",
+        "hash": "5aeddcdbacd4fcf181b20c23a76655f0817962ed60f99cc305fe8f41cdc0b8d4"
+    },
+    "202": {
+        "text": "Win Spring and Autumn Tenno Sho \\n※Make a new track! limited",
+        "hash": "730ce5174787bffee9fac5d88c700bc30a2cc9ff4a0a3732588be7b3afbd10fa"
+    },
+    "203": {
+        "text": "Win Osaka Hai, Spring Tenno Sho, Takarazuka Kinen \\n※Make a new track! limited",
+        "hash": "f7a207d1f85ec1e247ee0f6747b1786fde5ab60ff81aa1420126a644e3a9302d"
+    },
+    "204": {
+        "text": "Win Autumn Tenno Sho, Japan C, Arima Kinen \\n※Make a new track! limited",
+        "hash": "90633761aa1732f8543adaaaceb595296da23743c83c201c917d3e6d5b9c4ec2"
+    },
+    "205": {
+        "text": "Win 15 dirt races \\n※Make a new track! limited",
+        "hash": "77912f9dc89fe0f7ed5753e164fa4b6c5edd520850af279337334a0bd40ffc42"
+    },
+    "206": {
+        "text": "Win 10 dirt races \\n※Make a new track! limited",
+        "hash": "226c332a89491225e1510a131cb800cd8d29e2c487411b8998a1799f1776a1c2"
+    },
+    "207": {
+        "text": "Win 5 dirt races \\n※Make a new track! limited",
+        "hash": "2d739e2937c41d22f364095ca1fd8261a4b72832b929c30e5d66daa1bce55461"
+    },
+    "208": {
+        "text": "Win 10 root distance races \\n※Make a new track! limited",
+        "hash": "09c751365fbc5fbd4888e12c8b9675999cb13547818d4e4431c1d91c311d7483"
+    },
+    "209": {
+        "text": "Win 10 non-root distance races \\n※Make a new track! limited",
+        "hash": "0be9cebfecb17af6cf80a1c8d3203c77b1a862a2b7ed5f9e7787c9d13280b0d2"
+    },
+    "210": {
+        "text": "Win JBC Sprint twice consecutively \\n※Make a new track! limited",
+        "hash": "0a4b8c85ddaf1aec4601e57f234424bf7374c55aef05f599f6c59263383aedc6"
+    },
+    "211": {
+        "text": "Win 3 races with Uma Musume Stakes in the name \\n※Make a new track! limited",
+        "hash": "0db15a88dd6cf6ef26a07a3fa34dfee0636e461ecb0f218b1a7faf52292c253a"
+    },
+    "212": {
+        "text": "Win Unicorn Stakes, Leopard Stakes, Japan Dirt Dirby \\n※Make a new track! limited",
+        "hash": "0997633c29bb81bc06be08034b433b9cde0eb7899202d3608497bdd822078c2d"
+    },
+    "213": {
+        "text": "Win 3 races with a country in the name \\n※Make a new track! limited",
+        "hash": "3788748ab545c56267e80517f3854153c02058511eb8f5cb497214c251ca70fc"
+    },
+    "214": {
+        "text": "Win 3 races with Junior Stakes in the name \\n※Make a new track! limited",
+        "hash": "d879b790e6eca92d7584fc8755dd7574e3bc3f89c09ec78bad115ad109f236f5"
+    },
+    "215": {
+        "text": "Win a short, mile, middle and long distance race on turf \\n※Make a new track! limited",
+        "hash": "aba6929114c9ca023c48fa0a0347c2e5b5efa7d14115e0851128bfdbe4270300"
+    },
+    "216": {
+        "text": "Win a short, mile, and middle distance race on dirt \\n※Make a new track! limited",
+        "hash": "3bee8e395056de1a5f0d08bb283392c47a6f676798188b6d089857f34ccf8dcb"
+    },
+    "217": {
+        "text": "Win 10 races of at least Open grade \\n※Make a new track! limited",
+        "hash": "f5e9dcc08cbf83ac44475c208fed3612da3ee1332e59aad16dc05dd9ea22ed50"
+    },
+    "218": {
+        "text": "Win 3 graded races held in either Sapporo or Hakodate \\n※Make a new track! limited",
+        "hash": "72b86f283f85b00c003e3a684c4708fe68c572422f95001523ae9e3f98bf94c7"
+    },
+    "219": {
+        "text": "Win 3 graded races held at Fukishima, Niigata, or Morioka \\n※Make a new track! limited",
+        "hash": "83ea4d16f23ebe14899eb673252bb403f61807a042aadd99e6866b9dc47a179c"
+    },
+    "220": {
+        "text": "Win 3 graded races held at \\nTokyo, Nakayama, Ooi, or Funabashi \\n※Make a new track! limited",
+        "hash": "3168ef44ddd403b572ff389bbdeefe991dbe90b80c69f113073374cdd15b5f0c"
+    },
+    "221": {
+        "text": "Win 3 graded races at Chukyo, Hanshin, or Kyoto \\n※Make a new track! limited",
+        "hash": "b5313ee31383d546173daeb708b1dbe6e1c307800220af35a7257a9adb028497"
+    },
+    "222": {
+        "text": "Win 2 graded races held in Kokura \\n※Make a new track! limited",
+        "hash": "74c3396e439f0bff017d2c2dd6377f19d0f0c15f8c6e2642b24cb9f33111161f"
+    },
+    "223": {
+        "text": "Inherit from a parent whom didn't win any G1s in training, \\ngo on to win Hanshin JF, Oka Sho, and 2 successive Sprinter \\nSs, reaching 100K fans by Classic year",
+        "hash": "3712e78dd6818276530ac2e6df37099bc778aac700f96a96d64ed3935f3a553d"
+    },
+    "224": {
+        "text": "Win Satsuki Sho without any other Turf G1 wins, then \\nwin Osaka Hai, Yasuda Kinen, Takarazuka Kinen, and \\nArima Kinen in Senior Year, reaching 1200 Power",
+        "hash": "64206d3374b49fafcee89f3371f26f98d6edc949f8fdc39154adac0eccb3e0b7"
+    },
+    "225": {
+        "text": "Win Asahi Hai FS, Satsuki Sho, Japan Derby, and Japan \\nC (senior) as runner, reach 1200 Speed and Guts",
+        "hash": "f165e7764037d20b6a0dffda020095f877ebfcee95a02ff00ff9d4035fab186b"
+    },
+    "226": {
+        "text": "Win a G1 as runner and below 4th favorite. Win Tenno \\nSho (spring), Takarazuka Kinen, Arima Kinen as runner \\nin senior year. Raise runner aptitude to ≥S.",
+        "hash": "a6afd1dc3207529b21155068384eef19cee5af284ba4865af60d782102af625e"
+    },
+    "227": {
+        "text": "Win 4 Dirt and 4 Turf G1s. Of those, win Tokyo Daishoten and \\nTakarazuka Kinen (senior) as Leader, Tenno Sho (Spring) and \\nArima Kinen as Betweener or Chaser.",
+        "hash": "9e8353ecc5bc21977dccb5c589476b53532c92775d4813f28ed77f5c293ed754"
+    },
+    "228": {
+        "text": "Win Tulip Sho and Shuuka Sho as chaser. \\nWin Takarazuka Kinen, Queen Elizabeth Cup, and Arima Kinen \\nas chaser or betweener in classic year.",
+        "hash": "7e9b401cc1cc9e3f8727dd3a64d0bf8a5a95dc396dd57b4689e94ec3b0d889af"
+    },
+    "229": {
+        "text": "Win Satsuki Sho, Japan Derby, Kikka Sho, as well as \\nTenno Sho (Spring), Takarazuka Kinen, Tenno Sho (Fall), \\nand Arima Kinen in senior year. Reach 1200 wisdom.",
+        "hash": "5c1c69d20b23123e99a93a44d35aebb5f5985894388e10ca48e9e7bfacca3e84"
+    },
+    "230": {
+        "text": "Enter ≥23 graded races, win Yasuda Kinen (senior), \\nTakarazuka Kinen, Sprinters S, and Mile CS.",
+        "hash": "b559e27a498fa17ee8fc8655b44c1425f3716f28027ec7b92018e1f572265357"
+    },
+    "231": {
+        "text": "Win 11 Dirt G1s, entering all races in Perfect mood \\nand complete training.",
+        "hash": "0aa05c6a3b0d8280fbb240d3e0c7a5d10f629a0228c52eafb7556c152a845d06"
+    },
+    "232": {
+        "text": "Win a graded race at Morioka, as well as \\nOka Sho, Oaks, and Shuuka Sho. \\nGather 320000 fans.",
+        "hash": "429c9299a82ba5777b61d59295d8a830be4e44d3558337ab9a8212ad8b9fa40f"
+    },
+    "233": {
+        "text": "Complete training with 10 different Tracks \\n※Grand Live exclusive",
+        "hash": "cd05e9b7b983d21644f44c44abe0d20428e03376eae9510edc2ed37f2f492977"
+    },
+    "234": {
+        "text": "Complete training with a total of 1500 Performances \\n※Grand Live exclusive",
+        "hash": "766a15b9d77a2f477e316e1f7db1d18ce9f0ce9e3d6e8ca0920abc69fac81d72"
+    },
+    "235": {
+        "text": "Lead the Grand Live to a Great Success \\n※Grand Live exclusive",
+        "hash": "8aa6d2a74b5ae2d58f3e2caa20ce69b56780bd55f688ea93c65b27495f0b45b9"
+    },
+    "236": {
+        "text": "Hold a special Grand Live \\n※Grand Live exclusive",
+        "hash": "6681babee1931a62a2dc29f763cf82bfcd3efbdad8167330a1c805802c45dbb3"
+    },
+    "237": {
+        "text": "Complete training having earned 300 Dance in total \\n※Grand Live exclusive",
+        "hash": "d07b84ca00e0e2ea56d7a1ecaa1c0c31ed0efe7f171857b9f1a52d15247efb11"
+    },
+    "238": {
+        "text": "Complete training having earned 300 Passion in total \\n※Grand Live exclusive",
+        "hash": "63794205a47e46e64242da38e2803990fa2baab54a60fd605850b1aa974395c8"
+    },
+    "239": {
+        "text": "Complete training having earned 300 Vocal in total \\n※Grand Live exclusive",
+        "hash": "01cb00eac2f9fc61c6abd892d21f9cd1fd1c9ef45031a4b8ac8477c3d221e078"
+    },
+    "240": {
+        "text": "Complete training having earned 300 Visual in total \\n※Grand Live exclusive",
+        "hash": "b5b047d8be87f7b04adf19dbb6f9f5eef05b7947395804d69f8e6f9eaf2dcda8"
+    },
+    "241": {
+        "text": "Complete training having earned 300 Mental in total \\n※Grand Live exclusive",
+        "hash": "4880a715da5e18cbdb78b441cb123f3ab6b2e2370f64183502d9e21e7ac3e721"
+    },
+    "242": {
+        "text": "Win a graded race at ≥4 different local (NAU) tracks",
+        "hash": "6f95f8b70e64cab4f57bbf47b7817f7a823a3be3ec18b52170e1a1cb8d4325fe"
+    },
+    "243": {
+        "text": "Win 3 races at local (NAU) tracks",
+        "hash": "b689b5873ad156d76860588f9ba50230525370e82045f1c838386e7a9e375681"
+    },
+    "244": {
+        "text": "Enter at least 4 races held at night, winning 3",
+        "hash": "0591f0bd795f111ec554602d37dc3b7dd06405d64c22a60de0da3ba8bd03ba53"
+    },
+    "245": {
+        "text": "Enter at least 4 races held in the evening, winning 3",
+        "hash": "ed4e71bd5a977737be9046cb856cade8b0c64966d9f49219e44cfe3cad1b777f"
+    },
+    "246": {
+        "text": "Win Diolite Kinen, Empress Hai, \\nSparking Lady Cup, and Mercury Cup",
+        "hash": "4c552d705f911076b72b7697599d741d590d1a95a7f19d5479185e3f2611d2ca"
+    },
+    "247": {
+        "text": "Learn 5 dirt-only skills",
+        "hash": "35821c5715406948dbdb4f7d14a90dab36ee4394d3d2bce93737cf41693a0ed6"
+    },
+    "248": {
+        "text": "Win 5 graded races at Kawasaki Racecourse",
+        "hash": "01891002be8a62073fdcbc29b0f987ccf5c6dc41b9c549b416b054a3c8398d85"
+    },
+    "249": {
+        "text": "Win 5 graded races held at night",
+        "hash": "de7e5e212b390be81aa6ccef48d2a8d05a3daf35ec1481cbda9d623de88aaa81"
+    },
+    "250": {
+        "text": "Win 5 graded races held in the evening",
+        "hash": "b12290720136b81c96f0342957b6c8b6e13926b68fa570de3d7d40b9f6aecf50"
+    },
+    "251": {
+        "text": "Win 15 dirt races",
+        "hash": "59d300781cfdc1035f5ce47cdba1312699ddce46bcd471a6baf475f9ae5cf799"
+    },
+    "252": {
+        "text": "Win Procyon S, Cluster Cup, \\nCapella S, and JBC Sprint",
+        "hash": "109b6eda58f4136e574e60c34575b399009c80b0d2ebc6890a946beb10564103"
+    },
+    "253": {
+        "text": "Win Oaks and Kanto Oaks",
+        "hash": "8a84991c50a529616f8cf2d85558d7426b5588810c2fb94dae195b5cb11319ae"
+    },
+    "254": {
+        "text": "Win Zen-Nippon Junior Yushun, \\nMile CS Nambu Hai, and February S",
+        "hash": "4c9b6d9a183ae23ac2bdad9476224fb20b161627493a4575b51482cc10ffd8c9"
+    },
+    "255": {
+        "text": "Win Marine C, Kanto Oaks, Sparking Lady C, \\nLadies Prelude, JBC Ladies Classic, and TCK Queen's Cup",
+        "hash": "27bb1640391dece777f7bfa313fe9fe784eb556cab2a12d97e0e3c7ca1f6dd62"
+    },
+    "256": {
+        "text": "Win 12 G1 Dirt races",
+        "hash": "f4cdd521286426018f0fc9a19b50216982f0de906380b2cf2f89ce5b2eb8b160"
+    },
+    "257": {
+        "text": "Win 7 G1 Dirt races",
+        "hash": "b27e712aa6da3963a625029b98f0bc4b4eeba46f307b0e5efad05b47c513f869"
+    },
+    "258": {
+        "text": "Win Oka Sho, NHK Mile C, Shuuka Sho, \\nTakamatsunomiya Kinen, Sprinters S (senior)",
+        "hash": "b9b5b47a0432ba5765db3ac2bcf18340fe6684fd79ee9921d9f7cbd7b9bbbb01"
+    },
+    "259": {
+        "text": "Win Sprinters S, defeat Daiwa Scarlet and Vodka \\ntwice each, obtain ≥320000 fans and \\nclear all training objectives",
+        "hash": "d2ce12dd732872388c3f819b4d6c52e730ec80aea3c907bc185ac8e6c5dc6612"
+    },
+    "260": {
+        "text": "Win Yasuda Kinen twice in succession, win Sprinters S, \\nTenno Sho (Fall, Senior), reach ≥1200 speed",
+        "hash": "2fe507d7fa09d84531f7dddcb5b0c503be859ca238820932681043ac110dd35f"
+    },
+    "261": {
+        "text": "Win Takarazuka Kinen (senior), Japan C. \\nFinish training without a single failed session, \\nincluding one with ≥ 30% fail rate",
+        "hash": "7de6758bb4dffbb47af24f82f917562736206348cf9b26bbc6af8f5f03154343"
+    },
+    "262": {
+        "text": "Win Tokyo Daishoten (classic), Kashiwa Kinen, \\nTeio Sho, and JBC Classic (senior). \\nReach ≥1200 guts",
+        "hash": "6f249bfa8f52e349453b0bb16a4760e00ad25e74bcb59f400293ad410a4e4458"
+    },
+    "263": {
+        "text": "Win Tenno Sho (Fall, Senior), Japan C, \\nand Arima Kinen as favourite \\nObtain ≥320000 fans",
+        "hash": "8b3590d41070bd62ad1cc3da02f1042ad703442708eb57a9252964014aeec258"
+    },
+    "264": {
+        "text": "Win ≥10 GⅠ dirt races \\nObtain ≥320000 fans",
+        "hash": "16ceed703eff6d1fa3eef32dae217992bfdc9cc4c095bc3c8588af4f28e5093f"
+    },
+    "265": {
+        "text": "Win Yomiuri Milers C, win Mile CS twice consecutively \\nEnter all races with peak motivation \\nComplete training with ≥1200 power",
+        "hash": "369bf8583e07622a14e5f2971170e5a6291421ada0fc89ad1a9b2cef742f370f"
+    },
+    "266": {
+        "text": "Win ≥2 races and February S \\nReach ≥1200 power",
+        "hash": "8bf5132a90391681b7c462a71fa8b89e6c25247efd2727eb030accc3782222b6"
+    }
+}

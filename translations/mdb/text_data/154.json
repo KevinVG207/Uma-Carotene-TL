@@ -1,0 +1,126 @@
+{
+    "1": {
+        "text": "Increases stats gained from friendship training",
+        "hash": "d2ce8c162180a31b04707e12dd0730d2f2cd06533da25794b6c320982f7bc909"
+    },
+    "2": {
+        "text": "Increases motivation stat bonus when training together",
+        "hash": "b7729d0610b730514af67ee6b8b5be1ce5f9e2d13cd79459b249d0e17e918359"
+    },
+    "3": {
+        "text": "Increases the amount of speed gain when training together",
+        "hash": "e3ca3c1dfc3800133fdf0a0e27ccaf07ea3bad998912ee51e24237edba7b13fe"
+    },
+    "4": {
+        "text": "Increases the amount of stamina gain when training together",
+        "hash": "437ac318c403296e7b8f11bd9b03c65216131fbdb5e671b606d1aefb93f7b882"
+    },
+    "5": {
+        "text": "Increases the amount of power gain when training together",
+        "hash": "fdbd6b61bd1dc98e9f6521bf99f27845b4abb18953eb57a4dc49de6ba08f0446"
+    },
+    "6": {
+        "text": "Increases the amount of guts gain when training together",
+        "hash": "d9439083c00e3226a224bf5ea7dc92b129eee4b51bf5d5024a76f4a96c3a7224"
+    },
+    "7": {
+        "text": "Increases the amount of wisdom gain when training together",
+        "hash": "ddc089ae829ec8a862893e9d3068e99acefa81e6767d5d0a01e84eea4dc9eb9d"
+    },
+    "8": {
+        "text": "Increases stat gains when training together",
+        "hash": "9975b1f71d1aaa0c7b8d54c250d620f28baecce5d7cb319278a1a2d5f8e74bf8"
+    },
+    "9": {
+        "text": "Initial speed at the start of training is increased",
+        "hash": "9b158a407eb3379c0166bb3d037caa1e72d5a7bc2b0b4fa841046acba89bce0a"
+    },
+    "10": {
+        "text": "Initial stamina at the start of training is increased",
+        "hash": "fc175555f21f7128d7bff515806e870977830dac02e1fbf98964359802f9111a"
+    },
+    "11": {
+        "text": "Initial power at the start of training is increased",
+        "hash": "ad4194671d583be475f31fd5a39447a58e52cace5781d71b662ea4874e1191a6"
+    },
+    "12": {
+        "text": "Initial guts at the start of training is increased",
+        "hash": "6036f29d79223569e6d866e6a07938998319647ad191032984c733a7d9ceab82"
+    },
+    "13": {
+        "text": "Initial wisdom at the start of training is increased",
+        "hash": "ba23b178fcfdfffc545edeeb75fa0fe78843109a4ff7a9471dd8ecb70d7e9748"
+    },
+    "14": {
+        "text": "Initial bond gauge at the start of training is increased",
+        "hash": "7df70a5c5931ab863dd761188ced4cd537327e5d1fe4c150434a37a652d36ba0"
+    },
+    "15": {
+        "text": "Increases stat and skill point gains after finishing a race",
+        "hash": "2a04f1f5ef6e0e3528d8dc5abf125397a963568b3ed2001e636b53619ef1994f"
+    },
+    "16": {
+        "text": "Increases fan count increase after finishing a race",
+        "hash": "bb4f5a2c102eb3d9815224dc2e757326d3190fec1b782881c770ebe56c082799"
+    },
+    "17": {
+        "text": "Increases hint level from events of this card",
+        "hash": "f19dfe87ccbb5b75513bb236f8d12abd12d1a49d47e3d638a9a130263533b3ae"
+    },
+    "18": {
+        "text": "Increases probability of getting hints",
+        "hash": "0e79279e4509c1b90ffb26262a15e460ab78fa6d68dd8d62fc3d350a89ac64e5"
+    },
+    "19": {
+        "text": "Increases probability of getting assigned to specialty training category",
+        "hash": "c5cb37541a790131852bf5bfe19e35707a5a99e3e44cea01bc0ae19cb1b89f56"
+    },
+    "20": {
+        "text": "Increases upper limit of speed at the start of the training",
+        "hash": "a76100b415bac83dcdb96b11f4ce3caba8c44f8a4102d34ebe9a604d569bbd10"
+    },
+    "21": {
+        "text": "Increases upper limit of stamina at the start of the training",
+        "hash": "bfb43252c1960962217698d227109d5d0b2d9fb814b3f46c9d141b04ebba5ed8"
+    },
+    "22": {
+        "text": "Increases upper limit of power at the start of the training",
+        "hash": "70270f58d74fd8b1eccd50faf3650e46dae1d8d38f80642b8969f79d979fa5ee"
+    },
+    "23": {
+        "text": "Increases upper limit of guts at the start of the training",
+        "hash": "c6714b693e0637080ed8075330261d16f30d12d7f098627bbcd9b9719896f280"
+    },
+    "24": {
+        "text": "Increases upper limit of wisdom at the start of the training",
+        "hash": "6ed91f61330d9e1dfd626a53397304c2deee095aeabbf2c338b56c15b32632e1"
+    },
+    "25": {
+        "text": "Increases energy recovered from this card's events",
+        "hash": "043a074e5aa7b66673f02ee07c934cf2d20e5db00e98d7d42b979ee6a0fd22fa"
+    },
+    "26": {
+        "text": "Increases effects from this card's events",
+        "hash": "bc57624d08ca02d3d7162e2e307fc76cadc77f86a151e6c1f8c0ac880e700142"
+    },
+    "27": {
+        "text": "Decreases failure rate when training together",
+        "hash": "6ef05ddf518fc3b77cbb5729629404f439a281cdbda912c0bb1d8d5710c1107d"
+    },
+    "28": {
+        "text": "Decreases energy consumption when training together",
+        "hash": "b72d29b9e8e09cd7f72dc564554cc395d450c432e910fd73909fecb4d497d1cc"
+    },
+    "29": {
+        "text": "Increases the effects of mini games",
+        "hash": "37643c63a031452934e9d1d1b1d2cf8a7958e44010211fe9b8c20167e12c4326"
+    },
+    "30": {
+        "text": "Increases skill point gain when training together",
+        "hash": "8a3e6d0ea4cf10a701c168c81536e691b49e70083652d1d1b2183b205f5f3d4a"
+    },
+    "31": {
+        "text": "Increases energy recovery (friendship training only)",
+        "hash": "eda9c780a0df462df24b888661bfcc2750a086405311821a5059f65628bb1c0d"
+    }
+}

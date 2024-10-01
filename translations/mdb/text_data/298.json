@@ -1,4 +1,8 @@
 {
+    "1": {
+        "text": "{0} Training Gains",
+        "hash": "0876e1b4ff819ab7677d1877c34f20946b3c60326f69d0df448881af92bc981e"
+    },
     "2": {
         "text": "Increased Training",
         "hash": "4068fe3a830d1ea3f40e9e88276af20a0f59411c84bfab71448fdea27c772cb7"
@@ -6,5 +10,33 @@
     "3": {
         "text": "Hint Rate Up",
         "hash": "e9ae182928301e6984e76daec1067505aee73fe3512c1cfe083ece7f4d8f3e89"
+    },
+    "4": {
+        "text": "Post-Training Hint Rate Up",
+        "hash": "18a9f31a899f6348bd9564a38fb50d8791c7088f805601da06039f5c277023cf"
+    },
+    "7": {
+        "text": "Energy Usage Reduction",
+        "hash": "7086bcad78402d96e99aff75121fa8c1378826b4f8725ea34defb523b7c44b57"
+    },
+    "8": {
+        "text": "Support Event Stat Gains",
+        "hash": "43c02af1ab0730747003a0692ebd33776c9715b2933a53ad9862c2592acf1965"
+    },
+    "9": {
+        "text": "Support Chain Event Rate",
+        "hash": "d0b20c8da79ae0fbdffdfe3ddca23806644d54a3640bb08105e6fd87b1dd8239"
+    },
+    "10": {
+        "text": "Improved Hint Events",
+        "hash": "5df30b02e353153666c26330ccc898c91cf7f344fd0bd49e4c2d34082f7c600d"
+    },
+    "11": {
+        "text": "Facility-wide Friendship Training",
+        "hash": "791caf9fbdf8e9b022e319d9f8116fa04803a7e638b36d66d8034b65ccc81429"
+    },
+    "12": {
+        "text": "Facility-wide Training Bonus",
+        "hash": "c72c5cdc34e46caab72da434d268351bf9d5e3d4e7aa6500142f79489c656c22"
     }
 }

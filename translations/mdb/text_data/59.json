@@ -1,4 +1,3512 @@
 {
+    "8000": {
+        "text": "Jewel Nephrite",
+        "hash": "b4074232702db9b2ddefc94abaf6d6e25fcd321867a71a0e5be8b77120b2e518"
+    },
+    "8001": {
+        "text": "Bridge Comb",
+        "hash": "0db06f74474a5166adaf9628222947b1a8192d0aa4c05a760ef27de0c37d44b6"
+    },
+    "8002": {
+        "text": "Mini Peyronie",
+        "hash": "99c877ecf0586d7de1cb447ee31125b50db68afd650839eb1a6b479bf71de92f"
+    },
+    "8003": {
+        "text": "Freistadt",
+        "hash": "65b66568c16bc807974176d7bb4e7485e4eaf447d40a87010257412ee3e6e9d7"
+    },
+    "8004": {
+        "text": "Excellency",
+        "hash": "1755bbec855b446ecae9e2120d0cd57c6f9154bdf621a3bfc26c5472963278da"
+    },
+    "8005": {
+        "text": "Aquafall",
+        "hash": "d204a902a598a8a2214b2bdde030eec811878b0c18febce618756ca78a8aeff3"
+    },
+    "8006": {
+        "text": "Viper Pierce",
+        "hash": "5b26000e57f8bfd92dc0dbf68e87e0e11c05b3516bf99796089cebd0186bbc3e"
+    },
+    "8007": {
+        "text": "Dearest Gift",
+        "hash": "3e6209592fbaf82b8ca083682799bed18ffa269699e28016eb3a5718c3b03e90"
+    },
+    "8008": {
+        "text": "Mini Lily",
+        "hash": "17e8b45a1f791809656c2124c7eb36e0761e13c3dbe52498c44da95444e17866"
+    },
+    "8009": {
+        "text": "Coincidence",
+        "hash": "2d737bfc267b7f33e219eebbea44e1cb5b5275ba2d8f2f5e9dec2bd1329b392f"
+    },
+    "8010": {
+        "text": "Breeze Shuttle",
+        "hash": "6e0011dcceb991f45e9ed02a3c261aa8ee6378765aaeafa415cc4accb518818a"
+    },
+    "8011": {
+        "text": "Choco Choco",
+        "hash": "31feb56696e61dfe33446810bcc54bda5f64fe28c0f9866606d56a9d5dd51a17"
+    },
+    "8012": {
+        "text": "Atheme",
+        "hash": "6c0e60317204fae110e07be1b731af4c9f7422563f972bc64f86384b7f48a0e6"
+    },
+    "8013": {
+        "text": "Sowa Sowa",
+        "hash": "e38d44fd35ddd02b5399a842fda2c128841f0d0812286738c6fd56630abdd202"
+    },
+    "8014": {
+        "text": "Mini Orchid",
+        "hash": "c396c9afc22e051e2e08ecb43114e0de96a11b187893e940c4125fcc90bc8911"
+    },
+    "8015": {
+        "text": "Ribbon Fugue",
+        "hash": "870d22f71be0530aef5ae3d5f0cf6bb90f0bd6300f8e9af2ede774ffc0d9ce81"
+    },
+    "8016": {
+        "text": "Sax Rhythm",
+        "hash": "35fc0d309b0f1913de8ccb4c4c59a8cd8f78194bea3d2bd2a05c13fbede03945"
+    },
+    "8017": {
+        "text": "Reed Magazine",
+        "hash": "3d6e37db4c8e5b78d3ac52b6de2633b8e9d004ed86563878bcfb57942baf8707"
+    },
+    "8018": {
+        "text": "Dominant Power",
+        "hash": "f794ce004ff3a561ddff78d82199f3630698fdf4d40f2012a25670c3759e08f2"
+    },
+    "8019": {
+        "text": "Brown Montblanc",
+        "hash": "f42fed44b3894c2a03c000bedbb4ef97d5e3233f734a743462cb78873fde3362"
+    },
+    "8020": {
+        "text": "Vital Dynamo",
+        "hash": "7b5d62fd58304d0a69276919306fa0c32020818ff16568feac770c79b5151afa"
+    },
+    "8021": {
+        "text": "Chanson Jeanne",
+        "hash": "39ca898252459e528907d5d5254d875dddba3af32baf5b207461ccd7831ffbef"
+    },
+    "8022": {
+        "text": "Mini Rose",
+        "hash": "7f641135ac5e1488f3b9ba55e6970dac4759567ca620da2af7e778f0cf2266e8"
+    },
+    "8023": {
+        "text": "Avec Dream",
+        "hash": "9ff0c7748309d62ec056c4e27595cba8f735fb7c44b2ea4e1783e120248e0897"
+    },
+    "8024": {
+        "text": "Saou Novel",
+        "hash": "6363f7d62e311df33eab3619c1a3a4f81e6c918d29baad28a1d7d055be030ec3"
+    },
+    "8025": {
+        "text": "Kaikou Ichiban",
+        "hash": "3cac8059c166e032d901ae6f70e98dcfe2078957b2a67d0294ce624d5a15daa3"
+    },
+    "8026": {
+        "text": "Jumbo Geniesen",
+        "hash": "60833c92ea4c7274577dbcf6f36f2f72eb566e0a21571a84e480e298b29ded5c"
+    },
+    "8027": {
+        "text": "Agile Talent",
+        "hash": "d83b8eeec954fe36f23c7494bec0b595e5bb45ad4412c9d7232b0054a170b1a3"
+    },
+    "8028": {
+        "text": "Power Charger",
+        "hash": "8509981b1dbbe3e027c2d22ad458afe8fd2920857800eaa017eec2b09bdfa9dd"
+    },
+    "8029": {
+        "text": "Sarasate Opera",
+        "hash": "fef04536fc471d2f75634efddaa7e7e180613ddaf511639027bdda4ebe5e00b8"
+    },
+    "8030": {
+        "text": "Algol",
+        "hash": "1a4f4a830ea1c4169c0aa829dc699123f686debdc80594d32bcb3386f9f94330"
+    },
+    "8031": {
+        "text": "Ribbon Nocturne",
+        "hash": "c60bec03e452aabbe12fb4e6294b343a89df9c5aeb59143c4d4615031f86b3ec"
+    },
+    "8032": {
+        "text": "Harp Rhythm",
+        "hash": "2b31b988050c5469aeed50676bfc4a8cd0c36081d35bf762c229ced6b79a6b4e"
+    },
+    "8033": {
+        "text": "Springwell",
+        "hash": "7c68d93bf39348bb3683691eb329422aecd86826c2ea9b28592b0f64902a0b3a"
+    },
+    "8034": {
+        "text": "Clarinet Rhythm",
+        "hash": "75f3d9ccc73687dba376350e4b2d7e3f1443da86d3f4ecfbfeeada17c71db798"
+    },
+    "8035": {
+        "text": "Duo Perte",
+        "hash": "c394f13cc4a3a3fa6b6629871f88e17928fac43fda276ad67f09715dd87d79c4"
+    },
+    "8036": {
+        "text": "Hush Hush",
+        "hash": "f064a8c3fa7a4ede81a92547ea12abfae37fe39ac3de3f42d20f021ad1ec7217"
+    },
+    "8037": {
+        "text": "Properizer",
+        "hash": "9880e028f4a2ec7f77fa742f75386dc93be4508c338e4661f84effe55c1a2858"
+    },
+    "8038": {
+        "text": "Basic Chute",
+        "hash": "565eaedb79d2164f93dbb38efbc89b42cf37faf72f42faf2129f38cf456fde79"
+    },
+    "8039": {
+        "text": "Jewel Crystal",
+        "hash": "ec0ef8cd1faa6d72e2577541fa6949ac4f9095a1735add1fc55349635d001771"
+    },
+    "8040": {
+        "text": "Beyond Rebrimi",
+        "hash": "25bb1c8ba2d22a3a22a9b2266f5a5942c35ef9a86c735496e7902528255534f9"
+    },
+    "8041": {
+        "text": "Book of Sugar",
+        "hash": "9c037510c0b65727ea0f40ca47d4eb44c8be94fc70f094303a9c87ae2de6a321"
+    },
+    "8042": {
+        "text": "Frilled Mandarin",
+        "hash": "3b1d13d874fae5b9d9459b6b9ff4dfd255bad7578083a41157b172a78d8cfcab"
+    },
+    "8043": {
+        "text": "Bravados",
+        "hash": "0d5a53ba75956b3de68ac96e21c1159162b2396e1fa8ca6740692f13374b9ceb"
+    },
+    "8044": {
+        "text": "Missionary",
+        "hash": "9a458b709603e98d182c67530cd6eb91cd84802099e4868c1f2be4101f3c0b3d"
+    },
+    "8045": {
+        "text": "Duo Clypeus",
+        "hash": "7b4f6c6735e7b0dedc0f9344f5d593ac1765d51670d210a22c47ee91c4cbd430"
+    },
+    "8046": {
+        "text": "Aquafjord",
+        "hash": "1a919f3d673485ecfae6b1409d13c7027a81493adb30db018e1e500f03239d0b"
+    },
+    "8047": {
+        "text": "Ice Hopper",
+        "hash": "feb94a007b41b734a1bf0f294493beaf05b7e0bc7e910a17bc7e18cd1f15632b"
+    },
+    "8048": {
+        "text": "Coffee Parfait",
+        "hash": "b8882f5c292853ac06ae8f8dd4f4ae3f0e1cf1d9751cc96829d1108db34b213b"
+    },
+    "8049": {
+        "text": "Bravoire",
+        "hash": "f2daf52e3d7b19b8d529d4170b1ebf7f6c8b8e2e536c959744e62c005c6a7dee"
+    },
+    "8050": {
+        "text": "Cura Cura",
+        "hash": "b1a73f2e1e206b018ae4c6ce92e7ab3721c83a78b3c3478b9b051bffe8ef2bdf"
+    },
+    "8051": {
+        "text": "Reflector",
+        "hash": "8e40f7ab159ac1a9d1d3af7c3679db0e7c587211ea2d495bba4d8bfb320fc175"
+    },
+    "8052": {
+        "text": "Bella Plateria",
+        "hash": "938956aacbf2b7a3084666ce10363572bbb39fbd58542d4c68ff34da670fd79e"
+    },
+    "8053": {
+        "text": "Hard Lacquer",
+        "hash": "967f6626f5f5288d640dabfcf1b99b26629ea56cb101e609794870b8ec2df585"
+    },
+    "8054": {
+        "text": "Electrified",
+        "hash": "93ed0c4ad97563fbb89c6c23022651c6716b61bc929b5eee3ec9bdda170ba630"
+    },
+    "8055": {
+        "text": "Lady Adamant",
+        "hash": "5e7721864ddc75c0a7c6f03a43de851f580a036c7e89f1adb795e21be9abb3d2"
+    },
+    "8056": {
+        "text": "Spooky Knight",
+        "hash": "73a1237f25402615efa037665f1f80258a1e4934b0a8247f8f8e111bec1038be"
+    },
+    "8057": {
+        "text": "Tupsimati",
+        "hash": "af056a8eb5682b519c5c05e06b9fa403ea6e5d5e04b01dd271ca2cc41c1ba621"
+    },
+    "8058": {
+        "text": "Uptree",
+        "hash": "9e1e5921566a1f93ce00baa47ae96e2a6238cec3c7ae1631e6d3c8743b6673d3"
+    },
+    "8059": {
+        "text": "Karungwennan",
+        "hash": "522dd7f617836f4a287c6cd7845e62904550f3bd48694dcfdcfc2dbbaa4db364"
+    },
+    "8060": {
+        "text": "Maroon Sky",
+        "hash": "6711616d58292b741b938b8eb3ad34197878035a6ac943fc963ee36c6f2d3ea3"
+    },
+    "8061": {
+        "text": "Viola Rhythm",
+        "hash": "5585eff337c77737745883884e9f0b832b89dc357a8473b37ec884009e3b2936"
+    },
+    "8062": {
+        "text": "Ribbon Madrigal",
+        "hash": "195255f747231a2c683be450fe362af5d9fba64cc563743a0584b343ca76f2d6"
+    },
+    "8063": {
+        "text": "Reed Fantasy",
+        "hash": "87d627646c454f143866d29d1c92eb99f2685ed28fdd058270bc413432defc3d"
+    },
+    "8064": {
+        "text": "Harmonia Grace",
+        "hash": "7c5c3d4f790756c97447c74e3315d589ea17cfaf317ae67e4b693f6bb68cf1b4"
+    },
+    "8065": {
+        "text": "Maiden Charm",
+        "hash": "df3830365e53f0365513df2313d37614b56941f615c42dedabd6287390866ff6"
+    },
+    "8066": {
+        "text": "Kustawi",
+        "hash": "5db57a5ab5f08f782cd22f717fb520433a9e047b7caf4f34cabcdb0d35fa7636"
+    },
+    "8067": {
+        "text": "More Than Anything",
+        "hash": "30dc3119a0cfa9be1b2355be6843a1a4aa98ddccb76648cadc655dd859c00ad5"
+    },
+    "8068": {
+        "text": "Beauty Again",
+        "hash": "3cfffb7d1e86335009bfae9cf197da8c41995e799bc7a8860451d8ee1f551105"
+    },
+    "8069": {
+        "text": "Reckless Shot",
+        "hash": "32bda48fcfbfe2e9e349491b2dc8f68d36a5814a68662f9b3150f5045decf0b7"
+    },
+    "8070": {
+        "text": "Septagon Summoner",
+        "hash": "5b63db4230fae666d9af8b74d4d1770222b022d3fcbcf81e1f95980f405c217d"
+    },
+    "8071": {
+        "text": "Encore One More",
+        "hash": "cf6daaa2c63a448b47a8effb26c49377668fb6b3195dae69f67fe223ac6d07b1"
+    },
+    "8072": {
+        "text": "Polka Step",
+        "hash": "f12ea83645a3950f2f8aa26569d53662862a5ff11b324cc203a3ab9a58f79b58"
+    },
+    "8073": {
+        "text": "Shadow Stalker",
+        "hash": "a72dc44596e7ce93ae610264891f25538aa5c45ed9406c0ee11570abd373f7a4"
+    },
+    "8074": {
+        "text": "Dispatcher",
+        "hash": "72c7576433343966df06e44d8324448addd9e45cee0900a6350b0cc127c5762c"
+    },
+    "8075": {
+        "text": "Vortex Twist",
+        "hash": "7f109c852ba7b7fdaaf519e1a06e140c696c2e44d905608c2682a1e22a32dc00"
+    },
+    "8076": {
+        "text": "Gleam Atrium",
+        "hash": "e0158839c7fb579892ece7c95812ed5a7a0c8d4d3dbe01d052bdd01689eb2505"
+    },
+    "8077": {
+        "text": "Special Parfait",
+        "hash": "72eae68bb26a2b5df5c587d9f0ee1a75231b78696c40c24877616f0e7bf54a14"
+    },
+    "8078": {
+        "text": "Faster than Ray",
+        "hash": "c650784f2d4db394e42fcc585bbf70e169ed9dd07c26f6a6ea0caa4ad66994d6"
+    },
+    "8079": {
+        "text": "Royal Marine",
+        "hash": "f78fd00d92074373c0426b4c845b7405293f58bf6f3fd4b2eb3d3c287608a449"
+    },
+    "8080": {
+        "text": "Hexa Canyon",
+        "hash": "f7a5b730eeca7b9857eb3981ad7be682f9a9ff55f5d2da669a5ec7763540e1a9"
+    },
+    "8081": {
+        "text": "Berry Master",
+        "hash": "b151021767e48ebf09ea2dbe65d72db54a309f4c8824d12c04ce2846105d8f51"
+    },
+    "8082": {
+        "text": "Fleur de Shuman",
+        "hash": "dc9de163a3c7b6fa5b3e53177a0d62a0ba43710fdb0a863b27c0520a434976f9"
+    },
+    "8083": {
+        "text": "Tombolo",
+        "hash": "2239980808ef0b117fb0460ee58414d4f20d9dc1f3afbaa6de4b23f928a0ba54"
+    },
+    "8084": {
+        "text": "Biweralism",
+        "hash": "3c7096244c39f7b1490070d25b46b7fbd2ee2860a09b71accdf9bdc4903730f3"
+    },
+    "8085": {
+        "text": "Ravian Rose",
+        "hash": "30000c4d655bc7521a101cadb4bb0922e21bcc956558039370c409cd207c404d"
+    },
+    "8086": {
+        "text": "Great House",
+        "hash": "de49754285bd4c9951dae7772a89b8bb502f2bd065e862183073c8e3be36aea0"
+    },
+    "8087": {
+        "text": "Walkie Talkie",
+        "hash": "6ff3001d6a111716c9ab14fdc6e91a5e00c2bc94b494db9f82395156722aeaf6"
+    },
+    "8088": {
+        "text": "Starry Pride",
+        "hash": "962524cf78ecdb44450c6afe9e372de76aa1a1c64875a14e3a77e1f40e557e55"
+    },
+    "8089": {
+        "text": "Mini Cosmos",
+        "hash": "15caafe6ed0748e18e02cfaa939ad329f004f2318367275a2e7ef9b223abcafe"
+    },
+    "8090": {
+        "text": "Saga Goes On",
+        "hash": "97c4254c6f07a2de957109015f2efb0073bc9b00a26cdb9990c6a05de04c0be4"
+    },
+    "8091": {
+        "text": "Spool Mover",
+        "hash": "40ab757463df8a75cec2c72407c83f9078ce8ac9637b1f103c116ae2237d09dd"
+    },
+    "8092": {
+        "text": "Follow The Sun",
+        "hash": "09231ed3e4ee6b0e558efb6a125712e688b46e14a113e5896b30fccb09e4ca0e"
+    },
+    "8093": {
+        "text": "Wistcraft",
+        "hash": "cabaae2ece87cd71f6fa40823fad31819e78e21193b9782db44bcff8b020821e"
+    },
+    "8094": {
+        "text": "Ribbon Operetta",
+        "hash": "e9c480f5a3fbeb059cb65bdc7ed5e8575373229dec474dfd39e92851e56327e0"
+    },
+    "8095": {
+        "text": "Aqua Ocean",
+        "hash": "ac48d4ad9696ebf4f0481bb8a3a473ecf239fc00f744f586ee9c32d5586c1961"
+    },
+    "8096": {
+        "text": "Tutor Support",
+        "hash": "90ed3712dac5e8be1ffe4d6f67da580670e662b54702bc2681b265a87dc39cf2"
+    },
+    "8097": {
+        "text": "Speechless Hack",
+        "hash": "05147e3073bc6041fc238d50a675074a2736845b12ca4f674cd0489a7822ddef"
+    },
+    "8098": {
+        "text": "Work Faithful",
+        "hash": "0268128a0802e721988082087fcf638a2465ddf250b879895729ed7bcff7bdc6"
+    },
+    "8099": {
+        "text": "Overdrain",
+        "hash": "90a6121b1cc69c9ccb1804196b17707cc7f3223ef00ed9242a53425d9b838292"
+    },
+    "8100": {
+        "text": "Excite Stuff",
+        "hash": "9cee6f2f9521e33217c6822c2a722dce9d4dc3badb9eac04980d06ed147f630f"
+    },
+    "8101": {
+        "text": "Mini Ballthumb",
+        "hash": "2a27f5ba201f843263d76588f3341e61529472f5371b21356b10c109dda90a0b"
+    },
+    "8102": {
+        "text": "Tsoukaa",
+        "hash": "7d1d7caf8d73edab9d2063606dbe78674fc4997a9282626b4576802f0a0b4089"
+    },
+    "8103": {
+        "text": "Shout My Name",
+        "hash": "44e90c2fbfc941cf2abcfa4555a4d752baf40ef66a89b9e5fa12e02f1b98db99"
+    },
+    "8104": {
+        "text": "Local Stream",
+        "hash": "8c76199819e2a410d3d49e940da562e0a0ccea70eaa240c6556782844c12b4de"
+    },
+    "8105": {
+        "text": "Hot Dynamite",
+        "hash": "ea7419f307d8bba9f8bf3f4851056c083deba120cfc9753b072a51b2eee87c21"
+    },
+    "8106": {
+        "text": "Royal Servant",
+        "hash": "75a465f0faf3e22b6701a04296c0caeca89372299d03d1fbb14534ebc582297b"
+    },
+    "8107": {
+        "text": "Duo Siparo",
+        "hash": "478eac83b28957411fd84c3764aba26f7100d98b7f639699960ba23eef69a9fa"
+    },
+    "8108": {
+        "text": "Polite Salute",
+        "hash": "719697e0751b880cf2754f1ff3570d4b519c59d1fafcdd81a249960a3d8589da"
+    },
+    "8109": {
+        "text": "Tide And Flow",
+        "hash": "972b53b5e3db684791f88b04160fc3b3665f58d37f0165d355cef5fa80c88a37"
+    },
+    "8110": {
+        "text": "Jewel Topaz",
+        "hash": "8dc1f725c73c1fa592e9402ac9cbd7a4fadbffc4600648bdbec5ed8c77b1fd03"
+    },
+    "8111": {
+        "text": "Heartly Letter",
+        "hash": "f48113b44dbb8f4692f560579dea0b8cfb0b865899426c68a2a09d5958363091"
+    },
+    "8112": {
+        "text": "Jewel Spinel",
+        "hash": "daa9d669038c62159454d26bcdb707d4afbb38f57a92d31ba67d3890ddf6c23e"
+    },
+    "8113": {
+        "text": "Tocotoco",
+        "hash": "1424a715592f626668f47d86ba15d24bf3ce129a941afe1a2fcfe050b45c7914"
+    },
+    "8114": {
+        "text": "Sweet Parfait",
+        "hash": "df63c4ebc5d9f901807ac7e7e2628bd316cb522218e276adb8e96c8f33fbf039"
+    },
+    "8115": {
+        "text": "Royal Coronet",
+        "hash": "c9d9a194604523a832d86cab3e4e73e0bce40d6706900471cfb636e83316b278"
+    },
+    "8116": {
+        "text": "Against Gale",
+        "hash": "3784d51eed1879f60d45869473f9bd2059cf2f5d17016061abe9bc0aace7792b"
+    },
+    "8117": {
+        "text": "Onthologist",
+        "hash": "478e7c013f46c2565e2882c5d665f34cf423c471c0502276c0ed55ec6b7eaa6b"
+    },
+    "8118": {
+        "text": "Aqua Lagoon",
+        "hash": "38fc12200a8cbbf03af33f0a09a574b02bf46da69da141051858ac17d79a6300"
+    },
+    "8119": {
+        "text": "Confusion",
+        "hash": "e386870add487f875ed0d278e88801d0b71b59e983898fc9b5ef9961bdfe8436"
+    },
+    "8120": {
+        "text": "At One Mile",
+        "hash": "e14a61a65b0a6053fa98382a5d14ff36966420c543ea19b5de1616d3afacfb23"
+    },
+    "8121": {
+        "text": "Ribbon Lullaby",
+        "hash": "3f3193782740e4c26c16f8885e1a6cc82f9aa9b43fdc10c1a83f94bde72bdd86"
+    },
+    "8122": {
+        "text": "Lead Photobook",
+        "hash": "a48fb25cd95cfd974b9fea775b509cce9800091ffd88210f0caf8a9daba14f96"
+    },
+    "8123": {
+        "text": "Briten Prime",
+        "hash": "6a2228c5be313f73844a3714ed89185e2318d38db62dd237aad7bfda72df9efc"
+    },
+    "8124": {
+        "text": "Coruscanti",
+        "hash": "5a3285ebb76e5850035730ea669632544baf842f8aa5dea13267846b45dd490b"
+    },
+    "8125": {
+        "text": "Tender Step",
+        "hash": "0beb2518b6d44ddc44b8bb7210a391c8494fade637e3d1b665a2f255f159b56c"
+    },
+    "8126": {
+        "text": "Mucha Lady",
+        "hash": "eac87953aa43b7b6265564c2300942d15e735e9f6b9bd1c1d7b998fdb3b19993"
+    },
+    "8127": {
+        "text": "Ribbon Capriccio",
+        "hash": "060f722d16cc85916309192d07771e59979c468f79dc2bf804ecbc29d21dab56"
+    },
+    "8128": {
+        "text": "Duo Suvel",
+        "hash": "8639371d0ac8fe72af9f9d06f189d03d0a79a528e27a8bb4067fde602d6d4b4c"
+    },
+    "8129": {
+        "text": "Torch And Book",
+        "hash": "7c537d2fac504d8c3e436a15d41dcb73a407530384c71b67f1e96dea43640be4"
+    },
+    "8130": {
+        "text": "Foshoes",
+        "hash": "5146fc3b11a21d8034a1a70f45668dc8ca7b3012f4f0fd6b67d362db97159800"
+    },
+    "8131": {
+        "text": "Jewel Azurite",
+        "hash": "52a84764b1e24100f4d32bf85b8fad03690df1dd8a60db3cd8205112bed97eb6"
+    },
+    "8132": {
+        "text": "Ribbon Minnet",
+        "hash": "21bd7f2af0685fc2147605fddfc534bcf4aaa775c92cede302f38f55c77cb9ab"
+    },
+    "8133": {
+        "text": "Dorje",
+        "hash": "c71403bf30325328e247ea55212bd4319179b30a2d50c48abb52510abf8b315c"
+    },
+    "8134": {
+        "text": "Ribbon Elegy",
+        "hash": "e96b7e20b660b7cd43c874707d9120ff91d30bb7aca72b608a357ac553d82178"
+    },
+    "8135": {
+        "text": "Navigate Light",
+        "hash": "28d2328989118a98bdd6293d6afba185bdbeb7e2cd674f13437d15a66fccc5e9"
+    },
+    "8136": {
+        "text": "Kleine Kiste",
+        "hash": "5c29e76e10377c570578437cd4b116f0e179cfcc080acca49bffc777f4fb8a93"
+    },
+    "8137": {
+        "text": "Swift Axel",
+        "hash": "b0e6104f39eb3882340479b8a48ff214e25b87fdc9d547dbc271261b8615bcf4"
+    },
+    "8138": {
+        "text": "Dropping Link",
+        "hash": "8ec366172c66f79b1850e2c386ee16051b620d6485289250c26041b9c808050b"
+    },
+    "8139": {
+        "text": "Lead Critique",
+        "hash": "a465eb6d3ef3c7ef655b2c453bd7442334b5f0e01352e3b3a49e22d1040e2609"
+    },
+    "8140": {
+        "text": "Toujours",
+        "hash": "9f4cc1a48b1af4f949c74e17ba87bc832aba10f5234207b84a2551800fb0e2d0"
+    },
+    "8141": {
+        "text": "Frilled Peach",
+        "hash": "0188d23721b2d0a723def871c56d91ab370e7b5ca92667f42e5dfa5b3f7c67e7"
+    },
+    "8142": {
+        "text": "Ballet Step",
+        "hash": "7f2267f820cad916f4ce8e7d6d29428ec7ba8eb65ccafa24a0c77232a386a588"
+    },
+    "8143": {
+        "text": "Celebrity Actress",
+        "hash": "79416979ea4dc6726d8aeaa07696df946bf19483f08fd94c008d8bc659daa97c"
+    },
+    "8144": {
+        "text": "Six Pack",
+        "hash": "5064e77223396e138bdc37b2b7a25cba36397441538fbc8bb71d3e31091aa10b"
+    },
+    "8145": {
+        "text": "Rose Bouquet Toss",
+        "hash": "0c14f4071226a9f02c7a6cd4ad4293a97b482797aa7bda53936fa53125a76b45"
+    },
+    "8146": {
+        "text": "Honest Words",
+        "hash": "427a8273ad4e05d758e9075dce26d85616ae606436c39407a212bdc2f9becd15"
+    },
+    "8147": {
+        "text": "Econo Animal",
+        "hash": "2a0107c5f84932cb09a34671018cbea6fa029715b0af05bac035551eafe90da7"
+    },
+    "8148": {
+        "text": "Ucardi",
+        "hash": "ee1c348f2469ba5cab3961e6dafb9960160ca61507cba3b1fb0fa4bca383c005"
+    },
+    "8149": {
+        "text": "Place In Heaven",
+        "hash": "5207f7d2c010ae890b6183447ebf3dcb4252752dec9e91d84afa441c494f1d10"
+    },
+    "8150": {
+        "text": "Primal Dawn",
+        "hash": "20d12f8ee814fcac5d38dcca47405153e8ae21b664d835f3c599671dd5b194d4"
+    },
+    "8151": {
+        "text": "Shofarism",
+        "hash": "28b4b840b8a8c19e6d06dc2f8b16b4c6b32ddd6c89aeab8efb69aa4db7edb717"
+    },
+    "8152": {
+        "text": "High Time Soon",
+        "hash": "561f656307dbe5871c7751440ad98baa09a0f95c15e94c5894bbe1e489a0194d"
+    },
+    "8153": {
+        "text": "Finest Day",
+        "hash": "0eec50e4c8e88ec2341dcb9c4c7f3f2005a0287d42b49da1242d4353bcb5273b"
+    },
+    "8154": {
+        "text": "Terpander",
+        "hash": "9e42e2894512d3e0bcc8f4151e3996d39f03d065ec468975dba556f7fd0b0e79"
+    },
+    "8155": {
+        "text": "Quarter Accord",
+        "hash": "46bb0c7ae5dd30901385c36b30ba9e71e5fa58f20b0815b8d3d138686699eae9"
+    },
+    "8156": {
+        "text": "Choke Point",
+        "hash": "d9de5bad91696005dddd1a333e4da2e7186ee41e158e64ad9f7141de620c5e25"
+    },
+    "8157": {
+        "text": "Piccola Variant",
+        "hash": "351ce65ff0736263e1a9694a4c770e93cb45a953c11e4b92d649b3e1caca254d"
+    },
+    "8158": {
+        "text": "Holiday Hike",
+        "hash": "979f0c19145b32f58c139ff069646ae366f512930bbd8ef0ecbc9178ce15ad82"
+    },
+    "8159": {
+        "text": "Seventh Queen",
+        "hash": "e9779ad947db68bc7b687f931e1b2aa355639940c447d12df3e27c6c1c4cc15d"
+    },
+    "8160": {
+        "text": "Poisonous",
+        "hash": "c8a985f3ac6c8a38d3e68b7d914b07d71c13d6fb501caea85a207c7c81f5264a"
+    },
+    "8161": {
+        "text": "Polyhymnia",
+        "hash": "21020ed7aa97ed6e191792b02ce24c2f9458318cd407ce2529201aa7e63025d0"
+    },
+    "8162": {
+        "text": "Set Your Record",
+        "hash": "5a462417bf9998af5d74ad1af819de1ca4030b1e25d86dd37d4fe5daeef46307"
+    },
+    "8163": {
+        "text": "Ribbon Finale",
+        "hash": "dcb612e47d72fa3061b69a94d994bc61e007ab76f6d7410ed2e264d78c5fa6e6"
+    },
+    "8164": {
+        "text": "Basileon Touch",
+        "hash": "427ab98a6cd98a10029f55ad61214b8fe29bae2dfc51af26e825a8b37f4e4892"
+    },
+    "8165": {
+        "text": "Ribbon Humming",
+        "hash": "d66eaf4676f4378ceb87722fea87bfb7994ed21ba466b88cb078a13d93b03ed4"
+    },
+    "8166": {
+        "text": "Ribbon Mambo",
+        "hash": "f3802270f9975bc1266f67e0b5132819b9b126b829c2000c18016e80f263569a"
+    },
+    "8167": {
+        "text": "Lead Poetry",
+        "hash": "31b6d3f94d1850072ac88571c83eac2146e26692a0645eb7d798cb89e0145c4a"
+    },
+    "8168": {
+        "text": "Saccoche",
+        "hash": "92f3190c83224b180933167cbb98917986056400966f94ae4f7fa482d5712628"
+    },
+    "8169": {
+        "text": "Apple Cider",
+        "hash": "8d8edbef805a474d9b480355b4c7ce63db3802a4deee27837f5ad4ba1b8e9f0b"
+    },
+    "8170": {
+        "text": "Westside",
+        "hash": "0cf3a1b0a8854dee28630f55c4619e9314c08bc9a1253a13f72cfe87f0893322"
+    },
+    "8171": {
+        "text": "Caramel Parfait",
+        "hash": "e5e6d973bc49e44a8464edd3f68467fe2c4ef0d56a89fd8e2835bd879c405263"
+    },
+    "8172": {
+        "text": "Yttsuba Clover",
+        "hash": "3104a5ae740efa9c71084388b4a43209f11c080b52f7ea03aba5ffa1cbd1dedb"
+    },
+    "8173": {
+        "text": "Black Grimoire",
+        "hash": "92ea38b4f5358d5c08847ceb884b5aef8afbbe27437809889d141152a42969c6"
+    },
+    "8174": {
+        "text": "Avilda",
+        "hash": "b4bf8e034746fa479b2ce7060567bed4157751347258a9416e6f4602d4e50899"
+    },
+    "8175": {
+        "text": "Landsknecht",
+        "hash": "43bf0125876ddd1abcea2b177c3aa673ec8d106e8f6e17ecce32c4b9424e54c1"
+    },
+    "8176": {
+        "text": "Contest Rival",
+        "hash": "3cfa9527b38000caa280859d1a45b9e34e99f3e2758dd7075a9eec7532b2be38"
+    },
+    "8177": {
+        "text": "Wagahadou",
+        "hash": "e45afad61b29caf60b2f85265c4c491eeb257a817b32c7f08dae9aefa56c577c"
+    },
+    "8178": {
+        "text": "Bow And Shield",
+        "hash": "78ae322e2d381408403fcc51b754284525676fb95be412ee494ef92958c9e882"
+    },
+    "8179": {
+        "text": "Sunset Groom",
+        "hash": "d6674a60b6fef64df09758cba85208ff0670d7f32896148ec9d679493ddad328"
+    },
+    "8180": {
+        "text": "Duo Buckler",
+        "hash": "38943aed9f43b8458b024993b68d5aa1e2f3c45beea70f25237f7ffb70d86a16"
+    },
+    "8181": {
+        "text": "Sidecar",
+        "hash": "fc52bb8897af4264f313075f1124e663a4fbfe86abdf3150928ee74aba8e16fd"
+    },
+    "8182": {
+        "text": "Salsa Step",
+        "hash": "b568d0a8ae14e7ffcb515d8b307e202a0c52148b93d29940f687de1453bbc30c"
+    },
+    "8183": {
+        "text": "Sharanga",
+        "hash": "a4958d3a7f7b0f9541e99be05939024f8284848083ec30c03f13671c10866253"
+    },
+    "8184": {
+        "text": "Biproduction",
+        "hash": "c6c1798cee3d9757f8e732b4b6e3c1f60190484266b50d1b2afa51ba0a095e2a"
+    },
+    "8185": {
+        "text": "Little Trattoria",
+        "hash": "d4b8453330594bb9da40ce25b49ecf73feb466a632ac12d01b2775033a1d530b"
+    },
+    "8186": {
+        "text": "Jewel Peridot",
+        "hash": "9df333740daaa7c8783bb58823d88e9bf87d591d8b64a9c47bb8300095018aaf"
+    },
+    "8187": {
+        "text": "Soprano Rhythm",
+        "hash": "0d57a53d477839fb2c535e6c621e1e07ad3b9d3e7eefef1d703aaf5dc90379d7"
+    },
+    "8188": {
+        "text": "Immediate",
+        "hash": "316651b7af98e58b917befebc4724b26e6ab4a96707408abc39da62eca684c21"
+    },
+    "8189": {
+        "text": "Alive Karin",
+        "hash": "9e9c6d3779ff68661f3d377f5e9eb2c7e3885266a41589f5af6b1f63858e8a19"
+    },
+    "8190": {
+        "text": "Weiss Manager",
+        "hash": "4b17654e2e3a115b89815eb52508ebd75fea211b08cb81e78472c981693d88d3"
+    },
+    "8191": {
+        "text": "Double Surround",
+        "hash": "387e75d47dc4900c81aca6e85638b34c776c45898fead7605ad6842aa4b03fec"
+    },
+    "8192": {
+        "text": "Narcissus",
+        "hash": "def58df9292d5bbcdda1bcd0f1033f65eef4f16ae85a73f1ba812b24c01d0d86"
+    },
+    "8193": {
+        "text": "Rhythmic Leap",
+        "hash": "dd4a654051be32d4082245cf90b43958a93bbb1a54a3aca6358872a0cc28132d"
+    },
+    "8194": {
+        "text": "Bitter Parfait",
+        "hash": "efbd0def39917f4039907b5f01462f3fdb4fdb0dd51560dddec273c096d6965b"
+    },
+    "8195": {
+        "text": "Tarke",
+        "hash": "bde8ebe561179b981805c7a0bc3d0f4b544cf40c12331413ffff322c1bd29254"
+    },
+    "8196": {
+        "text": "Rumba Step",
+        "hash": "e821cbf43ef21fb7ef687e73af534bcc1269280ee64f3b46b2b9a5ac03182c3a"
+    },
+    "8197": {
+        "text": "Innocent Grimoire",
+        "hash": "0cae00b37e7bb5912e57a6c1683a36cb532f19966fd46c959965887455ae172f"
+    },
+    "8198": {
+        "text": "Artorum Grimoire",
+        "hash": "cef5caf2cd942d9bc5261496ec114fa701a9d435c8c9bb5d0cad627e4532291e"
+    },
+    "8199": {
+        "text": "Ney Rhythm",
+        "hash": "29864c12015033ebad4a29c599d526fd480b1ab7da7fcf3de50d54620f21682f"
+    },
+    "8200": {
+        "text": "Frilled Pine",
+        "hash": "8c5e1d801e09e97284087f5b81c5237220b301d48e46fc262538bd0624b6816f"
+    },
+    "8201": {
+        "text": "Cupid Shoot",
+        "hash": "404f48c36a76078cf011b742d0f07eba99ec4e3d32a77de5d86d9479fc6734ff"
+    },
+    "8202": {
+        "text": "Ribbon Sylvent",
+        "hash": "a6910f9e9a155a5756344be2fced8202b223d50a126d446ee09122b076827de6"
+    },
+    "8203": {
+        "text": "Breeze Drones",
+        "hash": "aef000763419ea3227407680c56aba5d6c772c40cc442b5996e9571090dc516d"
+    },
+    "8204": {
+        "text": "Mini Clematis",
+        "hash": "479e6b8f7ac19baa92c1b13749a9b704c62279ced35f9ef38bcb67aa1e0db304"
+    },
+    "8205": {
+        "text": "Tavatimsa",
+        "hash": "e8e74cc62c1f98773f28bdc8d58a13361159983dbee74a6d764fba5c64d54a93"
+    },
+    "8206": {
+        "text": "Sudden Attack",
+        "hash": "e019ba5440d98e8946f4063b094d4e3654f2e61e6e4d2b8b1eb09ab2229d1ef9"
+    },
+    "8207": {
+        "text": "Srivatsa",
+        "hash": "ccf3727915cf58c3e235bdde13e1b0dbd3d9030a7726cbdc6acc2a051dbeb836"
+    },
+    "8208": {
+        "text": "Early Sprout",
+        "hash": "eaa558589393fe87b8caf5105005fceb28f41e85d39b72a10c71a92899ba9511"
+    },
+    "8209": {
+        "text": "Long West",
+        "hash": "efa4f884d73b212d2f08f89122dc8441d4210055b1362bb0f0c4da0646ac7958"
+    },
+    "8210": {
+        "text": "Ribbon Hymns",
+        "hash": "1badf42d6254499c4b3b0bca65fc3ff1573359a227922d7e487af3b7d0d781ab"
+    },
+    "8211": {
+        "text": "Miner Cissus",
+        "hash": "146d4f418b0d978a408df30fb9124b70c2279d2c58a3dd0422f5b9f90d96a930"
+    },
+    "8212": {
+        "text": "Tutu Nui",
+        "hash": "7eda5cb92e303e0893033c93687aa34ceface2ee76860731868bcfaec51966f8"
+    },
+    "8213": {
+        "text": "Sunfish Ray",
+        "hash": "1dca9eb98ccd9049b76e734e77fb4f043d5819da185bedecea13a2806c5e04bd"
+    },
+    "8214": {
+        "text": "Hot Dance",
+        "hash": "e863ac30f93bc95191f6299ba3f61d19c962ad4bf8691710cbc92da19c18cf9b"
+    },
+    "8215": {
+        "text": "Squeeze Out",
+        "hash": "991c0fb9b9641366a18aa7b838cf12977d916ae5c23b971298ef88cb4d67be23"
+    },
+    "8216": {
+        "text": "Decision",
+        "hash": "e7dc2ecf98ce4f7320f57d41cd0749b5a7a0fe63e7eb75736a52358785b8d3c9"
+    },
+    "8217": {
+        "text": "Arcade Champ",
+        "hash": "c3fa0f04b7341638cf7f153378e5f6273634d8435a2cfb70fca9c152caa76420"
+    },
+    "8218": {
+        "text": "Cymbal Rhythm",
+        "hash": "7c1c74fd95761fdee082cea4f091bbe34d732947563ffae20a1ff212c88e07c3"
+    },
+    "8219": {
+        "text": "Showmans Act",
+        "hash": "635acf0591388119fd4e51ad28193dee84751f9b5ced11d1010c77a85c5bdd1e"
+    },
+    "8220": {
+        "text": "Predatrice",
+        "hash": "93816188425a5db21db905900167763334decee6b478a5b112158e350f2871e9"
+    },
+    "8221": {
+        "text": "Musha Musha",
+        "hash": "6b93fb45ee0784581fdaf2d0947bda4338e085bc9fe65eb5aededf8a05430e33"
+    },
+    "8222": {
+        "text": "Ribbon Gavotte",
+        "hash": "dd3cf654d00a61bb636c51359151a8c93ed8b8e26828648a947e3a159114f2bf"
+    },
+    "8223": {
+        "text": "Flying Turkey",
+        "hash": "505e3b9529e4cc3c89290042950c17a77e3dd91eb4a86163a468b3968a0940e3"
+    },
+    "8224": {
+        "text": "Leaf Leaf",
+        "hash": "3a8f6b7e4cda569d0fda23b9a7b82924b803965eca818a11e0b5e3eaf0e4ccea"
+    },
+    "8225": {
+        "text": "Puni Puni",
+        "hash": "3f5938bed513d42dc67bb893a8ccfd4561dc162957f8e4c9b461b2afd20e3c46"
+    },
+    "8226": {
+        "text": "Cornet Rhythm",
+        "hash": "8ec563159242441a735d46f175d225e9fcbbbad0d64df10c270857c35836ee0f"
+    },
+    "8227": {
+        "text": "Pampa Grande",
+        "hash": "5bbfbbe53e81dcc7ff9705f13648adfb84992bed8b1b92a0df9e04793beb6485"
+    },
+    "8228": {
+        "text": "Tip Of The Tongue",
+        "hash": "c6215a2d9bf12c145304bc7eeced8e40b12150224ff4489daebe75714fd4cf5e"
+    },
+    "8229": {
+        "text": "Tetra Byblos",
+        "hash": "ab20e02e0d38eb148c14de5db6db6f92441a910281519fe4b93c2b00408a3de4"
+    },
+    "8230": {
+        "text": "Pink Chouchou",
+        "hash": "98de392ec58539aebb471b3e33e1869b8a01b5af20f5382eae5e6a68eac3599a"
+    },
+    "8231": {
+        "text": "Breeze Glider",
+        "hash": "7c60164994dadc887bcde5b3411a11f4eecd437e5b7fe85f2c4078b35eea06ad"
+    },
+    "8232": {
+        "text": "Occident Four",
+        "hash": "4a2aaeb3b474a5cd73b84efb909cf811bd4ee28fade96131e263861cba056f9b"
+    },
+    "8233": {
+        "text": "Divinity",
+        "hash": "e2b4fc858b8d8bf17b94c655d18c4a234a184fef7d7b14c579a99009b53eba13"
+    },
+    "8234": {
+        "text": "Keyboard Rhythm",
+        "hash": "d73abf501617fab0e19257ca614725126eb0c717a3c8fce3d4d9ce60f5439b19"
+    },
+    "8235": {
+        "text": "Bravo Doo",
+        "hash": "b73fade9d177223a3329f880bc81f28777be861c37068ef77fdbc197fed83fc2"
+    },
+    "8236": {
+        "text": "Myung Myung",
+        "hash": "bc884d50d57c4a279a8b81a72f6d58c43d144f50b31653365de5fdda5f191faf"
+    },
+    "8237": {
+        "text": "Snow Frost",
+        "hash": "2d990ade1e80812178ac421044b05b62670399f5f06e331032ae732eae3d805e"
+    },
+    "8238": {
+        "text": "Jadoprate",
+        "hash": "ba77c38ee1fcd5a7aafeb315944bbfcbb45ec158b6b810d4a99a297a93272734"
+    },
+    "8239": {
+        "text": "Classic Comedy",
+        "hash": "590b7456c7060db32eaff51c66e12399ea14579db3523a8d3a469d27f02421c9"
+    },
+    "8240": {
+        "text": "Grand Shamal",
+        "hash": "15049e1ddce383f30e5b24262ce5485d360bb9fe45e6b95e8d48104898e0097c"
+    },
+    "8241": {
+        "text": "Muruga",
+        "hash": "230b6e185e1c800c7ea826a3167c78252e7e18fbad5844b30832645bfe663c15"
+    },
+    "8242": {
+        "text": "Town Hangout",
+        "hash": "c0e51a14a15ecc941ff47f398693f1c4e55a0a62c83467292c63a71e3f30bb6c"
+    },
+    "8243": {
+        "text": "Duo Pliwen",
+        "hash": "bec97bcf0a8e6fc8962a615575a097e03b3a8e39193d3a3a11e980a2d4cf874b"
+    },
+    "8244": {
+        "text": "Distinctive",
+        "hash": "efe0385be4911d60e76bed3454518c1117b2a012d6d4fa7b98708415949d7d54"
+    },
+    "8245": {
+        "text": "Yappy Lucky",
+        "hash": "03b91e852fa0502c6fc39df6d9f4d4ec7d61116f696c6b882584c730a13ba081"
+    },
+    "8246": {
+        "text": "Flapjack",
+        "hash": "c36ae4d341b1f210f90a64de2b5d659eaf4c846b81980b9329fc8a8ce59b217c"
+    },
+    "8247": {
+        "text": "Dueling Stella",
+        "hash": "3addfbe135ef1b9c0922f641c0f54e8a172a6252c0712a7eccda4d9c88552295"
+    },
+    "8248": {
+        "text": "Aqua Oasis",
+        "hash": "fd19f84c582077d63b338973629e7d59f8d2010f3905fd52f0cbd4d52c650cd0"
+    },
+    "8249": {
+        "text": "Feel Freude",
+        "hash": "d5460de419b927f77e6f9754bbea5083b39fcd8dddef4ae38014d2774184d86e"
+    },
+    "8250": {
+        "text": "Ribbon Pastoral",
+        "hash": "c730d111cbd3b8353a789781fa1a9ebd5fbc81e20fab121cf8556e84f4d3b1ca"
+    },
+    "8251": {
+        "text": "Rose Fluvial",
+        "hash": "3c0ad318223b3d3f6f03643668d2ad8b7abef8440309068166f8250460da5f7c"
+    },
+    "8252": {
+        "text": "Summer Bonfire",
+        "hash": "4f035c1484aa12597a591735ba25770e95c6d47ac7a3fea9d67d86ab5317975c"
+    },
+    "8253": {
+        "text": "Bird And Cliff",
+        "hash": "2525ef3a97b6affe2317f8ec0036b07dcbafdfd4d5bd7f25bde9fcc233ca8888"
+    },
+    "8254": {
+        "text": "Mykonos Chalk",
+        "hash": "2df09365ec0f779a17f20c828580c9372d4f4103af8e777f331c8fcb69a73af4"
+    },
+    "8255": {
+        "text": "Grand Feast",
+        "hash": "9a59a33c5eee73372d75b0f6ff2c270bb92d5914448fc3936d05ab4580aba238"
+    },
+    "8256": {
+        "text": "Lime Chouchou",
+        "hash": "ca9fcdca32ce11240babc5669a4db704042427cf87f10dfe944ac90a2e401944"
+    },
+    "8257": {
+        "text": "Black Ebony",
+        "hash": "a6e3580c2a72a5dbcdc6cafe7f0dbd84a1955f19fe02aeef309784d128876bb1"
+    },
+    "8258": {
+        "text": "Cow Lilliput",
+        "hash": "3604eb64df95d0422bddede0a79ffa801dc9c406402742fdd7af23896e33db3e"
+    },
+    "8259": {
+        "text": "Breeze Cessna",
+        "hash": "a3b35b2bd97eacc7c9f629d09da21d2e3c672f04edc68f40e8807662507c25a7"
+    },
+    "8260": {
+        "text": "Resort Icon",
+        "hash": "e1f0a06b86649974090b600cdd4d826cc82d27da5dee6ddf0d8c7a5a593ab867"
+    },
+    "8261": {
+        "text": "Krishmaldo",
+        "hash": "512e306f4d7d7f0b8fdf606338b5c017f1692f6df3d37f57958f18d9f39c2a1b"
+    },
+    "8262": {
+        "text": "Pass Time Joy",
+        "hash": "705082a56d678e4811ab3424d4a4c5c83013b2e41e2e08c2c5e6a0bb7309d7b0"
+    },
+    "8263": {
+        "text": "Valois Marron",
+        "hash": "f38f2cc3e9be9ecb82e8b8e5eba95ee91c9f00a6b2639b72d1902406ad34d60c"
+    },
+    "8264": {
+        "text": "Ribbon Ronde",
+        "hash": "1a24762de48557907a1b53ffff41de94754ab174ba21aa70324e276e7c282646"
+    },
+    "8265": {
+        "text": "Short Sleeper",
+        "hash": "8691723150b723eb593335b553cb8e0f12d42cf4325309d32fe66c2fde9f169b"
+    },
+    "8266": {
+        "text": "Beating Pulse",
+        "hash": "9d85f402be5b1c23f4da8fd1c01ceefb41344c6252f8d57a571234ac36b9c2fc"
+    },
+    "8267": {
+        "text": "Silver Sazanka",
+        "hash": "8f91b1f89b32abe088e6c9a4810a12d3bf05fb29784e4c156fef8ac8ffa756cb"
+    },
+    "8268": {
+        "text": "Petite Folklore",
+        "hash": "afc8a9ea5855b6a143e5b1ae1e38d2f6c8f3d159d597b7115e8dbcd219f2b1fb"
+    },
+    "8269": {
+        "text": "Cinnamon Milk",
+        "hash": "53aa5c3755ce5c3ee9d41cf65ba6a2a851cfe1db581e000d16d82e47f5ffe348"
+    },
+    "8270": {
+        "text": "Dirham Coin",
+        "hash": "c9aae8127cc2e806005f1dfe1ecb215406e036e93d5f860bae6afc18a7b2db7e"
+    },
+    "8271": {
+        "text": "Frilled Banana",
+        "hash": "21218da09e4e3841588d4215a7fb5a97251883d23b284cb945694a0c67f72555"
+    },
+    "8272": {
+        "text": "Lead Historia",
+        "hash": "f71e92c14f428174b6d81dc8241515ff42746a34e4a6876ef2ffaf6efb38c6af"
+    },
+    "8273": {
+        "text": "Heroine Adventurus",
+        "hash": "3eb7f524a16d0498fc9590bae6e2b9ace84453c9bad586a302d2423e94b00786"
+    },
+    "8274": {
+        "text": "Superior Bloom",
+        "hash": "1de7ef6a980d23e8b251c00a65522dab13fd818fc353f2de5107a184471b1c0b"
+    },
+    "8275": {
+        "text": "Frilled Lime",
+        "hash": "85280be6b6ba304b039863487141b1d66360e04543909de19f6b1fec022c708b"
+    },
+    "8276": {
+        "text": "Feel The Fate",
+        "hash": "7300b73472753b41de44f50e5db95f88af033868aea52c6a88a4b8b448afe90d"
+    },
+    "8277": {
+        "text": "Dolichos Runner",
+        "hash": "7074812f9ba8004541fa58557ca0fcac4313e24297cd703c3cf8afdeadaca5d3"
+    },
+    "8278": {
+        "text": "Magyar Rondo",
+        "hash": "689ee4db2d72c4c652113220e2068c708b02c633e87057a8075ad7de90aa04ec"
+    },
+    "8279": {
+        "text": "German Cake",
+        "hash": "58f9e448cd63a504788dac148acf45cafe0037e26df305b19c2f060c4cae0729"
+    },
+    "8280": {
+        "text": "Akua Spring",
+        "hash": "b199b05d8dab7fde7cbd7b6aa7376e7efb0474a65272e58ddddb224485bd2faa"
+    },
+    "8281": {
+        "text": "Outstand Gig",
+        "hash": "09d5a37ec7feb0d84664e9de78b3e4098e563c939cc9239594dcc9b37a0bbfa8"
+    },
+    "8282": {
+        "text": "Life Grateful",
+        "hash": "bc89605eb18fe82a66a9fb768f251cc086aa2f2e03ea0beadb553a3575c93cc8"
+    },
+    "8283": {
+        "text": "I Am Queen",
+        "hash": "fc4f5fbca47d48abacacee0dd6d8f560d962f39ea4d5835f6a0164ac51012701"
+    },
+    "8284": {
+        "text": "Breeze Balloon",
+        "hash": "8ff55904328c84b5b33ec7df198952e57b430f040f3ba0c9d70cc1467bc692f9"
+    },
+    "8285": {
+        "text": "Must Chew Me",
+        "hash": "079cc0224f77b5f49e46de0b410ea749b0fbe6eba7cc9c0037be2f4956cb3f61"
+    },
+    "8286": {
+        "text": "Gray Chouchou",
+        "hash": "0cae3c8c290881ed1eb5863ba3db74f42d65efa876d4c917b8899b9b6e1efbad"
+    },
+    "8287": {
+        "text": "Gutenberg",
+        "hash": "8bf365156abbfe8ffa98ecccc109232b563f764809d6ca7d55682d897da74f12"
+    },
+    "8288": {
+        "text": "Anguta",
+        "hash": "050eb4935644fade3fab02142bc854f69d2631668a464661edb26f014cfa2ef9"
+    },
+    "8289": {
+        "text": "Ay Tanrı",
+        "hash": "466adedb7f4841a7077258bda3cd2538001f54cd0e31c44503456448f3efbd4e"
+    },
+    "8290": {
+        "text": "Jewel Zircon",
+        "hash": "ec47cf74deb71ce039798582655bba2db3f6f1ace350e9349df7309334436b69"
+    },
+    "8291": {
+        "text": "Belongings",
+        "hash": "7725b35e924d697ece4e430351ffcbf68a7520d1bee5e73bb13e9f76fc98fd00"
+    },
+    "8292": {
+        "text": "Ivory Chouchou",
+        "hash": "177640c647fc30a03c40f85a80dd412dcf03ab98a1eed69aad4b555a43f55faf"
+    },
+    "8293": {
+        "text": "Autumn Mountain",
+        "hash": "43ec882db1ca0eb9fe4ae326ae561ccdd0012ce9f6dc2972a8874ec94cedd013"
+    },
+    "8294": {
+        "text": "Farm Volition",
+        "hash": "82ff33881266326d456d5bea5b02cc8a94aaf1feff7b3eba8fb00a2a372bfc51"
+    },
+    "8295": {
+        "text": "Desert Baby",
+        "hash": "8eafbdeaf92cc26a65b92ce2160bcdee29105926201980d49c8a00e5392f8611"
+    },
+    "8296": {
+        "text": "Unchanging",
+        "hash": "161d6a1390276af4bf6cadea6fd1ce2ec7d5d464012ba5228f6c90a4b8770413"
+    },
+    "8297": {
+        "text": "Fairies Echo",
+        "hash": "87f88c689835b7ae46dc1ad95dac464b5de129eb3d9953ad05d88c865587834c"
+    },
+    "8298": {
+        "text": "Sangalius",
+        "hash": "e813055556d848b1bed2b32b8f7d794cf931be3f9dfe3cc97f21ad7076c46156"
+    },
+    "8299": {
+        "text": "Trumpet Rhythm",
+        "hash": "70504e8ffcee578ae5ecb2823c67c05dc5940b7d5a352baf04856ed4d3e43c0d"
+    },
+    "8300": {
+        "text": "Amber Chouchou",
+        "hash": "aac7d8b6e0391f15da89b9cdcc9683fa3ae4ec8f36ed6b22d6aee124e5e68261"
+    },
+    "8301": {
+        "text": "Sharp Attraction",
+        "hash": "7f1db596f91cd7e705e3a20c1205cb41b6e08b6cb4b644b229b98cc13349a616"
+    },
+    "8302": {
+        "text": "Memo Labyrinth",
+        "hash": "4d942d3b1331c173896a16aaa99124d198d0c16ac01b2e8fcf7110ef5c7ef8d9"
+    },
+    "8303": {
+        "text": "Silver Chouchou",
+        "hash": "464210e64f78c28114db531b6bddbacfeae70753dab5ee5410ced863cba7671c"
+    },
+    "8304": {
+        "text": "Gimme One Love",
+        "hash": "aa3b3953a5e2c68ed22669be99e8736bf4e4661a14663b7cea4d59c384cd7e13"
+    },
+    "8305": {
+        "text": "Jewel Tourmaline",
+        "hash": "86d31a09469ee151e8a3a3ee0e929d26810f662ee049145c0878b20f42f77a51"
+    },
+    "8306": {
+        "text": "Blue Aquamarine",
+        "hash": "b8c9c86e8b577e234d5be3deca8f856cb2acdd925ccf968511d19acb6c13fae3"
+    },
+    "8307": {
+        "text": "Neptunes",
+        "hash": "5247aab6a0f295a2ef2474b0b959a7050c2865e03efef33fa2a61a0f527eb177"
+    },
+    "8308": {
+        "text": "Holy Choir",
+        "hash": "72d97895d523f63201160c0166a12d550b8c60edc8c9affd5f563c339d3d2243"
+    },
+    "8309": {
+        "text": "Pikea",
+        "hash": "6fca5fbb6bc8547648db19a89aa33e80894b0368e7597616d0fcf9178f19392e"
+    },
+    "8310": {
+        "text": "Ribbon Dage",
+        "hash": "c94d90cd9d6aa95e98c70de41ad3898f0aa45e51b2b03635262dee61a058bdb2"
+    },
+    "8311": {
+        "text": "Breeze Chopper",
+        "hash": "726822b4b607d7ec5da7d5af4157d18d6d65244f26720ff177c35beef5b55cb0"
+    },
+    "8312": {
+        "text": "Natale Notte",
+        "hash": "9690462074773fb88921f1e977729635bd66d72b65307dec110363a77edfaaa0"
+    },
+    "8313": {
+        "text": "Grintanni",
+        "hash": "442206efc9d06fc27678c8a3ab127c31aa437064248630e146b6b5a1d17bad79"
+    },
+    "8314": {
+        "text": "Ketchup Step",
+        "hash": "594b72fc557f0431984519586e039d83f432160d97675ba5272c3ea3b5ae7727"
+    },
+    "8315": {
+        "text": "One Inch Of Love",
+        "hash": "ef1fce18991bba4a63494db969f85ecb31bcdcc8b997fc46290295f7634c226b"
+    },
+    "8316": {
+        "text": "Bianco Grimoire",
+        "hash": "75c9209790ec343d638cca8e482336378682dad5c5f45195ff3d0565720f26ed"
+    },
+    "8317": {
+        "text": "Albedo Belladonna",
+        "hash": "7741b3ee90d916b6c3dd3c96b2a045f243805dcfdf67557cfdd47bed50d4be06"
+    },
+    "8318": {
+        "text": "Marionette Waltz",
+        "hash": "ac130c56034f128b4b3e88b21692dcc7a4a84eb3fcfc87be87e525fb76b3e35c"
+    },
+    "8319": {
+        "text": "Imagine Success",
+        "hash": "d038c656dccd8c8a34c07f20a60630be5244f1a611a2c55285885f292e3ebd27"
+    },
+    "8320": {
+        "text": "Cossack Step",
+        "hash": "17bcb34df0c7d2b48be0a7f8a8a2d6fa4555ed4e6808adc23a8661f26dc29d15"
+    },
+    "8321": {
+        "text": "Dreaminess Days",
+        "hash": "f6fe9a405a38f02cf125dd04e03f55ea466f1175af9d4e4aa63d9316537169b8"
+    },
+    "8322": {
+        "text": "Eisenntzer",
+        "hash": "dfdf86474c0df81312be1039a930c6956ebe2e78276b6a24c7ea16c28345a433"
+    },
+    "8323": {
+        "text": "Crescent Ace",
+        "hash": "93a2564d107a360d97605e7d9a807a0594726fee4c40a8bea7f5c2506bc2069d"
+    },
+    "8324": {
+        "text": "Duo Scutum",
+        "hash": "5ff3046672d623d7806b3a27c88cc8598448ef35f30985c5c0c8ef70677b4e49"
+    },
+    "8325": {
+        "text": "Frilled Orange",
+        "hash": "b5b24cd9e240ba5c7af378f8378989456a86c7bb74e431188167efc37d5a78d8"
+    },
+    "8326": {
+        "text": "Zambach",
+        "hash": "6557987696d93c60cb430e7e479f1402d0438f646afa06799ade43eba58be9b4"
+    },
+    "8327": {
+        "text": "Going Noble",
+        "hash": "40a1b085fdb78323b75adabcd670a33c3365290c34f9e3c9edb28cbc85524799"
+    },
+    "8328": {
+        "text": "Jewel Amethyst",
+        "hash": "cf768cc5e526f7a35ea77c1be3744018da2bc6a23f548da56cbd89cee8d56d4a"
+    },
+    "8329": {
+        "text": "Revival Lyric",
+        "hash": "fb45c476f323c20d8807eea7173165dd91f827c75971b85955d3e3ae4156cc89"
+    },
+    "8330": {
+        "text": "With Caspar",
+        "hash": "a96129bac215a2ae57b5a54d8382f98ae4957d7cc301fef1fdec0edbb8a68b42"
+    },
+    "8331": {
+        "text": "Orinoco Liente",
+        "hash": "27373828987f1b140d68598a317e69f6f471962ab4fefc2777202c7cc6117ef7"
+    },
+    "8332": {
+        "text": "Casual Snap",
+        "hash": "cb564f97cf5b7da04eee745cbfbb19e7e608969873c86fc910ad04ae311ec7d8"
+    },
+    "8333": {
+        "text": "Gigant Grendel",
+        "hash": "d6d298715b293355cd0af3fe092fa13b845658ed087e3a30cc985a16770b525d"
+    },
+    "8334": {
+        "text": "Out Of Black",
+        "hash": "900c11bca5987e466d29036c7256fc547a794035f46901819216a49a20c2efd6"
+    },
+    "8335": {
+        "text": "Marschus",
+        "hash": "0b5009040dd1300f4128dfc66c94dd6e627e1aeee5d04fa737974af863e78c12"
+    },
+    "8336": {
+        "text": "Break Step",
+        "hash": "572e3b8656efe2edbd1716bbc77de75543c732e196ba1dfa3595f508f271059b"
+    },
+    "8337": {
+        "text": "Jewel Rubellite",
+        "hash": "a222339a54d83f2bec0af283a7c8a521b581bf0467b8e91adcd8e635423c000b"
+    },
+    "8338": {
+        "text": "Pudding Parfait",
+        "hash": "3e61f76838c3cd2b5b819c26b15e7419e9c60e93cac5d7ffff92a6dd59cc1fae"
+    },
+    "8339": {
+        "text": "Zipang Applause",
+        "hash": "4c3f3927fce1cbbc0d369230eb87cda570a7d9272624d31777faf654eb3351ab"
+    },
+    "8340": {
+        "text": "Illappa",
+        "hash": "0a08df567fd81f6674a1c9b7b9838d327e63ea5b4a6ed1a52b2951bde6032280"
+    },
+    "8341": {
+        "text": "Greed Hollow",
+        "hash": "c9e80a2c3cff71fc694e6d28363e9a7f214f4a51e34927a43111b40fb4ffb443"
+    },
+    "8342": {
+        "text": "Oboe Rhythm",
+        "hash": "4a4a47b3ddd04b6cc9ec796283445bb7db635ead28be7f63f829383484a105ea"
+    },
+    "8343": {
+        "text": "Ababrini",
+        "hash": "8c0c980217729bd0ebfcec82b9b82992c2ef010ece8f3e75e6ccc576707e70fd"
+    },
+    "8344": {
+        "text": "Intense Remarks",
+        "hash": "c19f6e6f066454f1bbbfed82daab4a266786f307eafa089a205ae0bc2ab70b70"
+    },
+    "8345": {
+        "text": "Mini Herb",
+        "hash": "6853c2af195d4ffb239734c602e9b1b9d7554b9f3ec4e5389acee08047e94081"
+    },
+    "8346": {
+        "text": "Duo Tage",
+        "hash": "b833cbf736b238d38de29de005a950570ea15eadeacce0ac7f58146e5196ca29"
+    },
+    "8347": {
+        "text": "Lead Suspense",
+        "hash": "71bebd9590a9cc49f41b1542f83a719bf8b6c0883ef9d8779f65cbf527433804"
+    },
+    "8348": {
+        "text": "Ribbon Overdo",
+        "hash": "d6f4aeff7fd3d3e0c8b5f36931be36d1532a1c906fde3c583a6ed5afee518791"
+    },
+    "8349": {
+        "text": "Frilled Apple",
+        "hash": "2188a30c159d45fb099c117be27ce78cbcc2041a40f5c0e5d1da6ceab35b1b19"
+    },
+    "8350": {
+        "text": "Imperial Tallis",
+        "hash": "567a3ac86e84ef5c56ce69163b065daaffa2d1681ef4528c835cb08fdceae481"
+    },
+    "8351": {
+        "text": "Mini Zinnias",
+        "hash": "3d6f45e8da3dc9d3b19a522d8d8b9635f06a8c867c76b532adffeb9e14b492a3"
+    },
+    "8352": {
+        "text": "Dokadoka",
+        "hash": "1fec79d6763e9661e00f591b47fcad5dd251a2011378e3a39695acb329db6a0f"
+    },
+    "8353": {
+        "text": "Stay Charlene",
+        "hash": "bb2a0175c8854933828fad6574ee6b4cdbdf9e4e578167557467323be266486b"
+    },
+    "8354": {
+        "text": "Orange Chouchou",
+        "hash": "b0833f91fde3c51ebbaff77e17224caa6883243602dee230abdbcce18d0617a5"
+    },
+    "8355": {
+        "text": "Tour d'Ivoire",
+        "hash": "128f808659b74578f89aeff6690b98503c1798d69bb5016d66d7e3f0198d9d75"
+    },
+    "8356": {
+        "text": "Ovolo Evening",
+        "hash": "a62be1fca1e56ec6454427b52158e99059f5f472202a93a38532b5a575c67695"
+    },
+    "8357": {
+        "text": "Flamenco Steps",
+        "hash": "2c38028c84b0b0b5c9ecdcf1288af68e3ded83581db3c55e6a918aceada4b121"
+    },
+    "8358": {
+        "text": "Suite Cabin",
+        "hash": "febc0b77902d58c9cde6bd88c903ac9d1161fb0a0b0e7780ca05322d3d44fbd0"
+    },
+    "8359": {
+        "text": "Jebat",
+        "hash": "5c0e63563c77f8f9a197d1d6411b4b2752620bbba077f73a97d443a039427026"
+    },
+    "8360": {
+        "text": "Yam Yam Parfait",
+        "hash": "c2518d9f7ff1157646de0b7b7114a183542ad488264a70b6b50aa7b57ad3202e"
+    },
+    "8361": {
+        "text": "My Treat",
+        "hash": "6ca3e35347e08a17da54cec6c0c3767eeba183a354b3fe69232f9a6b2bc247c8"
+    },
+    "8362": {
+        "text": "Prime Season",
+        "hash": "677eae2ae3911b45a7f731e8c299ba511e19537dd404ddfa2430e4ef15881651"
+    },
+    "8363": {
+        "text": "Sam Garden",
+        "hash": "e12d5f790705066a49f51ddd7c7f5370f2f0aae09accd2068808914e1181e183"
+    },
+    "8364": {
+        "text": "Flower Net",
+        "hash": "c69544c0ab1aad6bd46aca0f1a727e79f6eb5bcb8a42ec81ce2776f85e7f3d2a"
+    },
+    "8365": {
+        "text": "Frilled Grape",
+        "hash": "933482e37ed3f0bf02020973538e64c9fb78513391db32bf9c6828c72f21c126"
+    },
+    "8366": {
+        "text": "Reverend",
+        "hash": "9f9625957d2d9b4c2dec9cf7749c20a85b41c4e43032331301505bfa0f3db538"
+    },
+    "8367": {
+        "text": "Waltz Step",
+        "hash": "7b74d19745454e4a30ebd860a3eabb5bc4ea2360e92860d80a5efc370931dc9c"
+    },
+    "8368": {
+        "text": "Key Card",
+        "hash": "8fd4770f892b2deed3892d23c5f372a3c8bcc3b3e6324e414a347458015b5323"
+    },
+    "8369": {
+        "text": "Flute Rhythm",
+        "hash": "6326550f65fd1d52f01863cadba787acbd8263ad4b6398859dd0cb5a5df16cdc"
+    },
+    "8370": {
+        "text": "Alley Cat",
+        "hash": "3d3e260a2bde1f8017fd9840dfac62f20540a833747b322d722477228fde047a"
+    },
+    "8371": {
+        "text": "Black Tipped",
+        "hash": "0598e801fb15fa67e78e7e841461539a76221064b256127b49e59e004b4002a2"
+    },
+    "8372": {
+        "text": "Bronze Chouchou",
+        "hash": "63d5f9f8fc7d88a1fd9c7a9b67ce5516e0f8620d1b693689ffb2eeccd015d98c"
+    },
+    "8373": {
+        "text": "Heart Blow Up",
+        "hash": "1db34f2363d6f5c7ad59f0d5d1f2566cc8e06ee977d133b6b9e3360efaed185d"
+    },
+    "8374": {
+        "text": "Polar Dipper",
+        "hash": "b31e197fd71dab3e6396ddd9805613748e49d51b0d99fc8cedb5d2ad5a450808"
+    },
+    "8375": {
+        "text": "Jakarta Funk",
+        "hash": "0a3825d5989a7cc633ac7bb6db60d9ba94e09b55c7b8b045a6409eea9262fccb"
+    },
+    "8376": {
+        "text": "Branglymore",
+        "hash": "71384f8544f235adf247945ad5eab1ec8d39f706b8f8584e415c34b4c7132802"
+    },
+    "8377": {
+        "text": "Rapid Builder",
+        "hash": "809b170222ed653175d0e84689e3908d1a19e4aafb387c7e93168de25610ed28"
+    },
+    "8378": {
+        "text": "Memorial Gorasso",
+        "hash": "0892767f484a02328688a8ea2a5407299759b145d271a80291b058938aeee252"
+    },
+    "8379": {
+        "text": "Circuit Breaker",
+        "hash": "b77d85604dab02ca9fbb70cb7e1de55f5ebf30ac835152c49e81cd07cee52d30"
+    },
+    "8380": {
+        "text": "Dalmatian",
+        "hash": "5df09fd28e47703470a485ba6da8fcf2eafafa9e8ed342f961ccf5047571bd4e"
+    },
+    "8381": {
+        "text": "Duo Ecu",
+        "hash": "87eb320167611b0f4f2fd4efc8b7efecefeab91d021a11c01e97571e8a87511d"
+    },
+    "8382": {
+        "text": "Breeze Kite",
+        "hash": "cd5a1d0a76755354ae34c2524bc325d8c30546871018da16834830d45c98712a"
+    },
+    "8383": {
+        "text": "Mini Veronica",
+        "hash": "8a33b4fe4bfb01ac81c5c1812ed6fcd83afe47d65ffb6324d077bd8f8b8bbf0b"
+    },
+    "8384": {
+        "text": "Enchufra",
+        "hash": "513bb14c215289a5beec5c28c40288ef536845359f09c3e05e907b54c35c1e47"
+    },
+    "8385": {
+        "text": "Jazz Step",
+        "hash": "9ee872413a058b87b9503af61846cd91b6736a7581e4ac8c01a1c383e0acaaa8"
+    },
+    "8386": {
+        "text": "Ui Itumuni",
+        "hash": "9c5a41ce3a9c4052e6e7539e6ea24b039cd45df39ba00196fde375b4b1958bc1"
+    },
+    "8387": {
+        "text": "Ferment Win",
+        "hash": "390afb37bd2cf0f849419329dec5030ae5ad002bbd47a74be73d507aed105ab7"
+    },
+    "8388": {
+        "text": "Pan Pacific",
+        "hash": "181a6e0e44a0f5896fda0a38d81836e87662c2d69a200d70c2ade1d0c2ad2aed"
+    },
+    "8389": {
+        "text": "Duo Aspis",
+        "hash": "88ebbd96ebb86d1989fa8326a071c44c1a09d5cde44c8ee4cd644358d506de41"
+    },
+    "8390": {
+        "text": "Trad Parfait",
+        "hash": "d88d65e592237379d5f025e5d19c9963c93efe555bbd15249f6a8f66b4735648"
+    },
+    "8391": {
+        "text": "Chalet Me Rhythm",
+        "hash": "cb6f4aa44f9db5f36acc46d63d773d3f2a97c771463476378830f164391674ab"
+    },
+    "8392": {
+        "text": "Battle Of Ella",
+        "hash": "ce0337c0c30910fee01c85294d25d0204037413b39a2136058b45f387b11fdf9"
+    },
+    "8393": {
+        "text": "Vassago",
+        "hash": "9266b374caac63dd9b3d17f5f0bb53e10a8358f88e4e9f84d7b2d1958fcf416f"
+    },
+    "8394": {
+        "text": "Flyfield",
+        "hash": "33d5b4bc135437ebaab797fd4e6b058119b175d8738089709bdb0ca3b9c8fa57"
+    },
+    "8395": {
+        "text": "Jewel Onyx",
+        "hash": "996801d3b654dd38e4c588475e56d66602c380acbb9c67aff0dfc61afd11cd7b"
+    },
+    "8396": {
+        "text": "Variable Sight",
+        "hash": "98751abb45fef6da55d9705fac26e0adfde2839de7b0a84a4b0c3412d8ce78ae"
+    },
+    "8397": {
+        "text": "Silverberry",
+        "hash": "010c33e85db1c526b06d984559a22f82b51c25fb9de52e82b934c0073ed1fa75"
+    },
+    "8398": {
+        "text": "Higgs Splay",
+        "hash": "0b98e8e64411f8bf830d2ffd06217db5b78e329868339c90eef7509611b9122c"
+    },
+    "8399": {
+        "text": "Brutal Rush",
+        "hash": "cabbfc2487cf6e5a94566c9ddf90503b96a1e4acb8e4f3f00d8b23b3446fb019"
+    },
+    "8400": {
+        "text": "Herakleion Miss",
+        "hash": "e435b8144f0444de3581d4a84ebfa9fdbb85ec480d0e6a8ec893f69c92c1f3dd"
+    },
+    "8401": {
+        "text": "Lovely Silhouette",
+        "hash": "0bdd7d3e14ae75493c2db65fb520f2285534b591da03f3530ba3b4327882c91d"
+    },
+    "8402": {
+        "text": "Frilled Melon",
+        "hash": "6e42657b0073b3de8ac5c32d5a580d5a53ac29305c3fb289a7402928926cc716"
+    },
+    "8403": {
+        "text": "Nautical Tool",
+        "hash": "df6b5745e91d2d16746af984c1d944d23577de044fd3638c972ec62e8914e3b2"
+    },
+    "8404": {
+        "text": "Solar Ray",
+        "hash": "b78e20d41225192f35d731a9bae64b261e5ad30b1e81b89916e4c8369bca0eb5"
+    },
+    "8405": {
+        "text": "Shore Lighthouse",
+        "hash": "4d542a4d6d9b7f158b2a934bf7228f95b782fe8d364a2c4c16928ec21a757986"
+    },
+    "8406": {
+        "text": "Create Send",
+        "hash": "e90baa908114d11e06007df70b1235227d31b902abfd61f6656680c363c6531f"
+    },
+    "8407": {
+        "text": "Southern Voltaire",
+        "hash": "ccb660959d52831dc17d99f5552254d661ed413510fa23575410ad11f44bd945"
+    },
+    "8408": {
+        "text": "Tap Step",
+        "hash": "bf580caa88cad9e1f44308638e5e41b5490795e2a2aee2841e59ccafae6366d9"
+    },
+    "8409": {
+        "text": "Septentrion",
+        "hash": "7b56b61fd5c4c4b1fa0bfc90d575b6f96f31ad66f3c47854e78adb7058531d9d"
+    },
+    "8410": {
+        "text": "Code Of Heart",
+        "hash": "1611be8a6b3ce5643c75b0ec30b5bec8b28096c6ebe79345141b66ae8d85b91a"
+    },
+    "8411": {
+        "text": "Ribbon Carole",
+        "hash": "9522b24e05fb5f50d9ec690d97052e5041c3ae24c83650cbb49a5578f75dd774"
+    },
+    "8412": {
+        "text": "Fierce Kick",
+        "hash": "f75b6bc39a7e64b58e33101f876f0b1d241b2f76a4d11f46f7db0456d4c5cbc4"
+    },
+    "8413": {
+        "text": "Ajisai Gekko",
+        "hash": "87d22e8d8ca974ca76247681dc6457a19ca1514905cb270904b1853c1c285711"
+    },
+    "8414": {
+        "text": "Original Shrine",
+        "hash": "0c12eb493b726ced08961d3853a1488f160939c0af55ad200ba3bf39626c8c9f"
+    },
+    "8415": {
+        "text": "Morphliss",
+        "hash": "81f77c2b1c27b677e5426eecfc082bddeca266c778f6796846bf74b15e0bd26f"
+    },
+    "8416": {
+        "text": "Piccolo Rhythm",
+        "hash": "db7a5b1b76127e7f302ca773bf509b6094466c30663d29d595f8150dd66de0b5"
+    },
+    "8417": {
+        "text": "Jewel Garnet",
+        "hash": "49cf0a244dc0d95e88256b303854b4f3b3103d4315c6c9cf9381c44c4ff6e6c8"
+    },
+    "8418": {
+        "text": "Tomoenage",
+        "hash": "c1ce880174a933cd84a05d69538a2644e6a71a3734c44478ac93177fb2f3881f"
+    },
+    "8419": {
+        "text": "Nereid Rendezvous",
+        "hash": "d762dbb8ad9fccfe30c96749364b34596623057d08af1810b43bd87396cf5069"
+    },
+    "8420": {
+        "text": "Hoon Arp",
+        "hash": "cb856a3af4620e6e10d876f28f73106b126f2fc20f3e5f1c209d423441303ac6"
+    },
+    "8421": {
+        "text": "Bee Kaiser",
+        "hash": "f7dfaf50162c9fc34095ca86dde2fef559f508aa3f9558fe31fc1a8b7f8f634c"
+    },
+    "8422": {
+        "text": "Powerful Torque",
+        "hash": "7b895bfa84da5928d586cc1752d4e526a1196f27705e2a6d8e1dd3dec531fa34"
+    },
+    "8423": {
+        "text": "Tactical One",
+        "hash": "533cb5a8ab73d4a4c8bf412c8958faf8a958952a318cfe853c145b55bfbd0c5f"
+    },
+    "8424": {
+        "text": "Ribbon Minuet",
+        "hash": "b8a4205b0a68dc8fe6c9f198c6560362c39b67d7524eaa05c0efe20af8f5e75d"
+    },
+    "8425": {
+        "text": "Ampere Unit",
+        "hash": "252ebde3e211a76970cbbf04b137090b13f438211046dadbcf262fbef6ebf083"
+    },
+    "8426": {
+        "text": "Mini Marigold",
+        "hash": "8fef58c08a0efb38d3631dfcfa1215f2db6a78c6f128b9d96213681ee602f1f6"
+    },
+    "8427": {
+        "text": "Aeneas",
+        "hash": "c7897edd6db5152ca9953556febf9437f21f6180bcfc9715307fb214cb460fd3"
+    },
+    "8428": {
+        "text": "Traffic Lights",
+        "hash": "69776c06805e011fe8527bdd140e88bf6e9ac4ddb34a05bf3badcaadfba0d6ed"
+    },
+    "8429": {
+        "text": "Tamashii",
+        "hash": "fd1a4a381cef20fe9c38ef8cb0d1ae75448d30fa8c4eee39f9904a55c20e07f1"
+    },
+    "8430": {
+        "text": "Jewel Sphene",
+        "hash": "777b60716d7da689b1513a5a29141a0c1534628e6fb76393a39cbfe4525b6e4e"
+    },
+    "8431": {
+        "text": "Moist Eyes",
+        "hash": "7048d623f8f7b73e3f1b27b075c97bf90da6f5668726cf806ba3c47cdda18d35"
+    },
+    "8432": {
+        "text": "Gorgeous Parfait",
+        "hash": "f81f3f19ddba2b02378bfed707435270413990288c1491dc0b4e73d1cf8cf15e"
+    },
+    "8433": {
+        "text": "Crazy In Love",
+        "hash": "a0c23151724ce037ab619bb5ce5aedfd31daa00ced3875d663e943c913c31755"
+    },
+    "8434": {
+        "text": "Swordamatic",
+        "hash": "e6b8bcfcb6108e5c72a6c3585e31c0f1bc923163f97fd8816ba2f1c479c50eaf"
+    },
+    "8435": {
+        "text": "Mini Cotton",
+        "hash": "71d61969899d82d8a7a87914e75f44afaa10dc14d52b44cd9c1290598901c171"
+    },
+    "8436": {
+        "text": "Antagonist",
+        "hash": "50522d57e51cdadef2022dc09c2cc507fac64124b405dd73c1415d51a07b851c"
+    },
+    "8437": {
+        "text": "Makkila",
+        "hash": "4e91ed1259ca4a0b720a406874e412051819cb8ade418a9a656e750c945043a2"
+    },
+    "8438": {
+        "text": "Iskari",
+        "hash": "a4e4f8efa702f4375929991c5c5818a320d2b083cd46515896fc3b9bdc5ff406"
+    },
+    "8439": {
+        "text": "Bravo Zwei",
+        "hash": "841f9c34125072ad24b233a32643dbe0c1eceacbe127985af30617fbc563c229"
+    },
+    "8440": {
+        "text": "Hoeroa",
+        "hash": "13bd85427268cb77de3e74c44e6af87d8dcaf1db799c99cd0a07b5e8c7a4fad9"
+    },
+    "8441": {
+        "text": "Tipping Tap",
+        "hash": "7bd5ffe9c6d3daf5661e795253fa8913c53b168283aabec4b477c21b0b47dc49"
+    },
+    "8442": {
+        "text": "Sinsfield",
+        "hash": "971c598ec0cd425d79e185bfdcf2f04110dca60620ae68157792c7555e64b898"
+    },
+    "8443": {
+        "text": "Colorful Pastel",
+        "hash": "d15e2f36a40b44f520beb976c2d1ae35bf74bf1409476be658f3893df9745749"
+    },
+    "8444": {
+        "text": "Selen Spark",
+        "hash": "74f9b9a4f0a56e898def8e20434275f3121bfc513387eb039497b5d74837461a"
+    },
+    "8445": {
+        "text": "Multi Cell Call",
+        "hash": "91830e46154fdd557d878837891065636d0721d7f3617122679100c0de037970"
+    },
+    "8446": {
+        "text": "Ribbon Villeret",
+        "hash": "99888ba5b53b2d91513adbae2bbf4c024096c13caf6acf536b70b680d104fa7f"
+    },
+    "8447": {
+        "text": "Fruit Parfait",
+        "hash": "f7909194779476052ea635dfb9ce4f3079cc61ffeef9519928f1bc37f384ae2f"
+    },
+    "8448": {
+        "text": "Mini Dandelion",
+        "hash": "a393c8d860c65f100708172f729876d83494480ac51c20c1996a5c183bfb83e3"
+    },
+    "8449": {
+        "text": "Ribbon Mazurka",
+        "hash": "8c5a3974fc9d934289252d8d23b591fec519859dbc5d02df8f28b87f70bffd5a"
+    },
+    "8450": {
+        "text": "Aqua River",
+        "hash": "ba672f3e495cb969be38c4a7335aaddd0930d7106909e6c85fc75ba7f462d882"
+    },
+    "8451": {
+        "text": "Tropical Sky",
+        "hash": "44f870b24a29c73b19823d3c58e9377e7b09639564a2fd945112725c59e7c001"
+    },
+    "8452": {
+        "text": "Aqua Geyser",
+        "hash": "82d83b84a617fae2f43df4086249430748c93b5bffe3f64caf4421ba5b2af45e"
+    },
+    "8453": {
+        "text": "Venevaram",
+        "hash": "f89f2b68dbf51c399acc6896233fd79d4523e09f3a3d3e3a83a70cddeda035b3"
+    },
+    "8454": {
+        "text": "Kitala Rhythm",
+        "hash": "de6cc917462441acb4ee78026fa2c441062b78ca3b02afcd81c48e684743bcc6"
+    },
+    "8455": {
+        "text": "Requiem Wisp",
+        "hash": "a6231a258eea70fcbb5b886ce408d84eeb58868739e58a313c74dd90e9b312c2"
+    },
+    "8456": {
+        "text": "Royal Tartan",
+        "hash": "dfb0a10ffc087cb3b678c7cf7f781dd1d58dab46f1a49f895fdd6ae2b24dd848"
+    },
+    "8457": {
+        "text": "Weiss Grimoire",
+        "hash": "47a06ba316e98f1714e3bb7504d99a49751ca2d19478f5bf5288dd037fdfb1b3"
+    },
+    "8458": {
+        "text": "Puka Puka",
+        "hash": "a46360e73527a4bfea89611c3a0f55303f182dcff9625e59f84184bb481fbb7d"
+    },
+    "8459": {
+        "text": "Garry Smile",
+        "hash": "f420122aec2f7da1f27df07f60527458f7336b43bc2b3639d8323f0e2931decb"
+    },
+    "8460": {
+        "text": "Wicked Lady",
+        "hash": "a1b7ec0c0cdfd4d11bec2011423257bc4ac8c314bfba46ff5b1ca502d5864771"
+    },
+    "8461": {
+        "text": "Malifics",
+        "hash": "1670a4d4d1a62c524bbd0f082d8f5faca2d962827d7a5732fe11f26dfe0c5d85"
+    },
+    "8462": {
+        "text": "Skanda",
+        "hash": "b0870bb7285d9a321041fdafd14cddcd0c2e0464bce6cc323e3dfcb3ddaf683b"
+    },
+    "8463": {
+        "text": "Primera Chica",
+        "hash": "f784918771c97150a1c6dd0053f8e0ab6a73501fd3f43ddb9742c9487e9b1457"
+    },
+    "8464": {
+        "text": "Takeoff Plane",
+        "hash": "1275cda7a83c24ecaa70e990b34691c28202365a6ccfc51e5462ffebbc4db2bd"
+    },
+    "8465": {
+        "text": "Fronze Sky",
+        "hash": "015c84602dafa0c171d6e8c07a6b620aca55934fed11d7f11a6d1e038ea028f9"
+    },
+    "8466": {
+        "text": "Nexus Force",
+        "hash": "e8367ac82e52891ca57182b76890c1590fb6d3ebaa3b3dcb07dafe1ebc3aca62"
+    },
+    "8467": {
+        "text": "Jalajara",
+        "hash": "4335586289cc167dc5e0da91b09bf43639ac6c521f90a7be1012064200d49239"
+    },
+    "8468": {
+        "text": "Breeze Plane",
+        "hash": "7b9c7d4317b784a275b5220d5ad163dcc68b0174ae338e316f71f12be71f02ef"
+    },
+    "8469": {
+        "text": "Frilled Lemon",
+        "hash": "c83199fbe5ff7f61264aa1dd68342f81ffed884042254c832ff668219802cbbe"
+    },
+    "8470": {
+        "text": "Rural Leisure",
+        "hash": "36ff51193b385ac5c5e9119d75aeef755b72050c609a92db064486e6db04444b"
+    },
+    "8471": {
+        "text": "Blue Chouchou",
+        "hash": "014e7a70bfd5250355e7d265dd039d0c04718944ee5ffeb9acbd11c6c5fe6467"
+    },
+    "8472": {
+        "text": "Replication",
+        "hash": "11b4595588fb424228a8e6b34600a1772f121192978dd3b6872e381b8910acf0"
+    },
+    "8473": {
+        "text": "Mini Lavender",
+        "hash": "c7c694aa0467f7c2318af0289414beb8dd18ea1375919492fbf2ba84d721f8de"
+    },
+    "8474": {
+        "text": "Aggregation",
+        "hash": "dd2fcefe99f3bd257d9cf83d2caada22a2a4f5238dc3746a514d4a053715349e"
+    },
+    "8475": {
+        "text": "Brave Kou",
+        "hash": "03a617cdf9a990b552f769c5d8f6308e174a79909918d8e70767bd4a672e714e"
+    },
+    "8476": {
+        "text": "Mini Cactus",
+        "hash": "d3ff061fa4815e013e71c40ca83f9c3fcaef8e557a519feb9215687d1b7f77b9"
+    },
+    "8477": {
+        "text": "Jewel Calcite",
+        "hash": "13aecff76bfd2522ec3ce1b0b903c8afdd2aef3b1fbe3567cd541b7f45da5b67"
+    },
+    "8478": {
+        "text": "Krasnaya",
+        "hash": "f21e46522447db3bc3b2ebfcf760020432148d6fdca8f504327f718f9b9e3062"
+    },
+    "8479": {
+        "text": "Sand Commando",
+        "hash": "3e9e8b321719cbf6810aa4ac481023aa4ac2e8445f8a71b7035ee2621ee36b0b"
+    },
+    "8480": {
+        "text": "Touring Bike",
+        "hash": "ca2d0e0915a10593aa5713ed7c821216c50ea879ade1ed6c2922049faf0601f9"
+    },
+    "8481": {
+        "text": "Bite Al Hikma",
+        "hash": "a329c7d95435294a543bcb38c93890d54ab50bc0684f8b4b4477483e07013c2d"
+    },
+    "8482": {
+        "text": "Elegan General",
+        "hash": "757d0946959669433f0c494502f57e9b33697bc7871e5761acc74b3c4c83f8e3"
+    },
+    "8483": {
+        "text": "Time Ticking",
+        "hash": "62eb0b2cba83d546669b5f6f2773e0badfdb956595e59764d239f5947fe88929"
+    },
+    "8484": {
+        "text": "Every Man Likes",
+        "hash": "fc6404e4500d9c7389e0d2f41a04bd115873e64210ed1f53d510ecc889f4e9dd"
+    },
+    "8485": {
+        "text": "Long Caravan",
+        "hash": "3ac68fdd3ce0ba13b36bf080602ee843a3a66e81123b236cf5d92a369bceb4f6"
+    },
+    "8486": {
+        "text": "Encoder",
+        "hash": "add9b8f5ea07e42df52d6f7a2cb259c7967b62b0fc0a43b74c61d60d75459199"
+    },
+    "8487": {
+        "text": "Ribbon March",
+        "hash": "3ea1e7abbacd9ef4ae3f2f2a10e6a814c2a6d001ae6e783002cbcc462b7bf210"
+    },
+    "8488": {
+        "text": "Mechanical Vapor",
+        "hash": "4893660e528514d252fcea056e33b352eb74e609156fd5065536d3e7300c4fec"
+    },
+    "8489": {
+        "text": "Break Chain",
+        "hash": "cdd6b331f435e5db1fcfdfda83a3be3c553b66145d8c88b015c43920c88e377a"
+    },
+    "8490": {
+        "text": "Chattering Cheeks",
+        "hash": "0ef1c6dd3da59f1d69cba5ad2fde02735f6d2e22d07021bec3c6100abb1bf158"
+    },
+    "8491": {
+        "text": "Zip Liner",
+        "hash": "0f405694f8d3c43ecb7f63556c2adcdce495edb75138ecbcae518025d906f62a"
+    },
+    "8492": {
+        "text": "Simptin Dash",
+        "hash": "3921ecc0f79e6813eebd8d4497893f1470b7e6f10f21aabba62d49eaa8cb9f6a"
+    },
+    "8493": {
+        "text": "Its Calling",
+        "hash": "cb46c9a8a0f7b82fa1f11dafb2841bd7888623751938784ce73dccc89fc3005c"
+    },
+    "8494": {
+        "text": "Stents",
+        "hash": "688c25cd4b35b10acc9f2e458aff203b415d0d2c8d885db386091e9141e1e65e"
+    },
+    "8495": {
+        "text": "Mini Pansy",
+        "hash": "46d40fbcb14a610a9ea8c6d12f502d36c158466bd50d09d2dc11c141db757f40"
+    },
+    "8496": {
+        "text": "Breese Airship",
+        "hash": "edda792f33791ba02d6f113fbc540c2ea814febbfaff987222c51fe0d2afcedc"
+    },
+    "8497": {
+        "text": "Soir Celeste",
+        "hash": "10441c9e24591fbfbf65e144a0fa5c0011c78335873604933a8ab78ef87c7639"
+    },
+    "8498": {
+        "text": "Pleasant Clark",
+        "hash": "ba738b2e3787698ba4b2118595e8482ddca6222fc68c307a6c6b7e5eadcc17f1"
+    },
+    "8499": {
+        "text": "Jewel Ruby",
+        "hash": "34d7b0d47a0dd45f164550c9e28aa2aba48eece109feb2bd182f42b91d3887a7"
+    },
+    "8500": {
+        "text": "Kaiser Palace",
+        "hash": "b5c984cb284788b29ec417ca38d0a4e059229583a21a9b24e49ee2263b02e875"
+    },
+    "8501": {
+        "text": "Tunneling Voice",
+        "hash": "4f0bb79ec9dafd9049b4948d3325ba447561a6c92eea1a84b731510d332fdceb"
+    },
+    "8502": {
+        "text": "Mint Drop",
+        "hash": "637de7ca145f5d2e5d2a44d846c5d1d3e48e2ed7a86878962c7d28da5b65d795"
+    },
+    "8503": {
+        "text": "Ribbon Etude",
+        "hash": "bb24bacbe53fe2aa0f879795b4c6e6a2b538778eb0eb9a4ba94baf6a4edaafeb"
+    },
+    "8504": {
+        "text": "Third Party",
+        "hash": "1c6085ce1b309a0b322685639bf53f4790411be72e2d0159323e4b709c99b140"
+    },
+    "8505": {
+        "text": "Tudor Garden",
+        "hash": "f88479723382393a800d1242d1a04c556a31bf7a02056dcd0abeb847e9a8beed"
+    },
+    "8506": {
+        "text": "Ribbon Threnody",
+        "hash": "eca3e502bc8003d129744cafedbd678172eed68ad0faae937d648023f034baed"
+    },
+    "8507": {
+        "text": "Masquerade Eye",
+        "hash": "ffb353aed27a6a2a16087cb56bd538f3870b029090db7232f2f3cdef56539baa"
+    },
+    "8508": {
+        "text": "Oishii Parfait",
+        "hash": "bf0ef8ded0162b736014eea87a69a71dcaa6f5dc780f264a2be37ae8a111acfa"
+    },
+    "8509": {
+        "text": "Irresistible",
+        "hash": "cde09b63b0ea9914e461c66af70e39820ce9a3bd71a4ca2a75ad66104ea45945"
+    },
+    "8510": {
+        "text": "Chavalanque",
+        "hash": "01524d0633fd10b86c75af1f3cccfe7434ce07a41466ad1b2b74d13647e382d0"
+    },
+    "8511": {
+        "text": "Duna",
+        "hash": "b9d587dd0efcd6592984bfbabd739bdfe9914ca5746f840481fffe01c88f8be6"
+    },
+    "8512": {
+        "text": "Hard Contril",
+        "hash": "7a1fe50befb0b6b4963c941b1b3ba46a18fa7f925c5890de5649be85fdc56efa"
+    },
+    "8513": {
+        "text": "Chief Purser",
+        "hash": "672966cdfa1e4cddc8406cb97bcb6b8eb3c28efb7a477efdd7c66007dee05f2a"
+    },
+    "8514": {
+        "text": "Kumbakarna",
+        "hash": "ff4f0d309ba6b1fc9c97981e2936e821f9c8734fa2251b91e4a53811ace3c6a0"
+    },
+    "8515": {
+        "text": "Duo Januiya",
+        "hash": "a78e733fa0203522d7ecbe8f35bb4176e6aad94eafdb5f2225423cc4a9b60f19"
+    },
+    "8516": {
+        "text": "Pristine Song",
+        "hash": "9fa6f58c9936a69a86a5460fb5686eef781fbaf50474f5ed1110f00add253b32"
+    },
+    "8517": {
+        "text": "Lead Novel",
+        "hash": "71d7a25ce497b9852e995bb45a67e687d81470de244acc83a0184c025ae52731"
+    },
+    "8518": {
+        "text": "Khaki Chouchou",
+        "hash": "e761c19494f5a902fc7b09d320437012e3a73d9e4b963312e2445075f583e18c"
+    },
+    "8519": {
+        "text": "Cosmos Scrapper",
+        "hash": "61ad6558fb51768c966466437e27d7e549d6fd660717064a4b705044d50388fe"
+    },
+    "8520": {
+        "text": "Shorty Shot",
+        "hash": "a992ebcf2fd785643ea66c67c888e640e2fe14ccb4bd3a891adb02f81dddc994"
+    },
+    "8521": {
+        "text": "Frilled Berry",
+        "hash": "a79a82c367d281892955f78d86bbb3d87ef758a2c8f981f073f9dadbf2025226"
+    },
+    "8522": {
+        "text": "Mini Daisy",
+        "hash": "aa8ffa796fd62a6d58cbaeb6aafaf2e0c8eb89dfe365f517929e7dd3ee3ec60c"
+    },
+    "8523": {
+        "text": "Lets Jump",
+        "hash": "d073969dfa366fdad7e3ca11440f1e0edbd451823f6eaf67754835ce50458823"
+    },
+    "8524": {
+        "text": "Chronicle Oath",
+        "hash": "c566d3c96de0215a0791f0a47415df0583abc515c399fb77bab1c06e3c716b6a"
+    },
+    "8525": {
+        "text": "Red Chouchou",
+        "hash": "8a57c0ef66b548cbc319d33973eceeda16c033b1a3ec472cf11dd9263ae23d5d"
+    },
+    "8526": {
+        "text": "Jewel Emerald",
+        "hash": "00c048dd3a8c7de7c37d4fc094e3df16e51638fc95fd2048bddfa040eabbfbc2"
+    },
+    "8527": {
+        "text": "Castanet Rhythm",
+        "hash": "13b9c56010f30f5b30a5ba224e2572de26f273b4ac68ed40201789fe3fc1c506"
+    },
+    "8528": {
+        "text": "Horn Rhythm",
+        "hash": "02c5de88ba1a0c0aabc8964362b36971822616604e79e477018abc83ee25ea28"
+    },
+    "8529": {
+        "text": "On Stage Revue",
+        "hash": "2ba35914ce6a53e9b4403dfaecaea18259e18209b3ac41b077d7601ba888b2eb"
+    },
+    "8530": {
+        "text": "Wiseman Rays",
+        "hash": "16c019dd1c6bd269da94333b312d49fecc949fce072e38bbfcc97aa6b85cad2e"
+    },
+    "8531": {
+        "text": "Duo Taliker",
+        "hash": "ee9790aaecdcec8440f442528414ceb93ac50c21f819ba0500ffa5da492a4d1a"
+    },
+    "8532": {
+        "text": "Wakuwaku Ribbon",
+        "hash": "f74c339f554b76e6ec03061786c0db0a320dbf5f8bbc00bf35ebb77e44079513"
+    },
+    "8533": {
+        "text": "Compromise",
+        "hash": "e39e4e48d45ce950fbff03fbdc2caf7d11fe6ab8def137e68bcf0559328d07d5"
+    },
+    "8534": {
+        "text": "Cheer Rhythm",
+        "hash": "32bf0d5438ead7868ed0bf3033e15f40a4d613abb6151b364dc4ad5bc9f92837"
+    },
+    "8535": {
+        "text": "Ogresse",
+        "hash": "f03be7d9c0358f34e0e60142fdacc99575a906eea19d81c3e4b36875b3cf3f44"
+    },
+    "8536": {
+        "text": "Beta Cubism",
+        "hash": "f8bd523e7d694baad7fa973eccb57fe6ab5e488660ba280978fff4c24152945d"
+    },
+    "8537": {
+        "text": "Bravo Second",
+        "hash": "af5021c1e608d699911a57117039e987b11f27a1d3a9c717c918c06f900d1403"
+    },
+    "8538": {
+        "text": "Boomabang",
+        "hash": "28785746071a5bac96abaa8bc9a352bc7cea9c2580fe4198f07d00957e1d0ded"
+    },
+    "8539": {
+        "text": "Slaine",
+        "hash": "81a9ce9b850f424658c99783f8e218c975e0ad6f12d40060f4f7672c258ba2b8"
+    },
+    "8540": {
+        "text": "Heart Caesar",
+        "hash": "dd8f6dbc5f4f8343696ef4f62548ca628bce79179a4ff55509e3f39c29d8c341"
+    },
+    "8541": {
+        "text": "Cembalo Rhythm",
+        "hash": "d6c34b514eacddd775d8642ed9c32ba8df3d2d4b539f157870e386f694cf9558"
+    },
+    "8542": {
+        "text": "Indigo Chouchou",
+        "hash": "a64a5d449d5754687cb389bd28727d45e7163cda966cca3db36464b698d57f98"
+    },
+    "8543": {
+        "text": "Ribbon Ballad",
+        "hash": "d3873dd4275b40eb5565eeb8f8a2425cda06bbe3916653e34dd2a71df01a5a4e"
+    },
+    "8544": {
+        "text": "Bonheur Sonata",
+        "hash": "aa74ffd2ab15a06ce546f27d0c72f47a997012f8e9c6b8c6b71c8213a075ab11"
+    },
+    "8545": {
+        "text": "Green Chouchou",
+        "hash": "6d4e8e94d6ff981e7ca555b92b06409bca3b54d6a0cd80de8c09c47313b2000f"
+    },
+    "8546": {
+        "text": "Kinderschatz",
+        "hash": "1248117ee35732c7b341d1b83fef76a51b15976fca70dbc092c1c4697d9dbdcb"
+    },
+    "8547": {
+        "text": "Hasty Fire",
+        "hash": "d11117242ea42879d1a67bfa4cf408bf2ac094120071fedc47f91ffbcf3f1893"
+    },
+    "8548": {
+        "text": "Spain Gelato",
+        "hash": "9b745b31cbf1e5f6d09ea2ad33a27a044f00c37688ebb117b3625a0843dfb992"
+    },
+    "8549": {
+        "text": "Domiziana",
+        "hash": "ae98fd356191e14cb8b211eaf58e98dd8b9503278fcddab398f5418f907c8248"
+    },
+    "8550": {
+        "text": "Cravat",
+        "hash": "b051052bb35baeeef016bc2cf134bbd260bd2104d5e16760efd5dd9cdb73f7f2"
+    },
+    "8551": {
+        "text": "Goldschuh",
+        "hash": "2751fe967cc60a0dd4f8028c646d01c4c46a43a1da232c62d3596430d3717749"
+    },
+    "8552": {
+        "text": "Hydro Clop",
+        "hash": "1e27ceff77d76d443b96573268395df582542e048131f39416e36ea0bf389c53"
+    },
+    "8553": {
+        "text": "Mini Lotus",
+        "hash": "d1be25ed2628984a54a82e51654e41c8f304a4d5c3a73e143e676d7c702060ef"
+    },
+    "8554": {
+        "text": "Colosseo Fight",
+        "hash": "83b1300930e39330164cc9cbc69c2eb48a9c9aee27fbf7b31b40e46f7db40a2f"
+    },
+    "8555": {
+        "text": "Astraea Noche",
+        "hash": "9038ff8950f2156b34041f1377994a7f148ab56bf5313d5a816d7bb8277c5caf"
+    },
+    "8556": {
+        "text": "Marine Seagull",
+        "hash": "9adef69bde5e4ca424ab62f68c1afcf925381c58d095ce6af9917c91802c6516"
+    },
+    "8557": {
+        "text": "Straight Bullet",
+        "hash": "77bb5fd153822d018b7c31cc29da29faf6a5da89c8eb685efe71c9db9637f517"
+    },
+    "8558": {
+        "text": "Jewel Sapphire",
+        "hash": "6c1ce68baf1fb5eb6715383c5f42ff859506672df1f05c9269d38448fcaae1e8"
+    },
+    "8559": {
+        "text": "Maritime Skipper",
+        "hash": "c9821663ac0253187bc60aca96c82e5bae1dc5460707dd4694a5615ef775db39"
+    },
+    "8560": {
+        "text": "Fudal Tenure",
+        "hash": "ca26c0913d2a1304c299f8fd058faf2f8d443423d7f33aba4fd3a10ec9b5b156"
+    },
+    "8561": {
+        "text": "Blitz Eclair",
+        "hash": "0cabcb1915d8c406b90c35d08d2fb94492c28e1d01bc682692b5f2722dc8b8a4"
+    },
+    "8562": {
+        "text": "Frilled Cherry",
+        "hash": "457d85aa4b16742709e273a1ad16703a8b5d5c90695ea6f524eebb5dc26b1d4e"
+    },
+    "8563": {
+        "text": "Moon Pop",
+        "hash": "4e9e6ab3b6c7d2128c90684b2fb2cd2fd7fb81626f18924caf37abf0d7c63382"
+    },
+    "8564": {
+        "text": "Rye Field",
+        "hash": "ef36c429cdf333ffa1d4232b422efca716fcb410bdf2065134527d15303c6979"
+    },
+    "8565": {
+        "text": "Luminous Escudo",
+        "hash": "ae60cf354954d4eb7c35fb2da8fbdf562ce1131ef619c029cda2d0bfd5a4d37d"
+    },
+    "8566": {
+        "text": "Jewel Malachite",
+        "hash": "9647c30358fd8d9c601708a14ea72b176e5220bdbd697b3dd5e86870cea53cc8"
+    },
+    "8567": {
+        "text": "Indian Breath",
+        "hash": "b5b9bfdaa4c81ef20156576753e2f2f7276f6934c81eafa9b847390674646b54"
+    },
+    "8568": {
+        "text": "Lead S.F.",
+        "hash": "0286f3162f3825d707cb0890f85b8a910d7f5d060c9272a26c82c9cd11c96e87"
+    },
+    "8569": {
+        "text": "Phoenician Deal",
+        "hash": "8b237d157eb70af8bf72572b916f101149ecd78078d7bc9ad0619320b37cddba"
+    },
+    "8570": {
+        "text": "Dragoon Spear",
+        "hash": "f23c21c84af916714dd9e657ab3a6944f72040ddf897a0a703a5010c44b1d586"
+    },
+    "8571": {
+        "text": "Sunny Weather",
+        "hash": "241edcfa9e5d2b94a8b9d396d3e393f29e6ebe138c53feaaac27a3dad0ec18e9"
+    },
+    "8572": {
+        "text": "Yggdra Valley",
+        "hash": "ac2497cfc64d56e84efc460e3f8ecf82daf24a105f3b5f7af5e2700ca5c9015e"
+    },
+    "8573": {
+        "text": "Ephemeron",
+        "hash": "84e499d0da9179b1b81cc2b89a0e783b42f5d0436c09a993da1162108d35a614"
+    },
+    "8574": {
+        "text": "Dark Grimoire",
+        "hash": "670f9859bb42d75b193f0f020eecc021ab1f8cd5acdfd87da108a6df25446d49"
+    },
+    "8575": {
+        "text": "Spring Happy",
+        "hash": "4a56b67b012c25016e9abb3a6202bd0723279dccdaa06230b6bfea2c7d4e08ba"
+    },
+    "8576": {
+        "text": "Insight Catch",
+        "hash": "fbc63174a0bef8ca564a3cc255553d1d2f691f2fecced7aa610c0739dbdfdd01"
+    },
+    "8577": {
+        "text": "Akinakes",
+        "hash": "c435b540e55b83bbacb822d71d978324a6e40a70bd3de6c6fd95dd54c1397405"
+    },
+    "8578": {
+        "text": "Fife Rhythm",
+        "hash": "0bbd22260e91d4606e4cc0a5d35e0c21525a3469b85807b008d31eb609f5679a"
+    },
+    "8579": {
+        "text": "Turbo Detonator",
+        "hash": "cebd4579651453a1c2109f30416b827c158912654bb6d9a902570fc33b957da8"
+    },
+    "8580": {
+        "text": "Unison Flag",
+        "hash": "d61463ecdbc0f3a81ab8210217585c972031310ad8c6df93aa2ff4c206dbfe6d"
+    },
+    "8581": {
+        "text": "Beam Of Love",
+        "hash": "6188ec6d3201d18cfd01d24a617521874e70e581f4e3be3842b00161c7324034"
+    },
+    "8582": {
+        "text": "Paraiso Sky",
+        "hash": "d9db0b9020936f362782fc6b8c4de8893a307b4a2b7864b82e3792bd75c01279"
+    },
+    "8583": {
+        "text": "Heart of Sweet",
+        "hash": "e6613369f83377464deea4c092cd6b83ca1d816c52024ee0d4f6b7a399f96865"
+    },
+    "8584": {
+        "text": "Anima Animus",
+        "hash": "71851a7997acf897dc2b815dd58519d739c6a15ca0372fb413a59ff132c72283"
+    },
+    "8585": {
+        "text": "Aqua Lake",
+        "hash": "05585fb4832b356b5beb6376f46a0db455a648b676b0db72977a771c277f3f91"
+    },
+    "8586": {
+        "text": "Hula Halau",
+        "hash": "5801166afd506631514327fa81fe11c072c0b40f40787c7ea6e326dd320c2ef0"
+    },
+    "8587": {
+        "text": "Brooklyn Isle",
+        "hash": "f4f22329317356659ca2f5c582f690097e9c7e3f23b458cb018c5354cd112694"
+    },
+    "8588": {
+        "text": "Reed Essay",
+        "hash": "8b78962e2e3033a6b3e9bca44486d751762d3cfb311b020781cf144caaca8d88"
+    },
+    "8589": {
+        "text": "Eastern Diner",
+        "hash": "82ad9d466ddb74383695c6e9bfb0fac7dea5f843b02fc2f16881f827257aeccf"
+    },
+    "8590": {
+        "text": "Missing Nights",
+        "hash": "6f10ad402db3bf815375843464a4f09f65e88c55e3f2f28db29cf74e627cd864"
+    },
+    "8591": {
+        "text": "Chemical Wash",
+        "hash": "2e018012c4cbc2b4a18d9be48f0f64686c914f77d814c3cc1e4cfa648e192895"
+    },
+    "8592": {
+        "text": "Noir Grimoire",
+        "hash": "55183d17e4a3506e1e4bf1e539463dbae538ded5169d67dd6aa72cb6e6257cdf"
+    },
+    "8593": {
+        "text": "Slow Motion",
+        "hash": "21d0dd7711ffe04a1a6de8fe3f4486ac4a281e4ca4c31e2c5baaab02c7b6c79e"
+    },
+    "8594": {
+        "text": "Azalea Bonheur",
+        "hash": "1f3e606e9f5156caa9d2d5a36202da5bfdc3cd2c5cd57f917c534fd2dbd41933"
+    },
+    "8595": {
+        "text": "Heart Scorcher",
+        "hash": "0d0ebbef29293d9e84b9f8b2ab715dd5f22e4bb974648d3a34fa59e2b3aa0635"
+    },
+    "8596": {
+        "text": "Ribbon Scherzo",
+        "hash": "ff0d2076ecc92c970a898431ac12a3638bd45700092b8446ca0704dc707d0c2e"
+    },
+    "8597": {
+        "text": "Jewel Coral",
+        "hash": "2f7d43f82f7cb77a4e9a40f28abef55cd7513020bfd1b87ec748ea9000839828"
+    },
+    "8598": {
+        "text": "Ribbon Pian",
+        "hash": "473af8e3ca3fc749d9a566adf2dc2c167fd26222d76752798bdb23b40d0b3409"
+    },
+    "8599": {
+        "text": "Merciless Queen",
+        "hash": "ee8110a81a829bacafe3d35511829a9e213cb5c107f7cb52d9848f60701a22f2"
+    },
+    "8600": {
+        "text": "Solda Passione",
+        "hash": "f683fb056288cf83fe912b37e0898744722eb6c1939d205babfc579d293b69bd"
+    },
+    "8601": {
+        "text": "State Of Art",
+        "hash": "2b7739eb42f2bd2ce6d1179c3055924ca131971227269abbd189c9481ab95fdc"
+    },
+    "8602": {
+        "text": "Duke Dumb Poppy",
+        "hash": "d954e58c91d3a0946251e8ae0ae0f91688110b23e5a79e072168be9143c8aa71"
+    },
+    "8603": {
+        "text": "Paladin Sword",
+        "hash": "470fcdb9c9059582fe361427d756f7bf6aeba8bd488056a825d451af2711ccca"
+    },
+    "8604": {
+        "text": "Dianthus Bouton",
+        "hash": "cd00fb68b562634297e1518d92d01085ff8e38a3bc86ccb3e142798eefd424d9"
+    },
+    "8605": {
+        "text": "Daddys Boots",
+        "hash": "70c31c8ef5868be7f1cce3970fa4fc3deb4acee09f481702c02c25ef3a6b98e1"
+    },
+    "8606": {
+        "text": "Lovely Patricia",
+        "hash": "3e96a43fadd70d071cd90385cd1fee77e49921c3aa7d4e72e43c707ee250824a"
+    },
+    "8607": {
+        "text": "Make You Gasp",
+        "hash": "eb6db2bae15b71ba5de8d29dc857b46914699f1df6d9d01b080a5b9d336e1adf"
+    },
+    "8608": {
+        "text": "Virtue Mind",
+        "hash": "8d6759884c14482c6d43eed0f96a54ced44a6c06701e74bca12265c6387f30db"
+    },
+    "8609": {
+        "text": "Energetic",
+        "hash": "594030017d389e19f3147687c3eb2b0159177e93078d14c6389937ed6ecc2d99"
+    },
+    "8610": {
+        "text": "Brusquement",
+        "hash": "740d34c2d7a7167ef36d12ca7323257f5011bb53602072eae1b6be36fdf72dd0"
+    },
+    "8611": {
+        "text": "Suger Nymph",
+        "hash": "21baf9b578305286c6ac9489d634c09e4c260a9883e1a1aa30938830462b7cd4"
+    },
+    "8612": {
+        "text": "Harp Alpha",
+        "hash": "3097df716fdc09adcdee9545e68c7dbe70676bb6437b23b4bf749baf7838c1ef"
+    },
+    "8613": {
+        "text": "Shiina Fréjus",
+        "hash": "b88223bc876a85c6073e7fa5e1fb382272acac56400777c1ff048f5f5637c93e"
+    },
+    "8614": {
+        "text": "Nemo Tiara",
+        "hash": "066242985585e4a4e3b06ef91583c5903da88b3af1c66dd98b0e41ef3a83983d"
+    },
+    "8615": {
+        "text": "Shine Praise",
+        "hash": "7b59076b5ab8c71d3012a3756cdfa597dc4a5c449a2c9589e49ed14ae6eefe04"
+    },
+    "9001": {
+        "text": "Schildpatt",
+        "hash": "0c247f32ce409780b3f261453d7e3cd3c84d23ae28c3aa2ae58e30a92a71f1f1"
+    },
+    "9002": {
+        "text": "Blutstein",
+        "hash": "a5f644dfe25ff1f31cfbb5cf9cc2fa902a5f4e64eed8c32bd0cdd10d8d19920d"
+    },
+    "9003": {
+        "text": "Herbstlaub",
+        "hash": "4c5a91eb96b3a8d8e6ed5428f7d05bcc76c1b134293e9ce986b3270d79722e8e"
+    },
+    "9004": {
+        "text": "Wasserlilie",
+        "hash": "00d0b8b116d8d44df92cc0aeb1e2fd478fb930cfc27e777c595914c1b453a28d"
+    },
+    "9005": {
+        "text": "Hochdruck",
+        "hash": "72161441da622ff1faaa101945b4bd1d08fe0a70eee40b0bcfe56d1cf4829812"
+    },
+    "9006": {
+        "text": "Gefrieren",
+        "hash": "5f00a468e97ba9dd47b87c1058a1f12534a7852150cce4118d8a752fd10b1599"
+    },
+    "9007": {
+        "text": "Lippenstift",
+        "hash": "e6da888d9bbca010ca072fd985b63bc9838926bfd70cbf918b0af7afcd120805"
+    },
+    "9008": {
+        "text": "Lidschatten",
+        "hash": "7a32cd5aec230d00aee529ddf93ef543a9fd40663c3401894e90f0028e266171"
+    },
+    "9009": {
+        "text": "Sehnsucht",
+        "hash": "9eb251aefd3aa43ee8656e4ece70d978646fb062388ff43900367e10e170c11c"
+    },
+    "9010": {
+        "text": "Schwiegsam",
+        "hash": "f85d7e7f00af7bb2500f98d6c20b4ac1b4f5bb3da08236763aabb6d2e3fa32c3"
+    },
+    "9011": {
+        "text": "Ametista",
+        "hash": "12593b8df416c329d069c0143e1ac5bd638b669af51c0a7de67e2a6e46fa5ee5"
+    },
+    "9012": {
+        "text": "Sardonica",
+        "hash": "4f0340919e1f700b2289951b58591ce7324adfbbfc8168979980eec6c227c35a"
+    },
+    "9013": {
+        "text": "Albicocco",
+        "hash": "87cc3edd55596c2770b12479e44c5335c9050676850aff0ef1bfd89bd2200f2a"
+    },
+    "9014": {
+        "text": "Giaggiolo",
+        "hash": "3f0ce8de6adad0c5562696329caefc1e3de09e4f83844d7df271c36113218028"
+    },
+    "9015": {
+        "text": "Umidità",
+        "hash": "7bf0f6d2af9bac39c748e851b52bb755bdc2ca0e1b92ce1440b64bb644e52da8"
+    },
+    "9016": {
+        "text": "Altopiano",
+        "hash": "8d0bca0ea423fc4fd10f2e5c8fa1d32c35a533b103094bb0b427cec372b6eb06"
+    },
+    "9017": {
+        "text": "Orecchino",
+        "hash": "ed29280f2a18822ee16b7b57e5f46fe6a901c371703791da606624168c67c7f4"
+    },
+    "9018": {
+        "text": "Insalata",
+        "hash": "a1f62a8fb64e9a34afa625efb4864684d9c13c995d7592a9b2b53753ba981418"
+    },
+    "9019": {
+        "text": "Birichinata",
+        "hash": "61e95df2e8519a5311129f92980ab849970968192b0e71523ef08d30e35370e1"
+    },
+    "9020": {
+        "text": "Missione",
+        "hash": "04a7c786769bff2e4eaf67c8cddac184bdbbf939f2cf66194fff79d3487161ec"
+    },
+    "9021": {
+        "text": "Scintillement",
+        "hash": "f3830e234f7ab44f413d0c1224cb29f84095c16e0f291b89c0867555929d066e"
+    },
+    "9022": {
+        "text": "Entêtement",
+        "hash": "f2a73cede00c8de532a8f0d5370d91a1a69c1e12121eee56ba4d7e802b08064d"
+    },
+    "9023": {
+        "text": "Nuage",
+        "hash": "1a3e48cdf4693cd5df5c009cfa5bda999d0014c97d0e92723d119edd8e404559"
+    },
+    "9024": {
+        "text": "Saturne",
+        "hash": "ba59a0f3cba6a14f6c096dd74b042b00b70e4d8e9dcdcb758ed8cb14aa869983"
+    },
+    "9025": {
+        "text": "Pluton",
+        "hash": "50f75c78fe18e85448ab35d05d3575e6ec18aba59318671a4ca6f44ca4b39f37"
+    },
+    "9026": {
+        "text": "Sambol",
+        "hash": "570e4a7330e199ac5c0c542e04c3a4868f850fdf84c03731684f104fb46a311a"
+    },
+    "9027": {
+        "text": "Mallarmé",
+        "hash": "73eb9612cd55610544d69b4b6815eab9a3270748faaa5b088a9ddc127bd031b1"
+    },
+    "9028": {
+        "text": "Éluard",
+        "hash": "caf1aeeb47cfff7f788e4a947d91832b26856c0ffe22959ae52adbc13083010a"
+    },
+    "9029": {
+        "text": "Aujourd'hui",
+        "hash": "d08a468565cd71f5191626ec5b23f536ff357666b6cb7d86edf922733b77e2a2"
+    },
+    "9030": {
+        "text": "La Foudre",
+        "hash": "b32d2be43090bf2c4df62f71ee216dbb84bdee6cb7aa16974a57c50a4765ea8d"
+    },
+    "9031": {
+        "text": "Olivier Odorant",
+        "hash": "958419f28cfc94b1166688ac5d8d7f6ce19cf5003db487d3ce57067736576eed"
+    },
+    "9032": {
+        "text": "Alkékenge",
+        "hash": "530a4a3ea8e2c9a0ff280859a573cf6d13a7af68c8167f2b9e6f2b23a83d588c"
+    },
+    "9033": {
+        "text": "Lutwidge",
+        "hash": "80438d10dd46a3643032d70b6dd08e1e65b6d68fa506106b5df2a13e6f33e66e"
+    },
+    "9034": {
+        "text": "Proms",
+        "hash": "2160ddcc536166f71ac1dec6828f0240cdf1987978327b78ea365d4c0eb2e09f"
+    },
+    "9035": {
+        "text": "Bors",
+        "hash": "7398ed51f6100b5d16be3c162a4ab93a26403e786d2f1211f3126f2484fd8771"
+    },
+    "9036": {
+        "text": "Aristant",
+        "hash": "d60b5c15dfc1c4ce74508c4e42485bcceeb64de0f841c9ae7fe9e985b6f02451"
+    },
+    "9037": {
+        "text": "Reynardine",
+        "hash": "39ff050118daae1afdbe0bcd4ff496fba9e7d2c6f76f01eba5006cb5eb8222b6"
+    },
+    "9038": {
+        "text": "Eneuawc",
+        "hash": "5d307621d584e53ea325985cead89d06c10963bef2ec0787ca171b7f555ee564"
+    },
+    "9039": {
+        "text": "Killaraus",
+        "hash": "0f9be38b11891121fcb86c05572e0a7ebb877190eb3c5149efbe9bf072cd9a78"
+    },
+    "9040": {
+        "text": "Gwendolen",
+        "hash": "ee11732c0b7aef3a39263f56deb62fc6a6eea789d3e782fd111ee0491cbfd98f"
+    },
+    "9041": {
+        "text": "Scuin",
+        "hash": "74dc83af40b7b8287f26dd3a0499459be4166788935fdbe1d35d32ab3bccfa6e"
+    },
+    "9042": {
+        "text": "Sea Tangle",
+        "hash": "1a53d891098f5db7b893e7ff4e9d6eab8d19eee8667e5ef68951a9e0462b9f9e"
+    },
+    "9043": {
+        "text": "Shâd'havâr",
+        "hash": "ef34f8483f2f965cb87ae86c0be60668a7c5982121ee370b5912091d4b4e7b99"
+    },
+    "9044": {
+        "text": "Shams al-Nahar",
+        "hash": "adcd5a04785333ee44bc33411a547b566c6d78186d1d3a8bd70d13df9e1c4a9f"
+    },
+    "9045": {
+        "text": "Aziza",
+        "hash": "f214f312bf972d3b72c13ebf1a6e11ebfd1fc5994ca4b0d47aac5e0dcd06a2d0"
+    },
+    "9046": {
+        "text": "Jharia",
+        "hash": "dc5d36f6a41d68399f53af59ef2f17fabb5188bb21a712f8589b4a00f98f81dd"
+    },
+    "9047": {
+        "text": "Sauber",
+        "hash": "186b9901e09a3bf8ba3ae92281cedcff889b0329e72128f121f2008274fcfe64"
+    },
+    "9048": {
+        "text": "Tariq al-Majid",
+        "hash": "21e01f951e57c1ef9c9212247e9563c56764194c12b53b220f929d844c5fb55d"
+    },
+    "9049": {
+        "text": "Rodina",
+        "hash": "7d6ca61cf56a1a83a1ff7f20bfc31a7fc47151548984ea54de1a8a948e85d5e1"
+    },
+    "9050": {
+        "text": "Izdihar",
+        "hash": "3d951ce15dc55f0decad6834c32f5313d18bd33b2fc86b553f809d8f602c5c43"
+    },
+    "9051": {
+        "text": "Murjaana",
+        "hash": "fd564795ca677af1e66d60b497d130f2a4cf8f6505a6e824fdcd9579b166423e"
+    },
+    "9052": {
+        "text": "Najwā",
+        "hash": "6768bef6bc0d7646e61230195f03e7dad24e790db9b590f108e9d0a05cf0215a"
+    },
+    "9053": {
+        "text": "Clicker",
+        "hash": "9421bab1c596ff0461d25a8b52159936a697515f181360f6a78e9461579328d8"
+    },
+    "9054": {
+        "text": "Chillwave",
+        "hash": "ae4dff6366c1e19587f1897ab537f33b7159f32a14ca5d4ec2779046b989ba00"
+    },
+    "9055": {
+        "text": "Immovable",
+        "hash": "37fc9a06f9559cf606e6bcb9ae4349596e12f02d683fd40bfdcbf1bb42e6dcfd"
+    },
+    "9056": {
+        "text": "Verity Talker",
+        "hash": "223aad43ce2210ae7898d838424fc5e365849b114d9e611d0bd7cec6164adbb7"
+    },
+    "9057": {
+        "text": "Minder",
+        "hash": "cfcef723b3c347573dbefbc39d2de80345a7aed6ca88f9b282ef7faaa592399d"
+    },
+    "9058": {
+        "text": "Leah Kinsley",
+        "hash": "579433eee47f6025efeee99c1333d3f193d0ab6c0878464ed1ecc91048362694"
+    },
+    "9059": {
+        "text": "Peace Sticker",
+        "hash": "04de8aefc69c34ab30c69bb95433f095289043ecdedfb15251206fefe6102849"
+    },
+    "9060": {
+        "text": "Bunch of Fun",
+        "hash": "c8775e7026cbf72ea7ce2cd98cd8e5320ab8985812e41f93f89bf84748b78f20"
+    },
+    "9061": {
+        "text": "Unlock the Key",
+        "hash": "a6958cf5fca90f84c7249b6f507a3f335a812928586f0b188e052571b630865f"
+    },
+    "10001": {
+        "text": "Again Needed",
+        "hash": "5cd415f54eedd5501cfd60c6b8a3acb4193dcb0f5a138aa48b7e084002b0b281"
+    },
+    "10002": {
+        "text": "Kakushiba Gulliver",
+        "hash": "251b18fab87c17d39b856e43fb02e21e326262ab52268a13cec8d238b6e73ddf"
+    },
+    "10003": {
+        "text": "Daikou Kunsh",
+        "hash": "6e9df0665e11c0a96e0e922fde15224f07e91e171f6a75d1b250ef2e3192493f"
+    },
+    "10004": {
+        "text": "Carribean Music",
+        "hash": "447f92fe9d948c29f0a155c7f3204e8950bf70551e6f16913aa4d24654d321ab"
+    },
+    "10005": {
+        "text": "Elmi Fly",
+        "hash": "7784152971d6ddb8839a9eb0ecd8614979d62d506bb871eaa2c4b8c782db3df6"
+    },
+    "10006": {
+        "text": "Eternal Road",
+        "hash": "d36334d9d4e9650cd81576dd38d0e271e290265fcff943d65e9f2bd1753b75ed"
+    },
+    "10007": {
+        "text": "Shiroiro Stone",
+        "hash": "216289b8ab4a3b79ed99f598e8a865eb2330e08f4241c8316f20534be65a5dce"
+    },
+    "10008": {
+        "text": "Monsieur Family",
+        "hash": "bfb9cb3958e762e0eea8ed3a2867cd2ca7a1e79a538f0f95974641578ab356be"
+    },
+    "10009": {
+        "text": "Kagoshima Oyashiro",
+        "hash": "23d45e61dbd8a9bb204ecb32705aa1f294bab64757319f9353a98dee3b3bad02"
+    },
+    "10010": {
+        "text": "Maymon Palmer",
+        "hash": "b53b0a7cae543bfa178bb27c26b68f84661f1ec6754a7a84f85608b55b0f49ed"
+    },
+    "10011": {
+        "text": "Tui Condor",
+        "hash": "20e68029b50cb1dbc7006e4afd7d99a297f7dd136d9cf34b8b9e42339708ceff"
+    },
+    "10012": {
+        "text": "Victory Dragoon",
+        "hash": "47c92404264a3b92e394d64d1dc5b16fd1dd377c9e3ec289b7a8776ab76c370a"
+    },
+    "10013": {
+        "text": "Mist Sancy",
+        "hash": "b5a7c34995db5d3e9b36f8d923fb2ec5ee11346f251bb591fef607723341b162"
+    },
+    "10014": {
+        "text": "Azuma Matsushiba",
+        "hash": "9a4abe09e6fb0305d26fa0ca075578051e6c3ec06955bc7e0de9c652865bbbeb"
+    },
+    "10015": {
+        "text": "Monsieur Therapy",
+        "hash": "ad7a7aa249548af3e51d5d54f21fa5612a4ffb57a1813ce47610c3e97db53a7b"
+    },
+    "10016": {
+        "text": "Kaku Kallocki",
+        "hash": "11c4bc82a22dc827c2b217ad818c9f9b9f2ecb7fd78ea6d4398dd12835db2b91"
+    },
+    "10017": {
+        "text": "Good Good Good",
+        "hash": "3a4945e9b9bf86d2f9b0e2507cf0d10bc8f96d835066278526e9ce04c67a8f2e"
+    },
+    "10018": {
+        "text": "Nokami Crescendo",
+        "hash": "8ec2c996f105fb7c7c0a8a3a6ce06abb3b48dd41cce30c816b26bfc1d2ca3493"
+    },
+    "10019": {
+        "text": "Monsieur Choppy",
+        "hash": "f9e6f3feb6316de11bc9f24b1da4841f9cbeeb33b4d3477427d4ac30ce91de27"
+    },
+    "10020": {
+        "text": "Shiroiro Arrow",
+        "hash": "27a7acb6f5acb506fe88271d5849e33fe01946063db5540e42476419e73fb5d2"
+    },
+    "10021": {
+        "text": "Gimme Maxtor",
+        "hash": "faf238572c1bd8101b2709b5a41fd92e3b4bb64445909caa5c2065c9ce87662d"
+    },
+    "10022": {
+        "text": "Maymon Marchese",
+        "hash": "6aa5191280a7ff1a442c411c6ad90bae1f2096076c4e0f230afba2dfe04715dd"
+    },
+    "10023": {
+        "text": "Top Vire",
+        "hash": "76f9d560160ead84bfe2790f3efe57b7326f309bb7737bab216facf48d4d56ed"
+    },
+    "10024": {
+        "text": "Red Pine Victoria",
+        "hash": "37e6726dbd6efb4f1cd5fc9e57b9ae3339bdf6a355acc106787ac55828981dac"
+    },
+    "10025": {
+        "text": "White Beauty",
+        "hash": "fb3f27d145cff5f4f8882bbd6b97d333ea620fee958094d3bfd60d95bb82f201"
+    },
+    "10026": {
+        "text": "Femme Girl",
+        "hash": "389926ab4194637a135e052ae6c195de74217d7254d1d7839be963c1b32be92d"
+    },
+    "10027": {
+        "text": "Monsieur Cyclamen",
+        "hash": "b37cba6746cb1729f29493dda9ecd469cb6656e52dfd75b04b7644367668f2b5"
+    },
+    "10028": {
+        "text": "Joryu Top",
+        "hash": "64cceb23e9b5ca2637a8cb5b05133b89873b4dcd02db2f40a0dd2055fb1e9561"
+    },
+    "10029": {
+        "text": "Resurrection",
+        "hash": "b456f4032049dc633ac68a56c18e956330eb224066e97cceaed59785fc6bee57"
+    },
+    "10030": {
+        "text": "Neos Fujimasa",
+        "hash": "35c4c5a14f5316d74ff44d9ab82ea2a58270198c531ae7d737179a32256a398f"
+    },
+    "10031": {
+        "text": "Song Time",
+        "hash": "f764428f1fee5a8471f50e8120acb99c7617981093f5f77969c2d1246b5a6a84"
+    },
+    "10032": {
+        "text": "Tsuchii Global",
+        "hash": "7107c7bcb7c230635a48ad3eb03e84bc780e6dad524c1aa9e4e6ca74658bcf7a"
+    },
+    "10033": {
+        "text": "Higher Solar",
+        "hash": "1c6686d423289b40cbb38375e8f9df332ea0e301a62c207526d4542c1fea097d"
+    },
+    "10034": {
+        "text": "Center Cast",
+        "hash": "de6a2f5e30f28af36657c81b03db12490f78ee3544a7c4b24c7e0aa210ed7e08"
+    },
+    "10035": {
+        "text": "Dai Yushun",
+        "hash": "0211defc7ada2e2c690d721bf63b5803810ae5550d3a0d6a6defc9bcfbf8ae20"
+    },
+    "10036": {
+        "text": "Fuji Sword",
+        "hash": "300ce717f221829c49928eb996720c728f3751384eacc6a6c395d71ec5a27029"
+    },
+    "10037": {
+        "text": "King Shin",
+        "hash": "1abfeb7550e9c498a3acf67f700bb257a24354f88c0b380cc7a104d9ffedb3c1"
+    },
+    "10038": {
+        "text": "Duo Jet",
+        "hash": "66e4ae41dc6f6f483cd2eeecc761a3893c45181ab48393e00aa323d406f5d7a5"
+    },
+    "10039": {
+        "text": "Choichi George",
+        "hash": "70b8822042201229fdd9f3c0d3a150f88130a41c4b618976d9f7650f4d04c096"
+    },
+    "10052": {
+        "text": "Hachieno Star",
+        "hash": "adfb5bc20d69c9c04c7f0ea6c67d08822d3f16296dfd3b35a82d922aaffa7df9"
+    },
+    "10053": {
+        "text": "Pasqual",
+        "hash": "912172778d66c012f3bd9b333771d2314539ef65982a95d6af4844eb959ff87a"
+    },
+    "10054": {
+        "text": "Sunano Lady",
+        "hash": "d3c10a89715803310d8303fc1d4a0e23debd987d144e14771f8e2f503c1230bc"
+    },
+    "10055": {
+        "text": "Maymon Ardan",
+        "hash": "9c8fc3cca90dc81be493d4fe641f9136f7a7245d55cefd3b7b5060fdeb0f1561"
+    },
+    "10056": {
+        "text": "World Tap",
+        "hash": "1ff41d1bb5b72ba58f181112adc52723327e5034a4bbda5376fa2401522afe81"
+    },
+    "10057": {
+        "text": "True Birthday",
+        "hash": "1c050ab7b8ecdf671996ce997ce6375af739318da71b542d796e24e27cedab50"
+    },
+    "10058": {
+        "text": "Girls Sunny",
+        "hash": "9347413626581e47c672c34bfcfc4e2f76df6e8eb2f5cce93355c6b69a6f69a0"
+    },
+    "10059": {
+        "text": "Gogo Message",
+        "hash": "9d850d11a2ed24c97ae5e5c32b20ff752df52ed1acf5d90b9d6c6d0c8cb02a46"
+    },
+    "10060": {
+        "text": "Win Win Hawk",
+        "hash": "f2bbb21dc7188e20d714263bb4b442c0f344b6e3f91755bb08c8509a4eddc933"
+    },
+    "10061": {
+        "text": "Squash Ball",
+        "hash": "25029057585693f6dc003712da62bbbd88eb034243c71d930cd8e820df3056ac"
+    },
+    "10062": {
+        "text": "Myou Taisei",
+        "hash": "32876dd2e138f5dbfdc833b1befdc9de3d13ba76e3a6b97df2aeb4af008b4465"
+    },
+    "10063": {
+        "text": "Foster Lord",
+        "hash": "1e2d1b442da7fd378b305d35fc3b71e8b2bb56569c91d5279fa5a44ef088a3c8"
+    },
+    "10064": {
+        "text": "World Bogan",
+        "hash": "ba54a0835bdfb3194689cbd50c28defbf0589931e8b73de34b49f0d85640e6f1"
+    },
+    "10065": {
+        "text": "Fresh Thunder",
+        "hash": "11cedef6a09c7ef62cb5b988ad50cc56ddcdfb5fe95907257d2e14733ff2716d"
+    },
+    "10066": {
+        "text": "Assembly Tesio",
+        "hash": "4f55117d5f723ee78c53b568b103ecab43af727d16061da2660a97e876d61ed0"
+    },
+    "10067": {
+        "text": "Global Toughness",
+        "hash": "d00338f19522e3eeb21b5ad6327946e1aa8c882cad5e3d03b160b8b900fb3f01"
+    },
+    "10068": {
+        "text": "Tsuchii Miracle",
+        "hash": "d5c099d82efea3b282adb2b0658eb21c675fb9203a08a6e0bf5a901edca58290"
+    },
+    "10069": {
+        "text": "Sasa Genesis",
+        "hash": "f39d0fc4cc21d505a644e21f2e47adf970a04b1d24cac5cf7270492c064c8800"
+    },
+    "10070": {
+        "text": "Sankinotazou",
+        "hash": "53c5d83b7790bc42bd96f9702b8531748907177aafb17732e2c69ea71eddf86d"
+    },
+    "10071": {
+        "text": "Akamatsu Center",
+        "hash": "5845e26ba76e2484163863e80bf588a1eb833131183344ff3c2390bc45eb6433"
+    },
+    "10072": {
+        "text": "Miketsu Torch",
+        "hash": "08c0fdcf45785105f7bf23b0f8de28a31b92daec0fc6a457165fadba219443fa"
+    },
+    "10073": {
+        "text": "Tiger Rocket",
+        "hash": "cd1af00c8ac5e4eca14a2ebe7db9851bcd892fdc27b722c77c790accc828ac7f"
+    },
+    "10074": {
+        "text": "Toyonaka Heinrich",
+        "hash": "febcecb1a9e81c7c702baffdbc386b43a09b776bb33198c535b6ef09dc499878"
+    },
+    "10075": {
+        "text": "Saint Singer",
+        "hash": "06cfd85f37eb2ebd706a88832c84a18e6616c13845df2f292700a3baa62de614"
+    },
+    "10076": {
+        "text": "Sloanes Draco",
+        "hash": "4ef55afc34648ddd57921ee4d43131f171d3ede49f8eac2da37c600044d80fd6"
+    },
+    "10077": {
+        "text": "Great Chief",
+        "hash": "8d5ad1de46f70cd4c9600e85761090672f9bec93be67e27581999f09334d565d"
+    },
+    "10078": {
+        "text": "Saint Rightvire",
+        "hash": "9b09030efcfd25627d5a4248afa01ffb4c55d6418f08ead69784274b895203ed"
+    },
+    "10079": {
+        "text": "First Rung",
+        "hash": "30fb150b8c61c70f9fd1f5fee905ab119c8aff5196d4c3afcebd23f35d1c166c"
+    },
+    "10080": {
+        "text": "Unison Tenyo",
+        "hash": "85268ddcf3a66fbed2b0d77fab3e4d088e1572ed18762c478d37159c7250217e"
+    },
+    "10081": {
+        "text": "Azumanou Gon",
+        "hash": "65f3478a985c4a4a35db11d74e0ef21d774ac5e20e1fc31082a755f34bb05382"
+    },
+    "10082": {
+        "text": "Sir Century",
+        "hash": "6078f2de4c454d7dff534ab8e77b7570f46ce0adebd9f3fb5a03321b99dbf736"
+    },
+    "10083": {
+        "text": "Kiyono Velour",
+        "hash": "5162f5a87f3fbb090dec506079c9721c51ed911c228972433f854ba7f973cf96"
+    },
+    "10084": {
+        "text": "Kin-Irono Hitomi",
+        "hash": "f0793041690a0e36345efb03597f4aeff544d3f0e944aebbacf73553bfcddce6"
+    },
+    "10085": {
+        "text": "History Friend",
+        "hash": "8a6286eabe574fbb5cfbea3a09626983afa9b2b929c739de269b233fff0fff9f"
+    },
+    "10086": {
+        "text": "Algamama",
+        "hash": "4af1b69d9972c620da907e859a1c4e91ce998a2b20d2c3cf9ebc4e2f901644c0"
+    },
+    "10087": {
+        "text": "Ef One Symbol",
+        "hash": "0b76baf3344db43b1d35af5ecc86ce477b93e60d0b7875f0afccd8cf2325de72"
+    },
+    "10088": {
+        "text": "Starlight Jam",
+        "hash": "b746c4598156498b5df04536a2365777453c4bf6e8fb6e88631ff63ce49cdfba"
+    },
+    "10089": {
+        "text": "Femme Faire",
+        "hash": "69ffc7771a5ffa6e314a4ee3bc8427bfb4f5011582e0ae03f43fef9129d11084"
+    },
+    "10090": {
+        "text": "Unison Winner",
+        "hash": "9285206e59f45c4f4c1263851c82fd2e1cb01ad6aeff7593a3d8c07baff74e6a"
+    },
+    "10091": {
+        "text": "Orai Paradise",
+        "hash": "2931e04898aea46ee9531b994dd563b1ec7b9c1cbc2e5462d06d236ac74ebf25"
+    },
+    "10092": {
+        "text": "Global Pole",
+        "hash": "c0780cbaa7d24a2415f57006a59197d43bb2110234a94b0b87e28287f5fa565a"
+    },
+    "10093": {
+        "text": "Attended Star",
+        "hash": "78835aa4366fc7be2caabfbbb425559d5fb4dd70c1ddf9587144e6d37aa3b2d0"
+    },
+    "10094": {
+        "text": "Halo Mileage",
+        "hash": "a3ece9afb6742dd2b9d3b7018dca8b96b444c868acacb0feb7d9bbb73d9a6aaa"
+    },
+    "10095": {
+        "text": "Kohaku Shishi",
+        "hash": "9737b0ae615e303bed19c0483faf5ac212b9eb37351a807cb9f0ae1a3480b308"
+    },
+    "10096": {
+        "text": "Maymon Chagall",
+        "hash": "7432f54f0612a9a1c1d610543bbe296796481d627ea4fca512d90bbece134ded"
+    },
+    "10097": {
+        "text": "Scene Master",
+        "hash": "7471a99f185b03379abb33a0a9a4de3d4bf7dc63feeda2c9daad3baa2e52c403"
+    },
+    "10098": {
+        "text": "Bongo Enevre",
+        "hash": "9f79bdc37ca59ee1c42e6e9082561dd4cc3de7b56ee99031d30768c618049355"
+    },
+    "10099": {
+        "text": "Mikasa Kid",
+        "hash": "2429e65f2ec16453cf25a998b6d0bfd7885b04756a26b84b5f008403555d26f7"
+    },
+    "10100": {
+        "text": "Cyclamen Charib",
+        "hash": "cb933b61c25090224d76f2d6a7898e6b473461690747be236599b95966aaaa6e"
+    },
+    "10101": {
+        "text": "Oran Peak",
+        "hash": "3c85104e9f3d132270856d38a84a46c536dc5021bdbda67063c2e4e8ff7a0e3b"
+    },
+    "10102": {
+        "text": "Hind",
+        "hash": "d39b7c5ec6ca770cbdf3a5b3b1bb8baa48cf31fc83a2af3ac20a212b94a8bc15"
+    },
+    "10103": {
+        "text": "Minesimba",
+        "hash": "e0a24e2eff6834522318ad3a2c2c806b304f731a5c3d3575b1409daef576455b"
+    },
+    "10104": {
+        "text": "Daynelle Rename",
+        "hash": "284ef599642f1c0620751e57179477fd16384092a4e53adf3d606601f723ab5e"
+    },
+    "10105": {
+        "text": "Inspire Ovita",
+        "hash": "28a4ce565c1893f24b407f5c4f56f7fcb1038fdb902f272298cc782e628f326e"
+    },
+    "10106": {
+        "text": "Dimidi",
+        "hash": "2959d632b232ecd2cb3b1f54ac16683fde3cb074b09bf89d1b2e1fd54e82b94f"
+    },
+    "10107": {
+        "text": "Mugi Top Runner",
+        "hash": "80829efb3f3c9ca2313468795c805be36183550ca4c7f01f4a0c4d291c445cbd"
+    },
+    "10108": {
+        "text": "Sata Point",
+        "hash": "c0e6df074cd3585c3d50fa21fe1a5d9dd2628024f42fe2c58d3ebc5accdd0c08"
+    },
+    "10109": {
+        "text": "Haruiro Chitose",
+        "hash": "a8bf3837bd4b3fa8c6e643622757e113e60e645f44131b10c70232b9d393eecc"
+    },
+    "10110": {
+        "text": "MT Hurricane",
+        "hash": "a64043c62c87bbe83e1218a018160e662537ee1ede674d095fa7b0d2295f46c5"
+    },
+    "10111": {
+        "text": "Connect Hat",
+        "hash": "8dc1642dd032062527058770c1e74e9ffaa0830927bd41ec084ffc8e119c8589"
+    },
+    "10112": {
+        "text": "Kinugekko",
+        "hash": "53c9983e0f4fc9505031ec14fdc35fad481d6346d70906dcf1144544d3e680d9"
+    },
+    "10113": {
+        "text": "Kazu Typhoon",
+        "hash": "3a4fd35304e982d6291449d23f78c161854d5622951db4034f464e57b304d59d"
+    },
+    "10114": {
+        "text": "Thanks Stage",
+        "hash": "c6a3a92a242d0b3c064bd492f6dbea9e4c885b4fb85a8cd4bb9824f8b4299a78"
+    },
+    "10115": {
+        "text": "Iitoyo Drive",
+        "hash": "949324428c656c8cdac446b322b7b9096864481b3c0242c2ca24919c64392e14"
+    },
+    "10116": {
+        "text": "Chariosky",
+        "hash": "711945d1e5890fba8647d0167e4c3491f95b7aaf079784ee6e39c74b9b4b7ac1"
+    },
+    "10117": {
+        "text": "Tatsuno Zeal",
+        "hash": "4d57b654596c736eab2a76f69ef49bc88b20620b1fe140c54fa64fa5a8a77080"
+    },
+    "10118": {
+        "text": "Haruiro Great",
+        "hash": "74076d5a7f5eab0155ac33ea03151b1305f386e8c726e3d4db0aaae2c3164e05"
+    },
+    "10119": {
+        "text": "Binza Oji",
+        "hash": "e68ab645878c15e89a300330c1e4cb8d1c18ecdca83c342536d4d1bdb8088fee"
+    },
+    "10120": {
+        "text": "Haruiro Glory",
+        "hash": "385c9b288da17e2b8a4e02bcf0b595b0159f0a1f629bc0227d86102764a88233"
+    },
+    "10121": {
+        "text": "Brother Seitei",
+        "hash": "427a50c8ba09c57b83ea9dbb9cfdaf4bf7c7068138f444cfc60f78d0afeedb2c"
+    },
+    "10122": {
+        "text": "Global Mars",
+        "hash": "1e80b06723dc075ca21c162cd0ef809bfd09c6388851802ae962fdfdcc42fb7a"
+    },
+    "10123": {
+        "text": "Fujiken Watch",
+        "hash": "a173758b49f790353f7317d9548b209078fe40e6528947eaec7228d539afaffe"
+    },
+    "10124": {
+        "text": "Authority Dance",
+        "hash": "9eb571fc501b4a504cc0bed627ca945d7fd5ee752353e289567d8572bda90972"
+    },
+    "10125": {
+        "text": "Amatera Big",
+        "hash": "1770a99094d5722e340559c181bc2078961993e2886df359882524839dad7063"
+    },
+    "10126": {
+        "text": "Position Trap",
+        "hash": "c741a6304ef10a573941141e0a5b0d67fa04c0ab4770fe311b3943da41c44740"
+    },
+    "10127": {
+        "text": "Tomiyama Victory",
+        "hash": "ed468b399866f30eff6df4e3770b2f312dca580a1f26e091c756e31ab79484c5"
+    },
+    "10128": {
+        "text": "Lightning Top",
+        "hash": "52c9d9cb8a4fbc4ae91958520f227808301c047e31c2cd40259ef7851fb2d578"
+    },
+    "10129": {
+        "text": "Daynelle Thunder",
+        "hash": "ecf4e69477b16baebac36e764d133191e11b23f13aba5e3fee1330ffa53600a8"
+    },
+    "10130": {
+        "text": "Maino Transcend",
+        "hash": "c60decf5418d9b3eb46ecd9b74aab228cfe03427fd31ef465a58acc6af55e6ad"
+    },
+    "10131": {
+        "text": "Toyonaka Presto",
+        "hash": "0c031dd04761011358837a89740af0fc602fc269e63de89e08dfa4b99fef51e1"
+    },
+    "10132": {
+        "text": "Yashu King",
+        "hash": "19914b58a158bfed6a8958b7ddfef5d8d74b79bf02b3ce8e602ff11a4deadf15"
+    },
+    "10133": {
+        "text": "Omar Caesar",
+        "hash": "9140d748f3cc5c155921cd48c27c880d0f6fde1305192e40b8d6515b9646a8ba"
+    },
+    "10134": {
+        "text": "Crest Carol",
+        "hash": "05c113665e9da919816647c03ba90987829e837d2014e58c3916bb2748927c4b"
+    },
+    "10135": {
+        "text": "Pretty Steel",
+        "hash": "1a9deb1eae0615d93f88d4b48cef684ca838d2387e1ff67439a1c24a034eb1b0"
+    },
+    "10136": {
+        "text": "Azumi Palace",
+        "hash": "9f022eaaecdd3e10a590e73024bc196d3a9a582098a0a20a4253f9d4a628cf96"
+    },
+    "10137": {
+        "text": "Polar Star",
+        "hash": "042e1d9d5448224f66c328c1aaca1d3f5db70fe47110340c9f0f203ec2ee8ae0"
+    },
+    "10138": {
+        "text": "Inspier Kent",
+        "hash": "b41994d8da4fdf1d7d85b200dbe78d9cfc91feeb6acab7ce55a77b54e273c48a"
+    },
+    "10139": {
+        "text": "Rule Model",
+        "hash": "b43bde7ae6f3de53e71dd0fcdfcd15fb3ec210edd47f4d3ff119edb6730a6748"
+    },
+    "10140": {
+        "text": "Aspaolo",
+        "hash": "11ac40da1171ad834e1372408f608ce0180e0956a9e324b1114ad8a01568dae8"
+    },
+    "10141": {
+        "text": "Respedeza Shin O",
+        "hash": "d1227eb5fe2fccb906579243897e52665bc82aabda9ed9b5cfc5f8c27405a0e8"
+    },
+    "10142": {
+        "text": "Peaceful Cinema",
+        "hash": "0dd27edf1936ec4cc176990a0cc5715c7efdbb89ef02c3257a925e92aca1482b"
+    },
+    "10143": {
+        "text": "Kabuto Prince",
+        "hash": "317e5b722588c16a78aae726bab0a3b33afb1d5293f5696fdf4fe0547a1832fd"
+    },
+    "10144": {
+        "text": "Lemon Neck",
+        "hash": "66e7d202c88eebf62f30cab5c978a4006f15b80a109ce2cbcc107a1d787ace9a"
+    },
+    "10145": {
+        "text": "Girls Guilsha",
+        "hash": "ddbd42ddeefd1972a8dc670408513392e372b9cfae2b3471d9e3563ed368a4ee"
+    },
+    "10146": {
+        "text": "Misohagi River",
+        "hash": "086b39ae568b6146337d174154f3e740a28beadd51293c0555cf85f8220f2aa1"
+    },
+    "10147": {
+        "text": "Akamatsu Shock",
+        "hash": "e4a8b566ad219e503551386c4e4b6853e9c962aa2ad47313899be9ef2cd187d1"
+    },
+    "10148": {
+        "text": "Gees Sharp",
+        "hash": "b93d1f1d8510251e4bcbce0e07ab7512c2609db95312a119df198d5b5205801e"
+    },
+    "10149": {
+        "text": "Global Smart",
+        "hash": "9531d18fedab9cb2acc636a898913e1595dee0dda5816918bed9548db6026fa7"
+    },
+    "10150": {
+        "text": "Flash Friend",
+        "hash": "48ac7a8fe309ba41e7138f037ee2d2715d46213487bb25eb0e8576fdcf9e12ea"
+    },
+    "10151": {
+        "text": "Two Rhythm King",
+        "hash": "7b7c5a18387b1931577fa20c94afac8fea369357973add437d9b4cd4265c10eb"
+    },
+    "10152": {
+        "text": "Good Sweets",
+        "hash": "113438e3077534ddee4393ab7d928a8d27ab06b13504b445c51158c9d8a9742e"
+    },
+    "10153": {
+        "text": "Higher Doctor",
+        "hash": "24b5e140a92f52b64a87d8a41ade7cfa780216f567652d5eb6a065399484d39b"
+    },
+    "10154": {
+        "text": "Nanson Sleuth",
+        "hash": "08dc401565e3c45394af608864976f4009f13e454e729393b877e80627460aea"
+    },
+    "10155": {
+        "text": "Hansho Warger",
+        "hash": "1a3e1063203104f3871781c0e381ef6c9edaa7d27e2a63290269081799299d62"
+    },
+    "10156": {
+        "text": "Taiju Golden",
+        "hash": "ff217dd19fe21d30406f60c440bb7667c343cd0007f8246b9845eda47172f708"
+    },
+    "10157": {
+        "text": "Orient Seven",
+        "hash": "162a1bdf4e3399b136b175b2ea6cada84fab901cb562d494d1647e0e1a079bc9"
+    },
+    "10158": {
+        "text": "MT Storm",
+        "hash": "8096f47756ecc18a21180f335dbecb3bb24c24da2caca8dc0653a04159402f08"
+    },
+    "10159": {
+        "text": "Akamatsu Hachiman",
+        "hash": "b6f30fd51b96e7463cbd9e1c3962b7613643ca0010d3a8db992e761dced6db77"
+    },
+    "10160": {
+        "text": "Platinum OG",
+        "hash": "44e1c513e6cee1cc4147de284e04756b025a0af6353c68640fc6fe91c14cc722"
+    },
+    "10162": {
+        "text": "Rose Knight",
+        "hash": "2462a37f3de5d715ba436b8326d922f72d4c4d10499d7462f251b740e0e69970"
+    },
+    "10163": {
+        "text": "Verdia Gogo",
+        "hash": "78a7e27d964b1332a91166691e3885a7cc0fa0f4b867219642783bab3f343c1f"
+    },
+    "10164": {
+        "text": "Mute Hant",
+        "hash": "fbf98ed81f247a12b180fca6e99b23895c163c8d13afe8550d83c7ab0d15eb58"
+    },
+    "10165": {
+        "text": "Hinode Flag",
+        "hash": "e505cc21c40b1e4de31a6964528bad1c80b9eaa43c39202c6f7b125756c2485f"
+    },
+    "10166": {
+        "text": "Hero Keat",
+        "hash": "3dc659e514ffa4df3220b14cd8a474b1bc6124254e2aef77f8f10d3ac7ef20e1"
+    },
+    "10167": {
+        "text": "Remain Eldora",
+        "hash": "246b3e1d229e82354d176582d51d463f288c9280d95b2cd41f3330a2986d1638"
+    },
+    "10168": {
+        "text": "Sonic Run",
+        "hash": "324ac915dd4c8266cd859a29cc670cae884e2c2f6b4df507a23a8917a9ba70c6"
+    },
+    "10169": {
+        "text": "Bishoku Kaitaku",
+        "hash": "6ac26e5e5ecdaa52b1d915d1b11a0f098ab9eb8f4e085be361ba6a39cf4224b9"
+    },
+    "10170": {
+        "text": "Constructor",
+        "hash": "a63f1fdb4dcf510badee4263cdacdea3002eefb8ed96e715f526ca47af36bad1"
+    },
+    "10171": {
+        "text": "Denan Return",
+        "hash": "55ff85ba6283efe943fd9af97cbb4c2ad1f1d28a545d486af5e868760ee30554"
+    },
+    "10172": {
+        "text": "Taiju Touraku",
+        "hash": "d56a39173563f25b08f22215ba695162d94f34d65b53fcd7560a5935b036ce32"
+    },
+    "10173": {
+        "text": "Luisillo",
+        "hash": "642609cb23361b72ece4a0df1bb236411b8d3ba52f0b2d45dc7ffbcc02f9809a"
+    },
+    "10174": {
+        "text": "Bright Marker",
+        "hash": "0cc58fafe2d7442077b658dc7c9421c3a78fad898697a5e91e9d7331e8e49bff"
+    },
+    "10175": {
+        "text": "Erumi Warrior",
+        "hash": "a7404cc01dd5c58305860ee529288ac686b325fdaa38bac6d58e3d1b52ccf009"
+    },
+    "10176": {
+        "text": "Maymon Lambert",
+        "hash": "28317710cc83bd7586f18317d4ce2d38ca38daa20595223f8b27f334d37721d5"
+    },
+    "10177": {
+        "text": "Iki-Iki Middle",
+        "hash": "8ac2a7dfc0eb5ac7c29d06ed63d55d4b481d118d0a8ca1f8b2d59c32381e0855"
+    },
+    "10178": {
+        "text": "Manpai Emperor",
+        "hash": "c1dfdb8b462827b1d33d6a741cdd7d0187854d94262e5634ff72e2501897527e"
+    },
+    "10179": {
+        "text": "Sentiment",
+        "hash": "42cc86b4531b2d0f8d7f235c26dd66b6add647f65d218adb898301fe409c5732"
+    },
+    "10180": {
+        "text": "Espace",
+        "hash": "ee37c91e65b10c0477749f46db1018934506b268da38499b12519e702e18c6c4"
+    },
+    "10181": {
+        "text": "Oowa Advance",
+        "hash": "5005d380906c3d5bb5f5fe472c78cd7c844ab9128984d1fd8fb60ad539fb80ab"
+    },
+    "10182": {
+        "text": "Brave Emperor",
+        "hash": "8e804a0c2fa1ca601938c61233df65bb054e5af468e326101ae166268c58cc36"
+    },
+    "10183": {
+        "text": "Holy Gleam",
+        "hash": "6c5ffda5864afdcce32602249423f71d98c642305b8285dcda60c6295ed006dd"
+    },
+    "10184": {
+        "text": "Runner Typhoon",
+        "hash": "4a6130acbdf35b1341bac0bde340dd601b70200c45e6aebd3a3231761a84a3f9"
+    },
+    "10185": {
+        "text": "Divinization",
+        "hash": "1aa5459a1c546f52df666bed0bdcef29afc797f76cf02917e67366dda869e422"
+    },
+    "10186": {
+        "text": "Koumatsu Inazuma",
+        "hash": "6ed7e750fbd8746165c9205c5d9f04420fd1e8bc831c4332730e94179fbd0e8c"
+    },
+    "10187": {
+        "text": "Marine Holiday",
+        "hash": "a5d719ccd0a42f34f70f35421d739a1f32f3525881f0312cc464ded72d26cb81"
+    },
+    "10188": {
+        "text": "Takeoff Star",
+        "hash": "bab4c32ce486b3b4671c2866ac175133be9e164676b55963e9174e4c85e94cea"
+    },
+    "10189": {
+        "text": "Jet Tail",
+        "hash": "45ca4c7f91356f07fa6284c259c128ae9a8dbbf814e7134889c7f02ebcb29dde"
+    },
+    "10190": {
+        "text": "Sata Bright",
+        "hash": "3e1f52783475c0436e7f8b86ff780e6fc2a0aef5db30127c72c998be40678654"
+    },
+    "10191": {
+        "text": "Matsuhiro Chief",
+        "hash": "115e3a947779ca5ae3aef8bbbb22305a18866071d75b21ba08f970604d99d717"
+    },
+    "10192": {
+        "text": "Flag-flag",
+        "hash": "c23eab541f07dd522ea31ba3118193db741804d7604fa408fe0d73a11f464058"
+    },
+    "10193": {
+        "text": "Hanagata Party",
+        "hash": "76f940971fea56d8144d3f289ad744f06733c0516a36f00df4723312cc89ce7d"
+    },
+    "10194": {
+        "text": "West Boss",
+        "hash": "62a49ead1697d23cd33f763e51a76411799ee46778a425a2b0cf133d95d95022"
+    },
+    "10195": {
+        "text": "TM Koutei",
+        "hash": "8b8df59d69dd3b1e47aa6bb1ad96b3a94b756c0f010b7920ea4f002ae04208bc"
+    },
+    "10196": {
+        "text": "Dahlia",
+        "hash": "7bee6dd9ef81df8c517b1a84c894f59dc81c60d258801d87938b133962ddebce"
+    },
+    "10197": {
+        "text": "Terpsichore",
+        "hash": "b9fa648f2535fa67907833e2c2b96db843d1b79e4b90f32502fffc2f6690baa6"
+    },
+    "10198": {
+        "text": "Toraoka",
+        "hash": "54c6c6f65a1bea8e884a8a601db066156d688870f0863f018a18707ef0fda0c9"
+    },
+    "10199": {
+        "text": "Hulama Way",
+        "hash": "c9c2fdc4690b721b6c871ef5a37d9c8c0b63721990d7894107c2870a513d0e52"
+    },
+    "10200": {
+        "text": "Rain",
+        "hash": "3c88f95b8922dc7269e78a4293c06ba0874428605431ea01eb976f59cf2051fc"
+    },
+    "10201": {
+        "text": "Vivid Blue",
+        "hash": "bca0f039e590112ba3ca9dafdda7413c9c57c7969a66219af21d332599e7fa6e"
+    },
+    "10202": {
+        "text": "Demira",
+        "hash": "a25b9a51205c8f9aab8620417eb5abb4df45f76c5657f6be111a9c9e2f9d979c"
+    },
+    "10203": {
+        "text": "Bolu Blue",
+        "hash": "e2f6782b0ed7497566357dd992f925f89153db8502cedba975fc0a31c6005291"
+    },
+    "10204": {
+        "text": "Ambaral",
+        "hash": "6535b069c5512de9a3c286b0ed5500694ffaa5764b9c807f6c9b3aad2d5f5f09"
+    },
+    "10205": {
+        "text": "Light Vision",
+        "hash": "b7af19fa0dbedec4480b6ed8163261fbec9a581551bdd310e8831eeeeae4bf23"
+    },
+    "10206": {
+        "text": "Nile Lip",
+        "hash": "a0f3fabf109a2d18522b20340e673655c2bbe330d62d0f534781b443f552903f"
+    },
+    "10207": {
+        "text": "Plum Collect",
+        "hash": "057f90282a8499febe0a26500291a610046117a8d9e0cbaf22028cc79b552b86"
+    },
+    "10208": {
+        "text": "Chew Me More",
+        "hash": "2648d2d5f771a7268f46de54105e2b4756bffa777950bb762be26946f484a037"
+    },
+    "10209": {
+        "text": "Mint Shot",
+        "hash": "bf34e850e0510b6fc07d8d1ac41241449c40929b010de4e60548be8f0fc76aa4"
+    },
+    "10210": {
+        "text": "Yancha Verdia",
+        "hash": "106f1403fc9fe4dc1996ce3592d3b1ff3d0e444668b9bc4d5978b8f0dc1edfeb"
+    },
+    "10211": {
+        "text": "Native Hero",
+        "hash": "474719ea19b22a8b19cfaaab265c08e52e51e454e4f6800bd2b8d4b87feed62d"
+    },
+    "10212": {
+        "text": "Heartfelt Fruit",
+        "hash": "37fab9ee3ac4b97f8591d6d8b0463b4b2680ac6faf4577f39c05e800caa70391"
+    },
+    "10213": {
+        "text": "Top of Rise",
+        "hash": "329e1cb533cae57d15ce249958f013cb6cd625559104d586d1b29b28e2682011"
+    },
     "20000": {
         "text": "Long-haired Umamusume",
         "hash": "1272e38526516fc03c326a859161862dc1bed98d1340cc38c30dee726c43a285"

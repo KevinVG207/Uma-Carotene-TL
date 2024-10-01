@@ -1,0 +1,830 @@
+{
+    "101": {
+        "text": "Server is currently under maintenance. \\nYour patience is appreciated. Refer to the \\nofficial website announcement for details.",
+        "hash": "7463edbba90792bb1353d8346312b11f6d3fe0c48ec3e1cbf1a53bd95c27003c"
+    },
+    "201": {
+        "text": "Prolonged inactivity. \\nReturning to title screen.",
+        "hash": "eb94b18179b19ec95b2d47c0259953da070ee482bd557d3595528a8bed46d75b"
+    },
+    "204": {
+        "text": "New version of application is available. \\nPlease update from the App Store.",
+        "hash": "b560fe05f3c918eae2a369c749334b1e27dce1612d1fd1424f7d426549ce9c66"
+    },
+    "207": {
+        "text": "Contains invalid string character.",
+        "hash": "0a9944dd57d4af86096ec93236b246e5c01d8fbdf430ac303838e7d690047d88"
+    },
+    "214": {
+        "text": "New update available. \\nReturning to title screen.",
+        "hash": "1d7137d38f66fa75b21074b56f4eead976cbf14b2c03f4bb7ee26357a37dd6e3"
+    },
+    "217": {
+        "text": "Returning to title screen. Please try playing \\nfrom a location with more stable connection.",
+        "hash": "e272e4321e38b74622a17d133fe2be59fadf60e317be86317643cce256950f42"
+    },
+    "218": {
+        "text": "You are logged in on another device, \\nreturning to title screen.",
+        "hash": "312fc4753693293fd69dbb05cbceb39ab3334b1e4d86af7879e534ba0a194b6a"
+    },
+    "303": {
+        "text": "An error occurred during purchase. \\nError code: 303",
+        "hash": "fa76c62d758ffab243c945a1f52aed614e5e5b63250e161b7f2ab6ef6dc3acea"
+    },
+    "304": {
+        "text": "Unable to purchase due to exceeding monthly spending limit.",
+        "hash": "42d2073e38aedcb82244e6b3b4d6ec0a0e432e780e71127fe2af5e1ac485ea53"
+    },
+    "306": {
+        "text": "An error occurred during purchase. \\nError code: 306",
+        "hash": "e38ae989da1adec9281e17c226fa8774df863ae63b4d8d27b6307b2e68cb4916"
+    },
+    "308": {
+        "text": "An error occurred during purchase. \\nError code: 308",
+        "hash": "c19c7f177e0136418eff0965530a9a4382440ff667a9b50e1c8712f387deb8c6"
+    },
+    "309": {
+        "text": "Unable to set year and month birth date.",
+        "hash": "14468f818d41ecfe5e2252a09e83d6e2c4511996f9d26a9c940c9426eaa4fe88"
+    },
+    "310": {
+        "text": "Unable to set birthday.",
+        "hash": "1164c4cb95b28ad39fc0d0385f6adb9d87ee33c312dfd00f2d86bc9a931b2291"
+    },
+    "311": {
+        "text": "Unable to make the purchase due to exceeding purchase limit.",
+        "hash": "d18ad1eb4f450f011ce4eadeba207c68d49959d3556088feedcba92027608768"
+    },
+    "312": {
+        "text": "This pack is outside of the purchase period.",
+        "hash": "6197e4b5d2adfdccbf9384959a39900a44c04fc3ff0d2462499a56230ba4c2b5"
+    },
+    "329": {
+        "text": "The total purchase amount for this month will exceed ¥100,000\\nProceed with the purchase?",
+        "hash": "1cd5c9eb199c3bec77af2ed9336b3467fa4fcf258f1ec9b69fa141ced5e8135d"
+    },
+    "331": {
+        "text": "The serial code function\\nis not available on your current platform.",
+        "hash": "87d5cd18160625efd5468f7bd10d5cdce698677449731e327e5e49ba91bbe877"
+    },
+    "332": {
+        "text": "As multiple incorrect code entries were detected within a certain period of time,\\ninputting in code has been temporarily restricted. \\nPlease wait for a while until the restriction has lifted.",
+        "hash": "2fa3abbc9fbfbc03544070e2471904f14c99b506320fd78fbab54cfcd4b1e762"
+    },
+    "334": {
+        "text": "Reached the maximum limit of receiving rewards.",
+        "hash": "7d207b4fe806fcc77929a154cfd9814259ebc261fc2b7631b160e735a83f3b91"
+    },
+    "335": {
+        "text": "Inputted serial code\\nis outside of the usable period.",
+        "hash": "99bf29b29e967e114a644973f757c8d6066ba1a1ba83564ad64ed04d143de5fa"
+    },
+    "336": {
+        "text": "An error occurred during network communication.",
+        "hash": "da6286ac481fb98bb61650817babb47aaba18e22f30b1b78022a3adf26335e74"
+    },
+    "339": {
+        "text": "Unable to retrieve the price details\\nfor the jewels you are trying to purchase. \\nPlease try purchasing again later.",
+        "hash": "c0cb087fe9d82659d1228156b86397c11d8b8733bbc593d16dab89fc183b95d6"
+    },
+    "706": {
+        "text": "DMM one-time token has expired. \\nPlease restart the game\\nfrom DMM player.",
+        "hash": "ebcb31a7e9252c76f12452b4d1e519bc12bf21a49e37570aee6f8236a635a671"
+    },
+    "803": {
+        "text": "The bonus content included with your \\npurchase of {0} \\nis already claimed on another account.",
+        "hash": "1bb43b1ef1e7fd16805147a49ad0bb1be39b0f869df35378326b44f27a3c7561"
+    },
+    "805": {
+        "text": "Failed.",
+        "hash": "9e1551f49ca4ca3bd70961e7233c8222ad132230bd14ce96d761037b83ef5f8f"
+    },
+    "806": {
+        "text": "Failed.",
+        "hash": "9e1551f49ca4ca3bd70961e7233c8222ad132230bd14ce96d761037b83ef5f8f"
+    },
+    "807": {
+        "text": "An error has occurred. \\nError Code: 807",
+        "hash": "8722ce5ed33135841e0fc8aae2a73c13a57f0838e62a9b5074f5276bcc49a013"
+    },
+    "808": {
+        "text": "An error has occurred. \\nError Code: 808",
+        "hash": "667465008483eda1d8d180798ddcd15548afa828eb93d8d5803e1428eb59deed"
+    },
+    "809": {
+        "text": "Your purchase of {0} \\nrequires age verification. \\nPlease very from the jewel shop.",
+        "hash": "6fb25f10477b3ad5afad59f2c0faef8d03e9acea2925b9425c83a5abdd34b5c8"
+    },
+    "810": {
+        "text": "The bonus content included with your purchase \\nof {0} couldn't be \\nclaimed because you've hit your spending limit.",
+        "hash": "6ed0f3c62d39e073ffed525f594020c1c0239f88c70ea60053c3c6e3071f9dd6"
+    },
+    "901": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "902": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "903": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "904": {
+        "text": "Purchasing jewels is currently under maintenance.",
+        "hash": "5f6f740909f2fa4d5475822979fe42a3dafea99c435dd97c51b460a5508afd88"
+    },
+    "905": {
+        "text": "Purchasing jewels is currently under maintenance.",
+        "hash": "5f6f740909f2fa4d5475822979fe42a3dafea99c435dd97c51b460a5508afd88"
+    },
+    "906": {
+        "text": "Purchasing jewels is currently under maintenance.",
+        "hash": "5f6f740909f2fa4d5475822979fe42a3dafea99c435dd97c51b460a5508afd88"
+    },
+    "907": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "908": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "909": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "910": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "911": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "912": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "913": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "914": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "915": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "916": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "917": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "918": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "919": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "920": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "921": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "922": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "923": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "924": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "925": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "926": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "927": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "928": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "929": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "930": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "931": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "932": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "933": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "934": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "935": {
+        "text": "Purchasing jewels is currently under maintenance.",
+        "hash": "5f6f740909f2fa4d5475822979fe42a3dafea99c435dd97c51b460a5508afd88"
+    },
+    "936": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "937": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "938": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "939": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "940": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "941": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "942": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "943": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "944": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "945": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "946": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "947": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "948": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "949": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "950": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "951": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "952": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "953": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "954": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "955": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "956": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "957": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "958": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "959": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "960": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "961": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "965": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "967": {
+        "text": "Transfer of iCloud backup data is currently \\nunder maintenance. You can temporarily turn \\niCloud backup OFF in settings to play.",
+        "hash": "95e71d40fa89220149e12472237ea0692fed26379db6499643e8fac65a23bf4f"
+    },
+    "970": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "971": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "973": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "974": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "990": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "991": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "1056": {
+        "text": "This trainer ID does not exist.",
+        "hash": "ae6217d640078b67b101afdd0c7a355c4296f9f7a982d9189ddb7efaac30b8de"
+    },
+    "1451": {
+        "text": "Reached maximum limit of follows.",
+        "hash": "a5cf1f3267e8c02743740570038b1b10e7351531d131f6ccf64322f165756997"
+    },
+    "1452": {
+        "text": "This user has reached the follower cap.",
+        "hash": "5ce71a424695ffa8b22381018d7001a942fb3ce49cea6a1e9d24adcae40d6fe2"
+    },
+    "1453": {
+        "text": "Unable to rent inheritance horsegirl \\nbecause you are not following the trainer. \\nReturning to title screen.",
+        "hash": "cb0b4995245f94eca031d2df53a3aeee3d8115736ee2c97ff81f0e2b3e8085ba"
+    },
+    "1501": {
+        "text": "The deadline to receive the mission rewards have passed. \\nReturning to title screen.",
+        "hash": "084d69a55dc1642e1c08c784bd9211e8f7e67d3622e70a0392ee18d9ccd4a249"
+    },
+    "1503": {
+        "text": "The date has changed.",
+        "hash": "5b9f6baed61ab32eda1dc229cd25917acdbaeed796719c94df535109af04d283"
+    },
+    "1552": {
+        "text": "Unable to receive present\\nas the deadline has passed.",
+        "hash": "7b22176b2beafd143ecbb2be932e627f05a8ec68812f9b99a13626a09020aeff"
+    },
+    "1601": {
+        "text": "The exchange period is currently closed. \\nReturning to home.",
+        "hash": "6f2549bec31be17cb9f5d6018a49ba155734baf1b3fa85fbd6e3f5e12996c2ef"
+    },
+    "1602": {
+        "text": "Unable to exchange goods because the limited time sale has passed. \\nReturning to main shop.",
+        "hash": "6bda27d3c6ac16728a763166215e6fe1416cb73b38bebe685172836d8b95079b"
+    },
+    "1603": {
+        "text": "The shop has been updated. \\nReturning to main shop.",
+        "hash": "fcfc173b1feb23b13be97c03bcbd3ea08a65e75f92fabeceba70f64c7df85203"
+    },
+    "1701": {
+        "text": "Uma Musume story release campaign has ended.",
+        "hash": "0ba1549c24d3bcfcc404ad9c2bda675ba7f60e2b7bfaa445faa427ab3898ce80"
+    },
+    "1801": {
+        "text": "The gacha event period has ended. \\nReturning to home.",
+        "hash": "829185ed082cef5f151171db1518625f0560328580acd1ddcdceb9ad8ce47612"
+    },
+    "1806": {
+        "text": "Unable to pull on first-time limited gacha banner \\nbecause you have already pulled on it. \\nReturning to home.",
+        "hash": "8e4c3539ffe1f28123c626fe63863803c7161b96a9d389ce630084c6aaccb992"
+    },
+    "1807": {
+        "text": "Unable to pull on gacha banner \\nbecause free roll campaign period has ended. \\nReturning to home.",
+        "hash": "39ef3de16008fd52bb22f06ff985c1fd926176592f1b461929a1cc6887a09602"
+    },
+    "1808": {
+        "text": "Unable to pull on gacha banner \\nbecause there is a free roll campaign currently in progress. \\nReturning to home. \\n※The resources used to pull on gacha banner have not been consumed.",
+        "hash": "0725f984264d8600f978da5a3920d6d1b0d43f6189ac606480e1f0878d8fabce"
+    },
+    "1810": {
+        "text": "This feature is currently under maintenance.",
+        "hash": "84814c9fd3595f9c0ac368707261d2fa274d0913ac59bbd54b54aa097ea97d89"
+    },
+    "2503": {
+        "text": "As the owner of the inheritance horsegirl is no longer \\nin the same circle, \\nthere has been a change in the required rental fee. \\nReturning to title screen.",
+        "hash": "c4e29da24808cbbbe93d0c4a420b30db63098493bba00df071b240749a32b41e"
+    },
+    "2508": {
+        "text": "{0}As the event period is currently inactive, \\n{1}it is not possible to play. \\nReturning to home.",
+        "hash": "b3272de8e7a46ee627069488cbc89faa32d8758ba33c9d49b16d52adcc81285f"
+    },
+    "2509": {
+        "text": "The campaign period has ended. \\nReturning to home.",
+        "hash": "be7bc529526b9f0d94d74f29e21fa8c165c8a1dcfeef53a397653f7dee34ae60"
+    },
+    "2510": {
+        "text": "Unable to play with event boost \\nas the event period has ended. \\nReturning to home.",
+        "hash": "ab01042193b47ee316adfc10bcaefe3864f5cc157ac7d59e32eddaadb8f8f3ed"
+    },
+    "2512": {
+        "text": "Unable to resume training session\\ndue to difference in training data before and after maintenance. \\nPlease delete the training data.",
+        "hash": "3dd423aa9b0ebb8ee6cb24e5fdb1b53ae651c375e618e7e32fd5666abfeb900b"
+    },
+    "2513": {
+        "text": "Unable to proceed with the rental of inheritance horsegirl \\nas the trainer has changed the representative horse girl. \\nReturning to title screen.",
+        "hash": "b4387e498f9d418b7e68a621d7ea09e571912b91d0d77340bcadbce0fa353cd2"
+    },
+    "2800": {
+        "text": "Currently in the process of tallying the results.",
+        "hash": "a2b82a641bee1c8a973e8933d63ae64280deb5ccd84b6b38d661913eacfb46df"
+    },
+    "5001": {
+        "text": "Creating and joining circles is currently restricted.",
+        "hash": "91c46884c96004cc94f2ba7c5450547f5093ac1282926fc7cdc6dd856f8ccf18"
+    },
+    "5002": {
+        "text": "Unable to join the circle \\nas it has reached maximum limit of members.",
+        "hash": "04c4c19516de619a4320ea53c1210e133617d956c10e21d7b32fd12ec1a264e8"
+    },
+    "5003": {
+        "text": "You have already applied to join another circle. \\nCannot apply to multiple circles at the same time. \\nIf you wish to withdraw your application,\\nyou can do so from the circle page.",
+        "hash": "3581edcce5826a572eea2b9686047586ea46deec384e60cb4152333fc530b631"
+    },
+    "5004": {
+        "text": "Unable to apply for the circle\\nas it has reached maximum limit of membership applications.",
+        "hash": "54fff361822fc52b0e961e873d946116a8a20ebbf72ad5056cfdcc8c86114d9c"
+    },
+    "5005": {
+        "text": "Unable to recruit any more members\\ndue to reaching the maximum limit of invitations.",
+        "hash": "0dc01cbd0f1de7ef2eb94888c2dfb27cb1801bee853f24e68775ed8a5394728b"
+    },
+    "5006": {
+        "text": "You are currently not a member of this circle. \\nReturning to title screen.",
+        "hash": "24132a95a2b57c27406a44558ff4025341616487bec7a386aa04498c410992f7"
+    },
+    "5007": {
+        "text": "You are already a member of a circle.",
+        "hash": "19fbe2b6158666c54688d8fc2f90dcbc673d88e9815b90a219a38593b278cc82"
+    },
+    "5008": {
+        "text": "Unable to retrieve circle data. \\nReturning to title screen.",
+        "hash": "d697eb623e8ef37aefe5aa2ca518743784b39de9b91cfd3f32fe2e57c0bedd13"
+    },
+    "5009": {
+        "text": "You are currently not a member of this circle. \\nReturning to title screen.",
+        "hash": "24132a95a2b57c27406a44558ff4025341616487bec7a386aa04498c410992f7"
+    },
+    "5011": {
+        "text": "This circle is not accepting membership applications.",
+        "hash": "0e42b29f8e7aad33e00e68fcb4464bfc4ebde6c0a9433a7a1fdaed626c84b19b"
+    },
+    "5012": {
+        "text": "This trainer has already been sent an invitation.",
+        "hash": "33763409968e148a3dc15e1166c82923aebe2202557825ee4b92e709f6bda5f6"
+    },
+    "5014": {
+        "text": "This trainer is not a member of the circle.",
+        "hash": "65fd955e979fef7a662e11de7acd49926617a972a4bf2e1aa2c9b9d8584a666e"
+    },
+    "5015": {
+        "text": "Unable to terminate the circle\\nduring the tallying period.",
+        "hash": "19dc1d0d546abd819e5537aaaff6276fb9f94df566edeb190433b916619d3a52"
+    },
+    "5016": {
+        "text": "Unable to join or leave the circle\\nduring the tallying period.",
+        "hash": "f78e90c992a9055ee4acfb37b0c182ec3ba1f2087dc45ec8744c72910490d331"
+    },
+    "5017": {
+        "text": "Unable to recruit new members\\nduring the tallying period.",
+        "hash": "7828a28e497391051edbc72f81caa47e87e62f2c3bead5570a642e95e7560d6b"
+    },
+    "5020": {
+        "text": "Unable to make item request. \\nReturning to home.",
+        "hash": "631c42e64d251f83fb5420457e8b75719273029b6aad150fb6a6443a41b24f66"
+    },
+    "5021": {
+        "text": "Unable to donate item.",
+        "hash": "645d583c15b8ace53ca3ef7062c5a1c3d23498ff3994fa8f20fc6870bbaa7e14"
+    },
+    "5023": {
+        "text": "This operation cannot be performed at the moment.",
+        "hash": "e4b22c41976c35297a864c75e7777e9dc1efb4592b5f2567f1cd4b4e31494d83"
+    },
+    "5024": {
+        "text": "Unable to recruit any more members\\ndue to circle reaching maximum limit of members.",
+        "hash": "66eebd9113b0d9aaed9122d99ee97fbc64b656d5edb7687eb00366c5dee9302d"
+    },
+    "5025": {
+        "text": "Unable to join the circle\\nas your application was declined.",
+        "hash": "0b7b79303e26a2465543882d3bba74531b8a5dd4adc1a851df00abd6b2f22136"
+    },
+    "5026": {
+        "text": "Unable to donate item. \\nReturning to home.",
+        "hash": "a72f1d793669b8eedea771e41a2f26b35c5f58780690af378733afc8bbd07f49"
+    },
+    "5027": {
+        "text": "You have exceeded the daily limit\\nof posting your Hall of Fame horsegirl in the circle.",
+        "hash": "bb5cb250b65235799aaca8c41035c23513398f491908573a0add5795af1615a5"
+    },
+    "5028": {
+        "text": "There are no horsegirls currently being shared.",
+        "hash": "52c25006cd20e0e898ad4b69885724675c8e3ec297d2e71d571ef2bb8878cf45"
+    },
+    "5029": {
+        "text": "Unable to access Uma Musume information\\nas the post was either moved or deleted.",
+        "hash": "7a5e6d7b0110e11f5137a34be2a751cb3637539cdd21553de984aab4c0f277dd"
+    },
+    "5100": {
+        "text": "Unable to register into the race \\nbecause the maximum limit of\\nentry slots have been reached.",
+        "hash": "5115446065145a7ff987dcf9e7aa9c58647afa89592350f7e03689558a21abe0"
+    },
+    "5101": {
+        "text": "Unable to register into the race\\nbecause the registration time limit has passed.",
+        "hash": "5be6c08a1bab7843a4c951514a8c7db714ef6797332ca81c5c04124c8a95d1a9"
+    },
+    "5102": {
+        "text": "Unable to cancel\\nbecause it has exceeded\\nthe time limit.",
+        "hash": "e0dec9e7b85d92ce9f6c9c01a05170a0e03f5e7a27e32291c37de0e6418f49cb"
+    },
+    "5103": {
+        "text": "Unable to edit room details\\nbecause it has exceeded\\nthe time limit.",
+        "hash": "7d4a0efdccc27fb94687097c326ab39106b5a81a819c8e51642186c3f2a53e0b"
+    },
+    "5104": {
+        "text": "Unable to confirm race results\\nbecause it has exceeded the time limit. \\nReturning to main lobby in room match.",
+        "hash": "8d29f26162255921c62126c12eb5fdb86634939b4d11c1826421282828cf645e"
+    },
+    "5105": {
+        "text": "This room match has already been cancelled.",
+        "hash": "84d3c175c8e3dca28ac886044f50e72b8476e509725ef85f1a362ad0c1586d7f"
+    },
+    "5106": {
+        "text": "This room match could not be found.",
+        "hash": "974d938a6bd0b2ed9595cc733feccfdf60188f98f18d2ab6bbf87d524396de5d"
+    },
+    "5107": {
+        "text": "Unable to advance\\nbecause it has exceeded the time limit.",
+        "hash": "34eb84f0d090a0b1dd0c7b70e76b05443211021be6bf4b90c7e5556298ae9ffe"
+    },
+    "5108": {
+        "text": "Unable to spectate because it has exceeded\\nthe maximum limit of viewers.",
+        "hash": "ea6d1c04920a0e546a8786689daed92e0fdfc79e4e864ff5c50096c73c56f415"
+    },
+    "5109": {
+        "text": "Unable to share race\\nprior to its commencement.",
+        "hash": "9efd955efb8afe6a66ae47a65c97e20f6f51bbf0c8b36b9f9efc64127d1b3c37"
+    },
+    "5110": {
+        "text": "Unable to join room\\nas it has already commenced.",
+        "hash": "85af6424993daf0ba9a5ecb6fa0096e8c6d64943744273c6d7678a78fdafe242"
+    },
+    "5111": {
+        "text": "Saved replay data has expired. \\nReplay data will be deleted.",
+        "hash": "a37c2038f7afc5a9a1443699a9c5b1cfa8e00449ef4899108a1d8702f8201341"
+    },
+    "5200": {
+        "text": "Invalid Trainer ID",
+        "hash": "947064524791e3b178c9e74283e399381659330ffb1fd8e71fea13d198710486"
+    },
+    "5201": {
+        "text": "Partner Trainer ID has expired.",
+        "hash": "6a6e9d689500662ed13da4471d3826496e5f1908effe62b82a6c9a591dcdabfe"
+    },
+    "5202": {
+        "text": "Partner Trainer ID has expired.",
+        "hash": "6a6e9d689500662ed13da4471d3826496e5f1908effe62b82a6c9a591dcdabfe"
+    },
+    "5203": {
+        "text": "Unable to register partner as it has been transferred.",
+        "hash": "1ac1162e6fc401f4f1eddc921563efef459e2227a4f4a58e30412720c31a64bb"
+    },
+    "5204": {
+        "text": "Due to the update、races that were in progress have been deleted.",
+        "hash": "d747a63eb877b1adbe65a2a1e5be71d58d0b3d78cdcc5fa3349ee34f205a3f97"
+    },
+    "5205": {
+        "text": "Exceeded the daily limit for creating partner ID",
+        "hash": "b3b79998f66fdc087d88320c6434da1eb72ff4e2b2389cdd68e3d09fe752ccfb"
+    },
+    "5206": {
+        "text": "Unable to retrieve information on the selected horsegirl.",
+        "hash": "a4c6f1e7f68d647e565fd1891bf2e3844df77e58eba15eb26f442296c57ed72d"
+    },
+    "5207": {
+        "text": "Horsegirl is unable to race due to being transferred\\nso she has been removed from the race registration.",
+        "hash": "3cf4057927aba636d3c3b8e0c35a7aa7d3206db4253d4253b8af184b4c748285"
+    },
+    "8501": {
+        "text": "The server is busy. \\nPlease try again later.",
+        "hash": "52d76b6c7ba914d137df3c4a07e12f648fe247fd0f45197ffb3c9a99c5c0d9ea"
+    },
+    "8502": {
+        "text": "Number of entry attempts have been reset.",
+        "hash": "a060bb13be853d2f55272abb64ca17751fc0e63fe3ee8a8000209dc8e262b1b4"
+    },
+    "8504": {
+        "text": "Unable to claim league participation rewards \\nbecause the league selection period has ended. \\nReturning to home.",
+        "hash": "fc2fc2f9a626e82da8f5956e1bb3787119785fc2d3966b69bc0f8e45659e48cc"
+    },
+    "8505": {
+        "text": "Unable to change league because \\nRound 1 has already started.",
+        "hash": "08b069e5e9913143140882b2d89823261b75a0af7780bf7c9c9c3a3ffdc06bf2"
+    },
+    "8507": {
+        "text": "The registration period has ended. \\nEntered horsegirls have defaulted \\nto those registered previously.",
+        "hash": "69260680ae0a018d2dd437f11f86cbacc71696a1d5ae330f31790061f09e607c"
+    },
+    "8600": {
+        "text": "Event period has ended. \\nReturning to title screen.",
+        "hash": "aa2f72806c64730c0f8c36a4e80e12d55b7b6b0aca02f72272260f00a42a2db5"
+    },
+    "8601": {
+        "text": "Event reward claim period has ended.",
+        "hash": "5bd8a706264b4cb887d53262fbf28c7e8669e2b3ea970b4ca9aed2be306dfaa6"
+    },
+    "8602": {
+        "text": "It has been over 10 minutes. \\nThe challenge race has ended.",
+        "hash": "570de8c5ee604ee03a19b1d657cce4830e2eb418ee11a8a43c4fea465f109db6"
+    },
+    "8700": {
+        "text": "Event reward claim period has ended.",
+        "hash": "5bd8a706264b4cb887d53262fbf28c7e8669e2b3ea970b4ca9aed2be306dfaa6"
+    },
+    "8701": {
+        "text": "The event period has ended.",
+        "hash": "71c736522550478b28f379ff30b78f9eebee1a4933e5ce86efb13a8e7d138249"
+    },
+    "8702": {
+        "text": "You have been inactive for a while. \\nTickets have refreshed.",
+        "hash": "e27e5589739277ac4091c9b11439c496ae29df62e3e215f2d5e01aeddb4ba0c4"
+    },
+    "8703": {
+        "text": "You have been inactive for a while. \\nAlarm clocks will not be consumed.",
+        "hash": "5eddcb68e21fc7eae788ce18021e44a393814e1314ba5ed718030b433299f115"
+    },
+    "8750": {
+        "text": "The team drafting period is over. \\nReturning to main event page.",
+        "hash": "07ed5576a6d878245fed9fb121301ff8e97d9ffe9f63c894d809328c61d6da87"
+    },
+    "8751": {
+        "text": "The Main Stage has ended. \\nReturning to main event page.",
+        "hash": "988302e200413b718062a4e4d35615d7df2d21ac015732fb33f2e5bbdaa0c7de"
+    },
+    "8752": {
+        "text": "The Main Stage ranking calculation is over. \\nReturning to main event page.",
+        "hash": "297f7e82ac591600dec194cf3f8cd106e44cf972b5eb29a020b24fc99fc855ab"
+    },
+    "8753": {
+        "text": "The Main Stage ranking announcement is over. \\nReturning to main event page.",
+        "hash": "9ce51b46b91c8b598e4b73f0b28415272100aef5a11d3ebba819a79f7eb80cf0"
+    },
+    "8754": {
+        "text": "The Extra Stage registration period is over. \\nReturning to main event page.",
+        "hash": "eb9686f79e8e10cef42bab913834f2ee3854dcf0ae76b3c460b7209d910262a7"
+    },
+    "8755": {
+        "text": "The Extra Stage matching period is over. \\nReturning to main event page.",
+        "hash": "1f1a01156f061871cbb8b107db093e0169889387a155121cccce6e5fe39518ef"
+    },
+    "8756": {
+        "text": "The Extra Stage Neighce! period is over. \\nReturning to main event page.",
+        "hash": "c09e34c674194a270268d4f37d0c966cccaae885e58f15b8ef9ccf8a56708482"
+    },
+    "8758": {
+        "text": "The Main Stage has ended. \\nReturning to main event page. \\nUnclaimed rewards were sent as presents.",
+        "hash": "6262b368bcde91bde4a5e4afda5d346c41ef6d8dd91c5d9d5351c6566a6087b9"
+    },
+    "8759": {
+        "text": "The Main Stage has ended. Returning to main \\nevent page. Unclaimed rewards were sent as \\npresents. You can still choose a horsegirl \\nfor the epithet from the main page during \\nthe ranking calculation period.",
+        "hash": "6de7f20375484d8681bdb34bd29079b4a48d30e4f8892eeba7c28eb8cedfab38"
+    },
+    "8760": {
+        "text": "The Main Stage is over. \\nTeam drafting rewards no longer obtainable. \\nReturning to main event page.",
+        "hash": "5fa243f6dd999d159d5d2c6ccca65b927c85300fe657e820bb607008bbdba85b"
+    },
+    "8761": {
+        "text": "The Extra Stage registration period is over. \\nYour last used Main Stage team has been \\nregistered automatically. \\nReturning to main event page.",
+        "hash": "0d8f473d97b185103f97829f0526b2fcf7f6384983270cda7e37bb2bb982c68f"
+    },
+    "8762": {
+        "text": "League of Heroes has ended. \\nReturning to home.",
+        "hash": "dc67bb3096643d34e85181d3bd1772081a7b13bc2af556a9af5af39e3956f012"
+    },
+    "9001": {
+        "text": "Event reward claim period has ended.",
+        "hash": "5bd8a706264b4cb887d53262fbf28c7e8669e2b3ea970b4ca9aed2be306dfaa6"
+    },
+    "9051": {
+        "text": "Registration period has ended.",
+        "hash": "94d9dae41f5179cc0cf8b3b9421c1ecf540da9e7678adf2409b972d21d070ae1"
+    },
+    "9052": {
+        "text": "There is a new circle application.",
+        "hash": "5ce45fc5284787709f516e308922fe86c7901e49811d658306d484d0bf6890a0"
+    },
+    "9101": {
+        "text": "Unable to proceed with the Trainer Exam \\nas the date is outside the event period. \\nReturning to home.",
+        "hash": "e048f8809f205aa430e5cc2ca227f9adcb7dc72ef1932fda4c500f82a15802f1"
+    },
+    "9102": {
+        "text": "The date is outside the indicated period. \\nReturning to home.",
+        "hash": "8f3b37d72ade3468dd4b48a9c2194d63ef8a7a00e9a9db9f7527046ca7e0fc59"
+    },
+    "9103": {
+        "text": "The rental parent horsegirl selected for \\nyour leading horsegirl could not be \\nrented because the event period is over. \\nReturning to home.",
+        "hash": "83016158a3ed572d6a009837204eacc81810e14fdfc360c71295fa44f54463cc"
+    },
+    "9104": {
+        "text": "The date is outside the event period. \\nReturning to home.",
+        "hash": "5e34bdff37751ef717219b2b76a93d4047e56f23c8287983aef8b0303878f082"
+    },
+    "9105": {
+        "text": "The leading horsegirl has updated.",
+        "hash": "e07f8cfecb7aa9f952b7cc6ecd17d03e353efda4638e6d2eb5c729d44c22add1"
+    },
+    "9151": {
+        "text": "The date is outside the event period. \\nReturning to home.",
+        "hash": "5e34bdff37751ef717219b2b76a93d4047e56f23c8287983aef8b0303878f082"
+    },
+    "9152": {
+        "text": "Event reward claim period has ended.",
+        "hash": "5bd8a706264b4cb887d53262fbf28c7e8669e2b3ea970b4ca9aed2be306dfaa6"
+    },
+    "9153": {
+        "text": "The date is outside the event period. \\nReturning to home.",
+        "hash": "5e34bdff37751ef717219b2b76a93d4047e56f23c8287983aef8b0303878f082"
+    },
+    "9201": {
+        "text": "The campaign period is currently active. \\nReturning to home.",
+        "hash": "4e7744049e39895ec281c22d99a8ca432bb6f1b9fb77726238fdb82a2e2ff1dd"
+    },
+    "9251": {
+        "text": "The date is outside the event period. \\nReturning to home.",
+        "hash": "5e34bdff37751ef717219b2b76a93d4047e56f23c8287983aef8b0303878f082"
+    },
+    "9301": {
+        "text": "The date is outside the event period. \\nReturning to home.",
+        "hash": "5e34bdff37751ef717219b2b76a93d4047e56f23c8287983aef8b0303878f082"
+    },
+    "9351": {
+        "text": "The selected horsegirl is unable to enter. \\nPlease swap her for an eligible one. \\nReturning to home.",
+        "hash": "83f35c42271eae3af442cdd244d67b2ffbbac128c6c5aeebd031dd96dd7aaf88"
+    },
+    "9401": {
+        "text": "The campaign has ended. \\nReturning to title screen.",
+        "hash": "baa3b67ce3451c5fe1d84f435932ad1b208975969ba578786992be8b8ca8c381"
+    },
+    "100001": {
+        "text": "Unable to enter the story event due to lacking data.",
+        "hash": "93a1f09a4292491a10f9c7da905032ee22400936b2ee26f578629b1ef99bbf23"
+    }
+}

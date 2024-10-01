@@ -115,6 +115,10 @@
         "text": "Tenno Sho (Autumn)",
         "hash": "d03321a9f5f9e85624529f6c81f8a47abd1a3dbb58d1a0a21af299e00ad19572"
     },
+    "103001": {
+        "text": "Mile Championship Nambu Hai",
+        "hash": "bb713df8f801eae78fc0301bed26afccdc6e67d9f87662bcac7fccd885c15f33"
+    },
     "103101": {
         "text": "Japan Cup",
         "hash": "d2df4bca816f6863d3bea9111eaa2bb5ac1cc807df35a88b6354efeda4c17b54"
@@ -158,6 +162,10 @@
     "110901": {
         "text": "Kashiwa Kinen",
         "hash": "bfedca3be2f419e2150304f0fafb520ec861cc380730d735e8ed98cfc4dbbb73"
+    },
+    "111001": {
+        "text": "Mile Championship Nambu Hai",
+        "hash": "bb713df8f801eae78fc0301bed26afccdc6e67d9f87662bcac7fccd885c15f33"
     },
     "111101": {
         "text": "JBC Ladies Classic",
@@ -1927,6 +1935,10 @@
         "text": "Practice",
         "hash": "43956281ccc681ce4c1964dc79c2a53226a3c10cea5547975b35d11ca16c0ed2"
     },
+    "515401": {
+        "text": "Practice: Prix de l'Arc de Triomphe",
+        "hash": "80a1647262526bedad237d3d2399aee62c058aba1e76dc3c915d6833e11b39c5"
+    },
     "580001": {
         "text": "Moonlight Sho EASY",
         "hash": "1ea0c756e596a62c0d6b652af6312ea8b4bd2d17f5492d39bd05a0d910abcb0a"
@@ -2290,6 +2302,62 @@
     "600048": {
         "text": "Champion's Meet: Sagittarius Cup Final",
         "hash": "a32dc686b07d4886d4e42aee58f4d9ecc92784eb5c455a2c54baeb163b139b4a"
+    },
+    "600049": {
+        "text": "Champions Meet: MILE",
+        "hash": "8c51a4942c8b8b87dd05620b9a21c46ac35953e7961de576e9a36e7780c146cd"
+    },
+    "600050": {
+        "text": "Champions Meet: MILE Final",
+        "hash": "abeb34bd35d36eee85cc7384cdbb4c315e005b0bb114bc73d04883498d6c999d"
+    },
+    "600051": {
+        "text": "Champions Meet: DIRT",
+        "hash": "3193402151df8fc4467bb11db054a0e14c2bf16d7b5b402e70078eff70412e39"
+    },
+    "600052": {
+        "text": "Champions Meet: DIRT Final",
+        "hash": "3a4c5996612228b0f9b14129bba21f3e7047f348aee47e972a730e19f2b7258c"
+    },
+    "600053": {
+        "text": "Champions Meeting CLASSIC",
+        "hash": "a2729d6e63a3119502590c2e31a0aa7d068b8a4483e29a37f199d9fd49578f41"
+    },
+    "600054": {
+        "text": "Champions Meeting CLASSIC Final",
+        "hash": "46c727c231463b998660a402e819979610b1cabd31941d33fa917ee423dd82c8"
+    },
+    "600055": {
+        "text": "Champions Meet: LONG",
+        "hash": "0a76fbb25bfd78622f68f19c02d3169b969fd5d9c9d5d1320a288d9364d7ea5e"
+    },
+    "600056": {
+        "text": "Champions Meet: LONG Final",
+        "hash": "77efd25a605355e538cdbf1593e4073dd657210b3f90595e9c505519cc547aad"
+    },
+    "600059": {
+        "text": "Champions Meet: MILE",
+        "hash": "8c51a4942c8b8b87dd05620b9a21c46ac35953e7961de576e9a36e7780c146cd"
+    },
+    "600060": {
+        "text": "Champions Meet: MILE Final",
+        "hash": "abeb34bd35d36eee85cc7384cdbb4c315e005b0bb114bc73d04883498d6c999d"
+    },
+    "600061": {
+        "text": "Champions Meeting CLASSIC",
+        "hash": "a2729d6e63a3119502590c2e31a0aa7d068b8a4483e29a37f199d9fd49578f41"
+    },
+    "600062": {
+        "text": "Champions Meeting CLASSIC Final",
+        "hash": "46c727c231463b998660a402e819979610b1cabd31941d33fa917ee423dd82c8"
+    },
+    "600063": {
+        "text": "Champions Meet: DIRT",
+        "hash": "3193402151df8fc4467bb11db054a0e14c2bf16d7b5b402e70078eff70412e39"
+    },
+    "600064": {
+        "text": "Champions Meet: DIRT Final",
+        "hash": "3a4c5996612228b0f9b14129bba21f3e7047f348aee47e972a730e19f2b7258c"
     },
     "610000": {
         "text": "Team Race: Short Distance",
@@ -4955,6 +5023,38 @@
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
     },
+    "650028": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "650029": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "650030": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
+    "650031": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "650032": {
+        "text": "Special Race: Short",
+        "hash": "0a5c1156fc2969fe1b44e888782ea8f233880a8f6461ad36f23c00475e2baba5"
+    },
+    "650034": {
+        "text": "Special Race: Long",
+        "hash": "604c50152090b6c5a83cfd6c185207a627c2133374527eb721c3a95f2abd85e9"
+    },
+    "650035": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "650036": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
     "650037": {
         "text": "Scout Race Medium Distance",
         "hash": "5fa076fd0ec2932c568ba778beeca6dd934288f239bb40be4709f54f5b68eda9"
@@ -4986,6 +5086,22 @@
     "650044": {
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
+    },
+    "650045": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "650046": {
+        "text": "Special Race: Short",
+        "hash": "0a5c1156fc2969fe1b44e888782ea8f233880a8f6461ad36f23c00475e2baba5"
+    },
+    "650047": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "650048": {
+        "text": "Special Race: Long",
+        "hash": "604c50152090b6c5a83cfd6c185207a627c2133374527eb721c3a95f2abd85e9"
     },
     "650049": {
         "text": "Scout Race Medium Distance",
@@ -5019,6 +5135,22 @@
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
     },
+    "650057": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "650058": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "650059": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
+    "650060": {
+        "text": "Special Race: Long",
+        "hash": "604c50152090b6c5a83cfd6c185207a627c2133374527eb721c3a95f2abd85e9"
+    },
     "650061": {
         "text": "Scout Race Medium Distance",
         "hash": "5fa076fd0ec2932c568ba778beeca6dd934288f239bb40be4709f54f5b68eda9"
@@ -5050,6 +5182,242 @@
     "650068": {
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
+    },
+    "650069": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "650070": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
+    "650071": {
+        "text": "Special Race: Short",
+        "hash": "0a5c1156fc2969fe1b44e888782ea8f233880a8f6461ad36f23c00475e2baba5"
+    },
+    "650072": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "670001": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670002": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670003": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670004": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670005": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670006": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670007": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670008": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670009": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670010": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670011": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670012": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670013": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670014": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "670015": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "670016": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "680001": {
+        "text": "Arima Kinen Level 1",
+        "hash": "be542b683a05bcfc8d08d21107d8dd0fece0c4d0378b3ec3328380c744aa2855"
+    },
+    "680002": {
+        "text": "Arima Kinen Level 1",
+        "hash": "be542b683a05bcfc8d08d21107d8dd0fece0c4d0378b3ec3328380c744aa2855"
+    },
+    "680003": {
+        "text": "Arima Kinen Level 1",
+        "hash": "be542b683a05bcfc8d08d21107d8dd0fece0c4d0378b3ec3328380c744aa2855"
+    },
+    "680004": {
+        "text": "Arima Kinen Level 1",
+        "hash": "be542b683a05bcfc8d08d21107d8dd0fece0c4d0378b3ec3328380c744aa2855"
+    },
+    "680011": {
+        "text": "Arima Kinen Level 2",
+        "hash": "dc1e2f42716e79b40dfcebd4b91e4c738f1d459f25b6eb933936e81cd7928620"
+    },
+    "680012": {
+        "text": "Arima Kinen Level 2",
+        "hash": "dc1e2f42716e79b40dfcebd4b91e4c738f1d459f25b6eb933936e81cd7928620"
+    },
+    "680013": {
+        "text": "Arima Kinen Level 2",
+        "hash": "dc1e2f42716e79b40dfcebd4b91e4c738f1d459f25b6eb933936e81cd7928620"
+    },
+    "680014": {
+        "text": "Arima Kinen Level 2",
+        "hash": "dc1e2f42716e79b40dfcebd4b91e4c738f1d459f25b6eb933936e81cd7928620"
+    },
+    "680021": {
+        "text": "Arima Kinen Level 3",
+        "hash": "b750a5063a3a898ab72e62ff14c0fe083cad3f7614b468ba77cb22c80c5eb303"
+    },
+    "680022": {
+        "text": "Arima Kinen Level 3",
+        "hash": "b750a5063a3a898ab72e62ff14c0fe083cad3f7614b468ba77cb22c80c5eb303"
+    },
+    "680023": {
+        "text": "Arima Kinen Level 3",
+        "hash": "b750a5063a3a898ab72e62ff14c0fe083cad3f7614b468ba77cb22c80c5eb303"
+    },
+    "680024": {
+        "text": "Arima Kinen Level 3",
+        "hash": "b750a5063a3a898ab72e62ff14c0fe083cad3f7614b468ba77cb22c80c5eb303"
+    },
+    "680101": {
+        "text": "Tenno Sho (Spring) Level 1",
+        "hash": "f15c01376c0a76b4edd13c886a7e1e8894e1fd8a1e68566fee5c7f4379483b6e"
+    },
+    "680102": {
+        "text": "Tenno Sho (Spring) Level 1",
+        "hash": "f15c01376c0a76b4edd13c886a7e1e8894e1fd8a1e68566fee5c7f4379483b6e"
+    },
+    "680103": {
+        "text": "Tenno Sho (Spring) Level 1",
+        "hash": "f15c01376c0a76b4edd13c886a7e1e8894e1fd8a1e68566fee5c7f4379483b6e"
+    },
+    "680104": {
+        "text": "Tenno Sho (Spring) Level 1",
+        "hash": "f15c01376c0a76b4edd13c886a7e1e8894e1fd8a1e68566fee5c7f4379483b6e"
+    },
+    "680111": {
+        "text": "Tenno Sho (Spring) Level 2",
+        "hash": "1067434103aa200741cf9d2c45fdbb6903660a2bcdf52efc07d0545231e6169d"
+    },
+    "680112": {
+        "text": "Tenno Sho (Spring) Level 2",
+        "hash": "1067434103aa200741cf9d2c45fdbb6903660a2bcdf52efc07d0545231e6169d"
+    },
+    "680113": {
+        "text": "Tenno Sho (Spring) Level 2",
+        "hash": "1067434103aa200741cf9d2c45fdbb6903660a2bcdf52efc07d0545231e6169d"
+    },
+    "680114": {
+        "text": "Tenno Sho (Spring) Level 2",
+        "hash": "1067434103aa200741cf9d2c45fdbb6903660a2bcdf52efc07d0545231e6169d"
+    },
+    "680121": {
+        "text": "Tenno Sho (Spring) Level 3",
+        "hash": "e6414233987d16de9df73b4b942bfc920c208ba2efce0fbbcd71b7fe324935e1"
+    },
+    "680122": {
+        "text": "Tenno Sho (Spring) Level 3",
+        "hash": "e6414233987d16de9df73b4b942bfc920c208ba2efce0fbbcd71b7fe324935e1"
+    },
+    "680123": {
+        "text": "Tenno Sho (Spring) Level 3",
+        "hash": "e6414233987d16de9df73b4b942bfc920c208ba2efce0fbbcd71b7fe324935e1"
+    },
+    "680124": {
+        "text": "Tenno Sho (Spring) Level 3",
+        "hash": "e6414233987d16de9df73b4b942bfc920c208ba2efce0fbbcd71b7fe324935e1"
+    },
+    "680201": {
+        "text": "Satsuki Sho Level 1",
+        "hash": "0a72677d2173731b712e67397091d8b2a0715faba28534fc0909dc3839f7b687"
+    },
+    "680202": {
+        "text": "Satsuki Sho Level 1",
+        "hash": "0a72677d2173731b712e67397091d8b2a0715faba28534fc0909dc3839f7b687"
+    },
+    "680203": {
+        "text": "Satsuki Sho Level 1",
+        "hash": "0a72677d2173731b712e67397091d8b2a0715faba28534fc0909dc3839f7b687"
+    },
+    "680204": {
+        "text": "Satsuki Sho Level 1",
+        "hash": "0a72677d2173731b712e67397091d8b2a0715faba28534fc0909dc3839f7b687"
+    },
+    "680211": {
+        "text": "Satsuki Sho Level 2",
+        "hash": "171af71f144494e9d48ca0a6836a5331e51b1522ce4526eafe44ae4bd95ba15d"
+    },
+    "680212": {
+        "text": "Satsuki Sho Level 2",
+        "hash": "171af71f144494e9d48ca0a6836a5331e51b1522ce4526eafe44ae4bd95ba15d"
+    },
+    "680213": {
+        "text": "Satsuki Sho Level 2",
+        "hash": "171af71f144494e9d48ca0a6836a5331e51b1522ce4526eafe44ae4bd95ba15d"
+    },
+    "680214": {
+        "text": "Satsuki Sho Level 2",
+        "hash": "171af71f144494e9d48ca0a6836a5331e51b1522ce4526eafe44ae4bd95ba15d"
+    },
+    "680221": {
+        "text": "Satsuki Sho Level 3",
+        "hash": "0fcedaa0df822124501dbf386a2c5503f07e15d21c6307e31c28af0e47d53978"
+    },
+    "680222": {
+        "text": "Satsuki Sho Level 3",
+        "hash": "0fcedaa0df822124501dbf386a2c5503f07e15d21c6307e31c28af0e47d53978"
+    },
+    "680223": {
+        "text": "Satsuki Sho Level 3",
+        "hash": "0fcedaa0df822124501dbf386a2c5503f07e15d21c6307e31c28af0e47d53978"
+    },
+    "680224": {
+        "text": "Satsuki Sho Level 3",
+        "hash": "0fcedaa0df822124501dbf386a2c5503f07e15d21c6307e31c28af0e47d53978"
+    },
+    "681101": {
+        "text": "Tenno Sho (Spring) Level 1",
+        "hash": "f15c01376c0a76b4edd13c886a7e1e8894e1fd8a1e68566fee5c7f4379483b6e"
+    },
+    "681111": {
+        "text": "Tenno Sho (Spring) Level 2",
+        "hash": "1067434103aa200741cf9d2c45fdbb6903660a2bcdf52efc07d0545231e6169d"
+    },
+    "681121": {
+        "text": "Tenno Sho (Spring) Level 3",
+        "hash": "e6414233987d16de9df73b4b942bfc920c208ba2efce0fbbcd71b7fe324935e1"
     },
     "690001": {
         "text": "Regular Race - Week 1 - Short",
@@ -5798,6 +6166,10 @@
     "800137": {
         "text": "Kashiwa Kinen",
         "hash": "bfedca3be2f419e2150304f0fafb520ec861cc380730d735e8ed98cfc4dbbb73"
+    },
+    "800138": {
+        "text": "Mile Championship Nambu Hai",
+        "hash": "bb713df8f801eae78fc0301bed26afccdc6e67d9f87662bcac7fccd885c15f33"
     },
     "800139": {
         "text": "Trainer's Cup",
@@ -8135,6 +8507,22 @@
         "text": "Arima Kinen (HARD)",
         "hash": "fcdd61a38ae811d1b8e68788aed8ba46a180e3cf1f6669885dcf32cb6124c3db"
     },
+    "1200501": {
+        "text": "Osaka Hai (HARD)",
+        "hash": "f84e7bcc57be9cb2eb4f17827b6648dcdf1fa71ed364d95e6bcb2b1e9527a051"
+    },
+    "1200502": {
+        "text": "Osaka Hai (HARD)",
+        "hash": "f84e7bcc57be9cb2eb4f17827b6648dcdf1fa71ed364d95e6bcb2b1e9527a051"
+    },
+    "1200601": {
+        "text": "Yasuda Kinen (HARD)",
+        "hash": "d3c99ed2c79c5738ea1eb7a7a8f7aebfa52e664375321d90f8db2ac07a732076"
+    },
+    "1200602": {
+        "text": "Yasuda Kinen (HARD)",
+        "hash": "d3c99ed2c79c5738ea1eb7a7a8f7aebfa52e664375321d90f8db2ac07a732076"
+    },
     "1200701": {
         "text": "Takarazuka Kinen (HARD)",
         "hash": "18d6aff6a05b016b94d3f8c4c06364852541e80a481257fd41b138f358a2c2d3"
@@ -8142,6 +8530,14 @@
     "1200702": {
         "text": "Takarazuka Kinen (HARD)",
         "hash": "18d6aff6a05b016b94d3f8c4c06364852541e80a481257fd41b138f358a2c2d3"
+    },
+    "1200801": {
+        "text": "Teio Sho (HARD)",
+        "hash": "f85f9384f6caa62570688372f8d4cbc91e42abf6d982f2d137ae5258d4fea87f"
+    },
+    "1200802": {
+        "text": "Teio Sho (HARD)",
+        "hash": "f85f9384f6caa62570688372f8d4cbc91e42abf6d982f2d137ae5258d4fea87f"
     },
     "1200901": {
         "text": "Sprinters Stakes (HARD)",
@@ -8207,6 +8603,14 @@
         "text": "Tokyo Yushun (Japan Derby) (HARD)",
         "hash": "c833a9b83952b8927e90713f494e820b086839ce52a4f78e226cdca9fde0c6e6"
     },
+    "1201801": {
+        "text": "Yasuda Kinen (HARD)",
+        "hash": "d3c99ed2c79c5738ea1eb7a7a8f7aebfa52e664375321d90f8db2ac07a732076"
+    },
+    "1201802": {
+        "text": "Yasuda Kinen (HARD)",
+        "hash": "d3c99ed2c79c5738ea1eb7a7a8f7aebfa52e664375321d90f8db2ac07a732076"
+    },
     "1201901": {
         "text": "Takarazuka Kinen (HARD)",
         "hash": "18d6aff6a05b016b94d3f8c4c06364852541e80a481257fd41b138f358a2c2d3"
@@ -8214,6 +8618,14 @@
     "1201902": {
         "text": "Takarazuka Kinen (HARD)",
         "hash": "18d6aff6a05b016b94d3f8c4c06364852541e80a481257fd41b138f358a2c2d3"
+    },
+    "1202001": {
+        "text": "Teio Sho (HARD)",
+        "hash": "f85f9384f6caa62570688372f8d4cbc91e42abf6d982f2d137ae5258d4fea87f"
+    },
+    "1202002": {
+        "text": "Teio Sho (HARD)",
+        "hash": "f85f9384f6caa62570688372f8d4cbc91e42abf6d982f2d137ae5258d4fea87f"
     },
     "1202101": {
         "text": "Sprinters Stakes (HARD)",

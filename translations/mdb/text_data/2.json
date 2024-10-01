@@ -451,9 +451,21 @@
         "text": "Campaign Expired",
         "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
     },
+    "1801": {
+        "text": "Gacha banner expired",
+        "hash": "809ff6ef92b879bf39c7d36e14a5943ad7c3a84a0d861099b7d98656a0b768ea"
+    },
+    "1806": {
+        "text": "Beginner gacha already pulled",
+        "hash": "408cb10d2db5a6403a6fcba6b6be997f3b0fa63cda00ef8ab372de862bd8bf86"
+    },
     "1807": {
         "text": "Campaign Expired",
         "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
+    },
+    "1808": {
+        "text": "Campaign update",
+        "hash": "b9c235f0b8ea2e70630dbb3261e54e70dd59f7da699064d8c20f70df894cb71a"
     },
     "1809": {
         "text": "Function Maintenance",
@@ -467,6 +479,10 @@
         "text": "Function Maintenance",
         "hash": "00fec67c1668c1e2ccd24f329096d72462e0c767e238c1eb20751ee00d7d4dc1"
     },
+    "2503": {
+        "text": "Rental cost changed",
+        "hash": "776f9b52d499ec7646212688bb74165ec36b89cc8a32ee607a0ba71ff9197e6a"
+    },
     "2508": {
         "text": "Campaign Expired",
         "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
@@ -475,9 +491,353 @@
         "text": "Campaign Expired",
         "hash": "895090c56fc25a5f7cc627f1ecc2597ba334ecc3aba57a28c874c6f2baf425f5"
     },
+    "2510": {
+        "text": "Event ended",
+        "hash": "e6afc174b172113d63b829f48cdcc5bbf4bc041ec65a75d8a90dda48798379f8"
+    },
+    "2512": {
+        "text": "Confirm training data deletion",
+        "hash": "cc947e490aac007fec91bd90bab3e25a4256b00ee10c752ff55da30605a9e720"
+    },
     "2513": {
         "text": "Inheritance Error",
         "hash": "ca657eda0e94439c8e81897a3c0ee3d6dd8c2f527418aa69e54a26b9340c9363"
+    },
+    "2800": {
+        "text": "Currently aggregating",
+        "hash": "d3da0a8c17fc75e8d831ba909b1ffc356dcb96bb4ca7e806a83056e1b2a357e2"
+    },
+    "5001": {
+        "text": "Circle rejoin limit",
+        "hash": "7d3294e2f2ee870ac430c787c866255190469cb31b4c737a31c80956cd464ea8"
+    },
+    "5002": {
+        "text": "Circle member limit",
+        "hash": "d3d2cb67d9bdcbdd2ce356d145cef59df520aae437f074223fed6d4d5e913083"
+    },
+    "5003": {
+        "text": "Circle application number limit",
+        "hash": "0d831d778841bc7f1d2dea947df8986cbbd75bfeb96cd10339f4a3973c460e61"
+    },
+    "5004": {
+        "text": "Circle application number limit",
+        "hash": "0d831d778841bc7f1d2dea947df8986cbbd75bfeb96cd10339f4a3973c460e61"
+    },
+    "5005": {
+        "text": "Circle member limit",
+        "hash": "d3d2cb67d9bdcbdd2ce356d145cef59df520aae437f074223fed6d4d5e913083"
+    },
+    "5006": {
+        "text": "Circle member error",
+        "hash": "e77709b594efb1ad35676bc0f5c807bd3580f58c291f819d7fc72d8daa2ac361"
+    },
+    "5007": {
+        "text": "Circle member error",
+        "hash": "e77709b594efb1ad35676bc0f5c807bd3580f58c291f819d7fc72d8daa2ac361"
+    },
+    "5008": {
+        "text": "Circle error",
+        "hash": "52cbed12d401a1e1b50de2e356cddc6052cdca21110bf4b2919254f01fa315bd"
+    },
+    "5009": {
+        "text": "Circle member error",
+        "hash": "e77709b594efb1ad35676bc0f5c807bd3580f58c291f819d7fc72d8daa2ac361"
+    },
+    "5011": {
+        "text": "Circle application limit",
+        "hash": "989a53589d82037eb3adfddbdc0bdf9f09364c474702c781714d2386a5fa0928"
+    },
+    "5012": {
+        "text": "Circle invite error",
+        "hash": "981143c71c91397b4bec4171c458680c0714a39707e7135c6287c2423e08072d"
+    },
+    "5014": {
+        "text": "Circle member error",
+        "hash": "e77709b594efb1ad35676bc0f5c807bd3580f58c291f819d7fc72d8daa2ac361"
+    },
+    "5015": {
+        "text": "Circle operation error",
+        "hash": "1fc72d3e8078b09d85ca7c2e670781ac5b34158c5cac265e55ab2a609c24f9b5"
+    },
+    "5016": {
+        "text": "Circle operation error",
+        "hash": "1fc72d3e8078b09d85ca7c2e670781ac5b34158c5cac265e55ab2a609c24f9b5"
+    },
+    "5017": {
+        "text": "Circle operation error",
+        "hash": "1fc72d3e8078b09d85ca7c2e670781ac5b34158c5cac265e55ab2a609c24f9b5"
+    },
+    "5020": {
+        "text": "Item Request error",
+        "hash": "3b76077ab5123e80743b0394e9a61dcb52456f159cc3b2da510a65f0de11378d"
+    },
+    "5021": {
+        "text": "Item Request error",
+        "hash": "3b76077ab5123e80743b0394e9a61dcb52456f159cc3b2da510a65f0de11378d"
+    },
+    "5023": {
+        "text": "Circle operation error",
+        "hash": "1fc72d3e8078b09d85ca7c2e670781ac5b34158c5cac265e55ab2a609c24f9b5"
+    },
+    "5024": {
+        "text": "Circle member limit",
+        "hash": "d3d2cb67d9bdcbdd2ce356d145cef59df520aae437f074223fed6d4d5e913083"
+    },
+    "5025": {
+        "text": "Circle operation error",
+        "hash": "1fc72d3e8078b09d85ca7c2e670781ac5b34158c5cac265e55ab2a609c24f9b5"
+    },
+    "5026": {
+        "text": "Item Request error",
+        "hash": "3b76077ab5123e80743b0394e9a61dcb52456f159cc3b2da510a65f0de11378d"
+    },
+    "5027": {
+        "text": "Submission freq/count error",
+        "hash": "798781fe7351ec8b8db512b879f50999d4aa468e039978f86d95b62e0b01d665"
+    },
+    "5028": {
+        "text": "Training Partner list error",
+        "hash": "77f118a23cafe7cb08087d7d8e99c57356a94e039a349d798c3b57bfe9da8e0e"
+    },
+    "5029": {
+        "text": "Horsegirl info retrieval failed",
+        "hash": "084ed3224b8f93f2043709e7ba2fc8cb9eb335e24cf51748d97fac8cf307e469"
+    },
+    "5100": {
+        "text": "Race registration limit",
+        "hash": "a7a568c3490fc497e63fb8c7d2fbdf1717f0639444cedd20a7aed3f28fc500a4"
+    },
+    "5101": {
+        "text": "Rage registration ended",
+        "hash": "1740d5d59186382f2767e4ed7a908b820f6113ee01fdebf31af97c0485d6cc05"
+    },
+    "5102": {
+        "text": "Cancel period ended",
+        "hash": "32bdf65f952ff6b9c08faa42197ee5b8364297cdab2b45e252dfe07cfae2170b"
+    },
+    "5103": {
+        "text": "Editing room info failed",
+        "hash": "8b1ec04de7030990497a531538a3c2e9fbf3e2b5ecb8cea5306b6afc41c6679d"
+    },
+    "5104": {
+        "text": "Race result validation failed",
+        "hash": "7f1ab4481add08e7f6c486ec5c565ae52b4df2fc034cd8db373e12518eef1658"
+    },
+    "5105": {
+        "text": "Room cancelled",
+        "hash": "8762bbcb72f974050932e68044a59943d8809d9fb1e40bb4919b19f9aeb325e4"
+    },
+    "5106": {
+        "text": "Unknown room",
+        "hash": "b1dfc11d8d0ef35fa10b7dba7dea4f204a4a9c3ed31a4d7b8db76ddf89f54040"
+    },
+    "5107": {
+        "text": "Advancing failed",
+        "hash": "a6f9db1e6f440a5a071c40f076666edece73b7539238098a242623d003217030"
+    },
+    "5108": {
+        "text": "Spectator limit",
+        "hash": "449cfb7b1f2bb962d6907ad4b73b9c2758dbf884d18db37454365b7fcbe0b38b"
+    },
+    "5109": {
+        "text": "Circle co-ownership time exceeded",
+        "hash": "104779a53f6ea9c43b5680b03919574a68f08ebab8bd9bb2048a2b93ec9b7d54"
+    },
+    "5110": {
+        "text": "Race already entered",
+        "hash": "2e343bb6069a8ef6559b14335cb07a9638222e7ce14e9133fc34f988ca7d64b7"
+    },
+    "5111": {
+        "text": "Race no longer valid",
+        "hash": "7bafb2f40519cd23adf79cac338c148b6a41bf2944044978ab682944b949231f"
+    },
+    "5200": {
+        "text": "Partner ID error",
+        "hash": "38aebd2ba4f1b7671c331f09de40237f25ada98312c667b6a534e049d84f13c4"
+    },
+    "5201": {
+        "text": "Partner ID error",
+        "hash": "38aebd2ba4f1b7671c331f09de40237f25ada98312c667b6a534e049d84f13c4"
+    },
+    "5202": {
+        "text": "Partner ID error",
+        "hash": "38aebd2ba4f1b7671c331f09de40237f25ada98312c667b6a534e049d84f13c4"
+    },
+    "5203": {
+        "text": "Transferred horsegirl",
+        "hash": "d2803f77c7d3ce57f8bcd0daf5d8cd6a86928cc49f89c4706a0c81b80e5e2806"
+    },
+    "5204": {
+        "text": "Race data error",
+        "hash": "b561b705afd04ea5afdf3122ea2eacaa7eaf337f2b68e7ba917b97b9adfdea09"
+    },
+    "5205": {
+        "text": "Uncap error",
+        "hash": "578935c01bff37ee298e0d0114c561d8feed09f20d7d0484974e5223e15025ce"
+    },
+    "5206": {
+        "text": "Horsegirl info retrieval failed",
+        "hash": "084ed3224b8f93f2043709e7ba2fc8cb9eb335e24cf51748d97fac8cf307e469"
+    },
+    "5207": {
+        "text": "Race entry list retrieval failed",
+        "hash": "a80003080c8e2f1f9c33a92b86253ca438f8527d38609d69b1b403b8ee33334a"
+    },
+    "8501": {
+        "text": "Confirm",
+        "hash": "dce52f3e11196e3d4d7c5364486148b9801492d2db666de610cf036ecb5ca076"
+    },
+    "8502": {
+        "text": "Entry count reset",
+        "hash": "3ce8729ab9a34e7d77eab5b9b78338a08cb57ab872cbc3a852cc6589c1a65f6b"
+    },
+    "8504": {
+        "text": "League selection ended",
+        "hash": "0ea98f2de53c16151a9da3e948c71a5242a67b600b455ced920775e520f50a98"
+    },
+    "8505": {
+        "text": "League selection ended",
+        "hash": "0ea98f2de53c16151a9da3e948c71a5242a67b600b455ced920775e520f50a98"
+    },
+    "8507": {
+        "text": "Race registration period ended",
+        "hash": "c3ef1ddf22c0e200ff4fd04dacecb2b5c006429c64a0d55aef478031c7bedfb3"
+    },
+    "8600": {
+        "text": "Event ended",
+        "hash": "e6afc174b172113d63b829f48cdcc5bbf4bc041ec65a75d8a90dda48798379f8"
+    },
+    "8601": {
+        "text": "Receival period ended",
+        "hash": "aff8913c6656d935b07fa3efcfc55022617b6b6a7eacee9eaa1d79efc1819079"
+    },
+    "8602": {
+        "text": "Challenge race ended",
+        "hash": "5b1c25ae1ca5f3db5210faf7c845a7ae5f9c746be1f1abe7647f20886a68a78a"
+    },
+    "8700": {
+        "text": "Receival period ended",
+        "hash": "aff8913c6656d935b07fa3efcfc55022617b6b6a7eacee9eaa1d79efc1819079"
+    },
+    "8701": {
+        "text": "Event ended",
+        "hash": "e6afc174b172113d63b829f48cdcc5bbf4bc041ec65a75d8a90dda48798379f8"
+    },
+    "8702": {
+        "text": "Ticket auto-recovery",
+        "hash": "6f2f40a37e68f3ac911cf7d819601bd2c5b1f160b61bdc6e57bb076c2a6561c9"
+    },
+    "8703": {
+        "text": "Retries reset",
+        "hash": "941040ebdc94ffa3f56f6913e8ace0341944adfe416a2ce165d74ac0348ebc43"
+    },
+    "8750": {
+        "text": "Team Registration period ended",
+        "hash": "9ccd85dfc86f1571bb4e598b91d5670d9fec5eb8849256a5b00ba31f100f5d61"
+    },
+    "8751": {
+        "text": "Main Stage ended",
+        "hash": "b1a6c9491c495920b2b12d05b74b7caca679eb1a1075c1ea3a7a1cb79d81bc63"
+    },
+    "8752": {
+        "text": "Main Stage ranking aggregation ended",
+        "hash": "4a63cc56241f194fe859d06c1168fb9265d4959a31bc6534d047e9150af843a4"
+    },
+    "8753": {
+        "text": "Main Stage ranking announcement ended",
+        "hash": "f41c3ef5cf9ff8d80d63f698db792042ff2662cb648e815158a4768f237b5fc2"
+    },
+    "8754": {
+        "text": "Extra Stage registration ended",
+        "hash": "16c7b9fd323a6b380863c61b152bd82917ede42d850976e0d221c251680449b8"
+    },
+    "8755": {
+        "text": "Extra Stage matching period ended",
+        "hash": "aa2550695f2917da6d563822902591ce99c02fcac3dd50f03f5681e39621bb82"
+    },
+    "8756": {
+        "text": "Extra Stage \"Neighce\" support period ended",
+        "hash": "dcef9d3836e347bd5e8cfc463d90203feca032911fbd35fe17990870e09a0dd0"
+    },
+    "8758": {
+        "text": "Main Stage ended",
+        "hash": "b1a6c9491c495920b2b12d05b74b7caca679eb1a1075c1ea3a7a1cb79d81bc63"
+    },
+    "8759": {
+        "text": "Main Stage ended",
+        "hash": "b1a6c9491c495920b2b12d05b74b7caca679eb1a1075c1ea3a7a1cb79d81bc63"
+    },
+    "8760": {
+        "text": "Main Stage ended",
+        "hash": "b1a6c9491c495920b2b12d05b74b7caca679eb1a1075c1ea3a7a1cb79d81bc63"
+    },
+    "8761": {
+        "text": "Extra Stage registration ended",
+        "hash": "16c7b9fd323a6b380863c61b152bd82917ede42d850976e0d221c251680449b8"
+    },
+    "8762": {
+        "text": "League of Heroes ended",
+        "hash": "3cfc3fc8dfbb53f39d585b673a528f38f6c8102cab744e9f2308bd84ff10d414"
+    },
+    "9001": {
+        "text": "Receival period ended",
+        "hash": "aff8913c6656d935b07fa3efcfc55022617b6b6a7eacee9eaa1d79efc1819079"
+    },
+    "9051": {
+        "text": "Receival period ended",
+        "hash": "e3360e3471db2c63c23bbc3463dd778e2ccedd2aa0d1407a4ea14719316d13f2"
+    },
+    "9052": {
+        "text": "Receival period ended",
+        "hash": "e3360e3471db2c63c23bbc3463dd778e2ccedd2aa0d1407a4ea14719316d13f2"
+    },
+    "9101": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9102": {
+        "text": "Hosting period ended",
+        "hash": "ffea3f1a372945c744a61ad7bdcc60600975dde7bee40ca1c42e5accf71c287c"
+    },
+    "9103": {
+        "text": "Leading horsegirl period ended",
+        "hash": "e56aa58df3abc0e785f06bee9ca3ce7e9f4d7abfb3c059de5782fde363b6ca8a"
+    },
+    "9104": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9105": {
+        "text": "Confirm",
+        "hash": "dce52f3e11196e3d4d7c5364486148b9801492d2db666de610cf036ecb5ca076"
+    },
+    "9151": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9152": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9153": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9201": {
+        "text": "Campaign ended",
+        "hash": "c73d5c65ada973220eabcc92a980129ad40980ced59f4f25753f05a3ed1d6e8b"
+    },
+    "9251": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9301": {
+        "text": "Event period ended",
+        "hash": "65cd6432990950b96fdf49e4b1c6b6fa11e9d221a1185b7100f3af6938d340e8"
+    },
+    "9351": {
+        "text": "Hall of Fame horsegirl error",
+        "hash": "f98e13d5cd5e8a7b7196b322b95b9c66c3d4c0ee7fc97805f691bc222bf88dcc"
     },
     "9401": {
         "text": "Campaign Expired",

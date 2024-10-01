@@ -9,6 +9,7 @@ import fnv
 from PIL import Image
 from tqdm import tqdm
 from multiprocessing import Pool
+import json
 
 HACHIMI_ROOT = "tl-en\\localized_data\\"
 
@@ -570,19 +571,54 @@ def convert():
 def backport_assembly():
     backport_jdict()
 
+def backport_text_data():
+    print("Backporting text_data")
+    in_path = os.path.join(HACHIMI_ROOT, "text_data_dict.json")
+    in_dict = util.load_json(in_path)
+
+    for key, entry_dict in in_dict.items():
+        json_path = os.path.join(util.MDB_FOLDER_EDITING, "text_data", key + ".json")
+        if not os.path.exists(json_path):
+            print(f"File {json_path} does not exist")
+            continue
+        carotene_list = util.load_json(json_path)
+        print(key)
+
+        carotene_dict = {}
+        for c_entry in carotene_list:
+            c_keys = json.loads(c_entry['keys'])
+            for c_key in c_keys:
+                carotene_dict[str(c_key[-1])] = c_entry
+
+        for entry_key, entry in entry_dict.items():
+            if entry_key not in carotene_dict:
+                print(f"Hachimi {entry_key} not found in category {key}")
+                continue
+            carotene_dict[entry_key]["text"] = entry
+        
+        util.save_json(json_path, carotene_list)
+
+
+def backport_mdb():
+    backport_text_data()
+    # backport_character_system_text()
+    # backport_race_jikkyo()
+
 def backport():
     print("Copying Hachimi to Carotene")
     backport_assembly()
-    # backport_mdb()
+    backport_mdb()
 
 
 def main():
     # convert()
     # backport_assembly()
     # convert_assembly()
-    convert_mdb()
+    # convert_mdb()
     # convert_assets()
     # copy_data()
+    backport_text_data()
+    pass
 
 if __name__ == "__main__":
     main()

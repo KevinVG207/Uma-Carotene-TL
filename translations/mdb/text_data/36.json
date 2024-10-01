@@ -863,9 +863,17 @@
         "text": "VS Daiwa Scarlet",
         "hash": "4624e49c6bc7bcf6da7fcf4201c2ed7cca5137cfa2a6991968b4aae7e8189d2b"
     },
+    "1200501": {
+        "text": "VS Yaeno Muteki",
+        "hash": "c202b01b84a8944cdabe2ea43e91c33334f6e076a74fc47faa32e7412b933a7a"
+    },
     "1200502": {
         "text": "VS Tokai Teio",
         "hash": "5410a205177262930d0b9759af522c62a1433a157a7ba46e6e70a74c6e4014de"
+    },
+    "1200601": {
+        "text": "VS Yamanin Zephyr",
+        "hash": "6c08898409c3121fa0b3ee7661d53253296698f5ceb88344ca696198b9ffe39c"
     },
     "1200602": {
         "text": "VS Agnes Digital",
@@ -875,17 +883,53 @@
         "text": "VS Mayano Top Gun",
         "hash": "50d7dea48e5cf2b7bbc4707d73ffb6012a8669dbc663016e1beb29dc3d4ae8bb"
     },
+    "1200702": {
+        "text": "VS Sweep Tosho",
+        "hash": "cfa68d67b0c8eca9feb12cef5feb51eb045f066ed7ecbdf5224a351747a179ce"
+    },
+    "1200801": {
+        "text": "VS Smart Falcon",
+        "hash": "549cfb83d5056cbc22de8b3928679ae4298dc61accfaf29a0cd3d3f10ede534b"
+    },
+    "1200802": {
+        "text": "VS Copano Rickey",
+        "hash": "b2dcaa7a4d54ce7b1595ec3f5d69128796591aa73adb753e39893374bcea5887"
+    },
+    "1200901": {
+        "text": "VS Bamboo Memory",
+        "hash": "13f67d75e7fc0359f8c84293fde081728f80ca611f2f3c23c9036cdaa088375c"
+    },
     "1200902": {
         "text": "VS Taiki Shuttle",
         "hash": "95829073103a81bfd3398db0eb04b28ae424ced9d655a81362c460db08d1359e"
+    },
+    "1201001": {
+        "text": "VS Kitasan Black",
+        "hash": "9618fadae01511c4a2abd4c5103c5db8baae1346ba34444e53b3e3b86592b3df"
+    },
+    "1201002": {
+        "text": "VS Satono Diamond",
+        "hash": "f8afb876b60fb7f2965051cea24a8b7cefe445e06f788312a0411fe48290328c"
     },
     "1201101": {
         "text": "VS Tamamo Cross",
         "hash": "dcbbc2b9ac3d9cb74c4a0c019c200978cce6d4315e0fc9027a90e6e4f365caba"
     },
+    "1201102": {
+        "text": "VS Tosen Jordan",
+        "hash": "766831f491f686094902349c7cc9c9ab06fd71e57822d141fbf92618686dde59"
+    },
     "1201201": {
         "text": "VS Oguri Cap",
         "hash": "db6cd22532fcb36b25cbb39922359b42bd0fb23a3141d24463fdb45f6c6f716a"
+    },
+    "1201202": {
+        "text": "VS Manhattan Cafe",
+        "hash": "28aa3665bdfc771bdc23e2b0cd0b09e5e851e4db68c6af35fb13c912761d1d4f"
+    },
+    "1201301": {
+        "text": "VS Sakura Chiyono O",
+        "hash": "224278d3da081e2e9dc7a8b8de8f8f276b4f858ec59158ef0e6bf252795f4c7e"
     },
     "1201302": {
         "text": "VS Mihono Bourbon",
@@ -906,6 +950,10 @@
     "1201902": {
         "text": "VS Gold Ship",
         "hash": "aebcdf8591ff91a808edf783d92b9d3a318eb4f421ea1fb3d0af31dede476dc2"
+    },
+    "1202001": {
+        "text": "VS Smart Falcon",
+        "hash": "549cfb83d5056cbc22de8b3928679ae4298dc61accfaf29a0cd3d3f10ede534b"
     },
     "1202102": {
         "text": "VS Curren Chan",

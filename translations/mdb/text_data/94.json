@@ -14,6 +14,11 @@
         "hash": "b9a4ee21bc8237acb913b66f9ef605b0acde06c0f2c587207b7bb2637a9b49e2",
         "processed": "<nb>Sudden Crisis - Team Breakup!"
     },
+    "104": {
+        "text": "Practice Match",
+        "hash": "2c0224a8105e0c068532ebb89a769361776b02501fc8a1e8e75d3fee7d18b9ca",
+        "processed": "<nb>Practice Match"
+    },
     "105": {
         "text": "McQueen's Tenno Sho",
         "hash": "75e3c319744b1fc6b9146e5c95bfe651c1ebf4a496c94b11ad0ec641a139b2e1",
@@ -23,6 +28,11 @@
         "text": "Towards Victory! The Team's First Steps",
         "hash": "b0eaba05430ef769a09bc005ee854b6a1d0c345697ca455fe861230a686dc16a",
         "processed": "<nb><sc=89>Towards Victory! The Team's First Steps"
+    },
+    "107": {
+        "text": "Hanshin Daishoten",
+        "hash": "e28905b8aadfd2e002aff00960d5811c39964b51da51d77aa278fab642d2d32a",
+        "processed": "<nb>Hanshin Daishoten"
     },
     "108": {
         "text": "Dream Stage - Spring Tenno Sho",
@@ -38,6 +48,11 @@
         "text": "Summer! Sea! Uninhabited Island Camp!",
         "hash": "3a9548f7113ab2b80a1a010965bb71a9440b35f1d9301ed32fc32ac0c3c2017c",
         "processed": "<nb><sc=88>Summer! Sea! Uninhabited Island Camp!"
+    },
+    "111": {
+        "text": "Kyoto Daishoten",
+        "hash": "5175c761a3c5834d48f8d49c7b74655146f7a6d24fbd9d504c082c7ca9422eee",
+        "processed": "<nb>Kyoto Daishoten"
     },
     "112": {
         "text": "Star Horsegirl McQueen",
@@ -64,10 +79,95 @@
         "hash": "23659fd270f1067995420e84dc34dd64904af4b438b6b8e41acfb2529212e206",
         "processed": "<nb>Return of the Ace"
     },
+    "117": {
+        "text": "Showdown of Aces - Nakayama Turf, CW, 2500m",
+        "hash": "1103b8ea0d8f6a30165563800749ec16c913aa5f1c0fa8f158c0beb240685da2",
+        "processed": "<nb><sc=73>Showdown of Aces - Nakayama Turf, CW, 2500m"
+    },
     "118": {
         "text": "Soaring Horsegirl McQueen",
         "hash": "db582282b9509e0dbcb56ca12a11bbd1685944dc2e5a9a34f759ad80b11b686e",
         "processed": "<nb>Soaring Horsegirl McQueen"
+    },
+    "201": {
+        "text": "New Member's Talent",
+        "hash": "d03acf7a9a091e0791072fccacd7b4a9d7db27fe1a187b2930821796e3df16b9",
+        "processed": "<nb>New Member's Talent"
+    },
+    "202": {
+        "text": "A Horsegirl Aiming for Victory - Rice Shower",
+        "hash": "5e6995860b446eb6c8cdc77dfcdd54572ab4d0903576b89f420aef29b50fc9e1",
+        "processed": "<nb><sc=80>A Horsegirl Aiming for Victory - Rice Shower"
+    },
+    "203": {
+        "text": "Tokyo Yushun",
+        "hash": "dab9ecc0923c637a5d070d2eccd680f07f1da24f2dc8e2dfe0ce3531ad7de3c8",
+        "processed": "<nb>Tokyo Yushun"
+    },
+    "204": {
+        "text": "Vow at the Amusement Park - I Want to Win!",
+        "hash": "27376f0295b00be2f2709567c7ed289c1f3d5c2ebc3c4b4337c05b6ff7949798",
+        "processed": "<nb><sc=80>Vow at the Amusement Park - I Want to Win!"
+    },
+    "207": {
+        "text": "Team Practice",
+        "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c",
+        "processed": "<nb>Team Practice"
+    },
+    "212": {
+        "text": "Nikkei Sho",
+        "hash": "0d650a619621d11a010340842b7920d2a01dfbc435096988924f5c8431ffea0a",
+        "processed": "<nb>Nikkei Sho"
+    },
+    "216": {
+        "text": "Team Practice",
+        "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c",
+        "processed": "<nb>Team Practice"
+    },
+    "220": {
+        "text": "Team Practice",
+        "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c",
+        "processed": "<nb>Team Practice"
+    },
+    "224": {
+        "text": "Habotan Sho",
+        "hash": "27f9539f1f83be83202f2f92190763e7dbc5a81e2ac5e0ad8437c8450117a71d",
+        "processed": "<nb>Habotan Sho"
+    },
+    "229": {
+        "text": "Dream of Satsuki Sho",
+        "hash": "09e6a76690d2474ef2b2fc0d01953b4cfb6f365b5c47d27d783690a103326480",
+        "processed": "<nb>Dream of Satsuki Sho"
+    },
+    "233": {
+        "text": "Dream of Derby",
+        "hash": "c89dec5271d0e7b544108f1fcff4543685d4b7bb4300ea041b16d70ba1051fe8",
+        "processed": "<nb>Dream of Derby"
+    },
+    "403": {
+        "text": "Asahi Hai Futurity Stakes",
+        "hash": "c0ecf4f2fdae3d04930aa5b815b24095fb5d0c79b6cb8bd3595f79f819dbe445",
+        "processed": "<nb>Asahi Hai Futurity Stakes"
+    },
+    "407": {
+        "text": "Kikka Sho",
+        "hash": "8a0ec5bcb0b8df6e2cccaa6d169058628e983a202036e88b5ce0b5858498e242",
+        "processed": "<nb>Kikka Sho"
+    },
+    "411": {
+        "text": "Unbreakable Mind",
+        "hash": "bfcffa4529a543cba8c7ae92ec841c77963042a4b9636a7e7aa3906b5f60e90f",
+        "processed": "<nb>Unbreakable Mind"
+    },
+    "412": {
+        "text": "Post-injury training",
+        "hash": "420ffee4fc596d1b70911b9a64543177a43db9d08feecc1438ab122c3f0141c2",
+        "processed": "<nb>Post-injury training"
+    },
+    "416": {
+        "text": "Vague Memory",
+        "hash": "e5bf54ef4c55d384a6aa0bf8153a322ad6dc127f0bc3bc1acf876c89e78f2866",
+        "processed": "<nb>Vague Memory"
     },
     "501": {
         "text": "A Lively Feeling",
@@ -84,6 +184,11 @@
         "hash": "805634fd6652d4efe42a3bf3457243fb589f6150715fe11c054b747b20d200d0",
         "processed": "<nb>Both Chasing Their Dream"
     },
+    "504": {
+        "text": "Principal Stakes",
+        "hash": "102faba75b2a4ae29a7f560fcfc9b164d004ce73aa8a8bf64a75163e5dd93f32",
+        "processed": "<nb>Principal Stakes"
+    },
     "505": {
         "text": "Thunder-Clouded 'Scenery'",
         "hash": "078fdbf15e08496c3088a9b2d43c9c7c3a6b587bcb2feb7a93a355eb8b066561",
@@ -98,6 +203,11 @@
         "text": "Dreams In Tandem",
         "hash": "2a90d5d8c6df2e67035e8120513334bd84434c70281baef27f49e9b72585d5b2",
         "processed": "<nb>Dreams In Tandem"
+    },
+    "508": {
+        "text": "Team Practice",
+        "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c",
+        "processed": "<nb>Team Practice"
     },
     "509": {
         "text": "Dream-like Scenery",
@@ -119,6 +229,11 @@
         "hash": "1c908e13af53d2d76cd87336879168d78f2f8eb61f0511a38239f571b557dbfd",
         "processed": "<nb>The Future We're Bound For"
     },
+    "513": {
+        "text": "Inescapable Anxiety",
+        "hash": "a8f198cc219b86d9688559952cc9b0521d08394d27658d7aa6cf9169a6756f91",
+        "processed": "<nb>Inescapable Anxiety"
+    },
     "515": {
         "text": "Those Who Bear 'Feelings'",
         "hash": "a141cd00e0225bdfb293172eb37e29d52f60414d09e20d9e9009ccf06782b516",
@@ -138,6 +253,11 @@
         "text": "For Both Of My Moms!",
         "hash": "50e9c8ac94f53eafb8893cbabd6297233138c12cc9da1f10f998e735a79bd7aa",
         "processed": "<nb>For Both Of My Moms!"
+    },
+    "603": {
+        "text": "Yayoi Sho",
+        "hash": "75bf5d4f74faccb23587ce9be8549e68b1591b27ece285cf91d65d20209d4126",
+        "processed": "<nb>Yayoi Sho"
     },
     "604": {
         "text": "A Side I've Never Seen Before",
@@ -159,6 +279,11 @@
         "hash": "06d3e5ea6193a6e3578ab31fef43ef2ce69de098587564dbce79fa10b21dc59c",
         "processed": "<nb>Emotions Overflow! Japan Derby"
     },
+    "608": {
+        "text": "Japan Cup",
+        "hash": "d2df4bca816f6863d3bea9111eaa2bb5ac1cc807df35a88b6354efeda4c17b54",
+        "processed": "<nb>Japan Cup"
+    },
     "609": {
         "text": "New Year's Resolution",
         "hash": "72fb752e89a88d402cd7090676a748034482944a539d6751182e55ad4f6de001",
@@ -179,6 +304,11 @@
         "hash": "5502ba78ebc452cd589dd7e14dde009349fe0b1199c402a3c8891346ec67b9b3",
         "processed": "<nb>Departures And Challenges"
     },
+    "613": {
+        "text": "Hanshin Daishoten",
+        "hash": "e28905b8aadfd2e002aff00960d5811c39964b51da51d77aa278fab642d2d32a",
+        "processed": "<nb>Hanshin Daishoten"
+    },
     "614": {
         "text": "I Shall Carry It",
         "hash": "1d400bc96129f8abe218bccf14326a444e7bc250f67862a3236002b85b4b1f5e",
@@ -188,6 +318,11 @@
         "text": "A Special Race",
         "hash": "eb3fe1b179e27c42410a236c8432e4cb947df72471e5bf0c2906e4d4019089eb",
         "processed": "<nb>A Special Race"
+    },
+    "616": {
+        "text": "Mock Race",
+        "hash": "234cecafbca09cf3acedf39906b826894d0b055cea0147592b7f3dddf3b0d41d",
+        "processed": "<nb>Mock Race"
     },
     "617": {
         "text": "Emotions Into Strength!",
@@ -204,6 +339,11 @@
         "hash": "5a05cbf3c3cf4403a4fb919ea3a9a6fe38d6578ad00e09848191bde85de9059a",
         "processed": "<nb>What I'm Aiming To Be"
     },
+    "703": {
+        "text": "Team Practice",
+        "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c",
+        "processed": "<nb>Team Practice"
+    },
     "704": {
         "text": "To the Summit, Takarazuka Kinen",
         "hash": "2bcc64dad268774f8beeafb5e8585cf8e1bf7c6c6590e7d38f89262099f47351",
@@ -218,6 +358,11 @@
         "text": "The Wrong Shape Of A Dream",
         "hash": "e4a34d6aa90b59f0190e5adb2108a9782ec573e83382151908d6203973a1981c",
         "processed": "<nb>The Wrong Shape Of A Dream"
+    },
+    "707": {
+        "text": "Unwavering Race",
+        "hash": "79fa6d99bde1daf789717a194ddc878e92dabe110b6e242055334fd741e279dc",
+        "processed": "<nb>Unwavering Race"
     },
     "708": {
         "text": "To Everyone, 'Japan's #1",
@@ -239,6 +384,11 @@
         "hash": "19ef053e6fb2d9cf2ffa00f7de0cc73bdc33c016d1feab5ea7daf5fb1c34fa81",
         "processed": "<nb>We're Still Running Today"
     },
+    "712": {
+        "text": "Arima Kinen",
+        "hash": "cfef9aa14734781aff7c6f447e93a2aea1cbf6932c51a53bc916b86a1f2b4f5b",
+        "processed": "<nb>Arima Kinen"
+    },
     "713": {
         "text": "Dream Run",
         "hash": "2cb986b5c35afadbeebff786cb7a36d4afc55b651cdb823f37d3c46d0de85587",
@@ -248,6 +398,11 @@
         "text": "Weaving a Brilliant Dream",
         "hash": "f8c205d17ea398e1dcf8b622d244a469d111ac4fa47b0b060ab716d696159979",
         "processed": "<nb>Weaving a Brilliant Dream"
+    },
+    "715": {
+        "text": "The Sirius Experience",
+        "hash": "bf8e3dbd5631044988c0bd5fd6161c37b0db31e46b194e6f5dd99d4088ae733e",
+        "processed": "<nb>The Sirius Experience"
     },
     "2101": {
         "text": "Petals Dance, Team Ascella",
@@ -264,6 +419,11 @@
         "hash": "72d259a73095d2c093377559f5942243f031c1b25d37163e6c5fa4b5945fd338",
         "processed": "<nb>Beyond That Muddy Road"
     },
+    "2104": {
+        "text": "Fantasy S",
+        "hash": "227c193354327d8e9917cbe12d204488d6e8129623d8a4c66ceb14c6750df878",
+        "processed": "<nb>Fantasy S"
+    },
     "2105": {
         "text": "Towards The 'Triple Tiara'",
         "hash": "e1b62693e8588fb3ee1991a592ec5b57075aad3f2432dae1f4c9e64f68764742",
@@ -273,6 +433,11 @@
         "text": "You Are My Magician",
         "hash": "9cdfb83c5375bfbed13ec59aeb83ed38965f39ab9c833107ddd783f7f54c0fa6",
         "processed": "<nb>You Are My Magician"
+    },
+    "2107": {
+        "text": "Practice Match",
+        "hash": "2c0224a8105e0c068532ebb89a769361776b02501fc8a1e8e75d3fee7d18b9ca",
+        "processed": "<nb>Practice Match"
     },
     "2108": {
         "text": "Girls in Bloom",
@@ -309,9 +474,19 @@
         "hash": "827ac99360a9ac6652bb5439d869541ffa3feaad544777ea23624853fb0744fd",
         "processed": "<nb>A Guiding Light To The Future"
     },
+    "2115": {
+        "text": "Team Practice",
+        "hash": "d29ecf4ebe3808a87cac0fb12f23762bcf1848bdd013bc84ca61c2732329784c",
+        "processed": "<nb>Team Practice"
+    },
     "2116": {
         "text": "Take Hold, 'Generation's Fastest'",
         "hash": "ac938b1f783cb97686e99934c4844cfa29ac043e1c6382282234b7b77db72f02",
         "processed": "<nb>Take Hold, 'Generation's Fastest'"
+    },
+    "2203": {
+        "text": "Practice Match",
+        "hash": "2c0224a8105e0c068532ebb89a769361776b02501fc8a1e8e75d3fee7d18b9ca",
+        "processed": "<nb>Practice Match"
     }
 }

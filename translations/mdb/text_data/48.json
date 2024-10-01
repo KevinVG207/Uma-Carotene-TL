@@ -234,6 +234,11 @@
         "hash": "570923a63977d6a92b0c90d2881b0c6b6ad818f8381cd8a00ed09cfbb15167ca",
         "processed": "<rbr>Increase acceleration as you<br>attempt to overtake on a corner in<br>the Final Leg or beyond."
     },
+    "100281": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "38e881e44a4d22e66b50288f85183ddf312801b0c0c6fdcf0e5b31775630d3f4",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
+    },
     "100291": {
         "text": "If you're close to the first place with 300 m remaining in the race, your speed will increase.",
         "hash": "6f3e9b5bee7454ac4b3e2b68f011fbb3dca67945aafb9afd667ecb507a87714b",
@@ -288,6 +293,11 @@
         "text": "If you struggle for victory on the last straight, your speed will increase.",
         "hash": "ab9194e42c9f9965cf1677dd3fb4b25ed2c9b50b7367a2144ae181f08dab3db0",
         "processed": "<rbr>If you struggle for victory on the<br>last straight, your speed will<br>increase."
+    },
+    "100401": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "f60f438eb133059e837657c72118edbb5829c06e989acd3afab8d96a1ac59234",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "100411": {
         "text": "During the later half of the race, your speed increases when competing for the lead.",
@@ -604,6 +614,11 @@
         "hash": "fb270c11077e32c13d964b8be8a3793d38ad6a0eb0d94aeb0d97b19ba6014068",
         "processed": "<rbr><sc=80>If you overtook someone during the Final<br>Corner, then during the Last Spurt, your<br>speed will increase; if it's a Short or Mile<br>race and you're in the middle of the pack, it<br>will increase greatly."
     },
+    "110011": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "623e6e5cdb2d171505a4d928dec4eba125dac00d82c37bba734d336066756a1f",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
+    },
     "110021": {
         "text": "If you're in the first place two-thirds through the race, you will get a speed boost; the effect will greatly increase if the two-thirds point is on the third corner and if you were leading by at least 3 lengths during the Middle Leg.",
         "hash": "4aa84dd75f7eb6d1ce3f40c2951d0a6bb763e5e377688d9b4711b377ef62bb6f",
@@ -788,6 +803,11 @@
         "text": "If you're blocked in the middle of the pack at the final corner, it will become easier to get out.",
         "hash": "e3c853a307dd94abf1562ceee4bdaed43d462c701c27ed3a349be04f7a6ebd48",
         "processed": "<rbr>If you're blocked in the middle of<br>the pack at the final corner, it will<br>become easier to get out."
+    },
+    "110411": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "83ee3ce467dfc5b4a6c5dc9eec164901ae191e0034d0ac04c6dd970cf819b66f",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "110421": {
         "text": "If you try to overtake someone in the first half of the pack during the second half of the race, you will get a speed boost; (Short/Mile only) then, if you overtake someone during the Final Corner, your speed will slightly increase.",
@@ -2739,10 +2759,20 @@
         "hash": "3b5a79ec62cc113fd80e796bf5494f8feeb40677dddccd13a695e8c7476846aa",
         "processed": "<rbr>Slightly recover stamina if many<br>skills activate during the Final Leg."
     },
+    "201631": {
+        "text": "Your Speed stat is increased by 40 if there are at least 4 other girls with the Sympathy skill in the race.",
+        "hash": "636e4d2562d73127c75546d41ad949f50b7178d0424cf6eaa45c04db8371efe6",
+        "processed": "<rbr>Your Speed stat is increased by 40<br>if there are at least 4 other girls<br>with the Sympathy skill in the<br>race."
+    },
     "201632": {
         "text": "Turf・If there's at least one girl with the Sympathy skill in the race, your Speed stat is increased by 60, and the Sympathy skills of everyone in the race activate.",
         "hash": "7383a8882912fa7b4c2e6929eaf36686201d823be3df97c988511720e606a2ff",
         "processed": "<rbr><sc=84>Turf・If there's at least one girl with the<br>Sympathy skill in the race, your Speed<br>stat is increased by 60, and the Sympa-<br>thy skills of everyone in the race activate."
+    },
+    "201641": {
+        "text": "Your Speed stat is increased by 40 if there are no other girls with the Lone Wolf skill in the race.",
+        "hash": "d8a2388d6fd89d5b866c865dbb2294bdb59f1fb36caf54cb4ed7cf5763e637ef",
+        "processed": "<rbr>Your Speed stat is increased by 40<br>if there are no other girls with the<br>Lone Wolf skill in the race."
     },
     "201651": {
         "text": "If another girl has been right in front of you for at least three seconds, your speed will slightly increase.",
@@ -3218,6 +3248,16 @@
         "text": "Leader・At a random point in the Middle Leg, your speed will slightly increase.",
         "hash": "8b4bc8887d9f7cb19f20de27f5b80ed3da0b5d9476955761ddafc76430c7e810",
         "processed": "<rbr>Leader・At a random point in the<br>Middle Leg, your speed will<br>slightly increase."
+    },
+    "202381": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "a3c558ebe2a49b33c3f9364be8efba0c0e7b3a696a19a943f12015ed815ba914",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
+    },
+    "202382": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "c2fbc3f1ee417ecf27cfeebfe4184184ad3f68dc05d89be992e2a8d94d64812c",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "202391": {
         "text": "Runner・During the first half of the Middle Leg, use some stamina to greatly increase your speed.",
@@ -5734,6 +5774,11 @@
         "hash": "4017f9f698457a600e2fe2df55ebbcf06745842392e314943917542f686c4492",
         "processed": "<rbr>If you overtake someone during<br>the Middle Leg, your speed will<br>increase."
     },
+    "102201111": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "2f8032ec38ceaa9f1f59889af13f323ae757ed751ac0f46c9ad7f9766fab6fe7",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
+    },
     "102201211": {
         "text": "Leader・At a random point on any downhill, your acceleration will increase.",
         "hash": "53cfd88cabb34c728665b97fb644653043a95884c9e3a28f391c6a8741a8f899",
@@ -5868,6 +5913,11 @@
         "text": "Short・At a random point during the Middle Leg, your speed will slightly increase, and your acceleration and lane movement speed will increase.",
         "hash": "4e862f4e271ac5ee9782227f0f3bd43f5c3238bd3b36e45043adda2024497b05",
         "processed": "<rbr><sc=96>Short・At a random point during the<br>Middle Leg, your speed will slightly<br>increase, and your acceleration and<br>lane movement speed will increase."
+    },
+    "102801211": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "971395bfca38ddc1b0f076c0a402624e69b530255549e3ef147bcec309134620",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "102801221": {
         "text": "Leader・Short・At a random point during the Middle Leg, use a little extra stamina to increase your speed tremendously.",
@@ -6378,6 +6428,11 @@
         "text": "Chaser・During a Last Spurt straight, your acceleration and FoV will increase.",
         "hash": "a22dd8e03c3983c703dd6f144a85639ccc24bbd666952dcf8697ccf5cd8988ab",
         "processed": "<rbr>Chaser・During a Last Spurt<br>straight, your acceleration and<br>FoV will increase."
+    },
+    "105002111": {
+        "text": "The description of this skill has recently changed; retranslation is pending.",
+        "hash": "242cba0e14a3f3b686baaf8175e2a4607b6ae9e6557d6ab8dffdf39511a3123d",
+        "processed": "<rbr>The description of this skill has<br>recently changed; retranslation is<br>pending."
     },
     "105002211": {
         "text": "Medium・During the first half of the Final Leg, if you're not in the front, your acceleration will increase.",

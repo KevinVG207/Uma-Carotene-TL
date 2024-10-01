@@ -1,0 +1,374 @@
+{
+    "1": {
+        "text": "Score when winning with a big gap",
+        "hash": "5cda2501fe78f49770bfa0adb2b6d0f2c25fabff051bc0e681e883370fcfb5df"
+    },
+    "2": {
+        "text": "Score when winning with 10 lengths",
+        "hash": "c4599876fa927b12e288e28e6e09bddf86860c083feeb21509946748005de15c"
+    },
+    "3": {
+        "text": "Score when winning with 9 lengths",
+        "hash": "828b6dd7bc487aa1b3fb2e859f872d65ef51e08106b468aefc5874d71c2afab2"
+    },
+    "4": {
+        "text": "Score when winning with 8 lengths",
+        "hash": "1c266122d5e20e91d1ce0b39db5928c46b9afeecec98d093497fbd7bd9917bc4"
+    },
+    "5": {
+        "text": "Score when winning with 7 lengths",
+        "hash": "dac2aecb06ba6696ec46807745caf7c23a610f603f9483ef9a8755844629e5dc"
+    },
+    "6": {
+        "text": "Score when winning with 6 lengths",
+        "hash": "bf991fe760b319dcf1fc0846d153ee1aba2e42c22bc52c52126e72ea4865d281"
+    },
+    "7": {
+        "text": "Score when winning with 5 lengths",
+        "hash": "3ce1a6c77c4495d61624c4ec73eda8e12d84138be573e04eb01f2d2dd518b5d9"
+    },
+    "8": {
+        "text": "Score when winning with 4 lengths",
+        "hash": "5c9cb82489590860d061cf6724aba93f1377c98e8ab639024c0cdf429893e3d8"
+    },
+    "9": {
+        "text": "Score when winning with 3 1/2 lengths",
+        "hash": "a88c76f1c3abf9a2378fd40080e024426d3e2e3ab78261565fdbe84a89df590c"
+    },
+    "10": {
+        "text": "Score when winning with 3 lengths",
+        "hash": "7f7c58fdfe6e9e1dd95d440a80b171f6d8bd614d6ecb4dea52f68c1af3604112"
+    },
+    "11": {
+        "text": "Score when winning with 2 1/2 lengths",
+        "hash": "cefb1d445fedd7fd446b5fa616fc4380694f0bac42873b6b2dd96877dfc415b9"
+    },
+    "12": {
+        "text": "Score when winning with 2 lengths",
+        "hash": "3b7bad44e04f9f2d1a4f8f9c14d6e1260e19e34ad9ea266d8c4a985c6aa1b491"
+    },
+    "13": {
+        "text": "Score when winning with 1 3/4 lengths",
+        "hash": "a52e25158bf1f38a332d66f7745183b55c5761a3e72c38195d776cb9e38e930b"
+    },
+    "14": {
+        "text": "Score when winning with 1 1/2 lengths",
+        "hash": "8f384368335f4f57d34ce78de0f98e5b4cbac5fa54ff37f9d58259944460aa61"
+    },
+    "15": {
+        "text": "Score when winning with 1 1/4 lengths",
+        "hash": "927668866c431b248a5d9c3cfe538c564ca7dfe1215fcad90ff40d44bef2d149"
+    },
+    "16": {
+        "text": "Score when winning with 1 length",
+        "hash": "aa39526cb23796fc63767b1c633ef5fe855203cbeb9fefd377a12967e985bb7c"
+    },
+    "17": {
+        "text": "Score when winning with 3/4 length",
+        "hash": "597795adffede23e05413b9a5271e0de264d9d29b4811ea37a02f2d6739aae10"
+    },
+    "18": {
+        "text": "Score when winning with 1/2 length",
+        "hash": "3d23f1218b08f906da9ae79f2de29699409ae86a2669828ff5479a4412824f55"
+    },
+    "19": {
+        "text": "Score when winning with a nose length",
+        "hash": "8521ed896ecf73713f14c740c323d5b22d58f4bba5b7ce654b7ca059c7507d2f"
+    },
+    "20": {
+        "text": "Score when winning with a head length",
+        "hash": "1c79226a6e6f7487eaa1dcab785f9c32feafe2b246d9358b27fd55fe32e24fac"
+    },
+    "21": {
+        "text": "Score when winning with a neck length",
+        "hash": "2621eebd7441498b83e5068b5ba53d0aec221e677306c052258e5c59079b4e6c"
+    },
+    "22": {
+        "text": "Score when finishing top 3 from below 8th favorite",
+        "hash": "7f55545c47a832cfbdaee6456ccb7b0ef727a641932a521360568eb3d3bf72b8"
+    },
+    "23": {
+        "text": "Score for a successful Start Dash",
+        "hash": "2c45369f1e0a5d0e3bab37c4ed136047d3e8560e9ee06ea38c65279871cea980"
+    },
+    "24": {
+        "text": "Score for activating a lv 10 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "b115b22fe4aba723c44b7c8e93f5dde4cefcfff9345bf2ce7d8d83a349f1c76f"
+    },
+    "25": {
+        "text": "Score for activating a lv 9 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "38a64bf44e9b039c2e2ae0be28460dcacb84635b437ac954b0bb4e720e85fa59"
+    },
+    "26": {
+        "text": "Score for activating a lv 8 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "5f1d570635577a424c7d1f748724e409fe49fa9d8edd479abedb5f4d4383ade6"
+    },
+    "27": {
+        "text": "Score for activating a lv 7 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "f5239b594aa41670b16a99c5d3450315faf365c63078ecd93e7be6ad0db39a59"
+    },
+    "28": {
+        "text": "Score for activating a lv 6 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "e08b2fe7c7c413739b96c5613d2b9a744305dc1ee1ad2a2e0dbe008bcb01545f"
+    },
+    "29": {
+        "text": "Score for activating a lv 5 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "511b91ea4f28a6680d687780fcd0379ed93ec0b62a0046458331d5511380d1fa"
+    },
+    "30": {
+        "text": "Score for activating a lv 4 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "b302768c37b8e9eb91917c2994ef0ab7f61434f77a26b49e85cfbce8152a0832"
+    },
+    "31": {
+        "text": "Score for activating a lv 3 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "3b9892b43d86ba998cf86812bb240f5887f58afcaf9f15ab4677a867ee974ca0"
+    },
+    "32": {
+        "text": "Score for activating a lv 2 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "4e4142e78a9b6e49ccdb8e53408a1610eb5a5db79960008e148c5869c3ae78af"
+    },
+    "33": {
+        "text": "Score for activating a lv 1 unique skill \\nwith a ★～★★ horsegirl",
+        "hash": "d772ed28753521b1763c104eedc458884076f4c38e5fb651f46b39c1809f6652"
+    },
+    "34": {
+        "text": "Score for activating a lv 10 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "6e9375ef1ee56e3606ff2b7b34f851a2492d8bce5ddb0b5d44bd0992e28d1199"
+    },
+    "35": {
+        "text": "Score for activating a lv 9 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "495d5e92b87436d9ae855a6a2824992caf9d109780be3c646c4608386a2adae4"
+    },
+    "36": {
+        "text": "Score for activating a lv 8 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "add4d76db41cf47a15218a05fe49fd806e255cc9c36fecfedd06a719a1501a7d"
+    },
+    "37": {
+        "text": "Score for activating a lv 7 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "53852f3329935b1ee7bdcc1908f970f1cb28baa413f617b2af6fec73b226864d"
+    },
+    "38": {
+        "text": "Score for activating a lv 6 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "bc22f76b95edcc8f911d0ffb7fed7f6945a4324d02f008843facc0fb5606bae4"
+    },
+    "39": {
+        "text": "Score for activating a lv 5 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "b37d4cee146d5de1b75a8b3c93a81eae6a6c1d57f034bba86a6e611d182b038f"
+    },
+    "40": {
+        "text": "Score for activating a lv 4 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "af34d4d9c405ad3c0c10c4499d0873f4f815f8f94286a988bdee49e6faa130a3"
+    },
+    "41": {
+        "text": "Score for activating a lv 3 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "22a2ed610be8e388fd80ebac2673eb10751910c6aced02818cae815ee2d3f508"
+    },
+    "42": {
+        "text": "Score for activating a lv 2 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "9c67067f4fed83fe0e1a3ada19eaae52e3b3d2ceed324f1b60d40f9429b6c520"
+    },
+    "43": {
+        "text": "Score for activating a lv 1 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "436f031a5b0127bd029a15ef04f5db24a77a81adc9a5976a44ec31438e3f5bb6"
+    },
+    "44": {
+        "text": "Score for activating a lv 10 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "6e9375ef1ee56e3606ff2b7b34f851a2492d8bce5ddb0b5d44bd0992e28d1199"
+    },
+    "45": {
+        "text": "Score for activating a lv 9 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "495d5e92b87436d9ae855a6a2824992caf9d109780be3c646c4608386a2adae4"
+    },
+    "46": {
+        "text": "Score for activating a lv 8 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "add4d76db41cf47a15218a05fe49fd806e255cc9c36fecfedd06a719a1501a7d"
+    },
+    "47": {
+        "text": "Score for activating a lv 7 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "53852f3329935b1ee7bdcc1908f970f1cb28baa413f617b2af6fec73b226864d"
+    },
+    "48": {
+        "text": "Score for activating a lv 6 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "bc22f76b95edcc8f911d0ffb7fed7f6945a4324d02f008843facc0fb5606bae4"
+    },
+    "49": {
+        "text": "Score for activating a lv 5 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "b37d4cee146d5de1b75a8b3c93a81eae6a6c1d57f034bba86a6e611d182b038f"
+    },
+    "50": {
+        "text": "Score for activating a lv 4 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "af34d4d9c405ad3c0c10c4499d0873f4f815f8f94286a988bdee49e6faa130a3"
+    },
+    "51": {
+        "text": "Score for activating a lv 3 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "22a2ed610be8e388fd80ebac2673eb10751910c6aced02818cae815ee2d3f508"
+    },
+    "52": {
+        "text": "Score for activating a lv 2 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "9c67067f4fed83fe0e1a3ada19eaae52e3b3d2ceed324f1b60d40f9429b6c520"
+    },
+    "53": {
+        "text": "Score for activating a lv 1 unique skill \\nwith a ★★★ horsegirl",
+        "hash": "436f031a5b0127bd029a15ef04f5db24a77a81adc9a5976a44ec31438e3f5bb6"
+    },
+    "54": {
+        "text": "Score for activating a rare skill",
+        "hash": "5daf59d7a2daf8ae5287418e85585210ecad3f9fb14fb85b526713206fb0213a"
+    },
+    "55": {
+        "text": "Score for activating a skill (excluding purples)",
+        "hash": "2f932dee2f54d8aa5e1c9b42fc13ab9827d2cd474b574f1bd92b0e46474ca5a9"
+    },
+    "56": {
+        "text": "Score for leading the strategy when \\nentering middle leg",
+        "hash": "2ae2454fd2a0b2462543cdad5f6eb072287f270ddb7b576b85c110cd202ff0e7"
+    },
+    "57": {
+        "text": "Score for leading the strategy when \\nentering final leg",
+        "hash": "2b270e2b802a9d00f72915eaf3c90314ba621c0eee95329ff621bb1f0bf6dfc8"
+    },
+    "58": {
+        "text": "Score for finishing 1st",
+        "hash": "2c30561e380ccd2ef0d93241ebb2f5fa64ed0437b1501075babaa899d640ba16"
+    },
+    "59": {
+        "text": "Score for finishing 2nd",
+        "hash": "f79eecc6d9e72c9550b6351a6bd74d20deef71463d6830a41ed8d17ba2221f0e"
+    },
+    "60": {
+        "text": "Score for finishing 3rd",
+        "hash": "0695dd51a4cfa342e46fcc786de5de3344e0eea22eb4f74c3b99781902082fc0"
+    },
+    "61": {
+        "text": "Score for finishing 4th",
+        "hash": "66261568a129d95a5eb810b615c129d0a743867cdc4a92d385e8036e58be9cb9"
+    },
+    "62": {
+        "text": "Score for finishing 5th",
+        "hash": "24be7aa869ad80c3624e4101d8879eeb3489857df900ec0c89a2737790b9e9c1"
+    },
+    "63": {
+        "text": "Score for finishing 6th",
+        "hash": "b9319969a4de3038d30a930750159bcc65dfbda0c2f3f8ba74011c1cb7038a71"
+    },
+    "64": {
+        "text": "Score for finishing 7th",
+        "hash": "69191f5bbb361a7a15741716258c8229d6d8a9004aaf4959a059ee57d9bc6db3"
+    },
+    "65": {
+        "text": "Score for finishing 8th",
+        "hash": "14584dca2266a46682150e682e124e4d67e4b30097ac7f7b8d936c841c940071"
+    },
+    "66": {
+        "text": "Score for finishing 9th",
+        "hash": "0a299b640a5b021acf494d4ca6a6aa1b1a24abe7f1b7d4159308b51dc5edcf6e"
+    },
+    "67": {
+        "text": "Score for finishing 10th",
+        "hash": "6c9bcc2cf5623b85e6b87c19e402397b41de9e858e9eb7b87fe55778fd26b9cb"
+    },
+    "68": {
+        "text": "Score for finishing 11th",
+        "hash": "679b0a0fd986e013017155fd67c97575d3bee93f9e8bd1e78483af65d9042992"
+    },
+    "69": {
+        "text": "Score for finishing 12th",
+        "hash": "0578f5c4bfae410c532e8cdffd1ac2cb25d4af3cf347eb1a6931e96c218a0598"
+    },
+    "70": {
+        "text": "Score for beating the reference time by 2s",
+        "hash": "d40164cbd6d51a14c6d67b04d1cb45ecbb911cc5691388203194196405917a98"
+    },
+    "71": {
+        "text": "Score for beating the reference time by 1.9s",
+        "hash": "799a86341298948274d1f59abddab5f4e8961f51ad94dae1e3c9ce5325badb41"
+    },
+    "72": {
+        "text": "Score for beating the reference time by 1.8s",
+        "hash": "b1335abcca49e7ebe612215e839f447433d88d7eb6378be2f4b32e22ce8d1d79"
+    },
+    "73": {
+        "text": "Score for beating the reference time by 1.7s",
+        "hash": "a25537bca0a89f2c623b4c2e38af6bbb64cd1da47f5723d0c4740f75bf045d64"
+    },
+    "74": {
+        "text": "Score for beating the reference time by 1.6s",
+        "hash": "2e6e58068cc636bc424e22e838c6c49b30872e8b7843100d7ab06232df36d530"
+    },
+    "75": {
+        "text": "Score for beating the reference time by 1.5s",
+        "hash": "a50a69825a2babec83d44fd5e63785bb3bff765aeb046418c1d035cb788bde28"
+    },
+    "76": {
+        "text": "Score for beating the reference time by 1.4s",
+        "hash": "709c7b3433f6fb491f7e01ab9d9e807ba4e3a694ba78b7b2d293cb83708fd537"
+    },
+    "77": {
+        "text": "Score for beating the reference time by 1.3s",
+        "hash": "9326c860171e9ec6f38dc361247b28ca6b5685942c7d135e82c5f055b32011f4"
+    },
+    "78": {
+        "text": "Score for beating the reference time by 1.2s",
+        "hash": "91bde2bc4e3ff94767e9472f20c99becb7a68b0ee3caa5f2ef9cb85da03d46b9"
+    },
+    "79": {
+        "text": "Score for beating the reference time by 1.1s",
+        "hash": "4038522b61500d1a508945886804aafdf3cc0fcae13503563dda27d6361ca836"
+    },
+    "80": {
+        "text": "Score for beating the reference time by 1s",
+        "hash": "1ebf30acee78e56a9cf82eb74134519991b0c486b06e8f2d7e0b57f5ea35b0f3"
+    },
+    "81": {
+        "text": "Score for beating the reference time by 0.9s",
+        "hash": "1d5ee23ff8d64cf2c00d06f285c9dc77b556a1b22059676b5f72469268cb6c5c"
+    },
+    "82": {
+        "text": "Score for beating the reference time by 0.8s",
+        "hash": "6abfcb6546d4c11464ac8188bf3e8bad5049bb1146e498158d3a272732b7e2e0"
+    },
+    "83": {
+        "text": "Score for beating the reference time by 0.7s",
+        "hash": "a1c1402e471a67d97682faaec01fb9f507149c10b28dc1a3c2a94deddd334cfc"
+    },
+    "84": {
+        "text": "Score for beating the reference time by 0.6s",
+        "hash": "90ceee0b23c28a9cd02485e4d39ae9b71981173f9cba1fbee3c884b4601776cd"
+    },
+    "85": {
+        "text": "Score for beating the reference time by 0.5s",
+        "hash": "8e1f6281ec30de028e9dcbbfc8ad4bd62d0e5458aa54392fd71f8b0678c419f0"
+    },
+    "86": {
+        "text": "Score for beating the reference time by 0.4s",
+        "hash": "b052f27f87504523c6652310eb92a5a77ff3bda779f62a7b1e983676378a3ef2"
+    },
+    "87": {
+        "text": "Score for beating the reference time by 0.3s",
+        "hash": "d85e45fc906700e76a0fb10645a21369828652d2e7a3f9630f270269f61a0720"
+    },
+    "88": {
+        "text": "Score for beating the reference time by 0.2s",
+        "hash": "fc2ee15bafc6bddf755ff3edda3c3e0bdc05657048263ff1dadaa886a6e30f95"
+    },
+    "89": {
+        "text": "Score for beating the reference time by 0.1s",
+        "hash": "dce57c3469f7aac9083d0d4523a4f17d7a731ca7880f6dda565bf1158145748c"
+    },
+    "90": {
+        "text": "Score for having more wins than losses",
+        "hash": "edd6cbf737668c5360ec53c6bc23ccef600cbdd5685bb81d020dedf6c8d38b93"
+    },
+    "91": {
+        "text": "Score for finishing 1st on VERY HARD",
+        "hash": "7856d2bec772c6c99afbc04c0b3181e38d67c93724b383af287e6e0b393f294f"
+    },
+    "92": {
+        "text": "Score for finishing 1st on EXTREME",
+        "hash": "9bdcd15b63f148d61a4ebad3eae27590d87e6e907c32c6842e18fd31d80dd4d9"
+    },
+    "93": {
+        "text": "Score for activating an evolved skill",
+        "hash": "9642473b0ba8c942b51a594e97b36f82ae2033a215a72f655f5b1c6d715901df"
+    }
+}
