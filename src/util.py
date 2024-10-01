@@ -862,5 +862,7 @@ def umafy(text: str) -> str:
         .replace("Horse girl", "Umamusume")\
         .replace("horse girl", "Umamusume")\
         .replace("Horse Girl", "Umamusume")\
+        .replace("uma musume", "Umamusume")\
+        .replace("Uma Musume", "Umamusume")\
 
 cleanup_carotenify_files()

@@ -1,0 +1,962 @@
+{
+    "11": {
+        "text": "Cygames",
+        "hash": "70f9f2ba202c631078563014e7f2f960d547e1d0cd4d1c18319f102cf5a87fcb"
+    },
+    "12": {
+        "text": "Umamusume, Pretty Derby!",
+        "hash": "0cfce02d59976c4a687f79d00d7894df0b5a6c879fbee1d653e3f267a88ff06d"
+    },
+    "13": {
+        "text": "Here's today's login bonus～♪",
+        "hash": "831aa35e7e0a1f700ac4a7dd5295a5f7be13fc4dcc4bceab55a80fe989a04b9e"
+    },
+    "15": {
+        "text": "It look like it's going to be this one for tomorrow～",
+        "hash": "2f4216c689fd776b789d87b9657ae87d448619432bb74a55bc5ed89c67e1df53"
+    },
+    "1000": {
+        "text": "Shall we go.",
+        "hash": "f5020730093f5276d70455c6064b317e15a589c4c0fdb2fc143a57268707e89f"
+    },
+    "1001": {
+        "text": "We did it♪",
+        "hash": "1a1c1e388a22b29ce818e168a083f9851c221ae320b610cb98774125be345a19"
+    },
+    "1002": {
+        "text": "Mmmm, next time for sure!",
+        "hash": "1e283a4d01bb6449f822f40a91fb2200ec00440bac31680f41b7433c7d2d431a"
+    },
+    "1003": {
+        "text": "A draw huh～",
+        "hash": "2e38e9976a934f6d4063e8f34f39ca72abeb31f2b6d0889b548f1a1333cad449"
+    },
+    "1004": {
+        "text": "A glorious victory…!",
+        "hash": "7a3f94dfad49edda541f4668faeca220bf537cbc5d90b9682f2d634c4e344a35"
+    },
+    "1005": {
+        "text": "Mmmm, next time for sure!",
+        "hash": "1e283a4d01bb6449f822f40a91fb2200ec00440bac31680f41b7433c7d2d431a"
+    },
+    "1006": {
+        "text": "A draw huh～",
+        "hash": "2e38e9976a934f6d4063e8f34f39ca72abeb31f2b6d0889b548f1a1333cad449"
+    },
+    "1007": {
+        "text": "Let us honor each other together♪",
+        "hash": "d0d67037a95035fd1d4d22e8db60694a2138dee23f62e0047fd733f6a03dcbb0"
+    },
+    "1008": {
+        "text": "Clover blessings to you all…!",
+        "hash": "9994945e2a1dd864798f4db71a5b498a36f48beaad920293f971927e3a42fbfe"
+    },
+    "1034": {
+        "text": "Cheers with tea♪",
+        "hash": "bfe04cd3169dbfb4c9de563f9bde34405b62a3dd50e1b7a93e831757290a1db2"
+    },
+    "1044": {
+        "text": "As you wish～♪",
+        "hash": "dc4442a1443989627e3070fe63a2624e34de4772962c041eab90622361d56a29"
+    },
+    "1051": {
+        "text": "I'm so excited～♪",
+        "hash": "1ff70c2e0e3a7f0fe677031d1c08feab0afb3af93c5a25c39d929452e29acbb8"
+    },
+    "1052": {
+        "text": "Let's go for the win!",
+        "hash": "96f9f3f0ee6e99111ca44f9493b20017e5a5649e9aeca3ed40224a7e8cb48d88"
+    },
+    "1077": {
+        "text": "We can win!",
+        "hash": "364e1431db4c4871f59da433fc249822316759465664e1b0215a0bc6aebfe2cf"
+    },
+    "2030": {
+        "text": "Shall we go.",
+        "hash": "f5020730093f5276d70455c6064b317e15a589c4c0fdb2fc143a57268707e89f"
+    },
+    "2031": {
+        "text": "Clover blessings to you all…!",
+        "hash": "9994945e2a1dd864798f4db71a5b498a36f48beaad920293f971927e3a42fbfe"
+    },
+    "2032": {
+        "text": "Thank you, I commend you for your achievements♪",
+        "hash": "53445b375cdf07173e11a3582caaa0f9008d22717664c97e68de421f9980d74e"
+    },
+    "2033": {
+        "text": "Shall we go! I will grab victory and bring honor to everyone.",
+        "hash": "de74e24b4b4d67da631f968359d6a661cec19140d13758f7bd1d2afe914ca155"
+    },
+    "2034": {
+        "text": "Let me show you what I can do. Hopefully, it will be a wonderful memory for everyone…!",
+        "hash": "420bdedb9b44d6d4a8d27ab86c0001c6472caea49d32f78051b45641db0c736b"
+    },
+    "2035": {
+        "text": "Thank you, I commend you for your achievements♪",
+        "hash": "53445b375cdf07173e11a3582caaa0f9008d22717664c97e68de421f9980d74e"
+    },
+    "10000": {
+        "text": "I know it took a lot of determination on your part to let me run, but you still made up your mind.",
+        "hash": "6c51ea3d46807277c4599035020cbc272339ec2139b2dc6ceb8d41ba641111e9"
+    },
+    "10001": {
+        "text": "With you. I feel like I can run I feel like I can run anywhere♪",
+        "hash": "a2b0d70cde48b1a4fbb91e4c143b97fc86e4fc0e7bad2f2f794ff776da208455"
+    },
+    "10002": {
+        "text": "Whether it's a special day or an ordinary day… you're always by my side. That's why they are all precious memories.♪",
+        "hash": "9efff5b4bb58a079bd64311437ee1dd7db2e73581a67b5e2015609018383d421"
+    },
+    "10003": {
+        "text": "Happy New Year. Best of luck to you this year too… Just kiding, I'll be in your care this year too～♪",
+        "hash": "bcf90c6ac99e20da0e31965479e7e4ff1272390cb98f0920f227c24acd6091aa"
+    },
+    "10004": {
+        "text": "For you I've prepare a special choco made by our chef! I really want you to eat something delicious!",
+        "hash": "b4c41ba50ba7789783353bb365004d73b653b6329ce3175204ada9f5586734c0"
+    },
+    "10005": {
+        "text": "I'll give you chocolate and a message card later. What it says is a secret between you and me～♪",
+        "hash": "ec0e37c3423ae6516eec86773f09d9489621fa59a2fb11d690a68d62ec910b4d"
+    },
+    "10006": {
+        "text": "I also made decorations to hang on bamboo branches♪\r I want to show the people in the castle the origami I learned in Japan.",
+        "hash": "01fde9a1bf809e9049ee1c6ad872f418e2149008ea051b216be165822f51ee9a"
+    },
+    "10007": {
+        "text": "Halloween is said to have originated in ancient Celtic times, I also have a costume in my family's treasure room that has a lot of history…!",
+        "hash": "6bc81de3c8ec1f620754f0ce688c5862200e2693a88a41f063fb04ef3df4497a"
+    },
+    "10008": {
+        "text": "There's a Christmas gift exchange in the dorms today! It's very student — like… ♪ Who do you think will get my gift?",
+        "hash": "e25e22f06873ca424202a5f12ff4d5b152a540b5066dcf965c5476cbb5b7374b"
+    },
+    "10009": {
+        "text": "Are you free this evening? If you don't mind, I was wondering if you could show me around the city lights?",
+        "hash": "756314786430a5d9c3ea7ecf1b98911135e46a2055f763424243086f0b710a84"
+    },
+    "10010": {
+        "text": "On New Year's Eve, I'm going to put a mistletoe leaf under my pillow♪ I will share it with trainer too!",
+        "hash": "c712f3b65c5414b6b5d99ad28381b2807d47470495a9cf206391803184f7fc20"
+    },
+    "10011": {
+        "text": "Happy Birthday♪ A small blessing from me to you… I hope you're looking forward to your gift.",
+        "hash": "7f8a097c82f2cf97d43be6577e996cf9da50757d04d19e424616b1fc67896664"
+    },
+    "10012": {
+        "text": "Have you seen the invitations yet? It's your birthday party… I will be your excort today♪",
+        "hash": "64cbb951a7b6ad89fba637a04d22501a2882f22406fbf1cfa2b16ed20c853eb6"
+    },
+    "10013": {
+        "text": "A lot of birthday gifts arrived at the dormitory from all over the world… \"What's going on!\" I was surprised!",
+        "hash": "dfa133f96232a6ec76f6172014f54ef0755e9b01e30795b9bc1f9624dd7e19a0"
+    },
+    "10014": {
+        "text": "I want to take a picture with you today♪ I want everyone in the castle to see that I had a wonderful birthday in a faraway land!",
+        "hash": "771882cc0a99d12756fa40b3e95774bd156ce569612a42e78f84b05ec1b0cc33"
+    },
+    "10015": {
+        "text": "Oh, it look liker there is an announcement! I'll have to remember to ask.",
+        "hash": "467e677202c7f58c7d34097ec283b98165af77ff448a04d8217801d656a38511"
+    },
+    "10016": {
+        "text": "It's like a gift has arrived♪ Gifts are exciting isn't it!",
+        "hash": "4489305894b7157402dd06c7219c34ca426b9b4cf65e19145565f34238ac415b"
+    },
+    "10017": {
+        "text": "You accomplished your mission! I'll give you a praise～♪ Just kidding!",
+        "hash": "be9097578de2b01bc28c0419fff5ead94d79c4e1f8efbeeb05070fd7fb7ee8b8"
+    },
+    "10018": {
+        "text": "Looks like the event will be starting soon♪I'll have to make arrangements so that everyone can enjoy it.",
+        "hash": "a77db67c1e1ca8f77bb3788ecb96cf808bf2d155c38b4458ee6844fbf437b40f"
+    },
+    "10019": {
+        "text": "It look like they are holding an event ～♪ After enjoying it to the fullest… we have to have a tea party!",
+        "hash": "87db5321db5869d510542b26e468d78f130037f47cf62b711a32c23be409ebd6"
+    },
+    "10021": {
+        "text": "Wow, it looks like the level of the Uma Index has gone up～♪",
+        "hash": "7dff41095c7271de8548fd2eab8b58f0f9f14c9c9752012a694e360ee1da49b1"
+    },
+    "20000": {
+        "text": "\"A great smile and a good night's sleep are the best cures according to medical textbooks\"… It's important to review your physical health.",
+        "hash": "9b4805a6414835755c31e2b6e09d852312ae4e1d24b51d010be630733f474acc"
+    },
+    "20001": {
+        "text": "Well, I don't want to worry the guards too much, so… Is it okay if I go in moderation today?",
+        "hash": "f955cc1e9dc8bdc6d0d36f07c26440f1dc732ba817aca28478e57dbc9b9cec29"
+    },
+    "20002": {
+        "text": "Fufufu～♪ My body feels so light! I might even be able to fly like a fairy♪",
+        "hash": "861d614d0b6efc944a55e094f0c1fd52f07938efaa261548f74c0cc5afcc8eee"
+    },
+    "20003": {
+        "text": "I'm in a very good mood～♪oh, is it because I found a four-leaf clover this morning?",
+        "hash": "c2e137f88602b70b90c868ee364ce8b2320b490f540339057e2c323e8e8f8521"
+    },
+    "20004": {
+        "text": "I've been doing lifting as a warm-up exercise～♪ So we can start anytime!",
+        "hash": "897436ac04eb134a2281336ab4918014eb17e8df737d23cdf352479e563ec637"
+    },
+    "20005": {
+        "text": "The shoes are well taken care of♪ Fufufu… even the leprechauns are surprised.",
+        "hash": "1dc0b632ec542437ff45dbcf4675214e480215b9ffc42b621b3298af468ecc04"
+    },
+    "20006": {
+        "text": "Thank you for your guidance today♪ Now…! Let's do it properly!",
+        "hash": "e52871e9592028a1e428c8923c7b1946fdc6f3f587d19ad2eee83f5c3f87bb7c"
+    },
+    "20007": {
+        "text": "Good day. How is the training today? I'll do whatever you tell me to do♪",
+        "hash": "0f1657f70c85093fa40fa6c8817751ad52352275793dc5b5d646ad29b2aa4aa5"
+    },
+    "20008": {
+        "text": "Hmmm… how about a little four-leaf clover hunt for a change?",
+        "hash": "3d907a2d688023872bd3b0d021f74ed2db6b778c1b25984bc4a27b83614e597d"
+    },
+    "20009": {
+        "text": "Ah… I have to do it properly…! I just got permission from my father!",
+        "hash": "8124ece19c1d7b8aae36e52198071f6ec816ab9adc655a4ff0188a19ccfde6be"
+    },
+    "20010": {
+        "text": "Huu… I… I'm sorry. Shall we start the practice?",
+        "hash": "80ee2203b513a11d047fd2aea54054678f936aab7680e209777f1433dda25a75"
+    },
+    "20011": {
+        "text": "To be honest, my condititon tough… but it's what I decided to do. Let's go the way we should go…!",
+        "hash": "337707f72b81ac5dd595520540c35199f6dd5897fba84617697e9a3558b56e65"
+    },
+    "20021": {
+        "text": "Oh, we continue the race. Only the best will do, though.",
+        "hash": "58c38a6897c5463d42285084bfed50064a774306f72bb057e27cd1ab34d47ba3"
+    },
+    "20022": {
+        "text": "Self-respect is important, you know? If you misjudge the opportunity, you can't win something that you shuld be able to win.",
+        "hash": "76f8110f66903a99b18cc05318a3bde920fcd54f6d5993a01e64842fbc6c5444"
+    },
+    "20023": {
+        "text": "Fufu～♪ I got a message of support from everyone at the castle this morning! Alright, let's do it～!",
+        "hash": "3300e02ed358b7a669f2516f6aa8b8a7d791ec252616e4dfcee9ad5c61383e98"
+    },
+    "20024": {
+        "text": "I'm all fired up and tuned in! I also carry a pressed clover flower in my pocket as a good luck charm.♪",
+        "hash": "dd334e4e5e16384578e712cf06ca105f7ee2d749e654004f327f1e8d6be45d32"
+    },
+    "20025": {
+        "text": "Let me show you what I can do. Hopefully, it will be a wonderful memory for everyone…!",
+        "hash": "420bdedb9b44d6d4a8d27ab86c0001c6472caea49d32f78051b45641db0c736b"
+    },
+    "20026": {
+        "text": "If I win, let's take a commemorative photo! Please look forward to a wonderful victory and a big smile♪",
+        "hash": "0b3da68fe1c1916d4b845ef716a8406f1be9e3d4e76f46f43e5e18556b1ec9b6"
+    },
+    "20027": {
+        "text": "Mmm! Is it me, or It looks like my hair is shiny today…? Look, even my tail, which is unique to my family, is more glossy than usual…♪",
+        "hash": "d5be7a4e0d18c618abac07e2ab89c482948538992248521fafdc1b34659c4140"
+    },
+    "20028": {
+        "text": "Shall we go! I will grab victory and bring honor to everyone.",
+        "hash": "de74e24b4b4d67da631f968359d6a661cec19140d13758f7bd1d2afe914ca155"
+    },
+    "20029": {
+        "text": "Noblesse oblige… winning is also my mission, as I have decided to run…!",
+        "hash": "a04acccc2d371254baf3027e577d5b087e0068d1ff6793f54ed90e9ba34d1002"
+    },
+    "20030": {
+        "text": "I'll do my best to make this a race to remember! That's right ♪ Let's have a tea party at the victory party!",
+        "hash": "92f98d1955913606ab776f10a56ecf22cb0a0375a581789f8ed9b59e726b7492"
+    },
+    "20031": {
+        "text": "If I can show our usual strength, we should be able to win without any problem. I'm off♪",
+        "hash": "c596308ae2784de0b30c4e19a57a2c6f7c40f789a8119a4dc03c5da97d793fb1"
+    },
+    "20032": {
+        "text": "My legs are a little heavy… Maybe the fairies have been playing tricks on me…! Mmm! Let's pass them too!",
+        "hash": "b354ac60a2e9abac20518b18ce379bf753dcdb71fe4c8fd0660db834b2cad230"
+    },
+    "20033": {
+        "text": "I know I'm not at my best… but when I think of all the people back home who are cheering for me, I can't afford to lose!",
+        "hash": "80c3a5590206dd1c079832fe49c4aaedcf321e865b40b741357fbf1fd1138c19"
+    },
+    "20034": {
+        "text": "Let's turn things around from here. I'm sure there are people out there who will be encouraged by that back …!",
+        "hash": "20d3f8f5d12d56d7d3ad37afd9bd0e7e768a2317e2722888a38b2d2598ee1faa"
+    },
+    "20035": {
+        "text": "Focus, focus… Stay calm when you're cornered… that's what I've been taught since I was a little girl.",
+        "hash": "86fe597f9956fc6a315ada3bd804f76d4dd8ec92038b6d1c67ba70fb788baf67"
+    },
+    "20036": {
+        "text": "Whatever your condition… I can't show a disgraceful appearance as a member of the royal family…",
+        "hash": "8b3093fe04d43afc44287885033ca204d6fdcc97237e3f1264d283650142d0a7"
+    },
+    "20037": {
+        "text": "May the Clover bless you.",
+        "hash": "87e4de057e13da92a8f2bbd13b764ce995081af628f9be69b1b0f27925bcf54b"
+    },
+    "20038": {
+        "text": "Let's go!",
+        "hash": "818fd86e117bf5c997896dd7e70da749c9d81263c79a506c4c52b202dfff60f0"
+    },
+    "20039": {
+        "text": "Let's start～♪",
+        "hash": "5d9b405c3f417221d522632b0e089be24abcaed09bc60ed3174a1e27794f3027"
+    },
+    "20040": {
+        "text": "Shall we go?",
+        "hash": "0bc4816ae819622873aab7d9d68134060f7aecf2031ee98a538fd17018c2d45c"
+    },
+    "20041": {
+        "text": "Mm-hmm… ♪",
+        "hash": "fe7ef47b80c222a747ee28dd3170845b7718df3ff9d3804a86833a3ce2a60cb6"
+    },
+    "20042": {
+        "text": "Woah…!",
+        "hash": "0747fdbc10af4b4aea0215c15a7f1c901c0c9a1ea6a106d303997977b1394d71"
+    },
+    "20043": {
+        "text": "Oh, my…?",
+        "hash": "c5a50baa4ad12fecfd89e8b19bd1a8d18139782936445823c9d3ef0f4f1acea9"
+    },
+    "20046": {
+        "text": "Let's depart♪",
+        "hash": "3ddf39b343ca22d593cb3e1f813e53f18c3298caba481a052764c245aaddb1b2"
+    },
+    "20047": {
+        "text": "Wow! Beautiful～♪",
+        "hash": "1548f95a77967a43366b4e3952abd7cae8e2ffdb8fcd130bcf2a53fb1588f328"
+    },
+    "20049": {
+        "text": "Thank you, I commend you for your achievements♪",
+        "hash": "53445b375cdf07173e11a3582caaa0f9008d22717664c97e68de421f9980d74e"
+    },
+    "20050": {
+        "text": "Thanks for your efforts, you've been a great help!",
+        "hash": "ce33769a3caed42de77c60dba7dca0eaf3df37fa7fccbdd3e06e775237327fef"
+    },
+    "20051": {
+        "text": "Let's do our best together～♪",
+        "hash": "ee2a072861119ca9373fb2c7c5b8c659301086e76eb47293ce6a190ebc1d85a7"
+    },
+    "23015": {
+        "text": "Let's start～♪",
+        "hash": "5d9b405c3f417221d522632b0e089be24abcaed09bc60ed3174a1e27794f3027"
+    },
+    "30000": {
+        "text": "Just one more step…! But it was a good match!",
+        "hash": "c85efd217ced59637b8ed453c5293dd99aababfc549ac5115842818231467aa5"
+    },
+    "30001": {
+        "text": "A good fight… maybe? I want to win next time!",
+        "hash": "e0784be039af4eb9a8017b782f0e51d7de12ace174b40cf4df223b63b0a278ba"
+    },
+    "30002": {
+        "text": "Hmmm, just barely made it in…!",
+        "hash": "ad22898695938db0977a99bf786f7a208c193977e028a218cdb445537c84abc4"
+    },
+    "30003": {
+        "text": "Unable to accomplish… it become a bitter memory.",
+        "hash": "8dc2c3f22768577a3c31c1ead8adbac18cb5bbb903bb483421f30f4a36d00487"
+    },
+    "30004": {
+        "text": "Fufu♪ Did I manage to become everyone's pride?",
+        "hash": "53802f82048b1ed745cffc5bbb97688d5bc8a6d4525c0d39bb891e7a2c7fcb66"
+    },
+    "30005": {
+        "text": "Fufu… it turned out to be a great success. Thank you for your support… ♪",
+        "hash": "a68ea38b6fba334ec19e54b6f58b44fda4ded2474c53b41d763297020ee8e728"
+    },
+    "30006": {
+        "text": "The ceremony is about to begin!",
+        "hash": "50fef1a720a55a635b07efbb24dfbfb69ea9c56774bf54fd7c15b51573fb458c"
+    },
+    "30007": {
+        "text": "Fufu… it turned out to be a great success. Thank you for your support… ♪",
+        "hash": "a68ea38b6fba334ec19e54b6f58b44fda4ded2474c53b41d763297020ee8e728"
+    },
+    "31000": {
+        "text": "Well, sall we go.",
+        "hash": "7e3ca8e368f42b907885c40ab483d73d705b5a14d5d1e646a84824b1cf3a1615"
+    },
+    "40000": {
+        "text": "Please guide me to a glorious victory…!",
+        "hash": "d3d96ed035d7f408820615229e1045d652681bca9e7e45dfce94f2f44ae736f3"
+    },
+    "40001": {
+        "text": "This light… you want me to follow you? Wait…! I see it! My path.",
+        "hash": "93c65170bcaf44fed86592e12e67440d90b435ab9ef6730b7266384644c14e2a"
+    },
+    "40003": {
+        "text": "I'm sure it's going to be a happy day!",
+        "hash": "3250aa677518a3bbc63c75b8b109cb556d47b3068d575af4c947ded415b5ce88"
+    },
+    "40004": {
+        "text": "Fufu… ♪ Sorry for the wait! Let's make this ceremony full of memories!",
+        "hash": "0d0c1f41b7b9315ff2444d70247a80059fc73a028454280531246dabb09410ba"
+    },
+    "60000": {
+        "text": "I'm so excited～♪",
+        "hash": "a93e64d3a1fd8fad6a259c717a07fa8917ee3f8dd1b0ed56453786dab5aafa98"
+    },
+    "60001": {
+        "text": "Let us express our gratitude.",
+        "hash": "53977880a270594bf1b72d09159ec29e8e1894727ca8fd17a1b125951844b25a"
+    },
+    "70000": {
+        "text": "Let's make these days full of excitement.",
+        "hash": "b472ba1886d7b090c24e8f67e8e809d374e91b8d5f7789c7da424169622cd2bf"
+    },
+    "70001": {
+        "text": "It all started that day, didn't it? Fufu, Well done on your escort.",
+        "hash": "b75a884047b3f30f4f4461e1dd72a42cadfc229a5fb88b57c1cb695250c67714"
+    },
+    "70004": {
+        "text": "Cute and easy to move around in! Japanese sailor uniforms are a wonderful culture♪",
+        "hash": "da077a1769aa8dfc6c15f694930e41c029f7f7f5e51c233e0efd569963a40daa"
+    },
+    "70008": {
+        "text": "I can't believe my belly button is showing…! The maids will be surprised if they see it♪",
+        "hash": "234bc40932898d8bfd5c5dc2b160b57a4414fcfeacb7fa239fd63793dcacad73"
+    },
+    "70009": {
+        "text": "Isn't the emblem on the chest nice? It's my favorite point♪",
+        "hash": "b9ecff58049f663c1f1899819af387e106ba49c46a0c2104b7204d929bbe0257"
+    },
+    "70010": {
+        "text": "The traditional uniforms that so many students have worn… even my parents were impressed♪",
+        "hash": "85d39d2d1e11a461bf7f5060910c3db4ff82dd316ed071231de4e2eebccc76b4"
+    },
+    "70014": {
+        "text": "When I run, the frills spread out… it's beautiful, isn't it♪",
+        "hash": "43276e78abeab05165027ef603a52006de4a072140a34a3f7bd0d8f4050bf59c"
+    },
+    "70015": {
+        "text": "This emerald green… it reminds me of my homeland.",
+        "hash": "f317e91a72aea97c56cb5118bfe27d9e606aadf2ed5b6a191ee9e3cdea0fd2ae"
+    },
+    "70016": {
+        "text": "Could this be a first look?",
+        "hash": "2796503354103a24337d2bf0e02806181f9a0e87073f23aabd5c4d36b0d764aa"
+    },
+    "70017": {
+        "text": "Actually… Horseshoes are embroidered on the inner lining!",
+        "hash": "8b6a26ad8d050133a3da9ce6dfcddf2766a62f02390d5be6a1deeabfffea864b"
+    },
+    "70018": {
+        "text": "Ta-daa ☆ What do you think?",
+        "hash": "76236b36964dbdff5e3250d32580a25b9806bbde041d4399325027a886061ab7"
+    },
+    "70019": {
+        "text": "I have the determination not to lose… Now, I'll run!",
+        "hash": "5f210431049f45d8193c148c78a642ee85497ac71a8447785bb4c11d8e314b53"
+    },
+    "71004": {
+        "text": "Cute and easy to move around in! Japanese sailor uniforms are a wonderful culture♪",
+        "hash": "da077a1769aa8dfc6c15f694930e41c029f7f7f5e51c233e0efd569963a40daa"
+    },
+    "71008": {
+        "text": "I can't believe my belly button is showing…! The maids will be surprised if they see it♪",
+        "hash": "234bc40932898d8bfd5c5dc2b160b57a4414fcfeacb7fa239fd63793dcacad73"
+    },
+    "71009": {
+        "text": "Isn't the emblem on the chest nice? It's my favorite point♪",
+        "hash": "b9ecff58049f663c1f1899819af387e106ba49c46a0c2104b7204d929bbe0257"
+    },
+    "71010": {
+        "text": "The traditional uniforms that so many students have worn… even my parents were impressed♪",
+        "hash": "85d39d2d1e11a461bf7f5060910c3db4ff82dd316ed071231de4e2eebccc76b4"
+    },
+    "71014": {
+        "text": "When I run, the frills spread out… it's beautiful, isn't it♪",
+        "hash": "43276e78abeab05165027ef603a52006de4a072140a34a3f7bd0d8f4050bf59c"
+    },
+    "71015": {
+        "text": "This emerald green… it reminds me of my homeland.",
+        "hash": "f317e91a72aea97c56cb5118bfe27d9e606aadf2ed5b6a191ee9e3cdea0fd2ae"
+    },
+    "71016": {
+        "text": "Could this be a first look?",
+        "hash": "2796503354103a24337d2bf0e02806181f9a0e87073f23aabd5c4d36b0d764aa"
+    },
+    "71017": {
+        "text": "Actually… Horseshoes are embroidered on the inner lining!",
+        "hash": "8b6a26ad8d050133a3da9ce6dfcddf2766a62f02390d5be6a1deeabfffea864b"
+    },
+    "71018": {
+        "text": "Ta-daa ☆ What do you think?",
+        "hash": "76236b36964dbdff5e3250d32580a25b9806bbde041d4399325027a886061ab7"
+    },
+    "71019": {
+        "text": "I have the determination not to lose… Now, I'll run!",
+        "hash": "5f210431049f45d8193c148c78a642ee85497ac71a8447785bb4c11d8e314b53"
+    },
+    "80000": {
+        "text": "good work",
+        "hash": "42e316ccf364c3b60da2c4b548c5e7063508a601e4f130f5848b788a25db9095"
+    },
+    "81000": {
+        "text": "Let's have a wonderful and memorable match♪",
+        "hash": "f0447d3cbc28f6747080bceadc8dc0e5cae568c4975349e6c61929c949d0f515"
+    },
+    "81001": {
+        "text": "This is the feeling of youth ♪ I still won't lose!",
+        "hash": "7c453199c21fc82b0c07900f84a12cacbb137eb2e3ca46aa5c58fbbb9500156d"
+    },
+    "90000": {
+        "text": "Have a nice day! Let's make today another memorable and wonderful day.",
+        "hash": "fd75780169dd0d6529acb41d7699b333200b36e8ea21ad8a76f3e85e64989158"
+    },
+    "90001": {
+        "text": "I'm getting used to not having a maid to help me get ready in the morning… fufu, Isn't it beautifully done today?",
+        "hash": "e9302ff37baa4c83763520db5d5db115ceb6b074101ea25cc46c2057df1ba6a8"
+    },
+    "90002": {
+        "text": "Meat and potatoes at the school cafeteria is good isn't it! Potatoes as a side dish is a rarity in my home country, I'm hooked～♪",
+        "hash": "53a6a86bc6fb03631e736f8239653fd38232ccf5087636045f5982d9017722be"
+    },
+    "90003": {
+        "text": "Late afternoons make me want to get some light exercise………Hey! Will you accompany me to soccer passing practice?",
+        "hash": "c9166734dfb1c730563adaef37119cab7c6ed5f860eb0c41defece07fc943d87"
+    },
+    "90004": {
+        "text": "Good day again today～♪ Did you have a peaceful and safe day? May tomorrow be a good day too…",
+        "hash": "c6186229fe37dc88f2a9d1a1a28cad67df0c9181420430c909fb3899dc38a546"
+    },
+    "90005": {
+        "text": "Maybe I'll have a cup of decaf tea before I go to bed… would you like to join me? I can tell your tea fortune♪",
+        "hash": "2c20408a09dcecb44ee2ce7b631cc0a2af2a5a5595d84487a52f8b8d2dafa994"
+    },
+    "90006": {
+        "text": "The other day I found a park full of white clover. We could play coronation with flower crowns♪",
+        "hash": "3955ec0d2407bd5f930d7b7bce7a0bc46d493f560e9a1294cfec248a34ab0c00"
+    },
+    "90007": {
+        "text": "It's so hot every day! I've been to many countries, but this humidity is just feel like Japan!",
+        "hash": "cd4a7464584d3cff00522e7255f66039ab3f8b38f176f7045d3b118a1583e780"
+    },
+    "90008": {
+        "text": "Japan has fewer clovers in the fall…? Hmmm…! The more precious it is, the more happy power it seems to have.",
+        "hash": "6af6de91fb37ea8a7b365f914492ef89962c455acbef0e7f9832f0ef8dd9a38b"
+    },
+    "90009": {
+        "text": "On cold days, I miss the maid's special sweet milk tea… drink it in a mug full of it～♪",
+        "hash": "e44659a25f65706b96cb4de6ced40af997671f4b3d8f681300968a3de0e70df5"
+    },
+    "90010": {
+        "text": "Fine's Morning Quiz♪ What's inside my left shoe right now?",
+        "hash": "548b1b9b9086417657b1fdaae828d14cfb2e8829ddfc42fd065212def6b9f437"
+    },
+    "90011": {
+        "text": "I had such a wonderful dream today! I dreamt that everyone at the school was ring warming for my wedding.",
+        "hash": "191ba08b0804eba3516e41fe2a680a728919b8797a9b3be6863853f7eb3b7dcf"
+    },
+    "90012": {
+        "text": "The day is already half over! It's amazing how quickly time flies.",
+        "hash": "0db1cbc745920d8a856b6436740654b2b36ae16fe9748d09d946c047c3fb066a"
+    },
+    "90014": {
+        "text": "Irish weddings are long. Everyone drinks and dances till the morning… it looks like a lot of fun!",
+        "hash": "a137c0716d4362ff3018772ce85f861b324ba6a403f8cd2a13be24269400b77b"
+    },
+    "90015": {
+        "text": "Time for the first dance? … Let's share the best moments. Will you take my hand, Darling?",
+        "hash": "a0057753147afb4c0cb059c46f30c0780ea5eb8fece4f1aebc1307317925f555"
+    },
+    "90016": {
+        "text": "I went to see Sakura and it was beautiful…! The dancing sakura were like a flower shower.",
+        "hash": "94033d643fb9aeaa0afa23f0998fc8e40b2c3152d79bf7aba447817068ab6b55"
+    },
+    "90017": {
+        "text": "The other day, I did \"die-cutting\" at a food stall, and the store owner was very strict in her judging! I was so surprised! fufu♪",
+        "hash": "61892771d05091a4e7f0e57a3cb04d927a238e6b343ebd26b434d5f66a13fdf2"
+    },
+    "90018": {
+        "text": "When I was looking at dragonflies, Shakar told me something interesting. … Just a little bit take a look at your fingertips.",
+        "hash": "12defe95668eb82ae92646deff6142d37321eb64db5c8a06e70b3bc603dcd3c2"
+    },
+    "90019": {
+        "text": "When I go back to Ireland in the winter, I'll bring back a warmer as a souvenir. I think the maids will be pleased!",
+        "hash": "bc084ad19face9119d607ffd16903dcd83e4d4be4a257b1e993684fb530e250b"
+    },
+    "90020": {
+        "text": "Happy Valentine's Day!",
+        "hash": "13fb174e5c42d8f0b63609764d837c10d0a379a19c297dd305414fbb66a75dae"
+    },
+    "90021": {
+        "text": "Happy Valentine's Day!",
+        "hash": "13fb174e5c42d8f0b63609764d837c10d0a379a19c297dd305414fbb66a75dae"
+    },
+    "91000": {
+        "text": "The other day Groove-san said, \"Ramen, ramen, how can you not get bored of it?\"… There are so many different flavors, I never get tired of them!",
+        "hash": "0e010f5267c8366a17c233bb76e2341d5d0a772a8e73eac8ef41be180e20575d"
+    },
+    "91001": {
+        "text": "When I invite Shakur to a tea party, \"Caffeine improves work efficiency\" If I tell her that she is willing join～♪",
+        "hash": "7a80354c2d45662eee1f6329cedaf700396cd124c69ef312b04af2d956559b43"
+    },
+    "91002": {
+        "text": "Flower's bento is like a little jewel box. I wish my chef could see them♪",
+        "hash": "ee08625b0ce29c366e83c256fe8d8337e039802bb57d15f1d8d10b09577408c3"
+    },
+    "91003": {
+        "text": "Kawakami-chan recommended \"Purifai\"! It's very interesting～♪ I'd love to see it broadcast in my country…!",
+        "hash": "12c3e768af54902f554f779089887ca881f5286f33c034925da6b83e74b1bccd"
+    },
+    "91004": {
+        "text": "I must make my father proud of me for giving me his permission. I hope I can go back to my country with pride♪",
+        "hash": "44962d48c331e973ab2e4e0020e7bac150f7268cde5e68ef482b5a4eafc2f3b3"
+    },
+    "91005": {
+        "text": "Easy to move in, yet glamorous…! Who is the designer? I would love to order a ball gown…",
+        "hash": "d9941aaeadf44445fe2d4eb288f0c2bce06b56449f8a8324982d361d164fd1b0"
+    },
+    "91006": {
+        "text": "It's so neat when we all wear matching outfits! And I love the gold buttons… just like our Kingsguard♪",
+        "hash": "0747a05b8961e45b08d00df506e1a1aac0e81585a805a247f6ef9c99c18d8fa9"
+    },
+    "91007": {
+        "text": "I had a lot of my favorite clover motifs attached to this race outfit♪ Fufu, where is it?",
+        "hash": "09f35e9cb7b9d02a5168623b2875c35509daf801dd16b34b93a41530f68b8c62"
+    },
+    "91008": {
+        "text": "Fufufu… Uniform is good, this outfit is also good. Because the knees is out I feel lighter. It's a new sensation～♪",
+        "hash": "7d185736a09b1d55ff7d82297c87a18c5d83d8b452aa41f3ebc854978648ecfb"
+    },
+    "91009": {
+        "text": "When I ran early in the morning, the morning dew on the clover was sparkling, it reminded me of a castle garden♪",
+        "hash": "27ebb197f1c896702754ede9b4570056785edfd90d46ffaa82607c8f6d31de6c"
+    },
+    "91010": {
+        "text": "Let's do our best in the afternoon practice. Whether or not it will be a wonderful memory depends on my ability!",
+        "hash": "f087dc1c27c75dfe831b7f6893edf57031126dd6db3401908c8e77dd8ae298a7"
+    },
+    "91011": {
+        "text": "I have to try to go to bed as early as possible. If I stay up too late, the rotation of the guards will collapse!",
+        "hash": "a2e5ea49b2cb6e05012168ee970a8ae761a66b2aa1dec1a9c8a8789dce177859"
+    },
+    "91012": {
+        "text": "Lalala～♪\r Spring in this country is so sparkling and pleasant～♪ it's like a dream to have blue skies all day long!",
+        "hash": "dd5213709ec45946b342bb176a18e82fe96f2089bf57b6d3a4b4ac87b76dfa85"
+    },
+    "91013": {
+        "text": "Japanese summer nights are dark all night long, so you can see beautiful stars very well. I think I can have a good dream…♪",
+        "hash": "9f6e70d986ae2c81053d6d46d4fac7b035a9e71990445366543ac078a35c4af7"
+    },
+    "91014": {
+        "text": "My favorite Japanese food is matsutake mushrooms! It smells so good and delicious～♪\r I wonder if it won't be served at the school cafeteria…?",
+        "hash": "1b55d50ad22a2f6f8fbc63d9dd8fc4be3dbc55dbaedfb94a0462ce448f508304"
+    },
+    "91015": {
+        "text": "Kotatsu is amazing isn't it～♪ Combining a table and a bed is an idea worthy of a medal!",
+        "hash": "bc3c1896242abcb957ad3bf30e52552b9e1442d8be20139a325587156fd815a8"
+    },
+    "91016": {
+        "text": "A bachelorette party is a special and slightly lonely night. …If I throw one, do you think people will come?",
+        "hash": "7c6de6a670bf5e4058353466be85f13bd853f411916c46e5a07f5e29a9ad2755"
+    },
+    "91017": {
+        "text": "When I told my sister that Airgroove -san also had a nice match suit… it turned into a big deal!",
+        "hash": "d3ba4a4c6f29697b985c5a94316e42099b4a207d8155c05e1cb2c6d0dabb0c38"
+    },
+    "91018": {
+        "text": "I'm thinking of throwing another dark hot pot party with Dober, would trainers like to join us as well?",
+        "hash": "6b78a525a68bbd947e42711b923117f921ddcb583fca1b6d2c599fc0a2a32195"
+    },
+    "91019": {
+        "text": "The other day I snuck off to Bright's dad's amusement park. I didn't know that amusement parks are usually so crowded!",
+        "hash": "a3f51a465d616ffc7bf166b0c105afb81984d69fd41271170e372f3c9c8b1d9e"
+    },
+    "91020": {
+        "text": "I wonder if I can eat ramen in this race outfit. … Oh, maybe if I use a fork!",
+        "hash": "f47b4ab7a158b9740b235bef85d8befb259a4909f991da479109f3db98338a99"
+    },
+    "91021": {
+        "text": "I love miso soup! But sometimes I miss burnt ispini and crispy fried eggs.",
+        "hash": "51fb8a14a4d29550d0f2b77d48dd441af804f5cb144db56e7cf18ea8d21df385"
+    },
+    "91022": {
+        "text": "I think I'll have that special thing for lunch today ―that magic food that turns into ramen after three minutes!",
+        "hash": "156e97eca6be4692e8f6787767751c734babbb4a1c661bd5a94c87f6d34f9631"
+    },
+    "91023": {
+        "text": "Well, it was a fun day! Busy and lively… I think I can sleep well tonight.",
+        "hash": "7f55a930aec5ed47001671a3b52ba757ceead3702673fd20c1358124fadb5dd1"
+    },
+    "91024": {
+        "text": "The clover field is getting lively! I remember when I used to play coronation with my sister.",
+        "hash": "c25f6bb292f8b8b4d399ab4dda3fe6a8232963216d56124cda35a6600fd756ab"
+    },
+    "91025": {
+        "text": "I heard that in Japan, when summer comes, that's when it starts. If i'm not wrong… \"Chilled Chinese noodles\"!",
+        "hash": "75ce0a32430eb6941790008202f43e8e8527f32c914a8c5b6953445b85b310b3"
+    },
+    "91026": {
+        "text": "It can get very cold in the fall back home. So I borrowed the captain's scarf once, you know?",
+        "hash": "f79a9522ea3d3a448daf0bc8f5a37e3e92bc16666c2a785d1ff007400daeb40d"
+    },
+    "91027": {
+        "text": "Hey, did you notice the little snowman by the window in the trainer's office after the snow the other day?",
+        "hash": "72283af3288bdef125ae12876f3a95da8d4cf3c11bb2ca5eb032e8f3bb844525"
+    },
+    "91028": {
+        "text": "She expressed my brilliance. She made me look so beautiful… I feel my spine grow taller when I feel your thoughts.",
+        "hash": "627d4e2fa0023cba171f31320af9369e541d34ebbabfe536f7f6ae0dc61c6776"
+    },
+    "91029": {
+        "text": "The Celtic knot has the meaning of \"eternity\". You really can't beat Beauty-san.",
+        "hash": "a51b59b55f58051b976a1089f64de6b8e362f5ccbf7c4983c282bdf119be28ac"
+    },
+    "92000": {
+        "text": "What kind of training are we doing today? I have to earn ability that can make my country proud♪",
+        "hash": "faad5f1da32c0bcf4480d532e31f5a9820f53462a8f02f931584ca410d6915c6"
+    },
+    "92001": {
+        "text": "I've met a lot of tutors… but your teaching style is especially good!",
+        "hash": "2311db59cf32d8d3d800e45856eff59b5a1605e7fa8e8cfc3a7f3e4bf06b840c"
+    },
+    "92002": {
+        "text": "I think the memories of running with all your strength will lead to strength and pride. It will surely be my food for thought in the future…",
+        "hash": "b1bb17e57acb9770219452297b8e75e2df2b76731e618cc2091ae4ead4b26ce7"
+    },
+    "92003": {
+        "text": "I found a four-leaf clover earlier. It feel like today's training is going to go well♪",
+        "hash": "f3b2cd8c82312b94d31a0a8b14a0cf5a8d26eaa41fef292c43bd335bdff9b434"
+    },
+    "92005": {
+        "text": "I'm getting stronger and stronger… I wonder what exciting things you will teach me next?",
+        "hash": "607bfdfc04b895590c4d66449115dd6d969e321344146ee016d6800ba50a9362"
+    },
+    "92006": {
+        "text": "Father has gave me permission to enter the race… Let's work hard together so that we can live up to that trust♪",
+        "hash": "8e10def0a5abba5d6cebd881952033ee7bfe9713466a8fa32523ce8b3df6a4c6"
+    },
+    "92007": {
+        "text": "Making memories is not only about what you did, but also who you were with. I'm glad you become my trainer …",
+        "hash": "0a71e724be2a72b1ed101f406aa39fc6de985faad39304618d0348cd1c3d6027"
+    },
+    "92011": {
+        "text": "Watermelon splitting sounds like a fun game! How about we do it after practice? I want to treat the guard to something cold as well♪",
+        "hash": "f2c559a0a2c3ed1f047c5937a457d8fb555c971f36a1ba25dbe8951424e2c6f4"
+    },
+    "92015": {
+        "text": "You are to lead me, and this is your supreme command. … Ha-ha-ha! Did I surprise you?",
+        "hash": "dc17e62b6c42e7513f9078f2dfc3b7d10dd6f26bf2c70a107d3ad18a0653742f"
+    },
+    "92016": {
+        "text": "It would be fun to open a new door together, wouldn't it?",
+        "hash": "493b307ab567505f59f2cdbeb7f8470de6450e12972c94c0432a0cd6e41c76dd"
+    },
+    "92017": {
+        "text": "Something that can't be worn as a race outfit [dress]. That's why I'll do my best today as well♪",
+        "hash": "ec0b3078db4d157acd7a81e44cb8ba8a7ae6486d495ec12e6b5861aa931ff99a"
+    },
+    "92018": {
+        "text": "I like your training notes. It has a lot of past and future with me, doesn't it?",
+        "hash": "7d48d997bac6988268196493e1eda770ce988af5e28307a1108ae72dc4c95ce3"
+    },
+    "92020": {
+        "text": "I will continue show that I am worthy of this race outfit [dress] that contains brilliance and \"ideal\".",
+        "hash": "6e869fa692ad1a528d0cedf4ffe12e90312d421803545ac24e0095b4640af27a"
+    },
+    "92021": {
+        "text": "One day this road will end, but we will walk it together, hand in hand, leg in leg… together!",
+        "hash": "24afe95be832859545cd14e38c4788dd5c899b26e808b1bf4d7d3ee54a44e92b"
+    },
+    "92022": {
+        "text": "Hey, trainer. From now on, will you continue to look at me?",
+        "hash": "b9aa34c61ac0cf9324de7dd7fa428aa21fa1f0a7ef999eb5a8ee39b757251ca8"
+    },
+    "93000": {
+        "text": "Thank you, it was really great…!",
+        "hash": "a0f0691eabf9c424d9e63bd552228606769a4cb7ce7d31faf4f8ffed935b8ecf"
+    },
+    "93001": {
+        "text": "It become a wonderful memory that I will never forget… ♪",
+        "hash": "aa5279ed8465ac1603e4132bde0ec31e570ef25ba604be88d98a29ce01b1d04b"
+    },
+    "93004": {
+        "text": "I will never forget the memories with you for the rest of my life.",
+        "hash": "3dd0d77a9c7f81dba42017f73cf9e49ba72be9178441802eb621103ea748e016"
+    },
+    "93005": {
+        "text": "I'll tie the ribbon. Can you give me your hand?",
+        "hash": "4e6463669c799ea77d22b793321cde067c3999cd5bb2d190cefbe5527dd6f213"
+    },
+    "95000": {
+        "text": "Learn, grow, so that one day I can fulfill my mission…!",
+        "hash": "ea96dd7bf535065aafdde0cb05259dc4d6dc253ac11794107c1bbf9f78a79725"
+    },
+    "95001": {
+        "text": "Wow! I feel like it's going to be a great memory♪",
+        "hash": "d9bc02f021255be86b0cda8ad3cf497363464135261cd84a8611decff9015709"
+    },
+    "95003": {
+        "text": "Good day to you♪ I'm Fine Motion.",
+        "hash": "105918d470b0421acc3f45d7988812bd88719a37ad1f3a6183b89c97fcbb86d8"
+    },
+    "95004": {
+        "text": "A wonderful memory clover! Will you look for it with me?",
+        "hash": "ed23b5afae344f71fbdd39db2c86e080f58a9d4670eb4a784f6dc59f724480ba"
+    },
+    "95005": {
+        "text": "Support? As you wish～♪",
+        "hash": "fd45ead401d301f994823441b0f5e6a906264e9ea165fe78e8162e11fec22a6c"
+    },
+    "95006": {
+        "text": "You can count on me more!",
+        "hash": "64f718ca76120fcb6f4f92d0b45832380eb0e144bddb79586cb5c3356b0432cb"
+    },
+    "95007": {
+        "text": "From now on, for a while longer. Please stay with me, okay?",
+        "hash": "ff1ea77797147f8f20d4f0fb2c58706e0612aee8292668f2bb61a0641257dbbb"
+    },
+    "95008": {
+        "text": "Blessed are the blessings bestowed upon us!",
+        "hash": "3f1674f5b1b814b02cfb1c4444ae47e56c70864bd84b70caefcc4be809222517"
+    },
+    "95009": {
+        "text": "Do you swear? That you will run together with me!",
+        "hash": "464cfb01ffc3f3f98f0207ec29c3fc4c6a498dc5dbb42c144952239b959d9df5"
+    },
+    "95010": {
+        "text": "I'm Fine Motion! Let's open the door to the future together!",
+        "hash": "606b6f589fec633d8c5619a9ff390bc4c42bdbff4b26ad5baef761c7b78f789c"
+    },
+    "110000": {
+        "text": "Training today? Thank you for your hard work.",
+        "hash": "eb9da8f82aa05b87b1f6432acb75f43ee90ad82a01e0eada7c2a935c92a1abff"
+    },
+    "110001": {
+        "text": "So many wonderful memories♪",
+        "hash": "c7a291c85268447bfaa4dd5d0dfd41a4ae979fe5f7af65fab2b2e52cff91cfaa"
+    },
+    "110002": {
+        "text": "Oh, Will you escort me to the race?",
+        "hash": "d788dc017de350789855f0ddd09061a50023e3f21cdea36b25e46abe8d8efc97"
+    },
+    "120000": {
+        "text": "Wow…! I wonder if it's blessing of the Clover…!",
+        "hash": "c851c6eeb484d648cff31fef4c5712345416392cfe722a2fb8afd59ab46bb25b"
+    },
+    "140000": {
+        "text": "Horay horay! Trainer～～♪",
+        "hash": "a031dfa03bd6285bb34e632099a3b11ba1c80dd71e77160c9e63a85dd47c54b2"
+    },
+    "140001": {
+        "text": "Yay♪",
+        "hash": "0f0896436bb2a1c89d73ccb5c5e52e0eff7624d4614f474719ecf76a93363b1d"
+    },
+    "140002": {
+        "text": "Aaahhh!",
+        "hash": "1d2c297c4127e477e6f94daadefc8cd22a323e2a30436c9ed8044f0a0ce99c4b"
+    },
+    "140003": {
+        "text": "Ahaha! Everyone is so cute～♪",
+        "hash": "706da4a2d4b6bd853888acc2adca2d4cd7cb755fe31e6cc9b5cbd510438a5920"
+    },
+    "140004": {
+        "text": "Wow, you got it～♪",
+        "hash": "39d6cb01c1a6cb84ce2ed95f25459c1ce906e1789581d3d72f1309c7174c3274"
+    },
+    "140005": {
+        "text": "Don't worry, don't worry!",
+        "hash": "b369c01648af8e63c44cac5a6bfa5e33254e33c8cf77ead8008bd9a866333b1e"
+    },
+    "140006": {
+        "text": "Ahaha! Everyone is so cute～♪",
+        "hash": "706da4a2d4b6bd853888acc2adca2d4cd7cb755fe31e6cc9b5cbd510438a5920"
+    },
+    "140007": {
+        "text": "Wow, you got it～♪",
+        "hash": "39d6cb01c1a6cb84ce2ed95f25459c1ce906e1789581d3d72f1309c7174c3274"
+    },
+    "140008": {
+        "text": "Exciting♪",
+        "hash": "afbcf031a02cc8f9cc6e4a333dad3acfc55d60ce1c4f8cf41fe51f73932dcaf2"
+    },
+    "140009": {
+        "text": "Ohhh…",
+        "hash": "f14baa5e2a861dacab3f0e4d45027ee3a3e7412011028a1c559b11a134da0a91"
+    },
+    "140010": {
+        "text": "Mmm…",
+        "hash": "cd62baed3f8da820b30edd1dda1e17e02a2e88b33c76dc041afe86ce92daadb9"
+    },
+    "140011": {
+        "text": "Wow! This is…!",
+        "hash": "88d197ede50e8d66bfb7cfda1155bdc81933651d60aa39ccbc91676cfa116357"
+    },
+    "140012": {
+        "text": "Okay…!",
+        "hash": "67d6b43995a78ee5e3e7509514f289ca2e34572902c2b2405b79053a28ef2310"
+    },
+    "140013": {
+        "text": "I'm so excited!",
+        "hash": "af39692e452d241e0f9eff1a9d3dbf0557a3484be1ec04a0e829afa3fbd190b4"
+    },
+    "140014": {
+        "text": "Aaahhh!",
+        "hash": "ab0c62c39c5527e85630f8c4153b576df0961039de02c12d8360bf3fb0046458"
+    },
+    "140015": {
+        "text": "Mmm～～…",
+        "hash": "938cb6f2172d8c83163697b88ded5cb56df107f67cd51b3602a1727193cf6260"
+    },
+    "140016": {
+        "text": "Dear me? Trainer?",
+        "hash": "aa248a2c2310ad085e5a22b3b2db1912d0811484282560c86ba2571557fdef1d"
+    },
+    "140017": {
+        "text": "Aww!",
+        "hash": "de7a218794a0e5177bbfa9d9d696022869d2eb157d7d8eebd9d2fe35606029c4"
+    },
+    "140018": {
+        "text": "Ehhhh…!",
+        "hash": "09a587c0ebca1494ecb4240b964812ebacadc65ed1ee208535e478b4068c3347"
+    },
+    "400001": {
+        "text": "Why are you all so eager to wear Beauty-san's race outfit…?",
+        "hash": "4c830f23bbf87775bd7d3ff851973dc39d71f8c0e71528419400f7b1c0550ab4"
+    },
+    "400010": {
+        "text": "Solving the riddle was a lot of fun. I made a lot of good memories♪",
+        "hash": "9aa970908c01fede22ee3559dd2488d6b54a1f56c061d719313c84cf7720dc81"
+    },
+    "410000": {
+        "text": "Shall we go!",
+        "hash": "27e9620aaafed787e5b563b109522add299910b8fd8becd682c60bf17f5327de"
+    },
+    "410001": {
+        "text": "We did it♪",
+        "hash": "1a1c1e388a22b29ce818e168a083f9851c221ae320b610cb98774125be345a19"
+    },
+    "410002": {
+        "text": "Fufufu～……♪",
+        "hash": "d920046eae3daa8d110d0f2bbc483e0342f0a85a4910a0cbec5eb2ce3da8e348"
+    },
+    "410003": {
+        "text": "Fufufu～……♪",
+        "hash": "d920046eae3daa8d110d0f2bbc483e0342f0a85a4910a0cbec5eb2ce3da8e348"
+    },
+    "410004": {
+        "text": "Fufu",
+        "hash": "0ed773836fe2f6216ea8f6b794565df4d5b4d1c9d836ba5cd85e3729fb31e0b5"
+    },
+    "410005": {
+        "text": "Fufu",
+        "hash": "0ed773836fe2f6216ea8f6b794565df4d5b4d1c9d836ba5cd85e3729fb31e0b5"
+    },
+    "410006": {
+        "text": "Mmmmm～……",
+        "hash": "9c25a6f9704fd4b973c9999fd24306245649c5077b63d784539d3b4710e2124e"
+    },
+    "410007": {
+        "text": "Mmmmm～……",
+        "hash": "9c25a6f9704fd4b973c9999fd24306245649c5077b63d784539d3b4710e2124e"
+    },
+    "410008": {
+        "text": "Mmmmm～……",
+        "hash": "9c25a6f9704fd4b973c9999fd24306245649c5077b63d784539d3b4710e2124e"
+    }
+}
