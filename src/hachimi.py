@@ -73,10 +73,27 @@ def convert_jpdict():
     out_dict.update(in_dict)
 
     dict_keys = [key for key in out_dict.keys()]
-    dict_keys.sort()
+    dict_keys.sort(key=lambda x: x.lower())
     out_dict = {key: out_dict[key] for key in dict_keys}
 
     util.save_json(out_path, out_dict)
+
+
+def backport_jdict():
+    print("JPDict")
+    jpdict_path = util.ASSEMBLY_FOLDER + "jpdict.json"
+    jpdict = util.load_json(jpdict_path)
+    
+    hachimi_path = os.path.join(HACHIMI_ROOT, "localize_dict.json")
+    hachimi_dict = util.load_json(hachimi_path)
+
+    for key, entry in hachimi_dict.items():
+        if key not in jpdict:
+            continue
+
+        jpdict[key]["text"] = entry
+    
+    util.save_json(jpdict_path, jpdict)
 
 
 def convert_hashed():
@@ -112,7 +129,7 @@ def convert_hashed():
 def convert_assembly():
     print("==Assembly==")
     convert_jpdict()
-    convert_hashed()
+    # convert_hashed()
 
 
 def convert_mdb_nested(json_folder: str, out_path: str):
@@ -550,11 +567,20 @@ def convert():
     # copy_data()
     # print("Done")
 
+def backport_assembly():
+    backport_jdict()
+
+def backport():
+    print("Copying Hachimi to Carotene")
+    backport_assembly()
+    # backport_mdb()
+
 
 def main():
-    convert()
+    # convert()
+    # backport_assembly()
     # convert_assembly()
-    # convert_mdb()
+    convert_mdb()
     # convert_assets()
     # copy_data()
 

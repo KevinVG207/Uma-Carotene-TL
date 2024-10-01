@@ -1,5 +1,6 @@
 import index
 import _unpatch
+import hachimi
 
 def main():
     _unpatch.main()
