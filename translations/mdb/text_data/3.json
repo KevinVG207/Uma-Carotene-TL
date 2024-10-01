@@ -1,0 +1,166 @@
+{
+    "1": {
+        "text": "Each Umamusume has different goals. \\nLet's now work to realize these goals!",
+        "hash": "cf95ff00bfebb88b8b713b67f5ddc5e83628ba7faacf8ac0fb8093afb9866d55"
+    },
+    "2": {
+        "text": "These are the commands that let you \\nadvance through training.",
+        "hash": "63fe90832a9f54a8210b4fe3f7cc98292e30e8dccbd84dc00ad7cee14e65700d"
+    },
+    "3": {
+        "text": "Executing one command consumes a turn.",
+        "hash": "b6b9099854e550f27dc3d080e88a6487a09d1d1c9a5e7342e92e2d402e5bb1c0"
+    },
+    "4": {
+        "text": "Let's go with the actual \"Training\" first!",
+        "hash": "1bae717ee3bf6a754accaab29c5e120975bb4efb872e079464fb070492ca4ff4"
+    },
+    "5": {
+        "text": "These are the types of training available! \\nEach one improves different capabilities.",
+        "hash": "f21d47c383779333c9901c48d26bfb9dec79a4c746adec290168ca68cea87d93"
+    },
+    "6": {
+        "text": "Let's see what happens when we choose \"Speed\"!",
+        "hash": "dd0e7e9f23aaf6c0f658ad33bda3e43b49792b2498a41118895d17a454eb7033"
+    },
+    "7": {
+        "text": "Now, I want to talk to you about your \\nUmamusume's energy when training.",
+        "hash": "7e6ba2a1e28427e8d1543a4a118c4a456227bf43a1153ca0a3035a9e718d4b73"
+    },
+    "8": {
+        "text": "First, as before, let's choose a training.",
+        "hash": "a40c53c77f6174da9c3bda30d122a6c8e90f770823ebc1179b93ed6f896c5335"
+    },
+    "9": {
+        "text": "Please pay attention to the \"failure rate\" here.",
+        "hash": "c416023d20552a452722442333dd43f63e772977c32c830f179efaf91286b3ca"
+    },
+    "10": {
+        "text": "The less energy you have left, the higher the \\nfailure rate will be.",
+        "hash": "4d5b8c8730a47d876a02ddee60a655f8f76fb221c0a0dfec7b5c1478be32ae42"
+    },
+    "11": {
+        "text": "Failing a training will reduce capabilities and \\nmotivation so be careful…!",
+        "hash": "09fc56d121d751782530f2a90ca4d61560db641910170cfb717b88fb6a0113db"
+    },
+    "12": {
+        "text": "Now, let's get back to it.",
+        "hash": "8fc359ded33f5e439f22fa782f76d3aac82f8f8cdbfb80364fce875079c3d78f"
+    },
+    "13": {
+        "text": "When your Umamusume's energy is low, \\nlet her take a <i>rest</i> to recover.",
+        "hash": "ed96034668987cebbfc1775f4730075a02a93c438c60a0acf4590acb2a6c7f78"
+    },
+    "14": {
+        "text": "First, choose \"Skill\".",
+        "hash": "d3dc7f507d099687b0a42c4656c4ff80f9829582f2ac5635027ee4799415791f"
+    },
+    "15": {
+        "text": "Next, choose a skill to learn. \\nWe'll use the skill points you just earned!",
+        "hash": "5a1cb268bd819d8caff9eeef6737120fd1a92e56293671ee70d30849d679effc"
+    },
+    "16": {
+        "text": "Let's have her learn this skill for now.",
+        "hash": "d920d92bfb28c5c7e29cef5d4c7f7eccfbc4ff20a401f74a61f1d0abc4947530"
+    },
+    "17": {
+        "text": "Then let's go back.",
+        "hash": "ce280c76dfdc06b120f0835a5f36cd5898d0c7cb7f2546765968a4a681e0e1ad"
+    },
+    "18": {
+        "text": "And we're all set! \\nLet's enter a race!",
+        "hash": "c6d448ea590524917851153de1bf62584c2f35a4df24c9559ada9c711de8c187"
+    },
+    "19": {
+        "text": "When there is a race that she can run, \\nit will show up in the list.",
+        "hash": "0aec0651de1448f8b8219127f2aa3eb275d5a3fd7a1418ac473783865f24e680"
+    },
+    "20": {
+        "text": "This time, let's run in this race!",
+        "hash": "7d98d88e4ca1853395efbc2f0481150df6be22793843f28bc050043b3cd833b0"
+    },
+    "21": {
+        "text": "In the paddock, you can check the abilities and \\nprediction rank of Umamusume running in the race!",
+        "hash": "e241095a4c8e89c293d4389484fd316b533999ad53e77656c6a823e614ecc1ca"
+    },
+    "22": {
+        "text": "First of all, let me explain the prediction marks. \\nThe \"◎\", \"○\", \"▲\", and \"△\" marks indicate \\nratings in that order, from highest to lowest.",
+        "hash": "44a6556f2c2e08165957a3b5ee21a3a0044fe0a985eb0479053d61e60190d373"
+    },
+    "23": {
+        "text": "The higher her ability and motivation, \\nthe higher the expectations, and the more \\nfavored an Umamusume is likely to be.",
+        "hash": "e9e18cd6b9a2356444b2be1fd6ea562370c0ff8fdd5a2636682752ca6cc46714"
+    },
+    "24": {
+        "text": "Of course, there is no guarantee of victory, but \\nbroadly speaking the more favored she is, the better \\nresults you can expect!",
+        "hash": "a46edf496c58d7f56c41a43da941bd63d5b7f30c33f4f8f1dbbad0d5848d5f29"
+    },
+    "25": {
+        "text": "You can also change the strategy \\nof your Umamusume in the paddock.",
+        "hash": "18a4258dbfde3e7a63a7b5dd5bb62d45f62e1654a77a23bb77437d9c341c7c7d"
+    },
+    "26": {
+        "text": "Of course choosing a strategy your \\nUmamusume is strong at is a good idea.",
+        "hash": "1e3cb892c03b1ac79b6b114a562623c0a5c57fbbf176ea6538c80de34727336e"
+    },
+    "27": {
+        "text": "We're all set now! \\nIt's time to run the race!!",
+        "hash": "a8c9d20283e52e33f91139677e0732b9d4f23d20c543863419942b0f59326f55"
+    },
+    "28": {
+        "text": "Good job training her!",
+        "hash": "d7b96b55e75460d18f4fa943f403586175444f0b3a61731f1df26409084d3c27"
+    },
+    "29": {
+        "text": "If you have any skill points left, please don't \\nforget to use them.",
+        "hash": "b28da07df06c0278d978de7d37e7a6dbf70a4526045e016832e51eb18ce79b1f"
+    },
+    "30": {
+        "text": "Well then, that's it for training!",
+        "hash": "8cdbc217489c62d76d218e315327e821f4ac565ea095fba67202959ee45eb6ce"
+    },
+    "31": {
+        "text": "Once an Umamusume has been trained, she will be \\nevaluated based on certain criteria and then \\nregistered as a \"Hall of Fame Umamusume\".",
+        "hash": "66d39d129a3204036fb6be9f8755369440e531127ba549d6cd2143705668bf7d"
+    },
+    "32": {
+        "text": "Good luck in your quest for the highest rank!",
+        "hash": "727b12ca6f9f04bf12a66dff0578769b27cfa5923d57d44e4a16e0dfe015afff"
+    },
+    "33": {
+        "text": "Once training is complete, your Umamusume \\nmay acquire a \"factor\".",
+        "hash": "3fae02d37bae7db821d5c5b8045a756f4a17cbf2252c1cd44afe3561d515eb5b"
+    },
+    "34": {
+        "text": "When selecting an Umamusume as parent, her \\ndesires and experiences will be passed on \\nthrough their special bond as these \"factors\"!",
+        "hash": "a039c656ca533b4ce688849642709b79ac0aea11dde773889abacce9c6ef173c"
+    },
+    "35": {
+        "text": "Congratulations on finishing in first place!",
+        "hash": "b1ad7d748ce6ccf759fdce2bb95cb4017e01ed9c1705afda2a738db88499ac0c"
+    },
+    "36": {
+        "text": "Your Umamusume deserves lots of \\npraise for her hard work!",
+        "hash": "d202c7a4be22aeebff092c4e8f659a4e9c82b523b7adc02c7d6a44ca66f150c4"
+    },
+    "37": {
+        "text": "After the race there is normally a <i>winning live</i> \\nperformance, but since we're in the middle of \\nyour introduction, let's skip that.",
+        "hash": "19d5075e4ab183b4e7979b01b2c4416bb797191d48f1abd5c005e443a0474f19"
+    },
+    "38": {
+        "text": "You're done with training!",
+        "hash": "e5f6243f8630a67a7433f3315479719cf1bc88470e5340eebd34699e6c9cc300"
+    },
+    "39": {
+        "text": "Although it was short in this introduction, the \\nactual training period is 3 years.",
+        "hash": "82352ee3093817272e8ce807f697c44a775eabedf2110cccb361e02ae538fe88"
+    },
+    "40": {
+        "text": "Please cherish the days you spend \\nwith any Umamusume in your care!",
+        "hash": "cd0d8dcbe58e9dad225f140e9e991bbda078114b56feab570199a692f676b6e5"
+    },
+    "41": {
+        "text": "The three marks indicate the predictions of experts, \\nand the expectations ranking shows the anticipation of fans.",
+        "hash": "16ebfbbdf7bbe751612201096e3419cbaa2ef9704b2a9b3702fcd3370953d702"
+    }
+}

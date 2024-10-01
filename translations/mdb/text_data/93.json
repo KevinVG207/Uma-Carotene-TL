@@ -1,30 +1,30 @@
 {
     "1": {
-        "text": "<nb><sc=70>Chapter 1",
+        "text": "$(nb)$(scale 70)Chapter 1",
         "hash": "d94bf82553bf1a3f13678aa106752029044f91c6fd86aac4a1c993e0c80c8506"
     },
     "2": {
-        "text": "<nb><sc=70>Chapter 2",
+        "text": "$(nb)$(scale 70)Chapter 2",
         "hash": "f5bc9b237b7812b9d818049a1dcfe1c559ee37570cc80557939f4beac260e537"
     },
     "3": {
-        "text": "<nb><sc=70>Chapter 3",
+        "text": "$(nb)$(scale 70)Chapter 3",
         "hash": "8ab05d078598150e20b9a51ae9fce822f89f284f2e5be1e77d56f20a0d413a06"
     },
     "4": {
-        "text": "<nb><sc=70>Chapter 4",
+        "text": "$(nb)$(scale 70)Chapter 4",
         "hash": "a7b586e8fcbd7c71a657cabb4bf63bb2bfce29c870c5cf4d28a4775475a3359b"
     },
     "5": {
-        "text": "<nb><sc=70>Chapter 5",
+        "text": "$(nb)$(scale 70)Chapter 5",
         "hash": "78cd11477fd51627f44d133ad37e21b25af5b53d0df1b08abca7ed9dd1fdbd7f"
     },
     "6": {
-        "text": "<nb><sc=70>Chapter 6\n  Part1​​",
+        "text": "$(nb)$(scale 70)Chapter 6\n  Part1​​",
         "hash": "b5e6c4e4bdacaf187f61befcb73bb627746867a577f172f39999e90ec7219da5"
     },
     "7": {
-        "text": "<nb><sc=70>Chapter 6\n  Part2​​",
+        "text": "$(nb)$(scale 70)Chapter 6\n  Part2​​",
         "hash": "8b7c71447c1af78db5ec34a6a77dc67a6b360e01086b75b1b331bf5d705ab523"
     }
 }

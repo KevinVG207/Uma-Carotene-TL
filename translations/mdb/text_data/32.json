@@ -115,6 +115,10 @@
         "text": "Tenno Sho (Autumn)",
         "hash": "d03321a9f5f9e85624529f6c81f8a47abd1a3dbb58d1a0a21af299e00ad19572"
     },
+    "1030": {
+        "text": "Mile Championship Nambu Hai",
+        "hash": "bb713df8f801eae78fc0301bed26afccdc6e67d9f87662bcac7fccd885c15f33"
+    },
     "1031": {
         "text": "Japan Cup",
         "hash": "d2df4bca816f6863d3bea9111eaa2bb5ac1cc807df35a88b6354efeda4c17b54"
@@ -158,6 +162,10 @@
     "1109": {
         "text": "Kashiwa Kinen",
         "hash": "bfedca3be2f419e2150304f0fafb520ec861cc380730d735e8ed98cfc4dbbb73"
+    },
+    "1110": {
+        "text": "Mile Championship Nambu Hai",
+        "hash": "bb713df8f801eae78fc0301bed26afccdc6e67d9f87662bcac7fccd885c15f33"
     },
     "1111": {
         "text": "JBC Ladies Classic",
@@ -244,7 +252,7 @@
         "hash": "0d650a619621d11a010340842b7920d2a01dfbc435096988924f5c8431ffea0a"
     },
     "2012": {
-        "text": "Hanshin Uma Musume Stakes",
+        "text": "Hanshin Umamusume Stakes",
         "hash": "a03f11a3d1eb8c6f7185a161d12728ce6c4aa46142937417b0b8e15597157afc"
     },
     "2013": {
@@ -308,7 +316,7 @@
         "hash": "5175c761a3c5834d48f8d49c7b74655146f7a6d24fbd9d504c082c7ca9422eee"
     },
     "2028": {
-        "text": "Fuchu Uma Musume Stakes",
+        "text": "Fuchu Umamusume Stakes",
         "hash": "e6c68224c1a79e0939b43e60419edc9e8c6a92833e30c6ff520fd5b0f6abc699"
     },
     "2029": {
@@ -412,7 +420,7 @@
         "hash": "fdf2c0cefb16a6c6a4565f0208298ad061dc57bb719a18d314753d9f5a5781b5"
     },
     "3013": {
-        "text": "Kyoto Uma Musume Stakes",
+        "text": "Kyoto Umamusume Stakes",
         "hash": "2e774f1bf1501f92ed4465fbf0b7e2ee76119acd215c5ba6f79a1264410acab0"
     },
     "3014": {
@@ -440,7 +448,7 @@
         "hash": "ecfc79ad2da75019a067a687784cd001f02d4428460b84ce404014f2dfbeca05"
     },
     "3020": {
-        "text": "Nakayama Uma Musume Stakes",
+        "text": "Nakayama Umamusume Stakes",
         "hash": "9c136ce3ee2757293eb82dd3ad27c4fb3ea263a1e7a5adf1867ba7c52af54b59"
     },
     "3021": {
@@ -468,7 +476,7 @@
         "hash": "895039204d1122ae987422c0055218d1c06ee62d48d331be0234dad4e9c63c87"
     },
     "3027": {
-        "text": "Fukushima Uma Musume Stakes",
+        "text": "Fukushima Umamusume Stakes",
         "hash": "169cb405bdc046680ac867225817a7791e9d10dcc7fb4ef0971562541a857551"
     },
     "3028": {
@@ -1391,6 +1399,58 @@
         "text": "Practice: Mile Championship Nambu Hai",
         "hash": "c65f55777fb168c8a04a74162e75131ff05971b7ef414d664d8baafb7540dd92"
     },
+    "5142": {
+        "text": "Practice: KAW Dirt CCW 2100m",
+        "hash": "0d4dcf18476336763d64af0e1e3a70eff1fc7406e9fd713a43bae182e21d4df2"
+    },
+    "5143": {
+        "text": "Practice: KAW Dirt CCW 1600m",
+        "hash": "bd964c108bf742dccf4c3d34c460e0242aab98ab22e654fe84a4f0675c290d5d"
+    },
+    "5144": {
+        "text": "Practice: KAW Dirt CCW 1400m",
+        "hash": "ef79f8ed14bd2ac6604f7c20918c9834dfc3100cbe089b0a22eeacffd2cc7726"
+    },
+    "5145": {
+        "text": "Practice: FUN Dirt CCW 2400m",
+        "hash": "80fd0f003695156f89f4b4a5fd6357a44951467e71d9fe452082291c70048cf7"
+    },
+    "5146": {
+        "text": "Practice: FUN Dirt CCW 1800m",
+        "hash": "a74358e11d1e5bf57590a0f4b58c563995b9d82c5d6d90106845b9050d21362c"
+    },
+    "5147": {
+        "text": "Practice: FUN Dirt CCW 1600m",
+        "hash": "8fc859c1339fd7e7aefc1a9c61c42da4ec3e8a6852fd07bd7d119be2f91aa3fa"
+    },
+    "5148": {
+        "text": "Practice: FUN Dirt CCW 1000m",
+        "hash": "d0d148de26dc83d0532b19cfd4933f92e79ed4fb2a2e167733e09403de8ccabb"
+    },
+    "5149": {
+        "text": "Practice: MOR Dirt CCW 2000m",
+        "hash": "52fa0cd2aababc8fbf10cf32b9304877a6f34606632cf4a5c3efee42963bb394"
+    },
+    "5150": {
+        "text": "Practice: MOR Dirt CCW 1800m",
+        "hash": "67ff93b29d6b0534a8f954724f527b22b5ce8509562e49c356200c80364c0127"
+    },
+    "5151": {
+        "text": "Practice: MOR Dirt CCW 1600m",
+        "hash": "3cfbad258df1b81a865e61a315a5576987bf117ec8a61d4160b5aacb11dccdb9"
+    },
+    "5152": {
+        "text": "Practice: MOR Dirt CCW 1200m",
+        "hash": "17ce411ddad403867a99709d002fd6889aa4977e600c6aa8b6ca42445e5d1099"
+    },
+    "5153": {
+        "text": "Practice: Longchamp Turf, CW, 2400m",
+        "hash": "b7e011d02321f3aada6eacbcdf81b1d3aa17cab330647144ccf6aad40f41bdbb"
+    },
+    "5154": {
+        "text": "Practice: Prix de l'Arc de Triomphe",
+        "hash": "80a1647262526bedad237d3d2399aee62c058aba1e76dc3c915d6833e11b39c5"
+    },
     "5801": {
         "text": "Moonlight Sho",
         "hash": "49212d0c2e271e78e96f4598e1318be40ba43a3957124dd2ec2c2d5a7b975bf0"
@@ -1702,6 +1762,62 @@
     "6048": {
         "text": "Champion's Meet: Sagittarius Cup Final",
         "hash": "a32dc686b07d4886d4e42aee58f4d9ecc92784eb5c455a2c54baeb163b139b4a"
+    },
+    "6049": {
+        "text": "Champions Meet: MILE",
+        "hash": "8c51a4942c8b8b87dd05620b9a21c46ac35953e7961de576e9a36e7780c146cd"
+    },
+    "6050": {
+        "text": "Champions Meet: MILE Final",
+        "hash": "abeb34bd35d36eee85cc7384cdbb4c315e005b0bb114bc73d04883498d6c999d"
+    },
+    "6051": {
+        "text": "Champions Meet: DIRT",
+        "hash": "3193402151df8fc4467bb11db054a0e14c2bf16d7b5b402e70078eff70412e39"
+    },
+    "6052": {
+        "text": "Champions Meet: DIRT Final",
+        "hash": "3a4c5996612228b0f9b14129bba21f3e7047f348aee47e972a730e19f2b7258c"
+    },
+    "6053": {
+        "text": "Champions Meeting CLASSIC",
+        "hash": "a2729d6e63a3119502590c2e31a0aa7d068b8a4483e29a37f199d9fd49578f41"
+    },
+    "6054": {
+        "text": "Champions Meeting CLASSIC Final",
+        "hash": "46c727c231463b998660a402e819979610b1cabd31941d33fa917ee423dd82c8"
+    },
+    "6055": {
+        "text": "Champions Meet: LONG",
+        "hash": "0a76fbb25bfd78622f68f19c02d3169b969fd5d9c9d5d1320a288d9364d7ea5e"
+    },
+    "6056": {
+        "text": "Champions Meet: LONG Final",
+        "hash": "77efd25a605355e538cdbf1593e4073dd657210b3f90595e9c505519cc547aad"
+    },
+    "6059": {
+        "text": "Champions Meet: MILE",
+        "hash": "8c51a4942c8b8b87dd05620b9a21c46ac35953e7961de576e9a36e7780c146cd"
+    },
+    "6060": {
+        "text": "Champions Meet: MILE Final",
+        "hash": "abeb34bd35d36eee85cc7384cdbb4c315e005b0bb114bc73d04883498d6c999d"
+    },
+    "6061": {
+        "text": "Champions Meeting CLASSIC",
+        "hash": "a2729d6e63a3119502590c2e31a0aa7d068b8a4483e29a37f199d9fd49578f41"
+    },
+    "6062": {
+        "text": "Champions Meeting CLASSIC Final",
+        "hash": "46c727c231463b998660a402e819979610b1cabd31941d33fa917ee423dd82c8"
+    },
+    "6063": {
+        "text": "Champions Meet: DIRT",
+        "hash": "3193402151df8fc4467bb11db054a0e14c2bf16d7b5b402e70078eff70412e39"
+    },
+    "6064": {
+        "text": "Champions Meet: DIRT Final",
+        "hash": "3a4c5996612228b0f9b14129bba21f3e7047f348aee47e972a730e19f2b7258c"
     },
     "6100": {
         "text": "Team Race: Short Distance",
@@ -4883,6 +4999,22 @@
         "text": "Room Match: Tokyo Daishoten (Custom)",
         "hash": "708032a4a38ec9f2cf09e232b29949af521f037aebf9307af076e6a5bef82153"
     },
+    "10190": {
+        "text": "Room Match: Kawasaki Kinen (Custom)",
+        "hash": "afe08e4331d775de1424bb063a76d0d435d57bc5346eee6c0e73ed56764c2bfa"
+    },
+    "10191": {
+        "text": "Room Match: Zen-Nippon Junior Yushun (Custom)",
+        "hash": "9d250716b7be9e3e61f0f80508d3cd640f8afedd5d0f00077184965d318543ae"
+    },
+    "10192": {
+        "text": "Room Match: Kashiwa Kinen (Custom)",
+        "hash": "671994a3a3c5d4347057be8cddab990370621d46d8855c58b73c4f8f38be0316"
+    },
+    "10193": {
+        "text": "Room Match: Mile Championship Nambu Hai (Custom)",
+        "hash": "4c6055bf949c3d252d6c743d2551a431d40763081ab3672c0becc1013762cf0f"
+    },
     "11001": {
         "text": "Carnival (HARD)",
         "hash": "c3d4135a1ad1370b19c2bc3dabf4be8200714ae68d101342d52656a36fbae4e7"
@@ -5118,6 +5250,70 @@
     "12022": {
         "text": "Kikka Sho",
         "hash": "8a0ec5bcb0b8df6e2cccaa6d169058628e983a202036e88b5ce0b5858498e242"
+    },
+    "13001": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13002": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13003": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13004": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13005": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13006": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13007": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13008": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13009": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13010": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13011": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13012": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13013": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13014": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
+    },
+    "13015": {
+        "text": "League of Heroes Main Stage",
+        "hash": "733b8e89260aebde69c93e741b2d2ec40d9d107ea9a4e4de89d73252e3fb74c5"
+    },
+    "13016": {
+        "text": "League of Heroes Extra Stage",
+        "hash": "05ce6d764492814403106c6c14c2c3d67228015525c51c21ffe782a093c9d1d9"
     },
     "14001": {
         "text": "Grow Up Race",
@@ -5551,6 +5747,38 @@
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
     },
+    "15028": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "15029": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "15030": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
+    "15031": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "15032": {
+        "text": "Special Race: Short",
+        "hash": "0a5c1156fc2969fe1b44e888782ea8f233880a8f6461ad36f23c00475e2baba5"
+    },
+    "15034": {
+        "text": "Special Race: Long",
+        "hash": "604c50152090b6c5a83cfd6c185207a627c2133374527eb721c3a95f2abd85e9"
+    },
+    "15035": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "15036": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
     "15037": {
         "text": "Scout Race Medium Distance",
         "hash": "5fa076fd0ec2932c568ba778beeca6dd934288f239bb40be4709f54f5b68eda9"
@@ -5582,6 +5810,22 @@
     "15044": {
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
+    },
+    "15045": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "15046": {
+        "text": "Special Race: Short",
+        "hash": "0a5c1156fc2969fe1b44e888782ea8f233880a8f6461ad36f23c00475e2baba5"
+    },
+    "15047": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "15048": {
+        "text": "Special Race: Long",
+        "hash": "604c50152090b6c5a83cfd6c185207a627c2133374527eb721c3a95f2abd85e9"
     },
     "15049": {
         "text": "Scout Race Medium Distance",
@@ -5615,6 +5859,22 @@
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
     },
+    "15057": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
+    },
+    "15058": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "15059": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
+    "15060": {
+        "text": "Special Race: Long",
+        "hash": "604c50152090b6c5a83cfd6c185207a627c2133374527eb721c3a95f2abd85e9"
+    },
     "15061": {
         "text": "Scout Race Medium Distance",
         "hash": "5fa076fd0ec2932c568ba778beeca6dd934288f239bb40be4709f54f5b68eda9"
@@ -5646,6 +5906,22 @@
     "15068": {
         "text": "Scout Race Dirt",
         "hash": "1306908d633097f633656f5725968ca6e3c481ab781209c7183bb1f56d72dfeb"
+    },
+    "15069": {
+        "text": "Special Race: Mile",
+        "hash": "23dded07bcac047276939e6040ce4b18603c658d106c740ce3804581e20bbc19"
+    },
+    "15070": {
+        "text": "Special Race: Dirt",
+        "hash": "8005c4adbfd6e901cf53d797d4f7cae2a0163ca5168e334069c007bbc4470922"
+    },
+    "15071": {
+        "text": "Special Race: Short",
+        "hash": "0a5c1156fc2969fe1b44e888782ea8f233880a8f6461ad36f23c00475e2baba5"
+    },
+    "15072": {
+        "text": "Special Race: Medium",
+        "hash": "8b2c1207c460bbfb6487b7613172372aa6cb8ceb85b7ea1c9c11e1e57a08c7c4"
     },
     "16001": {
         "text": "Team Stadium: Short",
@@ -5962,6 +6238,10 @@
     "18007": {
         "text": "Kikka Sho",
         "hash": "8a0ec5bcb0b8df6e2cccaa6d169058628e983a202036e88b5ce0b5858498e242"
+    },
+    "18008": {
+        "text": "Mile Championship Nambu Hai",
+        "hash": "bb713df8f801eae78fc0301bed26afccdc6e67d9f87662bcac7fccd885c15f33"
     },
     "18009": {
         "text": "Sprinters Stakes",

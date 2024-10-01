@@ -1,0 +1,130 @@
+{
+    "1": {
+        "text": "Your stats seems well developed. \\nLet's acquire some skills.",
+        "hash": "81d63a8018e7da33e5f3cf5eafedf4018612a4734390efe9dfbc76483c18b2df"
+    },
+    "2": {
+        "text": "Your stats seems well but you lack \\nin skills. Let's acquire some.",
+        "hash": "49169373c2510d4f3c455d4a9a88f4813cc165c0ce065e44d19147bd15f9e5a2"
+    },
+    "3": {
+        "text": "It's about time to consider acquiring some skills.",
+        "hash": "c85e7aa7d886310798abbc489a62e421fa8b6dcd4e8d9c7ff2266ee7b2deb3bc"
+    },
+    "4": {
+        "text": "Your speed seems a bit low. \\nLet's focus on training it.",
+        "hash": "8357d0e82f36f63ea6967347b61983fc34c89dc9e7b6bd8298cf115463f9d651"
+    },
+    "5": {
+        "text": "Training some speed may help \\nyou keep a good balance.",
+        "hash": "0f63f64ece7c36906c1c4f772b76de143dfe6278442a0de1950dab2b25c54e49"
+    },
+    "6": {
+        "text": "Your stamina seems a bit low. \\nLet's focus on training it.",
+        "hash": "c35b7cc077812f889baa826c0fb1683751b3aa170d2d5c400b212b9f3dae8dba"
+    },
+    "7": {
+        "text": "Training some stamina may help \\nyou keep a good balance.",
+        "hash": "a3f8b880df067b11cb9acb69264b15a1e0a996b7150759b401a8ff4c3e39e84b"
+    },
+    "8": {
+        "text": "Your power seems a bit low. \\nLet's focus on training it.",
+        "hash": "71a6108345c0d7da2a30d78718b9aabdf1ad26c1a31e4f08f8fcfd78d47d8efb"
+    },
+    "9": {
+        "text": "Training some power may help \\nyou keep a good balance.",
+        "hash": "5056223846be6421dd995c31a066043886496829834c4717ce1c05ff06625b85"
+    },
+    "10": {
+        "text": "Your guts seems a bit low. \\nLet's focus on training it.",
+        "hash": "bc8a8277ebcf0a5b62a2b3689145643793298e1b4c5897b0c71bb26c5bc1d5b2"
+    },
+    "11": {
+        "text": "Training some guts may help \\nyou keep a good balance.",
+        "hash": "41ceaf589002baf37a001ccf619988ca860cbdaba642c4bb92fabbefb6d5d009"
+    },
+    "12": {
+        "text": "Your wisdom seems a bit low.\\nLet's focus on training it.",
+        "hash": "3477bc914d75d19fb9b6fdffed9b9f7d266581f37291cbb780795b0c549244a9"
+    },
+    "13": {
+        "text": "Training some wisdom may help\\nyou keep a good balance.",
+        "hash": "eda9badd33651e4ec45717f7fb62eafaafc59be51317496a83d5d9d41af48299"
+    },
+    "14": {
+        "text": "Make sure to get some good balanced training!",
+        "hash": "a23f0e0121364fce863471aa38cdd9eeef3d528d89fc5e262dbf8ffa1c8feaa4"
+    },
+    "15": {
+        "text": "You lack the minimum amount of fans\\nfor the target race, let's run in a race.",
+        "hash": "5bf1b99828d8105712f641d6282cd167dafcb924cc63f9969e65be8ad2f3a35c"
+    },
+    "16": {
+        "text": "You can't reach the target number \\nof fans as it is. Let's do some race.",
+        "hash": "8b6699798212329e06ed6507680dfabad8b96a1ec97bbbc4017891bfa76eb218"
+    },
+    "17": {
+        "text": "It's the day of the race we've been\\naiming for. Let's keep an eye on it.",
+        "hash": "4fcde02884d26647b6a3edb75ee94ab046f1c8cec13fa4b3fe5787330432d7a0"
+    },
+    "18": {
+        "text": "The condition seems unsuitable for\\ntraining. Let's go to the infirmary.",
+        "hash": "b7c1a16ff897aa7d06c4bac278cd78e5d6154ae351fbac1bd686830cb638295a"
+    },
+    "19": {
+        "text": "Low energy may cause injury.\\nIt's important to have some rest too.",
+        "hash": "ab3efce10c9c6e070b43fbf05d3d3acbaaefa856b71bbc4ad61febc00bd5ec27"
+    },
+    "20": {
+        "text": "Fatigue may cause injury in training. \\nLet's rest and recover some energy.",
+        "hash": "259239b755fcb15d3efaf629d260a6ff8ed3ef5a960aec7458eff46c0b66fbae"
+    },
+    "21": {
+        "text": "Keep your mood in a good state before the race.\\nLet's go out and find change of pace.",
+        "hash": "70fdc4f3b621f4682daa14a01f91908bd09076918df1b6fb81d407881d80fd4a"
+    },
+    "22": {
+        "text": "It's adjustment period before debut.\\nLet's take the time to train well.",
+        "hash": "1254890034ca2bb9c99c11cc8b1accaec58a14fa299fed3ec09fe06dfc78ca4a"
+    },
+    "23": {
+        "text": "You need to win a race before\\nSeptember. Let's win a race.",
+        "hash": "c651b4c3da67c7b35a9ff9a2938737c42cc2306ca01eacd9625e74529ec6de9a"
+    },
+    "24": {
+        "text": "You cannot participate in the\\ntarget race. Let's win some race.",
+        "hash": "60a1029274068b7417bf466e6ceac0716a4fefc564e36a52a57419d09aa02a1a"
+    },
+    "25": {
+        "text": "You can't achieve the goal as it is.\\nLet's do some race.",
+        "hash": "bc9b5f6e31608277484343c4f44f8f72a1c954817d0a9c38ade0fe0c878ad8d1"
+    },
+    "26": {
+        "text": "You're running behind on your target Result Pt. Enter a few races.",
+        "hash": "8ed18c9aa6acbc39fc2fd5425ad92dfe150ae754b065c0e2be6fb11e837cc0fe"
+    },
+    "27": {
+        "text": "Her speed is looking great! \\nKeep up training like this!",
+        "hash": "dd0cbcc13e5d75751b52170d3b33b8e1182af22f95bb9d81ca7b8b6efdb24fbb"
+    },
+    "28": {
+        "text": "Her stamina is looking great! \\nKeep up training like this!",
+        "hash": "4798b62e0fd760e4996a0b4e5a602855380d899f9e5e180c1f9b3dab63242850"
+    },
+    "29": {
+        "text": "Her power is looking great! \\nKeep up training like this!",
+        "hash": "60973ff2abcb4f61100eca9b882c17d766d804a2cc4cc860c250c5f637a2a872"
+    },
+    "30": {
+        "text": "She's looking very gutsy! \\nKeep up training like this!",
+        "hash": "e9cbaf469381e73d76d57e5eef69a97662ca70c050d6dda74e82bd01f6dc70c6"
+    },
+    "31": {
+        "text": "Her wisdom is looking great! \\nKeep up training like this!",
+        "hash": "d94d82a0b3c94d6c96ff6a5a4acec69b6cc5bb088cdc0c76e6828528fad785b4"
+    },
+    "32": {
+        "text": "At this rate you won't reach your goal. \\nTry to gather more Supporter Pt.",
+        "hash": "005d2895770db4fb74591e400eee622b334a3e4ae46e512269df18414834d2dc"
+    }
+}

@@ -387,8 +387,8 @@ def apply_gametora_skills():
 
     gt_data = r.json()
 
-    gt_name_dict = {data['name_ja']: data['name_en'] for data in gt_data if data.get('name_en')}
-    gt_desc_dict = {data['id']: data['desc_en'] for data in gt_data if data.get('desc_en')}
+    gt_name_dict = {data['name_ja']: util.umafy(data['name_en']) for data in gt_data if data.get('name_en')}
+    gt_desc_dict = {data['id']: util.umafy(data['desc_en']) for data in gt_data if data.get('desc_en')}
 
     name_override_dict = {
         "fb9bf8950771ef57b6e26dcbe622377cf1d6abb71d36a0f8bd4da901161d8bd9": "U=ma²"
@@ -598,7 +598,7 @@ def apply_gametora_missions():
             source = entry['source'].replace("\n", "").replace("\\n", "")
             if source in mission_data:
                 entry['prev_text'] = entry['text']
-                entry['text'] = util.add_period(mission_data[source])
+                entry['text'] = util.umafy(util.add_period(mission_data[source]))
                 entry['new'] = False
 
         util.save_json(path, data)
@@ -645,7 +645,7 @@ def apply_gametora_title_missions():
             if new_dict.get(key):
                 # print(mission_data[key])
                 entry['prev_text'] = entry['text']
-                entry['text'] = util.add_period(new_dict[key])
+                entry['text'] = util.umafy(util.add_period(new_dict[key]))
                 entry['new'] = False
 
         util.save_json(path, data)

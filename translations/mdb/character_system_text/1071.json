@@ -1,0 +1,786 @@
+{
+    "11": {
+        "text": "Cygames",
+        "hash": "70f9f2ba202c631078563014e7f2f960d547e1d0cd4d1c18319f102cf5a87fcb"
+    },
+    "12": {
+        "text": "Umamusume, Pretty Derby!",
+        "hash": "0cfce02d59976c4a687f79d00d7894df0b5a6c879fbee1d653e3f267a88ff06d"
+    },
+    "13": {
+        "text": "It's today's login bonus.",
+        "hash": "3c7504488a90fc1eea419e7e47159327b02b16bfa5cfb44894bb0badf5016527"
+    },
+    "15": {
+        "text": "Tomorrow is here. I'm looking forward to it.",
+        "hash": "9bc4c7b693802b0b19b801521477013a6bcd7c8b7a281c122cb2ad8954874201"
+    },
+    "1000": {
+        "text": "Please!",
+        "hash": "b920400ee6a4a2cd3286e166eee717e1cd308ce46ece2746e8449fc35a7dedf5"
+    },
+    "1001": {
+        "text": "Good result!",
+        "hash": "f37b31720f79defc185bd9da83a9f18cd1fcdd8e975c7b40643f864cd07b580e"
+    },
+    "1002": {
+        "text": "I'm very sorry…",
+        "hash": "8f4b782e249ba9ad6a8a0331a87e12c36db83d51b56f1eb0a86ebcdb98e04672"
+    },
+    "1003": {
+        "text": "Is it good enough?",
+        "hash": "1d70f6a0f383896fbc5edcf92bdbc4fe7a0e976a431960d7866a9e8cb1eeede9"
+    },
+    "1004": {
+        "text": "My thanks to all of you.",
+        "hash": "d90f673252988ab2829443fec023f9466bb5b1ccf4a33aac58a203d9a43bb700"
+    },
+    "1005": {
+        "text": "I'm very sorry…",
+        "hash": "8f4b782e249ba9ad6a8a0331a87e12c36db83d51b56f1eb0a86ebcdb98e04672"
+    },
+    "1006": {
+        "text": "Is it good enough?",
+        "hash": "1d70f6a0f383896fbc5edcf92bdbc4fe7a0e976a431960d7866a9e8cb1eeede9"
+    },
+    "1007": {
+        "text": "This is an undesirable result.",
+        "hash": "1f7a33d5de0b58afa72c4c8dbb5285bfcf37c638014627f4c84ef568d65a1022"
+    },
+    "1008": {
+        "text": "Together, with all our hearts.",
+        "hash": "6a2b74e653d2146a77e4db99b9bfd56f81c3e31c82ac562788fb590481bb462c"
+    },
+    "1133": {
+        "text": "Even if it's destined to shatter―",
+        "hash": "fa92380a42b395f7226185c2dcdec562210a698f5afbb65754fdc1ae85270e9b"
+    },
+    "1134": {
+        "text": "Yay, yay!",
+        "hash": "a2ffa52e278be255cfae4e0fe150d8a7b2d331cbeffe52c40b6fd8e680b45f50"
+    },
+    "1144": {
+        "text": "My Pride!",
+        "hash": "c7d0b8a9ec90650e97eb5c0394e24615f7e412f11904c32963a6e4101db68680"
+    },
+    "1182": {
+        "text": "Of course, sister...!",
+        "hash": "57bb1f3c37b8529ba6c25fbdb461dd7dc16cb6641887165b7287d0605716d140"
+    },
+    "2030": {
+        "text": "Please!",
+        "hash": "b920400ee6a4a2cd3286e166eee717e1cd308ce46ece2746e8449fc35a7dedf5"
+    },
+    "2031": {
+        "text": "Together, with all our hearts.",
+        "hash": "6a2b74e653d2146a77e4db99b9bfd56f81c3e31c82ac562788fb590481bb462c"
+    },
+    "2032": {
+        "text": "Thank you for your guidance.",
+        "hash": "4549c90ebdd5c9ef9a2f6e7fff87c1874222a0bbda4baa7d5823576f3d2b7450"
+    },
+    "2033": {
+        "text": "Nothing to worry about. Please wait for my return at the winner's circle.",
+        "hash": "5809bfb74d79def85b2f07044150600d448b13653e4970afe46b0ab64bd93c61"
+    },
+    "2034": {
+        "text": "If you know your enemy and know yourself, you will never be defeated in a hundred battles. You must reexamine yourselves and your opponent… now.",
+        "hash": "9af779ee7ab6de6450c65c9c0f4a73536bf0c1b53f89a329a038a296915a5696"
+    },
+    "2035": {
+        "text": "Thank you for your guidance.",
+        "hash": "4549c90ebdd5c9ef9a2f6e7fff87c1874222a0bbda4baa7d5823576f3d2b7450"
+    },
+    "10000": {
+        "text": "All for the sake of \"now\" - the brilliance of this moment. Let's engrave the determination that you and I have put into this trail.",
+        "hash": "f73df4949795fd530699d41dde18f0d6612db6114f9a485521a72de506b94063"
+    },
+    "10001": {
+        "text": "Would you like to stop by after practice? I was at a cafe yesterday with a friend… I wish we could share that moment together.",
+        "hash": "1d40be05a95984ad5c5a531c4a335dd1555c0c5e7d900975edb970a93a3d7284"
+    },
+    "10002": {
+        "text": "Your shoulders are so warm. With that perch, I feel like I can fly anywhere.",
+        "hash": "722064c1b5825eb47e10b5019be0e1375ec41e4d2ca771486b9c186ed6579717"
+    },
+    "10003": {
+        "text": "Oh, I have ink on my fingers… fufu, Actually, Yaeno and I had the first calligraphy session together… I'm a little sad to wash it off.",
+        "hash": "6d013367e957eb4b9f51493cb67ce44588e2299f350de81b42d030c61cbf067c"
+    },
+    "10004": {
+        "text": "Trainer, um… would you mind going out with me? …For practice, handing friendship chocolates….",
+        "hash": "6352b5b298cd65e6c7ce11770f3ecbc134f573813b269438cf3a867526a0ccdf"
+    },
+    "10005": {
+        "text": "I have prepared for you some homemade sweets that are my grandmother's specialties. I wanted you to know that warm taste.",
+        "hash": "eb1356940c0fd7bdc2febf3fa06fd67ebc2c18e4f908b3e14fd537a602ddcccf"
+    },
+    "10006": {
+        "text": "Only one day in a year. A momentary meeting between Orihime and Hikoboshi. Strong feelings can brilliance even for a moment.",
+        "hash": "227f4271ca693dc79e9144b22a8a0d098c503d13507fbe7abc9375c3c161810b"
+    },
+    "10007": {
+        "text": "Can't we give out candy to real ghosts too? Their passion, their will… I would love to hear what they have to say.",
+        "hash": "e1987fbac3ae171c7c72b9b77fb86d9a70fb0f39575f9c7ecd52b68d0602c4ec"
+    },
+    "10008": {
+        "text": "Santa Claus from the dormitory is coming to our room tonight. What kind of tea should we prepare?",
+        "hash": "8bef6d0259da50a459b99c88128ff9dc79026859311311699180ebb782bea6a4"
+    },
+    "10009": {
+        "text": "Why don't you come and see the tree with me? The glass star will shine brightly in the sky, it must be really beautiful.",
+        "hash": "a6f72c2c4e16c1fef07dc79d1ba0e072a645cf13fee0f0639d5982e8d1556c6f"
+    },
+    "10010": {
+        "text": "I look forward to seeing everyone's New Year's greeting cards every year. I also have to express my gratitude for the year… one by one, carefully.",
+        "hash": "18b2535f05950fdb41b0e2ebad97951ab3ef8f113be640a2e3dbc913fd782f10"
+    },
+    "10011": {
+        "text": "Happy Birthday and best wishes to you and your family. Sleep is the basis of health… I will give you Pillow recommendation later.",
+        "hash": "59d0eafb49fb0a0607437b8778228014ce5668d7ab17e5dc4e1ffdea81770f5a"
+    },
+    "10012": {
+        "text": "Let's head over to the Mejiro house. We've put a lot of effort into preparing for your birthday party♪",
+        "hash": "ea5bb41b66ed4cf6b1ce1a95e57433b44fccd647a4dc2e88eafcc7031d884bb9"
+    },
+    "10013": {
+        "text": "Chiyono o has been so restless since this morning… Hehe ♪… this is one of the joys of birthdays, isn't it?",
+        "hash": "1edecd2f8a59d111dd3609fc89bfdf34f0f23b19facd0b1009d175941d925a74"
+    },
+    "10014": {
+        "text": "Would you like to take a detour today? Since it's my birthday, I'd like to ask you to escort me♪",
+        "hash": "cfc749747743b0e096e8382cda81907e8ebc207c475700c705c2df0aaf555665"
+    },
+    "10015": {
+        "text": "Oh, I think there is an announcement. It may be urgent news, so why don't you take a look at it?",
+        "hash": "9dfae0fec38b6bfa7ce4502c82a7c145e89db429847896437a854aeade89d1df"
+    },
+    "10016": {
+        "text": "You have received a present. Fufu… It's also nice to spend some time thinking about what's inside.",
+        "hash": "ae43a908b191ea507e760348fb3e73970105136a772c7b187bbe0b14ca0e018f"
+    },
+    "10017": {
+        "text": "Congratulations on accomplishing the mission. This small accumulation will be the foundation for a great achievement.",
+        "hash": "0fceb5b6667de9ca79279102c3ef1915338ebbcaadbb0262e568319faa8012ab"
+    },
+    "10018": {
+        "text": "I see that the event will be starting soon. I wish I could help with preparations.",
+        "hash": "9a75aa01791a88f280cbc3849b06b531fad5173b94405c448cc2b5b61d0ba2ab"
+    },
+    "10019": {
+        "text": "Would you like to take a peek at the event? Limited time… In other words, something you can only enjoy now, so we can't miss it♪",
+        "hash": "ce2ec043ca4112d72274410b3618a912c81d33ad3262b72fd419ff00614d53fe"
+    },
+    "10021": {
+        "text": "It seems that the level of Umamusume Directory has increased.",
+        "hash": "9254180c93b9126cc72049eb47768c9ebc3b6037a532a6813fd012ba52ccfcae"
+    },
+    "20000": {
+        "text": "…a little unstable, but… no problem. I'm used to this kind of thing.",
+        "hash": "63c356a004e17f1716ec97050a57bc89b2f25e1782ef3a090e0ee8b2dc6de3ba"
+    },
+    "20001": {
+        "text": "I must not be weak… I have to endure.",
+        "hash": "41bd5f7ea8124bb654d8bad02c0ce09cb4b53d910a2dbba3625fd4bda864d484"
+    },
+    "20002": {
+        "text": "I don't know why, but I feel like I can run anywhere now. …No, I want to run. Beyond the limit…!",
+        "hash": "25fba57094284c3a2cfc4f40c4a55d76808288652cb6786129e886ed1ad80467"
+    },
+    "20003": {
+        "text": "Every minute, every second, every moment… I feel that I am able to focus on the details. If this is the case, I'm sure…",
+        "hash": "2a4b08d7dc5236383be79753715a6d2dca49ac77322090cb3355ce8f06d75fce"
+    },
+    "20004": {
+        "text": "One, two, three… phew. Temperature, heart rate, and muscles are all good. What shall we do today?",
+        "hash": "53079e50ea112bf43e2102ff3cdb891b1e152af010d4e61e3e09fb518ed16c7f"
+    },
+    "20005": {
+        "text": "Legs are in great shape. I can train as hard as I can… That alone is unbearably exhilarating.",
+        "hash": "2509114505604c8a89d4b3b8c4c76c8f116a90b7081f8bb89f4cf0bf76ebdef7"
+    },
+    "20006": {
+        "text": "\"As usual\" day, was the best I could do… but now I have to aim higher.",
+        "hash": "cd607e457ba64d286a0af0fb8baf7dc5d0f725bb4bf90e2d124c353b13198c78"
+    },
+    "20007": {
+        "text": "Let's cherish every moment… Let's keep in mind to train carefully.",
+        "hash": "afb7751037abf4ec872c7c5119f10f2b5072e0d8529d8392261cbab76862bd50"
+    },
+    "20008": {
+        "text": "My steps are heavy… but I can't afford to give up at this level. Believe in the training you have been accumulating…",
+        "hash": "adaf518e3e6963e13e5d0da42b7a7b68b00f115a672dfe5b7014614e7592cc97"
+    },
+    "20009": {
+        "text": "Well… there are days like this, aren't there? First of all, take your time… why don't you have a cup of tea and relax?",
+        "hash": "af3d62eabf120c44faf5687c585face28917419383a2e2675945738ff6dffefc"
+    },
+    "20010": {
+        "text": "Trainer-san… today I think we need to take a comprehensive look… I wonder if it's necessary to revise the training menu…",
+        "hash": "d58b0b012f6b4adbae1fb6b957de2c6e17e24e3b57cff4187ab87e4abf6f60fd"
+    },
+    "20011": {
+        "text": "I wonder if I will be able to leave a living trace of my life as I am now. No, I must not rush. Take a deep breath… calm down, take a deep breath…",
+        "hash": "adb7e23cea904f67bd8e700ed325ae4d09d5498307a44d5f90878015ac250749"
+    },
+    "20021": {
+        "text": "Haste makes waste. …Is this really the time to be reckless?",
+        "hash": "28bcc6fe6b0e0c7e4e4d89d195ecd892ae8e463652bd46f6dc497a4473e3dca5"
+    },
+    "20022": {
+        "text": "There is a difference between preparedness and recklessness. What will we gain by pushing ourselves any further?",
+        "hash": "5e32499d8ea7cf166ba6e3360273f0c78b509177134fe1dd1fc420f9b8f91358"
+    },
+    "20023": {
+        "text": "Just moving forward, forward. Everything I do is for that.",
+        "hash": "d61457347c551fc08d3dddad3b8d89564a85bb35eadfd616acaca0116b60fd36"
+    },
+    "20024": {
+        "text": "Please take a look. My best run, my best brilliance…",
+        "hash": "82ff232ce133023ee751f794eb6b0814d43957196ec781849beaeb691170790f"
+    },
+    "20025": {
+        "text": "If you know your enemy and know yourself, you will never be defeated in a hundred battles. You must reexamine yourselves and your opponent… now.",
+        "hash": "9af779ee7ab6de6450c65c9c0f4a73536bf0c1b53f89a329a038a296915a5696"
+    },
+    "20026": {
+        "text": "Long study, long training. All of them are for this moment.",
+        "hash": "f24c2aae1defb96c84354eccf3243631bd5c7156ea2e1ece8ee71381a4b1484e"
+    },
+    "20027": {
+        "text": "This exhilaration… I wonder if the greats of the past felt the same way.",
+        "hash": "7c018826fa35c391aaeaf016b14a8bc04b02d9f2fac9a9282a239cdc5f04f480"
+    },
+    "20028": {
+        "text": "Nothing to worry about. Please wait for my return at the winner's circle.",
+        "hash": "5809bfb74d79def85b2f07044150600d448b13653e4970afe46b0ab64bd93c61"
+    },
+    "20029": {
+        "text": "All that remains is to do my best as usual. I will show you who I am now.",
+        "hash": "6a606b5cff26def5628c9b8dc96d08e54d425ce4580c043e0bca4a4f05d3f8c0"
+    },
+    "20030": {
+        "text": "No negative factors… Phew, that's alone more than enough for me.",
+        "hash": "647875c5586436ac7c2dbdf56c8ee73dc0a136d55414c80bce99d7e569bd565a"
+    },
+    "20031": {
+        "text": "Carefully, one at a time. Believe in the fruits of our past efforts. …I will go.",
+        "hash": "520bc1d456979c8864d7641468f30cfde6af256b7fb9c3d0049713793c2eca50"
+    },
+    "20032": {
+        "text": "Focus… focus… It's okay, this level of discomfort… is something I've been through many times.",
+        "hash": "e9811964b22a98fe8987ed508484b9650667675059183cd416d0db1f45f0a7a1"
+    },
+    "20033": {
+        "text": "There is no perfect time. That's racing. Let's overcome this wall… together.",
+        "hash": "6caa25ddafb8cc1b51f1c16fca9acb93eab6f656916e16b30363490f5c82f09d"
+    },
+    "20034": {
+        "text": "If it is in times of adversity that a person's true nature is revealed, then [now] is the time to show this resolve.",
+        "hash": "2a2c4f7dbf3154d7c5b5fb63a1246a113776b8ac064be8c5c460b17611067021"
+    },
+    "20035": {
+        "text": "I will not whine. I will do what I can do now, carefully, one thing at a time…",
+        "hash": "6a0fa3376f5baa6e7439f8bb37d9b23718d9038c51c65fd86098b3ce54e25847"
+    },
+    "20036": {
+        "text": "Be brave, be daring. We will overcome this adversity.",
+        "hash": "abad211280a4801946ea86cbf3a8a8865ac01fb8417359c36f49d30dc276c44c"
+    },
+    "20037": {
+        "text": "This is not the place to end it. In order to leave proof of our life… we can't let this end…!",
+        "hash": "5346acf2ebf5d163302f256c839e9ec6ca779da956f404d1a570a4df2003ee25"
+    },
+    "20038": {
+        "text": "I shall go",
+        "hash": "03011755764f4dc18a82b8f27b8208a60dbd5fbaf0db926af162b1959c2cd4c0"
+    },
+    "20039": {
+        "text": "Begin.",
+        "hash": "3a33be5d182910b07f33d048e963b267fea02b8cc4bafdbc2bfce1f5574ee935"
+    },
+    "20040": {
+        "text": "Understood.",
+        "hash": "ab6ba1f659c6e35fe52cd5ab20ac40bfe98e7c674788f711e9877e68302e8b1b"
+    },
+    "20041": {
+        "text": "I see!",
+        "hash": "869b94bab60c8f4ba8e2580f680aa2083960e4db19523394b23122b33aa78eea"
+    },
+    "20042": {
+        "text": "Ah!",
+        "hash": "7827482f418714c3cf78be8c44fa4a859003a367c2e6672b60fb610e6de86abc"
+    },
+    "20043": {
+        "text": "Unworthy…",
+        "hash": "1a6eb2a82cf80df809cf8891b91776220ed7d451aa3f770502b5868b3314dd29"
+    },
+    "20046": {
+        "text": "Shall we go?",
+        "hash": "0bc4816ae819622873aab7d9d68134060f7aecf2031ee98a538fd17018c2d45c"
+    },
+    "20047": {
+        "text": "Comfortable ♪",
+        "hash": "7452fbcdae2aaa975beae268bed2dd100e85463de8c259f1eccd1daf58d1f754"
+    },
+    "20049": {
+        "text": "Thank you for your resolve.",
+        "hash": "386ec178382613e475a85737e1abc75cd293c59e5af7e738a34196ca02bb656e"
+    },
+    "20050": {
+        "text": "Thank you for your guidance.",
+        "hash": "4549c90ebdd5c9ef9a2f6e7fff87c1874222a0bbda4baa7d5823576f3d2b7450"
+    },
+    "20051": {
+        "text": "Would you like to join us?",
+        "hash": "9398e860e0b4aa597041d117c2bac6a88b61ec85d143bf96f2a12a6e34400828"
+    },
+    "23015": {
+        "text": "Begin.",
+        "hash": "3a33be5d182910b07f33d048e963b267fea02b8cc4bafdbc2bfce1f5574ee935"
+    },
+    "30000": {
+        "text": "One more step, just ahead… the brilliance we're aiming for!",
+        "hash": "4850e8686ea8a04dee31800445b35c7c78e66d8d903c2fe1b1325e5dd4aeb9de"
+    },
+    "30001": {
+        "text": "Next time, we'll do better than this…!",
+        "hash": "589ddea167f5ac6687b3c593d0f8e0c9547f1bed5c887d9d7610910002fa1adc"
+    },
+    "30002": {
+        "text": "The result is called a good fight, but I am not satisfied…",
+        "hash": "c762926b6073656cea81e0f0a462500a29538cae1d7c4e48b9379e52929553a6"
+    },
+    "30003": {
+        "text": "…I have to train again from scratch.",
+        "hash": "64d4619eef328b4eb3f0b4d8903f00ae1d787bb67c1c123ed8fb7bdc0a49317f"
+    },
+    "30004": {
+        "text": "I engrave one proof of my life here.",
+        "hash": "aa34df7535b4b56304707309bc625821d3b2c4ac432b307e33b82b78410fb7ef"
+    },
+    "30005": {
+        "text": "The brilliance of the glass illuminated my path.",
+        "hash": "9cf2b92b389e5e411466fad693a2deab7fcbd9344b4f04dfeda61fd572dc462a"
+    },
+    "30007": {
+        "text": "The brilliance of the glass illuminated my path.",
+        "hash": "9cf2b92b389e5e411466fad693a2deab7fcbd9344b4f04dfeda61fd572dc462a"
+    },
+    "31000": {
+        "text": "Let's go.",
+        "hash": "550ae0cca8ce02f21c817336ea537feb3001ba9442ddf10f4fb8bbc3e372fb1b"
+    },
+    "40000": {
+        "text": "Wings of glass, let them shine!",
+        "hash": "1da744988f8c58b45eba945c5c206df413e8c2d7f6ee38121ede5d6a2b154b37"
+    },
+    "40001": {
+        "text": "Ephemeral body of glass, soar high into the sky. For your body shines brighter than anyone else!",
+        "hash": "990c4f1d9d3ac7a74e927efad52badf01508fe5eddd8a738477d1c3bbd806c71"
+    },
+    "60000": {
+        "text": "We express our gratitude to all of you in our songs.",
+        "hash": "bb336824cfcd1c6ab3e2dee2f93c32665e904a0c7f7fbc3e6206a58c1cb7825d"
+    },
+    "60001": {
+        "text": "I will show you, My brilliance on the stage.",
+        "hash": "a55f08ea7ddeccf34370b412f42967112c3124a02a71495ac7d33125a14f9265"
+    },
+    "70000": {
+        "text": "The best of the moment, together…",
+        "hash": "10824fc17b99a262c3284cc4c3bb1ab612d819b01e986108f5bcaa792359bd73"
+    },
+    "70001": {
+        "text": "You have found a radiance in me. I am now very proud of that encounter.",
+        "hash": "e9da24476d4f3f492918d4efcf962f44ab796ee99533742167601e9c5c623fe3"
+    },
+    "70004": {
+        "text": "I feel the history of the school… it makes me tense.",
+        "hash": "2d080204413cd155a78708b9b599875402225f0ab0359ff52b1e54c6b7805d56"
+    },
+    "70008": {
+        "text": "I can move my legs easily… I think I can dance the best.",
+        "hash": "b822a8b7adaddad3410dca1a816b9eb9a40fa0b929ed2e00c73e36244c92b0c0"
+    },
+    "70009": {
+        "text": "This brooch gives me courage.",
+        "hash": "ea9c2860174b7023ff2a5e8c64f9427c3c91044bead3cf6048b1ed392974d0a8"
+    },
+    "70010": {
+        "text": "Let's straighten up our appearance and stand up straight.",
+        "hash": "6bd55ed9b9f12a838dcc6d7634f6a6c3ee29d1d5997d759ecbb41a4df45541d0"
+    },
+    "70014": {
+        "text": "The costume I dreamed of… I'll make it stand out in all its splendor.",
+        "hash": "b5a502632e8b1f02a65e01cbcf6f38229ded3cc69924bb68eef2a1de764fb666"
+    },
+    "70015": {
+        "text": "The contrast between black and white. To make the brilliance stand out even more…",
+        "hash": "24456500e05410677874b43fc2f1adb9683eb35b221b195bd89b32075d3ec63f"
+    },
+    "70018": {
+        "text": "Phew, that's lovely.",
+        "hash": "dc0c784083a059c5ce9f336d48a527f464bf01b317641480503ca0349d8f5547"
+    },
+    "70019": {
+        "text": "This costume will make me shine brighter.",
+        "hash": "b185db340b727712891efbe2a9fcb0be56591f6ddc1d29f793c562762de7bc16"
+    },
+    "71004": {
+        "text": "I feel the history of the school… it makes me tense.",
+        "hash": "2d080204413cd155a78708b9b599875402225f0ab0359ff52b1e54c6b7805d56"
+    },
+    "71008": {
+        "text": "I can move my legs easily… I think I can dance the best.",
+        "hash": "b822a8b7adaddad3410dca1a816b9eb9a40fa0b929ed2e00c73e36244c92b0c0"
+    },
+    "71009": {
+        "text": "This brooch gives me courage.",
+        "hash": "ea9c2860174b7023ff2a5e8c64f9427c3c91044bead3cf6048b1ed392974d0a8"
+    },
+    "71010": {
+        "text": "Let's straighten up our appearance and stand up straight.",
+        "hash": "6bd55ed9b9f12a838dcc6d7634f6a6c3ee29d1d5997d759ecbb41a4df45541d0"
+    },
+    "71014": {
+        "text": "The costume I dreamed of… I'll make it stand out in all its splendor.",
+        "hash": "b5a502632e8b1f02a65e01cbcf6f38229ded3cc69924bb68eef2a1de764fb666"
+    },
+    "71015": {
+        "text": "The contrast between black and white. To make the brilliance stand out even more…",
+        "hash": "24456500e05410677874b43fc2f1adb9683eb35b221b195bd89b32075d3ec63f"
+    },
+    "71018": {
+        "text": "Phew, that's lovely.",
+        "hash": "dc0c784083a059c5ce9f336d48a527f464bf01b317641480503ca0349d8f5547"
+    },
+    "71019": {
+        "text": "This costume will make me shine brighter.",
+        "hash": "b185db340b727712891efbe2a9fcb0be56591f6ddc1d29f793c562762de7bc16"
+    },
+    "80000": {
+        "text": "Good work.",
+        "hash": "ba6d317ce3a2bfaf3d87ba426113b0a3498828395ba8d093265eb3539b78c491"
+    },
+    "90000": {
+        "text": "Good morning. If you add honey to the morning tea, it's a pleasant way to start the day.",
+        "hash": "cb4747dc32288638f465931b6a7c8a234fd1c250678698d14eb7e38be5a6267a"
+    },
+    "90001": {
+        "text": "Oh, you still look a little sleepy. If you need it, may I offer you a spritz of awakening aroma?",
+        "hash": "964625e382f84ad494d61c761859650dd4dc18d093b7a325952322e4172854de"
+    },
+    "90002": {
+        "text": "During lunch break, I had tea with the infirmary doctor. Since I'm a regular visitor, I have to express my gratitude on a regular basis.",
+        "hash": "1e2aa4a007e0de038c164d3b216840762b5e089e7a4097cf72933b041b04d52e"
+    },
+    "90003": {
+        "text": "Huddling with friends, steamy food… the cafeteria at lunchtime is always an exciting place to be, no matter how many times you visit.",
+        "hash": "efcd36d50da38040608a003d09a16ae42610461ab196203da1767304c3a31d31"
+    },
+    "90004": {
+        "text": "Trainer, pushing yourself… is no-no ! How about this? This is a countermeasure to prevent staying up late at night directly from Creek-san.",
+        "hash": "20eee5ea09201d7db6aa7f35f38d5c04ebf8a2212bae51c7c5ec7dc0b2850156"
+    },
+    "90005": {
+        "text": "On a quiet night like this, I feel like going for a walk. Since there is no sun, I think I can stretch my wings a little more… Would you like to join me?",
+        "hash": "712f5c76c64b6b7f50056656ee41ccd1322f50f2ff2a10f88c7a5bfb7557b767"
+    },
+    "90006": {
+        "text": "The profiles of the new students are all shining with dreams. Fufu… I can't help but squint.",
+        "hash": "4106cd1116b52a3596aa66b31fc597631345e5e2d94a23a548ed648f4a8b6c01"
+    },
+    "90007": {
+        "text": "I just met a Palmer with a bouquet of sunflowers… her smile was just like a sunflower♪",
+        "hash": "435ab6b636ea90e0ac0d06cbf16379d5bd9a9863d70209d15e348aa61aa83fcc"
+    },
+    "90008": {
+        "text": "I know I shouldn't stay up late, but… I just want to blame it on the season and flip through the pages.",
+        "hash": "6226fd2af3bb70a32a330a8d3d8ff4c377741f1abdd9ada613cf87aa60db0655"
+    },
+    "90009": {
+        "text": "Potage for breakfast reminded me of the taste of my grandma's homemade warm soup… on a cold day…",
+        "hash": "05cf59b1b0f42fc331f628e1985c2d420ad5f0a3762ca1bb1e0a797a879f2cee"
+    },
+    "90020": {
+        "text": "Happy Valentine's Day",
+        "hash": "205aa64f55aa5b5868c584cadc0b5dcd8e05b84b0a76c8efb1da86986277c562"
+    },
+    "90021": {
+        "text": "Happy Valentine's Day",
+        "hash": "205aa64f55aa5b5868c584cadc0b5dcd8e05b84b0a76c8efb1da86986277c562"
+    },
+    "91000": {
+        "text": "The other day, I found a picture of my sister when she was a little girl. She looked dignified, beautiful and dazzling despite her young age.",
+        "hash": "9d617fd0774ae81617d2c10fbb427bd5960c98b16c77a8052b4f7bdfc465ba62"
+    },
+    "91001": {
+        "text": "Did you know? Tamamo-san's bargaining and negotiation skills… the glimpse of righteousness person. It was like watching rakugo.",
+        "hash": "0c9834893cae8858090bdab0285260c47a9605d6dbbbca5db5650d6d31713d46"
+    },
+    "91002": {
+        "text": "The sound of breaking glass… why is it so peculiar? That high-pitched sound… I just can't get used to it.",
+        "hash": "650813271ede7377cbcedd731e5ddd2f5c4a9e53db8125c626881813679d2139"
+    },
+    "91003": {
+        "text": "I just heard some happy news from Helios. She said \"A new boba store opened weiii★\". Fufu, my detour routes are increasing ♪",
+        "hash": "038301c80992b2011eb6fcc44d789dcbe701fdd4df2d7048bb11c4203dea736f"
+    },
+    "91004": {
+        "text": "Actually, I'm not sure what to give as a thank-you gift to the Mejiro doctor … should I get a work tool… Maybe a needle?",
+        "hash": "107fea91388b928106c6787477832e91ea611a6931a6cbf9878314488133e6e3"
+    },
+    "91005": {
+        "text": "The belly button revealing clothes are fresh. Gorgeous costumes and intense dancing… Hehe, even my heart is dancing.",
+        "hash": "702ac0ebcbd8a9fdb99dd99d001b9ac9317ff1cacfa18becb525148e9e7186bf"
+    },
+    "91006": {
+        "text": "That costume I dreamed of in my hospital room, now… I am wearing it like this. …I wish I could show it to the me of that day.",
+        "hash": "c5da6e79d72a435118cfd65b8e8d6d2bf798358dade96f6baa49a37daf9aa344"
+    },
+    "91007": {
+        "text": "The brooch on my chest is based on a necklace my father gave me… When I put my hand on it, I feel at peace.",
+        "hash": "baf037128240722c4f94b314ede122c23c47c21839f610a6f34ad66710380b3b"
+    },
+    "91008": {
+        "text": "Elegant… the burden on the body was also calculated… the very best of race outfit. I must show my gratitude by winning.",
+        "hash": "f6e22a3d1922b394e7d16dcbaea4e6880aaa4c585d3c078748508cf25067ef3c"
+    },
+    "91009": {
+        "text": "Every morning, when I shake Chiyono to wake her up, it is another happy moment for me.",
+        "hash": "b4a33651c65fc625045207253369f4d21c9af8155da474e4b89332c15cabf086"
+    },
+    "91010": {
+        "text": "I am always amazed at the way Oguri-san eat. Thanks to her, I too, eat more and more.",
+        "hash": "d6810c742b0db7047a7546e3b569e5f1bcd940fc6f45cf84211bc4732f1fae19"
+    },
+    "91011": {
+        "text": "I had an evening tea party with Tachyon-san, and the tea was glowing… Fuf, what an amazing experience♪",
+        "hash": "dc72db9924cd84d2eec63d4cbab0924ba34aec9632fea12d46bf9bc9808e81e1"
+    },
+    "91012": {
+        "text": "When I told them that the yaezakura trees are beautiful…… Fufu, my two schoolmates' cheeks turned pink.",
+        "hash": "36dae251e72afcfc288bc4e60856f8d602cb7d5bced06be5496b01fb3a0e9325"
+    },
+    "91013": {
+        "text": "If you like, why don't we go on our next holiday to the summer resort of Mejiro? There is nothing like reading a book by the lake there.",
+        "hash": "3baf9d341d4d3eaaf27420a52d65148d6fd3f8fa76a1372c58173793ae5c2436"
+    },
+    "91014": {
+        "text": "Even though the autumn leaves is short, we celebrate the moment with a burning sensation. …It is a beauty that makes you fall in love with it.",
+        "hash": "d5c4e6968377c0b3a14469297596082b989c280c369b5c02ade9c837e5f4cdd5"
+    },
+    "91015": {
+        "text": "Fufu. Every time winter comes, I remember. I was encouraged to put on layer upon layer of clothing… and they called me a Mejiro snowman♪",
+        "hash": "99984ee6044a2b5056f1fc834536b7d3fcc24ef8fa4ad8b8bab60db06ba0338a"
+    },
+    "92000": {
+        "text": "These legs called [glass] will not shatter so easily. Please accept this resolve.",
+        "hash": "44edb486a08169433a5d57ce62068816ac378c907eafb83ab4977852af0170be"
+    },
+    "92001": {
+        "text": "Stretching is slow and careful. This accumulation is also my weapon.",
+        "hash": "df4366e991d2d607033773007910fa389d06e418367aa724762c7817d7296377"
+    },
+    "92002": {
+        "text": "With my feet, I tread the earth. With my legs, I run. That alone is enough to make my heart beat.",
+        "hash": "95c807f160ab0c1c95365494a8ff014e32e01600f3be032d50f24602f162b116"
+    },
+    "92003": {
+        "text": "Cherish this moment. Concentrate on every second and make this day the best it can be.",
+        "hash": "d2c5e0c36a5877f236c09227ec5132946dd5ee0747e3c36ff9d968ccd3620523"
+    },
+    "92005": {
+        "text": "Thank you for your daily menus that take into account my workloads. I will respond with results. I promise.",
+        "hash": "2a24fc0fb8944c0d4d75149d6ee0fa2ba74742239bb260268f9fb55b005fb5a2"
+    },
+    "92006": {
+        "text": "I am beginning to see a little of the [brilliance] within me. This radiance will surely illuminate our present.",
+        "hash": "3a5b37586fb61d0a12e9649936effccdff91e9045fb12d96a4e9bb4e5ea885b2"
+    },
+    "92007": {
+        "text": "The road we walked together is now my pride. What lies ahead of us from moment by moment, surely is…",
+        "hash": "0fdf1a9f27758fc266b1e01dc2273884e0a3df2186ce316c3017d03362949c4d"
+    },
+    "92011": {
+        "text": "It's the perfect environment for efficient training. This summer, let's shine hotter than the sun.",
+        "hash": "fb7047a090de31f006a9a1d50536e903161440332854f171ccdc15ea012e853a"
+    },
+    "93000": {
+        "text": "I dedicate this most precious brilliance to you.",
+        "hash": "c9ff5b533a26b29e7b2b04e9af852192d70db42d66621f9e973f4a7f883e1c87"
+    },
+    "93001": {
+        "text": "The glass legs brought us happiness.",
+        "hash": "f68fedbce8eade396958d45da4c58c2f181d5eb8baa4b7aa0a0e2b4794b7a69e"
+    },
+    "95000": {
+        "text": "We will not retreat. We are still moving forward.",
+        "hash": "8887f54244c7b5027afeb7d89544d16572e160298ebd72e72cee969c026bb94a"
+    },
+    "95001": {
+        "text": "The brilliance of this moment… even stronger…!",
+        "hash": "6f9f17a9cb72aa967d012cf0bfc612e25635684b24d4529ccbf57b95dd6ee148"
+    },
+    "95003": {
+        "text": "Yes, I'm Mejiro Ardan.",
+        "hash": "6b663371745a071fbf6a4289cdf97626162300bc1174929d13c179efef9d6640"
+    },
+    "95004": {
+        "text": "This [now]. For this moment of brilliance―!",
+        "hash": "a43c2d1fa84ac2000f02da59350fbbc6dd723173cf62c803c51afa3fbd149a06"
+    },
+    "95005": {
+        "text": "I hope I can be of further assistance.",
+        "hash": "b605f66bbff394b5ac1ceb7d9e59e27b6995f9df6bef683af45b012d3432418a"
+    },
+    "95006": {
+        "text": "I never knew I had such power…",
+        "hash": "9e0828a25137a0f03d988f85fcc96ec182b855614c2b7b790f81b934353e7d68"
+    },
+    "110000": {
+        "text": "What kind of training should we do?",
+        "hash": "8c09b0c3bcdcda7d6e4bfcc79f231624a0cef5088a150b90f7e591772c24306e"
+    },
+    "110001": {
+        "text": "Let's look back at history together.",
+        "hash": "defe97c3f58a72142cc380804dd6d0ed87072b5ee7631879c5e6271e41cbd291"
+    },
+    "110002": {
+        "text": "Are you entering a race?",
+        "hash": "01ec0bd62f5a9be842f63a8c47abccdaa0c14bd488f3bf7c5be222d0f68e5f87"
+    },
+    "120000": {
+        "text": "The brilliance… grew… stronger…!",
+        "hash": "87d2107aaefc0e06b69ad9c83633c4a69ca12a59d6748e30f6d36d5bfde80cba"
+    },
+    "140000": {
+        "text": "Let's have fun!",
+        "hash": "74d3837917a888badc1d0b37c476f1be4a967937af12d0c6ce464c5662fb4b10"
+    },
+    "140001": {
+        "text": "Excellent.",
+        "hash": "ab9d4bab0c128fe2f794d6fa8ae55ce5ae6ea1ce8a114bbef0c6f07664640697"
+    },
+    "140002": {
+        "text": "Oh my…",
+        "hash": "6de85db6e11885cf2c55e3c3167586d2922978d4d504d7855954052c0bcc08a6"
+    },
+    "140003": {
+        "text": "Well done♪",
+        "hash": "3a1816980cafe3f8b3a43152fd16307e0b528ef240c22b7ce4dfed386f54ace1"
+    },
+    "140004": {
+        "text": "Fufu, it's adorable.",
+        "hash": "a3e4ff07d09bbdff41a2f4b5cb7c95c3043c35b39f9c9cf9c05f864e80f1c160"
+    },
+    "140005": {
+        "text": "Thank you for your hard work.",
+        "hash": "7dc6f1052886d7cd189f99f65663fde3853e23da2d9034aefba2ea0f8c194c06"
+    },
+    "140006": {
+        "text": "Well done♪",
+        "hash": "3a1816980cafe3f8b3a43152fd16307e0b528ef240c22b7ce4dfed386f54ace1"
+    },
+    "140007": {
+        "text": "Fufu, it's adorable.",
+        "hash": "a3e4ff07d09bbdff41a2f4b5cb7c95c3043c35b39f9c9cf9c05f864e80f1c160"
+    },
+    "140008": {
+        "text": "Phew.",
+        "hash": "dbc78ca5d65302a8b38bec657661270c58ae9fac943c1c718a7fa71c2d75ec30"
+    },
+    "140009": {
+        "text": "Hmm.",
+        "hash": "9ca17ef88ffa43250463c9310b566294cb0518dd986bdcfe3f3a1f06e4305d37"
+    },
+    "140010": {
+        "text": "Yes.",
+        "hash": "4cdf426c11016bcf36aa3d52bedda8105a2b628163da1e38d75650958d536a82"
+    },
+    "140011": {
+        "text": "Wonderful…!",
+        "hash": "02d9c5e009dea97cbdf2bcf407fb85bd0c6f1eea83837126c2e852e7c623abe2"
+    },
+    "140012": {
+        "text": "Well!",
+        "hash": "35b6f544479743b55fb3fa721ceed98793246f9f9e0c29545045350b7ab865fb"
+    },
+    "140013": {
+        "text": "I am thrilled.",
+        "hash": "fd869af214d353c70b24c97d2f9b01502f71c7be01860f954200d504ef73e58a"
+    },
+    "140014": {
+        "text": "Ah…",
+        "hash": "3a21ce840bf9ddc986be8e888c7b451979daa2ab024ea08e5cc2c77b4a08b12e"
+    },
+    "140015": {
+        "text": "Wow.",
+        "hash": "d590146d751c94f45e82901d0c294c1e2622cb101c25c94f48aa099f177e645d"
+    },
+    "140016": {
+        "text": "Um, trainer?",
+        "hash": "1786cfa67126424b411c3e35b5538c0983ba3e01307c6116cd99631114f93071"
+    },
+    "140017": {
+        "text": "Wow.",
+        "hash": "66cef29e16c797b21d760d2cb7f35d714b173b25b3eabdd3f89d883e32ecfb9c"
+    },
+    "140018": {
+        "text": "Oh, oh…",
+        "hash": "f7c992bb53db2a387b298b4a2b67f7b396dc77872083bd715d5729aeeb7aeb26"
+    },
+    "400005": {
+        "text": "I have not had a lot of experience working with people like this on a single challenge, so… it's a lot of work, but it's a lot of fun.",
+        "hash": "7bfb1a8789026329e70686976faf104be44d24cf2a3748a2655aafb50f0a903d"
+    },
+    "400011": {
+        "text": "Chiyono O. sent me a picture of me at the ceremony… Hehe, it's a little embarrassing.",
+        "hash": "cf9ba128ed40a911e5631c7940afae3d7df28fa94904f11978cd6379af444287"
+    },
+    "400012": {
+        "text": "The event mission is here, so let's make the most of each and every day.",
+        "hash": "006ed6d817b9076e6438e4ef7d37a071a50e59b54f9829534f25396fbafdb7fd"
+    },
+    "400013": {
+        "text": "Have you forgotten anything? Let's make sure we don't miss anything and connect it to the future.",
+        "hash": "30b84cc844b8e05c7107747e7cb101b8fc675dd8b1505aae2c939ec1a12ef762"
+    },
+    "410000": {
+        "text": "Let's go!",
+        "hash": "bc24e4958c10ca47d90d3974e00497233de3b5a50fee9af3aafe684afd8fb3e3"
+    },
+    "410001": {
+        "text": "Splendid work!",
+        "hash": "71fe93f577cde2476c1cc9ea4e671a3c94f880fd16ce1f766af5b1d01e477741"
+    },
+    "410002": {
+        "text": "Amazing!",
+        "hash": "0cf418be3057747eba490712b7da3388b6b965f1c4296750cc8b6f56bcbba3d8"
+    },
+    "410003": {
+        "text": "Amazing!",
+        "hash": "0cf418be3057747eba490712b7da3388b6b965f1c4296750cc8b6f56bcbba3d8"
+    },
+    "410004": {
+        "text": "Mm-hm!",
+        "hash": "920781ae0c58eea94f0c089bf4c1924c13f04b26a28b067698f99465a1b32e4a"
+    },
+    "410005": {
+        "text": "Mm-hm!",
+        "hash": "920781ae0c58eea94f0c089bf4c1924c13f04b26a28b067698f99465a1b32e4a"
+    },
+    "410006": {
+        "text": "I'm in trouble…",
+        "hash": "2d30b83463189885059550fad2c80eb2086bf5893ec251ba35f99f0467efd164"
+    },
+    "410007": {
+        "text": "I'm in trouble…",
+        "hash": "2d30b83463189885059550fad2c80eb2086bf5893ec251ba35f99f0467efd164"
+    },
+    "410008": {
+        "text": "I'm in trouble…",
+        "hash": "2d30b83463189885059550fad2c80eb2086bf5893ec251ba35f99f0467efd164"
+    }
+}

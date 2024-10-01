@@ -1,6 +1,1826 @@
 {
+    "1": {
+        "text": "<size=22>Short-distance shoes used to raise Awakening Lv. \\n</size>",
+        "hash": "40aaa7a2e502389c4871e651778d4fc9e9fc8867fd33966249f0d8e3bf8bf081"
+    },
+    "4": {
+        "text": "<size=22>Mile shoes used to raise Awakening Lv.\\n</size>",
+        "hash": "382a981fa0c56f957cb17733a8f547e667a85a61ddd8f8e17f67c32f96b6a520"
+    },
+    "7": {
+        "text": "<size=22>Medium-distance shoes used to raise Awakening Lv.\\n</size>",
+        "hash": "968fab5ff497c63e390282e865c75319f971fb23bfa94b7cd9276fec96de050f"
+    },
+    "10": {
+        "text": "<size=22>Long-distance shoes used to raise Awakening Lv.\\n</size>",
+        "hash": "b123e406f9f5dfd48a24f0daa793a9b8606ce021948239dc9d7719b91d611111"
+    },
+    "13": {
+        "text": "<size=22>Dirt shoes used to raise Awakening Lv.\\n</size>",
+        "hash": "93a6870bc7804cce731dc094c055e022223b4d95380245d31ae5f9b71016b678"
+    },
+    "25": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "26": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "27": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "28": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "32": {
+        "text": "<size=22>A drink that restores 30 TP upon use.\\n</size>",
+        "hash": "d29e1210045489a56c991709bd0547dbcd17a5b7d4b5c040b17a43fd8055c1fa"
+    },
+    "34": {
+        "text": "<size=22>Carrot Jelly that restores 1 RP.\\n</size>",
+        "hash": "4507702bc0dcb3fc84ae2ae69ffd3eedcf321a990830ffc7bd229a290b5d105a"
+    },
+    "35": {
+        "text": "<size=22>For experienced trainers!\\nRestores 5 RP.\\n</size>",
+        "hash": "bb91c4e4a7f731332325c2e3141f3ac665d2737293696693f5dc057ab569aa51"
+    },
+    "41": {
+        "text": "<size=22>A character gacha pull ticket.\\nUsable at the Gacha menu.\\n</size>",
+        "hash": "54ffdfd07fbeff6ef8c24d1ef723784366dac401f5fc450a427a560fdf19709c"
+    },
+    "43": {
+        "text": "<size=22>Carrot-shaped jewelry with a rainbow shine.\\n</size>",
+        "hash": "c88f0e34571999f4c5c2a065e5a22fbcbdbcf2f0825352279596b865e72f11f2"
+    },
+    "44": {
+        "text": "<size=22>Glittering power from an Umamusume's dream.\\n</size>",
+        "hash": "5c5c18ab2e0d42d11d7473d248a3907c527870c4651fd3c51a971c5e813faab2"
+    },
+    "45": {
+        "text": "<size=22>Coins for the the roulette derby.\\nPlay events to get.\\n</size>",
+        "hash": "abfd3ed4ea4c204ff25e7bd9cb8bee904fc18a0d6c53b738e7b18203c4cb7225"
+    },
+    "48": {
+        "text": "<size=22>A silver horseshoe exchangeable for items in the shop.\\n</size>",
+        "hash": "84db3adda232fe720ba483ff65e3ddd8c45fa67cd4270be015991e5f7082b652"
+    },
+    "49": {
+        "text": "<size=22>A golden horseshoe exchangeable for items in the shop.\\n</size>",
+        "hash": "1ca004d1132f0183405aaf7b1f259a04e0cb2b6e8c9400b08d06bb62706c3297"
+    },
+    "50": {
+        "text": "<size=22>A rainbow horseshoe exchangeable for items in the shop.\\n</size>",
+        "hash": "ac1a1198d3e0c6c5bc657cd5e8d21b15a381667bb243fcbe8209ce40991a55f8"
+    },
+    "57": {
+        "text": "<size=22>A four-leafed clover exchangeable for items in the shop.\\n</size>",
+        "hash": "a9caf7a4c7397d0b53298b2d6b1d85df3dd28afa6b60d7b6b19a761ec4719a6f"
+    },
+    "58": {
+        "text": "<size=22>You can earn rewards by collecting these.\\n</size>",
+        "hash": "3dd87647be9870eeb6b8cca4996a7439a99dd768954d1577f8376e5b2ce3ee1d"
+    },
+    "59": {
+        "text": "<size=22>Can be used in many parts of Tracen Academy.\\n</size>",
+        "hash": "9757ff84605423a569397e74952b6460f6e4a28820da09ffa842cb3ec97d146f"
+    },
+    "60": {
+        "text": "<size=22>Makes analysis of opponent abilities possible.\\n</size>",
+        "hash": "4e21ced38b55282ba2e449650f6b80bab8a553e5fc6efa5f090069d41c2bbdf7"
+    },
+    "69": {
+        "text": "<size=22>G1 February Stakes victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "0168e6b2f63da49f9b100c87973700c4b27e2f0552637f319216d8ee171eb5bd"
+    },
+    "70": {
+        "text": "<size=22>G1 Takamatsunomiya Kinen victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "140131016cc85c31b33b81ac05967ca6df24f08aa0d1c3b110fa5a267b64b265"
+    },
+    "71": {
+        "text": "<size=22>G1 Osaka Hai victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "37f6b7c5c504e9ea9b6f1589f7c785f55325564967fefe9cf4b9dc7f6eee7726"
+    },
+    "72": {
+        "text": "<size=22>G1 Oka Sho victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "6f87e834acdf82f61895c526e8904e1c7a1d7357e9f0b9a949a5a3b2a9efdca2"
+    },
+    "73": {
+        "text": "<size=22>G1 Satsuki Sho victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "6bf61d573616f88ab32ac58926d6f896108b949db8a1f8ed82f9497d78304cb0"
+    },
+    "74": {
+        "text": "<size=22>G1 Tenno Sho (Spring) victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "724d0b5fd41ca7767f67af3040405c14a08a6b2e2d6637b744ca37d73eec82cf"
+    },
+    "75": {
+        "text": "<size=22>G1 NHK Mile Cup victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "08eda123bc4ce73887324b9f4c17f9f3668b8a61b1a3465dca44290f0b4a0957"
+    },
+    "76": {
+        "text": "<size=22>G1 Victoria Mile victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "ba6a0ae393aa1b2ce10a1a441f872f4b989626ddc95c8ef8580be27264745670"
+    },
+    "77": {
+        "text": "<size=22>G1 Oaks victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "5f5e5ac4b9c95c504d4810fe5cb60e2bd9418a5f09db4c0a25eeaec76c32b712"
+    },
+    "78": {
+        "text": "<size=22>G1 Japan Derby victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "bd97cd1c88552ba2f23fc20ca768a32b10346e13d3b48cdbb944b32428abd4d0"
+    },
+    "79": {
+        "text": "<size=22>G1 Yasuka Kinen victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "ab03e8c4f2dc19fba7f6a2758b36b7923b31158e51eb46602c6a4578a7106e86"
+    },
+    "80": {
+        "text": "<size=22>G1 Takarazuka Kinen victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "433a8e477a0f434a3d258a8bf66c1a3e7f3ba52883b05af2ca933cd0ee7bfffc"
+    },
+    "81": {
+        "text": "<size=22>G1 Sprinter victory proof.s Stakes.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "8878dcc9b86a8c85696c143ea621aa7b0f368252723fc7bda6a22c3b9e022b4c"
+    },
+    "82": {
+        "text": "<size=22>G1 Shuuka Sho victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "2e9fcb408b617a9d4416de4381dc595de8a08900369ac968f538aad0f1e1a8c1"
+    },
+    "83": {
+        "text": "<size=22>G1 Kikka Sho victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "b85d6ef8f4a4402c2105da83158603b76752e4ad1567fcb305947cb26de4cf1d"
+    },
+    "84": {
+        "text": "<size=22>G1 Tenno Sho (Autumn) victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "5fcd7bff80a798095629c0e3153e912433834b9cbe9339dd8bd6478da367100f"
+    },
+    "85": {
+        "text": "<size=22>G1 Mile CS victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "334b1a62769de1d2569b5c8a0d7b9d9790540eb9d8f9a5332500b408773ffa23"
+    },
+    "86": {
+        "text": "<size=22>G1 Queen Elizabeth II Cup victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "68a31b8c1ae1f0e5a7a314aa34c9acf3624dd84f93771baf6ef238125a5ebe97"
+    },
+    "87": {
+        "text": "<size=22>G1 Japan Cup victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "63d4719bfc940a362eaa0cd9fcd8375592f2eba31c16d3be937470e2cb61dfc5"
+    },
+    "88": {
+        "text": "<size=22>G1 Champions Cup victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "0964048e241523a7b0ba7e31b5873f2db54c5c5a2e2fc0c9fe47aeba803d3747"
+    },
+    "89": {
+        "text": "<size=22>G1 Hanshin JF victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "8594811de4a607af536d858aa4aef3bf46d418e560715aef824654e533fac072"
+    },
+    "90": {
+        "text": "<size=22>G1 Asahi Hai FS victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "232aac72e8e2db739afcfebe14735189c186db2976c1097708b06a282519d701"
+    },
+    "91": {
+        "text": "<size=22>G1 Arima Kinen victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "4241e92c7d12b062c2ff31f65868f7691a46a48c7a1029e1b933180062a39ba9"
+    },
+    "92": {
+        "text": "<size=22>G1 Hopeful Stakes victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "721107f6ab7978dd19c431c1a06aeb4098e37c6264d54abc704c8a10acb3b5d8"
+    },
+    "95": {
+        "text": "<size=22>Lets you redo the last objective's race.\\n</size>",
+        "hash": "9afb5ea48e9ff7dc81ba14534517c30b79b3abbca23833698edb5abcecacf6a5"
+    },
+    "96": {
+        "text": "<size=22>A ticket necessary for participating in daily races.\\n</size>",
+        "hash": "a86e3b6db2619be2125c9cffe585499d1f774d788b18941a61c20439ff3eba04"
+    },
+    "97": {
+        "text": "<size=22>A ticket necessary for participating in Legend Races.\\n</size>",
+        "hash": "40c905f8325798d75ba1dd0ecc44ca713235023b58e8ecd9b039adf3a6008b74"
+    },
+    "98": {
+        "text": "<size=22>Friendship points exchangeable for items at the shop.\\n</size>",
+        "hash": "11cbe2f22f45ba1f99a159d9814276fedb95a0217df5e142858e9a678f9dc20f"
+    },
+    "101": {
+        "text": "<size=22>G1 Japan Dirt Derby victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "b21be0df25f976c8dbcb0f855cd8ce3c9469bd9a44353ecb43147ee406fc9b44"
+    },
+    "102": {
+        "text": "<size=22>G1 JBC Sprint victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "31b019bbd13ef5d04e1b50896ab2d18ff00792594013c031ad75183a3e3805bd"
+    },
+    "103": {
+        "text": "<size=22>G1 JBC Classic victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "1d2f7ec35eb971ba9b57063dda26a0d8666ad9820d2009ef519123f7ae51de92"
+    },
+    "104": {
+        "text": "<size=22>G1 JBC Ladies Classic victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "cf11555713e5d4345bfe914b07c88370131693b85adb0b7aeed87f039a9060bd"
+    },
+    "105": {
+        "text": "<size=22>G1 Teio Sho victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "cb2cf72fde6533522b4647d959ebc0bd1eba7c28ff2807f2ce19f50e5d1fab47"
+    },
+    "106": {
+        "text": "<size=22>G1 Tokyo Daishoten victory proof.\\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "d8b5339cd6e634e07dd5fe8ec961887554a8555d272c92b6721df89b9b934873"
+    },
+    "107": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "108": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "109": {
+        "text": "<size=22>Needed to raise Awakening Lv.\\n</size>",
+        "hash": "d1438dde1a4c157ea3d954fbb3db3f6b2e1f3846caa91a8b4701737c052547d9"
+    },
+    "110": {
+        "text": "<size=22>Support points used to increase the level of support cards.\\n</size>",
+        "hash": "4593eb9a68f0947350b8e09261c8f9dab8b7556a71f52608fc2183d37c92a942"
+    },
+    "111": {
+        "text": "<size=22>A support card gacha pull ticket.\\nUsable at the Gacha menu.\\n</size>",
+        "hash": "df0a495c56ee6921bd34a244a442b053bbe86c155e765c4ded6d99057a9fc625"
+    },
+    "113": {
+        "text": "<size=22>Guaranteed ★3 gacha 1R pull ticket.\\nUsable at the gacha menu.\\n</size>",
+        "hash": "9df336e700a5614ad940ad83151491350bf604dc136fbc2fb531ca89a67d3f63"
+    },
+    "114": {
+        "text": "<size=22>Guaranteed SSR gacha 1R pull ticket.\\nUsable at the gacha menu.\\n</size>",
+        "hash": "f0369cd010ab85d67a97df9122096414d0049ce2e21b2309a754ab4535a7443f"
+    },
+    "115": {
+        "text": "<size=22>Goddess Statues exchangeable for items at the shop.\\n</size>",
+        "hash": "4ac73fcdce9deac635fc7fef96fdb416d361061ecad94c41f54ef83ee8962ea4"
+    },
+    "116": {
+        "text": "<size=22>Raises Motivation to Maximum.\\n(Team Stadium etc).\\n</size>",
+        "hash": "2eff20f89a63a1fa72e140bacd88af673f7a9e031116f9c7c549027be5dc8d61"
+    },
+    "117": {
+        "text": "<size=22>Weather turns 'Sunny' and Terrain turns 'Good'.\\n(Team Stadium etc)\\n</size>",
+        "hash": "ff1d4339fbb2171f4ea162771e49c0daf9cfd223cb92f9cdeb3123812f46026a"
+    },
+    "118": {
+        "text": "<size=22>Weather turns 'Rainy' and Terrain turns 'Bad'.\\n(Team Stadium etc)\\n</size>",
+        "hash": "47cb95be0207edd589282e093bb7b1bc89f082487ebf9a2701a42fc2018a16a3"
+    },
+    "119": {
+        "text": "<size=22>Gate block changes to inner (1-3).\\n(Team Stadium etc)\\n</size>",
+        "hash": "df7d3496b3d0c77e6735255aaf44e978025f97a2cd4a83818679e0f435519957"
+    },
+    "120": {
+        "text": "<size=22>Gate block changes to outer (6-8).\\n(Team Stadium etc)\\n</size>",
+        "hash": "305edafb8d4f54228d16f7ab06c6810139b66ee0194181c85b0db2c99f87f2ed"
+    },
+    "130": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "131": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "132": {
+        "text": "<size=22>Increases the maximum trainer follow count by one.\\n</size>",
+        "hash": "8c095c1e30be9568dc5592625c59629e976ee35326a6a46bcc731483e541b5c1"
+    },
+    "133": {
+        "text": "A bookmark to recover lost memories. \\nOpens up old story events.",
+        "hash": "b1416b7b4522daf2e0ab537e249cceff4fd76b5593819892462e4cfa94bb7ac7"
+    },
+    "134": {
+        "text": "<size=22>Circle Points exchangeable for items at the shop.\\n</size>",
+        "hash": "2591c101058cf3b9fecb24a50ad80c0f969e21a9f91ecf3a02be16dd2d75e1bc"
+    },
+    "135": {
+        "text": "<size=22>Guaranteed ★2+ gacha 1R pull ticket.\\nUsable at the gacha menu.\\n</size>",
+        "hash": "69416750a027a3be7e056e64588f479cb544ead59e9ab462d6593fda29d9d01b"
+    },
+    "136": {
+        "text": "<size=22>Guaranteed SR+ gacha 1R pull ticket.\\nUsable at the gacha menu.\\n</size>",
+        "hash": "ea9caae5eafb80d33b4c75618a14b147bc2000f2fb9f5ff25d3a2a223933cb67"
+    },
+    "137": {
+        "text": "<size=22>An entry ticket for the Taurus Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "fb9464681d18f91ace85b39d6f0579dd74b39b64f4f25c3191beb0e8d3148652"
+    },
+    "138": {
+        "text": "<size=22>An entry ticket for the Gemini Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "09c1df52746adac6b3b462f4ac3079dc74ef957fef6317e653d87f54511c978d"
+    },
+    "139": {
+        "text": "<size=22>An entry ticket for the Cancer Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "4cf8eb320aec6cf907bbd1e91cadbdae19ee3f8719be1eca039e489a20bdce16"
+    },
+    "140": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "141": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "142": {
+        "text": "<size=22>An entry ticket for the Leo Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "8a943268ca6792b1ea0eccb610349a80a399fee54b09cd3eb03a54fc9f03e082"
+    },
+    "143": {
+        "text": "<size=22>An entry ticket for the Virgo Hai.\\n※ Does not carry over between race periods.\\n</size>",
+        "hash": "cd477b0ee86a2baf260a1ea68c9b33b1f3f83a6038d6750a02c998f31c6983be"
+    },
+    "144": {
+        "text": "<size=22>A rainbow-colored gemstone rumored to draw forth hidden power.\\nUsed to uncap SSR support cards.\\n</size>",
+        "hash": "4de8d319552247da15850ac49173bf7cb69b90c586bebbbc31ab61e357d13275"
+    },
+    "145": {
+        "text": "<size=22>A golden gemstone rumored to draw forth hidden power.\\nUsed to uncap SR support cards.\\n</size>",
+        "hash": "9973a7cc8a451dbba712dc73a72951c40a5bebef77652eb0595dfa10d4f18a2b"
+    },
+    "147": {
+        "text": "<size=22>An entry ticket for the Libra Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "6bd8c28c005f154e348c798ae32c11fbab8fd020f16fa7d74dbbbda1f035acf3"
+    },
+    "148": {
+        "text": "<size=22>An entry ticket for the Scorpio Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "1083b3fc9cbd1cbae51140ae63bfe01746ab56d2989580287ad330dd800555b2"
+    },
+    "149": {
+        "text": "<size=22>A fragment of a rainbow-colored gemstone rumored to draw forth hidden power.\\nTradable for Rainbow Limit Break Crystals at the shop.\\n</size>",
+        "hash": "17f32866c9cad3d61dbdb3fa96b2dea459cd520c04651339ef9807fd45a09162"
+    },
+    "150": {
+        "text": "<size=22>A fragment of a golden gemstone rumored to draw forth hidden power.\\nTradable for Gold Limit Break Crystals at the shop.\\n</size>",
+        "hash": "3eafb9bcdcd76965f4060cb247aaf1089bc6087e06a3060856c3e43de0903f57"
+    },
+    "151": {
+        "text": "<size=22>An entry ticket for the Sagittarius Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "b9add8d2fbe710ef2d3605a141fa08a96ddf631ed157d144117dedd5dd1390fa"
+    },
+    "152": {
+        "text": "<size=22>This ticket can pull any Umamusume released up to 2021/10/31. Usable from the gacha page.\\n</size>",
+        "hash": "62e7f2e259c4f958e09564234828c03a2d893a5f5ed460f5c6f3cea9a378c154"
+    },
+    "153": {
+        "text": "<size=22>This ticket can pull any Support Card released up to 2021/10/31. Usable from the gacha page.\\n</size>",
+        "hash": "ae57ec07811d682cd050390d92c211bc094c48424a44aa32c30d06163e948575"
+    },
+    "154": {
+        "text": "<size=22>This ticket can pull any Umamusume released up to 2021/10/31. Usable from the gacha page.\\n</size>",
+        "hash": "62e7f2e259c4f958e09564234828c03a2d893a5f5ed460f5c6f3cea9a378c154"
+    },
+    "155": {
+        "text": "<size=22>This ticket can pull any Support Card released up to 2021/10/31. Usable from the gacha page.\\n</size>",
+        "hash": "ae57ec07811d682cd050390d92c211bc094c48424a44aa32c30d06163e948575"
+    },
+    "156": {
+        "text": "<size=22>Proof of your abilities in Trainer's Proficiency Exam \\nExchanged for various things at the shop.\\n</size>",
+        "hash": "aad3a5aa18d2db00945ba74dc418ea1be85cf999d3ab77439e13d2ad718e7713"
+    },
+    "157": {
+        "text": "<size=22>An entry ticket for the Capricorn Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "b1826dac9ba91d0d32a4299db0087eadd190c8c6affc3b969c16dac70d0d95a3"
+    },
+    "159": {
+        "text": "<size=22>Obtained from Racing Carnival. Tradable for various things in the shop.\\n</size>",
+        "hash": "b86236d2d4a553e8f7c66223128d1ff02b06514e9dcc0aa48cca5cc4331a2d57"
+    },
+    "160": {
+        "text": "<size=22>A book on running technique. Used to upgrade skill hint lv.\\n</size>",
+        "hash": "641c0f0ad4ee4d28f94ff214141256e56dd91d695939561dedd35af6558d5074"
+    },
+    "161": {
+        "text": "<size=22>A treatise on running technique. Used to upgrade skill hint lv.\\n</size>",
+        "hash": "188e353911d4b2a109a1bce1d77fea8db447d46689cb2bdd458025bc62fe8e64"
+    },
+    "162": {
+        "text": "<size=22>A book on advanced running technique. Used to upgrade skill hint lv.\\n</size>",
+        "hash": "49dd21027e701f6d28b4e032618c3eb0192490da7a63874ee2c7eee5f167ef94"
+    },
+    "163": {
+        "text": "<size=22>A treatise on advanced running technique. Used to upgrade skill hint lv.\\n</size>",
+        "hash": "664a14973c4f373c64464fa0547a4a1279cae935bf14baa9cfec34b4817e2342"
+    },
+    "164": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "165": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "166": {
+        "text": "<size=22>An entry ticket for the Aquarius Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "1bbb8e55c75d895176ceaffe0732641a33534bee73a3fe6fb153cf94a5d012dc"
+    },
+    "167": {
+        "text": "<size=22>An entry ticket for the Pisces Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "a08b36c1d52a547024559a21a1ed8cfa34b1461ca7ed646ba29174b0a6a79f35"
+    },
+    "168": {
+        "text": "<size=22>A ticket required to challenge the daily Legend Race\\n</size>",
+        "hash": "b6737a16774a8208e725a57039d97d0b0de7e97c3b9ed13f1801f3711c7ec100"
+    },
+    "169": {
+        "text": "<size=22>An entry ticket for the Aries Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "27e8aabb10ddd6f1d00a6bf8dbcba2f6e08c1154ec7b93c660b2cccd447a406d"
+    },
     "170": {
         "text": "Jukebox Music Addition",
         "hash": "7a4f26c3acc7b3a3bea1ac15da68fc9db71f6a9f47a29083489920632b9c3130"
+    },
+    "171": {
+        "text": "<size=22>An entry ticket for the Taurus Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "fb9464681d18f91ace85b39d6f0579dd74b39b64f4f25c3191beb0e8d3148652"
+    },
+    "172": {
+        "text": "<size=22>An entry ticket for the Gemini Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "09c1df52746adac6b3b462f4ac3079dc74ef957fef6317e653d87f54511c978d"
+    },
+    "173": {
+        "text": "<size=22>An entry ticket for the Cancer Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "4cf8eb320aec6cf907bbd1e91cadbdae19ee3f8719be1eca039e489a20bdce16"
+    },
+    "174": {
+        "text": "<size=22>A strange star-shaped fruit. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ea1d2e30258320a53f4dbfb5996cf7334f50d6da2b201b7f518c7ed245e77846"
+    },
+    "175": {
+        "text": "<size=22>Dirt G1 Kawasaki Kinen victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "78bf11564e2b1c7af4216c0680c41e1e8221ea6f24a513c0521d5ae5102c92bf"
+    },
+    "176": {
+        "text": "<size=22>Dirt G1 Zen-Nippon Junior Yushun victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "ea3f414120e9d7881abcad61351be14b49da326e52160eb2d2eba8b054056cb1"
+    },
+    "177": {
+        "text": "<size=22>Dirt G1 Kashiwa Kinen victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "f657d79f65114e34930669b58ebdcd860a02f43a605992ffba5f8cbea07f4afe"
+    },
+    "178": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "179": {
+        "text": "<size=22>Dirt G1 Mile CS Nambu Hai victory proof. \\nUsed to raise Awakening Lv.\\n</size>",
+        "hash": "0f50642e9922a0c57ddd4cf94b102179c378d01454b60b40fee3ebf50820f9f2"
+    },
+    "180": {
+        "text": "<size=22>An entry ticket for the Leo Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "8a943268ca6792b1ea0eccb610349a80a399fee54b09cd3eb03a54fc9f03e082"
+    },
+    "181": {
+        "text": "<size=22>An entry ticket for the Virgo Hai.\\n※ Does not carry over between race periods.\\n</size>",
+        "hash": "cd477b0ee86a2baf260a1ea68c9b33b1f3f83a6038d6750a02c998f31c6983be"
+    },
+    "182": {
+        "text": "<size=22>An entry ticket for the Libra Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "6bd8c28c005f154e348c798ae32c11fbab8fd020f16fa7d74dbbbda1f035acf3"
+    },
+    "183": {
+        "text": "<size=22>An entry ticket for the Scorpio Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "1083b3fc9cbd1cbae51140ae63bfe01746ab56d2989580287ad330dd800555b2"
+    },
+    "184": {
+        "text": "<size=22>An entry ticket for the Sagittarius Hai.\\nDoes not carry over between race periods.\\n</size>",
+        "hash": "b9add8d2fbe710ef2d3605a141fa08a96ddf631ed157d144117dedd5dd1390fa"
+    },
+    "185": {
+        "text": "<size=22>An entry ticket for the Capricorn Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "b1826dac9ba91d0d32a4299db0087eadd190c8c6affc3b969c16dac70d0d95a3"
+    },
+    "186": {
+        "text": "<size=22>An entry ticket for the Aquarius Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "1bbb8e55c75d895176ceaffe0732641a33534bee73a3fe6fb153cf94a5d012dc"
+    },
+    "187": {
+        "text": "<size=22>An entry ticket for the Pisces Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "a08b36c1d52a547024559a21a1ed8cfa34b1461ca7ed646ba29174b0a6a79f35"
+    },
+    "188": {
+        "text": "<size=22>An entry ticket for the Aries Hai. \\nDoes not carry over between race periods.\\n</size>",
+        "hash": "27e8aabb10ddd6f1d00a6bf8dbcba2f6e08c1154ec7b93c660b2cccd447a406d"
+    },
+    "189": {
+        "text": "<size=22>A decoration for a certain tree \\nfrom KIRARI MAGIC SHOW.\\n</size>",
+        "hash": "fb22f00f994891b015e7ddf84c4c8d797cada4b6ae19a7eada0f6478c790cc9c"
+    },
+    "190": {
+        "text": "<size=22>A key to unlocking memories with an Umamusume. \\nOpens a gallery in the Umamusume index.\\n</size>",
+        "hash": "47c127c0d58ae00b677c97a4ba303d10fc9aea3283240cc41edf68fe86cd7148"
+    },
+    "191": {
+        "text": "<size=22>This ticket can pull any Umamusume released up to 2023/1/30. Usable from the gacha page.\\n</size>",
+        "hash": "3e6852779cc473cc0b43c1e9989ed1949a513993a610a4ccc648f7a1876e4491"
+    },
+    "192": {
+        "text": "<size=22>This ticket can pull any Support Card released up to 2023/1/30. Usable from the gacha page.\\n</size>",
+        "hash": "f019ef294c123168268dedcca3387b4200e23bd6da56c27e2f3a1a1d084ae801"
+    },
+    "193": {
+        "text": "<size=22>This ticket can pull any Umamusume released up to 2023/1/30. Usable from the gacha page.\\n</size>",
+        "hash": "3e6852779cc473cc0b43c1e9989ed1949a513993a610a4ccc648f7a1876e4491"
+    },
+    "194": {
+        "text": "<size=22>This ticket can pull any Support Card released up to 2023/1/30. Usable from the gacha page.\\n</size>",
+        "hash": "f019ef294c123168268dedcca3387b4200e23bd6da56c27e2f3a1a1d084ae801"
+    },
+    "195": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "196": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "197": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "198": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "199": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "200": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "201": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "202": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "203": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "204": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "205": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "206": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "207": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "208": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "209": {
+        "text": "A ticket that can pull any Umamusume who has \\nappeared in the 5th EVENT, WISH or GAZE, \\nand released before 2023/09/20.",
+        "hash": "482ce74f2e79f5b22ee3c4ae0a41217f756f9bdbef0f12deee7758f1ac48c127"
+    },
+    "210": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "212": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "213": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "214": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "216": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "217": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "224": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "225": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "226": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "227": {
+        "text": "A ticket allowing entry to \\nthe Champions League. \\n※Only valid for the current event",
+        "hash": "c5573c5cbb2d19cd31f725c70b4b1733fc67cdb7f8ae7bdb1366daf5bad7ba2b"
+    },
+    "232": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "254": {
+        "text": "<size=22>Exchangeable for a ★3 character from a list.\\n</size>",
+        "hash": "853ed931f753bcf496d51b5a08d33e80754cf885d23c21b7fddb1dfe9de2105c"
+    },
+    "255": {
+        "text": "<size=22>Exchangeable for an SSR support card from a list.\\n</size>",
+        "hash": "4a157a377d863c42c00388c75eff72a2b8dabe4d84cdb88cd3dcd9b8ccc7d230"
+    },
+    "257": {
+        "text": "<size=22>Agnes Tachyon's research report. \\nCan be used to improve a factor.\\n</size>",
+        "hash": "69a068a45e755739a851eab1c5ea3769a0b7387650f682af4609fc4d38493090"
+    },
+    "1001": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
+    "1002": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
+    "1003": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
+    "1004": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
+    "1005": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
+    "1006": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
+    "2001": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "2002": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "2003": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "2004": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "2005": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "2006": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "3001": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3002": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3003": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3004": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3005": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3006": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3007": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "3008": {
+        "text": "A ticket granting entry \\nto the League of Heroes \\n※ Does not carry over to next time",
+        "hash": "5d06f1f31f9d51980a234f11f5780c8a2bf6df04b0e7af06b3894d67b1dc882c"
+    },
+    "10001": {
+        "text": "<size=22>Handmade by Special Week. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ddd36eb7dfe802527ac019ec05b0edca564a34f154cf3ce783545ec72a23f343"
+    },
+    "10002": {
+        "text": "<size=22>Handmade by Special Week. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ddd36eb7dfe802527ac019ec05b0edca564a34f154cf3ce783545ec72a23f343"
+    },
+    "10003": {
+        "text": "<size=22>Handmade by Silence Suzuka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "b0e3e0f14e1da21177b3a877a31a0ae82619b70f728d577eeeb8316891202f63"
+    },
+    "10004": {
+        "text": "<size=22>Handmade by Tokai Teio. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "26f26989c9260b552345324db37605f5cef437c7036c6b5a3d48464369fd643a"
+    },
+    "10005": {
+        "text": "<size=22>Handmade by Tokai Teio. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "26f26989c9260b552345324db37605f5cef437c7036c6b5a3d48464369fd643a"
+    },
+    "10006": {
+        "text": "<size=22>Handmade by Maruzensky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0039d27dfa88acfcd3f21e6181ecc9b8a599995d39a9978859185a03d70a7e37"
+    },
+    "10007": {
+        "text": "<size=22>Handmade by Maruzensky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0039d27dfa88acfcd3f21e6181ecc9b8a599995d39a9978859185a03d70a7e37"
+    },
+    "10008": {
+        "text": "<size=22>Handmade by Fuji Kiseki. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "8f72e6930003c3661052ef98c98c04dc38adfa21b6b1d14119f174fe0a2e7ff3"
+    },
+    "10009": {
+        "text": "<size=22>Handmade by Oguri Cap. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c484a7de01c106afc75ad1cb019cc28b7b1118b02ba9fff64c1c74388b9ccaf8"
+    },
+    "10010": {
+        "text": "<size=22>Handmade by Oguri Cap. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c484a7de01c106afc75ad1cb019cc28b7b1118b02ba9fff64c1c74388b9ccaf8"
+    },
+    "10011": {
+        "text": "<size=22>Handmade by Gold Ship. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7cdb5c453b0eac1359ee02e6bdcb4619fd588306307efb78100df8b274975352"
+    },
+    "10012": {
+        "text": "<size=22>Handmade by Vodka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "505d93c3936eb10c77d0fc198c2b3af7a5282c238b4bf898c4c430ad53b067fd"
+    },
+    "10013": {
+        "text": "<size=22>Handmade by Daiwa Scarlet. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "10f643c97e2caf49a8fdbe7f171c79f34e45901419d77c7f4eeda1ff3c0c3bd3"
+    },
+    "10014": {
+        "text": "<size=22>Handmade by Taiki Shuttle. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "480b88b91fd523260eab75a67de4c8e65672dff531f6f7fd31220c3eeaf88844"
+    },
+    "10015": {
+        "text": "<size=22>Handmade by Grass Wonder. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "828d224adfd03e0a52dff739abe251371b950bc95fd455015acb3042c871ea83"
+    },
+    "10016": {
+        "text": "<size=22>Handmade by Grass Wonder. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "828d224adfd03e0a52dff739abe251371b950bc95fd455015acb3042c871ea83"
+    },
+    "10017": {
+        "text": "<size=22>Handmade by Hishi Amazon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "868706ffcdda7960bad351d1ce12356fe3637fc1eafa29f3a4a797ad644d1932"
+    },
+    "10018": {
+        "text": "<size=22>Handmade by Mejiro McQueen. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0838f2c6dc6d65161058897693f1faab005b9c23ae0c09e368f729b97ff0fb65"
+    },
+    "10019": {
+        "text": "<size=22>Handmade by Mejiro McQueen. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0838f2c6dc6d65161058897693f1faab005b9c23ae0c09e368f729b97ff0fb65"
+    },
+    "10020": {
+        "text": "<size=22>Handmade by El Condor Pasa. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "23862c5bf7466d53b62ae3ae25ccc90c2154c2d98841f83606ae3209c1542ed5"
+    },
+    "10021": {
+        "text": "<size=22>Handmade by El Condor Pasa. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "23862c5bf7466d53b62ae3ae25ccc90c2154c2d98841f83606ae3209c1542ed5"
+    },
+    "10022": {
+        "text": "<size=22>Handmade by TM Opera O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "33d064e3297cebc66fe9c2ccd9e88e57979f058ebfd60d807bdee567c279c910"
+    },
+    "10023": {
+        "text": "<size=22>Handmade by TM Opera O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "33d064e3297cebc66fe9c2ccd9e88e57979f058ebfd60d807bdee567c279c910"
+    },
+    "10024": {
+        "text": "<size=22>Handmade by Narita Brian. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7ffb7abf8443b7dea370f38fca3078c66506141e74df383de0748724f9c7bab4"
+    },
+    "10025": {
+        "text": "<size=22>Handmade by Symboli Rudolf. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3f6b14786e63bf81e1005f589aa23d0c6e14fd4916b0ed8a63039152e27a130e"
+    },
+    "10026": {
+        "text": "<size=22>Handmade by Symboli Rudolf. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3f6b14786e63bf81e1005f589aa23d0c6e14fd4916b0ed8a63039152e27a130e"
+    },
+    "10027": {
+        "text": "<size=22>Handmade by Air Groove. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a7bfc4e9b594377b3cb24520d610ac2c43af3db8a336247ee1fc2051fddf36fa"
+    },
+    "10028": {
+        "text": "<size=22>Handmade by Air Groove. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a7bfc4e9b594377b3cb24520d610ac2c43af3db8a336247ee1fc2051fddf36fa"
+    },
+    "10029": {
+        "text": "<size=22>Handmade by Agnes Digital. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6f731de79d7298ab1b9670251d39ce3916b201ebda47166be5626762b90b61fd"
+    },
+    "10030": {
+        "text": "<size=22>Handmade by Seiun Sky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "2424c413dbc052c013ec629510d8fbc9043bcbc24c6b88a8b7e2c74586eee822"
+    },
+    "10031": {
+        "text": "<size=22>Handmade by Tamamo Cross. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4c258508f620e1551d036b056d6f27f08b491d9d8fb207abf3ad892c7a22b100"
+    },
+    "10032": {
+        "text": "<size=22>Handmade by Fine Motion. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "582f33b45bfdda7ea106d1c2382889f6928b5248c07ec193b7f2647443c92030"
+    },
+    "10033": {
+        "text": "<size=22>Handmade by Biwa Hayahide. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4b27ce3e45a0dc9e2bf30eb29a65cf127af7b71b4feca2da563e95dafabbf5db"
+    },
+    "10034": {
+        "text": "<size=22>Handmade by Biwa Hayahide. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4b27ce3e45a0dc9e2bf30eb29a65cf127af7b71b4feca2da563e95dafabbf5db"
+    },
+    "10035": {
+        "text": "<size=22>Handmade by Mayano Top Gun. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1e2644371e49e0bd2c5797fa1b94bdfa11174120aa4c7cc4cf463edd66a6101d"
+    },
+    "10036": {
+        "text": "<size=22>Handmade by Mayano Top Gun. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1e2644371e49e0bd2c5797fa1b94bdfa11174120aa4c7cc4cf463edd66a6101d"
+    },
+    "10037": {
+        "text": "<size=22>Handmade by Manhattan Cafe. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "25b372e275054d36a9582a7fd8b68916e5c4728b7a6f866a6ec97dc213f6aad5"
+    },
+    "10038": {
+        "text": "<size=22>Handmade by Mihono Bourbon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4cc3d51f6d16558d14424577b422f34e1e1b373e84681eebe461c222477c30b8"
+    },
+    "10039": {
+        "text": "<size=22>Handmade by Mihono Bourbon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4cc3d51f6d16558d14424577b422f34e1e1b373e84681eebe461c222477c30b8"
+    },
+    "10040": {
+        "text": "<size=22>Handmade by Mejiro Ryan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "645be119053a72003ebfc1d4bdc218098e5c831fd6ca887dd69c6166d0400d68"
+    },
+    "10041": {
+        "text": "<size=22>Handmade by Hishi Akebono. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ca23d3daae9cb7a0a045764c773e7e8f02a745f05b8f69282b13189a4eab5e4e"
+    },
+    "10042": {
+        "text": "<size=22>Handmade by Rice Shower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f7b90411011f92405ee19dd56af215b63896248484c9e43edb736587d9d560ab"
+    },
+    "10043": {
+        "text": "<size=22>Handmade by Rice Shower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f7b90411011f92405ee19dd56af215b63896248484c9e43edb736587d9d560ab"
+    },
+    "10044": {
+        "text": "<size=22>Handmade by Agnes Tachyon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7a43c8a0d7a98fbac4d2a712f3fb145421fe5aa92d79c01c7c48041482893044"
+    },
+    "10045": {
+        "text": "<size=22>Handmade by Admire Vega. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0af285f972b34da0db4004cbe35638ef4bbf8b2eefa2687f1796031e5dcf67cd"
+    },
+    "10046": {
+        "text": "<size=22>Handmade by Winning Ticket. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "dafb816e005492e28dc76f6d877184cf7c1901c77d2a0f2b72805625b63a4519"
+    },
+    "10047": {
+        "text": "<size=22>Handmade by Eishin Flash. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f8d41bab6509dd047f7ce4d13e03504fa264b4e6903e15a033899a3cfc326447"
+    },
+    "10048": {
+        "text": "<size=22>Handmade by Eishin Flash. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f8d41bab6509dd047f7ce4d13e03504fa264b4e6903e15a033899a3cfc326447"
+    },
+    "10049": {
+        "text": "<size=22>Handmade by Curren Chan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a9e5cd3c8ce3bbfb27ffcd13600a0a675ee058e6e023b3ad709a0b289c53e4c5"
+    },
+    "10050": {
+        "text": "<size=22>Handmade by Kawakami Princess. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "9e3b9258d2d0217b3ecba63de7f90d946e7bfae5117f85779b858ade619439ed"
+    },
+    "10051": {
+        "text": "<size=22>Handmade by Gold City. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "37bf58e978d7ef8786e27f9f647fc2b3dc6fd0291036594274c8c8beeadbd26e"
+    },
+    "10052": {
+        "text": "<size=22>Handmade by Gold City. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "37bf58e978d7ef8786e27f9f647fc2b3dc6fd0291036594274c8c8beeadbd26e"
+    },
+    "10053": {
+        "text": "<size=22>Handmade by Sakura Bakushin O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "96b4940d323fd12cb9bcacd39c4a84ff9574579daae1d86697a9c9d6e45e1ae1"
+    },
+    "10054": {
+        "text": "<size=22>Handmade by Super Creek. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3ddb9d2ac675655507982ff9b59816f2824a3747af1a9f654773fb2245d9a7f4"
+    },
+    "10055": {
+        "text": "<size=22>Handmade by Super Creek. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3ddb9d2ac675655507982ff9b59816f2824a3747af1a9f654773fb2245d9a7f4"
+    },
+    "10056": {
+        "text": "<size=22>Handmade by Smart Falcon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f499b4f20355987fc20fbd86ab7b5af70e1a024db38ac8dac10e0c1fb712d909"
+    },
+    "10057": {
+        "text": "<size=22>Handmade by Tosen Jordan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6f1019e6c17eb887026003d2c4aed5126832c6a7b1e01248b19610382f843b75"
+    },
+    "10058": {
+        "text": "<size=22>Handmade by Narita Taishin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c2ca9bb9a5ae3659dcc2d01d0ed104fed6199cec9921ffa71eaf922bfed04edf"
+    },
+    "10059": {
+        "text": "<size=22>Handmade by Haru Urara. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ed41a03926a70a8f8ad70d0fad436c03eeb1aaf99c5622db160db79053914e27"
+    },
+    "10060": {
+        "text": "<size=22>Handmade by Haru Urara. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ed41a03926a70a8f8ad70d0fad436c03eeb1aaf99c5622db160db79053914e27"
+    },
+    "10061": {
+        "text": "<size=22>Handmade by Matikanefukukitaru. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "9425d5519bf1dd604bbe39dcad1224aba74be35d923cf3b09da18be36698ab3f"
+    },
+    "10062": {
+        "text": "<size=22>Handmade by Matikanefukukitaru. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "9425d5519bf1dd604bbe39dcad1224aba74be35d923cf3b09da18be36698ab3f"
+    },
+    "10063": {
+        "text": "<size=22>Handmade by Meishodoto. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1dd7e8697ef5bddb24bf57e013c56ed6ade2f746c4ee54131960061c2879810c"
+    },
+    "10064": {
+        "text": "<size=22>Handmade by Mejiro Dober. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f10f27ca4e77406a4e09695fa694692ddede63dcb54c782008a0769ff4bb01e4"
+    },
+    "10065": {
+        "text": "<size=22>Handmade by Nice Nature. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4f4088b940a11c31bf194cb5180d211c4e1dab195805f171cea6bd7beb44d75f"
+    },
+    "10066": {
+        "text": "<size=22>Handmade by King Halo. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4ce6333eed5c075ad295962edd9ad0afb894f7c97d668b62462fd14e20d51a26"
+    },
+    "10067": {
+        "text": "<size=22>Handmade by Sakura Chiyono O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "361932bf9ba049b7750256b7ddb711ed0e84dae54f3e422808ac5fd4643e7bc9"
+    },
+    "10068": {
+        "text": "<size=22>Handmade by Mejiro Ardan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1e647761677d19dfc4ef43229dec9170964aaaa797e20be944429211369afd67"
+    },
+    "10069": {
+        "text": "<size=22>Handmade by Special Week. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ddd36eb7dfe802527ac019ec05b0edca564a34f154cf3ce783545ec72a23f343"
+    },
+    "10070": {
+        "text": "<size=22>Handmade by Fuji Kiseki. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "8f72e6930003c3661052ef98c98c04dc38adfa21b6b1d14119f174fe0a2e7ff3"
+    },
+    "10071": {
+        "text": "<size=22>Handmade by Gold Ship. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7cdb5c453b0eac1359ee02e6bdcb4619fd588306307efb78100df8b274975352"
+    },
+    "10072": {
+        "text": "<size=22>Handmade by Vodka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "505d93c3936eb10c77d0fc198c2b3af7a5282c238b4bf898c4c430ad53b067fd"
+    },
+    "10073": {
+        "text": "<size=22>Handmade by Daiwa Scarlet. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "10f643c97e2caf49a8fdbe7f171c79f34e45901419d77c7f4eeda1ff3c0c3bd3"
+    },
+    "10074": {
+        "text": "<size=22>Handmade by Taiki Shuttle. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "480b88b91fd523260eab75a67de4c8e65672dff531f6f7fd31220c3eeaf88844"
+    },
+    "10075": {
+        "text": "<size=22>Handmade by Mejiro McQueen. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0838f2c6dc6d65161058897693f1faab005b9c23ae0c09e368f729b97ff0fb65"
+    },
+    "10076": {
+        "text": "<size=22>Handmade by Narita Brian. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7ffb7abf8443b7dea370f38fca3078c66506141e74df383de0748724f9c7bab4"
+    },
+    "10077": {
+        "text": "<size=22>Handmade by Agnes Digital. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6f731de79d7298ab1b9670251d39ce3916b201ebda47166be5626762b90b61fd"
+    },
+    "10078": {
+        "text": "<size=22>Handmade by Seiun Sky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "2424c413dbc052c013ec629510d8fbc9043bcbc24c6b88a8b7e2c74586eee822"
+    },
+    "10079": {
+        "text": "<size=22>Handmade by Tamamo Cross. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4c258508f620e1551d036b056d6f27f08b491d9d8fb207abf3ad892c7a22b100"
+    },
+    "10080": {
+        "text": "<size=22>Handmade by Fine Motion. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "582f33b45bfdda7ea106d1c2382889f6928b5248c07ec193b7f2647443c92030"
+    },
+    "10081": {
+        "text": "<size=22>Handmade by Mejiro Ryan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "645be119053a72003ebfc1d4bdc218098e5c831fd6ca887dd69c6166d0400d68"
+    },
+    "10082": {
+        "text": "<size=22>Handmade by Yukino Bijin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "da96d6860c71126f4125583c45ace77a83d4f1a18c9e7d3ad8ba6a94e9a00a1f"
+    },
+    "10083": {
+        "text": "<size=22>Handmade by Ines Fujin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "eb07a7815f61640189860504174b1f3cc0c224264fa89314a5c7174ebf9ca0eb"
+    },
+    "10084": {
+        "text": "<size=22>Handmade by Ines Fujin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "eb07a7815f61640189860504174b1f3cc0c224264fa89314a5c7174ebf9ca0eb"
+    },
+    "10085": {
+        "text": "<size=22>Handmade by Inari One. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "aef8f2699afa09ed52f3bff05266d9c5ad8685ec96589ea2809d2c5be72bc2c8"
+    },
+    "10086": {
+        "text": "<size=22>Handmade by Inari One. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "aef8f2699afa09ed52f3bff05266d9c5ad8685ec96589ea2809d2c5be72bc2c8"
+    },
+    "10087": {
+        "text": "<size=22>Handmade by Winning Ticket. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "dafb816e005492e28dc76f6d877184cf7c1901c77d2a0f2b72805625b63a4519"
+    },
+    "10088": {
+        "text": "<size=22>Handmade by Air Shakur. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "853653f9bf2f4e744c80c91760a7f2c708ad2a14d82e48266c4086571d86fecd"
+    },
+    "10089": {
+        "text": "<size=22>Handmade by Curren Chan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a9e5cd3c8ce3bbfb27ffcd13600a0a675ee058e6e023b3ad709a0b289c53e4c5"
+    },
+    "10090": {
+        "text": "<size=22>Handmade by Seeking the Pearl. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "cbbd95a8d07f71b650e362d2e7d14f34bf3701dd2c84afbcf467989b8b7223eb"
+    },
+    "10091": {
+        "text": "<size=22>Handmade by Shinko Windy. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "867080b5eb7037cea9a42173c8222a02baf6f70df65731ad1c88c39adb568b2f"
+    },
+    "10092": {
+        "text": "<size=22>Handmade by Sweep Tosho. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "329b60ed56bb6daa7e757574f12bcd8fac45d9f1ad5c12cddc89c3e9be51e887"
+    },
+    "10093": {
+        "text": "<size=22>Handmade by Smart Falcon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f499b4f20355987fc20fbd86ab7b5af70e1a024db38ac8dac10e0c1fb712d909"
+    },
+    "10094": {
+        "text": "<size=22>Handmade by Zenno Rob Roy. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "679fa8f503cce4a61ba2adcf73f3bb9f51d952a487cff67eb651ca158de03fbe"
+    },
+    "10095": {
+        "text": "<size=22>Handmade by Nakayama Festa. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "21b64f35910e5200b3d0dbff6d7b9f9f6aefd0ac2b86d2ad5d55e0bd250f3f32"
+    },
+    "10096": {
+        "text": "<size=22>Handmade by Narita Taishin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c2ca9bb9a5ae3659dcc2d01d0ed104fed6199cec9921ffa71eaf922bfed04edf"
+    },
+    "10097": {
+        "text": "<size=22>Handmade by Nishino Flower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "21eb7676c1f528542997f31fa2d0233112b45bb09fd340676abc89f13ff0577e"
+    },
+    "10098": {
+        "text": "<size=22>Handmade by Bamboo Memory. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a2055a01972aa2d73cddd45c2fea98642014712793d53f2224adcda15355ff1b"
+    },
+    "10099": {
+        "text": "<size=22>Handmade by Meishodoto. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1dd7e8697ef5bddb24bf57e013c56ed6ade2f746c4ee54131960061c2879810c"
+    },
+    "10100": {
+        "text": "<size=22>Handmade by Mejiro Dober. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f10f27ca4e77406a4e09695fa694692ddede63dcb54c782008a0769ff4bb01e4"
+    },
+    "10101": {
+        "text": "<size=22>Handmade by Nice Nature. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4f4088b940a11c31bf194cb5180d211c4e1dab195805f171cea6bd7beb44d75f"
+    },
+    "10102": {
+        "text": "<size=22>Handmade by King Halo. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4ce6333eed5c075ad295962edd9ad0afb894f7c97d668b62462fd14e20d51a26"
+    },
+    "10103": {
+        "text": "<size=22>Handmade by Matikanetannhauser. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "05915502f02ebd1808c2f39a7cc73f7564b52eda2613a2f6461ef06852f107de"
+    },
+    "10104": {
+        "text": "<size=22>Handmade by Mejiro Palmer. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c602ffc62d7858bb6928ac5a1035ab4d2c6bbfbda3595c5ec367050326b6969d"
+    },
+    "10105": {
+        "text": "<size=22>Handmade by Daitaku Helios. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "19cf5b586e15f4aab3cd45ca843cd777e4c20227a55485dce4aabbf700ff1f07"
+    },
+    "10106": {
+        "text": "<size=22>Handmade by Satono Diamond. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5ab733a9e43a4c58be2c5c6cb3da8cec6d8eea01579e6b577c88fbdfa46b9b8e"
+    },
+    "10107": {
+        "text": "<size=22>Handmade by Satono Diamond. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5ab733a9e43a4c58be2c5c6cb3da8cec6d8eea01579e6b577c88fbdfa46b9b8e"
+    },
+    "10108": {
+        "text": "<size=22>Handmade by Kitasan Black. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c59ad1699e0d6a9c5be35310c4f712e902dd204b5407af17220c5c63dcbbce77"
+    },
+    "10109": {
+        "text": "<size=22>Handmade by Kitasan Black. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c59ad1699e0d6a9c5be35310c4f712e902dd204b5407af17220c5c63dcbbce77"
+    },
+    "10110": {
+        "text": "<size=22>Handmade by Yaeno Muteki. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "fad2aa0e2094e775b6e4a7b4224fc4ab25a218107b0996e6de9a9e67f92bb839"
+    },
+    "10111": {
+        "text": "<size=22>Handmade by Mejiro Bright. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "df041e6fbda4dd58b2c4e3631f1f23a48036272659789bff2c1e4d4adbf7fe7e"
+    },
+    "10112": {
+        "text": "<size=22>Handmade by Yamanin Zephyr. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "b1c14d1913f6b95cdadc515b6840fbc3912df6fad6eb2cc6d6a6d3898b5106de"
+    },
+    "10113": {
+        "text": "<size=22>Handmade by Aston Machan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1ef72fdd2dd09309aa4648667301b46001a90d15c130515b8abe8c009a9b1561"
+    },
+    "10114": {
+        "text": "<size=22>Handmade by Copano Rickey. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4f732835d363f8a67a2c12df58bea2f4fe8b243bdaf11109b36bde7eef209142"
+    },
+    "10115": {
+        "text": "<size=22>Handmade by Hokko Tarumae. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5fe701a8ad3a09dc093be1a0dbc4a56bbaf3b3194cffa6672c72711041fb5e04"
+    },
+    "10116": {
+        "text": "<size=22>Handmade by Wonder Acute. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "8200529332dc6bd9f001594cc3f7a4f8f47e9472a43fd604c5517f83da5c6a33"
+    },
+    "10117": {
+        "text": "<size=22>Handmade by Silence Suzuka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "b0e3e0f14e1da21177b3a877a31a0ae82619b70f728d577eeeb8316891202f63"
+    },
+    "10118": {
+        "text": "<size=22>Handmade by Tokai Teio. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "26f26989c9260b552345324db37605f5cef437c7036c6b5a3d48464369fd643a"
+    },
+    "10119": {
+        "text": "<size=22>Handmade by Gold Ship. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7cdb5c453b0eac1359ee02e6bdcb4619fd588306307efb78100df8b274975352"
+    },
+    "10120": {
+        "text": "<size=22>Handmade by Hishi Amazon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "868706ffcdda7960bad351d1ce12356fe3637fc1eafa29f3a4a797ad644d1932"
+    },
+    "10121": {
+        "text": "<size=22>Handmade by Manhattan Cafe. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "25b372e275054d36a9582a7fd8b68916e5c4728b7a6f866a6ec97dc213f6aad5"
+    },
+    "10122": {
+        "text": "<size=22>Handmade by Yukino Bijin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "da96d6860c71126f4125583c45ace77a83d4f1a18c9e7d3ad8ba6a94e9a00a1f"
+    },
+    "10123": {
+        "text": "<size=22>Handmade by Agnes Tachyon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "7a43c8a0d7a98fbac4d2a712f3fb145421fe5aa92d79c01c7c48041482893044"
+    },
+    "10124": {
+        "text": "<size=22>Handmade by Air Shakur. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "853653f9bf2f4e744c80c91760a7f2c708ad2a14d82e48266c4086571d86fecd"
+    },
+    "10125": {
+        "text": "<size=22>Handmade by Kawakami Princess. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "9e3b9258d2d0217b3ecba63de7f90d946e7bfae5117f85779b858ade619439ed"
+    },
+    "10126": {
+        "text": "<size=22>Handmade by Sakura Bakushin O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "96b4940d323fd12cb9bcacd39c4a84ff9574579daae1d86697a9c9d6e45e1ae1"
+    },
+    "10127": {
+        "text": "<size=22>Handmade by Tosen Jordan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6f1019e6c17eb887026003d2c4aed5126832c6a7b1e01248b19610382f843b75"
+    },
+    "10128": {
+        "text": "<size=22>Handmade by Nishino Flower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "21eb7676c1f528542997f31fa2d0233112b45bb09fd340676abc89f13ff0577e"
+    },
+    "10129": {
+        "text": "<size=22>Handmade by Bamboo Memory. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a2055a01972aa2d73cddd45c2fea98642014712793d53f2224adcda15355ff1b"
+    },
+    "10133": {
+        "text": "<size=22>Handmade by Nice Nature. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4f4088b940a11c31bf194cb5180d211c4e1dab195805f171cea6bd7beb44d75f"
+    },
+    "10134": {
+        "text": "<size=22>Handmade by Matikanetannhauser. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "05915502f02ebd1808c2f39a7cc73f7564b52eda2613a2f6461ef06852f107de"
+    },
+    "10135": {
+        "text": "<size=22>Handmade by Mejiro Palmer. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c602ffc62d7858bb6928ac5a1035ab4d2c6bbfbda3595c5ec367050326b6969d"
+    },
+    "10137": {
+        "text": "<size=22>Handmade by Satono Diamond. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5ab733a9e43a4c58be2c5c6cb3da8cec6d8eea01579e6b577c88fbdfa46b9b8e"
+    },
+    "10138": {
+        "text": "<size=22>Handmade by Kitasan Black. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c59ad1699e0d6a9c5be35310c4f712e902dd204b5407af17220c5c63dcbbce77"
+    },
+    "10139": {
+        "text": "<size=22>Handmade by Sakura Chiyono O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "361932bf9ba049b7750256b7ddb711ed0e84dae54f3e422808ac5fd4643e7bc9"
+    },
+    "10141": {
+        "text": "<size=22>Handmade by Mejiro Ardan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1e647761677d19dfc4ef43229dec9170964aaaa797e20be944429211369afd67"
+    },
+    "10142": {
+        "text": "<size=22>Handmade by Mejiro Bright. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "df041e6fbda4dd58b2c4e3631f1f23a48036272659789bff2c1e4d4adbf7fe7e"
+    },
+    "1000101": {
+        "text": "<size=22>Specially made by Special Week. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "05045cf3845b049fa1655a5380d0aa47eddb0e6a1da532674480ebf205c9aa04"
+    },
+    "1000102": {
+        "text": "<size=22>Specially made by Special Week. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "05045cf3845b049fa1655a5380d0aa47eddb0e6a1da532674480ebf205c9aa04"
+    },
+    "1000103": {
+        "text": "<size=22>Specially made by Special Week. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "05045cf3845b049fa1655a5380d0aa47eddb0e6a1da532674480ebf205c9aa04"
+    },
+    "1000201": {
+        "text": "<size=22>Specially made by Silence Suzuka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "cc5463322ce18039dd86e46b8378d7bdff6bf20c412749108a116f7ef4408b4b"
+    },
+    "1000202": {
+        "text": "<size=22>Specially made by Silence Suzuka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "cc5463322ce18039dd86e46b8378d7bdff6bf20c412749108a116f7ef4408b4b"
+    },
+    "1000301": {
+        "text": "<size=22>Specially made by Tokai Teio. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5dc9b3dd4cea590ba845b759700fd9a29b273c139cc811e34917cae5ea951d83"
+    },
+    "1000302": {
+        "text": "<size=22>Specially made by Tokai Teio. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5dc9b3dd4cea590ba845b759700fd9a29b273c139cc811e34917cae5ea951d83"
+    },
+    "1000303": {
+        "text": "<size=22>Specially made by Tokai Teio. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5dc9b3dd4cea590ba845b759700fd9a29b273c139cc811e34917cae5ea951d83"
+    },
+    "1000401": {
+        "text": "<size=22>Specially made by Maruzensky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3220ab3ae2bbd582e73e1746413a4bcfa6900503461e40f5461539049f5e848d"
+    },
+    "1000402": {
+        "text": "<size=22>Specially made by Maruzensky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3220ab3ae2bbd582e73e1746413a4bcfa6900503461e40f5461539049f5e848d"
+    },
+    "1000501": {
+        "text": "<size=22>Specially made by Fuji Kiseki. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "054bdd38b125801d752e41b9a7d0d2332f2f9a122e46f68a33d7b82f30da13e6"
+    },
+    "1000502": {
+        "text": "<size=22>Specially made by Fuji Kiseki. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "054bdd38b125801d752e41b9a7d0d2332f2f9a122e46f68a33d7b82f30da13e6"
+    },
+    "1000601": {
+        "text": "<size=22>Specially made by Oguri Cap. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "90deebcbe00c1ffe7224edb52071a8fa973da3570b21269c3c2de6fecebaf5e0"
+    },
+    "1000602": {
+        "text": "<size=22>Specially made by Oguri Cap. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "90deebcbe00c1ffe7224edb52071a8fa973da3570b21269c3c2de6fecebaf5e0"
+    },
+    "1000701": {
+        "text": "<size=22>Specially made by Gold Ship. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6c698b0bc5c88c0dfbc25d4868a1df5bcb9d9e4efbfaac20e0305a56a30eddd4"
+    },
+    "1000702": {
+        "text": "<size=22>Specially made by Gold Ship. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6c698b0bc5c88c0dfbc25d4868a1df5bcb9d9e4efbfaac20e0305a56a30eddd4"
+    },
+    "1000703": {
+        "text": "<size=22>Specially made by Gold Ship. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6c698b0bc5c88c0dfbc25d4868a1df5bcb9d9e4efbfaac20e0305a56a30eddd4"
+    },
+    "1000801": {
+        "text": "<size=22>Specially made by Vodka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1a5e0647c9b25be2fd751050e9d0f5c4ad33f05bd615ee2096f5c8809e4b0b41"
+    },
+    "1000802": {
+        "text": "<size=22>Specially made by Vodka. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1a5e0647c9b25be2fd751050e9d0f5c4ad33f05bd615ee2096f5c8809e4b0b41"
+    },
+    "1000901": {
+        "text": "<size=22>Specially made by Daiwa Scarlet. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4a84cd3803a4eb13f5c85e149824718ebf8fff6af2c0e992312efb4cd9f10042"
+    },
+    "1000902": {
+        "text": "<size=22>Specially made by Daiwa Scarlet. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4a84cd3803a4eb13f5c85e149824718ebf8fff6af2c0e992312efb4cd9f10042"
+    },
+    "1001001": {
+        "text": "<size=22>Specially made by Taiki Shuttle. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "389d1488468934ed0ea10a343064d77914b2dce6a8ecfeab951db5b0f1c87f93"
+    },
+    "1001002": {
+        "text": "<size=22>Specially made by Taiki Shuttle. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "389d1488468934ed0ea10a343064d77914b2dce6a8ecfeab951db5b0f1c87f93"
+    },
+    "1001101": {
+        "text": "<size=22>Specially made by Grass Wonder. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a808e79539adc1fc9930707ac63be177fdacb9d60ff405727ebdabe7e3e57e97"
+    },
+    "1001102": {
+        "text": "<size=22>Specially made by Grass Wonder. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a808e79539adc1fc9930707ac63be177fdacb9d60ff405727ebdabe7e3e57e97"
+    },
+    "1001201": {
+        "text": "<size=22>Specially made by Hishi Amazon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d7bc85f4a7b8a40eacbee4bc9fd5915a2abb938cb34010a56ad4b97e065edfcf"
+    },
+    "1001202": {
+        "text": "<size=22>Specially made by Hishi Amazon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d7bc85f4a7b8a40eacbee4bc9fd5915a2abb938cb34010a56ad4b97e065edfcf"
+    },
+    "1001301": {
+        "text": "<size=22>Specially made by Mejiro McQueen. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "844014f2bcabd2dd0ead520fb1245f0ee36d907c20753a61b25099bdb6a53b8e"
+    },
+    "1001302": {
+        "text": "<size=22>Specially made by Mejiro McQueen. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "844014f2bcabd2dd0ead520fb1245f0ee36d907c20753a61b25099bdb6a53b8e"
+    },
+    "1001303": {
+        "text": "<size=22>Specially made by Mejiro McQueen. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "844014f2bcabd2dd0ead520fb1245f0ee36d907c20753a61b25099bdb6a53b8e"
+    },
+    "1001401": {
+        "text": "<size=22>Specially made by El Condor Pasa. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "bbda6bb0c4d9d22207a49e6c64422b0f89ed3d7b28fd48b294711a4f3bb5b802"
+    },
+    "1001402": {
+        "text": "<size=22>Specially made by El Condor Pasa. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "bbda6bb0c4d9d22207a49e6c64422b0f89ed3d7b28fd48b294711a4f3bb5b802"
+    },
+    "1001501": {
+        "text": "<size=22>Specially made by TM Opera O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ad891540eae032bea5b8d1680dfe89f3d4822c7fe61182da66154c5515199b09"
+    },
+    "1001502": {
+        "text": "<size=22>Specially made by TM Opera O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ad891540eae032bea5b8d1680dfe89f3d4822c7fe61182da66154c5515199b09"
+    },
+    "1001601": {
+        "text": "<size=22>Specially made by Narita Brian. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "650898ff85cf09932e17bb3aac6286707524488f348efac44aa179c124a2c17b"
+    },
+    "1001602": {
+        "text": "<size=22>Specially made by Narita Brian. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "650898ff85cf09932e17bb3aac6286707524488f348efac44aa179c124a2c17b"
+    },
+    "1001701": {
+        "text": "<size=22>Specially made by Symboli Rudolf. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3f594481ab4aea5bceac3d84ba2e090c1ac33b05eb2b2f846abe940e5f61a32d"
+    },
+    "1001702": {
+        "text": "<size=22>Specially made by Symboli Rudolf. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3f594481ab4aea5bceac3d84ba2e090c1ac33b05eb2b2f846abe940e5f61a32d"
+    },
+    "1001801": {
+        "text": "<size=22>Specially made by Air Groove. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "342e18905e123a69c5c4950f4292c9dd62008a013398801b87493bebef00dc82"
+    },
+    "1001802": {
+        "text": "<size=22>Specially made by Air Groove. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "342e18905e123a69c5c4950f4292c9dd62008a013398801b87493bebef00dc82"
+    },
+    "1001901": {
+        "text": "<size=22>Specially made by Agnes Digital. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6ff18c9cba28fd4d58057aba221e849b44201f8dcfa7435dbf03874744730b9e"
+    },
+    "1001902": {
+        "text": "<size=22>Specially made by Agnes Digital. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6ff18c9cba28fd4d58057aba221e849b44201f8dcfa7435dbf03874744730b9e"
+    },
+    "1002001": {
+        "text": "<size=22>Specially made by Seiun Sky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "76ee7ff7e26e0e1cc58e32456626376ea74f6578583d6c35561af835f31da97e"
+    },
+    "1002002": {
+        "text": "<size=22>Specially made by Seiun Sky. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "76ee7ff7e26e0e1cc58e32456626376ea74f6578583d6c35561af835f31da97e"
+    },
+    "1002101": {
+        "text": "<size=22>Specially made by Tamamo Cross. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "95915366986ef45ac76e7319d53122ddbc1a4f878148f83c905c48c64b89f1aa"
+    },
+    "1002102": {
+        "text": "<size=22>Specially made by Tamamo Cross. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "95915366986ef45ac76e7319d53122ddbc1a4f878148f83c905c48c64b89f1aa"
+    },
+    "1002201": {
+        "text": "<size=22>Specially made by Fine Motion. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "9db9890955b58cecf7673132933cea259536a99b8c41d6b88cfa84c688a2b77b"
+    },
+    "1002202": {
+        "text": "<size=22>Specially made by Fine Motion. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "9db9890955b58cecf7673132933cea259536a99b8c41d6b88cfa84c688a2b77b"
+    },
+    "1002301": {
+        "text": "<size=22>Specially made by Biwa Hayahide. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0b52fa1ffdcc7bcefb0f780068f40faba8e185e592b87133a58697c73f787c99"
+    },
+    "1002302": {
+        "text": "<size=22>Specially made by Biwa Hayahide. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "0b52fa1ffdcc7bcefb0f780068f40faba8e185e592b87133a58697c73f787c99"
+    },
+    "1002401": {
+        "text": "<size=22>Specially made by Mayano Top Gun. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "dee912851c64dac63aedc7611d557276ca78148a60e710e44deb8b10cae69ec1"
+    },
+    "1002402": {
+        "text": "<size=22>Specially made by Mayano Top Gun. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "dee912851c64dac63aedc7611d557276ca78148a60e710e44deb8b10cae69ec1"
+    },
+    "1002501": {
+        "text": "<size=22>Specially made by Manhattan Cafe. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "e6ca99eec8e50da64853f569ca600e640421f2cebdcce8b54026721e47d20057"
+    },
+    "1002502": {
+        "text": "<size=22>Specially made by Manhattan Cafe. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "e6ca99eec8e50da64853f569ca600e640421f2cebdcce8b54026721e47d20057"
+    },
+    "1002601": {
+        "text": "<size=22>Specially made by Mihono Bourbon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "b665a7b42952b1147d8ee05b74e5a624c4c2c7c5185b220897bc31d0363c732e"
+    },
+    "1002602": {
+        "text": "<size=22>Specially made by Mihono Bourbon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "b665a7b42952b1147d8ee05b74e5a624c4c2c7c5185b220897bc31d0363c732e"
+    },
+    "1002701": {
+        "text": "<size=22>Specially made by Mejiro Ryan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5ec27383beb5616997503bb3d33b04310b209ed7e85ec45d5e8d391221df8ab2"
+    },
+    "1002702": {
+        "text": "<size=22>Specially made by Mejiro Ryan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "5ec27383beb5616997503bb3d33b04310b209ed7e85ec45d5e8d391221df8ab2"
+    },
+    "1002801": {
+        "text": "<size=22>Specially made by Hishi Akebono. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4f489630a6dad523a47c0e0c370cf250ee92905a337fe854d98a8a1613f4a753"
+    },
+    "1002901": {
+        "text": "<size=22>Specially made by Yukino Bijin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f4fecab21a684dcb72dc5c9ecb0e3a9d06db0680a60f8d179c3b2fabff97b93f"
+    },
+    "1002902": {
+        "text": "<size=22>Specially made by Yukino Bijin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f4fecab21a684dcb72dc5c9ecb0e3a9d06db0680a60f8d179c3b2fabff97b93f"
+    },
+    "1003001": {
+        "text": "<size=22>Specially made by Rice Shower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "36d2fa0b79a27043f27726d1e37bae267a0ffa29bf1d6a11413aca01a531ac90"
+    },
+    "1003002": {
+        "text": "<size=22>Specially made by Rice Shower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "36d2fa0b79a27043f27726d1e37bae267a0ffa29bf1d6a11413aca01a531ac90"
+    },
+    "1003101": {
+        "text": "<size=22>Specially made by Ines Fujin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ab60ae6a1ef1e548d5bb618fe8940a67e540d298abd1b907a94a95c51e5d1d5d"
+    },
+    "1003102": {
+        "text": "<size=22>Specially made by Ines Fujin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ab60ae6a1ef1e548d5bb618fe8940a67e540d298abd1b907a94a95c51e5d1d5d"
+    },
+    "1003201": {
+        "text": "<size=22>Specially made by Agnes Tachyon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "de67b3ae7846354bc3631dfe997c66f6230d955e82b57162605eddb1f4b14000"
+    },
+    "1003202": {
+        "text": "<size=22>Specially made by Agnes Tachyon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "de67b3ae7846354bc3631dfe997c66f6230d955e82b57162605eddb1f4b14000"
+    },
+    "1003301": {
+        "text": "<size=22>Specially made by Admire Vega. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "fbf71a7b72c8c127dda10478362ca33b96bccf35f7b6be2625b9d106f5d5bea1"
+    },
+    "1003401": {
+        "text": "<size=22>Specially made by Inari One. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1e144fd3f60fbf86c74c608eccdb635ff469b5c61cdef1a6c410048c7fea3223"
+    },
+    "1003402": {
+        "text": "<size=22>Specially made by Inari One. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1e144fd3f60fbf86c74c608eccdb635ff469b5c61cdef1a6c410048c7fea3223"
+    },
+    "1003501": {
+        "text": "<size=22>Specially made by Winning Ticket. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "80223411037b4ae6a14b376b71099c725a023d5c1f2a82dca5e32b83aa20fa4c"
+    },
+    "1003502": {
+        "text": "<size=22>Specially made by Winning Ticket. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "80223411037b4ae6a14b376b71099c725a023d5c1f2a82dca5e32b83aa20fa4c"
+    },
+    "1003601": {
+        "text": "<size=22>Specially made by Air Shakur. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f09a82ad738c6964eed0358f5d5a8eac47df86c83c00a11b877321fec0282365"
+    },
+    "1003602": {
+        "text": "<size=22>Specially made by Air Shakur. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f09a82ad738c6964eed0358f5d5a8eac47df86c83c00a11b877321fec0282365"
+    },
+    "1003701": {
+        "text": "<size=22>Specially made by Eishin Flash. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4e816cd16a63ce99cd5703d6db6243c3c639d018b91306e515e313bbbd2c8131"
+    },
+    "1003702": {
+        "text": "<size=22>Specially made by Eishin Flash. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4e816cd16a63ce99cd5703d6db6243c3c639d018b91306e515e313bbbd2c8131"
+    },
+    "1003801": {
+        "text": "<size=22>Specially made by Curren Chan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "bb5ad70643cc25dc1c02a593f998cb2734d54d1b0519daadf696baeb4022cf3d"
+    },
+    "1003802": {
+        "text": "<size=22>Specially made by Curren Chan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "bb5ad70643cc25dc1c02a593f998cb2734d54d1b0519daadf696baeb4022cf3d"
+    },
+    "1003901": {
+        "text": "<size=22>Specially made by Kawakami Princess. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "e4b5329c9e85cc7b5ed1fb164b909a712564e75698afaf700b2f271d8634716d"
+    },
+    "1003902": {
+        "text": "<size=22>Specially made by Kawakami Princess. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "e4b5329c9e85cc7b5ed1fb164b909a712564e75698afaf700b2f271d8634716d"
+    },
+    "1004001": {
+        "text": "<size=22>Specially made by Gold City. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "925515f3b58e458bfca51b36d04c7e79253f3d669b898c160095a5b1efc40b60"
+    },
+    "1004002": {
+        "text": "<size=22>Specially made by Gold City. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "925515f3b58e458bfca51b36d04c7e79253f3d669b898c160095a5b1efc40b60"
+    },
+    "1004101": {
+        "text": "<size=22>Specially made by Sakura Bakushin O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "67a3d01056b2b96a781172d8adf83b073b2dd99c93418429b7f9676161e778fc"
+    },
+    "1004102": {
+        "text": "<size=22>Specially made by Sakura Bakushin O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "67a3d01056b2b96a781172d8adf83b073b2dd99c93418429b7f9676161e778fc"
+    },
+    "1004201": {
+        "text": "<size=22>Specially made by Seeking the Pearl. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d7174737b6fd57044060c122cdfba93c791b5be27e0e24feee6ae1416ca0fa47"
+    },
+    "1004301": {
+        "text": "<size=22>Specially made by Shinko Windy. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "64d34318d0e889f78d1dceaf3c3bb427a0acc405566459c7f02bb42f68329c34"
+    },
+    "1004401": {
+        "text": "<size=22>Specially made by Sweep Tosho. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d5245a48cfa8c013bcad227dcb3f904cc5857f10e95e548338e63ca26d104b5c"
+    },
+    "1004501": {
+        "text": "<size=22>Specially made by Super Creek. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c0d6bf652ba62da5b5e6fb37075c3c0be01a666eedd4c90722e2d73c3c7ddb5a"
+    },
+    "1004502": {
+        "text": "<size=22>Specially made by Super Creek. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c0d6bf652ba62da5b5e6fb37075c3c0be01a666eedd4c90722e2d73c3c7ddb5a"
+    },
+    "1004601": {
+        "text": "<size=22>Specially made by Smart Falcon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d48b568335c363dfbf41628e417549be307b6fba4f3d550c7eb1f6f5b8210d6f"
+    },
+    "1004602": {
+        "text": "<size=22>Specially made by Smart Falcon. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d48b568335c363dfbf41628e417549be307b6fba4f3d550c7eb1f6f5b8210d6f"
+    },
+    "1004701": {
+        "text": "<size=22>Specially made by Zenno Rob Roy. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "2e1172fbd2abbf38cb7e0aa082146a71572448042e964a5d600d592840f915eb"
+    },
+    "1004801": {
+        "text": "<size=22>Specially made by Tosen Jordan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3d4a89a11e66961d630e8a36748b7f3ea663615678d21319ab454bf6cb40843e"
+    },
+    "1004802": {
+        "text": "<size=22>Specially made by Tosen Jordan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "3d4a89a11e66961d630e8a36748b7f3ea663615678d21319ab454bf6cb40843e"
+    },
+    "1004901": {
+        "text": "<size=22>Specially made by Nakayama Festa. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "dec0a79a50fd8b281368b8c727c16fd45bd2afb4a507937bbe33a798693b6d67"
+    },
+    "1005001": {
+        "text": "<size=22>Specially made by Narita Taishin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f6578f7641dba80733c1fa5e800cb280e7fc567d6ae872a2f9ce48a5f464494b"
+    },
+    "1005002": {
+        "text": "<size=22>Specially made by Narita Taishin. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f6578f7641dba80733c1fa5e800cb280e7fc567d6ae872a2f9ce48a5f464494b"
+    },
+    "1005101": {
+        "text": "<size=22>Specially made by Nishino Flower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a2430b3a8d171bb6e9039eb5711bc7f925c78afa94004a67c681776708865539"
+    },
+    "1005102": {
+        "text": "<size=22>Specially made by Nishino Flower. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a2430b3a8d171bb6e9039eb5711bc7f925c78afa94004a67c681776708865539"
+    },
+    "1005201": {
+        "text": "<size=22>Specially made by Haru Urara. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1f53d7b33fa215eccc8be835bc8a544fe675ade678646a4c795e49f95da82bbe"
+    },
+    "1005202": {
+        "text": "<size=22>Specially made by Haru Urara. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "1f53d7b33fa215eccc8be835bc8a544fe675ade678646a4c795e49f95da82bbe"
+    },
+    "1005301": {
+        "text": "<size=22>Specially made by Bamboo Memory. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6dc7a83c4ad96dec7d0ec1d1879e0bc6636a63f096c6d80e17ec2d0feead1f60"
+    },
+    "1005302": {
+        "text": "<size=22>Specially made by Bamboo Memory. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6dc7a83c4ad96dec7d0ec1d1879e0bc6636a63f096c6d80e17ec2d0feead1f60"
+    },
+    "1005601": {
+        "text": "<size=22>Specially made by Matikanefukukitaru. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d6e21c9aae5c2b703699dcd1351788d2424c5332d79ae8c9e85e98bc1ce3ea96"
+    },
+    "1005602": {
+        "text": "<size=22>Specially made by Matikanefukukitaru. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "d6e21c9aae5c2b703699dcd1351788d2424c5332d79ae8c9e85e98bc1ce3ea96"
+    },
+    "1005801": {
+        "text": "<size=22>Specially made by Meisho Doto. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6a665da98c07135fe219e35c981ded34a2f863545ecb10dc69caba3c694e5902"
+    },
+    "1005802": {
+        "text": "<size=22>Specially made by Meisho Doto. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6a665da98c07135fe219e35c981ded34a2f863545ecb10dc69caba3c694e5902"
+    },
+    "1005901": {
+        "text": "<size=22>Specially made by Mejiro Dober. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a4bce2428c760499ab404b957696b419d98753c6a870dbfe28db29026bb2bae1"
+    },
+    "1005902": {
+        "text": "<size=22>Specially made by Mejiro Dober. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "a4bce2428c760499ab404b957696b419d98753c6a870dbfe28db29026bb2bae1"
+    },
+    "1006001": {
+        "text": "<size=22>Specially made by Nice Nature. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "23bd619e255393541f30ede52774e9855bdd6618c6c0e397236a8fe21a340781"
+    },
+    "1006002": {
+        "text": "<size=22>Specially made by Nice Nature. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "23bd619e255393541f30ede52774e9855bdd6618c6c0e397236a8fe21a340781"
+    },
+    "1006003": {
+        "text": "<size=22>Specially made by Nice Nature. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "23bd619e255393541f30ede52774e9855bdd6618c6c0e397236a8fe21a340781"
+    },
+    "1006101": {
+        "text": "<size=22>Specially made by King Halo. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4efb39404a417df718437d4bb310840b359d4c3becd01f60429aeb71d1bfc8f2"
+    },
+    "1006102": {
+        "text": "<size=22>Specially made by King Halo. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "4efb39404a417df718437d4bb310840b359d4c3becd01f60429aeb71d1bfc8f2"
+    },
+    "1006201": {
+        "text": "<size=22>Specially made by Matikanetannhauser. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c2167f1babcc9b07676fb7b12130e84a84f2765a28290209ac52f7779bcc77ec"
+    },
+    "1006202": {
+        "text": "<size=22>Specially made by Matikanetannhauser. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "c2167f1babcc9b07676fb7b12130e84a84f2765a28290209ac52f7779bcc77ec"
+    },
+    "1006401": {
+        "text": "<size=22>Specially made by Mejiro Palmer. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "af8b8dbcabd79eefa575d7993d4a4f95840ed3b3c024e52cc5326b255a8515f9"
+    },
+    "1006402": {
+        "text": "<size=22>Specially made by Mejiro Palmer. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "af8b8dbcabd79eefa575d7993d4a4f95840ed3b3c024e52cc5326b255a8515f9"
+    },
+    "1006501": {
+        "text": "<size=22>Specially made by Daitaku Helios. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "79590aee7296b49c068278bda72949c7c5c867a6a8dbb14f63b4526448e34ab0"
+    },
+    "1006701": {
+        "text": "<size=22>Specially made by Satono Diamond. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "201698efb2e28a720483bb8c66f0614bfb76245afb78c7452347eadcdee55891"
+    },
+    "1006702": {
+        "text": "<size=22>Specially made by Satono Diamond. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "201698efb2e28a720483bb8c66f0614bfb76245afb78c7452347eadcdee55891"
+    },
+    "1006703": {
+        "text": "<size=22>Specially made by Satono Diamond. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "201698efb2e28a720483bb8c66f0614bfb76245afb78c7452347eadcdee55891"
+    },
+    "1006801": {
+        "text": "<size=22>Specially made by Kitasan Black. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6dc6fd35837d94b42d0fca022138791ec011c17d771bfed09e3c73036ff95653"
+    },
+    "1006802": {
+        "text": "<size=22>Specially made by Kitasan Black. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6dc6fd35837d94b42d0fca022138791ec011c17d771bfed09e3c73036ff95653"
+    },
+    "1006803": {
+        "text": "<size=22>Specially made by Kitasan Black. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "6dc6fd35837d94b42d0fca022138791ec011c17d771bfed09e3c73036ff95653"
+    },
+    "1006901": {
+        "text": "<size=22>Specially made by Sakura Chiyono O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "e61f0cc994ca8e203a2b622eec558ed807ea55e29fffd587f9ca44e415979304"
+    },
+    "1006902": {
+        "text": "<size=22>Specially made by Sakura Chiyono O. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "e61f0cc994ca8e203a2b622eec558ed807ea55e29fffd587f9ca44e415979304"
+    },
+    "1007101": {
+        "text": "<size=22>Specially made by Mejiro Ardan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f0ee5991ecd59ad48aed67c85e66fb31453376278e78cf2a5808fadb63b46f73"
+    },
+    "1007102": {
+        "text": "<size=22>Specially made by Mejiro Ardan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "f0ee5991ecd59ad48aed67c85e66fb31453376278e78cf2a5808fadb63b46f73"
+    },
+    "1007201": {
+        "text": "<size=22>Specially made by Yaeno Muteki. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "120aa19ee99f667ce5f94b4df916450cbee5ed9ccaa27c82d9ad181007d6a0dc"
+    },
+    "1007401": {
+        "text": "<size=22>Specially made by Mejiro Bright. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "abf5d1541a0e277893068c21ee71d266cca5ae842a500fca6165965e49c04253"
+    },
+    "1007402": {
+        "text": "<size=22>Specially made by Mejiro Bright. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "abf5d1541a0e277893068c21ee71d266cca5ae842a500fca6165965e49c04253"
+    },
+    "1007801": {
+        "text": "<size=22>Specially made by Yamanin Zephyr. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "12db2c545ec8dba68b8363e1e2d17aeb81e145b4355aa11b51daf656454de099"
+    },
+    "1008701": {
+        "text": "<size=22>Specially made by Aston Machan. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "11cb4ce89003dd7d66c53e4bc7b29e4fe9d4c3614f3b354d5cf91526537dc9dc"
+    },
+    "1009801": {
+        "text": "<size=22>Specially made by Copano Rickey. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "ab7f53d4412cfa4d2c6f356ae3c25a634913f9ee0f9ca072935d8408576ee780"
+    },
+    "1009901": {
+        "text": "<size=22>Specially made by Hokko Tarumae. \\nRestores 30TP upon use.\\n</size>",
+        "hash": "076a95cfe48d8030f69a0f67b0b290b268f27bf75ef75d8905974e4f7fd20065"
+    },
+    "1010001": {
+        "text": "<size=22>Specially made by Wonder Acute. \\nRestores 30TP upon use. \\n</size>",
+        "hash": "46b2801990627ac7cbfc012dc4ed79446020c35850a28f636f19689ab9f2f21c"
     }
 }

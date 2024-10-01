@@ -1,4 +1,452 @@
 {
+    "11001": {
+        "text": "Steps (basics)",
+        "hash": "9c0282c1734597e5f47d229ec17ad3a29291ee1d11a793deaaee23eff68c10d4"
+    },
+    "11002": {
+        "text": "Calls (basics)",
+        "hash": "390bf6856e7d2374d82ff2d9a644923c17626fcb63b2f43e4208cb009553fb3e"
+    },
+    "11003": {
+        "text": "Vocals (basics)",
+        "hash": "69ee23d523e589073188085baa9b992481e01cab7cd3467ae827acbdcbaa32a4"
+    },
+    "11004": {
+        "text": "Make-up (basics)",
+        "hash": "cd786b9a6d694647754c6729bec122d8cbd991b3e754fa47632ad19d0c8ff2e3"
+    },
+    "11005": {
+        "text": "Stage Psychology (basics)",
+        "hash": "b3e6daec0d81fc008d95a92f7ed45e66adbfa1b93618166c617d6af6d79df96a"
+    },
+    "11006": {
+        "text": "Young Idol Live Observation",
+        "hash": "2a6247b326b8019c8bb1a7b4f02b919fa7472f7206b8558a044b6b3ccba6122f"
+    },
+    "11101": {
+        "text": "Steps (practical)",
+        "hash": "e20e9c2ac53d91fd795232ada6afd69dbedb05179116b7e0fe009accd6d644c6"
+    },
+    "11102": {
+        "text": "Calls (practical)",
+        "hash": "feb6c2a620e49f5ee909541acbeabde81c02a1a7ec6ab39c78c682f883ec1c55"
+    },
+    "11103": {
+        "text": "Vocals (practical)",
+        "hash": "7dc22c5146b6e7d971475c0e93566704caa4d4f4459dc250784bc38bad61f376"
+    },
+    "11104": {
+        "text": "Make-up (practical)",
+        "hash": "a48ccd1c6c4ef06b10a62e7092c514b46ec37faa7eef7439c149db695079dced"
+    },
+    "11105": {
+        "text": "Stage Psychology (practical)",
+        "hash": "5eb27e43197f56c6526a880718069edc5cf68628289fab38b63b69e0329de904"
+    },
+    "11106": {
+        "text": "Mainstream Idol Live Observation",
+        "hash": "6498720b30103c9872298fe887908846f80ee8dcc343efd718a5bd4ab1a4cc98"
+    },
+    "11201": {
+        "text": "Steps (Advanced)",
+        "hash": "18eede8b632f9ba89d5e2f2668a726939afd89c7c3979e1ce76eef32d0d76d03"
+    },
+    "11202": {
+        "text": "Calls (Advanced)",
+        "hash": "408ef74fba3e4cce4b12d0fc303ebc03f430f47ecd6479da6e471b025dddeceb"
+    },
+    "11203": {
+        "text": "Vocals (Advanced)",
+        "hash": "3c97f5429dad1a0c762a3dfb666780b7c90be6480438d813818d7355be45fac7"
+    },
+    "11204": {
+        "text": "Make-up (Advanced)",
+        "hash": "a9f04fc8c11fd653ced27d692278660e4841431357900ce4e36dd1244a9a11e2"
+    },
+    "11205": {
+        "text": "Stage Psychology (Advanced)",
+        "hash": "7097e47509a9e952ea65e2181ae848cd094c35df82e9734b3c12755e82c0868e"
+    },
+    "11206": {
+        "text": "Top Idol Live Observation",
+        "hash": "2f77772ea16ad62a590175cefbd57ea47aa9cb65753616c3e56de2a0ff21dd96"
+    },
+    "12001": {
+        "text": "Rhythm (basics)",
+        "hash": "75469c83e077c44d83f1433e15e7ee7ea1913d92a527664343402aa55438ee5f"
+    },
+    "12002": {
+        "text": "Fanservice (basics)",
+        "hash": "2cab17724deb0593dca0107645ccf040d7a87273618dc2a99961bed28fa5a612"
+    },
+    "12003": {
+        "text": "Diaphragmatic Breathing (basics)",
+        "hash": "6d2a0a3b2b8c1a4dc9c6eaa456919cce371033780e4561da3032d7aea77e671a"
+    },
+    "12004": {
+        "text": "Hair Styling (basics)",
+        "hash": "c80558bc694bbc6acdf809a2ef6f370f8027ea7b924fbf5482a90e21b62ffcee"
+    },
+    "12005": {
+        "text": "Solo Parts (basics)",
+        "hash": "2f52341f2623a380f8b0e53d02a36e0398e74eefdd5a9ffe65099b402eeaadcb"
+    },
+    "12006": {
+        "text": "Autograph Practice (basics)",
+        "hash": "40ffff194fc60a1f3cad6fbaefd9c7887259f4f878f7fa65f1fe1a2cbafe23bd"
+    },
+    "12101": {
+        "text": "Rhythm (practical)",
+        "hash": "3edeac3382dbb28925aede38f017d51edd79104635f1406400650c504f868a8c"
+    },
+    "12102": {
+        "text": "Fanservice (practical)",
+        "hash": "ef8c39820bf0ddf36bdcc61a7291ffec9f12320194dd14848a6b5f09432741cc"
+    },
+    "12103": {
+        "text": "Diaphragmatic Breathing (practical)",
+        "hash": "e7a956ee052a1db7eb85ded2037e04baf0f7074142d8a1ef8beae9680812f49a"
+    },
+    "12104": {
+        "text": "Hair Styling (practical)",
+        "hash": "5f89d4d18bf29c5098a8af870e3e1657fc54c41a6f2c4f94e0e791597198724d"
+    },
+    "12105": {
+        "text": "Solo Parts (practical)",
+        "hash": "11b989dfc52678f7daa3cb6b329d9ca30d71bdb9f6ae2c416a2436a89105576c"
+    },
+    "12106": {
+        "text": "Autograph Practice (practical)",
+        "hash": "8bcb739b2eec9cdb8f197b8abe17a105f3bc293474402ed74cef327da5b14731"
+    },
+    "12201": {
+        "text": "Rhythm (advanced)",
+        "hash": "c6a182e43267a23e17a9f32ae3b7315f82416cfc534eb495fb1092142b831305"
+    },
+    "12202": {
+        "text": "Fanservice (advanced)",
+        "hash": "df292cd824751228e83d2516ddf674d0be1f73ab2ad2bd3754b6c2fa1cef0f6d"
+    },
+    "12203": {
+        "text": "Diaphragmatic Breathing (advanced)",
+        "hash": "9e19bcad2185ba64adb0ea80fca8679dc4654cba3faca0dd437336f235ab3896"
+    },
+    "12204": {
+        "text": "Hair Styling (advanced)",
+        "hash": "100d508967d3b3568f2cc07e5e0897f26def7ea7503e24a64072aa6de32b1fb7"
+    },
+    "12205": {
+        "text": "Solo Parts (advanced)",
+        "hash": "47fb32d2a1bc68254475bdbb35ab26f1fc02b1b805c6f3157a6736de54c01410"
+    },
+    "12206": {
+        "text": "Autograph Practice(advanced)",
+        "hash": "7a05dd4d652d405e8c34c3ca26df7d4abb753feb4bba8513c1237b75e4db7008"
+    },
+    "13001": {
+        "text": "Expression (basics)",
+        "hash": "c230af1473ac115be8f572ef9c3174436f3109f8a8a419a4509ab28c02b3292b"
+    },
+    "13002": {
+        "text": "Song & Dance (basics)",
+        "hash": "103e8c4495116b1d6459bb71d6c14406c9343abfeff5d78033eb3e661c9375be"
+    },
+    "13003": {
+        "text": "Jazz Dance (basics)",
+        "hash": "da5efa0b3761cfa5e4780143cfc0749921c804a100fb653981709d86976c9e5c"
+    },
+    "13004": {
+        "text": "Isolation (basics)",
+        "hash": "162e1b45d3efd071d8c7dfedfe80d5d93ffae01461bb415e96618ae41cc49e35"
+    },
+    "13005": {
+        "text": "Formation Practice (basics)",
+        "hash": "91977fd733622fc62619ab13b42f86c3c9f533e72c1ad5d10cd863f93381a712"
+    },
+    "13006": {
+        "text": "Lyrical Phrasing (basics)",
+        "hash": "e919166a604e535b492e31b2dd32d0815f312faa3465dcd9778a32a52764b17b"
+    },
+    "13007": {
+        "text": "Performance (basics)",
+        "hash": "c5c6b53f1a81958f12e022df30618807e2c466d38f311ad3bbf9a3201a594918"
+    },
+    "13008": {
+        "text": "Mic Usage (basics)",
+        "hash": "c7556eb11359da0556a8070d37ef419efef670501e7b6b9bb0f4327c1c76d65c"
+    },
+    "13009": {
+        "text": "Yoga (basics)",
+        "hash": "c2243e3f6901dc2a0bf4796cb6d4baa31adab20a8d4f5979f554da88dbdcfd1c"
+    },
+    "13010": {
+        "text": "Harmony (basics)",
+        "hash": "b91e8850a5cc77c5259771d4ef1142fb55a37ee2d877855207ea20c34a8497e0"
+    },
+    "13011": {
+        "text": "Rap (basics)",
+        "hash": "3c3e3c9d2f3a30155c0ea027d5dd94d591ac856d5d05d5946fc4729770bf870d"
+    },
+    "13012": {
+        "text": "Vocal Theory (basics)",
+        "hash": "0213955e89a47bb5b8a06f2346877b0c5a43806880b8602149b53e8a4e4c806f"
+    },
+    "13013": {
+        "text": "Calisthenics (basics)",
+        "hash": "2a401a702a44638fb73a1464a406bdf4fec9ad153b55b0be79982ea7d2ab8d2e"
+    },
+    "13014": {
+        "text": "Visual Research (basics)",
+        "hash": "fa982d4b0e9dba6e4bb5c2471dfab7ce4efa979ad8c82f5aa47d8beda153d110"
+    },
+    "13015": {
+        "text": "Idol History (basics)",
+        "hash": "11dd7a935bfdb878ff5084faf0020794d35738b2f9877d37cdd4a855bbc5b559"
+    },
+    "13101": {
+        "text": "Expression (practical)",
+        "hash": "07a1a353b52d7a1615b05ea2086de79a34ca81682e50c9721015d00bc9ad6630"
+    },
+    "13102": {
+        "text": "Song & Dance (practical)",
+        "hash": "0a06bbc1bb2ceee633c6e6248a93d4a62a9d5e7e2336040fb3da998e7616768c"
+    },
+    "13103": {
+        "text": "Jazz Dance (practical)",
+        "hash": "5de5d888cbf5731c30dc31598136c051e87157b4afe2fae34158eda8df787558"
+    },
+    "13104": {
+        "text": "Isolation (practical)",
+        "hash": "6d428249b20f010e355197fcc24445f8bdf6ebafc066f2bf1c89cca19fcbed5f"
+    },
+    "13105": {
+        "text": "Formation Practice (practical)",
+        "hash": "35816b355a682d7172bc4130bb2836830c13d43e6693b218cd083b725a2f225e"
+    },
+    "13106": {
+        "text": "Lyrical Phrasing (practical)",
+        "hash": "f60be26e7e9dfa144dea42c3a24d345bb99db48c9f8798cfd41688c0edaef8c3"
+    },
+    "13107": {
+        "text": "Performance (practical)",
+        "hash": "baef99ffa4c43719c2e42dfe5f0b41417b2efe890dcc6e8ed0063a8866cbe2cc"
+    },
+    "13108": {
+        "text": "Mic Usage (practical)",
+        "hash": "a1d9fa6dccbfea906e345f36797f84d0425c72d7ffbd2f63e059c5272322a8f7"
+    },
+    "13109": {
+        "text": "Yoga (practical)",
+        "hash": "ddabc729a2f2dc1c274c8510080fc3c67129a27922ac1fcb50acd151594165bc"
+    },
+    "13110": {
+        "text": "Harmony (practical)",
+        "hash": "6c889da5a65dce557eb9abba7d32fecf6b396003c0d950989987be22ebdd636c"
+    },
+    "13111": {
+        "text": "Rap (practical)",
+        "hash": "1c6de08041830bcfbb22411a948f1066f6b466b5869f135c88932fec97d0f286"
+    },
+    "13112": {
+        "text": "Vocal Theory (practical)",
+        "hash": "32af5e294dc66ae02261999b684ac8dc56d76122b515ceed845b750006a01663"
+    },
+    "13113": {
+        "text": "Calisthenics (practical)",
+        "hash": "71be82643b12cd8cf04c7b7530a6d8eeb02e98462a68c0484cca0a67dcfa0781"
+    },
+    "13114": {
+        "text": "Visual Research (practical)",
+        "hash": "b9af28ff3eaba4000f1b4055aeeb63123a8e78e7c39f139cae38bae28d101989"
+    },
+    "13115": {
+        "text": "Idol History (practical)",
+        "hash": "6b500accb742a7bf3c5b476241c639d6d72df906ef034cfccf4fe81453c738df"
+    },
+    "13201": {
+        "text": "Expression (advanced)",
+        "hash": "19639d4001d0069d8e70f6aff0771bb627aae451048620ac3b0e8bc33b818a1a"
+    },
+    "13202": {
+        "text": "Song & Dance (advanced)",
+        "hash": "ba769eb0241fe17fde004dd2c913b8c9e773a76e0f1a63eae42e4ac6eae6ab6a"
+    },
+    "13203": {
+        "text": "Jazz Dance (advanced)",
+        "hash": "625837a65336d955ce89062a5d24286c6c50f31d8ac7d6b85c30039c9a39072d"
+    },
+    "13204": {
+        "text": "Isolation (advanced)",
+        "hash": "e7ecc2c3361b41470c5259f84c540c780f4f025242906364e8d88018f9058643"
+    },
+    "13205": {
+        "text": "Formation Practice (advanced)",
+        "hash": "d6e52a4e7855ee9bd05ca7eb72c33bc9d07a3a508db574dc36f166b777cbca4b"
+    },
+    "13206": {
+        "text": "Lyrical Phrasing (advanced)",
+        "hash": "3f17e90ce4eb0f9da4fcdacb3c9258be4ad49373d02f84343366a89157d46060"
+    },
+    "13207": {
+        "text": "Performance (advanced)",
+        "hash": "02bddb6d456e41806d103f34f4c59f551439ec0e6d5e41d3436dffada561d5dc"
+    },
+    "13208": {
+        "text": "Mic Usage (advanced)",
+        "hash": "501d9fc194fa73ec8e849cfd7b184fd1460c0bbfe40ca6a7bff059bec11cffff"
+    },
+    "13209": {
+        "text": "Yoga (advanced)",
+        "hash": "26016e8a72234a964a15b9048daaad6fab3b69d5479dae5888ec735bda390708"
+    },
+    "13210": {
+        "text": "Harmony (advanced)",
+        "hash": "c4f2cfdf2fb50666dde3520e5886aa242b501f486eb83bfdcf77753a4c75f6db"
+    },
+    "13211": {
+        "text": "Rap (advanced)",
+        "hash": "76de72a68eb208b42340a75e103dec07fdd5267a71ee8110fd2298639f6a2a8a"
+    },
+    "13212": {
+        "text": "Vocal Theory (advanced)",
+        "hash": "55e112d870c72d806c23d5cd387bf9fc8bd347b99566386b2e397d98eeaa5d90"
+    },
+    "13213": {
+        "text": "Calisthenics (advanced)",
+        "hash": "dc54560a920d94dc0d69f55f08dbc7e1232b8af734f78b68c582e91acb6788b8"
+    },
+    "13214": {
+        "text": "Visual Research (advanced)",
+        "hash": "cf8949f2d29a7cdbb7bc2f61d7751c55f21ddc4ad9f3d1a0d9f3c91982bb9ee8"
+    },
+    "13215": {
+        "text": "Idol History (advanced)",
+        "hash": "e874b05eff3e64f416cbc32dd4524b994da21e9ce9dd77855c3d617f6c1cab33"
+    },
+    "20000": {
+        "text": "Group Lesson",
+        "hash": "803b86f0b94ed0f17f488066fa54b514438b03f230bbbcb699d35db3c8061f5d"
+    },
+    "20001": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20002": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20003": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20004": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20005": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20006": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20007": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20008": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20009": {
+        "text": "Group Lesson (basics)",
+        "hash": "45099e19a1a15e124d2c7546e2a1babc2591babba6249ec63efbf626c1377f6d"
+    },
+    "20010": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20011": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20012": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20013": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20014": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20015": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20016": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20017": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20018": {
+        "text": "Group Lesson (practical)",
+        "hash": "4fef7e3d4ea8324925e12f971a0e4ea776b0416bde9f2284e9e2ed67d148d332"
+    },
+    "20019": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20020": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20021": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20022": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20023": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20024": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20025": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20026": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "20027": {
+        "text": "Group Lesson (advanced)",
+        "hash": "d9e2cefe8b0dcd8ab3f8a2c17243cc8adef518b1f40a03a1becbef19de12611a"
+    },
+    "30000": {
+        "text": "Face Massage",
+        "hash": "c1ff4eea63dad846c494ebdd8f3c4b140ca6e87e65e5848eedb70575ab63a86b"
+    },
+    "30001": {
+        "text": "Body Relaxation",
+        "hash": "a7c2874a1c816ca13d35525993d98b98d59983879b8e7f180ce0fd8a2a0d0493"
+    },
+    "30002": {
+        "text": "Full Body Detox",
+        "hash": "fc65ae991141711a027b4d564da2503cb31f7fdb30776f1119fe54a243d6aae8"
+    },
     "40000": {
         "text": "Yume o Kakeru!",
         "hash": "afc5f8fab6cc4e25c2ec4af7e9688f766f6e83671cf1412e05201150d0fe1c68"
@@ -19,13 +467,33 @@
         "text": "Komorebi no Yell",
         "hash": "1d54d91979b0979633c08bb81544dd08e3c2411dc05c37471d2194862eee4eba"
     },
+    "40007": {
+        "text": "Believe in Miracles!",
+        "hash": "f686540777f858924bd248cfb5d96c684d8ddd03f63f69cd049c9c139294d638"
+    },
+    "40008": {
+        "text": "Nanairo no Keshiki",
+        "hash": "35a07e5ff579470102a57244a4789b5571a00845dfe5ab4cc70d57eef09be4d0"
+    },
     "40009": {
         "text": "Nigekiri! Fallin' Love",
         "hash": "1087da1706a279436150a747edf7f4f8ad85baa6e35038995c7c05b7c5d370bd"
     },
+    "40010": {
+        "text": "Ring Ring Diary",
+        "hash": "a24987d3fa1c4de3f41eae128592aa716a00f4287598c34951fcff71e44c467e"
+    },
     "40011": {
         "text": "Bokura no Bluebird Days",
         "hash": "d725385537455d44c9d7e3d7ea7f8753d908707c584dffe8fff7bdf347b4c8c8"
+    },
+    "40012": {
+        "text": "Sekai Ha Bokura no Iinari sa",
+        "hash": "ddcfa5748aad8038385d8d49f239ee90a2803d0dc90c27ce59398a525f4aca3e"
+    },
+    "40014": {
+        "text": "SPRING SKIES BLUE",
+        "hash": "6588c2d211695f6abc1993772136011b36a1e72d4f732e85378387bca3b07c82"
     },
     "40015": {
         "text": "Yumezora",
@@ -42,5 +510,9 @@
     "40020": {
         "text": "Tachiichi Zero-ban! Jun'i wa Ichiban!",
         "hash": "a410fc9d5a804d6fba35b4b2b8b1b4da9d805cdf9cf7aa18147a42fac62cd532"
+    },
+    "40091": {
+        "text": "Make debut!",
+        "hash": "891d12e3d838ded6a4c962991d2b36cd311ff4f00757f3babe58fda814dff299"
     }
 }

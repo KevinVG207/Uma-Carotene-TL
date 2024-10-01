@@ -11,6 +11,14 @@
         "text": "Clovers",
         "hash": "fadb45b5863d50a644ce4f3aa5744fac9dfa41f9aed1142974d7125f17a8476b"
     },
+    "5000": {
+        "text": "★3 Umamusume Shop",
+        "hash": "3773125e8864a3c27093e73770f7b72dfd5e81bca5d9139ad85e5045e06f1c74"
+    },
+    "5001": {
+        "text": "UmaBako 2 Special Ticket Shop",
+        "hash": "6ce9202cdd749e90a18d7c4c53024fa9c81a1a256d770e742b4bfa2fc43f7af1"
+    },
     "5002": {
         "text": "1st Anniversary 3★ Exchange Ticket",
         "hash": "15504e4430bed7bd74596cd644e4c11283e15b4459d47d2201a4d706fae1af9a"
@@ -22,6 +30,22 @@
     "5004": {
         "text": "2.5th Anniversary 3★ Exchange Ticket",
         "hash": "608618079f16739c421a3fa29544ea775c172a32ad631f9d9ae0fcbdd9b95359"
+    },
+    "5005": {
+        "text": "New trainer support ★3 ticket",
+        "hash": "b54e44d201f3c014c8b3840b371a24d5ef8edd7f59b9e8e3095cc571d46484e7"
+    },
+    "5006": {
+        "text": "TV Anime Season 3 \\nCelebration ★3 ticket",
+        "hash": "0cf3db671fdc2815985e47b96ee8c28dcb6db9b1779c5412e7977fa6fc788284"
+    },
+    "5500": {
+        "text": "SSR Card Shop",
+        "hash": "0dbdf3fd7a3ccadbb9e9e079abab69cd5bf6c025c8fa543f2175fa6421470186"
+    },
+    "5501": {
+        "text": "Half Anniversary SSR \\nExchange Ticket",
+        "hash": "52bf7dd87d5377eda4c9e1353d175e17f03bb160baaefcbfeef90ee8c453d8b4"
     },
     "5502": {
         "text": "1st Anniversary SSR Exchange Ticket",
@@ -39,9 +63,25 @@
         "text": "2.5th Anniversary SSR Exchange Ticket",
         "hash": "6aae4a2dfd21c8c37a5f1b1d73880941f7f62d6aea9f325a671e237967a0b452"
     },
+    "5506": {
+        "text": "New trainer support SSR ticket",
+        "hash": "0b07a8163f79a64dfd6f711b02433265b41b392c3425585779dcf53eed4ab130"
+    },
     "6000": {
         "text": "Bookmark of Reminiscence",
         "hash": "5fa50c602c3c5a1109c40aeee2b385f1e6b50551d741f7597c3a79ae70a1954a"
+    },
+    "7000": {
+        "text": "Rainbow Horseshoe Shop",
+        "hash": "146447b3b7b1eca20c25dd53e9a5eee41a2f60e641c4bf46cce53cf6e4adbde3"
+    },
+    "7001": {
+        "text": "Gold Horseshoe Shop",
+        "hash": "99aa0e2884e5992aa17c6c025799f579eb5282fed70de80fa706c2140e0272ff"
+    },
+    "7002": {
+        "text": "Silver Horseshoe Shop",
+        "hash": "a9b465f17e7ba389ef4b6b0aab6c21eb226f2591b2d926fafa6e2bc5b639dfd6"
     },
     "8000": {
         "text": "Trainer Medals",
@@ -54,5 +94,101 @@
     "9000": {
         "text": "Limited Sale",
         "hash": "b5ee45b9f77224e1c1b68d704c0da5462d9b70dd430f4dc2d7b01750657cc8a4"
+    },
+    "10000": {
+        "text": "Rainbow Fragment Shop",
+        "hash": "8197bf1a0d72dad1f53096685fa1abafc01cc84ff1f35875549f2db7732eb423"
+    },
+    "10001": {
+        "text": "Gold Fragment Shop",
+        "hash": "b58cf8abd40a2bd3c37153d98e93fc132bcfee2d9eae889db277437987d3fc8a"
+    },
+    "11000": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "11001": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "11002": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "11003": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "11004": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "11005": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "11006": {
+        "text": "Trial Coin Shop",
+        "hash": "f1ab65118c9c3c64ef4b28a3f26dc8f7be4e6ff4491cacb607ae814c0f0f0d27"
+    },
+    "12000": {
+        "text": "1st Anniv. \\nSpecial",
+        "hash": "a4135c25c87462faf499469b769bbef8df1500e2dece4e8e4a3e80a378a94237"
+    },
+    "12001": {
+        "text": "1st Anniv. \\nSpecial",
+        "hash": "a4135c25c87462faf499469b769bbef8df1500e2dece4e8e4a3e80a378a94237"
+    },
+    "12002": {
+        "text": "1st Anniv. \\nSpecial",
+        "hash": "a4135c25c87462faf499469b769bbef8df1500e2dece4e8e4a3e80a378a94237"
+    },
+    "12003": {
+        "text": "1.5th Anniv. \\nSpecial",
+        "hash": "eb8833c639f0737c9eb906450518024af7f3d43b37204f7a5aca7312c1de4cc7"
+    },
+    "12004": {
+        "text": "1.5th Anniv. \\nSpecial",
+        "hash": "eb8833c639f0737c9eb906450518024af7f3d43b37204f7a5aca7312c1de4cc7"
+    },
+    "12005": {
+        "text": "2nd Anniv. \\nSpecial",
+        "hash": "54f178fec19906d7ebed61411ce84d6d1f254248d89721f1536be74246ce4cf8"
+    },
+    "12006": {
+        "text": "2nd Anniv. \\nSpecial",
+        "hash": "54f178fec19906d7ebed61411ce84d6d1f254248d89721f1536be74246ce4cf8"
+    },
+    "12007": {
+        "text": "2.5th Anniv. \\nSpecial",
+        "hash": "3ab7175e297d89d00167ee585f106167240b08c40937f611308cc70fcf2309ef"
+    },
+    "12008": {
+        "text": "2.5th Anniv. \\nSpecial",
+        "hash": "3ab7175e297d89d00167ee585f106167240b08c40937f611308cc70fcf2309ef"
+    },
+    "20001": {
+        "text": "Carnival Pt \\nTrade",
+        "hash": "c743cfbfe24c96e5e4c1a34335aeaa7a49bfc16955ac44c221f1fa9eb89e21e5"
+    },
+    "20002": {
+        "text": "Carnival Pt \\nTrade",
+        "hash": "c743cfbfe24c96e5e4c1a34335aeaa7a49bfc16955ac44c221f1fa9eb89e21e5"
+    },
+    "20003": {
+        "text": "Carnival Pt \\nTrade",
+        "hash": "c743cfbfe24c96e5e4c1a34335aeaa7a49bfc16955ac44c221f1fa9eb89e21e5"
+    },
+    "20004": {
+        "text": "Carnival Pt \\nTrade",
+        "hash": "c743cfbfe24c96e5e4c1a34335aeaa7a49bfc16955ac44c221f1fa9eb89e21e5"
+    },
+    "20005": {
+        "text": "Carnival Pt \\nTrade",
+        "hash": "c743cfbfe24c96e5e4c1a34335aeaa7a49bfc16955ac44c221f1fa9eb89e21e5"
+    },
+    "20006": {
+        "text": "Carnival Pt \\nTrade",
+        "hash": "c743cfbfe24c96e5e4c1a34335aeaa7a49bfc16955ac44c221f1fa9eb89e21e5"
     }
 }

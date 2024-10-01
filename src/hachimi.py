@@ -9,6 +9,7 @@ import fnv
 from PIL import Image
 from tqdm import tqdm
 from multiprocessing import Pool
+import json
 
 HACHIMI_ROOT = "tl-en\\localized_data\\"
 
@@ -73,10 +74,27 @@ def convert_jpdict():
     out_dict.update(in_dict)
 
     dict_keys = [key for key in out_dict.keys()]
-    dict_keys.sort()
+    dict_keys.sort(key=lambda x: x.lower())
     out_dict = {key: out_dict[key] for key in dict_keys}
 
     util.save_json(out_path, out_dict)
+
+
+def backport_jdict():
+    print("JPDict")
+    jpdict_path = util.ASSEMBLY_FOLDER + "jpdict.json"
+    jpdict = util.load_json(jpdict_path)
+    
+    hachimi_path = os.path.join(HACHIMI_ROOT, "localize_dict.json")
+    hachimi_dict = util.load_json(hachimi_path)
+
+    for key, entry in hachimi_dict.items():
+        if key not in jpdict:
+            continue
+
+        jpdict[key]["text"] = entry
+    
+    util.save_json(jpdict_path, jpdict)
 
 
 def convert_hashed():
@@ -112,7 +130,7 @@ def convert_hashed():
 def convert_assembly():
     print("==Assembly==")
     convert_jpdict()
-    convert_hashed()
+    # convert_hashed()
 
 
 def convert_mdb_nested(json_folder: str, out_path: str):
@@ -550,13 +568,115 @@ def convert():
     # copy_data()
     # print("Done")
 
+def backport_assembly():
+    backport_jdict()
+
+def backport_mdb_nested(in_path, json_folder, umafy=False):
+    if not os.path.exists(in_path):
+        print(f"File {in_path} does not exist")
+        return
+    
+    in_dict = util.load_json(in_path)
+
+    for key, entry_dict in in_dict.items():
+        json_path = os.path.join(json_folder, key + ".json")
+        if not os.path.exists(json_path):
+            print(f"File {json_path} does not exist")
+            continue
+        carotene_list = util.load_json(json_path)
+        print(key)
+
+        carotene_dict = {}
+        for c_entry in carotene_list:
+            c_keys = json.loads(c_entry['keys'])
+            for c_key in c_keys:
+                carotene_dict[str(c_key[-1])] = c_entry
+
+        for entry_key, entry in entry_dict.items():
+            if entry_key not in carotene_dict:
+                print(f"Hachimi {entry_key} not found in category {key}")
+                continue
+            if umafy:
+                entry = util.umafy(entry)
+            carotene_dict[entry_key]["text"] = entry
+
+        util.save_json(json_path, carotene_list)
+
+def backport_mdb_single(in_path, json_path, umafy=False):
+    if not os.path.exists(in_path):
+        print(f"File {in_path} does not exist")
+        return
+
+    if not os.path.exists(json_path):
+        print(f"File {json_path} does not exist")
+        return
+    
+    in_dict = util.load_json(in_path)
+    carotene_list = util.load_json(json_path)
+
+    carotene_dict = {}
+    for c_entry in carotene_list:
+        c_keys = json.loads(c_entry['keys'])
+        for c_key in c_keys:
+            carotene_dict[str(c_key[-1])] = c_entry
+
+    for entry_key, entry in in_dict.items():
+        if entry_key not in carotene_dict:
+            print(f"Hachimi {entry_key} not found")
+            continue
+        if umafy:
+            entry = util.umafy(entry)
+        carotene_dict[entry_key]["text"] = entry
+
+    util.save_json(json_path, carotene_list)
+
+def backport_text_data(umafy=False):
+    print("Backporting text_data")
+    in_path = os.path.join(HACHIMI_ROOT, "text_data_dict.json")
+    json_folder = os.path.join(util.MDB_FOLDER_EDITING, "text_data")
+    backport_mdb_nested(in_path, json_folder, umafy)
+
+def backport_character_system_text(umafy=False):
+    print("Backporting character_system_text")
+    in_path = os.path.join(HACHIMI_ROOT, "character_system_text_dict.json")
+    json_folder = os.path.join(util.MDB_FOLDER_EDITING, "character_system_text")
+    backport_mdb_nested(in_path, json_folder, umafy)
+
+def backport_race_jikkyo(umafy=False):
+    print("Backporting jikkyo message")
+    in_path = os.path.join(HACHIMI_ROOT, "race_jikkyo_message_dict.json")
+    json_path = os.path.join(util.MDB_FOLDER_EDITING, "race_jikkyo_message.json")
+    backport_mdb_single(in_path, json_path, umafy)
+
+    print("Backporting jikkyo comment")
+    in_path = os.path.join(HACHIMI_ROOT, "race_jikkyo_comment_dict.json")
+    json_path = os.path.join(util.MDB_FOLDER_EDITING, "race_jikkyo_comment.json")
+    backport_mdb_single(in_path, json_path, umafy)
+
+def backport_mdb():
+    backport_text_data()
+    backport_character_system_text()
+    backport_race_jikkyo()
+
+def backport_before():
+    backport_assembly()
+
+def backport_after():
+    backport_mdb()
+
+
 
 def main():
-    convert()
-    # convert_assembly()
-    # convert_mdb()
+    # convert()
+    # backport_assembly()
+    convert_assembly()
+    convert_mdb()
     # convert_assets()
     # copy_data()
+    # backport_text_data(True)
+    # backport_character_system_text(True)
+    # backport_race_jikkyo(True)
+    pass
 
 if __name__ == "__main__":
     main()

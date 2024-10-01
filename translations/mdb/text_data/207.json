@@ -1,0 +1,542 @@
+{
+    "11001": {
+        "text": "Speed <color=#ff911c>+5</color>",
+        "hash": "715ee0bea44c57e2e141d20d5f4c06b34e4a02580560741cc8b3a2092c4e62e6"
+    },
+    "11002": {
+        "text": "Stamina <color=#ff911c>+5</color>",
+        "hash": "ef8ade0e0149b30d79fe7d032be1b89ea37b5c2e2f9d37df6ea224b5e2d869ba"
+    },
+    "11003": {
+        "text": "Power <color=#ff911c>+5</color>",
+        "hash": "c5f1c0d2a4e671e982e8c60e0cda90406c0bbb067b592f15ac1ffb88c1d5e126"
+    },
+    "11004": {
+        "text": "Guts <color=#ff911c>+5</color>",
+        "hash": "4c035fb240f6be72bcee7fd967edadd7f74c927bc5af5ba88947a1be65c8e51d"
+    },
+    "11005": {
+        "text": "Wisdom <color=#ff911c>+5</color>",
+        "hash": "065da2871749a132ce52abdc456aad70c3102dfb373eeb1bb897ce41a6d324a6"
+    },
+    "11006": {
+        "text": "Skill Pt <color=#ff911c>+5</color>",
+        "hash": "c0e18ca4378264ab889af29393f0a9d6f497a732f8315a692872a5fce620ee4d"
+    },
+    "11101": {
+        "text": "Speed <color=#ff911c>+8</color>",
+        "hash": "58ef9a4a3e8ee2976bae9f5a5232a4d61045cee42c43039b6d305e3b6705d2c4"
+    },
+    "11102": {
+        "text": "Stamina <color=#ff911c>+8</color>",
+        "hash": "17cb921a676900af36868b2e6fdd6f270a845b45198d62db499e582dcf01b9eb"
+    },
+    "11103": {
+        "text": "Power <color=#ff911c>+8</color>",
+        "hash": "a9877f7ac1aa8645bd4e7474b59c0a28cadf7907c9e33825be3ee182e558b5c9"
+    },
+    "11104": {
+        "text": "Guts <color=#ff911c>+8</color>",
+        "hash": "245caaba5e9c5cdcbcca69d3dd454075658b2af59ac38ef3a626563f7c84ed26"
+    },
+    "11105": {
+        "text": "Wisdom <color=#ff911c>+8</color>",
+        "hash": "e53280039e13c3b2ad1703a52aa792ead236dff1fcac54e47b6009b0a1f4a57b"
+    },
+    "11106": {
+        "text": "Skill Pt <color=#ff911c>+8</color>",
+        "hash": "b86c61741fb744a1de275040eb21f4b4ed4a03f9a6d454190e2aa3b130efd720"
+    },
+    "11201": {
+        "text": "Speed <color=#ff911c>+12</color>",
+        "hash": "577300dc691cbd250d97c7cc266eecc53f5d96f57e96da0b21e1be58465cdb19"
+    },
+    "11202": {
+        "text": "Stamina <color=#ff911c>+12</color>",
+        "hash": "4d8cb496ae3f917e92ce6b198c772b50a7a7c21b79ef287ca015e91be88821cc"
+    },
+    "11203": {
+        "text": "Power <color=#ff911c>+12</color>",
+        "hash": "2b59be6da21890076a4d7396063f48f03b1730cfff72720b636feb47b9fe7bb5"
+    },
+    "11204": {
+        "text": "Guts <color=#ff911c>+12</color>",
+        "hash": "4f754b9abe0dc0d69db30d25a2a9239c55a48996a695c995002be96529d185fe"
+    },
+    "11205": {
+        "text": "Wisdom <color=#ff911c>+12</color>",
+        "hash": "76d46e56734d49b57b843479f3030d8faadc92707a90ef5cf122d37363eba39c"
+    },
+    "11206": {
+        "text": "Skill Pt <color=#ff911c>+12</color>",
+        "hash": "95a67855861b211b4d17f5f4943fed295a5dc2b24bf5a268b436d55de8d338dc"
+    },
+    "12001": {
+        "text": "Speed <color=#ff911c>+3～7</color>",
+        "hash": "7335e5cd4fbf0add2043b715f4963a7a9c9a07ed3ebaabd965d02a408bc6fe71"
+    },
+    "12002": {
+        "text": "Stamina <color=#ff911c>+3～7</color>",
+        "hash": "c76c6fc83d0a338504c0b5b168467e9b55e4ad5681a2bf1c8cf468ba34ad8538"
+    },
+    "12003": {
+        "text": "Power <color=#ff911c>+3～7</color>",
+        "hash": "1ae0df4181f8c9c99496402dde9930654f183a13286f973dca49ee5ad0691980"
+    },
+    "12004": {
+        "text": "Guts <color=#ff911c>+3～7</color>",
+        "hash": "a81af04046721fde2f2aa791d2860c2634c44d7449e46036ebb6067390aeff67"
+    },
+    "12005": {
+        "text": "Wisdom <color=#ff911c>+3～7</color>",
+        "hash": "e01adf0e77e79188c63a8606b13045509e7093a911bbe728a071591bfd8a7217"
+    },
+    "12006": {
+        "text": "Skill Pt <color=#ff911c>+3～7</color>",
+        "hash": "c7c01aea52fa07e68847bf9194be4c114b8db0e28b11a632c31b10fe333b0211"
+    },
+    "12101": {
+        "text": "Speed <color=#ff911c>+5～9</color>",
+        "hash": "0587d32f48f587ee85648671e64e04439dc907d5655f3877261fc104387637eb"
+    },
+    "12102": {
+        "text": "Stamina <color=#ff911c>+5～9</color>",
+        "hash": "82d6d00b7c1fe663830048594137a6e26846f95458f73ad70e307e0b569eb952"
+    },
+    "12103": {
+        "text": "Power <color=#ff911c>+5～9</color>",
+        "hash": "c0308021c85584e41778d2630bfed37e93779bcf5632544f229edf382668697a"
+    },
+    "12104": {
+        "text": "Guts <color=#ff911c>+5～9</color>",
+        "hash": "40955b03228d9c5e19c6871950ef877783ce3d2a1024e7542c9a56d0096bd311"
+    },
+    "12105": {
+        "text": "Wisdom <color=#ff911c>+5～9</color>",
+        "hash": "540f1920323ff85dd852bad792ff8b81f3f2955958b7c89e01954b5637c1551c"
+    },
+    "12106": {
+        "text": "Skill Pt <color=#ff911c>+5～9</color>",
+        "hash": "34b2ed4384a426fc076ae6df1f5d7afca8e4037794487da7fd4ad55a3e8a615d"
+    },
+    "12201": {
+        "text": "Speed <color=#ff911c>+8～12</color>",
+        "hash": "ec40fdc6328d274ceb3aa5c08cd381a40ede9cc5b9e330a106107228dd7d5073"
+    },
+    "12202": {
+        "text": "Stamina <color=#ff911c>+8～12</color>",
+        "hash": "38f1049dfa4db3d6e5bfd0838f5505ed93f3443ff24e47c00188657a8a19370f"
+    },
+    "12203": {
+        "text": "Power <color=#ff911c>+8～12</color>",
+        "hash": "c51d3ae0b72b80445723239ca2b6cea9a394b0b2bdebfc6fedf7bccebccd9385"
+    },
+    "12204": {
+        "text": "Guts <color=#ff911c>+8～12</color>",
+        "hash": "2ddd6882bc42f631768eb931fef5a093c07578edf61020b0e2f8fdd0e5ecc417"
+    },
+    "12205": {
+        "text": "Wisdom <color=#ff911c>+8～12</color>",
+        "hash": "63dc91dc9f39fd348ab248747c343d0c27425373685b64a44608f7a6392d886a"
+    },
+    "12206": {
+        "text": "Skill Pt <color=#ff911c>+8～12</color>",
+        "hash": "8f356bc317cb047de3c96646cd67f58eea96d5d095ef00ab58a848c0b8a3298e"
+    },
+    "13001": {
+        "text": "Speed <color=#ff911c>+4</color>\\nStamina <color=#ff911c>+4</color>",
+        "hash": "d687d10b64d0c3be05c96068a9b617d12d5e6bacf955646f5b5e21fb232246cd"
+    },
+    "13002": {
+        "text": "Speed <color=#ff911c>+4</color>\\nPower <color=#ff911c>+4</color>",
+        "hash": "6948409c1c603a9981e40d682e929eb6a3d990126aec62bc69bb29cafd029c6f"
+    },
+    "13003": {
+        "text": "Speed <color=#ff911c>+4</color>\\nGuts <color=#ff911c>+4</color>",
+        "hash": "d5833a609e1ff36dd97bc43f5f78b9be3175c61b5a087fd2c5febc04729d02ad"
+    },
+    "13004": {
+        "text": "Speed <color=#ff911c>+4</color>\\nWisdom <color=#ff911c>+4</color>",
+        "hash": "ee6b743e1a575584cfa9a9edd822219092ed48c9cd2e0976efc759d64ed18f20"
+    },
+    "13005": {
+        "text": "Speed <color=#ff911c>+4</color>\\nSkill Pt <color=#ff911c>+4</color>",
+        "hash": "23007abf19873eda15a232a0bbba40fa99b83ed39debcad0e015f42bfa9d04f4"
+    },
+    "13006": {
+        "text": "Stamina <color=#ff911c>+4</color>\\nPower <color=#ff911c>+4</color>",
+        "hash": "40841591de690ba06d24c674981f88bb9f15b8727bb369a55b9b2b6acae2cd0f"
+    },
+    "13007": {
+        "text": "Stamina <color=#ff911c>+4</color>\\nGuts <color=#ff911c>+4</color>",
+        "hash": "e699b6a5d529bc067dd1fb5e568a3e7a1a8b608d60228e9591aacbb991d53e9a"
+    },
+    "13008": {
+        "text": "Stamina <color=#ff911c>+4</color>\\nWisdom <color=#ff911c>+4</color>",
+        "hash": "cd2471eaef87f8eda751ac6d0f871027b53970b1f008fa0183eea92d7683512c"
+    },
+    "13009": {
+        "text": "Stamina <color=#ff911c>+4</color>\\nSkill Pt <color=#ff911c>+4</color>",
+        "hash": "f1ea2ece62c225f5de379611a2a2cbffbd816d0b6fae353c4e46ee4ad647367c"
+    },
+    "13010": {
+        "text": "Power <color=#ff911c>+4</color>\\nGuts <color=#ff911c>+4</color>",
+        "hash": "d7ff5faea9a3f0d5be53d62d1b84e53655286a2510a35752f789fd86001d3a1c"
+    },
+    "13011": {
+        "text": "Power <color=#ff911c>+4</color>\\nWisdom <color=#ff911c>+4</color>",
+        "hash": "140dfc411b8d7ac5559ce3b7fd5553fb8658c91333316c32283a4bd3a557e658"
+    },
+    "13012": {
+        "text": "Power <color=#ff911c>+4</color>\\nSkill Pt <color=#ff911c>+4</color>",
+        "hash": "0778028b4c814cefa0277dbb05510e0964848ffd7cad8aca901c12161ad24911"
+    },
+    "13013": {
+        "text": "Guts <color=#ff911c>+4</color>\\nWisdom <color=#ff911c>+4</color>",
+        "hash": "38707401456fb46116c6a56653fb59ac88517155ffb7a0f4c9a2467c2f0f642d"
+    },
+    "13014": {
+        "text": "Guts <color=#ff911c>+4</color>\\nSkill Pt <color=#ff911c>+4</color>",
+        "hash": "bc5a2e9aa2e1d95618e511da80eb37349925faa8bc5add46d7d3e7fcddc35c85"
+    },
+    "13015": {
+        "text": "Wisdom <color=#ff911c>+4</color>\\nSkill Pt <color=#ff911c>+4</color>",
+        "hash": "477b0913077ded627967ec8a18e333197393b4750e324dda6ca81304904b69d4"
+    },
+    "13101": {
+        "text": "Speed <color=#ff911c>+6</color>\\nStamina <color=#ff911c>+6</color>",
+        "hash": "90dbee050a27994f772048c4af9e0756c805c1948150324f1597eca031b81d02"
+    },
+    "13102": {
+        "text": "Speed <color=#ff911c>+6</color>\\nPower <color=#ff911c>+6</color>",
+        "hash": "2c76ccf155375089f2f7d2a21ed616035c05cac50e263aeb31c983df61394121"
+    },
+    "13103": {
+        "text": "Speed <color=#ff911c>+6</color>\\nGuts <color=#ff911c>+6</color>",
+        "hash": "3ff6a6ce21e9129a034eb69093a6fadcc55410cd9428d09b565fe7aaef6087d2"
+    },
+    "13104": {
+        "text": "Speed <color=#ff911c>+6</color>\\nWisdom <color=#ff911c>+6</color>",
+        "hash": "f6724eadd419ea06d8be00da15a1789844a8164f45ec023c78fa3e307a408755"
+    },
+    "13105": {
+        "text": "Speed <color=#ff911c>+6</color>\\nSkill Pt <color=#ff911c>+6</color>",
+        "hash": "c9cc14a4845acc86a68268be8fcd95219b4f06d328d41112a4a1cfb9b32fb129"
+    },
+    "13106": {
+        "text": "Stamina <color=#ff911c>+6</color>\\nPower <color=#ff911c>+6</color>",
+        "hash": "284f1588ba6bc0a004345cfd0e9660db157d2dea8f71fbfe9f49d59df5635ce4"
+    },
+    "13107": {
+        "text": "Stamina <color=#ff911c>+6</color>\\nGuts <color=#ff911c>+6</color>",
+        "hash": "2dabf6da9473e6a3c715dacd8a65ae5ba43f5f017d2f782fa40012477dd3429f"
+    },
+    "13108": {
+        "text": "Stamina <color=#ff911c>+6</color>\\nWisdom <color=#ff911c>+6</color>",
+        "hash": "13356f5c8ca6c26fa7fa0850c085ce1fa89d9f8b8b206c80c857767d28afbfe0"
+    },
+    "13109": {
+        "text": "Stamina <color=#ff911c>+6</color>\\nSkill Pt <color=#ff911c>+6</color>",
+        "hash": "477dbf0fb04710e995811db4d9b6a608454a8f6e788332c29d19eddf590395d7"
+    },
+    "13110": {
+        "text": "Power <color=#ff911c>+6</color>\\nGuts <color=#ff911c>+6</color>",
+        "hash": "e2d8d23a2c76b571b7a4a85ce01da1866dc54f56f2c0839ce416949967aadd96"
+    },
+    "13111": {
+        "text": "Power <color=#ff911c>+6</color>\\nWisdom <color=#ff911c>+6</color>",
+        "hash": "9321b80646ee4f50dddd153f6259d11e33898648ba01228edd423a141af6396f"
+    },
+    "13112": {
+        "text": "Power <color=#ff911c>+6</color>\\nSkill Pt <color=#ff911c>+6</color>",
+        "hash": "519712b988dc7c30f85876a25216881273201a4b144f37442c342c4b13307093"
+    },
+    "13113": {
+        "text": "Guts <color=#ff911c>+6</color>\\nWisdom <color=#ff911c>+6</color>",
+        "hash": "5c9c23d8b65cc31524a3b145367ddcdbfa30c051e6f04f37c2868df83a2d2085"
+    },
+    "13114": {
+        "text": "Guts <color=#ff911c>+6</color>\\nSkill Pt <color=#ff911c>+6</color>",
+        "hash": "07f095d20423e233ec89bc0a1aba69f2537a8c8ab46b88d829dbfc6172fe3e1c"
+    },
+    "13115": {
+        "text": "Wisdom <color=#ff911c>+6</color>\\nSkill Pt <color=#ff911c>+6</color>",
+        "hash": "1e7afbf10bf87efec8c0d7eecf65b10ffd094f80c23efe8600c7cbe51df79aa7"
+    },
+    "13201": {
+        "text": "Speed <color=#ff911c>+8</color>\\nStamina <color=#ff911c>+8</color>",
+        "hash": "e2b903333460aaf9421493ce20efbf71e872ff1c8885e1b0a9fb38c9f53ebf96"
+    },
+    "13202": {
+        "text": "Speed <color=#ff911c>+8</color>\\nPower <color=#ff911c>+8</color>",
+        "hash": "5cffb71c0fed7ee5c84a3e00c65e4c32dd5e14969237d5048838e9c4e510dc18"
+    },
+    "13203": {
+        "text": "Speed <color=#ff911c>+8</color>\\nGuts <color=#ff911c>+8</color>",
+        "hash": "56b83ead5387f083e9d469bc866a19268a4c8eba321ab24837ca2b2b12d26fd0"
+    },
+    "13204": {
+        "text": "Speed <color=#ff911c>+8</color>\\nWisdom <color=#ff911c>+8</color>",
+        "hash": "9d14ca3d4beb6702d5834ae95a7c44ff837c0fb5664657f35888b9b7df893698"
+    },
+    "13205": {
+        "text": "Speed <color=#ff911c>+8</color>\\nSkill Pt <color=#ff911c>+8</color>",
+        "hash": "3a587c8611b253bae5f5c486f7dc0d10b523a1f46da76f7e0c735a494f5a88e3"
+    },
+    "13206": {
+        "text": "Stamina <color=#ff911c>+8</color>\\nPower <color=#ff911c>+8</color>",
+        "hash": "2ccee4c765832f52771bf931b89355b6863eac46417b520d591aa744facd88f0"
+    },
+    "13207": {
+        "text": "Stamina <color=#ff911c>+8</color>\\nGuts <color=#ff911c>+8</color>",
+        "hash": "d1639d7f0da8ec2c342ae2e9dd11c5216928b7e53ddcff1cb389bfebbfcf667d"
+    },
+    "13208": {
+        "text": "Stamina <color=#ff911c>+8</color>\\nWisdom <color=#ff911c>+8</color>",
+        "hash": "fa429dddf80837266e05862877396174c6a9744c3aab04aa6c0148b1bef5e531"
+    },
+    "13209": {
+        "text": "Stamina <color=#ff911c>+8</color>\\nSkill Pt <color=#ff911c>+8</color>",
+        "hash": "d1eb68b37e867077a956878868f0626e9c0125bf9a405cd65b1b36d5229d36ce"
+    },
+    "13210": {
+        "text": "Power <color=#ff911c>+8</color>\\nGuts <color=#ff911c>+8</color>",
+        "hash": "177fb7907363ae192ebae6c06077e949a62bdc898ab36fd458429460b580185c"
+    },
+    "13211": {
+        "text": "Power <color=#ff911c>+8</color>\\nWisdom <color=#ff911c>+8</color>",
+        "hash": "9f383deb399dd5e9bbc6e0631891db59a5361aaefa0e4fcd6718d5fc3519131e"
+    },
+    "13212": {
+        "text": "Power <color=#ff911c>+8</color>\\nSkill Pt <color=#ff911c>+8</color>",
+        "hash": "9ed7c8b809762e31e6973734eef99fbb1b7ca425cb7b87a7c2e45b961dea40fe"
+    },
+    "13213": {
+        "text": "Guts <color=#ff911c>+8</color>\\nWisdom <color=#ff911c>+8</color>",
+        "hash": "8951a2aa3f4e0ac9e0ec7b5fbbd1645f7f325661f9a8ff88940a0d5ea1605368"
+    },
+    "13214": {
+        "text": "Guts <color=#ff911c>+8</color>\\nSkill Pt <color=#ff911c>+8</color>",
+        "hash": "3ff592bc7384faff3910caefbc0d24457100aaa16d4e793de1413dcc51729f9d"
+    },
+    "13215": {
+        "text": "Wisdom <color=#ff911c>+8</color>\\nSkill Pt <color=#ff911c>+8</color>",
+        "hash": "3ba30565d73f8e88b4908a32e500a6355458403afef35c4c48c319a94fd36c90"
+    },
+    "20000": {
+        "text": "Skill Hint fitting aptitudes",
+        "hash": "ab4bd87d4aef4fa1d9bb15999560b8f37cfc70f1f64018557606763370fca7e7"
+    },
+    "20001": {
+        "text": "Dirt Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "88818f5a4236471785ec342c3f83f51f1315f0eb034ed748b26addaed04df855"
+    },
+    "20002": {
+        "text": "Short Distance Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "50c4e3b2519e734514ce73f249db50d2157b159bba6df9a0d6108a670a495358"
+    },
+    "20003": {
+        "text": "Mile Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "e1335e75f475a73194ba6931ad2d7ce5d7cd313259c51422e7bd0922160c0eb5"
+    },
+    "20004": {
+        "text": "Medium Distance Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "a82f33afac2c9e5c8efe88f791844594198d5412bf534cc113da823d28f77c67"
+    },
+    "20005": {
+        "text": "Long Distance Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "c65cc9fb89041a282208abbecc413fe5ece5ff4d607d73d62a0899f4f610c992"
+    },
+    "20006": {
+        "text": "Runner Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "53ad95c5d4998ec21809f9908ed23c3d35ef796458d5a7cf5b8c02e6ee79c537"
+    },
+    "20007": {
+        "text": "Leader Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "00d4b969dd8e869adc727ec53780cc177ec802936b94630a484a9d61e268ff52"
+    },
+    "20008": {
+        "text": "Betweener Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "154429309e79dc1a7c513db395508a586b7a4b3da899c87e19a07b2905593681"
+    },
+    "20009": {
+        "text": "Chaser Skill Hint Lv <color=#ff911c>+1</color>",
+        "hash": "78386483d33ea4e1d1a4dbe4a2d0cf69991242f47618e523b8026eb59d74f34c"
+    },
+    "20010": {
+        "text": "Dirt Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "8761e65a7bc801fd8a05bb82dbcc5e3b98f421c1b5f87630497bdbfde022988f"
+    },
+    "20011": {
+        "text": "Short Distance Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "2b29cb0a7b7f9d65322dc19371716bda571b95726d24a5ef8b9e54344a4a7f15"
+    },
+    "20012": {
+        "text": "Mile Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "5878301276950544128173a80fdd3bc2d824f13722b3c7e0db2244bd2988e91e"
+    },
+    "20013": {
+        "text": "Medium Distance Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "2d0de80fd853c2ffb1ad4b29f694cca0d56341e4f52e89ac2356cfadabe441d5"
+    },
+    "20014": {
+        "text": "Long Distance Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "a4fcea1ca3d7c865d2cee724d75ab664a4e5bb9d7d0579b62107eb56b194c1ce"
+    },
+    "20015": {
+        "text": "Runner Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "42c9ec69980311d129180baa862c8e1d0751777af106e264be0cb1fea7d99e94"
+    },
+    "20016": {
+        "text": "Leader Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "d1453bbe9ed2f458548191aef50e90f2f51e60fcf0f3a09d4e9c33ae3388058a"
+    },
+    "20017": {
+        "text": "Betweener Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "e557cb43dae76928c725b566ea91f46d590a899809e4f597f8a4b3b336b0aed5"
+    },
+    "20018": {
+        "text": "Chaser Skill Hint Lv <color=#ff911c>+2</color>",
+        "hash": "836bfecf2b87661e8ea69f44c7cc68fad1418fae28aebb356499f30a85378531"
+    },
+    "20019": {
+        "text": "Dirt Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "36da88b886a55de344057dc43e3736ba5c9e99216148173a729e3d6b41b4c7e4"
+    },
+    "20020": {
+        "text": "Short Distance Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "f7c3149070ca5b28cb8ee5f5117f842cfa7c5a90fb935af747168c2bf075e11d"
+    },
+    "20021": {
+        "text": "Mile Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "602cbab28983bdb3e9307506cd03a071aa8a954a9e26b77474b1348286633248"
+    },
+    "20022": {
+        "text": "Medium Distance Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "768443524f3d84b4fdd4923eaee4dbbe0c480d62776d5e2bb0b5a1a63f26dd53"
+    },
+    "20023": {
+        "text": "Long Distance Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "e208b312ac6ca7ad64c80eedbc4970fa2766936d05e1bef4edddb8406d740668"
+    },
+    "20024": {
+        "text": "Runner Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "f1fa97f60d5c539cc53ccb330b27b88107915eb7282559c70e01a62d34d7f979"
+    },
+    "20025": {
+        "text": "Leader Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "0c6199c93a85b089e33fa7173d4ea2be02bb1888c820019b9737a38194654754"
+    },
+    "20026": {
+        "text": "Betweener Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "c295f1675d9021405e6f58f26ead374e093c7953d65fb054fbc3cf868996c398"
+    },
+    "20027": {
+        "text": "Chaser Skill Hint Lv <color=#ff911c>+3</color>",
+        "hash": "e4b435b8e25436c20fea3bbd979d23c850c308250da6e873acfb1c5dc2f488ba"
+    },
+    "30000": {
+        "text": "Energy <color=#ff911c>+20</color>",
+        "hash": "68e86498a8038bfee7b161012c96f4b002e0c27ad7e168b7205d082ab1927f09"
+    },
+    "30001": {
+        "text": "Energy <color=#ff911c>+30</color>",
+        "hash": "c9b00ed4b60165edfe136387cc0efd4cdae9b8e4ea0779638c1e694f29c14741"
+    },
+    "30002": {
+        "text": "Energy <color=#ff911c>+40</color>",
+        "hash": "005738e6c1a66b72e518573c885a6685ff6f12d062d543e98b7c3ece6d4defe5"
+    },
+    "40000": {
+        "text": "Training Skill Pt bonus <color=#ff911c>+2</color>",
+        "hash": "d4c99f472a08434169e474830d54338c6e5061606bbf857e8a0106fa69b5886f"
+    },
+    "40001": {
+        "text": "Power <color=#ff911c>+22</color>",
+        "hash": "fc87b106778ab000cb8c36fd9770838ea34da190806d6bd1b9cbe8932f0f7d00"
+    },
+    "40002": {
+        "text": "Speed <color=#ff911c>+22</color>",
+        "hash": "36395bc48df046ca53a13d74f6344b887b06f0250696151ef9ecb35deab9bbb3"
+    },
+    "40003": {
+        "text": "Skill Pt <color=#ff911c>+22</color>",
+        "hash": "0421666295f865a51d780ff2e289b28b069287d714938f1510d395f7f5fbe91e"
+    },
+    "40004": {
+        "text": "Training Skill Pt bonus <color=#ff911c>+3</color>",
+        "hash": "8a6b85b7dc9c583f0b44d4b3fcfc313041103d8dcd1bed2c4d15deecf93859e3"
+    },
+    "40005": {
+        "text": "Training Wisdom bonus <color=#ff911c>+2</color>",
+        "hash": "61b69edeeaadb36bf20e9fc233d9f06d4c5a89e70c404103bd513c6620cd5a95"
+    },
+    "40006": {
+        "text": "Training Power bonus <color=#ff911c>+1</color>",
+        "hash": "01f9dafb19a7f66cc564c8e8ebaee034f938c0506066029db59d76075206ef45"
+    },
+    "40007": {
+        "text": "Training Wisdom bonus <color=#ff911c>+1</color>",
+        "hash": "e9193b5ebdc0bb325e8e2b039a9da1fcfabe4315d88ee18854d6143c20f16918"
+    },
+    "40008": {
+        "text": "Training Power bonus <color=#ff911c>+2</color>",
+        "hash": "5edb98869bb03cfee49880d97087b3c3dd12f87a1f7eff09179833a28130f20c"
+    },
+    "40009": {
+        "text": "Training Guts bonus <color=#ff911c>+1</color>",
+        "hash": "61359bbfae7a89555032d1da29470ef60b528dee3f6973cbfec153478dfa6499"
+    },
+    "40010": {
+        "text": "Training Stamina bonus <color=#ff911c>+1</color>",
+        "hash": "5b402f001cbfd1d2a1f6ee092262757ee01c02a72f1c2ac77c3847525353fede"
+    },
+    "40011": {
+        "text": "Training Speed bonus <color=#ff911c>+2</color>",
+        "hash": "5e34c24e747d595e828c0eb058fbf05e8b27faa95deb663325a8914e3e0b1c1b"
+    },
+    "40012": {
+        "text": "Stamina <color=#ff911c>+22</color>",
+        "hash": "ddb3c29a8e168b2de54c1555957d63ea342f595d6a4752a0997143e956df252f"
+    },
+    "40013": {
+        "text": "Training Guts bonus <color=#ff911c>+2</color>",
+        "hash": "a6e39a8d90d50a405f31bc2b5568694ed7f47230b650e3a007d613fbf3ff8683"
+    },
+    "40014": {
+        "text": "Guts <color=#ff911c>+22</color>",
+        "hash": "1405477c18b9aa49cf37ff45bd906e95cc8d7878ba3fe10a1711b05f9d95dfd7"
+    },
+    "40015": {
+        "text": "Wisdom <color=#ff911c>+22</color>",
+        "hash": "d2db7abb655398cc38e6a1c6e43034587ce635d71c7e3e15d3b2097b6c227fb8"
+    },
+    "40016": {
+        "text": "Power <color=#ff911c>+22</color>",
+        "hash": "fc87b106778ab000cb8c36fd9770838ea34da190806d6bd1b9cbe8932f0f7d00"
+    },
+    "40017": {
+        "text": "Training Stamina bonus <color=#ff911c>+2</color>",
+        "hash": "7ec46041d5c24bba0b1cdb0c510e5ef897c7ed97d3d0b402e51f3c44f1087816"
+    },
+    "40018": {
+        "text": "Guts <color=#ff911c>+26</color>",
+        "hash": "9d428b0b82bb0989ad81219113ab15dc7cd4139faa5af5548fdb361ed1ecef84"
+    },
+    "40019": {
+        "text": "Speed <color=#ff911c>+26</color>",
+        "hash": "ba30cf499853b9ff65c88073f6af176cb036152864be8edff587f7075f3b6fc7"
+    },
+    "40020": {
+        "text": "Training Speed bonus <color=#ff911c>+1</color>",
+        "hash": "4e67f83a8ee5f39bed23c2e569e1ea6801f02e7c954403f1cae309b17a6425ef"
+    },
+    "40091": {
+        "text": "All Performances <color=#ff911c>+10</color>",
+        "hash": "46b8df21363056bc7f9fe3a3c8f65bd944e478f8538059d4f2fa3eb674f3fda3"
+    },
+    "40092": {
+        "text": "All stats <color=#ff911c>+10</color>",
+        "hash": "dc5c6d0d7c97c842e8df758f547daaf939168b65b8eed2d38c08d72d14edefc4"
+    }
+}

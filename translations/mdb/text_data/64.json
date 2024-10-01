@@ -1,0 +1,426 @@
+{
+    "6": {
+        "text": "Reward from \"{0}\".",
+        "hash": "ce86102258eba7b9e6b2d1c303b2bb5afb339e5477afa0fa342192a4a85efd49"
+    },
+    "11": {
+        "text": "\"{0}\" story reward.",
+        "hash": "e2906e60f18a3d263e8435ebbc829ce8df0632e6b38fc05f8a48ca8a64a24c28"
+    },
+    "19": {
+        "text": "Items acquired with UmaMusu Exchange Points.",
+        "hash": "84827b2e0310ecd71a5e1a0c78972356c781ecc2ed6eb80c8f46a82320eae418"
+    },
+    "20": {
+        "text": "From converting expired UmaMusu Exchange Points.",
+        "hash": "75a1b0ccb477167ace8a8c3be7735fa67c9a65e00e7af2787427cdcdc837781a"
+    },
+    "22": {
+        "text": "Items acquired through Silver Statue Exchange.",
+        "hash": "7e424cd30bb7d45b5395e80ada2b45110dbc72dfadadf33370dd211fd93dea4c"
+    },
+    "23": {
+        "text": "Items acquired through Gold Statue Exchange.",
+        "hash": "7fe617aa766200d65c597e65f35b63720785949e25f83cd87394c1bbeb1cadde"
+    },
+    "24": {
+        "text": "Items acquired through Rainbow Statue Exchange.",
+        "hash": "f9395edb87c4a2a793eb0479922be11ff7d8379dea8ad6ae57e523d9e76fc92e"
+    },
+    "26": {
+        "text": "Items acquired in the exchange.",
+        "hash": "a3d2b356b86b2df8b1757e1d31370bdc1625516e5be9a7071e6fa0fbc1ed771f"
+    },
+    "27": {
+        "text": "Items acquired in {0}.",
+        "hash": "23eab61b342c20291221d9fbf67d0ef12b35236ab75b6b1596d759c94b196c8e"
+    },
+    "28": {
+        "text": "Reward from the {0} Holiday Race Qualifier.",
+        "hash": "c74d7656ed28783342a430ec6758020f54ee421e1bbf5076449a7aa03cf8c1cf"
+    },
+    "29": {
+        "text": "Reward for finishing {0} in the Holiday Race Finals.",
+        "hash": "9c18c95d4e67604601867c7f25d2b5ef736b123046bb795a1cfe305cb302e241"
+    },
+    "30": {
+        "text": "Reward for finishing {0} in the Holiday Race Qualifiers.",
+        "hash": "9a557f2b9ff1f1ebff0e11f8f6104c4c7d960b358b9cac444bc24f0d6025244a"
+    },
+    "31": {
+        "text": "Reward from the Umamusume Support Poll.",
+        "hash": "270141697962ea1b96d8f6f47eae8f81385032eba7aa34e8789ff42b1cf4ce02"
+    },
+    "32": {
+        "text": "Reward for ranking {1} in fan count of month {0}.",
+        "hash": "885612cc1ad2500265a2935940ae53d9678a667a4dad0108c1d0b9f04bce47c1"
+    },
+    "33": {
+        "text": "Items obtained from the Yuushun Medal Exchange.",
+        "hash": "464cf8695247d32a65b6ae65be50a688260b221003bf61e1d981299c8e1c4f91"
+    },
+    "34": {
+        "text": "Items obtained through a training GOOD END.",
+        "hash": "fbe3374d8cd7b5f600d55c7f581b613ef4d180f641e22604f65ca2ee697443e4"
+    },
+    "35": {
+        "text": "Items obtained through training.",
+        "hash": "adee02e582ae53b1a5843fe44ae5836d2a30e8e2edf4d50bedec89c7fe7e1545"
+    },
+    "36": {
+        "text": "Items acquired in {0}.",
+        "hash": "23eab61b342c20291221d9fbf67d0ef12b35236ab75b6b1596d759c94b196c8e"
+    },
+    "37": {
+        "text": "Reward earned on day {1} of {0}.",
+        "hash": "8d613ac7b9589f5830f594f6d3e562f9aa936454ba043ed1c98759a9828906ff"
+    },
+    "38": {
+        "text": "Reward for missed days in {0}.",
+        "hash": "dc3d5fe9f6458587f86f27ff4caf05165412384f9b076941e7ad74d19bd1487f"
+    },
+    "39": {
+        "text": "Circle ranking reward for {1}/{0}.",
+        "hash": "78b463a062155f01c2d195157fc4454edde22ffbf8efe9a12f1b6b38e2999b8a"
+    },
+    "40": {
+        "text": "Reward for supporting {0} trainer's training.",
+        "hash": "6c09e5c5baf4dade4657b18b115c700ce38bdbc823614060a45548f6865c3431"
+    },
+    "41": {
+        "text": "Items donated by item request.",
+        "hash": "c2abe445eda38686274f823dc40b750bbff7441205705a64eb3c5878ea1d2768"
+    },
+    "42": {
+        "text": "Reward for increasing the Index level.",
+        "hash": "76fd8e9c86de2c2776fa6d2f0d38bee2a26fd4dbe1ec4008ec7d497bc292d7b3"
+    },
+    "43": {
+        "text": "Reward for winning trophies.",
+        "hash": "8cf282b93fc05d652f548e8445a802bfd54b4590bd0284b5444ec739358adb7d"
+    },
+    "44": {
+        "text": "CLASS reward from the Team Stadium.",
+        "hash": "70c7abbdfd44a2e8a20d0d31839bc76d8c1d34e3574e3c885ce571a4783b8df1"
+    },
+    "45": {
+        "text": "Reward for improving your max team rating.",
+        "hash": "7a0ac635023bc7f4b6b1bb32533665b1443df0c413e0a8a8eafd15600df36ad7"
+    },
+    "46": {
+        "text": "Reward for increasing affection level.",
+        "hash": "ab93d2f7b76d66551d9a69001d94733bec391bf64fb051b8f1b9f4f79512c7d3"
+    },
+    "47": {
+        "text": "Reward from renting out your support Umamusume. (Max 100/day)",
+        "hash": "74a5bd8259669a3576851baea35ec626bd71d2d2d7b846d1b62eaa1d51b234f1"
+    },
+    "48": {
+        "text": "Reward from \"{0}\".",
+        "hash": "ce86102258eba7b9e6b2d1c303b2bb5afb339e5477afa0fa342192a4a85efd49"
+    },
+    "49": {
+        "text": "Limited missions reward from Legend Races.",
+        "hash": "2a73933b22ba2459acb8911216cbab89a36a07c022e83637153d75080a918197"
+    },
+    "50": {
+        "text": "Scenario Record reward.",
+        "hash": "ca6e5dd5af47fcf60a051997d5cafd9284e844c59e6ad27f6f02792419f1c202"
+    },
+    "51": {
+        "text": "Reward earned at the Champions Meeting.",
+        "hash": "229d93e3c8ecd21636651fc040bd7bdd5ea951124be7bb45fa678dd6ba8bd1f5"
+    },
+    "52": {
+        "text": "Money converted from leftover roulette coins.",
+        "hash": "e6c8e2860e3d70f5c0af5f6a0963e42ff9463e67b945373fc7bc2180353bd044"
+    },
+    "53": {
+        "text": "Reward from Daily Missions.",
+        "hash": "12928c3f5ea783806036062ef298f4ea064fc8b72fe7795f7e88b26c7d3d82c5"
+    },
+    "54": {
+        "text": "Reward from \"{0}\".",
+        "hash": "ce86102258eba7b9e6b2d1c303b2bb5afb339e5477afa0fa342192a4a85efd49"
+    },
+    "55": {
+        "text": "Reward from Daily Missions.",
+        "hash": "12928c3f5ea783806036062ef298f4ea064fc8b72fe7795f7e88b26c7d3d82c5"
+    },
+    "56": {
+        "text": "Reward from Trainer's Proficiency Exam.",
+        "hash": "e6fbe55fdd1272395d63120a55c14202f77b95a74facfde4deb9d6cfb929364d"
+    },
+    "57": {
+        "text": "Unobtained reward from Trainer's Proficiency Exam.",
+        "hash": "caef50f7b1e73a61acec6396854adbad5553496750f5213e465eff5dd1b16bd8"
+    },
+    "58": {
+        "text": "Compensation for items not received from Google Play Points.",
+        "hash": "4975f5e7ad96c58d0e1f02e771af4e84f2e939244d6409a08df09c3b6e0a96fe"
+    },
+    "59": {
+        "text": "Reward from Racing Carnival limited missions.",
+        "hash": "19cb6b5b785556861ad1b9db39358197bb83571c82a271504aeccdbf73d4514c"
+    },
+    "60": {
+        "text": "Top Umadol project reward.",
+        "hash": "04e96ad4b8bab13230cab34ee4a98e1b5e265209a4f28ea2a668a5b0caac15f6"
+    },
+    "61": {
+        "text": "Reward from \"Target: Top Team!\" limited missions.",
+        "hash": "988da04b83d180fdd9a7ba9549adc3f5eac687c58455552b2d34d6824b2ca2b2"
+    },
+    "62": {
+        "text": "Reward from the Uma Stroll Campaign",
+        "hash": "7087425b29960683c74e5b5bc997baab74afc959cf7bc656715f1f218b52b528"
+    },
+    "63": {
+        "text": "Christmas present from 「{0}」",
+        "hash": "07cc43521136b758e06f9eed419c14f6546e560e84a18cb02154d14bbd2c0562"
+    },
+    "64": {
+        "text": "League of Heroes reward.",
+        "hash": "8856366cbfa96f2ba6294adbbd7dfcfcab5a7a1953648d97c3f68fc8a3eb1c93"
+    },
+    "65": {
+        "text": "Individual rewards from the \"{0}\" event",
+        "hash": "1094852eb8f1d9b52da14219d20a9173dfe2e26de1814de25caf9deb2e3623a2"
+    },
+    "66": {
+        "text": "Global rewards from the \"{0}\" event",
+        "hash": "13a660f612a97dc5da684a0a9849d0f7ea0783bb1038b235e29908832c66342f"
+    },
+    "67": {
+        "text": "A Live track from the \"{0}\" event",
+        "hash": "69d9cfea41246ded70a1feda796a80fda43ff3283bd8032631fe9312518d4fea"
+    },
+    "69": {
+        "text": "Reward from \"{0}\".",
+        "hash": "ce86102258eba7b9e6b2d1c303b2bb5afb339e5477afa0fa342192a4a85efd49"
+    },
+    "70": {
+        "text": "Bonus from 350 jewels purchase .",
+        "hash": "526b2aca20a9fbc6aebcf284cf279d664a364f68ecefaae3109ca0805ff8edef"
+    },
+    "1005": {
+        "text": "Items acquired over the possession limit.",
+        "hash": "b157e1ee9ef4aa76c5168f0f3c9175ad1681981a6df0bbdee68663e7cf0aa153"
+    },
+    "1006": {
+        "text": "Reward for earning the title \"{0}\".",
+        "hash": "13c5ffa63b1118f886fa699349c45eef587858587ca7783b7eab7387eb96c32b"
+    },
+    "1007": {
+        "text": "Reward earned on day {1} of \"{0}\".",
+        "hash": "5940a3cd212a5d62bd9057576b01de89094f3dabff77216d0ffdb189e8a0ee86"
+    },
+    "9000": {
+        "text": "A gift from management.",
+        "hash": "ce81974dd13fca184b508418ec325163566b8b637f7d81bcdc9045dc49e9bd47"
+    },
+    "9001": {
+        "text": "Apology from management.",
+        "hash": "ce85ea813f35dee317e3175d8dbb15ead66b7a366ac18956789b42f5e836fe45"
+    },
+    "9002": {
+        "text": "Compensation from management.",
+        "hash": "8629e23a8b3fe6816d45561b536ba9edde436ef16d5a84847d681a26e695cd30"
+    },
+    "9003": {
+        "text": "Pre-registration campaign reward.",
+        "hash": "bc70df7a1a63fc1af8a4baefb74dae082e98c0244f29eda45040d53e93541c2d"
+    },
+    "9004": {
+        "text": "Pre-registration campaign 2R reward.",
+        "hash": "3683d4d604ae54ef35c366853ec8b4a317aadde35327e55dff6dafd64bfa6f4f"
+    },
+    "9005": {
+        "text": "Compensation for maintenance.",
+        "hash": "c024de7735a28ed4b789fb78ce94c9bf6c84bf43f181e4ffea0dd120b38af1d6"
+    },
+    "9006": {
+        "text": "Compensation for version upgrades.",
+        "hash": "2b2daf32fd181628a542971a2f180def015395619f0497bac5a35139ca084fc3"
+    },
+    "9007": {
+        "text": "Special gift from long-run pre-registration.",
+        "hash": "546a908366809d6e58acfe2a067ca17c05ad671c65f05ae743ae154c139f37d9"
+    },
+    "9209": {
+        "text": "LinksMate reward.",
+        "hash": "097c87afd56a183e73bc9c3ba94b7ef944a9efb5c121a52ad22f270fe67439db"
+    },
+    "9210": {
+        "text": "Support Campaign (DMM GAMES) reward.",
+        "hash": "65dab5e2d7a9c8ca5cb6a8fb85a1f49023bfdae77651b94b3c8ebf906cf77b3a"
+    },
+    "9211": {
+        "text": "Compensation for reward change in main mission \"Let's Link Data\".",
+        "hash": "7b054c21301ead9cc13d6209c850ed6e359301275a921a28b7f740ea4f89f25a"
+    },
+    "9212": {
+        "text": "Exchanged at LinksStore",
+        "hash": "19c232408213687675632987997081c539939019223139941372cf377e923af0"
+    },
+    "10001": {
+        "text": "WINNING LIVE 01 purchase bonus.",
+        "hash": "fb99fdde6995f66e40bf39e800128b21af7e05b8966f03afe6291295982041f7"
+    },
+    "10002": {
+        "text": "ANIMATION DERBY Season 2 vol.01 purchase bonus.",
+        "hash": "5771d4685291a5a45e2a323e5386a63442a97cc7d3387af68450196358c6709d"
+    },
+    "10003": {
+        "text": "ANIMATION DERBY Season 2 vol.02 purchase bonus.",
+        "hash": "c85ddbd2f4348de47fc54ec7480ff2813302a9f5e207ceb0509c27177c9c13a0"
+    },
+    "10004": {
+        "text": "Umamusume Pretty Derby Magazine purchase bonus.",
+        "hash": "d43761bd41d58a1e4383ed6b474ee390bcd96553682edd12490a46930e4e4cd2"
+    },
+    "10005": {
+        "text": "ANIMATION DERBY Season 2 vol.03 purchase bonus.",
+        "hash": "3d2bca9249836f999ca7f837efa716713a2560fe9696e6d4acc589dbeaf26b1f"
+    },
+    "10006": {
+        "text": "\"Uma Box 2\" 1st Corner purchase bonus.",
+        "hash": "917b03b71503103a7b2897468a9abea14293b668ea648147b25fc95c7f942ca5"
+    },
+    "10007": {
+        "text": "TV anime \"Umayon\" mini album purchase bonus.",
+        "hash": "2a64906be02446c6ac225e66241fc8354cddd8faf022853bc7313b57ecf162a9"
+    },
+    "10008": {
+        "text": "Weekly Famitsu purchase bonus.",
+        "hash": "95e2d8cd82babfcb775d8ac525243c475632e8d54353333283a1487983f0d6f5"
+    },
+    "10009": {
+        "text": "\"Uma Box 2\" 2nd Corner purchase bonus.",
+        "hash": "39adcbf71529b296bc2a13d6575610d745324ba4a5ac647d7c5a69f825d24f1d"
+    },
+    "10010": {
+        "text": "<size=24>\"STARTING GATE! -Umamusume Pretty Derby-\" Volume 5 purchase bonus. </size>",
+        "hash": "d2f542aa33ee1122906389a4961c00b8a818c1de26bbb50060185c203ec09718"
+    },
+    "10011": {
+        "text": "\"Uma Box 2\" 3rd Corner purchase bonus.",
+        "hash": "d62d3a46ee24d81f2441136fdcf19c8a2b61050fe619205bae8091cef1d1801a"
+    },
+    "10013": {
+        "text": "<size=24>\"STARTING GATE! -Umamusume Pretty Derby-\" Volume 6 purchase bonus. </size>",
+        "hash": "9279a78a66cde32fb7ad3a3ec6b06b415f0ab4259eede53bf4f6ad5ad940f019"
+    },
+    "10014": {
+        "text": "\"Uma Box 2\" 4th Corner purchase bonus.",
+        "hash": "60496885f87a21e240387d3584c656a48becdeea11b06bc16ec2ec6e8bf30e4f"
+    },
+    "10015": {
+        "text": "Bonus for purchasing all volumes of \"Uma Box 2\".",
+        "hash": "5b90aec438be53c716e0a48ea53d7e195a8b898823d1458dbbbb12165c5c5d6b"
+    },
+    "10016": {
+        "text": "WINNING LIVE 02 purchase bonus.",
+        "hash": "2318d7953963b7a0dfbfaa25cfcc87e75f830367b20403542244970313f54774"
+    },
+    "10017": {
+        "text": "STARTING GATE Unit Song Collection purchase bonus.",
+        "hash": "4639441ede4e0432b6e6736b2ae7f69955a759ae8277df58e19db2a5938f50ca"
+    },
+    "10018": {
+        "text": "Umayon Blu-ray BOX purchase bonus.",
+        "hash": "d5f628c8dc251493319db51c4fd389142f2df3737d3c95d56732fea28ba656f8"
+    },
+    "10019": {
+        "text": "WINNING LIVE 03 purchase bonus.",
+        "hash": "9fc48002f9a3132c37609d709967a12e836eab1abbcbe11ed9bab535be42eada"
+    },
+    "10020": {
+        "text": "WINNING LIVE 04 purchase bonus.",
+        "hash": "3f9ab2d1acf204e62684853f268858dc229f983dce946787adf300caaeaf686e"
+    },
+    "10021": {
+        "text": "Umamusume Pretty Derby Magazine Vol. 2 purchase bonus.",
+        "hash": "f7f8fcb36e5d52b337c0858e5107a48a4863840c66f90864d3744db5121a6653"
+    },
+    "10022": {
+        "text": "WINNING LIVE 05 purchase bonus.",
+        "hash": "53558534540ec8d520c38cc7b9b71ba0e43f7397a2719a8613ec9333f11d0a7f"
+    },
+    "10023": {
+        "text": "WINNING LIVE 06 purchase bonus.",
+        "hash": "b2521a7864e26edc87187eccf9029d4864c86138aad160c9f5bfe4286c2bdc36"
+    },
+    "10024": {
+        "text": "2nd EVENT\"Sound Fanfare！\" Blu-ray purchase bonus",
+        "hash": "811d97fe90f1f3196afc6a769992dd05933a2d3161545aede8158bd2c5d5aec8"
+    },
+    "10025": {
+        "text": "3rd EVENT \"WINNING DREAM STAGE\" Blu-ray purchase bonus",
+        "hash": "78bcd9e79dd949cd0acf6e65fde88264767cedeaa172d7f84da97e2c949d83d1"
+    },
+    "10026": {
+        "text": "WINNING LIVE 07 purchase bonus.",
+        "hash": "70b984b02774fcc8886ec4f1a5fd641df971c880ebcac1c81fe7e97bdf4a5f6a"
+    },
+    "10027": {
+        "text": "WINNING LIVE 08 purchase bonus.",
+        "hash": "7e675d7bdca203d29477f1ca6639970d6e6d3d24f5fb73b00f8f326e9ab41258"
+    },
+    "10028": {
+        "text": "WINNING LIVE 09 purchase bonus.",
+        "hash": "674d432f7a60f502d87d54a64cd31a67b6422f0802ea4ae7c6ea938b65e95904"
+    },
+    "10029": {
+        "text": "WINNING LIVE 10 purchase bonus.",
+        "hash": "fb8ee3e44589540ac29ee9cf4cdac042b4399c8b3c00e4fcbc3aef5e9099461b"
+    },
+    "10030": {
+        "text": "4th EVENT SPECIAL DREAMERS!! Blu-ray purchase bonus",
+        "hash": "d18c3111d0c0dd4628cf416e63b037e1f79d73716d31995844179ccc1c166090"
+    },
+    "10031": {
+        "text": "WINNING LIVE 11 purchase bonus.",
+        "hash": "88c32d901feb1586d713413e171c599a57e0cc94bc911c6a7a28cbf449fad6dd"
+    },
+    "10032": {
+        "text": "Umayuru album purchase bonus.",
+        "hash": "6d4b4b26ab2032d21032b0909c690164985267c9d0884eaa7a6fce504363c3ac"
+    },
+    "10033": {
+        "text": "Paka☆Age↑Mix Vol.1 purchase bonus.",
+        "hash": "33637190cda9f95901ca0deea6754966055ca999781e642b7a7b2cb274f708ba"
+    },
+    "10034": {
+        "text": "WINNING LIVE 12 purchase bonus.",
+        "hash": "ddc5e64712fd86639d177e4517ef2ac6adfffbae168b2a4b6ccd080701ee3f9d"
+    },
+    "10035": {
+        "text": "ROAD TO THE TOP Album purchase bonus.",
+        "hash": "f2e0a2ab4155900aae69c17833262a3bc649b525a873767ba0b1be4507289518"
+    },
+    "10036": {
+        "text": "WINNING LIVE 13 purchase bonus.",
+        "hash": "41842afa13c5c95a79d63e6327e51ce57d416dc8f07e2443115ead8f7c6a870a"
+    },
+    "10037": {
+        "text": "WINNING LIVE 14 purchase bonus.",
+        "hash": "39dfdc5d8c3496ef5cba70663528fb7e7c4ec10bfe5b9950f2ff51d8d098c6fa"
+    },
+    "10038": {
+        "text": "ANIMATION DERBY Season 3 vol.01 purchase bonus.",
+        "hash": "2df7745f532233dda8fee80ab5a29df8547740cd942ba2c74393394c09c70b88"
+    },
+    "10039": {
+        "text": "ANIMATION DERBY Season 3 vol.02 purchase bonus.",
+        "hash": "8a646abeb95a636f38ff34582003abb334b342ca516a2fa2637d0b328820bc1d"
+    },
+    "10040": {
+        "text": "4th EVENT EXTRA STAGE Blu-ray purchase bonus.",
+        "hash": "2453871e987aca25cd7edac1c4c7db349e0695a82f003ca568d6c949825c4c99"
+    },
+    "10041": {
+        "text": "ANIMATION DERBY Season 3 vol.3 purchase bonus.",
+        "hash": "a0d618f88231c87ea42b54ad408fa909bcbc71faf5dbf3eb2179bf1c13126f16"
+    }
+}
