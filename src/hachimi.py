@@ -571,7 +571,7 @@ def convert():
 def backport_assembly():
     backport_jdict()
 
-def backport_text_data():
+def backport_text_data(umafy=False):
     print("Backporting text_data")
     in_path = os.path.join(HACHIMI_ROOT, "text_data_dict.json")
     in_dict = util.load_json(in_path)
@@ -594,6 +594,8 @@ def backport_text_data():
             if entry_key not in carotene_dict:
                 print(f"Hachimi {entry_key} not found in category {key}")
                 continue
+            if umafy:
+                entry = util.umafy(entry)
             carotene_dict[entry_key]["text"] = entry
         
         util.save_json(json_path, carotene_list)
@@ -617,7 +619,7 @@ def main():
     # convert_mdb()
     # convert_assets()
     # copy_data()
-    backport_text_data()
+    backport_text_data(True)
     pass
 
 if __name__ == "__main__":

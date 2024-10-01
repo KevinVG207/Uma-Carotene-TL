@@ -847,4 +847,20 @@ def cleanup_carotenify_files():
         if int(os.path.basename(file).split('.')[0]) < timestamp:
             os.remove(file)
 
+def umafy(text: str) -> str:
+    return text\
+        .replace("A horsegirl", "An Umamusume")\
+        .replace("a horsegirl", "an Umamusume")\
+        .replace("A horse girl", "An umamusume")\
+        .replace("A Horse Girl", "An Umamusume")\
+        .replace("horsegirls", "Umamusume")\
+        .replace("Horsegirls", "Umamusume")\
+        .replace("horse girls", "Umamusume")\
+        .replace("Horse Girls", "Umamusume")\
+        .replace("horsegirl", "Umamusume")\
+        .replace("Horsegirl", "Umamusume")\
+        .replace("Horse girl", "Umamusume")\
+        .replace("horse girl", "Umamusume")\
+        .replace("Horse Girl", "Umamusume")\
+
 cleanup_carotenify_files()
