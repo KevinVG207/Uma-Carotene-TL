@@ -15,7 +15,7 @@ def main():
     intermediate.assets_from_intermediate()
     intermediate.assembly_from_intermediate()
     postprocess.do_postprocess()
-    # hachimi.convert()
+    hachimi.convert()
 
 if __name__ == "__main__":
     main()
