@@ -207,10 +207,10 @@ def _fix_story(story_data):
 
     for block in json_data['data']:
         # Add story tags
-        if block.get('text'):
-            tmp_text = block['text']
-            tmp_text = '<story>' + tmp_text.replace("\n", "\n<story>")
-            block['processed'] = tmp_text
+        # if block.get('text'):
+        #     tmp_text = block['text']
+        #     tmp_text = '<story>' + tmp_text.replace("\n", "\n<story>")
+        #     block['processed'] = tmp_text
 
         # Process name
         if block.get('name'):
