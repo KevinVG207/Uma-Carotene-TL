@@ -669,8 +669,8 @@ def backport_after():
 def main():
     # convert()
     # backport_assembly()
-    convert_assembly()
-    convert_mdb()
+    # convert_assembly()
+    # convert_mdb()
     # convert_assets()
     # copy_data()
     # backport_text_data(True)

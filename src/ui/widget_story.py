@@ -9,6 +9,7 @@ import ui.common as common
 import intermediate
 import _patch
 import postprocess
+import hachimi
 import shutil
 from settings import settings
 import ui.widget_story_utils as sutils
@@ -494,7 +495,16 @@ class Ui_story_editor(QWidget):
         tl_path = util.ASSETS_FOLDER + editing_path[len(util.ASSETS_FOLDER_EDITING):]
         intermediate.process_asset(editing_path)
         postprocess._fix_story((util.load_json(tl_path), tl_path))
-        _patch._import_story(util.load_json(tl_path))
+        # _patch._import_story(util.load_json(tl_path))
+        tl_data = util.load_json(tl_path)
+        hachimi.convert_stories([[tl_data, tl_path]])
+        game_path = util.get_game_folder()
+        local_out_path = os.path.join(hachimi.HACHIMI_ROOT, "assets", tl_data['file_name'] + ".json")
+        out_path = os.path.join(game_path, "hachimi", "localized_data", "assets", tl_data['file_name'] + ".json")
+        out_folder = os.path.dirname(out_path)
+        os.makedirs(out_folder, exist_ok=True)
+        shutil.copy(local_out_path, out_path)
+        print(out_path)
 
         self.btn_apply_chapter.setEnabled(True)
         QApplication.restoreOverrideCursor()
@@ -942,7 +952,7 @@ class Ui_story_editor(QWidget):
         self.btn_apply_chapter = QPushButton(story_editor)
         self.btn_apply_chapter.setObjectName(u"btn_apply_chapter")
         self.btn_apply_chapter.setGeometry(QRect(810, 440, 131, 23))
-        self.btn_apply_chapter.setText(u"Save && apply to game")
+        self.btn_apply_chapter.setText(u"Save && add to Hachimi")
         self.btn_apply_chapter.clicked.connect(self.patch_chapter)
 
         self.btn_bold = QPushButton(story_editor)
@@ -959,11 +969,11 @@ class Ui_story_editor(QWidget):
         # self.btn_italic.setStyleSheet("font-style: italic;")
         self.btn_italic.clicked.connect(lambda: self.selection_toggle_format(self.txt_en_text, bold=False))
 
-        self.btn_unpatch = QPushButton(story_editor)
-        self.btn_unpatch.setObjectName(u"btn_unpatch")
-        self.btn_unpatch.setGeometry(QRect(700, 440, 101, 23))
-        self.btn_unpatch.setText(u"Unpatch chapter")
-        self.btn_unpatch.clicked.connect(self.unpatch_chapter)
+        # self.btn_unpatch = QPushButton(story_editor)
+        # self.btn_unpatch.setObjectName(u"btn_unpatch")
+        # self.btn_unpatch.setGeometry(QRect(700, 440, 101, 23))
+        # self.btn_unpatch.setText(u"Unpatch chapter")
+        # self.btn_unpatch.clicked.connect(self.unpatch_chapter)
 
         self.lbl_length_marker = QLabel(story_editor)
         self.lbl_length_marker.setObjectName(u"lbl_length_marker")
