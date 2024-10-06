@@ -10,6 +10,7 @@ import intermediate
 import _patch
 import postprocess
 import hachimi
+import hachimi_api
 import shutil
 from settings import settings
 import ui.widget_story_utils as sutils
@@ -481,7 +482,7 @@ class Ui_story_editor(QWidget):
         settings.autosave_story_editor = self.chkb_autosave.isChecked()
 
     
-    def patch_chapter(self):
+    def apply_chapter(self):
         if not self.loaded_chapter:
             return
         
@@ -505,6 +506,8 @@ class Ui_story_editor(QWidget):
         os.makedirs(out_folder, exist_ok=True)
         shutil.copy(local_out_path, out_path)
         print(out_path)
+        # res = hachimi_api.reload_localized_data(blocking=True)
+        # print(res.text)
 
         self.btn_apply_chapter.setEnabled(True)
         QApplication.restoreOverrideCursor()
@@ -638,18 +641,30 @@ class Ui_story_editor(QWidget):
         if not self.cur_open_block:
             return
         
+        cur_block_id = self.loaded_chapter["data"][self.cur_open_block].get("block_id")
+        if not cur_block_id:
+            return
+        
+        # hachimi_api.story_goto_block(cur_block_id)
+        # print(res.text)
+        
         id_list = []
         for block in self.loaded_chapter["data"][:self.cur_open_block + 1]:
             block_id = block.get("block_id", None)
             if block_id is not None:
-                id_list.append(str(block_id))
+                id_list.append(block_id)
 
         if not id_list:
             return
         
-        out_str = "\n".join(id_list)
+        # out_str = "\n".join(id_list)
 
-        util.write_carotenify_file(out_str, "gotoBlock")
+        for id in id_list:
+            # print("Requesting block", id)
+            hachimi_api.story_goto_block(id, blocking=True)
+
+
+        # util.write_carotenify_file(out_str, "gotoBlock")
 
     def handle_sync_change(self):
         if self.chkb_sync_game.isChecked():
@@ -953,7 +968,7 @@ class Ui_story_editor(QWidget):
         self.btn_apply_chapter.setObjectName(u"btn_apply_chapter")
         self.btn_apply_chapter.setGeometry(QRect(810, 440, 131, 23))
         self.btn_apply_chapter.setText(u"Save && add to Hachimi")
-        self.btn_apply_chapter.clicked.connect(self.patch_chapter)
+        self.btn_apply_chapter.clicked.connect(self.apply_chapter)
 
         self.btn_bold = QPushButton(story_editor)
         self.btn_bold.setObjectName(u"btn_bold")
