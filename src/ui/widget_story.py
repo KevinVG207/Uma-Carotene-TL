@@ -645,7 +645,7 @@ class Ui_story_editor(QWidget):
         if not cur_block_id:
             return
         
-        # hachimi_api.story_goto_block(cur_block_id)
+        hachimi_api.story_goto_block(cur_block_id, incremental=True)
         # print(res.text)
         
         id_list = []
@@ -657,11 +657,13 @@ class Ui_story_editor(QWidget):
         if not id_list:
             return
         
+        print(id_list)
+        
         # out_str = "\n".join(id_list)
 
-        for id in id_list:
-            # print("Requesting block", id)
-            hachimi_api.story_goto_block(id, blocking=True)
+        # for id in id_list:
+        #     # print("Requesting block", id)
+        #     hachimi_api.story_goto_block(id, blocking=True)
 
 
         # util.write_carotenify_file(out_str, "gotoBlock")

@@ -34,8 +34,12 @@ def send_request(type: RequestType, fields: dict, blocking: bool=False) -> reque
 def reload_localized_data(blocking: bool = False) -> requests.Response:
     return send_request(RequestType.ReloadLocalizedData, {}, blocking)
 
-def story_goto_block(block_id: int, blocking: bool = False) -> requests.Response:
-    return send_request(RequestType.StoryGotoBlock, {"block_id": block_id}, blocking)
+def story_goto_block(block_id: int, incremental: bool = True, blocking: bool = False) -> requests.Response:
+    fields = {
+        "block_id": block_id,
+        "incremental": incremental
+    }
+    return send_request(RequestType.StoryGotoBlock, fields, blocking)
 
 def hello_world() -> requests.Response:
     return requests.get(HACHIMI_API_URL)
