@@ -646,27 +646,6 @@ class Ui_story_editor(QWidget):
             return
         
         hachimi_api.story_goto_block(cur_block_id, incremental=True)
-        # print(res.text)
-        
-        id_list = []
-        for block in self.loaded_chapter["data"][:self.cur_open_block + 1]:
-            block_id = block.get("block_id", None)
-            if block_id is not None:
-                id_list.append(block_id)
-
-        if not id_list:
-            return
-        
-        print(id_list)
-        
-        # out_str = "\n".join(id_list)
-
-        # for id in id_list:
-        #     # print("Requesting block", id)
-        #     hachimi_api.story_goto_block(id, blocking=True)
-
-
-        # util.write_carotenify_file(out_str, "gotoBlock")
 
     def handle_sync_change(self):
         if self.chkb_sync_game.isChecked():
