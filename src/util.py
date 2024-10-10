@@ -110,7 +110,7 @@ META_BACKUP_TABLE = TABLE_BACKUP_PREFIX + "a"
 
 DLL_BACKUP_SUFFIX = ".bak"
 
-DMM_CONFIG_PATH = os.path.expandvars("%AppData%\dmmgameplayer5\dmmgame.cnf")
+DMM_CONFIG_PATH = os.path.expandvars("%AppData%\\dmmgameplayer5\\dmmgame.cnf")
 
 CELLAR_URL = "https://github.com/Hachimi-Hachimi/Cellar/releases/latest/download/dxgi.dll"
 
@@ -496,7 +496,7 @@ def redownload_mdb():
     shutil.copy(mdb_path, mdb_path_bak)
 
     # Download the mdb
-    url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Generic/{0:.2}/{0}'.format(asset_hash)
+    url = 'https://prd-storage-game-umamusume.akamaized.net/dl/resources/Generic/{0:.2}/{0}'.format(asset_hash)
     download_lz4(url, mdb_path)
     print("=== Downloaded latest master.mdb. You may now apply the patch again. ===")
 
@@ -516,12 +516,12 @@ def download_asset(hash, no_progress=False, force=False):
 
     os.makedirs(os.path.dirname(asset_path), exist_ok=True)
 
-    url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Windows/assetbundles/{0:.2}/{0}'.format(hash)
+    url = 'https://prd-storage-game-umamusume.akamaized.net/dl/resources/Windows/assetbundles/{0:.2}/{0}'.format(hash)
     
     try:
         download_file(url, asset_path, no_progress=no_progress)
     except requests.exceptions.HTTPError:
-        url = 'https://prd-storage-umamusume.akamaized.net/dl/resources/Generic/{0:.2}/{0}'.format(hash)
+        url = 'https://prd-storage-game-umamusume.akamaized.net/dl/resources/Generic/{0:.2}/{0}'.format(hash)
         download_file(url, asset_path, no_progress=no_progress)
 
     # Mark the asset as downloaded in the meta db
@@ -866,3 +866,4 @@ def umafy(text: str) -> str:
         .replace("Uma Musume", "Umamusume")\
 
 cleanup_carotenify_files()
+print(DMM_CONFIG_PATH)
