@@ -2,7 +2,7 @@
     "type": "story",
     "row_index": 36143,
     "file_name": "story/data/02/0201/storytimeline_020201071",
-    "hash": "TUUS3A7ZPSN567NGZZYDD4QKTTDLYXNH",
+    "hash": "KNRBVDRABSJDGXHGXIEEIB244565NYZJ",
     "data": [
         {
             "text": "",
@@ -16,40 +16,35 @@
             "name": "",
             "path_id": -306032320773593662,
             "block_id": 1,
-            "clip_length": 119,
-            "processed": "<story>It was the week after Rhein Kraft had won the 『Fillies' Review』. \n<story>This time, it was Cesario's turn to run the 『Flower C』."
+            "clip_length": 119
         },
         {
             "text": "(This is her first attempt at a major and she \nwas overwhelmingly the favorite……I was worried \nthe pressure might be a little much for her, but――)",
             "name": "<username>",
             "path_id": 6375652174865112110,
             "block_id": 2,
-            "clip_length": 145,
-            "processed": "<story>(This is her first attempt at a major and she \n<story>was overwhelmingly the favorite……I was worried \n<story>the pressure might be a little much for her, but――)"
+            "clip_length": 145
         },
         {
             "text": "Fuu――!!",
             "name": "Cesario",
             "path_id": 8886112928021443941,
             "block_id": 3,
-            "clip_length": 33,
-            "processed": "<story>Fuu――!!"
+            "clip_length": 33
         },
         {
             "text": "And it's Cesario! Cesario pulls out in front! \nA lead of 2 lengths, now 3 lengths! Cesario is out front!!",
             "name": "Live Announcer",
             "path_id": -1323831921242724722,
             "block_id": 4,
-            "clip_length": 227,
-            "processed": "<story>And it's Cesario! Cesario pulls out in front! \n<story>A lead of 2 lengths, now 3 lengths! Cesario is out front!!"
+            "clip_length": 227
         },
         {
             "text": "――Goal!! First place is Cesario!! On the last straight, \nshe showed us the difference in strength!!",
             "name": "Live Announcer",
             "path_id": -2351084457833048761,
             "block_id": 5,
-            "clip_length": 252,
-            "processed": "<story>――Goal!! First place is Cesario!! On the last straight, \n<story>she showed us the difference in strength!!"
+            "clip_length": 252
         },
         {
             "text": "Uwaah~! Seriously!? Isn't that a record time too!? \nAmazing~~……!!",
@@ -57,7 +52,6 @@
             "path_id": -5196188315142379329,
             "block_id": 6,
             "clip_length": 271,
-            "processed": "<story>Uwaah~! Seriously!? Isn't that a record time too!? \n<story>Amazing~~……!!",
             "name_processed": "<sc=91>Single Knot Uma Musume"
         },
         {
@@ -65,56 +59,49 @@
             "name": "King Halo",
             "path_id": -8652006098193572839,
             "block_id": 7,
-            "clip_length": 292,
-            "processed": "<story>Hold on……this is……just too incredible. \n<story>Cesario-san……that girl, just how far will she――"
+            "clip_length": 292
         },
         {
             "text": "…………",
             "name": "Rhein Kraft",
             "path_id": -1623854174895160558,
             "block_id": 8,
-            "clip_length": 103,
-            "processed": "<story>…………"
+            "clip_length": 103
         },
         {
             "text": "(How far……? Just how far will Cesario go……? \nJust how much……will I have to do――!?)",
             "name": "Rhein Kraft",
             "path_id": 5895473360160573300,
             "block_id": 9,
-            "clip_length": 289,
-            "processed": "<story>(How far……? Just how far will Cesario go……? \n<story>Just how much……will I have to do――!?)"
+            "clip_length": 289
         },
         {
             "text": "――And now you're watching a special VTR…… \nfor the 『Oka Sho』, as expected, aren't Rhein \nKraft and Cesario the focus of attention!?",
             "name": "MC",
             "path_id": -1972111445186848075,
             "block_id": 10,
-            "clip_length": 254,
-            "processed": "<story>――And now you're watching a special VTR…… \n<story>for the 『Oka Sho』, as expected, aren't Rhein \n<story>Kraft and Cesario the focus of attention!?"
+            "clip_length": 254
         },
         {
             "text": "That's true. Within the Tiara rotation, \nthe abilities of those two are a cut above, without a doubt.",
             "name": "Commentator A",
             "path_id": 1644409479733029103,
             "block_id": 11,
-            "clip_length": 258,
-            "processed": "<story>That's true. Within the Tiara rotation, \n<story>the abilities of those two are a cut above, without a doubt."
+            "clip_length": 258
         },
         {
             "text": "Will it be Rhein Kraft's powerful leader strength, \nor Cesario's sharp closing leg! We can expect a \nheated first time showdown at the 『Oka Sho』.",
             "name": "Commentator B",
             "path_id": -2257632118611331292,
             "block_id": 12,
-            "clip_length": 351,
-            "processed": "<story>Will it be Rhein Kraft's powerful leader strength, \n<story>or Cesario's sharp closing leg! We can expect a \n<story>heated first time showdown at the 『Oka Sho』."
+            "clip_length": 351
         },
         {
             "text": "And then there's something that both of them have in common! \nThey are both members of the same team, <Ascella>, and so――!",
             "name": "MC",
             "path_id": -8909525645261055645,
             "block_id": 13,
-            "clip_length": 287,
-            "processed": "<story>And then there's something that both of them have in common! \n<story>They are both members of the same team, <Ascella>, and so――!"
+            "clip_length": 287
         },
         {
             "text": "Today, we have <Ascella>'s trainer here with us! \nTrainer-san, for the upcoming 『Oka Sho』 what \nkind of advice have you given them!?",
@@ -127,32 +114,28 @@
                     "text": "……Well, that's――",
                     "hash": "798f350487627970c100c1cacc3ca164a262a28f9f5a6dfc6e24830b23edc5ff"
                 }
-            ],
-            "processed": "<story>Today, we have <Ascella>'s trainer here with us! \n<story>Trainer-san, for the upcoming 『Oka Sho』 what \n<story>kind of advice have you given them!?"
+            ]
         },
         {
             "text": "I was already at a loss for words. It was obviously \nbecause I was both Rhein Kraft's and Cesario's trainer.",
             "name": "",
             "path_id": -2153528605657411316,
             "block_id": 15,
-            "clip_length": 114,
-            "processed": "<story>I was already at a loss for words. It was obviously \n<story>because I was both Rhein Kraft's and Cesario's trainer."
+            "clip_length": 114
         },
         {
             "text": "Creating a training menu geared towards victory at the 『Oka Sho』. \nThis was an important duty as their trainer. However――",
             "name": "",
             "path_id": 5770001807246180562,
             "block_id": 16,
-            "clip_length": 149,
-            "processed": "<story>Creating a training menu geared towards victory at the 『Oka Sho』. \n<story>This was an important duty as their trainer. However――"
+            "clip_length": 149
         },
         {
             "text": "For Rhein Kraft, the main point of her menu would \nend up being 『Countermeasures against Cesario』.",
             "name": "",
             "path_id": -3807200581341314075,
             "block_id": 17,
-            "clip_length": 140,
-            "processed": "<story>For Rhein Kraft, the main point of her menu would \n<story>end up being 『Countermeasures against Cesario』."
+            "clip_length": 140
         },
         {
             "text": "Similarly, for Cesario, it would end up \nbeing 『Countermeasures against Rhein Kraft』.",
@@ -166,32 +149,28 @@
                     "hash": "3de527d632a92e16bb0d5cc2d0a7fc9087312ab581b57442c0e3e4f44c010590",
                     "processed": "<size=36>(I had to overcome……that 『Contradiction』)</size>"
                 }
-            ],
-            "processed": "<story>Similarly, for Cesario, it would end up \n<story>being 『Countermeasures against Rhein Kraft』."
+            ]
         },
         {
             "text": "……Of course, I instructed to the best of my ability. \nFor both Rhein Kraft and Cesario.",
             "name": "<username>",
             "path_id": -6706769040649759878,
             "block_id": 19,
-            "clip_length": 149,
-            "processed": "<story>……Of course, I instructed to the best of my ability. \n<story>For both Rhein Kraft and Cesario."
+            "clip_length": 149
         },
         {
             "text": "I'd be glad if either of them won, but…… \nI also want both of them to win. Which is why \nI intended to provide equal guidance to both.",
             "name": "<username>",
             "path_id": -2135408217458894362,
             "block_id": 20,
-            "clip_length": 150,
-            "processed": "<story>I'd be glad if either of them won, but…… \n<story>I also want both of them to win. Which is why \n<story>I intended to provide equal guidance to both."
+            "clip_length": 150
         },
         {
             "text": "――that's how I ended up answering……",
             "name": "",
             "path_id": -203885078882299243,
             "block_id": 21,
-            "clip_length": 68,
-            "processed": "<story>――that's how I ended up answering……"
+            "clip_length": 68
         },
         {
             "text": "……………………………………………………",
@@ -204,8 +183,7 @@
                     "text": "(I……I messed up……!!)",
                     "hash": "00ea9bbf7211477366c5e80eee9aca35800143152217d7137fb475b3f9366159"
                 }
-            ],
-            "processed": "<story>……………………………………………………"
+            ]
         },
         {
             "text": "Haa, haa, haa, haa…… \n……Haa……!!",
@@ -218,24 +196,21 @@
                     "text": "(Kraft……keeps staying longer……)",
                     "hash": "c63f52c4e9f8aca603eec3af5b69cb5c5912cf1e3d009d6f8c5109585a073943"
                 }
-            ],
-            "processed": "<story>Haa, haa, haa, haa…… \n<story>……Haa……!!"
+            ]
         },
         {
             "text": "Haa……no!! Like this, I'll still get overtaken……! \nCesario will……catch me……!",
             "name": "Rhein Kraft",
             "path_id": -1923818664932754163,
             "block_id": 24,
-            "clip_length": 254,
-            "processed": "<story>Haa……no!! Like this, I'll still get overtaken……! \n<story>Cesario will……catch me……!"
+            "clip_length": 254
         },
         {
             "text": "The 『Oka Sho』 is so soon…… \nWhat should I do……? Like this, I'll……!",
             "name": "Rhein Kraft",
             "path_id": -5991789048970492140,
             "block_id": 25,
-            "clip_length": 248,
-            "processed": "<story>The 『Oka Sho』 is so soon…… \n<story>What should I do……? Like this, I'll……!"
+            "clip_length": 248
         },
         {
             "text": "At that time. Rhein Kraft looked so desperate that I――",
@@ -254,32 +229,28 @@
                     "hash": "b262c1548aaf826a81e223f8e71ddb04d1567446920068c3cd91bdcb89164ff7",
                     "processed": "<size=43>……Kraft, believe in your own strength</size>"
                 }
-            ],
-            "processed": "<story>At that time. Rhein Kraft looked so desperate that I――"
+            ]
         },
         {
             "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities.",
             "name": "<username>",
             "path_id": -3085877716908228681,
             "block_id": 27,
-            "clip_length": 119,
-            "processed": "<story>Taking a solid lead using your power and then breaking \n<story>away is your strongest point. Even at the 『Oka Sho』 you \n<story>need to be conscious of using the best of your abilities."
+            "clip_length": 119
         },
         {
             "text": "Taking a solid lead using your power and then breaking \naway is your strongest point. Even at the 『Oka Sho』 you \nneed to be conscious of using the best of your abilities.",
             "name": "<username>",
             "path_id": 8048122959616366487,
             "block_id": 28,
-            "clip_length": 121,
-            "processed": "<story>Taking a solid lead using your power and then breaking \n<story>away is your strongest point. Even at the 『Oka Sho』 you \n<story>need to be conscious of using the best of your abilities."
+            "clip_length": 121
         },
         {
             "text": "Trainer-san……but, that's……!",
             "name": "Rhein Kraft",
             "path_id": -6729393354140289235,
             "block_id": 29,
-            "clip_length": 106,
-            "processed": "<story>Trainer-san……but, that's……!"
+            "clip_length": 106
         },
         {
             "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
@@ -292,8 +263,7 @@
                     "text": "Most likely with these members――",
                     "hash": "3a52f18be978edbae76babdedd27d5ffb6c59ae9fa418ff996a90fa8489b0e0c"
                 }
-            ],
-            "processed": "<story>Believe in the skills you've honed until now, Kraft. Also…… \n<story>you can try accelerating a little earlier than in the previous race."
+            ]
         },
         {
             "text": "Believe in the skills you've honed until now, Kraft. Also…… \nyou can try accelerating a little earlier than in the previous race.",
@@ -306,32 +276,28 @@
                     "text": "Most likely with these members――",
                     "hash": "3a52f18be978edbae76babdedd27d5ffb6c59ae9fa418ff996a90fa8489b0e0c"
                 }
-            ],
-            "processed": "<story>Believe in the skills you've honed until now, Kraft. Also…… \n<story>you can try accelerating a little earlier than in the previous race."
+            ]
         },
         {
             "text": "These members……? Um, what do you mean?",
             "name": "Rhein Kraft",
             "path_id": -2924605234307304803,
             "block_id": 32,
-            "clip_length": 128,
-            "processed": "<story>These members……? Um, what do you mean?"
+            "clip_length": 128
         },
         {
             "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual.",
             "name": "<username>",
             "path_id": 3375268730025653518,
             "block_id": 33,
-            "clip_length": 140,
-            "processed": "<story>……No, maybe that was unnecessary. Don't worry about it. \n<story>Anyways, try pushing forward a little sooner than usual."
+            "clip_length": 140
         },
         {
             "text": "……No, maybe that was unnecessary. Don't worry about it. \nAnyways, try pushing forward a little sooner than usual.",
             "name": "<username>",
             "path_id": -6980403035616895353,
             "block_id": 34,
-            "clip_length": 137,
-            "processed": "<story>……No, maybe that was unnecessary. Don't worry about it. \n<story>Anyways, try pushing forward a little sooner than usual."
+            "clip_length": 137
         },
         {
             "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
@@ -348,8 +314,7 @@
                     "text": "You'll be fine. I believe in you",
                     "hash": "9f1a2a84314a7e7d75a855f5a482d405782556555120c65cc66ec42921b9245d"
                 }
-            ],
-            "processed": "<story>You're strong at maintaining a high pace……the advantage \n<story>of 『Maintaining Pace』. If you pull ahead early, you'll \n<story>definitely be able to hold on until the end."
+            ]
         },
         {
             "text": "You're strong at maintaining a high pace……the advantage \nof 『Maintaining Pace』. If you pull ahead early, you'll \ndefinitely be able to hold on until the end.",
@@ -366,40 +331,35 @@
                     "text": "You'll be fine. I believe in you",
                     "hash": "9f1a2a84314a7e7d75a855f5a482d405782556555120c65cc66ec42921b9245d"
                 }
-            ],
-            "processed": "<story>You're strong at maintaining a high pace……the advantage \n<story>of 『Maintaining Pace』. If you pull ahead early, you'll \n<story>definitely be able to hold on until the end."
+            ]
         },
         {
             "text": "My strength…… \n……Okay. I understand! Thank you very much!!",
             "name": "Rhein Kraft",
             "path_id": 2208410843515371639,
             "block_id": 37,
-            "clip_length": 344,
-            "processed": "<story>My strength…… \n<story>……Okay. I understand! Thank you very much!!"
+            "clip_length": 344
         },
         {
             "text": "………………………………",
             "name": "<username>",
             "path_id": -7605338303884173984,
             "block_id": 38,
-            "clip_length": 76,
-            "processed": "<story>………………………………"
+            "clip_length": 76
         },
         {
             "text": "(For the Oka Sho……based on the members, there's a high \nprobability of everyone jostling for position. It wasn't \na good idea to be stuck in the crowd for too long.)",
             "name": "<username>",
             "path_id": -5358423677073600609,
             "block_id": 39,
-            "clip_length": 155,
-            "processed": "<story>(For the Oka Sho……based on the members, there's a high \n<story>probability of everyone jostling for position. It wasn't \n<story>a good idea to be stuck in the crowd for too long.)"
+            "clip_length": 155
         },
         {
             "text": "(So……it would be more advantageous for Kraft \nto pull ahead earlier. ……that much was true.)",
             "name": "<username>",
             "path_id": -6126037874311261519,
             "block_id": 40,
-            "clip_length": 138,
-            "processed": "<story>(So……it would be more advantageous for Kraft \n<story>to pull ahead earlier. ……that much was true.)"
+            "clip_length": 138
         },
         {
             "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
@@ -412,8 +372,7 @@
                     "text": "(……But then, for Cesario――)",
                     "hash": "d4cc4e63f0776c99223c40e66bd216a54277d0f1c4e5f98a7b9782c01ef13063"
                 }
-            ],
-            "processed": "<story>(But then, shouldn't I tell Cesario to be careful not to get \n<story>surrounded since she'd be running more towards the back?)"
+            ]
         },
         {
             "text": "(But then, shouldn't I tell Cesario to be careful not to get \nsurrounded since she'd be running more towards the back?)",
@@ -426,16 +385,14 @@
                     "text": "(……But then, for Cesario――)",
                     "hash": "d4cc4e63f0776c99223c40e66bd216a54277d0f1c4e5f98a7b9782c01ef13063"
                 }
-            ],
-            "processed": "<story>(But then, shouldn't I tell Cesario to be careful not to get \n<story>surrounded since she'd be running more towards the back?)"
+            ]
         },
         {
             "text": "(It might be unnecessary. Whether or not it would be a problem \ndepends on how the race develops. Since she has overwhelming \nstrength, it might be better to focus on her own running)",
             "name": "<username>",
             "path_id": 5769719488790792138,
             "block_id": 43,
-            "clip_length": 151,
-            "processed": "<story>(It might be unnecessary. Whether or not it would be a problem \n<story>depends on how the race develops. Since she has overwhelming \n<story>strength, it might be better to focus on her own running)"
+            "clip_length": 151
         },
         {
             "text": "(Don't get distracted by your surroundings, \nconcentrate on maintaining form and focus only \non your own running. That would be best for Cesario――)",
@@ -452,24 +409,21 @@
                     "text": "(……no, but is that true?)",
                     "hash": "0f0b0063ab0e2b0e5e030e6243fa2e716d99329b8092cb7e677b01e0ef2246b6"
                 }
-            ],
-            "processed": "<story>(Don't get distracted by your surroundings, \n<story>concentrate on maintaining form and focus only \n<story>on your own running. That would be best for Cesario――)"
+            ]
         },
         {
             "text": "I might……be acting like I want Kraft to win more……",
             "name": "<username>",
             "path_id": 7662933125158239432,
             "block_id": 45,
-            "clip_length": 115,
-            "processed": "<story>I might……be acting like I want Kraft to win more……"
+            "clip_length": 115
         },
         {
             "text": "I might……be acting like I want Kraft to win more……",
             "name": "<username>",
             "path_id": 7823983434842166515,
             "block_id": 46,
-            "clip_length": 114,
-            "processed": "<story>I might……be acting like I want Kraft to win more……"
+            "clip_length": 114
         },
         {
             "text": "(With 1600m, Kraft might have a chance. But, the next race, Oaks……\nat 2400m, honestly, it would probably be difficult……)",
@@ -482,8 +436,7 @@
                     "text": "No, I can't! As a trainer――",
                     "hash": "ab445914cdfc1ae0a9ba7af5075518750f5b536f99d95e98cccb9a823519cbd8"
                 }
-            ],
-            "processed": "<story>(With 1600m, Kraft might have a chance. But, the next race, Oaks……\n<story>at 2400m, honestly, it would probably be difficult……)"
+            ]
         },
         {
             "text": "(Bzzzz-! Bzzzz-!)",
@@ -496,48 +449,42 @@
                     "text": "Uwaah!?",
                     "hash": "45cc0312e301f6066f6f9d514958ece2b8306e55a92758907b25a348b29988a1"
                 }
-            ],
-            "processed": "<story>(Bzzzz-! Bzzzz-!)"
+            ]
         },
         {
             "text": "That scared me……a LANE from Rhein Kraft? \nNot in the Team <Ascella> group chat, but a DM……?",
             "name": "<username>",
             "path_id": -7392368112408122694,
             "block_id": 49,
-            "clip_length": 125,
-            "processed": "<story>That scared me……a LANE from Rhein Kraft? \n<story>Not in the Team <Ascella> group chat, but a DM……?"
+            "clip_length": 125
         },
         {
             "text": "『Trainer-san, good evening! I'm sorry for the sudden \ncontact, but I want to ask you for a favor』",
             "name": "Rhein Kraft",
             "path_id": -3627409069975860361,
             "block_id": 50,
-            "clip_length": 191,
-            "processed": "<story>『Trainer-san, good evening! I'm sorry for the sudden \n<story>contact, but I want to ask you for a favor』"
+            "clip_length": 191
         },
         {
             "text": "『Saturday, tomorrow at 11AM, can you come with \nme to the riverbed for independent training?』",
             "name": "Rhein Kraft",
             "path_id": -2525940831251075390,
             "block_id": 51,
-            "clip_length": 199,
-            "processed": "<story>『Saturday, tomorrow at 11AM, can you come with \n<story>me to the riverbed for independent training?』"
+            "clip_length": 199
         },
         {
             "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?",
             "name": "<username>",
             "path_id": 2593312791816960960,
             "block_id": 52,
-            "clip_length": 125,
-            "processed": "<story>I see, the 『Oka Sho』 is soon after all. So of course she'd want \n<story>to dig in…… Alright, for now I'll reply that it's OK……wait, huh?"
+            "clip_length": 125
         },
         {
             "text": "I see, the 『Oka Sho』 is soon after all. So of course she'd want \nto dig in…… Alright, for now I'll reply that it's OK……wait, huh?",
             "name": "<username>",
             "path_id": 3062995337820736040,
             "block_id": 53,
-            "clip_length": 125,
-            "processed": "<story>I see, the 『Oka Sho』 is soon after all. So of course she'd want \n<story>to dig in…… Alright, for now I'll reply that it's OK……wait, huh?"
+            "clip_length": 125
         },
         {
             "text": "『Trainer, I'd like some advice regarding extra training. \nSaturday, at 11AM, can you accompany me to the riverbed?』",
@@ -550,40 +497,35 @@
                     "text": "…………Cesario too!?",
                     "hash": "1b27ed4bdb848c76f572b1daceb9df1a4cce0e40cea2c334a090c0b025b317d3"
                 }
-            ],
-            "processed": "<story>『Trainer, I'd like some advice regarding extra training. \n<story>Saturday, at 11AM, can you accompany me to the riverbed?』"
+            ]
         },
         {
             "text": "『I want to run more this weekend, no matter what!』",
             "name": "Rhein Kraft",
             "path_id": 4737200660127051915,
             "block_id": 55,
-            "clip_length": 122,
-            "processed": "<story>『I want to run more this weekend, no matter what!』"
+            "clip_length": 122
         },
         {
             "text": "『I cannot afford to lose the Oka Sho』",
             "name": "Cesario",
             "path_id": -1573060783051218581,
             "block_id": 56,
-            "clip_length": 120,
-            "processed": "<story>『I cannot afford to lose the Oka Sho』"
+            "clip_length": 120
         },
         {
             "text": "Trainer-san! Let's do some individual training!",
             "name": "Rhein Kraft",
             "path_id": -9214065222367575200,
             "block_id": 57,
-            "clip_length": 122,
-            "processed": "<story>Trainer-san! Let's do some individual training!"
+            "clip_length": 122
         },
         {
             "text": "Trainer, let's do some individual training.",
             "name": "Cesario",
             "path_id": -835839926149357713,
             "block_id": 58,
-            "clip_length": 109,
-            "processed": "<story>Trainer, let's do some individual training."
+            "clip_length": 109
         },
         {
             "text": "Please!",
@@ -596,8 +538,7 @@
                     "text": "Uuuuuuuu……!!",
                     "hash": "84151f267ca5397c7525ed6f7cee568762c207954e0bb8802337358b3b73bdcb"
                 }
-            ],
-            "processed": "<story>Please!"
+            ]
         },
         {
             "text": "Trainer(-san)!!",
@@ -610,16 +551,14 @@
                     "text": "Uwaah!?",
                     "hash": "7ce52f6e03adad6326bec7f90496279fd6b29028d23827b3f1f91b5ca3177af7"
                 }
-            ],
-            "processed": "<story>Trainer(-san)!!"
+            ]
         },
         {
             "text": "……wait, huh!? \nThat voice……came from outside!?",
             "name": "<username>",
             "path_id": -8266413725955782153,
             "block_id": 61,
-            "clip_length": 76,
-            "processed": "<story>……wait, huh!? \n<story>That voice……came from outside!?"
+            "clip_length": 76
         },
         {
             "text": "Sorry for coming in uninvited. \n……Trainer, you look pale? Are you okay?",
@@ -632,16 +571,14 @@
                     "text": "Y-yeah~, no, ummmmm……",
                     "hash": "4dd63ec5ebd79409aa7835345ba0cb60d8111a94d5c60a9368da44813618be9a"
                 }
-            ],
-            "processed": "<story>Sorry for coming in uninvited. \n<story>……Trainer, you look pale? Are you okay?"
+            ]
         },
         {
             "text": "Fuu……Fufufuu, Ahahahaha! \nIt's fine now right, Cesario……!? One-two!",
             "name": "Rhein Kraft",
             "path_id": -5815452936690162787,
             "block_id": 63,
-            "clip_length": 268,
-            "processed": "<story>Fuu……Fufufuu, Ahahahaha! \n<story>It's fine now right, Cesario……!? One-two!"
+            "clip_length": 268
         },
         {
             "text": "Prank successful~!",
@@ -654,72 +591,63 @@
                     "text": "………………eh?",
                     "hash": "af1a17154ff9aded49f2fe2db68c2f7aee66de40198901fc5992cc78eb0290a2"
                 }
-            ],
-            "processed": "<story>Prank successful~!"
+            ]
         },
         {
             "text": "Seems like we caused you quite a bit of trouble, huh? \nSorry, Trainer. The earlier LANE messages were a \njoke that Kraft and I thought up.",
             "name": "Cesario",
             "path_id": -1032587680282896128,
             "block_id": 65,
-            "clip_length": 298,
-            "processed": "<story>Seems like we caused you quite a bit of trouble, huh? \n<story>Sorry, Trainer. The earlier LANE messages were a \n<story>joke that Kraft and I thought up."
+            "clip_length": 298
         },
         {
             "text": "Lately, Trainer-san, it looks like you've always \nbeen deep in thought……earlier today when I was training, \nit almost seemed like your eyes were spinning.",
             "name": "Rhein Kraft",
             "path_id": 9014088578858560490,
             "block_id": 66,
-            "clip_length": 314,
-            "processed": "<story>Lately, Trainer-san, it looks like you've always \n<story>been deep in thought……earlier today when I was training, \n<story>it almost seemed like your eyes were spinning."
+            "clip_length": 314
         },
         {
             "text": "But, that's why, even if it was a bit forceful, we wanted to \ntell you. ……Trainer-san, we both understand your feelings.",
             "name": "Rhein Kraft",
             "path_id": -6920981647071637659,
             "block_id": 67,
-            "clip_length": 283,
-            "processed": "<story>But, that's why, even if it was a bit forceful, we wanted to \n<story>tell you. ……Trainer-san, we both understand your feelings."
+            "clip_length": 283
         },
         {
             "text": "You've put a lot of thought and heart in to it, haven't you? \nYou've been trying to keep the training even between Kraft and me.",
             "name": "Cesario",
             "path_id": -7601224424561124558,
             "block_id": 68,
-            "clip_length": 330,
-            "processed": "<story>You've put a lot of thought and heart in to it, haven't you? \n<story>You've been trying to keep the training even between Kraft and me."
+            "clip_length": 330
         },
         {
             "text": "Isn't that something unbelievable!? To ensure that either \none of us wins, and since we're both on the same team, to \nbe able to give both of us equal guidance on how to win.",
             "name": "Rhein Kraft",
             "path_id": 5827868004599091389,
             "block_id": 69,
-            "clip_length": 290,
-            "processed": "<story>Isn't that something unbelievable!? To ensure that either \n<story>one of us wins, and since we're both on the same team, to \n<story>be able to give both of us equal guidance on how to win."
+            "clip_length": 290
         },
         {
             "text": "It must have been hard to bear…… \nThank you very much.",
             "name": "Rhein Kraft",
             "path_id": -7582965128971141177,
             "block_id": 70,
-            "clip_length": 252,
-            "processed": "<story>It must have been hard to bear…… \n<story>Thank you very much."
+            "clip_length": 252
         },
         {
             "text": "Trainer. For now, can you just believe in us……? \nUntil the 『Oka Sho』 can you leave the training to us?",
             "name": "Cesario",
             "path_id": 5833530853044526999,
             "block_id": 71,
-            "clip_length": 305,
-            "processed": "<story>Trainer. For now, can you just believe in us……? \n<story>Until the 『Oka Sho』 can you leave the training to us?"
+            "clip_length": 305
         },
         {
             "text": "Of course, if we're really troubled we'll ask \nfor help though! However, how should I say it…… \nfor now, we just want you to watch over us.",
             "name": "Rhein Kraft",
             "path_id": -5169622289237515943,
             "block_id": 72,
-            "clip_length": 304,
-            "processed": "<story>Of course, if we're really troubled we'll ask \n<story>for help though! However, how should I say it…… \n<story>for now, we just want you to watch over us."
+            "clip_length": 304
         },
         {
             "text": "We'll train with all our strength, and we'll win. \nAt the 『Oka Sho』――for sure!",
@@ -732,96 +660,84 @@
                     "text": "Kraft, Cesario……",
                     "hash": "f42e8da50e344c9aee2f46350da9ad191e6fbdef46434257db64d8f4e9f7a705"
                 }
-            ],
-            "processed": "<story>We'll train with all our strength, and we'll win. \n<story>At the 『Oka Sho』――for sure!"
+            ]
         },
         {
             "text": "――Ahh, damnit!!",
             "name": "<username>",
             "path_id": 4218304627642901492,
             "block_id": 74,
-            "clip_length": 58,
-            "processed": "<story>――Ahh, damnit!!"
+            "clip_length": 58
         },
         {
             "text": "――Ahh, geez!",
             "name": "<username>",
             "path_id": 7259109496610299488,
             "block_id": 75,
-            "clip_length": 58,
-            "processed": "<story>――Ahh, geez!"
+            "clip_length": 58
         },
         {
             "text": "Eh, eh!? T-Trainer-san!?",
             "name": "Rhein Kraft",
             "path_id": -5944745038064747308,
             "block_id": 76,
-            "clip_length": 99,
-            "processed": "<story>Eh, eh!? T-Trainer-san!?"
+            "clip_length": 99
         },
         {
             "text": "Oh……! Your cheeks are turning bright red! \nWe should get some ice!",
             "name": "Cesario",
             "path_id": 1749128892538248057,
             "block_id": 77,
-            "clip_length": 144,
-            "processed": "<story>Oh……! Your cheeks are turning bright red! \n<story>We should get some ice!"
+            "clip_length": 144
         },
         {
             "text": "It's fine! Sorry. I'm pathetic, I couldn't hide \nit and had to have you two do that for me……",
             "name": "<username>",
             "path_id": 8870724881980369820,
             "block_id": 78,
-            "clip_length": 132,
-            "processed": "<story>It's fine! Sorry. I'm pathetic, I couldn't hide \n<story>it and had to have you two do that for me……"
+            "clip_length": 132
         },
         {
             "text": "It's fine! Sorry. I'm pathetic, I couldn't hide \nit and had to have you two do that for me……",
             "name": "<username>",
             "path_id": -3334734576125578528,
             "block_id": 79,
-            "clip_length": 131,
-            "processed": "<story>It's fine! Sorry. I'm pathetic, I couldn't hide \n<story>it and had to have you two do that for me……"
+            "clip_length": 131
         },
         {
             "text": "……I'm sure this won't be the last time. But, I'm your trainer. \nI can't have you do everything……will you let me help you?",
             "name": "<username>",
             "path_id": 8168112905113951763,
             "block_id": 80,
-            "clip_length": 176,
-            "processed": "<story>……I'm sure this won't be the last time. But, I'm your trainer. \n<story>I can't have you do everything……will you let me help you?"
+            "clip_length": 176
         },
         {
             "text": "……I'm sure this won't be the last time. But, I'm your trainer. \nI can't have you do everything……will you let me help you?",
             "name": "<username>",
             "path_id": 3512507088398805091,
             "block_id": 81,
-            "clip_length": 175,
-            "processed": "<story>……I'm sure this won't be the last time. But, I'm your trainer. \n<story>I can't have you do everything……will you let me help you?"
+            "clip_length": 175
         },
         {
             "text": "Trainer-san……! Fufuu. \n……As I thought, you really are someone that won't give up!",
             "name": "Rhein Kraft",
             "path_id": -3734698504456000095,
             "block_id": 82,
-            "clip_length": 304,
-            "processed": "<story>Trainer-san……! Fufuu. \n<story>……As I thought, you really are someone that won't give up!"
+            "clip_length": 304
         },
         {
             "text": "Yes, please do. ……I look forward to working with you, Trainer.",
             "name": "Cesario",
             "path_id": -3206713511337863033,
             "block_id": 83,
-            "clip_length": 171,
-            "processed": "<story>Yes, please do. ……I look forward to working with you, Trainer."
+            "clip_length": 171
         },
         {
             "text": "They both gave me a clear response. \nI was greatly encouraged by their growth……",
             "name": "",
             "path_id": 4831650540360403137,
             "block_id": 84,
-            "clip_length": 162,
-            "processed": "<story>They both gave me a clear response. \n<story>I was greatly encouraged by their growth……"
+            "clip_length": 162
         }
     ],
     "title": "第7話※タイトル記載"

@@ -16,56 +16,49 @@
             "name": "Admire Vega",
             "path_id": -4173833503532466838,
             "block_id": 1,
-            "clip_length": 83,
-            "processed": "<story>………"
+            "clip_length": 83
         },
         {
             "text": "<i>If only you were here…</i>",
             "name": "Admire Vega",
             "path_id": -1028696719606109571,
             "block_id": 2,
-            "clip_length": 128,
-            "processed": "<story><i>If only you were here…</i>"
+            "clip_length": 128
         },
         {
             "text": "<i>I've had that thought so many times.</i>",
             "name": "Admire Vega",
             "path_id": -6299286007256813477,
             "block_id": 3,
-            "clip_length": 106,
-            "processed": "<story><i>I've had that thought so many times.</i>"
+            "clip_length": 106
         },
         {
             "text": "<i>But I know that you'll always be \ninside of me, that you'll never disappear.</i>",
             "name": "Admire Vega",
             "path_id": 2529804517048782393,
             "block_id": 4,
-            "clip_length": 282,
-            "processed": "<story><i>But I know that you'll always be \n<story>inside of me, that you'll never disappear.</i>"
+            "clip_length": 282
         },
         {
             "text": "<i>That's because even if I can't hear your voice, even if I can't \nsee your body, I can still feel you.</i> <i>I can feel you and your \nprecious thoughts.</i>",
             "name": "Admire Vega",
             "path_id": -9141311040665817319,
             "block_id": 5,
-            "clip_length": 281,
-            "processed": "<story><i>That's because even if I can't hear your voice, even if I can't \n<story>see your body, I can still feel you.</i> <i>I can feel you and your \n<story>precious thoughts.</i>"
+            "clip_length": 281
         },
         {
             "text": "<i>Even under this beautiful starry sky, I know you're…</i>",
             "name": "Admire Vega",
             "path_id": -286297494634521151,
             "block_id": 6,
-            "clip_length": 148,
-            "processed": "<story><i>Even under this beautiful starry sky, I know you're…</i>"
+            "clip_length": 148
         },
         {
             "text": "We look forward to seeing you again. \nThe next projection will begin at…",
             "name": "PA System",
             "path_id": 2710188161938800370,
             "block_id": 7,
-            "clip_length": 254,
-            "processed": "<story>We look forward to seeing you again. \n<story>The next projection will begin at…"
+            "clip_length": 254
         },
         {
             "text": "The planetarium. I knew she loved the stars, so I came here \nto learn more so that we would have something to talk about.",
@@ -78,16 +71,14 @@
                     "text": "That was so beautiful…",
                     "hash": "cb6793cc9da7abeeac26b8134230563bfdf061d5d8a15dc7003cd73375f8738e"
                 }
-            ],
-            "processed": "<story>The planetarium. I knew she loved the stars, so I came here \n<story>to learn more so that we would have something to talk about."
+            ]
         },
         {
             "text": "I enjoyed it more than I thought I would. I figured this was a \ngood time to learn more about the stars. So I went to the gift \nshop, looking for some picture books to help my study, when…",
             "name": "",
             "path_id": 3085165408580478303,
             "block_id": 9,
-            "clip_length": 116,
-            "processed": "<story>I enjoyed it more than I thought I would. I figured this was a \n<story>good time to learn more about the stars. So I went to the gift \n<story>shop, looking for some picture books to help my study, when…"
+            "clip_length": 116
         },
         {
             "text": "Ah…",
@@ -100,24 +91,21 @@
                     "text": "So you came too, Ayabe?",
                     "hash": "52ef97b79a364f2860c4dc3d806e2c8c33eb18978ba1124960bc12551881b62d"
                 }
-            ],
-            "processed": "<story>Ah…"
+            ]
         },
         {
             "text": "I always come here… \nBut why are you here?",
             "name": "Admire Vega",
             "path_id": 6921126177377457567,
             "block_id": 11,
-            "clip_length": 250,
-            "processed": "<story>I always come here… \n<story>But why are you here?"
+            "clip_length": 250
         },
         {
             "text": "Did you come to look at the stars?",
             "name": "Admire Vega",
             "path_id": 1518720728223832309,
             "block_id": 12,
-            "clip_length": 57,
-            "processed": "<story>Did you come to look at the stars?"
+            "clip_length": 57
         },
         {
             "text": "Admire Vega asked me a question. \nIt's rare to see her try to have a conversation.",
@@ -131,16 +119,14 @@
                     "hash": "938ab8e53516883ec810942c9b7e7a45c15c56c72995410b4bd1b9eff9d145b8",
                     "processed": "<size=41>I thought I'd learn more about the stars.</size>"
                 }
-            ],
-            "processed": "<story>Admire Vega asked me a question. \n<story>It's rare to see her try to have a conversation."
+            ]
         },
         {
             "text": "Why…? Are you interested in the stars?",
             "name": "Admire Vega",
             "path_id": 7150073213491088857,
             "block_id": 14,
-            "clip_length": 106,
-            "processed": "<story>Why…? Are you interested in the stars?"
+            "clip_length": 106
         },
         {
             "text": "As expected, the conversation is still going! I can't \nwaste this chance. I need to come up with something witty…",
@@ -153,8 +139,7 @@
                     "text": "It's because I love you!",
                     "hash": "1f97eaa52b1f189d7bf8f790fd6b4248c0797d76305f942200b9147c2ff57ac2"
                 }
-            ],
-            "processed": "<story>As expected, the conversation is still going! I can't \n<story>waste this chance. I need to come up with something witty…"
+            ]
         },
         {
             "text": "…What?",
@@ -167,8 +152,7 @@
                     "text": "Eh?",
                     "hash": "698bceb8b2cde22b3e18c7997b79111a01188443db7d58daa8772fe9dfeca06c"
                 }
-            ],
-            "processed": "<story>…What?"
+            ]
         },
         {
             "text": "Wh-What are you… saying…?",
@@ -182,72 +166,63 @@
                     "hash": "84478ba35366736f596eb6c7ce14fdfd5df625179bb8f5b8d29af47605308c2a",
                     "processed": "<size=37>Ah, no I meant… \nYou know, stars! The stars!</size>"
                 }
-            ],
-            "processed": "<story>Wh-What are you… saying…?"
+            ]
         },
         {
             "text": "In my haste, I ended up saying something weird. I hurriedly \ncorrected myself, stating that \"it's because you love the stars.\"",
             "name": "",
             "path_id": 346592327744594929,
             "block_id": 18,
-            "clip_length": 103,
-            "processed": "<story>In my haste, I ended up saying something weird. I hurriedly \n<story>corrected myself, stating that \"it's because you love the stars.\""
+            "clip_length": 103
         },
         {
             "text": "Ah… I get it now. Next time think before you speak.",
             "name": "Admire Vega",
             "path_id": -1926279346879679961,
             "block_id": 19,
-            "clip_length": 232,
-            "processed": "<story>Ah… I get it now. Next time think before you speak."
+            "clip_length": 232
         },
         {
             "text": "But, just because I love the stars doesn't \nmean that you have to as well, you know?",
             "name": "Admire Vega",
             "path_id": -8233613782031244140,
             "block_id": 20,
-            "clip_length": 206,
-            "processed": "<story>But, just because I love the stars doesn't \n<story>mean that you have to as well, you know?"
+            "clip_length": 206
         },
         {
             "text": "I get it. Since you're my trainer, \nyou're trying to meet me halfway, right?",
             "name": "Admire Vega",
             "path_id": 6311137493628519951,
             "block_id": 21,
-            "clip_length": 252,
-            "processed": "<story>I get it. Since you're my trainer, \n<story>you're trying to meet me halfway, right?"
+            "clip_length": 252
         },
         {
             "text": "But I don't want that… nor do I need it.",
             "name": "Admire Vega",
             "path_id": 84194048195809389,
             "block_id": 22,
-            "clip_length": 160,
-            "processed": "<story>But I don't want that… nor do I need it."
+            "clip_length": 160
         },
         {
             "text": "I've said this many times before, but I'm fine being alone. I \ndon't need friends, I don't need someone to console me, and I \ndon't need people to be nice to me.",
             "name": "Admire Vega",
             "path_id": -924157224729749627,
             "block_id": 23,
-            "clip_length": 330,
-            "processed": "<story>I've said this many times before, but I'm fine being alone. I \n<story>don't need friends, I don't need someone to console me, and I \n<story>don't need people to be nice to me."
+            "clip_length": 330
         },
         {
             "text": "Racing and winning are my burdens to bear, \nno one else's. Moreover, she… my sister…",
             "name": "Admire Vega",
             "path_id": 1260203648464785112,
             "block_id": 24,
-            "clip_length": 414,
-            "processed": "<story>Racing and winning are my burdens to bear, \n<story>no one else's. Moreover, she… my sister…"
+            "clip_length": 414
         },
         {
             "text": "Died in my place.",
             "name": "Admire Vega",
             "path_id": 5777169313851381165,
             "block_id": 25,
-            "clip_length": 127,
-            "processed": "<story>Died in my place."
+            "clip_length": 127
         },
         {
             "text": "So just stop…",
@@ -261,24 +236,21 @@
                     "hash": "3cf66f8a7f5eefe7a5985ac6696e6d22e362fdeb4f4bbb2d8d8f8209c84ed5ba",
                     "processed": "<size=34>I simply and selfishly \nwant to get closer to you.</size>"
                 }
-            ],
-            "processed": "<story>So just stop…"
+            ]
         },
         {
             "text": "Again… with that?",
             "name": "Admire Vega",
             "path_id": -1039126588298423533,
             "block_id": 27,
-            "clip_length": 79,
-            "processed": "<story>Again… with that?"
+            "clip_length": 79
         },
         {
             "text": "No matter what I say, you \ncontinue to reply with the same thing.",
             "name": "Admire Vega",
             "path_id": -8891306530768661367,
             "block_id": 28,
-            "clip_length": 106,
-            "processed": "<story>No matter what I say, you \n<story>continue to reply with the same thing."
+            "clip_length": 106
         },
         {
             "text": "I'm going home…",
@@ -291,80 +263,70 @@
                     "text": "Ah, but I figured we could…",
                     "hash": "4a4b6bf8f8a29c7eef27dcf63eaf636f5034afce53ec0ba6b2b9c9dab10fcaf3"
                 }
-            ],
-            "processed": "<story>I'm going home…"
+            ]
         },
         {
             "text": "You were looking for a book to buy, right?",
             "name": "Admire Vega",
             "path_id": -7120102216070983626,
             "block_id": 30,
-            "clip_length": 73,
-            "processed": "<story>You were looking for a book to buy, right?"
+            "clip_length": 73
         },
         {
             "text": "The one on your right is easy to understand.",
             "name": "Admire Vega",
             "path_id": -3314651210955472448,
             "block_id": 31,
-            "clip_length": 96,
-            "processed": "<story>The one on your right is easy to understand."
+            "clip_length": 96
         },
         {
             "text": "Admire Vega said this after noticing the books in my hand. \nShe then quietly walked away without another word.",
             "name": "",
             "path_id": -8478370061433485594,
             "block_id": 32,
-            "clip_length": 108,
-            "processed": "<story>Admire Vega said this after noticing the books in my hand. \n<story>She then quietly walked away without another word."
+            "clip_length": 108
         },
         {
             "text": "………",
             "name": "Admire Vega",
             "path_id": 5352397823218446002,
             "block_id": 33,
-            "clip_length": 72,
-            "processed": "<story>………"
+            "clip_length": 72
         },
         {
             "text": "<i>Why can't I treat her coldly…?</i>",
             "name": "Admire Vega",
             "path_id": -46617325068883909,
             "block_id": 34,
-            "clip_length": 176,
-            "processed": "<story><i>Why can't I treat her coldly…?</i>"
+            "clip_length": 176
         },
         {
             "text": "<i>I could have been more aggressive… I could \nhave yelled at her to make sure she stayed away.</i>",
             "name": "Admire Vega",
             "path_id": -7910232555997597542,
             "block_id": 35,
-            "clip_length": 194,
-            "processed": "<story><i>I could have been more aggressive… I could \n<story>have yelled at her to make sure she stayed away.</i>"
+            "clip_length": 194
         },
         {
             "text": "………",
             "name": "Admire Vega",
             "path_id": 2828253598646970243,
             "block_id": 36,
-            "clip_length": 69,
-            "processed": "<story>………"
+            "clip_length": 69
         },
         {
             "text": "But to participate in races, I need a trainer.",
             "name": "Admire Vega",
             "path_id": -5759913355048772901,
             "block_id": 37,
-            "clip_length": 177,
-            "processed": "<story>But to participate in races, I need a trainer."
+            "clip_length": 177
         },
         {
             "text": "<i>That's the only thing I need. I know that \nfor a fact. After all, I'm happy being alone.</i>",
             "name": "Admire Vega",
             "path_id": 8050234429047883015,
             "block_id": 38,
-            "clip_length": 403,
-            "processed": "<story><i>That's the only thing I need. I know that \n<story>for a fact. After all, I'm happy being alone.</i>"
+            "clip_length": 403
         }
     ],
     "title": "As If Swimming Through A Nebula"

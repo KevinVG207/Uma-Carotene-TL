@@ -3270,6 +3270,30 @@
         "text": "Contradicting Emotions",
         "hash": "7c41087bfb18b815c477316d7b33a216579eafe5f60169faadfb0a7e6f90bf00"
     },
+    "203201": {
+        "text": "Quick Work",
+        "hash": "2e5e3cf7e3b009d9e22a638c15ccc1bf5e909325d0ce097f039e288d88c0e861"
+    },
+    "203202": {
+        "text": "Not Even a Glimpse",
+        "hash": "f41ed56b150a7799ff9060122c3e92d0ae213747ec439ca231cb8ac25bf1ac50"
+    },
+    "203212": {
+        "text": "Free-Spirited",
+        "hash": "6e543ff29ffbcd6511e411eebb355f054da5034adf98b24c21af88bf9a059a9b"
+    },
+    "203221": {
+        "text": "Breaking Free",
+        "hash": "469451ec7857c5e26fdebee095d4c6d97f2e73c722dafa830c6d5dfd20b0a443"
+    },
+    "203222": {
+        "text": "Aggressive",
+        "hash": "f6e42481d7adc2d2d3781f173a30fb38a92adfeae6012c3c02cb4770e84f6114"
+    },
+    "203232": {
+        "text": "Restless Step",
+        "hash": "1d0f96fa27d844fa71bb849d433e0288cac43c587ccd5d78a57da6a360cfa857"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -4850,6 +4874,11 @@
         "text": "'ight, let's get em!",
         "hash": "dc739f17adebdbefae221c24d865e67762b2ec3152f50271022991859bf31402"
     },
+    "102102221": {
+        "text": "'kay then, let's get movin'!",
+        "hash": "03f9a3d40f955d09b763e8e3f0743e95d612a64c3a8f40d4ec640816ba9dcf9d",
+        "processed": "<sc=92>'kay then, let's get movin'!"
+    },
     "102201111": {
         "text": "Royal Star",
         "hash": "dfa1e7006fe05d386e1b259af78dc3c4062a0b49e0bf96f77058f79c5436b8fb"
@@ -4903,6 +4932,14 @@
     "102402211": {
         "text": "Barrel Roll",
         "hash": "f0c28045833f6a0a0ea460c76863e9cae5bdae58a788169c9047350285721879"
+    },
+    "102403111": {
+        "text": "Going Ahead☆Tailwind",
+        "hash": "f275a0a1f3b3eea5026b0b9e0c9a2531428c569c80eb10108c983e8d2860f656"
+    },
+    "102403211": {
+        "text": "Cockpit Magician",
+        "hash": "44146d1952e8fc3277a894aa415a3b5d1c2f03918a3369059a0ba7986aa264a2"
     },
     "102501111": {
         "text": "Coffee Break",
@@ -5237,6 +5274,15 @@
         "text": "Pearl-style Dance Battle",
         "hash": "7a3dc5a8f6eb9b05ff47d28b3077df1eed6d8b4eaa332baecd7e241493f23e1a"
     },
+    "104202111": {
+        "text": "Riding the Mistral",
+        "hash": "e4f6574cd9ef4350c994f8fe8ceeeb7a833bf0e6d13df964917bb56976ca56d0"
+    },
+    "104202211": {
+        "text": "Shining From The Ocean Floor...☆",
+        "hash": "192830644b1dadb0b5d9865e4aa2151b87f4d0d089191a05c9d2c0c9dfad9319",
+        "processed": "<sc=72>Shining From The Ocean Floor...☆"
+    },
     "104301111": {
         "text": "Full Speed Ahead, Nanoda!",
         "hash": "4632c2f6d261d17d7411403ae61bf4fe6f00005516ac7210433835c703110ced",
@@ -5360,6 +5406,10 @@
     "104802211": {
         "text": "Can't Top Me!",
         "hash": "41b21245c7cd326f313f12b23a066a3e61d98b81516be53128e5132840cd9250"
+    },
+    "104802221": {
+        "text": "Simply the Best!",
+        "hash": "c945ce63a8052411a79226aa64488430511675936dc5bdc6d801d75db2247221"
     },
     "104901111": {
         "text": "All or Nothing",
@@ -5762,6 +5812,10 @@
         "text": "Beautiful Phosphorescence",
         "hash": "49ac0d333e92d9c94419429ca7d011fe2d523c06c03da7061a801ab2125854e5",
         "processed": "<sc=90>Beautiful Phosphorescence"
+    },
+    "107102121": {
+        "text": "Mystic Flame",
+        "hash": "8ba7b4970c61b59613bc7400e90b440a6730ed02e89335adc64753772e982d41"
     },
     "107102211": {
         "text": "Ephemeral Afterglow",

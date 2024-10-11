@@ -16,80 +16,70 @@
             "name": "Santa Claus",
             "path_id": 5827425264360521446,
             "block_id": 1,
-            "clip_length": 68,
-            "processed": "<story>Ho Ho Ho Ho!"
+            "clip_length": 68
         },
         {
             "text": "Merry Christmas, Oguri Cap!",
             "name": "Santa Claus",
             "path_id": 4484146006836788209,
             "block_id": 2,
-            "clip_length": 109,
-            "processed": "<story>Merry Christmas, Oguri Cap!"
+            "clip_length": 109
         },
         {
             "text": "Santa-san! Nice to meet you. \nIt's already that time of the year, huh?",
             "name": "Oguri Cap",
             "path_id": -6581852279789034677,
             "block_id": 3,
-            "clip_length": 253,
-            "processed": "<story>Santa-san! Nice to meet you. \n<story>It's already that time of the year, huh?"
+            "clip_length": 253
         },
         {
             "text": "I have a message and a present to give to you.",
             "name": "Santa Claus",
             "path_id": -6673347421372083394,
             "block_id": 4,
-            "clip_length": 131,
-            "processed": "<story>I have a message and a present to give to you."
+            "clip_length": 131
         },
         {
             "text": "Now then, have a wonderful Christmas! \nHo Ho Ho!",
             "name": "Santa Claus",
             "path_id": 8734398044917172057,
             "block_id": 5,
-            "clip_length": 137,
-            "processed": "<story>Now then, have a wonderful Christmas! \n<story>Ho Ho Ho!"
+            "clip_length": 137
         },
         {
             "text": "Woah, thank you…! Your job must be difficult, \nbut know that I'm always cheering you on! Now then…",
             "name": "Oguri Cap",
             "path_id": 3639943431160682787,
             "block_id": 6,
-            "clip_length": 256,
-            "processed": "<story>Woah, thank you…! Your job must be difficult, \n<story>but know that I'm always cheering you on! Now then…"
+            "clip_length": 256
         },
         {
             "text": "\"To Oguri Cap-sama. Here is an invitation \nto a Christmas party. From your fans.\"",
             "name": "Oguri Cap",
             "path_id": -8558614003358342130,
             "block_id": 7,
-            "clip_length": 260,
-            "processed": "<story>\"To Oguri Cap-sama. Here is an invitation \n<story>to a Christmas party. From your fans.\""
+            "clip_length": 260
         },
         {
             "text": "Christmas party!",
             "name": "Oguri Cap",
             "path_id": 8692978193645053753,
             "block_id": 8,
-            "clip_length": 122,
-            "processed": "<story>Christmas party!"
+            "clip_length": 122
         },
         {
             "text": "That has a nice ring to it! And what was my present…? \nHmm… Was this from the URA?",
             "name": "Oguri Cap",
             "path_id": 1569091663210380846,
             "block_id": 9,
-            "clip_length": 312,
-            "processed": "<story>That has a nice ring to it! And what was my present…? \n<story>Hmm… Was this from the URA?"
+            "clip_length": 312
         },
         {
             "text": "…! This is!",
             "name": "Oguri Cap",
             "path_id": -726060716599293365,
             "block_id": 10,
-            "clip_length": 79,
-            "processed": "<story>…! This is!"
+            "clip_length": 79
         },
         {
             "text": "",
@@ -103,352 +93,308 @@
             "name": "Oguri Cap",
             "path_id": -668194663135484582,
             "block_id": 12,
-            "clip_length": 396,
-            "processed": "<story>\"With permission from the academy, us fans have prepared a \n<story>variety of entertainment and food in order to wish you the best \n<story>of luck in your future endeavors.\""
+            "clip_length": 396
         },
         {
             "text": "Food…! \"We hope that this party will help you recuperate \nbefore your next race. If you are able to make it, we would love \nit if you would also wear your racing outfit to the party.\"",
             "name": "Oguri Cap",
             "path_id": 6147314398354627249,
             "block_id": 13,
-            "clip_length": 468,
-            "processed": "<story>Food…! \"We hope that this party will help you recuperate \n<story>before your next race. If you are able to make it, we would love \n<story>it if you would also wear your racing outfit to the party.\""
+            "clip_length": 468
         },
         {
             "text": "\"We are looking forward to seeing you at the party.\" \nI'm looking forward to this too…",
             "name": "Oguri Cap",
             "path_id": -3719624616077376679,
             "block_id": 14,
-            "clip_length": 473,
-            "processed": "<story>\"We are looking forward to seeing you at the party.\" \n<story>I'm looking forward to this too…"
+            "clip_length": 473
         },
         {
             "text": "So you will be attending a party \nheld by your fans, is that correct?",
             "name": "Biwa Hayahide",
             "path_id": 8785355926757242880,
             "block_id": 15,
-            "clip_length": 99,
-            "processed": "<story>So you will be attending a party \n<story>held by your fans, is that correct?"
+            "clip_length": 99
         },
         {
             "text": "Hayahide… Eh? \nHow did you know?",
             "name": "Oguri Cap",
             "path_id": -4145328260501147033,
             "block_id": 16,
-            "clip_length": 136,
-            "processed": "<story>Hayahide… Eh? \n<story>How did you know?"
+            "clip_length": 136
         },
         {
             "text": "You were reading aloud, you know.",
             "name": "Biwa Hayahide",
             "path_id": 5832008735514480129,
             "block_id": 17,
-            "clip_length": 122,
-            "processed": "<story>You were reading aloud, you know."
+            "clip_length": 122
         },
         {
             "text": "But something seemed to be bothering you regarding their request \nfor you to wear your racing outfit… Is something the matter?",
             "name": "Biwa Hayahide",
             "path_id": -6183009910808549723,
             "block_id": 18,
-            "clip_length": 183,
-            "processed": "<story>But something seemed to be bothering you regarding their request \n<story>for you to wear your racing outfit… Is something the matter?"
+            "clip_length": 183
         },
         {
             "text": "Actually, the URA said that they wanted to make me a new racing \noutfit in honor of my past achievements.",
             "name": "Oguri Cap",
             "path_id": 6004909846632767802,
             "block_id": 19,
-            "clip_length": 328,
-            "processed": "<story>Actually, the URA said that they wanted to make me a new racing \n<story>outfit in honor of my past achievements."
+            "clip_length": 328
         },
         {
             "text": "So I've heard. Congratulations.",
             "name": "Biwa Hayahide",
             "path_id": 3751393510090493354,
             "block_id": 20,
-            "clip_length": 97,
-            "processed": "<story>So I've heard. Congratulations."
+            "clip_length": 97
         },
         {
             "text": "Thank you. But the thing is that I couldn't decide on a \ndesign… So one of the staff members came up to me and told me \nabout a project that they had been working on.",
             "name": "Oguri Cap",
             "path_id": -9192270142716247832,
             "block_id": 21,
-            "clip_length": 401,
-            "processed": "<story>Thank you. But the thing is that I couldn't decide on a \n<story>design… So one of the staff members came up to me and told me \n<story>about a project that they had been working on."
+            "clip_length": 401
         },
         {
             "text": "This project had fans send in their racing outfit designs for \ntheir favorite Uma Musume. They said that they received a lot of \nsubmissions with me as the model.",
             "name": "Oguri Cap",
             "path_id": 4773231930447850361,
             "block_id": 22,
-            "clip_length": 352,
-            "processed": "<story>This project had fans send in their racing outfit designs for \n<story>their favorite Uma Musume. They said that they received a lot of \n<story>submissions with me as the model."
+            "clip_length": 352
         },
         {
             "text": "When they showed the outfits to me, they all looked so cool… So \nI asked if I could use one as the design for my new outfit.",
             "name": "Oguri Cap",
             "path_id": -2599867775393651897,
             "block_id": 23,
-            "clip_length": 319,
-            "processed": "<story>When they showed the outfits to me, they all looked so cool… So \n<story>I asked if I could use one as the design for my new outfit."
+            "clip_length": 319
         },
         {
             "text": "I see. Going to a party hosted by your fans while wearing a \nracing outfit filled with the love and affection of said fans… \nThat's wonderful, is it not?",
             "name": "Biwa Hayahide",
             "path_id": 847571327000751450,
             "block_id": 24,
-            "clip_length": 268,
-            "processed": "<story>I see. Going to a party hosted by your fans while wearing a \n<story>racing outfit filled with the love and affection of said fans… \n<story>That's wonderful, is it not?"
+            "clip_length": 268
         },
         {
             "text": "Well, I'm truly grateful… \nGrateful, but…",
             "name": "Oguri Cap",
             "path_id": -3639916306384028713,
             "block_id": 25,
-            "clip_length": 195,
-            "processed": "<story>Well, I'm truly grateful… \n<story>Grateful, but…"
+            "clip_length": 195
         },
         {
             "text": "I've been feeling off lately. \nI haven't been doing well in races either.",
             "name": "Oguri Cap",
             "path_id": -142040972635914870,
             "block_id": 26,
-            "clip_length": 288,
-            "processed": "<story>I've been feeling off lately. \n<story>I haven't been doing well in races either."
+            "clip_length": 288
         },
         {
             "text": "When it came to the big stage, \nI failed to meet everyone's expectations. \nI let down everyone that believed in me…",
             "name": "Oguri Cap",
             "path_id": 4158044105683780978,
             "block_id": 27,
-            "clip_length": 364,
-            "processed": "<story>When it came to the big stage, \n<story>I failed to meet everyone's expectations. \n<story>I let down everyone that believed in me…"
+            "clip_length": 364
         },
         {
             "text": "Despite that, they still decided to throw a party so that I could \n\"shine once again in my races\" and thought of new racing outfit \ndesigns for someone like me. That's… How do I put it…?",
             "name": "Oguri Cap",
             "path_id": 2093065153704574070,
             "block_id": 28,
-            "clip_length": 537,
-            "processed": "<story>Despite that, they still decided to throw a party so that I could \n<story>\"shine once again in my races\" and thought of new racing outfit \n<story>designs for someone like me. That's… How do I put it…?"
+            "clip_length": 537
         },
         {
             "text": "To put it simply, you're excited for the party and grateful for \nthe designs, but at the same time you're feeling a bit guilty \nbecause they continue to encourage you…?",
             "name": "Biwa Hayahide",
             "path_id": -3251008820096325160,
             "block_id": 29,
-            "clip_length": 303,
-            "processed": "<story>To put it simply, you're excited for the party and grateful for \n<story>the designs, but at the same time you're feeling a bit guilty \n<story>because they continue to encourage you…?"
+            "clip_length": 303
         },
         {
             "text": "Ah, yes, that's it! How did you figure it out? \nYou're just like Tama… but without the accent. \nMaybe it's the glasses?",
             "name": "Oguri Cap",
             "path_id": 2006222506194841989,
             "block_id": 30,
-            "clip_length": 494,
-            "processed": "<story>Ah, yes, that's it! How did you figure it out? \n<story>You're just like Tama… but without the accent. \n<story>Maybe it's the glasses?"
+            "clip_length": 494
         },
         {
             "text": "Glasses…? No, it was just an inference. Anyway, there seems to \nbe no small number of fans supporting and encouraging you.",
             "name": "Biwa Hayahide",
             "path_id": -6700653855762936921,
             "block_id": 31,
-            "clip_length": 302,
-            "processed": "<story>Glasses…? No, it was just an inference. Anyway, there seems to \n<story>be no small number of fans supporting and encouraging you."
+            "clip_length": 302
         },
         {
             "text": "Furthermore, they all seem enamored with you, Oguri-san. They \nsimply wanted to \"encourage\" you with this party.",
             "name": "Biwa Hayahide",
             "path_id": 5563537745462961566,
             "block_id": 32,
-            "clip_length": 307,
-            "processed": "<story>Furthermore, they all seem enamored with you, Oguri-san. They \n<story>simply wanted to \"encourage\" you with this party."
+            "clip_length": 307
         },
         {
             "text": "Why don't you forget about racing for a while and enjoy yourself? \nIt would be a great way to repay their kindness. Anyway, I hope \nyou have a wonderful holiday.",
             "name": "Biwa Hayahide",
             "path_id": -997167195262139136,
             "block_id": 33,
-            "clip_length": 359,
-            "processed": "<story>Why don't you forget about racing for a while and enjoy yourself? \n<story>It would be a great way to repay their kindness. Anyway, I hope \n<story>you have a wonderful holiday."
+            "clip_length": 359
         },
         {
             "text": "Thank you, \nI hope you have a wonderful holiday too! \n\"Repay their kindness…\"",
             "name": "Oguri Cap",
             "path_id": -8468057344233651621,
             "block_id": 34,
-            "clip_length": 229,
-            "processed": "<story>Thank you, \n<story>I hope you have a wonderful holiday too! \n<story>\"Repay their kindness…\""
+            "clip_length": 229
         },
         {
             "text": "That's right, it's Christmas after all. \nI'd love to give them an amazing present in return as well.",
             "name": "Oguri Cap",
             "path_id": -7402240877587906847,
             "block_id": 35,
-            "clip_length": 286,
-            "processed": "<story>That's right, it's Christmas after all. \n<story>I'd love to give them an amazing present in return as well."
+            "clip_length": 286
         },
         {
             "text": "But… what would that be? \nWhen it comes to Christmas all I can think about is… \nChicken rice, turkey, stew, fried potatoes, tsukudani​…",
             "name": "Oguri Cap",
             "path_id": 1729694480214795814,
             "block_id": 36,
-            "clip_length": 476,
-            "processed": "<story>But… what would that be? \n<story>When it comes to Christmas all I can think about is… \n<story>Chicken rice, turkey, stew, fried potatoes, tsukudani​…"
+            "clip_length": 476
         },
         {
             "text": "Salad, pasta, sauté, bao, borscht, the foods with difficult to \nsay names, and the foods with fun to say names…",
             "name": "Oguri Cap",
             "path_id": -2773070145142568408,
             "block_id": 37,
-            "clip_length": 358,
-            "processed": "<story>Salad, pasta, sauté, bao, borscht, the foods with difficult to \n<story>say names, and the foods with fun to say names…"
+            "clip_length": 358
         },
         {
             "text": "Ah, It's Oguri-san! \nEveryone, Oguri-san has arrived!",
             "name": "Fan Representative",
             "path_id": -511930784246628563,
             "block_id": 38,
-            "clip_length": 189,
-            "processed": "<story>Ah, It's Oguri-san! \n<story>Everyone, Oguri-san has arrived!"
+            "clip_length": 189
         },
         {
             "text": "(Clap clap clap clap!)",
             "name": "",
             "path_id": -8659956873565360572,
             "block_id": 39,
-            "clip_length": 60,
-            "processed": "<story>(Clap clap clap clap!)"
+            "clip_length": 60
         },
         {
             "text": "Haah!? Th-This is…? \nThere's chicken rice here as well as turkey…!?",
             "name": "Oguri Cap",
             "path_id": 6218506112091739233,
             "block_id": 40,
-            "clip_length": 192,
-            "processed": "<story>Haah!? Th-This is…? \n<story>There's chicken rice here as well as turkey…!?"
+            "clip_length": 192
         },
         {
             "text": "We're still in the middle of setting up for the party! \nMore importantly, Oguri-san, \nyour racing outfit…! It looks amazing on you!",
             "name": "Fan Representative",
             "path_id": -3181833895502571894,
             "block_id": 41,
-            "clip_length": 336,
-            "processed": "<story>We're still in the middle of setting up for the party! \n<story>More importantly, Oguri-san, \n<story>your racing outfit…! It looks amazing on you!"
+            "clip_length": 336
         },
         {
             "text": "Sh-She looks so… good…! Sniffle.",
             "name": "Oguri Cap Fan A",
             "path_id": -4882128907557341970,
             "block_id": 42,
-            "clip_length": 196,
-            "processed": "<story>Sh-She looks so… good…! Sniffle."
+            "clip_length": 196
         },
         {
             "text": "!? Wh-Why are you crying…?",
             "name": "Oguri Cap",
             "path_id": -3628183103111824648,
             "block_id": 43,
-            "clip_length": 100,
-            "processed": "<story>!? Wh-Why are you crying…?"
+            "clip_length": 100
         },
         {
             "text": "You see, that design was made by all of us here! \nTo see you actually wearing it…",
             "name": "Oguri Cap Fan A",
             "path_id": -7667883290481758132,
             "block_id": 44,
-            "clip_length": 313,
-            "processed": "<story>You see, that design was made by all of us here! \n<story>To see you actually wearing it…"
+            "clip_length": 313
         },
         {
             "text": "So that's why… When I first saw this design it immediately \njumped out to me. It has to be the emotion you all put into it \nthat made me choose it.",
             "name": "Oguri Cap",
             "path_id": 5534233398400028806,
             "block_id": 45,
-            "clip_length": 374,
-            "processed": "<story>So that's why… When I first saw this design it immediately \n<story>jumped out to me. It has to be the emotion you all put into it \n<story>that made me choose it."
+            "clip_length": 374
         },
         {
             "text": "Thank you everyone. I'm so grateful for the Christmas \npresent that you all made for me…",
             "name": "Oguri Cap",
             "path_id": 4511360720376319844,
             "block_id": 46,
-            "clip_length": 246,
-            "processed": "<story>Thank you everyone. I'm so grateful for the Christmas \n<story>present that you all made for me…"
+            "clip_length": 246
         },
         {
             "text": "Hey, Oguri, we worked really hard too! We made the star for the \ntree outside! It's really big, you know!",
             "name": "Fan's Child A",
             "path_id": -526617717956669706,
             "block_id": 47,
-            "clip_length": 235,
-            "processed": "<story>Hey, Oguri, we worked really hard too! We made the star for the \n<story>tree outside! It's really big, you know!"
+            "clip_length": 235
         },
         {
             "text": "When you say the tree outside… Ah, you mean \nthe tree that was bigger than a log house! But \nI don't remember seeing anything on it…",
             "name": "Oguri Cap",
             "path_id": 2908596419161380228,
             "block_id": 48,
-            "clip_length": 316,
-            "processed": "<story>When you say the tree outside… Ah, you mean \n<story>the tree that was bigger than a log house! But \n<story>I don't remember seeing anything on it…"
+            "clip_length": 316
         },
         {
             "text": "What they made was as big as a real star, so it's being shipped \nseparately for safekeeping. It should arrive before the party \nbegins, so look forward to it.",
             "name": "Fan Representative",
             "path_id": 3320660133062671170,
             "block_id": 49,
-            "clip_length": 303,
-            "processed": "<story>What they made was as big as a real star, so it's being shipped \n<story>separately for safekeeping. It should arrive before the party \n<story>begins, so look forward to it."
+            "clip_length": 303
         },
         {
             "text": "I see… Everyone, thank you so much. I'm really looking forward \nto the party, and I am so grateful for you all.",
             "name": "Oguri Cap",
             "path_id": -8841551799157778405,
             "block_id": 50,
-            "clip_length": 314,
-            "processed": "<story>I see… Everyone, thank you so much. I'm really looking forward \n<story>to the party, and I am so grateful for you all."
+            "clip_length": 314
         },
         {
             "text": "However, I haven't…",
             "name": "Oguri Cap",
             "path_id": -3459721827224443452,
             "block_id": 51,
-            "clip_length": 95,
-            "processed": "<story>However, I haven't…"
+            "clip_length": 95
         },
         {
             "text": "Do you mind if I step out for a bit…? \nI… really want to see the snow…",
             "name": "Oguri Cap",
             "path_id": -2828281537537650741,
             "block_id": 52,
-            "clip_length": 287,
-            "processed": "<story>Do you mind if I step out for a bit…? \n<story>I… really want to see the snow…"
+            "clip_length": 287
         },
         {
             "text": "We don't mind one bit! Feel free to explore until the party \nbegins! I'm sure you'll be fine, but please be careful. The \nweather in the mountains can change in the blink of an eye!",
             "name": "Fan Representative",
             "path_id": 5817702306381772848,
             "block_id": 53,
-            "clip_length": 284,
-            "processed": "<story>We don't mind one bit! Feel free to explore until the party \n<story>begins! I'm sure you'll be fine, but please be careful. The \n<story>weather in the mountains can change in the blink of an eye!"
+            "clip_length": 284
         },
         {
             "text": "I can't leave things as they are… \nI need to find a present for everyone!",
             "name": "Oguri Cap",
             "path_id": 392713089102531718,
             "block_id": 54,
-            "clip_length": 256,
-            "processed": "<story>I can't leave things as they are… \n<story>I need to find a present for everyone!"
+            "clip_length": 256
         },
         {
             "text": "Oh? Isn't that…",
             "name": "???",
             "path_id": -1236769469883026716,
             "block_id": 55,
-            "clip_length": 65,
-            "processed": "<story>Oh? Isn't that…"
+            "clip_length": 65
         }
     ],
     "title": "Christmas is Coming!"

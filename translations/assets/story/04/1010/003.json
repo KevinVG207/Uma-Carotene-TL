@@ -22,16 +22,14 @@
                     "text": "?!",
                     "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
                 }
-            ],
-            "processed": "<story>Heeeeeeeeeeeelp!! \n<story>Help Meeeeeeeeee!!"
+            ]
         },
         {
             "text": "Oh my Trainer-san!! \nHelp Me!! Please save me!!",
             "name": "Taiki Shuttle",
             "path_id": -5732516406922063354,
             "block_id": 2,
-            "clip_length": 166,
-            "processed": "<story>Oh my Trainer-san!! \n<story>Help Me!! Please save me!!"
+            "clip_length": 166
         },
         {
             "text": "The truth is, I'm… being chased!!",
@@ -44,80 +42,70 @@
                     "text": "Chased?! By who?!",
                     "hash": "6cfa9293d2a8a849f0c035e7a22c676166332445e8016f2e1e368bab97d7add5"
                 }
-            ],
-            "processed": "<story>The truth is, I'm… being chased!!"
+            ]
         },
         {
             "text": "Yeah, by an Uma Musume that's so scary… \nNo! By an Uma Anego…!!",
             "name": "Taiki Shuttle",
             "path_id": 2760967806150042071,
             "block_id": 4,
-            "clip_length": 214,
-            "processed": "<story>Yeah, by an Uma Musume that's so scary… \n<story>No! By an Uma Anego…!!"
+            "clip_length": 214
         },
         {
             "text": "Stop right there!! \nSo this is where you were, Taiki!!",
             "name": "Hishi Amazon",
             "path_id": 7783112131646865616,
             "block_id": 5,
-            "clip_length": 100,
-            "processed": "<story>Stop right there!! \n<story>So this is where you were, Taiki!!"
+            "clip_length": 100
         },
         {
             "text": "Nooooooooooo!! \nUma Anego, is super faaaaaaast!!",
             "name": "Taiki Shuttle",
             "path_id": 3650904405321784340,
             "block_id": 6,
-            "clip_length": 150,
-            "processed": "<story>Nooooooooooo!! \n<story>Uma Anego, is super faaaaaaast!!"
+            "clip_length": 150
         },
         {
             "text": "Who are you calling [Uma Anego], huh?!",
             "name": "Hishi Amazon",
             "path_id": -3030023660795886008,
             "block_id": 7,
-            "clip_length": 60,
-            "processed": "<story>Who are you calling [Uma Anego], huh?!"
+            "clip_length": 60
         },
         {
             "text": "Help!! Trainer-san, \nHelp meeeeeee~~~!!",
             "name": "Taiki Shuttle",
             "path_id": -2639551403707440221,
             "block_id": 8,
-            "clip_length": 128,
-            "processed": "<story>Help!! Trainer-san, \n<story>Help meeeeeee~~~!!"
+            "clip_length": 128
         },
         {
             "text": "…Taiki Shuttle hid behind me.",
             "name": "",
             "path_id": 5708508932685572541,
             "block_id": 9,
-            "clip_length": 67,
-            "processed": "<story>…Taiki Shuttle hid behind me."
+            "clip_length": 67
         },
         {
             "text": "…are you, Taiki's trainer? \nSorry, but I'm gonna need you to hand her over.",
             "name": "Hishi Amazon",
             "path_id": -8082478318714906654,
             "block_id": 10,
-            "clip_length": 190,
-            "processed": "<story>…are you, Taiki's trainer? \n<story>Sorry, but I'm gonna need you to hand her over."
+            "clip_length": 190
         },
         {
             "text": "That Taiki, she knows it's past curfew but is trying to leave the \ndorms. As the Mihono Dorm Leader, I can't let that slide.",
             "name": "Hishi Amazon",
             "path_id": -5600836797194292046,
             "block_id": 11,
-            "clip_length": 261,
-            "processed": "<story>That Taiki, she knows it's past curfew but is trying to leave the \n<story>dorms. As the Mihono Dorm Leader, I can't let that slide."
+            "clip_length": 261
         },
         {
             "text": "So, hand her over!",
             "name": "Hishi Amazon",
             "path_id": -8692978279236276529,
             "block_id": 12,
-            "clip_length": 86,
-            "processed": "<story>So, hand her over!"
+            "clip_length": 86
         },
         {
             "text": "No! No! Nooooooo! \nPleeeeeeeeease don't hand me over!!",
@@ -134,80 +122,70 @@
                     "text": "…rules should be followed!",
                     "hash": "e02e94081406d175c75c68591363226d45a6c6d223cab6a7efcf1e027a9d7cc3"
                 }
-            ],
-            "processed": "<story>No! No! Nooooooo! \n<story>Pleeeeeeeeease don't hand me over!!"
+            ]
         },
         {
             "text": "I pulled Taiki Shuttle out from behind me, and handed her over.",
             "name": "",
             "path_id": 7225958898267915588,
             "block_id": 14,
-            "clip_length": 71,
-            "processed": "<story>I pulled Taiki Shuttle out from behind me, and handed her over."
+            "clip_length": 71
         },
         {
             "text": "What?! Trainer-san?!",
             "name": "Taiki Shuttle",
             "path_id": -4307742116296988243,
             "block_id": 15,
-            "clip_length": 75,
-            "processed": "<story>What?! Trainer-san?!"
+            "clip_length": 75
         },
         {
             "text": "Aha ha ha ha! Taiki, looks like you've got \na really outstanding and understanding trainer, don't you?!",
             "name": "Hishi Amazon",
             "path_id": 7488053364526906059,
             "block_id": 16,
-            "clip_length": 202,
-            "processed": "<story>Aha ha ha ha! Taiki, looks like you've got \n<story>a really outstanding and understanding trainer, don't you?!"
+            "clip_length": 202
         },
         {
             "text": "Alright, let's go!! \nI hope you're prepared for a striiiiiiict lecture!!",
             "name": "Hishi Amazon",
             "path_id": -1715261609575333661,
             "block_id": 17,
-            "clip_length": 148,
-            "processed": "<story>Alright, let's go!! \n<story>I hope you're prepared for a striiiiiiict lecture!!"
+            "clip_length": 148
         },
         {
             "text": "Noooooooooooooo!!",
             "name": "Taiki Shuttle",
             "path_id": 4787076844087016287,
             "block_id": 18,
-            "clip_length": 98,
-            "processed": "<story>Noooooooooooooo!!"
+            "clip_length": 98
         },
         {
             "text": "And so, Taiki Shuttle's scream echoed in to the empty night…",
             "name": "",
             "path_id": -7788387551995408530,
             "block_id": 19,
-            "clip_length": 82,
-            "processed": "<story>And so, Taiki Shuttle's scream echoed in to the empty night…"
+            "clip_length": 82
         },
         {
             "text": "…A few minutes later.",
             "name": "",
             "path_id": -5988325179410707719,
             "block_id": 20,
-            "clip_length": 59,
-            "processed": "<story>…A few minutes later."
+            "clip_length": 59
         },
         {
             "text": "Hmmmmm, \nWe can't seem to find both of them…!",
             "name": "El Condor Pasa",
             "path_id": 8362692909337276520,
             "block_id": 21,
-            "clip_length": 125,
-            "processed": "<story>Hmmmmm, \n<story>We can't seem to find both of them…!"
+            "clip_length": 125
         },
         {
             "text": "That's a bit troubling~…",
             "name": "Grass Wonder",
             "path_id": -4596378371980545104,
             "block_id": 22,
-            "clip_length": 86,
-            "processed": "<story>That's a bit troubling~…"
+            "clip_length": 86
         },
         {
             "text": "Ah!! Sorry, you over there!! Have you seen \nHishi Ama-senpai and Taiki-senpai around here?!",
@@ -226,16 +204,14 @@
                     "hash": "568e90b03312b1bc71362016b7c822ec89fbfbafbd52efddc520aecad294c371",
                     "processed": "<size=36>If it's Taiki, she was just taken to get scolded.</size>"
                 }
-            ],
-            "processed": "<story>Ah!! Sorry, you over there!! Have you seen \n<story>Hishi Ama-senpai and Taiki-senpai around here?!"
+            ]
         },
         {
             "text": "Ahhhhhhh! Condor's failure…! \nSo, we didn't make it in time…!",
             "name": "El Condor Pasa",
             "path_id": -571499034071728043,
             "block_id": 24,
-            "clip_length": 177,
-            "processed": "<story>Ahhhhhhh! Condor's failure…! \n<story>So, we didn't make it in time…!"
+            "clip_length": 177
         },
         {
             "text": "Looks like Hishi Ama-senpai has a \nmisunderstanding about Taiki-senpai, doesn't she…?",
@@ -248,40 +224,35 @@
                     "text": "A misunderstanding…?",
                     "hash": "f2aa600f58fcd983e2ed52020da2d30045361fb2f24dfddd51c692b38ed338dd"
                 }
-            ],
-            "processed": "<story>Looks like Hishi Ama-senpai has a \n<story>misunderstanding about Taiki-senpai, doesn't she…?"
+            ]
         },
         {
             "text": "While it's true that Taiki-senpai was breaking curfew by leaving \nthe dorm… she was doing it for our sakes.",
             "name": "Grass Wonder",
             "path_id": 7845972333222629848,
             "block_id": 26,
-            "clip_length": 267,
-            "processed": "<story>While it's true that Taiki-senpai was breaking curfew by leaving \n<story>the dorm… she was doing it for our sakes."
+            "clip_length": 267
         },
         {
             "text": "For both Grass and me, \nboth of our parents are in a far away country…",
             "name": "El Condor Pasa",
             "path_id": -5224216077250434325,
             "block_id": 27,
-            "clip_length": 136,
-            "processed": "<story>For both Grass and me, \n<story>both of our parents are in a far away country…"
+            "clip_length": 136
         },
         {
             "text": "Since we're in a similar circumstance to Taiki-senpai, \nshe wanted to hold a party for us so we wouldn't be lonely!",
             "name": "El Condor Pasa",
             "path_id": -8664204738343649245,
             "block_id": 28,
-            "clip_length": 239,
-            "processed": "<story>Since we're in a similar circumstance to Taiki-senpai, \n<story>she wanted to hold a party for us so we wouldn't be lonely!"
+            "clip_length": 239
         },
         {
             "text": "It was very lively, and we were having fun but… part way \nthrough, we realized we were running out of food.",
             "name": "Grass Wonder",
             "path_id": -8490351527890266872,
             "block_id": 29,
-            "clip_length": 215,
-            "processed": "<story>It was very lively, and we were having fun but… part way \n<story>through, we realized we were running out of food."
+            "clip_length": 215
         },
         {
             "text": "Seeing that, Taiki-senpai \nsaid [I'll secretly sneak out and buy some!]…",
@@ -298,16 +269,14 @@
                     "text": "So that's the reason…",
                     "hash": "df6bec4d5da38911b215283e3136beac92b1f07312e4518a7f8b438fb8208824"
                 }
-            ],
-            "processed": "<story>Seeing that, Taiki-senpai \n<story>said [I'll secretly sneak out and buy some!]…"
+            ]
         },
         {
             "text": "That time at the Selection Race comes to mind, where her \nconcentration was broken because she realized that other Uma \nMusume was in bad shape and needed help.",
             "name": "",
             "path_id": -1774156824381119102,
             "block_id": 31,
-            "clip_length": 120,
-            "processed": "<story>That time at the Selection Race comes to mind, where her \n<story>concentration was broken because she realized that other Uma \n<story>Musume was in bad shape and needed help."
+            "clip_length": 120
         },
         {
             "text": "There's a part of her that's a bit too spirited but, she's very \naware of the people around her, and always using her full \nstrength to help them. She must really care about her friends.",
@@ -320,16 +289,14 @@
                     "text": "(…I need to go to where Taiki is!)",
                     "hash": "b626b496ab064a6592e84d264737d9777cb6db9f78e81c233970bb3790b74712"
                 }
-            ],
-            "processed": "<story>There's a part of her that's a bit too spirited but, she's very \n<story>aware of the people around her, and always using her full \n<story>strength to help them. She must really care about her friends."
+            ]
         },
         {
             "text": "Since El Condor Pasa and Grass Wonder explained the situation to \nme, I headed in the direction that Taiki Shuttle was taken.",
             "name": "",
             "path_id": 7320941871323292094,
             "block_id": 33,
-            "clip_length": 116,
-            "processed": "<story>Since El Condor Pasa and Grass Wonder explained the situation to \n<story>me, I headed in the direction that Taiki Shuttle was taken."
+            "clip_length": 116
         },
         {
             "text": "Uuu, I won't do it again… \nWait, huh…?",
@@ -348,56 +315,49 @@
                     "hash": "9ac7bc6d04ca9d000a87f53c2c0fe6a1c73a58c89ec68cb9a03f712bbf180a61",
                     "processed": "<size=42>Hishi Amazon! I have something to say</size>"
                 }
-            ],
-            "processed": "<story>Uuu, I won't do it again… \n<story>Wait, huh…?"
+            ]
         },
         {
             "text": "Trainer-san?!",
             "name": "Taiki Shuttle",
             "path_id": 8081114404685813357,
             "block_id": 35,
-            "clip_length": 42,
-            "processed": "<story>Trainer-san?!"
+            "clip_length": 42
         },
         {
             "text": "You're, the one from before…",
             "name": "Hishi Amazon",
             "path_id": 5472665604613428289,
             "block_id": 36,
-            "clip_length": 52,
-            "processed": "<story>You're, the one from before…"
+            "clip_length": 52
         },
         {
             "text": "…What is it that you have to say?",
             "name": "Hishi Amazon",
             "path_id": -2746006199837978926,
             "block_id": 37,
-            "clip_length": 82,
-            "processed": "<story>…What is it that you have to say?"
+            "clip_length": 82
         },
         {
             "text": "I tell Hishi Amazon about the situation that I heard \nfrom El Condor Pasa and Grass Wonder.",
             "name": "",
             "path_id": -3620405112970895558,
             "block_id": 38,
-            "clip_length": 91,
-            "processed": "<story>I tell Hishi Amazon about the situation that I heard \n<story>from El Condor Pasa and Grass Wonder."
+            "clip_length": 91
         },
         {
             "text": "…Hmmmm? So that's what's going on here. \nSo that's why you wouldn't spill the beans no matter what. \nYou didn't want anything to happen to your kouhai, huh?",
             "name": "Hishi Amazon",
             "path_id": 7323238125079810823,
             "block_id": 39,
-            "clip_length": 287,
-            "processed": "<story>…Hmmmm? So that's what's going on here. \n<story>So that's why you wouldn't spill the beans no matter what. \n<story>You didn't want anything to happen to your kouhai, huh?"
+            "clip_length": 287
         },
         {
             "text": "W-well that's…",
             "name": "Taiki Shuttle",
             "path_id": -6844583332465242722,
             "block_id": 40,
-            "clip_length": 72,
-            "processed": "<story>W-well that's…"
+            "clip_length": 72
         },
         {
             "text": "Well, part way through you started going on about [The party…], \nso I figured there was something going on there.",
@@ -416,96 +376,84 @@
                     "hash": "94b2468bdc9860c480ddd1cd2ff3d5415e30619a7ffa4ff2931f50a3bbd1baf0",
                     "processed": "<size=38>Could you try not to scold her too much…?</size>"
                 }
-            ],
-            "processed": "<story>Well, part way through you started going on about [The party…], \n<story>so I figured there was something going on there."
+            ]
         },
         {
             "text": "…No way. Hishi Ama-neesan isn't that sweet. \nI'm gonna have to give out some seeeeeerious punishment!",
             "name": "Hishi Amazon",
             "path_id": 8706798338133678225,
             "block_id": 42,
-            "clip_length": 194,
-            "processed": "<story>…No way. Hishi Ama-neesan isn't that sweet. \n<story>I'm gonna have to give out some seeeeeerious punishment!"
+            "clip_length": 194
         },
         {
             "text": "Hiiii?!",
             "name": "Taiki Shuttle",
             "path_id": 5434061052002204861,
             "block_id": 43,
-            "clip_length": 29,
-            "processed": "<story>Hiiii?!"
+            "clip_length": 29
         },
         {
             "text": "On the shelf in the dorm's kitchen, there's a box filled with \nsnacks and stuff. Just so you know, it's reeeeeally heavy, okay?",
             "name": "Hishi Amazon",
             "path_id": 4847577352127648549,
             "block_id": 44,
-            "clip_length": 257,
-            "processed": "<story>On the shelf in the dorm's kitchen, there's a box filled with \n<story>snacks and stuff. Just so you know, it's reeeeeally heavy, okay?"
+            "clip_length": 257
         },
         {
             "text": "Bring that to my room, \nand bring El and Grass along with you!",
             "name": "Hishi Amazon",
             "path_id": -3864543375128241145,
             "block_id": 45,
-            "clip_length": 156,
-            "processed": "<story>Bring that to my room, \n<story>and bring El and Grass along with you!"
+            "clip_length": 156
         },
         {
             "text": "…Eh? \nIs that, possibly…",
             "name": "Taiki Shuttle",
             "path_id": 3656210574924531718,
             "block_id": 46,
-            "clip_length": 108,
-            "processed": "<story>…Eh? \n<story>Is that, possibly…"
+            "clip_length": 108
         },
         {
             "text": "We're gonna continue that encouragement party in my room! Geez, \nlistening to your situation made me remember my hometown too.",
             "name": "Hishi Amazon",
             "path_id": 7691090367857087809,
             "block_id": 47,
-            "clip_length": 296,
-            "processed": "<story>We're gonna continue that encouragement party in my room! Geez, \n<story>listening to your situation made me remember my hometown too."
+            "clip_length": 296
         },
         {
             "text": "With all the American-born girls gathered up, \nwe're gonna party through the night!",
             "name": "Hishi Amazon",
             "path_id": -392501747337789137,
             "block_id": 48,
-            "clip_length": 165,
-            "processed": "<story>With all the American-born girls gathered up, \n<story>we're gonna party through the night!"
+            "clip_length": 165
         },
         {
             "text": "…!! Hishi Ama-saaaaaaaaaaaaaaan!! \nThank youuuuuuuuu~~~!!",
             "name": "Taiki Shuttle",
             "path_id": 4265461897084246333,
             "block_id": 49,
-            "clip_length": 203,
-            "processed": "<story>…!! Hishi Ama-saaaaaaaaaaaaaaan!! \n<story>Thank youuuuuuuuu~~~!!"
+            "clip_length": 203
         },
         {
             "text": "Ehehe… thank you too Trainer-san! \nSeeing you come here, made me really really happy!",
             "name": "Taiki Shuttle",
             "path_id": -3415211117044397029,
             "block_id": 50,
-            "clip_length": 249,
-            "processed": "<story>Ehehe… thank you too Trainer-san! \n<story>Seeing you come here, made me really really happy!"
+            "clip_length": 249
         },
         {
             "text": "Ah, that's right!! Why don't you come to the party too?! \nC'mon! It'll be fun, for sure!!",
             "name": "Taiki Shuttle",
             "path_id": -410543320889417461,
             "block_id": 51,
-            "clip_length": 249,
-            "processed": "<story>Ah, that's right!! Why don't you come to the party too?! \n<story>C'mon! It'll be fun, for sure!!"
+            "clip_length": 249
         },
         {
             "text": "…No, trainers are normally restricted from entering the dorms, \nso that's not gonna happen, okay?",
             "name": "Hishi Amazon",
             "path_id": -3756925478695128363,
             "block_id": 52,
-            "clip_length": 134,
-            "processed": "<story>…No, trainers are normally restricted from entering the dorms, \n<story>so that's not gonna happen, okay?"
+            "clip_length": 134
         },
         {
             "text": "Nooo! How unfair, Trainer-san…!",
@@ -522,24 +470,21 @@
                     "text": "…rules should be followed.",
                     "hash": "7f7aac6ab40f129e624887f838ab41757e8e58062a0f39de5a135be6401f2b1d"
                 }
-            ],
-            "processed": "<story>Nooo! How unfair, Trainer-san…!"
+            ]
         },
         {
             "text": "All by my lonesome self, I made my way back home…",
             "name": "",
             "path_id": 2446497310230915147,
             "block_id": 54,
-            "clip_length": 71,
-            "processed": "<story>All by my lonesome self, I made my way back home…"
+            "clip_length": 71
         },
         {
             "text": "Noooooooooooo!! \nTraaaaaaainer-saaaaaan!",
             "name": "Taiki Shuttle",
             "path_id": -1981653611685509214,
             "block_id": 55,
-            "clip_length": 196,
-            "processed": "<story>Noooooooooooo!! \n<story>Traaaaaaainer-saaaaaan!"
+            "clip_length": 196
         }
     ],
     "title": "Oh! It's My Party"

@@ -16,72 +16,63 @@
             "name": "Rhein Kraft",
             "path_id": 7208435858885323513,
             "block_id": 1,
-            "clip_length": 338,
-            "processed": "<story>Nnya~……huh? Fuwaaa~ah…… \n<story>Ah~ not good……I fell asleep~……"
+            "clip_length": 338
         },
         {
             "text": "Geez, you finally woke up. ……Here, I made you \nsome hot cocoa. Drink it carefully, okay? It's \ngotten really cold right now, hasn't it?",
             "name": "Cesario",
             "path_id": 1806226321797829797,
             "block_id": 2,
-            "clip_length": 305,
-            "processed": "<story>Geez, you finally woke up. ……Here, I made you \n<story>some hot cocoa. Drink it carefully, okay? It's \n<story>gotten really cold right now, hasn't it?"
+            "clip_length": 305
         },
         {
             "text": "Waa-! Ehehe, as expected of Cesario…… \nThanks, I'll take it.",
             "name": "Rhein Kraft",
             "path_id": 340484724248426227,
             "block_id": 3,
-            "clip_length": 284,
-            "processed": "<story>Waa-! Ehehe, as expected of Cesario…… \n<story>Thanks, I'll take it."
+            "clip_length": 284
         },
         {
             "text": "Haa, that really warmed me up~……",
             "name": "Rhein Kraft",
             "path_id": 5825150410081114314,
             "block_id": 4,
-            "clip_length": 108,
-            "processed": "<story>Haa, that really warmed me up~……"
+            "clip_length": 108
         },
         {
             "text": "I'm glad. ……And so, were you able to enjoy \nyour first sunbathing session of the year?",
             "name": "Cesario",
             "path_id": 4273549635054494669,
             "block_id": 5,
-            "clip_length": 190,
-            "processed": "<story>I'm glad. ……And so, were you able to enjoy \n<story>your first sunbathing session of the year?"
+            "clip_length": 190
         },
         {
             "text": "Yeah, it was great♪ The once per year luxury of \nbasking in the sun, taking a nap during the first \nsunrise……together with some of Cesario's cocoa!",
             "name": "Rhein Kraft",
             "path_id": -7733197117863324668,
             "block_id": 6,
-            "clip_length": 346,
-            "processed": "<story>Yeah, it was great♪ The once per year luxury of \n<story>basking in the sun, taking a nap during the first \n<story>sunrise……together with some of Cesario's cocoa!"
+            "clip_length": 346
         },
         {
             "text": "That's part of the set? That makes me happy though…… \nFufufuu. Kraft, you really love sunbathing, huh?",
             "name": "Cesario",
             "path_id": -15976388336940812,
             "block_id": 7,
-            "clip_length": 288,
-            "processed": "<story>That's part of the set? That makes me happy though…… \n<story>Fufufuu. Kraft, you really love sunbathing, huh?"
+            "clip_length": 288
         },
         {
             "text": "Ah, but……it's probably time to get changed, and start getting \nready. Otherwise you might be late for our shrine visit.",
             "name": "Cesario",
             "path_id": -6689492941068435237,
             "block_id": 8,
-            "clip_length": 246,
-            "processed": "<story>Ah, but……it's probably time to get changed, and start getting \n<story>ready. Otherwise you might be late for our shrine visit."
+            "clip_length": 246
         },
         {
             "text": "Wah, you're right! I'm going to head back to my room! \nCesario, wait for me by the front gate~!!",
             "name": "Rhein Kraft",
             "path_id": 9028612736573658536,
             "block_id": 9,
-            "clip_length": 202,
-            "processed": "<story>Wah, you're right! I'm going to head back to my room! \n<story>Cesario, wait for me by the front gate~!!"
+            "clip_length": 202
         },
         {
             "text": "A New Year. Rhein Kraft and Cesario were now in \ntheir Classic year, and we had decided to go as a \ngroup for the first shrine visit of the new year, but――",
@@ -94,24 +85,21 @@
                     "text": "(It's crowded like usual……!)",
                     "hash": "6571f8cf29ede1fed73d4d357ca300d4b374b03960f97790fecbe19ba9dbec21"
                 }
-            ],
-            "processed": "<story>A New Year. Rhein Kraft and Cesario were now in \n<story>their Classic year, and we had decided to go as a \n<story>group for the first shrine visit of the new year, but――"
+            ]
         },
         {
             "text": "Ah, geez, everyone, are you keeping up!? \nRespond if you can hear me-!",
             "name": "King Halo",
             "path_id": 3635464118645754786,
             "block_id": 11,
-            "clip_length": 230,
-            "processed": "<story>Ah, geez, everyone, are you keeping up!? \n<story>Respond if you can hear me-!"
+            "clip_length": 230
         },
         {
             "text": "Hii, hii……For now, I am~.",
             "name": "Rhein Kraft",
             "path_id": 379588978708353199,
             "block_id": 12,
-            "clip_length": 187,
-            "processed": "<story>Hii, hii……For now, I am~."
+            "clip_length": 187
         },
         {
             "text": "It's crazy how crowded it is~……we were packed \nin there so tight, that I thought all that \nosechi I ate earlier was going to come out~……",
@@ -119,7 +107,6 @@
             "path_id": 5340950251684628610,
             "block_id": 13,
             "clip_length": 342,
-            "processed": "<story>It's crazy how crowded it is~……we were packed \n<story>in there so tight, that I thought all that \n<story>osechi I ate earlier was going to come out~……",
             "name_processed": "<sc=78>Antenna-haired Uma Musume"
         },
         {
@@ -127,16 +114,14 @@
             "name": "Cesario",
             "path_id": -1028629181564975743,
             "block_id": 14,
-            "clip_length": 303,
-            "processed": "<story>I have a suggestion. From what I've observed, the \n<story>congestion has eased a bit on the right side. The \n<story>lines have yet to form so I think we should move now."
+            "clip_length": 303
         },
         {
             "text": "Also, let's decide on a meeting place to gather \nup in after the visit. It would probably be easiest \nto find each other over by the sacred tree.",
             "name": "Cesario",
             "path_id": -393535525502059971,
             "block_id": 15,
-            "clip_length": 275,
-            "processed": "<story>Also, let's decide on a meeting place to gather \n<story>up in after the visit. It would probably be easiest \n<story>to find each other over by the sacred tree."
+            "clip_length": 275
         },
         {
             "text": "That's true……! Oh man~, when Cesario's switch is on, \nshe's really got it together and is really reliable.",
@@ -144,7 +129,6 @@
             "path_id": 4671328389549360,
             "block_id": 16,
             "clip_length": 239,
-            "processed": "<story>That's true……! Oh man~, when Cesario's switch is on, \n<story>she's really got it together and is really reliable.",
             "name_processed": "<sc=91>Single Knot Uma Musume"
         },
         {
@@ -152,32 +136,28 @@
             "name": "",
             "path_id": -7286929093967342593,
             "block_id": 17,
-            "clip_length": 138,
-            "processed": "<story>And so, despite the huge crowd, we were somehow \n<story>able to safely wrap up our shrine visit."
+            "clip_length": 138
         },
         {
             "text": "(……this year, I'll give it my all to support the team. Please \nwatch over them, and may they get the results they desire――)",
             "name": "<username>",
             "path_id": -2035908415350612730,
             "block_id": 18,
-            "clip_length": 181,
-            "processed": "<story>(……this year, I'll give it my all to support the team. Please \n<story>watch over them, and may they get the results they desire――)"
+            "clip_length": 181
         },
         {
             "text": "Hey, you're taking too long. The line is \npiling up behind us. Geez……come on, let's go.",
             "name": "King Halo",
             "path_id": -5562664264718743270,
             "block_id": 19,
-            "clip_length": 290,
-            "processed": "<story>Hey, you're taking too long. The line is \n<story>piling up behind us. Geez……come on, let's go."
+            "clip_length": 290
         },
         {
             "text": "(And now that we'd wrapped up our shrine visit, and since it \nwas the new year, I felt we should take it easy, however――)",
             "name": "<username>",
             "path_id": 3635071137829930977,
             "block_id": 20,
-            "clip_length": 118,
-            "processed": "<story>(And now that we'd wrapped up our shrine visit, and since it \n<story>was the new year, I felt we should take it easy, however――)"
+            "clip_length": 118
         },
         {
             "text": "Ehehe……thanks for tagging along with our independent \ntraining! When I think about how this is the start \nof my classic year, I can't help but get restless.",
@@ -194,16 +174,14 @@
                     "text": "I'm glad you're both so motivated",
                     "hash": "bc968506195cd91e9a57fd98e07a5d71cf2a8444143af20c12ea52a7960338d8"
                 }
-            ],
-            "processed": "<story>Ehehe……thanks for tagging along with our independent \n<story>training! When I think about how this is the start \n<story>of my classic year, I can't help but get restless."
+            ]
         },
         {
             "text": "I'm also thankful to our senpais. This year, I look \nforward to your continued guidance and support.",
             "name": "Cesario",
             "path_id": 606374582343535029,
             "block_id": 22,
-            "clip_length": 238,
-            "processed": "<story>I'm also thankful to our senpais. This year, I look \n<story>forward to your continued guidance and support."
+            "clip_length": 238
         },
         {
             "text": "Ah, no prob……or rather, hearing our kouhais say they want \nto run makes it really hard to say \"We're heading back~\"……",
@@ -211,7 +189,6 @@
             "path_id": -4596237256728061654,
             "block_id": 23,
             "clip_length": 319,
-            "processed": "<story>Ah, no prob……or rather, hearing our kouhais say they want \n<story>to run makes it really hard to say \"We're heading back~\"……",
             "name_processed": "<sc=78>Antenna-haired Uma Musume"
         },
         {
@@ -220,7 +197,6 @@
             "path_id": 4752876952164753289,
             "block_id": 24,
             "clip_length": 278,
-            "processed": "<story>Are you an idiot! You should have just said that it was motivating \n<story>you, even if it was a lie! ……Ah, but, it's not a lie though!!",
             "name_processed": "<sc=91>Single Knot Uma Musume"
         },
         {
@@ -228,80 +204,70 @@
             "name": "King Halo",
             "path_id": -2392054905702904116,
             "block_id": 25,
-            "clip_length": 347,
-            "processed": "<story>Well, in any case, I think it's a good idea. \n<story>There are so many once-in-a-lifetime races…… \n<story>it makes the Classic year a very special year."
+            "clip_length": 347
         },
         {
             "text": "……speaking of that, have you two thought \nof which races you're going to aim for?",
             "name": "King Halo",
             "path_id": -6965757465762282299,
             "block_id": 26,
-            "clip_length": 212,
-            "processed": "<story>……speaking of that, have you two thought \n<story>of which races you're going to aim for?"
+            "clip_length": 212
         },
         {
             "text": "The 『Oka Sho』.",
             "name": "Kraft & Cesario",
             "path_id": 7702355442540616535,
             "block_id": 27,
-            "clip_length": 41,
-            "processed": "<story>The 『Oka Sho』."
+            "clip_length": 41
         },
         {
             "text": "……that's right. Cesario and I have…… \nalready decided on the Triple Tiara route.",
             "name": "Rhein Kraft",
             "path_id": 6405700658334179698,
             "block_id": 28,
-            "clip_length": 206,
-            "processed": "<story>……that's right. Cesario and I have…… \n<story>already decided on the Triple Tiara route."
+            "clip_length": 206
         },
         {
             "text": "Right. It was decided from the start. 『Oka Sho』 『Oaks』 \n『Shuuka Sho』 is the route I've decided to run.",
             "name": "Cesario",
             "path_id": 80552887910393379,
             "block_id": 29,
-            "clip_length": 374,
-            "processed": "<story>Right. It was decided from the start. 『Oka Sho』 『Oaks』 \n<story>『Shuuka Sho』 is the route I've decided to run."
+            "clip_length": 374
         },
         {
             "text": "The Uma Musume that have taken on the Triple \nTiara rotation aren't just strong――they've filled \nthe racing world with grace and beauty.",
             "name": "Cesario",
             "path_id": -1041736339576989906,
             "block_id": 30,
-            "clip_length": 289,
-            "processed": "<story>The Uma Musume that have taken on the Triple \n<story>Tiara rotation aren't just strong――they've filled \n<story>the racing world with grace and beauty."
+            "clip_length": 289
         },
         {
             "text": "All the way up until now, many spectators and \neven Uma Musume have been fascinated by their \nefforts. Many run now, dreaming of wearing that tiara.",
             "name": "Cesario",
             "path_id": -511515099874610283,
             "block_id": 31,
-            "clip_length": 285,
-            "processed": "<story>All the way up until now, many spectators and \n<story>even Uma Musume have been fascinated by their \n<story>efforts. Many run now, dreaming of wearing that tiara."
+            "clip_length": 285
         },
         {
             "text": "Me too――I want to become an Uma Musume that \ncontinues on as part of that history.",
             "name": "Cesario",
             "path_id": -3015196816778776763,
             "block_id": 32,
-            "clip_length": 234,
-            "processed": "<story>Me too――I want to become an Uma Musume that \n<story>continues on as part of that history."
+            "clip_length": 234
         },
         {
             "text": "……In addition to that, many Uma Musume that have achieved \nresults in the Triple Tiara rotation have gone on to train \nthe next generation, linking everything to the future.",
             "name": "Cesario",
             "path_id": 4852220993905880568,
             "block_id": 33,
-            "clip_length": 355,
-            "processed": "<story>……In addition to that, many Uma Musume that have achieved \n<story>results in the Triple Tiara rotation have gone on to train \n<story>the next generation, linking everything to the future."
+            "clip_length": 355
         },
         {
             "text": "It's still a far off dream, however…… \nsomeday, I'd like to be a part of that too.",
             "name": "Cesario",
             "path_id": 1958457844799728064,
             "block_id": 34,
-            "clip_length": 245,
-            "processed": "<story>It's still a far off dream, however…… \n<story>someday, I'd like to be a part of that too."
+            "clip_length": 245
         },
         {
             "text": "To me, obtaining results in the Triple Tiara \nrotation was part of my dream since the beginning.",
@@ -318,16 +284,14 @@
                     "text": "I see……",
                     "hash": "3f9552098a2eb699ebcca7732e9d9cea20baf4009341ca589a84dab05a1f7b73"
                 }
-            ],
-            "processed": "<story>To me, obtaining results in the Triple Tiara \n<story>rotation was part of my dream since the beginning."
+            ]
         },
         {
             "text": "(What Cesario was speaking about was part of the history, \ntradition, and appeal of the Triple Tiara route)",
             "name": "<username>",
             "path_id": 4539362753437874523,
             "block_id": 36,
-            "clip_length": 136,
-            "processed": "<story>(What Cesario was speaking about was part of the history, \n<story>tradition, and appeal of the Triple Tiara route)"
+            "clip_length": 136
         },
         {
             "text": "(There was nothing wrong with that――however. \nThere was still one thing I'd have to remind them of……)",
@@ -340,64 +304,56 @@
                     "text": "Kraft, Cesario",
                     "hash": "c69bbe29182526886b448939377f132ea8e7c031f8c3fccec1bc782c37bcfec5"
                 }
-            ],
-            "processed": "<story>(There was nothing wrong with that――however. \n<story>There was still one thing I'd have to remind them of……)"
+            ]
         },
         {
             "text": "Generally speaking, the Classic Triple Crown, \nthe 『Satsuki Sho』 『Japan Derby』 and 『Kikka Sho』 \n――honestly, they draw much more attention.",
             "name": "<username>",
             "path_id": 7172152978998878234,
             "block_id": 38,
-            "clip_length": 160,
-            "processed": "<story>Generally speaking, the Classic Triple Crown, \n<story>the 『Satsuki Sho』 『Japan Derby』 and 『Kikka Sho』 \n<story>――honestly, they draw much more attention."
+            "clip_length": 160
         },
         {
             "text": "Typically, when it comes to Triple Crown versus Triple \nTiara Uma Musume, the former have achieved better results.",
             "name": "<username>",
             "path_id": 1318946014940421253,
             "block_id": 39,
-            "clip_length": 151,
-            "processed": "<story>Typically, when it comes to Triple Crown versus Triple \n<story>Tiara Uma Musume, the former have achieved better results."
+            "clip_length": 151
         },
         {
             "text": "To put it plainly, 『Triple Crown girls are stronger \nthan Triple Tiara girls』……That's the general consensus.",
             "name": "<username>",
             "path_id": 8717025255813911729,
             "block_id": 40,
-            "clip_length": 154,
-            "processed": "<story>To put it plainly, 『Triple Crown girls are stronger \n<story>than Triple Tiara girls』……That's the general consensus."
+            "clip_length": 154
         },
         {
             "text": "To put it plainly, 『Triple Crown girls are stronger \nthan Triple Tiara girls』……That's the general consensus.",
             "name": "<username>",
             "path_id": -8803868143511933285,
             "block_id": 41,
-            "clip_length": 153,
-            "processed": "<story>To put it plainly, 『Triple Crown girls are stronger \n<story>than Triple Tiara girls』……That's the general consensus."
+            "clip_length": 153
         },
         {
             "text": "……Even knowing that, do you still feel the same way?",
             "name": "<username>",
             "path_id": 8662876984950545871,
             "block_id": 42,
-            "clip_length": 78,
-            "processed": "<story>……Even knowing that, do you still feel the same way?"
+            "clip_length": 78
         },
         {
             "text": "……Even knowing that, do you still feel the same way?",
             "name": "<username>",
             "path_id": -2984796193665742785,
             "block_id": 43,
-            "clip_length": 77,
-            "processed": "<story>……Even knowing that, do you still feel the same way?"
+            "clip_length": 77
         },
         {
             "text": "……Um!!",
             "name": "Rhein Kraft",
             "path_id": -7666750264118388586,
             "block_id": 44,
-            "clip_length": 98,
-            "processed": "<story>……Um!!"
+            "clip_length": 98
         },
         {
             "text": "But that's just――how it is 『now』 right?",
@@ -410,40 +366,35 @@
                     "text": "!",
                     "hash": "631157c15452e8cefd925437a26f1d016b1a5d7575f9234fd0bf7aff0369e63d"
                 }
-            ],
-            "processed": "<story>But that's just――how it is 『now』 right?"
+            ]
         },
         {
             "text": "Someday……no, soon, I think that will change. \nBetween Triple Crown and Triple Tiara it doesn't \nmatter……『Strong Uma Musume are strong』!",
             "name": "Rhein Kraft",
             "path_id": -1707633604401147446,
             "block_id": 46,
-            "clip_length": 410,
-            "processed": "<story>Someday……no, soon, I think that will change. \n<story>Between Triple Crown and Triple Tiara it doesn't \n<story>matter……『Strong Uma Musume are strong』!"
+            "clip_length": 410
         },
         {
             "text": "I know an Uma Musume who's said that. I believe \nthat too. Because I've looked up to that Tiara, \nand I've been watching this whole time――!",
             "name": "Rhein Kraft",
             "path_id": 2661448802328030867,
             "block_id": 47,
-            "clip_length": 304,
-            "processed": "<story>I know an Uma Musume who's said that. I believe \n<story>that too. Because I've looked up to that Tiara, \n<story>and I've been watching this whole time――!"
+            "clip_length": 304
         },
         {
             "text": "I know about the passion, the emotion, and the strength of \nthose Uma Musume! I know they're not worse than the others!!",
             "name": "Rhein Kraft",
             "path_id": -7975422539790243310,
             "block_id": 48,
-            "clip_length": 294,
-            "processed": "<story>I know about the passion, the emotion, and the strength of \n<story>those Uma Musume! I know they're not worse than the others!!"
+            "clip_length": 294
         },
         {
             "text": "And that's why I'm choosing the Triple Tiara \nrotation. And, I'll become strong enough that \nI won't lose against Triple Crown Uma Musume!",
             "name": "Rhein Kraft",
             "path_id": -9202780592889534385,
             "block_id": 49,
-            "clip_length": 257,
-            "processed": "<story>And that's why I'm choosing the Triple Tiara \n<story>rotation. And, I'll become strong enough that \n<story>I won't lose against Triple Crown Uma Musume!"
+            "clip_length": 257
         },
         {
             "text": "What kept me going……what gave me all of my \ninspiration, was those Triple Tiara senpais. \nSo I want to prove their merit, their strength!",
@@ -460,72 +411,63 @@
                     "text": "……I see. Alright, I got it!",
                     "hash": "04e3fd83b226a6f456c72cedb4d7cb9ad6fe97168afefcfb46725840ca210a20"
                 }
-            ],
-            "processed": "<story>What kept me going……what gave me all of my \n<story>inspiration, was those Triple Tiara senpais. \n<story>So I want to prove their merit, their strength!"
+            ]
         },
         {
             "text": "Sorry for saying something so insensitive. I understand \nboth of your feelings. In your Classic year, the first \nmajor goal for both of you is to win the 『Oka Sho』!",
             "name": "<username>",
             "path_id": 7805632658423462698,
             "block_id": 51,
-            "clip_length": 151,
-            "processed": "<story>Sorry for saying something so insensitive. I understand \n<story>both of your feelings. In your Classic year, the first \n<story>major goal for both of you is to win the 『Oka Sho』!"
+            "clip_length": 151
         },
         {
             "text": "Yes!!",
             "name": "Kraft & Cesario",
             "path_id": -4768803361780028027,
             "block_id": 52,
-            "clip_length": 57,
-            "processed": "<story>Yes!!"
+            "clip_length": 57
         },
         {
             "text": "……Huuu. And so another two――huh. \nThinking about it, it's still a mystery.",
             "name": "Air Groove",
             "path_id": 6670953363851004386,
             "block_id": 53,
-            "clip_length": 269,
-            "processed": "<story>……Huuu. And so another two――huh. \n<story>Thinking about it, it's still a mystery."
+            "clip_length": 269
         },
         {
             "text": "More attention is on the Triple Crown. \nAnd the race called the 『Greatest Dream』, the 『Japan Derby』.",
             "name": "Air Groove",
             "path_id": 1095105489029184659,
             "block_id": 54,
-            "clip_length": 321,
-            "processed": "<story>More attention is on the Triple Crown. \n<story>And the race called the 『Greatest Dream』, the 『Japan Derby』."
+            "clip_length": 321
         },
         {
             "text": "Despite that, every year, without fail, more girls \nlike that always appear. Girls that desire the Tiara \nmore than the Triple Crown or the glory of the Derby.",
             "name": "Air Groove",
             "path_id": -8726663516510468677,
             "block_id": 55,
-            "clip_length": 452,
-            "processed": "<story>Despite that, every year, without fail, more girls \n<story>like that always appear. Girls that desire the Tiara \n<story>more than the Triple Crown or the glory of the Derby."
+            "clip_length": 452
         },
         {
             "text": "However, there are some things……that can \nonly be obtained, only brought together in \nthat place, on that stage. Where the Tiara is.",
             "name": "Air Groove",
             "path_id": -5480643321391340247,
             "block_id": 56,
-            "clip_length": 324,
-            "processed": "<story>However, there are some things……that can \n<story>only be obtained, only brought together in \n<story>that place, on that stage. Where the Tiara is."
+            "clip_length": 324
         },
         {
             "text": "That's why, this year, once again――the curtain will \nrise on the brilliant and fierce stage of the Tiara.",
             "name": "Air Groove",
             "path_id": 4482123909034427225,
             "block_id": 57,
-            "clip_length": 277,
-            "processed": "<story>That's why, this year, once again――the curtain will \n<story>rise on the brilliant and fierce stage of the Tiara."
+            "clip_length": 277
         },
         {
             "text": "Well then……Rhein Kraft, and Cesario. \nWhat will you carve in to that beautiful theater--?",
             "name": "Air Groove",
             "path_id": 7726578457624811241,
             "block_id": 58,
-            "clip_length": 354,
-            "processed": "<story>Well then……Rhein Kraft, and Cesario. \n<story>What will you carve in to that beautiful theater--?"
+            "clip_length": 354
         }
     ],
     "title": "第4話※タイトル記載"

@@ -16,8 +16,7 @@
             "name": "Mid-Rank Trainer",
             "path_id": -7625349157447615807,
             "block_id": 1,
-            "clip_length": 182,
-            "processed": "<story>――You want to get to know Air Shakur better...? \n<story>Why bother asking me?"
+            "clip_length": 182
         },
         {
             "text": "Word's gotten around about it, so I'm sure you heard, right? \nThat I shouldn't have bothered, with how inscrutable she was. \nWhat's the point of...",
@@ -31,16 +30,14 @@
                     "hash": "cc805ec138e009f2b47a81c39bfcc72b58e40efff6fa2a0e3c5790ebc202ded3",
                     "processed": "<size=33>Even if you don't understand her, I want to know.</size>"
                 }
-            ],
-            "processed": "<story>Word's gotten around about it, so I'm sure you heard, right? \n<story>That I shouldn't have bothered, with how inscrutable she was. \n<story>What's the point of..."
+            ]
         },
         {
             "text": "Given what happened that last time, I wouldn't get anywhere \nasking her directly. So I asked the people around her instead.",
             "name": "",
             "path_id": 2732546043215030296,
             "block_id": 3,
-            "clip_length": 118,
-            "processed": "<story>Given what happened that last time, I wouldn't get anywhere \n<story>asking her directly. So I asked the people around her instead."
+            "clip_length": 118
         },
         {
             "text": "I asked about the path she'd walked, the actions she'd taken. \nAnything, anything at all. Thinking that one by one, these pieces \nwould form the full puzzle.",
@@ -53,16 +50,14 @@
                     "text": "Please, tell me!",
                     "hash": "36bb0c251d09eaae8f070a66e9d0ee9a463528a1ca70982ce631be25b5063cfb"
                 }
-            ],
-            "processed": "<story>I asked about the path she'd walked, the actions she'd taken. \n<story>Anything, anything at all. Thinking that one by one, these pieces \n<story>would form the full puzzle."
+            ]
         },
         {
             "text": "...Hmmm?",
             "name": "Agnes Tachyon",
             "path_id": 7074650826618475078,
             "block_id": 5,
-            "clip_length": 77,
-            "processed": "<story>...Hmmm?"
+            "clip_length": 77
         },
         {
             "text": "Aah, it's you. I just sent you something, check it for me, will you? \nThat's all, I'll be on my way.",
@@ -79,16 +74,14 @@
                     "text": "W-wait a second...!",
                     "hash": "f2e026181750b112bb033d402814783f07896ca84bac16d45002e4b131685c94"
                 }
-            ],
-            "processed": "<story>Aah, it's you. I just sent you something, check it for me, will you? \n<story>That's all, I'll be on my way."
+            ]
         },
         {
             "text": "Checking my inbox, I saw she'd sent a massive amount of data. \nAll of it looked like really complex research materials...",
             "name": "",
             "path_id": -5265571729892729073,
             "block_id": 7,
-            "clip_length": 112,
-            "processed": "<story>Checking my inbox, I saw she'd sent a massive amount of data. \n<story>All of it looked like really complex research materials..."
+            "clip_length": 112
         },
         {
             "text": "I managed to procure all this data from a deal with Shakur-kun. \nTake a good look at these graphs, these formulae. \n<i>This</i> is where her personality truly shines.",
@@ -101,16 +94,14 @@
                     "text": "……！",
                     "hash": "98739b95ccd71250c93eb093e8d38baf3f898a648b1a0e49967a79cf39a4611a"
                 }
-            ],
-            "processed": "<story>I managed to procure all this data from a deal with Shakur-kun. \n<story>Take a good look at these graphs, these formulae. \n<story><i>This</i> is where her personality truly shines."
+            ]
         },
         {
             "text": "It comes through in her writing, too. Logical and clinical, with no \nroom for flourish. Despite the sense of aesthetic elegance that \nseems to pervade her work.",
             "name": "Agnes Tachyon",
             "path_id": 321386292069531768,
             "block_id": 9,
-            "clip_length": 326,
-            "processed": "<story>It comes through in her writing, too. Logical and clinical, with no \n<story>room for flourish. Despite the sense of aesthetic elegance that \n<story>seems to pervade her work."
+            "clip_length": 326
         },
         {
             "text": "It gives the impression of an absolute pragmatist, as impossible \nof a thing that is to be. ...Ah, you should know, the contents \nthemselves may prove a bit too technical for you.",
@@ -123,8 +114,7 @@
                     "text": "I'll give them a read anyway. Thanks.",
                     "hash": "1c9d584ecfa31c26d70c30dbcc55d424ef54e814d788b4dd5b5a20fdb9acf6dd"
                 }
-            ],
-            "processed": "<story>It gives the impression of an absolute pragmatist, as impossible \n<story>of a thing that is to be. ...Ah, you should know, the contents \n<story>themselves may prove a bit too technical for you."
+            ]
         },
         {
             "text": "...I see. I won't elucidate anything for you, so you'll need to mull \nit over for yourself. I'm sure you'll wring some useful information \nout of it, so long as you make an honest effort.",
@@ -141,80 +131,70 @@
                     "text": "Why are you helping me?",
                     "hash": "8e12620fa63e862750eb682d2f65ad892a6f50ed7ff2d131624d94cd3f49df20"
                 }
-            ],
-            "processed": "<story>...I see. I won't elucidate anything for you, so you'll need to mull \n<story>it over for yourself. I'm sure you'll wring some useful information \n<story>out of it, so long as you make an honest effort."
+            ]
         },
         {
             "text": "Oh, 'helping you' isn't quite right. It's merely my predilection as \na scientist to guide the curious to knowledge they seek. \nKnowledge of her included.",
             "name": "Agnes Tachyon",
             "path_id": -7358396135058318088,
             "block_id": 12,
-            "clip_length": 410,
-            "processed": "<story>Oh, 'helping you' isn't quite right. It's merely my predilection as \n<story>a scientist to guide the curious to knowledge they seek. \n<story>Knowledge of her included."
+            "clip_length": 410
         },
         {
             "text": "I kept on asking Umamusume and my senior trainers, and kept \nreviewing old footage, building my understanding of Air Shakur \nday by day.",
             "name": "",
             "path_id": 4703171921417488123,
             "block_id": 13,
-            "clip_length": 119,
-            "processed": "<story>I kept on asking Umamusume and my senior trainers, and kept \n<story>reviewing old footage, building my understanding of Air Shakur \n<story>day by day."
+            "clip_length": 119
         },
         {
             "text": ".......Whew.",
             "name": "Air Shakur",
             "path_id": 2470414431065964800,
             "block_id": 14,
-            "clip_length": 67,
-            "processed": "<story>.......Whew."
+            "clip_length": 67
         },
         {
             "text": "(Gotta find a trainer soon. What's the point of requiring one to \ndebut, anyway...? ...Guess now's too late to worry about it.)",
             "name": "Air Shakur",
             "path_id": 3503010776140540234,
             "block_id": 15,
-            "clip_length": 323,
-            "processed": "<story>(Gotta find a trainer soon. What's the point of requiring one to \n<story>debut, anyway...? ...Guess now's too late to worry about it.)"
+            "clip_length": 323
         },
         {
             "text": "A trainer, huh...",
             "name": "Air Shakur",
             "path_id": 7566909977085935684,
             "block_id": 16,
-            "clip_length": 69,
-            "processed": "<story>A trainer, huh..."
+            "clip_length": 69
         },
         {
             "text": "\"You still want to win, don't you?\"",
             "name": "",
             "path_id": -5422118795909707984,
             "block_id": 17,
-            "clip_length": 69,
-            "processed": "<story>\"You still want to win, don't you?\""
+            "clip_length": 69
         },
         {
             "text": "\"You still want to win, don't you?\"",
             "name": "",
             "path_id": 4784636355269143673,
             "block_id": 18,
-            "clip_length": 71,
-            "processed": "<story>\"You still want to win, don't you?\""
+            "clip_length": 71
         },
         {
             "text": "(Can't stand any of 'em anyway, so I guess there's no point being \npicky. Just gotta have a trainer on paper, so anyone'll do.)",
             "name": "Air Shakur",
             "path_id": 5922470472307360083,
             "block_id": 19,
-            "clip_length": 367,
-            "processed": "<story>(Can't stand any of 'em anyway, so I guess there's no point being \n<story>picky. Just gotta have a trainer on paper, so anyone'll do.)"
+            "clip_length": 367
         },
         {
             "text": "(Though... I'm sick and tired of these clowns who think I'm \n'incomprehensible'. ...Plus, I already know how it's all gonna end, \ndebut or not.)",
             "name": "Air Shakur",
             "path_id": -6562453665826292837,
             "block_id": 20,
-            "clip_length": 409,
-            "processed": "<story>(Though... I'm sick and tired of these clowns who think I'm \n<story>'incomprehensible'. ...Plus, I already know how it's all gonna end, \n<story>debut or not.)"
+            "clip_length": 409
         },
         {
             "text": "...Yep, might as well just give it up now...\n...",
@@ -231,16 +211,14 @@
                     "text": "Are you really going to give up?",
                     "hash": "e3082ad23ef1f16bb8d7a51ebfd89bf5ad6f128d85d3376b534a4dcd02c2b4e2"
                 }
-            ],
-            "processed": "<story>...Yep, might as well just give it up now...\n<story>..."
+            ]
         },
         {
             "text": "...Ngh. ...It's not exactly uncommon, you know. \nI'm just... quitting while I'm ahead.",
             "name": "Air Shakur",
             "path_id": 8297250538184630451,
             "block_id": 22,
-            "clip_length": 298,
-            "processed": "<story>...Ngh. ...It's not exactly uncommon, you know. \n<story>I'm just... quitting while I'm ahead."
+            "clip_length": 298
         },
         {
             "text": "What's the point trying to win a shitty rigged-ass game? \nYou'd have to be dumb as hell to try.",
@@ -257,8 +235,7 @@
                     "text": "But you're not.",
                     "hash": "3b818f89d1e2c54018d8e691ebb6329e3f82f66054e1477663ff638f49321bda"
                 }
-            ],
-            "processed": "<story>What's the point trying to win a shitty rigged-ass game? \n<story>You'd have to be dumb as hell to try."
+            ]
         },
         {
             "text": "...Yep. That's why I――",
@@ -272,16 +249,14 @@
                     "hash": "04698509233a7bea22dedc959bcb63ba2839dfe96b338b8e5fe83896ac74418d",
                     "processed": "<size=31>You don't want to give up. Because you want to win.</size>"
                 }
-            ],
-            "processed": "<story>...Yep. That's why I――"
+            ]
         },
         {
             "text": ".....Huh?",
             "name": "Air Shakur",
             "path_id": -4194949365787888760,
             "block_id": 25,
-            "clip_length": 63,
-            "processed": "<story>.....Huh?"
+            "clip_length": 63
         },
         {
             "text": "Having picked up the pieces she left, I think I understood, even \njust a little bit. Just how hard she was trying to win. So...",
@@ -298,8 +273,7 @@
                     "text": "You are <i>not</i> going to give up.",
                     "hash": "069e056faf5c0f0a943ef67f10a06d2cebc60e00fbfbb69287cc762f611bffd1"
                 }
-            ],
-            "processed": "<story>Having picked up the pieces she left, I think I understood, even \n<story>just a little bit. Just how hard she was trying to win. So..."
+            ]
         },
         {
             "text": "...Easy for you to say, thinking you've got it all figured out. \nI really hate that kinda surface-level crap.",
@@ -318,16 +292,14 @@
                     "hash": "23ad83c669e539821a1ca4a508eb7abb10987b881ce446181978990b9e5bba58",
                     "processed": "<size=35>You're right. I don't have anything figured out.</size>"
                 }
-            ],
-            "processed": "<story>...Easy for you to say, thinking you've got it all figured out. \n<story>I really hate that kinda surface-level crap."
+            ]
         },
         {
             "text": "I could spend my whole life trying, and never even catch a \nglimpse of the world reflected in her eyes. \nBut I still wanted to know.",
             "name": "",
             "path_id": 2283929878577863481,
             "block_id": 28,
-            "clip_length": 120,
-            "processed": "<story>I could spend my whole life trying, and never even catch a \n<story>glimpse of the world reflected in her eyes. \n<story>But I still wanted to know."
+            "clip_length": 120
         },
         {
             "text": "I wanted to talk with her, to help her win, if she'd let me. \nEven if we couldn't see eye to eye, I wanted to look forward \ntogether――",
@@ -346,24 +318,21 @@
                     "hash": "fa7d9a54fa0807fb8e4efa5c577f61dcafded8335f00b88ad426e6b6dc41ee85",
                     "processed": "<size=39>I don't want to give up understanding you.</size>"
                 }
-            ],
-            "processed": "<story>I wanted to talk with her, to help her win, if she'd let me. \n<story>Even if we couldn't see eye to eye, I wanted to look forward \n<story>together――"
+            ]
         },
         {
             "text": "……！",
             "name": "Air Shakur",
             "path_id": 7140263044155339994,
             "block_id": 30,
-            "clip_length": 27,
-            "processed": "<story>……！"
+            "clip_length": 27
         },
         {
             "text": "You don't even know how to code. \nYou act out on reasons as flimsy as your feelings. \nYou are not like me.",
             "name": "Air Shakur",
             "path_id": 8817719788322053756,
             "block_id": 31,
-            "clip_length": 294,
-            "processed": "<story>You don't even know how to code. \n<story>You act out on reasons as flimsy as your feelings. \n<story>You are not like me."
+            "clip_length": 294
         },
         {
             "text": "And you want to... understand me? How?\nUnderstanding... How is that going to help me?",
@@ -380,8 +349,7 @@
                     "text": "I want to put in the effort to find out.",
                     "hash": "a8a0d9ce9fbdfa24673a2ca91a1aadbcad10c6ce4e6e13250995ea809430bedf"
                 }
-            ],
-            "processed": "<story>And you want to... understand me? How?\n<story>Understanding... How is that going to help me?"
+            ]
         },
         {
             "text": "Even if that effort goes to waste...?\nEven then?――",
@@ -398,8 +366,7 @@
                     "text": "I want to be your trainer!",
                     "hash": "c64debf7d4e9efefb824f008b7942603736f80919faa5339d4b0012fb58808e3"
                 }
-            ],
-            "processed": "<story>Even if that effort goes to waste...?\n<story>Even then?――"
+            ]
         },
         {
             "text": "...I really don't get you. \nWhat can you offer me?",
@@ -412,8 +379,7 @@
                     "text": "I have my merits.",
                     "hash": "f47e96ae4161c430b5d034518c2fa4e21c3b98fff1514969544fa47fcdef6af1"
                 }
-            ],
-            "processed": "<story>...I really don't get you. \n<story>What can you offer me?"
+            ]
         },
         {
             "text": "Like what?",
@@ -430,24 +396,21 @@
                     "text": "I can watch you win!",
                     "hash": "002b9d667508510d3ca22ab3be2e9530a5986bd45ce94f2329df88c7ba4eb84e"
                 }
-            ],
-            "processed": "<story>Like what?"
+            ]
         },
         {
             "text": "...Ngh.",
             "name": "Air Shakur",
             "path_id": 4720174240458076531,
             "block_id": 36,
-            "clip_length": 34,
-            "processed": "<story>...Ngh."
+            "clip_length": 34
         },
         {
             "text": "Having the privilege to witness to the victory she'd chased so \nobsessively. For a trainer, there is no greater reward.",
             "name": "",
             "path_id": -133365759055907691,
             "block_id": 37,
-            "clip_length": 111,
-            "processed": "<story>Having the privilege to witness to the victory she'd chased so \n<story>obsessively. For a trainer, there is no greater reward."
+            "clip_length": 111
         },
         {
             "text": "...I'm really not getting through to you here, huh? \nFrom where I stand, there's no merit in working with you.",
@@ -460,8 +423,7 @@
                     "text": "But I can help you debut.",
                     "hash": "7ad537ea1e71e9c0c829a73894569eee3160ab022a401101d8dbd5b83ed38cc6"
                 }
-            ],
-            "processed": "<story>...I'm really not getting through to you here, huh? \n<story>From where I stand, there's no merit in working with you."
+            ]
         },
         {
             "text": "...I just said I'm giving up. What's the point?",
@@ -474,88 +436,77 @@
                     "text": "Just say the word and I'll be there.",
                     "hash": "de3333598e88101dc2df55a7a3ff8b65b9d58f9d810b759d1cd2f28914cc644b"
                 }
-            ],
-            "processed": "<story>...I just said I'm giving up. What's the point?"
+            ]
         },
         {
             "text": ".......",
             "name": "Air Shakur",
             "path_id": 6219454599622231442,
             "block_id": 40,
-            "clip_length": 52,
-            "processed": "<story>......."
+            "clip_length": 52
         },
         {
             "text": "...I REALLY don't get you.",
             "name": "Air Shakur",
             "path_id": -1333731641201960844,
             "block_id": 41,
-            "clip_length": 118,
-            "processed": "<story>...I REALLY don't get you."
+            "clip_length": 118
         },
         {
             "text": "\"I don't want to give up understanding you.\"",
             "name": "",
             "path_id": 7862109945582249535,
             "block_id": 42,
-            "clip_length": 71,
-            "processed": "<story>\"I don't want to give up understanding you.\""
+            "clip_length": 71
         },
         {
             "text": "\"I don't want to give up understanding you.\"",
             "name": "",
             "path_id": -3859127562245190710,
             "block_id": 43,
-            "clip_length": 71,
-            "processed": "<story>\"I don't want to give up understanding you.\""
+            "clip_length": 71
         },
         {
             "text": "(...What a stubborn pain in the ass. No, really, how the hell does \nyou understanding help me?)",
             "name": "Air Shakur",
             "path_id": -8554456834698214737,
             "block_id": 44,
-            "clip_length": 292,
-            "processed": "<story>(...What a stubborn pain in the ass. No, really, how the hell does \n<story>you understanding help me?)"
+            "clip_length": 292
         },
         {
             "text": "...Though, \nI guess I'm stubborn, too.",
             "name": "Air Shakur",
             "path_id": 362288135107058579,
             "block_id": 45,
-            "clip_length": 237,
-            "processed": "<story>...Though, \n<story>I guess I'm stubborn, too."
+            "clip_length": 237
         },
         {
             "text": "(Still haven't found a way to get past that 7cm.\nThe reality of the situation hasn't changed, but...)",
             "name": "Air Shakur",
             "path_id": -4335148213686244356,
             "block_id": 46,
-            "clip_length": 261,
-            "processed": "<story>(Still haven't found a way to get past that 7cm.\n<story>The reality of the situation hasn't changed, but...)"
+            "clip_length": 261
         },
         {
             "text": "Might as well not give up.",
             "name": "Air Shakur",
             "path_id": -4712668478084155426,
             "block_id": 47,
-            "clip_length": 123,
-            "processed": "<story>Might as well not give up."
+            "clip_length": 123
         },
         {
             "text": "――...Oh.",
             "name": "Air Shakur",
             "path_id": 8121583452220249397,
             "block_id": 48,
-            "clip_length": 22,
-            "processed": "<story>――...Oh."
+            "clip_length": 22
         },
         {
             "text": "I ran into Air Shakur again that night. \nI kept an eye out from behind until she got back to school \ngrounds, but...",
             "name": "",
             "path_id": -56885853465395414,
             "block_id": 49,
-            "clip_length": 119,
-            "processed": "<story>I ran into Air Shakur again that night. \n<story>I kept an eye out from behind until she got back to school \n<story>grounds, but..."
+            "clip_length": 119
         },
         {
             "text": "――Excuse me. You've been following that girl for a while now. \nCan I have a moment?",
@@ -568,8 +519,7 @@
                     "text": "！？",
                     "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
                 }
-            ],
-            "processed": "<story>――Excuse me. You've been following that girl for a while now. \n<story>Can I have a moment?"
+            ]
         },
         {
             "text": "We've had reports of a suspicious individual tailing an \nUmamusume. Care to explain yourself at the station?",
@@ -586,32 +536,28 @@
                     "text": "N-No, I――",
                     "hash": "8040f2715fd56193a4849974561efcc0a6cfed90b2eae7464b67ef597774a4df"
                 }
-            ],
-            "processed": "<story>We've had reports of a suspicious individual tailing an \n<story>Umamusume. Care to explain yourself at the station?"
+            ]
         },
         {
             "text": "...Pfft.\nGuess I gotta bail you out.",
             "name": "Air Shakur",
             "path_id": -6536407006859721907,
             "block_id": 52,
-            "clip_length": 132,
-            "processed": "<story>...Pfft.\n<story>Guess I gotta bail you out."
+            "clip_length": 132
         },
         {
             "text": "Hey, lay off, lady. \nYou got the poor sucker freezing up. 'Sides...",
             "name": "Air Shakur",
             "path_id": 3355131060048330971,
             "block_id": 53,
-            "clip_length": 180,
-            "processed": "<story>Hey, lay off, lady. \n<story>You got the poor sucker freezing up. 'Sides..."
+            "clip_length": 180
         },
         {
             "text": "That sucker's my trainer.\n...Ain't that right?",
             "name": "Air Shakur",
             "path_id": 2642715637433123535,
             "block_id": 54,
-            "clip_length": 178,
-            "processed": "<story>That sucker's my trainer.\n<story>...Ain't that right?"
+            "clip_length": 178
         }
     ],
     "title": "Tracing Protocol"
