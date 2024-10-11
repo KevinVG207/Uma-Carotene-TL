@@ -866,4 +866,3 @@ def umafy(text: str) -> str:
         .replace("Uma Musume", "Umamusume")\
 
 cleanup_carotenify_files()
-print(DMM_CONFIG_PATH)

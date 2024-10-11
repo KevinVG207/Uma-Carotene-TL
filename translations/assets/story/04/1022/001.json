@@ -16,16 +16,14 @@
             "name": "TV Audio",
             "path_id": 7263159773162319411,
             "block_id": 1,
-            "clip_length": 293,
-            "processed": "<story>\"…Her Highness, studying abroad at Japan's Uma Musume Training \n<story>Center School, attended a party at the Irish Embassy yesterday-\""
+            "clip_length": 293
         },
         {
             "text": "It all began on a certain day, early in the afternoon. I was \nwalking home from the Electronics Store when I heard the TV.",
             "name": "",
             "path_id": 7804686494335370795,
             "block_id": 2,
-            "clip_length": 118,
-            "processed": "<story>It all began on a certain day, early in the afternoon. I was \n<story>walking home from the Electronics Store when I heard the TV."
+            "clip_length": 118
         },
         {
             "text": "Hmmmm, well now… -Ah! Excuse me, you there! \nCould I have a moment of your time?",
@@ -42,8 +40,7 @@
                     "text": "…me?",
                     "hash": "7400fdb85167efbb1017e6bf4404ddadbc95eed364c0bc68aa43a3f65d5470a0"
                 }
-            ],
-            "processed": "<story>Hmmmm, well now… -Ah! Excuse me, you there! \n<story>Could I have a moment of your time?"
+            ]
         },
         {
             "text": "Yes, you! Fufu, I'm sorry for suddenly stopping you. \nI just had something I'd like to ask.",
@@ -51,7 +48,6 @@
             "path_id": -3462354239226248199,
             "block_id": 4,
             "clip_length": 269,
-            "processed": "<story>Yes, you! Fufu, I'm sorry for suddenly stopping you. \n<story>I just had something I'd like to ask.",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -60,7 +56,6 @@
             "path_id": -3256613351995598714,
             "block_id": 5,
             "clip_length": 273,
-            "processed": "<story>Truth is, I wanted to try the \"Eat-In Corner\" at the convenience \n<story>store, bought some cup ramen, took a seat and waited but-",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -75,7 +70,6 @@
                     "hash": "fea14373030f77fe59b8e828b607a745b9576347d4420757e783504fbaf52ab2"
                 }
             ],
-            "processed": "<story>The person responsible for putting hot water in just hasn't come \n<story>yet. Perhaps, today is a holiday?",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -83,8 +77,7 @@
             "name": "",
             "path_id": -7467176651591630128,
             "block_id": 7,
-            "clip_length": 110,
-            "processed": "<story>…I told this confused, mysterious girl, \n<story>that the hot water was self service."
+            "clip_length": 110
         },
         {
             "text": "Eh? It's fine to put the hot water in yourself? \nThat… isn't that-!!",
@@ -92,7 +85,6 @@
             "path_id": 7353074469500631963,
             "block_id": 8,
             "clip_length": 188,
-            "processed": "<story>Eh? It's fine to put the hot water in yourself? \n<story>That… isn't that-!!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -101,7 +93,6 @@
             "path_id": 6886755991684678132,
             "block_id": 9,
             "clip_length": 241,
-            "processed": "<story>Waa, for some reason I'm getting excited! \n<story>And! And! Where is the hot water kept?!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -110,7 +101,6 @@
             "path_id": -2101624157048534723,
             "block_id": 10,
             "clip_length": 305,
-            "processed": "<story>Fuuaa, that was a lovely experience! To think you could eat at \n<story>the same place you go shopping, how wonderful!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -119,7 +109,6 @@
             "path_id": -1397262481522884713,
             "block_id": 11,
             "clip_length": 185,
-            "processed": "<story>Kind person, you have my gratitude \n<story>for your help. And then next is-",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -134,7 +123,6 @@
                     "hash": "80969d56b19202da3264bddc71a5ce375d45ed4833473d0eb22980dcdc6e9cc7"
                 }
             ],
-            "processed": "<story>Would you be so kind as to escort me to \"Extreme Noodle Shop\"?",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -143,7 +131,6 @@
             "path_id": 3051820045415652065,
             "block_id": 13,
             "clip_length": 380,
-            "processed": "<story>…Ah, I'm sorry! Ehehe, silly me. \n<story>\"Investigating the destination yourself\" is normal, isn't it?",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -157,16 +144,14 @@
                     "text": "Shall I take you to the shop?",
                     "hash": "cd6fdceee7e3644f8857edabb085c2b7f00915e31215e6427647d3df7ed19857"
                 }
-            ],
-            "processed": "<story>…That's certainly true but, seeing how naive she was earlier, I \n<story>was a little hesitant to leave her be. That's why-"
+            ]
         },
         {
             "text": "Fuuuuu~~~~~! \n-SEIYAAAA!!",
             "name": "Ramen Stallkeeper",
             "path_id": -2795983740590914919,
             "block_id": 15,
-            "clip_length": 128,
-            "processed": "<story>Fuuuuu~~~~~! \n<story>-SEIYAAAA!!"
+            "clip_length": 128
         },
         {
             "text": "Aaah! That… That's definitely the \"Extreme\" specialty, the \"Hot \nWater Draining Cross\"! Amazing, it's the real thing!",
@@ -180,7 +165,6 @@
                     "hash": "93c86e1b650edb2ac1995361d254741b15eff2d6a3183122d1de20e6e2866ca8"
                 }
             ],
-            "processed": "<story>Aaah! That… That's definitely the \"Extreme\" specialty, the \"Hot \n<story>Water Draining Cross\"! Amazing, it's the real thing!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -189,7 +173,6 @@
             "path_id": -1774231903374294904,
             "block_id": 17,
             "clip_length": 311,
-            "processed": "<story>Yeah! Using this technique they can completely separate the hot \n<story>water from the rich, golden, chicken bone soup and so you can \n<story>enjoy the noodles with no slimy texture, or so they say…!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -198,7 +181,6 @@
             "path_id": -5971324786678028331,
             "block_id": 18,
             "clip_length": 294,
-            "processed": "<story>Ever since I saw it in a net article, I've always \n<story>wanted to see it for myself! Haaaa… I've been \n<story>waiting for this moment for 43 days…!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -207,7 +189,6 @@
             "path_id": 4615596781330070331,
             "block_id": 19,
             "clip_length": 314,
-            "processed": "<story>Using force that could send hot water flying, filling \n<story>the store with steam… and the anticipation, it's \n<story>all more than I could have imagined!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -223,7 +204,6 @@
                     "processed": "<size=40>I don't think I did anything that special…</size>"
                 }
             ],
-            "processed": "<story>For bringing me here, I'm very very grateful. \n<story>I can't thank you enough!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -238,7 +218,6 @@
                     "hash": "aab4ecabc1d398e3aef37d12c4b903961e925aaa4bbaabd1d186f2110952c955"
                 }
             ],
-            "processed": "<story>No, that's not true. \n<story>… after all, I don't think I'll ever forget today!",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -246,8 +225,7 @@
             "name": "",
             "path_id": -5756360944779461234,
             "block_id": 22,
-            "clip_length": 115,
-            "processed": "<story>And thus, this innocent girl with sparkling eyes, for some \n<story>reason, her profile was burned into my mind…"
+            "clip_length": 115
         },
         {
             "text": "Ah, it's already dusk! That's a shame, there was \none last place I was looking forward to though.",
@@ -267,7 +245,6 @@
                     "processed": "<size=33>If it's one more, we can still make it before curfew</size>"
                 }
             ],
-            "processed": "<story>Ah, it's already dusk! That's a shame, there was \n<story>one last place I was looking forward to though.",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -276,7 +253,6 @@
             "path_id": -6939773419965964758,
             "block_id": 24,
             "clip_length": 223,
-            "processed": "<story>That's true, curfews are normally like that, but in my case- Oh.",
             "name_processed": "<sc=82>Somewhat Refined Horsegirl"
         },
         {
@@ -290,8 +266,7 @@
                     "text": "?!",
                     "hash": "06e4166c9a86b4b55ea76af145d693083ff857e6e8d1132d63ba4f3379f978ad"
                 }
-            ],
-            "processed": "<story>…Your Highness, excuse me. The agreement was that your outing \n<story>would last until sun down. Please return to the dorm quickly."
+            ]
         },
         {
             "text": "…before I realized it, several suit-wearing adult \numa musume were surrounding us. Up until now I \nnever felt their presence though…!",
@@ -305,16 +280,14 @@
                     "hash": "5840fba56308fc8c96635aab7a03e48bfffd0673c335da723a4caf8e8ac6cfce",
                     "processed": "<size=41>(Speaking of which… \"Your Highness\"!?)</size>"
                 }
-            ],
-            "processed": "<story>…before I realized it, several suit-wearing adult \n<story>uma musume were surrounding us. Up until now I \n<story>never felt their presence though…!"
+            ]
         },
         {
             "text": "And you, I apologize for interrupting you in \nthe middle of your conversation. However-",
             "name": "Horsegirl in a Suit",
             "path_id": 4406938302903268806,
             "block_id": 27,
-            "clip_length": 182,
-            "processed": "<story>And you, I apologize for interrupting you in \n<story>the middle of your conversation. However-"
+            "clip_length": 182
         },
         {
             "text": "Her Highness, Fine Motion, is heir to the Royal Family. \nIn the off chance, we can't have her exposing herself to danger.",
@@ -327,8 +300,7 @@
                     "text": "Royal Family…?!",
                     "hash": "f6ab90ddab581ad287e3f50566f860d04ea3ecab8fd333cbeedd2b3c59cdea8a"
                 }
-            ],
-            "processed": "<story>Her Highness, Fine Motion, is heir to the Royal Family. \n<story>In the off chance, we can't have her exposing herself to danger."
+            ]
         },
         {
             "text": "…Thank you for the warning, Commander. Once we've finished \nexchanging pleasantries, I shall return to the dorm.",
@@ -345,48 +317,42 @@
                     "text": "Just who are you…?",
                     "hash": "3e907d8f3725376acc79fe71f9a555483b074047c6a03dd49d648f4ecb00e51a"
                 }
-            ],
-            "processed": "<story>…Thank you for the warning, Commander. Once we've finished \n<story>exchanging pleasantries, I shall return to the dorm."
+            ]
         },
         {
             "text": "Ehe. Sorry for surprising you. I'm truly thankful \nfor today. It will be a very wonderful memory!",
             "name": "Fine Motion",
             "path_id": -1726639240003605092,
             "block_id": 30,
-            "clip_length": 245,
-            "processed": "<story>Ehe. Sorry for surprising you. I'm truly thankful \n<story>for today. It will be a very wonderful memory!"
+            "clip_length": 245
         },
         {
             "text": "-This, is that gratitude!",
             "name": "Fine Motion",
             "path_id": -613820289101287300,
             "block_id": 31,
-            "clip_length": 134,
-            "processed": "<story>-This, is that gratitude!"
+            "clip_length": 134
         },
         {
             "text": "And thus, she placed something in my palm then \nclosed my hand, and surrounded by the Suit-wearing \nUma Musume, they headed to the station.",
             "name": "",
             "path_id": 9148094842441577575,
             "block_id": 32,
-            "clip_length": 114,
-            "processed": "<story>And thus, she placed something in my palm then \n<story>closed my hand, and surrounded by the Suit-wearing \n<story>Uma Musume, they headed to the station."
+            "clip_length": 114
         },
         {
             "text": "I saw them off while in a daze, then suddenly, \nI opened my palm. In it there was-",
             "name": "",
             "path_id": 6250453573985192949,
             "block_id": 33,
-            "clip_length": 89,
-            "processed": "<story>I saw them off while in a daze, then suddenly, \n<story>I opened my palm. In it there was-"
+            "clip_length": 89
         },
         {
             "text": "A coupon for a free extra serving of noodles.",
             "name": "",
             "path_id": 4199478689003127327,
             "block_id": 34,
-            "clip_length": 73,
-            "processed": "<story>A coupon for a free extra serving of noodles."
+            "clip_length": 73
         }
     ],
     "title": "Every day is a new day."

@@ -16,120 +16,105 @@
             "name": "",
             "path_id": -3312343957037924727,
             "block_id": 1,
-            "clip_length": 85,
-            "processed": "<story>On a day off, I took Shinko Windy to the zoo."
+            "clip_length": 85
         },
         {
             "text": "Crocodiles! Hippos! Gorillas! \nC'mon, c'mon, let's hurry and go meet 'em all!",
             "name": "Shinko Windy",
             "path_id": 4711962052806144408,
             "block_id": 2,
-            "clip_length": 212,
-            "processed": "<story>Crocodiles! Hippos! Gorillas! \n<story>C'mon, c'mon, let's hurry and go meet 'em all!"
+            "clip_length": 212
         },
         {
             "text": "All of them have bite strength that's the strongest! \nFeeding-time, especially, is a must-see!",
             "name": "Shinko Windy",
             "path_id": 5728943257296069828,
             "block_id": 3,
-            "clip_length": 182,
-            "processed": "<story>All of them have bite strength that's the strongest! \n<story>Feeding-time, especially, is a must-see!"
+            "clip_length": 182
         },
         {
             "text": "C'mon, we gotta hurry! \nWe definitely have to see them at their best!!",
             "name": "Shinko Windy",
             "path_id": -3283097732652382017,
             "block_id": 4,
-            "clip_length": 150,
-            "processed": "<story>C'mon, we gotta hurry! \n<story>We definitely have to see them at their best!!"
+            "clip_length": 150
         },
         {
             "text": "Uooooooh! Look at that! The power of that croc! \nGnawing on that with its big jaws!!",
             "name": "Shinko Windy",
             "path_id": -8279516805739799579,
             "block_id": 5,
-            "clip_length": 268,
-            "processed": "<story>Uooooooh! Look at that! The power of that croc! \n<story>Gnawing on that with its big jaws!!"
+            "clip_length": 268
         },
         {
             "text": "Those teeth are amazing～! \nIf it got you with those, you wouldn't stand a chance～!",
             "name": "Visitor A",
             "path_id": 216599936758744804,
             "block_id": 6,
-            "clip_length": 179,
-            "processed": "<story>Those teeth are amazing～! \n<story>If it got you with those, you wouldn't stand a chance～!"
+            "clip_length": 179
         },
         {
             "text": "Muu.",
             "name": "Shinko Windy",
             "path_id": 6615872240610924397,
             "block_id": 7,
-            "clip_length": 27,
-            "processed": "<story>Muu."
+            "clip_length": 27
         },
         {
             "text": "……If Windy-chan bit you, it would be crazy too!",
             "name": "Shinko Windy",
             "path_id": 2203579491870907663,
             "block_id": 8,
-            "clip_length": 139,
-            "processed": "<story>……If Windy-chan bit you, it would be crazy too!"
+            "clip_length": 139
         },
         {
             "text": "The way it chomps with that big mouth is cute too～!",
             "name": "Visitor A",
             "path_id": -4478680395760083948,
             "block_id": 9,
-            "clip_length": 132,
-            "processed": "<story>The way it chomps with that big mouth is cute too～!"
+            "clip_length": 132
         },
         {
             "text": "But look at how it can stand in the water～. \nThat's kinda cute too～!",
             "name": "Visitor B",
             "path_id": -1516103678794062812,
             "block_id": 10,
-            "clip_length": 177,
-            "processed": "<story>But look at how it can stand in the water～. \n<story>That's kinda cute too～!"
+            "clip_length": 177
         },
         {
             "text": "Mumumu-! \nJust focusing on them, it's not fair!",
             "name": "Shinko Windy",
             "path_id": 6222975058138611394,
             "block_id": 11,
-            "clip_length": 160,
-            "processed": "<story>Mumumu-! \n<story>Just focusing on them, it's not fair!"
+            "clip_length": 160
         },
         {
             "text": "When it comes to bite strength, even Windy-chan can too……!",
             "name": "Shinko Windy",
             "path_id": -4758029242372568125,
             "block_id": 12,
-            "clip_length": 164,
-            "processed": "<story>When it comes to bite strength, even Windy-chan can too……!"
+            "clip_length": 164
         },
         {
             "text": "Gradually, Shinko Windy's mood was worsening. \nAt this rate, it could be bad……!",
             "name": "",
             "path_id": 6434956455862503410,
             "block_id": 13,
-            "clip_length": 95,
-            "processed": "<story>Gradually, Shinko Windy's mood was worsening. \n<story>At this rate, it could be bad……!"
+            "clip_length": 95
         },
         {
             "text": "Goat King, looks like there aren't many \nvisitors coming to see you this time either.",
             "name": "Zookeeper",
             "path_id": -1003353827003272129,
             "block_id": 14,
-            "clip_length": 126,
-            "processed": "<story>Goat King, looks like there aren't many \n<story>visitors coming to see you this time either."
+            "clip_length": 126
         },
         {
             "text": "Meeeeh……",
             "name": "Goat King",
             "path_id": -8390758312677986150,
             "block_id": 15,
-            "clip_length": 53,
-            "processed": "<story>Meeeeh……"
+            "clip_length": 53
         },
         {
             "text": "……What's that? \nHe's taking the goat for a walk.",
@@ -142,32 +127,28 @@
                     "text": "A meet-and-greet maybe?",
                     "hash": "28b8da2ad5eaed1c431459da95d94ec033fa51ebdde4d866adf5b88efaf83639"
                 }
-            ],
-            "processed": "<story>……What's that? \n<story>He's taking the goat for a walk."
+            ]
         },
         {
             "text": "Ahaha…… if you'd like, please play with him. He's really cute, \nbut lately he hasn't been getting much attention……",
             "name": "Zookeeper",
             "path_id": 8636264404284694225,
             "block_id": 17,
-            "clip_length": 283,
-            "processed": "<story>Ahaha…… if you'd like, please play with him. He's really cute, \n<story>but lately he hasn't been getting much attention……"
+            "clip_length": 283
         },
         {
             "text": "……You, come with me for a bit.",
             "name": "Shinko Windy",
             "path_id": -1451871686854091649,
             "block_id": 18,
-            "clip_length": 111,
-            "processed": "<story>……You, come with me for a bit."
+            "clip_length": 111
         },
         {
             "text": "And like this, then that, \nand then to finish it off……",
             "name": "Shinko Windy",
             "path_id": 4149771366531700381,
             "block_id": 19,
-            "clip_length": 135,
-            "processed": "<story>And like this, then that, \n<story>and then to finish it off……"
+            "clip_length": 135
         },
         {
             "text": "Naa haa haa haa, how's that!? \nI triple braided his beard!",
@@ -180,40 +161,35 @@
                     "text": "Don't do that, Windy!",
                     "hash": "8613be72bff70dd282d5f695996e585ebe1516fbb4d329c56515a30a77473a8e"
                 }
-            ],
-            "processed": "<story>Naa haa haa haa, how's that!? \n<story>I triple braided his beard!"
+            ]
         },
         {
             "text": "Hmph! He can't get any attention because of his lame face! \nBut Windy-chan is different!",
             "name": "Shinko Windy",
             "path_id": 1040234763737449879,
             "block_id": 21,
-            "clip_length": 219,
-            "processed": "<story>Hmph! He can't get any attention because of his lame face! \n<story>But Windy-chan is different!"
+            "clip_length": 219
         },
         {
             "text": "Just watch, now I'm going to pull an amazing \nprank that'll get all of their attention!",
             "name": "Shinko Windy",
             "path_id": 5200042706770201761,
             "block_id": 22,
-            "clip_length": 268,
-            "processed": "<story>Just watch, now I'm going to pull an amazing \n<story>prank that'll get all of their attention!"
+            "clip_length": 268
         },
         {
             "text": "Shinko Windy made that declaration before the goat. Maybe because \nshe can relate to his troubles, she seemed reliable――",
             "name": "",
             "path_id": 8247902041655540417,
             "block_id": 23,
-            "clip_length": 114,
-            "processed": "<story>Shinko Windy made that declaration before the goat. Maybe because \n<story>she can relate to his troubles, she seemed reliable――"
+            "clip_length": 114
         },
         {
             "text": "I had a sudden thought. Can't we use Windy's creativity here? \nHer prank seemed a little short-sighted, so maybe――",
             "name": "",
             "path_id": -3956022414928479780,
             "block_id": 24,
-            "clip_length": 118,
-            "processed": "<story>I had a sudden thought. Can't we use Windy's creativity here? \n<story>Her prank seemed a little short-sighted, so maybe――"
+            "clip_length": 118
         },
         {
             "text": "Huh? What do you mean? \nHave the Goat King help with the prank……?",
@@ -226,48 +202,42 @@
                     "text": "He wants to stand out too",
                     "hash": "036247249f0da124b5fecd10763cf66e6a90d0fc14c1c65590a1c46c28d77959"
                 }
-            ],
-            "processed": "<story>Huh? What do you mean? \n<story>Have the Goat King help with the prank……?"
+            ]
         },
         {
             "text": "Hmmm, I guess so…… \nIt does feel good to pull pranks.",
             "name": "Shinko Windy",
             "path_id": -6670412976906941342,
             "block_id": 26,
-            "clip_length": 163,
-            "processed": "<story>Hmmm, I guess so…… \n<story>It does feel good to pull pranks."
+            "clip_length": 163
         },
         {
             "text": "Alright, hope you're ready, Goat King! \nWindy-chan's prank will be unforgettable!",
             "name": "Shinko Windy",
             "path_id": 2703968411927530376,
             "block_id": 27,
-            "clip_length": 244,
-            "processed": "<story>Alright, hope you're ready, Goat King! \n<story>Windy-chan's prank will be unforgettable!"
+            "clip_length": 244
         },
         {
             "text": "Meh- meeeeh?",
             "name": "Goat King",
             "path_id": -821121546115685408,
             "block_id": 28,
-            "clip_length": 70,
-            "processed": "<story>Meh- meeeeh?"
+            "clip_length": 70
         },
         {
             "text": "Now, where should I go next? \nSeems like giraffes and rhinoes are over there――",
             "name": "Visitors",
             "path_id": -1400218359060773336,
             "block_id": 29,
-            "clip_length": 108,
-            "processed": "<story>Now, where should I go next? \n<story>Seems like giraffes and rhinoes are over there――"
+            "clip_length": 108
         },
         {
             "text": "Waah Haa Haa Haa!!",
             "name": "Shinko Windy",
             "path_id": -3617212876629259434,
             "block_id": 30,
-            "clip_length": 88,
-            "processed": "<story>Waah Haa Haa Haa!!"
+            "clip_length": 88
         },
         {
             "text": "Goat King! All of your food has fallen in \nto the possession of me, Windy-sama!!",
@@ -281,144 +251,126 @@
                     "hash": "c5a903eae442db972809084908cf1c73f5cd113e26a4b12e18c1932a1708357d",
                     "processed": "<size=37>How dastardly! As expected of Windy-sama!</size>"
                 }
-            ],
-            "processed": "<story>Goat King! All of your food has fallen in \n<story>to the possession of me, Windy-sama!!"
+            ]
         },
         {
             "text": "That girl, I only took my eyes off it for a moment……! \nI'm sorry Goat King!",
             "name": "Zookeeper",
             "path_id": -4436850977284917216,
             "block_id": 32,
-            "clip_length": 165,
-            "processed": "<story>That girl, I only took my eyes off it for a moment……! \n<story>I'm sorry Goat King!"
+            "clip_length": 165
         },
         {
             "text": "――W-what are they doing!? \n――They're standing near that cliff!",
             "name": "Visitors",
             "path_id": 9075914227029693065,
             "block_id": 33,
-            "clip_length": 85,
-            "processed": "<story>――W-what are they doing!? \n<story>――They're standing near that cliff!"
+            "clip_length": 85
         },
         {
             "text": "――They took that goat's food? \n――How sad……!",
             "name": "Visitors",
             "path_id": 7684869587760133654,
             "block_id": 34,
-            "clip_length": 101,
-            "processed": "<story>――They took that goat's food? \n<story>――How sad……!"
+            "clip_length": 101
         },
         {
             "text": "Haaa haa haa! \nToo bad for you, Goat King!",
             "name": "Shinko Windy",
             "path_id": 1778134055735222308,
             "block_id": 35,
-            "clip_length": 150,
-            "processed": "<story>Haaa haa haa! \n<story>Too bad for you, Goat King!"
+            "clip_length": 150
         },
         {
             "text": "If only you had more power, you could take it back, huh? \nBeing so weak must be frustrating～.",
             "name": "Shinko Windy",
             "path_id": -567896152045404643,
             "block_id": 36,
-            "clip_length": 250,
-            "processed": "<story>If only you had more power, you could take it back, huh? \n<story>Being so weak must be frustrating～."
+            "clip_length": 250
         },
         {
             "text": "Meeh…… Meeeeeh……",
             "name": "Goat King",
             "path_id": -5843041252796694138,
             "block_id": 37,
-            "clip_length": 134,
-            "processed": "<story>Meeh…… Meeeeeh……"
+            "clip_length": 134
         },
         {
             "text": "Meeeeeeeeeeeeh!!!!",
             "name": "Goat King",
             "path_id": -2041686180030547783,
             "block_id": 38,
-            "clip_length": 89,
-            "processed": "<story>Meeeeeeeeeeeeh!!!!"
+            "clip_length": 89
         },
         {
             "text": "Uooh!? That goat is climbing the cliff!",
             "name": "Visitor C",
             "path_id": -4025979799920061573,
             "block_id": 39,
-            "clip_length": 104,
-            "processed": "<story>Uooh!? That goat is climbing the cliff!"
+            "clip_length": 104
         },
         {
             "text": "Doing that so suddenly, is he okay?!",
             "name": "Visitor A",
             "path_id": -3345433655754108637,
             "block_id": 40,
-            "clip_length": 87,
-            "processed": "<story>Doing that so suddenly, is he okay?!"
+            "clip_length": 87
         },
         {
             "text": "Wha-!? He's actually climbing…… Ahem! \nWhat amazing leg strength you have!",
             "name": "Shinko Windy",
             "path_id": 4034740175450684096,
             "block_id": 41,
-            "clip_length": 253,
-            "processed": "<story>Wha-!? He's actually climbing…… Ahem! \n<story>What amazing leg strength you have!"
+            "clip_length": 253
         },
         {
             "text": "Hmmm, I'll let you join Windy-chan's gang! \nHere's your reward!",
             "name": "Shinko Windy",
             "path_id": -2426618657664524041,
             "block_id": 42,
-            "clip_length": 229,
-            "processed": "<story>Hmmm, I'll let you join Windy-chan's gang! \n<story>Here's your reward!"
+            "clip_length": 229
         },
         {
             "text": "――The Goat King is amazing! \n――Windy-chan, you knew this was going to happen?",
             "name": "Visitors",
             "path_id": 3020821182553231519,
             "block_id": 43,
-            "clip_length": 103,
-            "processed": "<story>――The Goat King is amazing! \n<story>――Windy-chan, you knew this was going to happen?"
+            "clip_length": 103
         },
         {
             "text": "――That was fun! \n――Do it again!",
             "name": "Visitors",
             "path_id": 8041390320554431736,
             "block_id": 44,
-            "clip_length": 69,
-            "processed": "<story>――That was fun! \n<story>――Do it again!"
+            "clip_length": 69
         },
         {
             "text": "Again, you say!? \nWahahaha! Guess it can't be helped～!",
             "name": "Shinko Windy",
             "path_id": 5948696551645160052,
             "block_id": 45,
-            "clip_length": 203,
-            "processed": "<story>Again, you say!? \n<story>Wahahaha! Guess it can't be helped～!"
+            "clip_length": 203
         },
         {
             "text": "Next I'll show you Windy-chan's power! \nGoat King, show them something even more amazing!",
             "name": "Shinko Windy",
             "path_id": -5892357048353160132,
             "block_id": 46,
-            "clip_length": 248,
-            "processed": "<story>Next I'll show you Windy-chan's power! \n<story>Goat King, show them something even more amazing!"
+            "clip_length": 248
         },
         {
             "text": "Meeeeeh! Meeeeeh!",
             "name": "Goat King",
             "path_id": -4901291157439387187,
             "block_id": 47,
-            "clip_length": 105,
-            "processed": "<story>Meeeeeh! Meeeeeh!"
+            "clip_length": 105
         },
         {
             "text": "Kuuu～～～～～! \nThat felt real good, huhーー!!",
             "name": "Shinko Windy",
             "path_id": 5436790585987611205,
             "block_id": 48,
-            "clip_length": 194,
-            "processed": "<story>Kuuu～～～～～! \n<story>That felt real good, huhーー!!"
+            "clip_length": 194
         },
         {
             "text": "Really, thank you very much! \nThe Goat King was able to get more visitors, and he seemed happy!",
@@ -431,56 +383,49 @@
                     "text": "Glad we could help",
                     "hash": "34a039605937f422a2290a0d88d6bd652a872eba15a8abb93675c8309e04e3c6"
                 }
-            ],
-            "processed": "<story>Really, thank you very much! \n<story>The Goat King was able to get more visitors, and he seemed happy!"
+            ]
         },
         {
             "text": "See ya later, Goat King! \nYou've finally got your chance, make the best of it!",
             "name": "Shinko Windy",
             "path_id": -7711261085159607209,
             "block_id": 50,
-            "clip_length": 201,
-            "processed": "<story>See ya later, Goat King! \n<story>You've finally got your chance, make the best of it!"
+            "clip_length": 201
         },
         {
             "text": "We left the zoo and made our way back to the school. On the way \nback, Shinko Windy would occasionally look up at the sky.",
             "name": "",
             "path_id": -9091944893884210630,
             "block_id": 51,
-            "clip_length": 106,
-            "processed": "<story>We left the zoo and made our way back to the school. On the way \n<story>back, Shinko Windy would occasionally look up at the sky."
+            "clip_length": 106
         },
         {
             "text": "……It seems like everyone came, huh?",
             "name": "Shinko Windy",
             "path_id": 8831577702061612783,
             "block_id": 52,
-            "clip_length": 137,
-            "processed": "<story>……It seems like everyone came, huh?"
+            "clip_length": 137
         },
         {
             "text": "Windy-chan was amazing…… But that's a given. \nThat's how it is normally. ……But……",
             "name": "Shinko Windy",
             "path_id": -4406197659921892997,
             "block_id": 53,
-            "clip_length": 299,
-            "processed": "<story>Windy-chan was amazing…… But that's a given. \n<story>That's how it is normally. ……But……"
+            "clip_length": 299
         },
         {
             "text": "……pranks, huh.",
             "name": "Shinko Windy",
             "path_id": 7136277348444065895,
             "block_id": 54,
-            "clip_length": 125,
-            "processed": "<story>……pranks, huh."
+            "clip_length": 125
         },
         {
             "text": "Seeing her profile in the sunset, \nshe seemed more mature than usual.",
             "name": "",
             "path_id": -5234117903070323201,
             "block_id": 55,
-            "clip_length": 93,
-            "processed": "<story>Seeing her profile in the sunset, \n<story>she seemed more mature than usual."
+            "clip_length": 93
         }
     ],
     "title": "A Spectacle Made To Order!"

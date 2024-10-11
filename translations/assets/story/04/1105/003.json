@@ -16,16 +16,14 @@
             "name": "Neo Universe",
             "path_id": -7429150084168980695,
             "block_id": 1,
-            "clip_length": 274,
-            "processed": "<story>Haa, haa…… \n<story>All trace of \"Pursuers\"――Lost."
+            "clip_length": 274
         },
         {
             "text": "Neo Universe wants to be recognized. \nHow will you――\"Interact\" with 『Me』?",
             "name": "Neo Universe",
             "path_id": -5857126043614451297,
             "block_id": 2,
-            "clip_length": 308,
-            "processed": "<story>Neo Universe wants to be recognized. \n<story>How will you――\"Interact\" with 『Me』?"
+            "clip_length": 308
         },
         {
             "text": "I'm not even sure what it is I want to do. \nBut, at the very least, I wanted Neo Universe to understand me.",
@@ -44,40 +42,35 @@
                     "hash": "a3d7a3d19c9471014d89a2f23c0eca3c12d21599deed4051cc640ad0f71c7a8d",
                     "processed": "<size=38>Who are you, and what do you want to do?</size>"
                 }
-            ],
-            "processed": "<story>I'm not even sure what it is I want to do. \n<story>But, at the very least, I wanted Neo Universe to understand me."
+            ]
         },
         {
             "text": "If I didn't know at least that much, then I \ncouldn't help her. Even if she wouldn't reveal her \ntrue identity, I wanted to at least know her goal.",
             "name": "",
             "path_id": -5239345127128776805,
             "block_id": 4,
-            "clip_length": 107,
-            "processed": "<story>If I didn't know at least that much, then I \n<story>couldn't help her. Even if she wouldn't reveal her \n<story>true identity, I wanted to at least know her goal."
+            "clip_length": 107
         },
         {
             "text": "What do I……want to do……? \nNeo Universe wants――to \"Actualize\".",
             "name": "Neo Universe",
             "path_id": -1344497340117115004,
             "block_id": 5,
-            "clip_length": 279,
-            "processed": "<story>What do I……want to do……? \n<story>Neo Universe wants――to \"Actualize\"."
+            "clip_length": 279
         },
         {
             "text": "To do that, I must understand myself……and then――\"Emulate\"?",
             "name": "Neo Universe",
             "path_id": 7358487288120561467,
             "block_id": 6,
-            "clip_length": 241,
-            "processed": "<story>To do that, I must understand myself……and then――\"Emulate\"?"
+            "clip_length": 241
         },
         {
             "text": "……It seemed like there was something she wanted to do, but I had \nno clue what she meant. Was it difficult to put in to words?",
             "name": "",
             "path_id": 8610126269475334570,
             "block_id": 7,
-            "clip_length": 112,
-            "processed": "<story>……It seemed like there was something she wanted to do, but I had \n<story>no clue what she meant. Was it difficult to put in to words?"
+            "clip_length": 112
         },
         {
             "text": "First, I'd like to――\"Converse\" with you.",
@@ -90,24 +83,21 @@
                     "text": "……Got it.",
                     "hash": "8770d1aee1037fa50a1c1ea6decb3e4aa5fe341f97bf1e3a263c2d9ed5317ddb"
                 }
-            ],
-            "processed": "<story>First, I'd like to――\"Converse\" with you."
+            ]
         },
         {
             "text": "At the very least, I understood those words. \nNeo Universe was seeking an interaction between us.",
             "name": "",
             "path_id": 3048567952644684746,
             "block_id": 9,
-            "clip_length": 97,
-            "processed": "<story>At the very least, I understood those words. \n<story>Neo Universe was seeking an interaction between us."
+            "clip_length": 97
         },
         {
             "text": "Which meant……we would have to understand each \nother. I decided to take her to see places she \nprobably had never seen outside of school.",
             "name": "",
             "path_id": -610063069624155381,
             "block_id": 10,
-            "clip_length": 120,
-            "processed": "<story>Which meant……we would have to understand each \n<story>other. I decided to take her to see places she \n<story>probably had never seen outside of school."
+            "clip_length": 120
         },
         {
             "text": "First, to a Ramen shop.",
@@ -120,32 +110,28 @@
                     "text": "This is Tonkotsu Ramen",
                     "hash": "7336cf9c73d6d8fc9f3d8168874757c714d39158ab84f2e373fc4ba3d8d4be8e"
                 }
-            ],
-            "processed": "<story>First, to a Ramen shop."
+            ]
         },
         {
             "text": "To・Kotsu……Rameeen……Raaamen……",
             "name": "Neo Universe",
             "path_id": -3878113385242163062,
             "block_id": 12,
-            "clip_length": 233,
-            "processed": "<story>To・Kotsu……Rameeen……Raaamen……"
+            "clip_length": 233
         },
         {
             "text": "So it's……『Food』. \nI've never had it before, but……",
             "name": "Neo Universe",
             "path_id": 5033224494296648909,
             "block_id": 13,
-            "clip_length": 214,
-            "processed": "<story>So it's……『Food』. \n<story>I've never had it before, but……"
+            "clip_length": 214
         },
         {
             "text": "It seemed like the concept of food was something she was \nfamiliar with. After starting with the basics, next was……",
             "name": "",
             "path_id": -4787054450495571674,
             "block_id": 14,
-            "clip_length": 90,
-            "processed": "<story>It seemed like the concept of food was something she was \n<story>familiar with. After starting with the basics, next was……"
+            "clip_length": 90
         },
         {
             "text": "This is……a \"Sanctuary\"?",
@@ -162,16 +148,14 @@
                     "text": "Right, it's a zoo",
                     "hash": "5e29518c2dcac1d45b94eef3dc07d33219dc613dffbfe3e909a49d65a33ec81d"
                 }
-            ],
-            "processed": "<story>This is……a \"Sanctuary\"?"
+            ]
         },
         {
             "text": "A place to observe――various creatures――",
             "name": "Neo Universe",
             "path_id": 8230217924570335197,
             "block_id": 16,
-            "clip_length": 152,
-            "processed": "<story>A place to observe――various creatures――"
+            "clip_length": 152
         },
         {
             "text": "When seeing 『Cute』, Neo Universe \nfeels bliss……In other words, 『Excited』.",
@@ -188,24 +172,21 @@
                     "text": "You like animals, huh?",
                     "hash": "8f05ef95eed3b1224a5ca8a37a71a9f1ddf48679c05f37247a6665f973838b22"
                 }
-            ],
-            "processed": "<story>When seeing 『Cute』, Neo Universe \n<story>feels bliss……In other words, 『Excited』."
+            ]
         },
         {
             "text": "Affirmative. ――[Like].",
             "name": "Neo Universe",
             "path_id": -6772941482452954493,
             "block_id": 18,
-            "clip_length": 113,
-            "processed": "<story>Affirmative. ――[Like]."
+            "clip_length": 113
         },
         {
             "text": "Seems like we were gradually beginning to understand each other. \nShe was even able to show me something like a slight smile.",
             "name": "",
             "path_id": -1216885347402470199,
             "block_id": 19,
-            "clip_length": 97,
-            "processed": "<story>Seems like we were gradually beginning to understand each other. \n<story>She was even able to show me something like a slight smile."
+            "clip_length": 97
         },
         {
             "text": "Today……『Fun』 was experienced.",
@@ -222,16 +203,14 @@
                     "text": "Yeah, me too",
                     "hash": "fa48352986d2366c954254e591a0af1c6961845884b448ce73ac7717418cb96e"
                 }
-            ],
-            "processed": "<story>Today……『Fun』 was experienced."
+            ]
         },
         {
             "text": "I was able to make more progress than I expected. \nHer words have become easier to understand, so now……",
             "name": "",
             "path_id": -941073531437632401,
             "block_id": 21,
-            "clip_length": 93,
-            "processed": "<story>I was able to make more progress than I expected. \n<story>Her words have become easier to understand, so now……"
+            "clip_length": 93
         },
         {
             "text": "Maybe I could get a clearer answer about \nwhat she was, and what she wanted to do.",
@@ -248,40 +227,35 @@
                     "text": "Neo Universe, um……you……",
                     "hash": "eb230ecb01a1e6a7b050bbe234e45a7c6abe94bef351c3fae85d0cbc5dc7b002"
                 }
-            ],
-            "processed": "<story>Maybe I could get a clearer answer about \n<story>what she was, and what she wanted to do."
+            ]
         },
         {
             "text": "Excuse me, Uni-san? You're Uni-san right?!",
             "name": "???",
             "path_id": -4011825600185768841,
             "block_id": 23,
-            "clip_length": 149,
-            "processed": "<story>Excuse me, Uni-san? You're Uni-san right?!"
+            "clip_length": 149
         },
         {
             "text": "At that moment, another Uma Musume came running up to us.",
             "name": "",
             "path_id": 6798155667718913157,
             "block_id": 24,
-            "clip_length": 111,
-            "processed": "<story>At that moment, another Uma Musume came running up to us."
+            "clip_length": 111
         },
         {
             "text": "I thought so! I happened to see you running earlier. \nIt's me, Zenno Rob Roy. The librarian.",
             "name": "Zenno Rob Roy",
             "path_id": 5740208854225683097,
             "block_id": 25,
-            "clip_length": 321,
-            "processed": "<story>I thought so! I happened to see you running earlier. \n<story>It's me, Zenno Rob Roy. The librarian."
+            "clip_length": 321
         },
         {
             "text": "Zenno……Rob Roy……",
             "name": "Neo Universe",
             "path_id": 38823344799173257,
             "block_id": 26,
-            "clip_length": 85,
-            "processed": "<story>Zenno……Rob Roy……"
+            "clip_length": 85
         },
         {
             "text": "I'm \"Familiar\"……with that existence. \nI'm indebted to you, it seems.",
@@ -298,16 +272,14 @@
                     "text": "You know Neo Universe?",
                     "hash": "240186382b92f9a44dea4e1439c66a0716706e9ac052c2de418383b706edd446"
                 }
-            ],
-            "processed": "<story>I'm \"Familiar\"……with that existence. \n<story>I'm indebted to you, it seems."
+            ]
         },
         {
             "text": "Yes, of course! \nAfter all, Uni-san is……",
             "name": "Zenno Rob Roy",
             "path_id": -3951312770823979886,
             "block_id": 28,
-            "clip_length": 143,
-            "processed": "<story>Yes, of course! \n<story>After all, Uni-san is……"
+            "clip_length": 143
         },
         {
             "text": "A student at Tracen Academy, after all!",
@@ -320,8 +292,7 @@
                     "text": "A student……at Tracen?",
                     "hash": "0cbda409cb7efd00572880a17d62acb71594ec94d749ba0d1c7f63de7b6a5e23"
                 }
-            ],
-            "processed": "<story>A student at Tracen Academy, after all!"
+            ]
         },
         {
             "text": "I finally got my first bit of information about \nthis mysterious girl in front of me. Neo Universe \nwas an Uma Musume from Tracen Academy……",
@@ -335,32 +306,28 @@
                     "hash": "5323ca57eebb0ce658a1de9af7804ae95331102c44ee11bf80bc03c1030f680d",
                     "processed": "<size=38>I've never seen her wearing the uniform……</size>"
                 }
-            ],
-            "processed": "<story>I finally got my first bit of information about \n<story>this mysterious girl in front of me. Neo Universe \n<story>was an Uma Musume from Tracen Academy……"
+            ]
         },
         {
             "text": "Uniform……",
             "name": "Neo Universe",
             "path_id": 3430172704358806722,
             "block_id": 31,
-            "clip_length": 55,
-            "processed": "<story>Uniform……"
+            "clip_length": 55
         },
         {
             "text": "This is also……in my \"possession\"……",
             "name": "Neo Universe",
             "path_id": 5219501703632315071,
             "block_id": 32,
-            "clip_length": 65,
-            "processed": "<story>This is also……in my \"possession\"……"
+            "clip_length": 65
         },
         {
             "text": "Seeing her like that, I was convinced. In the end, \nNeo Universe was just an ordinary Tracen Academy student……",
             "name": "",
             "path_id": 4941486906432599713,
             "block_id": 33,
-            "clip_length": 99,
-            "processed": "<story>Seeing her like that, I was convinced. In the end, \n<story>Neo Universe was just an ordinary Tracen Academy student……"
+            "clip_length": 99
         },
         {
             "text": "No, she wasn't ordinary. Her behavior was too eccentric for that. \nJust what kind of Uma Musume was she?",
@@ -374,96 +341,84 @@
                     "hash": "8c24a48162dce17dfbdb577d1e8b2cbda65a7809ed42297593541e60032737e3",
                     "processed": "<size=38>Rob Roy, do you know anything about her?</size>"
                 }
-            ],
-            "processed": "<story>No, she wasn't ordinary. Her behavior was too eccentric for that. \n<story>Just what kind of Uma Musume was she?"
+            ]
         },
         {
             "text": "About Uni-san is it? \nYes, Uni-san is……",
             "name": "Zenno Rob Roy",
             "path_id": 4214615854600495317,
             "block_id": 35,
-            "clip_length": 158,
-            "processed": "<story>About Uni-san is it? \n<story>Yes, Uni-san is……"
+            "clip_length": 158
         },
         {
             "text": "A slightly mysterious Uma Musume……She uses a lot of difficult \nwords……so in class, she ends up alone a lot of the time.",
             "name": "Zenno Rob Roy",
             "path_id": 2097954309311511595,
             "block_id": 36,
-            "clip_length": 340,
-            "processed": "<story>A slightly mysterious Uma Musume……She uses a lot of difficult \n<story>words……so in class, she ends up alone a lot of the time."
+            "clip_length": 340
         },
         {
             "text": "But……I've spoken to her on several occasions. Since I'm the \nlibrarian, and Uni-san spends a lot of time in the library.",
             "name": "Zenno Rob Roy",
             "path_id": 6140235027148505205,
             "block_id": 37,
-            "clip_length": 366,
-            "processed": "<story>But……I've spoken to her on several occasions. Since I'm the \n<story>librarian, and Uni-san spends a lot of time in the library."
+            "clip_length": 366
         },
         {
             "text": "Uni-san……Umm. I've spoken with you a lot, but today was \nthe first time I've seen you run. How should I say it……?",
             "name": "Zenno Rob Roy",
             "path_id": -8165332737273744901,
             "block_id": 38,
-            "clip_length": 438,
-            "processed": "<story>Uni-san……Umm. I've spoken with you a lot, but today was \n<story>the first time I've seen you run. How should I say it……?"
+            "clip_length": 438
         },
         {
             "text": "It was a……spectacular run! It's a different kind \nof run than the hero I admire, but it displayed \na high level of awareness! I guess you could say.",
             "name": "Zenno Rob Roy",
             "path_id": 2713558728889058768,
             "block_id": 39,
-            "clip_length": 343,
-            "processed": "<story>It was a……spectacular run! It's a different kind \n<story>of run than the hero I admire, but it displayed \n<story>a high level of awareness! I guess you could say."
+            "clip_length": 343
         },
         {
             "text": "Especially……that spurt on the last straight! \nIt was wonderful. Slipping through that gap without \nhesitation. It was almost like you disappeared……!",
             "name": "Zenno Rob Roy",
             "path_id": 7821705701537498520,
             "block_id": 40,
-            "clip_length": 297,
-            "processed": "<story>Especially……that spurt on the last straight! \n<story>It was wonderful. Slipping through that gap without \n<story>hesitation. It was almost like you disappeared……!"
+            "clip_length": 297
         },
         {
             "text": "It was like she disappeared. Which means, as expected, \nshe didn't actually disappear. Which means……",
             "name": "",
             "path_id": 6337225891826777484,
             "block_id": 41,
-            "clip_length": 105,
-            "processed": "<story>It was like she disappeared. Which means, as expected, \n<story>she didn't actually disappear. Which means……"
+            "clip_length": 105
         },
         {
             "text": "Neo Universe was just an Uma Musume with a slightly peculiar \npersonality. I guess I was just overthinking things.",
             "name": "",
             "path_id": 7477249944232027745,
             "block_id": 42,
-            "clip_length": 111,
-            "processed": "<story>Neo Universe was just an Uma Musume with a slightly peculiar \n<story>personality. I guess I was just overthinking things."
+            "clip_length": 111
         },
         {
             "text": "……………………",
             "name": "Neo Universe",
             "path_id": -7162131085317156060,
             "block_id": 43,
-            "clip_length": 107,
-            "processed": "<story>……………………"
+            "clip_length": 107
         },
         {
             "text": "But, there were still several other things that \nwere on my mind. I still didn't know what Neo \nUniverse wanted to do. And on top of that――",
             "name": "",
             "path_id": -5615018852495199477,
             "block_id": 44,
-            "clip_length": 123,
-            "processed": "<story>But, there were still several other things that \n<story>were on my mind. I still didn't know what Neo \n<story>Universe wanted to do. And on top of that――"
+            "clip_length": 123
         },
         {
             "text": "That day――that encounter on the roof. If she hadn't come \nfrom the sky, just how did she get on the locked roof?",
             "name": "",
             "path_id": -328085152817452356,
             "block_id": 45,
-            "clip_length": 110,
-            "processed": "<story>That day――that encounter on the roof. If she hadn't come \n<story>from the sky, just how did she get on the locked roof?"
+            "clip_length": 110
         },
         {
             "text": "Trainer-san, is something wrong?",
@@ -482,8 +437,7 @@
                     "hash": "2127cca13a0a2d350d0a328975f3a0f53256b0771b2d90ea836fb70e151b66ed",
                     "processed": "<size=37>There was one thing I was curious about……</size>"
                 }
-            ],
-            "processed": "<story>Trainer-san, is something wrong?"
+            ]
         },
         {
             "text": "But maybe this topic was……better to \ndiscuss in private between the two of us.",
@@ -502,24 +456,21 @@
                     "hash": "affa6527d4ad63460da13fd014ebe88f16868425092790e233902eca4af8a4aa",
                     "processed": "<size=43>Neo Universe, can you come with me?</size>"
                 }
-            ],
-            "processed": "<story>But maybe this topic was……better to \n<story>discuss in private between the two of us."
+            ]
         },
         {
             "text": "After parting ways with Zenno Rob Roy, \nthe two of us headed towards a particular place.",
             "name": "",
             "path_id": 6170552080433206454,
             "block_id": 48,
-            "clip_length": 88,
-            "processed": "<story>After parting ways with Zenno Rob Roy, \n<story>the two of us headed towards a particular place."
+            "clip_length": 88
         },
         {
             "text": "――The roof at night. \nThe place I had made first contact with Neo Universe.",
             "name": "",
             "path_id": -5237022949845181681,
             "block_id": 49,
-            "clip_length": 80,
-            "processed": "<story>――The roof at night. \n<story>The place I had made first contact with Neo Universe."
+            "clip_length": 80
         },
         {
             "text": "That day, how did Neo Universe get on to the roof?",
@@ -533,16 +484,14 @@
                     "hash": "092ac6b4b24224234e0077f2c75781c92c97b045b99209b7bdc61eb56fa9d86a",
                     "processed": "<size=43>The door should have been locked……</size>"
                 }
-            ],
-            "processed": "<story>That day, how did Neo Universe get on to the roof?"
+            ]
         },
         {
             "text": "……………………",
             "name": "Neo Universe",
             "path_id": -7084411925115936319,
             "block_id": 51,
-            "clip_length": 126,
-            "processed": "<story>……………………"
+            "clip_length": 126
         },
         {
             "text": "……\"MUTX\".",
@@ -555,16 +504,14 @@
                     "text": "……?",
                     "hash": "fea14373030f77fe59b8e828b607a745b9576347d4420757e783504fbaf52ab2"
                 }
-            ],
-            "processed": "<story>……\"MUTX\"."
+            ]
         },
         {
             "text": "……it was \"MUTX\". \nNeo Universe's……first……",
             "name": "Neo Universe",
             "path_id": -6970434242778793370,
             "block_id": 53,
-            "clip_length": 268,
-            "processed": "<story>……it was \"MUTX\". \n<story>Neo Universe's……first……"
+            "clip_length": 268
         },
         {
             "text": "Another fragmented word. But I was somehow able to \nfigure it out. Perhaps, on that day, Neo Universe was……",
@@ -583,32 +530,28 @@
                     "hash": "3886ee315691ff2fcd6d26f0fe29eb4a533d7c54c0e2b520cf76f1dd5b691da3",
                     "processed": "<size=43>Were you……here with someone else?</size>"
                 }
-            ],
-            "processed": "<story>Another fragmented word. But I was somehow able to \n<story>figure it out. Perhaps, on that day, Neo Universe was……"
+            ]
         },
         {
             "text": "……………………",
             "name": "Neo Universe",
             "path_id": 3368297578747258275,
             "block_id": 55,
-            "clip_length": 115,
-            "processed": "<story>……………………"
+            "clip_length": 115
         },
         {
             "text": "Seems like that was the case. Even if Neo Universe herself \ncouldn't unlock the door, there were plenty of people that could.",
             "name": "",
             "path_id": -6041794074616098042,
             "block_id": 56,
-            "clip_length": 106,
-            "processed": "<story>Seems like that was the case. Even if Neo Universe herself \n<story>couldn't unlock the door, there were plenty of people that could."
+            "clip_length": 106
         },
         {
             "text": "Right, for example……",
             "name": "",
             "path_id": 75634506720548810,
             "block_id": 57,
-            "clip_length": 56,
-            "processed": "<story>Right, for example……"
+            "clip_length": 56
         }
     ],
     "title": "Communication Log 3 - \"Starlit Exchange, And Fun\""

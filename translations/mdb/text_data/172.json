@@ -3900,51 +3900,51 @@
         "hash": "efe49b274bde405621b0e9c7368f514afbea6c8b4b37b9d8eb158114503a8a7d"
     },
     "2032001": {
-        "text": "Obtain [目にも留まらず] skill hint.",
+        "text": "Obtain [Not Even a Glimpse] skill hint.",
         "hash": "2310fee0c38a9c5b513ae4c1575d8f15702c7d151fc6667e1659ff1602682df2"
     },
     "2032002": {
-        "text": "Obtain [目にも留まらず] skill hint.",
+        "text": "Obtain [Not Even a Glimpse] skill hint.",
         "hash": "2310fee0c38a9c5b513ae4c1575d8f15702c7d151fc6667e1659ff1602682df2"
     },
     "2032003": {
-        "text": "Obtain [目にも留まらず] skill hint.",
+        "text": "Obtain [Not Even a Glimpse] skill hint.",
         "hash": "2310fee0c38a9c5b513ae4c1575d8f15702c7d151fc6667e1659ff1602682df2"
     },
     "2032101": {
-        "text": "Obtain [気の向くままに] skill hint.",
+        "text": "Obtain [Free-Spirited] skill hint.",
         "hash": "7e87b174dec37fc6e3a73f16d3187348247ff46add74056a8442027e4ec106da"
     },
     "2032102": {
-        "text": "Obtain [気の向くままに] skill hint.",
+        "text": "Obtain [Free-Spirited] skill hint.",
         "hash": "7e87b174dec37fc6e3a73f16d3187348247ff46add74056a8442027e4ec106da"
     },
     "2032103": {
-        "text": "Obtain [気の向くままに] skill hint.",
+        "text": "Obtain [Free-Spirited] skill hint.",
         "hash": "7e87b174dec37fc6e3a73f16d3187348247ff46add74056a8442027e4ec106da"
     },
     "2032201": {
-        "text": "Obtain [アグレッシブ] skill hint.",
+        "text": "Obtain [Aggressive] skill hint.",
         "hash": "9f02f2824ecb9ac37c50a8906a7c14d366f40027df941a49b3fa99d6120f2e52"
     },
     "2032202": {
-        "text": "Obtain [アグレッシブ] skill hint.",
+        "text": "Obtain [Aggressive] skill hint.",
         "hash": "9f02f2824ecb9ac37c50a8906a7c14d366f40027df941a49b3fa99d6120f2e52"
     },
     "2032203": {
-        "text": "Obtain [アグレッシブ] skill hint.",
+        "text": "Obtain [Aggressive] skill hint.",
         "hash": "9f02f2824ecb9ac37c50a8906a7c14d366f40027df941a49b3fa99d6120f2e52"
     },
     "2032301": {
-        "text": "Obtain [逸る足取り] skill hint.",
+        "text": "Obtain [Restless Step] skill hint.",
         "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
     },
     "2032302": {
-        "text": "Obtain [逸る足取り] skill hint.",
+        "text": "Obtain [Restless Step] skill hint.",
         "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
     },
     "2032303": {
-        "text": "Obtain [逸る足取り] skill hint.",
+        "text": "Obtain [Restless Step] skill hint.",
         "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
     },
     "2100101": {
@@ -6850,5 +6850,17 @@
     "11210103": {
         "text": "Increases Speed Cap and Power Cap.\\nObtain [Lame de Vent] skill hint.",
         "hash": "fe433702bf9df59daf5d5713aa3e4df504bb9f776e3a676f32ceecdd49115b3e"
+    },
+    "11240101": {
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "hash": "155f7b93b653ae35845a839dc9ad6ba307f60cf91e470132b8f61cc24e30d5a5"
+    },
+    "11240102": {
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "hash": "155f7b93b653ae35845a839dc9ad6ba307f60cf91e470132b8f61cc24e30d5a5"
+    },
+    "11240103": {
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "hash": "155f7b93b653ae35845a839dc9ad6ba307f60cf91e470132b8f61cc24e30d5a5"
     }
 }
