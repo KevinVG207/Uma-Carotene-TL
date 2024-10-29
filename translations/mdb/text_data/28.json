@@ -2359,6 +2359,14 @@
         "text": "Champions Meet: DIRT Final",
         "hash": "3a4c5996612228b0f9b14129bba21f3e7047f348aee47e972a730e19f2b7258c"
     },
+    "600065": {
+        "text": "Champions Meeting CLASSIC",
+        "hash": "a2729d6e63a3119502590c2e31a0aa7d068b8a4483e29a37f199d9fd49578f41"
+    },
+    "600066": {
+        "text": "Champions Meeting CLASSIC Final",
+        "hash": "46c727c231463b998660a402e819979610b1cabd31941d33fa917ee423dd82c8"
+    },
     "610000": {
         "text": "Team Race: Short Distance",
         "hash": "832109a2033104f4359e1d3e65e1eb1edcfb57062912e268250fc4028c4f8b1a"
@@ -8666,5 +8674,13 @@
     "1202202": {
         "text": "Kikka Sho (HARD)",
         "hash": "b5eb9a6ccac63aac5124063809292d2c235a354d77c4bd6d76d431fc8412aff2"
+    },
+    "1202301": {
+        "text": "Japan Cup (HARD)",
+        "hash": "685dfc909409381029cae38b981fbbbc3e2453b3dcf44a0ef336537077c07fea"
+    },
+    "1202302": {
+        "text": "Japan Cup (HARD)",
+        "hash": "685dfc909409381029cae38b981fbbbc3e2453b3dcf44a0ef336537077c07fea"
     }
 }

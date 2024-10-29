@@ -3947,6 +3947,78 @@
         "text": "Obtain [Restless Step] skill hint.",
         "hash": "289de4e38baad110c3d02e5e7ecdd7b07e22a8ad5fdfc16417b1c73ee2453000"
     },
+    "2032401": {
+        "text": "Obtain [端緒] skill hint.",
+        "hash": "0da0e9b8e23fd2a255b5085a2a060ce02edb9d73b77acb54aa8baffb7f973fe7"
+    },
+    "2032402": {
+        "text": "Obtain [端緒] skill hint.",
+        "hash": "0da0e9b8e23fd2a255b5085a2a060ce02edb9d73b77acb54aa8baffb7f973fe7"
+    },
+    "2032403": {
+        "text": "Obtain [端緒] skill hint.",
+        "hash": "0da0e9b8e23fd2a255b5085a2a060ce02edb9d73b77acb54aa8baffb7f973fe7"
+    },
+    "2032501": {
+        "text": "Obtain [急襲] skill hint.",
+        "hash": "455a0482645101075e460cab47ba33ac11ea5e269ca245bb6ababe765f5ba04b"
+    },
+    "2032502": {
+        "text": "Obtain [急襲] skill hint.",
+        "hash": "455a0482645101075e460cab47ba33ac11ea5e269ca245bb6ababe765f5ba04b"
+    },
+    "2032503": {
+        "text": "Obtain [急襲] skill hint.",
+        "hash": "455a0482645101075e460cab47ba33ac11ea5e269ca245bb6ababe765f5ba04b"
+    },
+    "2032601": {
+        "text": "Obtain [覚悟を決めて] skill hint.",
+        "hash": "ffb690e33c502285f2e6b3c20dced92782b77892f209623c9791a0b8b38e9b7a"
+    },
+    "2032602": {
+        "text": "Obtain [覚悟を決めて] skill hint.",
+        "hash": "ffb690e33c502285f2e6b3c20dced92782b77892f209623c9791a0b8b38e9b7a"
+    },
+    "2032603": {
+        "text": "Obtain [覚悟を決めて] skill hint.",
+        "hash": "ffb690e33c502285f2e6b3c20dced92782b77892f209623c9791a0b8b38e9b7a"
+    },
+    "2032701": {
+        "text": "Obtain [切り込み隊長] skill hint.",
+        "hash": "2774ef51c0dc8e42c6c4f7aa0295a3319da909481b8cbefe4ddbb407329fb36d"
+    },
+    "2032702": {
+        "text": "Obtain [切り込み隊長] skill hint.",
+        "hash": "2774ef51c0dc8e42c6c4f7aa0295a3319da909481b8cbefe4ddbb407329fb36d"
+    },
+    "2032703": {
+        "text": "Obtain [切り込み隊長] skill hint.",
+        "hash": "2774ef51c0dc8e42c6c4f7aa0295a3319da909481b8cbefe4ddbb407329fb36d"
+    },
+    "2033001": {
+        "text": "Obtain [熱狂的] skill hint.",
+        "hash": "fbb94b03d8312fc3d0d25910dd73eead90f3ff400870b0eb336380bd8e369a9e"
+    },
+    "2033002": {
+        "text": "Obtain [熱狂的] skill hint.",
+        "hash": "fbb94b03d8312fc3d0d25910dd73eead90f3ff400870b0eb336380bd8e369a9e"
+    },
+    "2033003": {
+        "text": "Obtain [熱狂的] skill hint.",
+        "hash": "fbb94b03d8312fc3d0d25910dd73eead90f3ff400870b0eb336380bd8e369a9e"
+    },
+    "2033101": {
+        "text": "Obtain [光差す方へ] skill hint.",
+        "hash": "e221662668f9846ac16212f11847c8535d7c9ea227dbe3efdc79f34339522b21"
+    },
+    "2033102": {
+        "text": "Obtain [光差す方へ] skill hint.",
+        "hash": "e221662668f9846ac16212f11847c8535d7c9ea227dbe3efdc79f34339522b21"
+    },
+    "2033103": {
+        "text": "Obtain [光差す方へ] skill hint.",
+        "hash": "e221662668f9846ac16212f11847c8535d7c9ea227dbe3efdc79f34339522b21"
+    },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
         "hash": "6623b38f8774d87129d1e5b37726a1d8d676804e81b2541e749eda64ef29ccce"
@@ -4319,6 +4391,18 @@
         "text": "Obtain [Forever Healthy] skill hint.",
         "hash": "adc6089ae6f7a108b2d930f7f2523f5183edeaa3ee1e7d7f3efd60f40f5bfb54"
     },
+    "2103401": {
+        "text": "Obtain [夢の再生方法] skill hint.",
+        "hash": "0328d80a5a9aed6a6abbc1c37afcf3870ffa2afdfff85d1cd3136f2594b27623"
+    },
+    "2103402": {
+        "text": "Obtain [夢の再生方法] skill hint.",
+        "hash": "0328d80a5a9aed6a6abbc1c37afcf3870ffa2afdfff85d1cd3136f2594b27623"
+    },
+    "2103403": {
+        "text": "Obtain [夢の再生方法] skill hint.",
+        "hash": "0328d80a5a9aed6a6abbc1c37afcf3870ffa2afdfff85d1cd3136f2594b27623"
+    },
     "3000101": {
         "text": "Increases Speed and Stamina.",
         "hash": "2e9ac25b539f79b7e378f4138d9b640c195c9333ee9a6957c1d1141c1ae47200"
@@ -4614,6 +4698,66 @@
     "3102003": {
         "text": "Obtain [Essence of Food] skill hint.",
         "hash": "11b204ff3aa70c26afdbf3f19e162836dae30590f91cd88d3c9b9be75c33bc16"
+    },
+    "3102101": {
+        "text": "Increases Speed and Skill Points.",
+        "hash": "3c5b949e96840c86517c9c338d9d269b3502c628449765243d0f4a69511321c0"
+    },
+    "3102102": {
+        "text": "Increases Speed and Skill Points.",
+        "hash": "3c5b949e96840c86517c9c338d9d269b3502c628449765243d0f4a69511321c0"
+    },
+    "3102103": {
+        "text": "Increases Speed and Skill Points.",
+        "hash": "3c5b949e96840c86517c9c338d9d269b3502c628449765243d0f4a69511321c0"
+    },
+    "3102201": {
+        "text": "Increases Stamina and Skill Points.",
+        "hash": "732b3e941a0f4be218601cc69a7a357c0a4d4c628ab975a9b8b92c84000d4d79"
+    },
+    "3102202": {
+        "text": "Increases Stamina and Skill Points.",
+        "hash": "732b3e941a0f4be218601cc69a7a357c0a4d4c628ab975a9b8b92c84000d4d79"
+    },
+    "3102203": {
+        "text": "Increases Stamina and Skill Points.",
+        "hash": "732b3e941a0f4be218601cc69a7a357c0a4d4c628ab975a9b8b92c84000d4d79"
+    },
+    "3102301": {
+        "text": "Increases Power and Skill Points.",
+        "hash": "e1c9d053438256e25b62ca9b2995c4352227ad2afe016f74b8e974c4f4472679"
+    },
+    "3102302": {
+        "text": "Increases Power and Skill Points.",
+        "hash": "e1c9d053438256e25b62ca9b2995c4352227ad2afe016f74b8e974c4f4472679"
+    },
+    "3102303": {
+        "text": "Increases Power and Skill Points.",
+        "hash": "e1c9d053438256e25b62ca9b2995c4352227ad2afe016f74b8e974c4f4472679"
+    },
+    "3102401": {
+        "text": "Increases Guts and Skill Points.",
+        "hash": "45548517f3531d391c8c184a78c3a8175003b331b69d0a5d2689fa2def386451"
+    },
+    "3102402": {
+        "text": "Increases Guts and Skill Points.",
+        "hash": "45548517f3531d391c8c184a78c3a8175003b331b69d0a5d2689fa2def386451"
+    },
+    "3102403": {
+        "text": "Increases Guts and Skill Points.",
+        "hash": "45548517f3531d391c8c184a78c3a8175003b331b69d0a5d2689fa2def386451"
+    },
+    "3102501": {
+        "text": "Increases Wit and Skill Points.",
+        "hash": "12cad38f82e40a997520ae4e9b27f2d3184f8542756d2fb9093f2c68d5a43010"
+    },
+    "3102502": {
+        "text": "Increases Wit and Skill Points.",
+        "hash": "12cad38f82e40a997520ae4e9b27f2d3184f8542756d2fb9093f2c68d5a43010"
+    },
+    "3102503": {
+        "text": "Increases Wit and Skill Points.",
+        "hash": "12cad38f82e40a997520ae4e9b27f2d3184f8542756d2fb9093f2c68d5a43010"
     },
     "4000101": {
         "text": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
@@ -5242,6 +5386,18 @@
     "10230203": {
         "text": "Increases Stamina Cap, Power Cap and Wit Cap.\\nObtain [Presents from X] skill hint.",
         "hash": "a6e9ec78562dae87512cadf39f2df6e551047b28cdaced08cc4351e459beca2a"
+    },
+    "10230301": {
+        "text": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
+        "hash": "5daa4b5b7529c0804a02b7dc2897948f2f6cf092693f485c4882bcbd956ec5da"
+    },
+    "10230302": {
+        "text": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
+        "hash": "5daa4b5b7529c0804a02b7dc2897948f2f6cf092693f485c4882bcbd956ec5da"
+    },
+    "10230303": {
+        "text": "Increases Stamina Cap, Power Cap and Guts Cap.\\nObtain [勝利ヘ至ル累積] skill hint.",
+        "hash": "5daa4b5b7529c0804a02b7dc2897948f2f6cf092693f485c4882bcbd956ec5da"
     },
     "10240101": {
         "text": "Increases Stamina Cap and Guts Cap.\\nObtain [Inspiration ☆ Landing] skill hint.",
@@ -6852,15 +7008,15 @@
         "hash": "fe433702bf9df59daf5d5713aa3e4df504bb9f776e3a676f32ceecdd49115b3e"
     },
     "11240101": {
-        "text": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
         "hash": "155f7b93b653ae35845a839dc9ad6ba307f60cf91e470132b8f61cc24e30d5a5"
     },
     "11240102": {
-        "text": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
         "hash": "155f7b93b653ae35845a839dc9ad6ba307f60cf91e470132b8f61cc24e30d5a5"
     },
     "11240103": {
-        "text": "Increases Speed Cap and Guts Cap.\\nObtain [ふくらむ夢、先駆の途] skill hint.",
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [Growing Dreams, Pioneer's Path] skill hint.",
         "hash": "155f7b93b653ae35845a839dc9ad6ba307f60cf91e470132b8f61cc24e30d5a5"
     }
 }

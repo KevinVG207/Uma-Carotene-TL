@@ -525,6 +525,11 @@
         "text": "Lame de Vent",
         "hash": "32db526647f0aa0d608dcfd8da488c01210e6f1a5b95dbd5698944033715be8c"
     },
+    "101241": {
+        "text": "Growing Dreams, Pioneer's Path",
+        "hash": "47f14e020d0bee4736c6651d57fb312d92ae786a04726617719d8ae05e38adbe",
+        "processed": "<sc=76>Growing Dreams, Pioneer's Path"
+    },
     "110011": {
         "text": "Wayakawa ♪ Marine Dive",
         "hash": "48139151053bf80fd65e4bc4e2d3a978cff7f466e63b7b866b8eb7bb5bc4aa2b",
@@ -3224,6 +3229,10 @@
         "text": "To Greater Heights",
         "hash": "8b0c5bac579764192ef6af69d6f5ff0c391c52ceaf3fb66db47d2fb8e9a35cda"
     },
+    "203131": {
+        "text": "Curtain Closer",
+        "hash": "3f4ba7de34b7543b3e317ae7f2964f490f659f07faa714a77d645b02138bbcfa"
+    },
     "203132": {
         "text": "Decisive Blow",
         "hash": "fbad4c052eed955c1cde9a8e172a93a445b384c7c2b3ea60912aba1857d28848"
@@ -3293,6 +3302,10 @@
     "203232": {
         "text": "Restless Step",
         "hash": "1d0f96fa27d844fa71bb849d433e0288cac43c587ccd5d78a57da6a360cfa857"
+    },
+    "203281": {
+        "text": "Unconscious Shackles",
+        "hash": "2351e9b38e51b798590d8616694672b13aea82246209b56070b04a5177f8c1b3"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -4010,6 +4023,11 @@
     "901211": {
         "text": "Lame de Vent",
         "hash": "32db526647f0aa0d608dcfd8da488c01210e6f1a5b95dbd5698944033715be8c"
+    },
+    "901241": {
+        "text": "Growing Dreams, Pioneer's Path",
+        "hash": "47f14e020d0bee4736c6651d57fb312d92ae786a04726617719d8ae05e38adbe",
+        "processed": "<sc=76>Growing Dreams, Pioneer's Path"
     },
     "910011": {
         "text": "Wayakawa ♪ Marine Dive",
@@ -6165,5 +6183,13 @@
     "112101211": {
         "text": "Olifant's Roar",
         "hash": "60d6fc0b96e24362dd832e73d7b108a3c3c3c3fd1fee19896b6ccc9f2ed37361"
+    },
+    "112401111": {
+        "text": "Champion's Composure",
+        "hash": "abf363e480e06fb3cbf3180ca6b2dd8684dd9a0303fd568646917cd4ba60bc7d"
+    },
+    "112401211": {
+        "text": "Vanguard's Limelight",
+        "hash": "037d03ea0627502331057d98975287e882e53b7fc6e08ee1cf45d4cea2e8a406"
     }
 }

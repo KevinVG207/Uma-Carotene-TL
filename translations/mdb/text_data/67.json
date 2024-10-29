@@ -1114,6 +1114,56 @@
         "hash": "cf0439e488b9d0b84c607f24c519e93ae98b226ba90ef10f458895558b140f34",
         "processed": "<rbr>Complete a training run with<br>rank UB9 or higher once."
     },
+    "303176": {
+        "text": "Complete a training run with rank UA or higher once.",
+        "hash": "dee61aa30255758922ee394307b8b3e88d6d1845c83cae2a9bf0989989ce454c",
+        "processed": "<rbr>Complete a training run with<br>rank UA or higher once."
+    },
+    "303177": {
+        "text": "Complete a training run with rank UA1 or higher once.",
+        "hash": "fd1ad5527f6ee061c7a43bbc36bd27b1f732ff07717499a79b05612166e9fc02",
+        "processed": "<rbr>Complete a training run with<br>rank UA1 or higher once."
+    },
+    "303178": {
+        "text": "Complete a training run with rank UA2 or higher once.",
+        "hash": "7d0222be90d0436463a03e9489d9a4f81727e608a673d405768d43b79e0fda1d",
+        "processed": "<rbr>Complete a training run with<br>rank UA2 or higher once."
+    },
+    "303179": {
+        "text": "Complete a training run with rank UA3 or higher once.",
+        "hash": "57985dee279d39a4df5ecc3a40e356fceb465c40ab6a550bdbab96e5a7aab5ee",
+        "processed": "<rbr>Complete a training run with<br>rank UA3 or higher once."
+    },
+    "303180": {
+        "text": "Complete a training run with rank UA4 or higher once.",
+        "hash": "508c4966c0995a5c26eb707d7a31a0493a24f73867b3400958f6f7e40f254a85",
+        "processed": "<rbr>Complete a training run with<br>rank UA4 or higher once."
+    },
+    "303181": {
+        "text": "Complete a training run with rank UA5 or higher once.",
+        "hash": "c2014c5028e5a9cd81a7889cd6194114f0a3769ea487c65b4d17d5798907aa4f",
+        "processed": "<rbr>Complete a training run with<br>rank UA5 or higher once."
+    },
+    "303182": {
+        "text": "Complete a training run with rank UA6 or higher once.",
+        "hash": "f887082f4157876617bb684c25c4da1ec35d239f460f1d814572d30c8e126259",
+        "processed": "<rbr>Complete a training run with<br>rank UA6 or higher once."
+    },
+    "303183": {
+        "text": "Complete a training run with rank UA7 or higher once.",
+        "hash": "7b08e5dc1f12a742ef64d0bc6bfea59e47dd0c4cf79083c2ae8ec71390ec150c",
+        "processed": "<rbr>Complete a training run with<br>rank UA7 or higher once."
+    },
+    "303184": {
+        "text": "Complete a training run with rank UA8 or higher once.",
+        "hash": "5370b0032910448f3f39ed3247db3049c7dea569bb8767d4dfa36b97a4b562fc",
+        "processed": "<rbr>Complete a training run with<br>rank UA8 or higher once."
+    },
+    "303185": {
+        "text": "Complete a training run with rank UA9 or higher once.",
+        "hash": "b6de05eace627be966e08150f9f1198e2c3fc6add3e49fbcab0a9b9f657f4173",
+        "processed": "<rbr>Complete a training run with<br>rank UA9 or higher once."
+    },
     "303200": {
         "text": "Get the Classics Triple Crown medal during training once.",
         "hash": "848fd67821865aafd7f76b97683ea14eb2f587bf68b7476629084e5e8a2814a3",
@@ -12824,6 +12874,11 @@
         "hash": "16b0be477cf4475ebb3920f62fcc59fb13aa0c64d2d5e29f797f7c307dcdff10",
         "processed": "<rbr>Raise the affection rank of<br>Durandal to rank 1."
     },
+    "340103": {
+        "text": "Raise the affection rank of Bubble Gum Fellow to rank 1.",
+        "hash": "41fd095cce4f0a7ae26af5844659990a410cdc29e0acf983c0462ccab322bdfe",
+        "processed": "<rbr>Raise the affection rank of<br>Bubble Gum Fellow to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -13184,6 +13239,11 @@
         "hash": "ad21eb2dc614e9a950569934e3ca84bdb98dec7a8b6d2b13395330decddf520d",
         "processed": "<rbr>Raise the affection rank of<br>Shinko Windy to rank 11."
     },
+    "341072": {
+        "text": "Raise the affection rank of Mr. C.B. to rank 11.",
+        "hash": "7df7e4fc4347d9a74a5cac0298692241674482797227b90d368d059cbbc8a2ee",
+        "processed": "<rbr>Raise the affection rank of<br>Mr. C.B. to rank 11."
+    },
     "341073": {
         "text": "Raise the affection rank of Twin Turbo to rank 11.",
         "hash": "c585bc6faf8b06260b5e3867dd5faf52f0b5d3a6a99848c91cd33f03b3acd872",
@@ -13204,6 +13264,11 @@
         "hash": "8c33c4736388d49c61d627c39c4b128541b4ab35e580fbfcd7c0671690de9d29",
         "processed": "<rbr>Raise the affection rank of<br>Sakura Laurel to rank 11."
     },
+    "341078": {
+        "text": "Raise the affection rank of Hishi Miracle to rank 11.",
+        "hash": "850d52e53ccf0c1d5ef5307f62c17f028a67dfd7f57c61a4ddcc9c122d5216ef",
+        "processed": "<rbr>Raise the affection rank of<br>Hishi Miracle to rank 11."
+    },
     "341081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 11.",
         "hash": "2134564612bcc6c6810d2fb0f8aea4acccaecdf18e99cc125620604354f1bd59",
@@ -13213,6 +13278,11 @@
         "text": "Raise the affection rank of Sirius Symboli to rank 11.",
         "hash": "17da2c4b19858e0829141ff13da89f186b2e3d307d4b54b601b3607523f7bb41",
         "processed": "<rbr>Raise the affection rank of<br>Sirius Symboli to rank 11."
+    },
+    "341083": {
+        "text": "Raise the affection rank of Narita Top Road to rank 11.",
+        "hash": "f85e37023ba3cc5796ca13ecf7ba97f99526c2fe538cab567d857ee90f421bb5",
+        "processed": "<rbr>Raise the affection rank of<br>Narita Top Road to rank 11."
     },
     "342000": {
         "text": "Raise the affection rank of Special Week to rank 12.",
@@ -13574,6 +13644,11 @@
         "hash": "87e1cf7e2f1af700a80504b6eb6eaf95c2dc48a10ba52b3835fc72f5f2725482",
         "processed": "<rbr>Raise the affection rank of<br>Shinko Windy to rank 12."
     },
+    "342072": {
+        "text": "Raise the affection rank of Mr. C.B. to rank 12.",
+        "hash": "d7db040278f2a68fc76a8f3483f86e2ab37740047dcf510b40838a51a60da74b",
+        "processed": "<rbr>Raise the affection rank of<br>Mr. C.B. to rank 12."
+    },
     "342073": {
         "text": "Raise the affection rank of Twin Turbo to rank 12.",
         "hash": "18506bebffc8322ac894174c67f9ac64f239dd457084b07e824e0e94b2b17ff2",
@@ -13594,6 +13669,11 @@
         "hash": "fdf1c09af017c489d3c95e54894c9709b1a0fe875d2cec15e93214095b224629",
         "processed": "<rbr>Raise the affection rank of<br>Sakura Laurel to rank 12."
     },
+    "342078": {
+        "text": "Raise the affection rank of Hishi Miracle to rank 12.",
+        "hash": "b95525fce860741660413064b3a69957496ea2cb22263c41b4e670dc23d6b16a",
+        "processed": "<rbr>Raise the affection rank of<br>Hishi Miracle to rank 12."
+    },
     "342081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 12.",
         "hash": "f23d368f714aeaefa90ee1ef9f1f1f971cfaf27d3465ddf3df07fd5e78927f05",
@@ -13603,6 +13683,11 @@
         "text": "Raise the affection rank of Sirius Symboli to rank 12.",
         "hash": "85a8a0f37d5afcf43d6c7871ac573b56f4949106835e3e23fcb4d9e3462d2b47",
         "processed": "<rbr>Raise the affection rank of<br>Sirius Symboli to rank 12."
+    },
+    "342083": {
+        "text": "Raise the affection rank of Narita Top Road to rank 12.",
+        "hash": "7bd54ba0dc612a2d6880d5a701d27bf6556187fe598d043226eacf8755180bcf",
+        "processed": "<rbr>Raise the affection rank of<br>Narita Top Road to rank 12."
     },
     "600101": {
         "text": "Reach team rank D.",
@@ -13913,6 +13998,26 @@
         "text": "Cook dishes a total of 100 times.",
         "hash": "70ff6d9422ae0002877a631d4e38302897060dd16a1c90f7f1279a193eac6073",
         "processed": "<rbr>Cook dishes a total of 100<br>times."
+    },
+    "600438": {
+        "text": "すべてのUpgrade ExamをA評価以上で終了しよう.",
+        "hash": "dd6dd4fbf45a17ef9487e3a91bf123bda09a0c45f805d86bedca9380a1f790df",
+        "processed": "<rbr>すべてのUpgrade<br>ExamをA評価以上で終了しよう."
+    },
+    "600439": {
+        "text": "研究Lvを累計50000Lv上昇させよう.",
+        "hash": "a1b36cc235b350a5e1e7a834c6b6567d422f2894b474350deaf09ccb04ab36a5",
+        "processed": "<rbr><br>研究Lvを累計50000Lv上昇させよう."
+    },
+    "600440": {
+        "text": "オーバードライブを累計400回発動しよう.",
+        "hash": "ec98a471e3dd705fddb19f67aef5a56fef4cca9fc96697cf2577c0a3f0e3a2f8",
+        "processed": "<rbr><br>オーバードライブを累計400回発動しよう."
+    },
+    "600441": {
+        "text": "すべてのUpgrade ExamをS評価で終了しよう.",
+        "hash": "8837966b9232bb0387827660fdf2caf55bf18d4f968de771ddcf5d7aa0d0bb3f",
+        "processed": "<rbr>すべてのUpgrade<br>ExamをS評価で終了しよう."
     },
     "600501": {
         "text": "Win races on the Sapporo Racetrack 200 times.",
@@ -14258,6 +14363,11 @@
         "text": "UMA Summerを見よう.",
         "hash": "5a2de08fb427841f450aead8462a79ea4e01c41e78511903e52f56330b76c55b",
         "processed": "<rbr>UMA Summerを見よう."
+    },
+    "600641": {
+        "text": "O - ロライズを見よう.",
+        "hash": "f4aed80691eb2c448a56b8b9eab549bbc4a375dfeabe93494be9ba0cc8df00e7",
+        "processed": "<rbr>O - ロライズを見よう."
     },
     "600690": {
         "text": "Watch a total of 10 live concerts.",
@@ -23494,6 +23604,166 @@
         "hash": "0db97c49090e4d8c925c6488e7e9ac431af3430b0784e00fd145e8d5ef0c5cfe",
         "processed": "<rbr>Clear all event missions."
     },
+    "1002108": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "82a170ea97058733de10492203b5ef633df21edea0c7a7265e8d1da4238c49af",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002109": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "765f55b176e68c33204f44e4488345bb0614e41abb786946c13dcecf0c0c4db6",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002110": {
+        "text": "Win the Sankei Sho All Comers once during training.",
+        "hash": "21789aaf17d102c945a2822d44c6325cfbe60596ecaf5c2b2c90dd46853d378b",
+        "processed": "<rbr>Win the Sankei Sho All<br>Comers once during training."
+    },
+    "1002111": {
+        "text": "Win the Mainichi Okan once during training.",
+        "hash": "86b8ea22cf04b779a81e083c00e08b42e73a02df667d51320867eaffc740aa8a",
+        "processed": "<rbr>Win the Mainichi Okan once<br>during training."
+    },
+    "1002112": {
+        "text": "Win the Kyoto Daishoten once during training.",
+        "hash": "59663d2e9df33948cd86a530d9b88172802436cc2ea20d90584accb55add14dd",
+        "processed": "<rbr>Win the Kyoto Daishoten<br>once during training."
+    },
+    "1002113": {
+        "text": "Win the Tenno Sho (Autumn) once during training.",
+        "hash": "8acd9a9c5f32c7f7d10bd1b46acba1af8a186b85eea576645dd5b7bea99ae162",
+        "processed": "<rbr>Win the Tenno Sho (Autumn)<br>once during training."
+    },
+    "1002114": {
+        "text": "Clear all event missions.",
+        "hash": "1af9701bf6c54b0056d9f6b96a3cd7486136838783a1dc0bfc13e5a11338cc68",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002115": {
+        "text": "Win the Sazanka TV Hai once during training.",
+        "hash": "7bea5003cc4f247c5092fed208f4f448c8fbdb25b76188354b43d074bd2cf588",
+        "processed": "<rbr>Win the Sazanka TV Hai once<br>during training."
+    },
+    "1002116": {
+        "text": "Win the Mile Championship Nambu Hai once during training.",
+        "hash": "0dca59c6914793a331e22ce9bd4b7cf82cc7ed8a9bb5f54b6c8defbd4841b150",
+        "processed": "<rbr><sc=91>Win the Mile Championship<br>Nambu Hai once during training."
+    },
+    "1002117": {
+        "text": "Win the JBC Classic once during training.",
+        "hash": "d79439074168db707ff7d201666b8597efe8c0e0edc806dd257451b057661127",
+        "processed": "<rbr>Win the JBC Classic once<br>during training."
+    },
+    "1002118": {
+        "text": "Win the Tokyo Hai once during training.",
+        "hash": "b240af0c8a9d05963aecf2f25f15ac623ffc36e6b8bf0c90c160403aa0143f57",
+        "processed": "<rbr>Win the Tokyo Hai once<br>during training."
+    },
+    "1002119": {
+        "text": "Win the JBC Sprint once during training.",
+        "hash": "fc4dd8647a6fa2709bc82f6d855ef812d627c82d04fc688089154a97a55d1fa1",
+        "processed": "<rbr>Win the JBC Sprint once<br>during training."
+    },
+    "1002120": {
+        "text": "Win the Ladies' Prelude once during training.",
+        "hash": "412a9a3806c68126851ae9637544d7e9d4b14195c05cd0101fa113ce7a887772",
+        "processed": "<rbr>Win the Ladies' Prelude once<br>during training."
+    },
+    "1002121": {
+        "text": "Win the JBC Ladies Classic once during training.",
+        "hash": "c04f52cac4d10bce3b68fd0ea9b02a734f3b5420884ccc658cde86cb468411e5",
+        "processed": "<rbr>Win the JBC Ladies Classic<br>once during training."
+    },
+    "1002122": {
+        "text": "Clear all event missions.",
+        "hash": "57e90e8c8047d945275ecaf44f724ef1cf388d0b1ec2220f30c0595ac5259cae",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002123": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "b303b2fbabdeffee862b181e187bae80d8cb0513ae52ba1d49d82b541f77c03d",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002124": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "471118fa73e6e828cd06f8af0ee0e094b7a01cddc5ef72fab0f4cb95f140eefc",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002125": {
+        "text": "Win the Fuchu Umamusume Stakes once during training.",
+        "hash": "897745ed8075842209942f9ed4da3fb037e37f4fcdb0bd306eaf72a65495ab6b",
+        "processed": "<rbr>Win the Fuchu Umamusume<br>Stakes once during training."
+    },
+    "1002126": {
+        "text": "Win the Queen Elizabeth Cup once during training.",
+        "hash": "9447c29f45d71ee8552f4f0e287a2fa8bb519de34ef3f65095412d7d1b91df30",
+        "processed": "<rbr>Win the Queen Elizabeth Cup<br>once during training."
+    },
+    "1002127": {
+        "text": "Clear all event missions.",
+        "hash": "f350cc6dcabb44e781126786964dad17beb292f774c830a6c38aeaa171eef8b1",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002178": {
+        "text": "Clear all event missions.",
+        "hash": "a846ac246134f4137a12323ad256b69acc7a15c693d1fe66615720fcded750c4",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002179": {
+        "text": "Complete a Run, Mecha Umamusume! training run once.",
+        "hash": "4d5eeb4cf1428b306ffddbf8f440569ed9fd0f3dd88744422ea1e641b701f924",
+        "processed": "<rbr>Complete a Run, Mecha Uma-<br>musume! training run once."
+    },
+    "1002180": {
+        "text": "Complete a Run, Mecha Umamusume! training run 3 times.",
+        "hash": "ee3ddc29a70d5d89bffec88bcfe7a54b35439286c48a7165a535f8a82d1e7ab5",
+        "processed": "<rbr><sc=98>Complete a Run, Mecha Uma-<br>musume! training run 3 times."
+    },
+    "1002181": {
+        "text": "Complete a Run, Mecha Umamusume! training run 5 times.",
+        "hash": "b375077ea99045d86b7c0e15389e361b6fc6680cf347d5d238eb1c121e26af83",
+        "processed": "<rbr><sc=98>Complete a Run, Mecha Uma-<br>musume! training run 5 times."
+    },
+    "1002182": {
+        "text": "Achieve an A rank or better in the 1st Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "2fb6ac592814e7b63762d2970ec231b0686f50dccb355485cae70d6122ab5b9e",
+        "processed": "<rbr><sc=66>Achieve an A rank or better in the 1st<br>Upgrade Exam of the \"Run, Mecha Uma-<br>musume!\" scenario."
+    },
+    "1002183": {
+        "text": "Achieve an A rank or better in the 2nd Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "4ccfcd2492394255be4498173124a3e5d60fdd9f21d7b435d5cf02ba13ee5c14",
+        "processed": "<rbr><sc=66>Achieve an A rank or better in the 2nd<br>Upgrade Exam of the \"Run, Mecha Uma-<br>musume!\" scenario."
+    },
+    "1002184": {
+        "text": "Achieve an A rank or better in the 3rd Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "af279daebc34298c579aa49b9c74400cbc9da73ba670470ece330fcff14735f9",
+        "processed": "<rbr><sc=66>Achieve an A rank or better in the 3rd<br>Upgrade Exam of the \"Run, Mecha Uma-<br>musume!\" scenario."
+    },
+    "1002185": {
+        "text": "Achieve an A rank or better in the 4th Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "2f35b3c4a6d27bfcaa05bac83209bd2203159d2321c1bafc65d2d061ace51e2a",
+        "processed": "<rbr><sc=66>Achieve an A rank or better in the 4th<br>Upgrade Exam of the \"Run, Mecha Uma-<br>musume!\" scenario."
+    },
+    "1002186": {
+        "text": "Achieve an A rank or better in the 5th Upgrade Exam of the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "6793864e618dbd3761b9a79dc42ff9393b4b08cc1baf69d53462a59f7e1dd1c7",
+        "processed": "<rbr><sc=66>Achieve an A rank or better in the 5th<br>Upgrade Exam of the \"Run, Mecha Uma-<br>musume!\" scenario."
+    },
+    "1002187": {
+        "text": "Do training while under the effects of Mecha Gear a total of 100 times in the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "ae2bb4dbf8211e5e520771050d2c53846af0eef0f52baa8409c968590509df00",
+        "processed": "<rbr><sc=66>Do training while under the effects of Mecha<br>Gear a total of 100 times in the \"Run, Mecha<br>Umamusume!\" scenario."
+    },
+    "1002188": {
+        "text": "Reach a cumulative Research Level of 5000 in the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "6126bb15072f16caad731c863c3770d7d41c66279104da2a7584beabe5cca762",
+        "processed": "<rbr><sc=67>Reach a cumulative Research Level of 5000<br>in the \"Run, Mecha Umamusume!\" scenario."
+    },
+    "1002189": {
+        "text": "Trigger Overdrive a total of 50 times in the \"Run, Mecha Umamusume!\" scenario.",
+        "hash": "b6b405b084effb94af4b890940172e3398ff858273e9146c03e27fc49affcad7",
+        "processed": "<rbr><sc=71>Trigger Overdrive a total of 50 times in<br>the \"Run, Mecha Umamusume!\" scenario."
+    },
     "2000001": {
         "text": "[Daily] Complete training 1 time",
         "hash": "b76d9fab8c33b992045cf14ed933f089225e0d718257ff5ce9dd9d8c18eaef55",
@@ -27589,6 +27859,111 @@
         "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
         "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
     },
+    "2003401": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003402": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003403": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003404": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003405": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003406": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003407": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003408": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003409": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003410": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003411": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003412": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003413": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003414": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003415": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003416": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003417": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003418": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003419": {
+        "text": "[Limited] Enter Legend Race 6 times",
+        "hash": "e418482334acc5e9e947c3c8087992bdd64a8ab2ee9102b1e8b48aba0cf28d02",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>6 times"
+    },
+    "2003420": {
+        "text": "[Limited] Enter Legend Race 9 times",
+        "hash": "9c91d6c7d9be53f8fc806aa2449748f04a113d5cd2056db5fc7dae26752fdd29",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>9 times"
+    },
+    "2003421": {
+        "text": "[Limited] Enter Legend Race 12 times",
+        "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
+    },
     "2100010": {
         "text": "[Daily] Enter Taurus Cup",
         "hash": "8c0907074facb4799ebeeed7b29c0e1951426376cf33b36990cd18bcbee355fe",
@@ -28225,6 +28600,26 @@
         "processed": "<rbr>[Daily] Enter Champions<br>Meeting"
     },
     "2100137": {
+        "text": "[Daily] Enter Champions Meeting",
+        "hash": "cca0ab4fc746ffe05784afe71178e1d7c1c7d9d9b4268d0c69265c1656670f13",
+        "processed": "<rbr>[Daily] Enter Champions<br>Meeting"
+    },
+    "2100138": {
+        "text": "[Daily] Enter Champions Meeting",
+        "hash": "cca0ab4fc746ffe05784afe71178e1d7c1c7d9d9b4268d0c69265c1656670f13",
+        "processed": "<rbr>[Daily] Enter Champions<br>Meeting"
+    },
+    "2100139": {
+        "text": "[Daily] Enter Champions Meeting",
+        "hash": "cca0ab4fc746ffe05784afe71178e1d7c1c7d9d9b4268d0c69265c1656670f13",
+        "processed": "<rbr>[Daily] Enter Champions<br>Meeting"
+    },
+    "2100140": {
+        "text": "[Daily] Enter Champions Meeting",
+        "hash": "cca0ab4fc746ffe05784afe71178e1d7c1c7d9d9b4268d0c69265c1656670f13",
+        "processed": "<rbr>[Daily] Enter Champions<br>Meeting"
+    },
+    "2100141": {
         "text": "[Daily] Enter Champions Meeting",
         "hash": "cca0ab4fc746ffe05784afe71178e1d7c1c7d9d9b4268d0c69265c1656670f13",
         "processed": "<rbr>[Daily] Enter Champions<br>Meeting"
@@ -29100,6 +29495,91 @@
         "processed": "<rbr>[Daily] Let's login"
     },
     "2200204": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200207": {
+        "text": "Receive 5 Passing grades in the Trainer's Exam",
+        "hash": "ce7c21da8094f303e2fbe929c398ee4f3365075dfdf5a26666e1d46e6a5af505",
+        "processed": "<rbr>Receive 5 Passing grades in<br>the Trainer's Exam"
+    },
+    "2200208": {
+        "text": "Receive 6 Passing grades in the Trainer's Exam",
+        "hash": "225d1c478a93a63342b528dba4f6802cac730a9123039a57b5f6b7849af42c28",
+        "processed": "<rbr>Receive 6 Passing grades in<br>the Trainer's Exam"
+    },
+    "2200210": {
+        "text": "Receive 5 Good grades in the Trainer's Exam",
+        "hash": "666ead9a3286b48c5f3b1f3fb553eb23c9d9e45cb0451a1b4415228f2176e20f",
+        "processed": "<rbr>Receive 5 Good grades in the<br>Trainer's Exam"
+    },
+    "2200211": {
+        "text": "Receive 6 Good grades in the Trainer's Exam",
+        "hash": "a5e70ddc9012c21b629886661f7fa874065ca7a4ec316eb00f9cfd9152f73f8d",
+        "processed": "<rbr>Receive 6 Good grades in the<br>Trainer's Exam"
+    },
+    "2200213": {
+        "text": "Receive 5 Excellent grades in the Trainer's Exam",
+        "hash": "bfc49c2a4cdd3c79afff362b4335a1e43cf045f73b058503e83518d525ca2eb3",
+        "processed": "<rbr>Receive 5 Excellent grades in<br>the Trainer's Exam"
+    },
+    "2200214": {
+        "text": "Receive 6 Excellent grades in the Trainer's Exam",
+        "hash": "ba3de7bd6ca80089d604d0e4e3e430858452477f11bdda304ab0d152d8e77379",
+        "processed": "<rbr>Receive 6 Excellent grades in<br>the Trainer's Exam"
+    },
+    "2200215": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200217": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200219": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200221": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200223": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200225": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200227": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200229": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200231": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200233": {
+        "text": "[Daily] Let's login",
+        "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
+        "processed": "<rbr>[Daily] Let's login"
+    },
+    "2200235": {
         "text": "[Daily] Let's login",
         "hash": "e7de368a267c625f0c2482c398d04786bc151250cafa74ea4513ec43b7cb01aa",
         "processed": "<rbr>[Daily] Let's login"
@@ -33183,6 +33663,26 @@
         "text": "Do 10 training runs ('A Patchwork's Farewell' story event).",
         "hash": "19c92190c81df65bdd3fe2e99530de90d3da04156d8e1f58c6f70edc3cc6873a",
         "processed": "<rbr><sc=98>Do 10 training runs ('A Patch-<br>work's Farewell' story event)."
+    },
+    "2600125": {
+        "text": "Do 2 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "hash": "be0e9a012e96c531dbd2c271fb909b8e48ef43ade1a2c820def2aa9f469036ff",
+        "processed": "<rbr><sc=79>Do 2 training runs ('As the Leaves<br>Rust, Feelings Blossom' story event)."
+    },
+    "2600126": {
+        "text": "Do 4 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "hash": "fca3e4227114b87cda98dfc0d37fcde5dfb49319cc6324299fc50a76d85cc7de",
+        "processed": "<rbr><sc=79>Do 4 training runs ('As the Leaves<br>Rust, Feelings Blossom' story event)."
+    },
+    "2600127": {
+        "text": "Do 7 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "hash": "3ca0717e683a0ab27c16f6eee2c7f7f509f83f2a7c73c35cc9738dd68f797283",
+        "processed": "<rbr><sc=79>Do 7 training runs ('As the Leaves<br>Rust, Feelings Blossom' story event)."
+    },
+    "2600128": {
+        "text": "Do 10 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
+        "hash": "1a9a995a88d41fa9a420e040209e94a6b35e7bd4ff63455f6e4338860c2bf64f",
+        "processed": "<rbr><sc=79>Do 10 training runs ('As the Leaves<br>Rust, Feelings Blossom' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",
