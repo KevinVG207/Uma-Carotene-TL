@@ -815,6 +815,26 @@
         "text": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
         "hash": "646d684846a68b8543080c480655af5ab5e98bcd732610ce6e904a8e6b00d9a8"
     },
+    "700": {
+        "text": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "hash": "646d684846a68b8543080c480655af5ab5e98bcd732610ce6e904a8e6b00d9a8"
+    },
+    "701": {
+        "text": "You can gain 1 Umamusume piece per day \\nfrom winning JBC Classic in training.",
+        "hash": "ce7c6f6da712642ce3d9d1b0a870ed3e360b70ec09f584b717a9d7340adf3d4f"
+    },
+    "702": {
+        "text": "You can gain 1 Umamusume piece per day \\nfrom winning JBC Sprint in training.",
+        "hash": "4fbb1004445260e98c0f4e69c44d5991979aeee110604d4147d2666737895bd5"
+    },
+    "703": {
+        "text": "You can gain 1 Umamusume piece per day \\nfrom winning JBCL Classic in training.",
+        "hash": "c5233d813923d3f4fc829ff80f0fd30a529045efcb657805a238874631e46744"
+    },
+    "704": {
+        "text": "You can gain 1 Umamusume piece per day \\nfrom winning a specific race in training.",
+        "hash": "646d684846a68b8543080c480655af5ab5e98bcd732610ce6e904a8e6b00d9a8"
+    },
     "726": {
         "text": "Get 3 extra tickets each day.",
         "hash": "63037dd2523269c070ab7e2f9061dad9a170714d983e5ccbd95aee1293915901"
@@ -854,5 +874,17 @@
     "735": {
         "text": "Gain 1 extra ticket each day",
         "hash": "385664ff9413e20602faba461b39be1368e6c6eb88a33ef714a27f1f8ab0acdc"
+    },
+    "741": {
+        "text": "Items obtained in training doubled.",
+        "hash": "1605e6b6853f56240a65a975d522a25782bcdbd9176e5efbeb666c6a168590cf"
+    },
+    "742": {
+        "text": "Training costs half the TP.",
+        "hash": "7486d562fac90d7f04e70da89b227524b34c79ce8a21b27b7570b18ddbec54cd"
+    },
+    "743": {
+        "text": "Free retries doubled.",
+        "hash": "b32fc7337e80f48c8c2cc363f88c4a51e58144955d9d9bf94d01016acfb97806"
     }
 }

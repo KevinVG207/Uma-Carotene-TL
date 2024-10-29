@@ -584,7 +584,6 @@ def backport_mdb_nested(in_path, json_folder, umafy=False):
             print(f"File {json_path} does not exist")
             continue
         carotene_list = util.load_json(json_path)
-        print(key)
 
         carotene_dict = {}
         for c_entry in carotene_list:
