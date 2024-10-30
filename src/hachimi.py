@@ -12,6 +12,7 @@ from multiprocessing import Pool
 import json
 
 HACHIMI_ROOT = "tl-en\\localized_data\\"
+HACHIMI_LIVE_ROOT = os.path.join(util.get_game_folder(), "hachimi", "localized_data")
 
 DIFF_SKIP = (
     "gacha/",
@@ -99,7 +100,6 @@ def backport_jdict():
 
 def convert_hashed():
     print("Hashed")
-    # Do this with editing version? Need to rehash
     hashed_path = util.ASSEMBLY_FOLDER_EDITING + "hashed.json"
     hashed_list = util.load_json(hashed_path)
     in_dict = {}
@@ -130,7 +130,7 @@ def convert_hashed():
 def convert_assembly():
     print("==Assembly==")
     convert_jpdict()
-    # convert_hashed()
+    convert_hashed()
 
 
 def convert_mdb_nested(json_folder: str, out_path: str):
@@ -554,8 +554,11 @@ def convert_assets():
 def copy_data():
     print("==Copying data==")
     from_folder = HACHIMI_ROOT
-    to_folder = os.path.join(util.get_game_folder(), "hachimi", "localized_data")
+    to_folder = HACHIMI_LIVE_ROOT
 
+    if os.path.exists(to_folder):
+        shutil.rmtree(to_folder)
+    
     shutil.copytree(from_folder, to_folder, dirs_exist_ok=True)
 
 
