@@ -83,7 +83,7 @@ def convert_jpdict():
 
 def backport_jdict():
     print("JPDict")
-    jpdict_path = util.ASSEMBLY_FOLDER + "jpdict.json"
+    jpdict_path = util.ASSEMBLY_FOLDER + "JPDict.json"
     jpdict = util.load_json(jpdict_path)
     
     hachimi_path = os.path.join(HACHIMI_ROOT, "localize_dict.json")
@@ -96,6 +96,22 @@ def backport_jdict():
         jpdict[key]["text"] = entry
     
     util.save_json(jpdict_path, jpdict)
+
+# def backport_hashed():
+#     print("Hashed")
+#     hashed_path = util.ASSEMBLY_FOLDER_EDITING + "hashed.json"
+#     hashed_list = util.load_json(hashed_path)
+    
+#     hachimi_path = os.path.join(HACHIMI_ROOT, "hashed_dict.json")
+#     hachimi_dict = util.load_json(hachimi_path)
+
+#     for key, entry in hachimi_dict.items():
+#         for carotene_entry in hashed_list:
+#             hash_str = str(fnv.fnv1a_64(carotene_entry["source"].encode('utf_16_le')))
+#             if hash_str == key:
+#                 carotene_entry["text"] = entry
+    
+#     util.save_json(hashed_path, hashed_list)
 
 
 def convert_hashed():
@@ -573,6 +589,7 @@ def convert():
 
 def backport_assembly():
     backport_jdict()
+    # backport_hashed()
 
 def backport_mdb_nested(in_path, json_folder, umafy=False):
     if not os.path.exists(in_path):

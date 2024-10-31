@@ -1,0 +1,182 @@
+{
+    "26": {
+        "text": "Skill Pt gain \\nfrom training <color=#ff911c>+12%</color>",
+        "hash": "64cfa4defa664ca03f32fb89dad0702a787b5844b0a9388265b15106f8ee7fb2"
+    },
+    "27": {
+        "text": "Skill Pt gain \\nfrom training <color=#ff911c>+24%</color>",
+        "hash": "1adb9437b3216267ac47b422309142373065d301537de2c6175277b60e6d7d16"
+    },
+    "28": {
+        "text": "Skill Pt gain \\nfrom training <color=#ff911c>+36%</color>",
+        "hash": "926efaf5f98e6ef7e676056a744c33353f89143bd8e9440810cad9877453a042"
+    },
+    "29": {
+        "text": "Skill Pt gain \\nfrom training <color=#ff911c>+48%</color>",
+        "hash": "861bdac86e5be96acae86fc93fb0b69f49d0f24e07705aa3bc4f6ea46cdf4b34"
+    },
+    "30": {
+        "text": "Skill Pt gain \\nfrom training <color=#ff911c>+60%</color>",
+        "hash": "1403cbcd7fe0d32ee144753f02f1cfc639e78cc736f7141818853a19d9de3639"
+    },
+    "31": {
+        "text": "<mecha=hint_00/> Hint Event rate <color=#ff911c>+15%</color>",
+        "hash": "3bf8500d3aca71989533d2aff262c16c56cd9385e2d4061dbcd94928431ee1a6"
+    },
+    "32": {
+        "text": "<mecha=hint_00/> Hint Event rate <color=#ff911c>+30%</color>",
+        "hash": "88bd757c504eb631ade5027c9d5063e3c94475cdbbc73f64d00a495e6fe7b0f5"
+    },
+    "33": {
+        "text": "<mecha=hint_00/> Hint Event rate <color=#ff911c>+45%</color>",
+        "hash": "b9054f5b6ef891d9b55ca3fa00b3d613a5e411749a5772cba15a4787b50184d7"
+    },
+    "34": {
+        "text": "<mecha=hint_00/> Hint Event rate <color=#ff911c>+60%</color>",
+        "hash": "fb6ff8c29f6f5fa3c2e8af2f3c1e83331a5eb0aaa68406979494295c863b375b"
+    },
+    "35": {
+        "text": "<mecha=hint_00/> Hint Event rate <color=#ff911c>+75%</color>",
+        "hash": "4b015754b87728965e490182584a9d4df990484eb4392f38aec04cfc183a3110"
+    },
+    "36": {
+        "text": "Specialty Rate <color=#ff911c>+15</color>",
+        "hash": "4c3fcc2950cc2afbf89c40d9e02ca8e567804d45cc03e496509588307b28c538"
+    },
+    "37": {
+        "text": "Specialty Rate <color=#ff911c>+30</color>",
+        "hash": "16e71ecccdd25ff96fd52444464945b25fdca7b54c23f1111ca066cd8bc71125"
+    },
+    "38": {
+        "text": "Specialty Rate <color=#ff911c>+45</color>",
+        "hash": "6ab55d55af785d075ab24b1fe929ced2f5e876ed126adb735b5fb8aa2b94a5c2"
+    },
+    "39": {
+        "text": "Specialty Rate <color=#ff911c>+60</color>",
+        "hash": "c36518bcf4a56c12ce26e22603969df80adade43ad45d3987b07c2ac38d0539d"
+    },
+    "40": {
+        "text": "Specialty Rate <color=#ff911c>+75</color>",
+        "hash": "1db2615d34a41888b10cac5ebba6d07b45927446bc4f633f1af3b14510ec304c"
+    },
+    "41": {
+        "text": "Friendship Training \\nbonus <color=#ff911c>+2%</color>",
+        "hash": "7391bb61d2035ac708387fcdf876545bdeb33cb274853d18f8c1608e990c63b4"
+    },
+    "42": {
+        "text": "Friendship Training \\nbonus <color=#ff911c>+4%</color>",
+        "hash": "60a9ee6657b179ad5f89cb15da1ffc6a37d6fd8dad73d877a178ac15e2853072"
+    },
+    "43": {
+        "text": "Friendship Training \\nbonus <color=#ff911c>+6%</color>",
+        "hash": "ff87e3f5038a337288152fc150c3a36c08681134e92bbe1de5b4bc1e71f8c173"
+    },
+    "44": {
+        "text": "Friendship Training \\nbonus <color=#ff911c>+8%</color>",
+        "hash": "39ee5700722b038fa916c6d0159e131ff8260705888f2dc804ef63aee8fb4797"
+    },
+    "45": {
+        "text": "Friendship Training \\nbonus <color=#ff911c>+10%</color>",
+        "hash": "fb96cf42fc385b031403db0ad570683d8d0ce4894cbc7bc6f2d42fc81684c91d"
+    },
+    "46": {
+        "text": "Friendship Training \\nbonus <color=#ff911c>+25%</color>",
+        "hash": "5f4a1b7800c9fcfe9c66aac1eff4ea6f0032e5dd70f97d4175263128cc74a952"
+    },
+    "47": {
+        "text": "<mecha=gear_00/> Mecha Gear appers \\non all training types",
+        "hash": "0871aeb83ccd417993a0ad65e2e1be79b722e8efbd6013b94fad0836a208ad22"
+    },
+    "48": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_04/> Wit bonus \\nfor every 300 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "986efa50149c8aa706173fc6ab7d99f621e4ed9eac2b001b160e6f6aed8355cd"
+    },
+    "49": {
+        "text": "Research Lv gain <color=#ff911c>+15%</color>",
+        "hash": "e1ff0c5ffcb514ebfe51b65b51865a28d0e6ca4a72c47ede1b2d80be258c2fdd"
+    },
+    "50": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_04/> Wit bonus \\nfor every 200 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "44156cc4f349188a1bfa847ca37ed6d731f52e84f1ea700bde5eb7833fa242ef"
+    },
+    "51": {
+        "text": "Research Lv gain <color=#ff911c>+20%</color>",
+        "hash": "064c09c289400e5e46d03196dd76cb2d090d8c2b15f897419d5f5be0d3b3caf8"
+    },
+    "52": {
+        "text": "Research Lv gain <color=#ff911c>+25%</color>",
+        "hash": "7da7774b6bca84ba11fea79b958e14c78361b5efc85f4a4e79709f475f01455b"
+    },
+    "53": {
+        "text": "Energy consumption <color=#ff911c>-50%</color>",
+        "hash": "df2cd0b193beec4699e0bc275ff69512a48cfcfa9001adf15151647898264083"
+    },
+    "54": {
+        "text": "Friend and Group type \\nsupports will trigger \\na <mecha=hint_00/> Hint Event",
+        "hash": "0a86c86d1fc7fcde8c64d33d1b34f9ad0680929b62c9163b518bdbb11f9f5f37"
+    },
+    "55": {
+        "text": "Activate all \\n<mecha=hint_00/> Hint Events in \\nthe chosen training",
+        "hash": "d063d047a12777db262a6d6ff55c42059aa9007333c875116f9a360776887638"
+    },
+    "56": {
+        "text": "<color=#ff911c>+1%</color> stat bonus \\nfor each support member \\nin training",
+        "hash": "b764ab4e841e9b4ce804d5784bd9ccce29b3dbd1c138080f72ea2b8e0b0ab042"
+    },
+    "57": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_01/> Stamina bonus \\nfor every 300 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "6de431c4a7daf575bb182391517cabb56525f695506c3a7fb9427bfe4dd2eb5d"
+    },
+    "58": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_03/> Guts bonus \\nfor every 300 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "db8a2967816416fa5a2943a96dc288bff73f6f536708e606de883c8ec217c70e"
+    },
+    "59": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_01/> Stamina bonus \\nfor every 200 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "517ef95b9732becdfecd6cc912db7fa902d403139919ae06c813e581cbb1d61d"
+    },
+    "60": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_03/> Guts bonus \\nfor every 200 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "cb387c9cbb22472729ba4a8a5cdb5dd53bac9928735095409d4e14d5415a04fb"
+    },
+    "61": {
+        "text": "<color=#ff911c>+3%</color> stat bonus \\nfor each support member \\nin training",
+        "hash": "a0b0367de23badfe5192905ea452d80ad8bde855e36c1aadfa00cca6b10401a3"
+    },
+    "62": {
+        "text": "Two supports from your \\ndeck will appear on two \\ndifferent training types",
+        "hash": "093fd346bb023fe8d9d7080c2376b03fe4dd218f11491b12cfafa63ac193d21e"
+    },
+    "63": {
+        "text": "Bond Gauge increase <color=#ff911c>+3</color>",
+        "hash": "8308a0566cf0f813b5cfb573a314040ee91795a1a373ee237cb026934af3dd62"
+    },
+    "64": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_00/> Speed bonus \\nfor every 300 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "bac0e37f2f8d4bf616089cfc15f34cbf21b3631679a0821fc461035fe07259fb"
+    },
+    "65": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_02/> Power bonus \\nfor every 300 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "3b4ccb4f00dfdae8c644a0363eb273c1315afdc3ae06bceed8f46d6b787696a7"
+    },
+    "66": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_00/> Speed bonus \\nfor every 200 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "eb28f3dfcbc2c54aa8cd2d9cd4f2a8a8b308d59baf8ab27acfbeff5c8cfd5d8e"
+    },
+    "67": {
+        "text": "<color=#ff911c>+3%</color> <mecha=obtain_02/> Power bonus \\nfor every 200 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "3f87ff7297abda6663f4bec3ac0b12fd2de728227171ea1c7aab14fb869a2bc8"
+    },
+    "68": {
+        "text": "Energy recovery <color=#ff911c>+15</color>",
+        "hash": "0a1128e870edf43dd2de6826ab898c53477db11e51baf919f8a9fbdbe91d0040"
+    },
+    "69": {
+        "text": "Motivation up <color=#ff911c>+1</color>",
+        "hash": "a38d1afb24bb3f4d4c6e83b2342df14e6d84b82ba0fd7edb0e003a7541adf14e"
+    },
+    "70": {
+        "text": "<color=#ff911c>+3%</color> Skill Pt bonus \\nfor every 150 Research Lv\\n(Now: Lv{1} Bonus <color=#ff911c>+{0}%</color>)",
+        "hash": "77e151c09899887692bf857fa81f92ea1225e904a734f0e43bb0d813488b24f0"
+    }
+}
