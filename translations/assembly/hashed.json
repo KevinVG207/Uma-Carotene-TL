@@ -16,7 +16,7 @@
         "hash": "6c54cd3bbf7291833342bcaab5be023dc9c0da44e56b3970e2b4ebf30a9b8b98"
     },
     {
-        "text": "<nb>History",
+        "text": "$(nb)History",
         "hash": "4a22c8d2a41343d54ddc1cf8eb86489772448cfc66250207bee81fa01ac16ce7"
     },
     {
@@ -28,7 +28,7 @@
         "hash": "b615e019e7be9c243938dbefffc4d1abb0155e91a31593dc3e3c84aa772518c7"
     },
     {
-        "text": "<nb><sc=90>List/Unlock",
+        "text": "$(nb)<sc=90>List/Unlock",
         "hash": "38b532567dae25894ba0bdc569f8f248b29c57ba10a233517976fc3b49b4ef28"
     },
     {
@@ -56,11 +56,11 @@
         "hash": "70f7ae4afacd9b24f204752da2e75f48a120dc133901c3834dde318bb412a514"
     },
     {
-        "text": "<nb>Inherited Parent 1",
+        "text": "$(nb)Inherited Parent 1",
         "hash": "fe60714a6cc988d779cc0ec7c7aeed235eefa11f14527affc515d23023ef1e4e"
     },
     {
-        "text": "<nb>Inherited Parent 2",
+        "text": "$(nb)Inherited Parent 2",
         "hash": "bd2ecf50d920fec9ecfa4aacc05fdf51c7ff58dbdc0035ec38fb6cc60506186b"
     },
     {
@@ -80,7 +80,7 @@
         "hash": "4b1ac60072569ad7d5367d24320b9ae1ed135c71e19152af4ed498852b8e6502"
     },
     {
-        "text": "Choose a parent\\nto inherit from.",
+        "text": "Choose a parent\nto inherit from.",
         "hash": "6dce2b8e310553fdf618612ba763710ebc72066132b4fe3b1b90fe6ba2c7d95a"
     },
     {
@@ -112,11 +112,11 @@
         "hash": "4dbc0660d0e1fbdcde689bba4c3029ed759b4dedba864952cd6e448342e71ca9"
     },
     {
-        "text": "<nb>Confirm Team",
+        "text": "$(nb)Confirm Team",
         "hash": "d2f9f657767b3ffac0fd95232cf514539f2b11a2134e99f55e6007987fbea81f"
     },
     {
-        "text": "<nb>Umamusume",
+        "text": "$(nb)Umamusume",
         "hash": "cc057fd20a5212ea3c5a1d0d3c3f94c5d56623369bda561764bbdad16cb3ac56"
     },
     {
@@ -132,15 +132,15 @@
         "hash": "26e0324b881b5d37ee7fc165e93aa154cac076cf00f96ae886e86425ca3723ab"
     },
     {
-        "text": "<nb>Factors",
+        "text": "$(nb)Factors",
         "hash": "c5e54ed7089f8a549cf413029f864317c399a37bf57bd97e42d301b6ba77136b"
     },
     {
-        "text": "<nb>Effects",
+        "text": "$(nb)Effects",
         "hash": "08a2deee9a9659652e4209cb24e99ebf73528902412e65540720367963570803"
     },
     {
-        "text": "<nb>Stat Bonus",
+        "text": "$(nb)Stat Bonus",
         "hash": "aa82b00ed666702182f802b812decfe9767a0d6b528ad433d5d9a4645c1fb5d8"
     },
     {
@@ -176,23 +176,23 @@
         "hash": "58ea96004b04f3f1a4075bdea5063ac007060abf248ee7e17c07edc0d495aa77"
     },
     {
-        "text": "<nb>Pred.",
+        "text": "$(nb)Pred.",
         "hash": "80b7490c23692710c696cc60a459a7fb4e1745b010210163a2331b4d673b53aa"
     },
     {
-        "text": "<nb>Currently Scheduled Races",
+        "text": "$(nb)Currently Scheduled Races",
         "hash": "859fef7a80fa2d275231a949007be68af81782a5973f8764666530095226e031"
     },
     {
-        "text": "<nb>←Now",
+        "text": "$(nb)←Now",
         "hash": "0598b63607358d8f8170794de06888573e91f3127f2695cc31ea257b860a6609"
     },
     {
-        "text": "<nb>Now→",
+        "text": "$(nb)Now→",
         "hash": "4971f94b2c8093a9971f17815c6618a77b71919e86c90293858ca52faae387a5"
     },
     {
-        "text": "<a5>Are you sure?",
+        "text": "$(anchor 5)Are you sure?",
         "hash": "76b1b61af2756959c38268af2dc0fd428b6d6af455d5c64be762b5933b261d24"
     },
     {
@@ -200,7 +200,7 @@
         "hash": "428926567c1a54452c7589a019ffcf0c3e6dc810a2ae267f6a48feb85a24ec07"
     },
     {
-        "text": "<nb>Ongoing",
+        "text": "$(nb)Ongoing",
         "hash": "b4b5beae00d23285133647e4d7227283542ca57e9f7678af1475e4c6f121bd07"
     },
     {
@@ -212,7 +212,7 @@
         "hash": "a2993eba4e7221fa8fea9b9d1be758e5f4ee7ae5dd18948a7fb9bd3c98eb674c"
     },
     {
-        "text": "<nb>Factors",
+        "text": "$(nb)Factors",
         "hash": "860b01c3f25d6a8b74cf616723850d2fa3f687a9af6e6f872413eb118a125d72"
     },
     {
@@ -232,11 +232,11 @@
         "hash": "c68e0805f87de92b4e79ce81a59cbb68636daaac170a523806b9b3378aedc4f5"
     },
     {
-        "text": "<sc=90>Expectation",
+        "text": "$(scale 90)Expectation",
         "hash": "7971b6d29e5c441c1202e7057ead896dfbcb848722b99804c9a9678b441c49a8"
     },
     {
-        "text": "<nb>Results",
+        "text": "$(nb)Results",
         "hash": "fff55266c50b5bf4597ff28b20fc30fba6881f0ec53cfa47d9e8128b23315ebe"
     },
     {
@@ -272,7 +272,7 @@
         "hash": "666d0207575180f162f56aaa3b3099743b0e59c3608d0a493b78447117f4fcb0"
     },
     {
-        "text": "<nb>Training",
+        "text": "$(nb)Training",
         "hash": "a4e73d3dc3970c0deb1b30ba6c787e28459a098db91d305415e2645b5a41c99d"
     },
     {
@@ -284,7 +284,7 @@
         "hash": "ad209c4a4ed0967eceef01ebdfa9318bbb83e0b37f0347ecb624924e403896c2"
     },
     {
-        "text": "<sc=95>Toggle Max Lv/Awakening",
+        "text": "$(scale 95)Toggle Max Lv/Awakening",
         "hash": "dc2e5f0aeb3e064a83f7d6b8f384043109ce858c70f59970e8c1dd5aa804a35c"
     },
     {

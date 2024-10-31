@@ -9012,7 +9012,7 @@
         "hash": "9d16ee352b92b78ef394fb73c8b168df2169a48cc9f05915b989080d15800bfc"
     },
     "Outgame0001": {
-        "text": "",
+        "text": "Max. 10 characters",
         "hash": "92aac03146570a1c6f581cf3d6a51376c73c2b9e8a9d5b0fb95342614152fe1e"
     },
     "Outgame0002": {
@@ -9444,11 +9444,11 @@
         "hash": "ecd16a2e37c0f08a3865ee2e5d965b49ba6291fb2823aa8adf1707dbccf81692"
     },
     "Outgame0229": {
-        "text": "",
+        "text": "Rename Deck",
         "hash": "2263fa869d7a4acfdd11cb8cc3ec398c57d2c2e7297d7471057e1a5df9ea75f0"
     },
     "Outgame0230": {
-        "text": "",
+        "text": "Enter your deck name:",
         "hash": "10062741863c571db737e2e1fca4486fafbf538006a67b60a06f974dd5514e00"
     },
     "Outgame0231": {
@@ -12164,7 +12164,7 @@
         "hash": "bda096f838171d60347e9911313721a050c50e3df3e2cd1c8559ea6c36abc1ac"
     },
     "Outgame608045": {
-        "text": "",
+        "text": "Multi-Select",
         "hash": "4194f549db658742b99c8962958aa3700171581b36778f50bf20859d6763ba2f"
     },
     "Outgame608046": {
@@ -14304,7 +14304,7 @@
         "hash": "63c000ebeac3434b3053c1e46c749527e55dbd95a342e692321516b035fdbab5"
     },
     "Race352008": {
-        "text": "",
+        "text": "Confirm",
         "hash": "1031639454032f27aee34d14d86df41c568e65621bb6b7bd802bde092551b870"
     },
     "Race352009": {
@@ -17024,7 +17024,7 @@
         "hash": "f8a628cfc4e05c64195f0d1074252639d69dfb28cfcae9db528cd98e4dc0e915"
     },
     "SingleMode0242": {
-        "text": "No special conditions",
+        "text": "No status effects.",
         "hash": "6483c781105ac26be39fbe122287aea41b8cefbed4bf6f71b86cfb557a8b4e8e"
     },
     "SingleMode0243": {
@@ -21580,11 +21580,11 @@
         "hash": "b3ea7ba044a20dc2b6b9b6d3aacfb35c82280f8043c9003ba9397224da0f2a12"
     },
     "SingleModeScenarioMecha194008": {
-        "text": "",
+        "text": "Responsive",
         "hash": "b5d1c7503b72c544e58a9b69bb620465117342d189af7abe45a5e015e867e9d1"
     },
     "SingleModeScenarioMecha194009": {
-        "text": "",
+        "text": "Nimble",
         "hash": "5f922685474525048c1a604a154265afbdfb6613473180b9a1667584d9850a66"
     },
     "SingleModeScenarioMecha194010": {
@@ -21596,23 +21596,23 @@
         "hash": "43171391ac8715246f258bf212a252da9c231dccf7a1f7e48a696702a45ab0ae"
     },
     "SingleModeScenarioMecha194012": {
-        "text": "",
+        "text": "Speed",
         "hash": "ad284e9087f0ec1c269a689e37a0915f0f6ed1ffb1fbfec1b9c045c2b4fc1113"
     },
     "SingleModeScenarioMecha194013": {
-        "text": "",
+        "text": "Stamina",
         "hash": "ffb1081ec146d67ae4a22d5572194c456e6714dc862d14811e99bc04b9e788a6"
     },
     "SingleModeScenarioMecha194014": {
-        "text": "",
+        "text": "Power",
         "hash": "b8f39c8447a450fc48d59618b608a889ec047354329d6231ca23a2cccdfdf89a"
     },
     "SingleModeScenarioMecha194015": {
-        "text": "",
+        "text": "Guts",
         "hash": "f42efdb38f3aa9dfb9499c24b7782a76b7450e54d8f5e7cff68e18af4628546b"
     },
     "SingleModeScenarioMecha194016": {
-        "text": "",
+        "text": "Wit",
         "hash": "d2ecb5b4d76ac9eb156e9eee307c77be877885b9aac7d9911c00771a67cc5100"
     },
     "SingleModeScenarioMecha194018": {
@@ -21648,7 +21648,7 @@
         "hash": "8618eb49e9cb6f03db6f673fc40c4756bcea342d1a5e6c3c2e2be62a01fc7a92"
     },
     "SingleModeScenarioMecha194034": {
-        "text": "",
+        "text": "Cannot decrease further.",
         "hash": "6ad7258bf9c0b0b71e02e7f51ae5823fce05ededa5ec082af9d48e4c17373658"
     },
     "SingleModeScenarioMecha194035": {
@@ -21656,7 +21656,7 @@
         "hash": "0e5dfd02a9045aa585dcd7199ee721490ca8461de4b6888c26eb45de85e41900"
     },
     "SingleModeScenarioMecha194036": {
-        "text": "",
+        "text": "Not enough Mecha EN.",
         "hash": "93d0740b316227d66d3f71663b012d3e9d87b67cc4a84b94f6810200ac3ec820"
     },
     "SingleModeScenarioMecha194037": {
@@ -21720,7 +21720,7 @@
         "hash": "35706ca06b27cd1f09d399aef39a860a1b5412042ce20cea5f90685a64b8803e"
     },
     "SingleModeScenarioMecha194053": {
-        "text": "",
+        "text": "No active chip effects.",
         "hash": "1bf0b9e7761d3956f68db0c8b241c485c777ab3a922595b4ac4984af2029833c"
     },
     "SingleModeScenarioMecha194054": {
@@ -21728,7 +21728,7 @@
         "hash": "22abfcaab4ed11cd3db413eb21d3de0a00209c36ab8a852aeba6a065e9ef38e6"
     },
     "SingleModeScenarioMecha194055": {
-        "text": "",
+        "text": "Are you sure you want to complete the Tuning?",
         "hash": "460a66f8fc30f28b4f2a27ab2fadab7b2ae0f716a724217e0b7c03ea028ddf52"
     },
     "SingleModeScenarioMecha194057": {
@@ -21744,7 +21744,7 @@
         "hash": "e632b7997a2274a0be664ecbf719520dd11439f289c59c40c5a50f951df0b919"
     },
     "SingleModeScenarioMecha194060": {
-        "text": "",
+        "text": "You won't be able to Tune again until after the next UGE!",
         "hash": "99689f93189b06695c17597e92bc5e4a5cc6f10c072fe44ad6cd9db50c097eae"
     },
     "SingleModeScenarioMecha194061": {
@@ -21752,11 +21752,11 @@
         "hash": "a44af389385551850bd2f03deaddf133150513614e0398996f2168066b5c8f69"
     },
     "SingleModeScenarioMecha194062": {
-        "text": "",
+        "text": "Confirm Tuning",
         "hash": "874ac1d13f2771ad05d994c8c7550ca6ccfe89a9035212f03dde0d251b511008"
     },
     "SingleModeScenarioMecha194065": {
-        "text": "",
+        "text": "You must use all Mecha EN.",
         "hash": "36e4daa39cb0d8326995e7d912f903a824e84b3f84066888d37de43567bce380"
     },
     "SingleModeScenarioMecha194066": {
@@ -21780,7 +21780,7 @@
         "hash": "8b8bb7689b01c9ea29c289f36ec19f48c9b78cabc6b20cd1a517c2cb3e515f15"
     },
     "SingleModeScenarioMecha194071": {
-        "text": "",
+        "text": "The Umamusume <color=#F16D27>joined</color> the research project!",
         "hash": "02b1ab9e1c8205314686398ae46249b091ba7db079b5bf549426c73ac69ca978"
     },
     "SingleModeScenarioMecha194072": {
@@ -21800,7 +21800,7 @@
         "hash": "9b88aa0297712a5cc6add5a598a7f874166a1ffb81546cedf5cc9166a2153f8e"
     },
     "SingleModeScenarioMecha194077": {
-        "text": "",
+        "text": "Until Nimble",
         "hash": "7ac03a1a18d43645263af4f4592c245af2940f47db6294eb440a6b0e5e571015"
     },
     "SingleModeScenarioMecha194078": {
@@ -21808,7 +21808,7 @@
         "hash": "30722a4ae0d2050a83b629a6b4d731f318b31164767cfe2034c9514309513d17"
     },
     "SingleModeScenarioMecha194079": {
-        "text": "",
+        "text": "$(nb)$(scale 72)Held Mecha EN",
         "hash": "c7e837e933f47925306634f4d4bee62ebaaece88898fd368ef7c61aed86fcc80"
     },
     "SingleModeScenarioMecha194080": {
@@ -21864,7 +21864,7 @@
         "hash": "220029f8e09571723a34663ea3a4bed8a3b1f669fd96c512ad5d4337f606d642"
     },
     "SingleModeScenarioMecha194093": {
-        "text": "",
+        "text": "$(scale 75)NEW",
         "hash": "d91017c932b5fc756522e43c732b39b893d8061e3045e7f942ae7ebbf5bfb043"
     },
     "SingleModeScenarioMecha194094": {
@@ -22268,7 +22268,7 @@
         "hash": "8e9fe36633a6d0db81611c9a1447c31d317c9b56b560c6f300c3cf4e9dcbe10d"
     },
     "SingleModeScenarioTeamRace0028": {
-        "text": "No records",
+        "text": "$(nb)$(scale 80)No record",
         "hash": "e5c0826623d91dfda49773a0a9ac5f2ecf69745a06e1b544c4c57ec7ac0ff235"
     },
     "SingleModeScenarioTeamRace0029": {
@@ -25416,7 +25416,7 @@
         "hash": "a255a149b331e12ef786d3e36b6b220e52bad29a6988b21f88f3eb59607c39cf"
     },
     "TrainingChallenge4180100": {
-        "text": "Trainer Proficiency Exam",
+        "text": "Trainer's Proficiency Exam",
         "hash": "208f4a7de3c52aeb4af82ffdbb893f332ec2ce7bfc356d4c907ac25c11cf5a92"
     },
     "TrainingChallenge4180101": {
@@ -25472,15 +25472,15 @@
         "hash": "137885d11d3a161be03ae08f6eacca2a7d1b6f62e1cf3170a9d1aa20bf42072b"
     },
     "TrainingChallenge4180403": {
-        "text": "",
+        "text": "Standard Mode",
         "hash": "7b72b1bf01a3039f8fc59e440c5e798b2ada79786c73df9f95e01ab9005b596d"
     },
     "TrainingChallenge4180404": {
-        "text": "",
+        "text": "Proficiency Exam Mode",
         "hash": "ef8bd425aa7e33727a100d90b618d47869aee779090dbf60bb76a78b473ac247"
     },
     "TrainingChallenge4180405": {
-        "text": "",
+        "text": "Choose Training Mode",
         "hash": "7aa7dbbb9d60c74eb6a3c289d895869bda2bab5bc6ca6431634005a48fb2af27"
     },
     "TrainingChallenge4180406": {
@@ -25536,7 +25536,7 @@
         "hash": "f1c297802083d202aa2e5b6f2c6f67cafb070eecfd3cedd66e95046ae77515c6"
     },
     "TrainingChallenge4180607": {
-        "text": "",
+        "text": "Would you like to go to the event menu?",
         "hash": "813cb46af0e6910532bf9dc2a94fef7d4ada594cce44e9bd8beb3d0a4a96ede5"
     },
     "TrainingChallenge4180608": {
@@ -25548,7 +25548,7 @@
         "hash": "e37774a28711b22225aa792a831e4392b37b066472003d29711ebe16922a6d35"
     },
     "TrainingChallenge4180610": {
-        "text": "",
+        "text": "Event Menu",
         "hash": "3d58d270be1bb98177668fe0d56ffb7dee5d5c7d256cf215ab286debc9abba75"
     },
     "TrainingChallenge4180900": {
@@ -25820,7 +25820,7 @@
         "hash": "6ab6d958dc90f34fe5fb09bd3bae0a21e37d7fe42cd32148c3737fccdd31ad68"
     },
     "TrainingChallenge4182015": {
-        "text": "",
+        "text": "Event Ongoing",
         "hash": "05818ddf030e2ada42ab2cfb54e31d5f3973a5bd5471f3e409ea789759d980d8"
     },
     "TrainingChallenge4182016": {
@@ -25880,7 +25880,7 @@
         "hash": "0b9c261dfb67f6dfab274541d43e94124445d379fc75604c3d02b5a34b01bddb"
     },
     "TrainingChallenge424011": {
-        "text": "",
+        "text": "Start the Event",
         "hash": "78b2075ea7fcb7e80e823e34810cc079fa038cbedfd5a29fe03c134c5b18549e"
     },
     "TrainingChallenge4242000": {
@@ -25908,7 +25908,7 @@
         "hash": "6c9f718f9464db3244ba65312467fabd19831325c45430ac5b60e062605f21cd"
     },
     "TrainingChallenge508012": {
-        "text": "",
+        "text": "$(nb)$(scale 90)Deadline",
         "hash": "49e2f99892f4a7ce237f131ce7eba766bc8bd5b3e25c7af56e4765811b920759"
     },
     "TrainingChallenge6480001": {

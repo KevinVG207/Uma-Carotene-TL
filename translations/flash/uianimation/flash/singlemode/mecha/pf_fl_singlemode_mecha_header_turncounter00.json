@@ -1,0 +1,70 @@
+{
+    "type": "flash",
+    "hash": "F26ZV3QXZWTRUFZCEG4IYM3XCB3SI22J",
+    "file_name": "uianimation/flash/singlemode/mecha/pf_fl_singlemode_mecha_header_turncounter00",
+    "data": {
+        "5512148353009411465": {
+            "mc_txt_num_turn00": {
+                "txt_num_turn00": {
+                    "_positionOffset": {
+                        "x": 3.025,
+                        "y": -0.025,
+                        "z": 0
+                    },
+                    "hash": "8c1f1046219ddd216a023f792356ddf127fce372a72ec9b4cdac989ee5b0b455"
+                }
+            },
+            "mc_image_clr_txt_turn_base_turn00": {
+                "clr_txt_turn_base_turn00": {
+                    "_text": "left",
+                    "hash": "aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7"
+                }
+            },
+            "mc_image_clr_txt_turn_base_remaining00": {
+                "clr_txt_turn_base_remaining00": {
+                    "_text": "Turns",
+                    "hash": "e220ac43d34b0ded988af08b80240a52d0705dbb626edf664e04a99c183ae78a"
+                }
+            },
+            "mc_image_txt_target01": {
+                "txt_target01": {
+                    "_text": "End",
+                    "hash": "bc9fe37e996c0ef9f7de01f752fd2e49351bd601750dccc0284712f61ac8a3cf"
+                }
+            },
+            "mc_image_txt_target00": {
+                "txt_target00": {
+                    "_text": "UGE\nafter turn",
+                    "hash": "c4e4bb900d8782eb346ae1008390084acccdb8d19495530d2b8a27f2fa08df81"
+                }
+            },
+            "mc_image_txt_num_turn01": {
+                "clr_num_turn01": {
+                    "_positionOffset": {
+                        "x": -7,
+                        "y": -0.025,
+                        "z": 0
+                    },
+                    "hash": "8c1f1046219ddd216a023f792356ddf127fce372a72ec9b4cdac989ee5b0b455"
+                }
+            },
+            "mc_image_clr_txt_turn_base_turn01": {
+                "clr_txt_turn_base_turn00": {
+                    "_text": "turn(s)",
+                    "_positionOffset": {
+                        "x": -1.975,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "hash": "aee7e141d60573ebeb56518432a47daa789a34d65ae04e8c4c9bf263ff31b5f7"
+                }
+            },
+            "mc_image_clr_txt_turn_base_remaining01": {
+                "clr_txt_turn_base_remaining01": {
+                    "_text": "Upgrade Exam:",
+                    "hash": "380a724c782f4f09dc2590e94734e8ea609c896e7ef0ef3ef0f95d2749502da4"
+                }
+            }
+        }
+    }
+}
