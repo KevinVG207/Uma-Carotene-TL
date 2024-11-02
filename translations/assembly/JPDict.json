@@ -14700,7 +14700,7 @@
         "hash": "ecfa9f5c186f8e9c24e14edd9c6b335a6ccd82ac250e29ced237bddd786c954b"
     },
     "RatingRace600046": {
-        "text": "",
+        "text": "$(nb)Are you sure you want to enter?",
         "hash": "76b1b61af2756959c38268af2dc0fd428b6d6af455d5c64be762b5933b261d24"
     },
     "RatingRace600047": {
@@ -16516,7 +16516,7 @@
         "hash": "c5ef4838fa2cd5c0d37e6286641edda3456386bf7079c7642ad900cd94ce23d9"
     },
     "SingleMode0028": {
-        "text": "Obtained items",
+        "text": "Obtained",
         "hash": "e944bdf72effa462e125a32247390d7b2843097fb6b634367ce2a22a0968eeb9"
     },
     "SingleMode0033": {
@@ -16744,7 +16744,7 @@
         "hash": "c92c0b98db4f681e3fe326c9cdab5312cc295d9c4d3ec177997a17f826a16cef"
     },
     "SingleMode0132": {
-        "text": "Goal Completed",
+        "text": "Done",
         "hash": "880a6660780d97b66157a47631aac13c7a648f71f311c110f90565523446a0e7"
     },
     "SingleMode0133": {
@@ -17040,11 +17040,11 @@
         "hash": "1ce3374de0178ad3b55484b9f27ad247a336671de0d0558df3e3389b1cf70003"
     },
     "SingleMode0246": {
-        "text": "",
+        "text": "Confirm Rest",
         "hash": "27bcd74d5d27dd2374630902874a2c4f887e5e430affac1565f8ec9137bdc135"
     },
     "SingleMode0247": {
-        "text": "",
+        "text": "She will rest and <color=#ff9900>recover some energy</color>.",
         "hash": "4047b06edd4d6131989adbb1a37a360197496f6a346cb57f393a429f31da519e"
     },
     "SingleMode0248": {
@@ -17308,7 +17308,7 @@
         "hash": "e576df87f4c8d85232ba1ac42f5d07c462690ec2121cf0f3abb16ed8766ba3f6"
     },
     "SingleMode0331": {
-        "text": "$(nb)Remaining Skill Pts. will be lost.",
+        "text": "$(nb)      Remaining Skill Pts. will be lost.",
         "hash": "a1d2364bbada17287a97734330a07c2d210b35794e70300f9b07e3f4370e956d"
     },
     "SingleMode0332": {
@@ -17428,7 +17428,7 @@
         "hash": "2f85e3fda716c5b290168db37c455731ca7ed8b7e3e2b68e8e72b286b255d9ea"
     },
     "SingleMode0363": {
-        "text": "",
+        "text": "{0} <color=#F16D27>is at the stat cap</color>",
         "hash": "94d56bc1b27b4ef72000c2f758a89d942ebca485eae2c889efd6fa226dd61b8d"
     },
     "SingleMode0364": {
@@ -17696,19 +17696,19 @@
         "hash": "fa093cbac05f496d26fe0f01acb17ea1966d30163a305f2a226c013a043ed290"
     },
     "SingleMode0435": {
-        "text": "",
+        "text": "Confirm Rest & Outing",
         "hash": "81753d3f93d137f251de1556d2bd558d63ca5fd46a54d5ab51bf4c92f3e2342f"
     },
     "SingleMode0436": {
-        "text": "",
+        "text": "Are you sure?",
         "hash": "32df8c5fa70e7813de3b302ac45454a9354db434aaef5ef275ccb5d84374309c"
     },
     "SingleMode0437": {
-        "text": "$(nb)        This will end the turn",
+        "text": "$(nb)        This will end the turn!",
         "hash": "9832cdd5ad8daa37abdce6be9b0c8ce45920a4c7d606d6731a201b85e9697e1e"
     },
     "SingleMode0438": {
-        "text": "",
+        "text": "You will gain energy and one level of motivation.",
         "hash": "694a1673cf2bec42887ecd3a6103e0708a2d15b6a58e6b59a20f703b1ce68373"
     },
     "SingleMode0439": {
@@ -18672,11 +18672,11 @@
         "hash": "fbe1e53590789efeb94ba97b478c7e00cea8f5552e6f1a06bbcadbe6fb180a1c"
     },
     "SingleMode418015": {
-        "text": "",
+        "text": "Edit Reservations",
         "hash": "f8148f13135b4456f50402e6d319986f2956c7622c2dc8230f1371acab6e64be"
     },
     "SingleMode418016": {
-        "text": "",
+        "text": "Save",
         "hash": "732f706a196cb8e0ce8bc8d577d7427a94e231ae2c9bce567cf7d2028f11d894"
     },
     "SingleMode418017": {
@@ -21560,11 +21560,11 @@
         "hash": "32ac1e2e03148cdedbae93c69f87436742a44433ca37c0fb44e4cd44caaaa91c"
     },
     "SingleModeScenarioMecha194003": {
-        "text": "",
+        "text": "Overdrive has <color=#F16D27>charged up</color>",
         "hash": "75425485c91253800e7074ee3facceaa0e2ee4768217f3f9b225d601e8b0fe2c"
     },
     "SingleModeScenarioMecha194004": {
-        "text": "",
+        "text": "Overdrive is <color=#F16D27>maxed out</color>",
         "hash": "08ff3200e2ec08356b4031d59e7af32efc6c1fcc7ae38ab368c68255a4b1de25"
     },
     "SingleModeScenarioMecha194005": {
@@ -21576,15 +21576,15 @@
         "hash": "1bad1b75d03dfa0c3f355ef8a97aedb8909459b4a11aa313f2e3ca7e9dc28f34"
     },
     "SingleModeScenarioMecha194007": {
-        "text": "",
+        "text": "$(ordinal {0}) Upgrade Exam",
         "hash": "b3ea7ba044a20dc2b6b9b6d3aacfb35c82280f8043c9003ba9397224da0f2a12"
     },
     "SingleModeScenarioMecha194008": {
-        "text": "Responsive",
+        "text": "Great",
         "hash": "b5d1c7503b72c544e58a9b69bb620465117342d189af7abe45a5e015e867e9d1"
     },
     "SingleModeScenarioMecha194009": {
-        "text": "Nimble",
+        "text": "Good",
         "hash": "5f922685474525048c1a604a154265afbdfb6613473180b9a1667584d9850a66"
     },
     "SingleModeScenarioMecha194010": {
@@ -21592,7 +21592,7 @@
         "hash": "c4beaccd4c9a040b9eb0962894766fe51423b208d2357aec8ebf1a7a89cae221"
     },
     "SingleModeScenarioMecha194011": {
-        "text": "",
+        "text": "The mecha's research has progressed to <color=#F16D27>{0}</color>",
         "hash": "43171391ac8715246f258bf212a252da9c231dccf7a1f7e48a696702a45ab0ae"
     },
     "SingleModeScenarioMecha194012": {
@@ -21652,7 +21652,7 @@
         "hash": "6ad7258bf9c0b0b71e02e7f51ae5823fce05ededa5ec082af9d48e4c17373658"
     },
     "SingleModeScenarioMecha194035": {
-        "text": "",
+        "text": "Cannot ",
         "hash": "0e5dfd02a9045aa585dcd7199ee721490ca8461de4b6888c26eb45de85e41900"
     },
     "SingleModeScenarioMecha194036": {
@@ -21680,7 +21680,7 @@
         "hash": "4c22bc184758f4ce70979b029d9bcdeed5df649d6423456c1bf2d3f3afd37e7d"
     },
     "SingleModeScenarioMecha194042": {
-        "text": "",
+        "text": "Overdrive is already active.",
         "hash": "18f615ca087d6aa0764a0beb0c101df9c7eefeb25ddcd42e1b6dba59cb0468eb"
     },
     "SingleModeScenarioMecha194043": {
@@ -21708,7 +21708,7 @@
         "hash": "9be2661e11e7de648a0bbb841b7560e94930446cd4fcdf086e3637df3624e021"
     },
     "SingleModeScenarioMecha194050": {
-        "text": "Status",
+        "text": "Progress",
         "hash": "bac93de543a0779b211d809eaa1c606959829731dadc18d9a6b293b9f5217e4d"
     },
     "SingleModeScenarioMecha194051": {
@@ -21812,7 +21812,7 @@
         "hash": "c7e837e933f47925306634f4d4bee62ebaaece88898fd368ef7c61aed86fcc80"
     },
     "SingleModeScenarioMecha194080": {
-        "text": "",
+        "text": "All Overdrive effects active!",
         "hash": "1a33fd8166496dea45f40858f9aee2230099f26ea6f850bd35dadc4933a81322"
     },
     "SingleModeScenarioMecha194081": {
@@ -21820,19 +21820,19 @@
         "hash": "6246008edc8c26df139f16f7b6b23f1a0b8107e51b2f741fb0aa1e65a86078da"
     },
     "SingleModeScenarioMecha194082": {
-        "text": "",
+        "text": "No further Tunings possible!",
         "hash": "f52a862b3f992566e29bd8f0063bcd90d774900dadd692d77c418089322db7be"
     },
     "SingleModeScenarioMecha194083": {
-        "text": "",
+        "text": "All research types' caps <color=#F16D27>up {0}</color>",
         "hash": "da57030b7a4bc09d17dcedd59143e8eb7cf629c7bceadbce7363308b40541bbb"
     },
     "SingleModeScenarioMecha194084": {
-        "text": "",
+        "text": "<color=#F16D27>Gained {1}</color> {0}",
         "hash": "d61074359815cdf5064e5d9e7d481520cb40f19484b77d1aba887e51232c6174"
     },
     "SingleModeScenarioMecha194085": {
-        "text": "",
+        "text": "All research types <color=#F16D27>up {0}</color>",
         "hash": "29dcdd5525d120bbce42d3e291707239963d63e3af382a0584a690fab430a5aa"
     },
     "SingleModeScenarioMecha194086": {
@@ -21884,15 +21884,15 @@
         "hash": "def298e84714d76905c5419b691dfd6f3f57f7a58cdced83be5adc05a87d8fad"
     },
     "SingleModeScenarioMecha465002": {
-        "text": "",
+        "text": "You unlocked new chip(s)!",
         "hash": "8bdb262e8df1e0400f278689dd2388b2c52d70302f56df86cd1e6af52a35da82"
     },
     "SingleModeScenarioMecha465003": {
-        "text": "",
+        "text": "The Overdrive gauge is <color=#ff911c>maxed out</color>.\nAre you sure you want to train?",
         "hash": "27b893d899ba81b44b8f627fb0bfbac5a1accd1234fa3674044ef6ae0f3ca7a5"
     },
     "SingleModeScenarioMecha465004": {
-        "text": "",
+        "text": "The Overdrive gauge will NOT increase further!",
         "hash": "04073a8daf1a35c50aa4ae636bd33efbe551d0c677555d823f8c5d0f4920f040"
     },
     "SingleModeScenarioSport419007": {
@@ -22916,7 +22916,7 @@
         "hash": "cb50586cf87e2ccf3ceffab71213972317c2a70253252d295e6ff4967afbc34f"
     },
     "SingleModeScenarioVenus425039": {
-        "text": "$(nb)Are you sure you want to start the race?",
+        "text": "$(nb)Are you sure you want to enter?",
         "hash": "76b1b61af2756959c38268af2dc0fd428b6d6af455d5c64be762b5933b261d24"
     },
     "SingleModeScenarioVenus425040": {
@@ -23084,7 +23084,7 @@
         "hash": "ef54f9e59bf562f8ddd036c9d96888c1e7eda48bf89daf76d6908a486d85f9c6"
     },
     "Story0035": {
-        "text": "",
+        "text": "<chrname> learned something new!",
         "hash": "bbda85fb2330dc6162e6e29f5b42729895bbddc15e96a66a5977dcbcecceac50"
     },
     "Story0036": {
@@ -25872,7 +25872,7 @@
         "hash": "681ca1a9fcd5f6f198c798db3f369ca581927381e73d839cfb260d449e911385"
     },
     "TrainingChallenge424009": {
-        "text": "",
+        "text": "Exam Bonus",
         "hash": "5a95f2f9513d24690329927df648202cc7cb1a91beeefe2acfe92ebb57409818"
     },
     "TrainingChallenge424010": {
