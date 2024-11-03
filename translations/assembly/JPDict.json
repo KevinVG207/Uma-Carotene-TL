@@ -21588,7 +21588,7 @@
         "hash": "5f922685474525048c1a604a154265afbdfb6613473180b9a1667584d9850a66"
     },
     "SingleModeScenarioMecha194010": {
-        "text": "",
+        "text": "{0} is <color=#F16D27>maxed out</color>",
         "hash": "c4beaccd4c9a040b9eb0962894766fe51423b208d2357aec8ebf1a7a89cae221"
     },
     "SingleModeScenarioMecha194011": {
@@ -21636,7 +21636,7 @@
         "hash": "609641ef2fb3c17a8589c121ea365d6bdbd859463665773d9c104caf261ee4b9"
     },
     "SingleModeScenarioMecha194031": {
-        "text": "",
+        "text": "Tuning Complete",
         "hash": "15a1f091d9b3ebe88bbf5765c5927b399a90d10ac2ee31f8422ea0ed19ce2ccd"
     },
     "SingleModeScenarioMecha194032": {
@@ -21644,7 +21644,7 @@
         "hash": "57b310b457701f4dc3910f423208bdf666d3eed256d696f1df6a2ad9c0fb2143"
     },
     "SingleModeScenarioMecha194033": {
-        "text": "",
+        "text": "Mecha EN",
         "hash": "8618eb49e9cb6f03db6f673fc40c4756bcea342d1a5e6c3c2e2be62a01fc7a92"
     },
     "SingleModeScenarioMecha194034": {
@@ -21652,7 +21652,7 @@
         "hash": "6ad7258bf9c0b0b71e02e7f51ae5823fce05ededa5ec082af9d48e4c17373658"
     },
     "SingleModeScenarioMecha194035": {
-        "text": "Cannot ",
+        "text": "You cannot allocate more.",
         "hash": "0e5dfd02a9045aa585dcd7199ee721490ca8461de4b6888c26eb45de85e41900"
     },
     "SingleModeScenarioMecha194036": {
@@ -21660,7 +21660,7 @@
         "hash": "93d0740b316227d66d3f71663b012d3e9d87b67cc4a84b94f6810200ac3ec820"
     },
     "SingleModeScenarioMecha194037": {
-        "text": "",
+        "text": "You can Tune after Upgrade Exams.",
         "hash": "de8a3d4c179799e94e061b7079799f59b003ec5ef6d3c2e9fa8bcbaea1627750"
     },
     "SingleModeScenarioMecha194038": {
@@ -21684,7 +21684,7 @@
         "hash": "18f615ca087d6aa0764a0beb0c101df9c7eefeb25ddcd42e1b6dba59cb0468eb"
     },
     "SingleModeScenarioMecha194043": {
-        "text": "",
+        "text": "Overdrive is not charged.",
         "hash": "11bdde7065bddd0197be25ee604307442e4aabaa32e164cc442c0c7ccc520ebb"
     },
     "SingleModeScenarioMecha194045": {
@@ -21696,7 +21696,7 @@
         "hash": "b651312952716896a9911154534ba0a7487935d900341c0474ffad6f21685082"
     },
     "SingleModeScenarioMecha194047": {
-        "text": "",
+        "text": "Research Lv Effects",
         "hash": "20b58e07ade08328a1aeda74a1821b8d1659b1bcbe8681c9b09ff17d2b63455f"
     },
     "SingleModeScenarioMecha194048": {
@@ -21760,23 +21760,23 @@
         "hash": "36e4daa39cb0d8326995e7d912f903a824e84b3f84066888d37de43567bce380"
     },
     "SingleModeScenarioMecha194066": {
-        "text": "",
+        "text": "Research has generated more than enough data, \nand you received an S grade on the exam",
         "hash": "42a28233ee1908b15c7fe83e01d3e1ed5f1a971f86c09ba22a6c08940064b32a"
     },
     "SingleModeScenarioMecha194067": {
-        "text": "",
+        "text": "Research has generated enough data, \nand you received an A grade on the exam",
         "hash": "ac60679f513a52bb354b45a8dfc86adafb139056764036051e51bf40be042c39"
     },
     "SingleModeScenarioMecha194068": {
-        "text": "",
+        "text": "Research has generated some data, \nand you received a B grade on the exam",
         "hash": "f63b8ed020af159d642899f3e46b987aa014cf81c1327ade533c787258149edd"
     },
     "SingleModeScenarioMecha194069": {
-        "text": "",
+        "text": "UGE Start!",
         "hash": "f52ce7bb45de65d8dc3a68b24c3bbc66b9909fb81823736b6562ea679fc96d6e"
     },
     "SingleModeScenarioMecha194070": {
-        "text": "",
+        "text": "Research has completed",
         "hash": "8b8bb7689b01c9ea29c289f36ec19f48c9b78cabc6b20cd1a517c2cb3e515f15"
     },
     "SingleModeScenarioMecha194071": {
@@ -21844,7 +21844,7 @@
         "hash": "f7f24f23a8776adf2c2e60a5493dc16774de661bbe42ebcc8a7c0e87081f070f"
     },
     "SingleModeScenarioMecha194088": {
-        "text": "",
+        "text": "You cannot activate Overdrive.",
         "hash": "b7df38d8d6be937fe053dea1f3e5c8f143a0b5bad04c64a761b26dc0aa8da95c"
     },
     "SingleModeScenarioMecha194089": {
@@ -21856,11 +21856,11 @@
         "hash": "f87a906788b1b66cbb549befd0210fd62379e5781aff5c75053f57b519afceb0"
     },
     "SingleModeScenarioMecha194091": {
-        "text": "",
+        "text": "Active",
         "hash": "1afdae7070348ab4d34e3a3b324743426c227df74748ebc6bdfa966ed8e8ee9a"
     },
     "SingleModeScenarioMecha194092": {
-        "text": "",
+        "text": "Overdrive will <color=#FF911C>activate automatically</color> on <color=#FF911C>every following turn</color>.",
         "hash": "220029f8e09571723a34663ea3a4bed8a3b1f669fd96c512ad5d4337f606d642"
     },
     "SingleModeScenarioMecha194093": {
@@ -21868,15 +21868,15 @@
         "hash": "d91017c932b5fc756522e43c732b39b893d8061e3045e7f942ae7ebbf5bfb043"
     },
     "SingleModeScenarioMecha194094": {
-        "text": "",
+        "text": "Up",
         "hash": "dd117739b2b9a70d5ee05c169ff78922f9732c4ed29f78ca6d5647dc827d3242"
     },
     "SingleModeScenarioMecha194095": {
-        "text": "",
+        "text": "Down",
         "hash": "163570a4d849a9450929c8dff1beab4a44b69adff4e0f176249da0a510075c90"
     },
     "SingleModeScenarioMecha194096": {
-        "text": "",
+        "text": "Confirm Overdrive Effects",
         "hash": "906c5066aa2886340ba5fce99d6bf262db30b35aedbcbfb079acdd3f423e9fef"
     },
     "SingleModeScenarioMecha465001": {
