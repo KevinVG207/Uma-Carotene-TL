@@ -12,6 +12,7 @@ from multiprocessing import Pool
 import json
 
 HACHIMI_ROOT = "tl-en\\localized_data\\"
+HACHIMI_LIVE_ROOT = os.path.join(util.get_game_folder(), "hachimi", "localized_data")
 
 DIFF_SKIP = (
     "gacha/",
@@ -82,7 +83,7 @@ def convert_jpdict():
 
 def backport_jdict():
     print("JPDict")
-    jpdict_path = util.ASSEMBLY_FOLDER + "jpdict.json"
+    jpdict_path = util.ASSEMBLY_FOLDER + "JPDict.json"
     jpdict = util.load_json(jpdict_path)
     
     hachimi_path = os.path.join(HACHIMI_ROOT, "localize_dict.json")
@@ -96,10 +97,25 @@ def backport_jdict():
     
     util.save_json(jpdict_path, jpdict)
 
+# def backport_hashed():
+#     print("Hashed")
+#     hashed_path = util.ASSEMBLY_FOLDER_EDITING + "hashed.json"
+#     hashed_list = util.load_json(hashed_path)
+    
+#     hachimi_path = os.path.join(HACHIMI_ROOT, "hashed_dict.json")
+#     hachimi_dict = util.load_json(hachimi_path)
+
+#     for key, entry in hachimi_dict.items():
+#         for carotene_entry in hashed_list:
+#             hash_str = str(fnv.fnv1a_64(carotene_entry["source"].encode('utf_16_le')))
+#             if hash_str == key:
+#                 carotene_entry["text"] = entry
+    
+#     util.save_json(hashed_path, hashed_list)
+
 
 def convert_hashed():
     print("Hashed")
-    # Do this with editing version? Need to rehash
     hashed_path = util.ASSEMBLY_FOLDER_EDITING + "hashed.json"
     hashed_list = util.load_json(hashed_path)
     in_dict = {}
@@ -130,7 +146,7 @@ def convert_hashed():
 def convert_assembly():
     print("==Assembly==")
     convert_jpdict()
-    # convert_hashed()
+    convert_hashed()
 
 
 def convert_mdb_nested(json_folder: str, out_path: str):
@@ -554,8 +570,11 @@ def convert_assets():
 def copy_data():
     print("==Copying data==")
     from_folder = HACHIMI_ROOT
-    to_folder = os.path.join(util.get_game_folder(), "hachimi", "localized_data")
+    to_folder = HACHIMI_LIVE_ROOT
 
+    if os.path.exists(to_folder):
+        shutil.rmtree(to_folder)
+    
     shutil.copytree(from_folder, to_folder, dirs_exist_ok=True)
 
 
@@ -570,6 +589,7 @@ def convert():
 
 def backport_assembly():
     backport_jdict()
+    # backport_hashed()
 
 def backport_mdb_nested(in_path, json_folder, umafy=False):
     if not os.path.exists(in_path):

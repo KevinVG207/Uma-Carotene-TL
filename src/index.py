@@ -15,6 +15,7 @@ import UnityPy
 import _patch
 from win32com.client import Dispatch
 import copy
+import hachimi
 
 def add_to_dict(parent_dict, values_list):
     if len(values_list) == 2:
@@ -914,10 +915,11 @@ def index_jpdict():
     else:
         tl_data = util.load_json(tl_file)
 
-    string_dump_file = os.path.join(util.get_game_folder(), "assembly_dump.json")
+    string_dump_file = os.path.join(hachimi.HACHIMI_LIVE_ROOT, "..", "localize_dump.json")
+    # string_dump_file = os.path.join(util.get_game_folder(), "assembly_dump.json")
 
     if not os.path.exists(string_dump_file):
-        print("assembly_dump.json not found. Skipping")
+        print("localize_dump.json not found. Skipping")
         return
 
     new_data = util.load_json(string_dump_file)

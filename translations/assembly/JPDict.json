@@ -147,6 +147,10 @@
         "text": "",
         "hash": "44d215e4f00cad00e66029c4d016707b309b2ba980e16c242aad3104145091a9"
     },
+    "AccoutDataLink0034": {
+        "text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
     "AccoutDataLink0035": {
         "text": "",
         "hash": "a481425b86f9fc10e7429210b265198da83bb998940ada1418a26d8e48c3e203"
@@ -2616,7 +2620,7 @@
         "hash": "617488b1899640158027dc281ae8d7d2d556a242aaa659ff797696bb911c0ae9"
     },
     "Circle0156": {
-        "text": "",
+        "text": "This month",
         "hash": "8f33e4826d459e8cb4e5a2f1bb295c4ee0c6f0d29bd7c0d3df962dbd6378dedb"
     },
     "Circle0157": {
@@ -2780,7 +2784,7 @@
         "hash": "7f5ee6ff94dece2a1e7320d22bf7ea97e232aea987097b3f351da7e3f2f4cd04"
     },
     "Circle0206": {
-        "text": "Change",
+        "text": "$(nb)$(scale 80)Change",
         "hash": "856252cfcbd314e0b86e47283f2d72c102e401a8528e940697e9611cf72f28d2"
     },
     "Circle0207": {
@@ -4563,6 +4567,10 @@
         "text": "",
         "hash": "96cb155735ba3fb14130ac7643134f02b1583ff5df33c48710dd05e988fb9d21"
     },
+    "Common408002": {
+        "text": "",
+        "hash": "de4841c5e6913724a7f645a8e63855267698e87ad6423e0df7fcaa575aaeb503"
+    },
     "Common418001": {
         "text": "$(nb)Random",
         "hash": "f9b22bbf8fa1f3fd48ada6f4756bd9e2b804e0715f28771d6e715343c28b209d"
@@ -4584,7 +4592,7 @@
         "hash": "fb62fe2ae6b2ae6cd472717ded838cce62600f4789e31aa5873e7e69407848bc"
     },
     "Common425001": {
-        "text": "",
+        "text": "This feature is currently locked.",
         "hash": "856081df73b96848f44c1d81ae35aad86d1698e0d23d8dcb6258b17dce2a4cbf"
     },
     "Common425002": {
@@ -4732,7 +4740,7 @@
         "hash": "b4393d824cee00c8f222d1ea19bbf3092629ef93e54179bdd22ee13b0fe31d47"
     },
     "Directory0015": {
-        "text": "$(plural {0} '$ time' '$ times')",
+        "text": "$(nb)$(plural {0} '$ time' '$ times')",
         "hash": "e12106538cd91377d95054d19a379c8ecf7da0c409291815d6e0287f2ebbf2be"
     },
     "Directory0016": {
@@ -5300,7 +5308,7 @@
         "hash": "0263096c6528341d50d7312fa27087317b02141bc6f50aa5088b1fc3f649691f"
     },
     "Friend0059": {
-        "text": "",
+        "text": "$(plural {0} '$pt' '$pts')",
         "hash": "ff2038e5a89a96934a327eba9f447f9b41bdc3dbfb8588c3cdc8d25b2c0c3fd8"
     },
     "Friend0061": {
@@ -5318,6 +5326,50 @@
     "Friend0064": {
         "text": "<size=26>just now</size>",
         "hash": "a738851350b935b9f95192e0bc805ce8e529de6b7419914263cb710bbb9a24af"
+    },
+    "Friend619001": {
+        "text": "",
+        "hash": "a68196d91310c6d06082917acf88906d0a42a3ecec6b7bdf1627cbbe3d83ef4d"
+    },
+    "Friend619002": {
+        "text": "",
+        "hash": "84ea603ca401653ad8745c0af5b6b5b3a5b4b6b8ddbb038aae09b05e08e45011"
+    },
+    "Friend619003": {
+        "text": "",
+        "hash": "bc6a5c1d59b444a6b45430e9f328d767925b938da400fecfe55bd174226763be"
+    },
+    "Friend619004": {
+        "text": "",
+        "hash": "a63309b70b2a689543005eaa5ab63ba811a4304e1071e2198edc14337b53c067"
+    },
+    "Friend619005": {
+        "text": "",
+        "hash": "a2bb295f92d48ddb13799d54085aff536997a8a5f5966f648067855ec9de8480"
+    },
+    "Friend619006": {
+        "text": "",
+        "hash": "063b8d32843585a52f1fa418140a1fbca3ac5846570c8c8f03af8b5d42967162"
+    },
+    "Friend619007": {
+        "text": "",
+        "hash": "b911587f85af5dd417014c40a286202dcd816c57465932b9860548072f97d981"
+    },
+    "Friend619008": {
+        "text": "",
+        "hash": "ef0b8fefb58cc82da20aa33e07e4b1397760e3bab920462896a059a8cb40c908"
+    },
+    "Friend619010": {
+        "text": "",
+        "hash": "7eb90c4086920685d51388ba8acfd6c27872ce26494832c48b701454e2d8fe43"
+    },
+    "Friend619011": {
+        "text": "",
+        "hash": "7ceb65942ae601f0c4debb66ecf36693d0dc4fe7be8a0f551a56b73dbf0674cf"
+    },
+    "Friend619012": {
+        "text": "",
+        "hash": "5cd11b9459875fbb3994eec7479c6d6747885b9881ec5cce1f6222b64ad5eb4f"
     },
     "Gacha0001": {
         "text": "Required Trade Pts.",
@@ -5389,15 +5441,15 @@
     },
     "Gacha0030": {
         "text": "",
-        "hash": "1ddd817bffcc139a505e0b97c755ba6f62ee6acdef96f218de2b9a2376d42e3b"
+        "hash": "4b5c621b1701af47c8806608d89d965ef7db88ded77355d3be33da54610bede6"
     },
     "Gacha0031": {
         "text": "",
-        "hash": "ed236f4766c0685253d761ad8e429a15fc5abb4860f67fb77e22e41220358d41"
+        "hash": "c0d53e84b9dbcb95a4fa886685bcd6ad1f2e6107d9d3d2dc511dbe49d51af665"
     },
     "Gacha0032": {
         "text": "",
-        "hash": "0601b79c89beb96f27c5a30745f3811bc161cc1a860ca2639fec2eae47f628ca"
+        "hash": "ea93933b730758305b59b7eb02c63f024ccd33f32de9987da0e6192321b782b5"
     },
     "Gacha0033": {
         "text": "",
@@ -5453,15 +5505,15 @@
     },
     "Gacha0050": {
         "text": "",
-        "hash": "b81e77e81cc6b1f4750cde91c81cf8bc2bde2e55c79b1bd623c082438736e3a6"
+        "hash": "673e20e4c9ad52ea9d488ade3d0c7dee549462bddb26036c8c6a71a3c12836c2"
     },
     "Gacha0051": {
         "text": "",
-        "hash": "1fa80bdf632e283206f6caab9d74f6e559b838efe5e7eda98db0a9e4b63d1597"
+        "hash": "efa0789c41ae1618f4287e77504c30ea3f97cf02af20fc3e93c13a154e00fd38"
     },
     "Gacha0052": {
         "text": "",
-        "hash": "f5d4621d438927a8f11a8f87de5b3dee21889d9694b2ecb0dc69288ed9458592"
+        "hash": "6d803072e2514e96768bdc24b1a3e458c04cf20e3311c05f1100d49ff9578cc0"
     },
     "Gacha0053": {
         "text": "",
@@ -6061,7 +6113,35 @@
     },
     "Gacha608010": {
         "text": "",
-        "hash": "4e556da2abd22bba461cc5055124fe6b32f7dc6a198d7d574a11a97b2ec313c1"
+        "hash": "72f033640c1b91df93ffc56dca1091bf05e125d00b65904359d77da4c266ca24"
+    },
+    "Gacha608011": {
+        "text": "",
+        "hash": "00a1adc95df2062198f1608ace3b299d4adbd3569177dfadaeaa795658b772b8"
+    },
+    "Gacha608012": {
+        "text": "",
+        "hash": "4a3ae568b89098847a5858863676e94053c4732485f26a4f1695abf3103218d1"
+    },
+    "Gacha608013": {
+        "text": "",
+        "hash": "e0048e13f70047bf2c4601985c1ca9d668dc60b06a93605f050d9049fcedee17"
+    },
+    "Gacha608014": {
+        "text": "",
+        "hash": "30724bb5401e23afbad768a678d1c33aac31aa60422b56ed05c828254e593aca"
+    },
+    "Gacha608015": {
+        "text": "",
+        "hash": "fdf15a1cf5f312e1727533a664ee86cb2974034564207502cd0080bf55c7374b"
+    },
+    "Gacha608016": {
+        "text": "",
+        "hash": "15b214b171ae1c7386e3990797522258371688baea51403baf64a778af4255e7"
+    },
+    "Gacha608017": {
+        "text": "",
+        "hash": "8432be27805ac1990b7f6c655481d59c408a8ad2c06df5dfb6bded953826b67d"
     },
     "Gacha608020": {
         "text": "",
@@ -7651,6 +7731,522 @@
         "text": "$(plural {0} '$ length' '$ lengths')",
         "hash": "c1dc93712b1b39e07af237917dadae5d9b626ee619747e0c54a42367f2bcf860"
     },
+    "Job497001": {
+        "text": "",
+        "hash": "c5b60ef22f90c465b8b95dbc80049b1639b08330ce8b4655e4ef124b59aff167"
+    },
+    "Job497002": {
+        "text": "",
+        "hash": "9255c0aedbc5eafb869f72dd818e0cc65b5e2d6145ea06237bb212e17403e3e7"
+    },
+    "Job497003": {
+        "text": "",
+        "hash": "fa04fda8db8990c798077b37797d15711e0f029cc64ded5a6f9e2a42a2e9671a"
+    },
+    "Job497004": {
+        "text": "",
+        "hash": "1a369e55e5f24376b96b830be97474132d2d86989efca299cf23d889f507187b"
+    },
+    "Job497005": {
+        "text": "",
+        "hash": "dd113cf1c11dd48608ae332dd94a982e604dbfd05dfb85cd4d893226a2244be7"
+    },
+    "Job497006": {
+        "text": "",
+        "hash": "bc3c8c6c28a978d8ebfac4ef62629e3a9ac71fafab1843c4d560c0658836089d"
+    },
+    "Job497007": {
+        "text": "",
+        "hash": "6e1095558ac63fa2cd207e4a1089f9cae09a8a90988a79c34405c92a8ac9a855"
+    },
+    "Job497008": {
+        "text": "",
+        "hash": "980a00396a90251da6e80ae01ce96c5c3b7c24cf667774ec27230caf3d8e40bd"
+    },
+    "Job497009": {
+        "text": "",
+        "hash": "1d0c33f539adf9ecc0563993da44ba3fc9130c51e7f8e99c01323a6706661db1"
+    },
+    "Job497013": {
+        "text": "",
+        "hash": "c82c6c28a25a872f0e03f49765a7e0492fd61346647f7828d5644c34e9790739"
+    },
+    "Job497014": {
+        "text": "",
+        "hash": "7904876c6d29486ed9fa5207f86afc2a161b54af0429c01a97aa1f53237cf6b0"
+    },
+    "Job497017": {
+        "text": "",
+        "hash": "bbda64114c79827735dae65b36eb17a653fab5133b235625bb185b3ebe82d2f0"
+    },
+    "Job497018": {
+        "text": "",
+        "hash": "f580915e8fc9803629d3273268f8ae265135f1c45f5f8cba60ffc64fb601fba2"
+    },
+    "Job497019": {
+        "text": "",
+        "hash": "26ad5f65411134ff4ff8f6a00c153ef8ef6f2959136497a43d22cff56e7963f6"
+    },
+    "Job497020": {
+        "text": "",
+        "hash": "5ac8953842b832fc05aacb8ba976d6e8f7536c9d04aaf265cbec80f83bbddeff"
+    },
+    "Job497021": {
+        "text": "",
+        "hash": "0f73e75b4f0ade552079a806707be5f472b0b6ed53957606a77e85d9f74ebad5"
+    },
+    "Job497022": {
+        "text": "",
+        "hash": "63183bb91609da76c02ca02955cccacaf4a4d06c146ad0aa4e38d54dc33f490a"
+    },
+    "Job497023": {
+        "text": "",
+        "hash": "003edfa9c4644a18dd4438dd7effe1603d890360c45d68cf06c7d919e96b826a"
+    },
+    "Job497024": {
+        "text": "",
+        "hash": "fcf29c26f9995414358b15134d535c24f8113c8bcec63616a785898eba29f997"
+    },
+    "Job497025": {
+        "text": "",
+        "hash": "699df872a0aa0a743e7caa5c27630bdb32b622836d0b7fdf4cd995c91d723d19"
+    },
+    "Job497026": {
+        "text": "",
+        "hash": "0b71d07bda2057b07c443f4fdb94db6dc16ceb0c1adc8cca0a04fda722c648c2"
+    },
+    "Job497027": {
+        "text": "",
+        "hash": "ef83bfb1020606c5c60b98a51a0c23e832c63edb7fce3ca7b8d32ed210556505"
+    },
+    "Job497028": {
+        "text": "",
+        "hash": "9913c0e93de0ee81c84eaba4943412bd104b02bf26007afbf745785b73011b19"
+    },
+    "Job497029": {
+        "text": "",
+        "hash": "3e8c5e302a0a8bf45c35f72053473b3b775016bc46779dbda545c2b7bac45d0d"
+    },
+    "Job497030": {
+        "text": "",
+        "hash": "62ef900a8f5d5bff640790a1e72dccecab9c7a61c675f3832d6c7beeb8a7d19b"
+    },
+    "Job497031": {
+        "text": "",
+        "hash": "85217f7aff77841438439fb3e7cf37bb3062fb026453c7692247d3a5641a0115"
+    },
+    "Job497032": {
+        "text": "",
+        "hash": "bf6267da6077b6bedde993a6ec599e9d5474eef12284b6823ef8dd0facc08f40"
+    },
+    "Job497033": {
+        "text": "",
+        "hash": "b6a993c256ef577abb04b0c353affde222af27a0e4254d66bb697a154cfec553"
+    },
+    "Job497034": {
+        "text": "",
+        "hash": "9dcdc2b289b9d23314e89a7830623090087aaeda0bffe3b606bdd466e61e98f1"
+    },
+    "Job497035": {
+        "text": "",
+        "hash": "12f0348d5b4e2d947d893bf32c1aeb5077a9e6a4cfc772f092b8961a660fac11"
+    },
+    "Job497036": {
+        "text": "",
+        "hash": "f13d7d3600a74a6b792b34a861ca37fe67b74d91d09dffbe1b7bb428a63be138"
+    },
+    "Job497038": {
+        "text": "",
+        "hash": "6a8bcbbc3685b6ece958155530bf84cbbdd02fffa56c33ced22aa06bb70f3c89"
+    },
+    "Job497040": {
+        "text": "",
+        "hash": "055e4a49774c5cad90c6ba896ff71ad205166e9a376a7d45249c2583576792b7"
+    },
+    "Job497041": {
+        "text": "",
+        "hash": "cbebf923df94c904ed92bff05a3176b775517f9135f4dacdf776a5f2b1b3fc94"
+    },
+    "Job497042": {
+        "text": "",
+        "hash": "577534eb5d826f31a98e23ccc9f9d5c07dbe4eee28551945181650b14bc9a389"
+    },
+    "Job497043": {
+        "text": "",
+        "hash": "948a108010859557922d292ebe1474972a6a68ae9f16e70bb0feb76d2444f775"
+    },
+    "Job497044": {
+        "text": "",
+        "hash": "3f48e7e2345f913eae11231dd637f54edc4fa91873d30c2f9a6cf2492a78c528"
+    },
+    "Job497045": {
+        "text": "",
+        "hash": "689483a6a9a48063a11dddf5fb0da3064be3c5a0be0d73609c88137f77edee08"
+    },
+    "Job497046": {
+        "text": "",
+        "hash": "8a66655c4605589c390c3873b9f13c09f2564ed07992ce92469f0f91178e1ae4"
+    },
+    "Job497047": {
+        "text": "",
+        "hash": "76ddb6718d0c39392513d71da1b6bab134718e84c1ea7a70589610623adac6e9"
+    },
+    "Job497048": {
+        "text": "",
+        "hash": "77b9e36e2104527afae7131097531ba5f885fede236847d3db4f711f93c95107"
+    },
+    "Job497049": {
+        "text": "",
+        "hash": "7dcc872408f34414b430f00b9bc947b80ac60faaf5fe86b67daf555f81483c49"
+    },
+    "Job497050": {
+        "text": "",
+        "hash": "7a1af41888d89c2dc47219eff1e0dc704b1beb38b5f90d351e8955087a043385"
+    },
+    "Job497051": {
+        "text": "",
+        "hash": "86aba87b665a8df622db8e5d297f3f3ae944fab012fd8d3993266f0b08ef321f"
+    },
+    "Job497052": {
+        "text": "",
+        "hash": "36ae8c503846bc5e5bb01978db808ea9761c1584a9adf6c71570eec058aa26d5"
+    },
+    "Job497053": {
+        "text": "",
+        "hash": "f8ebb24208501672dacc81dba0da8bf9d9d616808610833d37b34ec9bd89e452"
+    },
+    "Job497054": {
+        "text": "",
+        "hash": "a85967dd66a98c7098b78a41d7061aed4b0e9f48de6a4fd6934c3e7a94a7ab7c"
+    },
+    "Job497055": {
+        "text": "",
+        "hash": "c92758b2e86e753ae5c008a2a60f428e88550f355aeebd7834a69522b4d20d7b"
+    },
+    "Job497056": {
+        "text": "",
+        "hash": "602e92ea67876c1f6df2f50ab4ef96ac25fc536179430b09965d56abf9beb390"
+    },
+    "Job497057": {
+        "text": "",
+        "hash": "65bb94d533a060d3d750a97ef8a6b91cfc47c6dcb20b44b4bb3d0ac560a83295"
+    },
+    "Job497058": {
+        "text": "",
+        "hash": "3258532011f6efca11f6f57d0b1d08d0058a60e3f5ee8edaf0339fdff999cd8f"
+    },
+    "Job497061": {
+        "text": "",
+        "hash": "a1e97c762857c937481601cd5e90b25f0fbdf3dfd6bc5a6435a9110781dd8e3d"
+    },
+    "Jobs408001": {
+        "text": "",
+        "hash": "c5b60ef22f90c465b8b95dbc80049b1639b08330ce8b4655e4ef124b59aff167"
+    },
+    "Jobs408002": {
+        "text": "",
+        "hash": "03703ac5285bd16a0bc21fb44845432bbf34620d62db04f0c64db00926aaab7e"
+    },
+    "Jobs408003": {
+        "text": "",
+        "hash": "0337687d3ed63ebbcfdec4375989a5001d91cdcd7422b4dfb691b87dd9ce4013"
+    },
+    "Jobs408004": {
+        "text": "",
+        "hash": "58acd89f1648737f9c97e08dcf92bc7d3a2d1002dfc96e475a56cc5dd8582242"
+    },
+    "Jobs408005": {
+        "text": "",
+        "hash": "963151df16bd25c9424e18f546f42ad75c0bc4a1d660415df3636575183fc22c"
+    },
+    "Jobs408006": {
+        "text": "",
+        "hash": "de039dd006f49e0593fdfa5767f7bd430bce23c90be26933d1e9cf0569f6d652"
+    },
+    "Jobs408007": {
+        "text": "",
+        "hash": "bbda64114c79827735dae65b36eb17a653fab5133b235625bb185b3ebe82d2f0"
+    },
+    "Jobs408008": {
+        "text": "",
+        "hash": "30e078d364baad2b14ca46021207485cbda882e7945018b32af1d972b7a265d4"
+    },
+    "Jobs408009": {
+        "text": "",
+        "hash": "f2a8f03ec31f47e0d41e49de7266d7345c60253bd9eecb8be2b4b9a34274f545"
+    },
+    "Jobs408010": {
+        "text": "",
+        "hash": "7904876c6d29486ed9fa5207f86afc2a161b54af0429c01a97aa1f53237cf6b0"
+    },
+    "Jobs408011": {
+        "text": "",
+        "hash": "7e4a4f00ecc1c5cc6f19dc09a50a9ead6345d95f38fdea20b7dc44d07efd29ea"
+    },
+    "Jobs408012": {
+        "text": "",
+        "hash": "91f127f5319a9ee894d6c94b20fb4fdcdf578df68d9e79bd09b3438c022560e9"
+    },
+    "Jobs408013": {
+        "text": "",
+        "hash": "333cfbae1607ff76c83bf3da4dac058fd3bccd82b119750e6ade3eddb09fd38b"
+    },
+    "Jobs408014": {
+        "text": "",
+        "hash": "6e1095558ac63fa2cd207e4a1089f9cae09a8a90988a79c34405c92a8ac9a855"
+    },
+    "Jobs408015": {
+        "text": "",
+        "hash": "3d24957bc195241e152e09bad5b090db6544b9b21b3beb0544b35725597030eb"
+    },
+    "Jobs408016": {
+        "text": "",
+        "hash": "d80af087cad3d52d138107b4725163e57456f7f948697083559365fb7816a3e2"
+    },
+    "Jobs408017": {
+        "text": "",
+        "hash": "0b71d07bda2057b07c443f4fdb94db6dc16ceb0c1adc8cca0a04fda722c648c2"
+    },
+    "Jobs408018": {
+        "text": "",
+        "hash": "7d0ce458181f68a645ad26608833ac879eea77df7bd2741f57c1139aa6f76441"
+    },
+    "Jobs408019": {
+        "text": "",
+        "hash": "af25bc48c78bbc253386f24747dc3b13b5cd5453da17d162878b5fd4bbf661c9"
+    },
+    "Jobs408020": {
+        "text": "",
+        "hash": "eb7f6b2cd49f2496fe2cf7d862610db43cc1021a44efb33c349a9b1451cc8611"
+    },
+    "Jobs408021": {
+        "text": "",
+        "hash": "4bc941ea680ae9d7b4e84ff401f257d6e364bec8db6e34fc63c020402d230cb0"
+    },
+    "Jobs408022": {
+        "text": "",
+        "hash": "273087c268862341a5c8fe8cba577d93df36526ba6008327eb13a1e13f254083"
+    },
+    "Jobs408023": {
+        "text": "",
+        "hash": "e7824d956ff4a85d77a8b7707471f262136a917199f6c3f6df23eea6ca39d8e1"
+    },
+    "Jobs408024": {
+        "text": "",
+        "hash": "fc5c513ac54c63324c0f961c00d9ad4f3e181ecd5cd3b442fc21a71eddcbf367"
+    },
+    "Jobs408025": {
+        "text": "",
+        "hash": "9255c0aedbc5eafb869f72dd818e0cc65b5e2d6145ea06237bb212e17403e3e7"
+    },
+    "Jobs408026": {
+        "text": "",
+        "hash": "eab47fc5842c7ab516a064a0a285c71cbd76379c37299ee947325a74fe981980"
+    },
+    "Jobs408027": {
+        "text": "",
+        "hash": "4956a93d28166eed5bd2693db5e0ece65decebd658da0ce681dd6aff21a55116"
+    },
+    "Jobs408028": {
+        "text": "",
+        "hash": "44e8c6b36a3ec37b12ec051a468783265bb20c9961a7fa401c76de6db61d3fc2"
+    },
+    "Jobs408029": {
+        "text": "",
+        "hash": "fa04fda8db8990c798077b37797d15711e0f029cc64ded5a6f9e2a42a2e9671a"
+    },
+    "Jobs408030": {
+        "text": "",
+        "hash": "8b11ffb98ec2ff9745182d6a686c59319ef9625bbb46d4b717fd9f55074bb335"
+    },
+    "Jobs408031": {
+        "text": "",
+        "hash": "d8c170b22801cf6ece8afad350731872248e599835b6174383523d42f68725e4"
+    },
+    "Jobs408032": {
+        "text": "",
+        "hash": "ff95da1d1f3c4416f1ac3b6ec4bd177d1bd4d64b769c120fc682ebc5d97ec797"
+    },
+    "Jobs408033": {
+        "text": "",
+        "hash": "4dc8d612289358a411d6962e39468acdb81a6ceba652f8a1057c936eee14ddb3"
+    },
+    "Jobs408034": {
+        "text": "",
+        "hash": "4d447acd687de8a945ea8283678534e93893ad2accadcb7fa3799d1c7dc31b6a"
+    },
+    "Jobs408035": {
+        "text": "",
+        "hash": "948a108010859557922d292ebe1474972a6a68ae9f16e70bb0feb76d2444f775"
+    },
+    "Jobs408036": {
+        "text": "",
+        "hash": "b6a2f129d64c58011d7ee206a8d3f881a9be33d626d001b33a5b2e148e3ef6ad"
+    },
+    "Jobs408037": {
+        "text": "",
+        "hash": "1701fcb519f4ceb034665bb450227163e7185ae7ea027441c8caba92ef153bd1"
+    },
+    "Jobs408038": {
+        "text": "",
+        "hash": "24e2f8be85c176c97f54a2fe076c7cd59769efa2234c0abf0ac15e5125679434"
+    },
+    "Jobs408039": {
+        "text": "",
+        "hash": "538aa1fa2caa4fad4feb28aeb2d2b4f83decdcc15a299383f8ac225287e48aac"
+    },
+    "Jobs408040": {
+        "text": "",
+        "hash": "aa507a579628748bfb11f219dfef5c18c32d9b833faaaac2cf9ea2e0c5be7af4"
+    },
+    "Jobs408041": {
+        "text": "",
+        "hash": "56266435cb822df335ffc0d9f1675d62dfe9adaf9178eac11ea3ab21b4ed44a6"
+    },
+    "Jobs408042": {
+        "text": "",
+        "hash": "386d1b15daf23aa40e470ea7dfb3fc070ed97a7c156d61596fed12ca8b295590"
+    },
+    "Jobs408043": {
+        "text": "",
+        "hash": "67f66228a77ba337108824ea048455e2f89e8f64ef5e7f7fb1b26cc4aa1ffe99"
+    },
+    "Jobs408044": {
+        "text": "",
+        "hash": "5ac8953842b832fc05aacb8ba976d6e8f7536c9d04aaf265cbec80f83bbddeff"
+    },
+    "Jobs408045": {
+        "text": "",
+        "hash": "f431fbf1ad4f7418dbb2175f9c9b045cdee6689b9f5ddec3aed8436ff5e295e1"
+    },
+    "Jobs408046": {
+        "text": "",
+        "hash": "73d55515ac08cf1b47bafcfc4541a64f1f83c655845cf0375d2f9dc0f0df6344"
+    },
+    "Jobs408047": {
+        "text": "",
+        "hash": "544a812898881a915ec7b6cfedaafb419153745baf0c61b61f4058c6279dc780"
+    },
+    "Jobs408048": {
+        "text": "",
+        "hash": "523c6b33be06224d7284ad7d2025a527f01679c7c5220f10aebf421c0dedae82"
+    },
+    "Jobs408049": {
+        "text": "",
+        "hash": "066cb17a4edc667654e5ebc3a07678efea16db1592f2bb81a99a9e7b98ce765e"
+    },
+    "Jobs408050": {
+        "text": "",
+        "hash": "56786ede648a5e502d39de507be0b0f43713d011392d1b8bda364fcecc02ca89"
+    },
+    "Jobs408051": {
+        "text": "",
+        "hash": "e3c95ee89d325c1f1567dcf2537e0c18cb359614efe4710e5bd9977ac6d4ec30"
+    },
+    "Jobs408052": {
+        "text": "",
+        "hash": "57961fd306a4a8c907d15b2f472db878263b6353352474d8c74ce9d86968f3d7"
+    },
+    "Jobs408053": {
+        "text": "",
+        "hash": "c627c09c14e58e44bc51622dac392958ec88244e414b508020634f53cfcd1e69"
+    },
+    "Jobs408054": {
+        "text": "",
+        "hash": "508d28daf6957c11b63731a5b8cd24a6b8b0cbc3b939588c827b80427e2e4f02"
+    },
+    "Jobs408055": {
+        "text": "",
+        "hash": "6c65001e655a807dac4f72e6711d80d42cc98b57e2393602d349581a5b4e7de8"
+    },
+    "Jobs408056": {
+        "text": "",
+        "hash": "4c815fde30372b773665efc4618f02a8a1ec133210043f17812a06329a425aeb"
+    },
+    "Jobs600001": {
+        "text": "",
+        "hash": "f15f7953a395d3e915aa16212892954f9fdba5d55c5b1b5ed8c38d36afd7bd99"
+    },
+    "Jobs600002": {
+        "text": "",
+        "hash": "0d4d702759aba927d9e1400db8b721371d544a194098a10251ba46493cc808bc"
+    },
+    "Jobs600003": {
+        "text": "",
+        "hash": "5bdf524985b69df969c6ac6a503e5b6fbbdba15f6457745c04eba73e4d3630b1"
+    },
+    "Jobs600004": {
+        "text": "",
+        "hash": "950483f5c3b466148cbd4fc196ee23bed77eb70c50dd8e232f0b373c2ff9a01c"
+    },
+    "Jobs600005": {
+        "text": "",
+        "hash": "d6972f2fe376c3acd5182186a03cf8649378541ba8b1dfa17308a7a95f3bdd4d"
+    },
+    "Jobs600006": {
+        "text": "",
+        "hash": "0bee8f7837b0367e5debe58ba18aa2bf13f8d9795c2d5b890a993d001417b89a"
+    },
+    "Jobs600007": {
+        "text": "",
+        "hash": "9bf63b10b85e01e8a12f3cafd4f86967aea96c129837b5fb7acd04e509b04fbb"
+    },
+    "Jobs600008": {
+        "text": "",
+        "hash": "7b71a9eaca2bec782aa48ea43c12710a3ea682ec7ff3eaec833b6fbf53c4a9d9"
+    },
+    "Jobs600009": {
+        "text": "",
+        "hash": "f2e37a59e2bebaa2d76a2254d1743cce33cec28e7dd3422817bc65a5684ff081"
+    },
+    "Jobs600010": {
+        "text": "",
+        "hash": "db861bf78396eedb1b09167da25714b2323053c1a90a161f927be7ba5cf06090"
+    },
+    "Jobs600011": {
+        "text": "",
+        "hash": "6be55515de36f92270b1889d4caa769f363c8753e6b59ab09244d5367ff6eac8"
+    },
+    "Jobs600012": {
+        "text": "",
+        "hash": "53226a4e79efc2ea5af2854abac4a72ef16dabe5fbaac00d8088ecd4aebaee7b"
+    },
+    "Jobs600013": {
+        "text": "",
+        "hash": "5db7366c601ad95191d56df4427b0668204dde01ba5dd45796e515c67a2287f8"
+    },
+    "Jobs600014": {
+        "text": "",
+        "hash": "427e9c3dcaa618763f1ab5172cf4b825643e5dee6a0f59a946394275e52ed280"
+    },
+    "Jobs600015": {
+        "text": "",
+        "hash": "980a00396a90251da6e80ae01ce96c5c3b7c24cf667774ec27230caf3d8e40bd"
+    },
+    "Jobs600016": {
+        "text": "",
+        "hash": "7a965a62e94e9413a4c91e514cb1c8c915b11d416d738d4bf419cfc479ce074e"
+    },
+    "Jobs600017": {
+        "text": "",
+        "hash": "f2281d9c6a6c9df865997d29aa621b8b800e38c5ec6942b39faefb5fcedfe3a6"
+    },
+    "Jobs600018": {
+        "text": "",
+        "hash": "93bcb451633192408f879e1ad4864bb9757ba8a9804a8c3100c3c4e2d90acb4a"
+    },
+    "Jobs600019": {
+        "text": "",
+        "hash": "a62af3d2d564ce542a078507c4dd59b3b0921b8965de368f26ca97fe33b64f1c"
+    },
+    "Jobs600020": {
+        "text": "",
+        "hash": "87a148ea6105b063fa943c2a42b6d286bbce3eb1b36fbd46d4cabddf558546d2"
+    },
+    "Jobs600021": {
+        "text": "",
+        "hash": "9b3ecc4578ae2d9c47179ce209789322596accd601dacda70536015052f65370"
+    },
     "Live0001": {
         "text": "",
         "hash": "83007e912e6fea8ac13cd42f45677ecba404e1f661c08be9c2fc2158f579ae4b"
@@ -8399,8 +8995,24 @@
         "text": "",
         "hash": "d286b934738ebdf7feb31528dedaf5868e749d09b73b48c2fc258c0c5c6d6492"
     },
-    "Outgame0001": {
+    "None": {
         "text": "",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "OutGame585004": {
+        "text": "(Lv 40+)",
+        "hash": "b656e114706887d80f6831b79a09f4f6d63857aad72bf1ec55bb31e6cc131d48"
+    },
+    "OutGame585005": {
+        "text": "(Lv <40)",
+        "hash": "1fdd62fbdbefde46e5518efe264aa926e059d294b673ae5dd0c0cd8c47f3954b"
+    },
+    "OutGame585006": {
+        "text": "This training does not include a Training Partner.",
+        "hash": "9d16ee352b92b78ef394fb73c8b168df2169a48cc9f05915b989080d15800bfc"
+    },
+    "Outgame0001": {
+        "text": "Max. 10 characters",
         "hash": "92aac03146570a1c6f581cf3d6a51376c73c2b9e8a9d5b0fb95342614152fe1e"
     },
     "Outgame0002": {
@@ -8832,11 +9444,11 @@
         "hash": "ecd16a2e37c0f08a3865ee2e5d965b49ba6291fb2823aa8adf1707dbccf81692"
     },
     "Outgame0229": {
-        "text": "",
+        "text": "Rename Deck",
         "hash": "2263fa869d7a4acfdd11cb8cc3ec398c57d2c2e7297d7471057e1a5df9ea75f0"
     },
     "Outgame0230": {
-        "text": "",
+        "text": "Enter your deck name:",
         "hash": "10062741863c571db737e2e1fca4486fafbf538006a67b60a06f974dd5514e00"
     },
     "Outgame0231": {
@@ -11319,18 +11931,6 @@
         "text": "U.A.F. Sport",
         "hash": "d187e8fb0e95dba9323b06bf78adc282e7a9c6c6275e4a8e632bc940b8337508"
     },
-    "OutGame585004": {
-        "text": "(Lv 40+)",
-        "hash": "b656e114706887d80f6831b79a09f4f6d63857aad72bf1ec55bb31e6cc131d48"
-    },
-    "OutGame585005": {
-        "text": "(Lv <40)",
-        "hash": "1fdd62fbdbefde46e5518efe264aa926e059d294b673ae5dd0c0cd8c47f3954b"
-    },
-    "OutGame585006": {
-        "text": "This training does not include a Training Partner.",
-        "hash": "9d16ee352b92b78ef394fb73c8b168df2169a48cc9f05915b989080d15800bfc"
-    },
     "Outgame585007": {
         "text": "Machine Gun\nReceive",
         "hash": "dfc893bde2e92db90e5e33bd71ab549420920eba64b28709a536d6b3147018f8"
@@ -11394,6 +11994,14 @@
     "Outgame585022": {
         "text": "",
         "hash": "d969a15432125d460e7634bcf3d143900ad3dfd85dfc8f4f114c67d6c5c75c57"
+    },
+    "Outgame600001": {
+        "text": "",
+        "hash": "b40f5326cb3ffa39993e5a9852c84f5bf793ef0169c22d092820a40a3b8717f6"
+    },
+    "Outgame600002": {
+        "text": "",
+        "hash": "04f2bcfa6aa656cd246ee9d3b7c281da471a20dde2350a7d52d78c883fbdb26c"
     },
     "Outgame608001": {
         "text": "",
@@ -11556,7 +12164,7 @@
         "hash": "bda096f838171d60347e9911313721a050c50e3df3e2cd1c8559ea6c36abc1ac"
     },
     "Outgame608045": {
-        "text": "",
+        "text": "Multi-Select",
         "hash": "4194f549db658742b99c8962958aa3700171581b36778f50bf20859d6763ba2f"
     },
     "Outgame608046": {
@@ -11730,6 +12338,10 @@
     "Outgame619040": {
         "text": "",
         "hash": "3a5a9c0d950582c9fc8b08718a40f403521243633f9c9d25241baaefe0121b65"
+    },
+    "Outgame619050": {
+        "text": "",
+        "hash": "fda13f7bc8dcad49687b94bdd0dd71f3de2f9e17652efe2aa0ac17249f1dbc35"
     },
     "Outgame626001": {
         "text": "",
@@ -13493,7 +14105,7 @@
     },
     "Race0622": {
         "text": "",
-        "hash": "6eeab8069989db257e7facbf19ed579541c09f85a227df62be2a19388ca66997"
+        "hash": "e9166f7b99d0ad433f07439ac00fe5d4e34b22a251e895d78f2b5d1d9513f514"
     },
     "Race0623": {
         "text": "",
@@ -13692,7 +14304,7 @@
         "hash": "63c000ebeac3434b3053c1e46c749527e55dbd95a342e692321516b035fdbab5"
     },
     "Race352008": {
-        "text": "",
+        "text": "Confirm",
         "hash": "1031639454032f27aee34d14d86df41c568e65621bb6b7bd802bde092551b870"
     },
     "Race352009": {
@@ -13782,6 +14394,34 @@
     "Race9467009": {
         "text": "",
         "hash": "1bf8abcb4cb8e2d3280d14f4eef0bb47e46b1c33edb002e8455223d5f487fcaa"
+    },
+    "Race9467010": {
+        "text": "",
+        "hash": "4b8f6e7e7d992196c0c053b31855b0c1d78857f71c9782a514cf37d6c07f1a76"
+    },
+    "Race9467011": {
+        "text": "",
+        "hash": "323e41792751e840ad9e398d5057120cb1f1b730acbb193ee6498eb3b481059c"
+    },
+    "Race9467012": {
+        "text": "",
+        "hash": "cbb7d1c1d280b95ebc7f829a36661edc83a7b8ba34acd7ca67224320d0e36226"
+    },
+    "Race9467013": {
+        "text": "",
+        "hash": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73"
+    },
+    "Race9467014": {
+        "text": "",
+        "hash": "8b552b617d13301f557388bd346026b34a5f6dec15ce5c3d0512eb5d7e83257a"
+    },
+    "Race9467015": {
+        "text": "",
+        "hash": "cca770ce6397400c6aafac0afd746ccc490210390d1c998a48d4d1148978eb6d"
+    },
+    "Race9467016": {
+        "text": "",
+        "hash": "00fc80845db48c84a631adf65c3d79cee333484dc56391b52ccd53dfbd160447"
     },
     "Race9511001": {
         "text": "",
@@ -14060,7 +14700,7 @@
         "hash": "ecfa9f5c186f8e9c24e14edd9c6b335a6ccd82ac250e29ced237bddd786c954b"
     },
     "RatingRace600046": {
-        "text": "",
+        "text": "$(nb)Are you sure you want to enter?",
         "hash": "76b1b61af2756959c38268af2dc0fd428b6d6af455d5c64be762b5933b261d24"
     },
     "RatingRace600047": {
@@ -15313,7 +15953,7 @@
     },
     "Shop0068": {
         "text": "",
-        "hash": "2bd79ba707ed8a4cb426ce77946fcd89ba495359e0fd0e8590345626139384e8"
+        "hash": "56bacfe7bd35fc73dfb3e59f5134a2e3ed7c1d26f9f04394dec221595fe9af86"
     },
     "Shop0069": {
         "text": "",
@@ -15397,7 +16037,7 @@
     },
     "Shop0096": {
         "text": "",
-        "hash": "908770963eb3a4c1b6c054f320508772ddbda0e3d3f3bf696a780d553a09cd06"
+        "hash": "fd89dd08897caf7279554dc864d420e195fa98955eb11d4f5cb0aad63410ec5a"
     },
     "Shop0097": {
         "text": "",
@@ -15876,7 +16516,7 @@
         "hash": "c5ef4838fa2cd5c0d37e6286641edda3456386bf7079c7642ad900cd94ce23d9"
     },
     "SingleMode0028": {
-        "text": "Obtained items",
+        "text": "Obtained",
         "hash": "e944bdf72effa462e125a32247390d7b2843097fb6b634367ce2a22a0968eeb9"
     },
     "SingleMode0033": {
@@ -16104,7 +16744,7 @@
         "hash": "c92c0b98db4f681e3fe326c9cdab5312cc295d9c4d3ec177997a17f826a16cef"
     },
     "SingleMode0132": {
-        "text": "Goal Completed",
+        "text": "Done",
         "hash": "880a6660780d97b66157a47631aac13c7a648f71f311c110f90565523446a0e7"
     },
     "SingleMode0133": {
@@ -16384,7 +17024,7 @@
         "hash": "f8a628cfc4e05c64195f0d1074252639d69dfb28cfcae9db528cd98e4dc0e915"
     },
     "SingleMode0242": {
-        "text": "No special conditions",
+        "text": "No status effects.",
         "hash": "6483c781105ac26be39fbe122287aea41b8cefbed4bf6f71b86cfb557a8b4e8e"
     },
     "SingleMode0243": {
@@ -16400,11 +17040,11 @@
         "hash": "1ce3374de0178ad3b55484b9f27ad247a336671de0d0558df3e3389b1cf70003"
     },
     "SingleMode0246": {
-        "text": "",
+        "text": "Confirm Rest",
         "hash": "27bcd74d5d27dd2374630902874a2c4f887e5e430affac1565f8ec9137bdc135"
     },
     "SingleMode0247": {
-        "text": "",
+        "text": "She will rest and <color=#ff9900>recover some energy</color>.",
         "hash": "4047b06edd4d6131989adbb1a37a360197496f6a346cb57f393a429f31da519e"
     },
     "SingleMode0248": {
@@ -16668,7 +17308,7 @@
         "hash": "e576df87f4c8d85232ba1ac42f5d07c462690ec2121cf0f3abb16ed8766ba3f6"
     },
     "SingleMode0331": {
-        "text": "$(nb)Remaining Skill Pts. will be lost.",
+        "text": "$(nb)      Remaining Skill Pts. will be lost.",
         "hash": "a1d2364bbada17287a97734330a07c2d210b35794e70300f9b07e3f4370e956d"
     },
     "SingleMode0332": {
@@ -16788,7 +17428,7 @@
         "hash": "2f85e3fda716c5b290168db37c455731ca7ed8b7e3e2b68e8e72b286b255d9ea"
     },
     "SingleMode0363": {
-        "text": "",
+        "text": "{0} <color=#F16D27>is at the stat cap</color>",
         "hash": "94d56bc1b27b4ef72000c2f758a89d942ebca485eae2c889efd6fa226dd61b8d"
     },
     "SingleMode0364": {
@@ -17056,19 +17696,19 @@
         "hash": "fa093cbac05f496d26fe0f01acb17ea1966d30163a305f2a226c013a043ed290"
     },
     "SingleMode0435": {
-        "text": "",
+        "text": "Confirm Rest & Outing",
         "hash": "81753d3f93d137f251de1556d2bd558d63ca5fd46a54d5ab51bf4c92f3e2342f"
     },
     "SingleMode0436": {
-        "text": "",
+        "text": "Are you sure?",
         "hash": "32df8c5fa70e7813de3b302ac45454a9354db434aaef5ef275ccb5d84374309c"
     },
     "SingleMode0437": {
-        "text": "$(nb)        This will end the turn",
+        "text": "$(nb)        This will end the turn!",
         "hash": "9832cdd5ad8daa37abdce6be9b0c8ce45920a4c7d606d6731a201b85e9697e1e"
     },
     "SingleMode0438": {
-        "text": "",
+        "text": "You will gain energy and one level of motivation.",
         "hash": "694a1673cf2bec42887ecd3a6103e0708a2d15b6a58e6b59a20f703b1ce68373"
     },
     "SingleMode0439": {
@@ -18032,11 +18672,11 @@
         "hash": "fbe1e53590789efeb94ba97b478c7e00cea8f5552e6f1a06bbcadbe6fb180a1c"
     },
     "SingleMode418015": {
-        "text": "",
+        "text": "Edit Reservations",
         "hash": "f8148f13135b4456f50402e6d319986f2956c7622c2dc8230f1371acab6e64be"
     },
     "SingleMode418016": {
-        "text": "",
+        "text": "Save",
         "hash": "732f706a196cb8e0ce8bc8d577d7427a94e231ae2c9bce567cf7d2028f11d894"
     },
     "SingleMode418017": {
@@ -18166,10 +18806,6 @@
     "SingleMode418050": {
         "text": "",
         "hash": "f1a9f7b68dc3f013342671fd5937b7483c6ff07fb9ff1039331243a3abde5c57"
-    },
-    "SingleMode418051": {
-        "text": "",
-        "hash": "3bd345e4ec0afc1e3b7a758a00ebb70d8ee7975e03619e1a07a5f21d6842773e"
     },
     "SingleMode418052": {
         "text": "",
@@ -18556,7 +19192,7 @@
         "hash": "5b8be18f97c4ad8208e001235882ed39e2f9ecfa810feeb90d63072a8de9470e"
     },
     "SingleMode508024": {
-        "text": "",
+        "text": "Skill Filter",
         "hash": "84f1b90c8b1c488917633a258725041c34fae7b92f2be4b522dae61c7fafb237"
     },
     "SingleMode508025": {
@@ -18766,6 +19402,14 @@
     "SingleMode539047": {
         "text": "",
         "hash": "8faa05c669ba6da09fe99cb905161cc550280f49d3cd2d794a8bfa452b217a47"
+    },
+    "SingleMode539048": {
+        "text": "",
+        "hash": "c241d1d8b9fbff9697c3ce6fe2734d2ea82b52a5c9fdb24f697d3678f0b7dfbc"
+    },
+    "SingleMode539049": {
+        "text": "",
+        "hash": "0b3b47034f9e2f3cdd3310cf9be73059c112bdfdd4b86eb0ad7fde7e37e510a4"
     },
     "SingleMode608001": {
         "text": "",
@@ -20907,6 +21551,350 @@
         "text": "",
         "hash": "af1be4cc71ef46b4bccc240540a9308d8ae17d4a90fb5aed01caafb48eb761d0"
     },
+    "SingleModeScenarioMecha194001": {
+        "text": "Tuning",
+        "hash": "7aa5612da4c8ca1a72529a319058c51af35598cc79c06cc2523cfc2ba1af85a5"
+    },
+    "SingleModeScenarioMecha194002": {
+        "text": "Overdrive Gauge",
+        "hash": "32ac1e2e03148cdedbae93c69f87436742a44433ca37c0fb44e4cd44caaaa91c"
+    },
+    "SingleModeScenarioMecha194003": {
+        "text": "Overdrive has <color=#F16D27>charged up</color>",
+        "hash": "75425485c91253800e7074ee3facceaa0e2ee4768217f3f9b225d601e8b0fe2c"
+    },
+    "SingleModeScenarioMecha194004": {
+        "text": "Overdrive is <color=#F16D27>maxed out</color>",
+        "hash": "08ff3200e2ec08356b4031d59e7af32efc6c1fcc7ae38ab368c68255a4b1de25"
+    },
+    "SingleModeScenarioMecha194005": {
+        "text": "",
+        "hash": "a18db5b7822bd38b923fc44a518783a916a5ff73c9ea4069953d1f6d05ed4fc9"
+    },
+    "SingleModeScenarioMecha194006": {
+        "text": "Upgrade Exam Overview",
+        "hash": "1bad1b75d03dfa0c3f355ef8a97aedb8909459b4a11aa313f2e3ca7e9dc28f34"
+    },
+    "SingleModeScenarioMecha194007": {
+        "text": "$(ordinal {0}) Upgrade Exam",
+        "hash": "b3ea7ba044a20dc2b6b9b6d3aacfb35c82280f8043c9003ba9397224da0f2a12"
+    },
+    "SingleModeScenarioMecha194008": {
+        "text": "Great",
+        "hash": "b5d1c7503b72c544e58a9b69bb620465117342d189af7abe45a5e015e867e9d1"
+    },
+    "SingleModeScenarioMecha194009": {
+        "text": "Good",
+        "hash": "5f922685474525048c1a604a154265afbdfb6613473180b9a1667584d9850a66"
+    },
+    "SingleModeScenarioMecha194010": {
+        "text": "{0} is <color=#F16D27>maxed out</color>",
+        "hash": "c4beaccd4c9a040b9eb0962894766fe51423b208d2357aec8ebf1a7a89cae221"
+    },
+    "SingleModeScenarioMecha194011": {
+        "text": "The mecha's research has progressed to <color=#F16D27>{0}</color>",
+        "hash": "43171391ac8715246f258bf212a252da9c231dccf7a1f7e48a696702a45ab0ae"
+    },
+    "SingleModeScenarioMecha194012": {
+        "text": "Speed",
+        "hash": "ad284e9087f0ec1c269a689e37a0915f0f6ed1ffb1fbfec1b9c045c2b4fc1113"
+    },
+    "SingleModeScenarioMecha194013": {
+        "text": "Stamina",
+        "hash": "ffb1081ec146d67ae4a22d5572194c456e6714dc862d14811e99bc04b9e788a6"
+    },
+    "SingleModeScenarioMecha194014": {
+        "text": "Power",
+        "hash": "b8f39c8447a450fc48d59618b608a889ec047354329d6231ca23a2cccdfdf89a"
+    },
+    "SingleModeScenarioMecha194015": {
+        "text": "Guts",
+        "hash": "f42efdb38f3aa9dfb9499c24b7782a76b7450e54d8f5e7cff68e18af4628546b"
+    },
+    "SingleModeScenarioMecha194016": {
+        "text": "Wit",
+        "hash": "d2ecb5b4d76ac9eb156e9eee307c77be877885b9aac7d9911c00771a67cc5100"
+    },
+    "SingleModeScenarioMecha194018": {
+        "text": "{0} Research Lv",
+        "hash": "c36979e9edfa5dc4762d104743174893fc59fd60772849f385ad71c92d40cf24"
+    },
+    "SingleModeScenarioMecha194019": {
+        "text": "{0} Research Lv Cap",
+        "hash": "c3cd9b5062325038e8b7fa3947b2755949308b017171f3d9001da4c8898c460b"
+    },
+    "SingleModeScenarioMecha194020": {
+        "text": "Research Complete",
+        "hash": "17a089e1f24aef912f1a595a0be89e8cf243feba3dc15469fa825f6da42b9d67"
+    },
+    "SingleModeScenarioMecha194027": {
+        "text": "",
+        "hash": "42ffe6a601afe3d7c990f49eb0323a75ccd3a59dc67a527434db2df7eeee2f26"
+    },
+    "SingleModeScenarioMecha194030": {
+        "text": "",
+        "hash": "609641ef2fb3c17a8589c121ea365d6bdbd859463665773d9c104caf261ee4b9"
+    },
+    "SingleModeScenarioMecha194031": {
+        "text": "Tuning Complete",
+        "hash": "15a1f091d9b3ebe88bbf5765c5927b399a90d10ac2ee31f8422ea0ed19ce2ccd"
+    },
+    "SingleModeScenarioMecha194032": {
+        "text": "Overdrive Effects",
+        "hash": "57b310b457701f4dc3910f423208bdf666d3eed256d696f1df6a2ad9c0fb2143"
+    },
+    "SingleModeScenarioMecha194033": {
+        "text": "Mecha EN",
+        "hash": "8618eb49e9cb6f03db6f673fc40c4756bcea342d1a5e6c3c2e2be62a01fc7a92"
+    },
+    "SingleModeScenarioMecha194034": {
+        "text": "Cannot decrease further.",
+        "hash": "6ad7258bf9c0b0b71e02e7f51ae5823fce05ededa5ec082af9d48e4c17373658"
+    },
+    "SingleModeScenarioMecha194035": {
+        "text": "You cannot allocate more.",
+        "hash": "0e5dfd02a9045aa585dcd7199ee721490ca8461de4b6888c26eb45de85e41900"
+    },
+    "SingleModeScenarioMecha194036": {
+        "text": "Not enough Mecha EN.",
+        "hash": "93d0740b316227d66d3f71663b012d3e9d87b67cc4a84b94f6810200ac3ec820"
+    },
+    "SingleModeScenarioMecha194037": {
+        "text": "You can Tune after Upgrade Exams.",
+        "hash": "de8a3d4c179799e94e061b7079799f59b003ec5ef6d3c2e9fa8bcbaea1627750"
+    },
+    "SingleModeScenarioMecha194038": {
+        "text": "Confirm Activation of Overdrive",
+        "hash": "c6a69684e7eee1cdb34a2e002e888c6f9709d05bd02ae17e6e2ded71fc35ef00"
+    },
+    "SingleModeScenarioMecha194039": {
+        "text": "Are you sure you want to activate Overdrive?",
+        "hash": "d4fa45e41a66e8ec4a4cfebe75342861ce4c01d06ab6ffca4f218d25aa96020d"
+    },
+    "SingleModeScenarioMecha194040": {
+        "text": "Use",
+        "hash": "f370c321ddf6df0f9a539cd4b2894dab6ba48a86caa372b1e23607ce6abc865c"
+    },
+    "SingleModeScenarioMecha194041": {
+        "text": "Chip Effects",
+        "hash": "4c22bc184758f4ce70979b029d9bcdeed5df649d6423456c1bf2d3f3afd37e7d"
+    },
+    "SingleModeScenarioMecha194042": {
+        "text": "Overdrive is already active.",
+        "hash": "18f615ca087d6aa0764a0beb0c101df9c7eefeb25ddcd42e1b6dba59cb0468eb"
+    },
+    "SingleModeScenarioMecha194043": {
+        "text": "Overdrive is not charged.",
+        "hash": "11bdde7065bddd0197be25ee604307442e4aabaa32e164cc442c0c7ccc520ebb"
+    },
+    "SingleModeScenarioMecha194045": {
+        "text": "Mecha Umamusume Details",
+        "hash": "414166ec7eb168aa70d79f61eee36001613ac22b58e58ffbcf42b2e8909a0494"
+    },
+    "SingleModeScenarioMecha194046": {
+        "text": "Training Bonus",
+        "hash": "b651312952716896a9911154534ba0a7487935d900341c0474ffad6f21685082"
+    },
+    "SingleModeScenarioMecha194047": {
+        "text": "Research Lv Effects",
+        "hash": "20b58e07ade08328a1aeda74a1821b8d1659b1bcbe8681c9b09ff17d2b63455f"
+    },
+    "SingleModeScenarioMecha194048": {
+        "text": "Overdrive Effects",
+        "hash": "94630922ccce81c30a2118f68298ab65670a49e4377cf5057aedb79d82e378ce"
+    },
+    "SingleModeScenarioMecha194049": {
+        "text": "Tot. Mecha EN",
+        "hash": "9be2661e11e7de648a0bbb841b7560e94930446cd4fcdf086e3637df3624e021"
+    },
+    "SingleModeScenarioMecha194050": {
+        "text": "Progress",
+        "hash": "bac93de543a0779b211d809eaa1c606959829731dadc18d9a6b293b9f5217e4d"
+    },
+    "SingleModeScenarioMecha194051": {
+        "text": "Tuning Effects Overview",
+        "hash": "b4636de40be161845066ad0e1d4e530c3eb9d7429fb8e81e4cf8e1a2be4b647b"
+    },
+    "SingleModeScenarioMecha194052": {
+        "text": "No. of Overdrives",
+        "hash": "35706ca06b27cd1f09d399aef39a860a1b5412042ce20cea5f90685a64b8803e"
+    },
+    "SingleModeScenarioMecha194053": {
+        "text": "No active chip effects.",
+        "hash": "1bf0b9e7761d3956f68db0c8b241c485c777ab3a922595b4ac4984af2029833c"
+    },
+    "SingleModeScenarioMecha194054": {
+        "text": "Lasts 1 turn",
+        "hash": "22abfcaab4ed11cd3db413eb21d3de0a00209c36ab8a852aeba6a065e9ef38e6"
+    },
+    "SingleModeScenarioMecha194055": {
+        "text": "Are you sure you want to complete the Tuning?",
+        "hash": "460a66f8fc30f28b4f2a27ab2fadab7b2ae0f716a724217e0b7c03ea028ddf52"
+    },
+    "SingleModeScenarioMecha194057": {
+        "text": "Mecha Uma Effects",
+        "hash": "cc3f6afc14ea4ebb49e44aaf3a2b86fd5810b630e95c3fc0022d9554a197bdbe"
+    },
+    "SingleModeScenarioMecha194058": {
+        "text": "Training Uma Effects",
+        "hash": "bfc7e05f4510c2dc33c5121093488061d6ac0c744d85111f6d4db135e16d3c43"
+    },
+    "SingleModeScenarioMecha194059": {
+        "text": "Lab",
+        "hash": "e632b7997a2274a0be664ecbf719520dd11439f289c59c40c5a50f951df0b919"
+    },
+    "SingleModeScenarioMecha194060": {
+        "text": "You won't be able to Tune again until after the next UGE!",
+        "hash": "99689f93189b06695c17597e92bc5e4a5cc6f10c072fe44ad6cd9db50c097eae"
+    },
+    "SingleModeScenarioMecha194061": {
+        "text": "Research Lv Bonus",
+        "hash": "a44af389385551850bd2f03deaddf133150513614e0398996f2168066b5c8f69"
+    },
+    "SingleModeScenarioMecha194062": {
+        "text": "Confirm Tuning",
+        "hash": "874ac1d13f2771ad05d994c8c7550ca6ccfe89a9035212f03dde0d251b511008"
+    },
+    "SingleModeScenarioMecha194065": {
+        "text": "You must use all Mecha EN.",
+        "hash": "36e4daa39cb0d8326995e7d912f903a824e84b3f84066888d37de43567bce380"
+    },
+    "SingleModeScenarioMecha194066": {
+        "text": "Research has generated more than enough data, \nand you received an S grade on the exam",
+        "hash": "42a28233ee1908b15c7fe83e01d3e1ed5f1a971f86c09ba22a6c08940064b32a"
+    },
+    "SingleModeScenarioMecha194067": {
+        "text": "Research has generated enough data, \nand you received an A grade on the exam",
+        "hash": "ac60679f513a52bb354b45a8dfc86adafb139056764036051e51bf40be042c39"
+    },
+    "SingleModeScenarioMecha194068": {
+        "text": "Research has generated some data, \nand you received a B grade on the exam",
+        "hash": "f63b8ed020af159d642899f3e46b987aa014cf81c1327ade533c787258149edd"
+    },
+    "SingleModeScenarioMecha194069": {
+        "text": "UGE Start!",
+        "hash": "f52ce7bb45de65d8dc3a68b24c3bbc66b9909fb81823736b6562ea679fc96d6e"
+    },
+    "SingleModeScenarioMecha194070": {
+        "text": "Research has completed",
+        "hash": "8b8bb7689b01c9ea29c289f36ec19f48c9b78cabc6b20cd1a517c2cb3e515f15"
+    },
+    "SingleModeScenarioMecha194071": {
+        "text": "The Umamusume <color=#F16D27>joined</color> the research project!",
+        "hash": "02b1ab9e1c8205314686398ae46249b091ba7db079b5bf549426c73ac69ca978"
+    },
+    "SingleModeScenarioMecha194072": {
+        "text": "The Overdrive <color=#F16D27>kicked in!</color>",
+        "hash": "a005b6ea1e67c6e5ec14fc14f969515e2469862e38921164795cc37a21a7572a"
+    },
+    "SingleModeScenarioMecha194074": {
+        "text": "Research Lv",
+        "hash": "c4b44880b0b5453dd66c74ce25076304a01c356f02c0fadbbd016cb9de7cf725"
+    },
+    "SingleModeScenarioMecha194075": {
+        "text": "Total",
+        "hash": "9e70ef77b346bfee2630689237a3e7e4734c31f60fe69cfbd25dde83cc3343b0"
+    },
+    "SingleModeScenarioMecha194076": {
+        "text": "Target",
+        "hash": "9b88aa0297712a5cc6add5a598a7f874166a1ffb81546cedf5cc9166a2153f8e"
+    },
+    "SingleModeScenarioMecha194077": {
+        "text": "Until Nimble",
+        "hash": "7ac03a1a18d43645263af4f4592c245af2940f47db6294eb440a6b0e5e571015"
+    },
+    "SingleModeScenarioMecha194078": {
+        "text": "{0} Effect Details",
+        "hash": "30722a4ae0d2050a83b629a6b4d731f318b31164767cfe2034c9514309513d17"
+    },
+    "SingleModeScenarioMecha194079": {
+        "text": "$(nb)$(scale 72)Held Mecha EN",
+        "hash": "c7e837e933f47925306634f4d4bee62ebaaece88898fd368ef7c61aed86fcc80"
+    },
+    "SingleModeScenarioMecha194080": {
+        "text": "All Overdrive effects active!",
+        "hash": "1a33fd8166496dea45f40858f9aee2230099f26ea6f850bd35dadc4933a81322"
+    },
+    "SingleModeScenarioMecha194081": {
+        "text": "until next Overdrive Effect!",
+        "hash": "6246008edc8c26df139f16f7b6b23f1a0b8107e51b2f741fb0aa1e65a86078da"
+    },
+    "SingleModeScenarioMecha194082": {
+        "text": "No further Tunings possible!",
+        "hash": "f52a862b3f992566e29bd8f0063bcd90d774900dadd692d77c418089322db7be"
+    },
+    "SingleModeScenarioMecha194083": {
+        "text": "All research types' caps <color=#F16D27>up {0}</color>",
+        "hash": "da57030b7a4bc09d17dcedd59143e8eb7cf629c7bceadbce7363308b40541bbb"
+    },
+    "SingleModeScenarioMecha194084": {
+        "text": "<color=#F16D27>Gained {1}</color> {0}",
+        "hash": "d61074359815cdf5064e5d9e7d481520cb40f19484b77d1aba887e51232c6174"
+    },
+    "SingleModeScenarioMecha194085": {
+        "text": "All research types <color=#F16D27>up {0}</color>",
+        "hash": "29dcdd5525d120bbce42d3e291707239963d63e3af382a0584a690fab430a5aa"
+    },
+    "SingleModeScenarioMecha194086": {
+        "text": "After $(ordinal {0}) UGE",
+        "hash": "fc2bbc8e01336319930d052c56d083dff4ecc5ccdea162363c47d250077c9ea8"
+    },
+    "SingleModeScenarioMecha194087": {
+        "text": "After\n$(ordinal {0}) UGE",
+        "hash": "f7f24f23a8776adf2c2e60a5493dc16774de661bbe42ebcc8a7c0e87081f070f"
+    },
+    "SingleModeScenarioMecha194088": {
+        "text": "You cannot activate Overdrive.",
+        "hash": "b7df38d8d6be937fe053dea1f3e5c8f143a0b5bad04c64a761b26dc0aa8da95c"
+    },
+    "SingleModeScenarioMecha194089": {
+        "text": "$(scale 85)Mecha\nDetails",
+        "hash": "15e50a8c80554c82cd17e11ece867ae5d1e524f97d10f59437c2b4dd6966cde3"
+    },
+    "SingleModeScenarioMecha194090": {
+        "text": "$(scale 85)Uma\nDetails",
+        "hash": "f87a906788b1b66cbb549befd0210fd62379e5781aff5c75053f57b519afceb0"
+    },
+    "SingleModeScenarioMecha194091": {
+        "text": "Active",
+        "hash": "1afdae7070348ab4d34e3a3b324743426c227df74748ebc6bdfa966ed8e8ee9a"
+    },
+    "SingleModeScenarioMecha194092": {
+        "text": "Overdrive will <color=#FF911C>activate automatically</color> on <color=#FF911C>every following turn</color>.",
+        "hash": "220029f8e09571723a34663ea3a4bed8a3b1f669fd96c512ad5d4337f606d642"
+    },
+    "SingleModeScenarioMecha194093": {
+        "text": "$(scale 75)NEW",
+        "hash": "d91017c932b5fc756522e43c732b39b893d8061e3045e7f942ae7ebbf5bfb043"
+    },
+    "SingleModeScenarioMecha194094": {
+        "text": "Up",
+        "hash": "dd117739b2b9a70d5ee05c169ff78922f9732c4ed29f78ca6d5647dc827d3242"
+    },
+    "SingleModeScenarioMecha194095": {
+        "text": "Down",
+        "hash": "163570a4d849a9450929c8dff1beab4a44b69adff4e0f176249da0a510075c90"
+    },
+    "SingleModeScenarioMecha194096": {
+        "text": "Confirm Overdrive Effects",
+        "hash": "906c5066aa2886340ba5fce99d6bf262db30b35aedbcbfb079acdd3f423e9fef"
+    },
+    "SingleModeScenarioMecha465001": {
+        "text": "",
+        "hash": "def298e84714d76905c5419b691dfd6f3f57f7a58cdced83be5adc05a87d8fad"
+    },
+    "SingleModeScenarioMecha465002": {
+        "text": "You unlocked a new chip!",
+        "hash": "8bdb262e8df1e0400f278689dd2388b2c52d70302f56df86cd1e6af52a35da82"
+    },
+    "SingleModeScenarioMecha465003": {
+        "text": "The Overdrive gauge is <color=#ff911c>maxed out</color>.\nAre you sure you want to train?",
+        "hash": "27b893d899ba81b44b8f627fb0bfbac5a1accd1234fa3674044ef6ae0f3ca7a5"
+    },
+    "SingleModeScenarioMecha465004": {
+        "text": "The Overdrive gauge will NOT increase further!",
+        "hash": "04073a8daf1a35c50aa4ae636bd33efbe551d0c677555d823f8c5d0f4920f040"
+    },
     "SingleModeScenarioSport419007": {
         "text": "$(nb)Tournament Info",
         "hash": "ef868dd0c114f7bb4933a3ede1ce3b3e1d30e8d8706fd42fd796313e280b1914"
@@ -21280,7 +22268,7 @@
         "hash": "8e9fe36633a6d0db81611c9a1447c31d317c9b56b560c6f300c3cf4e9dcbe10d"
     },
     "SingleModeScenarioTeamRace0028": {
-        "text": "No records",
+        "text": "$(nb)$(scale 80)No record",
         "hash": "e5c0826623d91dfda49773a0a9ac5f2ecf69745a06e1b544c4c57ec7ac0ff235"
     },
     "SingleModeScenarioTeamRace0029": {
@@ -21644,7 +22632,7 @@
         "hash": "5ce0bdfd8c85275847b98987c3b19cb8aba972e7b564371f68a5de0e710d4fbe"
     },
     "SingleModeScenarioVenus400106": {
-        "text": "",
+        "text": "↓Active",
         "hash": "ea2ee62b9aeb693a58a201e32908fdda87f5eb77202142d739ae0c10577634dd"
     },
     "SingleModeScenarioVenus400107": {
@@ -21928,7 +22916,7 @@
         "hash": "cb50586cf87e2ccf3ceffab71213972317c2a70253252d295e6ff4967afbc34f"
     },
     "SingleModeScenarioVenus425039": {
-        "text": "$(nb)Are you sure you want to start the race?",
+        "text": "$(nb)Are you sure you want to enter?",
         "hash": "76b1b61af2756959c38268af2dc0fd428b6d6af455d5c64be762b5933b261d24"
     },
     "SingleModeScenarioVenus425040": {
@@ -22096,7 +23084,7 @@
         "hash": "ef54f9e59bf562f8ddd036c9d96888c1e7eda48bf89daf76d6908a486d85f9c6"
     },
     "Story0035": {
-        "text": "",
+        "text": "<chrname> learned something new!",
         "hash": "bbda85fb2330dc6162e6e29f5b42729895bbddc15e96a66a5977dcbcecceac50"
     },
     "Story0036": {
@@ -22406,6 +23394,14 @@
     "Story511006": {
         "text": "Watch Movie",
         "hash": "2c83fdda787ac56e31a31638ca3cfa11f9aa4ac1460d2c0b6d2a7ff12df9f052"
+    },
+    "Story570001": {
+        "text": "",
+        "hash": "e28b397c7fde6501231b9c486f1bc85d706c1cc55876dbc1aea7a7bb9a35acce"
+    },
+    "Story570002": {
+        "text": "",
+        "hash": "6667974a5bc8e5660678fa675d6022f846eed924493e7d47ffb1096144db43e7"
     },
     "StoryEvent0001": {
         "text": "",
@@ -24420,7 +25416,7 @@
         "hash": "a255a149b331e12ef786d3e36b6b220e52bad29a6988b21f88f3eb59607c39cf"
     },
     "TrainingChallenge4180100": {
-        "text": "Trainer Proficiency Exam",
+        "text": "Trainers' Exam",
         "hash": "208f4a7de3c52aeb4af82ffdbb893f332ec2ce7bfc356d4c907ac25c11cf5a92"
     },
     "TrainingChallenge4180101": {
@@ -24476,15 +25472,15 @@
         "hash": "137885d11d3a161be03ae08f6eacca2a7d1b6f62e1cf3170a9d1aa20bf42072b"
     },
     "TrainingChallenge4180403": {
-        "text": "",
+        "text": "Standard Mode",
         "hash": "7b72b1bf01a3039f8fc59e440c5e798b2ada79786c73df9f95e01ab9005b596d"
     },
     "TrainingChallenge4180404": {
-        "text": "",
+        "text": "Proficiency Exam Mode",
         "hash": "ef8bd425aa7e33727a100d90b618d47869aee779090dbf60bb76a78b473ac247"
     },
     "TrainingChallenge4180405": {
-        "text": "",
+        "text": "Choose Training Mode",
         "hash": "7aa7dbbb9d60c74eb6a3c289d895869bda2bab5bc6ca6431634005a48fb2af27"
     },
     "TrainingChallenge4180406": {
@@ -24540,7 +25536,7 @@
         "hash": "f1c297802083d202aa2e5b6f2c6f67cafb070eecfd3cedd66e95046ae77515c6"
     },
     "TrainingChallenge4180607": {
-        "text": "",
+        "text": "Would you like to go to the event menu?",
         "hash": "813cb46af0e6910532bf9dc2a94fef7d4ada594cce44e9bd8beb3d0a4a96ede5"
     },
     "TrainingChallenge4180608": {
@@ -24552,7 +25548,7 @@
         "hash": "e37774a28711b22225aa792a831e4392b37b066472003d29711ebe16922a6d35"
     },
     "TrainingChallenge4180610": {
-        "text": "",
+        "text": "Event Menu",
         "hash": "3d58d270be1bb98177668fe0d56ffb7dee5d5c7d256cf215ab286debc9abba75"
     },
     "TrainingChallenge4180900": {
@@ -24605,15 +25601,15 @@
     },
     "TrainingChallenge4180912": {
         "text": "",
-        "hash": "81cc842f86d63754a99ca50f899e4633da079538c4cdd51df8ac90c0502d62cb"
+        "hash": "7d5f370f664142816fedbe0f9730eea2175a69729cbd60619619576e1e600033"
     },
     "TrainingChallenge4180913": {
         "text": "",
-        "hash": "5644add63ef1ca5e903b435a4878b53d5cd2cd434779d6ac400ce3ef6a179f6b"
+        "hash": "061e1950cada26d5e6b030c119c3db7f414f1758b5ffb5ea0ad44c34a0662fad"
     },
     "TrainingChallenge4180914": {
         "text": "",
-        "hash": "ba11eaa6c7863db15920c6a51eec0476209871606c187279b71ff74f9a57bbc3"
+        "hash": "2b394095231b1e1be6e8b586b79b3932b9099a99f18fda2593701b36bf25d956"
     },
     "TrainingChallenge4180915": {
         "text": "",
@@ -24657,27 +25653,27 @@
     },
     "TrainingChallenge4180925": {
         "text": "",
-        "hash": "eb9042b4c3fd9bfc38d70dc0ccb9873d258883c328919d3262e1bc72d7d0b459"
+        "hash": "2899ea56d118a8c6c1b24de8528e0a61343cb2bdaedda9284e001aba95e246bb"
     },
     "TrainingChallenge4180926": {
         "text": "",
-        "hash": "c43f2486118fc1aeb18da520ef1a1bb23022f7190b508c17eb210be3ad1b5a8c"
+        "hash": "8311e97d90c9276197090bded9fa531182b3cdd841aa4b3389e6ef0596590a7c"
     },
     "TrainingChallenge4180927": {
         "text": "",
-        "hash": "085bc6c59cabfbf4a6e0e8dfa3a4fed2e24e77a1dc8a1d30a6c5e0ce84679aa8"
+        "hash": "db328ab9082b34ea3c5755ca62beac85f292f61784791a5caacc043db00d63e6"
     },
     "TrainingChallenge4180928": {
         "text": "",
-        "hash": "122c3610e1cc05cc04bb724698d3e3995c44a688c4304220c86927f62da348cd"
+        "hash": "f6de5449d1f0a58971bff04b18e934bf5b356a733b4f16162ced3efc3c1cf2bc"
     },
     "TrainingChallenge4180929": {
         "text": "",
-        "hash": "2dd1087b336e962f7c3bc471f526ebdd581a87d206c591039665d5ba022dbe84"
+        "hash": "8e09e8521cd57be4299a266406b8822593d9de0bba674eae2efd749ee061024a"
     },
     "TrainingChallenge4180930": {
         "text": "",
-        "hash": "f3a200004906769c04a990ffe834c973a0657e14bdaa54e2f98db14acc7be079"
+        "hash": "3bfb859f85b9c87c80c0ebe9ae990a368f2a9ead307fc403c3c5989126e049ba"
     },
     "TrainingChallenge4180931": {
         "text": "",
@@ -24788,7 +25784,7 @@
         "hash": "c0be6499c92ec64e88ccf3a935d5078bf17e1071a26a905dfc6542b51912464f"
     },
     "TrainingChallenge4182005": {
-        "text": "",
+        "text": "Trainers' Proficiency Exam!",
         "hash": "7134de5f824d596db9e72ae022581411e1efe49b8260d82cd900404a77d0f6eb"
     },
     "TrainingChallenge4182006": {
@@ -24824,7 +25820,7 @@
         "hash": "6ab6d958dc90f34fe5fb09bd3bae0a21e37d7fe42cd32148c3737fccdd31ad68"
     },
     "TrainingChallenge4182015": {
-        "text": "",
+        "text": "Event Ongoing",
         "hash": "05818ddf030e2ada42ab2cfb54e31d5f3973a5bd5471f3e409ea789759d980d8"
     },
     "TrainingChallenge4182016": {
@@ -24876,7 +25872,7 @@
         "hash": "681ca1a9fcd5f6f198c798db3f369ca581927381e73d839cfb260d449e911385"
     },
     "TrainingChallenge424009": {
-        "text": "",
+        "text": "Exam Bonus",
         "hash": "5a95f2f9513d24690329927df648202cc7cb1a91beeefe2acfe92ebb57409818"
     },
     "TrainingChallenge424010": {
@@ -24884,7 +25880,7 @@
         "hash": "0b9c261dfb67f6dfab274541d43e94124445d379fc75604c3d02b5a34b01bddb"
     },
     "TrainingChallenge424011": {
-        "text": "",
+        "text": "Start the Event",
         "hash": "78b2075ea7fcb7e80e823e34810cc079fa038cbedfd5a29fe03c134c5b18549e"
     },
     "TrainingChallenge4242000": {
@@ -24912,8 +25908,44 @@
         "hash": "6c9f718f9464db3244ba65312467fabd19831325c45430ac5b60e062605f21cd"
     },
     "TrainingChallenge508012": {
-        "text": "",
+        "text": "$(nb)$(scale 90)Deadline",
         "hash": "49e2f99892f4a7ce237f131ce7eba766bc8bd5b3e25c7af56e4765811b920759"
+    },
+    "TrainingChallenge6480001": {
+        "text": "",
+        "hash": "a13770a77680e896a0d263a2b53634fa38f78a5900217bd7f6b83380287f4fc0"
+    },
+    "TrainingChallenge6480002": {
+        "text": "",
+        "hash": "88b8c912e5b55527e27fefa205bfca506597364aa3dfe65c3977de52139f0786"
+    },
+    "TrainingChallenge6480003": {
+        "text": "",
+        "hash": "5cfa00179df2dd8ea5fe9f190620fe58742e53d4e46d2f3a1ed842df56c6e73e"
+    },
+    "TrainingChallenge6480004": {
+        "text": "",
+        "hash": "4315ef9ebc2aaeb576e40f8b0e559ed3cc2f68ee1f9a2374497199fa51bf896a"
+    },
+    "TrainingChallenge6480005": {
+        "text": "",
+        "hash": "bf691678dd099afb406e42ad6b1812079296a6231cebf62b7f5f6707ed5b2c86"
+    },
+    "TrainingChallenge6480006": {
+        "text": "",
+        "hash": "11f9624e9418c5cd266762e0e1fff601f69dd10482d53de6873f077e35d545af"
+    },
+    "TrainingChallenge6480007": {
+        "text": "",
+        "hash": "0b01c2f25fa51ff9b86b592c205fc8858303c57713aacc7072334f6a237705e1"
+    },
+    "TrainingChallenge6480008": {
+        "text": "",
+        "hash": "926b641ca04466c9726bbbf0fa39dca0af95e9312dab48e6bdbaf0c9f12c64f1"
+    },
+    "TrainingChallenge6480009": {
+        "text": "",
+        "hash": "159f4405819e80fa71f18de033bbeb84f937f35b5fe7093e7f1d2ac372879fa8"
     },
     "TransferEvent0001": {
         "text": "Transfers",
