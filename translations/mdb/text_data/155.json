@@ -295,6 +295,10 @@
         "text": "Skill Pt bonus and initial \\nWisdom increase",
         "hash": "fc834f366ea216047694c5b6bfaaed308604f2c44edd791afba1f6554350f796"
     },
+    "20081": {
+        "text": "Training bonus and initial \\nPower increase",
+        "hash": "9a427a0966446c11b5c779821a64b21b620094cdbe2e5366b5deb0ddc02227bd"
+    },
     "30001": {
         "text": "Guts bonus and initial Guts increase",
         "hash": "772b79186f4548f3b936007b68c578e89e36f3e4fcf6382bf34f3e091b130f33"
@@ -1134,5 +1138,9 @@
     "30226": {
         "text": "Stamina bonus when Bond over 80",
         "hash": "aa04830f11bac1d84ef9c0369ed1c5042a84cf4acc7c8114b0e819a018207873"
+    },
+    "30228": {
+        "text": "Power bonus when Bond over 80",
+        "hash": "ba880bfc5bb1219cdc7cabf01db7f7cd7a2045d1bfd7a001b73a80aabb318474"
     }
 }

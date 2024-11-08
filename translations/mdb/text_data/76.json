@@ -802,6 +802,11 @@
         "text": "[Hanagoromo for You]",
         "hash": "5d4726a815b7ccab3507649c1728060924ac407f14f4f919743f0e08a9e448c2"
     },
+    "20081": {
+        "text": "[Leave the Haute Couture to Me!]",
+        "hash": "e2de6bf99ae2bf9c81d2b4d4ce6004a6bf8354b938f518c8c8c0e9c174900795",
+        "processed": "<sc=83>[Leave the Haute Couture to Me!]"
+    },
     "30001": {
         "text": "[Japan's Number 1 Stage]",
         "hash": "15e94e3d710f8f0491ed4cfe4fdda657fd889d232c6f5d26e0c822eb9699dc77"
@@ -1756,5 +1761,9 @@
         "text": "[The Wind Blows For You, Scarlet]",
         "hash": "58a3cd4d97b6c6a42397d59b7d0f9b5248c2c28869398616b5f8a10e5118bde1",
         "processed": "<sc=82>[The Wind Blows For You, Scarlet]"
+    },
+    "30228": {
+        "text": "[COOL⇔CRAZY/Buddy]",
+        "hash": "6b5e2209d7db782e3211f0ebaa619aa2daaf4579e63dabdca401a6f65f119180"
     }
 }

@@ -832,6 +832,10 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "120231": {
+        "text": "Accumulative Victory",
+        "hash": "32d15d9c7ec50ba0d9b7bbc862eedac7b2daed4538a5dc6aa826b6cbe05ed0ad"
+    },
     "120241": {
         "text": "HOP STEP♪LOCK ON!",
         "hash": "9be2dd4a6e6b71e0af2ae505f2a6f97ab000c02e6d4f2ddfd4675e3a263dba8d"
@@ -857,6 +861,10 @@
         "text": "Ninja Art: Seal of the Smiling Heart",
         "hash": "fe8279235e0f173ff4911dc403e90e2bc7e1e3af94152886637c545ab746402d",
         "processed": "<sc=70>Ninja Art: Seal of the Smiling Heart"
+    },
+    "120501": {
+        "text": "Overdrive Speed",
+        "hash": "a909c20e99636b7f4132b80878378c28d9e11abe1efa49fd33fb730775423ea2"
     },
     "120601": {
         "text": "Springy Festivities",
@@ -2981,6 +2989,10 @@
         "text": "Toward Victory",
         "hash": "2547aff483cb5f48577d9dac7ae4ef5a5ca2b3e2e96dde0d2b129aad4630fd8e"
     },
+    "202771": {
+        "text": "Laser-Focused",
+        "hash": "2afa2a99c4196c98ea3ad7cb0cc44c1e62037200f93161d1ce87e0370e28df91"
+    },
     "202772": {
         "text": "Honing In",
         "hash": "183db81c9365d290faba33441cf2a188996e2042d1ea0c94357c2f206c4a9fc3"
@@ -3303,9 +3315,49 @@
         "text": "Restless Step",
         "hash": "1d0f96fa27d844fa71bb849d433e0288cac43c587ccd5d78a57da6a360cfa857"
     },
+    "203241": {
+        "text": "Chain Reaction",
+        "hash": "6ef5be92574c0d9d0f8700cca765ddeb7999023955758d000308d1a4ee05e772"
+    },
+    "203242": {
+        "text": "Fuse",
+        "hash": "1b7e90191541ec9987dc4d57144d6a985d555fea3400eab97b76a40554f40f74"
+    },
+    "203251": {
+        "text": "Like a Blaze",
+        "hash": "1ee14b52b26bf6bf863fd9f05ee1a2c8981fec434192d3dcf9bf9e00ecb7e3c2"
+    },
+    "203252": {
+        "text": "Surprise Attack",
+        "hash": "5ce5b999342e65485cfd596c88bf9aac6971c0bba99a1278ea0e49fa0b60102f"
+    },
+    "203262": {
+        "text": "Firm Resolve",
+        "hash": "0795b52847dda1898f6be71d6ce4e6d368371016da363f17f88042dfc839c4b1"
+    },
+    "203272": {
+        "text": "Spearhead",
+        "hash": "47d794850a08b1793a45270a27cc96ba0f2192a34e53df90fe794d106611bc1d"
+    },
     "203281": {
         "text": "Unconscious Shackles",
         "hash": "2351e9b38e51b798590d8616694672b13aea82246209b56070b04a5177f8c1b3"
+    },
+    "203301": {
+        "text": "Peak Ferocity",
+        "hash": "0d8baacf731bd6a13433ccc6d7fcb39e7d7e269dc68e82a5dc06f4ea2e425774"
+    },
+    "203302": {
+        "text": "Fervor",
+        "hash": "30fb3be212de50eb92dc8b938fe31e2fbec59b42e33daa85ba61d2bc336af39a"
+    },
+    "203311": {
+        "text": "Flash",
+        "hash": "e1a3baadc08f596502a0613865aeea5db547cef231775ffc3f1813ac669d8572"
+    },
+    "203312": {
+        "text": "Towards the Light",
+        "hash": "f308276aaf34404ccd16f53107e35569f4f96b4749753261d1c6e34215fac6e5"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -3461,6 +3513,14 @@
         "text": "Essence of Food",
         "hash": "7b725c290090e494c5a12962460cb03df39c3c551a652d07c5237fc8e84492ca"
     },
+    "210341": {
+        "text": "For a Fleeting View",
+        "hash": "83421cda654fdf760d838a71357a64bc8b91b0268503d83d5183cf7fb4506650"
+    },
+    "210342": {
+        "text": "Reproducing a Dream",
+        "hash": "79d5a7c0c4abf922d22d519fea59d726be83f1f063643a685c1b42b569626d83"
+    },
     "300011": {
         "text": "Unquenched Thirst",
         "hash": "6490c193306e82873d603063ad95d306ad318f5f3871e3669fb686a700ab34fc"
@@ -3579,6 +3639,31 @@
     "408061": {
         "text": "Curve Grand Chef",
         "hash": "6266036cff137aaee9ba41e3141b7d86822cd57ada8ef740957d666699705e59"
+    },
+    "409011": {
+        "text": "Monster Machine",
+        "hash": "2c5aac658896d0cead0dd5e8afb78cd199eb2bcfddf02b16b594c7b9c4990225"
+    },
+    "409021": {
+        "text": "Recovery Sequence",
+        "hash": "7c3499cd0ee338bd27ecde995591b2a406956deecf1c7813e7f7e20a959f9181"
+    },
+    "409031": {
+        "text": "All Systems Green",
+        "hash": "47e7e97f02d1f6ff47e57b7115628339e731c8ce239c77ba9f82dc32d19a8936"
+    },
+    "409041": {
+        "text": "Limiter Release",
+        "hash": "6a71fc84333c034953c08cc296725f38d910ca2a5ada35b0833b6e26b821afa2"
+    },
+    "409051": {
+        "text": "Lead-Preserving Algorithm",
+        "hash": "a3233128c26fedd25f68e9c86b76be3db1a0096515550bfa432e5fe2c70cf917",
+        "processed": "<sc=92>Lead-Preserving Algorithm"
+    },
+    "409061": {
+        "text": "Archline Top Scholar",
+        "hash": "ae4736f82dae7c81a9f8bc5e072d9ee6469eca362d4a670c0cad0db21e03341d"
     },
     "900011": {
         "text": "Shooting Star",
@@ -4331,6 +4416,10 @@
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
         "processed": "<sc=67>The Sea Glitters, but You're Dazzling"
     },
+    "920231": {
+        "text": "Accumulative Victory",
+        "hash": "32d15d9c7ec50ba0d9b7bbc862eedac7b2daed4538a5dc6aa826b6cbe05ed0ad"
+    },
     "920241": {
         "text": "HOP STEP♪LOCK ON!",
         "hash": "9be2dd4a6e6b71e0af2ae505f2a6f97ab000c02e6d4f2ddfd4675e3a263dba8d"
@@ -4356,6 +4445,10 @@
         "text": "Ninja Art: Seal of the Smiling Heart",
         "hash": "fe8279235e0f173ff4911dc403e90e2bc7e1e3af94152886637c545ab746402d",
         "processed": "<sc=70>Ninja Art: Seal of the Smiling Heart"
+    },
+    "920501": {
+        "text": "Overdrive Speed",
+        "hash": "a909c20e99636b7f4132b80878378c28d9e11abe1efa49fd33fb730775423ea2"
     },
     "920601": {
         "text": "Springy Festivities",
@@ -4497,6 +4590,10 @@
     "100202111": {
         "text": "Lapis Lazuli Escape",
         "hash": "70435b53c45458b5e10036ac9fbee7744a7ec5ec1829bd06e9815fa14776121a"
+    },
+    "100202121": {
+        "text": "Crossing the Ocean",
+        "hash": "f322a9cd294ff038484c61f890b6ae8feddbd717cb91107d6cf73fd2e8ba351c"
     },
     "100202211": {
         "text": "Sky-Striding Ráfaga",
@@ -4934,6 +5031,14 @@
     "102302211": {
         "text": "Full Power Santa Claus",
         "hash": "237743661394f62ee041a349c8b4ead9b8389e7ad720c8e39628184f87d846db"
+    },
+    "102303111": {
+        "text": "Simulation Glasses: ON",
+        "hash": "21062294ddb571054eb208acb08b18771674fbd83d9a68d01c18a51f2827bb91"
+    },
+    "102303211": {
+        "text": "Drawing a Neon Trail",
+        "hash": "55a0f1e6eaa89330567e59374050ae4648b38528459070aefb91efef7deff57a"
     },
     "102401111": {
         "text": "You Copy?",
@@ -5532,6 +5637,10 @@
         "hash": "949486c0a810a54929b99b75cd1aa821ac5d6be2a6b49ccce8c98b5b5379aba6",
         "processed": "<sc=96>Exciting☆Marvelous Zone"
     },
+    "105501121": {
+        "text": "Marvelous Momentum☆",
+        "hash": "7b7c562a6743b28883366400a91ec30dc560054b43225e2adc5e6ec3c86313de"
+    },
     "105501211": {
         "text": "Marvelous World Plan☆",
         "hash": "e168ca51c25497225b07c10151ba6f1f46981269b58d8c59a2f1eb6f5a11c617"
@@ -5587,6 +5696,11 @@
     "105901111": {
         "text": "Cool Gaze",
         "hash": "127f4b921a7374c6797ee0c108a9356718f7e0b1351375091afe8412c8946654"
+    },
+    "105901121": {
+        "text": "Fluttering Towards Glory",
+        "hash": "647d8f7d1b4d314f0ff27e132fbb3e65a0cc89f1a7127ea35dad000260f4dda2",
+        "processed": "<sc=99>Fluttering Towards Glory"
     },
     "105901211": {
         "text": "Queen of Yodo",
