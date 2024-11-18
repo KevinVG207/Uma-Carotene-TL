@@ -3069,6 +3069,10 @@
         "text": "Mighty Step",
         "hash": "8576ad0502f2f4d9e3703e831bfa7a097c4fb5a702bdd7d7a668eb0b8d1c3fa3"
     },
+    "202881": {
+        "text": "Complete Combustion",
+        "hash": "ecc95bedcc4cd9c8d91d17e6a7be7161c681a99d8b90b322330688dcc96e9a38"
+    },
     "202882": {
         "text": "Boiling Blood",
         "hash": "3cd7a2de620df94db5621f17fe6226ff66665c8658130939d9d35030b84de1c3"
@@ -5557,6 +5561,15 @@
     "105002211": {
         "text": "Recovery Output",
         "hash": "7eed13dd926272fb1f620404418a6d3c575f7c72c0422e64cd74de7f868df911"
+    },
+    "105003111": {
+        "text": "Zero Latency",
+        "hash": "fbf4263d9d23857558fc6c0ad1322f78d98230b814ea8e6dcd512f487622700b"
+    },
+    "105003211": {
+        "text": "Indomitable Limit Breaker",
+        "hash": "e48ee88429b4e4ca049dddddf21364f9f09a91db49135e93c543a67915224dfb",
+        "processed": "<sc=95>Indomitable Limit Breaker"
     },
     "105101111": {
         "text": "Flurry Dash",
