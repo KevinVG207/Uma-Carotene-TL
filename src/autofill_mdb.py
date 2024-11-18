@@ -31,6 +31,10 @@ def autofill_birthdays():
         birthday_jp = entry["source"]
         month, day = birthday_jp.split("月")
         day = unicodedata.normalize('NFKC', day[:-1])
+
+        if "AI" in day:
+            continue
+
         month = unicodedata.normalize('NFKC', month)
         entry["text"] = f"{months[month]} {day}"
     
