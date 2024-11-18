@@ -584,6 +584,11 @@
         "hash": "1acab404d76470cb196dde0f2869ef555bd7af4681405003c8850fed1c25f0ac",
         "processed": "<rbr><sc=66>If you're in the middle of the pack with 800 m<br>remaining, you will get a slight speed boost and<br>your acceleration will slightly increase; bonus accel-<br>eration if you're in a Core race (length divisible by<br>400) and you're slightly more in the back of the<br>pack."
     },
+    "101111": {
+        "text": "If you're in the middle of the pack halfway through the race, your speed will slightly increase; the effect is stronger if you're running uphill.",
+        "hash": "8cd7f71a9c6b6d0af05e9e89761174115a9ca20170720afd2bd0820556ff04e0",
+        "processed": "<rbr><sc=93>If you're in the middle of the pack<br>halfway through the race, your speed<br>will slightly increase; the effect is<br>stronger if you're running uphill."
+    },
     "101161": {
         "text": "If you're in the first half of the pack on any corner during the first half of the race, your speed will slightly increase; then, if you're near the front during the Last Straight, your speed will greatly increase.",
         "hash": "182c39f4f7aad4bebb418de8a4fbe22d8a925c0852ec3c7d111472aaa9b58775",
@@ -4064,6 +4069,21 @@
         "hash": "b88ad0c4cdccbde5e6e1538132d390d11c650b8d899eae9e24d6033ea0567480",
         "processed": "<rbr>Medium・At a random point during<br>the Middle Leg, your speed will<br>slightly increase."
     },
+    "203322": {
+        "text": "Betweener・At a random point on a random downhill, your acceleration will slightly increase.",
+        "hash": "0e2adf34ca190fbebc393511508d27f9bb378e296ebf8cffbdb21fc7e28aa16f",
+        "processed": "<rbr>Betweener・At a random point on<br>a random downhill, your<br>acceleration will slightly increase."
+    },
+    "203331": {
+        "text": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase.",
+        "hash": "540d91f299c2a1240f3a7e9b62d357e701f83c145c1e98d184aba4c2694c1b48",
+        "processed": "<rbr>Betweener・If you're not in the<br>front at a random point during the<br>first half of the Middle Leg, your<br>speed will increase."
+    },
+    "203332": {
+        "text": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will slightly increase.",
+        "hash": "9092170d65f30ca668f56a76f72b8a7d55b2ffbabdf67a20f1b1733651836d33",
+        "processed": "<rbr>Betweener・If you're not in the<br>front at a random point during the<br>first half of the Middle Leg, your<br>speed will slightly increase."
+    },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
         "hash": "2b11f52be1772f83410a032e5b2f6964030c966486ead8045fff1b8a61f8cbf8",
@@ -7363,6 +7383,16 @@
         "text": "Medium・During the second half of the Opening Leg, your speed will slightly decrease; then, during the first half of the Final Leg, your speed will tremendously increase.",
         "hash": "ec9261551f31b07a7f5367894b47056abf1765b52e1a022b3d5c38e0250e60a1",
         "processed": "<rbr><sc=80>Medium・During the second half of the<br>Opening Leg, your speed will slightly<br>decrease; then, during the first half of the<br>Final Leg, your speed will tremendously<br>increase."
+    },
+    "111101111": {
+        "text": "Medium・At a random point during the Middle Leg, your speed will greatly increase; the effect is stronger if your base Wisdom is at least 1200.",
+        "hash": "2200d915bac32b46fceed0436ed1363770c99049fd0ab57d3a464303e4e40315",
+        "processed": "<rbr><sc=91>Medium・At a random point during<br>the Middle Leg, your speed will<br>greatly increase; the effect is stronger<br>if your base Wisdom is at least 1200."
+    },
+    "111101211": {
+        "text": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, on any downhill during the second half of the race, your speed will slightly increase.",
+        "hash": "6ab18ba93f1709551b838b541cca38a2bac096c2c8b8c0332bfeb4e55349882c",
+        "processed": "<rbr><sc=80>Betweener・If you're not in the front at a<br>random point during the first half of the<br>Middle Leg, your speed will increase; then,<br>on any downhill during the second half of<br>the race, your speed will slightly increase."
     },
     "111601111": {
         "text": "Leader・In races of at least 2000 m, at a random point during the first quarter of the Final Leg, your acceleration and lane movement speed will increase; if there's another girl right in front of you, the skill will trigger at the start of the Final Leg instead.",
