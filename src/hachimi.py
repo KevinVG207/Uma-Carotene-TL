@@ -686,7 +686,7 @@ def backport_after():
 
 
 def main():
-    # convert()
+    convert()
     # backport_assembly()
     # convert_assembly()
     # convert_mdb()
