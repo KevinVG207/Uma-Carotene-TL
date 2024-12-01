@@ -4020,15 +4020,15 @@
         "hash": "e221662668f9846ac16212f11847c8535d7c9ea227dbe3efdc79f34339522b21"
     },
     "2033201": {
-        "text": "Obtain [駆け降り] skill hint.",
+        "text": "Obtain [Descent] skill hint.",
         "hash": "9a6341b4d64df39666f5fff4fa9db129dd69e9beb5b58cf12d9798ad984e5e57"
     },
     "2033202": {
-        "text": "Obtain [駆け降り] skill hint.",
+        "text": "Obtain [Descent] skill hint.",
         "hash": "9a6341b4d64df39666f5fff4fa9db129dd69e9beb5b58cf12d9798ad984e5e57"
     },
     "2033203": {
-        "text": "Obtain [駆け降り] skill hint.",
+        "text": "Obtain [Descent] skill hint.",
         "hash": "9a6341b4d64df39666f5fff4fa9db129dd69e9beb5b58cf12d9798ad984e5e57"
     },
     "2033301": {
@@ -4042,6 +4042,42 @@
     "2033303": {
         "text": "Obtain [下準備] skill hint.",
         "hash": "eb2b3eb28240b966a5a895e1fc89be2eef335976c82b6f404df9e7e2929e770c"
+    },
+    "2033401": {
+        "text": "Obtain [這い寄る足音] skill hint.",
+        "hash": "98c09992ef36a0de349873f3903301cb4c4a175a50a52363f06008e336bc3571"
+    },
+    "2033402": {
+        "text": "Obtain [這い寄る足音] skill hint.",
+        "hash": "98c09992ef36a0de349873f3903301cb4c4a175a50a52363f06008e336bc3571"
+    },
+    "2033403": {
+        "text": "Obtain [這い寄る足音] skill hint.",
+        "hash": "98c09992ef36a0de349873f3903301cb4c4a175a50a52363f06008e336bc3571"
+    },
+    "2033501": {
+        "text": "Obtain [ハイピッチ] skill hint.",
+        "hash": "182b2a1d8b73c486c2694f70af121132a234bc81d61eee9a7b33292e2615fb9a"
+    },
+    "2033502": {
+        "text": "Obtain [ハイピッチ] skill hint.",
+        "hash": "182b2a1d8b73c486c2694f70af121132a234bc81d61eee9a7b33292e2615fb9a"
+    },
+    "2033503": {
+        "text": "Obtain [ハイピッチ] skill hint.",
+        "hash": "182b2a1d8b73c486c2694f70af121132a234bc81d61eee9a7b33292e2615fb9a"
+    },
+    "2033601": {
+        "text": "Obtain [一歩ずつ前へ] skill hint.",
+        "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
+    },
+    "2033602": {
+        "text": "Obtain [一歩ずつ前へ] skill hint.",
+        "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
+    },
+    "2033603": {
+        "text": "Obtain [一歩ずつ前へ] skill hint.",
+        "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
@@ -5675,6 +5711,18 @@
         "text": "Increases Speed Cap and Power Cap.\\nObtain [Meteor of Dioscuri] skill hint.",
         "hash": "951dad425b0193d396bbea93face3521bd65505c8dabe2f8901b229cba67488b"
     },
+    "10330201": {
+        "text": "Increases Speed Cap and Power Cap.\\nObtain [Crystal Mist] skill hint.",
+        "hash": "f72cb8651b5cef3bc502efd854ff0527e319d8785e763f4d93f6998dfaaf7f81"
+    },
+    "10330202": {
+        "text": "Increases Speed Cap and Power Cap.\\nObtain [Crystal Mist] skill hint.",
+        "hash": "f72cb8651b5cef3bc502efd854ff0527e319d8785e763f4d93f6998dfaaf7f81"
+    },
+    "10330203": {
+        "text": "Increases Speed Cap and Power Cap.\\nObtain [Crystal Mist] skill hint.",
+        "hash": "f72cb8651b5cef3bc502efd854ff0527e319d8785e763f4d93f6998dfaaf7f81"
+    },
     "10340101": {
         "text": "Increases Stamina Cap and Power Cap.\\nObtain [Fast Running, Fast Running!] skill hint.",
         "hash": "3130905f0e2e237472d2d085daf15b5f1900870030fba5e7396b72be2c966236"
@@ -6659,6 +6707,18 @@
         "text": "Increases Speed Cap and Stamina Cap.\\nObtain [Road to Glory] skill hint.",
         "hash": "25dd53367fe80729fa0e3ecfa054d7091acdf69d0fd5c2bd5e183bc35b181caf"
     },
+    "10770201": {
+        "text": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
+        "hash": "6ed1873f70c1faaa1308b7ee6aa4d3571fc10dcb91cd546faa690fa7a2fcddb5"
+    },
+    "10770202": {
+        "text": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
+        "hash": "6ed1873f70c1faaa1308b7ee6aa4d3571fc10dcb91cd546faa690fa7a2fcddb5"
+    },
+    "10770203": {
+        "text": "Increases Stamina Cap and Power Cap.\\nObtain [Joy to the World] skill hint.",
+        "hash": "6ed1873f70c1faaa1308b7ee6aa4d3571fc10dcb91cd546faa690fa7a2fcddb5"
+    },
     "10780101": {
         "text": "Increases Speed Cap, Guts Cap and Wit Cap.\\nObtain [A Spring in My Step] skill hint.",
         "hash": "d9da6dfbef1acfba78b1110852705e4eced638072793f811d422bc9489e58848"
@@ -6996,15 +7056,15 @@
         "hash": "3a58fd671c67a6eda1d2eb6d5971f611673191c31e1b86506f9c196f9eeeef65"
     },
     "11110101": {
-        "text": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
+        "text": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
         "hash": "d5d7a626d343b71721e7e415dafbe29b74b0ef1bc911c5e455ac2ab3ca42987a"
     },
     "11110102": {
-        "text": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
+        "text": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
         "hash": "d5d7a626d343b71721e7e415dafbe29b74b0ef1bc911c5e455ac2ab3ca42987a"
     },
     "11110103": {
-        "text": "Increases Power Cap and Wit Cap.\\nObtain [辿る血脈、芽吹く未来] skill hint.",
+        "text": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
         "hash": "d5d7a626d343b71721e7e415dafbe29b74b0ef1bc911c5e455ac2ab3ca42987a"
     },
     "11160101": {

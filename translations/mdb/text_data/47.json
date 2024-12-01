@@ -509,6 +509,11 @@
         "text": "Guiding Sea",
         "hash": "a7b6b337675efdf6544a4956c8b5e44b8308c3dd9055e389bc22dcffb5cf14ce"
     },
+    "101111": {
+        "text": "Traced Bloodline, Budding Future",
+        "hash": "c0136e95d237e331fdf5b5018d83aec373726a8c77e468e0ea5b0d79f75291ed",
+        "processed": "<sc=73>Traced Bloodline, Budding Future"
+    },
     "101161": {
         "text": "Rose Conquest",
         "hash": "7d047c0f86a0b29a50b7b3fe82e7529779a06f600a357f95b8d47370d9c6e227"
@@ -659,6 +664,10 @@
         "text": "Summer Halation",
         "hash": "5e76dbcbb5c055d46bbb355e4ecf25b488875b755370c43588e89711d3ac6cbb"
     },
+    "110331": {
+        "text": "Crystal Mist",
+        "hash": "aee061563269a4915553e20c6e1d9fd223a4bf6db3a157eb4d713c480d6b3d93"
+    },
     "110341": {
         "text": "Bristling Lights",
         "hash": "db24fe370676d7ea40af8e663612caaf1d85d76b5973f2e37d38461a126b1ed8"
@@ -796,6 +805,10 @@
     "110741": {
         "text": "Illuminate You",
         "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
+    },
+    "110771": {
+        "text": "Joy to the World",
+        "hash": "1a15349408610a721b3929a251c1ae0befab9313d05bcf0eaf29101a7370efcc"
     },
     "110831": {
         "text": "Immortal Work",
@@ -3363,6 +3376,14 @@
         "text": "Towards the Light",
         "hash": "f308276aaf34404ccd16f53107e35569f4f96b4749753261d1c6e34215fac6e5"
     },
+    "203322": {
+        "text": "Descent",
+        "hash": "296421d22de5071a91be167623b806ef826aea584e0355ed9f9be1f93e1ea993"
+    },
+    "203331": {
+        "text": "Thorough Preparation",
+        "hash": "83291b164801a288607319df676e0b17031033fb9c2432ee8a111e370073a1ec"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -4097,6 +4118,11 @@
         "text": "Guiding Sea",
         "hash": "a7b6b337675efdf6544a4956c8b5e44b8308c3dd9055e389bc22dcffb5cf14ce"
     },
+    "901111": {
+        "text": "Traced Bloodline, Budding Future",
+        "hash": "c0136e95d237e331fdf5b5018d83aec373726a8c77e468e0ea5b0d79f75291ed",
+        "processed": "<sc=73>Traced Bloodline, Budding Future"
+    },
     "901161": {
         "text": "Rose Conquest",
         "hash": "7d047c0f86a0b29a50b7b3fe82e7529779a06f600a357f95b8d47370d9c6e227"
@@ -4247,6 +4273,10 @@
         "text": "Summer Halation",
         "hash": "5e76dbcbb5c055d46bbb355e4ecf25b488875b755370c43588e89711d3ac6cbb"
     },
+    "910331": {
+        "text": "Crystal Mist",
+        "hash": "aee061563269a4915553e20c6e1d9fd223a4bf6db3a157eb4d713c480d6b3d93"
+    },
     "910341": {
         "text": "Bristling Lights",
         "hash": "db24fe370676d7ea40af8e663612caaf1d85d76b5973f2e37d38461a126b1ed8"
@@ -4384,6 +4414,10 @@
     "910741": {
         "text": "Illuminate You",
         "hash": "777fa19720eaee4384b8fcf75ad933615fc24a1278afb3e8d6f4a7a9992e86d3"
+    },
+    "910771": {
+        "text": "Joy to the World",
+        "hash": "1a15349408610a721b3929a251c1ae0befab9313d05bcf0eaf29101a7370efcc"
     },
     "910831": {
         "text": "Immortal Work",
@@ -6274,6 +6308,15 @@
         "text": "Beautiful Transformation",
         "hash": "ec40dadfe748960d8cf916d253a7b7294cc11252678c4d56b6b1e154b9568a84",
         "processed": "<sc=99>Beautiful Transformation"
+    },
+    "111101111": {
+        "text": "Chasing Mother's Likeness",
+        "hash": "0d0439012b0569f3f6caf2ca76fa30107070e28b1384fa8b37ae70b99422f41d",
+        "processed": "<sc=91>Chasing Mother's Likeness"
+    },
+    "111101211": {
+        "text": "Steady Stratagem",
+        "hash": "99bc6cc297d8c7ed71713adce13ae4a7530931df619bfd15aba433aa82dfab34"
     },
     "111601111": {
         "text": "Step Aside",
