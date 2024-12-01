@@ -295,6 +295,7 @@ def update_story_intermediate(path_to_existing):
         # A new intermediate file was not created. The hash must have changed.
         # We no longer know what was in the original file, so backup the existing file instead.
         print(f"\nStory data {base_path} with hash ({existing_data['hash']}) no longer exists. Creating backup using translation file.", flush=True)
+        os.makedirs(os.path.dirname(intermediate_path), exist_ok=True)
         shutil.copy(path_to_existing, intermediate_path + f".{round(time.time())}")
         return
 
