@@ -13269,10 +13269,20 @@
         "hash": "8c33c4736388d49c61d627c39c4b128541b4ab35e580fbfcd7c0671690de9d29",
         "processed": "<rbr>Raise the affection rank of<br>Sakura Laurel to rank 11."
     },
+    "341077": {
+        "text": "Raise the affection rank of Neo Universe to rank 11.",
+        "hash": "800fa7b2fadcfa9635812d8cc06f8a2dbc5a10bcd9c35efc4252cd012bf22f6a",
+        "processed": "<rbr>Raise the affection rank of<br>Neo Universe to rank 11."
+    },
     "341078": {
         "text": "Raise the affection rank of Hishi Miracle to rank 11.",
         "hash": "850d52e53ccf0c1d5ef5307f62c17f028a67dfd7f57c61a4ddcc9c122d5216ef",
         "processed": "<rbr>Raise the affection rank of<br>Hishi Miracle to rank 11."
+    },
+    "341079": {
+        "text": "Raise the affection rank of Tanino Gimlet to rank 11.",
+        "hash": "af264421714ca79f26e9af16aaceb130337862e7e1a8c40c9a44359c954f3683",
+        "processed": "<rbr>Raise the affection rank of<br>Tanino Gimlet to rank 11."
     },
     "341081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 11.",
@@ -13288,6 +13298,11 @@
         "text": "Raise the affection rank of Narita Top Road to rank 11.",
         "hash": "f85e37023ba3cc5796ca13ecf7ba97f99526c2fe538cab567d857ee90f421bb5",
         "processed": "<rbr>Raise the affection rank of<br>Narita Top Road to rank 11."
+    },
+    "341086": {
+        "text": "Raise the affection rank of Tap Dance City to rank 11.",
+        "hash": "70181ca63fe2833dddcc9252ebcd0335afafc6f14efa9958ccd098490fd3ff0c",
+        "processed": "<rbr>Raise the affection rank of<br>Tap Dance City to rank 11."
     },
     "342000": {
         "text": "Raise the affection rank of Special Week to rank 12.",
@@ -13674,10 +13689,20 @@
         "hash": "fdf1c09af017c489d3c95e54894c9709b1a0fe875d2cec15e93214095b224629",
         "processed": "<rbr>Raise the affection rank of<br>Sakura Laurel to rank 12."
     },
+    "342077": {
+        "text": "Raise the affection rank of Neo Universe to rank 12.",
+        "hash": "514a5882bce1e08288f89123e88f97866d01b969dc748ced26ac1c80c569f630",
+        "processed": "<rbr>Raise the affection rank of<br>Neo Universe to rank 12."
+    },
     "342078": {
         "text": "Raise the affection rank of Hishi Miracle to rank 12.",
         "hash": "b95525fce860741660413064b3a69957496ea2cb22263c41b4e670dc23d6b16a",
         "processed": "<rbr>Raise the affection rank of<br>Hishi Miracle to rank 12."
+    },
+    "342079": {
+        "text": "Raise the affection rank of Tanino Gimlet to rank 12.",
+        "hash": "62ef1e9ffb7e77303d7fdfc06f90f2b9f8fa98db91cca1158136ca6e4df0cb53",
+        "processed": "<rbr>Raise the affection rank of<br>Tanino Gimlet to rank 12."
     },
     "342081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 12.",
@@ -13693,6 +13718,11 @@
         "text": "Raise the affection rank of Narita Top Road to rank 12.",
         "hash": "7bd54ba0dc612a2d6880d5a701d27bf6556187fe598d043226eacf8755180bcf",
         "processed": "<rbr>Raise the affection rank of<br>Narita Top Road to rank 12."
+    },
+    "342086": {
+        "text": "Raise the affection rank of Tap Dance City to rank 12.",
+        "hash": "ae99f66eec573d36372a0620d244038317fd531662eb82d533499c1abaa8e6d3",
+        "processed": "<rbr>Raise the affection rank of<br>Tap Dance City to rank 12."
     },
     "600101": {
         "text": "Reach team rank D.",
@@ -23819,6 +23849,91 @@
         "hash": "4b9e5db94f181405559fe264c9014c0d36ec82ac5f25d03abfd6da9fec006a3c",
         "processed": "<rbr>Clear all event missions."
     },
+    "1002145": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "3d327c28889237c999b8611c2a9aa4e96573ac007333a1b1f8000933761bd0a1",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002146": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "540e596a97586a1ca5b5825361ae03a39575a1760d49d403f66fd70ae8dd1345",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002147": {
+        "text": "Win the Artemis Stakes once during training.",
+        "hash": "1f32d0ad8833a4713b54b0b382d7803ae9920e2eb1b6bc08f01ec6635d1c9065",
+        "processed": "<rbr>Win the Artemis Stakes once<br>during training."
+    },
+    "1002148": {
+        "text": "Win the Fantasy Stakes once during training.",
+        "hash": "84ea1970568863f63461bced0968c653b3e6220401ca51a176dfeca9a0ac8c6b",
+        "processed": "<rbr>Win the Fantasy Stakes once<br>during training."
+    },
+    "1002149": {
+        "text": "Win the Hanshin Juvenile Fillies once during training.",
+        "hash": "ef04dccfeaf5e9174a963d3fdc53b049c07ad10c5dbf5a5c33e1ea6b689954e7",
+        "processed": "<rbr>Win the Hanshin Juvenile<br>Fillies once during training."
+    },
+    "1002150": {
+        "text": "Clear all event missions.",
+        "hash": "4c745c1c231e2fde4c2676bc2078b5d430e4d89ea646e0658c4843be5f924bce",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002151": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "87e03a020bf618d9b6797a15dddac91606c48e966ef34867d5666c68954ff1b2",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002152": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "2d63b387f33b982dfd4f9d47ae39daece2d690f3f1724f2578f91b45dac172af",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002153": {
+        "text": "Win 10 G1 races during training.",
+        "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
+        "processed": "<rbr>Win 10 G1 races during<br>training."
+    },
+    "1002154": {
+        "text": "Win the Zen-Nippon Junior Yushun once during training.",
+        "hash": "8c0bd5372064a460a3ea4adf3869eb4f55a64a96e3e35d0d948c6aa37841487c",
+        "processed": "<rbr>Win the Zen-Nippon Junior<br>Yushun once during training."
+    },
+    "1002155": {
+        "text": "Clear all event missions.",
+        "hash": "8a4e7ce4dc65532bf23262e05389108111632e989f24c93fb3aefd06444a656d",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002156": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "3089ba5d5acbe17d6943e357f5faa3ab38c753eafc7bad2231a2660711707be6",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002157": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "1b4918ef6721e2a266570995239d9240fc6aa869c20dc9210bba37cd6aec15f1",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002158": {
+        "text": "Win the Keio Hai Junior Stakes once during training.",
+        "hash": "eefd7e76f67debcbd3be1cb14c95a2aa8dec6659f402b0d6c825422591c625a7",
+        "processed": "<rbr>Win the Keio Hai Junior<br>Stakes once during training."
+    },
+    "1002159": {
+        "text": "Win the Daily Hai Junior Stakes once during training.",
+        "hash": "762b637e9cde4a8ad9b8a8d0ffcc8142fc74da8e3e2dbda9b44bcda92892ea5c",
+        "processed": "<rbr>Win the Daily Hai Junior<br>Stakes once during training."
+    },
+    "1002160": {
+        "text": "Win the Asahi Hai Futurity Stakes once during training.",
+        "hash": "ed23a0e16e20b360fdb286a67d66104be51211bdcd0e89d67a8643b336ed4601",
+        "processed": "<rbr>Win the Asahi Hai Futurity<br>Stakes once during training."
+    },
+    "1002161": {
+        "text": "Clear all event missions.",
+        "hash": "5ca5a47f46142363ebf17150a3ddc928986d54d3309b628ecbdc2aedabdf7dcd",
+        "processed": "<rbr>Clear all event missions."
+    },
     "1002178": {
         "text": "Clear all event missions.",
         "hash": "a846ac246134f4137a12323ad256b69acc7a15c693d1fe66615720fcded750c4",
@@ -28075,6 +28190,111 @@
         "processed": "<rbr>[Limited] Enter Legend Race<br>9 times"
     },
     "2003421": {
+        "text": "[Limited] Enter Legend Race 12 times",
+        "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
+    },
+    "2003501": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003502": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003503": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003504": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003505": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003506": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003507": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003508": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003509": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003510": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003511": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003512": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003513": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003514": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003515": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003516": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003517": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003518": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003519": {
+        "text": "[Limited] Enter Legend Race 6 times",
+        "hash": "e418482334acc5e9e947c3c8087992bdd64a8ab2ee9102b1e8b48aba0cf28d02",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>6 times"
+    },
+    "2003520": {
+        "text": "[Limited] Enter Legend Race 9 times",
+        "hash": "9c91d6c7d9be53f8fc806aa2449748f04a113d5cd2056db5fc7dae26752fdd29",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>9 times"
+    },
+    "2003521": {
         "text": "[Limited] Enter Legend Race 12 times",
         "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
         "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
@@ -33798,6 +34018,26 @@
         "text": "Do 10 training runs ('As the Leaves Rust, Feelings Blossom' story event).",
         "hash": "1a9a995a88d41fa9a420e040209e94a6b35e7bd4ff63455f6e4338860c2bf64f",
         "processed": "<rbr><sc=79>Do 10 training runs ('As the Leaves<br>Rust, Feelings Blossom' story event)."
+    },
+    "2600129": {
+        "text": "Do 2 training runs ('A Gleaming Mejiro Gala' story event).",
+        "hash": "2fa8daccba889e7b7f59b8bf1920a162d1f0dd170e92e64f99027eee62907cd2",
+        "processed": "<rbr>Do 2 training runs ('A Gleam-<br>ing Mejiro Gala' story event)."
+    },
+    "2600130": {
+        "text": "Do 4 training runs ('A Gleaming Mejiro Gala' story event).",
+        "hash": "7995fb992e9fffa7d539596625cb66eadaee4ebb331061f3828fe909aa519593",
+        "processed": "<rbr>Do 4 training runs ('A Gleam-<br>ing Mejiro Gala' story event)."
+    },
+    "2600131": {
+        "text": "Do 7 training runs ('A Gleaming Mejiro Gala' story event).",
+        "hash": "7c571f59747911cda38b2c50c727e1ffbd85ab18a8d8798ac97a1a2e830e76aa",
+        "processed": "<rbr>Do 7 training runs ('A Gleam-<br>ing Mejiro Gala' story event)."
+    },
+    "2600132": {
+        "text": "Do 10 training runs ('A Gleaming Mejiro Gala' story event).",
+        "hash": "ffa5b4f4baad671124a458c22a9a9f2e5cbf193e7bb41575ab5972094d87a89b",
+        "processed": "<rbr><sc=96>Do 10 training runs ('A Gleam-<br>ing Mejiro Gala' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",

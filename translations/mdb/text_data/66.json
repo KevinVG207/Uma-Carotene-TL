@@ -3309,6 +3309,11 @@
         "hash": "b2ad503a9a8f5424996c2ae3ffa21e1bb6db9254662f19349451f18831968c04",
         "processed": "<rbr>Clear all event limited<br>missions."
     },
+    "310140": {
+        "text": "Clear all event limited missions.",
+        "hash": "b2ad503a9a8f5424996c2ae3ffa21e1bb6db9254662f19349451f18831968c04",
+        "processed": "<rbr>Clear all event limited<br>missions."
+    },
     "320001": {
         "text": "Receive Excellent grades in the Trainer's Proficiency Exam.",
         "hash": "96e87bfb833398b5d021fb753aab4905d9657b9e67bcd1ea18fcdcb59b376c43",
@@ -4583,5 +4588,10 @@
         "text": "マスターズチャレンジの天皇賞（春）を制覇しよう.",
         "hash": "148166061c65cae4c359f962abb99c2c5058da8605c46f82ab5c76cf15388bfb",
         "processed": "<rbr><br>マスターズチャレンジの天皇賞（春）を制覇しよう."
+    },
+    "720017": {
+        "text": "マスターズチャレンジの有馬記念を制覇しよう.",
+        "hash": "2bdfb0b2fa35cb6f05b24d46251fbbd75b6177435e3e1ed2b4cfdff5a98dedb4",
+        "processed": "<rbr><br>マスターズチャレンジの有馬記念を制覇しよう."
     }
 }
