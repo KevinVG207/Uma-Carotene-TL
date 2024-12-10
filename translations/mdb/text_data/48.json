@@ -594,6 +594,11 @@
         "hash": "182c39f4f7aad4bebb418de8a4fbe22d8a925c0852ec3c7d111472aaa9b58775",
         "processed": "<rbr><sc=80>If you're in the first half of the pack on any<br>corner during the first half of the race, your<br>speed will slightly increase; then, if you're<br>near the front during the Last Straight,<br>your speed will greatly increase."
     },
+    "101171": {
+        "text": "If you overtake someone during the Middle Leg or later, then on the Last Straight, your speed will increase; (Chaser only) if you overtake at least three times, your speed will increase tremendously instead.",
+        "hash": "8473ffdf21227b1d5fe525bd20fd4e2fcc30f235469535299e732edcaa963974",
+        "processed": "<rbr><sc=80>If you overtake someone during the Middle<br>Leg or later, then on the Last Straight, your<br>speed will increase; (Chaser only) if you<br>overtake at least three times, your speed<br>will increase tremendously instead."
+    },
     "101191": {
         "text": "If you're in the back of the pack 2/3 through the race, your will get a speed boost; then, if it's a Medium or Long distance race in Nakayama or Hanshin and you're on any straight, you will get a great speed boost.",
         "hash": "5af6fec78c7bc46aed78e70448a7ea3920b30524bf6d9c02420515b61f8a6e83",
@@ -3754,6 +3759,11 @@
         "hash": "c25cd8faccc7ec343cb851aa0f78b2b64d3f48a57374ee90114d5c838da5c044",
         "processed": "<rbr>Chaser・At a random point during<br>the Middle Leg, use a little extra<br>stamina to increase your speed."
     },
+    "202931": {
+        "text": "Chaser・If you try to overtake someone during the second half of the race, your speed will increase.",
+        "hash": "2271dcd83dc440098f4c89e514b675ab878c2925c0e2c8220ec43d27f26459f4",
+        "processed": "<rbr>Chaser・If you try to overtake<br>someone during the second half of<br>the race, your speed will increase."
+    },
     "202932": {
         "text": "Chaser・If you try to overtake someone during the second half of the race, your speed will slightly increase.",
         "hash": "e9e4c2ac3143507cee34fd77eff6de67486da7304e78097b32e10fd9b2436b73",
@@ -4118,6 +4128,26 @@
         "text": "If you're not in the front at a random point during the Middle Leg, your speed will slightly increase.",
         "hash": "20b80a1f33e02d523c5923215ade71c1e110e657f3e22605f7388ce252a9eff3",
         "processed": "<rbr>If you're not in the front at a<br>random point during the Middle<br>Leg, your speed will slightly<br>increase."
+    },
+    "203411": {
+        "text": "Leader・Long・If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase.",
+        "hash": "966adf7d7ec9e02207a6c6f8f444ab6218ae39c23d176f02386d23708d4dd878",
+        "processed": "<rbr>Leader・Long・If you're in the first<br>half of the pack at a random point<br>during the Middle Leg, your speed<br>will increase."
+    },
+    "203412": {
+        "text": "Leader・Long・If you're in the first half of the pack at a random point during the Middle Leg, your speed will slightly increase.",
+        "hash": "0cd7a58ba003a44651b55548de1633f3185a62dcaf489076be5e4f2f9f213159",
+        "processed": "<rbr>Leader・Long・If you're in the first<br>half of the pack at a random point<br>during the Middle Leg, your speed<br>will slightly increase."
+    },
+    "203421": {
+        "text": "Leader・At a random point during the first half of the Last Spurt, your speed will increase.",
+        "hash": "2f998655bceb162625396695b86e9fe573ca18fd318819936deda87192186d1a",
+        "processed": "<rbr>Leader・At a random point during<br>the first half of the Last Spurt,<br>your speed will increase."
+    },
+    "203422": {
+        "text": "Leader・At a random point during the first half of the Last Spurt, your speed will slightly increase.",
+        "hash": "d1d5050a83ea880e9267cb70e9a56ffaa31260679d552992e7383361575603ac",
+        "processed": "<rbr>Leader・At a random point during<br>the first half of the Last Spurt,<br>your speed will slightly increase."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -7473,6 +7503,16 @@
         "text": "Leader・In races between 2400 and 2500 m long, at a random point during the second half of the Middle Leg, your speed will greatly increase; if you have at least 1200 base Power, your speed will increase tremendously instead.",
         "hash": "e4f0d6db9d8ec2b9340af5e5a0a36f9badf785c806f1f483b8e7906df9239fc4",
         "processed": "<rbr><sc=73>Leader・In races between 2400 and 2500 m<br>long, at a random point during the second half<br>of the Middle Leg, your speed will greatly<br>increase; if you have at least 1200 base Power,<br>your speed will increase tremendously instead."
+    },
+    "111701111": {
+        "text": "Chaser・If you try to overtake someone during the second half of the race, your speed will greatly increase.",
+        "hash": "0149d2adb4d3385cd165e5ccc5e90e393b44d9dbb3150b3f0ab37cb6d890c5a0",
+        "processed": "<rbr>Chaser・If you try to overtake<br>someone during the second half of<br>the race, your speed will greatly<br>increase."
+    },
+    "111701211": {
+        "text": "During a random Middle Leg corner, you will get a small speed boost; then, on the Last Straight, your will get a small speed boost again.",
+        "hash": "a623e4a1707f09be26038416c939e9067d3b2de0be7de2c69cb6b8229a3c0fdd",
+        "processed": "<rbr><sc=97>During a random Middle Leg corner,<br>you will get a small speed boost;<br>then, on the Last Straight, your will<br>get a small speed boost again."
     },
     "111901111": {
         "text": "Your Speed and Power stats are increased by 80 on clockwise tracks.",
