@@ -17349,6 +17349,31 @@
         "hash": "257602778d75af89889f5c2ea27730b91f0afaa6235df05537275c29e9b906e5",
         "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Air Messiah."
     },
+    "612001": {
+        "text": "Watch episode 4 of Win Variation's story.",
+        "hash": "1568b6e0d2be2619893ed869b9ad418282a5c93d180b6bf67db5d29dfc0805ad",
+        "processed": "<rbr>Watch episode 4 of Win<br>Variation's story."
+    },
+    "612002": {
+        "text": "Reach 10 million total fans for Win Variation.",
+        "hash": "3dc425936d43152f04ed20c03d871e3e8fda72a44c577ef96f6bb9b3125e9fbb",
+        "processed": "<rbr>Reach 10 million total fans<br>for Win Variation."
+    },
+    "612003": {
+        "text": "Reach 50 million total fans for Win Variation.",
+        "hash": "f647d7ded87f6325cf89aeca1f38d9f904fdae9925c94ff753f66466756091e4",
+        "processed": "<rbr>Reach 50 million total fans<br>for Win Variation."
+    },
+    "612004": {
+        "text": "Reach 100 million total fans for Win Variation.",
+        "hash": "aa9ded164e8b5bb7f589643764c1524a01fe3ab28bd68c82d3aef5bab47af5ac",
+        "processed": "<rbr>Reach 100 million total fans<br>for Win Variation."
+    },
+    "612005": {
+        "text": "Win all G1, G2, and G3 trophies with Win Variation.",
+        "hash": "1f3bd13af41cb9e557a9fcee27153b666856151932e1d1d119913fe3fd5dabc3",
+        "processed": "<rbr>Win all G1, G2, and G3<br>trophies with Win Variation."
+    },
     "900002": {
         "text": "Watch Sakura Bakushin O's worry counseling from the home menu once.",
         "hash": "c149b271b55f4d247bb4fca30457d67ba12b291413444b4546f313044eaa9f25",
@@ -21260,9 +21285,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001413": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1001414": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -22530,9 +22555,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001863": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1001864": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -23890,9 +23915,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1002153": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1002154": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -23932,6 +23957,86 @@
     "1002161": {
         "text": "Clear all event missions.",
         "hash": "5ca5a47f46142363ebf17150a3ddc928986d54d3309b628ecbdc2aedabdf7dcd",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002162": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "98550c828c59381bccc0d7035f9bd4587560dc71d5524ed7708510417c1c6d1f",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002163": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "ea328cca5038925100d9810f0737f194fbcf68022e290cefe2e343194df18985",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002164": {
+        "text": "Gather a total of 1000000 fans during the event period.",
+        "hash": "57de228936e9ca28f393eea7fdf7da1dd5432af34e79c81ed199c0a1b6a37c1d",
+        "processed": "<rbr>Gather a total of 1000000<br>fans during the event period."
+    },
+    "1002165": {
+        "text": "Win the Arima Kinen once during training.",
+        "hash": "d9bc08ef464e239922b02c45b317eaeb499c2963582ad4586556cb04bc7e9f47",
+        "processed": "<rbr>Win the Arima Kinen once<br>during training."
+    },
+    "1002166": {
+        "text": "Clear all event missions.",
+        "hash": "d37bfeb62dc350f778904be2497a64fe1d50c75cefb1eebaa9729e9f4ac3169b",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002167": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "daf8ea68b4432836e19215933c5ea2eb63cce5c59b8f7c40d3e28c6dafeb9c0d",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002168": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "b84f42232b914981f7a8f2d966ea1b3a4fe5431c66c70c54d6d9b339d1875b8f",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002169": {
+        "text": "Win the Tokyo Sports Hai Junior Stakes once during training.",
+        "hash": "e57e868c387b1c5b018ca39e9367c1fa2da636d921779b6115e5b6e9c26cfcd8",
+        "processed": "<rbr><sc=92>Win the Tokyo Sports Hai Junior<br>Stakes once during training."
+    },
+    "1002170": {
+        "text": "Win the Kyoto Junior Stakes once during training.",
+        "hash": "bb8520763cbe536381b6387000cfedfcceac55035fa846357c4d23c8e99be4ad",
+        "processed": "<rbr>Win the Kyoto Junior Stakes<br>once during training."
+    },
+    "1002171": {
+        "text": "Win the Hopeful Stakes once during training.",
+        "hash": "50776951432b8d8f9445e493f63cae5974f10b18f04d6e9353d5577c07f30fc9",
+        "processed": "<rbr>Win the Hopeful Stakes once<br>during training."
+    },
+    "1002172": {
+        "text": "Clear all event missions.",
+        "hash": "13bb54fb8add57cf7a78d824611d5406e8f10c25240b07935a3bec3addf94d35",
+        "processed": "<rbr>Clear all event missions."
+    },
+    "1002173": {
+        "text": "Finish a training run having completed all training objectives once.",
+        "hash": "2241602fad45cc640f432c80053f9e60858e216d1dfd970201026c25829b1bcc",
+        "processed": "<rbr><sc=86>Finish a training run having com-<br>pleted all training objectives once."
+    },
+    "1002174": {
+        "text": "Finish a training run having completed all training objectives 2 times.",
+        "hash": "9325ff27111835a9294de387dbc4f78871c23681b5e35a1cc466c7b076ddbf90",
+        "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
+    },
+    "1002175": {
+        "text": "Win 10 G1 races during training.",
+        "hash": "e927c70021b3a935789e98bd8d1e9c4a115202c1ccfaab409e54799e023bedcd",
+        "processed": "<rbr>Win 10 G1 races during<br>training."
+    },
+    "1002176": {
+        "text": "Win the Tokyo Daishoten once during training.",
+        "hash": "7af3f2cecc2951b09c288faf92189e8fb09d709347f9244b09414858f007b87e",
+        "processed": "<rbr>Win the Tokyo Daishoten<br>once during training."
+    },
+    "1002177": {
+        "text": "Clear all event missions.",
+        "hash": "2d299148e834d2aafb801a9a2fd090e0604d2694ab591cd4c59d83468a70796e",
         "processed": "<rbr>Clear all event missions."
     },
     "1002178": {
@@ -33285,6 +33390,306 @@
         "processed": "<rbr>[Limited] Win the Special<br>Race 2 times"
     },
     "2406060": {
+        "text": "[Limited] Win the Special Race 3 times",
+        "hash": "408501d5c99024b0fe76d181dbfb59913e785ebc9e51a48244554d14afcf20ee",
+        "processed": "<rbr>[Limited] Win the Special<br>Race 3 times"
+    },
+    "2407001": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407002": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407003": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407004": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407005": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407006": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407007": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407008": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407009": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407010": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407011": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407012": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407013": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407014": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407015": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407016": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407017": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407018": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407019": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407020": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407021": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407022": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407023": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407024": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407025": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407026": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407027": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407028": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407029": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407030": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407031": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407032": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407033": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407034": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407035": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407036": {
+        "text": "[Daily] Enter Scout Race 1 times",
+        "hash": "ee3cc124baf93fcc0d680893e6baf26cef5252280bdbc8a588042729ec968425",
+        "processed": "<rbr>[Daily] Enter Scout Race 1<br>times"
+    },
+    "2407037": {
+        "text": "[Daily] Enter Scout Race 2 times",
+        "hash": "5cb92b7625ffc461d19ba38642a06127601410a146c3bbe88e4f1f75eb3e3cb8",
+        "processed": "<rbr>[Daily] Enter Scout Race 2<br>times"
+    },
+    "2407038": {
+        "text": "[Daily] Enter Scout Race 3 times",
+        "hash": "44d4652edd154307612dd310b4842af1919b9139309c56ae3aed1b6ef1b9126a",
+        "processed": "<rbr>[Daily] Enter Scout Race 3<br>times"
+    },
+    "2407039": {
+        "text": "[Daily] Enter Scout Race 4 times",
+        "hash": "78d0e28c2e2209fab14478c791729a94ce993c3ba96d9ee69bc7cb3dafd24341",
+        "processed": "<rbr>[Daily] Enter Scout Race 4<br>times"
+    },
+    "2407040": {
+        "text": "[Daily] Enter Scout Race 5 times",
+        "hash": "d030140ec4cf2bda838d298706d880dfcfa726c51976aaffb7f5071d3209f77b",
+        "processed": "<rbr>[Daily] Enter Scout Race 5<br>times"
+    },
+    "2407041": {
+        "text": "[Limited] Obtain a Team Skill",
+        "hash": "93d386dbbb0ce684f35b6b1c6bd37b30db738533be83c7d620b06e3a4cee7661",
+        "processed": "<rbr>[Limited] Obtain a Team Skill"
+    },
+    "2407042": {
+        "text": "[Limited] Scout 1 Umamusume",
+        "hash": "462abbad926abcbbae5de274a3fb600a4d344ab84ad8e182d27f0ea57b056a93",
+        "processed": "<rbr>[Limited] Scout 1<br>Umamusume"
+    },
+    "2407043": {
+        "text": "[Limited] Scout 2 Umamusume",
+        "hash": "f3d8fdcf67028b5f5ea63426d8e17c48b445c8115369931d97b66446adfb55f6",
+        "processed": "<rbr>[Limited] Scout 2<br>Umamusume"
+    },
+    "2407044": {
+        "text": "[Limited] Scout 3 Umamusume",
+        "hash": "74edc7fdd495f661c8cab3f09c71db4995a2db9864adbb69e99dd850186bd0c3",
+        "processed": "<rbr>[Limited] Scout 3<br>Umamusume"
+    },
+    "2407045": {
+        "text": "[Limited] Scout 4 Umamusume",
+        "hash": "661b96988380d3107944d7f7450df1a4869e1c59a5e83977f0155b7ee6a0959f",
+        "processed": "<rbr>[Limited] Scout 4<br>Umamusume"
+    },
+    "2407046": {
+        "text": "[Limited] Scout 5 Umamusume",
+        "hash": "350cb7ba39103f0105512795b2d463378a91e8d30cfd7bd938dc1cd6df658733",
+        "processed": "<rbr>[Limited] Scout 5<br>Umamusume"
+    },
+    "2407047": {
+        "text": "[Limited] Scout 6 Umamusume",
+        "hash": "56654c6d0033c56b8c25be575e7c5da7bd99518291f3ae1f3120abb427a03ab2",
+        "processed": "<rbr>[Limited] Scout 6<br>Umamusume"
+    },
+    "2407048": {
+        "text": "[Limited] Enter Scout Race 10 times",
+        "hash": "28846c145d2ae46aeec6d8193b1725cf21f5447712d0cf47bc794b08c921ac15",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>10 times"
+    },
+    "2407049": {
+        "text": "[Limited] Enter Scout Race 15 times",
+        "hash": "3c13914207a185d2b86b1df597593b6421c893964a96bf675cd2f815faf70dd6",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>15 times"
+    },
+    "2407050": {
+        "text": "[Limited] Enter Scout Race 20 times",
+        "hash": "4d415027c89aa88c815a636ab1e512ce512da736f53166ee139de7483e6ad0d1",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>20 times"
+    },
+    "2407051": {
+        "text": "[Limited] Enter Scout Race 25 times",
+        "hash": "fc8daa5a4c431c8efd257506558e0da9f30082518af4190b8a9b1999a93bbb27",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>25 times"
+    },
+    "2407052": {
+        "text": "[Limited] Enter Scout Race 30 times",
+        "hash": "f01505a7aa59c189b0936ccded54bfcfbec09377e2332cf7243cab4f6fff5f8e",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>30 times"
+    },
+    "2407053": {
+        "text": "[Limited] Enter Scout Race 35 times",
+        "hash": "eefc4c6b5cf62353e41ba098c495c87284bcd8807bd692aa5ebe36344f1d0ccd",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>35 times"
+    },
+    "2407054": {
+        "text": "[Limited] Enter Scout Race 40 times",
+        "hash": "71275013b247574f088cb31540b8890228179d44ea338f456e023715a32a2563",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>40 times"
+    },
+    "2407055": {
+        "text": "[Limited] Enter Scout Race 45 times",
+        "hash": "eb1f432ebc2f512ded679850f2b0f6f9576a057c8a6270a7c703165d90a7be17",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>45 times"
+    },
+    "2407056": {
+        "text": "[Limited] Enter Scout Race 50 times",
+        "hash": "ee81d1db8fdf7b9b5b236b5238bd8cd20f42efc1e38a348869bf0311b7f1eced",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>50 times"
+    },
+    "2407057": {
+        "text": "[Limited] Enter Scout Race 60 times",
+        "hash": "41a87db1cb545177817946c2d846604efe79cbf977397469f8acda8afc750730",
+        "processed": "<rbr>[Limited] Enter Scout Race<br>60 times"
+    },
+    "2407058": {
+        "text": "[Limited] Win the Special Race 1 time",
+        "hash": "6af66a6b4e95759251b648a4758221b6723741f3a19dbc980bd3ab1c11bad5c6",
+        "processed": "<rbr>[Limited] Win the Special<br>Race 1 time"
+    },
+    "2407059": {
+        "text": "[Limited] Win the Special Race 2 times",
+        "hash": "5533edc5846b7363dca331df026e56e0ec3444f7f5a6c6072d8318bc4071cb44",
+        "processed": "<rbr>[Limited] Win the Special<br>Race 2 times"
+    },
+    "2407060": {
         "text": "[Limited] Win the Special Race 3 times",
         "hash": "408501d5c99024b0fe76d181dbfb59913e785ebc9e51a48244554d14afcf20ee",
         "processed": "<rbr>[Limited] Win the Special<br>Race 3 times"

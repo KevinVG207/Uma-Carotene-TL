@@ -4044,40 +4044,64 @@
         "hash": "eb2b3eb28240b966a5a895e1fc89be2eef335976c82b6f404df9e7e2929e770c"
     },
     "2033401": {
-        "text": "Obtain [這い寄る足音] skill hint.",
+        "text": "Obtain [Creeping Footsteps] skill hint.",
         "hash": "98c09992ef36a0de349873f3903301cb4c4a175a50a52363f06008e336bc3571"
     },
     "2033402": {
-        "text": "Obtain [這い寄る足音] skill hint.",
+        "text": "Obtain [Creeping Footsteps] skill hint.",
         "hash": "98c09992ef36a0de349873f3903301cb4c4a175a50a52363f06008e336bc3571"
     },
     "2033403": {
-        "text": "Obtain [這い寄る足音] skill hint.",
+        "text": "Obtain [Creeping Footsteps] skill hint.",
         "hash": "98c09992ef36a0de349873f3903301cb4c4a175a50a52363f06008e336bc3571"
     },
     "2033501": {
-        "text": "Obtain [ハイピッチ] skill hint.",
+        "text": "Obtain [High Pitch] skill hint.",
         "hash": "182b2a1d8b73c486c2694f70af121132a234bc81d61eee9a7b33292e2615fb9a"
     },
     "2033502": {
-        "text": "Obtain [ハイピッチ] skill hint.",
+        "text": "Obtain [High Pitch] skill hint.",
         "hash": "182b2a1d8b73c486c2694f70af121132a234bc81d61eee9a7b33292e2615fb9a"
     },
     "2033503": {
-        "text": "Obtain [ハイピッチ] skill hint.",
+        "text": "Obtain [High Pitch] skill hint.",
         "hash": "182b2a1d8b73c486c2694f70af121132a234bc81d61eee9a7b33292e2615fb9a"
     },
     "2033601": {
-        "text": "Obtain [一歩ずつ前へ] skill hint.",
+        "text": "Obtain [Forward Step by Step] skill hint.",
         "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
     },
     "2033602": {
-        "text": "Obtain [一歩ずつ前へ] skill hint.",
+        "text": "Obtain [Forward Step by Step] skill hint.",
         "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
     },
     "2033603": {
-        "text": "Obtain [一歩ずつ前へ] skill hint.",
+        "text": "Obtain [Forward Step by Step] skill hint.",
         "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
+    },
+    "2034101": {
+        "text": "Obtain [地道に重ねて] skill hint.",
+        "hash": "93b1063b9515fad04f0030dd42e5cece50cc181333215c0ad66420e2f0504631"
+    },
+    "2034102": {
+        "text": "Obtain [地道に重ねて] skill hint.",
+        "hash": "93b1063b9515fad04f0030dd42e5cece50cc181333215c0ad66420e2f0504631"
+    },
+    "2034103": {
+        "text": "Obtain [地道に重ねて] skill hint.",
+        "hash": "93b1063b9515fad04f0030dd42e5cece50cc181333215c0ad66420e2f0504631"
+    },
+    "2034201": {
+        "text": "Obtain [己を信じて] skill hint.",
+        "hash": "c2d1530af51e0d8b950eeaccdb489d79b5912750ba1f51443a14bdbc2887bdc5"
+    },
+    "2034202": {
+        "text": "Obtain [己を信じて] skill hint.",
+        "hash": "c2d1530af51e0d8b950eeaccdb489d79b5912750ba1f51443a14bdbc2887bdc5"
+    },
+    "2034203": {
+        "text": "Obtain [己を信じて] skill hint.",
+        "hash": "c2d1530af51e0d8b950eeaccdb489d79b5912750ba1f51443a14bdbc2887bdc5"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
@@ -7078,6 +7102,18 @@
     "11160103": {
         "text": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [Rose Conquest] skill hint.",
         "hash": "3e31fe626e18bb82af2acc73f8a51d6f395b49c69c9544e792f514f6531e1d4f"
+    },
+    "11170101": {
+        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
+        "hash": "be5a615a6e57e44ab8ca92427c263585c609af9a2062057c81e7714a64a01d49"
+    },
+    "11170102": {
+        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
+        "hash": "be5a615a6e57e44ab8ca92427c263585c609af9a2062057c81e7714a64a01d49"
+    },
+    "11170103": {
+        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
+        "hash": "be5a615a6e57e44ab8ca92427c263585c609af9a2062057c81e7714a64a01d49"
     },
     "11190101": {
         "text": "Increases Stamina Cap, Power Cap and Wit Cap.\\nObtain [«Bon Voyage»] skill hint.",

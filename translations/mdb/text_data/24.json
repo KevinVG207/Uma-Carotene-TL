@@ -513,7 +513,7 @@
     },
     "190": {
         "text": "<size=22>A key to unlocking memories with an Umamusume. \\nOpens a gallery in the Umamusume index.\\n</size>",
-        "hash": "47c127c0d58ae00b677c97a4ba303d10fc9aea3283240cc41edf68fe86cd7148"
+        "hash": "49ca435f9ae3336973ca9b36cb2aaa6362602fd799570cdb25c343dc58ce12a5"
     },
     "191": {
         "text": "<size=22>This ticket can pull any Umamusume released up to 2023/1/30. Usable from the gacha page.\\n</size>",
@@ -679,6 +679,10 @@
         "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
         "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
     },
+    "1007": {
+        "text": "<size=22>Obtained from Scout Races in \"Target: Top Team!\" \\nRequired to scout team members.\\n</size>",
+        "hash": "eae1f84b8c9d13972b537a6bbb2ada57459b99376b4e52631ac6e7477f8b7242"
+    },
     "2001": {
         "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
@@ -700,6 +704,10 @@
         "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
     },
     "2006": {
+        "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
+        "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
+    },
+    "2007": {
         "text": "<size=22>A ticked needed to enter Scout Races \\nin \"Target: Top Team\". \\n※Does not carry over to future iterations.\\n</size>",
         "hash": "a3c9749b09008f6bac1e8ca37ac901448d04c27bc7f395b1e563681978010912"
     },

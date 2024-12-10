@@ -3384,6 +3384,26 @@
         "text": "Thorough Preparation",
         "hash": "83291b164801a288607319df676e0b17031033fb9c2432ee8a111e370073a1ec"
     },
+    "203341": {
+        "text": "Pursuer",
+        "hash": "23e9bc8d7c9e3045904c0a5d5a6eecd095ad1d5534ee879a8f1c7c001db6d024"
+    },
+    "203342": {
+        "text": "Creeping Footsteps",
+        "hash": "8dd95cb55ac2f87963ebcccd631b6e17f79eb3f9e3e2bce6f84bf54fb082917d"
+    },
+    "203351": {
+        "text": "Brave and Bold",
+        "hash": "c8e720adc08038da63eb5ab03f9197d4643bf885f42626238ddb04cda6ffa74d"
+    },
+    "203352": {
+        "text": "High Pitch",
+        "hash": "d12c91f0ef57ef1d451dae1b863dc903fe6185ad6c46e3f5e1fdf12db92a4053"
+    },
+    "203362": {
+        "text": "Forward Step by Step",
+        "hash": "5acb764c97e20c16d521f82fa35d6f9296b8185791be53362a1e62cc5fa3fab6"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -4661,6 +4681,11 @@
         "text": "Playful Revelry",
         "hash": "09c2bbe5f7d36f605ffc8e43f3697b4f416bfec7ceae6699f10c58d6bb184a02"
     },
+    "100303221": {
+        "text": "Easy, Peasy, Lemon Squeezy",
+        "hash": "bbda82f69ad577e67fe39fcb66e3833fa2883682ad0af85be96e0ee02afe38f8",
+        "processed": "<sc=85>Easy, Peasy, Lemon Squeezy"
+    },
     "100401111": {
         "text": "Blasting Off!",
         "hash": "96df98365dc133a91a099cfc1b3e18085c0ee6dced36d26d3994349882d48f9d"
@@ -5260,6 +5285,14 @@
         "text": "Immolated Comet",
         "hash": "3c5ca97f22a0e525f79893937f0a35975fc6b9d33fddd2ff8e81d68d0070db7f"
     },
+    "103302111": {
+        "text": "On Vultur Cadens' Trail",
+        "hash": "1dff39964dca3c86142ff2b4c8faa3fd2d8ebfa57df56d40702e016de0efb2c8"
+    },
+    "103302211": {
+        "text": "Melting of the Icy Star",
+        "hash": "5ab5e6ca20e251c26d8ff1f963bea17d6d3c342880a2a6e20f7d6aab470f6071"
+    },
     "103401111": {
         "text": "Firefighter's Hashigo-nori",
         "hash": "303f0d375205bf484db773ac41fd4771c214e08e6bab20eb1622bf600a5856d5",
@@ -5317,6 +5350,10 @@
     "103602111": {
         "text": "Gluttony's Grip",
         "hash": "a24a4d4bcd463f7ac3ca6217d36a87b2adee9dd66023be01c114cdbdf2f1eb3a"
+    },
+    "103602121": {
+        "text": "Noise Cancellation",
+        "hash": "f47e7eb21c2529627cbe992e1ce88820f3f81b2a9a08c40fc8d41610e9a74da4"
     },
     "103602211": {
         "text": "Torment",
@@ -6055,6 +6092,16 @@
     "107701211": {
         "text": "The Right Path",
         "hash": "aacf83628d61442f4d7e952eca53324af9992c9c6a33fcf072fb2d238cdaa1fc"
+    },
+    "107702111": {
+        "text": "Single-Minded Santa Claus",
+        "hash": "a98ba0a397c35b797304a31ba12ac3aab5dbb292e37515e3970114db6c4eb38a",
+        "processed": "<sc=91>Single-Minded Santa Claus"
+    },
+    "107702211": {
+        "text": "Leave the Dark Nights to Me!",
+        "hash": "4f3c1e0f07abe7eaf95dec8e0fb0e2737e434ad552469449d2bfead515d1a4a1",
+        "processed": "<sc=84>Leave the Dark Nights to Me!"
     },
     "107801111": {
         "text": "Wind Shear",

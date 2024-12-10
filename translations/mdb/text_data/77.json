@@ -446,6 +446,11 @@
         "text": "Espoir City",
         "hash": "c9374483e4d7a4cb6bd25e1eda6032665890458ed845eb63cc3b940ca53b3166"
     },
+    "10111": {
+        "text": "Bubble Gum Fellow",
+        "hash": "4f08d9b73abac5250ca8137d9cf40c9190eee0249354fdc0974d7a27f6bf2f01",
+        "processed": "<sc=93>Bubble Gum Fellow"
+    },
     "10113": {
         "text": "Gentildonna",
         "hash": "1f04beeeda776e367ce2e2f232b2d687ae536efa5cfd2ee4650aa062750cb32d"
@@ -457,6 +462,10 @@
     "10115": {
         "text": "Cesario",
         "hash": "c625297b8b915b8250e68b67b2249676a3a7c4ef8e13c5c61e5e1cae279952ff"
+    },
+    "10116": {
+        "text": "Blast Onepiece",
+        "hash": "5d7f248e5b54f05229a9ac5952f8a25fbd866d96c00661a057374cfeb27e30c6"
     },
     "10117": {
         "text": "No Reason",
@@ -796,6 +805,11 @@
     "20081": {
         "text": "North Flight",
         "hash": "f871a08ee2776e7df98c622745f4270672a53db1cdb55f797cde63b68cd51de9"
+    },
+    "20082": {
+        "text": "Bubble Gum Fellow",
+        "hash": "4f08d9b73abac5250ca8137d9cf40c9190eee0249354fdc0974d7a27f6bf2f01",
+        "processed": "<sc=93>Bubble Gum Fellow"
     },
     "30001": {
         "text": "Special Week",
@@ -1717,5 +1731,9 @@
     "30231": {
         "text": "T.M. Opera O",
         "hash": "4c03292628b1bf205a8ff70536838f9340c842843a9d140a7e8e25f5d0a3b8dc"
+    },
+    "30232": {
+        "text": "Blast Onepiece",
+        "hash": "5d7f248e5b54f05229a9ac5952f8a25fbd866d96c00661a057374cfeb27e30c6"
     }
 }
