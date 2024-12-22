@@ -4079,28 +4079,40 @@
         "text": "Obtain [Forward Step by Step] skill hint.",
         "hash": "d1327134ede16e00c35b1fad22db01b8a77d6853b024670b3694e76d07c3f1f0"
     },
+    "2033701": {
+        "text": "Obtain [切り返し] skill hint.",
+        "hash": "09a4fdcfce3675dc6ae49a871214a2afe66339953110697940375b61ce9a0a32"
+    },
+    "2033702": {
+        "text": "Obtain [切り返し] skill hint.",
+        "hash": "09a4fdcfce3675dc6ae49a871214a2afe66339953110697940375b61ce9a0a32"
+    },
+    "2033703": {
+        "text": "Obtain [切り返し] skill hint.",
+        "hash": "09a4fdcfce3675dc6ae49a871214a2afe66339953110697940375b61ce9a0a32"
+    },
     "2034101": {
-        "text": "Obtain [地道に重ねて] skill hint.",
+        "text": "Obtain [Steady Effort] skill hint.",
         "hash": "93b1063b9515fad04f0030dd42e5cece50cc181333215c0ad66420e2f0504631"
     },
     "2034102": {
-        "text": "Obtain [地道に重ねて] skill hint.",
+        "text": "Obtain [Steady Effort] skill hint.",
         "hash": "93b1063b9515fad04f0030dd42e5cece50cc181333215c0ad66420e2f0504631"
     },
     "2034103": {
-        "text": "Obtain [地道に重ねて] skill hint.",
+        "text": "Obtain [Steady Effort] skill hint.",
         "hash": "93b1063b9515fad04f0030dd42e5cece50cc181333215c0ad66420e2f0504631"
     },
     "2034201": {
-        "text": "Obtain [己を信じて] skill hint.",
+        "text": "Obtain [Believe in Yourself] skill hint.",
         "hash": "c2d1530af51e0d8b950eeaccdb489d79b5912750ba1f51443a14bdbc2887bdc5"
     },
     "2034202": {
-        "text": "Obtain [己を信じて] skill hint.",
+        "text": "Obtain [Believe in Yourself] skill hint.",
         "hash": "c2d1530af51e0d8b950eeaccdb489d79b5912750ba1f51443a14bdbc2887bdc5"
     },
     "2034203": {
-        "text": "Obtain [己を信じて] skill hint.",
+        "text": "Obtain [Believe in Yourself] skill hint.",
         "hash": "c2d1530af51e0d8b950eeaccdb489d79b5912750ba1f51443a14bdbc2887bdc5"
     },
     "2100101": {
@@ -5170,6 +5182,18 @@
     "10110203": {
         "text": "Increases Stamina Cap and Wit Cap.\\nObtain [Gain Superior Heal] skill hint.",
         "hash": "1fcbb4c9c55fc82fcb7a3da88ff09eadce6e71dfc725c5fbda033969099584d3"
+    },
+    "10110301": {
+        "text": "Increases Guts Cap and Wit Cap.\\nObtain [演舞・撫子大薙刀] skill hint.",
+        "hash": "345edf3e0fb9e4fcff2d359264c1307594206b64859334d11c5fb2e71947e373"
+    },
+    "10110302": {
+        "text": "Increases Guts Cap and Wit Cap.\\nObtain [演舞・撫子大薙刀] skill hint.",
+        "hash": "345edf3e0fb9e4fcff2d359264c1307594206b64859334d11c5fb2e71947e373"
+    },
+    "10110303": {
+        "text": "Increases Guts Cap and Wit Cap.\\nObtain [演舞・撫子大薙刀] skill hint.",
+        "hash": "345edf3e0fb9e4fcff2d359264c1307594206b64859334d11c5fb2e71947e373"
     },
     "10120101": {
         "text": "Increases Power Cap and Guts Cap.\\nObtain [One-On-One! Dead Heat!] skill hint.",
@@ -7104,15 +7128,15 @@
         "hash": "3e31fe626e18bb82af2acc73f8a51d6f395b49c69c9544e792f514f6531e1d4f"
     },
     "11170101": {
-        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
+        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Allegro of Valor] skill hint.",
         "hash": "be5a615a6e57e44ab8ca92427c263585c609af9a2062057c81e7714a64a01d49"
     },
     "11170102": {
-        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
+        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Allegro of Valor] skill hint.",
         "hash": "be5a615a6e57e44ab8ca92427c263585c609af9a2062057c81e7714a64a01d49"
     },
     "11170103": {
-        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [鋭気のアレグロ] skill hint.",
+        "text": "Increases Speed Cap, Power Cap and Guts Cap.\\nObtain [Allegro of Valor] skill hint.",
         "hash": "be5a615a6e57e44ab8ca92427c263585c609af9a2062057c81e7714a64a01d49"
     },
     "11190101": {
