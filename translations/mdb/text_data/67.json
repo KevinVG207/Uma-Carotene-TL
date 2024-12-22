@@ -12884,6 +12884,11 @@
         "hash": "a422b78489cf1f272a0e8f271f4f5667127ebf08a307c6ac0cf69dd085e46bd7",
         "processed": "<rbr>Raise the affection rank of<br>Air Messiah to rank 1."
     },
+    "340105": {
+        "text": "Raise the affection rank of Win Variation to rank 1.",
+        "hash": "29c6d963dd4e4df87a59d1b1f24e588a1ee61d431909607f18e3fb517463bef2",
+        "processed": "<rbr>Raise the affection rank of<br>Win Variation to rank 1."
+    },
     "341000": {
         "text": "Raise the affection rank of Special Week to rank 11.",
         "hash": "5c275b0bc93927a42c74e0648aac9698335e35baa137d68445278f0eac9d56e1",
@@ -14035,24 +14040,24 @@
         "processed": "<rbr>Cook dishes a total of 100<br>times."
     },
     "600438": {
-        "text": "すべてのUpgrade ExamをA評価以上で終了しよう.",
+        "text": "Complete all Upgrade Exams with a rating of at least A.",
         "hash": "dd6dd4fbf45a17ef9487e3a91bf123bda09a0c45f805d86bedca9380a1f790df",
-        "processed": "<rbr>すべてのUpgrade<br>ExamをA評価以上で終了しよう."
+        "processed": "<rbr>Complete all Upgrade Exams<br>with a rating of at least A."
     },
     "600439": {
-        "text": "研究Lvを累計50000Lv上昇させよう.",
+        "text": "Raise your cumulative Research Level to at least 50000.",
         "hash": "a1b36cc235b350a5e1e7a834c6b6567d422f2894b474350deaf09ccb04ab36a5",
-        "processed": "<rbr><br>研究Lvを累計50000Lv上昇させよう."
+        "processed": "<rbr><sc=93>Raise your cumulative Research<br>Level to at least 50000."
     },
     "600440": {
-        "text": "オーバードライブを累計400回発動しよう.",
+        "text": "Trigger Overdrive at least 400 times cumulatively.",
         "hash": "ec98a471e3dd705fddb19f67aef5a56fef4cca9fc96697cf2577c0a3f0e3a2f8",
-        "processed": "<rbr><br>オーバードライブを累計400回発動しよう."
+        "processed": "<rbr>Trigger Overdrive at least<br>400 times cumulatively."
     },
     "600441": {
-        "text": "すべてのUpgrade ExamをS評価で終了しよう.",
+        "text": "Complete all Upgrade Exams with an S rating.",
         "hash": "8837966b9232bb0387827660fdf2caf55bf18d4f968de771ddcf5d7aa0d0bb3f",
-        "processed": "<rbr>すべてのUpgrade<br>ExamをS評価で終了しよう."
+        "processed": "<rbr>Complete all Upgrade Exams<br>with an S rating."
     },
     "600501": {
         "text": "Win races on the Sapporo Racetrack 200 times.",
@@ -14395,14 +14400,14 @@
         "processed": "<rbr>Watch 'Umasugi! Gourmet<br>Parade'."
     },
     "600640": {
-        "text": "UMA Summerを見よう.",
+        "text": "Watch 'UMA Summer'.",
         "hash": "5a2de08fb427841f450aead8462a79ea4e01c41e78511903e52f56330b76c55b",
-        "processed": "<rbr>UMA Summerを見よう."
+        "processed": "<rbr>Watch 'UMA Summer'."
     },
     "600641": {
-        "text": "O - ロライズを見よう.",
+        "text": "Watch 'O - ロライズ'.",
         "hash": "f4aed80691eb2c448a56b8b9eab549bbc4a375dfeabe93494be9ba0cc8df00e7",
-        "processed": "<rbr>O - ロライズを見よう."
+        "processed": "<rbr>Watch 'O - ロライズ'."
     },
     "600690": {
         "text": "Watch a total of 10 live concerts.",
@@ -14615,9 +14620,9 @@
         "processed": "<rbr>Win a total of 300 stuffed<br>toys in the Crane Game."
     },
     "601306": {
-        "text": "全国興行を100回完了しよう.",
+        "text": "Complete the National Tour 100 times.",
         "hash": "2452ffe8da36eeb952c3a5bb0b30c2ed844bec30b770272dc3f72be29835118c",
-        "processed": "<rbr>全国興行を100回完了しよう."
+        "processed": "<rbr>Complete the National Tour<br>100 times."
     },
     "601400": {
         "text": "Watch a total of 100 story episodes.",
@@ -14670,9 +14675,9 @@
         "processed": "<rbr>Watch episode 13 of main<br>story act 2, chapter 1."
     },
     "601410": {
-        "text": "メインストーリー第2部中編第13話を見よう.",
+        "text": "Watch episode 13 of main story act 2, chapter 2.",
         "hash": "771f511d1866ccf8891e2f2daab21944c9d57cd63bb0cefbef46b4e669f03228",
-        "processed": "<rbr><br>メインストーリー第2部中編第13話を見よう."
+        "processed": "<rbr>Watch episode 13 of main<br>story act 2, chapter 2."
     },
     "601451": {
         "text": "Win the episode 1R race of main story act 1, chapter 2.",
@@ -14710,9 +14715,9 @@
         "processed": "<rbr>Win the episode 4R race of<br>main story act 2, chapter 1."
     },
     "601458": {
-        "text": "メインストーリー第2部中編第4Rでレースに勝利しよう.",
+        "text": "Win the episode 4R race of main story act 2, chapter 2.",
         "hash": "44bbee794dd33ff3224fac5e56a2be41b7e670e97edc63a80a54e47322ac0511",
-        "processed": "<rbr><br>メインストーリー第2部中編第4Rでレースに勝利しよう."
+        "processed": "<rbr>Win the episode 4R race of<br>main story act 2, chapter 2."
     },
     "601499": {
         "text": "Win onsen tickets in the lottery, and then complete training.",
@@ -21285,9 +21290,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001413": {
-        "text": "Participate in 10 G1 races during training.",
+        "text": "Win 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Participate in 10 G1 races<br>during training."
+        "processed": "<rbr>Win 10 G1 races during<br>training."
     },
     "1001414": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -22555,9 +22560,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001863": {
-        "text": "Participate in 10 G1 races during training.",
+        "text": "Win 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Participate in 10 G1 races<br>during training."
+        "processed": "<rbr>Win 10 G1 races during<br>training."
     },
     "1001864": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -23915,9 +23920,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1002153": {
-        "text": "Participate in 10 G1 races during training.",
+        "text": "Win 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Participate in 10 G1 races<br>during training."
+        "processed": "<rbr>Win 10 G1 races during<br>training."
     },
     "1002154": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
