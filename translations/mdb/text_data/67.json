@@ -21400,9 +21400,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001453": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "e927c70021b3a935789e98bd8d1e9c4a115202c1ccfaab409e54799e023bedcd",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1001454": {
         "text": "Win the Tokyo Daishoten once during training.",
@@ -22670,9 +22670,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001903": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "e927c70021b3a935789e98bd8d1e9c4a115202c1ccfaab409e54799e023bedcd",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1001904": {
         "text": "Win the Tokyo Daishoten once during training.",
@@ -24030,9 +24030,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1002175": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "e927c70021b3a935789e98bd8d1e9c4a115202c1ccfaab409e54799e023bedcd",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1002176": {
         "text": "Win the Tokyo Daishoten once during training.",
@@ -28405,6 +28405,111 @@
         "processed": "<rbr>[Limited] Enter Legend Race<br>9 times"
     },
     "2003521": {
+        "text": "[Limited] Enter Legend Race 12 times",
+        "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
+    },
+    "2003601": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003602": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003603": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003604": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003605": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003606": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003607": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003608": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003609": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003610": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003611": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003612": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003613": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003614": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003615": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003616": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003617": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003618": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003619": {
+        "text": "[Limited] Enter Legend Race 6 times",
+        "hash": "e418482334acc5e9e947c3c8087992bdd64a8ab2ee9102b1e8b48aba0cf28d02",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>6 times"
+    },
+    "2003620": {
+        "text": "[Limited] Enter Legend Race 9 times",
+        "hash": "9c91d6c7d9be53f8fc806aa2449748f04a113d5cd2056db5fc7dae26752fdd29",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>9 times"
+    },
+    "2003621": {
         "text": "[Limited] Enter Legend Race 12 times",
         "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
         "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"

@@ -884,6 +884,11 @@
         "hash": "eddaea32247a59f06a47f54563e84ac820174b5bb51e040b0fede51f28603765",
         "processed": "<rbr>During the second half of the race,<br>if you're not in the front and<br>someone is trying to overtake you,<br>your speed will increase."
     },
+    "110571": {
+        "text": "If you're in the second half of the pack during the second half of the race, your speed will increase; the more stamina you have remaining, the bigger the increase.",
+        "hash": "c9f94c332a0dcf296ef8c36e51eb36a1627c325a284e888f15a4223c66a9aafa",
+        "processed": "<rbr><sc=83>If you're in the second half of the pack<br>during the second half of the race, your<br>speed will increase; the more stamina you<br>have remaining, the bigger the increase."
+    },
     "110581": {
         "text": "If you're in front during the last straight, your speed will increase, and you will slow down two girls in front of you, and two girls behind you.",
         "hash": "28f09922cca9a8c8c71f4fdfd0b8819269e57e72edf8014a6d175cad56e67114",
@@ -968,6 +973,11 @@
         "text": "Halfway through the race, your speed will slightly increase; the effect is stronger on Dirt races where the halfway point is not on the 3rd corner.",
         "hash": "fbb9d27b15cc033136213f2b02b92ff768ac4d02014682a37a2996bf74c810e4",
         "processed": "<rbr><sc=92>Halfway through the race, your speed<br>will slightly increase; the effect is<br>stronger on Dirt races where the half-<br>way point is not on the 3rd corner."
+    },
+    "111041": {
+        "text": "Medium・If you were in the top 40% for the entire first half of the race, your speed will slightly increase; if you activated the 大逃げ (Great Escape) skill, then instead of increasing speed, your stamina will recover tremendously instead.",
+        "hash": "b0b05833a8a5f7241c5b696d06b20950f2277948ee4650533f10a49f7f24d350",
+        "processed": "<rbr><sc=69>Medium・If you were in the top 40% for the entire<br>first half of the race, your speed will slightly<br>increase; if you activated the 大逃げ (Great Escape)<br>skill, then instead of increasing speed, your<br>stamina will recover tremendously instead."
     },
     "111051": {
         "text": "If you're not in the lead during the Final Straight, your speed will increase; it will increase tremendously if you activated exactly 7 or 13 skills during the Middle Leg.",
@@ -3425,14 +3435,14 @@
         "processed": "<rbr>The chance of kakari (panicking) is<br>increased."
     },
     "202521": {
-        "text": "Medium/Long・During the third corner, if you're in the second half of the pack, your speed will increase.",
+        "text": "Medium/Long・At a random point during the third corner, if you're in the second half of the pack, your will get a speed boost.",
         "hash": "1557b96652481cf1ecb518892c8f4ce2141622d90749dfafe9935f33471b1c2e",
-        "processed": "<rbr>Medium/Long・During the third<br>corner, if you're in the second half<br>of the pack, your speed will<br>increase."
+        "processed": "<rbr>Medium/Long・At a random point<br>during the third corner, if you're in<br>the second half of the pack, your<br>will get a speed boost."
     },
     "202522": {
-        "text": "Medium/Long・During the third corner, if you're in the second half of the pack, your speed will slightly increase.",
+        "text": "Medium/Long・At a random point during the third corner, if you're in the second half of the pack, you will get a slight speed boost.",
         "hash": "9d311577c2c69d76509227982c612b7f9a06bd7116bc5b59c9f2383d7810dcae",
-        "processed": "<rbr>Medium/Long・During the third<br>corner, if you're in the second half<br>of the pack, your speed will<br>slightly increase."
+        "processed": "<rbr>Medium/Long・At a random point<br>during the third corner, if you're in<br>the second half of the pack, you<br>will get a slight speed boost."
     },
     "202531": {
         "text": "Mile/Medium・At a random point during the Middle Leg, your speed will increase.",
@@ -3839,10 +3849,15 @@
         "hash": "c0896aa96154591b0b4855930dd966fd28b6ffcc59092289f427a9a2dae3d0c0",
         "processed": "<rbr>Mile・If you're not in the front<br>during the second half of the<br>Middle Leg, your speed will<br>slightly increase."
     },
+    "202971": {
+        "text": "Chaser・Long・At a random point during the first quarter of the Final Leg, if you're not in the front of the pack, your acceleration will increase.",
+        "hash": "7d1d69279286def0eefcd27630510f38f919b0d899e9449c57ccddcaf5a2c5ae",
+        "processed": "<rbr><sc=94>Chaser・Long・At a random point<br>during the first quarter of the Final<br>Leg, if you're not in the front of the<br>pack, your acceleration will increase."
+    },
     "202972": {
-        "text": "Chaser・Long・If you're not in the front during the first quarter of the Final Leg, your acceleration will slightly increase.",
+        "text": "Chaser・Long・At a random point in the first quarter of the Final Leg, if you're not in the front of the pack, your acceleration will slightly increase.",
         "hash": "07f8b67fb5ab9357e69c7008799c3d52a22452f86411e0f4762d856a2db884be",
-        "processed": "<rbr>Chaser・Long・If you're not in the<br>front during the first quarter of<br>the Final Leg, your acceleration<br>will slightly increase."
+        "processed": "<rbr><sc=89>Chaser・Long・At a random point in<br>the first quarter of the Final Leg, if<br>you're not in the front of the pack,<br>your acceleration will slightly increase."
     },
     "202981": {
         "text": "Leader・If you're in the first half of the pack during the second half of the Middle Leg, your speed will increase.",
@@ -4184,6 +4199,31 @@
         "hash": "d5be8e5af392fab01ca75106faf46c7a56d0dffe8dfb2d823834e3c9c051e9be",
         "processed": "<rbr>Medium/Long・When another girl<br>activates a speed skill during the<br>Final Corner or beyond, you will<br>get a marginal speed boost."
     },
+    "203381": {
+        "text": "Runner・Medium・If you're third or better during the Final Corner or beyond, your acceleration will increase.",
+        "hash": "2d6e5fb61e29dbca603de556d8d3133895a42300f7ee2998624200c444bbab39",
+        "processed": "<rbr>Runner・Medium・If you're third<br>or better during the Final Corner<br>or beyond, your acceleration will<br>increase."
+    },
+    "203382": {
+        "text": "Runner・Medium・If you're third or better during the Final Corner or beyond, your acceleration will slightly increase.",
+        "hash": "68ac1c93b04e346e64eccfbf843a5ae9acc1870f8a7c1a58b81c29ef793a1c4c",
+        "processed": "<rbr>Runner・Medium・If you're third<br>or better during the Final Corner<br>or beyond, your acceleration will<br>slightly increase."
+    },
+    "203391": {
+        "text": "Runner・Medium・If you're in the first half of the pack at a random point on the third corner, you will get a speed boost.",
+        "hash": "5ed36fc3e2404975da9e758490f5a1a4d150738f5e606502d9aaceb4916b16f8",
+        "processed": "<rbr>Runner・Medium・If you're in the<br>first half of the pack at a random<br>point on the third corner, you will<br>get a speed boost."
+    },
+    "203392": {
+        "text": "Runner・Medium・If you're in the first half of the pack at a random point on the third corner, you will get a slight speed boost.",
+        "hash": "09a41cffd9cd96d2254a7f95b3a8026842c2a5b96d91a0293f981a73b796f159",
+        "processed": "<rbr>Runner・Medium・If you're in the<br>first half of the pack at a random<br>point on the third corner, you will<br>get a slight speed boost."
+    },
+    "203402": {
+        "text": "Runner・Medium・If you're in the first half of the pack at a random point during the first quarter of the Final Leg, your acceleration will slightly increase.",
+        "hash": "fc16fb72ae4b24f5f62d795a6c2c021b222f1c930a50248ff607a1cb42e15398",
+        "processed": "<rbr><sc=89>Runner・Medium・If you're in the first<br>half of the pack at a random point dur-<br>ing the first quarter of the Final Leg,<br>your acceleration will slightly increase."
+    },
     "203411": {
         "text": "Leader・Long・If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase.",
         "hash": "966adf7d7ec9e02207a6c6f8f444ab6218ae39c23d176f02386d23708d4dd878",
@@ -4203,6 +4243,16 @@
         "text": "Leader・At a random point during the first half of the Last Spurt, your speed will slightly increase.",
         "hash": "d1d5050a83ea880e9267cb70e9a56ffaa31260679d552992e7383361575603ac",
         "processed": "<rbr>Leader・At a random point during<br>the first half of the Last Spurt,<br>your speed will slightly increase."
+    },
+    "203432": {
+        "text": "Medium・At a random point during the first half of the Last Spurt, your speed will slightly increase.",
+        "hash": "1cb0947b9c0c1738c64781cd144e0575f7cd0d76094c7c2b2be37082d48fde2c",
+        "processed": "<rbr>Medium・At a random point during<br>the first half of the Last Spurt,<br>your speed will slightly increase."
+    },
+    "203442": {
+        "text": "Leader・Medium・If you're in the first half of the pack at a random point during the first quarter of the Final Leg, your acceleration will slightly increase.",
+        "hash": "825c4e1c6325acdf42544ff69538f73d2da22b64b53baf809a300026111d68e4",
+        "processed": "<rbr><sc=89>Leader・Medium・If you're in the first<br>half of the pack at a random point dur-<br>ing the first quarter of the Final Leg,<br>your acceleration will slightly increase."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -6139,6 +6189,11 @@
         "hash": "e7b99de82fd67f9a8fdc52f033d2c8fce7170f8bd871920ae2e730759865e928",
         "processed": "<rbr>Runner・If you're in the first half<br>of the pack during the Middle Leg,<br>your speed will increase and your<br>stamina will slightly recover."
     },
+    "102602121": {
+        "text": "Runner・If you're in the first half of the pack at a random point during the Middle Leg and your base Wisdom is at least 1200, your speed will increase.",
+        "hash": "e0b8db6dca37a0bad266aca3a9dca98b67755059ba34c6ccee01ac2e898b11f0",
+        "processed": "<rbr><sc=89>Runner・If you're in the first half of<br>the pack at a random point during the<br>Middle Leg and your base Wisdom is at<br>least 1200, your speed will increase."
+    },
     "102602211": {
         "text": "Your Start Reaction Time is improved, and your base stats are slightly increased.",
         "hash": "9903d64a1cffa5256b4009377bf47716725893a5012bc63c05a1585f51de8e36",
@@ -6849,6 +6904,16 @@
         "hash": "041864df0cf88aeb036609a6b5c3808af3c0d25af03ecc1f5ebb9d3d0562599b",
         "processed": "<rbr>Chaser・During a Last Spurt<br>straight, your acceleration and<br>FoV will increase."
     },
+    "105702111": {
+        "text": "Medium/Long・At a random point during the third corner, you will get a speed boost; bonus duration if you overtook someone during the second half of the race.",
+        "hash": "96a7b2eb5cd89e49563aceb3e6ef3e4821d4037eac819c89da0e3cbcf92cb48f",
+        "processed": "<rbr><sc=80>Medium/Long・At a random point during<br>the third corner, you will get a speed<br>boost; bonus duration if you overtook<br>someone during the second half of the<br>race."
+    },
+    "105702211": {
+        "text": "Chaser・Long・At a random point during the first quarter of the Final Leg, your acceleration will increase; it will increase greatly if you're not in the front of the pack.",
+        "hash": "ac462c907918fc328502991510b223b04c7443a7af9ab941a23e33050277f68b",
+        "processed": "<rbr><sc=80>Chaser・Long・At a random point during<br>the first quarter of the Final Leg, your<br>acceleration will increase; it will increase<br>greatly if you're not in the front of the<br>pack."
+    },
     "105801111": {
         "text": "Leader・If you're in the first half of the pack during the Final Corner, your speed will increase.",
         "hash": "49d13d1593a90ad2e8e2cb9a9e4a2d8062b47a41c4837aa4e1a81efe265b1d91",
@@ -7483,6 +7548,16 @@
         "text": "Runner・If anytime during the Middle Leg you were in the lead by at least 3 lengths, then if you're in the lead on the Final Straight, your speed will increase; in Medium Tokyo races, it will increase tremendously.",
         "hash": "6f6a46c6a73f7935e2cab25c4ce5a2d66ee5e8b8b916178c996fd5de2fdbd526",
         "processed": "<rbr><sc=77>Runner・If anytime during the Middle Leg<br>you were in the lead by at least 3 lengths,<br>then if you're in the lead on the Final<br>Straight, your speed will increase; in Medium<br>Tokyo races, it will increase tremendously."
+    },
+    "110402111": {
+        "text": "Runner・Medium・If you're third or better during the Final Corner or beyond, your acceleration will increase and you will get a speed boost.",
+        "hash": "713015cf1c410b8051c945816039b6488d4f398e7f399a6c5d0a702f9da82f31",
+        "processed": "<rbr><sc=89>Runner・Medium・If you're third or<br>better during the Final Corner or<br>beyond, your acceleration will increase<br>and you will get a speed boost."
+    },
+    "110402211": {
+        "text": "Runner・Medium・If you're in the first half of the pack at a random point on the third corner, you will get a great speed boost.",
+        "hash": "d358b4e55e4e6003ad58abc9ce91b03cc764eb71588e59dae15fb27c0d7cb8f3",
+        "processed": "<rbr>Runner・Medium・If you're in the<br>first half of the pack at a random<br>point on the third corner, you will<br>get a great speed boost."
     },
     "110501111": {
         "text": "Medium・If you are in a good position on the Final Straight during the Final Leg, your speed will greatly increase.",
