@@ -1483,6 +1483,10 @@
         "text": "Reach ≥600 Stamina",
         "hash": "9dc4bb30600ccc199252690f7d8c0a1a1cb278e9bbf9d471f2cce4eb69269b7d"
     },
+    "10260208": {
+        "text": "Learn 3 Speed-increasing skills",
+        "hash": "f3445762348121f25c8d5e468963bb4704b1d4f948ec98989c5feba61d8d5b81"
+    },
     "10270101": {
         "text": "Win 2 Medium Distance graded races",
         "hash": "a15750a1555cf3d345ca23954ef5da6e7645eac7cc4b0786a0ef6942a001449b"
@@ -3019,6 +3023,30 @@
         "text": "Reach ≥800 Wisdom",
         "hash": "eaaaceae87e8eca06d5ce135c277e5e9bc0ca63d90225134338a7002f4ef8701"
     },
+    "10570201": {
+        "text": "Win Satsuki Sho, Japan Derby, Kikka Sho",
+        "hash": "dd16986001a5e5ebf1b6119c6ada9545bcd6f0b88de2f2ea9ced928a31ad80e6"
+    },
+    "10570202": {
+        "text": "Gain 150000 fans",
+        "hash": "c749f1c887fdd2c4eba3c2554047b1b54b1af565b172aef3bb2ba3510f913661"
+    },
+    "10570203": {
+        "text": "Learn 3 Speed-increasing skills",
+        "hash": "f3445762348121f25c8d5e468963bb4704b1d4f948ec98989c5feba61d8d5b81"
+    },
+    "10570204": {
+        "text": "Learn 2 Chaser skills",
+        "hash": "b485e674d3f9e19daa1dab5befa3e610a9ac67478a77a64b534f6765daa7b231"
+    },
+    "10570205": {
+        "text": "Learn 2 Long Distance skills",
+        "hash": "e070089fca3747c9da2e604a60397c36a2dc36ff7c9e77f60efc345c7110d3e4"
+    },
+    "10570206": {
+        "text": "Reach ≥800 Power",
+        "hash": "9e45fc92c2e1150b54044b5888951716a7698412369ed983185d2313ee36b6ce"
+    },
     "10580101": {
         "text": "Win Tenno Sho (Autumn), Japan C",
         "hash": "2ce5d8c3f88b97138cfe954ecdf48682c61bf98f6f5b0dec52e6613b9d1449b9"
@@ -4438,6 +4466,18 @@
     "11040107": {
         "text": "Reach ≥600 Guts",
         "hash": "4dbddf5913260e3863edbfdb6543b496131add3bd850cf8033cac1bfb7daa392"
+    },
+    "11040202": {
+        "text": "Gain 150000 fans",
+        "hash": "c749f1c887fdd2c4eba3c2554047b1b54b1af565b172aef3bb2ba3510f913661"
+    },
+    "11040203": {
+        "text": "Learn 2 Acceleration-increasing skills",
+        "hash": "321654404af3da3f18777e8999e2fe29d8036ec84fff3312590e7de36d23dda7"
+    },
+    "11040206": {
+        "text": "Reach ≥800 Speed",
+        "hash": "767adbfa731400e3fab3eb5c42b5ad0aa3ed187ca8a9ce18c57f62f78f9cf02c"
     },
     "11050101": {
         "text": "Win Satsuki Sho, Japan Derby",

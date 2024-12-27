@@ -844,6 +844,11 @@
         "text": "Vive la GOLD",
         "hash": "897ef29af4165c554ce754a8e7f51e6331a41456d38be04bab48475cc6239bc4"
     },
+    "120111": {
+        "text": "Naginata Maiden's Dance",
+        "hash": "8f03bde3e32e0a97334dbabb47f880ea2e4cd560a66ccf85c3964522fe94b256",
+        "processed": "<sc=97>Naginata Maiden's Dance"
+    },
     "120131": {
         "text": "The Sea Glitters, but You're Dazzling",
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
@@ -3412,6 +3417,14 @@
         "text": "Forward Step by Step",
         "hash": "5acb764c97e20c16d521f82fa35d6f9296b8185791be53362a1e62cc5fa3fab6"
     },
+    "203371": {
+        "text": "Seize the Initiative",
+        "hash": "4ca6551c829963a504c83aa2ae9302f3a7fd0db8c3d3d93f0089f79405321e8e"
+    },
+    "203372": {
+        "text": "Striking Back",
+        "hash": "888845e8f49a777adb2cf1e7ee7f95f7ad9c510f4333e476664eddd159995a15"
+    },
     "203411": {
         "text": "Fruits of Labor",
         "hash": "96f069f1042945d63c9a47cb2017823965aefd198077fcdc8ae102bd6d00fd46"
@@ -4497,6 +4510,11 @@
         "text": "Vive la GOLD",
         "hash": "897ef29af4165c554ce754a8e7f51e6331a41456d38be04bab48475cc6239bc4"
     },
+    "920111": {
+        "text": "Naginata Maiden's Dance",
+        "hash": "8f03bde3e32e0a97334dbabb47f880ea2e4cd560a66ccf85c3964522fe94b256",
+        "processed": "<sc=97>Naginata Maiden's Dance"
+    },
     "920131": {
         "text": "The Sea Glitters, but You're Dazzling",
         "hash": "f01888b86c983ff35e310409db0564c3922473de192182bdd68e47ba39dba825",
@@ -4871,6 +4889,14 @@
     "101102211": {
         "text": "Conjuring Courage",
         "hash": "2e2a8dd77e7c567d553f55c8e80ee7948dd8e150b1a98845cd30f36510b92d5d"
+    },
+    "101103111": {
+        "text": "Piercing Azure",
+        "hash": "0270dee5987c005844a0667bd00ba68392dc01a23f56bec165a3864ad0d474e6"
+    },
+    "101103211": {
+        "text": "Seizing Victory",
+        "hash": "cb86775bf39e838421f0217eb7bc1174ec6373f0dad479953f72d8fedae99d3c"
     },
     "101201111": {
         "text": "Victory Roar",
