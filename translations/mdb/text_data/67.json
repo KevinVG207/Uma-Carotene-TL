@@ -13289,6 +13289,11 @@
         "hash": "af264421714ca79f26e9af16aaceb130337862e7e1a8c40c9a44359c954f3683",
         "processed": "<rbr>Raise the affection rank of<br>Tanino Gimlet to rank 11."
     },
+    "341080": {
+        "text": "Raise the affection rank of Marvelous Sunday to rank 11.",
+        "hash": "bbe91ea42b58e6ddfb120955436a35409b5ff021fc8d8d2882cdf87307ec49ef",
+        "processed": "<rbr><sc=99>Raise the affection rank of<br>Marvelous Sunday to rank 11."
+    },
     "341081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 11.",
         "hash": "2134564612bcc6c6810d2fb0f8aea4acccaecdf18e99cc125620604354f1bd59",
@@ -13308,6 +13313,11 @@
         "text": "Raise the affection rank of Tap Dance City to rank 11.",
         "hash": "70181ca63fe2833dddcc9252ebcd0335afafc6f14efa9958ccd098490fd3ff0c",
         "processed": "<rbr>Raise the affection rank of<br>Tap Dance City to rank 11."
+    },
+    "341087": {
+        "text": "Raise the affection rank of Satono Crown to rank 11.",
+        "hash": "46d2b2c631e0cda6cf852d27509b2e62c36578b02de8f2e763e8cae1679771f5",
+        "processed": "<rbr>Raise the affection rank of<br>Satono Crown to rank 11."
     },
     "342000": {
         "text": "Raise the affection rank of Special Week to rank 12.",
@@ -13709,6 +13719,11 @@
         "hash": "62ef1e9ffb7e77303d7fdfc06f90f2b9f8fa98db91cca1158136ca6e4df0cb53",
         "processed": "<rbr>Raise the affection rank of<br>Tanino Gimlet to rank 12."
     },
+    "342080": {
+        "text": "Raise the affection rank of Marvelous Sunday to rank 12.",
+        "hash": "20a2aea02b879542b76482cca1f39ff37d1319e4c2c3485e163ef498ed1b1585",
+        "processed": "<rbr><sc=99>Raise the affection rank of<br>Marvelous Sunday to rank 12."
+    },
     "342081": {
         "text": "Raise the affection rank of Katsuragi Ace to rank 12.",
         "hash": "f23d368f714aeaefa90ee1ef9f1f1f971cfaf27d3465ddf3df07fd5e78927f05",
@@ -13728,6 +13743,11 @@
         "text": "Raise the affection rank of Tap Dance City to rank 12.",
         "hash": "ae99f66eec573d36372a0620d244038317fd531662eb82d533499c1abaa8e6d3",
         "processed": "<rbr>Raise the affection rank of<br>Tap Dance City to rank 12."
+    },
+    "342087": {
+        "text": "Raise the affection rank of Satono Crown to rank 12.",
+        "hash": "fadbaab8b65529354842ecde1fa8b17d3b9faa72b26b30d24a37328344e1f7a5",
+        "processed": "<rbr>Raise the affection rank of<br>Satono Crown to rank 12."
     },
     "600101": {
         "text": "Reach team rank D.",
@@ -21290,9 +21310,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001413": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1001414": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -22560,9 +22580,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1001863": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1001864": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -23920,9 +23940,9 @@
         "processed": "<rbr><sc=80>Finish a training run having com-<br>pleted all training objectives 2 times."
     },
     "1002153": {
-        "text": "Win 10 G1 races during training.",
+        "text": "Participate in 10 G1 races during training.",
         "hash": "095521daf29a4a265cc7b19d9ef420e5debf78bf36f3da89a859e78fbe50c550",
-        "processed": "<rbr>Win 10 G1 races during<br>training."
+        "processed": "<rbr>Participate in 10 G1 races<br>during training."
     },
     "1002154": {
         "text": "Win the Zen-Nippon Junior Yushun once during training.",
@@ -34553,6 +34573,46 @@
         "text": "Do 10 training runs ('A Gleaming Mejiro Gala' story event).",
         "hash": "ffa5b4f4baad671124a458c22a9a9f2e5cbf193e7bb41575ab5972094d87a89b",
         "processed": "<rbr><sc=96>Do 10 training runs ('A Gleam-<br>ing Mejiro Gala' story event)."
+    },
+    "2600133": {
+        "text": "Do 2 training runs ('Together with Everyone' story event).",
+        "hash": "bd2b69bbbd6d277506176b1f5403816da9fb894089b4fd486ea0c5b6c792fd8f",
+        "processed": "<rbr>Do 2 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600134": {
+        "text": "Do 4 training runs ('Together with Everyone' story event).",
+        "hash": "f271987f0b80b910687d5cc9707d3791350316a349fdbef4188e061493b16204",
+        "processed": "<rbr>Do 4 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600135": {
+        "text": "Do 7 training runs ('Together with Everyone' story event).",
+        "hash": "3d31ac46f97c456ae02ecdd10bfc77c6fc71819d3f60fc18801c54141c39f806",
+        "processed": "<rbr>Do 7 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600136": {
+        "text": "Do 10 training runs ('Together with Everyone' story event).",
+        "hash": "1409bab032766c6a599082cb7bfaa6beaecc27bb4a45996efa04a52443259e06",
+        "processed": "<rbr><sc=97>Do 10 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600137": {
+        "text": "Do 2 training runs ('Together with Everyone' story event).",
+        "hash": "bd2b69bbbd6d277506176b1f5403816da9fb894089b4fd486ea0c5b6c792fd8f",
+        "processed": "<rbr>Do 2 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600138": {
+        "text": "Do 4 training runs ('Together with Everyone' story event).",
+        "hash": "f271987f0b80b910687d5cc9707d3791350316a349fdbef4188e061493b16204",
+        "processed": "<rbr>Do 4 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600139": {
+        "text": "Do 7 training runs ('Together with Everyone' story event).",
+        "hash": "3d31ac46f97c456ae02ecdd10bfc77c6fc71819d3f60fc18801c54141c39f806",
+        "processed": "<rbr>Do 7 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600140": {
+        "text": "Do 10 training runs ('Together with Everyone' story event).",
+        "hash": "1409bab032766c6a599082cb7bfaa6beaecc27bb4a45996efa04a52443259e06",
+        "processed": "<rbr><sc=97>Do 10 training runs ('Together<br>with Everyone' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",
