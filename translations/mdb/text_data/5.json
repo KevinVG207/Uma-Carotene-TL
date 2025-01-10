@@ -43,6 +43,11 @@
         "hash": "4e08f0605899c1cbd0afb861e93f3bb4d880713b0223a2eb79ae7c437a2a0bd8",
         "processed": "<sc=90>[Blasting Off ☆ Summer Night]"
     },
+    "100403": {
+        "text": "[Celestial Maiden of Godspeed]",
+        "hash": "cf2337a92232fce5183e8502e2d332e09eaca6debdee2391d60673d21bfcf81d",
+        "processed": "<sc=89>[Celestial Maiden of Godspeed]"
+    },
     "100501": {
         "text": "[Shooting Star Revue]",
         "hash": "27155ed25b40393f8fe042330c3f60fc6402a689e63cb8e27146970893662be4"
@@ -494,9 +499,8 @@
         "hash": "0bba6f045654c59676a15ebe6234028b004e051a1a63eb8afe6f48389c3aded1"
     },
     "105702": {
-        "text": "[Brilliant Walkway Performance]",
-        "hash": "b73f04838f91c462fbb4415375cff152e3d3b02af7e9c94a9020d70a9fbec20f",
-        "processed": "<sc=87>[Brilliant Walkway Performance]"
+        "text": "[Dazzling Kabuki Flower]",
+        "hash": "b73f04838f91c462fbb4415375cff152e3d3b02af7e9c94a9020d70a9fbec20f"
     },
     "105801": {
         "text": "[Blue​/​Raging]",
