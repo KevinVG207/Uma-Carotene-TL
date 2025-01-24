@@ -204,7 +204,7 @@ def load_asset_data(row_metadata):
 
     os.makedirs(os.path.dirname(write_path), exist_ok=True)
 
-    if not new:
+    if not new and os.path.exists(write_path):
         print(f"\nStory data {tl_item['file_name']} has changed. Creating backup and replacing.", flush=True)
         bak_path = write_path + f".{round(time.time())}"
         os.rename(write_path, bak_path)

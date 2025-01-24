@@ -413,6 +413,10 @@
         "text": "A Spring in My Step",
         "hash": "afcea5d5ba8c063da24d2bc439673019016afb4a90208bab21f67e1570389c86"
     },
+    "100791": {
+        "text": "Funabashi Above All!",
+        "hash": "7b14c7b3a517e41da75f7ee9f1888b8a9a5f57b83ec1b22a0d20343cc4b4cb01"
+    },
     "100801": {
         "text": "Info: Acquired",
         "hash": "75812b40034bbd80f6b75c8122dfa9b85f85fd88235ff7678ffbcc252e2135c2"
@@ -847,6 +851,11 @@
         "text": "Merrymaking Song and Dance",
         "hash": "67bac01efc886bc4c7ac2a1ed835355a17a4cf0eb613e7deeb81bd4f1c53e7c3",
         "processed": "<sc=82>Merrymaking Song and Dance"
+    },
+    "120041": {
+        "text": "Miraculously Tubular Oracle",
+        "hash": "3fe9fd79825ce430839dc713e64807574e5f1b6fec4a4503301ca9de17187f2e",
+        "processed": "<sc=88>Miraculously Tubular Oracle"
     },
     "120071": {
         "text": "Vive la GOLD",
@@ -3409,6 +3418,10 @@
         "text": "Thorough Preparation",
         "hash": "83291b164801a288607319df676e0b17031033fb9c2432ee8a111e370073a1ec"
     },
+    "203332": {
+        "text": "Preliminary Preparation",
+        "hash": "36a46abdd10e671ff9f5f7c15d77fc0e2dc8fde664eaef83b4fb1528622726f3"
+    },
     "203341": {
         "text": "Pursuer",
         "hash": "23e9bc8d7c9e3045904c0a5d5a6eecd095ad1d5534ee879a8f1c7c001db6d024"
@@ -3481,6 +3494,27 @@
     "203442": {
         "text": "Surpassing Ambitions",
         "hash": "5babb7e0a01d2c14368764c9cf72439e96cea40ea05f3ef7c18fd8e8d3961125"
+    },
+    "203452": {
+        "text": "Turning Point",
+        "hash": "ad7e904fbb405e9fd0e14b554e9f009c9db222296182cecb13edee16d4c986d4"
+    },
+    "203461": {
+        "text": "Preeminent",
+        "hash": "bd82831570e2c08703542ff7def73770a4d3e83f30b03793ce0acdf033660071"
+    },
+    "203462": {
+        "text": "Outstanding Step",
+        "hash": "9750bb9ebfa9a13f594e3a1d9991924992c44f1c155de90a8c56f7492980a72b"
+    },
+    "203471": {
+        "text": "Furious Sprint",
+        "hash": "404cce490dfd6905ead055364132d89b436269daf1fa63911a0498948da2910a"
+    },
+    "203472": {
+        "text": "Overflowing Fighting Spirit",
+        "hash": "e778c9a01d0ffb72bb6777173adfd5933f39c2164856c6c02ac492210b2bd1eb",
+        "processed": "<sc=91>Overflowing Fighting Spirit"
     },
     "210011": {
         "text": "Aoharu Burning・Speed",
@@ -4120,6 +4154,10 @@
         "text": "A Spring in My Step",
         "hash": "afcea5d5ba8c063da24d2bc439673019016afb4a90208bab21f67e1570389c86"
     },
+    "900791": {
+        "text": "Funabashi Above All!",
+        "hash": "7b14c7b3a517e41da75f7ee9f1888b8a9a5f57b83ec1b22a0d20343cc4b4cb01"
+    },
     "900801": {
         "text": "Info: Acquired",
         "hash": "75812b40034bbd80f6b75c8122dfa9b85f85fd88235ff7678ffbcc252e2135c2"
@@ -4555,6 +4593,11 @@
         "hash": "67bac01efc886bc4c7ac2a1ed835355a17a4cf0eb613e7deeb81bd4f1c53e7c3",
         "processed": "<sc=82>Merrymaking Song and Dance"
     },
+    "920041": {
+        "text": "Miraculously Tubular Oracle",
+        "hash": "3fe9fd79825ce430839dc713e64807574e5f1b6fec4a4503301ca9de17187f2e",
+        "processed": "<sc=88>Miraculously Tubular Oracle"
+    },
     "920071": {
         "text": "Vive la GOLD",
         "hash": "897ef29af4165c554ce754a8e7f51e6331a41456d38be04bab48475cc6239bc4"
@@ -4796,6 +4839,14 @@
     "100402211": {
         "text": "Ruler of the Stage",
         "hash": "4e9afdfd99d39530cda39be21ea74b6c37e74a13b924f5a321e658261c9eacde"
+    },
+    "100403111": {
+        "text": "Angelic Garment",
+        "hash": "fdab6c8c8ae6316608bfc656aa4f9f59720f4f02bb84dd7cd24424d41ebf16e4"
+    },
+    "100403211": {
+        "text": "Shrine Maiden's Dance",
+        "hash": "9e653a154c9a432d975eed1d3f5ef3a88de7947968a463e3b9438695b479451b"
     },
     "100501111": {
         "text": "Sparkling Top Star",
@@ -6229,6 +6280,15 @@
     "107801221": {
         "text": "Heavenly Wind",
         "hash": "43ea7fd3d98a91d7a16bacbe600a7b0c223c047993b799c1013554b0d5dc0ecc"
+    },
+    "107901111": {
+        "text": "Guidance of the Sea Breeze",
+        "hash": "420c5bb9d31c16a3a77b5839867cd7d63c8be07cc1e26d526f3bbe1c8fb26bc9",
+        "processed": "<sc=89>Guidance of the Sea Breeze"
+    },
+    "107901211": {
+        "text": "Brave Advance",
+        "hash": "aa24b034b5882509479aba810c9bf1c29eb0377d9108c5d07944c1b5ed5720be"
     },
     "108001111": {
         "text": "Information Broker",

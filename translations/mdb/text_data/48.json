@@ -479,6 +479,11 @@
         "hash": "f466a95b37118c402377b6dbca676e6f7ae7470cc1ac8e9700bf07e0e3f68c8d",
         "processed": "<rbr><sc=80>If you weren't ever in front until the second<br>half of the race, your acceleration will<br>increase during the second half of the Final<br>Corner; the effect is stronger if you're in<br>the 2nd place."
     },
+    "100791": {
+        "text": "If you were blocked from the side in the first half of the pack during the Middle Leg, then halfway through the race, your speed will increase; the effect lasts longer on Ooi, Kawasaki, and Funabashi racetracks.",
+        "hash": "7c810acf310ebb893c8b156cb97f292d908c19985be021d14aa56826131cefb4",
+        "processed": "<rbr><sc=80>If you were blocked from the side in the<br>first half of the pack during the Middle Leg,<br>then halfway through the race, your speed<br>will increase; the effect lasts longer on Ooi,<br>Kawasaki, and Funabashi racetracks."
+    },
     "100801": {
         "text": "If you stayed in the top 20% for the entire first half of the race, and one of your opponents uses an acceleration skill, your speed will slightly increase; in dirt races on big racetracks (non-NAR), you will also get a speed boost.",
         "hash": "1f3d8bdbdc5dae131f451a2af485a6e60a08d3cfc0bd0857d7b015a8c62a7610",
@@ -993,6 +998,11 @@
         "text": "If someone tried to overtake you in the first half of the pack during the second half of the race, then during the second half of the Final Corner, your speed will increase; you will also get a speed boost in races between 2400 and 2500 m long.",
         "hash": "ee43501717bf025fc63789b999ea38ce9395c9f3b5dee83cda773a9bba43190c",
         "processed": "<rbr><sc=69>If someone tried to overtake you in the first half of<br>the pack during the second half of the race, then<br>during the second half of the Final Corner, your<br>speed will increase; you will also get a speed<br>boost in races between 2400 and 2500 m long."
+    },
+    "120041": {
+        "text": "During the first half of the Middle Leg, if you're in the front, and if you're trying to overtake someone or someone is trying to overtake you, you will get a speed boost; the effect is much stronger in Mile races.",
+        "hash": "1b9fed70c8dc057e8bbb967bd2f5a235ee2d9520f998f0ec75d6b7f4b93b4bf3",
+        "processed": "<rbr><sc=80>During the first half of the Middle Leg, if<br>you're in the front, and if you're trying to<br>overtake someone or someone is trying to<br>overtake you, you will get a speed boost;<br>the effect is much stronger in Mile races."
     },
     "120071": {
         "text": "Medium/Long・During the Final Corner or beyond, if you're about to overtake someone from the second half of the pack, your speed will increase; it will increase greatly if you had a late start.",
@@ -4254,6 +4264,31 @@
         "hash": "825c4e1c6325acdf42544ff69538f73d2da22b64b53baf809a300026111d68e4",
         "processed": "<rbr><sc=89>Leader・Medium・If you're in the first<br>half of the pack at a random point dur-<br>ing the first quarter of the Final Leg,<br>your acceleration will slightly increase."
     },
+    "203452": {
+        "text": "Betweener・Short・If you're not in the front at a random point during the first half of the Final Leg, your acceleration will slightly increase.",
+        "hash": "0fa64791a460e409e1f5dac1299cfd0b0dd3790354593872648c09ad0b34f2c7",
+        "processed": "<rbr>Betweener・Short・If you're not in<br>the front at a random point during<br>the first half of the Final Leg, your<br>acceleration will slightly increase."
+    },
+    "203461": {
+        "text": "Runner・If someone tries to overtake you during the second half of the race, your speed will increase.",
+        "hash": "e9c365248dd62f84ac9d46e319b1da427a3112942a8f0dc717dd3486777b38e9",
+        "processed": "<rbr>Runner・If someone tries to<br>overtake you during the second<br>half of the race, your speed will<br>increase."
+    },
+    "203462": {
+        "text": "Runner・If someone tries to overtake you during the second half of the race, your speed will slightly increase.",
+        "hash": "8253130d5ff7f72ef90edce91dca6b292d8aef1765e40a689900706dc8b91e0a",
+        "processed": "<rbr>Runner・If someone tries to<br>overtake you during the second<br>half of the race, your speed will<br>slightly increase."
+    },
+    "203471": {
+        "text": "Runner/Leader・If you participated in at least one Showdown (追い比べ) during the Final Straight, then with 200 m remaining in the race, you will get a speed boost.",
+        "hash": "708537e3fb81e9babe2ecf3a055ce6eb7eb494164cfe7775c184937d3b7794d3",
+        "processed": "<rbr><sc=84>Runner/Leader・If you participated in at<br>least one Showdown (追い比べ) during the<br>Final Straight, then with 200 m remaining<br>in the race, you will get a speed boost."
+    },
+    "203472": {
+        "text": "Runner/Leader・If you participated in at least one Showdown (追い比べ) during the Final Straight, then with 200 m remaining in the race, you will get a slight speed boost.",
+        "hash": "cd8a3de24e07a7b03db1d94aa0d0991527acc3076a26a8d71649a0a6f42bfdb8",
+        "processed": "<rbr><sc=80>Runner/Leader・If you participated in at<br>least one Showdown (追い比べ) during the<br>Final Straight, then with 200 m remaining<br>in the race, you will get a slight speed<br>boost."
+    },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
         "hash": "2b11f52be1772f83410a032e5b2f6964030c966486ead8045fff1b8a61f8cbf8",
@@ -5633,6 +5668,16 @@
         "text": "Mile・During the second half of the Opening Leg, if you're in the first half of the pack, your speed will greatly increase.",
         "hash": "67f60811c64a43c9316e418854569073e603dc34ddf78dcc92b17f047c71733a",
         "processed": "<rbr>Mile・During the second half of<br>the Opening Leg, if you're in the<br>first half of the pack, your speed<br>will greatly increase."
+    },
+    "100403111": {
+        "text": "Runner・Mile・If you're trying to overtake someone or someone is trying to overtake you, you will get a great speed boost.",
+        "hash": "8c42ac2f13a61567634258ec0086967bece3e97b77d0d074d5d25e638d011439",
+        "processed": "<rbr>Runner・Mile・If you're trying to<br>overtake someone or someone is<br>trying to overtake you, you will get<br>a great speed boost."
+    },
+    "100403211": {
+        "text": "Runner・Mile・If someone tries to overtake you during the second half of the race, you will get a great speed boost.",
+        "hash": "e8f9e1e489c90a9a83e66c578ef8e3d03d8cba65c1cac100d42dba6197efa68d",
+        "processed": "<rbr>Runner・Mile・If someone tries to<br>overtake you during the second<br>half of the race, you will get a<br>great speed boost."
     },
     "100501111": {
         "text": "Mile・If you're about to overtake someone, your speed will greatly increase.",
@@ -7338,6 +7383,16 @@
         "text": "Leader・If you're 3rd or worse during the second half of the race, your speed will increase.",
         "hash": "ab69884398ab8e4106b16826e476209974d36c55ef80bbf818462f76683c3f83",
         "processed": "<rbr>Leader・If you're 3rd or worse<br>during the second half of the race,<br>your speed will increase."
+    },
+    "107901111": {
+        "text": "Mile/Medium・At a random point during a random Middle Leg straight, your speed will increase; the effect lasts longer on Dirt tracks.",
+        "hash": "02f5950b404b6c91c7aed365662cfd7bb1ffe9309952fe5fa67f2d81adaf085d",
+        "processed": "<rbr><sc=94>Mile/Medium・At a random point<br>during a random Middle Leg straight,<br>your speed will increase; the effect<br>lasts longer on Dirt tracks."
+    },
+    "107901211": {
+        "text": "Runner/Leader・If you participated in at least one Showdown (追い比べ) during the Final Straight, then with 200 m remaining in the race, you will get a great speed boost.",
+        "hash": "106a4cae90c9fb213938cd4e652d8a1ad5be102dacdbd79cfb685f9f3a21f156",
+        "processed": "<rbr><sc=80>Runner/Leader・If you participated in at<br>least one Showdown (追い比べ) during the<br>Final Straight, then with 200 m remaining<br>in the race, you will get a great speed<br>boost."
     },
     "108001111": {
         "text": "If you've activated at least 3 skills during the Opening Leg, your acceleration will increase; in Mile and Medium races, it will increase greatly.",
