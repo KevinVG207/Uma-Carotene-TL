@@ -44,9 +44,9 @@
         "processed": "<sc=90>[Blasting Off ☆ Summer Night]"
     },
     "100403": {
-        "text": "[Celestial Maiden of Godspeed]",
+        "text": "[Auspicious Maiden of Divine Speed]",
         "hash": "cf2337a92232fce5183e8502e2d332e09eaca6debdee2391d60673d21bfcf81d",
-        "processed": "<sc=89>[Celestial Maiden of Godspeed]"
+        "processed": "<sc=75>[Auspicious Maiden of Divine Speed]"
     },
     "100501": {
         "text": "[Shooting Star Revue]",
@@ -653,6 +653,11 @@
     "107801": {
         "text": "[Fluttertail Spirit]",
         "hash": "9a9c15ffd70bac1e8dbe58659442bb806930e6f8a42f9418645d3c121912779c"
+    },
+    "107901": {
+        "text": "[Triumphant Return of the Auspicious Star]",
+        "hash": "200beff5ca977c45310825bffb88a4027617fdc9a964a1b7ad5c9cbb9b6e9b09",
+        "processed": "<sc=64>[Triumphant Return of the Auspicious Star]"
     },
     "108001": {
         "text": "[ZOKU​-​ZOKU GIZMO]",

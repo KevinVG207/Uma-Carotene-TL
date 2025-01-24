@@ -4032,15 +4032,15 @@
         "hash": "9a6341b4d64df39666f5fff4fa9db129dd69e9beb5b58cf12d9798ad984e5e57"
     },
     "2033301": {
-        "text": "Obtain [下準備] skill hint.",
+        "text": "Obtain [Preliminary Preparation] skill hint.",
         "hash": "eb2b3eb28240b966a5a895e1fc89be2eef335976c82b6f404df9e7e2929e770c"
     },
     "2033302": {
-        "text": "Obtain [下準備] skill hint.",
+        "text": "Obtain [Preliminary Preparation] skill hint.",
         "hash": "eb2b3eb28240b966a5a895e1fc89be2eef335976c82b6f404df9e7e2929e770c"
     },
     "2033303": {
-        "text": "Obtain [下準備] skill hint.",
+        "text": "Obtain [Preliminary Preparation] skill hint.",
         "hash": "eb2b3eb28240b966a5a895e1fc89be2eef335976c82b6f404df9e7e2929e770c"
     },
     "2033401": {
@@ -4176,28 +4176,40 @@
         "hash": "e9b3ff9f47f64b6832509b1ac664212047db602bef1ad44043be51725750d0c1"
     },
     "2034501": {
-        "text": "Obtain [ターニングポイント] skill hint.",
+        "text": "Obtain [Turning Point] skill hint.",
         "hash": "139c462a57c5ae8f1529ab66343f217dd5b51be9cbf5af12f660a435fbbc9e4f"
     },
     "2034502": {
-        "text": "Obtain [ターニングポイント] skill hint.",
+        "text": "Obtain [Turning Point] skill hint.",
         "hash": "139c462a57c5ae8f1529ab66343f217dd5b51be9cbf5af12f660a435fbbc9e4f"
     },
     "2034503": {
-        "text": "Obtain [ターニングポイント] skill hint.",
+        "text": "Obtain [Turning Point] skill hint.",
         "hash": "139c462a57c5ae8f1529ab66343f217dd5b51be9cbf5af12f660a435fbbc9e4f"
     },
     "2034601": {
-        "text": "Obtain [抜きん出る一歩] skill hint.",
+        "text": "Obtain [Outstanding Step] skill hint.",
         "hash": "d9eb880d979d0db869f761f956d1bee08b2987e717c98bdf3debe21ab245e42b"
     },
     "2034602": {
-        "text": "Obtain [抜きん出る一歩] skill hint.",
+        "text": "Obtain [Outstanding Step] skill hint.",
         "hash": "d9eb880d979d0db869f761f956d1bee08b2987e717c98bdf3debe21ab245e42b"
     },
     "2034603": {
-        "text": "Obtain [抜きん出る一歩] skill hint.",
+        "text": "Obtain [Outstanding Step] skill hint.",
         "hash": "d9eb880d979d0db869f761f956d1bee08b2987e717c98bdf3debe21ab245e42b"
+    },
+    "2034701": {
+        "text": "Obtain [Overflowing Fighting Spirit] skill hint.",
+        "hash": "1927ac3b339a08bdbdf2852262db6f02c4c346a99e3578d2a1159d8aa4fe2e32"
+    },
+    "2034702": {
+        "text": "Obtain [Overflowing Fighting Spirit] skill hint.",
+        "hash": "1927ac3b339a08bdbdf2852262db6f02c4c346a99e3578d2a1159d8aa4fe2e32"
+    },
+    "2034703": {
+        "text": "Obtain [Overflowing Fighting Spirit] skill hint.",
+        "hash": "1927ac3b339a08bdbdf2852262db6f02c4c346a99e3578d2a1159d8aa4fe2e32"
     },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
@@ -5088,15 +5100,15 @@
         "hash": "43ac5c53085c4f02fb9e283b334b6f1eb11d768f65c4a46c5fa8cde0553c2963"
     },
     "10040301": {
-        "text": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
+        "text": "Increases Speed Cap and Power Cap.\\nObtain [Miraculously Tubular Oracle] skill hint.",
         "hash": "7881785138b05fffea11c43f1170e434f95e77970e9dffc043672fd3e093eb5a"
     },
     "10040302": {
-        "text": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
+        "text": "Increases Speed Cap and Power Cap.\\nObtain [Miraculously Tubular Oracle] skill hint.",
         "hash": "7881785138b05fffea11c43f1170e434f95e77970e9dffc043672fd3e093eb5a"
     },
     "10040303": {
-        "text": "Increases Speed Cap and Power Cap.\\nObtain [霊験灼然チョベリグ神託] skill hint.",
+        "text": "Increases Speed Cap and Power Cap.\\nObtain [Miraculously Tubular Oracle] skill hint.",
         "hash": "7881785138b05fffea11c43f1170e434f95e77970e9dffc043672fd3e093eb5a"
     },
     "10050101": {
@@ -6886,6 +6898,18 @@
     "10780103": {
         "text": "Increases Speed Cap, Guts Cap and Wit Cap.\\nObtain [A Spring in My Step] skill hint.",
         "hash": "d9da6dfbef1acfba78b1110852705e4eced638072793f811d422bc9489e58848"
+    },
+    "10790101": {
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [Funabashi Above All!] skill hint.",
+        "hash": "4d1fdc4c073732b5e358e76b4d229271715ba6010db7db65c1ac96d168852362"
+    },
+    "10790102": {
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [Funabashi Above All!] skill hint.",
+        "hash": "4d1fdc4c073732b5e358e76b4d229271715ba6010db7db65c1ac96d168852362"
+    },
+    "10790103": {
+        "text": "Increases Speed Cap and Guts Cap.\\nObtain [Funabashi Above All!] skill hint.",
+        "hash": "4d1fdc4c073732b5e358e76b4d229271715ba6010db7db65c1ac96d168852362"
     },
     "10800101": {
         "text": "Increases Speed Cap, Power Cap and Wit Cap.\\nObtain [Info: Acquired] skill hint.",
