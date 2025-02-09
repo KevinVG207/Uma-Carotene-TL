@@ -13314,6 +13314,16 @@
         "hash": "f85e37023ba3cc5796ca13ecf7ba97f99526c2fe538cab567d857ee90f421bb5",
         "processed": "<rbr>Raise the affection rank of<br>Narita Top Road to rank 11."
     },
+    "341084": {
+        "text": "Raise the affection rank of K.S.Miracle to rank 11.",
+        "hash": "9999f81eb11420f13c7c3ea6e9a30723d3dc3f5eb01790cf5acfceb6bdc6b719",
+        "processed": "<rbr>Raise the affection rank of<br>K.S.Miracle to rank 11."
+    },
+    "341085": {
+        "text": "Raise the affection rank of Mejiro Ramonu to rank 11.",
+        "hash": "40dcebdceb7402772d4565367b92c746cf436a81adb3564f59ed4ac05687b699",
+        "processed": "<rbr>Raise the affection rank of<br>Mejiro Ramonu to rank 11."
+    },
     "341086": {
         "text": "Raise the affection rank of Tap Dance City to rank 11.",
         "hash": "70181ca63fe2833dddcc9252ebcd0335afafc6f14efa9958ccd098490fd3ff0c",
@@ -13323,6 +13333,11 @@
         "text": "Raise the affection rank of Satono Crown to rank 11.",
         "hash": "46d2b2c631e0cda6cf852d27509b2e62c36578b02de8f2e763e8cae1679771f5",
         "processed": "<rbr>Raise the affection rank of<br>Satono Crown to rank 11."
+    },
+    "341088": {
+        "text": "Raise the affection rank of Cheval Grand to rank 11.",
+        "hash": "4e365534e3fabad073df38c44623b15046fff5715b26e4aed22da7cfe4008123",
+        "processed": "<rbr>Raise the affection rank of<br>Cheval Grand to rank 11."
     },
     "342000": {
         "text": "Raise the affection rank of Special Week to rank 12.",
@@ -13744,6 +13759,16 @@
         "hash": "7bd54ba0dc612a2d6880d5a701d27bf6556187fe598d043226eacf8755180bcf",
         "processed": "<rbr>Raise the affection rank of<br>Narita Top Road to rank 12."
     },
+    "342084": {
+        "text": "Raise the affection rank of K.S.Miracle to rank 12.",
+        "hash": "cff48be6626c68cc43491115be1d741f1b42a0cc81c78513dacec9db45aa5a92",
+        "processed": "<rbr>Raise the affection rank of<br>K.S.Miracle to rank 12."
+    },
+    "342085": {
+        "text": "Raise the affection rank of Mejiro Ramonu to rank 12.",
+        "hash": "b97039864713f29bb4cb9bc3d6223d52b53a135be36af945d55d295227f76ea6",
+        "processed": "<rbr>Raise the affection rank of<br>Mejiro Ramonu to rank 12."
+    },
     "342086": {
         "text": "Raise the affection rank of Tap Dance City to rank 12.",
         "hash": "ae99f66eec573d36372a0620d244038317fd531662eb82d533499c1abaa8e6d3",
@@ -13753,6 +13778,11 @@
         "text": "Raise the affection rank of Satono Crown to rank 12.",
         "hash": "fadbaab8b65529354842ecde1fa8b17d3b9faa72b26b30d24a37328344e1f7a5",
         "processed": "<rbr>Raise the affection rank of<br>Satono Crown to rank 12."
+    },
+    "342088": {
+        "text": "Raise the affection rank of Cheval Grand to rank 12.",
+        "hash": "3ed2b0d856d83888e48cda0e8dca35f08f0d03319c2c6ae79b3ac9dfd3b19f88",
+        "processed": "<rbr>Raise the affection rank of<br>Cheval Grand to rank 12."
     },
     "600101": {
         "text": "Reach team rank D.",
@@ -28564,6 +28594,111 @@
         "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
         "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
     },
+    "2003701": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003702": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003703": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003704": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003705": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003706": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003707": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003708": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003709": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003710": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003711": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003712": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003713": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003714": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003715": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003716": {
+        "text": "[Daily] Enter Legend Race 1 time",
+        "hash": "24ac7acb89cfebc3aecee225fc17292bbc415f8427f09e75a100253c81d6dcdc",
+        "processed": "<rbr>[Daily] Enter Legend Race 1<br>time"
+    },
+    "2003717": {
+        "text": "[Daily] Enter Legend Race 2 times",
+        "hash": "195e321aac9400f2f4816ccc35d7b1f41d4075bbbd2531b9e053f639a62fc1d9",
+        "processed": "<rbr>[Daily] Enter Legend Race 2<br>times"
+    },
+    "2003718": {
+        "text": "[Daily] Enter Legend Race 3 times",
+        "hash": "99aee66ce8c4dfb2d31ff811ab2b3abadf0662c337ccc41337ac1b056e191396",
+        "processed": "<rbr>[Daily] Enter Legend Race 3<br>times"
+    },
+    "2003719": {
+        "text": "[Limited] Enter Legend Race 6 times",
+        "hash": "e418482334acc5e9e947c3c8087992bdd64a8ab2ee9102b1e8b48aba0cf28d02",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>6 times"
+    },
+    "2003720": {
+        "text": "[Limited] Enter Legend Race 9 times",
+        "hash": "9c91d6c7d9be53f8fc806aa2449748f04a113d5cd2056db5fc7dae26752fdd29",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>9 times"
+    },
+    "2003721": {
+        "text": "[Limited] Enter Legend Race 12 times",
+        "hash": "f8aa73d52b4a7041c69514d60c1a72b06d49b96ab85ea09425690a5d7e210743",
+        "processed": "<rbr>[Limited] Enter Legend Race<br>12 times"
+    },
     "2100010": {
         "text": "[Daily] Enter Taurus Cup",
         "hash": "8c0907074facb4799ebeeed7b29c0e1951426376cf33b36990cd18bcbee355fe",
@@ -34643,6 +34778,26 @@
         "text": "Do 10 training runs ('Together with Everyone' story event).",
         "hash": "1409bab032766c6a599082cb7bfaa6beaecc27bb4a45996efa04a52443259e06",
         "processed": "<rbr><sc=97>Do 10 training runs ('Together<br>with Everyone' story event)."
+    },
+    "2600141": {
+        "text": "Do 2 training runs ('Come One, Come All, To Calming Koumian!' story event).",
+        "hash": "fe6d9cdea66161745ca55266844967645efd5163d5ac88a2b74ecb7be2b32d31",
+        "processed": "<rbr><sc=76>Do 2 training runs ('Come One, Come<br>All, To Calming Koumian!' story event)."
+    },
+    "2600142": {
+        "text": "Do 4 training runs ('Come One, Come All, To Calming Koumian!' story event).",
+        "hash": "e93e38b5746afc5b370c5cb05b1db6d579c13df7508afad327d0cd494bca60b2",
+        "processed": "<rbr><sc=76>Do 4 training runs ('Come One, Come<br>All, To Calming Koumian!' story event)."
+    },
+    "2600143": {
+        "text": "Do 7 training runs ('Come One, Come All, To Calming Koumian!' story event).",
+        "hash": "582060481f6e618c777a460f0264ab6bd581a2cb6273ee4f924baa5ca000b94e",
+        "processed": "<rbr><sc=76>Do 7 training runs ('Come One, Come<br>All, To Calming Koumian!' story event)."
+    },
+    "2600144": {
+        "text": "Do 10 training runs ('Come One, Come All, To Calming Koumian!' story event).",
+        "hash": "ea9d1b29965abeb57e7b599281b80613baf37ca790d291e8367b6046d7f751a7",
+        "processed": "<rbr><sc=76>Do 10 training runs ('Come One, Come<br>All, To Calming Koumian!' story event)."
     },
     "3000001": {
         "text": "Check in on your circle once.",

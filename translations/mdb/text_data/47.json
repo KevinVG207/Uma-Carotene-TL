@@ -822,6 +822,10 @@
         "text": "Joy to the World",
         "hash": "1a15349408610a721b3929a251c1ae0befab9313d05bcf0eaf29101a7370efcc"
     },
+    "110781": {
+        "text": "Breezy Treat",
+        "hash": "73d19f1ef2f12b5851b1c48336a20cf744509288fe45c8f8aeac4fd1eea36b19"
+    },
     "110831": {
         "text": "Immortal Work",
         "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
@@ -829,6 +833,10 @@
     "110851": {
         "text": "Sapphire Flame",
         "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
+    },
+    "110871": {
+        "text": "Fluffy Fuzzy Hour",
+        "hash": "a5631d9fa19d247d621614f5db528ff34ec393fcd63517ba043761a895b4ac43"
     },
     "110991": {
         "text": "Popping☆Clams",
@@ -3516,6 +3524,22 @@
         "hash": "e778c9a01d0ffb72bb6777173adfd5933f39c2164856c6c02ac492210b2bd1eb",
         "processed": "<sc=91>Overflowing Fighting Spirit"
     },
+    "203481": {
+        "text": "Initiative",
+        "hash": "e278fec762730aa7eb8f27edd5dc631a587b5a0a13f1cb728d1466a3cea93a47"
+    },
+    "203482": {
+        "text": "Unyielding Step",
+        "hash": "99340965370553289bb44c5b47d3afb24eed7fe4467ff301cdf1db863f95c55c"
+    },
+    "203491": {
+        "text": "Fierce Clash",
+        "hash": "13f66abfc3956dae3d4cec21d90437906c2fb5d443954a609e027afb19434ff7"
+    },
+    "203492": {
+        "text": "Flying Sparks",
+        "hash": "012bd6b152011fe0d103ccb64a07536a7affbc6beed23dcbae63af5910bca44b"
+    },
     "210011": {
         "text": "Aoharu Burning・Speed",
         "hash": "c12512e854e06a16e6af0c65a0497a0d977dbb581687791cad8e248040652dcd"
@@ -4563,6 +4587,10 @@
         "text": "Joy to the World",
         "hash": "1a15349408610a721b3929a251c1ae0befab9313d05bcf0eaf29101a7370efcc"
     },
+    "910781": {
+        "text": "Breezy Treat",
+        "hash": "73d19f1ef2f12b5851b1c48336a20cf744509288fe45c8f8aeac4fd1eea36b19"
+    },
     "910831": {
         "text": "Immortal Work",
         "hash": "2fd01a21794931bbebdf4244dbd24d0560e7a4ab6a88b50842808f0b8705793b"
@@ -4570,6 +4598,10 @@
     "910851": {
         "text": "Sapphire Flame",
         "hash": "2dd4538fe1669b8fdaa4d1914246917e98f2ee2ea8f07d491e2e263254c7c7b3"
+    },
+    "910871": {
+        "text": "Fluffy Fuzzy Hour",
+        "hash": "a5631d9fa19d247d621614f5db528ff34ec393fcd63517ba043761a895b4ac43"
     },
     "910991": {
         "text": "Popping☆Clams",
@@ -6020,6 +6052,10 @@
         "text": "Proof of Indomitability",
         "hash": "bc453e313cf6cd21e66444bc684b145a65989dc3543cc9b555a251d83d42abb9"
     },
+    "106103221": {
+        "text": "First-Class Presence",
+        "hash": "f205bece2a9f591746b0d70a57586380fe1ee9ef8b87911e2c389f10efa556fc"
+    },
     "106201111": {
         "text": "Going My Way",
         "hash": "08f5c4e4c57ab86b4d952602e701d94d96d8d437c00bf660903f64a58dadef0d"
@@ -6281,6 +6317,14 @@
         "text": "Heavenly Wind",
         "hash": "43ea7fd3d98a91d7a16bacbe600a7b0c223c047993b799c1013554b0d5dc0ecc"
     },
+    "107802111": {
+        "text": "Dust Devil Manifest",
+        "hash": "6d98e68e163f41a55c96dcf5e9efd3bbed2ce2a137c3ccd9c601fdb3aa9c085a"
+    },
+    "107802211": {
+        "text": "Sylph Spirit",
+        "hash": "4f88849b121f8d1770d3397500c11e8b2b43210b1d35cb3c3bbd45f31e6ad5fa"
+    },
     "107901111": {
         "text": "Guidance of the Sea Breeze",
         "hash": "420c5bb9d31c16a3a77b5839867cd7d63c8be07cc1e26d526f3bbe1c8fb26bc9",
@@ -6365,6 +6409,16 @@
     "108701211": {
         "text": "Unforgettable Step",
         "hash": "1b097bd4ab4c8891cdca8ee60d8582f0eb3e91d30302abff4897ee8e5d03714b"
+    },
+    "108702111": {
+        "text": "The Art of Photobombing",
+        "hash": "d1e5f1d9e2fd0a48ff4fd78558df9ce2c71f8fc1b434b2d99a827757685c5a8b",
+        "processed": "<sc=98>The Art of Photobombing"
+    },
+    "108702211": {
+        "text": "Please Remember Me, Okay?",
+        "hash": "114032dc3f63e15a436347d9d33d4c002be588e4cecdf8f8f611ca2d54c85974",
+        "processed": "<sc=85>Please Remember Me, Okay?"
     },
     "108801111": {
         "text": "Ambitious Card",
@@ -6531,7 +6585,7 @@
         "processed": "<sc=99>There's No Way I'll Lose!"
     },
     "111001111": {
-        "text": "Be as Bedrock",
+        "text": "Become the Foundation",
         "hash": "23a2ec3c9c4956e18714733082712333593a678d2bcd2bbbf704f1399396dee1"
     },
     "111001211": {

@@ -964,6 +964,11 @@
         "hash": "b786fde23c8a3b83398ec8156c0c9dd022c8e17af72d1bda5e187473fdc7eb6a",
         "processed": "<rbr><sc=67>If you used a stamina-recovery skill during the first<br>half of the Middle Leg, then around the half point of<br>the race, if you're in a good position but not lead-<br>ing, your speed will increase; it will increase greatly<br>if there's at least 1000 m remaining at that point."
     },
+    "110781": {
+        "text": "If you're in the first half of the pack with 350 m remaining in the race, you will get an (immediate) speed boost; in Mile races, your (target) speed will additionally also slightly increase.",
+        "hash": "5c42b24f716196c347f740175fa8390e70c63f692408a81e0ef1a9d9cc1744d4",
+        "processed": "<rbr><sc=80>If you're in the first half of the pack with<br>350 m remaining in the race, you will get<br>an (immediate) speed boost; in Mile races,<br>your (target) speed will additionally also<br>slightly increase."
+    },
     "110831": {
         "text": "If you were in the middle of the pack halfway through the race, then during the Last Straight, your speed will increase; the effect is stronger in Medium Nakayama races.",
         "hash": "d3c4e7ab9555a28eca5256675afce0626e83795f2fcae38b53b119a681bf6086",
@@ -973,6 +978,11 @@
         "text": "If you're in the middle of the pack halfway through the race, your speed will slightly increase; the effect is stronger and lasts longer in Mile races.",
         "hash": "22afd5605433421c565dfc682ce3fc553c28a52d4550c27af4b27aa83abda392",
         "processed": "<rbr><sc=89>If you're in the middle of the pack half-<br>way through the race, your speed will<br>slightly increase; the effect is stronger<br>and lasts longer in Mile races."
+    },
+    "110871": {
+        "text": "Short・If you're in the front halfway through the race, your speed will increase; it will increase greatly if your base Wisdom is at least 1200.",
+        "hash": "bbe6553bb3c2e10f15e96be6418f73486aa02c6dd0bbee4cc6e77bd0e725c39b",
+        "processed": "<rbr><sc=97>Short・If you're in the front halfway<br>through the race, your speed will<br>increase; it will increase greatly if<br>your base Wisdom is at least 1200."
     },
     "110991": {
         "text": "Halfway through the race, your speed will slightly increase; the effect is stronger on Dirt races where the halfway point is not on the 3rd corner.",
@@ -4289,6 +4299,26 @@
         "hash": "cd8a3de24e07a7b03db1d94aa0d0991527acc3076a26a8d71649a0a6f42bfdb8",
         "processed": "<rbr><sc=80>Runner/Leader・If you participated in at<br>least one Showdown (追い比べ) during the<br>Final Straight, then with 200 m remaining<br>in the race, you will get a slight speed<br>boost."
     },
+    "203481": {
+        "text": "Runner・Short・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will increase.",
+        "hash": "3ac0f66f0b9a9c8ce518d285b5eb6b00bbfc2f1ec886a11257e911bc4eba3510",
+        "processed": "<rbr>Runner・Short・If you're in the<br>first half of the pack during the<br>first half of the Final Leg, your<br>acceleration will increase."
+    },
+    "203482": {
+        "text": "Runner・Short・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will slightly increase.",
+        "hash": "1b015ebe5374368640833edb1f3044147cc3c54c47a8e23f671e1c72aad3a33b",
+        "processed": "<rbr>Runner・Short・If you're in the<br>first half of the pack during the<br>first half of the Final Leg, your<br>acceleration will slightly increase."
+    },
+    "203491": {
+        "text": "Leader・Short・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will increase.",
+        "hash": "2482158153bc219c480834417b8a27bb297974df32835d4941572732ba63042f",
+        "processed": "<rbr>Leader・Short・If you're in the<br>first half of the pack during the<br>first half of the Final Leg, your<br>acceleration will increase."
+    },
+    "203492": {
+        "text": "Leader・Short・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will slightly increase.",
+        "hash": "cf1eeffe31c3b2c729f9337cafd653b0b849a3cfe25a7dca5a87b61ae0fc3656",
+        "processed": "<rbr>Leader・Short・If you're in the<br>first half of the pack during the<br>first half of the Final Leg, your<br>acceleration will slightly increase."
+    },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
         "hash": "2b11f52be1772f83410a032e5b2f6964030c966486ead8045fff1b8a61f8cbf8",
@@ -7074,6 +7104,11 @@
         "hash": "58f4fcf3d86bffec8373c5e8b4061b2eb928e5071bb8f138f21bc47910a50010",
         "processed": "<rbr>Short/Mile・If you're not near the<br>front during the second half of the<br>Middle Leg, your speed will greatly<br>increase."
     },
+    "106103221": {
+        "text": "Short・If you're not near the front during the second half of the Middle Leg, your speed will increase.",
+        "hash": "f96ee87ce7c7b564f96aa526df5aef9eccc2e9fb19cc82487e8dba290d07a6bc",
+        "processed": "<rbr>Short・If you're not near the front<br>during the second half of the<br>Middle Leg, your speed will<br>increase."
+    },
     "106201111": {
         "text": "If you become surrounded in the Middle Leg, your speed will slightly increase and your stamina will recover.",
         "hash": "b17f528b0283366968d1fc1043c85161056335491a6e94e8e9631be4aedcdba8",
@@ -7384,6 +7419,16 @@
         "hash": "ab69884398ab8e4106b16826e476209974d36c55ef80bbf818462f76683c3f83",
         "processed": "<rbr>Leader・If you're 3rd or worse<br>during the second half of the race,<br>your speed will increase."
     },
+    "107802111": {
+        "text": "Leader・If you're in the first half of the pack at a random point during the Middle Leg, your speed will increase.",
+        "hash": "d32ea2f8d7304b37cba58d291289ccf1d3a4259e8f522e5076128eea8f1773ac",
+        "processed": "<rbr>Leader・If you're in the first half<br>of the pack at a random point<br>during the Middle Leg, your speed<br>will increase."
+    },
+    "107802211": {
+        "text": "Leader・Mile・If you're leading or less than 10 meters away from the 1st place anywhere during the last 40% of the race, your speed will slightly increase.",
+        "hash": "2e2c531b2b2958e0c53f072bf9a82474fb3c43a6e2b50c52b836bf6a180171c7",
+        "processed": "<rbr><sc=88>Leader・Mile・If you're leading or less<br>than 10 meters away from the 1st place<br>anywhere during the last 40% of the<br>race, your speed will slightly increase."
+    },
     "107901111": {
         "text": "Mile/Medium・At a random point during a random Middle Leg straight, your speed will increase; the effect lasts longer on Dirt tracks.",
         "hash": "02f5950b404b6c91c7aed365662cfd7bb1ffe9309952fe5fa67f2d81adaf085d",
@@ -7483,6 +7528,16 @@
         "text": "Short・If you're in the first half of the pack during the second half of the Middle Leg, your speed and acceleration will increase.",
         "hash": "f3d36358aef6e2f6913ae6e1ef3ece9c83f1f121eec3ae8f46ae8746891c7134",
         "processed": "<rbr>Short・If you're in the first half of<br>the pack during the second half of<br>the Middle Leg, your speed and<br>acceleration will increase."
+    },
+    "108702111": {
+        "text": "Runner・At the start of the race, your acceleration will slightly increase; if you didn't have a late start and you're in the first half of the pack, then at a random point during the Middle Leg, your speed will increase.",
+        "hash": "043060983214ccbe274ad9cbf4338f77f1d9c51ea1a69dd489e3cc0b0597d03a",
+        "processed": "<rbr><sc=78>Runner・At the start of the race, your accel-<br>eration will slightly increase; if you didn't<br>have a late start and you're in the first half<br>of the pack, then at a random point during<br>the Middle Leg, your speed will increase."
+    },
+    "108702211": {
+        "text": "Runner・Short・If you're in the first half of the pack during the first quarter of the Final Leg, your acceleration will increase.",
+        "hash": "e74d9188633b4a4f9ba08afeef3f4e8bce3c9685945441144fb95700a317d918",
+        "processed": "<rbr>Runner・Short・If you're in the<br>first half of the pack during the<br>first quarter of the Final Leg, your<br>acceleration will increase."
     },
     "108801111": {
         "text": "Betweener・At a random point during the Middle Leg, if you're not in the front, your speed will greatly increase.",
