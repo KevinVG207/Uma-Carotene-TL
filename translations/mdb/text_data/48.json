@@ -99,6 +99,11 @@
         "hash": "0c6c8407de6a237760260865b0cbe8583457685e5c9681ea3d9912af207cfbf2",
         "processed": "<rbr><sc=82>If you're leading by at least one length<br>one-third through the race, your speed<br>will marginally increase, but then during<br>the Last Spurt, it will marginally decrease."
     },
+    "10731": {
+        "text": "If you've overtaken someone during the Final Leg, then on the Final Straight, your speed will slightly increase.",
+        "hash": "9adbc3d28dc9a14d9bdaaafb0f8417ea55fc74128b19a2126e0270d425820692",
+        "processed": "<rbr>If you've overtaken someone<br>during the Final Leg, then on the<br>Final Straight, your speed will<br>slightly increase."
+    },
     "100011": {
         "text": "During the Final Leg or beyond, if you've overtaken someone in the first half of the pack, your acceleration will slightly increase and you will get a speed boost.",
         "hash": "84f223cd016d5e3e0c34b02558094c41641e54b51f05fcdaa44f06d0c8287052",
@@ -458,6 +463,11 @@
         "text": "If you've overtaken someone during or after the Final Corner, your speed will increase in the last 300 meters if you're in front of the pack.",
         "hash": "0aef8923a5f76886c6a45e48b8f3a4f31659b63aba837b98820cba382af447ec",
         "processed": "<rbr><sc=96>If you've overtaken someone during<br>or after the Final Corner, your<br>speed will increase in the last 300<br>meters if you're in front of the pack."
+    },
+    "100731": {
+        "text": "If you've overtaken someone during the Final Leg, then on the Final Straight, your speed will increase.",
+        "hash": "bb621066f2bfa78f3ea56c2ecbf6974da0bdc1489e7e3c0858eebae20db56922",
+        "processed": "<rbr>If you've overtaken someone<br>during the Final Leg, then on the<br>Final Straight, your speed will<br>increase."
     },
     "100741": {
         "text": "In the second half of the race, if you're in the middle of the pack, your speed will increase (the more stamina you have remaining, the longer the duration).",
@@ -2510,14 +2520,19 @@
         "processed": "<rbr>Leader・At a random point on a<br>random straight, your speed will<br>increase."
     },
     "201321": {
-        "text": "Leader・Lightly increases speed on corners.",
+        "text": "Leader・At a random point on a random corner, your speed will slightly increase.",
         "hash": "93bf971ba16204000c812d3122289d188c8f534c0dfdcaea59846f2a8db80271",
-        "processed": "<rbr>Leader・Lightly increases speed<br>on corners."
+        "processed": "<rbr>Leader・At a random point on a<br>random corner, your speed will<br>slightly increase."
     },
     "201322": {
-        "text": "Leader・Slightly increases speed on corners.",
+        "text": "Leader・At a random point on a random corner, your speed will slightly increase.",
         "hash": "43245a170bf546c710abd0b5377e3455953e6a50e23b5fb22d9bfbc4035e3e6b",
-        "processed": "<rbr>Leader・Slightly increases speed<br>on corners."
+        "processed": "<rbr>Leader・At a random point on a<br>random corner, your speed will<br>slightly increase."
+    },
+    "201323": {
+        "text": "Leader・At a random point on a random corner, your speed will increase.",
+        "hash": "eb46e995ba52395fdf681a2476b4a480c6bd0fb1a3511dbcff9082431a6111f7",
+        "processed": "<rbr>Leader・At a random point on a<br>random corner, your speed will<br>increase."
     },
     "201331": {
         "text": "Leader・When you move right or left, your acceleration will slightly increase.",
@@ -7353,6 +7368,16 @@
         "text": "Leader/Betweener・If you try to overtake someone in the second half of the race, your speed will increase; it will increase greatly if you're currently running in the inner lane.",
         "hash": "c5c0f44aefacade43fc3cd9695c022f925fbf4eecdd54715557af4c445ec5a32",
         "processed": "<rbr><sc=80>Leader/Betweener・If you try to overtake<br>someone in the second half of the race,<br>your speed will increase; it will increase<br>greatly if you're currently running in the<br>inner lane."
+    },
+    "107301111": {
+        "text": "Leader・At a random point on a random corner, your speed will greatly increase.",
+        "hash": "d44830ea4e5536c483451efa28c6c1312070018e909784d5f1e871c2f0af3894",
+        "processed": "<rbr>Leader・At a random point on a<br>random corner, your speed will<br>greatly increase."
+    },
+    "107301211": {
+        "text": "Medium・At a random point on a random corner, you will get a speed boost and your stamina will slightly recover.",
+        "hash": "5de4340902b335ed80974dbb3efb8b6839e13d638f970fb811e3b5add462d798",
+        "processed": "<rbr>Medium・At a random point on a<br>random corner, you will get a<br>speed boost and your stamina will<br>slightly recover."
     },
     "107401111": {
         "text": "If you're overtaken during the Middle Leg, your stamina will recover greatly.",

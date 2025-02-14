@@ -10044,7 +10044,7 @@
         "hash": "50db67978c290ebc8376fc5187046e801f0235cb4a9737d0c5118f79a8b7da8a"
     },
     "Outgame0300": {
-        "text": "",
+        "text": "Download Management",
         "hash": "0e37baf67bd6a79eacbe5de3ce00b18d2e9ecf2d186b5e44654e5b428d32eb58"
     },
     "Outgame0302": {
@@ -10052,7 +10052,7 @@
         "hash": "f86a036d11f41aee03733c9892a8a4c8f26043bb2ac75f0266eef7813ba7bafb"
     },
     "Outgame0303": {
-        "text": "Download all game data at once, to save on data usage while playing. Will increase storage used!",
+        "text": "Download all game data at once, to save on data usage while playing. Will increase game size!",
         "hash": "bd6f6e6c3628fe8c5eea4dc196b3cd965b5084246cdc492b396c512726fecbcf"
     },
     "Outgame0304": {
@@ -11976,7 +11976,7 @@
         "hash": "d97ef3e9b36b792ff983835726bd8138b2384278d2454ef3e3f243668e3081e4"
     },
     "Outgame467018": {
-        "text": "Only applies to certain races.\nWhen choosing \"JRA/Local ver.\" for the first time, \n<color=#ff911c>return to the title screen to download the music.</color>",
+        "text": "Only applies to certain races.\nWhen choosing \"JRA/Local ver.\" for the first time, <color=#ff911c>return to the title screen to download the music.</color>",
         "hash": "3242982d1c63a764b570ec5fa00fabf983d2e8a16aa23fc2650b286922df8f8b"
     },
     "Outgame467019": {
@@ -18224,7 +18224,7 @@
         "hash": "69445da5cd370c9af6114d9dbdf697755679bc1bb6b5086ce79e809c9d2ffb34"
     },
     "SingleMode0284": {
-        "text": "",
+        "text": "Resetting a deck cannot be undone!",
         "hash": "8e93449628dac54a5902d9730fc65271bae38bc09c528cecf9390b8047d3f63a"
     },
     "SingleMode0286": {
@@ -21956,7 +21956,7 @@
         "hash": "1a91986bc98f4feab7170248d31ca9e9412f8da3f840d631c6c64ba4e00fca6f"
     },
     "SingleModeScenarioFree419081": {
-        "text": "Turn OFF to disable the confirmation message when trading at the campaign shop during training",
+        "text": "Turn OFF to disable the confirmation message when trading \nat the campaign shop during training",
         "hash": "1d5a837353638ca959cce86334fd7f444c41c1151f02af99e629e07bc752aab7"
     },
     "SingleModeScenarioFree419082": {
