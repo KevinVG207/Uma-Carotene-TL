@@ -81,6 +81,11 @@
         "text": "Engine Ignition!",
         "hash": "4c02d3e2f6d2971fdaf737c97bb68aa8cf416b3123913331e8e0f3c101c93a0f"
     },
+    "10731": {
+        "text": "Steel Your Heart, Tsuyoshi!",
+        "hash": "c0e71d6e5066baec32c8b7c31dfe5cb17824b932c8d1215be6fdd5ae418a75ed",
+        "processed": "<sc=90>Steel Your Heart, Tsuyoshi!"
+    },
     "100011": {
         "text": "Shooting Star",
         "hash": "398123fcde08508e687fdba5addb22587eec3b2339ecac24fc0bee73a92f75b1"
@@ -396,6 +401,11 @@
         "text": "Dazzling Fire, Invincible Dance",
         "hash": "e9fd834b1f8cd1e3ca792559a0d304ae15a07e5e2cbac7786d5f173f5b67070c",
         "processed": "<sc=80>Dazzling Fire, Invincible Dance"
+    },
+    "100731": {
+        "text": "Flames of Unyielding Resolve",
+        "hash": "95e5de4adff9ee1e5811a1b67c84182ca95ba083425a360519890cdcb280089f",
+        "processed": "<sc=84>Flames of Unyielding Resolve"
     },
     "100741": {
         "text": "Lovely Spring Wind",
@@ -2086,6 +2096,10 @@
     "201322": {
         "text": "Leader's Corners ○",
         "hash": "6b2c70e348816794f0b212ccbb64324939b389f1daad6bf3111f88acf1e48633"
+    },
+    "201323": {
+        "text": "Bravery Slash",
+        "hash": "73f5f65781d818b5a3349e581d518978f59e9a5a208827c8a5d96090907a241c"
     },
     "201331": {
         "text": "Technician",
@@ -4161,6 +4175,11 @@
         "text": "Dazzling Fire, Invincible Dance",
         "hash": "e9fd834b1f8cd1e3ca792559a0d304ae15a07e5e2cbac7786d5f173f5b67070c",
         "processed": "<sc=80>Dazzling Fire, Invincible Dance"
+    },
+    "900731": {
+        "text": "Flames of Unyielding Resolve",
+        "hash": "95e5de4adff9ee1e5811a1b67c84182ca95ba083425a360519890cdcb280089f",
+        "processed": "<sc=84>Flames of Unyielding Resolve"
     },
     "900741": {
         "text": "Lovely Spring Wind",
@@ -6259,6 +6278,15 @@
     "107202211": {
         "text": "Peerless Pursuit",
         "hash": "e426d0ac57c0291f658eb842f0fbd278d3fbbc91fff0f5c7c2e6563802b57c59"
+    },
+    "107301111": {
+        "text": "Slash of a Thousand Trials",
+        "hash": "2401107bc7c1695303d7458ec26330f8d0a1791aa95b561bebae4f98f3c86813",
+        "processed": "<sc=93>Slash of a Thousand Trials"
+    },
+    "107301211": {
+        "text": "Surging Crescent Moon",
+        "hash": "6f0261f4e94a16615b0635660c8c2f19b5443647a65c685cca83bfdf31570fb1"
     },
     "107401111": {
         "text": "Indomitable Dame",

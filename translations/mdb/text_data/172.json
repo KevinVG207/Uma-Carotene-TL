@@ -4235,6 +4235,54 @@
         "text": "Obtain [Flying Sparks] skill hint.",
         "hash": "d4b0083b08bbc1fb03761eddde91fb7d053a31cf32c5801e91c835998ac1f51f"
     },
+    "2035001": {
+        "text": "Obtain [比類なき] skill hint.",
+        "hash": "be66e3e082f64d113b0fe1d23e93406b1a607b3f23b96b41ab74f7cc35243d8a"
+    },
+    "2035002": {
+        "text": "Obtain [比類なき] skill hint.",
+        "hash": "be66e3e082f64d113b0fe1d23e93406b1a607b3f23b96b41ab74f7cc35243d8a"
+    },
+    "2035003": {
+        "text": "Obtain [比類なき] skill hint.",
+        "hash": "be66e3e082f64d113b0fe1d23e93406b1a607b3f23b96b41ab74f7cc35243d8a"
+    },
+    "2035101": {
+        "text": "Obtain [覇気十分] skill hint.",
+        "hash": "436a0dc1532564eb1f86c5d217fa8608132a198bea2d04f8d062ffdba5a18717"
+    },
+    "2035102": {
+        "text": "Obtain [覇気十分] skill hint.",
+        "hash": "436a0dc1532564eb1f86c5d217fa8608132a198bea2d04f8d062ffdba5a18717"
+    },
+    "2035103": {
+        "text": "Obtain [覇気十分] skill hint.",
+        "hash": "436a0dc1532564eb1f86c5d217fa8608132a198bea2d04f8d062ffdba5a18717"
+    },
+    "2035201": {
+        "text": "Obtain [垣間見た光] skill hint.",
+        "hash": "2f8ab65840399cff58030fb80aa7463bf964bd52a83e1fafa8c6f589c3262797"
+    },
+    "2035202": {
+        "text": "Obtain [垣間見た光] skill hint.",
+        "hash": "2f8ab65840399cff58030fb80aa7463bf964bd52a83e1fafa8c6f589c3262797"
+    },
+    "2035203": {
+        "text": "Obtain [垣間見た光] skill hint.",
+        "hash": "2f8ab65840399cff58030fb80aa7463bf964bd52a83e1fafa8c6f589c3262797"
+    },
+    "2035301": {
+        "text": "Obtain [登竜門] skill hint.",
+        "hash": "737b63461ea218090d0eb428416318077642e8dba1f3cb2ef85f9a210144b351"
+    },
+    "2035302": {
+        "text": "Obtain [登竜門] skill hint.",
+        "hash": "737b63461ea218090d0eb428416318077642e8dba1f3cb2ef85f9a210144b351"
+    },
+    "2035303": {
+        "text": "Obtain [登竜門] skill hint.",
+        "hash": "737b63461ea218090d0eb428416318077642e8dba1f3cb2ef85f9a210144b351"
+    },
     "2100101": {
         "text": "Obtain [Aoharu Ignition・Speed] skill hint.",
         "hash": "6623b38f8774d87129d1e5b37726a1d8d676804e81b2541e749eda64ef29ccce"
@@ -4619,6 +4667,18 @@
         "text": "Obtain [Reproducing a Dream] skill hint.",
         "hash": "0328d80a5a9aed6a6abbc1c37afcf3870ffa2afdfff85d1cd3136f2594b27623"
     },
+    "2103501": {
+        "text": "Obtain [時代を変える者] skill hint.",
+        "hash": "8ab927234227fdbb6384d8f1b437f5463b18f85747032ce357373d7ce99388c0"
+    },
+    "2103502": {
+        "text": "Obtain [時代を変える者] skill hint.",
+        "hash": "8ab927234227fdbb6384d8f1b437f5463b18f85747032ce357373d7ce99388c0"
+    },
+    "2103503": {
+        "text": "Obtain [時代を変える者] skill hint.",
+        "hash": "8ab927234227fdbb6384d8f1b437f5463b18f85747032ce357373d7ce99388c0"
+    },
     "3000101": {
         "text": "Increases Speed and Stamina.",
         "hash": "2e9ac25b539f79b7e378f4138d9b640c195c9333ee9a6957c1d1141c1ae47200"
@@ -4975,6 +5035,18 @@
         "text": "Increases Wit and Skill Points.",
         "hash": "12cad38f82e40a997520ae4e9b27f2d3184f8542756d2fb9093f2c68d5a43010"
     },
+    "3102601": {
+        "text": "Increases Power and Guts.",
+        "hash": "599689d2846b6cc78241b38a94200da32173eb5f0ca859a01dd7d6bcb9fc4674"
+    },
+    "3102602": {
+        "text": "Increases Power and Guts.",
+        "hash": "599689d2846b6cc78241b38a94200da32173eb5f0ca859a01dd7d6bcb9fc4674"
+    },
+    "3102603": {
+        "text": "Increases Power and Guts.",
+        "hash": "599689d2846b6cc78241b38a94200da32173eb5f0ca859a01dd7d6bcb9fc4674"
+    },
     "4000101": {
         "text": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
         "hash": "6727cfc702c56dec710251651bb00bf1817b660154565358465d5e7f8b6d0a0a"
@@ -5002,6 +5074,258 @@
     "4000107": {
         "text": "Obtain [Carnival Bonus Lv{0}] skill. Goes away after training ends.",
         "hash": "6727cfc702c56dec710251651bb00bf1817b660154565358465d5e7f8b6d0a0a"
+    },
+    "5000101": {
+        "text": "Increases Turf Aptitude.",
+        "hash": "5cb05f13bcd9e4154731045aa84987d5f560eb7285bc4e3d651b1fcc71d45199"
+    },
+    "5000102": {
+        "text": "Increases Turf Aptitude.",
+        "hash": "5cb05f13bcd9e4154731045aa84987d5f560eb7285bc4e3d651b1fcc71d45199"
+    },
+    "5000103": {
+        "text": "Increases Turf Aptitude.",
+        "hash": "5cb05f13bcd9e4154731045aa84987d5f560eb7285bc4e3d651b1fcc71d45199"
+    },
+    "5000201": {
+        "text": "Increases Dirt Aptitude.",
+        "hash": "53d77eada8e8b3ef23de7fd47cc2f81c2903a2da1ca3c4aa0346cfb0f4980c6d"
+    },
+    "5000202": {
+        "text": "Increases Dirt Aptitude.",
+        "hash": "53d77eada8e8b3ef23de7fd47cc2f81c2903a2da1ca3c4aa0346cfb0f4980c6d"
+    },
+    "5000203": {
+        "text": "Increases Dirt Aptitude.",
+        "hash": "53d77eada8e8b3ef23de7fd47cc2f81c2903a2da1ca3c4aa0346cfb0f4980c6d"
+    },
+    "5000301": {
+        "text": "Increases Short Aptitude.",
+        "hash": "5612a6a97c66978b9c8cb2a6fe812640b8079691d5c598f4aea5001d89f6f984"
+    },
+    "5000302": {
+        "text": "Increases Short Aptitude.",
+        "hash": "5612a6a97c66978b9c8cb2a6fe812640b8079691d5c598f4aea5001d89f6f984"
+    },
+    "5000303": {
+        "text": "Increases Short Aptitude.",
+        "hash": "5612a6a97c66978b9c8cb2a6fe812640b8079691d5c598f4aea5001d89f6f984"
+    },
+    "5000401": {
+        "text": "Increases Mile Aptitude.",
+        "hash": "7eaaf60a0dd5772d6320f763e5e70352575fab45e6a6fb038b7a5d386a3c79a4"
+    },
+    "5000402": {
+        "text": "Increases Mile Aptitude.",
+        "hash": "7eaaf60a0dd5772d6320f763e5e70352575fab45e6a6fb038b7a5d386a3c79a4"
+    },
+    "5000403": {
+        "text": "Increases Mile Aptitude.",
+        "hash": "7eaaf60a0dd5772d6320f763e5e70352575fab45e6a6fb038b7a5d386a3c79a4"
+    },
+    "5000501": {
+        "text": "Increases Medium Aptitude.",
+        "hash": "83bedaea6c73c4968191c1577160cafefc6b0b5bdab6a8cd115daca04b765f45"
+    },
+    "5000502": {
+        "text": "Increases Medium Aptitude.",
+        "hash": "83bedaea6c73c4968191c1577160cafefc6b0b5bdab6a8cd115daca04b765f45"
+    },
+    "5000503": {
+        "text": "Increases Medium Aptitude.",
+        "hash": "83bedaea6c73c4968191c1577160cafefc6b0b5bdab6a8cd115daca04b765f45"
+    },
+    "5000601": {
+        "text": "Increases Long Aptitude.",
+        "hash": "a132be4dc0407de1e4d38d7b197bc0f5093ba3ac90a86f000d2812d2d96f41e4"
+    },
+    "5000602": {
+        "text": "Increases Long Aptitude.",
+        "hash": "a132be4dc0407de1e4d38d7b197bc0f5093ba3ac90a86f000d2812d2d96f41e4"
+    },
+    "5000603": {
+        "text": "Increases Long Aptitude.",
+        "hash": "a132be4dc0407de1e4d38d7b197bc0f5093ba3ac90a86f000d2812d2d96f41e4"
+    },
+    "5000701": {
+        "text": "Increases Runner Aptitude.",
+        "hash": "d476c6262996127a7315ef6a7cf4ee9e5eb5bb44da8e7d113754c792faa240f4"
+    },
+    "5000702": {
+        "text": "Increases Runner Aptitude.",
+        "hash": "d476c6262996127a7315ef6a7cf4ee9e5eb5bb44da8e7d113754c792faa240f4"
+    },
+    "5000703": {
+        "text": "Increases Runner Aptitude.",
+        "hash": "d476c6262996127a7315ef6a7cf4ee9e5eb5bb44da8e7d113754c792faa240f4"
+    },
+    "5000801": {
+        "text": "Increases Leader Aptitude.",
+        "hash": "4a905e23a62bd19036a7ed52a030334bf494df2316fc9670f8921052da06088f"
+    },
+    "5000802": {
+        "text": "Increases Leader Aptitude.",
+        "hash": "4a905e23a62bd19036a7ed52a030334bf494df2316fc9670f8921052da06088f"
+    },
+    "5000803": {
+        "text": "Increases Leader Aptitude.",
+        "hash": "4a905e23a62bd19036a7ed52a030334bf494df2316fc9670f8921052da06088f"
+    },
+    "5000901": {
+        "text": "Increases Betweener Aptitude.",
+        "hash": "de4bf9d81eb92b2c3d816bcff5a46dcf952f17316731efa10e0a59152766d4a9"
+    },
+    "5000902": {
+        "text": "Increases Betweener Aptitude.",
+        "hash": "de4bf9d81eb92b2c3d816bcff5a46dcf952f17316731efa10e0a59152766d4a9"
+    },
+    "5000903": {
+        "text": "Increases Betweener Aptitude.",
+        "hash": "de4bf9d81eb92b2c3d816bcff5a46dcf952f17316731efa10e0a59152766d4a9"
+    },
+    "5001001": {
+        "text": "Increases Chaser Aptitude.",
+        "hash": "c5bc7a2dbbd678f5f4cbf44f89540b5d6695ba2a052e0bed0ec98aa894407629"
+    },
+    "5001002": {
+        "text": "Increases Chaser Aptitude.",
+        "hash": "c5bc7a2dbbd678f5f4cbf44f89540b5d6695ba2a052e0bed0ec98aa894407629"
+    },
+    "5001003": {
+        "text": "Increases Chaser Aptitude.",
+        "hash": "c5bc7a2dbbd678f5f4cbf44f89540b5d6695ba2a052e0bed0ec98aa894407629"
+    },
+    "5001101": {
+        "text": "Increases Speed.",
+        "hash": "d3598c29acc36e1147c0885c5f9e1becf1127e03d663731ad00f5045dbdf6917"
+    },
+    "5001102": {
+        "text": "Increases Speed.",
+        "hash": "d3598c29acc36e1147c0885c5f9e1becf1127e03d663731ad00f5045dbdf6917"
+    },
+    "5001103": {
+        "text": "Increases Speed.",
+        "hash": "d3598c29acc36e1147c0885c5f9e1becf1127e03d663731ad00f5045dbdf6917"
+    },
+    "5001201": {
+        "text": "Increases Stamina.",
+        "hash": "44886f474e9cb61df135e6ac4cab0a1dfdcb5c2f1c933b6abd1fd8699a86dab1"
+    },
+    "5001202": {
+        "text": "Increases Stamina.",
+        "hash": "44886f474e9cb61df135e6ac4cab0a1dfdcb5c2f1c933b6abd1fd8699a86dab1"
+    },
+    "5001203": {
+        "text": "Increases Stamina.",
+        "hash": "44886f474e9cb61df135e6ac4cab0a1dfdcb5c2f1c933b6abd1fd8699a86dab1"
+    },
+    "5001301": {
+        "text": "Increases Power.",
+        "hash": "f9d354b7e4c35c776a6fb56a09e8a4ed0f2c7363ad0ea65c130dd30e29d87c15"
+    },
+    "5001302": {
+        "text": "Increases Power.",
+        "hash": "f9d354b7e4c35c776a6fb56a09e8a4ed0f2c7363ad0ea65c130dd30e29d87c15"
+    },
+    "5001303": {
+        "text": "Increases Power.",
+        "hash": "f9d354b7e4c35c776a6fb56a09e8a4ed0f2c7363ad0ea65c130dd30e29d87c15"
+    },
+    "5001401": {
+        "text": "Increases Guts.",
+        "hash": "f73ea876bbcc598a412ceb2a7f516d2f909aebfb3251f185fbd8966021a4c05d"
+    },
+    "5001402": {
+        "text": "Increases Guts.",
+        "hash": "f73ea876bbcc598a412ceb2a7f516d2f909aebfb3251f185fbd8966021a4c05d"
+    },
+    "5001403": {
+        "text": "Increases Guts.",
+        "hash": "f73ea876bbcc598a412ceb2a7f516d2f909aebfb3251f185fbd8966021a4c05d"
+    },
+    "5001501": {
+        "text": "Increases Wit.",
+        "hash": "af3ec91390ca0ba38b095d7285f0ecf4d0a127a12091a33937ef6bfb3ec81f56"
+    },
+    "5001502": {
+        "text": "Increases Wit.",
+        "hash": "af3ec91390ca0ba38b095d7285f0ecf4d0a127a12091a33937ef6bfb3ec81f56"
+    },
+    "5001503": {
+        "text": "Increases Wit.",
+        "hash": "af3ec91390ca0ba38b095d7285f0ecf4d0a127a12091a33937ef6bfb3ec81f56"
+    },
+    "5001601": {
+        "text": "Obtain [Right Turns ○] skill hint.",
+        "hash": "e7929d70f4376a4cd62357c9b6b75960f58eb9550224a735ff9a805cb28328d7"
+    },
+    "5001602": {
+        "text": "Obtain [Right Turns ○] skill hint.",
+        "hash": "e7929d70f4376a4cd62357c9b6b75960f58eb9550224a735ff9a805cb28328d7"
+    },
+    "5001603": {
+        "text": "Obtain [Right Turns ○] skill hint.",
+        "hash": "e7929d70f4376a4cd62357c9b6b75960f58eb9550224a735ff9a805cb28328d7"
+    },
+    "5001701": {
+        "text": "Obtain [Left Turns ○] skill hint.",
+        "hash": "b492aa46cab4b34a4826b1ee11fb855962addb05ad787409ba9f3c514ef67b7a"
+    },
+    "5001702": {
+        "text": "Obtain [Left Turns ○] skill hint.",
+        "hash": "b492aa46cab4b34a4826b1ee11fb855962addb05ad787409ba9f3c514ef67b7a"
+    },
+    "5001703": {
+        "text": "Obtain [Left Turns ○] skill hint.",
+        "hash": "b492aa46cab4b34a4826b1ee11fb855962addb05ad787409ba9f3c514ef67b7a"
+    },
+    "5001801": {
+        "text": "Obtain [Spring Girl ○] skill hint.",
+        "hash": "3379270a641af7626ace5182018c94b05aa51f625d0462eb72ae639b55a588d4"
+    },
+    "5001802": {
+        "text": "Obtain [Spring Girl ○] skill hint.",
+        "hash": "3379270a641af7626ace5182018c94b05aa51f625d0462eb72ae639b55a588d4"
+    },
+    "5001803": {
+        "text": "Obtain [Spring Girl ○] skill hint.",
+        "hash": "3379270a641af7626ace5182018c94b05aa51f625d0462eb72ae639b55a588d4"
+    },
+    "5001901": {
+        "text": "Obtain [Summer Girl ○] skill hint.",
+        "hash": "d31b5504adbab216285aecfd9c3a0f95e2e902eac191b36216bd00abaebd28f6"
+    },
+    "5001902": {
+        "text": "Obtain [Summer Girl ○] skill hint.",
+        "hash": "d31b5504adbab216285aecfd9c3a0f95e2e902eac191b36216bd00abaebd28f6"
+    },
+    "5001903": {
+        "text": "Obtain [Summer Girl ○] skill hint.",
+        "hash": "d31b5504adbab216285aecfd9c3a0f95e2e902eac191b36216bd00abaebd28f6"
+    },
+    "5002001": {
+        "text": "Obtain [Autumn Girl ○] skill hint.",
+        "hash": "ec2081d013a12bbe7c035be19ec48fddcf9b1c38ecfacf10d7a34ce35a14213c"
+    },
+    "5002002": {
+        "text": "Obtain [Autumn Girl ○] skill hint.",
+        "hash": "ec2081d013a12bbe7c035be19ec48fddcf9b1c38ecfacf10d7a34ce35a14213c"
+    },
+    "5002003": {
+        "text": "Obtain [Autumn Girl ○] skill hint.",
+        "hash": "ec2081d013a12bbe7c035be19ec48fddcf9b1c38ecfacf10d7a34ce35a14213c"
+    },
+    "5002101": {
+        "text": "Obtain [Winter Girl ○] skill hint.",
+        "hash": "1f049da2deb3ab44b399457980cd626a8b9cd0a3133c0be3c584a7dc0168dd78"
+    },
+    "5002102": {
+        "text": "Obtain [Winter Girl ○] skill hint.",
+        "hash": "1f049da2deb3ab44b399457980cd626a8b9cd0a3133c0be3c584a7dc0168dd78"
+    },
+    "5002103": {
+        "text": "Obtain [Winter Girl ○] skill hint.",
+        "hash": "1f049da2deb3ab44b399457980cd626a8b9cd0a3133c0be3c584a7dc0168dd78"
     },
     "10010101": {
         "text": "Increases Stamina Cap and Wit Cap.\\nObtain [Shooting Star] skill hint.",
@@ -6852,15 +7176,15 @@
         "hash": "700d6efa17a8cebbea9fbd126a0c25f051d15c9dbefd7726ed73712c06cd1e14"
     },
     "10730101": {
-        "text": "Increases Power Cap and Guts Cap.\\nObtain [燃え盛るは絶対の意志] skill hint.",
+        "text": "Increases Power Cap and Guts Cap.\\nObtain [Flames of Unyielding Resolve] skill hint.",
         "hash": "88f1986bbd26b7d8a7a42f7ff33874269f17de5045ffa376b6c4ebd006e86654"
     },
     "10730102": {
-        "text": "Increases Power Cap and Guts Cap.\\nObtain [燃え盛るは絶対の意志] skill hint.",
+        "text": "Increases Power Cap and Guts Cap.\\nObtain [Flames of Unyielding Resolve] skill hint.",
         "hash": "88f1986bbd26b7d8a7a42f7ff33874269f17de5045ffa376b6c4ebd006e86654"
     },
     "10730103": {
-        "text": "Increases Power Cap and Guts Cap.\\nObtain [燃え盛るは絶対の意志] skill hint.",
+        "text": "Increases Power Cap and Guts Cap.\\nObtain [Flames of Unyielding Resolve] skill hint.",
         "hash": "88f1986bbd26b7d8a7a42f7ff33874269f17de5045ffa376b6c4ebd006e86654"
     },
     "10740101": {
@@ -7318,6 +7642,18 @@
     "11110103": {
         "text": "Increases Power Cap and Wit Cap.\\nObtain [Traced Bloodline, Budding Future] skill hint.",
         "hash": "d5d7a626d343b71721e7e415dafbe29b74b0ef1bc911c5e455ac2ab3ca42987a"
+    },
+    "11150101": {
+        "text": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [我が覇道、阻むものなし] skill hint.",
+        "hash": "39c4eddbe69acb62a21a6e52d42c478b981b03c8a60caf6235c32c9bc2e40640"
+    },
+    "11150102": {
+        "text": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [我が覇道、阻むものなし] skill hint.",
+        "hash": "39c4eddbe69acb62a21a6e52d42c478b981b03c8a60caf6235c32c9bc2e40640"
+    },
+    "11150103": {
+        "text": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [我が覇道、阻むものなし] skill hint.",
+        "hash": "39c4eddbe69acb62a21a6e52d42c478b981b03c8a60caf6235c32c9bc2e40640"
     },
     "11160101": {
         "text": "Increases Speed Cap, Stamina Cap and Power Cap.\\nObtain [Rose Conquest] skill hint.",

@@ -614,6 +614,11 @@
         "hash": "8cd7f71a9c6b6d0af05e9e89761174115a9ca20170720afd2bd0820556ff04e0",
         "processed": "<rbr><sc=93>If you're in the middle of the pack<br>halfway through the race, your speed<br>will slightly increase; the effect is<br>stronger if you're running uphill."
     },
+    "101151": {
+        "text": "Chaser・1000 m before the end of the race, you will get a speed boost; the effect is stronger if all your base stats are at least 1000.",
+        "hash": "8c3bbf9d7f2b09f60056a3e542dc63c763c9bcc282a3b44c8e637cc65b3d80c4",
+        "processed": "<rbr>Chaser・1000 m before the end of<br>the race, you will get a speed<br>boost; the effect is stronger if all<br>your base stats are at least 1000."
+    },
     "101161": {
         "text": "If you're in the first half of the pack on any corner during the first half of the race, your speed will slightly increase; then, if you're near the front during the Last Straight, your speed will greatly increase.",
         "hash": "182c39f4f7aad4bebb418de8a4fbe22d8a925c0852ec3c7d111472aaa9b58775",
@@ -3825,14 +3830,14 @@
         "processed": "<rbr>Chaser・If you're in the second<br>half of the pack during the second<br>half of the Opening Leg, your<br>stamina will slightly recover."
     },
     "202901": {
-        "text": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will increase.",
+        "text": "Chaser・If you're not in the front at a random point during the second half of the Middle Leg, your speed will increase.",
         "hash": "cae99cd59602f62394dba1fc8328dd19c55764176a8981ef8fe94cd059b53ce8",
-        "processed": "<rbr>Chaser・If you're not in the front<br>during the second half of the<br>Middle Leg, your speed will<br>increase."
+        "processed": "<rbr>Chaser・If you're not in the front<br>at a random point during the<br>second half of the Middle Leg,<br>your speed will increase."
     },
     "202902": {
-        "text": "Chaser・If you're not in the front during the second half of the Middle Leg, your speed will slightly increase.",
+        "text": "Chaser・If you're not in the front at a random point during the second half of the Middle Leg, your speed will slightly increase.",
         "hash": "afc454f53dec2349ec507a8a459142edcfa031f6a2059fbab5f80db2011b822c",
-        "processed": "<rbr>Chaser・If you're not in the front<br>during the second half of the<br>Middle Leg, your speed will<br>slightly increase."
+        "processed": "<rbr>Chaser・If you're not in the front<br>at a random point during the<br>second half of the Middle Leg,<br>your speed will slightly increase."
     },
     "202912": {
         "text": "Chaser・If you're in the second half of the pack at a random point during the Final Corner, your speed will slightly increase, and the speed of the closest three girls in front and three girls behind you will slightly decrease.",
@@ -4008,6 +4013,11 @@
         "text": "Dirt・At a random point on a random straight, your speed will slightly increase.",
         "hash": "3a1283a5f799f04baadf64df0ff41ee45bd417805001c7da294cb15500732eae",
         "processed": "<rbr>Dirt・At a random point on a<br>random straight, your speed will<br>slightly increase."
+    },
+    "203101": {
+        "text": "Dirt・At a random point on a random corner, your speed will increase.",
+        "hash": "8067336ebdddc57708358de5ecdf99dcd87f1d7ddc1d410fed5e49a867f5b77d",
+        "processed": "<rbr>Dirt・At a random point on a<br>random corner, your speed will<br>increase."
     },
     "203102": {
         "text": "Dirt・At a random point on a random corner, your speed will slightly increase.",
@@ -4279,6 +4289,11 @@
         "hash": "d1d5050a83ea880e9267cb70e9a56ffaa31260679d552992e7383361575603ac",
         "processed": "<rbr>Leader・At a random point during<br>the first half of the Last Spurt,<br>your speed will slightly increase."
     },
+    "203431": {
+        "text": "Medium・At a random point during the first half of the Last Spurt, your speed will increase.",
+        "hash": "b9d09da0efb3d85ff07b089357f694e3686938dc9ded295e28cc88560e2204d5",
+        "processed": "<rbr>Medium・At a random point during<br>the first half of the Last Spurt,<br>your speed will increase."
+    },
     "203432": {
         "text": "Medium・At a random point during the first half of the Last Spurt, your speed will slightly increase.",
         "hash": "1cb0947b9c0c1738c64781cd144e0575f7cd0d76094c7c2b2be37082d48fde2c",
@@ -4333,6 +4348,36 @@
         "text": "Leader・Short・If you're in the first half of the pack during the first half of the Final Leg, your acceleration will slightly increase.",
         "hash": "cf1eeffe31c3b2c729f9337cafd653b0b849a3cfe25a7dca5a87b61ae0fc3656",
         "processed": "<rbr>Leader・Short・If you're in the<br>first half of the pack during the<br>first half of the Final Leg, your<br>acceleration will slightly increase."
+    },
+    "203501": {
+        "text": "At a random point during the Middle Leg, you will get a speed boost.",
+        "hash": "a030502a4f91e136537f1d8d78692ab4ae101c5de4473c94d6de68ea75adf405",
+        "processed": "<rbr>At a random point during the<br>Middle Leg, you will get a speed<br>boost."
+    },
+    "203502": {
+        "text": "At a random point during the Middle Leg, you will get a slight speed boost.",
+        "hash": "fc6adfa46f65b76a4432fe0ca3030e47cd5e8b38b079621c84216ac63814a15e",
+        "processed": "<rbr>At a random point during the<br>Middle Leg, you will get a slight<br>speed boost."
+    },
+    "203511": {
+        "text": "Medium/Long・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase and your stamina will slightly recover.",
+        "hash": "8ce990f82b87382615404245819eeca90e0094a93df8ff78d85005461fb8f607",
+        "processed": "<rbr><sc=86>Medium/Long・If you're not in the front<br>at a random point during the first half of<br>the Middle Leg, your speed will increase<br>and your stamina will slightly recover."
+    },
+    "203512": {
+        "text": "Medium/Long・If you're not in the front at a random point during the first half of the Middle Leg, your speed will slightly increase and your stamina will marginally recover.",
+        "hash": "c1ac14912831c1636d01916e4f9b60734b1253002ac70cec00f0800229ed1832",
+        "processed": "<rbr><sc=80>Medium/Long・If you're not in the front at<br>a random point during the first half of the<br>Middle Leg, your speed will slightly<br>increase and your stamina will marginally<br>recover."
+    },
+    "203522": {
+        "text": "Chaser・Medium・If you're not in the front at a random point during the first quarter of the Final Leg, your acceleration will slightly increase.",
+        "hash": "9280fcbc5a793e3382a30e6f038a5c00d8cd95a73dcd1d3ee328e1031f07eab1",
+        "processed": "<rbr><sc=94>Chaser・Medium・If you're not in the<br>front at a random point during the<br>first quarter of the Final Leg, your<br>acceleration will slightly increase."
+    },
+    "203532": {
+        "text": "Chaser・At a random point on a random uphill, your speed will slightly increase.",
+        "hash": "49112e56c570f43eb172d4eb7443e122073138b639502a49e8c0e5e8abd700b5",
+        "processed": "<rbr>Chaser・At a random point on a<br>random uphill, your speed will<br>slightly increase."
     },
     "210011": {
         "text": "During the Middle Leg, the higher the total speed of your team, the more your speed increases.",
@@ -4524,6 +4569,16 @@
         "hash": "6b0019edbfd42799ffbca879e1812aa7caee37098234bd91032382d36204a7b4",
         "processed": "<rbr>Medium/Long・During the Final<br>Straight, your speed will slightly<br>increase."
     },
+    "210351": {
+        "text": "At a random point during the first half of the Last Spurt, your speed will increase; the value scales with the number of your fans.",
+        "hash": "5b01f6a7c01a0417441c7bb1f74bf66fb1feded175884099eababaf23449a18f",
+        "processed": "<rbr>At a random point during the first<br>half of the Last Spurt, your speed<br>will increase; the value scales with<br>the number of your fans."
+    },
+    "210352": {
+        "text": "At a random point in the first half of Last Spurt, your speed will slightly increase.",
+        "hash": "32975bf09f1377b378c065a362b4e8bd818add53a0f81ca527daadef2ec6970a",
+        "processed": "<rbr>At a random point in the first half<br>of Last Spurt, your speed will<br>slightly increase."
+    },
     "300011": {
         "text": "The thirst for racing increases your Stamina stat by 40.",
         "hash": "551075e4280c633d137efe7a1c84766b8bed129e0efe96c23bc6c761bcea8d8a",
@@ -4698,6 +4753,36 @@
         "text": "Medium/Long・Your speed will greatly increase at a random point on a random corner.",
         "hash": "23acaa4d31ef32038a2b917a2bfa7f5f093108864f76eb8d044dcb05c0280bdc",
         "processed": "<rbr>Medium/Long・Your speed will<br>greatly increase at a random point<br>on a random corner."
+    },
+    "410011": {
+        "text": "At a random point during the Middle Leg, you will get a speed boost.",
+        "hash": "fc3ff263ef17cd6f58ca00b1ca3a86f124418a1388ba47ad6037b2d9271bef94",
+        "processed": "<rbr>At a random point during the<br>Middle Leg, you will get a speed<br>boost."
+    },
+    "410021": {
+        "text": "At a random point on a random straight, your speed will greatly increase.",
+        "hash": "55873699493b3175add212d8104d0328b716967b91bc2f86953c1a2a363ff184",
+        "processed": "<rbr>At a random point on a random<br>straight, your speed will greatly<br>increase."
+    },
+    "410031": {
+        "text": "At a random point in the Middle Leg, your speed will greatly increase.",
+        "hash": "3132fac02636c9e726b7a4f877a783306ab9a8dbacf7cde38449f865f8a6dfab",
+        "processed": "<rbr>At a random point in the Middle<br>Leg, your speed will greatly<br>increase."
+    },
+    "410041": {
+        "text": "Runner・At the start of the race, your acceleration will increase; then, at a random point during the first half of the Last Spurt, you will get a slight speed boost.",
+        "hash": "2953d834bf6a4e1fe454a1156f953e3169ee7607473b58e754772ce94e9d52c2",
+        "processed": "<rbr><sc=84>Runner・At the start of the race, your<br>acceleration will increase; then, at a ran-<br>dom point during the first half of the Last<br>Spurt, you will get a slight speed boost."
+    },
+    "410051": {
+        "text": "Leader/Betweener・If you're on the Final Corner in the Final Leg, you're not in the back of the pack, and there's at least 600 m remaining in the race, your acceleration will greatly increase; then, during the Final Straight, you will get a slight speed boost.",
+        "hash": "4e2d22b279c77f49116cfef6c6d0dc23b28ad3519d499913ee3b75d47674db8f",
+        "processed": "<rbr><sc=67>Leader/Betweener・If you're on the Final Corner in<br>the Final Leg, you're not in the back of the pack,<br>and there's at least 600 m remaining in the race,<br>your acceleration will greatly increase; then, during<br>the Final Straight, you will get a slight speed boost."
+    },
+    "410061": {
+        "text": "Chaser・If you're not in the front at a random point during the second half of the Middle Leg, your speed will increase; then, at a random point during the first half of the Last Spurt, you will get a slight speed boost.",
+        "hash": "1ba4dd8104e90a5baeeb5aab8d6b91bf13848da449b08fe6f4790fad1956b011",
+        "processed": "<rbr><sc=78>Chaser・If you're not in the front at a ran-<br>dom point during the second half of the<br>Middle Leg, your speed will increase; then,<br>at a random point during the first half of the<br>Last Spurt, you will get a slight speed boost."
     },
     "900011": {
         "text": "During the Final Leg or beyond, if you've overtaken someone in the first half of the pack, your acceleration will marginally increase and you will get a small speed boost.",
@@ -6349,6 +6434,11 @@
         "hash": "ef79d257c2ceef8695871b2edf98410a19b58320b346479a11e3ca0cdec94121",
         "processed": "<rbr>At a random point on a random<br>corner, your acceleration will<br>increase and your speed will<br>slightly increase."
     },
+    "102902221": {
+        "text": "Mile・At a random point during the Final Corner, your acceleration will increase; the effect lasts longer in Turf races.",
+        "hash": "f8ee2c64eb7d83174d6124441b2743369158702d5f635860dd016eea1f43ef64",
+        "processed": "<rbr>Mile・At a random point during<br>the Final Corner, your acceleration<br>will increase; the effect lasts<br>longer in Turf races."
+    },
     "103001111": {
         "text": "Leader・On downhills, your speed and acceleration will slightly increase.",
         "hash": "14844edbf58ee85c62a120752fb9889d47d696794f6f44a9358ae52cccb15b8f",
@@ -6888,6 +6978,11 @@
         "text": "Short/Mile・At a random point on a random downhill, your speed and acceleration will increase.",
         "hash": "e08b43a4357b0fc52343e7f85ce5adad25ad07e7b0e088d45ab929f6bd87a704",
         "processed": "<rbr>Short/Mile・At a random point on<br>a random downhill, your speed<br>and acceleration will increase."
+    },
+    "105102221": {
+        "text": "Mile・At a random point on a random downhill, your own speed will increase greatly and the speed of all your teammates will increase slightly.",
+        "hash": "2c566dc1cbef8e359abda2e47847868e1093bc3009e5aa18f1e1a6f4dfc6ebfb",
+        "processed": "<rbr><sc=93>Mile・At a random point on a random<br>downhill, your own speed will<br>increase greatly and the speed of all<br>your teammates will increase slightly."
     },
     "105201111": {
         "text": "During the Opening or Middle Leg, if you're being blocked from the front, your lane movement speed will increase and your stamina greatly recover.",
@@ -7778,6 +7873,21 @@
         "text": "Betweener・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, on any downhill during the second half of the race, your speed will slightly increase.",
         "hash": "6ab18ba93f1709551b838b541cca38a2bac096c2c8b8c0332bfeb4e55349882c",
         "processed": "<rbr><sc=80>Betweener・If you're not in the front at a<br>random point during the first half of the<br>Middle Leg, your speed will increase; then,<br>on any downhill during the second half of<br>the race, your speed will slightly increase."
+    },
+    "111501111": {
+        "text": "Chaser・Turf・During the Last Spurt in races of 2000 m or more, your acceleration will increase.",
+        "hash": "96cbc06ce083bde60adfd54d982107f4092e150d9e47cf7fe9d47864527afb99",
+        "processed": "<rbr>Chaser・Turf・During the Last<br>Spurt in races of 2000 m or more,<br>your acceleration will increase."
+    },
+    "111501211": {
+        "text": "Medium・If you're not in the front at a random point during the first half of the Middle Leg, your speed will increase; then, at a random point during the second half of the Middle Leg, you will get a speed boost.",
+        "hash": "2833db055430325fd67a83f924e9a1a439532f03a89ae03446d545505d4ea586",
+        "processed": "<rbr><sc=80>Medium・If you're not in the front at a ran-<br>dom point during the first half of the Mid-<br>dle Leg, your speed will increase; then, at a<br>random point during the second half of the<br>Middle Leg, you will get a speed boost."
+    },
+    "111501221": {
+        "text": "Medium/Long・If you're not in the front at a random point during the first half of the Middle Leg, your speed will greatly increase and your stamina will recover.",
+        "hash": "1ecbf54d740c94fd5d2cdfdc8a6b94cf08efc94df30c118b3d9ba5715abd6d84",
+        "processed": "<rbr><sc=86>Medium/Long・If you're not in the front<br>at a random point during the first half of<br>the Middle Leg, your speed will greatly<br>increase and your stamina will recover."
     },
     "111601111": {
         "text": "Leader・In races of at least 2000 m, at a random point during the first quarter of the Final Leg, your acceleration and lane movement speed will increase; if there's another girl right in front of you, the skill will trigger at the start of the Final Leg instead.",

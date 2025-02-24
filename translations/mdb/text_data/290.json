@@ -1623,6 +1623,18 @@
         "text": "Reach ≥800 Power",
         "hash": "9e45fc92c2e1150b54044b5888951716a7698412369ed983185d2313ee36b6ce"
     },
+    "10290206": {
+        "text": "Learn 2 Acceleration-increasing skills",
+        "hash": "321654404af3da3f18777e8999e2fe29d8036ec84fff3312590e7de36d23dda7"
+    },
+    "10290207": {
+        "text": "Learn 2 Mile skills",
+        "hash": "64caf8b2f05df8123b15d371e290c321261ac5f058249f4fefdafe45a7916ed6"
+    },
+    "10290208": {
+        "text": "Reach ≥800 Speed",
+        "hash": "767adbfa731400e3fab3eb5c42b5ad0aa3ed187ca8a9ce18c57f62f78f9cf02c"
+    },
     "10300101": {
         "text": "Reach ≥600 Guts",
         "hash": "4dbddf5913260e3863edbfdb6543b496131add3bd850cf8033cac1bfb7daa392"
@@ -2802,6 +2814,18 @@
     "10510208": {
         "text": "Learn 2 Mile skills",
         "hash": "64caf8b2f05df8123b15d371e290c321261ac5f058249f4fefdafe45a7916ed6"
+    },
+    "10510209": {
+        "text": "Go on an outing with your Umamusume",
+        "hash": "a77d13b745cd359eafbdc51c16737aaf1e990a180fa7c07e81588b32fb4bb498"
+    },
+    "10510210": {
+        "text": "Go on an outing with a friend or group card",
+        "hash": "698d18a91a71a5906af4292c875be3dc28455eea8cc3ded9d4449fc39f6c899d"
+    },
+    "10510211": {
+        "text": "Gain 150000 fans",
+        "hash": "c749f1c887fdd2c4eba3c2554047b1b54b1af565b172aef3bb2ba3510f913661"
     },
     "10520101": {
         "text": "Finish training with the Charming ○ condition",
@@ -4767,6 +4791,34 @@
         "text": "Reach ≥800 Wisdom",
         "hash": "eaaaceae87e8eca06d5ce135c277e5e9bc0ca63d90225134338a7002f4ef8701"
     },
+    "11150102": {
+        "text": "Reach ≥800 Speed",
+        "hash": "767adbfa731400e3fab3eb5c42b5ad0aa3ed187ca8a9ce18c57f62f78f9cf02c"
+    },
+    "11150103": {
+        "text": "Learn 2 Chaser skills",
+        "hash": "b485e674d3f9e19daa1dab5befa3e610a9ac67478a77a64b534f6765daa7b231"
+    },
+    "11150104": {
+        "text": "Learn 4 Medium Distance skills",
+        "hash": "ee0296f71e810764567c717b8020888df2ff051f91995c4e2c3154398cd3ad18"
+    },
+    "11150105": {
+        "text": "Learn 5 Speed-increasing skills",
+        "hash": "77ac147f58659675d0cd66ba942c0c34a2bfbdd0844fb01bf73071eeac94f5b4"
+    },
+    "11150107": {
+        "text": "Reach ≥600 Stamina",
+        "hash": "9dc4bb30600ccc199252690f7d8c0a1a1cb278e9bbf9d471f2cce4eb69269b7d"
+    },
+    "11150108": {
+        "text": "Finish training with the Sharp condition",
+        "hash": "3c05c882ea5ad0852e1a02f31e84068fbf505c257d430be85556963f516a389b"
+    },
+    "11150109": {
+        "text": "Reach ≥800 Power",
+        "hash": "9e45fc92c2e1150b54044b5888951716a7698412369ed983185d2313ee36b6ce"
+    },
     "11160102": {
         "text": "Finish training with the Sharp condition",
         "hash": "3c05c882ea5ad0852e1a02f31e84068fbf505c257d430be85556963f516a389b"
@@ -4890,5 +4942,17 @@
     "11240106": {
         "text": "Reach ≥600 Guts",
         "hash": "4dbddf5913260e3863edbfdb6543b496131add3bd850cf8033cac1bfb7daa392"
+    },
+    "41001101": {
+        "text": "Gain 150000 fans",
+        "hash": "c749f1c887fdd2c4eba3c2554047b1b54b1af565b172aef3bb2ba3510f913661"
+    },
+    "41002101": {
+        "text": "Gain 150000 fans",
+        "hash": "c749f1c887fdd2c4eba3c2554047b1b54b1af565b172aef3bb2ba3510f913661"
+    },
+    "41003101": {
+        "text": "Gain 150000 fans",
+        "hash": "c749f1c887fdd2c4eba3c2554047b1b54b1af565b172aef3bb2ba3510f913661"
     }
 }
