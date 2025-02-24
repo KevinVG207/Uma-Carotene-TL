@@ -475,6 +475,18 @@
         "text": "Buena Vista",
         "hash": "b3dc7ce61693c1d287bc97b7ed63f314e61ef63dfdfc393500f9d27765fe61d7"
     },
+    "10122": {
+        "text": "Almond Eye",
+        "hash": "91d6fd46ac0047a52683c9009c4a0294a507fb7314c15d3089904dd0c49bb537"
+    },
+    "10123": {
+        "text": "Lucky Lilac",
+        "hash": "661e30a541ddcddf3a10581e43ad94eedcfeed16b1c3c7a968ef09229bb50d4b"
+    },
+    "10124": {
+        "text": "Gran Alegria",
+        "hash": "f561acc6707f069e6218b18c7f5fcbdf4cf42f87fff070eaaadef4696d001512"
+    },
     "20001": {
         "text": "Fuji Kiseki",
         "hash": "57f03a3e2a42e7d977a88f93ec1208d8b997b8e35b19aca2aee0c38565f09bac"
@@ -814,6 +826,14 @@
     "20083": {
         "text": "Mejiro Ramonu",
         "hash": "60138f3f8877d0b95ba40e09eda2231de93ea3a01519ea733019eac3a4fb7dcb"
+    },
+    "20084": {
+        "text": "Lucky Lilac",
+        "hash": "661e30a541ddcddf3a10581e43ad94eedcfeed16b1c3c7a968ef09229bb50d4b"
+    },
+    "20085": {
+        "text": "Mejiro McQueen",
+        "hash": "0a3d4649ff00826fa24e9ab397a672efa84c379131564a07f9cea4565b009fc2"
     },
     "30001": {
         "text": "Special Week",
@@ -1771,5 +1791,18 @@
     "30240": {
         "text": "Jungle Pocket",
         "hash": "b94ce1da2e5fcbf4726f2f0ab02e74a5b13349e532aa008b0afb3f6b5bc3233c"
+    },
+    "30241": {
+        "text": "Embodiment of Legends",
+        "hash": "52e911dc31a33c22daad8211685f2b68dca1a45159ee8628f69d5ba90ab77f2d",
+        "processed": "<sc=74>Embodiment of Legends"
+    },
+    "30242": {
+        "text": "Almond Eye",
+        "hash": "91d6fd46ac0047a52683c9009c4a0294a507fb7314c15d3089904dd0c49bb537"
+    },
+    "30243": {
+        "text": "Gran Alegria",
+        "hash": "f561acc6707f069e6218b18c7f5fcbdf4cf42f87fff070eaaadef4696d001512"
     }
 }

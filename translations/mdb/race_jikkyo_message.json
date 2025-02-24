@@ -8358,5 +8358,329 @@
     "6688": {
         "text": "It's coming down to the final straight!",
         "hash": "d8cd8c0338d89c14f90062b4f147399688b9462c9ecf2116d9688c9267bcbdb2"
+    },
+    "9080": {
+        "text": "Today's star and favorite is none other than %a_h_pop1!",
+        "hash": "447d841a57f832ee2e5625b68d9e333f6c2d5974e930d4ba76f24caae23ff606"
+    },
+    "9081": {
+        "text": "The favorite, %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "1bd45ed6cb149e5acaa78cd89976dc48b4545578d36c4a55e54c26659335e80c"
+    },
+    "9082": {
+        "text": "Today's star and favorite is none other than %a_h_pop1!",
+        "hash": "7d9bea46f11ece01b06656f309625c6fd31bf5ae6431f2cc7e5bf56027d40802"
+    },
+    "9083": {
+        "text": "Today's favorite, %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "8ed9dabb8c9fa5b2835203606e687bd0e1c2c4b5a2d88ca6765433155f2bccd7"
+    },
+    "9084": {
+        "text": "Today's star and favorite is none other than %a_h_pop1!",
+        "hash": "3c168c6150fff9dbb96634dde4c95fcab76896a2e4ceb3e71472c77490742141"
+    },
+    "9085": {
+        "text": "Today's star and favorite is none other than Triple Crown winner %a_h_pop1.",
+        "hash": "b718a4fc86db7660639c44020909f1c77ed2cd6a6ec49f1c5c92f5fd1bf362df"
+    },
+    "9086": {
+        "text": "The favorite, Triple Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "643dc33f087a6defb7ebca9312d8217791ebb9c997c2119e966541f87b76e723"
+    },
+    "9087": {
+        "text": "Today's star and favorite is none other than undefeated Triple Crown winner %a_h_pop1.",
+        "hash": "65435550cf6f2d7e928a4ce948294e29a419c6d8f5f001d3cf890ae35d721f15"
+    },
+    "9088": {
+        "text": "The favorite, undefeated Triple Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "ba811de46bd341322e6c65e4e9ad3de9bfc74dc77c428e2670084b165b568cf3"
+    },
+    "9089": {
+        "text": "Today's star and favorite is none other than Autumn Triple Crown winner %a_h_pop1.",
+        "hash": "ca1a7d293c78d4ebfb8d5cdd9936565a42641880253f4082edf5daea4960a9c9"
+    },
+    "9090": {
+        "text": "The favorite, Autumn Triple Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "7b61aff6ac0c861f55644b4d306740eda2f7785cb8db90bbf3adc6eb9e8702f5"
+    },
+    "9091": {
+        "text": "Today's star and favorite is none other than undefeated Autumn Triple Crown winner %a_h_pop1.",
+        "hash": "88e0d5488d936ba502874c4a4bec80083bf718980cc3477a54938f8a3f2d0b25"
+    },
+    "9092": {
+        "text": "The favorite, undefeated Autumn Triple Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "2a7f14029d2a1cd9c390e049816cf37a29112b2b28979c864d65ddfcb37c23b9"
+    },
+    "9093": {
+        "text": "Today's star and favorite is none other than Triple Tiara winner %a_h_pop1.",
+        "hash": "8ef63a1505381dc6885ceac5d30031f0b4ab5df3acc83afa388cd1adb875dd3d"
+    },
+    "9094": {
+        "text": "The favorite, Triple Tiara winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "2f4df70dbbc2878dfb08caa5f0ef36b5baa82f41b40298d86918d42f035be28a"
+    },
+    "9095": {
+        "text": "Today's star and favorite is none other than undefeated Triple Tiara winner %a_h_pop1.",
+        "hash": "5756de9227d981e97298ea012ba544b44a361034d53e78b61b850874b06b3a67"
+    },
+    "9096": {
+        "text": "The favorite, undefeated Triple Tiara winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "483e04f0ebcbf50a902faf879098a3d99a21c0bf83fae548727ccbb715268053"
+    },
+    "9097": {
+        "text": "Today's star and favorite is none other than Spring Triple Crown winner %a_h_pop1.",
+        "hash": "af2adae14f29166f8a23414c5a6097854d5e3b6da30003d9b01c1975c8525712"
+    },
+    "9098": {
+        "text": "The favorite, Spring Triple Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "ef25ea5c0eb0112a4668374b5f9ceecbfef44400cba94cf26f31f41c27aa7d76"
+    },
+    "9099": {
+        "text": "Today's star and favorite is none other than undefeated Spring Triple Crown winner %a_h_pop1.",
+        "hash": "7ff6c525c878c72b290bd9aa6e3ea05298bfd7947f08d6b28721cad78ab95d24"
+    },
+    "9100": {
+        "text": "The favorite, undefeated Spring Triple Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "83ef47dc5619b25b019c1125f7e0a347b2d3f4733ef9f6775a64e97769486eb6"
+    },
+    "9101": {
+        "text": "Today's star and favorite is none other than Double Crown winner %a_h_pop1.",
+        "hash": "2135f6a3d69e48cb7fbd94c5a26ec489d843622ecaa97ad22049f6147d4d267b"
+    },
+    "9102": {
+        "text": "The favorite, Double Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "8fe61504d6c6180e75775269d3a828efd42d279349fcac8ae72b6ff6e4516e18"
+    },
+    "9103": {
+        "text": "Today's star and favorite is none other than undefeated Double Crown winner %a_h_pop1.",
+        "hash": "8cebefcf14a90485e1b59554667fcf9c7ecfc83f484ccf33a289a58a1d465326"
+    },
+    "9104": {
+        "text": "The favorite, undefeated Double Crown winner %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "c438c957b6eac2b79449f43ef5de2f75fbc859ecbfc22129842b503f3032ee79"
+    },
+    "9105": {
+        "text": "Today's star and favorite is none other than 2 Major Mile champion %a_h_pop1.",
+        "hash": "6e3f6cf7eb3871a8b0bf180bfdf32af0a965f641dd88f6997bb8c74047138416"
+    },
+    "9106": {
+        "text": "The favorite, 2 Major Mile champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "0d86553aadd0d86281a88a7062404048b846805d3ce983274ec6b82f98e24ae1"
+    },
+    "9107": {
+        "text": "Today's star and favorite is none other than undefeated 2 Major Mile champion %a_h_pop1.",
+        "hash": "14f54e281ff0d8911dea6d595b31f568c074e76b26fff29d362d70526218073f"
+    },
+    "9108": {
+        "text": "The favorite, undefeated 2 Major Mile champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "62012aeeb71a55a80c4b080920076188f66c3e4578f03838fa08248a931c913e"
+    },
+    "9109": {
+        "text": "Today's star and favorite is none other than 2 Major Sprint champion %a_h_pop1.",
+        "hash": "116c9a5bbf380a31322a944371cd308722366d185004d41894f445ffb5bc97a6"
+    },
+    "9110": {
+        "text": "The favorite, 2 Major Sprint champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "c80a2a6f4bcc353fbbfeb75292264da5699ff76a94cca66a88f9166b4e8996c0"
+    },
+    "9111": {
+        "text": "Today's star and favorite is none other than undefeated 2 Major Sprint champion %a_h_pop1.",
+        "hash": "890b96208d7580ce97b72d577ab7b0470009156749593e056cce6f8d97b33831"
+    },
+    "9112": {
+        "text": "The favorite, undefeated 2 Major Sprint champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "b4747d28fcec85622dd03a30728adcce710bc3ee93b1ee39eee41f833ebf282b"
+    },
+    "9113": {
+        "text": "Today's star and favorite is none other than 2 Major Dirt champion %a_h_pop1.",
+        "hash": "6c4fbbde65282818ce1959337d71320d1d21c8abb77c94939d8448505274a9b1"
+    },
+    "9114": {
+        "text": "The favorite, 2 Major Dirt champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "b40135e789dd2f79c87d0158152e94cd0c3334be8bb79f3ff4791f905af0c80a"
+    },
+    "9115": {
+        "text": "Today's star and favorite is none other than undefeated 2 Major Dirt champion %a_h_pop1.",
+        "hash": "3fa39c62f66610ea9a99be35cab6356c3ea0cefeb0b95ff566496a8a4a2e2672"
+    },
+    "9116": {
+        "text": "The favorite, undefeated 2 Major Dirt champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "8642002955ca01c9e52a241db006e19cf052d70d16c1a9a294d5d28539defe8f"
+    },
+    "9117": {
+        "text": "Today's star and favorite is none other than Grand Prix champion %a_h_pop1.",
+        "hash": "74e3f997d311eeda978058a0e8d832e7c6ba2ab9f876d7b469d6db5c4c116bc0"
+    },
+    "9118": {
+        "text": "The favorite, Grand Prix champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "cdf1ae7763a293fadcbda5779b2054c60934f0798f2220e506e9eb6de2b589c7"
+    },
+    "9119": {
+        "text": "Today's star and favorite is none other than undefeated Grand Prix champion %a_h_pop1.",
+        "hash": "f2f183d5f371a4d97308dedfea584c8e5a90e9c893303b85617be4d78803e0d3"
+    },
+    "9120": {
+        "text": "The favorite, undefeated Grand Prix champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "5c31b32794d87256f5262e4afbb052526a52d675243cfae00ff7c3232ef6c3f8"
+    },
+    "9121": {
+        "text": "Today's star and favorite is none other than Derby champion %a_h_pop1.",
+        "hash": "9e777e88463a3589d92b51ae11885cd2fcc59f13817add6ffdbd7bbd612bf0d2"
+    },
+    "9122": {
+        "text": "The favorite, Derby champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "790ae2944976b23a69e52846e33151a7b644e329a1ddb74c5388b285be7f20d8"
+    },
+    "9123": {
+        "text": "Today's star and favorite is none other than undefeated Derby champion %a_h_pop1.",
+        "hash": "972f0cbd8fccce3916ae858f17ef60cb98c8773e2a54c5e1a52642982edbf1c9"
+    },
+    "9124": {
+        "text": "The favorite, undefeated Derby champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "f5980d2712b3caa2991f029666290652e4d3037dc8af7b23801052f2b44bb281"
+    },
+    "9125": {
+        "text": "Today's star and favorite is none other than Tenno Sho champion %a_h_pop1.",
+        "hash": "7edaf9c6bc813464b0bee011466e60c757c47e7f309f2e4b2831f47cf918e877"
+    },
+    "9126": {
+        "text": "The favorite, Tenno Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "b74d2be5fb835bad62a796703b92ea9a57637525c86f2fe2a8c10eff082b689b"
+    },
+    "9127": {
+        "text": "Today's star and favorite is none other than undefeated Tenno Sho champion %a_h_pop1.",
+        "hash": "c675e30376a6a6bf0c75cdda9c4fc48452a64dcc5a5be1a0e9bb4c080a85b479"
+    },
+    "9128": {
+        "text": "The favorite, undefeated Tenno Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "f4e238dde934f3d1ba09378b1d6d91244ffe68499a91ecbe7469d18c83add67f"
+    },
+    "9129": {
+        "text": "Today's star and favorite is none other than Satsuki Sho champion %a_h_pop1.",
+        "hash": "7d56eb6d3233ae75823d0f89fa4d28f06ff3cf44a9296634262c901034302f4c"
+    },
+    "9130": {
+        "text": "The favorite, Satsuki Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "8975a9fe626b17bdfbc0c558c69c14e602724792525f5fa6ef16c0d3bc48abdb"
+    },
+    "9131": {
+        "text": "Today's star and favorite is none other than undefeated Satsuki Sho champion %a_h_pop1.",
+        "hash": "be058b27666879cbf93ce755063b8355a5ac5c665b7f3c385b84ceeeb972c8a7"
+    },
+    "9132": {
+        "text": "The favorite, undefeated Satsuki Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "76c213d59305106ff2208f57e4adce6455ff04361e3d39b0db5e2b54268b6fdc"
+    },
+    "9133": {
+        "text": "Today's star and favorite is none other than Kikka Sho champion %a_h_pop1.",
+        "hash": "8f8247c8ddce8e3ee1391e1b2dc08c6402fd8d1827c17bd522246972d10f4e9b"
+    },
+    "9134": {
+        "text": "The favorite, Kikka Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "08dae381fa48a51699168656b2f4f416ba0dae897aeea308c27a449b96c29f77"
+    },
+    "9135": {
+        "text": "Today's star and favorite is none other than undefeated Kikka Sho champion %a_h_pop1.",
+        "hash": "0272699d04140e5229c64c865c5b5c44504d50c11acd116a8f105daa08883127"
+    },
+    "9136": {
+        "text": "The favorite, undefeated Kikka Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "1e05c43dca3e9a151de62ab2dab67c94026a6a20f6482bac78da1b8e0840d7a4"
+    },
+    "9137": {
+        "text": "Today's star and favorite is none other than Oaks champion %a_h_pop1.",
+        "hash": "2b64d8b222e52bb5bdf3843e84eddac6cfb1cf37539f28da021da9975f4a3ddc"
+    },
+    "9138": {
+        "text": "The favorite, Oaks champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "bd1f754133c49a8005f7c442bef492441a7f000235ac325380664fa9f12f6331"
+    },
+    "9139": {
+        "text": "Today's star and favorite is none other than undefeated Oaks champion %a_h_pop1.",
+        "hash": "365ea44506840ff6915a276f18639c42f6f2e930c57032d20459de8082bae544"
+    },
+    "9140": {
+        "text": "The favorite, undefeated Oaks champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "56ee2cff7823171de3cb948895d4bbddf5c42cc9c3ba103a416c6582804f98eb"
+    },
+    "9141": {
+        "text": "Today's star and favorite is none other than Oka Sho champion %a_h_pop1.",
+        "hash": "5b65c79ead04783ff0644dff4fae42189760fd77c845c47abd1c305fa1c08c06"
+    },
+    "9142": {
+        "text": "The favorite, Oka Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "f64cb3eca7b1b994394af545e64a008c7f81e719e85964d92ffee3918fd71713"
+    },
+    "9143": {
+        "text": "Today's star and favorite is none other than undefeated Oka Sho champion %a_h_pop1.",
+        "hash": "362c15aae7bd3ba6e8e62739d5d46b15676b7f53b0c32222a3252907b8a62caa"
+    },
+    "9144": {
+        "text": "The favorite, undefeated Oka Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "f178865e1163f3954746196fd84f3b7e3dac0390b52a0a35a41a12f86f46e13e"
+    },
+    "9145": {
+        "text": "Today's star and favorite is none other than Shuka Sho champion %a_h_pop1.",
+        "hash": "17a99270f88bdcca47088df2f3762a25a0bac1da9218701284b3ceaa05de46fe"
+    },
+    "9146": {
+        "text": "The favorite, Shuka Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "a7f3cf2624b971fd1856788d4ef44b66556a0e154c87f283ecca9afb887b1711"
+    },
+    "9147": {
+        "text": "Today's star and favorite is none other than undefeated Shuka Sho champion %a_h_pop1.",
+        "hash": "6472c7086478191257f5e2493472c6166e53b5bab273a1564bd0b983c61fc725"
+    },
+    "9148": {
+        "text": "The favorite, undefeated Shuka Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "9342d376d8b1070bc2cda7ff53fcf7cac54f3d49b9c2a335ad3298b7a3c681d7"
+    },
+    "9149": {
+        "text": "Today's star and favorite is none other than Junior champion %a_h_pop1.",
+        "hash": "4b8e62f27690ff9c2c4bfcef7e1d6f3b29515f60dc16ba1b541a38c508dec142"
+    },
+    "9150": {
+        "text": "The favorite, Junior champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "4fddcae4cd099fa564b58266c0f02021e86ec1bdf496afae6e1d1154e634b8d1"
+    },
+    "9151": {
+        "text": "Today's star and favorite is none other than undefeated Junior champion %a_h_pop1.",
+        "hash": "3248e5d73b320087ab459f72ff90902c16c498131734f9530b7665d0ec11df8d"
+    },
+    "9152": {
+        "text": "The favorite, undefeated Junior champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "e24a4e2d0e8e679fd9374aa0d95884addbe9ff8c222c4dd4089df80cd998c2ea"
+    },
+    "9153": {
+        "text": "Today's star and favorite is none other than Spring Tenno Sho champion %a_h_pop1.",
+        "hash": "dc32468cfab6374a79531d974bea7ed1a890bdc965d91f5784bb9e6bd570a7aa"
+    },
+    "9154": {
+        "text": "The favorite, Spring Tenno Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "9bd264165c0c5f4ece66cfc7c09e2db3b9f0039559890a79a728e82ba6b4b521"
+    },
+    "9155": {
+        "text": "Today's star and favorite is none other than undefeated Spring Tenno Sho champion %a_h_pop1.",
+        "hash": "4554f6e6a7d95d8adfe7ee5a42341646897caaf3ba6ee85c3dcbb7d76dfd4755"
+    },
+    "9156": {
+        "text": "The favorite, undefeated Spring Tenno Sho champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "5852d713642d15469cfa7bd447aa9bd7356c5d759114f6a626f0f691c0f41d28"
+    },
+    "9157": {
+        "text": "Today's star and favorite is none other than last year's champion %a_h_pop1.",
+        "hash": "789f4334c61639b512f45304dc72353386478be566befe2205a7c6dc1a11c6cc"
+    },
+    "9158": {
+        "text": "The favorite, last year's champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "8a60ed906abc2bb67aaddca75a3c0b1381bc1d7ac2b2467f4080a66f77cb7b14"
+    },
+    "9159": {
+        "text": "Today's star and favorite is none other than last year's undefeated champion %a_h_pop1.",
+        "hash": "26de977c59c7c5dfe6d2275b45fcee687abb03e7c214dd0d7705e28d0bd4ab20"
+    },
+    "9160": {
+        "text": "The favorite, last year's undefeated champion %a_h_pop1 is diligently waiting for the start of the race!",
+        "hash": "1bbce19a14001fe788c9e4cebb10f03b392f45950bec39464651945ae7f5c5b6"
     }
 }
