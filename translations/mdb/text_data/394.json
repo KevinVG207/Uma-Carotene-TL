@@ -1,0 +1,126 @@
+{
+    "3": {
+        "text": "Fans <color=#FF6D26>+{0}</color>",
+        "hash": "f931f4ab3a10827d0e6d2a68ffc78c0e2017c6948ce5d498d9afcac56038c53e"
+    },
+    "4": {
+        "text": "{0} bond gauge <color=#FF6D26>+{1}</color>",
+        "hash": "4533682c465f6bfc8b5b4fd3e093a90f79428e7161e857fac81dd071838e2c24"
+    },
+    "5": {
+        "text": "{0} bond gauge <color=#FF6D26>+{1}</color>\\\\nSupport cards not in deck will not get bond.",
+        "hash": "8cf613050ccda879eb52a422db363c69b6b466843b25ea61e5f78d47e383be2e"
+    },
+    "6": {
+        "text": "Hint Lv <color=#FF6D26>+{0}</color>",
+        "hash": "090ed459d3cd83985e098c8750b76db3f53d2be8de478654d568019c016d814b"
+    },
+    "7": {
+        "text": " <color=#FF6D26>obtained</color>.",
+        "hash": "371b98b4976b36b285534b3b411040ecd1d791e347aa9ef05c03d5abb6424942"
+    },
+    "8": {
+        "text": "<color=#FF6D26>Obtain</color> a random skill by chance.",
+        "hash": "79aa5033ec73f3440a65ff4eebe70c61d549ca5c8140086d4aec20dfdbe17263"
+    },
+    "9": {
+        "text": "Receive {0}.",
+        "hash": "434d0cb19f8fb1b0c37dd15f2e7cd9e9d16d94768f94bdfead4227842fd95275"
+    },
+    "10": {
+        "text": "<color=#FF6D26>Recover from</color> {0}.",
+        "hash": "17e85a8d80f75b85649ae2f11af489d63ab9ec3c1eb8b2be6b2245e7ca3f62a5"
+    },
+    "11": {
+        "text": "<color=#FF6D26>Unlock outings</color> with {0}.",
+        "hash": "654753ec0e522dae061abb3c7cb4e026617929a9827efb81c9210d47874c207b"
+    },
+    "12": {
+        "text": "End chain event.",
+        "hash": "9304766c10bfa935870b38facd66cd1c56c76ed12d5a45273e521ecc79e8f926"
+    },
+    "13": {
+        "text": "All parameters <color=#FF6D26>+{0}</color>",
+        "hash": "c0d7addb2fe43acba4c283637c70e37cee7c05f4a213de12ca88be209c17542e"
+    },
+    "14": {
+        "text": "{0} random parameters <color=#FF6D26>+{1}</color>",
+        "hash": "d5edddfd8cbac267050be76d330b7b616ec8af1acf5f9d5defb754908214d5a6"
+    },
+    "15": {
+        "text": "<color=#FF6D26>Recover from all bad conditions.</color>",
+        "hash": "a65ed9cb37ab2bf504eb057151944e21cf755d55787f9fa0eaf602a1d6f8660e"
+    },
+    "16": {
+        "text": "<color=#FF6D26>Recover from {0} random bad conditions.</color>",
+        "hash": "368ae60f646220909e1a383740e022a00b3b7e629c2ae8f5dd4faed8de75a866"
+    },
+    "19": {
+        "text": "Last trained stat <color=#FF6D26>+{0}</color>",
+        "hash": "155eb92ceb52d7c901a9392ef0df5d6c925d9c629c082ac97acad15fe124801f"
+    },
+    "20": {
+        "text": "Last trained stat <color=#2E85E6>-{0}</color>",
+        "hash": "1c7e32d9932fbff4018835d56c4c5fc2ba7a3c01f92068d1d857105495d0a523"
+    },
+    "21": {
+        "text": "<color=#FF6D26>Gain</color> parameters based on race grade.",
+        "hash": "22b5f230b3fa64c620796bfc64ed258654bc69a60707d40d864195f1915206d8"
+    },
+    "22": {
+        "text": "<color=#FF6D26>Gain</color> parameters based on race grade and finish rank.",
+        "hash": "6b727aae9cbf1f767a69db36e681d7edd840153a017b09a390d7fb6af3c30650"
+    },
+    "24": {
+        "text": "<color=#FF6D26>Obtain</color>a random {0} fragment.",
+        "hash": "ee8264f367be40c175893ec4870dbf8bcac6322e6a05e94af57b0fab91f9cd21"
+    },
+    "25": {
+        "text": "<atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_00/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_01/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_02/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_03/> <atlas=SingleModeScenarioCook sprite=utx_ico_vegetables_04/> All vegetables <color=#FF6D26>+{0}</color>",
+        "hash": "945fd461c6ea7df337c509d9d644da6eb0168ee6eade21cdcf36ae757f46e7a1"
+    },
+    "26": {
+        "text": "<atlas=SingleModeScenarioSport sprite=utx_ico_genre_training_success_02/> <atlas=SingleModeScenarioSport sprite=utx_ico_genre_training_success_03/> <atlas=SingleModeScenarioSport sprite=utx_ico_genre_training_success_01/> All Sports Lv <color=#FF6D26>+{0}</color>",
+        "hash": "584d38381bb26f256994fb3161464f3599214912761d2633bdf0299915f25cce"
+    },
+    "28": {
+        "text": "{0} low bond gauge(s) <color=#FF6D26>+{1}</color>",
+        "hash": "925905ecf256ad005f2d14890498e9ad44cfdff64a0786b063d091d94e0492d1"
+    },
+    "30": {
+        "text": "Lowest bond gauge <color=#FF6D26>+{0}</color>",
+        "hash": "627adcb0cc221b78f98fa2482dfdfbe2abb9bf7720e620eced1e08c3a575ae3c"
+    },
+    "34": {
+        "text": "{0} random parameters <color=#2E85E6>-{1}</color>",
+        "hash": "49dcae81f7734a452389539f735dcb9db417450512d76ab6a7e3863b8eed2ad3"
+    },
+    "35": {
+        "text": "{0} bond gauge <color=#2E85E6>-{1}</color>",
+        "hash": "4d260718924d487430eb835da6a0706aa854dcad2d003a228c05d68caa230f17"
+    },
+    "36": {
+        "text": "{0} bond gauge <color=#2E85E6>-{1}</color>\\\\nSupport cards not in deck will not lose bond.",
+        "hash": "f7094ae89064d5d81417b1782eb44e3be188beffe869641677d4382a43d14202"
+    },
+    "37": {
+        "text": "Receive {0}.",
+        "hash": "434d0cb19f8fb1b0c37dd15f2e7cd9e9d16d94768f94bdfead4227842fd95275"
+    },
+    "38": {
+        "text": "{0} <color=#2E85E6>-{1}</color>\\\\n{0} will not decrease due to {2}",
+        "hash": "515c9c62a66b944025c677acbde4476450b8444df4f0cc46c020a35830386568"
+    },
+    "39": {
+        "text": "{0} <color=#FF6D26>+{1}</color>\\\\n{0} will not increase due to {2}",
+        "hash": "783a16c13f4bab69eb8a6588426d840ab9bd79e3fd55679c94107ab981b6a902"
+    },
+    "40": {
+        "text": "Receive {0}.\\\\nWill not receive {0} due to {1].",
+        "hash": "772f0256ec44cc938762e756088e702ba8d6182d41293eaa44dc7d2d585a5e3c"
+    },
+    "44": {
+        "text": "Bond gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\\\\nFriend and group types excluded.",
+        "hash": "e0521461df9fdb4df485c625e0cf46e6f73337f713538ef88662a0b823205df5"
+    }
+}
