@@ -40,11 +40,11 @@
         "hash": "9304766c10bfa935870b38facd66cd1c56c76ed12d5a45273e521ecc79e8f926"
     },
     "13": {
-        "text": "All parameters <color=#FF6D26>+{0}</color>",
+        "text": "All stats <color=#FF6D26>+{0}</color>",
         "hash": "c0d7addb2fe43acba4c283637c70e37cee7c05f4a213de12ca88be209c17542e"
     },
     "14": {
-        "text": "{0} random parameters <color=#FF6D26>+{1}</color>",
+        "text": "{0} random stats <color=#FF6D26>+{1}</color>",
         "hash": "d5edddfd8cbac267050be76d330b7b616ec8af1acf5f9d5defb754908214d5a6"
     },
     "15": {
@@ -64,11 +64,11 @@
         "hash": "1c7e32d9932fbff4018835d56c4c5fc2ba7a3c01f92068d1d857105495d0a523"
     },
     "21": {
-        "text": "<color=#FF6D26>Gain</color> parameters based on race grade.",
+        "text": "<color=#FF6D26>Gain</color> stats based on race grade.",
         "hash": "22b5f230b3fa64c620796bfc64ed258654bc69a60707d40d864195f1915206d8"
     },
     "22": {
-        "text": "<color=#FF6D26>Gain</color> parameters based on race grade and finish rank.",
+        "text": "<color=#FF6D26>Gain</color> stats based on race grade and finish rank.",
         "hash": "6b727aae9cbf1f767a69db36e681d7edd840153a017b09a390d7fb6af3c30650"
     },
     "24": {
@@ -92,7 +92,7 @@
         "hash": "627adcb0cc221b78f98fa2482dfdfbe2abb9bf7720e620eced1e08c3a575ae3c"
     },
     "34": {
-        "text": "{0} random parameters <color=#2E85E6>-{1}</color>",
+        "text": "{0} random stats <color=#2E85E6>-{1}</color>",
         "hash": "49dcae81f7734a452389539f735dcb9db417450512d76ab6a7e3863b8eed2ad3"
     },
     "35": {

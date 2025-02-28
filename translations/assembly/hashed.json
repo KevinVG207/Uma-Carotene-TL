@@ -14,5 +14,21 @@
     {
         "text": "Are you sure?",
         "hash": "76b1b61af2756959c38268af2dc0fd428b6d6af455d5c64be762b5933b261d24"
+    },
+    {
+        "text": "Choose an autoplay strategy.",
+        "hash": "0ed14895ed27dbbdd63b9b59ed6f348d5d25acb6bc85d9510119ac7b354cff71"
+    },
+    {
+        "text": "This setting allows you to use an alarm clocks \nto retry a race.",
+        "hash": "8c9257eeb8ebed9341f416dbee46879dc2a486768d659eaaa6788ef1c2ca4561"
+    },
+    {
+        "text": "If retry is not available or you don't have enough \nalarm clocks, the race will not be reattempted.",
+        "hash": "053225fb2222e462adbbd9fba2f71eaf82516b74f9f9f1e6af1ed60b10e47298"
+    },
+    {
+        "text": "Stop",
+        "hash": "eda58109839758d7b9689d3af48ba26121cc0fea5b0f3cc3240a5f76c1606f91"
     }
 ]
